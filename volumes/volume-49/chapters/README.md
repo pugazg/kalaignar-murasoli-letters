@@ -15,11 +15,11 @@
 | [3774](3774-hindikku-ulla-urimai-tamilukku-vendaamaa.md) | இந்திக்கு உள்ள உரிமை; தமிழுக்கு வேண்டாமா? | 15-7-2013 | 93 | complete (first-pass-reviewed) |
 | [3775](3775-perunthalaivar-kamarajar-pugazh-vaazhga.md) | பெருந்தலைவர் காமராஜர் புகழ் வாழ்க! | 16-07-2013 | 100 | complete (first-pass-reviewed) |
 | [3776](3776-thoyvindri-thodarum-namathu-payanam.md) | தொய்வின்றி தொடரும் நமது பயணம்! | 18-07-2013 | 106 | complete (first-pass-reviewed) |
-| 3777 | ஒய்யாரக் கொண்டையாம் தாழம்பூவாம்!! | 19-7-2013 | 113 | pending |
-| 3778 | கச்சத் தீவும், “கச்சடா” கேள்வியும்! | 20-7-2013 | 119 | pending |
-| 3779 | ஆபத்தின் உச்சக்கட்டம்; அன்னிய நேரடி முதலீடு! | 21-7-2013 | 126 | pending |
-| 3780 | நுழைவுத் தேர்வு தீர்ப்பு - தேவையா எதிர்ப்பு? | 23-07-2013 | 131 | pending |
-| 3781 | காழ்ப்புணர்வோ, ஆதங்கமோ எனக்கு அல்ல! | 24-7-2013 | 138 | pending |
+| [3777](3777-oyyaarak-kondaiyaam-thaazhampoovaam.md) | ஒய்யாரக் கொண்டையாம் தாழம்பூவாம்!! | 19-7-2013 | 113 | complete (first-pass-reviewed) |
+| [3778](3778-kachchat-theevum-kachchadaa-kelviyum.md) | கச்சத் தீவும், “கச்சடா” கேள்வியும்! | 20-7-2013 | 119 | complete (first-pass-reviewed) |
+| [3779](3779-aabaththin-uchchakkattam-anniyaneradi-muthaleedu.md) | ஆபத்தின் உச்சக்கட்டம்; அன்னிய நேரடி முதலீடு! | 21-7-2013 | 126 | complete (first-pass-reviewed) |
+| [3780](3780-nuzhaivuth-thervu-theerppu-thevaiyaa-ethirppu.md) | நுழைவுத் தேர்வு தீர்ப்பு - தேவையா எதிர்ப்பு? | 23-07-2013 | 131 | complete (first-pass-reviewed) |
+| [3781](3781-kaazhppunarvo-aathangamo-enakku-alla.md) | காழ்ப்புணர்வோ, ஆதங்கமோ எனக்கு அல்ல! | 24-7-2013 | 138 | complete (first-pass-reviewed) |
 | 3782 | எத்தனை காலம்தான் ஏமாற்றுவார் இந்த நாட்டிலே! | 26-7-2013 | 148 | pending |
 | 3783 | வெற்றி முகட்டை நோக்கி நமது முயற்சிகள்! | 27-7-2013 | 155 | pending |
 | 3784 | இந்தியாவுக்கே இவர்தான் முன்னோடியாம்! | 29-7-2013 | 161 | pending |
