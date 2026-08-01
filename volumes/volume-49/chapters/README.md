@@ -10,11 +10,11 @@
 | [3769](3769-kazhagam-aatrum-arappanigalil-sila.md) | கழகம் ஆற்றும் அறப்பணிகளில் சில! | 28-06-2013 | 56 | complete (first-pass-reviewed) |
 | [3770](3770-vaalaruntha-palli-pol-aavathaa.md) | வாலறுந்த பல்லி போல் ஆவதா? | 30-6-2016 | 63 | complete (first-pass-reviewed) |
 | [3771](3771-nilakkari-naayagi-endra-pattam-peravaa.md) | “நிலக்கரி நாயகி” என்ற பட்டம் பெறவா? | 2-7-2013 | 69 | complete (first-pass-reviewed) |
-| 3772 | மாநிலங்களவைத் தேர்தல் - ஓர் ஆய்வு! | 3-7-2013 | 76 | pending |
-| 3773 | அனைத்து சாதியினரும் அர்ச்சகராகக் குரல் கொடுப்போம்! | 14-7-2013 | 86 | pending |
-| 3774 | இந்திக்கு உள்ள உரிமை; தமிழுக்கு வேண்டாமா? | 15-7-2013 | 93 | pending |
-| 3775 | பெருந்தலைவர் காமராஜர் புகழ் வாழ்க! | 16-07-2013 | 100 | pending |
-| 3776 | தொய்வின்றி தொடரும் நமது பயணம்! | 18-07-2013 | 106 | pending |
+| [3772](3772-maanilangalavai-therthal-or-aayvu.md) | மாநிலங்களவைத் தேர்தல் - ஓர் ஆய்வு! | 3-7-2013 | 76 | complete (first-pass-reviewed) |
+| [3773](3773-anaiththu-saathiyinarum-archagaraga-kural-koduppom.md) | அனைத்து சாதியினரும் அர்ச்சகராகக் குரல் கொடுப்போம்! | 14-7-2013 | 86 | complete (first-pass-reviewed) |
+| [3774](3774-hindikku-ulla-urimai-tamilukku-vendaamaa.md) | இந்திக்கு உள்ள உரிமை; தமிழுக்கு வேண்டாமா? | 15-7-2013 | 93 | complete (first-pass-reviewed) |
+| [3775](3775-perunthalaivar-kamarajar-pugazh-vaazhga.md) | பெருந்தலைவர் காமராஜர் புகழ் வாழ்க! | 16-07-2013 | 100 | complete (first-pass-reviewed) |
+| [3776](3776-thoyvindri-thodarum-namathu-payanam.md) | தொய்வின்றி தொடரும் நமது பயணம்! | 18-07-2013 | 106 | complete (first-pass-reviewed) |
 | 3777 | ஒய்யாரக் கொண்டையாம் தாழம்பூவாம்!! | 19-7-2013 | 113 | pending |
 | 3778 | கச்சத் தீவும், “கச்சடா” கேள்வியும்! | 20-7-2013 | 119 | pending |
 | 3779 | ஆபத்தின் உச்சக்கட்டம்; அன்னிய நேரடி முதலீடு! | 21-7-2013 | 126 | pending |
