@@ -5,11 +5,11 @@
 | [3764](3764-sadhanai-pattiyalil-vittu-ponavai.md) | சாதனைப் பட்டியலில் விட்டுப் போனவை! | 01-06-2013 | 23 | complete (first-pass-reviewed) |
 | [3765](3765-uzhaippen-uzhaiththu-konde-iruppen.md) | உழைப்பேன்; உழைத்துக் கொண்டே இருப்பேன்! | 6-6-2013 | 31 | complete (first-pass-reviewed) |
 | [3766](3766-indhiya-arasu-iniyum-thoonguvatha.md) | இந்திய அரசு இனியும் தூங்குவதா? | 8-6-2013 | 39 | complete (first-pass-reviewed) |
-| 3767 | பதவிக்குத்தக்க பண்பாடு வேண்டாமா? | 17-6-2013 | 44 | pending |
-| 3768 | இத்தகையோர் மத்தியிலேதான்.... | 21-6-2013 | 51 | pending |
-| 3769 | கழகம் ஆற்றும் அறப்பணிகளில் சில! | 28-06-2013 | 56 | pending |
-| 3770 | வாலறுந்த பல்லி போல் ஆவதா? | 30-6-2016 | 63 | pending |
-| 3771 | “நிலக்கரி நாயகி” என்ற பட்டம் பெறவா? | 2-7-2013 | 69 | pending |
+| [3767](3767-pathavikkuththakka-panpaadu-vendaamaa.md) | பதவிக்குத்தக்க பண்பாடு வேண்டாமா? | 17-6-2013 | 44 | complete (first-pass-reviewed) |
+| [3768](3768-iththagaiyor-maththiyilethaan.md) | இத்தகையோர் மத்தியிலேதான்.... | 21-6-2013 | 51 | complete (first-pass-reviewed) |
+| [3769](3769-kazhagam-aatrum-arappanigalil-sila.md) | கழகம் ஆற்றும் அறப்பணிகளில் சில! | 28-06-2013 | 56 | complete (first-pass-reviewed) |
+| [3770](3770-vaalaruntha-palli-pol-aavathaa.md) | வாலறுந்த பல்லி போல் ஆவதா? | 30-6-2016 | 63 | complete (first-pass-reviewed) |
+| [3771](3771-nilakkari-naayagi-endra-pattam-peravaa.md) | “நிலக்கரி நாயகி” என்ற பட்டம் பெறவா? | 2-7-2013 | 69 | complete (first-pass-reviewed) |
 | 3772 | மாநிலங்களவைத் தேர்தல் - ஓர் ஆய்வு! | 3-7-2013 | 76 | pending |
 | 3773 | அனைத்து சாதியினரும் அர்ச்சகராகக் குரல் கொடுப்போம்! | 14-7-2013 | 86 | pending |
 | 3774 | இந்திக்கு உள்ள உரிமை; தமிழுக்கு வேண்டாமா? | 15-7-2013 | 93 | pending |
