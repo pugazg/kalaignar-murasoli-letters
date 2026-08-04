@@ -1,0 +1,35 @@
+name: Upload Volume 49 audit artifact
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/upload-audit-artifact.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Package repository subset
+        run: tar -czf /tmp/volume49-repository.tar.gz README.md TRANSCRIPTION_GUIDE.md volumes/volume-49
+      - uses: actions/upload-artifact@v4
+        with:
+          name: volume49-repository
+          path: /tmp/volume49-repository.tar.gz
+          retention-days: 1
+      - name: Record run id and remove workflow
+        shell: bash
+        run: |
+          echo '${{ github.run_id }}' > .audit-artifact-run-id
+          rm -f .github/workflows/upload-audit-artifact.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Record Volume 49 audit artifact run"
+          git push origin HEAD:main
