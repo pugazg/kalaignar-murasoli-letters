@@ -45,11 +45,11 @@
 | [3804](3804-moodanambikkai-ozhippai-munneduththuch-selvom.md) | மூடநம்பிக்கை ஒழிப்பை முன்னெடுத்துச் செல்வோம்! | 10-9-2013 | 306 | complete (first-pass-reviewed) |
 | [3805](3805-pothu-vaakkeduppe-eelaththamizharukkup-pudhu-vaazhvu-tharum.md) | பொது வாக்கெடுப்பே ஈழத்தமிழர்க்குப் புது வாழ்வு தரும்! | 13-9-2013 | 313 | complete (first-pass-reviewed) |
 | [3806](3806-neethi-vellum-nichchayam-vellum.md) | நீதி வெல்லும்; நிச்சயம் வெல்லும்! | 14-9-2013 | 319 | complete (first-pass-reviewed) |
-| 3807 | அறப்போர் வாளேந்தி, அய்யா; அண்ணா வழியில் பயணம் தொடருவோம்! | 17-09-2013 | 327 | pending |
-| 3808 | கொலை பயத்தின் கோரப்பிடியில் தமிழகம்! | 21-09-2013 | 334 | pending |
-| 3809 | நீவிர், வீட்டுக்கு விளக்குகள்; நாட்டுக்குத் தொண்டர்கள்! | 23-9-2013 | 341 | pending |
-| 3810 | விளம்பர வெளிச்சத்தில் காணும் கனவு! | 24-9-2013 | 349 | pending |
-| 3811 | கேழ்வரகில் நெய் வடிகுதாம்; கேளுங்கள் தமிழர்களே! | 26-9-2013 | 357 | pending |
+| [3807](3807-arappor-vaalendhi-aiyaa-anna-vazhiyil-payanam-thodaruvom.md) | அறப்போர் வாளேந்தி, அய்யா; அண்ணா வழியில் பயணம் தொடருவோம்! | 17-09-2013 | 327 | complete (first-pass-reviewed) |
+| [3808](3808-kolai-bayaththin-korappidiyil-tamilagam.md) | கொலை பயத்தின் கோரப்பிடியில் தமிழகம்! | 21-09-2013 | 334 | complete (first-pass-reviewed) |
+| [3809](3809-neevir-veettukku-vilakkugal-naattukkuth-thondargal.md) | நீவிர், வீட்டுக்கு விளக்குகள்; நாட்டுக்குத் தொண்டர்கள்! | 23-9-2013 | 341 | complete (first-pass-reviewed) |
+| [3810](3810-vilambara-velichchaththil-kaanum-kanavu.md) | விளம்பர வெளிச்சத்தில் காணும் கனவு! | 24-9-2013 | 349 | complete (first-pass-reviewed) |
+| [3811](3811-kezhvaragil-nei-vadiguthaam-kelungal-thamizhargale.md) | கேழ்வரகில் நெய் வடிகுதாம்; கேளுங்கள் தமிழர்களே! | 26-9-2013 | 357 | complete (first-pass-reviewed) |
 | 3812 | அழைக்காமல் பலரையும், அழைத்துப் பலரையும்? | 28-9-2013 | 364 | pending |
 | 3813 | எத்தனை சாமிக்கண்ணுகள் வளர்த்த கழகமிது! | 30-9-2013 | 374 | pending |
 | 3814 | “மெஜாரிட்டி” ஆட்சி என்றால் எதுவும் செய்யலாமோ? | 8-10-2013 | 379 | pending |
