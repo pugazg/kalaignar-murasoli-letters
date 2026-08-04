@@ -50,8 +50,8 @@
 | [3809](3809-neevir-veettukku-vilakkugal-naattukkuth-thondargal.md) | நீவிர், வீட்டுக்கு விளக்குகள்; நாட்டுக்குத் தொண்டர்கள்! | 23-9-2013 | 341 | complete (first-pass-reviewed) |
 | [3810](3810-vilambara-velichchaththil-kaanum-kanavu.md) | விளம்பர வெளிச்சத்தில் காணும் கனவு! | 24-9-2013 | 349 | complete (first-pass-reviewed) |
 | [3811](3811-kezhvaragil-nei-vadiguthaam-kelungal-thamizhargale.md) | கேழ்வரகில் நெய் வடிகுதாம்; கேளுங்கள் தமிழர்களே! | 26-9-2013 | 357 | complete (first-pass-reviewed) |
-| 3812 | அழைக்காமல் பலரையும், அழைத்துப் பலரையும்? | 28-9-2013 | 364 | pending |
-| 3813 | எத்தனை சாமிக்கண்ணுகள் வளர்த்த கழகமிது! | 30-9-2013 | 374 | pending |
-| 3814 | “மெஜாரிட்டி” ஆட்சி என்றால் எதுவும் செய்யலாமோ? | 8-10-2013 | 379 | pending |
-| 3815 | ஊழலைத் தவிர வேறு எதுவும் உயரப் போவதில்லை! | 9-10-2013 | 387 | pending |
-| 3816 | இனியும் தமிழினம் ஏமாறத் தயாராக இல்லை! | 10-10-2013 | 393 | pending |
+| [3812](3812-azhaikkaamal-palaraiyum-azhaiththup-palaraiyum.md) | அழைக்காமல் பலரையும், அழைத்துப் பலரையும்? | 28-9-2013 | 364 | complete (first-pass-reviewed) |
+| [3813](3813-eththanai-saamikkannugal-valarththa-kazhagamithu.md) | எத்தனை சாமிக்கண்ணுகள் வளர்த்த கழகமிது! | 30-9-2013 | 374 | complete (first-pass-reviewed) |
+| [3814](3814-mejaarity-aatchi-endraal-ethuvum-seyyalaamo.md) | “மெஜாரிட்டி” ஆட்சி என்றால் எதுவும் செய்யலாமோ? | 8-10-2013 | 379 | complete (first-pass-reviewed) |
+| [3815](3815-oozhalai-thavira-veru-ethuvum-uyarap-povathillai.md) | ஊழலைத் தவிர வேறு எதுவும் உயரப் போவதில்லை! | 9-10-2013 | 387 | complete (first-pass-reviewed) |
+| [3816](3816-iniyum-thamizhinam-emaara-thayaaraaga-illai.md) | இனியும் தமிழினம் ஏமாறத் தயாராக இல்லை! | 10-10-2013 | 393 | complete (first-pass-reviewed) |
