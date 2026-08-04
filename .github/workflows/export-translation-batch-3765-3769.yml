@@ -1,0 +1,44 @@
+name: Export translation batch 3765-3769
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/export-translation-batch-3765-3769.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Package source files
+        shell: bash
+        run: |
+          mkdir -p /tmp/batch
+          cp volumes/volume-49/pages/page-{032..063}.md /tmp/batch/
+          cp volumes/volume-49/chapters/3765-*.md /tmp/batch/
+          cp volumes/volume-49/chapters/3766-*.md /tmp/batch/
+          cp volumes/volume-49/chapters/3767-*.md /tmp/batch/
+          cp volumes/volume-49/chapters/3768-*.md /tmp/batch/
+          cp volumes/volume-49/chapters/3769-*.md /tmp/batch/
+          tar -czf /tmp/translation-batch-3765-3769.tar.gz -C /tmp/batch .
+      - uses: actions/upload-artifact@v4
+        with:
+          name: translation-batch-3765-3769
+          path: /tmp/translation-batch-3765-3769.tar.gz
+          retention-days: 1
+      - name: Record run and remove workflow
+        shell: bash
+        run: |
+          echo '${{ github.run_id }}' > .translation-batch-run-id
+          rm -f .github/workflows/export-translation-batch-3765-3769.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Record translation batch source artifact"
+          git push origin HEAD:main
