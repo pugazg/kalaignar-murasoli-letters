@@ -36,3 +36,10 @@
 | கடிதம் 3816 | 394–401 | first-pass-reviewed |
 | பின் அட்டை | 402 | visually transcribed |
 | இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–402 | pending |
+
+
+## தணிக்கை
+
+- [முழுத் தொகுதி audit அறிக்கை](AUDIT.md)
+- கட்டமைப்பு, metadata, 53 தொடக்கப் பக்கங்கள், 53 இறுதிப் பக்கங்கள் மற்றும் automated completeness audit முடிக்கப்பட்டது.
+- ஒவ்வொரு உட்பக்கத்திற்குமான character-by-character இரண்டாம் visual-verification pass இன்னும் pending.

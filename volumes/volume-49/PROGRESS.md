@@ -11,4 +11,5 @@
 - [x] கடிதம் 3815 — பக்கங்கள் 388–393
 - [x] கடிதம் 3816 — பக்கங்கள் 394–401
 - [x] PDF பக்கம் 402 — பின் அட்டை
+- [x] முழுத் தொகுதி audit — structure, metadata, titles, endings, completeness scan
 - [ ] இரண்டாம் சுற்று எழுத்து-எழுத்து visual verification
