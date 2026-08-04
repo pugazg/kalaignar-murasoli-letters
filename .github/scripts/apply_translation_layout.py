@@ -1,0 +1,130 @@
+from pathlib import Path
+import re
+
+root = Path('.')
+letter_path = root / 'volumes/volume-49/translations/en/letters/3764-what-was-left-out-of-the-list-of-achievements.md'
+plan_path = root / 'volumes/volume-49/TRANSLATION_PLAN.md'
+readme_path = root / 'volumes/volume-49/translations/en/README.md'
+template_path = root / 'volumes/volume-49/translations/en/TRANSLATION_TEMPLATE.md'
+
+note_text = (
+    "This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. "
+    "It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. "
+    "Names, dates, figures, quotations, and intentional English expressions are retained. "
+    "Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. "
+    "The original Tamil is reproduced in full below the translation and remains the authoritative text. "
+    "`Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” "
+    "Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement."
+)
+note_block = f"> **Translator’s note**\n>\n> {note_text}\n"
+
+
+def strip_frontmatter(text: str) -> str:
+    if text.startswith('---\n'):
+        end = text.find('\n---\n', 4)
+        if end != -1:
+            return text[end + 5:].strip()
+    return text.strip()
+
+
+text = letter_path.read_text(encoding='utf-8')
+if '> **Translator’s note**' not in text:
+    heading_match = re.search(r'(?m)^# 3764\..+$', text)
+    if not heading_match:
+        raise SystemExit('Letter 3764 heading not found')
+    insert_at = heading_match.end()
+    text = text[:insert_at] + '\n\n' + note_block + text[insert_at:]
+
+text = text.replace("## Translator's notes", "## Letter-specific notes")
+
+if '## Original Tamil — மூலத் தமிழ்' not in text:
+    tamil_parts = []
+    for page in range(24, 32):
+        page_path = root / f'volumes/volume-49/pages/page-{page:03d}.md'
+        body = strip_frontmatter(page_path.read_text(encoding='utf-8'))
+        tamil_parts.append(f'<!-- Source PDF page {page:03d} -->\n\n{body}')
+    tamil_text = '\n\n'.join(tamil_parts)
+    text = text.rstrip() + (
+        '\n\n## Original Tamil — மூலத் தமிழ்\n\n'
+        'The text below is reproduced in full from the audited canonical Tamil page files. '
+        'The Tamil source remains authoritative.\n\n'
+        f'{tamil_text}\n'
+    )
+letter_path.write_text(text, encoding='utf-8')
+
+plan = plan_path.read_text(encoding='utf-8')
+section = f"""## Mandatory translator’s note and bilingual order
+
+Every translated letter must place the following note immediately below the English title, before source metadata or the translated body:
+
+{note_block}
+Each letter must then follow this order:
+
+1. English title
+2. the standard translator’s note above
+3. source links, date and page range
+4. complete English translation
+5. letter-specific notes, only where necessary
+6. **Original Tamil — மூலத் தமிழ்**, reproduced in full from the canonical page files
+
+The Tamil section is not a summary or selected extract. It must contain the complete source letter in page order and remains authoritative if any doubt arises about the English.
+
+"""
+if '## Mandatory translator’s note and bilingual order' not in plan:
+    marker = '## Translation principles\n'
+    if marker not in plan:
+        raise SystemExit('Translation-plan insertion marker not found')
+    plan = plan.replace(marker, section + marker, 1)
+    plan_path.write_text(plan, encoding='utf-8')
+
+readme = readme_path.read_text(encoding='utf-8')
+addition = (
+    '\n## Standard letter layout\n\n'
+    'Every English letter places the standard translator’s note directly below its title, '
+    'followed by the translation. The complete canonical Tamil letter is reproduced under '
+    '**Original Tamil — மூலத் தமிழ்** at the end of the file.\n'
+)
+if '## Standard letter layout' not in readme:
+    readme = readme.rstrip() + addition + '\n'
+    readme_path.write_text(readme, encoding='utf-8')
+
+if not template_path.exists():
+    template_path.write_text(f"""---
+volume: 49
+letter_number: 0000
+tamil_title: ""
+english_title: ""
+date: YYYY-MM-DD
+source_pdf_page_start: 0
+source_pdf_page_end: 0
+source_printed_page_start: 0
+source_printed_page_end: 0
+translation_status: "draft-translated"
+translation_method: "thought-preserving, non-literary"
+---
+
+# 0000. English title
+
+{note_block}
+**Tamil source:** [Letter 0000](../../../chapters/FILE.md)  
+**Source pages:** [PDF 000](../../../pages/page-000.md)–[PDF 000](../../../pages/page-000.md)  
+**Date:** Day Month Year
+
+**Udanpirappē,**
+
+[Complete English translation.]
+
+**With affection,**  
+**M.K.**  
+**Date**
+
+## Letter-specific notes
+
+[Include only notes that are necessary for meaning, source anomalies, institutions, or unresolved terms. Remove this section when no notes are needed.]
+
+## Original Tamil — மூலத் தமிழ்
+
+The text below is reproduced in full from the audited canonical Tamil page files. The Tamil source remains authoritative.
+
+[Complete canonical Tamil letter in page order.]
+""", encoding='utf-8')
