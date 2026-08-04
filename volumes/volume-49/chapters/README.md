@@ -25,11 +25,11 @@
 | [3784](3784-indhiyaavukke-ivarthaan-munnodiyaam.md) | இந்தியாவுக்கே இவர்தான் முன்னோடியாம்! | 29-7-2013 | 161 | complete (first-pass-reviewed) |
 | [3785](3785-niraiverattum-magalir-ida-odhukkeedu-masodhaa.md) | நிறைவேறட்டும் மகளிர் இட ஒதுக்கீடு மசோதா! | 30-7-2013 | 168 | complete (first-pass-reviewed) |
 | [3786](3786-thaamathame-un-peyarthaan-tamilaga-arasaa.md) | தாமதமே; உன் பெயர்தான் தமிழக அரசா? | 31-7-2013 | 175 | complete (first-pass-reviewed) |
-| 3787 | ஆகஸ்ட் 8: ஆர்ப்பாட்டத்தில் அலைகடலெனத் திரள்வீர்! | 01-08-2013 | 181 | pending |
-| 3788 | அமர்த்தியா சென்னும் - அவர் விடுக்கும் அறைகூவலும்! | 04-08-2013 | 188 | pending |
-| 3789 | கொடுத்ததையும் பறித்துக் கொண்ட கொடுமை! | 05-08-2013 | 195 | pending |
-| 3790 | ஆகஸ்ட் 8; ஆர்ப்பாட்டம்; அகிலமே வியக்கட்டும்! | 07-08-2013 | 202 | pending |
-| 3791 | இஸ்லாமியப் பெருமக்களுக்கு இதய வாழ்த்துகள்! | 8-8-2013 | 210 | pending |
+| [3787](3787-aagast-8-aarppaattaththil-alaikadalenath-thiralveer.md) | ஆகஸ்ட் 8: ஆர்ப்பாட்டத்தில் அலைகடலெனத் திரள்வீர்! | 01-08-2013 | 181 | complete (first-pass-reviewed) |
+| [3788](3788-amarththiya-sennum-avar-vidukkum-araikoovalum.md) | அமர்த்தியா சென்னும் - அவர் விடுக்கும் அறைகூவலும்! | 04-08-2013 | 188 | complete (first-pass-reviewed) |
+| [3789](3789-koduththathaiyum-pariththuk-konda-kodumai.md) | கொடுத்ததையும் பறித்துக் கொண்ட கொடுமை! | 05-08-2013 | 195 | complete (first-pass-reviewed) |
+| [3790](3790-aagast-8-aarppaattam-agilame-viyakkattum.md) | ஆகஸ்ட் 8; ஆர்ப்பாட்டம்; அகிலமே வியக்கட்டும்! | 07-08-2013 | 202 | complete (first-pass-reviewed) |
+| [3791](3791-islaamiya-perumakkalukku-idhaya-vaazhththugal.md) | இஸ்லாமியப் பெருமக்களுக்கு இதய வாழ்த்துகள்! | 8-8-2013 | 210 | complete (first-pass-reviewed) |
 | 3792 | உணவு மசோதா; நமது நிலை! | 10-8-2013 | 217 | pending |
 | 3793 | மத்திய அரசு தருவதை மாநில அரசு மறுப்பதா? | 14-8-2013 | 225 | pending |
 | 3794 | பெரியார், காமராசர் பெயரை மறந்த சுதந்திர நாள் உரை! | 17-08-2013 | 233 | pending |
