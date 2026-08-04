@@ -20,11 +20,11 @@
 | [3779](3779-aabaththin-uchchakkattam-anniyaneradi-muthaleedu.md) | ஆபத்தின் உச்சக்கட்டம்; அன்னிய நேரடி முதலீடு! | 21-7-2013 | 126 | complete (first-pass-reviewed) |
 | [3780](3780-nuzhaivuth-thervu-theerppu-thevaiyaa-ethirppu.md) | நுழைவுத் தேர்வு தீர்ப்பு - தேவையா எதிர்ப்பு? | 23-07-2013 | 131 | complete (first-pass-reviewed) |
 | [3781](3781-kaazhppunarvo-aathangamo-enakku-alla.md) | காழ்ப்புணர்வோ, ஆதங்கமோ எனக்கு அல்ல! | 24-7-2013 | 138 | complete (first-pass-reviewed) |
-| 3782 | எத்தனை காலம்தான் ஏமாற்றுவார் இந்த நாட்டிலே! | 26-7-2013 | 148 | pending |
-| 3783 | வெற்றி முகட்டை நோக்கி நமது முயற்சிகள்! | 27-7-2013 | 155 | pending |
-| 3784 | இந்தியாவுக்கே இவர்தான் முன்னோடியாம்! | 29-7-2013 | 161 | pending |
-| 3785 | நிறைவேறட்டும் மகளிர் இட ஒதுக்கீடு மசோதா! | 30-7-2013 | 168 | pending |
-| 3786 | தாமதமே; உன் பெயர்தான் தமிழக அரசா? | 31-7-2013 | 175 | pending |
+| [3782](3782-eththanai-kaalamthaan-emaarruvaar-indha-naattile.md) | எத்தனை காலம்தான் ஏமாற்றுவார் இந்த நாட்டிலே! | 26-7-2013 | 148 | complete (first-pass-reviewed) |
+| [3783](3783-vetri-mugattai-nokki-namathu-muyarchigal.md) | வெற்றி முகட்டை நோக்கி நமது முயற்சிகள்! | 27-7-2013 | 155 | complete (first-pass-reviewed) |
+| [3784](3784-indhiyaavukke-ivarthaan-munnodiyaam.md) | இந்தியாவுக்கே இவர்தான் முன்னோடியாம்! | 29-7-2013 | 161 | complete (first-pass-reviewed) |
+| [3785](3785-niraiverattum-magalir-ida-odhukkeedu-masodhaa.md) | நிறைவேறட்டும் மகளிர் இட ஒதுக்கீடு மசோதா! | 30-7-2013 | 168 | complete (first-pass-reviewed) |
+| [3786](3786-thaamathame-un-peyarthaan-tamilaga-arasaa.md) | தாமதமே; உன் பெயர்தான் தமிழக அரசா? | 31-7-2013 | 175 | complete (first-pass-reviewed) |
 | 3787 | ஆகஸ்ட் 8: ஆர்ப்பாட்டத்தில் அலைகடலெனத் திரள்வீர்! | 01-08-2013 | 181 | pending |
 | 3788 | அமர்த்தியா சென்னும் - அவர் விடுக்கும் அறைகூவலும்! | 04-08-2013 | 188 | pending |
 | 3789 | கொடுத்ததையும் பறித்துக் கொண்ட கொடுமை! | 05-08-2013 | 195 | pending |
