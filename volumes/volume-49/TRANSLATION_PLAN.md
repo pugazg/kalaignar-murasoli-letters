@@ -6,6 +6,25 @@ Create a clear, faithful English translation that carries Kalaignar's argument, 
 
 The translation must help an English reader understand **what Kalaignar is thinking, why he cites particular facts, how he builds his case, and where he uses sarcasm or rhetorical questions**.
 
+## Mandatory translator’s note and bilingual order
+
+Every translated letter must place the following note immediately below the English title, before source metadata or the translated body:
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+Each letter must then follow this order:
+
+1. English title
+2. the standard translator’s note above
+3. source links, date and page range
+4. complete English translation
+5. letter-specific notes, only where necessary
+6. **Original Tamil — மூலத் தமிழ்**, reproduced in full from the canonical page files
+
+The Tamil section is not a summary or selected extract. It must contain the complete source letter in page order and remains authoritative if any doubt arises about the English.
+
 ## Translation principles
 
 1. **Thought before ornament** — preserve the sequence of Kalaignar's reasoning. Do not beautify, dramatise or rewrite for elegance.

@@ -16,3 +16,7 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 See [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md) for the full method and [`GLOSSARY.md`](GLOSSARY.md) for recurring terms.
 
 The canonical Tamil source remains in [`../../pages/`](../../pages/) and the Tamil chapter index in [`../../chapters/README.md`](../../chapters/README.md).
+## Standard letter layout
+
+Every English letter places the standard translator’s note directly below its title, followed by the translation. The complete canonical Tamil letter is reproduced under **Original Tamil — மூலத் தமிழ்** at the end of the file.
+
