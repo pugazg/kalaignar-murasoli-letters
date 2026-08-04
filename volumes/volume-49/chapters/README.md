@@ -35,11 +35,11 @@
 | [3794](3794-periyaar-kamarasar-peyarai-marantha-suthanthira-naal-urai.md) | பெரியார், காமராசர் பெயரை மறந்த சுதந்திர நாள் உரை! | 17-08-2013 | 233 | complete (first-pass-reviewed) |
 | [3795](3795-ilangaiyai-indhiya-iniyaavathu-purinthukollumaa.md) | இலங்கையை, இந்தியா இனியாவது புரிந்துகொள்ளுமா? | 19-08-2013 | 241 | complete (first-pass-reviewed) |
 | [3796](3796-magalir-membaadu-andrum-indrum.md) | மகளிர் மேம்பாடு - அன்றும், இன்றும்! | 22-8-2013 | 248 | complete (first-pass-reviewed) |
-| 3797 | விடை அளிக்கும் நாள் வெகுதொலைவில் இல்லை! | 23-08-2013 | 255 | pending |
-| 3798 | அன்னை இந்திரா வழியில் தீர்வு காண்போம்! | 26-8-2013 | 262 | pending |
-| 3799 | இந்தச் சோதனையிலும் இந்தியா வெற்றி பெறும்! | 30-8-2013 | 269 | pending |
-| 3800 | உணவுப் பாதுகாப்புச் சட்டம் - இலாபமா? நட்டமா? | 3-9-2013 | 276 | pending |
-| 3801 | மூடுவிழா நடத்திட முனைப்பு காட்டும் முதலமைச்சர்! | 4-9-2013 | 284 | pending |
+| [3797](3797-vidai-alikkum-naal-vegutholaivil-illai.md) | விடை அளிக்கும் நாள் வெகுதொலைவில் இல்லை! | 23-08-2013 | 255 | complete (first-pass-reviewed) |
+| [3798](3798-annai-indhira-vazhiyil-theervu-kaanbom.md) | அன்னை இந்திரா வழியில் தீர்வு காண்போம்! | 26-8-2013 | 262 | complete (first-pass-reviewed) |
+| [3799](3799-indha-sothanaiyilum-indhiya-vetri-perum.md) | இந்தச் சோதனையிலும் இந்தியா வெற்றி பெறும்! | 30-8-2013 | 269 | complete (first-pass-reviewed) |
+| [3800](3800-unavup-paathukaappuch-sattam-ilaabamaa-nattamaa.md) | உணவுப் பாதுகாப்புச் சட்டம் - இலாபமா? நட்டமா? | 3-9-2013 | 276 | complete (first-pass-reviewed) |
+| [3801](3801-mooduvizhaa-nadaththida-munaippu-kaattum-muthalamaichchar.md) | மூடுவிழா நடத்திட முனைப்பு காட்டும் முதலமைச்சர்! | 4-9-2013 | 284 | complete (first-pass-reviewed) |
 | 3802 | ஒகேனக்கல் திட்டமும், முத்தியால்பேட்டை காவல் நிலையமும்! | 6-9-2013 | 291 | pending |
 | 3803 | கழக ஆட்சியில் மகளிர்க்கான மகத்தான திட்டங்கள்! | 8-9-2013 | 298 | pending |
 | 3804 | மூடநம்பிக்கை ஒழிப்பை முன்னெடுத்துச் செல்வோம்! | 10-9-2013 | 306 | pending |
