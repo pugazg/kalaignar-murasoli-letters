@@ -40,11 +40,11 @@
 | [3799](3799-indha-sothanaiyilum-indhiya-vetri-perum.md) | இந்தச் சோதனையிலும் இந்தியா வெற்றி பெறும்! | 30-8-2013 | 269 | complete (first-pass-reviewed) |
 | [3800](3800-unavup-paathukaappuch-sattam-ilaabamaa-nattamaa.md) | உணவுப் பாதுகாப்புச் சட்டம் - இலாபமா? நட்டமா? | 3-9-2013 | 276 | complete (first-pass-reviewed) |
 | [3801](3801-mooduvizhaa-nadaththida-munaippu-kaattum-muthalamaichchar.md) | மூடுவிழா நடத்திட முனைப்பு காட்டும் முதலமைச்சர்! | 4-9-2013 | 284 | complete (first-pass-reviewed) |
-| 3802 | ஒகேனக்கல் திட்டமும், முத்தியால்பேட்டை காவல் நிலையமும்! | 6-9-2013 | 291 | pending |
-| 3803 | கழக ஆட்சியில் மகளிர்க்கான மகத்தான திட்டங்கள்! | 8-9-2013 | 298 | pending |
-| 3804 | மூடநம்பிக்கை ஒழிப்பை முன்னெடுத்துச் செல்வோம்! | 10-9-2013 | 306 | pending |
-| 3805 | பொது வாக்கெடுப்பே ஈழத்தமிழர்க்குப் புது வாழ்வு தரும்! | 13-9-2013 | 313 | pending |
-| 3806 | நீதி வெல்லும்; நிச்சயம் வெல்லும்! | 14-9-2013 | 319 | pending |
+| [3802](3802-ogenakkal-thittamum-muththiyalpet-kaval-nilaiyamum.md) | ஒகேனக்கல் திட்டமும், முத்தியால்பேட்டை காவல் நிலையமும்! | 6-9-2013 | 291 | complete (first-pass-reviewed) |
+| [3803](3803-kazhaga-aatchiyil-magalirkkaana-magaththaana-thittangal.md) | கழக ஆட்சியில் மகளிர்க்கான மகத்தான திட்டங்கள்! | 8-9-2013 | 298 | complete (first-pass-reviewed) |
+| [3804](3804-moodanambikkai-ozhippai-munneduththuch-selvom.md) | மூடநம்பிக்கை ஒழிப்பை முன்னெடுத்துச் செல்வோம்! | 10-9-2013 | 306 | complete (first-pass-reviewed) |
+| [3805](3805-pothu-vaakkeduppe-eelaththamizharukkup-pudhu-vaazhvu-tharum.md) | பொது வாக்கெடுப்பே ஈழத்தமிழர்க்குப் புது வாழ்வு தரும்! | 13-9-2013 | 313 | complete (first-pass-reviewed) |
+| [3806](3806-neethi-vellum-nichchayam-vellum.md) | நீதி வெல்லும்; நிச்சயம் வெல்லும்! | 14-9-2013 | 319 | complete (first-pass-reviewed) |
 | 3807 | அறப்போர் வாளேந்தி, அய்யா; அண்ணா வழியில் பயணம் தொடருவோம்! | 17-09-2013 | 327 | pending |
 | 3808 | கொலை பயத்தின் கோரப்பிடியில் தமிழகம்! | 21-09-2013 | 334 | pending |
 | 3809 | நீவிர், வீட்டுக்கு விளக்குகள்; நாட்டுக்குத் தொண்டர்கள்! | 23-9-2013 | 341 | pending |
