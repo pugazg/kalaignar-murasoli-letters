@@ -30,11 +30,11 @@
 | [3789](3789-koduththathaiyum-pariththuk-konda-kodumai.md) | கொடுத்ததையும் பறித்துக் கொண்ட கொடுமை! | 05-08-2013 | 195 | complete (first-pass-reviewed) |
 | [3790](3790-aagast-8-aarppaattam-agilame-viyakkattum.md) | ஆகஸ்ட் 8; ஆர்ப்பாட்டம்; அகிலமே வியக்கட்டும்! | 07-08-2013 | 202 | complete (first-pass-reviewed) |
 | [3791](3791-islaamiya-perumakkalukku-idhaya-vaazhththugal.md) | இஸ்லாமியப் பெருமக்களுக்கு இதய வாழ்த்துகள்! | 8-8-2013 | 210 | complete (first-pass-reviewed) |
-| 3792 | உணவு மசோதா; நமது நிலை! | 10-8-2013 | 217 | pending |
-| 3793 | மத்திய அரசு தருவதை மாநில அரசு மறுப்பதா? | 14-8-2013 | 225 | pending |
-| 3794 | பெரியார், காமராசர் பெயரை மறந்த சுதந்திர நாள் உரை! | 17-08-2013 | 233 | pending |
-| 3795 | இலங்கையை, இந்தியா இனியாவது புரிந்துகொள்ளுமா? | 19-08-2013 | 241 | pending |
-| 3796 | மகளிர் மேம்பாடு - அன்றும், இன்றும்! | 22-8-2013 | 248 | pending |
+| [3792](3792-unavu-masodhaa-namathu-nilai.md) | உணவு மசோதா; நமது நிலை! | 10-8-2013 | 217 | complete (first-pass-reviewed) |
+| [3793](3793-maththiya-arasu-tharuvathai-maanila-arasu-maruppathaa.md) | மத்திய அரசு தருவதை மாநில அரசு மறுப்பதா? | 14-8-2013 | 225 | complete (first-pass-reviewed) |
+| [3794](3794-periyaar-kamarasar-peyarai-marantha-suthanthira-naal-urai.md) | பெரியார், காமராசர் பெயரை மறந்த சுதந்திர நாள் உரை! | 17-08-2013 | 233 | complete (first-pass-reviewed) |
+| [3795](3795-ilangaiyai-indhiya-iniyaavathu-purinthukollumaa.md) | இலங்கையை, இந்தியா இனியாவது புரிந்துகொள்ளுமா? | 19-08-2013 | 241 | complete (first-pass-reviewed) |
+| [3796](3796-magalir-membaadu-andrum-indrum.md) | மகளிர் மேம்பாடு - அன்றும், இன்றும்! | 22-8-2013 | 248 | complete (first-pass-reviewed) |
 | 3797 | விடை அளிக்கும் நாள் வெகுதொலைவில் இல்லை! | 23-08-2013 | 255 | pending |
 | 3798 | அன்னை இந்திரா வழியில் தீர்வு காண்போம்! | 26-8-2013 | 262 | pending |
 | 3799 | இந்தச் சோதனையிலும் இந்தியா வெற்றி பெறும்! | 30-8-2013 | 269 | pending |
