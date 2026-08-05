@@ -6,7 +6,7 @@ on:
     paths:
       - .github/workflows/finalize-v49-3780-3784.yml
   pull_request:
-    types: [opened]
+    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
@@ -19,6 +19,19 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+
+      - name: Repair finalizer page-134 match
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('.github/v49-3780-3784/finalize.py')
+          text = p.read_text(encoding='utf-8')
+          old = "'அகில இந்திய அளவில் எம்.பி.பி.எஸ். படிப்பிற்கான',\n            'அகில இந்திய அளவில் எம்.பி.,பி.எஸ். படிப்பிற்கான',"
+          new = "'இந்திய அளவில் எம்.பி.பி.எஸ். படிப்பிற்கான',\n            'இந்திய அளவில் எம்.பி.,பி.எஸ். படிப்பிற்கான',"
+          if text.count(old) != 1:
+              raise SystemExit(f'Expected one page-134 pattern, found {text.count(old)}')
+          p.write_text(text.replace(old, new), encoding='utf-8')
+          PY
 
       - name: Build audited bilingual batch
         run: python .github/v49-3780-3784/finalize.py
