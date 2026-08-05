@@ -1,0 +1,30 @@
+name: Finalize Volume 49 translations 3780-3784
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/finalize-v49-3780-3784.yml
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build audited bilingual batch
+        run: python .github/v49-3780-3784/finalize.py
+
+      - name: Validate and commit
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Translate Volume 49 letters 3780-3784 with scan fidelity audit" -m "Add source-checked English translations for letters 3780–3784 after visually comparing all 37 canonical Tamil Markdown pages (PDF 132–168) with their scans. Apply and document thirteen scan-verified punctuation, numeral, word-boundary or omitted-character corrections to the canonical Tamil page files. Preserve quoted English passages, append the complete authoritative Tamil source to each bilingual file, and update the English index, glossary, progress record, audit report and repository summaries."
+          git push origin main
