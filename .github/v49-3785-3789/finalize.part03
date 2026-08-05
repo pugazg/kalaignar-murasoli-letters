@@ -1,0 +1,40 @@
+    tamil = '\n\n'.join(
+        f'<!-- Source PDF page {page} -->\n\n{page_body(page)}'
+        for page in range(start, end + 1)
+    )
+    placeholder = '<!-- APPEND_TAMIL_FROM_SOURCE -->'
+    if content.count(placeholder) != 1:
+        raise SystemExit(f'Expected one Tamil placeholder in {source_path}')
+    content = content.replace(placeholder, tamil)
+    (out_dir / filename).write_text(content.rstrip() + '\n', encoding='utf-8')
+
+shutil.copy2(
+    extract_dir / 'TEXTUAL_FIDELITY_AUDIT_3785_3789.md',
+    'volumes/volume-49/translations/en/TEXTUAL_FIDELITY_AUDIT_3785_3789.md',
+)
+
+# Repository summaries and English indexes.
+must_replace(
+    'README.md',
+    '| 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 21 / 53 (3764–3784) |',
+    '| 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 26 / 53 (3764–3789) |',
+)
+
+must_replace(
+    'volumes/volume-49/README.md',
+    '- Letters **3764–3784** have been fully translated and source-checked against Tamil PDF pages **24–168**.',
+    '- Letters **3764–3789** have been fully translated and source-checked against Tamil PDF pages **24–202**.',
+)
+must_replace(
+    'volumes/volume-49/README.md',
+    '- Before translating letters **3780–3784**, every canonical Markdown page from PDF **132–168** was visually compared with its scan; all **37 pages were audited**, and thirteen scan-verified punctuation, numeral, word-boundary or omitted-character corrections were applied to the canonical Tamil page files.',
+    '- Before translating letters **3780–3784**, every canonical Markdown page from PDF **132–168** was visually compared with its scan; all **37 pages were audited**, and thirteen scan-verified punctuation, numeral, word-boundary or omitted-character corrections were applied to the canonical Tamil page files.\n- Before translating letters **3785–3789**, every canonical Markdown page from PDF **169–202** was visually compared with its scan; all **34 pages were audited**, and ten scan-verified spacing, word-boundary, quotation-mark or grammatical-sandhi corrections were applied to the canonical Tamil page files.',
+)
+must_replace(
+    'volumes/volume-49/README.md',
+    '- Next five-letter iteration: **3785–3789**.',
+    '- Next five-letter iteration: **3790–3794**.',
+)
+
+index_path = Path('volumes/volume-49/translations/en/README.md')
+index = index_path.read_text(encoding='utf-8')
