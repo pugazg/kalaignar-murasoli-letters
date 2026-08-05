@@ -28,3 +28,9 @@
 | ஆகமம் | **Agama** | approved | Temple ritual, worship and architectural canon; retained as a proper technical term. |
 | வழக்காடு மொழி | **language of court proceedings** | approved | Covers oral argument, judgments, orders and official court use; not reduced to “spoken language”. |
 | நவரத்தினம் / Navaratna | **Navaratna** | approved | Government of India classification for selected high-performing public-sector enterprises. |
+| பெருந்தலைவர் | **Perunthalaivar** | approved | “Great Leader”; retained as Kamarajar’s established honorific. |
+| கர்ம வீரர் | **Karma Veerar** | approved | “Hero of action”; retained as an established honorific for Kamarajar. |
+| டெசோ / TESO | **Tamil Eelam Supporters Organisation (TESO)** | approved | Full English form on first reference; acronym thereafter. |
+| தொ.மு.ச. | **Labour Progressive Federation** | approved | DMK-affiliated trade-union federation; Tamil abbreviation may be supplied in a note. |
+| கச்சடா | **trash / filth / rubbish** | context-dependent | In letter 3778, “Trash” preserves a disparaging title pun on Katchatheevu. |
+| அன்னிய நேரடி முதலீடு | **foreign direct investment (FDI)** | approved | Full form on first reference; abbreviation thereafter. |
