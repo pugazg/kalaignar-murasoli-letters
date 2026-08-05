@@ -1,5 +1,6 @@
 name: Finalize Volume 49 translations 3780-3784
 
+# Triggered after all four payload parts and the finalizer are present.
 on:
   push:
     branches: [main]
