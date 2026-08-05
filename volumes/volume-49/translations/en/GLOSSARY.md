@@ -39,3 +39,8 @@
 | 110வது விதி | **Rule 110** | approved | Tamil Nadu Legislative Assembly procedure for a ministerial statement without an immediate debate. |
 | சம்பா சாகுபடி | **samba cultivation** | approved | Long-duration paddy season in the Cauvery Delta. |
 | காவேரி நடுவர் மன்றம் | **Cauvery Water Disputes Tribunal** | approved | Full institutional name on first contextual reference; Tribunal thereafter. |
+| மகளிர் இட ஒதுக்கீடு | **women’s reservation** | approved | Refers to the proposed 33 per cent reservation in Parliament and State Legislatures. |
+| உள் ஒதுக்கீடு | **internal reservation** | approved | Distribution within a broader reserved category among specified social groups. |
+| தமிழ் ஈழம் | **Tamil Eelam** | approved | Source term retained in political and geographical references to Tamil regions of Sri Lanka. |
+| தர ஊதியம் | **grade pay** | approved | Administrative pay-component term used in the Sixth Pay Commission discussion. |
+| எஸ்மா / ESMA | **ESMA** | approved | Essential Services Maintenance Act; acronym retained in the historical reference to action against employees. |

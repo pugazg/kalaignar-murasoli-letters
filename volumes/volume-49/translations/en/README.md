@@ -29,7 +29,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3782](letters/3782-how-long-will-they-keep-deceiving-the-people-of-this-country.md) | How Long Will They Keep Deceiving the People of This Country! | 26 July 2013 | source-checked |
 | [3783](letters/3783-our-efforts-towards-the-summit-of-victory.md) | Our Efforts Towards the Summit of Victory! | 27 July 2013 | source-checked |
 | [3784](letters/3784-she-is-supposedly-the-pioneer-for-all-india.md) | She Is Supposedly the Pioneer for All India! | 29 July 2013 | source-checked |
-| 3785–3816 | — | — | pending |
+| [3785](letters/3785-let-the-womens-reservation-bill-be-passed.md) | Let the Women’s Reservation Bill Be Passed! | 30 July 2013 | source-checked |
+| [3786](letters/3786-is-delay-your-very-name-government-of-tamil-nadu.md) | Is Delay Your Very Name, Government of Tamil Nadu? | 31 July 2013 | source-checked |
+| [3787](letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md) | August 8: Gather Like a Surging Sea at the Demonstration! | 1 August 2013 | source-checked |
+| [3788](letters/3788-amartya-sen-and-the-call-he-issues.md) | Amartya Sen — and the Call He Issues! | 4 August 2013 | source-checked |
+| [3789](letters/3789-the-cruelty-of-taking-back-even-what-was-given.md) | The Cruelty of Taking Back Even What Was Given! | 5 August 2013 | source-checked |
+| 3790–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -49,5 +54,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3770–3774: **37/37 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3770_3774.md`](TEXTUAL_FIDELITY_AUDIT_3770_3774.md)
 - Letters 3775–3779: **31/31 pages audited; eight canonical quotation/word-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3775_3779.md`](TEXTUAL_FIDELITY_AUDIT_3775_3779.md)
 - Letters 3780–3784: **37/37 pages audited; thirteen canonical punctuation, numeral, word-boundary or omitted-character artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)
+- Letters 3785–3789: **34/34 pages audited; ten canonical spacing, word-boundary, quotation-mark or grammatical-sandhi artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.
