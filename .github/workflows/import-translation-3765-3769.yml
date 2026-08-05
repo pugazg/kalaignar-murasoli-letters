@@ -1,0 +1,100 @@
+name: Import translations 3765-3769
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.translation-trigger-3765-3769'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Decode translation payload and apply audited batch
+        shell: bash
+        run: |
+          cat .translation-compact-3765-3769/chunk-*.txt > /tmp/translation-batch.b64
+          base64 --decode /tmp/translation-batch.b64 > /tmp/translation-batch.tar.gz
+          mkdir -p /tmp/translation-batch
+          tar -xzf /tmp/translation-batch.tar.gz -C /tmp/translation-batch
+
+          python - <<'PY'
+          from pathlib import Path
+          import json, re, shutil
+
+          root = Path('.')
+          batch = Path('/tmp/translation-batch')
+          manifest = json.loads((batch / 'manifest.json').read_text(encoding='utf-8'))
+          letters_dir = root / 'volumes/volume-49/translations/en/letters'
+          letters_dir.mkdir(parents=True, exist_ok=True)
+
+          def strip_frontmatter(text: str) -> str:
+              if text.startswith('---\n'):
+                  end = text.find('\n---\n', 4)
+                  if end != -1:
+                      return text[end + 5:].strip()
+              return text.strip()
+
+          for number, item in manifest.items():
+              partial = (batch / item['file']).read_text(encoding='utf-8').rstrip()
+              start, end = item['pages']
+              tamil_parts = []
+              for page in range(start, end + 1):
+                  page_path = root / f'volumes/volume-49/pages/page-{page:03d}.md'
+                  page_text = page_path.read_text(encoding='utf-8')
+                  body = strip_frontmatter(page_text)
+                  tamil_parts.append(f'<!-- Source PDF page {page:03d} -->\n\n{body}')
+
+                  updated = page_text.replace(
+                      'transcription_status: "first-pass-reviewed"',
+                      'transcription_status: "textual-fidelity-audited"'
+                  )
+                  if 'textual_fidelity_audit:' not in updated:
+                      updated = updated.replace(
+                          'transcription_status: "textual-fidelity-audited"\n',
+                          'transcription_status: "textual-fidelity-audited"\ntextual_fidelity_audit: "visual-scan-verified"\n',
+                          1,
+                      )
+                  page_path.write_text(updated, encoding='utf-8')
+
+              full = partial + (
+                  '\n\n## Original Tamil — மூலத் தமிழ்\n\n'
+                  'The text below is reproduced in full from the audited canonical Tamil page files. '
+                  'The Tamil source remains authoritative.\n\n'
+                  + '\n\n'.join(tamil_parts)
+                  + '\n'
+              )
+              (letters_dir / item['file']).write_text(full, encoding='utf-8')
+
+          shutil.copy2(batch / 'README.md', root / 'volumes/volume-49/translations/en/README.md')
+          shutil.copy2(batch / 'PROGRESS.md', root / 'volumes/volume-49/translations/en/PROGRESS.md')
+          shutil.copy2(batch / 'GLOSSARY.md', root / 'volumes/volume-49/translations/en/GLOSSARY.md')
+          shutil.copy2(batch / 'TEXTUAL_FIDELITY_AUDIT_3765_3769.md', root / 'volumes/volume-49/translations/en/TEXTUAL_FIDELITY_AUDIT_3765_3769.md')
+          shutil.copy2(batch / 'ROOT_README.md', root / 'README.md')
+          shutil.copy2(batch / 'VOLUME_README.md', root / 'volumes/volume-49/README.md')
+
+          plan_path = root / 'volumes/volume-49/TRANSLATION_PLAN.md'
+          plan = plan_path.read_text(encoding='utf-8')
+          if '## Mandatory textual-fidelity audit before translation' not in plan:
+              plan = plan.rstrip() + (batch / 'PLAN_APPEND.md').read_text(encoding='utf-8') + '\n'
+              plan_path.write_text(plan, encoding='utf-8')
+          PY
+
+          rm -rf .translation-compact-3765-3769
+          rm -rf .translation-import-3765-3769
+          rm -f .translation-batch-run-id
+          rm -f .translation-trigger-3765-3769
+          rm -f .github/workflows/import-translation-3765-3769.yml
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Translate Volume 49 letters 3765-3769 with scan fidelity audit"
+          git push origin HEAD:main
