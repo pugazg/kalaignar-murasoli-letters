@@ -1,0 +1,30 @@
+name: Finalize Volume 49 translations 3800-3804
+
+on:
+  pull_request:
+    types: [synchronize, reopened]
+    paths:
+      - .github/v49-3800-3804/finalize-trigger.txt
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply and validate audited translation batch
+        run: python .github/v49-3800-3804/finalize.py
+      - name: Commit batch to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "Translate Volume 49 letters 3800-3804 with scan fidelity audit" \
+            -m "Add source-checked English translations for letters 3800–3804 after visually comparing all 37 canonical Tamil Markdown pages (PDF 277–313) with their scans. Preserve visible source irregularities without silent emendation, append the complete authoritative Tamil source to every bilingual file, update the English index, glossary, progress record and repository summaries, and remove temporary export and staging files."
+          git push origin HEAD:main
