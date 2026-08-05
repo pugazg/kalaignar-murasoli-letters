@@ -1,0 +1,40 @@
+old_pending = '| 3785–3816 | — | — | pending |'
+new_rows = '\n'.join([
+    '| [3785](letters/3785-let-the-womens-reservation-bill-be-passed.md) | Let the Women’s Reservation Bill Be Passed! | 30 July 2013 | source-checked |',
+    '| [3786](letters/3786-is-delay-your-very-name-government-of-tamil-nadu.md) | Is Delay Your Very Name, Government of Tamil Nadu? | 31 July 2013 | source-checked |',
+    '| [3787](letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md) | August 8: Gather Like a Surging Sea at the Demonstration! | 1 August 2013 | source-checked |',
+    '| [3788](letters/3788-amartya-sen-and-the-call-he-issues.md) | Amartya Sen — and the Call He Issues! | 4 August 2013 | source-checked |',
+    '| [3789](letters/3789-the-cruelty-of-taking-back-even-what-was-given.md) | The Cruelty of Taking Back Even What Was Given! | 5 August 2013 | source-checked |',
+    '| 3790–3816 | — | — | pending |',
+])
+if index.count(old_pending) != 1:
+    raise SystemExit('Pending row for letters 3785–3816 was not found exactly once')
+index = index.replace(old_pending, new_rows)
+audit_anchor = '- Letters 3780–3784: **37/37 pages audited; thirteen canonical punctuation, numeral, word-boundary or omitted-character artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)'
+audit_row = '- Letters 3785–3789: **34/34 pages audited; ten canonical spacing, word-boundary, quotation-mark or grammatical-sandhi artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)'
+if index.count(audit_anchor) != 1:
+    raise SystemExit('Audit anchor missing from English index')
+index_path.write_text(index.replace(audit_anchor, audit_anchor + '\n' + audit_row), encoding='utf-8')
+
+progress_path = Path('volumes/volume-49/translations/en/PROGRESS.md')
+progress = progress_path.read_text(encoding='utf-8')
+progress_replacements = [
+    (
+        '- [x] Letters 3780–3784 translated and source-checked\n- [ ] Letters 3785–3816',
+        '- [x] Letters 3780–3784 translated and source-checked\n- [x] Letters 3785–3789 translated and source-checked\n- [ ] Letters 3790–3816',
+    ),
+    (
+        '- Canonical pages **132–168** visually compared against their scans: **37/37 audited**.\n  - [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)\n  - Thirteen punctuation, numeral, word-boundary or omitted-character transcription artefacts were corrected before translation.',
+        '- Canonical pages **132–168** visually compared against their scans: **37/37 audited**.\n  - [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)\n  - Thirteen punctuation, numeral, word-boundary or omitted-character transcription artefacts were corrected before translation.\n- Canonical pages **169–202** visually compared against their scans: **34/34 audited**.\n  - [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)\n  - Ten spacing, word-boundary, quotation-mark or grammatical-sandhi transcription artefacts were corrected before translation.',
+    ),
+    ('- Translated: **21**', '- Translated: **26**'),
+    ('- Source-checked: **21**', '- Source-checked: **26**'),
+    (
+        'Translate and source-check letters **3785–3789** using the locked five-letter workflow, including visual scan comparison of every corresponding Tamil Markdown page before translation.',
+        'Translate and source-check letters **3790–3794** using the locked five-letter workflow, including visual scan comparison of every corresponding Tamil Markdown page before translation.',
+    ),
+]
+for old, new in progress_replacements:
+    if progress.count(old) != 1:
+        raise SystemExit(f'Progress replacement missing or duplicated: {old!r}')
+    progress = progress.replace(old, new)
