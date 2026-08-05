@@ -44,3 +44,8 @@
 | தமிழ் ஈழம் | **Tamil Eelam** | approved | Source term retained in political and geographical references to Tamil regions of Sri Lanka. |
 | தர ஊதியம் | **grade pay** | approved | Administrative pay-component term used in the Sixth Pay Commission discussion. |
 | எஸ்மா / ESMA | **ESMA** | approved | Essential Services Maintenance Act; acronym retained in the historical reference to action against employees. |
+| உலமா | **ulama** | approved | Muslim religious scholars; plural Arabic form retained. |
+| இஃப்தார் / இப்தார் | **Iftar** | approved | Evening meal that breaks the Ramadan fast; spelling normalised in English while source forms remain unchanged in Tamil. |
+| மீலாது நபி | **Milad-un-Nabi** | approved | Observance of the Prophet Muhammad’s birthday. |
+| அந்தியோதயா அன்னயோஜனா | **Antyodaya Anna Yojana** | approved | Union foodgrain programme for the poorest households; official scheme name retained. |
+| புரோடகால் | **protocol** | approved | Ceremonial order of precedence in an official event. |

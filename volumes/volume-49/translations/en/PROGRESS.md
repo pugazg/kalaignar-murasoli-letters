@@ -10,7 +10,8 @@
 - [x] Letters 3775–3779 translated and source-checked
 - [x] Letters 3780–3784 translated and source-checked
 - [x] Letters 3785–3789 translated and source-checked
-- [ ] Letters 3790–3816
+- [x] Letters 3790–3794 translated and source-checked
+- [ ] Letters 3795–3816
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English index and release report
 
@@ -29,16 +30,19 @@
 - Canonical pages **169–202** visually compared against their scans: **34/34 audited**.
   - [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)
   - Ten spacing, word-boundary, quotation-mark or grammatical-sandhi transcription artefacts were corrected before translation.
+- Canonical pages **203–241** visually compared against their scans: **39/39 audited**.
+  - [`TEXTUAL_FIDELITY_AUDIT_3790_3794.md`](TEXTUAL_FIDELITY_AUDIT_3790_3794.md)
+  - Fifteen word-boundary, quotation-mark, character-order or paragraph-boundary transcription artefacts were corrected before translation.
 - The printed `30-6-2016` date in letter 3770 is preserved and documented as a source anomaly.
 
 ## Counts
 
 - Total letters: **53**
-- Translated: **26**
-- Source-checked: **26**
+- Translated: **31**
+- Source-checked: **31**
 - Reviewed: **0**
 - Verified: **0**
 
 ## Next iteration
 
-Translate and source-check letters **3790–3794** using the locked five-letter workflow, including visual scan comparison of every corresponding Tamil Markdown page before translation.
+Translate and source-check letters **3795–3799** using the locked five-letter workflow, including visual scan comparison of every corresponding Tamil Markdown page before translation.

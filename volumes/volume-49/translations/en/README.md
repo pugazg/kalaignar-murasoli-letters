@@ -34,7 +34,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3787](letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md) | August 8: Gather Like a Surging Sea at the Demonstration! | 1 August 2013 | source-checked |
 | [3788](letters/3788-amartya-sen-and-the-call-he-issues.md) | Amartya Sen — and the Call He Issues! | 4 August 2013 | source-checked |
 | [3789](letters/3789-the-cruelty-of-taking-back-even-what-was-given.md) | The Cruelty of Taking Back Even What Was Given! | 5 August 2013 | source-checked |
-| 3790–3816 | — | — | pending |
+| [3790](letters/3790-august-8-let-the-whole-world-marvel-at-the-demonstration.md) | August 8: Let the Whole World Marvel at the Demonstration! | 7 August 2013 | source-checked |
+| [3791](letters/3791-heartfelt-greetings-to-the-islamic-community.md) | Heartfelt Greetings to the Islamic Community! | 8 August 2013 | source-checked |
+| [3792](letters/3792-the-food-bill-our-position.md) | The Food Bill: Our Position! | 10 August 2013 | source-checked |
+| [3793](letters/3793-will-the-state-government-refuse-what-the-union-government-gives.md) | Will the State Government Refuse What the Union Government Gives? | 14 August 2013 | source-checked |
+| [3794](letters/3794-an-independence-day-speech-that-forgot-periyar-and-kamarajar.md) | An Independence Day Speech That Forgot Periyar and Kamarajar! | 17 August 2013 | source-checked |
+| 3795–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -55,5 +60,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3775–3779: **31/31 pages audited; eight canonical quotation/word-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3775_3779.md`](TEXTUAL_FIDELITY_AUDIT_3775_3779.md)
 - Letters 3780–3784: **37/37 pages audited; thirteen canonical punctuation, numeral, word-boundary or omitted-character artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)
 - Letters 3785–3789: **34/34 pages audited; ten canonical spacing, word-boundary, quotation-mark or grammatical-sandhi artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)
+- Letters 3790–3794: **39/39 pages audited; fifteen canonical word-boundary, quotation-mark, character-order or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3790_3794.md`](TEXTUAL_FIDELITY_AUDIT_3790_3794.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.
