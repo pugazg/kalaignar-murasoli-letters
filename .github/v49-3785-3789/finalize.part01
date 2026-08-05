@@ -11,8 +11,10 @@ def page_body(page: int) -> str:
 
 
 # Reconstruct and unpack the audited English-translation payload.
-payload_path = STAGING / 'payload.b64'
-encoded = ''.join(payload_path.read_text(encoding='ascii').split())
+payload_parts = sorted(STAGING.glob('payload.part*'))
+if len(payload_parts) != 9:
+    raise SystemExit(f'Expected nine payload parts, found {len(payload_parts)}')
+encoded = ''.join(''.join(part.read_text(encoding='ascii').split()) for part in payload_parts)
 archive = base64.b64decode(encoded, validate=True)
 work = Path(tempfile.mkdtemp(prefix='v49-3785-3789-'))
 archive_path = work / 'batch.tar.gz'
