@@ -1,8 +1,8 @@
 name: Export Volume 49 source pages 3785-3789
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened]
+  push:
+    branches: [stage-v49-3785-3789]
     paths:
       - .github/v49-3785-3789/export-trigger.txt
 
