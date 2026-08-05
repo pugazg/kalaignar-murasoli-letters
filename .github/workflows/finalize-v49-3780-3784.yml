@@ -1,11 +1,12 @@
 name: Finalize Volume 49 translations 3780-3784
 
-# Triggered after all four payload parts and the finalizer are present.
 on:
   push:
     branches: [main]
     paths:
       - .github/workflows/finalize-v49-3780-3784.yml
+  pull_request:
+    types: [opened]
 
 permissions:
   contents: write
@@ -16,6 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Build audited bilingual batch
