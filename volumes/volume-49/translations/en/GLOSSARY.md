@@ -12,3 +12,12 @@
 | கோடி | **crore** | approved | Indian numbering unit: 10,000,000. |
 | என்கவுண்டர் | **encounter killing** / **staged encounter** | context-dependent | The translation preserves whether the source alleges an attempt or states an event. |
 | ரவுடி | **rowdy** | approved | Retained as an Indian policing and press term rather than broadened to “criminal”. |
+| பேரறிஞர் அண்ணா | **Perarignar Anna** | approved | Established movement honorific retained; a generic replacement would lose the political relationship invoked by Kalaignar. |
+| பேராசிரியர் | **Perasiriyar** when used as the established personal honorific | context-dependent | Translated as “Professor” only when the source uses it descriptively rather than as a recognised form of address. |
+| கவிப்பேரரசு / கவிக்கோ | **Kaviperarasu / Kavikko** | approved | Established literary honorifics retained in transliteration. |
+| முத்தமிழ் | **Muthamizh** | approved | The traditional threefold Tamil expression: literature, music and drama. |
+| குறுவைச் சாகுபடி | **kuruvai cultivation** | approved | Short-duration paddy cultivation in the Cauvery Delta, dependent on timely irrigation release. |
+| கச்சத் தீவு | **Katchatheevu** | approved | Established Tamil place-name retained. |
+| மிசா | **MISA** | approved | Maintenance of Internal Security Act; the acronym is retained in historical references. |
+| முப்பெரும் விழா | **Mupperum Vizha** | approved | The DMK observance associated with Periyar's birthday, Anna's birthday and the founding of the DMK. |
+| சமச்சீர் கல்வி | **Samacheer Kalvi** / **Uniform System of School Education** | approved | Tamil policy name retained on first reference with a brief English identification. |
