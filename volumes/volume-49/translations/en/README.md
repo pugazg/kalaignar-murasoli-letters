@@ -44,7 +44,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3797](letters/3797-the-day-of-bidding-them-farewell-is-not-far-away.md) | The Day of Bidding Them Farewell Is Not Far Away! | 23 August 2013 | source-checked |
 | [3798](letters/3798-let-us-find-a-solution-in-mother-indiras-way.md) | Let Us Find a Solution in Mother Indira’s Way! | 26 August 2013 | source-checked |
 | [3799](letters/3799-india-will-triumph-in-this-trial-too.md) | India Will Triumph in This Trial Too! | 30 August 2013 | source-checked |
-| 3800–3816 | — | — | pending |
+| [3800](letters/3800-the-food-security-act-gain-or-loss.md) | The Food Security Act — Gain or Loss? | 3 September 2013 | source-checked |
+| [3801](letters/3801-a-chief-minister-bent-on-holding-closing-ceremonies.md) | A Chief Minister Bent on Holding Closing Ceremonies! | 4 September 2013 | source-checked |
+| [3802](letters/3802-the-hogenakkal-project-and-the-muthialpet-police-station.md) | The Hogenakkal Project and the Muthialpet Police Station! | 6 September 2013 | source-checked |
+| [3803](letters/3803-the-great-schemes-for-women-under-the-dmk-government.md) | The Great Schemes for Women under the DMK Government! | 8 September 2013 | source-checked |
+| [3804](letters/3804-let-us-carry-forward-the-eradication-of-superstition.md) | Let Us Carry Forward the Eradication of Superstition! | 10 September 2013 | source-checked |
+| 3805–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -67,5 +72,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3785–3789: **34/34 pages audited; ten canonical spacing, word-boundary, quotation-mark or grammatical-sandhi artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)
 - Letters 3790–3794: **39/39 pages audited; fifteen canonical word-boundary, quotation-mark, character-order or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3790_3794.md`](TEXTUAL_FIDELITY_AUDIT_3790_3794.md)
 - Letters 3795–3799: **35/35 pages audited; seventeen canonical word-boundary, punctuation, character or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3795_3799.md`](TEXTUAL_FIDELITY_AUDIT_3795_3799.md)
+- Letters 3800–3804: **37/37 pages matched; no canonical correction required** — [`TEXTUAL_FIDELITY_AUDIT_3800_3804.md`](TEXTUAL_FIDELITY_AUDIT_3800_3804.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.

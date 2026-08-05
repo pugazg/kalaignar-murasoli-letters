@@ -54,3 +54,8 @@
 | செம்மொழித் தமிழாய்வு மத்திய நிறுவனம் | **Central Institute of Classical Tamil** | approved | Official institutional treatment used in letter 3797. |
 | நடப்புக் கணக்குப் பற்றாக்குறை | **current-account deficit (CAD)** | approved | Full term on first explanatory reference; abbreviation may follow where helpful. |
 | காமன்வெல்த் | **Commonwealth** | approved | Used for the Commonwealth and its 2013 conference in Sri Lanka. |
+| உணவுப் பாதுகாப்புச் சட்டம் | **Food Security Act** | approved | Formal rendering used for the 2013 national legislation discussed in letters 3792 and 3800. |
+| வறுமைக் கோடு | **poverty line** | approved | Used with the established Indian administrative categories BPL and APL where the source supplies those abbreviations. |
+| உயர்மட்டப் பறக்கும் சாலை | **elevated expressway** / **elevated road** | context-dependent | `Elevated expressway` for the Maduravoyal–Chennai Port project; `elevated road` in more general references. |
+| மூடநம்பிக்கை | **superstition** | approved | Used for beliefs and practices opposed through rationalist and scientific-temper campaigns. |
+| அறிவியல் மனப்பான்மை | **scientific temper** | approved | Constitutional and rationalist term retained in its established Indian English form. |
