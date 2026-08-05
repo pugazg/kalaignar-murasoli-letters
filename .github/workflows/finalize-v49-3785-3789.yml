@@ -18,9 +18,10 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Decode and run audited batch finalizer
+      - name: Assemble and run audited batch finalizer
         run: |
-          base64 -d .github/v49-3785-3789/finalize.py.gz.b64 | gzip -dc > /tmp/finalize-v49-3785-3789.py
+          cat .github/v49-3785-3789/finalize.part* > /tmp/finalize-v49-3785-3789.py
+          python -m py_compile /tmp/finalize-v49-3785-3789.py
           python /tmp/finalize-v49-3785-3789.py
 
       - name: Validate and commit
