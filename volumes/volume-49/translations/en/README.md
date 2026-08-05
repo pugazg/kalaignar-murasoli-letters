@@ -24,7 +24,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3777](letters/3777-a-graceful-hair-knot-a-fragrant-screw-pine-flower-they-say.md) | A Graceful Hair-Knot, a Fragrant Screw-Pine Flower, They Say!! | 19 July 2013 | source-checked |
 | [3778](letters/3778-katchatheevu-and-the-trash-question.md) | Katchatheevu and the “Trash” Question! | 20 July 2013 | source-checked |
 | [3779](letters/3779-the-height-of-danger-foreign-direct-investment.md) | The Height of Danger: Foreign Direct Investment! | 21 July 2013 | source-checked |
-| 3780–3816 | — | — | pending |
+| [3780](letters/3780-the-entrance-examination-verdict-is-opposition-necessary.md) | The Entrance-Examination Verdict — Is Opposition Necessary? | 23 July 2013 | source-checked |
+| [3781](letters/3781-i-have-neither-political-rancour-nor-anguish.md) | I Have Neither Political Rancour nor Anguish! | 24 July 2013 | source-checked |
+| [3782](letters/3782-how-long-will-they-keep-deceiving-the-people-of-this-country.md) | How Long Will They Keep Deceiving the People of This Country! | 26 July 2013 | source-checked |
+| [3783](letters/3783-our-efforts-towards-the-summit-of-victory.md) | Our Efforts Towards the Summit of Victory! | 27 July 2013 | source-checked |
+| [3784](letters/3784-she-is-supposedly-the-pioneer-for-all-india.md) | She Is Supposedly the Pioneer for All India! | 29 July 2013 | source-checked |
+| 3785–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -43,5 +48,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3765–3769: **32/32 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3765_3769.md`](TEXTUAL_FIDELITY_AUDIT_3765_3769.md)
 - Letters 3770–3774: **37/37 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3770_3774.md`](TEXTUAL_FIDELITY_AUDIT_3770_3774.md)
 - Letters 3775–3779: **31/31 pages audited; eight canonical quotation/word-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3775_3779.md`](TEXTUAL_FIDELITY_AUDIT_3775_3779.md)
+- Letters 3780–3784: **37/37 pages audited; thirteen canonical punctuation, numeral, word-boundary or omitted-character artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.

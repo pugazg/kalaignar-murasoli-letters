@@ -47,11 +47,12 @@
 
 - [Translation plan](TRANSLATION_PLAN.md)
 - [English translation index](translations/en/README.md)
-- Letters **3764–3779** have been fully translated and source-checked against Tamil PDF pages **24–131**.
+- Letters **3764–3784** have been fully translated and source-checked against Tamil PDF pages **24–168**.
 - Before translating letters **3765–3769**, every canonical Markdown page from PDF **32–63** was visually compared with its scan; all **32 pages matched**.
 - Before translating letters **3770–3774**, every canonical Markdown page from PDF **64–100** was visually compared with its scan; all **37 pages matched**.
 - Before translating letters **3775–3779**, every canonical Markdown page from PDF **101–131** was visually compared with its scan; all **31 pages were audited**, and eight scan-verified quotation-mark or word-boundary corrections were applied to the canonical Tamil page files.
+- Before translating letters **3780–3784**, every canonical Markdown page from PDF **132–168** was visually compared with its scan; all **37 pages were audited**, and thirteen scan-verified punctuation, numeral, word-boundary or omitted-character corrections were applied to the canonical Tamil page files.
 - Letter **3770** preserves the source's visibly printed date **30-6-2016**, with an explicit anomaly note rather than a silent correction.
 - Each translated file places the standard translator’s note at the top and reproduces the complete authoritative Tamil source below the English translation.
 - Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
-- Next five-letter iteration: **3780–3784**.
+- Next five-letter iteration: **3785–3789**.

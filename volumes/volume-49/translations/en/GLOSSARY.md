@@ -34,3 +34,8 @@
 | தொ.மு.ச. | **Labour Progressive Federation** | approved | DMK-affiliated trade-union federation; Tamil abbreviation may be supplied in a note. |
 | கச்சடா | **trash / filth / rubbish** | context-dependent | In letter 3778, “Trash” preserves a disparaging title pun on Katchatheevu. |
 | அன்னிய நேரடி முதலீடு | **foreign direct investment (FDI)** | approved | Full form on first reference; abbreviation thereafter. |
+| பொது நுழைவுத் தேர்வு | **nationwide common entrance examination** | approved | Uses the source's 2013 terminology; the later acronym NEET is not inserted where absent. |
+| +2 | **Plus Two** | approved | Familiar Indian term for the Higher Secondary examination and its marks. |
+| 110வது விதி | **Rule 110** | approved | Tamil Nadu Legislative Assembly procedure for a ministerial statement without an immediate debate. |
+| சம்பா சாகுபடி | **samba cultivation** | approved | Long-duration paddy season in the Cauvery Delta. |
+| காவேரி நடுவர் மன்றம் | **Cauvery Water Disputes Tribunal** | approved | Full institutional name on first contextual reference; Tribunal thereafter. |
