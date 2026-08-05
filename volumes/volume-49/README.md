@@ -36,21 +36,3 @@
 | கடிதம் 3816 | 394–401 | first-pass-reviewed |
 | பின் அட்டை | 402 | visually transcribed |
 | இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–402 | pending |
-
-## தணிக்கை
-
-- [முழுத் தொகுதி audit அறிக்கை](AUDIT.md)
-- கட்டமைப்பு, metadata, 53 தொடக்கப் பக்கங்கள், 53 இறுதிப் பக்கங்கள் மற்றும் automated completeness audit முடிக்கப்பட்டது.
-- ஒவ்வொரு உட்பக்கத்திற்குமான character-by-character இரண்டாம் visual-verification pass இன்னும் pending.
-
-## English translation
-
-- [Translation plan](TRANSLATION_PLAN.md)
-- [English translation index](translations/en/README.md)
-- Letters **3764–3774** have been fully translated and source-checked against Tamil PDF pages **24–100**.
-- Before translating letters **3765–3769**, every canonical Markdown page from PDF **32–63** was visually compared with its scan; all **32 pages matched**.
-- Before translating letters **3770–3774**, every canonical Markdown page from PDF **64–100** was visually compared with its scan; all **37 pages matched**.
-- Letter **3770** preserves the source's visibly printed date **30-6-2016**, with an explicit anomaly note rather than a silent correction.
-- Each translated file places the standard translator’s note at the top and reproduces the complete authoritative Tamil source below the English translation.
-- Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
-- Next five-letter iteration: **3775–3779**.

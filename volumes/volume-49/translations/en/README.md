@@ -19,7 +19,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3772](letters/3772-the-rajya-sabha-election-an-analysis.md) | The Rajya Sabha Election — An Analysis! | 3 July 2013 | source-checked |
 | [3773](letters/3773-let-us-raise-our-voice-for-people-of-every-caste-to-become-priests.md) | Let Us Raise Our Voice for People of Every Caste to Become Priests! | 14 July 2013 | source-checked |
 | [3774](letters/3774-does-tamil-not-deserve-the-right-that-hindi-has.md) | Does Tamil Not Deserve the Right That Hindi Has? | 15 July 2013 | source-checked |
-| 3775–3816 | — | — | pending |
+| [3775](letters/3775-long-live-the-fame-of-perunthalaivar-kamarajar.md) | Long Live the Fame of Perunthalaivar Kamarajar! | 16 July 2013 | source-checked |
+| [3776](letters/3776-our-journey-continues-without-faltering.md) | Our Journey Continues Without Faltering! | 18 July 2013 | source-checked |
+| [3777](letters/3777-a-graceful-hair-knot-a-fragrant-screw-pine-flower-they-say.md) | A Graceful Hair-Knot, a Fragrant Screw-Pine Flower, They Say!! | 19 July 2013 | source-checked |
+| [3778](letters/3778-katchatheevu-and-the-trash-question.md) | Katchatheevu and the “Trash” Question! | 20 July 2013 | source-checked |
+| [3779](letters/3779-the-height-of-danger-foreign-direct-investment.md) | The Height of Danger: Foreign Direct Investment! | 21 July 2013 | source-checked |
+| 3780–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -33,9 +38,10 @@ Every English letter places the standard translator’s note directly below its 
 
 ## Textual-fidelity audits
 
-Before each translation batch, every canonical Tamil Markdown page is visually compared against its corresponding scan.
+Before each translation batch, every canonical Tamil Markdown page is visually compared against its scan.
 
 - Letters 3765–3769: **32/32 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3765_3769.md`](TEXTUAL_FIDELITY_AUDIT_3765_3769.md)
 - Letters 3770–3774: **37/37 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3770_3774.md`](TEXTUAL_FIDELITY_AUDIT_3770_3774.md)
+- Letters 3775–3779: **31/31 pages audited; eight canonical quotation/word-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3775_3779.md`](TEXTUAL_FIDELITY_AUDIT_3775_3779.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.
