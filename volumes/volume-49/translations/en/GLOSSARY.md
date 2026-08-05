@@ -21,3 +21,10 @@
 | மிசா | **MISA** | approved | Maintenance of Internal Security Act; the acronym is retained in historical references. |
 | முப்பெரும் விழா | **Mupperum Vizha** | approved | The DMK observance associated with Periyar's birthday, Anna's birthday and the founding of the DMK. |
 | சமச்சீர் கல்வி | **Samacheer Kalvi** / **Uniform System of School Education** | approved | Tamil policy name retained on first reference with a brief English identification. |
+| மாநிலங்களவை | **Rajya Sabha** / **Council of States** | approved | `Rajya Sabha` is used in normal reference; the institutional meaning is explained once. |
+| 13வது அரசியல் சட்டத் திருத்தம் | **Sri Lanka's Thirteenth Amendment** | approved | Refers to the constitutional arrangement arising from the 1987 Indo–Sri Lanka Accord. |
+| அர்ச்சகர் | **priest** / **archaka** | context-dependent | `priest` in the body for readability; `archaka` where the specific ritual office needs emphasis. |
+| கர்ப்பக்கிரகம் | **sanctum** | approved | The innermost shrine of a Hindu temple; `garbhagriha` may be supplied in a note. |
+| ஆகமம் | **Agama** | approved | Temple ritual, worship and architectural canon; retained as a proper technical term. |
+| வழக்காடு மொழி | **language of court proceedings** | approved | Covers oral argument, judgments, orders and official court use; not reduced to “spoken language”. |
+| நவரத்தினம் / Navaratna | **Navaratna** | approved | Government of India classification for selected high-performing public-sector enterprises. |

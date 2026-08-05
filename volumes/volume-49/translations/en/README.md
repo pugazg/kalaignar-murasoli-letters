@@ -14,7 +14,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3767](letters/3767-should-there-not-be-conduct-befitting-the-office.md) | Should There Not Be Conduct Befitting the Office? | 17 June 2013 | source-checked |
 | [3768](letters/3768-it-is-among-people-like-these-that.md) | It Is Among People Like These That.... | 21 June 2013 | source-checked |
 | [3769](letters/3769-some-of-the-charitable-work-carried-out-by-the-dmk.md) | Some of the Charitable Work Carried Out by the DMK! | 28 June 2013 | source-checked |
-| 3770–3816 | — | — | pending |
+| [3770](letters/3770-are-we-to-become-like-a-lizard-that-has-lost-its-tail.md) | Are We to Become Like a Lizard That Has Lost Its Tail? | 30 June 2016 *(as printed)* | source-checked |
+| [3771](letters/3771-is-she-seeking-the-title-coal-heroine.md) | Is She Seeking the Title “Coal Heroine”? | 2 July 2013 | source-checked |
+| [3772](letters/3772-the-rajya-sabha-election-an-analysis.md) | The Rajya Sabha Election — An Analysis! | 3 July 2013 | source-checked |
+| [3773](letters/3773-let-us-raise-our-voice-for-people-of-every-caste-to-become-priests.md) | Let Us Raise Our Voice for People of Every Caste to Become Priests! | 14 July 2013 | source-checked |
+| [3774](letters/3774-does-tamil-not-deserve-the-right-that-hindi-has.md) | Does Tamil Not Deserve the Right That Hindi Has? | 15 July 2013 | source-checked |
+| 3775–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -26,6 +31,11 @@ The canonical Tamil source remains in [`../../pages/`](../../pages/) and the Tam
 
 Every English letter places the standard translator’s note directly below its title, followed by the translation. The complete canonical Tamil letter is reproduced under **Original Tamil — மூலத் தமிழ்** at the end of the file.
 
-## Textual-fidelity audit
+## Textual-fidelity audits
 
-Before each translation batch, every canonical Tamil Markdown page is visually compared against its corresponding scan. For letters 3765–3769, all **32 pages (PDF 32–63)** matched the scans. See [`TEXTUAL_FIDELITY_AUDIT_3765_3769.md`](TEXTUAL_FIDELITY_AUDIT_3765_3769.md).
+Before each translation batch, every canonical Tamil Markdown page is visually compared against its corresponding scan.
+
+- Letters 3765–3769: **32/32 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3765_3769.md`](TEXTUAL_FIDELITY_AUDIT_3765_3769.md)
+- Letters 3770–3774: **37/37 pages matched** — [`TEXTUAL_FIDELITY_AUDIT_3770_3774.md`](TEXTUAL_FIDELITY_AUDIT_3770_3774.md)
+
+Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.
