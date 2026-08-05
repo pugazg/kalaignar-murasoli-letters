@@ -1,20 +1,21 @@
 name: Import translations 3770-3774
 
 on:
-  push:
+  pull_request:
     branches: [main]
-    paths:
-      - '.translation-trigger-3770-3774'
+    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
 
 jobs:
   import:
+    if: github.head_ref == 'translation-import-3770-3774'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: translation-import-3770-3774
           fetch-depth: 0
 
       - name: Decode and import audited translation batch
@@ -33,4 +34,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Translate Volume 49 letters 3770-3774 with scan fidelity audit"
-          git push origin HEAD:main
+          git push origin HEAD:translation-import-3770-3774
