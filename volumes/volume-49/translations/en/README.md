@@ -39,7 +39,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3792](letters/3792-the-food-bill-our-position.md) | The Food Bill: Our Position! | 10 August 2013 | source-checked |
 | [3793](letters/3793-will-the-state-government-refuse-what-the-union-government-gives.md) | Will the State Government Refuse What the Union Government Gives? | 14 August 2013 | source-checked |
 | [3794](letters/3794-an-independence-day-speech-that-forgot-periyar-and-kamarajar.md) | An Independence Day Speech That Forgot Periyar and Kamarajar! | 17 August 2013 | source-checked |
-| 3795–3816 | — | — | pending |
+| [3795](letters/3795-will-india-at-least-now-understand-sri-lanka.md) | Will India at Least Now Understand Sri Lanka? | 19 August 2013 | source-checked |
+| [3796](letters/3796-womens-advancement-then-and-now.md) | Women’s Advancement — Then and Now! | 22 August 2013 | source-checked |
+| [3797](letters/3797-the-day-of-bidding-them-farewell-is-not-far-away.md) | The Day of Bidding Them Farewell Is Not Far Away! | 23 August 2013 | source-checked |
+| [3798](letters/3798-let-us-find-a-solution-in-mother-indiras-way.md) | Let Us Find a Solution in Mother Indira’s Way! | 26 August 2013 | source-checked |
+| [3799](letters/3799-india-will-triumph-in-this-trial-too.md) | India Will Triumph in This Trial Too! | 30 August 2013 | source-checked |
+| 3800–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -61,5 +66,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3780–3784: **37/37 pages audited; thirteen canonical punctuation, numeral, word-boundary or omitted-character artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3780_3784.md`](TEXTUAL_FIDELITY_AUDIT_3780_3784.md)
 - Letters 3785–3789: **34/34 pages audited; ten canonical spacing, word-boundary, quotation-mark or grammatical-sandhi artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3785_3789.md`](TEXTUAL_FIDELITY_AUDIT_3785_3789.md)
 - Letters 3790–3794: **39/39 pages audited; fifteen canonical word-boundary, quotation-mark, character-order or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3790_3794.md`](TEXTUAL_FIDELITY_AUDIT_3790_3794.md)
+- Letters 3795–3799: **35/35 pages audited; seventeen canonical word-boundary, punctuation, character or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3795_3799.md`](TEXTUAL_FIDELITY_AUDIT_3795_3799.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.

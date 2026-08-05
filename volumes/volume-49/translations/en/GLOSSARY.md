@@ -49,3 +49,8 @@
 | மீலாது நபி | **Milad-un-Nabi** | approved | Observance of the Prophet Muhammad’s birthday. |
 | அந்தியோதயா அன்னயோஜனா | **Antyodaya Anna Yojana** | approved | Union foodgrain programme for the poorest households; official scheme name retained. |
 | புரோடகால் | **protocol** | approved | Ceremonial order of precedence in an official event. |
+
+| செம்மொழி | **Classical Language** / **classical status** | approved | Formal language-status category in the source; capitalised when used as the official designation. |
+| செம்மொழித் தமிழாய்வு மத்திய நிறுவனம் | **Central Institute of Classical Tamil** | approved | Official institutional treatment used in letter 3797. |
+| நடப்புக் கணக்குப் பற்றாக்குறை | **current-account deficit (CAD)** | approved | Full term on first explanatory reference; abbreviation may follow where helpful. |
+| காமன்வெல்த் | **Commonwealth** | approved | Used for the Commonwealth and its 2013 conference in Sri Lanka. |
