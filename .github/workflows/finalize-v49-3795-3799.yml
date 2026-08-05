@@ -1,0 +1,33 @@
+name: Finalize Volume 49 translations 3795-3799
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - .github/v49-3795-3799/finalize-trigger.txt
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Decode and run audited batch finalizer
+        run: |
+          base64 -d .github/v49-3795-3799/finalize.py.gz.b64 | gzip -dc > /tmp/finalize-v49-3795-3799.py
+          python /tmp/finalize-v49-3795-3799.py
+
+      - name: Validate and commit
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Translate Volume 49 letters 3795-3799 with scan fidelity audit" -m "Add source-checked English translations for letters 3795–3799 after visually comparing all 35 canonical Tamil Markdown pages (PDF 242–276) with their scans. Apply and document seventeen scan-verified word-boundary, punctuation, character or paragraph-boundary corrections. Append the complete corrected authoritative Tamil source to every bilingual file, update the English index, glossary, progress record and repository summaries, and remove temporary export and staging files."
+          git push origin main
