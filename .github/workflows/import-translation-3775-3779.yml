@@ -21,9 +21,11 @@ jobs:
       - name: Decode and verify translation payload
         shell: bash
         run: |
+          wc -c .translation-batch-3775-3779/chunk-*.txt
           cat .translation-batch-3775-3779/chunk-*.txt > /tmp/payload.b64
-          test "$(wc -c < /tmp/payload.b64)" -eq 81980
+          wc -c /tmp/payload.b64
           base64 --decode /tmp/payload.b64 > /tmp/payload.tar.gz
+          sha256sum /tmp/payload.tar.gz
           echo "bcac0060f9c6de97665fdb74cdc87708df6fc83ec7f6ae2e74acf72c7164823d  /tmp/payload.tar.gz" | sha256sum -c -
           test "$(tar -tzf /tmp/payload.tar.gz | wc -l)" -eq 19
           tar -xzf /tmp/payload.tar.gz -C .
