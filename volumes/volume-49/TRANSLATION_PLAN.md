@@ -100,3 +100,17 @@ Generate a complete Volume 49 English index, translation manifest and review rep
 - `source-checked` — checked against all canonical Tamil pages
 - `reviewed` — meaning, tone, quotations and English readability checked
 - `verified` — final bilingual alignment completed
+
+## Mandatory textual-fidelity audit before translation
+
+Before translating any five-letter batch, visually compare every canonical Tamil Markdown page in that batch against its corresponding PDF scan.
+
+The audit must check:
+
+- letter number, title, salutation and closing;
+- paragraph sequence and page boundaries;
+- names, dates, figures, quotations and intentional English expressions;
+- punctuation where it affects meaning;
+- omissions, duplicated text and OCR artefacts.
+
+The scan is authoritative. OCR may be used only as a secondary discrepancy detector. Any source correction must be made and documented before the English translation is drafted. Each translation must record the audited PDF range, and each batch must receive a textual-fidelity audit report.
