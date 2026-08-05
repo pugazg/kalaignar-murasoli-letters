@@ -24,7 +24,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --check
           git commit -m "Translate Volume 49 letters 3800-3804 with scan fidelity audit" \
             -m "Add source-checked English translations for letters 3800–3804 after visually comparing all 37 canonical Tamil Markdown pages (PDF 277–313) with their scans. Preserve visible source irregularities without silent emendation, append the complete authoritative Tamil source to every bilingual file, update the English index, glossary, progress record and repository summaries, and remove temporary export and staging files."
           git push origin HEAD:main
