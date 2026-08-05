@@ -47,5 +47,8 @@
 
 - [Translation plan](TRANSLATION_PLAN.md)
 - [English translation index](translations/en/README.md)
-- Letter **3764** has been fully translated and checked against Tamil PDF pages **24–31**.
-- Translation approach: clear, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony and rhetorical questions.
+- Letters **3764–3769** have been fully translated and checked against Tamil PDF pages **24–63**.
+- Before translating letters **3765–3769**, every canonical Markdown page from PDF **32–63** was visually compared with its corresponding scan; all **32 pages matched**.
+- Each translated file places the standard translator’s note at the top and reproduces the complete authoritative Tamil source below the English translation.
+- Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
+- Next five-letter iteration: **3770–3774**.
