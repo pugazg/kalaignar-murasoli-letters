@@ -1,0 +1,34 @@
+name: Export Volume 49 source pages 3795-3799
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - .github/v49-3795-3799/export-trigger.txt
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Package canonical source files
+        run: |
+          mkdir -p export/volumes/volume-49/pages
+          cp volumes/volume-49/pages/page-{242..276}.md export/volumes/volume-49/pages/
+          mkdir -p export/volumes/volume-49/chapters
+          cp volumes/volume-49/chapters/README.md export/volumes/volume-49/chapters/
+          cp volumes/volume-49/translations/en/README.md export/volumes/volume-49/translations-en-README.md
+          cp volumes/volume-49/translations/en/PROGRESS.md export/volumes/volume-49/translations-en-PROGRESS.md
+          cp volumes/volume-49/translations/en/GLOSSARY.md export/volumes/volume-49/translations-en-GLOSSARY.md
+          cp volumes/volume-49/README.md export/volumes/volume-49/README.md
+          cp README.md export/README.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v49-3795-3799-source
+          path: export
+          if-no-files-found: error
