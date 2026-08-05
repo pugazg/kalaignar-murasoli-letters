@@ -1,0 +1,40 @@
+progress_path.write_text(progress, encoding='utf-8')
+
+glossary_path = Path('volumes/volume-49/translations/en/GLOSSARY.md')
+glossary = glossary_path.read_text(encoding='utf-8')
+glossary_rows = [
+    '| மகளிர் இட ஒதுக்கீடு | **women’s reservation** | approved | Refers to the proposed 33 per cent reservation in Parliament and State Legislatures. |',
+    '| உள் ஒதுக்கீடு | **internal reservation** | approved | Distribution within a broader reserved category among specified social groups. |',
+    '| தமிழ் ஈழம் | **Tamil Eelam** | approved | Source term retained in political and geographical references to Tamil regions of Sri Lanka. |',
+    '| தர ஊதியம் | **grade pay** | approved | Administrative pay-component term used in the Sixth Pay Commission discussion. |',
+    '| எஸ்மா / ESMA | **ESMA** | approved | Essential Services Maintenance Act; acronym retained in the historical reference to action against employees. |',
+]
+for row in glossary_rows:
+    if row in glossary:
+        raise SystemExit(f'Glossary row already exists: {row}')
+glossary_path.write_text(glossary.rstrip() + '\n' + '\n'.join(glossary_rows) + '\n', encoding='utf-8')
+
+# Structural and source-alignment validation.
+expected_pages = set(range(169, 203))
+seen_pages: set[int] = set()
+for letter, filename in letter_files.items():
+    p = out_dir / filename
+    text = p.read_text(encoding='utf-8')
+    if '<!-- APPEND_TAMIL_FROM_SOURCE -->' in text or '\ufffd' in text:
+        raise SystemExit(f'Unresolved placeholder or replacement character in {p}')
+    if f'letter_number: {letter}' not in text:
+        raise SystemExit(f'Letter-number front matter mismatch in {p}')
+    start, end = ranges[letter]
+    marker_pages = [int(n) for n in re.findall(r'<!-- Source PDF page (\d+) -->', text)]
+    if marker_pages != list(range(start, end + 1)):
+        raise SystemExit(f'Source-page marker mismatch in {p}: {marker_pages}')
+    tamil_start = text.index(f'<!-- Source PDF page {start} -->')
+    actual_tamil = text[tamil_start:].rstrip()
+    expected_tamil = '\n\n'.join(
+        f'<!-- Source PDF page {page} -->\n\n{page_body(page)}'
+        for page in range(start, end + 1)
+    ).rstrip()
+    if actual_tamil != expected_tamil:
+        raise SystemExit(f'Canonical Tamil mismatch in {p}')
+    seen_pages.update(marker_pages)
+
