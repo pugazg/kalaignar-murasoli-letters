@@ -1,2 +1,2 @@
 Export canonical pages 169-202 for the audited translation batch.
-PR trigger.
+Push trigger after workflow installation.
