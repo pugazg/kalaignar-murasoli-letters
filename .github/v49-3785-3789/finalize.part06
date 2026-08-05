@@ -1,0 +1,17 @@
+if seen_pages != expected_pages:
+    raise SystemExit(f'Unexpected source-page coverage: {sorted(seen_pages)}')
+if '| 3790–3816 | — | — | pending |' not in index_path.read_text(encoding='utf-8'):
+    raise SystemExit('Updated English pending range not found')
+if '- Translated: **26**' not in progress_path.read_text(encoding='utf-8'):
+    raise SystemExit('Updated translation count not found')
+if '26 / 53 (3764–3789)' not in Path('README.md').read_text(encoding='utf-8'):
+    raise SystemExit('Updated root README count not found')
+
+# Remove one-use staging/export infrastructure from the final repository tree.
+for workflow in [FINALIZER_WORKFLOW, *EXPORT_WORKFLOWS]:
+    workflow.unlink(missing_ok=True)
+if STAGING.exists():
+    shutil.rmtree(STAGING)
+shutil.rmtree(work, ignore_errors=True)
+
+print('Validated letters 3785–3789: 5 translations, 34 source pages, 10 corrections.')
