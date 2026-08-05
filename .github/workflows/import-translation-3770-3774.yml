@@ -18,20 +18,16 @@ jobs:
           ref: translation-import-3770-3774
           fetch-depth: 0
 
-      - name: Diagnose staged translation payload
+      - name: Inspect recoverable translation archive entries
         shell: bash
         run: |
-          wc -c .translation-payload-3770-3774/chunk-*.txt
-          for f in .translation-payload-3770-3774/chunk-*.txt; do
-            printf '%s first=' "$f"
-            head -c 16 "$f"
-            printf ' last='
-            tail -c 16 "$f"
-            printf '\n'
-          done
           cat .translation-payload-3770-3774/chunk-*.txt > /tmp/payload.b64
-          wc -c /tmp/payload.b64
           base64 --decode /tmp/payload.b64 > /tmp/payload.tar.gz
-          wc -c /tmp/payload.tar.gz
-          sha256sum /tmp/payload.tar.gz
-          gzip -t /tmp/payload.tar.gz
+          set +e
+          gzip -dc /tmp/payload.tar.gz > /tmp/payload.tar
+          gzip_status=$?
+          set -e
+          echo "gzip status: $gzip_status"
+          wc -c /tmp/payload.tar
+          echo 'Recoverable tar entries:'
+          tar -tvf /tmp/payload.tar --ignore-zeros || true
