@@ -1,0 +1,119 @@
+name: Finalize translations 3770-3774
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    if: github.head_ref == 'translation-import-3770-3774'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: translation-import-3770-3774
+          fetch-depth: 0
+
+      - name: Decode clean English translations
+        shell: bash
+        run: |
+          cat .translation-clean-3770-3774/3772-*.b64 | base64 --decode > /tmp/3772.md
+          cat .translation-clean-3770-3774/3773-*.b64 | base64 --decode > /tmp/3773.md
+          cat .translation-clean-3770-3774/3774-*.b64 | base64 --decode > /tmp/3774.md
+
+          echo "2d670ed277217970a853dd4c0721adc34b206bb73c60baad48cb1eff731112cd  /tmp/3772.md" | sha256sum -c -
+          echo "8786ceca6bf1a67b23be6bbaf2357454b0e2439067b772ed17ee67f85d6a5a47  /tmp/3773.md" | sha256sum -c -
+          echo "f25b29a9e4082caf6ba50cde098894ca220a46ee53188aa1b749670ff1b1ac9d  /tmp/3774.md" | sha256sum -c -
+
+      - name: Append authoritative Tamil and validate all five letters
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          root = Path('.')
+          out_dir = root / 'volumes/volume-49/translations/en/letters'
+          out_dir.mkdir(parents=True, exist_ok=True)
+
+          specs = {
+              3770: ('3770-are-we-to-become-like-a-lizard-that-has-lost-its-tail.md', 64, 69),
+              3771: ('3771-is-she-seeking-the-title-coal-heroine.md', 70, 76),
+              3772: ('3772-the-rajya-sabha-election-an-analysis.md', 77, 86),
+              3773: ('3773-let-us-raise-our-voice-for-people-of-every-caste-to-become-priests.md', 87, 93),
+              3774: ('3774-does-tamil-not-deserve-the-right-that-hindi-has.md', 94, 100),
+          }
+
+          def strip_frontmatter(text: str) -> str:
+              if not text.startswith('---\n'):
+                  raise ValueError('canonical page lacks frontmatter')
+              end = text.find('\n---\n', 4)
+              if end == -1:
+                  raise ValueError('canonical page has unterminated frontmatter')
+              return text[end + 5:].strip()
+
+          # Replace 3772-3774 with the clean English drafts and append the
+          # complete canonical Tamil page bodies in their original order.
+          for number in (3772, 3773, 3774):
+              filename, start, end = specs[number]
+              partial = Path(f'/tmp/{number}.md').read_text(encoding='utf-8').rstrip()
+              tamil_pages = []
+              for page in range(start, end + 1):
+                  source = root / f'volumes/volume-49/pages/page-{page:03d}.md'
+                  body = strip_frontmatter(source.read_text(encoding='utf-8'))
+                  tamil_pages.append(f'<!-- Source PDF page {page:03d} -->\n\n{body}')
+              full = (
+                  partial
+                  + '\n\n## Original Tamil — மூலத் தமிழ்\n\n'
+                  + 'The text below is reproduced in full from the audited canonical Tamil page files. '
+                    'The Tamil source remains authoritative.\n\n'
+                  + '\n\n'.join(tamil_pages)
+                  + '\n'
+              )
+              (out_dir / filename).write_text(full, encoding='utf-8')
+
+          required_note = "This translation is intended to carry Kalaignar's voice into clear, contemporary English"
+          for number, (filename, start, end) in specs.items():
+              path = out_dir / filename
+              text = path.read_text(encoding='utf-8')
+              assert text.startswith('---\n'), filename
+              assert f'letter_number: {number}' in text, filename
+              assert required_note in text, filename
+              assert text.count('> **Translator’s note**') == 1, filename
+              assert text.count('## Original Tamil — மூலத் தமிழ்') == 1, filename
+              assert text.count('<!-- Source PDF page ') == end - start + 1, filename
+              assert f'<!-- Source PDF page {start:03d} -->' in text, filename
+              assert f'<!-- Source PDF page {end:03d} -->' in text, filename
+              assert 'source_textual_fidelity_audit: "visual-scan-verified"' in text, filename
+              assert 'translation_status: "source-checked"' in text, filename
+
+          text3770 = (out_dir / specs[3770][0]).read_text(encoding='utf-8')
+          assert '30-6-2016' in text3770
+          assert 'Source-date anomaly' in text3770
+
+          index = (root / 'volumes/volume-49/translations/en/README.md').read_text(encoding='utf-8')
+          for number, (filename, _, _) in specs.items():
+              assert f'[{number}](letters/{filename})' in index, filename
+
+          audit = (root / 'volumes/volume-49/translations/en/TEXTUAL_FIDELITY_AUDIT_3770_3774.md').read_text(encoding='utf-8')
+          assert '37/37' in audit
+          assert 'PDF 64–100' in audit
+          PY
+
+      - name: Remove staging files and commit final batch
+        shell: bash
+        run: |
+          rm -rf .translation-clean-3770-3774
+          rm -rf .translation-payload-3770-3774
+          rm -f .translation-trigger-3770-3774
+          rm -f .github/workflows/import-translation-3770-3774.yml
+          rm -f .github/workflows/finalize-translation-3770-3774.yml
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Translate Volume 49 letters 3770-3774 with scan fidelity audit"
+          git push origin HEAD:translation-import-3770-3774
