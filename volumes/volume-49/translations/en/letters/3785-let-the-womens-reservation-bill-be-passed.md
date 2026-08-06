@@ -8,8 +8,10 @@ source_pdf_page_start: 169
 source_pdf_page_end: 175
 source_printed_page_start: 168
 source_printed_page_end: 174
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3785_3789.md"
 source_textual_fidelity_audit: "visual-scan-verified-with-corrections"
 ---
 
@@ -42,7 +44,7 @@ The committee’s report was placed before the Eleventh Lok Sabha on 9 December 
 
 It was introduced once more in the Thirteenth Lok Sabha on 22 November 1999, when Mr Vajpayee was Prime Minister. As Law Minister Ram Jethmalani sought to introduce it, Members of Parliament belonging to the Samajwadi Party and the RJD protested, snatched the copy from the Minister’s hand and tore it up. The Bill again failed.
 
-Thereafter it was introduced once in 2002 and twice in 2003, but could not be passed. In 2008, under the United Progressive Alliance Government, Law Minister Bharadwaj introduced it in the Rajya Sabha; disorder in the House prevented its passage then too. The Women’s Reservation Bill was one of the items in the UPA’s Common Minimum Programme. On 25 August 2005, the Union Government convened consultations with the UPA parties and supporting parties—the Left, the Samajwadi Party and the Bahujan Samaj Party—apart from the parties of the National Democratic Alliance. But opposition from leaders such as Lalu Prasad Yadav and Mulayam Singh Yadav prevented a consensus during that parliamentary session, and no agreement could be reached on the draft law.
+Thereafter it was introduced once in 2002 and twice in 2003, but could not be passed. In 2008, under the United Progressive Alliance Government, Law Minister Bharadwaj introduced it in the Rajya Sabha; disorder in the House prevented its passage then too. The Women’s Reservation Bill was one of the items in the UPA’s Common Minimum Programme. On 25 August 2005, the Union Government convened consultations with the UPA parties and supporting parties—the Left, the Samajwadi Party and the Bahujan Samaj Party—excluding the parties of the National Democratic Alliance. But opposition from leaders such as Lalu Prasad Yadav and Mulayam Singh Yadav prevented a consensus during that parliamentary session, and no agreement could be reached on the draft law.
 
 Following a resolution adopted at the DMK’s 2005 regional conference in Vellore, I issued the call, “Women of Tamil Nadu, come together.” A women’s procession was held under my leadership in Chennai on 15 September, Anna’s birthday. On 6 January 2007, the DMK’s High-Level Action Committee resolved that processions should be held in every district headquarters on 10 February demanding thirty-three per cent reservation for women; those processions were duly conducted. At the DMK Women’s Wing conference held in Cuddalore on 14 and 15 July that year, one of the resolutions demanded enactment of a law enabling women to contest thirty-three per cent of the constituencies in Parliament and the State Legislatures.
 

@@ -8,8 +8,10 @@ source_pdf_page_start: 234
 source_pdf_page_end: 241
 source_printed_page_start: 233
 source_printed_page_end: 240
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md"
 source_textual_fidelity_audit: "visual-scan-verified-with-corrections"
 ---
 

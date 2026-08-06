@@ -20,10 +20,12 @@
   - [x] Letters 3770–3774 verified
   - [x] Letters 3775–3779 verified
   - [x] Letters 3780–3784 verified
-  - [ ] Letters 3785–3789
-  - [ ] Letters 3790–3794
-  - [ ] Letters 3795–3799
+  - [x] Letters 3785–3789 verified
+  - [x] Letters 3790–3794 verified
+  - [x] Letters 3795–3799 verified
   - [ ] Letters 3800–3804
+    - [x] Letter 3800 verified
+    - [ ] Letters 3801–3804
   - [ ] Letters 3805–3811
   - [ ] Letters 3812–3816
 - [ ] Volume-level English index and release report
@@ -67,14 +69,19 @@
 - Letters **3775–3779** — [`BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md`](BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md): **5/5 verified**; one targeted English correction; no Tamil-source changes.
 - Letters **3780–3784** — [`BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md`](BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md): **5/5 verified**; two targeted English corrections; no Tamil-source changes.
 
+- Letters **3785–3789** — [`BILINGUAL_ALIGNMENT_REVIEW_3785_3789.md`](BILINGUAL_ALIGNMENT_REVIEW_3785_3789.md): **5/5 verified**; one targeted English clarification; no Tamil-source changes.
+- Letters **3790–3794** — [`BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md`](BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md): **5/5 verified**; no English or Tamil-source changes.
+- Letters **3795–3799** — [`BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md`](BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md): **5/5 verified**; no English or Tamil-source changes.
+- Letter **3800** — [`BILINGUAL_ALIGNMENT_REVIEW_3800.md`](BILINGUAL_ALIGNMENT_REVIEW_3800.md): **1/1 verified**; no English or Tamil-source changes.
+
 ## Counts
 
 - Total letters: **53**
 - Translated: **53**
 - Source-checked: **53**
-- Reviewed: **21**
-- Verified: **21**
+- Reviewed: **37**
+- Verified: **37**
 
 ## Next stage
 
-Continue the bilingual alignment review with letters **3785–3789**. After all 53 letters are verified, conduct the volume-level English editorial consistency pass and prepare the release report.
+Continue the bilingual alignment review with letters **3801–3804**. After all 53 letters are verified, conduct the volume-level English editorial consistency pass and prepare the release report.

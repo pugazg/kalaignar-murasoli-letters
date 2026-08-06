@@ -29,22 +29,22 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3782](letters/3782-how-long-will-they-keep-deceiving-the-people-of-this-country.md) | How Long Will They Keep Deceiving the People of This Country! | 26 July 2013 | verified |
 | [3783](letters/3783-our-efforts-towards-the-summit-of-victory.md) | Our Efforts Towards the Summit of Victory! | 27 July 2013 | verified |
 | [3784](letters/3784-she-is-supposedly-the-pioneer-for-all-india.md) | She Is Supposedly the Pioneer for All India! | 29 July 2013 | verified |
-| [3785](letters/3785-let-the-womens-reservation-bill-be-passed.md) | Let the Women’s Reservation Bill Be Passed! | 30 July 2013 | source-checked |
-| [3786](letters/3786-is-delay-your-very-name-government-of-tamil-nadu.md) | Is Delay Your Very Name, Government of Tamil Nadu? | 31 July 2013 | source-checked |
-| [3787](letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md) | August 8: Gather Like a Surging Sea at the Demonstration! | 1 August 2013 | source-checked |
-| [3788](letters/3788-amartya-sen-and-the-call-he-issues.md) | Amartya Sen — and the Call He Issues! | 4 August 2013 | source-checked |
-| [3789](letters/3789-the-cruelty-of-taking-back-even-what-was-given.md) | The Cruelty of Taking Back Even What Was Given! | 5 August 2013 | source-checked |
-| [3790](letters/3790-august-8-let-the-whole-world-marvel-at-the-demonstration.md) | August 8: Let the Whole World Marvel at the Demonstration! | 7 August 2013 | source-checked |
-| [3791](letters/3791-heartfelt-greetings-to-the-islamic-community.md) | Heartfelt Greetings to the Islamic Community! | 8 August 2013 | source-checked |
-| [3792](letters/3792-the-food-bill-our-position.md) | The Food Bill: Our Position! | 10 August 2013 | source-checked |
-| [3793](letters/3793-will-the-state-government-refuse-what-the-union-government-gives.md) | Will the State Government Refuse What the Union Government Gives? | 14 August 2013 | source-checked |
-| [3794](letters/3794-an-independence-day-speech-that-forgot-periyar-and-kamarajar.md) | An Independence Day Speech That Forgot Periyar and Kamarajar! | 17 August 2013 | source-checked |
-| [3795](letters/3795-will-india-at-least-now-understand-sri-lanka.md) | Will India at Least Now Understand Sri Lanka? | 19 August 2013 | source-checked |
-| [3796](letters/3796-womens-advancement-then-and-now.md) | Women’s Advancement — Then and Now! | 22 August 2013 | source-checked |
-| [3797](letters/3797-the-day-of-bidding-them-farewell-is-not-far-away.md) | The Day of Bidding Them Farewell Is Not Far Away! | 23 August 2013 | source-checked |
-| [3798](letters/3798-let-us-find-a-solution-in-mother-indiras-way.md) | Let Us Find a Solution in Mother Indira’s Way! | 26 August 2013 | source-checked |
-| [3799](letters/3799-india-will-triumph-in-this-trial-too.md) | India Will Triumph in This Trial Too! | 30 August 2013 | source-checked |
-| [3800](letters/3800-the-food-security-act-gain-or-loss.md) | The Food Security Act — Gain or Loss? | 3 September 2013 | source-checked |
+| [3785](letters/3785-let-the-womens-reservation-bill-be-passed.md) | Let the Women’s Reservation Bill Be Passed! | 30 July 2013 | verified |
+| [3786](letters/3786-is-delay-your-very-name-government-of-tamil-nadu.md) | Is Delay Your Very Name, Government of Tamil Nadu? | 31 July 2013 | verified |
+| [3787](letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md) | August 8: Gather Like a Surging Sea at the Demonstration! | 1 August 2013 | verified |
+| [3788](letters/3788-amartya-sen-and-the-call-he-issues.md) | Amartya Sen — and the Call He Issues! | 4 August 2013 | verified |
+| [3789](letters/3789-the-cruelty-of-taking-back-even-what-was-given.md) | The Cruelty of Taking Back Even What Was Given! | 5 August 2013 | verified |
+| [3790](letters/3790-august-8-let-the-whole-world-marvel-at-the-demonstration.md) | August 8: Let the Whole World Marvel at the Demonstration! | 7 August 2013 | verified |
+| [3791](letters/3791-heartfelt-greetings-to-the-islamic-community.md) | Heartfelt Greetings to the Islamic Community! | 8 August 2013 | verified |
+| [3792](letters/3792-the-food-bill-our-position.md) | The Food Bill: Our Position! | 10 August 2013 | verified |
+| [3793](letters/3793-will-the-state-government-refuse-what-the-union-government-gives.md) | Will the State Government Refuse What the Union Government Gives? | 14 August 2013 | verified |
+| [3794](letters/3794-an-independence-day-speech-that-forgot-periyar-and-kamarajar.md) | An Independence Day Speech That Forgot Periyar and Kamarajar! | 17 August 2013 | verified |
+| [3795](letters/3795-will-india-at-least-now-understand-sri-lanka.md) | Will India at Least Now Understand Sri Lanka? | 19 August 2013 | verified |
+| [3796](letters/3796-womens-advancement-then-and-now.md) | Women’s Advancement — Then and Now! | 22 August 2013 | verified |
+| [3797](letters/3797-the-day-of-bidding-them-farewell-is-not-far-away.md) | The Day of Bidding Them Farewell Is Not Far Away! | 23 August 2013 | verified |
+| [3798](letters/3798-let-us-find-a-solution-in-mother-indiras-way.md) | Let Us Find a Solution in Mother Indira’s Way! | 26 August 2013 | verified |
+| [3799](letters/3799-india-will-triumph-in-this-trial-too.md) | India Will Triumph in This Trial Too! | 30 August 2013 | verified |
+| [3800](letters/3800-the-food-security-act-gain-or-loss.md) | The Food Security Act — Gain or Loss? | 3 September 2013 | verified |
 | [3801](letters/3801-a-chief-minister-bent-on-holding-closing-ceremonies.md) | A Chief Minister Bent on Holding Closing Ceremonies! | 4 September 2013 | source-checked |
 | [3802](letters/3802-the-hogenakkal-project-and-the-muthialpet-police-station.md) | The Hogenakkal Project and the Muthialpet Police Station! | 6 September 2013 | source-checked |
 | [3803](letters/3803-the-great-schemes-for-women-under-the-dmk-government.md) | The Great Schemes for Women under the DMK Government! | 8 September 2013 | source-checked |
@@ -68,6 +68,11 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 - Letters **3770–3774**: substantive Tamil–English alignment completed; five files verified, with five targeted English corrections in letter 3774 and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md`](BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md)
 - Letters **3775–3779**: substantive Tamil–English alignment completed; five files verified, with one targeted English correction and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md`](BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md)
 - Letters **3780–3784**: substantive Tamil–English alignment completed; five files verified, with two targeted English corrections and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md`](BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md)
+
+- Letters **3785–3789**: substantive Tamil–English alignment completed; five files verified, with one targeted English clarification and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3785_3789.md`](BILINGUAL_ALIGNMENT_REVIEW_3785_3789.md)
+- Letters **3790–3794**: substantive Tamil–English alignment completed; five files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md`](BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md)
+- Letters **3795–3799**: substantive Tamil–English alignment completed; five files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md`](BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md)
+- Letter **3800**: substantive Tamil–English alignment completed; one file verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3800.md`](BILINGUAL_ALIGNMENT_REVIEW_3800.md)
 
 ## Translation policy
 
