@@ -1,0 +1,42 @@
+name: Export Volume 49 bilingual review batch 3801-3816
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect review sources
+        run: |
+          mkdir -p review-source/letters
+          cp volumes/volume-49/TRANSLATION_PLAN.md review-source/
+          cp volumes/volume-49/README.md review-source/VOLUME_README.md
+          cp volumes/volume-49/translations/en/PROGRESS.md review-source/
+          cp volumes/volume-49/translations/en/README.md review-source/EN_README.md
+          cp volumes/volume-49/translations/en/GLOSSARY.md review-source/
+          cp volumes/volume-49/translations/en/letters/3801-a-chief-minister-bent-on-holding-closing-ceremonies.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3802-the-hogenakkal-project-and-the-muthialpet-police-station.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3803-the-great-schemes-for-women-under-the-dmk-government.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3804-let-us-carry-forward-the-eradication-of-superstition.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3805-only-a-referendum-can-give-eelam-tamils-a-new-life.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3806-justice-will-prevail-it-certainly-will.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3807-bearing-the-sword-of-righteous-struggle-let-us-continue-on-periyars-and-annas-path.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3808-tamil-nadu-in-the-terrifying-grip-of-murder.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3809-you-are-lamps-to-the-home-and-workers-for-the-nation.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3810-a-dream-seen-in-the-glare-of-publicity.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3811-they-say-ghee-drips-from-finger-millet-listen-tamils.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3812-many-left-uninvited-and-many-honoured-after-being-invited.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3813-this-is-the-dmk-nurtured-by-so-many-samikkannus.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3814-does-a-majority-government-mean-it-can-do-anything.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3815-nothing-but-corruption-is-going-to-rise.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3816-the-tamil-people-are-no-longer-ready-to-be-deceived.md review-source/letters/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v49-review-3801-3816-source
+          path: review-source
