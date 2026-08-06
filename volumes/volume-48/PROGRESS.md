@@ -5,14 +5,14 @@
 - [x] Existing repository checked; `volumes/volume-48/` had not been started
 - [x] Volume number verified from the source scan
 - [x] Source filename, SHA-256, byte size and 402-page count recorded
-- [x] Initial strategy batch: PDF pages 1–25 created as one-page-per-file Markdown
+- [x] PDF pages 1–29 created as one-page-per-file Markdown
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
-- [x] Letter 3706 partial: PDF 24–25 / printed 23–24
-- [x] Page continuity, front matter, links and duplicate-body checks for PDF 1–25
-- [ ] Complete letter 3706: continue at PDF page 26 / printed page 25
-- [ ] Remaining PDF pages 26–402
+- [x] Letter 3706: PDF 24–29 / printed 23–28
+- [x] Page continuity, front matter, links and duplicate-body checks for this batch
+- [ ] Letter 3707: begin at PDF page 30 / printed page 29
+- [ ] Remaining PDF pages 30–402
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory textual-fidelity audits before any translation
 - [ ] English translation
@@ -20,4 +20,4 @@
 
 ## Next exact task
 
-Continue **letter 3706 — “ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா?”** from **PDF page 26**, and finish the letter before beginning letter 3707.
+Transcribe and visually verify **PDF page 30**, the start of letter **3707 — “இவையெல்லாம் பாராட்டாகத் தெரிகிறதா?”**, then continue to a safe complete-letter or 10–20-page boundary.

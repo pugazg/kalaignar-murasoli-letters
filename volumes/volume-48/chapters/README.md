@@ -1,12 +1,12 @@
 # கடிதங்கள் / அத்தியாயங்கள் — தொகுதி 48
 
-The printed contents identify **58 letters (3706–3763)**. A partial chapter record is retained when a fixed batch boundary falls inside a letter; it must state the exact continuation page.
+The printed contents identify **58 letters (3706–3763)**. Only completed or scan-boundary-verified letters receive a chapter file during transcription.
 
 | எண் | தலைப்பு | தேதி | அச்சுப் பக்கம் | நிலை |
 |---:|---|---|---:|---|
-| [3706](3706-un-list.md) | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | partial (PDF 24–25; continues at 26) |
+| [3706](3706-un-list.md) | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | complete (PDF 24–29) |
 | 3707 | இவையெல்லாம் பாராட்டாகத் தெரிகிறதா? | 22-2-2013 | 29 | contents identified; transcription not started |
-| 3708 | வென்றவர் சொல்லவிதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | contents identified; transcription not started |
+| 3708 | வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | contents identified; transcription not started |
 | 3709 | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | contents identified; transcription not started |
 | 3710 | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | contents identified; transcription not started |
 | 3711 | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | contents identified; transcription not started |
@@ -35,7 +35,7 @@ The printed contents identify **58 letters (3706–3763)**. A partial chapter re
 | 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | contents identified; transcription not started |
 | 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | contents identified; transcription not started |
 | 3736 | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | contents identified; transcription not started |
-| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்ப்பார்ப்பது என்ன? | 18-4-2013 | 225 | contents identified; transcription not started |
+| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | contents identified; transcription not started |
 | 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | contents identified; transcription not started |
 | 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | contents identified; transcription not started |
 | 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | contents identified; transcription not started |

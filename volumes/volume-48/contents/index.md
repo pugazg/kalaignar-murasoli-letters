@@ -9,9 +9,9 @@ transcription_status: "visually-transcribed"
 
 | எண் | தலைப்பு | ஆண்டு / தேதி (மூல அச்சு) | அச்சுப் பக்கம் | PDF தொடக்கம் | நிலை / அத்தியாயம் |
 |---:|---|---|---:|---:|---|
-| 3706 | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | 24 | [partial: PDF 24–25](../chapters/3706-un-list.md) |
+| 3706 | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | 24 | [complete](../chapters/3706-un-list.md) |
 | 3707 | இவையெல்லாம் பாராட்டாகத் தெரிகிறதா? | 22-2-2013 | 29 | provisional | contents identified; boundary verification pending |
-| 3708 | வென்றவர் சொல்லவிதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | provisional | contents identified; boundary verification pending |
+| 3708 | வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | provisional | contents identified; boundary verification pending |
 | 3709 | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | provisional | contents identified; boundary verification pending |
 | 3710 | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | provisional | contents identified; boundary verification pending |
 | 3711 | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | provisional | contents identified; boundary verification pending |
@@ -40,7 +40,7 @@ transcription_status: "visually-transcribed"
 | 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | provisional | contents identified; boundary verification pending |
 | 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | provisional | contents identified; boundary verification pending |
 | 3736 | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | provisional | contents identified; boundary verification pending |
-| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்ப்பார்ப்பது என்ன? | 18-4-2013 | 225 | provisional | contents identified; boundary verification pending |
+| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | provisional | contents identified; boundary verification pending |
 | 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | provisional | contents identified; boundary verification pending |
 | 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | provisional | contents identified; boundary verification pending |
 | 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | provisional | contents identified; boundary verification pending |
@@ -72,5 +72,5 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order and date formatting are preserved exactly.
-- Letter 3706 has a visually verified PDF start at 24; its end remains pending because this fixed 25-page batch stops inside the letter.
+- Only letter 3706 has a visually verified PDF start/end in this batch.
 - No constant printed-page/PDF-page offset is assumed for unprocessed letters; their PDF boundaries remain pending until the scan is inspected.
