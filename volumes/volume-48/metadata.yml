@@ -1,0 +1,28 @@
+volume: 48
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 48"
+author: "கலைஞர்"
+date_from: 2013-02-20
+date_to: 2013-05-31
+letter_number_from: 3706
+letter_number_to: 3763
+letter_count: 58
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+pdf_pages: 402
+source_file: "Vol48.pdf"
+source_sha256: "1f7258b06857fadf3958dc3e9e19eee1ac602e66277d907351701225fcb1bb4c"
+source_size_bytes: 214390300
+transcription_page_range: "1-25"
+transcription_status: "in-progress"
+audit_status: "batch-audit-complete"
+audit_date: 2026-08-06
+second_visual_verification: "pending"
+translation_status: "not-started"
+bilingual_alignment_status: "not-started"
+english_release_status: "not-started"
+source_observations:
+  - "PDF page 23 is blank, with faint show-through from the reverse side."
+  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-25."
+  - "The PDF has no usable searchable text layer; transcription was performed from rendered page images."
