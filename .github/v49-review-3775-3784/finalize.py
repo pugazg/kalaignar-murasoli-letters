@@ -4,8 +4,8 @@ import base64, hashlib, io, lzma, shutil, tarfile
 root = Path.cwd()
 staging = root / '.github' / 'v49-review-3775-3784'
 parts = sorted(staging.glob('payload.part*'))
-if len(parts) != 3:
-    raise SystemExit(f'Expected 3 payload parts, found {len(parts)}')
+if len(parts) != 10:
+    raise SystemExit(f'Expected 10 payload parts, found {len(parts)}')
 encoded = ''.join(p.read_text().strip() for p in parts)
 compressed = base64.b64decode(encoded)
 if hashlib.sha256(compressed).hexdigest() != '3d15685cb9761a33ec4cfe08038cccc2537dd542297ec7b8555e558be789a437':
