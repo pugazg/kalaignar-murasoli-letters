@@ -17,7 +17,7 @@
 - [x] Letters 3812–3816 translated and source-checked
 - [ ] Full bilingual alignment review
   - [x] Letters 3764–3769 verified
-  - [ ] Letters 3770–3774
+  - [x] Letters 3770–3774 verified
   - [ ] Letters 3775–3779
   - [ ] Letters 3780–3784
   - [ ] Letters 3785–3789
@@ -63,15 +63,16 @@
 ## Bilingual alignment review reports
 
 - Letters **3764–3769** — [`BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md`](BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md): **6/6 verified**; four targeted English corrections; no Tamil-source changes.
+- Letters **3770–3774** — [`BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md`](BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md): **5/5 verified**; five targeted English corrections; no Tamil-source changes.
 
 ## Counts
 
 - Total letters: **53**
 - Translated: **53**
 - Source-checked: **53**
-- Reviewed: **6**
-- Verified: **6**
+- Reviewed: **11**
+- Verified: **11**
 
 ## Next stage
 
-Continue the bilingual alignment review with letters **3770–3774**. After all 53 letters are verified, conduct the volume-level English editorial consistency pass and prepare the release report.
+Continue the bilingual alignment review with letters **3775–3779**. After all 53 letters are verified, conduct the volume-level English editorial consistency pass and prepare the release report.

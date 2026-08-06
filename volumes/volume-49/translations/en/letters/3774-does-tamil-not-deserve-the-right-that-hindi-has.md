@@ -8,8 +8,10 @@ source_pdf_page_start: 94
 source_pdf_page_end: 100
 source_printed_page_start: 93
 source_printed_page_end: 99
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -28,13 +30,13 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 A report has appeared that yesterday, 12 July 2013, the Madurai Bench of the High Court refused permission to argue in Tamil in a petition seeking the rescue of a husband stranded in Saudi Arabia. Saying that “permission cannot be granted to argue in Tamil in the High Court”, the Court dismissed the petition.
 
-A woman named Aisha Banu of Kovilpatti in Thoothukudi district had filed the petition before the Madurai Bench. She said that her husband, Fakkeer Mydeen, had gone abroad for work; that the company owner had taken away his passport; that because he was not literate he was unable to contact Indian Embassy officials; that he had been suffering for the past twenty-one months; and that the authorities should be directed to take appropriate action to rescue him and bring him back to India.
+A woman named Aisha Banu of Kovilpatti in Thoothukudi district had filed the petition before the Madurai Bench. She said that her husband, Fakkeer Mydeen, had gone to Dubai for work; that the company owner had taken away his passport; that because he was not literate he was unable to contact Indian Embassy officials; that he had been suffering for the past twenty-one months; and that the authorities should be directed to take appropriate action to rescue him and bring him back to India.
 
 The lawyer who wished to appear for her asked to present his arguments in Tamil and sought the Court's permission. The High Court judge refused, saying that a Constitution Bench of the Supreme Court had held that arguments in the High Courts and the Supreme Court must be conducted in English. The judge showed the lawyer a copy of that judgment and also dismissed Aisha Banu's petition.
 
 I do not come forward to find fault with the judge. In his order, he referred to Article 348 of the Constitution, which states that English shall be the language used in proceedings before the Supreme Court and the High Courts.
 
-In one case, Raj Narain appeared in the Supreme Court and argued in Hindi. M. C. Setalvad's successor as Attorney General, C. K. Daphtary, objected; some judges on the Bench also objected to Hindi being used. The judges then refused permission to speak in Hindi. They ordered that the litigant could speak in English, submit his argument in writing or appoint a lawyer to argue on his behalf. On that occasion too, the judges cited Article 348 and stated that English was the language of court proceedings.
+In one case, Raj Narain appeared in the Supreme Court and argued in Hindi. The then Attorney General, C. K. Daphtary, objected; some judges on the Bench also objected to Hindi being used. The judges then refused permission to speak in Hindi. They ordered that the litigant could speak in English, submit his argument in writing or appoint a lawyer to argue on his behalf. On that occasion too, the judges cited Article 348 and stated that English was the language of court proceedings.
 
 When the DMK was in office, I told journalists who met me on 22 November 2006:
 
@@ -78,11 +80,11 @@ At the time this resolution was adopted, former Minister and lawyer Madurai Pon.
 
 > “Pon. Muthuramalingam, a former Minister and lawyer, argued the criminal appeal, filed by two convicts in a 2007 murder case, before a Division Bench comprising Justice M. Chockalingam and Justice M. Duraiswamy. The Judges recorded their appreciation of the counsel's effort.”
 
-Even after all this, because the Supreme Court had raised an objection, the Union Government could not then grant approval to the Tamil Nadu Government's resolution. Nevertheless, because a DMK Government was in office in Tamil Nadu at the time, the hearings in a large number of cases in the Madras High Court took place in Tamil. M. Y. Eqbal, who was Chief Justice in 2010 during the DMK Government's tenure, also issued an order permitting arguments in Tamil in the High Court.
+Even after all this, because the Supreme Court had raised an objection, the Union Government could not then grant approval to the Tamil Nadu Government's resolution. Nevertheless, because a DMK Government was in office in Tamil Nadu at the time, the hearings in most cases in the Madras High Court took place in Tamil. M. Y. Eqbal, who was Chief Justice in 2010 during the DMK Government's tenure, also issued an order permitting arguments in Tamil in the High Court.
 
-Now, however, a High Court judge has denied a lawyer permission to argue in Tamil and has also stated that the Constitution does not permit arguments in Tamil. Lawyers have therefore launched a protest demanding that Tamil be declared a language of proceedings in the High Court.
+Now, however, on 3 January, a High Court judge denied a lawyer permission to argue in Tamil and also stated that the Constitution does not permit arguments in Tamil. Lawyers have therefore launched a protest demanding that Tamil be declared a language of proceedings in the High Court.
 
-The Union and State Governments must understand that their protest is entirely just. In particular, the Union Government must intervene. Just as Hindi is already permitted in practice as a language of proceedings in certain northern High Courts, it must obtain the Supreme Court's approval and secure the President's consent for the proposal pending since the period of the DMK Government, so that Tamil may lawfully be used as a language of proceedings in the High Court in Tamil Nadu.
+The Union and State Governments must understand that their protest is entirely just. In particular, the Union Government must intervene. Just as Hindi is already permitted in practice as a language of proceedings in certain northern High Courts, it must obtain the Supreme Court's approval and secure the President's consent for the legal amendment pending since the period of the DMK Government, so that Tamil may lawfully be used as a language of proceedings in the High Court in Tamil Nadu.
 
 I urge this again and again.
 

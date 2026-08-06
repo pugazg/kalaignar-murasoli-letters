@@ -8,8 +8,10 @@ source_pdf_page_start: 64
 source_pdf_page_end: 69
 source_printed_page_start: 63
 source_printed_page_end: 68
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 source_date_note: "The printed source gives 30-6-2016, although the letter’s contents and its position in Volume 49 place it in June 2013. The printed date is preserved without silent correction."
 ---

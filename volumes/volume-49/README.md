@@ -62,5 +62,5 @@
 - Each translated file places the standard translator’s note at the top and reproduces the complete authoritative Tamil source below the English translation.
 - Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
 - All **53** letters are translated and source-checked.
-- Bilingual alignment review is complete for letters **3764–3769**: **6 verified**, **47 awaiting alignment review**. See the [review report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md).
-- Next alignment batch: letters **3770–3774**.
+- Bilingual alignment review is complete through letter **3774**: **11 verified**, **42 awaiting alignment review**. See the [review reports](translations/en/README.md#bilingual-alignment-reviews).
+- Next alignment batch: letters **3775–3779**.
