@@ -40,3 +40,4 @@ jobs:
         with:
           name: v49-review-3785-3800-source
           path: review-source
+# Synchronize after installing the one-use finalizer.
