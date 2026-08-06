@@ -61,4 +61,6 @@
 - Letter **3770** preserves the source's visibly printed date **30-6-2016**, with an explicit anomaly note rather than a silent correction.
 - Each translated file places the standard translator’s note at the top and reproduces the complete authoritative Tamil source below the English translation.
 - Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
-- All **53** letters are now translated and source-checked. The next stage is full bilingual alignment review, followed by the volume-level release report.
+- All **53** letters are translated and source-checked.
+- Bilingual alignment review is complete for letters **3764–3769**: **6 verified**, **47 awaiting alignment review**. See the [review report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md).
+- Next alignment batch: letters **3770–3774**.

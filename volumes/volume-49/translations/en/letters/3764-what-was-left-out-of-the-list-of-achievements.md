@@ -8,8 +8,11 @@ source_pdf_page_start: 24
 source_pdf_page_end: 31
 source_printed_page_start: 23
 source_printed_page_end: 30
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md"
+source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
 # 3764. What Was Left Out of the List of Achievements!
@@ -70,7 +73,7 @@ Do you know how many murders took place in Tamil Nadu in May alone—and these a
 - Ramu, a functionary of the Puratchi Bharatham party, had his throat cut and was murdered near Sriperumbudur.
 - Ramesh murdered the woman he had married for love in Dharapuram.
 - Palanisamy, described as the daughter's illicit lover, was murdered near Jayankondam.
-- Selvi was electrocuted and murdered by her husband in Tiruppur.
+- Selvi was electrocuted and murdered in Tiruppur.
 - A young man was burnt to death near Red Hills.
 - Sampath, a construction worker near Guduvanchery, was beaten to death.
 - A young man was strangled near Poonamallee.

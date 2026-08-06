@@ -8,8 +8,10 @@ source_pdf_page_start: 32
 source_pdf_page_end: 39
 source_printed_page_start: 31
 source_printed_page_end: 38
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -38,7 +40,7 @@ Likewise, twelve volumes of my important speeches in the Tamil Nadu Legislative 
 
 Do you know the total number of pages of my speeches and writings that have appeared in print? 17,082 pages. Even I feel overwhelmed and astonished: have I written so many pages? And that is not all. More than one hundred smaller books written by me have also been published. In addition, twelve volumes of the letters I wrote in *Murasoli* have appeared. Thambi Ila. Pugazhendi has brought together my speeches delivered at educational institutions and published them as a large volume.
 
-It is not only writing. At the age of ninety, there is hardly a major city, small town or village in Tamil Nadu where I have not spoken. In places outside the State, by roadsides while travelling, in Chennai, at conferences, at public meetings, and even at the entrance to my own home—the weddings I have conducted alone approach twenty thousand.
+It is not only writing. At the age of ninety, there is hardly a major city, small town or village in Tamil Nadu where I have not spoken. In places outside the State, by roadsides while travelling, in Chennai, at conferences, at public meetings, and even at the entrance to my own home—the number of marriages I have solemnised is itself close to twenty thousand.
 
 That is not all. Though I have been the leader of a State party in Tamil Nadu politics, I have interacted with leaders across India to such an extent that there is hardly an all-India leader who does not know me. Beginning with the period when Madam Indira Gandhi was Prime Minister, every Prime Minister who followed has dealt with me affectionately. I have never behaved in a way that would make anyone show hatred towards me. Not only Prime Ministers and Union Ministers, but all the leaders who sat in the Opposition at the Centre have respected and appreciated me. Leaders in the various States of India also know me well.
 
@@ -50,7 +52,7 @@ On the morning of the 1st, the Women's Wing held a birthday seminar under the le
 
 On 2 June, a function was held to release the fifth volume of *Nenjukku Neethi* and *Sirukathai Poonga*. The General Secretary, Perasiriyar, who takes the lead and lends distinction to my birthday celebrations every year, was unwell. Before leaving for the function that evening, I therefore went to his home, met him and received his greetings. Justice Mohan presided over the function and released the books. There, he poured out his affection for me like the waterfalls of Courtallam. Our Dr Nannan, who received the first copy, expressed his views with both a sense of right and deep feeling. Kaviperarasu Vairamuthu marvelled at and praised the distinction of the books in his own characteristic way. Until then, I had heard Manushyaputhiran's views only through newspapers and television; that day was the first time I heard him in person. It was as though he had reflected for a long time, shaped a profound research essay and was reading it aloud—yet he presented it there without a single note in his hand. Thambi Duraimurugan, who delivered the welcome address, once again proved before everyone, in a way that stirred them, that he is indeed my younger brother.
 
-From five in the morning on 3 June until I went to bed at around midnight, the rain of affection that the Tamil people poured upon me—how am I ever to repay it? Every year on my birthday, I have met comrades of the movement at Anna Arivalayam. But how did such a vast crowd gather this year? The glass entrance door of Anna Arivalayam was shattered to pieces. The previous night, our friends at Arivalayam had neatly erected temporary barricades to regulate the crowd. By the next morning, all of them had broken amid the press of people. At one point, fearing that the crowd might fall upon me, we had to hurry into a nearby room.
+From five in the morning on 3 June until I went to bed at around midnight, the rain of affection that the Tamil people poured upon me—how am I ever to repay it? Every year on my birthday, I have met comrades of the movement at Anna Arivalayam. But how did such a vast crowd gather this year? The glass entrance door of Anna Arivalayam was shattered to pieces. The previous night, our friends at Arivalayam had neatly erected temporary barricades to regulate the crowd. By the next morning, all of them had broken amid the press of people. At one point, fearing that the crowd might press in on me, we had to hurry into a nearby room.
 
 The birthday public meeting was held at the YMCA grounds in Royapettah. It had been arranged there because obtaining police permission would have been difficult at other places. It is an enormous ground. I must make particular mention of the South Chennai District Secretary, Thambi J. Anbazhagan, who organised the meeting, and of the Udanpirappugal who worked under his leadership. I had intended to mention them at the public meeting itself. They had created the setting so splendidly that one wondered whether Anna Arivalayam itself had been lifted from its location and placed there. Such is the South Chennai District Secretary's “devotion” to me.
 

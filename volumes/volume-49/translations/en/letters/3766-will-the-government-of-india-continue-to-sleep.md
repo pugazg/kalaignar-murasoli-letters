@@ -8,8 +8,10 @@ source_pdf_page_start: 40
 source_pdf_page_end: 44
 source_printed_page_start: 39
 source_printed_page_end: 43
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -42,7 +44,7 @@ Speaking about the incident, Fishermen's Association President Jesuraj said that
 
 In addition to these forty-nine fishermen, the day before yesterday the Sri Lankan Coast Guard police detained Bose, Babu and Regan, three fishermen who had travelled in a boat belonging to Shanmugam of Rameswaram. The police questioned them aboard their patrol vessel and severely threatened them. They kept the three men on the vessel for about ten hours before releasing them.
 
-The Rameswaram fishermen have now announced a peaceful protest: if the forty-nine fishermen held in Sri Lankan prisons are not released, they will sail towards Sri Lanka on 22 June in all their mechanised boats, flying white flags.
+The Rameswaram fishermen have now announced a peaceful protest: if the forty-nine fishermen held in Sri Lankan prisons are not released, they will conduct a boat procession towards Sri Lanka on 22 June in all their mechanised boats, flying white flags.
 
 Further, eleven fishermen—including Jayaseelan of Colachel in Kanyakumari district and Antony Suresh of Arokiyapuram—were fishing in the Saudi Arabian sea region on 16 December last year when they were arrested by the Iranian Coast Guard and confined in Bandar Abbas prison. Repeated appeals have been made for action to secure their release, but no action appears to have been taken so far.
 

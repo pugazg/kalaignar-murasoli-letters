@@ -8,12 +8,12 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 
 | Letter | English title | Date | Status |
 |---:|---|---|---|
-| [3764](letters/3764-what-was-left-out-of-the-list-of-achievements.md) | What Was Left Out of the List of Achievements! | 1 June 2013 | source-checked |
-| [3765](letters/3765-i-will-work-i-will-keep-working.md) | I Will Work; I Will Keep Working! | 6 June 2013 | source-checked |
-| [3766](letters/3766-will-the-government-of-india-continue-to-sleep.md) | Will the Government of India Continue to Sleep? | 8 June 2013 | source-checked |
-| [3767](letters/3767-should-there-not-be-conduct-befitting-the-office.md) | Should There Not Be Conduct Befitting the Office? | 17 June 2013 | source-checked |
-| [3768](letters/3768-it-is-among-people-like-these-that.md) | It Is Among People Like These That.... | 21 June 2013 | source-checked |
-| [3769](letters/3769-some-of-the-charitable-work-carried-out-by-the-dmk.md) | Some of the Charitable Work Carried Out by the DMK! | 28 June 2013 | source-checked |
+| [3764](letters/3764-what-was-left-out-of-the-list-of-achievements.md) | What Was Left Out of the List of Achievements! | 1 June 2013 | verified |
+| [3765](letters/3765-i-will-work-i-will-keep-working.md) | I Will Work; I Will Keep Working! | 6 June 2013 | verified |
+| [3766](letters/3766-will-the-government-of-india-continue-to-sleep.md) | Will the Government of India Continue to Sleep? | 8 June 2013 | verified |
+| [3767](letters/3767-should-there-not-be-conduct-befitting-the-office.md) | Should There Not Be Conduct Befitting the Office? | 17 June 2013 | verified |
+| [3768](letters/3768-it-is-among-people-like-these-that.md) | It Is Among People Like These That.... | 21 June 2013 | verified |
+| [3769](letters/3769-some-of-the-charitable-work-carried-out-by-the-dmk.md) | Some of the Charitable Work Carried Out by the DMK! | 28 June 2013 | verified |
 | [3770](letters/3770-are-we-to-become-like-a-lizard-that-has-lost-its-tail.md) | Are We to Become Like a Lizard That Has Lost Its Tail? | 30 June 2016 *(as printed)* | source-checked |
 | [3771](letters/3771-is-she-seeking-the-title-coal-heroine.md) | Is She Seeking the Title “Coal Heroine”? | 2 July 2013 | source-checked |
 | [3772](letters/3772-the-rajya-sabha-election-an-analysis.md) | The Rajya Sabha Election — An Analysis! | 3 July 2013 | source-checked |
@@ -61,6 +61,10 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3814](letters/3814-does-a-majority-government-mean-it-can-do-anything.md) | Does a “Majority” Government Mean It Can Do Anything? | 8 October 2013 | source-checked |
 | [3815](letters/3815-nothing-but-corruption-is-going-to-rise.md) | Nothing but Corruption Is Going to Rise! | 9 October 2013 | source-checked |
 | [3816](letters/3816-the-tamil-people-are-no-longer-ready-to-be-deceived.md) | The Tamil People Are No Longer Ready to Be Deceived! | 10 October 2013 | source-checked |
+
+## Bilingual alignment reviews
+
+- Letters **3764–3769**: substantive Tamil–English alignment completed; six files verified, with four targeted English corrections and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md`](BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md)
 
 ## Translation policy
 

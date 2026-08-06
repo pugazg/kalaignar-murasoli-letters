@@ -16,6 +16,16 @@
 - [x] Letters 3805–3811 translated and source-checked
 - [x] Letters 3812–3816 translated and source-checked
 - [ ] Full bilingual alignment review
+  - [x] Letters 3764–3769 verified
+  - [ ] Letters 3770–3774
+  - [ ] Letters 3775–3779
+  - [ ] Letters 3780–3784
+  - [ ] Letters 3785–3789
+  - [ ] Letters 3790–3794
+  - [ ] Letters 3795–3799
+  - [ ] Letters 3800–3804
+  - [ ] Letters 3805–3811
+  - [ ] Letters 3812–3816
 - [ ] Volume-level English index and release report
 
 ## Textual-fidelity audits
@@ -50,14 +60,18 @@
   - No canonical correction was required; visibly printed irregularities were retained source-exact. PDF page 402 is the back cover.
 - The printed `30-6-2016` date in letter 3770 is preserved and documented as a source anomaly.
 
+## Bilingual alignment review reports
+
+- Letters **3764–3769** — [`BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md`](BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md): **6/6 verified**; four targeted English corrections; no Tamil-source changes.
+
 ## Counts
 
 - Total letters: **53**
 - Translated: **53**
 - Source-checked: **53**
-- Reviewed: **0**
-- Verified: **0**
+- Reviewed: **6**
+- Verified: **6**
 
 ## Next stage
 
-Conduct the full bilingual alignment review across letters **3764–3816**, followed by the volume-level English release report.
+Continue the bilingual alignment review with letters **3770–3774**. After all 53 letters are verified, conduct the volume-level English editorial consistency pass and prepare the release report.
