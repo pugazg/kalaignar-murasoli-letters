@@ -15,7 +15,7 @@
 - [x] Letters 3800–3804 translated and source-checked
 - [x] Letters 3805–3811 translated and source-checked
 - [x] Letters 3812–3816 translated and source-checked
-- [ ] Full bilingual alignment review
+- [x] Full bilingual alignment review
   - [x] Letters 3764–3769 verified
   - [x] Letters 3770–3774 verified
   - [x] Letters 3775–3779 verified
@@ -23,11 +23,9 @@
   - [x] Letters 3785–3789 verified
   - [x] Letters 3790–3794 verified
   - [x] Letters 3795–3799 verified
-  - [ ] Letters 3800–3804
-    - [x] Letter 3800 verified
-    - [ ] Letters 3801–3804
-  - [ ] Letters 3805–3811
-  - [ ] Letters 3812–3816
+  - [x] Letters 3800–3804 verified
+  - [x] Letters 3805–3811 verified
+  - [x] Letters 3812–3816 verified
 - [ ] Volume-level English index and release report
 
 ## Textual-fidelity audits
@@ -73,15 +71,18 @@
 - Letters **3790–3794** — [`BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md`](BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md): **5/5 verified**; no English or Tamil-source changes.
 - Letters **3795–3799** — [`BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md`](BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md): **5/5 verified**; no English or Tamil-source changes.
 - Letter **3800** — [`BILINGUAL_ALIGNMENT_REVIEW_3800.md`](BILINGUAL_ALIGNMENT_REVIEW_3800.md): **1/1 verified**; no English or Tamil-source changes.
+- Letters **3801–3804** — [`BILINGUAL_ALIGNMENT_REVIEW_3801_3804.md`](BILINGUAL_ALIGNMENT_REVIEW_3801_3804.md): **4/4 verified**; no English or Tamil-source changes.
+- Letters **3805–3811** — [`BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md`](BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md): **7/7 verified**; three targeted English corrections; no Tamil-source changes.
+- Letters **3812–3816** — [`BILINGUAL_ALIGNMENT_REVIEW_3812_3816.md`](BILINGUAL_ALIGNMENT_REVIEW_3812_3816.md): **5/5 verified**; no English or Tamil-source changes.
 
 ## Counts
 
 - Total letters: **53**
 - Translated: **53**
 - Source-checked: **53**
-- Reviewed: **37**
-- Verified: **37**
+- Reviewed: **53**
+- Verified: **53**
 
 ## Next stage
 
-Continue the bilingual alignment review with letters **3801–3804**. After all 53 letters are verified, conduct the volume-level English editorial consistency pass and prepare the release report.
+The bilingual alignment review is complete for all **53 letters**. Conduct the volume-level English editorial consistency pass and prepare the release report.

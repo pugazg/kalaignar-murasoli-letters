@@ -45,22 +45,22 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3798](letters/3798-let-us-find-a-solution-in-mother-indiras-way.md) | Let Us Find a Solution in Mother Indira’s Way! | 26 August 2013 | verified |
 | [3799](letters/3799-india-will-triumph-in-this-trial-too.md) | India Will Triumph in This Trial Too! | 30 August 2013 | verified |
 | [3800](letters/3800-the-food-security-act-gain-or-loss.md) | The Food Security Act — Gain or Loss? | 3 September 2013 | verified |
-| [3801](letters/3801-a-chief-minister-bent-on-holding-closing-ceremonies.md) | A Chief Minister Bent on Holding Closing Ceremonies! | 4 September 2013 | source-checked |
-| [3802](letters/3802-the-hogenakkal-project-and-the-muthialpet-police-station.md) | The Hogenakkal Project and the Muthialpet Police Station! | 6 September 2013 | source-checked |
-| [3803](letters/3803-the-great-schemes-for-women-under-the-dmk-government.md) | The Great Schemes for Women under the DMK Government! | 8 September 2013 | source-checked |
-| [3804](letters/3804-let-us-carry-forward-the-eradication-of-superstition.md) | Let Us Carry Forward the Eradication of Superstition! | 10 September 2013 | source-checked |
-| [3805](letters/3805-only-a-referendum-can-give-eelam-tamils-a-new-life.md) | Only a Referendum Can Give Eelam Tamils a New Life! | 13 September 2013 | source-checked |
-| [3806](letters/3806-justice-will-prevail-it-certainly-will.md) | Justice Will Prevail; It Certainly Will! | 14 September 2013 | source-checked |
-| [3807](letters/3807-bearing-the-sword-of-righteous-struggle-let-us-continue-on-periyars-and-annas-path.md) | Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar's and Anna's Path! | 17 September 2013 | source-checked |
-| [3808](letters/3808-tamil-nadu-in-the-terrifying-grip-of-murder.md) | Tamil Nadu in the Terrifying Grip of Murder! | 21 September 2013 | source-checked |
-| [3809](letters/3809-you-are-lamps-to-the-home-and-workers-for-the-nation.md) | You Are Lamps to the Home and Workers for the Nation! | 23 September 2013 | source-checked |
-| [3810](letters/3810-a-dream-seen-in-the-glare-of-publicity.md) | A Dream Seen in the Glare of Publicity! | 24 September 2013 | source-checked |
-| [3811](letters/3811-they-say-ghee-drips-from-finger-millet-listen-tamils.md) | They Say Ghee Drips from Finger Millet; Listen, Tamils! | 26 September 2013 | source-checked |
-| [3812](letters/3812-many-left-uninvited-and-many-honoured-after-being-invited.md) | Many Left Uninvited—and Many “Honoured” after Being Invited? | 28 September 2013 | source-checked |
-| [3813](letters/3813-this-is-the-dmk-nurtured-by-so-many-samikkannus.md) | This Is the DMK Nurtured by So Many Samikkannus! | 30 September 2013 | source-checked |
-| [3814](letters/3814-does-a-majority-government-mean-it-can-do-anything.md) | Does a “Majority” Government Mean It Can Do Anything? | 8 October 2013 | source-checked |
-| [3815](letters/3815-nothing-but-corruption-is-going-to-rise.md) | Nothing but Corruption Is Going to Rise! | 9 October 2013 | source-checked |
-| [3816](letters/3816-the-tamil-people-are-no-longer-ready-to-be-deceived.md) | The Tamil People Are No Longer Ready to Be Deceived! | 10 October 2013 | source-checked |
+| [3801](letters/3801-a-chief-minister-bent-on-holding-closing-ceremonies.md) | A Chief Minister Bent on Holding Closing Ceremonies! | 4 September 2013 | verified |
+| [3802](letters/3802-the-hogenakkal-project-and-the-muthialpet-police-station.md) | The Hogenakkal Project and the Muthialpet Police Station! | 6 September 2013 | verified |
+| [3803](letters/3803-the-great-schemes-for-women-under-the-dmk-government.md) | The Great Schemes for Women under the DMK Government! | 8 September 2013 | verified |
+| [3804](letters/3804-let-us-carry-forward-the-eradication-of-superstition.md) | Let Us Carry Forward the Eradication of Superstition! | 10 September 2013 | verified |
+| [3805](letters/3805-only-a-referendum-can-give-eelam-tamils-a-new-life.md) | Only a Referendum Can Give Eelam Tamils a New Life! | 13 September 2013 | verified |
+| [3806](letters/3806-justice-will-prevail-it-certainly-will.md) | Justice Will Prevail; It Certainly Will! | 14 September 2013 | verified |
+| [3807](letters/3807-bearing-the-sword-of-righteous-struggle-let-us-continue-on-periyars-and-annas-path.md) | Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar's and Anna's Path! | 17 September 2013 | verified |
+| [3808](letters/3808-tamil-nadu-in-the-terrifying-grip-of-murder.md) | Tamil Nadu in the Terrifying Grip of Murder! | 21 September 2013 | verified |
+| [3809](letters/3809-you-are-lamps-to-the-home-and-workers-for-the-nation.md) | You Are Lamps to the Home and Workers for the Nation! | 23 September 2013 | verified |
+| [3810](letters/3810-a-dream-seen-in-the-glare-of-publicity.md) | A Dream Seen in the Glare of Publicity! | 24 September 2013 | verified |
+| [3811](letters/3811-they-say-ghee-drips-from-finger-millet-listen-tamils.md) | They Say Ghee Drips from Finger Millet; Listen, Tamils! | 26 September 2013 | verified |
+| [3812](letters/3812-many-left-uninvited-and-many-honoured-after-being-invited.md) | Many Left Uninvited—and Many “Honoured” after Being Invited? | 28 September 2013 | verified |
+| [3813](letters/3813-this-is-the-dmk-nurtured-by-so-many-samikkannus.md) | This Is the DMK Nurtured by So Many Samikkannus! | 30 September 2013 | verified |
+| [3814](letters/3814-does-a-majority-government-mean-it-can-do-anything.md) | Does a “Majority” Government Mean It Can Do Anything? | 8 October 2013 | verified |
+| [3815](letters/3815-nothing-but-corruption-is-going-to-rise.md) | Nothing but Corruption Is Going to Rise! | 9 October 2013 | verified |
+| [3816](letters/3816-the-tamil-people-are-no-longer-ready-to-be-deceived.md) | The Tamil People Are No Longer Ready to Be Deceived! | 10 October 2013 | verified |
 
 ## Bilingual alignment reviews
 
@@ -73,6 +73,11 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 - Letters **3790–3794**: substantive Tamil–English alignment completed; five files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md`](BILINGUAL_ALIGNMENT_REVIEW_3790_3794.md)
 - Letters **3795–3799**: substantive Tamil–English alignment completed; five files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md`](BILINGUAL_ALIGNMENT_REVIEW_3795_3799.md)
 - Letter **3800**: substantive Tamil–English alignment completed; one file verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3800.md`](BILINGUAL_ALIGNMENT_REVIEW_3800.md)
+- Letters **3801–3804**: substantive Tamil–English alignment completed; four files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3801_3804.md`](BILINGUAL_ALIGNMENT_REVIEW_3801_3804.md)
+- Letters **3805–3811**: substantive Tamil–English alignment completed; seven files verified with three targeted English corrections and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md`](BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md)
+- Letters **3812–3816**: substantive Tamil–English alignment completed; five files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3812_3816.md`](BILINGUAL_ALIGNMENT_REVIEW_3812_3816.md)
+
+All **53 letters** in Volume 49 have completed substantive bilingual alignment and are marked **verified**.
 
 ## Translation policy
 

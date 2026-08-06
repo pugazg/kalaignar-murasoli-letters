@@ -8,8 +8,10 @@ source_pdf_page_start: 342
 source_pdf_page_end: 349
 source_printed_page_start: 341
 source_printed_page_end: 348
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -31,7 +33,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 On 14 September 2013, a meeting of the State, district and city organisers and deputy organisers of the DMK Youth Wing was held at Anbagam in Chennai under the leadership of DMK Treasurer Thalapathi M.K. Stalin. You will have read in the newspapers that the meeting adopted four important resolutions.
 
-The first resolution stated that the birthdays of Thanthai Periyar, the radiant sun of rationalism, and Arignar Anna, the genius of the world of knowledge, together with the day on which the Dravida Munnetra Kazhagam—the star of hope of the Tamil people—was founded, are celebrated every year as Mupperum Vizha under the leadership of Kalaignar. As a continuation of that celebration, the Youth Wing resolved to carry the DMK's golden principles and the welfare schemes implemented by Kalaignar with the future well-being of the Tamil people in mind to every village and hamlet across Tamil Nadu. It also resolved to explain the degradation under Jayalalithaa's administratively incompetent Government: the collapse of law and order; murder, robbery, chain-snatching, violence and rape wherever one looked; rising prices of essential commodities; power cuts; and unemployment that caused suffering among every section of society. These matters were to be printed in simple language and distributed house to house in villages, small settlements, towns and wards, accompanied by various forms of outreach including doorstep and street-corner propaganda. As the first phase, the resolution called upon district, city, union, town, area and பேரூர் Youth Wing organisers and deputy organisers to conduct a continuous week-long State-wide campaign from 24 to 30 September 2013.
+The first resolution stated that the birthdays of Thanthai Periyar, the radiant sun of rationalism, and Arignar Anna, the genius of the world of knowledge, together with the day on which the Dravida Munnetra Kazhagam—the star of hope of the Tamil people—was founded, are celebrated every year as Mupperum Vizha under the leadership of Kalaignar. As a continuation of that celebration, the Youth Wing resolved to carry the DMK's golden principles and the welfare schemes implemented by Kalaignar with the future well-being of the Tamil people in mind to every village and hamlet across Tamil Nadu. It also resolved to explain the degradation under Jayalalithaa's administratively incompetent Government: the collapse of law and order; murder, robbery, chain-snatching, violence and rape wherever one looked; rising prices of essential commodities; power cuts; and unemployment that caused suffering among every section of society. These matters were to be printed in simple language and distributed house to house in villages, small settlements, towns and wards, accompanied by various forms of outreach including doorstep and street-corner propaganda. As the first phase, the resolution called upon district, city, union, town, area and town-panchayat Youth Wing organisers and deputy organisers to conduct a continuous week-long State-wide campaign from 24 to 30 September 2013.
 
 Following the resolution, Thambi Stalin, the Youth Wing Secretary, had already published the list of DMK speakers who would participate in each district. District Youth Wing organisers contacted the persons named, discussed the dates and arrangements, and confirmed when the speakers would arrive and how many meetings they would attend. Those preparations came to my attention.
 

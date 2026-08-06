@@ -8,8 +8,10 @@ source_pdf_page_start: 314
 source_pdf_page_end: 319
 source_printed_page_start: 313
 source_printed_page_end: 318
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -37,7 +39,7 @@ In Sri Lanka, Navanethem Pillay travelled from Jaffna to Kilinochchi and then to
 
 When she went to Mullivaikkal, Tamil women who had been resettled there told her that basic facilities, including housing and livelihoods, had still not been provided. They said their agricultural lands had been seized by the Sinhala military and asked her to help recover them. Women who had lost many members of their families in the war fell at Navanethem Pillay's feet and wept in anguish; seeing them, she too shed tears.
 
-31 August 2013 was the International Day of Forced Disappearances. That day, Navanethem Pillay met journalists in Colombo and said that the situation in Sri Lanka caused her deep concern. Even four years after the war, people continued to face human-rights problems; women remained unsafe; and the report of the Sri Lankan Government's commission on the disappeared was disappointing. She said the number of troops in the Northern and Eastern Provinces must be reduced, Sri Lanka must enact a Right to Information law, and harassment of human-rights activists by the security forces was increasing. The growing signs that Sri Lanka was moving along an authoritarian path were deeply troubling. It was unacceptable, she said, that human-rights activists who had spoken to her during the visit were later harassed by the police and military. People were increasingly being watched and intimidated, critics of the Government were attacked, and the affected communities needed both reconciliation and the means to live with dignity. Her explanation has only intensified international concern over conditions in Sri Lanka.
+31 August 2013 was the International Day of Forced Disappearances. That day, Navanethem Pillay met journalists in Colombo and said that the situation in Sri Lanka caused her deep concern. Even four years after the war, people continued to face human-rights problems; women remained unsafe; and the report of the Sri Lankan Government's commission on the disappeared was disappointing. She said the number of troops in the Northern and Eastern Provinces must be reduced, Sri Lanka must enact a Right to Information law, and harassment of human-rights activists by the security forces was increasing. The growing signs that Sri Lanka was moving along an authoritarian path were deeply troubling. It was unacceptable, she said, that human-rights activists who had spoken to her during the visit were later harassed by the police and military. Sri Lanka appeared to be in a very bad state. People were increasingly being watched and intimidated, critics of the Government were attacked, and the affected communities needed both reconciliation and the means to live with dignity. Her explanation has only intensified international concern over conditions in Sri Lanka.
 
 Navanethem Pillay stated openly:
 
