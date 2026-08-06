@@ -1,0 +1,37 @@
+name: Export Volume 49 source pages 3805-3811
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - .github/v49-3805-3811/export-trigger.txt
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Assemble source bundle
+        run: |
+          mkdir -p /tmp/v49-3805-3811-source/pages
+          mkdir -p /tmp/v49-3805-3811-source/chapters
+          for p in $(seq 314 364); do
+            cp "volumes/volume-49/pages/page-${p}.md" /tmp/v49-3805-3811-source/pages/
+          done
+          for n in $(seq 3805 3811); do
+            cp volumes/volume-49/chapters/${n}-*.md /tmp/v49-3805-3811-source/chapters/
+          done
+          cp README.md /tmp/v49-3805-3811-source/ROOT_README.md
+          cp volumes/volume-49/README.md /tmp/v49-3805-3811-source/VOLUME_README.md
+          cp volumes/volume-49/translations/en/README.md /tmp/v49-3805-3811-source/EN_README.md
+          cp volumes/volume-49/translations/en/PROGRESS.md /tmp/v49-3805-3811-source/PROGRESS.md
+          cp volumes/volume-49/translations/en/GLOSSARY.md /tmp/v49-3805-3811-source/GLOSSARY.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v49-3805-3811-source
+          path: /tmp/v49-3805-3811-source
