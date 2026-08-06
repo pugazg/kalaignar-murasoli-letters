@@ -2,7 +2,7 @@
 volume: 49
 letter_number: 3807
 tamil_title: "அறப்போர் வாளேந்தி, அய்யா; அண்ணா வழியில் பயணம் தொடருவோம்!"
-english_title: "Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar's and Anna's Path!"
+english_title: "Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar’s and Anna’s Path!"
 date: 2013-09-17
 source_pdf_page_start: 328
 source_pdf_page_end: 334
@@ -15,7 +15,7 @@ bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3805_3811.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
-# 3807. Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar's and Anna's Path!
+# 3807. Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar’s and Anna’s Path!
 
 > **Translator’s note**
 >
@@ -104,7 +104,7 @@ To express Anna's friendship with workers, the annual presentation of certificat
 
 This will be followed by the presentation of the DMK's Mupperum Vizha awards under the chairmanship of our General Secretary, Perasiriyar. He is recovering after major surgery and had told us: “Do not print my name on the invitation. If my health permits, I shall come.” But I instructed them: “Print that the function will be chaired by Perasiriyar. If his health permits, let him attend; otherwise, that is all right.” The invitation was printed accordingly.
 
-As in every year, this year's Thanthai Periyar Award will be presented to Mumbai D.M. Arya Sankaran, who spread the DMK's roots in Maharashtra; the Anna Award to language-war commander L. Ganesan; the Pavendar Award to the master of letters K. Thirunavukkarasu; and the Kalaignar Award named after me to S.A.M. Hussain, whom I have praised as “the wondrous lamp of Thousand Lights.”
+As in every year, this year's Thanthai Periyar Award will be presented to Mumbai D.M. Arya Sankaran, who spread the DMK's roots in Maharashtra; the Anna Award to language-war commander L. Ganesan; the Pavendhar Award to the master of letters K. Thirunavukkarasu; and the Kalaignar Award named after me to S.A.M. Hussain, whom I have praised as “the wondrous lamp of Thousand Lights.”
 
 DMK Treasurer Thalapathi M.K. Stalin, Principal Secretary Arcot N. Veerasamy, and Deputy General Secretaries Duraimurugan, V.P. Duraisamy and Mrs Sarguna Pandian will offer felicitations. South Chennai district secretary J. Anbazhagan, MLA, will deliver the welcome address, and North Chennai district in-charge R.D. Sekar will propose the vote of thanks. Since the festival is being held in Chennai, the arrangements are being made jointly by the South and North Chennai district secretaries and leading functionaries under the guidance of Thalapathi.
 

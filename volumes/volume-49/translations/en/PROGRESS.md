@@ -26,7 +26,8 @@
   - [x] Letters 3800–3804 verified
   - [x] Letters 3805–3811 verified
   - [x] Letters 3812–3816 verified
-- [ ] Volume-level English index and release report
+- [x] Volume-level English editorial consistency pass
+- [x] Translation manifest and final release report
 
 ## Textual-fidelity audits
 
@@ -85,4 +86,4 @@
 
 ## Next stage
 
-The bilingual alignment review is complete for all **53 letters**. Conduct the volume-level English editorial consistency pass and prepare the release report.
+Volume 49 English release preparation is complete: all **53 letters** are translated, source-checked, bilingual-aligned, editorially reviewed and listed in the final manifest and release report.

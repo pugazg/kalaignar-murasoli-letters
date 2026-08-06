@@ -51,7 +51,7 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3804](letters/3804-let-us-carry-forward-the-eradication-of-superstition.md) | Let Us Carry Forward the Eradication of Superstition! | 10 September 2013 | verified |
 | [3805](letters/3805-only-a-referendum-can-give-eelam-tamils-a-new-life.md) | Only a Referendum Can Give Eelam Tamils a New Life! | 13 September 2013 | verified |
 | [3806](letters/3806-justice-will-prevail-it-certainly-will.md) | Justice Will Prevail; It Certainly Will! | 14 September 2013 | verified |
-| [3807](letters/3807-bearing-the-sword-of-righteous-struggle-let-us-continue-on-periyars-and-annas-path.md) | Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar's and Anna's Path! | 17 September 2013 | verified |
+| [3807](letters/3807-bearing-the-sword-of-righteous-struggle-let-us-continue-on-periyars-and-annas-path.md) | Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar’s and Anna’s Path! | 17 September 2013 | verified |
 | [3808](letters/3808-tamil-nadu-in-the-terrifying-grip-of-murder.md) | Tamil Nadu in the Terrifying Grip of Murder! | 21 September 2013 | verified |
 | [3809](letters/3809-you-are-lamps-to-the-home-and-workers-for-the-nation.md) | You Are Lamps to the Home and Workers for the Nation! | 23 September 2013 | verified |
 | [3810](letters/3810-a-dream-seen-in-the-glare-of-publicity.md) | A Dream Seen in the Glare of Publicity! | 24 September 2013 | verified |
@@ -78,6 +78,16 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 - Letters **3812–3816**: substantive Tamil–English alignment completed; five files verified with no English or Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3812_3816.md`](BILINGUAL_ALIGNMENT_REVIEW_3812_3816.md)
 
 All **53 letters** in Volume 49 have completed substantive bilingual alignment and are marked **verified**.
+
+## Volume release
+
+Volume 49 has completed translation, source checking, bilingual alignment and the volume-level English editorial consistency pass.
+
+- [Editorial consistency review](EDITORIAL_CONSISTENCY_REVIEW.md)
+- [Translation manifest](TRANSLATION_MANIFEST.csv)
+- [Final release report](RELEASE_REPORT.md)
+
+Release status: **53/53 translated, source-checked and verified**.
 
 ## Translation policy
 

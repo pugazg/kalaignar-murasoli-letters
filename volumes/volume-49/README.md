@@ -63,4 +63,4 @@
 - Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
 - All **53** letters are translated and source-checked.
 - Bilingual alignment review is complete for letters **3764–3816**: **53 verified**, **0 awaiting alignment review**. See the [review reports](translations/en/README.md#bilingual-alignment-reviews).
-- Next stage: volume-level English editorial consistency pass and release report.
+- Volume-level English editorial consistency pass and release report: **complete**. See [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md).

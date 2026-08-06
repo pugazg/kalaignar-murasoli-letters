@@ -71,3 +71,7 @@
 | ஐந்திணை | **the five Tamil landscapes** | approved | Kurinji, mullai, marutham, neithal and paalai; ecological-poetic classification used in Sangam literature. |
 | தமிழ்த்தாய் வாழ்த்து | **Tamil Thai Vazhthu** | approved | Official invocation to Mother Tamil; title retained rather than reduced to a generic “Tamil anthem”. |
 | வட்டெழுத்து | **Vatteluttu** | approved | Historical rounded script used for Tamil and related languages. |
+| கன்னியாகுமரி | **Kanyakumari** | approved | Established English place-name used consistently throughout the released translation. |
+| தொல்காப்பியப் பூங்கா | **Tolkāppiya Poonga** | approved | Diacritic-bearing transliteration used consistently for the named park and work-derived title. |
+| பாவேந்தர் | **Pavendhar** | approved | Established literary honorific; spelling standardised across institutional and award references. |
+| காணொலிக் காட்சி / video conference | **video conference** | approved | Open compound used consistently for remote inaugurations and official events. |

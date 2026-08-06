@@ -36,7 +36,7 @@ Before taking decisions on matters such as the Cauvery issue and the situation d
 
 When Perarignar Anna, as Chief Minister of Tamil Nadu, conducted the Second World Tamil Conference, it was Kamarajar who welcomed everyone who had come and formally inaugurated the conference.
 
-Who can forget that, during the DMK Government, I pressed and argued with Prime Minister Vajpayee and secured permission to build a worthy memorial hall for Kamarajar on the seashore at Kanniyakumari?
+Who can forget that, during the DMK Government, I pressed and argued with Prime Minister Vajpayee and secured permission to build a worthy memorial hall for Kamarajar on the seashore at Kanyakumari?
 
 During the DMK Government, Chennai’s Beach Road became **Kamarajar Salai**. It was because of the DMK Government that the domestic airport at Meenambakkam came to bear Kamarajar’s name. The DMK Government converted his birth house at Virudhunagar into a memorial. When his body had to be laid to rest in Chennai, it selected a site at Guindy beside the memorial named after Mahatma Gandhi and created a beautiful memorial there. These were modest offerings made under the DMK Government in recognition of the service rendered by Karma Veerar Kamarajar to the country and society.
 
@@ -75,7 +75,7 @@ On Kamarajar’s birthday, 15 July 1976, I wrote this poem:
 >
 > Yours was not the life of an individual;
 > it was a chapter in the history of self-respect.
-> From Kanniyakumari to the Himalayas you made your flag fly
+> From Kanyakumari to the Himalayas you made your flag fly
 > and inscribed the fame of glorious Tamil Nadu.
 > “Man of virtue! Noble scion!”—thus did
 > our Anna, bridegroom of refinement, address you.
