@@ -22,13 +22,20 @@ volumes/
 - English translations தெளிவான, non-literary முறையில் Kalaignar-ன் சிந்தனை, வாத வரிசை, அரசியல் விமர்சனம் மற்றும் rhetorical questions-ஐப் பாதுகாக்கும்.
 - ஒவ்வொரு translation batch-க்கும் முன், தொடர்புடைய ஒவ்வொரு Markdown பக்கமும் அதன் PDF scan-உடன் visually compared செய்து textual-fidelity audit செய்யப்படும்.
 
+## தொகுதிகள் 1–48 — முதன்மை செயல்முறை
+
+மீதமுள்ள 48 PDF தொகுதிகளுக்கான source intake, folder structure, page transcription, contents/chapter preservation, Tamil audit, English translation, bilingual alignment, editorial review, manifest, release validation மற்றும் Git hygiene ஆகிய முழு வழிமுறைகளுக்கு:
+
+- [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
+- [Quick Tamil Transcription Rules](TRANSCRIPTION_GUIDE.md)
+
+Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வொரு பழைய தொகுதியின் அச்சு அமைப்பு, கடித எண்ணிக்கை, தேதி, மொழிநடை மற்றும் scan quality தனியாகச் சரிபார்க்கப்பட வேண்டும்.
+
 ## தற்போதைய நிலை
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
 | 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 53 / 53 verified; editorial release complete |
-
-மின்னாக்க விதிகளுக்கு [TRANSCRIPTION_GUIDE.md](TRANSCRIPTION_GUIDE.md) பார்க்கவும்.
 
 தொகுதி 49-இன் audit விவரங்களுக்கு [முழுத் தொகுதி தணிக்கை அறிக்கை](volumes/volume-49/AUDIT.md) பார்க்கவும்.
 
