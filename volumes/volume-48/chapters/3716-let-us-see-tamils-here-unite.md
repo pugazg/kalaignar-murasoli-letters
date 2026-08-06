@@ -33,5 +33,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3715 — சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா?](3715-is-it-fair-to-destroy-the-sethu-project.md)
-- அடுத்த கடிதம்: 3717 — மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? (PDF பக்கம் 99-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3717 — மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்?](3717-maduravoyal-project-arokara-why-why.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

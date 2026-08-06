@@ -15,12 +15,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3714](3714-lying-that-the-war-had-stopped-is-a-war-crime.md) | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | complete (PDF 75–85) |
 | [3715](3715-is-it-fair-to-destroy-the-sethu-project.md) | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | complete (PDF 86–91) |
 | [3716](3716-let-us-see-tamils-here-unite.md) | இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்! | 9-3-2013 | 91 | complete (PDF 92–98) |
-| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | start verified at PDF 99; transcription not started |
-| 3718 | உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா! | 11-3-2013 | 104 | contents identified; transcription not started |
-| 3719 | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | contents identified; transcription not started |
-| 3720 | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | contents identified; transcription not started |
-| 3721 | உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்! | 21-3-2013 | 128 | contents identified; transcription not started |
-| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | contents identified; transcription not started |
+| [3717](3717-maduravoyal-project-arokara-why-why.md) | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | complete (PDF 99–104) |
+| [3718](3718-sibling-i-call-you-come.md) | உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா! | 11-3-2013 | 104 | complete (PDF 105–111) |
+| [3719](3719-does-everyone-accept-this.md) | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | complete (PDF 112–122) |
+| [3720](3720-is-there-no-strength-because-teso-asks.md) | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | complete (PDF 123–128) |
+| [3721](3721-world-tamils-will-never-agree.md) | உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்! | 21-3-2013 | 128 | complete (PDF 129–136) |
+| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | start verified at PDF 137; transcription not started |
 | 3723 | வாடிக்கையாகிவிட்ட பித்தலாட்டம்! | 28-3-2013 | 143 | contents identified; transcription not started |
 | 3724 | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | contents identified; transcription not started |
 | 3725 | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | contents identified; transcription not started |

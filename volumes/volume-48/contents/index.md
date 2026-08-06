@@ -20,12 +20,12 @@ transcription_status: "visually-transcribed"
 | 3714 | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | 75 | [complete: PDF 75–85](../chapters/3714-lying-that-the-war-had-stopped-is-a-war-crime.md) |
 | 3715 | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | 86 | [complete: PDF 86–91](../chapters/3715-is-it-fair-to-destroy-the-sethu-project.md) |
 | 3716 | இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்! | 9-3-2013 | 91 | 92 | [complete: PDF 92–98](../chapters/3716-let-us-see-tamils-here-unite.md) |
-| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | 99 | start boundary verified; transcription pending |
-| 3718 | உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா! | 11-3-2013 | 104 | provisional | contents identified; boundary verification pending |
-| 3719 | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | provisional | contents identified; boundary verification pending |
-| 3720 | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | provisional | contents identified; boundary verification pending |
-| 3721 | உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்! | 21-3-2013 | 128 | provisional | contents identified; boundary verification pending |
-| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | provisional | contents identified; boundary verification pending |
+| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | 99 | [complete: PDF 99–104](../chapters/3717-maduravoyal-project-arokara-why-why.md) |
+| 3718 | உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா! | 11-3-2013 | 104 | 105 | [complete: PDF 105–111](../chapters/3718-sibling-i-call-you-come.md) |
+| 3719 | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | 112 | [complete: PDF 112–122](../chapters/3719-does-everyone-accept-this.md) |
+| 3720 | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | 123 | [complete: PDF 123–128](../chapters/3720-is-there-no-strength-because-teso-asks.md) |
+| 3721 | உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்! | 21-3-2013 | 128 | 129 | [complete: PDF 129–136](../chapters/3721-world-tamils-will-never-agree.md) |
+| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | 137 | start boundary verified; transcription pending |
 | 3723 | வாடிக்கையாகிவிட்ட பித்தலாட்டம்! | 28-3-2013 | 143 | provisional | contents identified; boundary verification pending |
 | 3724 | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | provisional | contents identified; boundary verification pending |
 | 3725 | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | provisional | contents identified; boundary verification pending |
@@ -72,6 +72,6 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3711 now have visually verified PDF start and end boundaries.
-- Letter 3712 is visually verified to start at PDF page 63 / printed page 62, but its end remains pending.
+- Letters 3706–3721 have visually verified PDF start and end boundaries.
+- Letter 3722 is visually verified to start at PDF page 137 / printed page 136; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.
