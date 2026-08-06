@@ -49,7 +49,14 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3802](letters/3802-the-hogenakkal-project-and-the-muthialpet-police-station.md) | The Hogenakkal Project and the Muthialpet Police Station! | 6 September 2013 | source-checked |
 | [3803](letters/3803-the-great-schemes-for-women-under-the-dmk-government.md) | The Great Schemes for Women under the DMK Government! | 8 September 2013 | source-checked |
 | [3804](letters/3804-let-us-carry-forward-the-eradication-of-superstition.md) | Let Us Carry Forward the Eradication of Superstition! | 10 September 2013 | source-checked |
-| 3805–3816 | — | — | pending |
+| [3805](letters/3805-only-a-referendum-can-give-eelam-tamils-a-new-life.md) | Only a Referendum Can Give Eelam Tamils a New Life! | 13 September 2013 | source-checked |
+| [3806](letters/3806-justice-will-prevail-it-certainly-will.md) | Justice Will Prevail; It Certainly Will! | 14 September 2013 | source-checked |
+| [3807](letters/3807-bearing-the-sword-of-righteous-struggle-let-us-continue-on-periyars-and-annas-path.md) | Bearing the Sword of Righteous Struggle, Let Us Continue on Periyar's and Anna's Path! | 17 September 2013 | source-checked |
+| [3808](letters/3808-tamil-nadu-in-the-terrifying-grip-of-murder.md) | Tamil Nadu in the Terrifying Grip of Murder! | 21 September 2013 | source-checked |
+| [3809](letters/3809-you-are-lamps-to-the-home-and-workers-for-the-nation.md) | You Are Lamps to the Home and Workers for the Nation! | 23 September 2013 | source-checked |
+| [3810](letters/3810-a-dream-seen-in-the-glare-of-publicity.md) | A Dream Seen in the Glare of Publicity! | 24 September 2013 | source-checked |
+| [3811](letters/3811-they-say-ghee-drips-from-finger-millet-listen-tamils.md) | They Say Ghee Drips from Finger Millet; Listen, Tamils! | 26 September 2013 | source-checked |
+| 3812–3816 | — | — | pending |
 
 ## Translation policy
 
@@ -73,5 +80,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3790–3794: **39/39 pages audited; fifteen canonical word-boundary, quotation-mark, character-order or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3790_3794.md`](TEXTUAL_FIDELITY_AUDIT_3790_3794.md)
 - Letters 3795–3799: **35/35 pages audited; seventeen canonical word-boundary, punctuation, character or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3795_3799.md`](TEXTUAL_FIDELITY_AUDIT_3795_3799.md)
 - Letters 3800–3804: **37/37 pages matched; no canonical correction required** — [`TEXTUAL_FIDELITY_AUDIT_3800_3804.md`](TEXTUAL_FIDELITY_AUDIT_3800_3804.md)
+- Letters 3805–3811: **51/51 pages matched; no canonical correction required** — [`TEXTUAL_FIDELITY_AUDIT_3805_3811.md`](TEXTUAL_FIDELITY_AUDIT_3805_3811.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.

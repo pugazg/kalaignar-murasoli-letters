@@ -59,3 +59,8 @@
 | உயர்மட்டப் பறக்கும் சாலை | **elevated expressway** / **elevated road** | context-dependent | `Elevated expressway` for the Maduravoyal–Chennai Port project; `elevated road` in more general references. |
 | மூடநம்பிக்கை | **superstition** | approved | Used for beliefs and practices opposed through rationalist and scientific-temper campaigns. |
 | அறிவியல் மனப்பான்மை | **scientific temper** | approved | Constitutional and rationalist term retained in its established Indian English form. |
+| கற்ற பாடங்கள் மற்றும் நல்லிணக்க ஆணைக்குழு / எல்.எல்.ஆர்.சி. | **Lessons Learnt and Reconciliation Commission (LLRC)** | approved | Full English name on first reference; acronym thereafter. |
+| பொதுவாக்கெடுப்பு | **referendum** | approved | Used for the UN-supervised political consultation proposed for Eelam Tamils. |
+| சி.பி., சி.ஐ.டி. | **CB-CID** | approved | Tamil Nadu Crime Branch–Criminal Investigation Department; established abbreviation retained. |
+| மின் பாதை / கேரிடார் | **transmission corridor** | approved | Electricity-grid capacity required to bring power from outside the State. |
+| கேழ்வரகில் நெய் வடிகிறது | **ghee drips from finger millet** | approved | Proverbial image for an implausible claim; kept close to the source in letter 3811. |

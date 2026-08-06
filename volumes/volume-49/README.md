@@ -1,9 +1,9 @@
 # தொகுதி 49
 
-**நூல்:** கலைஞரின் கடிதங்கள் — தொகுதி 49  
-**காலவரம்பு:** 01.06.2013 முதல் 10.10.2013 வரை  
-**முதல் பதிப்பு:** 2022  
-**பதிப்பகம்:** சீதை பதிப்பகம்  
+**நூல்:** கலைஞரின் கடிதங்கள் — தொகுதி 49
+**காலவரம்பு:** 01.06.2013 முதல் 10.10.2013 வரை
+**முதல் பதிப்பு:** 2022
+**பதிப்பகம்:** சீதை பதிப்பகம்
 **PDF:** 402 பக்கங்கள்; நூலில் குறிப்பிடப்பட்ட அச்சுப் பக்கங்கள்: 400
 
 ## இதுவரை சேர்க்கப்பட்டது
@@ -47,7 +47,7 @@
 
 - [Translation plan](TRANSLATION_PLAN.md)
 - [English translation index](translations/en/README.md)
-- Letters **3764–3804** have been fully translated and source-checked against Tamil PDF pages **24–313**.
+- Letters **3764–3811** have been fully translated and source-checked against Tamil PDF pages **24–364**.
 - Before translating letters **3765–3769**, every canonical Markdown page from PDF **32–63** was visually compared with its scan; all **32 pages matched**.
 - Before translating letters **3770–3774**, every canonical Markdown page from PDF **64–100** was visually compared with its scan; all **37 pages matched**.
 - Before translating letters **3775–3779**, every canonical Markdown page from PDF **101–131** was visually compared with its scan; all **31 pages were audited**, and eight scan-verified quotation-mark or word-boundary corrections were applied to the canonical Tamil page files.
@@ -56,7 +56,8 @@
 - Before translating letters **3790–3794**, every canonical Markdown page from PDF **203–241** was visually compared with its scan; all **39 pages were audited**, and fifteen scan-verified word-boundary, quotation-mark, character-order or paragraph-boundary corrections were applied to the canonical Tamil page files.
 - Before translating letters **3795–3799**, every canonical Markdown page from PDF **242–276** was visually compared with its scan; all **35 pages were audited**, and seventeen scan-verified word-boundary, punctuation, character or paragraph-boundary corrections were applied to the canonical Tamil page files.
 - Before translating letters **3800–3804**, every canonical Markdown page from PDF **277–313** was visually compared with its scan; all **37 pages matched**, and no canonical correction was required.
+- Before translating letters **3805–3811**, every canonical Markdown page from PDF **314–364** was visually compared with its scan; all **51 pages matched**, and no canonical correction was required.
 - Letter **3770** preserves the source's visibly printed date **30-6-2016**, with an explicit anomaly note rather than a silent correction.
 - Each translated file places the standard translator’s note at the top and reproduces the complete authoritative Tamil source below the English translation.
 - Translation approach: clear, contemporary, non-literary English that preserves Kalaignar's reasoning, evidence, criticism, irony, repetition and rhetorical questions.
-- Next five-letter iteration: **3805–3809**.
+- Final five-letter iteration: **3812–3816**.
