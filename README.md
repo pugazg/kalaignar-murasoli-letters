@@ -45,7 +45,10 @@ Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வ
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
+| 48 | 20.02.2013–31.05.2013 | 402 | 1–62 | 6 (கடிதங்கள் 3706–3711) | not started; blocked pending Tamil audit |
 | 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 53 / 53 verified; editorial release complete |
+
+தொகுதி 48-இன் தற்போதைய நிலைக்கு [Volume 48 README](volumes/volume-48/README.md) மற்றும் [iteration audit](volumes/volume-48/AUDIT.md) பார்க்கவும்.
 
 தொகுதி 49-இன் audit விவரங்களுக்கு [முழுத் தொகுதி தணிக்கை அறிக்கை](volumes/volume-49/AUDIT.md) பார்க்கவும்.
 

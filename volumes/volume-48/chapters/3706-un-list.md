@@ -32,5 +32,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: இத்தொகுதியில் இல்லை
-- அடுத்த கடிதம்: **3707 — “இவையெல்லாம் பாராட்டாகத் தெரிகிறதா?”** (PDF தொடக்கப் பக்கம் 30; transcription pending)
-- English translation: not started; textual-fidelity audit gate pending
+- அடுத்த கடிதம்: [3707 — “இவையெல்லாம் பாராட்டாகத் தெரிகிறதா?”](3707-do-these-look-like-praise.md)
+- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

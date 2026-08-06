@@ -9,13 +9,13 @@ transcription_status: "visually-transcribed"
 
 | எண் | தலைப்பு | ஆண்டு / தேதி (மூல அச்சு) | அச்சுப் பக்கம் | PDF தொடக்கம் | நிலை / அத்தியாயம் |
 |---:|---|---|---:|---:|---|
-| 3706 | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | 24 | [complete](../chapters/3706-un-list.md) |
-| 3707 | இவையெல்லாம் பாராட்டாகத் தெரிகிறதா? | 22-2-2013 | 29 | provisional | contents identified; boundary verification pending |
-| 3708 | வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | provisional | contents identified; boundary verification pending |
-| 3709 | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | provisional | contents identified; boundary verification pending |
-| 3710 | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | provisional | contents identified; boundary verification pending |
-| 3711 | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | provisional | contents identified; boundary verification pending |
-| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | provisional | contents identified; boundary verification pending |
+| 3706 | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | 24 | [complete: PDF 24–29](../chapters/3706-un-list.md) |
+| 3707 | இவையெல்லாம் பாராட்டாகத் தெரிகிறதா? | 22-2-2013 | 29 | 30 | [complete: PDF 30–35](../chapters/3707-do-these-look-like-praise.md) |
+| 3708 | வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | 36 | [complete: PDF 36–43](../chapters/3708-do-winners-words-become-scripture.md) |
+| 3709 | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | 44 | [complete: PDF 44–50](../chapters/3709-when-will-they-understand.md) |
+| 3710 | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | 51 | [complete: PDF 51–56](../chapters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) |
+| 3711 | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | 57 | [complete: PDF 57–62](../chapters/3711-march-5-the-day-tears-become-a-shield.md) |
+| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | 63 | start boundary verified; transcription pending |
 | 3713 | முற்றுகைப் போருக்குத் தயாராகி விட்டாயா? | 04-03-2013 | 69 | provisional | contents identified; boundary verification pending |
 | 3714 | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | provisional | contents identified; boundary verification pending |
 | 3715 | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | provisional | contents identified; boundary verification pending |
@@ -71,6 +71,7 @@ transcription_status: "visually-transcribed"
 
 ## Source notes
 
-- Printed contents order and date formatting are preserved exactly.
-- Only letter 3706 has a visually verified PDF start/end in this batch.
-- No constant printed-page/PDF-page offset is assumed for unprocessed letters; their PDF boundaries remain pending until the scan is inspected.
+- Printed contents order, title wording and date formatting are preserved.
+- Letters 3706–3711 now have visually verified PDF start and end boundaries.
+- Letter 3712 is visually verified to start at PDF page 63 / printed page 62, but its end remains pending.
+- No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.

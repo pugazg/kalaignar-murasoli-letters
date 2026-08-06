@@ -1,23 +1,23 @@
 # மின்னாக்க முன்னேற்றம் — தொகுதி 48
 
-- [x] Repository-level processing and transcription guides read
+- [x] Repository-level processing, transcription and five-letter batching guides read
 - [x] Volume 49 reference implementation reviewed
-- [x] Existing repository checked; `volumes/volume-48/` had not been started
-- [x] Volume number verified from the source scan
-- [x] Source filename, SHA-256, byte size and 402-page count recorded
-- [x] PDF pages 1–29 created as one-page-per-file Markdown
+- [x] Volume number and source intake recorded
+- [x] PDF pages 1–62 created as one-page-per-file Markdown
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
 - [x] Letter 3706: PDF 24–29 / printed 23–28
-- [x] Page continuity, front matter, links and duplicate-body checks for this batch
-- [ ] Letter 3707: begin at PDF page 30 / printed page 29
-- [ ] Remaining PDF pages 30–402
+- [x] Five-letter iteration 1: letters 3707–3711, PDF 30–62 / printed 29–61
+- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 62
+- [x] Next letter start verified: letter 3712 at PDF 63 / printed 62
+- [ ] Five-letter iteration 2: letters 3712–3716, beginning PDF page 63
+- [ ] Remaining PDF pages 63–402
 - [ ] Full-volume Tamil structural audit
-- [ ] Mandatory textual-fidelity audits before any translation
+- [ ] Mandatory textual-fidelity audits before translation
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
 ## Next exact task
 
-Transcribe and visually verify **PDF page 30**, the start of letter **3707 — “இவையெல்லாம் பாராட்டாகத் தெரிகிறதா?”**, then continue to a safe complete-letter or 10–20-page boundary.
+Transcribe and visually verify **five complete letters 3712–3716**, beginning with **3712 — “இதற்கும் சேர்த்தா பாராட்டு விழா?”** at **PDF page 63 / printed page 62**. Stop at the verified closing of letter 3716; do not include part of letter 3717.

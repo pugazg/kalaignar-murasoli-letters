@@ -1,16 +1,16 @@
 # கடிதங்கள் / அத்தியாயங்கள் — தொகுதி 48
 
-The printed contents identify **58 letters (3706–3763)**. Only completed or scan-boundary-verified letters receive a chapter file during transcription.
+The printed contents identify **58 letters (3706–3763)**. Chapter files are created when a letter’s scan boundaries and complete canonical page sequence are verified.
 
 | எண் | தலைப்பு | தேதி | அச்சுப் பக்கம் | நிலை |
 |---:|---|---|---:|---|
 | [3706](3706-un-list.md) | ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா? | 20-2-2013 | 23 | complete (PDF 24–29) |
-| 3707 | இவையெல்லாம் பாராட்டாகத் தெரிகிறதா? | 22-2-2013 | 29 | contents identified; transcription not started |
-| 3708 | வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | contents identified; transcription not started |
-| 3709 | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | contents identified; transcription not started |
-| 3710 | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | contents identified; transcription not started |
-| 3711 | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | contents identified; transcription not started |
-| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | contents identified; transcription not started |
+| [3707](3707-do-these-look-like-praise.md) | இவையெல்லாம் பாராட்டாகத் தெரிகிறதா? | 22-2-2013 | 29 | complete (PDF 30–35) |
+| [3708](3708-do-winners-words-become-scripture.md) | வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?” | 23-2-2013 | 35 | complete (PDF 36–43) |
+| [3709](3709-when-will-they-understand.md) | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | complete (PDF 44–50) |
+| [3710](3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | complete (PDF 51–56) |
+| [3711](3711-march-5-the-day-tears-become-a-shield.md) | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | complete (PDF 57–62) |
+| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | start verified at PDF 63; transcription not started |
 | 3713 | முற்றுகைப் போருக்குத் தயாராகி விட்டாயா? | 04-03-2013 | 69 | contents identified; transcription not started |
 | 3714 | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | contents identified; transcription not started |
 | 3715 | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | contents identified; transcription not started |
