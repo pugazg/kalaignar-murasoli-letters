@@ -10,10 +10,11 @@
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
-- [x] Letter 3647 partial: PDF 24–25 / printed 23–24
-- [x] Page continuity, front matter, links, Unicode and duplicate-body checks for PDF 1–25
-- [ ] Complete letter 3647: continue at PDF page 26 / printed page 25
-- [ ] Remaining PDF pages 26–401
+- [x] Letter 3647 completed: PDF 24–30 / printed pages 23–29
+- [x] Page continuity, front matter, links, Unicode and duplicate-body checks through PDF 30
+- [x] Next letter start verified: letter 3648 at PDF page 31 / printed page 30
+- [ ] Five-letter iteration 1: letters 3648–3652, beginning PDF page 31
+- [ ] Remaining PDF pages 31–401
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory textual-fidelity audits before any translation
 - [ ] English translation
@@ -21,4 +22,4 @@
 
 ## Next exact task
 
-Continue **letter 3647 — “நடுநிலை, நியாயம், மனசாட்சி - இவை என்னாவது?”** from **PDF page 26**, and finish the letter before beginning the regular five-letter iterations.
+Begin **letter 3648 — “காவிரி ஆணையும், அன்றும் - இன்றும்!”** at **PDF page 31 / printed page 30**, and complete the five-letter iteration **3648–3652** without including any part of letter 3653.
