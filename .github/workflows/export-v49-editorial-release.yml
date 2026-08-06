@@ -1,0 +1,25 @@
+name: Export Volume 49 editorial release sources
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect editorial sources
+        run: |
+          mkdir -p editorial-source
+          cp README.md editorial-source/ROOT_README.md
+          cp volumes/volume-49/README.md editorial-source/VOLUME_README.md
+          cp volumes/volume-49/TRANSLATION_PLAN.md editorial-source/
+          cp -R volumes/volume-49/translations/en editorial-source/en
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v49-editorial-release-source
+          path: editorial-source
