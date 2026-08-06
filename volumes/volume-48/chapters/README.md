@@ -10,12 +10,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3709](3709-when-will-they-understand.md) | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | complete (PDF 44–50) |
 | [3710](3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | complete (PDF 51–56) |
 | [3711](3711-march-5-the-day-tears-become-a-shield.md) | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | complete (PDF 57–62) |
-| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | start verified at PDF 63; transcription not started |
-| 3713 | முற்றுகைப் போருக்குத் தயாராகி விட்டாயா? | 04-03-2013 | 69 | contents identified; transcription not started |
-| 3714 | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | contents identified; transcription not started |
-| 3715 | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | contents identified; transcription not started |
-| 3716 | இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்! | 9-3-2013 | 91 | contents identified; transcription not started |
-| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | contents identified; transcription not started |
+| [3712](3712-does-this-also-deserve-a-celebration.md) | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | complete (PDF 63–69) |
+| [3713](3713-are-you-ready-for-the-siege.md) | முற்றுகைப் போருக்குத் தயாராகி விட்டாயா? | 04-03-2013 | 69 | complete (PDF 70–74) |
+| [3714](3714-lying-that-the-war-had-stopped-is-a-war-crime.md) | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | complete (PDF 75–85) |
+| [3715](3715-is-it-fair-to-destroy-the-sethu-project.md) | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | complete (PDF 86–91) |
+| [3716](3716-let-us-see-tamils-here-unite.md) | இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்! | 9-3-2013 | 91 | complete (PDF 92–98) |
+| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | start verified at PDF 99; transcription not started |
 | 3718 | உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா! | 11-3-2013 | 104 | contents identified; transcription not started |
 | 3719 | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | contents identified; transcription not started |
 | 3720 | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | contents identified; transcription not started |
