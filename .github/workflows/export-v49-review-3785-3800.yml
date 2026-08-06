@@ -1,0 +1,42 @@
+name: Export Volume 49 bilingual review batch 3785-3800
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect review sources
+        run: |
+          mkdir -p review-source/letters
+          cp volumes/volume-49/TRANSLATION_PLAN.md review-source/
+          cp volumes/volume-49/README.md review-source/VOLUME_README.md
+          cp volumes/volume-49/translations/en/PROGRESS.md review-source/
+          cp volumes/volume-49/translations/en/README.md review-source/EN_README.md
+          cp volumes/volume-49/translations/en/GLOSSARY.md review-source/
+          cp volumes/volume-49/translations/en/letters/3785-let-the-womens-reservation-bill-be-passed.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3786-is-delay-your-very-name-government-of-tamil-nadu.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3788-amartya-sen-and-the-call-he-issues.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3789-the-cruelty-of-taking-back-even-what-was-given.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3790-august-8-let-the-whole-world-marvel-at-the-demonstration.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3791-heartfelt-greetings-to-the-islamic-community.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3792-the-food-bill-our-position.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3793-will-the-state-government-refuse-what-the-union-government-gives.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3794-an-independence-day-speech-that-forgot-periyar-and-kamarajar.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3795-will-india-at-least-now-understand-sri-lanka.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3796-womens-advancement-then-and-now.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3797-the-day-of-bidding-them-farewell-is-not-far-away.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3798-let-us-find-a-solution-in-mother-indiras-way.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3799-india-will-triumph-in-this-trial-too.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3800-the-food-security-act-gain-or-loss.md review-source/letters/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v49-review-3785-3800-source
+          path: review-source
