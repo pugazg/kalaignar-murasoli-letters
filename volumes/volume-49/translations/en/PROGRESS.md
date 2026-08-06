@@ -14,7 +14,7 @@
 - [x] Letters 3795–3799 translated and source-checked
 - [x] Letters 3800–3804 translated and source-checked
 - [x] Letters 3805–3811 translated and source-checked
-- [ ] Letters 3812–3816
+- [x] Letters 3812–3816 translated and source-checked
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English index and release report
 
@@ -45,16 +45,19 @@
 - Canonical pages **314–364** visually compared against their scans: **51/51 matched**.
   - [`TEXTUAL_FIDELITY_AUDIT_3805_3811.md`](TEXTUAL_FIDELITY_AUDIT_3805_3811.md)
   - No canonical correction was required; visibly printed irregularities were retained source-exact.
+- Canonical pages **365–401** visually compared against their scans: **37/37 matched**.
+  - [`TEXTUAL_FIDELITY_AUDIT_3812_3816.md`](TEXTUAL_FIDELITY_AUDIT_3812_3816.md)
+  - No canonical correction was required; visibly printed irregularities were retained source-exact. PDF page 402 is the back cover.
 - The printed `30-6-2016` date in letter 3770 is preserved and documented as a source anomaly.
 
 ## Counts
 
 - Total letters: **53**
-- Translated: **48**
-- Source-checked: **48**
+- Translated: **53**
+- Source-checked: **53**
 - Reviewed: **0**
 - Verified: **0**
 
-## Next iteration
+## Next stage
 
-Translate and source-check the final letters **3812–3816** using the locked workflow, including visual scan comparison of every corresponding Tamil Markdown page before translation.
+Conduct the full bilingual alignment review across letters **3764–3816**, followed by the volume-level English release report.

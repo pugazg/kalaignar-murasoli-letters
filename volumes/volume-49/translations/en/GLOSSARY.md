@@ -64,3 +64,10 @@
 | சி.பி., சி.ஐ.டி. | **CB-CID** | approved | Tamil Nadu Crime Branch–Criminal Investigation Department; established abbreviation retained. |
 | மின் பாதை / கேரிடார் | **transmission corridor** | approved | Electricity-grid capacity required to bring power from outside the State. |
 | கேழ்வரகில் நெய் வடிகிறது | **ghee drips from finger millet** | approved | Proverbial image for an implausible claim; kept close to the source in letter 3811. |
+| நான்காவது எஸ்டேட் | **Fourth Estate** | approved | Established democratic metaphor for the press; retained in letter 3812. |
+| பணிமூப்பு / சீனியாரிட்டி | **seniority** | approved | Administrative ordering by length of service, especially in promotion disputes. |
+| ரிட் / ரிட் அப்பீல் | **writ / writ appeal** | approved | Established Indian legal terms retained in the police-promotion litigation. |
+| உழவர் சந்தை | **Uzhavar Sandhai** / **farmers’ market** | approved | Direct farmer-to-consumer market scheme; Tamil scheme name may be retained on first reference. |
+| ஐந்திணை | **the five Tamil landscapes** | approved | Kurinji, mullai, marutham, neithal and paalai; ecological-poetic classification used in Sangam literature. |
+| தமிழ்த்தாய் வாழ்த்து | **Tamil Thai Vazhthu** | approved | Official invocation to Mother Tamil; title retained rather than reduced to a generic “Tamil anthem”. |
+| வட்டெழுத்து | **Vatteluttu** | approved | Historical rounded script used for Tamil and related languages. |

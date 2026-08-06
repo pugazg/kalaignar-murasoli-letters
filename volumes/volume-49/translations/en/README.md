@@ -56,7 +56,11 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3809](letters/3809-you-are-lamps-to-the-home-and-workers-for-the-nation.md) | You Are Lamps to the Home and Workers for the Nation! | 23 September 2013 | source-checked |
 | [3810](letters/3810-a-dream-seen-in-the-glare-of-publicity.md) | A Dream Seen in the Glare of Publicity! | 24 September 2013 | source-checked |
 | [3811](letters/3811-they-say-ghee-drips-from-finger-millet-listen-tamils.md) | They Say Ghee Drips from Finger Millet; Listen, Tamils! | 26 September 2013 | source-checked |
-| 3812–3816 | — | — | pending |
+| [3812](letters/3812-many-left-uninvited-and-many-honoured-after-being-invited.md) | Many Left Uninvited—and Many “Honoured” after Being Invited? | 28 September 2013 | source-checked |
+| [3813](letters/3813-this-is-the-dmk-nurtured-by-so-many-samikkannus.md) | This Is the DMK Nurtured by So Many Samikkannus! | 30 September 2013 | source-checked |
+| [3814](letters/3814-does-a-majority-government-mean-it-can-do-anything.md) | Does a “Majority” Government Mean It Can Do Anything? | 8 October 2013 | source-checked |
+| [3815](letters/3815-nothing-but-corruption-is-going-to-rise.md) | Nothing but Corruption Is Going to Rise! | 9 October 2013 | source-checked |
+| [3816](letters/3816-the-tamil-people-are-no-longer-ready-to-be-deceived.md) | The Tamil People Are No Longer Ready to Be Deceived! | 10 October 2013 | source-checked |
 
 ## Translation policy
 
@@ -81,5 +85,6 @@ Before each translation batch, every canonical Tamil Markdown page is visually c
 - Letters 3795–3799: **35/35 pages audited; seventeen canonical word-boundary, punctuation, character or paragraph-boundary artefacts corrected** — [`TEXTUAL_FIDELITY_AUDIT_3795_3799.md`](TEXTUAL_FIDELITY_AUDIT_3795_3799.md)
 - Letters 3800–3804: **37/37 pages matched; no canonical correction required** — [`TEXTUAL_FIDELITY_AUDIT_3800_3804.md`](TEXTUAL_FIDELITY_AUDIT_3800_3804.md)
 - Letters 3805–3811: **51/51 pages matched; no canonical correction required** — [`TEXTUAL_FIDELITY_AUDIT_3805_3811.md`](TEXTUAL_FIDELITY_AUDIT_3805_3811.md)
+- Letters 3812–3816: **37/37 letter pages matched; no canonical correction required** — [`TEXTUAL_FIDELITY_AUDIT_3812_3816.md`](TEXTUAL_FIDELITY_AUDIT_3812_3816.md)
 
 Letter 3770 retains the visibly printed date `30-6-2016` as a documented source anomaly.
