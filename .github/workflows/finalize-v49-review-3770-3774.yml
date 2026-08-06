@@ -1,0 +1,41 @@
+name: Finalize Volume 49 bilingual review 3770-3774
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out staging branch
+        uses: actions/checkout@v4
+        with:
+          ref: stage-v49-review-3770-3774
+          path: source
+          fetch-depth: 0
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: repo
+          fetch-depth: 0
+      - name: Copy finalizer into main worktree
+        run: |
+          mkdir -p repo/.github/v49-review-3770-3774
+          cp source/.github/v49-review-3770-3774/finalize.py repo/.github/v49-review-3770-3774/finalize.py
+      - name: Apply and validate bilingual review batch
+        working-directory: repo
+        run: python .github/v49-review-3770-3774/finalize.py
+      - name: Commit reviewed batch to main
+        working-directory: repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Verify Volume 49 translations 3770-3774 by bilingual alignment" \
+            -m "Compare five English translations directly with their complete canonical Tamil sources; verify paragraph order, quotations, electoral arithmetic, names, dates, figures, wordplay, legal framing and political responsibility; apply five targeted corrections to letter 3774 without altering the Tamil; add the batch review report; update progress and index statuses; and remove temporary staging material."
+          git push origin HEAD:main
