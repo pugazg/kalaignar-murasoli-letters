@@ -1,0 +1,36 @@
+name: Export Volume 49 bilingual review batch 3775-3784
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect review sources
+        run: |
+          mkdir -p review-source/letters
+          cp volumes/volume-49/TRANSLATION_PLAN.md review-source/
+          cp volumes/volume-49/translations/en/PROGRESS.md review-source/
+          cp volumes/volume-49/translations/en/README.md review-source/EN_README.md
+          cp volumes/volume-49/translations/en/GLOSSARY.md review-source/
+          cp volumes/volume-49/README.md review-source/VOLUME_README.md
+          cp volumes/volume-49/translations/en/letters/3775-long-live-the-fame-of-perunthalaivar-kamarajar.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3776-our-journey-continues-without-faltering.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3777-a-graceful-hair-knot-a-fragrant-screw-pine-flower-they-say.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3778-katchatheevu-and-the-trash-question.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3779-the-height-of-danger-foreign-direct-investment.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3780-the-entrance-examination-verdict-is-opposition-necessary.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3781-i-have-neither-political-rancour-nor-anguish.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3782-how-long-will-they-keep-deceiving-the-people-of-this-country.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3783-our-efforts-towards-the-summit-of-victory.md review-source/letters/
+          cp volumes/volume-49/translations/en/letters/3784-she-is-supposedly-the-pioneer-for-all-india.md review-source/letters/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v49-review-3775-3784-source
+          path: review-source
