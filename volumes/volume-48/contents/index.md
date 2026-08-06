@@ -15,12 +15,12 @@ transcription_status: "visually-transcribed"
 | 3709 | புரிந்துகொள்வதுதான் எப்போது? | 24-2-2013 | 43 | 44 | [complete: PDF 44–50](../chapters/3709-when-will-they-understand.md) |
 | 3710 | தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா? | 25-2-2013 | 50 | 51 | [complete: PDF 51–56](../chapters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) |
 | 3711 | கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5. | 27-2-2013 | 56 | 57 | [complete: PDF 57–62](../chapters/3711-march-5-the-day-tears-become-a-shield.md) |
-| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | 63 | start boundary verified; transcription pending |
-| 3713 | முற்றுகைப் போருக்குத் தயாராகி விட்டாயா? | 04-03-2013 | 69 | provisional | contents identified; boundary verification pending |
-| 3714 | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | provisional | contents identified; boundary verification pending |
-| 3715 | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | provisional | contents identified; boundary verification pending |
-| 3716 | இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்! | 9-3-2013 | 91 | provisional | contents identified; boundary verification pending |
-| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | provisional | contents identified; boundary verification pending |
+| 3712 | இதற்கும் சேர்த்தா பாராட்டு விழா? | 3-3-2013 | 62 | 63 | [complete: PDF 63–69](../chapters/3712-does-this-also-deserve-a-celebration.md) |
+| 3713 | முற்றுகைப் போருக்குத் தயாராகி விட்டாயா? | 04-03-2013 | 69 | 70 | [complete: PDF 70–74](../chapters/3713-are-you-ready-for-the-siege.md) |
+| 3714 | போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே! | 7-3-2013 | 74 | 75 | [complete: PDF 75–85](../chapters/3714-lying-that-the-war-had-stopped-is-a-war-crime.md) |
+| 3715 | சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா? | 8-3-2013 | 85 | 86 | [complete: PDF 86–91](../chapters/3715-is-it-fair-to-destroy-the-sethu-project.md) |
+| 3716 | இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்! | 9-3-2013 | 91 | 92 | [complete: PDF 92–98](../chapters/3716-let-us-see-tamils-here-unite.md) |
+| 3717 | மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்? | 10-3-2013 | 98 | 99 | start boundary verified; transcription pending |
 | 3718 | உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா! | 11-3-2013 | 104 | provisional | contents identified; boundary verification pending |
 | 3719 | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | provisional | contents identified; boundary verification pending |
 | 3720 | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | provisional | contents identified; boundary verification pending |
