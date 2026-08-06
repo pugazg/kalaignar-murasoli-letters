@@ -27,7 +27,16 @@ volumes/
 மீதமுள்ள 48 PDF தொகுதிகளுக்கான source intake, folder structure, page transcription, contents/chapter preservation, Tamil audit, English translation, bilingual alignment, editorial review, manifest, release validation மற்றும் Git hygiene ஆகிய முழு வழிமுறைகளுக்கு:
 
 - [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
+- [Mandatory Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
 - [Quick Tamil Transcription Rules](TRANSCRIPTION_GUIDE.md)
+
+### இயல்பான transcription வரிசை
+
+1. புதிய தொகுதியில் முதலில் **PDF 001–025** மட்டும்.
+2. பக்கம் 25 கடிதத்தின் நடுவில் முடிந்தால், அடுத்த commit-ல் பக்கம் 26 முதல் அதே கடிதத்தை முடித்தல்.
+3. அதன் பின்னர் இயல்பாக **ஒரு முழுக் கடிதம் = ஒரு atomic commit**.
+4. ஒவ்வொரு commit-க்கும் scan comparison, structural updates, batch audit மற்றும் exact next-page record கட்டாயம்.
+5. முழுத் Tamil volume audit முடியும் முன் English translation தொடங்காது.
 
 Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வொரு பழைய தொகுதியின் அச்சு அமைப்பு, கடித எண்ணிக்கை, தேதி, மொழிநடை மற்றும் scan quality தனியாகச் சரிபார்க்கப்பட வேண்டும்.
 
