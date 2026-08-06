@@ -8,8 +8,10 @@ source_pdf_page_start: 149
 source_pdf_page_end: 155
 source_printed_page_start: 148
 source_printed_page_end: 154
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md"
 source_textual_fidelity_audit: "visual-scan-verified-with-corrections"
 ---
 
@@ -70,7 +72,7 @@ Between 2001 and 2006, the AIADMK Government built 871 bridges and 814 minor bri
 
 Why go so far? During the DMK Government, we initiated the new four-lane elevated expressway from Chennai Port to Maduravoyal, invited the Prime Minister, and held the foundation ceremony in my presence. After several crores of rupees had been spent, it was the AIADMK Government that blocked the road project and kept it suspended!
 
-It is said that many schemes announced by this Government never reach implementation, while some are subjected to long delay. For example, *The Times of India* reported on the fifteenth that approval had been granted the previous December for a flyover linking Old Mahabalipuram Road and East Coast Road, but that it had taken all these months merely to decide its location. The project is estimated at ₹400 crore. The same newspaper wrote that flyovers planned at Porur, Moolakadai and Tirumangalam had been delayed because of land acquisition.
+It is said that many schemes announced by this Government never reach implementation, while some are subjected to long delay. For example, *The Times of India* reported on the fifteenth that approval had been granted the previous December for a flyover linking Old Mahabalipuram Road and East Coast Road, but that it had taken all these months merely to decide its location. The project is estimated at ₹400 crore. The same newspaper wrote that flyovers planned at Porur, Moolakadai and Tirumangalam had been delayed because of land encroachment.
 
 The Chief Minister announces that roads will be improved at a cost of nearly ₹3,000 crore. But *The Hindu* itself has reported in detail on the condition of roads in the towns around Chennai.
 

@@ -8,8 +8,10 @@ source_pdf_page_start: 132
 source_pdf_page_end: 138
 source_printed_page_start: 131
 source_printed_page_end: 137
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md"
 source_textual_fidelity_audit: "visual-scan-verified-with-corrections"
 ---
 
@@ -30,7 +32,7 @@ On 18 July 2013, the Supreme Court struck down the notification issued by the Me
 
 The judgment also stated that admissions already made through the common entrance examination would not be affected in any way. It further held that private medical educational institutions had the right to conduct their own entrance examinations for admitting students.
 
-The Bench consisted of three judges. Chief Justice Altamas Kabir and Justice Vikramajit Sen delivered the majority judgment. The third judge, Justice A. R. Dave, said that he did not agree with the other two judges and that a national eligibility examination was lawful, practicable and necessary for society.
+The Bench consisted of three judges. Chief Justice Altamas Kabir and Justice Vikramajit Singh delivered the majority judgment. The third judge, Justice A. R. Dave, said that he did not agree with the other two judges and that a national eligibility examination was lawful, practicable and necessary for society.
 
 Even so, because two of the three judges who heard the case held that a common entrance examination was unnecessary, their decision has become the final judgment.
 
@@ -72,7 +74,7 @@ Replying on 27 August 2010, Union Health Minister Ghulam Nabi Azad wrote:
 
 This news was reported in detail at the time in all Tamil and English newspapers.
 
-Writing an editorial on the Supreme Court judgment on 20 July 2013, *Dinamani* stated that the Court had ruled that the Medical Council of India possessed legal authority to frame guidelines for medical education, but not to order the conduct of an entrance examination. It observed that the judgment defined the limits of the Council’s authority; it did not say that medical entrance examinations could never be held. Nor had the Court prevented individual States from conducting entrance examinations for admission to medical colleges within their jurisdiction. Chief Justice Altamas Kabir and Justice Vikramajit Sen had expressed the view that a nationwide entrance examination would amount to interference in the rights of State Governments.
+Writing an editorial on the Supreme Court judgment on 20 July 2013, *Dinamani* stated that the Court had ruled that the Medical Council of India possessed legal authority to frame guidelines for medical education, but not to order the conduct of an entrance examination. It observed that the judgment defined the limits of the Council’s authority; it did not say that medical entrance examinations could never be held. Nor had the Court prevented individual States from conducting entrance examinations for admission to medical colleges within their jurisdiction. Chief Justice Altamas Kabir and Justice Vikramajit Singh had expressed the view that a nationwide entrance examination would amount to interference in the rights of State Governments.
 
 The DMK Government abolished entrance examinations precisely to remove the inequality between poor and middle-class rural students who lack facilities and urban students who enjoy far greater advantages.
 
@@ -92,6 +94,7 @@ As far as the Dravida Munnetra Kazhagam is concerned, I wish to make it clear th
 2. The letter concerns a nationwide common medical entrance examination. It does not use the later acronym **NEET**, and the translation does not insert it.
 3. **Plus Two** is retained as the familiar Indian term for the Higher Secondary examination.
 4. Three punctuation artefacts in the medical-degree abbreviation on PDF pages 133–134 were corrected after visual comparison with the scans.
+5. The canonical Tamil source prints the judge’s name as **Vikramajit Singh**. The English now retains that source form rather than silently substituting another spelling.
 
 ## Original Tamil — மூலத் தமிழ்
 

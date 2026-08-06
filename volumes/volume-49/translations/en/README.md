@@ -19,16 +19,16 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 | [3772](letters/3772-the-rajya-sabha-election-an-analysis.md) | The Rajya Sabha Election — An Analysis! | 3 July 2013 | verified |
 | [3773](letters/3773-let-us-raise-our-voice-for-people-of-every-caste-to-become-priests.md) | Let Us Raise Our Voice for People of Every Caste to Become Priests! | 14 July 2013 | verified |
 | [3774](letters/3774-does-tamil-not-deserve-the-right-that-hindi-has.md) | Does Tamil Not Deserve the Right That Hindi Has? | 15 July 2013 | verified |
-| [3775](letters/3775-long-live-the-fame-of-perunthalaivar-kamarajar.md) | Long Live the Fame of Perunthalaivar Kamarajar! | 16 July 2013 | source-checked |
-| [3776](letters/3776-our-journey-continues-without-faltering.md) | Our Journey Continues Without Faltering! | 18 July 2013 | source-checked |
-| [3777](letters/3777-a-graceful-hair-knot-a-fragrant-screw-pine-flower-they-say.md) | A Graceful Hair-Knot, a Fragrant Screw-Pine Flower, They Say!! | 19 July 2013 | source-checked |
-| [3778](letters/3778-katchatheevu-and-the-trash-question.md) | Katchatheevu and the “Trash” Question! | 20 July 2013 | source-checked |
-| [3779](letters/3779-the-height-of-danger-foreign-direct-investment.md) | The Height of Danger: Foreign Direct Investment! | 21 July 2013 | source-checked |
-| [3780](letters/3780-the-entrance-examination-verdict-is-opposition-necessary.md) | The Entrance-Examination Verdict — Is Opposition Necessary? | 23 July 2013 | source-checked |
-| [3781](letters/3781-i-have-neither-political-rancour-nor-anguish.md) | I Have Neither Political Rancour nor Anguish! | 24 July 2013 | source-checked |
-| [3782](letters/3782-how-long-will-they-keep-deceiving-the-people-of-this-country.md) | How Long Will They Keep Deceiving the People of This Country! | 26 July 2013 | source-checked |
-| [3783](letters/3783-our-efforts-towards-the-summit-of-victory.md) | Our Efforts Towards the Summit of Victory! | 27 July 2013 | source-checked |
-| [3784](letters/3784-she-is-supposedly-the-pioneer-for-all-india.md) | She Is Supposedly the Pioneer for All India! | 29 July 2013 | source-checked |
+| [3775](letters/3775-long-live-the-fame-of-perunthalaivar-kamarajar.md) | Long Live the Fame of Perunthalaivar Kamarajar! | 16 July 2013 | verified |
+| [3776](letters/3776-our-journey-continues-without-faltering.md) | Our Journey Continues Without Faltering! | 18 July 2013 | verified |
+| [3777](letters/3777-a-graceful-hair-knot-a-fragrant-screw-pine-flower-they-say.md) | A Graceful Hair-Knot, a Fragrant Screw-Pine Flower, They Say!! | 19 July 2013 | verified |
+| [3778](letters/3778-katchatheevu-and-the-trash-question.md) | Katchatheevu and the “Trash” Question! | 20 July 2013 | verified |
+| [3779](letters/3779-the-height-of-danger-foreign-direct-investment.md) | The Height of Danger: Foreign Direct Investment! | 21 July 2013 | verified |
+| [3780](letters/3780-the-entrance-examination-verdict-is-opposition-necessary.md) | The Entrance-Examination Verdict — Is Opposition Necessary? | 23 July 2013 | verified |
+| [3781](letters/3781-i-have-neither-political-rancour-nor-anguish.md) | I Have Neither Political Rancour nor Anguish! | 24 July 2013 | verified |
+| [3782](letters/3782-how-long-will-they-keep-deceiving-the-people-of-this-country.md) | How Long Will They Keep Deceiving the People of This Country! | 26 July 2013 | verified |
+| [3783](letters/3783-our-efforts-towards-the-summit-of-victory.md) | Our Efforts Towards the Summit of Victory! | 27 July 2013 | verified |
+| [3784](letters/3784-she-is-supposedly-the-pioneer-for-all-india.md) | She Is Supposedly the Pioneer for All India! | 29 July 2013 | verified |
 | [3785](letters/3785-let-the-womens-reservation-bill-be-passed.md) | Let the Women’s Reservation Bill Be Passed! | 30 July 2013 | source-checked |
 | [3786](letters/3786-is-delay-your-very-name-government-of-tamil-nadu.md) | Is Delay Your Very Name, Government of Tamil Nadu? | 31 July 2013 | source-checked |
 | [3787](letters/3787-august-8-gather-like-a-surging-sea-at-the-demonstration.md) | August 8: Gather Like a Surging Sea at the Demonstration! | 1 August 2013 | source-checked |
@@ -66,6 +66,8 @@ The translation is **not a literary rewriting**. It preserves the sequence of th
 
 - Letters **3764–3769**: substantive Tamil–English alignment completed; six files verified, with four targeted English corrections and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md`](BILINGUAL_ALIGNMENT_REVIEW_3764_3769.md)
 - Letters **3770–3774**: substantive Tamil–English alignment completed; five files verified, with five targeted English corrections in letter 3774 and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md`](BILINGUAL_ALIGNMENT_REVIEW_3770_3774.md)
+- Letters **3775–3779**: substantive Tamil–English alignment completed; five files verified, with one targeted English correction and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md`](BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md)
+- Letters **3780–3784**: substantive Tamil–English alignment completed; five files verified, with two targeted English corrections and no Tamil-source changes — [`BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md`](BILINGUAL_ALIGNMENT_REVIEW_3780_3784.md)
 
 ## Translation policy
 

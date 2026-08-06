@@ -8,8 +8,10 @@ source_pdf_page_start: 114
 source_pdf_page_end: 119
 source_printed_page_start: 113
 source_printed_page_end: 118
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md"
 source_textual_fidelity_audit: "visual-scan-verified-with-corrections"
 ---
 
@@ -68,7 +70,7 @@ On 12 July I again wrote to Prime Minister Manmohan Singh. I sent the letter thr
 
 Only after this did SEBI agree to the sale of the Neyveli shares to Tamil Nadu Government public-sector institutions, and the Tamil Nadu Government accepted it. This is what is now being celebrated as “victory, victory”.
 
-Had the Tamil Nadu Government remained firm in its original demand that the NLC shares should not be sold to anyone, the pressure of the workers’ indefinite struggle might have compelled the Union Government to grant an exemption and withdraw its decision, just as it did in 2006. Instead, the State Government has merely agreed with and assisted SEBI’s original decision that the shares must be sold. Is this truly a “Himalayan” victory? Does it justify so many advertisements in the AIADMK newspaper?
+Had the Tamil Nadu Government remained firm in its original demand that the NLC shares should not be sold to anyone, the pressure of the workers’ indefinite hunger strike might have compelled the Union Government to grant an exemption and withdraw its decision, just as it did in 2006. Instead, the State Government has merely agreed with and assisted SEBI’s original decision that the shares must be sold. Is this truly a “Himalayan” victory? Does it justify so many advertisements in the AIADMK newspaper?
 
 Meanwhile, it is said that leaders of all parties have praised Ammaiyar’s decision. Which parties? Not even all the parties allied with the AIADMK have praised it. Only one or two have done so. And for that, such clamour! Advertisements of praise costing many lakhs of rupees!
 
