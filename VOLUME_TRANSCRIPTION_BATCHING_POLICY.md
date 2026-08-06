@@ -2,7 +2,7 @@
 
 **Status:** Mandatory repository policy for starting and continuing every new Tamil transcription volume.
 
-This policy records the workflow proven during Volume 48. Where its transcription-batch rules conflict with the older recommended `10–20 PDF pages` wording in §9 of `VOLUME_PROCESSING_GUIDE.md`, **this policy takes precedence**.
+This policy records the approved workflow for Volumes 1–48. Where its transcription-batch rules conflict with the older recommended page-count wording in §9 of `VOLUME_PROCESSING_GUIDE.md`, **this policy takes precedence**.
 
 ---
 
@@ -60,7 +60,7 @@ A partial first-letter boundary is valid only when it is clearly documented.
 
 The next transcription commit must begin at **PDF page 26**.
 
-When page 25 ended inside a letter, this commit must finish that interrupted letter before beginning another letter.
+When page 25 ended inside a letter, this commit must finish that interrupted letter before beginning the regular five-letter iterations.
 
 Required commit message pattern:
 
@@ -76,50 +76,63 @@ The commit must:
 - update the contents register, chapter index, metadata, progress, and batch audit; and
 - identify the next exact PDF page and letter.
 
-When PDF page 25 does not interrupt a letter, begin the next letter at page 26 and complete that letter as the next batch.
+When PDF page 25 does not interrupt a letter, the regular five-letter iteration begins at the next verified letter boundary.
 
 ---
 
-## 4. Default workflow after the first letter
+## 4. Default workflow after the first interrupted letter
 
-After the initial 25-page batch and completion of any interrupted letter, process **one complete letter per commit by default**.
+After the initial 25-page batch and completion of any interrupted letter, process **five complete consecutive letters in each iteration**.
 
 Required commit message pattern:
 
 ```text
-Complete Volume NN letter NNNN — PDF pages AAA-BBB
+Complete Volume NN letters NNNN-NNNN — PDF pages AAA-BBB
 ```
 
 Rules:
 
-- Begin at the verified first page of the letter.
-- Continue through its verified closing/date page.
-- Do not include part of the following letter merely to enlarge the batch.
-- A long or difficult letter still remains one letter-level batch unless technical limits make that impossible.
-- Group multiple letters only when the user explicitly approves a grouped batch; every included letter must be complete and the exact range must be declared.
-- Never leave an incomplete letter unmarked.
+- Each iteration begins at the verified first page of its first letter.
+- It continues through the verified closing/date page of the fifth letter.
+- All five letters must be complete before the iteration is committed.
+- Do not include part of a sixth letter merely to enlarge the batch.
+- Do not stop inside any of the five letters.
+- Every letter receives its own chapter record and complete canonical page-link sequence.
+- The contents register must record the verified PDF start and end for all five letters.
+- The completion report must identify the next exact PDF page and sixth letter.
+
+### Documented exceptions
+
+A smaller iteration is allowed only when:
+
+- a single exceptionally long or technically difficult letter makes a five-letter batch unsafe;
+- the source scan has a damaged, missing, illegible, or unresolved boundary that blocks continuation;
+- connector or commit-size limits prevent a safe atomic write; or
+- the user explicitly approves a different scope.
+
+The exception and its reason must be recorded in `PROGRESS.md`, `AUDIT.md`, and the commit message. A larger batch than five letters also requires explicit user approval.
 
 ---
 
-## 5. Files that must be updated in every transcription batch
+## 5. Files that must be updated in every transcription iteration
 
-Every commit must update all applicable records, not only `pages/`:
+Every iteration must update all applicable records, not only `pages/`:
 
 1. `pages/page-NNN.md` canonical page files
 2. `contents/index.md`
-3. the current `chapters/NNNN-short-slug.md`
+3. each completed `chapters/NNNN-short-slug.md`
 4. `chapters/README.md`
 5. `PROGRESS.md`
 6. `metadata.yml`
-7. `AUDIT.md` with the exact batch scope
-8. `README.md` when the completed range or letter count changes materially
+7. `AUDIT.md` with the exact iteration scope
+8. `README.md` when the completed range or letter count changes
 9. translation-gate records when needed, without starting translation
 
 Chapter files link to canonical page files; they must not duplicate the full letter text.
 
 ---
 
-## 6. Mandatory visual verification within each batch
+## 6. Mandatory visual verification within each iteration
 
 Before every transcription commit:
 
@@ -145,18 +158,18 @@ Before every transcription commit:
 
 Do not merge these statuses:
 
-1. **Batch audit** — validates the exact pages and letters in the current commit.
+1. **Iteration/batch audit** — validates the exact pages and five letters in the current commit.
 2. **Full-volume Tamil structural audit** — performed only after every PDF page has a canonical Markdown file.
 3. **Second visual verification** — later character-by-character or equivalent close comparison.
 4. **Textual-fidelity audit for translation** — mandatory visual scan comparison for every page included in a translation batch.
 
-A passed batch audit does not unlock English translation.
+A passed iteration audit does not unlock English translation.
 
 ---
 
 ## 8. Translation remains blocked
 
-Do not begin English translation merely because one or more letters are complete.
+Do not begin English translation merely because one or more five-letter iterations are complete.
 
 Translation may begin only after:
 
@@ -164,32 +177,31 @@ Translation may begin only after:
 - the full-volume Tamil structural audit passes; and
 - the relevant Tamil pages pass the mandatory textual-fidelity audit required before translation.
 
-The approved translation batch rule remains separate: normally five complete letters or the smaller page-based limit stated in the master guide.
+The approved translation batch rule remains separate from this transcription policy.
 
 ---
 
 ## 9. Commit and branch discipline
 
-- Prefer one atomic commit for each declared batch.
-- The commit must contain only files required for that volume batch.
+- Prefer one atomic commit for each five-letter iteration.
+- The commit must contain only files required for that declared volume range.
 - Direct commits to `main` are allowed for this repository when the complete tree has been validated before moving the ref.
-- Do not create one commit per page.
+- Do not create one commit per page or one commit per letter inside the five-letter iteration.
 - Do not force-push `main`.
 - Use a temporary branch only when technically necessary; remove or neutralise it after integration.
 - Do not leave temporary workflows, test files, export files, or cleanup scripts in the final tree.
 
 ---
 
-## 10. Completion report after every batch
+## 10. Completion report after every iteration
 
 Report:
 
-- exact PDF pages added;
-- exact printed pages covered;
-- letters completed or left partial;
+- the five letter numbers and titles completed;
+- exact PDF and printed-page ranges;
 - structural files updated;
 - audit result and preserved anomalies;
 - final commit SHA and commit message; and
-- the exact next PDF page and letter.
+- the exact next PDF page and next letter.
 
 Do not report a letter or volume as complete unless its verified end boundary has been reached.
