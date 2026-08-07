@@ -22,13 +22,15 @@
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
-  - [ ] PDF 026 onward
+  - [x] First 15 letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
+  - [x] Fresh comparison in this pass — PDF 026–128, 103/103 pages; canonical corrections on PDF 045, 046, 049, 073 and 110
+  - [ ] PDF 129 onward
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
 ## Next fidelity-audit task
 
-Visually compare **PDF pages 026–050** against their canonical Markdown files, correct only scan-proven transcription defects, and record the results in the next textual-fidelity audit report. Letter 3706 is not translation-ready until its remaining pages **026–029** pass this audit.
+Continue from **letter 3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, beginning at **PDF page 129 / printed page 128**. Correct only defects proved by the scan and keep the second visual-verification record separate from the earlier transcription/iteration audit.
 
 ## Next transcription task
 
