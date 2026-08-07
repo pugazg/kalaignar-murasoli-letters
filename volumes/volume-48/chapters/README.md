@@ -20,12 +20,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3719](3719-does-everyone-accept-this.md) | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | complete (PDF 112–122) |
 | [3720](3720-is-there-no-strength-because-teso-asks.md) | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | complete (PDF 123–128) |
 | [3721](3721-world-tamils-will-never-agree.md) | உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்! | 21-3-2013 | 128 | complete (PDF 129–136) |
-| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | start verified at PDF 137; transcription not started |
-| 3723 | வாடிக்கையாகிவிட்ட பித்தலாட்டம்! | 28-3-2013 | 143 | contents identified; transcription not started |
-| 3724 | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | contents identified; transcription not started |
-| 3725 | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | contents identified; transcription not started |
-| 3726 | எத்தனை காலம்தான் ஏமாற்றுவார்? | 1-4-2013 | 161 | contents identified; transcription not started |
-| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | contents identified; transcription not started |
+| [3722](3722-in-the-legislative-assembly-then-and-now.md) | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | complete (PDF 137–143) |
+| [3723](3723-the-usual-deception.md) | வாடிக்கையாகிவிட்ட பித்தலாட்டம்! | 28-3-2013 | 143 | complete (PDF 144–150) |
+| [3724](3724-the-hindu-itself-points-out-the-double-role.md) | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | complete (PDF 151–156) |
+| [3725](3725-lawlessness-in-cooperative-elections.md) | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | complete (PDF 157–161) |
+| [3726](3726-how-long-will-they-deceive.md) | எத்தனை காலம்தான் ஏமாற்றுவார்? | 1-4-2013 | 161 | complete (PDF 162–167) |
+| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | start verified at PDF 168; transcription not started |
 | 3728 | அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை! | 4-4-2013 | 173 | contents identified; transcription not started |
 | 3729 | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | contents identified; transcription not started |
 | 3730 | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | contents identified; transcription not started |

@@ -25,12 +25,12 @@ transcription_status: "visually-transcribed"
 | 3719 | இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா? | 12-3-2013 | 111 | 112 | [complete: PDF 112–122](../chapters/3719-does-everyone-accept-this.md) |
 | 3720 | “டெசோ” கேட்பதால்; வலுவில்லை என்பதா? | 14-3-2013 | 122 | 123 | [complete: PDF 123–128](../chapters/3720-is-there-no-strength-because-teso-asks.md) |
 | 3721 | உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்! | 21-3-2013 | 128 | 129 | [complete: PDF 129–136](../chapters/3721-world-tamils-will-never-agree.md) |
-| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | 137 | start boundary verified; transcription pending |
-| 3723 | வாடிக்கையாகிவிட்ட பித்தலாட்டம்! | 28-3-2013 | 143 | provisional | contents identified; boundary verification pending |
-| 3724 | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | provisional | contents identified; boundary verification pending |
-| 3725 | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | provisional | contents identified; boundary verification pending |
-| 3726 | எத்தனை காலம்தான் ஏமாற்றுவார்? | 1-4-2013 | 161 | provisional | contents identified; boundary verification pending |
-| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | provisional | contents identified; boundary verification pending |
+| 3722 | சட்டப்பேரவையில் அன்றும், இன்றும்! | 27-3-2013 | 136 | 137 | [complete: PDF 137–143](../chapters/3722-in-the-legislative-assembly-then-and-now.md) |
+| 3723 | வாடிக்கையாகிவிட்ட பித்தலாட்டம்! | 28-3-2013 | 143 | 144 | [complete: PDF 144–150](../chapters/3723-the-usual-deception.md) |
+| 3724 | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | 151 | [complete: PDF 151–156](../chapters/3724-the-hindu-itself-points-out-the-double-role.md) |
+| 3725 | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | 157 | [complete: PDF 157–161](../chapters/3725-lawlessness-in-cooperative-elections.md) |
+| 3726 | எத்தனை காலம்தான் ஏமாற்றுவார்? | 1-4-2013 | 161 | 162 | [complete: PDF 162–167](../chapters/3726-how-long-will-they-deceive.md) |
+| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | 168 | start boundary verified; transcription pending |
 | 3728 | அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை! | 4-4-2013 | 173 | provisional | contents identified; boundary verification pending |
 | 3729 | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | provisional | contents identified; boundary verification pending |
 | 3730 | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | provisional | contents identified; boundary verification pending |
@@ -72,6 +72,6 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3721 have visually verified PDF start and end boundaries.
-- Letter 3722 is visually verified to start at PDF page 137 / printed page 136; its end remains pending.
+- Letters 3706–3726 have visually verified PDF start and end boundaries.
+- Letter 3727 is visually verified to start at PDF page 168 / printed page 167; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.
