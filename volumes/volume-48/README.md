@@ -20,8 +20,10 @@
 - Five-letter iteration 5: **3727–3731**, PDF **168–199**, அச்சுப் பக்கங்கள் **167–198**.
 - Five-letter iteration 6: **3732–3736**, PDF **200–225**, அச்சுப் பக்கங்கள் **199–224**.
 - Five-letter iteration 7: **3737–3741**, PDF **226–254**, அச்சுப் பக்கங்கள் **225–253**.
+- இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–25**க்கு முடிக்கப்பட்டது; 25/25 pages scan-உடன் ஒப்பிடப்பட்டு PDF 2, 3, 4, 16 canonical transcription-களில் scan-proven corrections செய்யப்பட்டன.
+- [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - அடுத்த கடிதம் **3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!** PDF பக்கம் **255** / அச்சுப் பக்கம் **254**-இல் தொடங்குவது scan மூலம் உறுதிசெய்யப்பட்டுள்ளது.
-- English translation தொடங்கப்படவில்லை; முழுத் தமிழ்த் தொகுதியும் தேவையான audit gates-ஐத் தாண்டிய பின்னரே அது தொடங்கும்.
+- English translation தொடங்கப்படவில்லை; தொடர்புடைய முழுக் கடிதத்தின் அனைத்து Tamil pages-க்கும் textual-fidelity audit முடிந்த பின்னரே அந்தக் கடிதம் translation-ready ஆகும்.
 
 ## தற்போதைய நிலை
 
@@ -40,13 +42,15 @@
 | கடிதங்கள் 3727–3731 | 168–199 | five-letter iteration complete |
 | கடிதங்கள் 3732–3736 | 200–225 | five-letter iteration complete |
 | கடிதங்கள் 3737–3741 | 226–254 | five-letter iteration complete |
-| அடுத்த iteration | 3742–3746, PDF 255 முதல் | not started |
-| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–254 | pending |
+| அடுத்த transcription iteration | 3742–3746, PDF 255 முதல் | not started |
+| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–25 | source-checked |
+| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 26–254 | pending |
 
 ## முக்கிய இணைப்புகள்
 
 - [Metadata](metadata.yml)
 - [முன்னேற்றம்](PROGRESS.md)
 - [Iteration audit](AUDIT.md)
+- [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)
