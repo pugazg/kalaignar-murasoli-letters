@@ -20,7 +20,10 @@ completed_letter_range: "3706-3741"
 completed_letter_count: 36
 audit_status: "iteration-audit-complete"
 audit_date: 2026-08-07
-second_visual_verification: "pending"
+second_visual_verification: "in-progress"
+second_visual_verified_page_range: "1-25"
+textual_fidelity_audit_reports:
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
 translation_status: "not-started"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
