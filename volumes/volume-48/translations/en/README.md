@@ -10,7 +10,7 @@ Translation is intentionally blocked until the relevant canonical Tamil pages pa
 - [x] Letters **3706–3720** — first 15 letters, PDF **024–128** / printed **23–127**; all 105/105 letter pages source-checked.
   - PDF 024–025 were covered by the preceding page-range audit.
   - PDF 026–128 were freshly visually compared in the 15-letter pass.
-  - Scan-proven canonical corrections were applied to PDF 045, 046, 049, 073 and 110.
+  - Scan-proven canonical corrections were applied to PDF 027, 045, 046, 049, 073, 080, 096 and 110.
 - [ ] PDF pages **129 onward**.
 
 ## Audit reports
