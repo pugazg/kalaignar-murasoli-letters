@@ -23,7 +23,7 @@
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
   - [x] First 15 letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
-  - [x] Fresh comparison in this pass — PDF 026–128, 103/103 pages; canonical corrections on PDF 045, 046, 049, 073 and 110
+  - [x] Fresh comparison in this pass — PDF 026–128, 103/103 pages; canonical corrections on PDF 027, 045, 046, 049, 073, 080, 096 and 110
   - [ ] PDF 129 onward
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release

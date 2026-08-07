@@ -21,7 +21,7 @@
 - Five-letter iteration 6: **3732–3736**, PDF **200–225**, அச்சுப் பக்கங்கள் **199–224**.
 - Five-letter iteration 7: **3737–3741**, PDF **226–254**, அச்சுப் பக்கங்கள் **225–253**.
 - இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–128** வரை source-checked. இதில் முதல் **15 கடிதங்கள் 3706–3720**, PDF **24–128** / அச்சுப் பக்கங்கள் **23–127**, முழுமையாக scan-க்கு எதிராகச் சரிபார்க்கப்பட்டுள்ளன.
-- இந்த 15-letter fidelity pass-இல் PDF **26–128** புதியதாக 103/103 pages ஒப்பிடப்பட்டு PDF **45, 46, 49, 73, 110** canonical transcription-களில் scan-proven corrections செய்யப்பட்டன.
+- இந்த 15-letter fidelity pass-இல் PDF **26–128** புதியதாக 103/103 pages ஒப்பிடப்பட்டு PDF **27, 45, 46, 49, 73, 80, 96, 110** canonical transcription-களில் scan-proven corrections செய்யப்பட்டன.
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - அடுத்த fidelity boundary **3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, PDF **129** / அச்சுப் பக்கம் **128**.
