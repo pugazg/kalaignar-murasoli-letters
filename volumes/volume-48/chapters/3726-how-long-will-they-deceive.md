@@ -32,5 +32,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3725 — கூட்டுறவுத் தேர்தல்களில் அராஜகம்!](3725-lawlessness-in-cooperative-elections.md)
-- அடுத்த கடிதம்: 3727 — தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? (PDF பக்கம் 168-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3727 — தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா?](3727-will-they-reveal-their-qualification.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

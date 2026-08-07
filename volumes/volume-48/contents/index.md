@@ -30,12 +30,12 @@ transcription_status: "visually-transcribed"
 | 3724 | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | 151 | [complete: PDF 151–156](../chapters/3724-the-hindu-itself-points-out-the-double-role.md) |
 | 3725 | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | 157 | [complete: PDF 157–161](../chapters/3725-lawlessness-in-cooperative-elections.md) |
 | 3726 | எத்தனை காலம்தான் ஏமாற்றுவார்? | 1-4-2013 | 161 | 162 | [complete: PDF 162–167](../chapters/3726-how-long-will-they-deceive.md) |
-| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | 168 | start boundary verified; transcription pending |
-| 3728 | அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை! | 4-4-2013 | 173 | provisional | contents identified; boundary verification pending |
-| 3729 | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | provisional | contents identified; boundary verification pending |
-| 3730 | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | provisional | contents identified; boundary verification pending |
-| 3731 | “தலித்” மக்கள் தெரிந்து கொள்வதற்காக! | 11-4-2013 | 192 | provisional | contents identified; boundary verification pending |
-| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | provisional | contents identified; boundary verification pending |
+| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | 168 | [complete: PDF 168–173](../chapters/3727-will-they-reveal-their-qualification.md) |
+| 3728 | அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை! | 4-4-2013 | 173 | 174 | [complete: PDF 174–179](../chapters/3728-duty-performed-by-dmk-rule-for-arunthathiyars.md) |
+| 3729 | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | 180 | [complete: PDF 180–186](../chapters/3729-that-day-came-to-mind-madam.md) |
+| 3730 | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | 187 | [complete: PDF 187–192](../chapters/3730-by-whom-did-betrayal-become-a-serial-story.md) |
+| 3731 | “தலித்” மக்கள் தெரிந்து கொள்வதற்காக! | 11-4-2013 | 192 | 193 | [complete: PDF 193–199](../chapters/3731-for-dalit-people-to-know.md) |
+| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | 200 | start boundary verified; transcription pending |
 | 3733 | ஓங்கிக் குரல் கொடுப்போம்! | 14-4-2013 | 206 | provisional | contents identified; boundary verification pending |
 | 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | provisional | contents identified; boundary verification pending |
 | 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | provisional | contents identified; boundary verification pending |
@@ -72,6 +72,6 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3726 have visually verified PDF start and end boundaries.
-- Letter 3727 is visually verified to start at PDF page 168 / printed page 167; its end remains pending.
+- Letters 3706–3731 have visually verified PDF start and end boundaries.
+- Letter 3732 is visually verified to start at PDF page 200 / printed page 199; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.

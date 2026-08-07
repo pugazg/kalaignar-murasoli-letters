@@ -25,12 +25,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3724](3724-the-hindu-itself-points-out-the-double-role.md) | “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்! | 29-3-2013 | 150 | complete (PDF 151–156) |
 | [3725](3725-lawlessness-in-cooperative-elections.md) | கூட்டுறவுத் தேர்தல்களில் அராஜகம்! | 31-3-2013 | 156 | complete (PDF 157–161) |
 | [3726](3726-how-long-will-they-deceive.md) | எத்தனை காலம்தான் ஏமாற்றுவார்? | 1-4-2013 | 161 | complete (PDF 162–167) |
-| 3727 | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | start verified at PDF 168; transcription not started |
-| 3728 | அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை! | 4-4-2013 | 173 | contents identified; transcription not started |
-| 3729 | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | contents identified; transcription not started |
-| 3730 | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | contents identified; transcription not started |
-| 3731 | “தலித்” மக்கள் தெரிந்து கொள்வதற்காக! | 11-4-2013 | 192 | contents identified; transcription not started |
-| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | contents identified; transcription not started |
+| [3727](3727-will-they-reveal-their-qualification.md) | தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா? | 3-4-2013 | 167 | complete (PDF 168–173) |
+| [3728](3728-duty-performed-by-dmk-rule-for-arunthathiyars.md) | அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை! | 4-4-2013 | 173 | complete (PDF 174–179) |
+| [3729](3729-that-day-came-to-mind-madam.md) | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | complete (PDF 180–186) |
+| [3730](3730-by-whom-did-betrayal-become-a-serial-story.md) | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | complete (PDF 187–192) |
+| [3731](3731-for-dalit-people-to-know.md) | “தலித்” மக்கள் தெரிந்து கொள்வதற்காக! | 11-4-2013 | 192 | complete (PDF 193–199) |
+| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | start verified at PDF 200; transcription not started |
 | 3733 | ஓங்கிக் குரல் கொடுப்போம்! | 14-4-2013 | 206 | contents identified; transcription not started |
 | 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | contents identified; transcription not started |
 | 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | contents identified; transcription not started |
