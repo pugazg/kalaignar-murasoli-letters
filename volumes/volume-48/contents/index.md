@@ -35,12 +35,12 @@ transcription_status: "visually-transcribed"
 | 3729 | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | 180 | [complete: PDF 180–186](../chapters/3729-that-day-came-to-mind-madam.md) |
 | 3730 | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | 187 | [complete: PDF 187–192](../chapters/3730-by-whom-did-betrayal-become-a-serial-story.md) |
 | 3731 | “தலித்” மக்கள் தெரிந்து கொள்வதற்காக! | 11-4-2013 | 192 | 193 | [complete: PDF 193–199](../chapters/3731-for-dalit-people-to-know.md) |
-| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | 200 | start boundary verified; transcription pending |
-| 3733 | ஓங்கிக் குரல் கொடுப்போம்! | 14-4-2013 | 206 | provisional | contents identified; boundary verification pending |
-| 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | provisional | contents identified; boundary verification pending |
-| 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | provisional | contents identified; boundary verification pending |
-| 3736 | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | provisional | contents identified; boundary verification pending |
-| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | provisional | contents identified; boundary verification pending |
+| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | 200 | [complete: PDF 200–206](../chapters/3732-beneficiaries-will-know-the-truth.md) |
+| 3733 | ஓங்கிக் குரல் கொடுப்போம்! | 14-4-2013 | 206 | 207 | [complete: PDF 207–212](../chapters/3733-let-us-raise-our-voice.md) |
+| 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | 213 | [complete: PDF 213–215](../chapters/3734-human-sacrifice-cruelty-in-civilised-age.md) |
+| 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | 216 | [complete: PDF 216–219](../chapters/3735-can-an-announcement-be-read-for-this.md) |
+| 3736 | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | 220 | [complete: PDF 220–225](../chapters/3736-do-not-sully-departed-leaders.md) |
+| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | 226 | start boundary verified; transcription pending |
 | 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | provisional | contents identified; boundary verification pending |
 | 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | provisional | contents identified; boundary verification pending |
 | 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | provisional | contents identified; boundary verification pending |
@@ -72,6 +72,6 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3731 have visually verified PDF start and end boundaries.
-- Letter 3732 is visually verified to start at PDF page 200 / printed page 199; its end remains pending.
+- Letters 3706–3736 have visually verified PDF start and end boundaries.
+- Letter 3737 is visually verified to start at PDF page 226 / printed page 225; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.

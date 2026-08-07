@@ -33,5 +33,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3730 — துரோகம் தொடர்கதையானது யாராலே?](3730-by-whom-did-betrayal-become-a-serial-story.md)
-- அடுத்த கடிதம்: 3732 — பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! (PDF பக்கம் 200-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3732 — பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது!](3732-beneficiaries-will-know-the-truth.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

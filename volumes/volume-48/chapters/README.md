@@ -30,12 +30,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3729](3729-that-day-came-to-mind-madam.md) | அந்த நாள் ஞாபகம் வந்ததே; அம்மையே! | 9-4-2013 | 179 | complete (PDF 180–186) |
 | [3730](3730-by-whom-did-betrayal-become-a-serial-story.md) | துரோகம் தொடர்கதையானது யாராலே? | 10-4-2013 | 186 | complete (PDF 187–192) |
 | [3731](3731-for-dalit-people-to-know.md) | “தலித்” மக்கள் தெரிந்து கொள்வதற்காக! | 11-4-2013 | 192 | complete (PDF 193–199) |
-| 3732 | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | start verified at PDF 200; transcription not started |
-| 3733 | ஓங்கிக் குரல் கொடுப்போம்! | 14-4-2013 | 206 | contents identified; transcription not started |
-| 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | contents identified; transcription not started |
-| 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | contents identified; transcription not started |
-| 3736 | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | contents identified; transcription not started |
-| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | contents identified; transcription not started |
+| [3732](3732-beneficiaries-will-know-the-truth.md) | பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது! | 12-4-2013 | 199 | complete (PDF 200–206) |
+| [3733](3733-let-us-raise-our-voice.md) | ஓங்கிக் குரல் கொடுப்போம்! | 14-4-2013 | 206 | complete (PDF 207–212) |
+| [3734](3734-human-sacrifice-cruelty-in-civilised-age.md) | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | complete (PDF 213–215) |
+| [3735](3735-can-an-announcement-be-read-for-this.md) | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | complete (PDF 216–219) |
+| [3736](3736-do-not-sully-departed-leaders.md) | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | complete (PDF 220–225) |
+| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | start verified at PDF 226; transcription not started |
 | 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | contents identified; transcription not started |
 | 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | contents identified; transcription not started |
 | 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | contents identified; transcription not started |
