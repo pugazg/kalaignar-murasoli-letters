@@ -20,10 +20,16 @@
 - [ ] Five-letter iteration 8: letters 3742–3746, beginning PDF page 255
 - [ ] Remaining PDF pages 255–402
 - [ ] Full-volume Tamil structural audit
-- [ ] Mandatory textual-fidelity audits before translation
+- [ ] Mandatory textual-fidelity audits before translation — in progress
+  - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
+  - [ ] PDF 026 onward
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
-## Next exact task
+## Next fidelity-audit task
+
+Visually compare **PDF pages 026–050** against their canonical Markdown files, correct only scan-proven transcription defects, and record the results in the next textual-fidelity audit report. Letter 3706 is not translation-ready until its remaining pages **026–029** pass this audit.
+
+## Next transcription task
 
 Transcribe and visually verify **five complete letters 3742–3746**, beginning with **3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!** at **PDF page 255 / printed page 254**. Stop at the verified closing of letter 3746; do not include part of letter 3747.

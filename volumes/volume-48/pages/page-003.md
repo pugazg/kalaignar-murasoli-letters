@@ -10,7 +10,9 @@ transcription_status: "visually-transcribed"
 source_note: "நூலகக் கையெழுத்துக் குறிப்புகள் உள்ளன."
 ---
 
-# நூல் கிடைக்குமிடம்
+# நூல் கிடைக்குமிடம் :
+
+**AVAILABLE @ :**
 
 **கெளரா புத்தக மையம்**  
 9, செயின்ட் ஜான் சர்ச்சு வணிக வளாகம்,  
@@ -32,7 +34,7 @@ gowraputhagamaiyam@gmail.com
 044 28443791.
 
 GOWRA AGENCIES  
-NO : 1 SAMY STREET,  
+No : 1 SAMY STREET,  
 SAI BABA TEMPLE BACK SIDE  
 TRIPLICANE, CHENNAI - 05.  
 9790706548 / 044 28443791.  
@@ -42,19 +44,50 @@ gowra09@gmail.com
 
 KALAIGNARIN KADITHANGAL
 
-**விலை : ரூ. 300.00**  
-**CODE : 2300**
+**விலை : ரூ.300.00**  
+**CODE :2300**
 
-- எழுதியவர் : கலைஞர்
-- தொகுப்பாசிரியர்கள் : கோ.சண்முகநாதன் M.com BGL; முனைவர் கி. இராஜமாணிக்கம் IAS ஓய்வு — கலைஞரின் செயலாளர்கள்
-- பொருள் : கடிதம்
-- © உரிமை :
-- பதிப்பாசிரியர் : எஸ். கெளமாரீஸ்வரி M.A., M.L.I.S.,
-- பதிப்பு : முதற் பதிப்பு - 2022
-- வெளியீடு : சீதை பதிப்பகம், 6ஏ/4, பார்த்தசாரதி சாமி தெரு, திருவல்லிக்கேணி, சென்னை - 600 005
-- பக்கம் : 400
-- ஒளி அச்சு : ஜெய் ஜீனா
-- அச்சிட்டோர் : கிளாசிக் பிரிண்டர்ஸ், சென்னை-2.
-- ISBN :
+எழுதியவர் : கலைஞர்  
+தொகுப்பாசிரியர்கள் :  
+கோ.சண்முகநாதன் M.com BGL  
+முனைவர் கி. இராஜமாணிக்கம் IAS ஓய்வு  
+கலைஞரின் செயலாளர்கள்  
+பொருள் : கடிதம்  
+© உரிமை :  
+பதிப்பாசிரியர் :  
+எஸ். கெளமாரீஸ்வரி M.A., M.L.I.S.,  
+பதிப்பு :  
+முதற் பதிப்பு - 2022  
+வெளியீடு :  
+சீதை பதிப்பகம்  
+6ஏ/4, பார்த்தசாரதி சாமி தெரு,  
+திருவல்லிக்கேணி,  
+சென்னை - 600 005  
+பக்கம் : 400  
+ஒளி அச்சு : ஜெய் ஜீனா  
+அச்சிட்டோர் :  
+கிளாசிக் பிரிண்டர்ஸ், சென்னை-2.  
+ISBN :
+
+AUTHOR : KALAIGNAR  
+EDITORS:  
+K. SHANMUGANATHAN M.com BGL  
+DR K. RAJAMANIKAM IAS  
+SUBJECT : EPISTLE  
+© RIGHTS :  
+PUBLISHER :  
+S.GOWMAREESWARI M.A., M.L.I.S.,  
+EDITION :  
+1ST EDITION - 2022  
+PUBLISHED @ :  
+SEETHAI PATHIPPAGAM  
+6A/4, PARTHASARATHI SAMY STREET,  
+TRIPLICANE,  
+CHENNAI-600 005.  
+PAGES : 400  
+TYPESET BY : JAIJEENA  
+PRINTED @ :  
+CLASSIC PRINTERS, CHENNAI - 2.  
+ISBN :
 
 [நூலகக் கையெழுத்துக் குறிப்புகள் உள்ளன.]
