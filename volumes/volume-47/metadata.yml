@@ -14,13 +14,13 @@ pdf_pages: 401
 source_file: "Vol47.pdf"
 source_sha256: "4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558"
 source_size_bytes: 199112671
-transcription_page_range: "1-64"
+transcription_page_range: "1-96"
 transcription_status: "in-progress"
-completed_letter_range: "3647-3652"
-completed_letter_count: 6
+completed_letter_range: "3647-3657"
+completed_letter_count: 11
 partial_letter: null
 audit_status: "iteration-audit-complete"
-audit_date: 2026-08-06
+audit_date: 2026-08-07
 second_visual_verification: "pending"
 translation_status: "not-started"
 bilingual_alignment_status: "not-started"
@@ -29,7 +29,7 @@ source_observations:
   - "PDF page 5 is blank, with faint reverse-side show-through."
   - "PDF page 23 is blank, with faint show-through from the contents reverse side."
   - "Library stamps and handwritten library markings appear in the front matter."
-  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-64."
+  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-96."
   - "The source has no usable authoritative searchable text layer; transcription is controlled by rendered page images."
-  - "Letters 3648-3652 occupy PDF pages 31-64 / printed pages 30-63."
-  - "Letter 3653 begins on PDF page 65 / printed page 64."
+  - "Letters 3653-3657 occupy PDF pages 65-96 / printed pages 64-95."
+  - "Letter 3658 begins on PDF page 97 / printed page 96."
