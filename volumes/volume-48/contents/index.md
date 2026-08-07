@@ -40,12 +40,12 @@ transcription_status: "visually-transcribed"
 | 3734 | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | 213 | [complete: PDF 213–215](../chapters/3734-human-sacrifice-cruelty-in-civilised-age.md) |
 | 3735 | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | 216 | [complete: PDF 216–219](../chapters/3735-can-an-announcement-be-read-for-this.md) |
 | 3736 | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | 220 | [complete: PDF 220–225](../chapters/3736-do-not-sully-departed-leaders.md) |
-| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | 226 | start boundary verified; transcription pending |
-| 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | provisional | contents identified; boundary verification pending |
-| 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | provisional | contents identified; boundary verification pending |
-| 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | provisional | contents identified; boundary verification pending |
-| 3741 | வலுவான காரணங்கள் குவிகின்றன! | 23-4-2013 | 248 | provisional | contents identified; boundary verification pending |
-| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | provisional | contents identified; boundary verification pending |
+| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | 226 | [complete: PDF 226–231](../chapters/3737-what-do-all-parties-expect-in-this-cooperative-election.md) |
+| 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | 232 | [complete: PDF 232–236](../chapters/3738-a-repeated-appeal.md) |
+| 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | 237 | [complete: PDF 237–241](../chapters/3739-two-unforgettable-gems-condolence-letter.md) |
+| 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | 242 | [complete: PDF 242–248](../chapters/3740-prevent-before-or-suffer-after.md) |
+| 3741 | வலுவான காரணங்கள் குவிகின்றன! | 23-4-2013 | 248 | 249 | [complete: PDF 249–254](../chapters/3741-strong-reasons-are-piling-up.md) |
+| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | 255 | start boundary verified; transcription pending |
 | 3743 | கனவா? நனவா? கழகத்தே சும்மா இரு என்ற கதையா? | 28-4-2013 | 259 | provisional | contents identified; boundary verification pending |
 | 3744 | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | provisional | contents identified; boundary verification pending |
 | 3745 | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | provisional | contents identified; boundary verification pending |
@@ -72,6 +72,6 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3736 have visually verified PDF start and end boundaries.
-- Letter 3737 is visually verified to start at PDF page 226 / printed page 225; its end remains pending.
+- Letters 3706–3741 have visually verified PDF start and end boundaries.
+- Letter 3742 is visually verified to start at PDF page 255 / printed page 254; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.

@@ -35,12 +35,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3734](3734-human-sacrifice-cruelty-in-civilised-age.md) | நாகரிகயுகத்தில் நரபலிக் கொடுமையா? | 15-4-2013 | 212 | complete (PDF 213–215) |
 | [3735](3735-can-an-announcement-be-read-for-this.md) | இதற்கோர் அறிக்கை படிக்கலாமே? | 16-4-2013 | 215 | complete (PDF 216–219) |
 | [3736](3736-do-not-sully-departed-leaders.md) | மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது! | 17-4-2013 | 219 | complete (PDF 220–225) |
-| 3737 | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | start verified at PDF 226; transcription not started |
-| 3738 | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | contents identified; transcription not started |
-| 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | contents identified; transcription not started |
-| 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | contents identified; transcription not started |
-| 3741 | வலுவான காரணங்கள் குவிகின்றன! | 23-4-2013 | 248 | contents identified; transcription not started |
-| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | contents identified; transcription not started |
+| [3737](3737-what-do-all-parties-expect-in-this-cooperative-election.md) | இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? | 18-4-2013 | 225 | complete (PDF 226–231) |
+| [3738](3738-a-repeated-appeal.md) | மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்! | 19-4-2013 | 231 | complete (PDF 232–236) |
+| [3739](3739-two-unforgettable-gems-condolence-letter.md) | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | complete (PDF 237–241) |
+| [3740](3740-prevent-before-or-suffer-after.md) | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | complete (PDF 242–248) |
+| [3741](3741-strong-reasons-are-piling-up.md) | வலுவான காரணங்கள் குவிகின்றன! | 23-4-2013 | 248 | complete (PDF 249–254) |
+| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | start verified at PDF 255; transcription not started |
 | 3743 | கனவா? நனவா? கழகத்தே சும்மா இரு என்ற கதையா? | 28-4-2013 | 259 | contents identified; transcription not started |
 | 3744 | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | contents identified; transcription not started |
 | 3745 | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | contents identified; transcription not started |

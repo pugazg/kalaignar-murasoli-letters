@@ -32,5 +32,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3735 — இதற்கோர் அறிக்கை படிக்கலாமே?](3735-can-an-announcement-be-read-for-this.md)
-- அடுத்த கடிதம்: 3737 — இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன? (PDF பக்கம் 226-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3737 — இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன?](3737-what-do-all-parties-expect-in-this-cooperative-election.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
