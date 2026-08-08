@@ -14,10 +14,10 @@ pdf_pages: 402
 source_file: "Vol48.pdf"
 source_sha256: "1f7258b06857fadf3958dc3e9e19eee1ac602e66277d907351701225fcb1bb4c"
 source_size_bytes: 214390300
-transcription_page_range: "1-325"
+transcription_page_range: "1-355"
 transcription_status: "in-progress"
-completed_letter_range: "3706-3751"
-completed_letter_count: 46
+completed_letter_range: "3706-3756"
+completed_letter_count: 51
 audit_status: "iteration-audit-complete"
 audit_date: 2026-08-08
 second_visual_verification: "in-progress"
@@ -30,5 +30,5 @@ bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
   - "PDF page 23 is blank, with faint show-through from the reverse side."
-  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-325."
+  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-355."
   - "The source has no usable authoritative searchable text layer; transcription is controlled by rendered page images."

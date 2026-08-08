@@ -33,5 +33,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3750 — எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்!](3750-let-us-work-for-rising-day-success.md)
-- அடுத்த கடிதம்: 3752 — “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! (PDF பக்கம் 326 / அச்சுப் பக்கம் 325-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3752 — “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை!](3752-blocking-sethu-destroying-tamil-livelihoods.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

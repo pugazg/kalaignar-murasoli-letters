@@ -50,12 +50,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3749](3749-sethu-project-that-does-not-hurt-hindus.md) | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர் கடிதம்-3 | 07-05-2013 | 304 | complete (PDF 305–311) |
 | [3750](3750-let-us-work-for-rising-day-success.md) | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | complete (PDF 312–318) |
 | [3751](3751-is-a-drama-being-staged-in-the-country.md) | ஒரு நாடகமன்றோ நடக்குது நாட்டிலே! | 09-05-2013 | 318 | complete (PDF 319–325) |
-| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | start verified at PDF 326; transcription not started |
-| 3753 | தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்! | 11-5-2013 | 332 | contents identified; transcription not started |
-| 3754 | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | contents identified; transcription not started |
-| 3755 | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | contents identified; transcription not started |
-| 3756 | அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்! | 15-05-2013 | 352 | contents identified; transcription not started |
-| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | contents identified; transcription not started |
+| [3752](3752-blocking-sethu-destroying-tamil-livelihoods.md) | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | complete (PDF 326–332) |
+| [3753](3753-industrial-growth-in-tamil-nadu-then-and-now.md) | தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்! | 11-5-2013 | 332 | complete (PDF 333–339) |
+| [3754](3754-does-this-cruelty-still-continue-in-eelam.md) | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | complete (PDF 340–346) |
+| [3755](3755-they-are-prodding-a-sleeping-tiger.md) | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | complete (PDF 347–352) |
+| [3756](3756-will-ammas-plans-stop-with-announcements.md) | அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்! | 15-05-2013 | 352 | complete (PDF 353–355) |
+| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | start verified at PDF 356; transcription not started |
 | 3758 | இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற... | 19-5-2013 | 363 | contents identified; transcription not started |
 | 3759 | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | contents identified; transcription not started |
 | 3760 | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | contents identified; transcription not started |

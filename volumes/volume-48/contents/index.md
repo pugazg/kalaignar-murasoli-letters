@@ -55,12 +55,12 @@ transcription_status: "visually-transcribed"
 | 3749 | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர்கடிதம்-3 | 07-05-2013 | 304 | 305 | [complete: PDF 305–311](../chapters/3749-sethu-project-that-does-not-hurt-hindus.md) |
 | 3750 | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | 312 | [complete: PDF 312–318](../chapters/3750-let-us-work-for-rising-day-success.md) |
 | 3751 | ஒரு நாடகமன்றோ நடக்குது நாட்டிலே! | 09-05-2013 | 318 | 319 | [complete: PDF 319–325](../chapters/3751-is-a-drama-being-staged-in-the-country.md) |
-| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | 326 | start boundary verified; transcription pending |
-| 3753 | தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்! | 11-5-2013 | 332 | provisional | contents identified; boundary verification pending |
-| 3754 | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | provisional | contents identified; boundary verification pending |
-| 3755 | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | provisional | contents identified; boundary verification pending |
-| 3756 | அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்! | 15-05-2013 | 352 | provisional | contents identified; boundary verification pending |
-| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | provisional | contents identified; boundary verification pending |
+| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | 326 | [complete: PDF 326–332](../chapters/3752-blocking-sethu-destroying-tamil-livelihoods.md) |
+| 3753 | தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்! | 11-5-2013 | 332 | 333 | [complete: PDF 333–339](../chapters/3753-industrial-growth-in-tamil-nadu-then-and-now.md) |
+| 3754 | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | 340 | [complete: PDF 340–346](../chapters/3754-does-this-cruelty-still-continue-in-eelam.md) |
+| 3755 | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | 347 | [complete: PDF 347–352](../chapters/3755-they-are-prodding-a-sleeping-tiger.md) |
+| 3756 | அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்! | 15-05-2013 | 352 | 353 | [complete: PDF 353–355](../chapters/3756-will-ammas-plans-stop-with-announcements.md) |
+| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | 356 | start boundary verified; transcription pending |
 | 3758 | இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற... | 19-5-2013 | 363 | provisional | contents identified; boundary verification pending |
 | 3759 | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | provisional | contents identified; boundary verification pending |
 | 3760 | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | provisional | contents identified; boundary verification pending |
@@ -71,8 +71,8 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3751 have visually verified PDF start and end boundaries.
-- The scan-proven title for letter 3743 is `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?`; the earlier canonical contents transcription incorrectly read `கழகத்தே` and is corrected in this iteration.
-- Letter 3752 is visually verified to start at PDF page 326 / printed page 325; its end remains pending.
+- Letters 3706–3756 have visually verified PDF start and end boundaries.
+- The scan-proven title for letter 3743 is `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?`; the earlier canonical contents transcription incorrectly read `கழகத்தே` and was corrected in iteration 8.
+- Letter 3757 is visually verified to start at PDF page 356 / printed page 355; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.
 - Letter 3749 actual start-page title prints `கலைஞர் தொடர் கடிதம்-3`; the printed contents row is preserved as `கலைஞர் தொடர்கடிதம்-3`.
