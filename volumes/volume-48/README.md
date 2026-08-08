@@ -6,67 +6,58 @@
 **பதிப்பகம்:** சீதை பதிப்பகம்  
 **PDF:** 402 பக்கங்கள்; நூலில் குறிப்பிடப்பட்ட அச்சுப் பக்கங்கள்: 400
 
-## இதுவரை சேர்க்கப்பட்டது
-
-- மூல PDF intake, SHA-256, byte size மற்றும் page count பதிவு செய்யப்பட்டுள்ளன.
-- PDF scan-இன் title page மூலம் இது **தொகுதி 48** என உறுதிசெய்யப்பட்டது.
-- PDF பக்கங்கள் **1–402** தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
-- PDF பக்கங்கள் **18–22** அடிப்படையில் முழு அச்சு உள்ளடக்க அட்டவணை **3706–3763** தனியாகப் பாதுகாக்கப்பட்டுள்ளது.
-- கடிதங்கள் **3706–3763** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
-- Five-letter iteration 1: **3707–3711**, PDF **30–62**, அச்சுப் பக்கங்கள் **29–61**.
-- Five-letter iteration 2: **3712–3716**, PDF **63–98**, அச்சுப் பக்கங்கள் **62–97**.
-- Five-letter iteration 3: **3717–3721**, PDF **99–136**, அச்சுப் பக்கங்கள் **98–135**.
-- Five-letter iteration 4: **3722–3726**, PDF **137–167**, அச்சுப் பக்கங்கள் **136–166**.
-- Five-letter iteration 5: **3727–3731**, PDF **168–199**, அச்சுப் பக்கங்கள் **167–198**.
-- Five-letter iteration 6: **3732–3736**, PDF **200–225**, அச்சுப் பக்கங்கள் **199–224**.
-- Five-letter iteration 7: **3737–3741**, PDF **226–254**, அச்சுப் பக்கங்கள் **225–253**.
-- Five-letter iteration 8: **3742–3746**, PDF **255–286**, அச்சுப் பக்கங்கள் **254–285**.
-- Five-letter iteration 9: **3747–3751**, PDF **287–325**, அச்சுப் பக்கங்கள் **286–324**.
-- Five-letter iteration 10: **3752–3756**, PDF **326–355**, அச்சுப் பக்கங்கள் **325–354**.
-- Five-letter iteration 11: **3757–3761**, PDF **356–386**, அச்சுப் பக்கங்கள் **355–385**.
-- Final-remainder iteration (user-authorised smaller scope): **3762–3763**, PDF **387–400**, அச்சுப் பக்கங்கள் **386–399**.
-- PDF **401** printed page 400 blank/back-side show-through record and PDF **402** back cover are preserved as canonical page files.
-- Letter 3743 title scan-க்கு எதிராகச் சரிபார்க்கப்பட்டபோது முந்தைய index transcription-இல் இருந்த `கழகத்தே` என்பது `கழுதையே` என scan-proven correction செய்யப்பட்டது.
-- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–128** வரை source-checked. இதில் முதல் **15 கடிதங்கள் 3706–3720**, PDF **24–128** / அச்சுப் பக்கங்கள் **23–127**, முழுமையாக scan-க்கு எதிராகச் சரிபார்க்கப்பட்டுள்ளன.
-- இந்த 15-letter fidelity pass-இல் PDF **26–128** புதியதாக 103/103 pages ஒப்பிடப்பட்டு PDF **27, 45, 46, 49, 73, 80, 96, 110** canonical transcription-களில் scan-proven corrections செய்யப்பட்டன.
-- [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
-- [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
-- அடுத்த fidelity boundary **3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, PDF **129** / அச்சுப் பக்கம் **128**.
-- Tamil transcription **முழுமை**: PDF **1–402**, letters **3706–3763**. அடுத்த transcription page இல்லை.
-- English translation தொடங்கப்படவில்லை; textual-fidelity audit முடிந்த letter range source-checked ஆனாலும் volume-level translation/release gates தனியாகவே உள்ளன.
-
 ## தற்போதைய நிலை
 
-| பகுதி | PDF பக்கங்கள் | நிலை |
+- மூல PDF intake, SHA-256, byte size மற்றும் page count பதிவு செய்யப்பட்டுள்ளன.
+- PDF பக்கங்கள் **1–402** அனைத்தும் தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
+- அச்சு உள்ளடக்க அட்டவணை **3706–3763** முழுமையாகப் பாதுகாக்கப்பட்டுள்ளது.
+- கடிதங்கள் **3706–3763 — 58/58** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
+- PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
+- **Full-volume Tamil structural audit PASS** — 2026-08-08.
+- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–128** வரை source-checked.
+- English translation தொடங்கப்படவில்லை; relevant Tamil pages textual-fidelity audit-ஐத் தாண்டிய பின்னரே translation தொடங்கும்.
+
+## Transcription iterations
+
+- Initial fixed batch: PDF **1–25**
+- Letter 3706 completion: PDF **26–29**
+- Five-letter iterations:
+  - 3707–3711 — PDF 30–62
+  - 3712–3716 — PDF 63–98
+  - 3717–3721 — PDF 99–136
+  - 3722–3726 — PDF 137–167
+  - 3727–3731 — PDF 168–199
+  - 3732–3736 — PDF 200–225
+  - 3737–3741 — PDF 226–254
+  - 3742–3746 — PDF 255–286
+  - 3747–3751 — PDF 287–325
+  - 3752–3756 — PDF 326–355
+  - 3757–3761 — PDF 356–386
+- User-authorised final remainder: 3762–3763 — PDF **387–400**
+- Final non-letter pages: PDF **401–402**
+
+## Audit status
+
+| Audit / stage | Coverage | Status |
 |---|---:|---|
-| முன் அட்டை / நூல் விவரம் | 1–5 | visually transcribed; second-pass source-checked |
-| அணிந்துரை | 6–14 | first-pass-reviewed; second-pass source-checked |
-| பதிப்புரை | 15–17 | first-pass-reviewed; second-pass source-checked |
-| உள்ளடக்கம் | 18–22 | visually transcribed; second-pass source-checked |
-| வெற்றுப் பக்கம் | 23 | recorded; second-pass source-checked |
-| கடிதம் 3706 | 24–29 | complete; source-checked |
-| கடிதங்கள் 3707–3711 | 30–62 | five-letter iteration complete; source-checked |
-| கடிதங்கள் 3712–3716 | 63–98 | five-letter iteration complete; source-checked |
-| கடிதங்கள் 3717–3720 | 99–128 | source-checked |
-| கடிதம் 3721 | 129–136 | transcription complete; second-pass pending |
-| கடிதங்கள் 3722–3726 | 137–167 | five-letter iteration complete |
-| கடிதங்கள் 3727–3731 | 168–199 | five-letter iteration complete |
-| கடிதங்கள் 3732–3736 | 200–225 | five-letter iteration complete |
-| கடிதங்கள் 3737–3741 | 226–254 | five-letter iteration complete |
-| கடிதங்கள் 3742–3746 | 255–286 | five-letter iteration complete |
-| கடிதங்கள் 3747–3751 | 287–325 | five-letter iteration complete |
-| கடிதங்கள் 3752–3756 | 326–355 | five-letter iteration complete |
-| கடிதங்கள் 3757–3761 | 356–386 | five-letter iteration complete |
-| கடிதங்கள் 3762–3763 | 387–400 | final-remainder iteration complete |
-| இறுதி பின்தாள் | 401–402 | blank printed page 400 + back cover recorded |
-| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–128 | source-checked |
-| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 129–402 | pending |
+| Tamil transcription | PDF 1–402 | complete |
+| Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
+| Second visual / textual-fidelity verification | PDF 1–128 | source-checked |
+| Remaining textual-fidelity verification | PDF 129–402 | pending |
+| English translation | — | not started; blocked by fidelity gate |
+| Bilingual alignment / editorial release | — | not started |
+
+Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference and the scan-proven correction of the earlier letter-3743 `கழகத்தே` reading to `கழுதையே`.
+
+## Next exact task
+
+Textual-fidelity audit **letters 3721–3725**, PDF **129–161** / printed **128–160**. Every canonical page in that range must be visually compared with the scan before the range can be marked source-checked.
 
 ## முக்கிய இணைப்புகள்
 
 - [Metadata](metadata.yml)
 - [முன்னேற்றம்](PROGRESS.md)
-- [Iteration audit](AUDIT.md)
+- [Full-volume Tamil audit](AUDIT.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)

@@ -18,7 +18,7 @@ transcription_page_range: "1-402"
 transcription_status: "complete"
 completed_letter_range: "3706-3763"
 completed_letter_count: 58
-audit_status: "final-transcription-iteration-audit-complete"
+audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-08
 second_visual_verification: "in-progress"
 second_visual_verified_page_range: "1-128"

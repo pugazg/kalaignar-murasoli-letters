@@ -24,21 +24,29 @@
 - [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 402
 - [x] All 402 PDF pages have canonical one-page-per-file Markdown
 - [x] All 58 letters 3706–3763 have complete verified transcription boundaries
-- [ ] Full-volume Tamil structural audit
+- [x] Full-volume Tamil structural audit — PASS on 2026-08-08
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
   - [x] First 15 letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
-  - [x] Fresh comparison in this pass — PDF 026–128, 103/103 pages; canonical corrections on PDF 027, 045, 046, 049, 073, 080, 096 and 110
-  - [ ] PDF 129 onward
+  - [x] Fresh comparison in that pass — PDF 026–128, 103/103 pages; canonical corrections on PDF 027, 045, 046, 049, 073, 080, 096 and 110
+  - [ ] PDF 129–402
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
+## Full-volume structural audit
+
+The structural audit passed after fresh source hash/page-count verification and end-to-end reconciliation of the canonical page range, 58-letter contents register, chapter register, letter boundaries and final non-letter material. See [AUDIT.md](AUDIT.md).
+
+This structural pass does not replace the separate character-level textual-fidelity audit.
+
 ## Next fidelity-audit task
 
-Continue from **letter 3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, beginning at **PDF page 129 / printed page 128**. Correct only defects proved by the scan and keep the second visual-verification record separate from the earlier transcription/iteration audit.
+Continue from **letter 3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, beginning at **PDF page 129 / printed page 128**. The recommended next batch is **letters 3721–3725, PDF 129–161** (33 pages), which satisfies the guide's five-letter / 25–40-page audit rule.
+
+Correct only defects proved by the scan and record every canonical change in a new textual-fidelity audit report.
 
 ## Transcription status
 
-**Transcription complete.** The user explicitly authorised the final-remainder exception because only two letters remained. Letters **3762–3763** are complete at PDF **387–400**, and PDF **401–402** back matter is preserved. There is no next transcription page.
+**Transcription complete.** Letters **3762–3763** are complete at PDF **387–400**, and PDF **401–402** back matter is preserved. There is no next transcription page.
 
-The next repository gate is the **full-volume Tamil structural audit**, while the separate second visual/textual-fidelity audit still resumes at **letter 3721 / PDF 129**.
+English translation remains blocked until the relevant page ranges pass textual-fidelity verification.

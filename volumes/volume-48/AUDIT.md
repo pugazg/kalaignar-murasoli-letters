@@ -1,51 +1,78 @@
-# தொகுதி 48 — transcription iteration audit
+# தொகுதி 48 — முழுத் தமிழ் கட்டமைப்பு தணிக்கை
 
 **தணிக்கை நாள்:** 2026-08-08  
-**மொத்தப் பரப்பு:** PDF பக்கங்கள் 1–402  
-**இந்த iteration:** PDF பக்கங்கள் 387–402; கடிதங்கள் 3762–3763 + இறுதி பின்தாள்  
 **மூல PDF:** `Vol48.pdf`  
-**பதிவு செய்யப்பட்ட source SHA-256:** `1f7258b06857fadf3958dc3e9e19eee1ac602e66277d907351701225fcb1bb4c`
-
-## Scope exception
-
-இந்தத் தொகுதியில் five-letter iteration 11 முடிந்தபின் **இரண்டு கடிதங்கள் மட்டுமே** (3762–3763) மீதமிருந்தன. பயனர் 2026-08-08 அன்று “Finish all pending transcription” என்று வெளிப்படையாக அனுமதித்ததால், repository batching policy-இன் documented final-remainder exception பயன்படுத்தப்பட்டது. கடிதங்கள் இரண்டும் முழுமையாக முடிக்கப்பட்டு, மீதமுள்ள PDF 401–402 பின்தாள்களும் அதே atomic transcription integration-இல் பாதுகாக்கப்பட்டன.
-
-## செய்யப்பட்ட சோதனைகள்
-
-1. PDF 387–402 புதிய 16 canonical page files அனைத்தும் rendered scan-உடன் page-by-page visual comparison செய்யப்பட்டது.
-2. Letter 3762 title, salutation, continuation boundaries, closing, signature and date scan-க்கு எதிராகச் சரிபார்க்கப்பட்டது: PDF 387–392 / printed 386–391.
-3. Letter 3763 title, salutation, continuation boundaries, printed Tamil and English quotation material, closing, signature and date scan-க்கு எதிராகச் சரிபார்க்கப்பட்டது: PDF 393–400 / printed 392–399.
-4. PDF 401 blank printed page 400 (running header/page number + faint show-through) மற்றும் PDF 402 back cover தனித்தனி canonical page records ஆகச் சேர்க்கப்பட்டன.
-5. Printed contents, chapter index, two chapter records, previous/next navigation, metadata, progress, volume README and root status reconciled.
-6. New files checked for PDF/page continuity, correct printed-page mapping, missing bodies, replacement Unicode, zero-width characters and duplicate page bodies.
-7. OCR was used only as a drafting aid because the scan has no authoritative text layer; rendered page images controlled accepted Tamil/English readings, boundaries, dates, names, figures and punctuation.
-8. English translation was not started; second visual/textual-fidelity audit remains a separate gate.
+**பதிவு செய்யப்பட்ட SHA-256:** `1f7258b06857fadf3958dc3e9e19eee1ac602e66277d907351701225fcb1bb4c`  
+**PDF பக்கங்கள்:** 402  
+**அச்சுப் பக்கங்கள்:** 400  
+**கடிதங்கள்:** 58 — 3706–3763
 
 ## முடிவு
 
-| சோதனை | முடிவு |
+**Full-volume Tamil structural audit: PASS.**
+
+இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit PDF 1–128 வரை மட்டுமே முடிந்துள்ளது; PDF 129–402 இன்னும் source-check செய்யப்பட வேண்டும்.
+
+## Fresh source verification
+
+- Local authoritative source `/mnt/data/Vol48(1).pdf` மீண்டும் கணக்கிடப்பட்டது.
+- SHA-256: `1f7258b06857fadf3958dc3e9e19eee1ac602e66277d907351701225fcb1bb4c` — repository metadata-வுடன் exact match.
+- PDF page count: `402` — repository metadata-வுடன் exact match.
+- File size: `214390300` bytes — repository metadata-வுடன் exact match.
+
+## கட்டமைப்பு சோதனைகள்
+
+1. ஆரம்ப batch audit `page-001.md`–`page-025.md` தொடர்ச்சியைச் சரிபார்த்தது; பிந்தைய transcription iteration audits மற்றும் இறுதி remainder audit வழியாக canonical range `page-001.md`–`page-402.md` வரை இடைவெளியின்றி முடிக்கப்பட்டுள்ளது.
+2. Canonical page mapping:
+   - PDF 1–17 — front/publisher matter
+   - PDF 18–22 — printed contents
+   - PDF 23 — blank page with faint show-through
+   - PDF 24–400 — letters 3706–3763
+   - PDF 401 — printed page 400; running header/page number only, otherwise blank with faint show-through
+   - PDF 402 — back cover
+3. Printed contents identify exactly **58 letters**, and the chapter register contains the same consecutive letter-number range **3706–3763**.
+4. Letter-number continuity check: `3763 - 3706 + 1 = 58`; no undocumented letter-number gap exists.
+5. Reconciled letter boundaries cover PDF **24–400** continuously, without an undocumented gap or overlap. Each iteration verified the first page, closing/date page and next-letter boundary before integration.
+6. Chapter records link to the canonical page sequence rather than duplicating letter text. Previous/next navigation was reconciled at each iteration boundary.
+7. `contents/index.md` preserves the wording and date formatting printed in the contents pages; chapter records preserve the wording printed at the actual letter start.
+8. The known title discrepancy for letter 3749 remains intentionally preserved: the contents row prints `கலைஞர் தொடர்கடிதம்-3`, while the actual start page/chapter title prints `கலைஞர் தொடர் கடிதம்-3`.
+9. The earlier scan-proven letter-3743 contents/title correction from `கழகத்தே` to `கழுதையே` remains recorded and propagated consistently.
+10. Batch audits checked new page bodies for duplication, missing bodies, replacement Unicode and zero-width characters. A fresh repository search found no replacement character `�` and no zero-width-space match.
+11. Intentional Latin/English passages were retained on the relevant pages rather than normalised away; examples include legal/court quotations, NASA material, Maduravoyal English reporting, reservation-judgment text and the English passages in the final Hogenakkal letters.
+12. Covers, contents, blanks and final back-cover material are represented as canonical page files; no PDF page is intentionally omitted.
+
+## Counts
+
+| Check | Result |
 |---|---|
-| Canonical range after integration | `page-001.md`–`page-402.md` |
-| New pages in this iteration | 16 — PDF 387–402 |
-| New complete letters | 2 — 3762–3763 |
-| Total complete letters | 58 — 3706–3763 |
-| Printed contents rows | 58 — letters 3706–3763 |
-| New chapter records | 2 |
-| Final letter end | 3763 closes PDF 400 / printed 399 |
-| Back matter | PDF 401 blank printed page 400; PDF 402 back cover |
-| New canonical pages visually compared | 16/16 |
-| Transcription status | **complete — PDF 1–402** |
-| Next transcription page | none |
+| Source PDF pages | 402 |
+| Canonical Markdown range | `page-001.md`–`page-402.md` |
+| Front/contents/blank before letters | PDF 1–23 |
+| Letter-page span | PDF 24–400 |
+| Final non-letter material | PDF 401–402 |
+| Printed contents rows | 58 |
+| Chapter records | 58 |
+| Letter-number range | 3706–3763 |
+| Complete letters | 58 |
+| Structural gaps/overlaps | none detected |
+| Replacement Unicode `�` | none found |
+| Full-volume structural audit | **PASS** |
 
-## Scan-proven readings and preserved material
+## Preserved source anomalies / distinctions
 
-- Letter 3762 begins PDF 387 with `3762. உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்!` and closes PDF 392 with `அன்புள்ள, மு.க.` / `27-05-2013`.
-- Letter 3762 preserves the Hogenakkal project chronology, local-body lists, project figures, Japanese funding references and printed date/number formatting; source-specific forms such as `பாப்பிரெட்டியப்பட்டி`, `நாகோஜன ஹள்ளி`, `தளி`, `பொக்ரானில்` are retained from the scan.
-- Letter 3763 begins PDF 393 with `3763. அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே!` and closes PDF 400 with `அன்புள்ள, மு.க.` / `31-5-2013`.
-- Letter 3763 preserves the 2008 Karnataka/Hogenakkal discussion, named film personalities, the Tamil rendering of the 7-4-2008 `இந்து` editorial, and the following printed English passage on PDF 397 beginning `Silence and patience are sometimes great virtues.` The scan-visible `By injectinga` is preserved rather than silently regularised.
-- PDF 400 preserves the printed English sentence `People in many rural areas were upset that the water did not reach them` and its Tamil parenthetical rendering.
-- PDF 401 is blank apart from its running header/page number and faint show-through. PDF 402 preserves the back-cover portrait, `1924 - 2018`, publisher/contact block, QR indication, `GO 2300` and `ரூ.300`.
+- PDF 23 is blank with faint reverse-side show-through.
+- Letter 3749 contents/start-page subtitle spacing differs and is preserved separately.
+- Letter 3743's earlier derived `கழகத்தே` reading was corrected to scan-proven `கழுதையே`.
+- Source-specific malformed or unusual English/Tamil forms are not silently regularised; the final-letter scan-visible `By injectinga` is one recorded example.
+- PDF 401 is effectively blank except for its running header/page number and faint show-through.
+- PDF 402 is the back cover with portrait, publisher/contact information, QR indication, `GO 2300` and `ரூ.300`.
 
-## Audit-level limitation
+## Verification still pending
 
-This completes the **Tamil transcription and final transcription-iteration audit** only. The repository’s **full-volume Tamil structural audit** and the separate character-by-character / textual-fidelity verification from PDF 129 onward remain pending. English translation remains blocked.
+The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–128** (front matter plus letters 3706–3720). The next audit batch begins with **3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, PDF **129** / printed page **128**.
+
+English translation remains blocked until the relevant canonical Tamil pages pass that scan-based textual-fidelity gate.
+
+## Final transcription iteration record
+
+The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 128.

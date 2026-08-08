@@ -2,7 +2,7 @@
 
 Status: **not started**.
 
-Translation is intentionally blocked until the relevant canonical Tamil pages pass the mandatory scan-based textual-fidelity audit and the applicable volume-level gates are satisfied.
+The **full-volume Tamil structural audit has passed**. Translation nevertheless remains intentionally blocked until each intended translation batch passes the separate scan-based textual-fidelity audit.
 
 ## Textual-fidelity audit coverage
 
@@ -11,7 +11,7 @@ Translation is intentionally blocked until the relevant canonical Tamil pages pa
   - PDF 024–025 were covered by the preceding page-range audit.
   - PDF 026–128 were freshly visually compared in the 15-letter pass.
   - Scan-proven canonical corrections were applied to PDF 027, 045, 046, 049, 073, 080, 096 and 110.
-- [ ] PDF pages **129 onward**.
+- [ ] PDF pages **129–402**.
 
 ## Audit reports
 
@@ -20,4 +20,4 @@ Translation is intentionally blocked until the relevant canonical Tamil pages pa
 
 Letters **3706–3720** have passed their page-level textual-fidelity gate. No English letter file has been created yet.
 
-The next unaudited letter is **3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, beginning at **PDF 129 / printed 128**.
+The next batch is **3721–3725**, PDF **129–161** / printed **128–160**. The batch must be visually source-checked page by page and any scan-proven canonical correction recorded before translation can use those letters.
