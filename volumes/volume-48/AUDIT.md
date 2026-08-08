@@ -34,6 +34,7 @@
 ## Scan-proven readings and preserved material
 
 - Letter 3752 runs PDF 326–332 and closes with `(முற்றும்)`, `அன்புள்ள, மு.க.` and `10-5-2013`. The printed English N.O.C. passage on PDF 328 is retained in English, along with the Madras High Court material concerning the Sethusamudram project.
+- Follow-up scan validation corrected one omitted comma on PDF 327: the source reads `குறிப்பிடப்பட்டிருந்தாலுங்கூட, தமிழக`; no wording was normalised or otherwise changed.
 - Letter 3753 runs PDF 333–339 and closes `11-5-2013`. Printed English expressions including `One Man Show`, `Blocks`, `Special Task Force`, `Central Statistical Organisation`, `Wall Street Journal`, `ASSO CHAMP` and `BIZCON` are preserved.
 - Letter 3754 runs PDF 340–346 and closes `12-05-2013`. Amnesty International / Sri Lanka report details, names, dates and figures are retained as printed.
 - Letter 3755 runs PDF 347–352 and closes `14-5-2013`. The scan-visible government-order references `அரசாணை எண். 117`, `அரசாணை எண். 324`, the SLP reference and the figure `1,378` engineering students are preserved.
