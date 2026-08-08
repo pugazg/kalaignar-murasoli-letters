@@ -50,12 +50,12 @@ transcription_status: "visually-transcribed"
 | 3744 | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | 267 | [complete: PDF 267–272](../chapters/3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) |
 | 3745 | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | 273 | [complete: PDF 273–279](../chapters/3745-unorganised-workers-and-me.md) |
 | 3746 | காழ்ப்புணர்வின் உச்சகட்டம்! | 1-5-2013 | 279 | 280 | [complete: PDF 280–286](../chapters/3746-the-height-of-vindictiveness.md) |
-| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | 287 | start boundary verified; transcription pending |
-| 3748 | “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!” | 5-5-2013 | 294 | provisional | contents identified; boundary verification pending |
-| 3749 | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர்கடிதம்-3 | 07-05-2013 | 304 | provisional | contents identified; boundary verification pending |
-| 3750 | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | provisional | contents identified; boundary verification pending |
-| 3751 | ஒரு நாடகமன்றோ நடக்குது நாட்டிலே! | 09-05-2013 | 318 | provisional | contents identified; boundary verification pending |
-| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | provisional | contents identified; boundary verification pending |
+| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | 287 | [complete: PDF 287–294](../chapters/3747-why-did-anna-announce-rising-day.md) |
+| 3748 | “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!” | 5-5-2013 | 294 | 295 | [complete: PDF 295–304](../chapters/3748-long-mouth-will-lose-truth-will-win.md) |
+| 3749 | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர்கடிதம்-3 | 07-05-2013 | 304 | 305 | [complete: PDF 305–311](../chapters/3749-sethu-project-that-does-not-hurt-hindus.md) |
+| 3750 | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | 312 | [complete: PDF 312–318](../chapters/3750-let-us-work-for-rising-day-success.md) |
+| 3751 | ஒரு நாடகமன்றோ நடக்குது நாட்டிலே! | 09-05-2013 | 318 | 319 | [complete: PDF 319–325](../chapters/3751-is-a-drama-being-staged-in-the-country.md) |
+| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | 326 | start boundary verified; transcription pending |
 | 3753 | தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்! | 11-5-2013 | 332 | provisional | contents identified; boundary verification pending |
 | 3754 | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | provisional | contents identified; boundary verification pending |
 | 3755 | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | provisional | contents identified; boundary verification pending |
@@ -71,7 +71,8 @@ transcription_status: "visually-transcribed"
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3746 have visually verified PDF start and end boundaries.
+- Letters 3706–3751 have visually verified PDF start and end boundaries.
 - The scan-proven title for letter 3743 is `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?`; the earlier canonical contents transcription incorrectly read `கழகத்தே` and is corrected in this iteration.
-- Letter 3747 is visually verified to start at PDF page 287 / printed page 286; its end remains pending.
+- Letter 3752 is visually verified to start at PDF page 326 / printed page 325; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.
+- Letter 3749 actual start-page title prints `கலைஞர் தொடர் கடிதம்-3`; the printed contents row is preserved as `கலைஞர் தொடர்கடிதம்-3`.

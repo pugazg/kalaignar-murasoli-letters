@@ -33,5 +33,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3745 — அமைப்பு சாராத் தொழிலாளர்களும் - நானும்!](3745-unorganised-workers-and-me.md)
-- அடுத்த கடிதம்: 3747 — அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? (PDF பக்கம் 287 / அச்சுப் பக்கம் 286-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3747 — அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக?](3747-why-did-anna-announce-rising-day.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

@@ -45,12 +45,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3744](3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | complete (PDF 267–272) |
 | [3745](3745-unorganised-workers-and-me.md) | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | complete (PDF 273–279) |
 | [3746](3746-the-height-of-vindictiveness.md) | காழ்ப்புணர்வின் உச்சகட்டம்! | 1-5-2013 | 279 | complete (PDF 280–286) |
-| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | start verified at PDF 287; transcription not started |
-| 3748 | “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!” | 5-5-2013 | 294 | contents identified; transcription not started |
-| 3749 | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர்கடிதம்-3 | 07-05-2013 | 304 | contents identified; transcription not started |
-| 3750 | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | contents identified; transcription not started |
-| 3751 | ஒரு நாடகமன்றோ நடக்குது நாட்டிலே! | 09-05-2013 | 318 | contents identified; transcription not started |
-| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | contents identified; transcription not started |
+| [3747](3747-why-did-anna-announce-rising-day.md) | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | complete (PDF 287–294) |
+| [3748](3748-long-mouth-will-lose-truth-will-win.md) | “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!” | 5-5-2013 | 294 | complete (PDF 295–304) |
+| [3749](3749-sethu-project-that-does-not-hurt-hindus.md) | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர் கடிதம்-3 | 07-05-2013 | 304 | complete (PDF 305–311) |
+| [3750](3750-let-us-work-for-rising-day-success.md) | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | complete (PDF 312–318) |
+| [3751](3751-is-a-drama-being-staged-in-the-country.md) | ஒரு நாடகமன்றோ நடக்குது நாட்டிலே! | 09-05-2013 | 318 | complete (PDF 319–325) |
+| 3752 | “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை! | 10-5-2013 | 325 | start verified at PDF 326; transcription not started |
 | 3753 | தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்! | 11-5-2013 | 332 | contents identified; transcription not started |
 | 3754 | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | contents identified; transcription not started |
 | 3755 | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | contents identified; transcription not started |
