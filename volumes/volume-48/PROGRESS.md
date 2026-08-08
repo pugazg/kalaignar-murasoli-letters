@@ -3,7 +3,7 @@
 - [x] Repository-level processing, transcription and five-letter batching guides read
 - [x] Volume 49 reference implementation reviewed
 - [x] Volume number and source intake recorded
-- [x] PDF pages 1–254 created as one-page-per-file Markdown
+- [x] PDF pages 1–286 created as one-page-per-file Markdown
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
@@ -15,10 +15,10 @@
 - [x] Five-letter iteration 5: letters 3727–3731, PDF 168–199 / printed 167–198
 - [x] Five-letter iteration 6: letters 3732–3736, PDF 200–225 / printed 199–224
 - [x] Five-letter iteration 7: letters 3737–3741, PDF 226–254 / printed 225–253
-- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 254
-- [x] Next letter start verified: letter 3742 at PDF 255 / printed 254
-- [ ] Five-letter iteration 8: letters 3742–3746, beginning PDF page 255
-- [ ] Remaining PDF pages 255–402
+- [x] Five-letter iteration 8: letters 3742–3746, PDF 255–286 / printed 254–285
+- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 286
+- [x] Next letter start verified: letter 3747 at PDF 287 / printed 286
+- [ ] Remaining PDF pages 287–402
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
@@ -34,4 +34,4 @@ Continue from **letter 3721 — உலகத் தமிழர்கள் ஒ�
 
 ## Next transcription task
 
-Transcribe and visually verify **five complete letters 3742–3746**, beginning with **3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!** at **PDF page 255 / printed page 254**. Stop at the verified closing of letter 3746; do not include part of letter 3747.
+Transcribe and visually verify **five complete letters 3747–3751**, beginning with **3747 — அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக?** at **PDF page 287 / printed page 286**. Stop at the verified closing of letter 3751; do not include part of letter 3752.

@@ -40,12 +40,12 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3739](3739-two-unforgettable-gems-condolence-letter.md) | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | complete (PDF 237–241) |
 | [3740](3740-prevent-before-or-suffer-after.md) | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | complete (PDF 242–248) |
 | [3741](3741-strong-reasons-are-piling-up.md) | வலுவான காரணங்கள் குவிகின்றன! | 23-4-2013 | 248 | complete (PDF 249–254) |
-| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | start verified at PDF 255; transcription not started |
-| 3743 | கனவா? நனவா? கழகத்தே சும்மா இரு என்ற கதையா? | 28-4-2013 | 259 | contents identified; transcription not started |
-| 3744 | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | contents identified; transcription not started |
-| 3745 | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | contents identified; transcription not started |
-| 3746 | காழ்ப்புணர்வின் உச்சகட்டம்! | 1-5-2013 | 279 | contents identified; transcription not started |
-| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | contents identified; transcription not started |
+| [3742](3742-unending-cruelties-against-eelam-tamils.md) | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | complete (PDF 255–259) |
+| [3743](3743-dream-or-reality-donkey-keep-quiet.md) | கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா? | 28-4-2013 | 259 | complete (PDF 260–266) |
+| [3744](3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | complete (PDF 267–272) |
+| [3745](3745-unorganised-workers-and-me.md) | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | complete (PDF 273–279) |
+| [3746](3746-the-height-of-vindictiveness.md) | காழ்ப்புணர்வின் உச்சகட்டம்! | 1-5-2013 | 279 | complete (PDF 280–286) |
+| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | start verified at PDF 287; transcription not started |
 | 3748 | “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!” | 5-5-2013 | 294 | contents identified; transcription not started |
 | 3749 | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர்கடிதம்-3 | 07-05-2013 | 304 | contents identified; transcription not started |
 | 3750 | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | contents identified; transcription not started |

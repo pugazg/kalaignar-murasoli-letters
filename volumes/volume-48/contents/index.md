@@ -45,12 +45,12 @@ transcription_status: "visually-transcribed"
 | 3739 | மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்! | 21-04-2013 | 236 | 237 | [complete: PDF 237–241](../chapters/3739-two-unforgettable-gems-condolence-letter.md) |
 | 3740 | வருமுன் காப்பதா? வந்தபின் தவிப்பதா? | 22-4-2013 | 241 | 242 | [complete: PDF 242–248](../chapters/3740-prevent-before-or-suffer-after.md) |
 | 3741 | வலுவான காரணங்கள் குவிகின்றன! | 23-4-2013 | 248 | 249 | [complete: PDF 249–254](../chapters/3741-strong-reasons-are-piling-up.md) |
-| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | 255 | start boundary verified; transcription pending |
-| 3743 | கனவா? நனவா? கழகத்தே சும்மா இரு என்ற கதையா? | 28-4-2013 | 259 | provisional | contents identified; boundary verification pending |
-| 3744 | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | provisional | contents identified; boundary verification pending |
-| 3745 | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | provisional | contents identified; boundary verification pending |
-| 3746 | காழ்ப்புணர்வின் உச்சகட்டம்! | 1-5-2013 | 279 | provisional | contents identified; boundary verification pending |
-| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | provisional | contents identified; boundary verification pending |
+| 3742 | ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! | 27-04-2013 | 254 | 255 | [complete: PDF 255–259](../chapters/3742-unending-cruelties-against-eelam-tamils.md) |
+| 3743 | கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா? | 28-4-2013 | 259 | 260 | [complete: PDF 260–266](../chapters/3743-dream-or-reality-donkey-keep-quiet.md) |
+| 3744 | பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு! | 29-4-2013 | 266 | 267 | [complete: PDF 267–272](../chapters/3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) |
+| 3745 | அமைப்பு சாராத் தொழிலாளர்களும் - நானும்! | 30-4-2013 | 272 | 273 | [complete: PDF 273–279](../chapters/3745-unorganised-workers-and-me.md) |
+| 3746 | காழ்ப்புணர்வின் உச்சகட்டம்! | 1-5-2013 | 279 | 280 | [complete: PDF 280–286](../chapters/3746-the-height-of-vindictiveness.md) |
+| 3747 | அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக? | 3-5-2013 | 286 | 287 | start boundary verified; transcription pending |
 | 3748 | “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!” | 5-5-2013 | 294 | provisional | contents identified; boundary verification pending |
 | 3749 | இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர்கடிதம்-3 | 07-05-2013 | 304 | provisional | contents identified; boundary verification pending |
 | 3750 | எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்! | 8-5-2013 | 311 | provisional | contents identified; boundary verification pending |
@@ -68,10 +68,10 @@ transcription_status: "visually-transcribed"
 | 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | provisional | contents identified; boundary verification pending |
 | 3763 | அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே! | 31-5-2013 | 392 | provisional | contents identified; boundary verification pending |
 
-
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3741 have visually verified PDF start and end boundaries.
-- Letter 3742 is visually verified to start at PDF page 255 / printed page 254; its end remains pending.
+- Letters 3706–3746 have visually verified PDF start and end boundaries.
+- The scan-proven title for letter 3743 is `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?`; the earlier canonical contents transcription incorrectly read `கழகத்தே` and is corrected in this iteration.
+- Letter 3747 is visually verified to start at PDF page 287 / printed page 286; its end remains pending.
 - No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.

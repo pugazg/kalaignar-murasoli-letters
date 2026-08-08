@@ -32,5 +32,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3740 — வருமுன் காப்பதா? வந்தபின் தவிப்பதா?](3740-prevent-before-or-suffer-after.md)
-- அடுத்த கடிதம்: 3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்! (PDF பக்கம் 255-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!](3742-unending-cruelties-against-eelam-tamils.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

@@ -10,9 +10,9 @@
 
 - மூல PDF intake, SHA-256, byte size மற்றும் page count பதிவு செய்யப்பட்டுள்ளன.
 - PDF scan-இன் title page மூலம் இது **தொகுதி 48** என உறுதிசெய்யப்பட்டது.
-- PDF பக்கங்கள் **1–254** தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
+- PDF பக்கங்கள் **1–286** தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
 - PDF பக்கங்கள் **18–22** அடிப்படையில் முழு அச்சு உள்ளடக்க அட்டவணை **3706–3763** தனியாகப் பாதுகாக்கப்பட்டுள்ளது.
-- கடிதங்கள் **3706–3741** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
+- கடிதங்கள் **3706–3746** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
 - Five-letter iteration 1: **3707–3711**, PDF **30–62**, அச்சுப் பக்கங்கள் **29–61**.
 - Five-letter iteration 2: **3712–3716**, PDF **63–98**, அச்சுப் பக்கங்கள் **62–97**.
 - Five-letter iteration 3: **3717–3721**, PDF **99–136**, அச்சுப் பக்கங்கள் **98–135**.
@@ -20,12 +20,14 @@
 - Five-letter iteration 5: **3727–3731**, PDF **168–199**, அச்சுப் பக்கங்கள் **167–198**.
 - Five-letter iteration 6: **3732–3736**, PDF **200–225**, அச்சுப் பக்கங்கள் **199–224**.
 - Five-letter iteration 7: **3737–3741**, PDF **226–254**, அச்சுப் பக்கங்கள் **225–253**.
+- Five-letter iteration 8: **3742–3746**, PDF **255–286**, அச்சுப் பக்கங்கள் **254–285**.
+- Letter 3743 title scan-க்கு எதிராகச் சரிபார்க்கப்பட்டபோது முந்தைய index transcription-இல் இருந்த `கழகத்தே` என்பது `கழுதையே` என scan-proven correction செய்யப்பட்டது.
 - இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–128** வரை source-checked. இதில் முதல் **15 கடிதங்கள் 3706–3720**, PDF **24–128** / அச்சுப் பக்கங்கள் **23–127**, முழுமையாக scan-க்கு எதிராகச் சரிபார்க்கப்பட்டுள்ளன.
 - இந்த 15-letter fidelity pass-இல் PDF **26–128** புதியதாக 103/103 pages ஒப்பிடப்பட்டு PDF **27, 45, 46, 49, 73, 80, 96, 110** canonical transcription-களில் scan-proven corrections செய்யப்பட்டன.
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - அடுத்த fidelity boundary **3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, PDF **129** / அச்சுப் பக்கம் **128**.
-- அடுத்த transcription letter **3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!** PDF பக்கம் **255** / அச்சுப் பக்கம் **254**-இல் தொடங்குவது scan மூலம் உறுதிசெய்யப்பட்டுள்ளது.
+- அடுத்த transcription letter **3747 — அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக?** PDF பக்கம் **287** / அச்சுப் பக்கம் **286**-இல் தொடங்குவது scan மூலம் உறுதிசெய்யப்பட்டுள்ளது.
 - English translation தொடங்கப்படவில்லை; textual-fidelity audit முடிந்த letter range source-checked ஆனாலும் volume-level translation/release gates தனியாகவே உள்ளன.
 
 ## தற்போதைய நிலை
@@ -46,9 +48,10 @@
 | கடிதங்கள் 3727–3731 | 168–199 | five-letter iteration complete |
 | கடிதங்கள் 3732–3736 | 200–225 | five-letter iteration complete |
 | கடிதங்கள் 3737–3741 | 226–254 | five-letter iteration complete |
-| அடுத்த transcription iteration | 3742–3746, PDF 255 முதல் | not started |
+| கடிதங்கள் 3742–3746 | 255–286 | five-letter iteration complete |
+| அடுத்த transcription iteration | 3747–3751, PDF 287 முதல் | not started |
 | இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–128 | source-checked |
-| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 129–254 | pending |
+| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 129–286 | pending |
 
 ## முக்கிய இணைப்புகள்
 
