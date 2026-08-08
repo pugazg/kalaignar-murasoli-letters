@@ -27,9 +27,9 @@
 - [x] Full-volume Tamil structural audit — PASS on 2026-08-08
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
-  - [x] First 15 letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
-  - [x] Fresh comparison in that pass — PDF 026–128, 103/103 pages; canonical corrections on PDF 027, 045, 046, 049, 073, 080, 096 and 110
-  - [ ] PDF 129–402
+  - [x] Letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
+  - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160; 33/33 pages freshly source-checked; scan-proven correction on PDF 161
+  - [ ] PDF 162–402
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -39,11 +39,15 @@ The structural audit passed after fresh source hash/page-count verification and 
 
 This structural pass does not replace the separate character-level textual-fidelity audit.
 
+## Textual-fidelity coverage
+
+Source-checked coverage now reaches **PDF 161 / printed page 160**, covering the front matter and letters **3706–3725**. The latest batch report is [TEXTUAL_FIDELITY_AUDIT_3721_3725.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md).
+
+The latest pass corrected one scan-proven defect on PDF 161: `இயக்குனராகப்` → `இயக்குநராகப்`. No other canonical changes were required in PDF 129–161.
+
 ## Next fidelity-audit task
 
-Continue from **letter 3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!**, beginning at **PDF page 129 / printed page 128**. The recommended next batch is **letters 3721–3725, PDF 129–161** (33 pages), which satisfies the guide's five-letter / 25–40-page audit rule.
-
-Correct only defects proved by the scan and record every canonical change in a new textual-fidelity audit report.
+Audit **letters 3726–3730**, PDF **162–192** / printed **161–191** (31 pages). Every canonical page in that range must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
 
 ## Transcription status
 

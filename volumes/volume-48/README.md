@@ -14,7 +14,7 @@
 - கடிதங்கள் **3706–3763 — 58/58** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
-- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–128** வரை source-checked.
+- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–161** வரை source-checked; letters **3706–3725** audit gate-ஐ கடந்துள்ளன.
 - English translation தொடங்கப்படவில்லை; relevant Tamil pages textual-fidelity audit-ஐத் தாண்டிய பின்னரே translation தொடங்கும்.
 
 ## Transcription iterations
@@ -42,16 +42,19 @@
 |---|---:|---|
 | Tamil transcription | PDF 1–402 | complete |
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
-| Second visual / textual-fidelity verification | PDF 1–128 | source-checked |
-| Remaining textual-fidelity verification | PDF 129–402 | pending |
+| Second visual / textual-fidelity verification | PDF 1–161 | source-checked |
+| Source-checked letters | 3706–3725 | complete for this range |
+| Remaining textual-fidelity verification | PDF 162–402 | pending |
 | English translation | — | not started; blocked by fidelity gate |
 | Bilingual alignment / editorial release | — | not started |
+
+The latest fidelity batch, letters **3721–3725 / PDF 129–161**, passed after one scan-proven correction on PDF 161: `இயக்குனராகப்` → `இயக்குநராகப்`.
 
 Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference and the scan-proven correction of the earlier letter-3743 `கழகத்தே` reading to `கழுதையே`.
 
 ## Next exact task
 
-Textual-fidelity audit **letters 3721–3725**, PDF **129–161** / printed **128–160**. Every canonical page in that range must be visually compared with the scan before the range can be marked source-checked.
+Textual-fidelity audit **letters 3726–3730**, PDF **162–192** / printed **161–191**. Every canonical page in that range must be visually compared with the scan before the range can be marked source-checked.
 
 ## முக்கிய இணைப்புகள்
 
@@ -60,5 +63,6 @@ Textual-fidelity audit **letters 3721–3725**, PDF **129–161** / printed **12
 - [Full-volume Tamil audit](AUDIT.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
+- [Textual-fidelity audit — letters 3721–3725](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)
