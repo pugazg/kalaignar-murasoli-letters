@@ -65,14 +65,15 @@ transcription_status: "visually-transcribed"
 | 3759 | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | 370 | [complete: PDF 370–374](../chapters/3759-can-central-project-be-ruined-by-state-government.md) |
 | 3760 | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | 375 | [complete: PDF 375–380](../chapters/3760-not-a-warning-for-reflection.md) |
 | 3761 | நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா? | 26-5-2013 | 380 | 381 | [complete: PDF 381–386](../chapters/3761-trying-again-to-sell-lignite-company-shares.md) |
-| 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | 387 | start boundary verified; transcription pending |
-| 3763 | அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே! | 31-5-2013 | 392 | provisional | contents identified; boundary verification pending |
+| 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | 387 | [complete: PDF 387–392](../chapters/3762-joyful-hogenakkal-beginning.md) |
+| 3763 | அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே! | 31-5-2013 | 392 | 393 | [complete: PDF 393–400](../chapters/3763-everyone-knows-all-the-truth.md) |
 
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3761 have visually verified PDF start and end boundaries.
+- Letters 3706–3763 have visually verified PDF start and end boundaries.
 - The scan-proven title for letter 3743 is `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?`; the earlier canonical contents transcription incorrectly read `கழகத்தே` and was corrected in iteration 8.
-- Letter 3762 is visually verified to start at PDF page 387 / printed page 386; its end remains pending.
-- No constant printed-page/PDF-page offset is assumed for later unprocessed material; boundaries remain provisional until the scan is inspected.
+- Letter 3762 is complete at PDF 387–392 / printed 386–391; letter 3763 is complete at PDF 393–400 / printed 392–399.
+- PDF 401 is blank printed page 400 apart from the running header/page number; PDF 402 is the back cover.
+- Volume 48 transcription is complete through PDF 402.
 - Letter 3749 actual start-page title prints `கலைஞர் தொடர் கடிதம்-3`; the printed contents row is preserved as `கலைஞர் தொடர்கடிதம்-3`.

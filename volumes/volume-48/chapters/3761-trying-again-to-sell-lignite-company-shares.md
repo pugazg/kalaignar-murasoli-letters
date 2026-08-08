@@ -32,5 +32,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3760 — எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக!](3760-not-a-warning-for-reflection.md)
-- அடுத்த கடிதம்: 3762 — உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! (PDF பக்கம் 387 / அச்சுப் பக்கம் 386-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3762 — உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்!](3762-joyful-hogenakkal-beginning.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
