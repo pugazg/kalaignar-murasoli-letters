@@ -60,19 +60,19 @@ transcription_status: "visually-transcribed"
 | 3754 | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | 340 | [complete: PDF 340–346](../chapters/3754-does-this-cruelty-still-continue-in-eelam.md) |
 | 3755 | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | 347 | [complete: PDF 347–352](../chapters/3755-they-are-prodding-a-sleeping-tiger.md) |
 | 3756 | அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்! | 15-05-2013 | 352 | 353 | [complete: PDF 353–355](../chapters/3756-will-ammas-plans-stop-with-announcements.md) |
-| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | 356 | start boundary verified; transcription pending |
-| 3758 | இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற... | 19-5-2013 | 363 | provisional | contents identified; boundary verification pending |
-| 3759 | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | provisional | contents identified; boundary verification pending |
-| 3760 | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | provisional | contents identified; boundary verification pending |
-| 3761 | நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா? | 26-5-2013 | 380 | provisional | contents identified; boundary verification pending |
-| 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | provisional | contents identified; boundary verification pending |
+| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | 356 | [complete: PDF 356–363](../chapters/3757-two-years-rule-achievement-or-agony.md) |
+| 3758 | இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற... | 19-5-2013 | 363 | 364 | [complete: PDF 364–369](../chapters/3758-reservation-policy-to-be-complete.md) |
+| 3759 | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | 370 | [complete: PDF 370–374](../chapters/3759-can-central-project-be-ruined-by-state-government.md) |
+| 3760 | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | 375 | [complete: PDF 375–380](../chapters/3760-not-a-warning-for-reflection.md) |
+| 3761 | நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா? | 26-5-2013 | 380 | 381 | [complete: PDF 381–386](../chapters/3761-trying-again-to-sell-lignite-company-shares.md) |
+| 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | 387 | start boundary verified; transcription pending |
 | 3763 | அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே! | 31-5-2013 | 392 | provisional | contents identified; boundary verification pending |
 
 ## Source notes
 
 - Printed contents order, title wording and date formatting are preserved.
-- Letters 3706–3756 have visually verified PDF start and end boundaries.
+- Letters 3706–3761 have visually verified PDF start and end boundaries.
 - The scan-proven title for letter 3743 is `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?`; the earlier canonical contents transcription incorrectly read `கழகத்தே` and was corrected in iteration 8.
-- Letter 3757 is visually verified to start at PDF page 356 / printed page 355; its end remains pending.
-- No constant printed-page/PDF-page offset is assumed for later unprocessed letters; boundaries remain provisional until the scan is inspected.
+- Letter 3762 is visually verified to start at PDF page 387 / printed page 386; its end remains pending.
+- No constant printed-page/PDF-page offset is assumed for later unprocessed material; boundaries remain provisional until the scan is inspected.
 - Letter 3749 actual start-page title prints `கலைஞர் தொடர் கடிதம்-3`; the printed contents row is preserved as `கலைஞர் தொடர்கடிதம்-3`.

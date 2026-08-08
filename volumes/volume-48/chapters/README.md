@@ -55,10 +55,10 @@ The printed contents identify **58 letters (3706–3763)**. Chapter files are cr
 | [3754](3754-does-this-cruelty-still-continue-in-eelam.md) | ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை? | 12-05-2013 | 339 | complete (PDF 340–346) |
 | [3755](3755-they-are-prodding-a-sleeping-tiger.md) | தூங்கும் புலியை இடறுகிறார்கள்! | 14-5-2013 | 346 | complete (PDF 347–352) |
 | [3756](3756-will-ammas-plans-stop-with-announcements.md) | அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்! | 15-05-2013 | 352 | complete (PDF 353–355) |
-| 3757 | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | start verified at PDF 356; transcription not started |
-| 3758 | இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற... | 19-5-2013 | 363 | contents identified; transcription not started |
-| 3759 | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | contents identified; transcription not started |
-| 3760 | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | contents identified; transcription not started |
-| 3761 | நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா? | 26-5-2013 | 380 | contents identified; transcription not started |
-| 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | contents identified; transcription not started |
+| [3757](3757-two-years-rule-achievement-or-agony.md) | இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? | 18-5-2013 | 355 | complete (PDF 356–363) |
+| [3758](3758-reservation-policy-to-be-complete.md) | இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற... | 19-5-2013 | 363 | complete (PDF 364–369) |
+| [3759](3759-can-central-project-be-ruined-by-state-government.md) | மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா? | 21-5-2013 | 369 | complete (PDF 370–374) |
+| [3760](3760-not-a-warning-for-reflection.md) | எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக! | 22-5-2013 | 374 | complete (PDF 375–380) |
+| [3761](3761-trying-again-to-sell-lignite-company-shares.md) | நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா? | 26-5-2013 | 380 | complete (PDF 381–386) |
+| 3762 | உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்! | 27-05-2013 | 386 | start verified at PDF 387; transcription not started |
 | 3763 | அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே! | 31-5-2013 | 392 | contents identified; transcription not started |

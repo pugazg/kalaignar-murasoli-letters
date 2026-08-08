@@ -29,5 +29,5 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## வழிசெலுத்தல்
 
 - முந்தைய கடிதம்: [3755 — தூங்கும் புலியை இடறுகிறார்கள்!](3755-they-are-prodding-a-sleeping-tiger.md)
-- அடுத்த கடிதம்: 3757 — இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா? (PDF பக்கம் 356 / அச்சுப் பக்கம் 355-இல் தொடக்கம் scan மூலம் உறுதி; transcription pending)
+- அடுத்த கடிதம்: [3757 — இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா?](3757-two-years-rule-achievement-or-agony.md)
 - English translation: not started; full-volume Tamil and textual-fidelity audit gates pending

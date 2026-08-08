@@ -3,7 +3,7 @@
 - [x] Repository-level processing, transcription and five-letter batching guides read
 - [x] Volume 49 reference implementation reviewed
 - [x] Volume number and source intake recorded
-- [x] PDF pages 1–355 created as one-page-per-file Markdown
+- [x] PDF pages 1–386 created as one-page-per-file Markdown
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
@@ -18,9 +18,10 @@
 - [x] Five-letter iteration 8: letters 3742–3746, PDF 255–286 / printed 254–285
 - [x] Five-letter iteration 9: letters 3747–3751, PDF 287–325 / printed 286–324
 - [x] Five-letter iteration 10: letters 3752–3756, PDF 326–355 / printed 325–354
-- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 355
-- [x] Next letter start verified: letter 3757 at PDF 356 / printed 355
-- [ ] Remaining PDF pages 356–402
+- [x] Five-letter iteration 11: letters 3757–3761, PDF 356–386 / printed 355–385
+- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 386
+- [x] Next letter start verified: letter 3762 at PDF 387 / printed 386
+- [ ] Remaining PDF pages 387–402
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
@@ -36,4 +37,4 @@ Continue from **letter 3721 — உலகத் தமிழர்கள் ஒ�
 
 ## Next transcription task
 
-Transcribe and visually verify **five complete letters 3757–3761**, beginning with **3757 — இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா?** at **PDF page 356 / printed page 355**. Stop at the verified closing of letter 3761; do not include part of letter 3762.
+The volume has only **two letters remaining: 3762–3763**, beginning with **3762 — உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்!** at **PDF page 387 / printed page 386**. A normal five-letter batch is no longer possible; the final transcription iteration must therefore be handled as a documented smaller final-remainder exception when explicitly authorised. Stop only after the verified end of letter 3763 and preserve any remaining back matter through PDF page 402 as one-page-per-file canonical Markdown.
