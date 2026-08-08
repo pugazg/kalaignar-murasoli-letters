@@ -9,7 +9,7 @@
 ## செய்யப்பட்ட சோதனைகள்
 
 1. PDF 356–386 புதிய 31 canonical page files ஒவ்வொன்றும் rendered scan-உடன் page-by-page visual comparison செய்யப்பட்டது.
-2. Five-letter scope 3757–3761; ஒவ்வொரு letter title, salutation, page boundary, closing, signature and date scan-க்கு எதிராகச் சிபர்க்கப்பட்டது.
+2. Five-letter scope 3757–3761; ஒவ்வொரு letter title, salutation, page boundary, closing, signature and date scan-க்கு எதிராகச் சரிபார்க்கப்பட்டது.
 3. Actual boundaries: 3757 PDF 356–363, 3758 PDF 364–369, 3759 PDF 370–374, 3760 PDF 375–380, 3761 PDF 381–386.
 4. PDF page 387 தனியாக visually inspected செய்து letter 3762 அங்கே தொடங்குவது உறுதிசெய்யப்பட்டது; page 387 இந்த iteration-இல் transcribe செய்யப்படவில்லை.
 5. Printed contents, chapter index, five chapter records, previous/next navigation, metadata, progress, volume README and root status reconciled.

@@ -44,7 +44,7 @@
 | வெற்றுப் பக்கம் | 23 | recorded; second-pass source-checked |
 | கடிதம் 3706 | 24–29 | complete; source-checked |
 | கடிதங்கள் 3707–3711 | 30–62 | five-letter iteration complete; source-checked |
-| கடிதங்கள் 3712–3716 | 62–98 | five-letter iteration complete; source-checked |
+| கடிதங்கள் 3712–3716 | 63–98 | five-letter iteration complete; source-checked |
 | கடிதங்கள் 3717–3720 | 99–128 | source-checked |
 | கடிதம் 3721 | 129–136 | transcription complete; second-pass pending |
 | கடிதங்கள் 3722–3726 | 137–167 | five-letter iteration complete |
