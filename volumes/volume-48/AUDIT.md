@@ -11,7 +11,7 @@
 
 **Full-volume Tamil structural audit: PASS.**
 
-இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–161** வரை முடிந்துள்ளது; PDF **162–402** இன்னும் source-check செய்யப்பட வேண்டும்.
+இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–192** வரை முடிந்துள்ளது; PDF **193–402** இன்னும் source-check செய்யப்பட வேண்டும்.
 
 ## Fresh source verification
 
@@ -69,12 +69,14 @@
 
 ## Verification still pending
 
-The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–161**, covering the front matter and letters **3706–3725**. The latest batch, letters 3721–3725 / PDF 129–161, passed after one scan-proven correction on PDF 161 (`இயக்குனராகப்` → `இயக்குநராகப்`).
+The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–192**, covering the front matter and letters **3706–3730**.
 
-The next audit batch begins with **3726 — எத்தனை காலம்தான் ஏமாற்றுவார்?**, PDF **162** / printed page **161**, and runs through letter 3730 / PDF 192.
+The latest batch, letters **3726–3730 / PDF 162–192**, directly compared **31/31 pages** and passed after **7 scan-proven corrections on 6 canonical pages**: PDF **166, 172, 187, 188, 191 and 192**. These corrections address source-visible word spacing, sentence punctuation, a semicolon/colon discrepancy, a joined word, a year suffix, and an unbalanced quotation that had previously been silently closed.
+
+The next audit batch begins with **3731 — “தலித்” மக்கள் தெரிந்து கொள்வதற்காக!**, PDF **193** / printed page **192**, and runs through letter **3735 / PDF 219**.
 
 English translation remains blocked until the relevant canonical Tamil pages pass that scan-based textual-fidelity gate.
 
 ## Final transcription iteration record
 
-The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 161.
+The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 192.

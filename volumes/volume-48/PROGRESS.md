@@ -28,8 +28,9 @@
 - [ ] Mandatory textual-fidelity audits before translation — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
   - [x] Letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
-  - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160; 33/33 pages freshly source-checked; scan-proven correction on PDF 161
-  - [ ] PDF 162–402
+  - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160; 33/33 pages source-checked; 1 correction on PDF 161
+  - [x] Letters 3726–3730 — PDF 162–192 / printed 161–191; 31/31 pages source-checked; 7 corrections on 6 canonical pages
+  - [ ] PDF 193–402
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -41,13 +42,13 @@ This structural pass does not replace the separate character-level textual-fidel
 
 ## Textual-fidelity coverage
 
-Source-checked coverage now reaches **PDF 161 / printed page 160**, covering the front matter and letters **3706–3725**. The latest batch report is [TEXTUAL_FIDELITY_AUDIT_3721_3725.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md).
+Source-checked coverage now reaches **PDF 192 / printed page 191**, covering the front matter and letters **3706–3730**.
 
-The latest pass corrected one scan-proven defect on PDF 161: `இயக்குனராகப்` → `இயக்குநராகப்`. No other canonical changes were required in PDF 129–161.
+Latest batch: **3726–3730 / PDF 162–192**, 31/31 pages directly compared with the source scan. Seven scan-proven corrections were applied on six canonical pages: **166, 172, 187, 188, 191 and 192**. See [TEXTUAL_FIDELITY_AUDIT_3726_3730.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3726_3730.md).
 
 ## Next fidelity-audit task
 
-Audit **letters 3726–3730**, PDF **162–192** / printed **161–191** (31 pages). Every canonical page in that range must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
+Audit **letters 3731–3735**, PDF **193–219** / printed **192–218** (27 pages). Every canonical page in that range must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
 
 ## Transcription status
 

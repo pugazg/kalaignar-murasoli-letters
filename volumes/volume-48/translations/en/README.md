@@ -13,14 +13,17 @@ The **full-volume Tamil structural audit has passed**. Translation nevertheless 
   - Scan-proven canonical corrections were applied to PDF 027, 045, 046, 049, 073, 080, 096 and 110.
 - [x] Letters **3721–3725** — PDF **129–161** / printed **128–160**; 33/33 pages freshly visually compared.
   - One scan-proven canonical correction was applied on PDF 161: `இயக்குனராகப்` → `இயக்குநராகப்`.
-- [ ] PDF pages **162–402**.
+- [x] Letters **3726–3730** — PDF **162–192** / printed **161–191**; 31/31 pages freshly visually compared.
+  - Seven scan-proven corrections were applied on six canonical pages: PDF 166, 172, 187, 188, 191 and 192.
+- [ ] PDF pages **193–402**.
 
 ## Audit reports
 
 - [TEXTUAL_FIDELITY_AUDIT_001_025.md](TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [TEXTUAL_FIDELITY_AUDIT_3706_3720.md](TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [TEXTUAL_FIDELITY_AUDIT_3721_3725.md](TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
+- [TEXTUAL_FIDELITY_AUDIT_3726_3730.md](TEXTUAL_FIDELITY_AUDIT_3726_3730.md)
 
-Letters **3706–3725** have passed their page-level textual-fidelity gate. No English letter file has been created yet.
+Letters **3706–3730** have passed their page-level textual-fidelity gate. No English letter file has been created yet.
 
-The next batch is **3726–3730**, PDF **162–192** / printed **161–191**. It must be visually source-checked page by page and any scan-proven canonical correction recorded before translation can use those letters.
+The next batch is **3731–3735**, PDF **193–219** / printed **192–218** (27 pages). It must be visually source-checked page by page and any scan-proven canonical correction recorded before translation can use those letters.
