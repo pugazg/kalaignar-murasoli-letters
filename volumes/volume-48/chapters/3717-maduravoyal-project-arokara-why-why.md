@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3716 — இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்!](3716-let-us-see-tamils-here-unite.md)
 - அடுத்த கடிதம்: [3718 — உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா!](3718-sibling-i-call-you-come.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3717 — The Maduravoyal Project Too—Arokara! Why? Why?](../translations/en/letters/3717-maduravoyal-project-arokara-why-why.md) — source-checked; bilingual alignment pending
