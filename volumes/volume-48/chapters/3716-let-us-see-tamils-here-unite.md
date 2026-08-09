@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3715 — சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா?](3715-is-it-fair-to-destroy-the-sethu-project.md)
 - அடுத்த கடிதம்: [3717 — மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்?](3717-maduravoyal-project-arokara-why-why.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3716 — Let Us See the Tamils Here Unite!](../translations/en/letters/3716-let-us-see-tamils-here-unite.md) — source-checked; bilingual alignment pending
