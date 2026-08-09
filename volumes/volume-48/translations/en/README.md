@@ -6,23 +6,15 @@ The Tamil source layer is fully ready for translation: the full-volume structura
 
 ## Translation progress
 
-The required three-letter representative pilot is translated and source-checked, and the first two sequential five-letter batches are now complete.
+The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3730**.
 
-### Sequential batch 1 — source-checked
+### Sequential coverage — source-checked
 
-- [3706 — Should India Join the U.N.’s List—or Not?](letters/3706-un-list.md) — PDF 24–29
-- [3707 — Do All These Look Like Praise?](letters/3707-do-these-look-like-praise.md) — PDF 30–35
-- [3708 — Does Everything the Winner Says Become “Scripture”?](letters/3708-do-winners-words-become-scripture.md) — PDF 36–43
-- [3709 — When Will They Understand?](letters/3709-when-will-they-understand.md) — PDF 44–50
-- [3710 — Should a Project That Would Enrich Tamil Nadu Be Blocked?](letters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) — PDF 51–56
+- **3706–3710** — PDF 24–56
+- **3711–3715** — PDF 57–91
+- **3716–3730** — PDF 92–192, completed as a user-authorised 15-letter batch
 
-### Sequential batch 2 — source-checked
-
-- [3711 — March 5—the Day We Turn Our Tears into a Shield](letters/3711-march-5-the-day-tears-become-a-shield.md) — PDF 57–62
-- [3712 — A Felicitation Ceremony for This Too?](letters/3712-does-this-also-deserve-a-celebration.md) — PDF 63–69
-- [3713 — Are You Ready for the Siege Protest?](letters/3713-are-you-ready-for-the-siege.md) — PDF 70–74
-- [3714 — The Lie That the War Had Stopped Was Itself a War Crime!](letters/3714-lying-that-the-war-had-stopped-is-a-war-crime.md) — PDF 75–85
-- [3715 — Is It Fair to Try to Wreck the Sethu Project?](letters/3715-is-it-fair-to-destroy-the-sethu-project.md) — PDF 86–91
+For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md).
 
 ### Representative pilot — source-checked
 
@@ -30,11 +22,17 @@ The required three-letter representative pilot is translated and source-checked,
 - [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](letters/3743-dream-or-reality-donkey-keep-quiet.md) — PDF 260–266
 - [3756 — Will Amma’s Plans Stop at Announcements!](letters/3756-will-ammas-plans-stop-with-announcements.md) — PDF 353–355
 
-Each file uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
+Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
-**Counts:** **13 / 58** letters translated and source-checked; **45** remain. Bilingual alignment is still pending.
+**Counts:** **28 / 58** letters translated and source-checked; **30** remain untranslated. Bilingual alignment is still pending.
+
+The translated set is sequential **3706–3730**, plus pilot letters **3735, 3743 and 3756**.
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+
+## Source-preservation decisions in the 3716–3730 batch
+
+The large sequential batch keeps difficult source forms visible rather than normalising them. Among the preserved cases are the source's `final award` wording in 3719, exact Katchatheevu English spellings in 3723, the printed *Hindu* English headline in 3724, the Tamil-transliterated tender-company name in 3727, the `துணை` companion/satellite-town wordplay in 3729, and `Kaveri` / `kauveri` plus the malformed source quotation in 3730.
 
 ## Style lock
 
@@ -64,4 +62,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** have passed the sourc
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3716–3720 — PDF 92–128 / printed 91–127**. Their Tamil pages are already scan-verified. When the sequence later reaches pilot letters 3735, 3743 and 3756, review and align the existing files rather than creating duplicates.
+Proceed sequentially with **letters 3731–3735 — PDF 193–219 / printed 192–218**. Reuse and review the existing source-checked pilot translation for **3735** rather than creating a duplicate file.
