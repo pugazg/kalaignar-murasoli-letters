@@ -15,7 +15,7 @@
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
-- English translation இன்னும் தொடங்கப்படவில்லை; Tamil fidelity gate இப்போது முழுமையாக நிறைவு பெற்றுள்ளது.
+- English translation **தொடங்கியுள்ளது**: representative pilot letters **3735, 3743, 3756 — 3/58** translated and source-checked; bilingual alignment pending.
 
 ## Transcription iterations
 
@@ -36,31 +36,43 @@
 - User-authorised final remainder: 3762–3763 — PDF **387–400**
 - Final non-letter pages: PDF **401–402**
 
-## Audit status
+## Audit / translation status
 
-| Audit / stage | Coverage | Status |
+| Stage | Coverage | Status |
 |---|---:|---|
 | Tamil transcription | PDF 1–402 | complete |
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
-| Source-checked letters | 3706–3763 | **58/58 complete** |
-| Remaining textual-fidelity verification | — | none |
-| English translation | — | not started; fidelity gate satisfied |
+| Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
+| English translation | 3735, 3743, 3756 | **3/58 source-checked; in progress** |
 | Bilingual alignment / editorial release | — | not started |
 
-The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found. PDF 401 and PDF 402 were also visually verified.
+The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found.
 
 Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference, the scan-proven letter-3743 `கழுதையே` reading, and malformed source English such as `By injectinga` on PDF 397.
 
+## English translation pilot
+
+Following the master guide, the first Volume 48 English work uses three representative letters before sequential bulk translation:
+
+- [3735 — Couldn’t a Statement Be Read for This Too?](translations/en/letters/3735-can-an-announcement-be-read-for-this.md)
+- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](translations/en/letters/3743-dream-or-reality-donkey-keep-quiet.md)
+- [3756 — Will Amma’s Plans Stop at Announcements!](translations/en/letters/3756-will-ammas-plans-stop-with-announcements.md)
+
+All three are `source-checked`, use the approved translator’s note, and reproduce the complete audited Tamil beneath the English translation. See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
+
 ## Next exact task
 
-The Tamil transcription and both audit layers are complete. The next project stage is **English translation**, to be started only as a separate authorised task.
+Sequential English bulk translation: **letters 3706–3710**. Their canonical Tamil pages have already passed the mandatory visual/textual-fidelity audit.
 
 ## முக்கிய இணைப்புகள்
 
 - [Metadata](metadata.yml)
 - [முன்னேற்றம்](PROGRESS.md)
 - [Full-volume Tamil audit](AUDIT.md)
+- [English translation plan](TRANSLATION_PLAN.md)
+- [English translation progress](translations/en/PROGRESS.md)
+- [English glossary](translations/en/GLOSSARY.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [Textual-fidelity audit — letters 3721–3725](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
