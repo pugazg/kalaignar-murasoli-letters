@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3726 — எத்தனை காலம்தான் ஏமாற்றுவார்?](3726-how-long-will-they-deceive.md)
 - அடுத்த கடிதம்: [3728 — அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை!](3728-duty-performed-by-dmk-rule-for-arunthathiyars.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3727 — Will They Reveal Their “Qualification”?](../translations/en/letters/3727-will-they-reveal-their-qualification.md) — source-checked; bilingual alignment pending
