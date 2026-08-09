@@ -2,7 +2,7 @@
 
 Status: **not started**.
 
-The **full-volume Tamil structural audit has passed**. Translation nevertheless remains intentionally blocked until each intended translation batch passes the separate scan-based textual-fidelity audit.
+The **full-volume Tamil structural audit has passed**, and the separate scan-based textual-fidelity audit is now **complete for PDF 1–402 / letters 3706–3763**. The Tamil fidelity gate has been satisfied; no English letter file has been created yet.
 
 ## Textual-fidelity audit coverage
 
@@ -23,7 +23,9 @@ The **full-volume Tamil structural audit has passed**. Translation nevertheless 
   - Nine scan-proven findings affected seven canonical pages: PDF 253, 268, 270, 271, 272, 274 and 279, including one source-proven cross-page boundary repair between PDF 271 and 272.
 - [x] Letters **3746–3750** — PDF **280–318** / printed **279–317**; 39/39 pages freshly visually compared.
   - Five scan-proven corrections affected four canonical pages: PDF 293, 298, 306 and 310.
-- [ ] PDF pages **319–402**.
+- [x] User-authorised final batch — letters **3751–3763**, PDF **319–400** / printed **318–399**, plus PDF **401–402**; 84/84 pages visually compared.
+  - Two scan-proven canonical corrections were applied on PDF 321 and 399.
+  - PDF 401 blank printed page 400 and PDF 402 back cover were directly verified.
 
 ## Audit reports
 
@@ -35,7 +37,10 @@ The **full-volume Tamil structural audit has passed**. Translation nevertheless 
 - [TEXTUAL_FIDELITY_AUDIT_3736_3740.md](TEXTUAL_FIDELITY_AUDIT_3736_3740.md)
 - [TEXTUAL_FIDELITY_AUDIT_3741_3745.md](TEXTUAL_FIDELITY_AUDIT_3741_3745.md)
 - [TEXTUAL_FIDELITY_AUDIT_3746_3750.md](TEXTUAL_FIDELITY_AUDIT_3746_3750.md)
+- [TEXTUAL_FIDELITY_AUDIT_3751_3763.md](TEXTUAL_FIDELITY_AUDIT_3751_3763.md)
 
-Letters **3706–3750** have passed their page-level textual-fidelity gate. No English letter file has been created yet.
+All **58 letters, 3706–3763**, have passed their page-level textual-fidelity gate, and all **402 PDF pages** are now source-checked.
 
-The next batch is **3751–3755**, PDF **319–352** / printed **318–351** (34 pages). PDF **353 / printed 352** begins letter **3756** and is the stop boundary. The batch must be visually source-checked page by page and any scan-proven canonical correction recorded before translation can use those letters.
+## Translation gate
+
+English translation is still **not started**, but it is no longer blocked by pending Tamil textual-fidelity work. Translation may now begin as a separate authorised stage, using the verified canonical Tamil pages as the source of truth.

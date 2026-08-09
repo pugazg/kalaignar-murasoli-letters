@@ -11,7 +11,7 @@
 
 **Full-volume Tamil structural audit: PASS.**
 
-இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–318** வரை முடிந்துள்ளது; PDF **319–402** இன்னும் source-check செய்யப்பட வேண்டும்.
+இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த தனித்த audit இப்போது PDF **1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** source-check செய்யப்பட்டுள்ளன.
 
 ## Fresh source verification
 
@@ -57,6 +57,7 @@
 | Structural gaps/overlaps | none detected |
 | Replacement Unicode `�` | none found |
 | Full-volume structural audit | **PASS** |
+| Full-volume second visual/textual-fidelity audit | **COMPLETE — PDF 1–402** |
 
 ## Preserved source anomalies / distinctions
 
@@ -67,16 +68,16 @@
 - PDF 401 is effectively blank except for its running header/page number and faint show-through.
 - PDF 402 is the back cover with portrait, publisher/contact information, QR indication, `GO 2300` and `ரூ.300`.
 
-## Verification still pending
+## Second visual / textual-fidelity audit — completed
 
-The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–318**, covering the front matter and letters **3706–3750**.
+The **second visual / textual-fidelity audit** remained separate from this structural audit and has now been completed across the entire source: PDF **1–402**, all letters **3706–3763**, and the final non-letter pages.
 
-The latest batch, letters **3746–3750 / PDF 280–318**, directly compared **39/39 pages** and passed after **5 scan-proven corrections affecting 4 canonical pages**: PDF **293, 298, 306 and 310**. The corrections remove one duplicated phrase from PDF 293, restore two source-visible initial forms on PDF 298, correct `இராபாட் பிரிஸ்டோ` to `இராபர்ட் பிரிஸ்டோ` on PDF 306, and restore the omitted `கூறினர்.` on PDF 310. No page or letter boundary changed.
+The final user-authorised batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, directly comparing **84/84 pages**. Two scan-proven corrections were required: PDF **321** restores `நெருக்கடிகளுக்கு` in place of the split `நெருக்கடி களுக்கு`, and PDF **399** restores the printed compound `அனுபவரீதியாகத்` in place of `அனுபவ ரீதியாகத்`. No cross-page boundary, title, closing/date, missing-large-passage or duplicate-passage error was found.
 
-The next audit batch begins with **3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!**, PDF **319** / printed page **318**, and runs through letter **3755 / PDF 352**. PDF **353 / printed 352** is the verified start of letter **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!**.
+PDF 401 and PDF 402 were also visually rechecked in this final fidelity pass and match their canonical blank-page/back-cover records.
 
-English translation remains blocked until the relevant canonical Tamil pages pass that scan-based textual-fidelity gate.
+English translation remains **not started**. The Tamil textual-fidelity gate is now satisfied for the full volume and no longer blocks a separately authorised translation stage.
 
 ## Final transcription iteration record
 
-The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 318.
+The final user-authorised transcription remainder completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. The later full-volume textual-fidelity series has now independently source-checked the complete PDF through page 402.

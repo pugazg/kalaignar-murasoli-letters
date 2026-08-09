@@ -25,7 +25,7 @@
 - [x] All 402 PDF pages have canonical one-page-per-file Markdown
 - [x] All 58 letters 3706–3763 have complete verified transcription boundaries
 - [x] Full-volume Tamil structural audit — PASS on 2026-08-08
-- [ ] Mandatory textual-fidelity audits before translation — in progress
+- [x] Mandatory textual-fidelity audits before translation — complete
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
   - [x] Letters 3706–3720 — PDF 024–128 / printed 23–127; all 105/105 letter pages source-checked
   - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160; 33/33 pages source-checked; 1 correction on PDF 161
@@ -34,7 +34,7 @@
   - [x] Letters 3736–3740 — PDF 220–248 / printed 219–247; 29/29 pages source-checked; 2 corrections on PDF 236 and 241
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317; 39/39 pages source-checked; 5 corrections on 4 canonical pages
-  - [ ] PDF 319–402
+  - [x] User-authorised final fidelity batch: letters 3751–3763 — PDF 319–400 / printed 318–399, plus PDF 401–402; 84/84 pages source-checked; 2 corrections on PDF 321 and 399
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -42,22 +42,20 @@
 
 The structural audit passed after fresh source hash/page-count verification and end-to-end reconciliation of the canonical page range, 58-letter contents register, chapter register, letter boundaries and final non-letter material. See [AUDIT.md](AUDIT.md).
 
-This structural pass does not replace the separate character-level textual-fidelity audit.
+The separate character-level textual-fidelity audit has now also been completed for the full PDF.
 
 ## Textual-fidelity coverage
 
-Source-checked coverage now reaches **PDF 318 / printed page 317**, covering the front matter and letters **3706–3750**.
+Source-checked coverage is complete through **PDF 402**, covering all **58 letters 3706–3763**, the front matter and the final non-letter pages.
 
-Latest batch: **3746–3750 / PDF 280–318**, 39/39 pages directly compared with the source scan. Five scan-proven corrections affected four canonical pages: PDF **293, 298, 306 and 310**. The batch removes one duplicated phrase on PDF 293, restores two exact initial forms on PDF 298, corrects `இராபாட்` to scan-visible `இராபர்ட்` on PDF 306, and restores the omitted `கூறினர்.` on PDF 310. See [TEXTUAL_FIDELITY_AUDIT_3746_3750.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3746_3750.md).
+Final batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores the source compound `அனுபவரீதியாகத்`. PDF 401 was verified as the effectively blank printed page 400, and PDF 402 as the back cover. See [TEXTUAL_FIDELITY_AUDIT_3751_3763.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md).
 
-## Next fidelity-audit task
+## Next stage
 
-Audit **letters 3751–3755**, PDF **319–352** / printed **318–351** (34 pages). PDF **353 / printed 352** is the verified start of letter **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!** and is outside that batch.
+The full Tamil transcription, structural audit and second visual/textual-fidelity verification are complete. There are **no remaining Tamil fidelity pages**.
 
-Every canonical page in PDF 319–352 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
+English translation is **not started**. The Tamil fidelity gate has been satisfied, so translation may now begin as a separate authorised stage.
 
 ## Transcription status
 
 **Transcription complete.** Letters **3762–3763** are complete at PDF **387–400**, and PDF **401–402** back matter is preserved. There is no next transcription page.
-
-English translation remains blocked until the relevant page ranges pass textual-fidelity verification.
