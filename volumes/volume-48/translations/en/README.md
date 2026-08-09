@@ -21,7 +21,9 @@ The **full-volume Tamil structural audit has passed**. Translation nevertheless 
   - Two scan-proven canonical corrections were applied on PDF 236 and 241.
 - [x] Letters **3741–3745** — PDF **249–279** / printed **248–278**; 31/31 pages freshly visually compared.
   - Nine scan-proven findings affected seven canonical pages: PDF 253, 268, 270, 271, 272, 274 and 279, including one source-proven cross-page boundary repair between PDF 271 and 272.
-- [ ] PDF pages **280–402**.
+- [x] Letters **3746–3750** — PDF **280–318** / printed **279–317**; 39/39 pages freshly visually compared.
+  - Five scan-proven corrections affected four canonical pages: PDF 293, 298, 306 and 310.
+- [ ] PDF pages **319–402**.
 
 ## Audit reports
 
@@ -32,7 +34,8 @@ The **full-volume Tamil structural audit has passed**. Translation nevertheless 
 - [TEXTUAL_FIDELITY_AUDIT_3731_3735.md](TEXTUAL_FIDELITY_AUDIT_3731_3735.md)
 - [TEXTUAL_FIDELITY_AUDIT_3736_3740.md](TEXTUAL_FIDELITY_AUDIT_3736_3740.md)
 - [TEXTUAL_FIDELITY_AUDIT_3741_3745.md](TEXTUAL_FIDELITY_AUDIT_3741_3745.md)
+- [TEXTUAL_FIDELITY_AUDIT_3746_3750.md](TEXTUAL_FIDELITY_AUDIT_3746_3750.md)
 
-Letters **3706–3745** have passed their page-level textual-fidelity gate. No English letter file has been created yet.
+Letters **3706–3750** have passed their page-level textual-fidelity gate. No English letter file has been created yet.
 
-The next batch is **3746–3750**, PDF **280–318** / printed **279–317** (39 pages). PDF **319 / printed 318** begins letter **3751** and is the stop boundary. The batch must be visually source-checked page by page and any scan-proven canonical correction recorded before translation can use those letters.
+The next batch is **3751–3755**, PDF **319–352** / printed **318–351** (34 pages). PDF **353 / printed 352** begins letter **3756** and is the stop boundary. The batch must be visually source-checked page by page and any scan-proven canonical correction recorded before translation can use those letters.

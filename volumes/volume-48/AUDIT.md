@@ -11,7 +11,7 @@
 
 **Full-volume Tamil structural audit: PASS.**
 
-இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–279** வரை முடிந்துள்ளது; PDF **280–402** இன்னும் source-check செய்யப்பட வேண்டும்.
+இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–318** வரை முடிந்துள்ளது; PDF **319–402** இன்னும் source-check செய்யப்பட வேண்டும்.
 
 ## Fresh source verification
 
@@ -69,14 +69,14 @@
 
 ## Verification still pending
 
-The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–279**, covering the front matter and letters **3706–3745**.
+The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–318**, covering the front matter and letters **3706–3750**.
 
-The latest batch, letters **3741–3745 / PDF 249–279**, directly compared **31/31 pages** and passed after **9 scan-proven findings affecting 7 canonical pages**: PDF **253, 268, 270, 271, 272, 274 and 279**. The corrections restore source-visible word forms and spacing, replace the incorrect PDF 270 phrase with the scan-visible `அலற அலறக் கற்பழிக்கப்பட்டிருக்கிறாள்`, and move two continuation lines from canonical PDF 271 to their true source page PDF 272. No text is lost in that boundary repair.
+The latest batch, letters **3746–3750 / PDF 280–318**, directly compared **39/39 pages** and passed after **5 scan-proven corrections affecting 4 canonical pages**: PDF **293, 298, 306 and 310**. The corrections remove one duplicated phrase from PDF 293, restore two source-visible initial forms on PDF 298, correct `இராபாட் பிரிஸ்டோ` to `இராபர்ட் பிரிஸ்டோ` on PDF 306, and restore the omitted `கூறினர்.` on PDF 310. No page or letter boundary changed.
 
-The next audit batch begins with **3746 — காழ்ப்புணர்வின் உச்சகட்டம்!**, PDF **280** / printed page **279**, and runs through letter **3750 / PDF 318**. PDF **319 / printed 318** is the verified start of letter **3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!**.
+The next audit batch begins with **3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!**, PDF **319** / printed page **318**, and runs through letter **3755 / PDF 352**. PDF **353 / printed 352** is the verified start of letter **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!**.
 
 English translation remains blocked until the relevant canonical Tamil pages pass that scan-based textual-fidelity gate.
 
 ## Final transcription iteration record
 
-The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 279.
+The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 318.

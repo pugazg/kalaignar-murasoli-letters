@@ -21,7 +21,7 @@ completed_letter_count: 58
 audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-08
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-279"
+second_visual_verified_page_range: "1-318"
 textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md"
@@ -30,6 +30,7 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3731_3735.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3736_3740.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3741_3745.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_3746_3750.md"
 translation_status: "not-started"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"

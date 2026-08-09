@@ -14,7 +14,7 @@
 - கடிதங்கள் **3706–3763 — 58/58** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
-- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–279** வரை source-checked; letters **3706–3745** audit gate-ஐ கடந்துள்ளன.
+- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–318** வரை source-checked; letters **3706–3750** audit gate-ஐ கடந்துள்ளன.
 - English translation தொடங்கப்படவில்லை; relevant Tamil pages textual-fidelity audit-ஐத் தாண்டிய பின்னரே translation தொடங்கும்.
 
 ## Transcription iterations
@@ -42,19 +42,19 @@
 |---|---:|---|
 | Tamil transcription | PDF 1–402 | complete |
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
-| Second visual / textual-fidelity verification | PDF 1–279 | source-checked |
-| Source-checked letters | 3706–3745 | complete for this range |
-| Remaining textual-fidelity verification | PDF 280–402 | pending |
+| Second visual / textual-fidelity verification | PDF 1–318 | source-checked |
+| Source-checked letters | 3706–3750 | complete for this range |
+| Remaining textual-fidelity verification | PDF 319–402 | pending |
 | English translation | — | not started; blocked by fidelity gate |
 | Bilingual alignment / editorial release | — | not started |
 
-The latest fidelity batch, letters **3741–3745 / PDF 249–279**, passed after **9 scan-proven findings affecting 7 canonical pages**: PDF **253, 268, 270, 271, 272, 274 and 279**. The batch restores exact source word forms and spacing, corrects a substantive lexical error on PDF 270, and repairs a two-line page-boundary error between PDF 271 and 272 without changing the letter's overall text.
+The latest fidelity batch, letters **3746–3750 / PDF 280–318**, passed after **5 scan-proven corrections affecting 4 canonical pages**: PDF **293, 298, 306 and 310**. The batch removes one duplicated phrase, restores two exact initial forms, corrects the scan-proven `இராபர்ட் பிரிஸ்டோ` reading, and restores one omitted word. No letter boundary, title, closing/date or large passage changed.
 
 Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference and the scan-proven correction of the earlier letter-3743 `கழகத்தே` reading to `கழுதையே`.
 
 ## Next exact task
 
-Textual-fidelity audit **letters 3746–3750**, PDF **280–318** / printed **279–317**. PDF **319 / printed 318** begins letter **3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!** and is the stop boundary.
+Textual-fidelity audit **letters 3751–3755**, PDF **319–352** / printed **318–351**. PDF **353 / printed 352** begins letter **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!** and is the stop boundary.
 
 ## முக்கிய இணைப்புகள்
 
@@ -68,5 +68,6 @@ Textual-fidelity audit **letters 3746–3750**, PDF **280–318** / printed **27
 - [Textual-fidelity audit — letters 3731–3735](translations/en/TEXTUAL_FIDELITY_AUDIT_3731_3735.md)
 - [Textual-fidelity audit — letters 3736–3740](translations/en/TEXTUAL_FIDELITY_AUDIT_3736_3740.md)
 - [Textual-fidelity audit — letters 3741–3745](translations/en/TEXTUAL_FIDELITY_AUDIT_3741_3745.md)
+- [Textual-fidelity audit — letters 3746–3750](translations/en/TEXTUAL_FIDELITY_AUDIT_3746_3750.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)

@@ -33,7 +33,8 @@
   - [x] Letters 3731–3735 — PDF 193–219 / printed 192–218; 27/27 pages source-checked; 5 corrections on 5 canonical pages
   - [x] Letters 3736–3740 — PDF 220–248 / printed 219–247; 29/29 pages source-checked; 2 corrections on PDF 236 and 241
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
-  - [ ] PDF 280–402
+  - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317; 39/39 pages source-checked; 5 corrections on 4 canonical pages
+  - [ ] PDF 319–402
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -45,15 +46,15 @@ This structural pass does not replace the separate character-level textual-fidel
 
 ## Textual-fidelity coverage
 
-Source-checked coverage now reaches **PDF 279 / printed page 278**, covering the front matter and letters **3706–3745**.
+Source-checked coverage now reaches **PDF 318 / printed page 317**, covering the front matter and letters **3706–3750**.
 
-Latest batch: **3741–3745 / PDF 249–279**, 31/31 pages directly compared with the source scan. Nine scan-proven findings affected seven canonical pages: PDF **253, 268, 270, 271, 272, 274 and 279**. They include exact source word-spacing restorations, one substantive lexical correction on PDF 270, and a source-proven two-line page-boundary repair between PDF 271 and 272. See [TEXTUAL_FIDELITY_AUDIT_3741_3745.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3741_3745.md).
+Latest batch: **3746–3750 / PDF 280–318**, 39/39 pages directly compared with the source scan. Five scan-proven corrections affected four canonical pages: PDF **293, 298, 306 and 310**. The batch removes one duplicated phrase on PDF 293, restores two exact initial forms on PDF 298, corrects `இராபாட்` to scan-visible `இராபர்ட்` on PDF 306, and restores the omitted `கூறினர்.` on PDF 310. See [TEXTUAL_FIDELITY_AUDIT_3746_3750.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3746_3750.md).
 
 ## Next fidelity-audit task
 
-Audit **letters 3746–3750**, PDF **280–318** / printed **279–317** (39 pages). PDF **319 / printed 318** is the verified start of letter **3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!** and is outside that batch.
+Audit **letters 3751–3755**, PDF **319–352** / printed **318–351** (34 pages). PDF **353 / printed 352** is the verified start of letter **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!** and is outside that batch.
 
-Every canonical page in PDF 280–318 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
+Every canonical page in PDF 319–352 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
 
 ## Transcription status
 
