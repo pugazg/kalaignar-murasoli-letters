@@ -23,7 +23,22 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | மின் தொடரமைப்பு / மின் தொடர் பாதை | **transmission system / transmission line** | approved | Power-grid terminology in letter 3743. |
 | சி.எம்.டி.ஏ. | **Chennai Metropolitan Development Authority (CMDA)** | approved | Expanded on first reference in letter 3756. |
 | காணொலிக் காட்சி / வீடியோ கான்பரன்சிங் | **video conference** | approved | Open compound used for remote inaugurations. |
+| குறுவைச் சாகுபடி | **kuruvai cultivation** | approved | Short-duration Cauvery Delta paddy season; Tamil agricultural term retained. |
+| சம்பா சாகுபடி | **samba cultivation** | approved | Longer paddy-cultivation season in the Cauvery Delta; Tamil agricultural term retained. |
+| காவிரி நடுவர் மன்றம் | **Cauvery Water Disputes Tribunal** | approved | Institutional rendering used in letter 3708 and subsequent Cauvery references. |
+| காவிரி நதி நீர் ஆணையம் / காவிரி ஆணையம் | **Cauvery River Authority** | approved | Authority chaired by the Prime Minister in the source's historical discussion. |
+| காவிரி கண்காணிப்புக் குழு | **Cauvery Monitoring Committee** | approved | Monitoring body referred to alongside the Cauvery River Authority. |
+| டி.எம்.சி. / TMC | **TMC** | approved | Indian water-volume abbreviation retained as in the source. |
+| விடுதலைப் புலிகள் / தமிழ் ஈழ விடுதலைப் புலிகள் | **Liberation Tigers of Tamil Eelam (LTTE)** / **Liberation Tigers** | approved | Full English name where context first requires it; acronym or shortened form thereafter. |
+| தமிழ் ஈழம் / ஈழத் தமிழர்கள் | **Tamil Eelam / Eelam Tamils** | approved | Source political-geographical terminology retained rather than replaced with a broader label. |
+| ஜால்ரா | **jalra** | context-dependent | Literally accompanying cymbals; in political rhetoric, sycophantic accompaniment or applause. |
+| சேது சமுத்திரத் திட்டம் | **Sethu Samudram project** / **Sethu Samudram Canal Project** | approved | Project name retained; longer form used when the canal itself is being described. |
+| எழுச்சி நாள் | **Ezhuchi Naal** / **Day of Uprising** | approved | Named mobilisation day in the historical Sethu Samudram discussion. |
+| ஆடம்ஸ் பாலம் / ராமர் பாலம் | **Adam's Bridge / Ram Setu** | source-dependent | Both names are preserved according to the speaker or political context in the source; they are not harmonised. |
+| பாக் ஜலசந்தி / பாக்கடல் | **Palk Strait / Palk Bay** | context-dependent | Geographic rendering follows the source phrase and context. |
+| மன்னார் வளைகுடா | **Gulf of Mannar** | approved | Established geographic English name. |
+| அன்னியச் செலாவணி | **foreign exchange** | approved | Economic term used in the projected-benefits discussion of the Sethu Samudram project. |
 
 ## Pilot-specific note
 
-The pilot translation confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. New terms will be added here only when they materially affect consistency across later letters.
+The pilot translation confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. Subsequent sequential batches extend this glossary only where terminology materially affects consistency.
