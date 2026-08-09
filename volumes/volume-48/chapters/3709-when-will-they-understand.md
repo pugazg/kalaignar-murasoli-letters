@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3708 — வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?”](3708-do-winners-words-become-scripture.md)
 - அடுத்த கடிதம்: [3710 — தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா?](3710-obstructing-the-project-that-will-enrich-tamil-nadu.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3709 — When Will They Understand?](../translations/en/letters/3709-when-will-they-understand.md) — source-checked; bilingual alignment pending
