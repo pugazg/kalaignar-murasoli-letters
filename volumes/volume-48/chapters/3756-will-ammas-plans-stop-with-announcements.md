@@ -30,4 +30,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3755 — தூங்கும் புலியை இடறுகிறார்கள்!](3755-they-are-prodding-a-sleeping-tiger.md)
 - அடுத்த கடிதம்: [3757 — இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா?](3757-two-years-rule-achievement-or-agony.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Will Amma’s Plans Stop at Announcements!](../translations/en/letters/3756-will-ammas-plans-stop-with-announcements.md) — source-checked; bilingual alignment pending
