@@ -31,4 +31,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3734 — நாகரிகயுகத்தில் நரபலிக் கொடுமையா?](3734-human-sacrifice-cruelty-in-civilised-age.md)
 - அடுத்த கடிதம்: [3736 — மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது!](3736-do-not-sully-departed-leaders.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Couldn’t a Statement Be Read for This Too?](../translations/en/letters/3735-can-an-announcement-be-read-for-this.md) — source-checked; bilingual alignment pending
