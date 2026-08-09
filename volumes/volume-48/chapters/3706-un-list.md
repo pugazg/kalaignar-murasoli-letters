@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: இத்தொகுதியில் இல்லை
 - அடுத்த கடிதம்: [3707 — “இவையெல்லாம் பாராட்டாகத் தெரிகிறதா?”](3707-do-these-look-like-praise.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3706 — Should India Join the U.N.’s List—or Not?](../translations/en/letters/3706-un-list.md) — source-checked; bilingual alignment pending
