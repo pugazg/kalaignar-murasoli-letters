@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!](3721-world-tamils-will-never-agree.md)
 - அடுத்த கடிதம்: [3723 — வாடிக்கையாகிவிட்ட பித்தலாட்டம்!](3723-the-usual-deception.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3722 — In the Legislative Assembly—Then and Now!](../translations/en/letters/3722-in-the-legislative-assembly-then-and-now.md) — source-checked; bilingual alignment pending
