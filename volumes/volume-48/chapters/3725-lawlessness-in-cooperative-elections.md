@@ -32,4 +32,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3724 — “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்!](3724-the-hindu-itself-points-out-the-double-role.md)
 - அடுத்த கடிதம்: [3726 — எத்தனை காலம்தான் ஏமாற்றுவார்?](3726-how-long-will-they-deceive.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3725 — Lawlessness in the Cooperative Elections!](../translations/en/letters/3725-lawlessness-in-cooperative-elections.md) — source-checked; bilingual alignment pending
