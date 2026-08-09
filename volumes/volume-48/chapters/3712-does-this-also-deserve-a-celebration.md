@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3711 — கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5.](3711-march-5-the-day-tears-become-a-shield.md)
 - அடுத்த கடிதம்: [3713 — முற்றுகைப் போருக்குத் தயாராகி விட்டாயா?](3713-are-you-ready-for-the-siege.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [A Felicitation Ceremony for This Too?](../translations/en/letters/3712-does-this-also-deserve-a-celebration.md) — source-checked; bilingual alignment pending
