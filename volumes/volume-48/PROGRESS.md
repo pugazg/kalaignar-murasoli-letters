@@ -32,7 +32,8 @@
   - [x] Letters 3726–3730 — PDF 162–192 / printed 161–191; 31/31 pages source-checked; 7 corrections on 6 canonical pages
   - [x] Letters 3731–3735 — PDF 193–219 / printed 192–218; 27/27 pages source-checked; 5 corrections on 5 canonical pages
   - [x] Letters 3736–3740 — PDF 220–248 / printed 219–247; 29/29 pages source-checked; 2 corrections on PDF 236 and 241
-  - [ ] PDF 249–402
+  - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
+  - [ ] PDF 280–402
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -44,15 +45,15 @@ This structural pass does not replace the separate character-level textual-fidel
 
 ## Textual-fidelity coverage
 
-Source-checked coverage now reaches **PDF 248 / printed page 247**, covering the front matter and letters **3706–3740**.
+Source-checked coverage now reaches **PDF 279 / printed page 278**, covering the front matter and letters **3706–3745**.
 
-Latest batch: **3736–3740 / PDF 220–248**, 29/29 pages directly compared with the source scan. Two scan-proven canonical corrections were applied on PDF **236** and **241**: source spacing/form `தண்டிக்கப் பட்டு` was restored, and `கண்ணார் அஞ்சலி!` was corrected to the scan-visible `கண்ணீர் அஞ்சலி!`. See [TEXTUAL_FIDELITY_AUDIT_3736_3740.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3736_3740.md).
+Latest batch: **3741–3745 / PDF 249–279**, 31/31 pages directly compared with the source scan. Nine scan-proven findings affected seven canonical pages: PDF **253, 268, 270, 271, 272, 274 and 279**. They include exact source word-spacing restorations, one substantive lexical correction on PDF 270, and a source-proven two-line page-boundary repair between PDF 271 and 272. See [TEXTUAL_FIDELITY_AUDIT_3741_3745.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3741_3745.md).
 
 ## Next fidelity-audit task
 
-Audit **letters 3741–3745**, PDF **249–279** / printed **248–278** (31 pages). PDF **280 / printed 279** is the verified start of letter **3746 — காழ்ப்புணர்வின் உச்சகட்டம்!** and is outside that batch.
+Audit **letters 3746–3750**, PDF **280–318** / printed **279–317** (39 pages). PDF **319 / printed 318** is the verified start of letter **3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!** and is outside that batch.
 
-Every canonical page in PDF 249–279 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
+Every canonical page in PDF 280–318 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
 
 ## Transcription status
 
