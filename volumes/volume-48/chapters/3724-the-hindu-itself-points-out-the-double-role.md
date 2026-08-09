@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3723 — வாடிக்கையாகிவிட்ட பித்தலாட்டம்!](3723-the-usual-deception.md)
 - அடுத்த கடிதம்: [3725 — கூட்டுறவுத் தேர்தல்களில் அராஜகம்!](3725-lawlessness-in-cooperative-elections.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3724 — The Hindu Itself Points Out the Double Role!](../translations/en/letters/3724-the-hindu-itself-points-out-the-double-role.md) — source-checked; bilingual alignment pending
