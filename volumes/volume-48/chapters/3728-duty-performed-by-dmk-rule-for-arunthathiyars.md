@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3727 — தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா?](3727-will-they-reveal-their-qualification.md)
 - அடுத்த கடிதம்: [3729 — அந்த நாள் ஞாபகம் வந்ததே; அம்மையே!](3729-that-day-came-to-mind-madam.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3728 — The Duty the DMK Government Performed for Arunthathiyars!](../translations/en/letters/3728-duty-performed-by-dmk-rule-for-arunthathiyars.md) — source-checked; bilingual alignment pending
