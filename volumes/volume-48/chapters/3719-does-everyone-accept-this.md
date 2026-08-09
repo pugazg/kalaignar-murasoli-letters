@@ -38,4 +38,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3718 — உடன்பிறப்பே! உன்னை அழைக்கிறேன் வா!](3718-sibling-i-call-you-come.md)
 - அடுத்த கடிதம்: [3720 — “டெசோ” கேட்பதால்; வலுவில்லை என்பதா?](3720-is-there-no-strength-because-teso-asks.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3719 — Does Everyone Accept This?](../translations/en/letters/3719-does-everyone-accept-this.md) — source-checked; bilingual alignment pending
