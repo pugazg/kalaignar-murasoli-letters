@@ -35,4 +35,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3707 — இவையெல்லாம் பாராட்டாகத் தெரிகிறதா?](3707-do-these-look-like-praise.md)
 - அடுத்த கடிதம்: [3709 — புரிந்துகொள்வதுதான் எப்போது?](3709-when-will-they-understand.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3708 — Does Everything the Winner Says Become “Scripture”?](../translations/en/letters/3708-do-winners-words-become-scripture.md) — source-checked; bilingual alignment pending
