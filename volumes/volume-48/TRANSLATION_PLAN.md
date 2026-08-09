@@ -1,6 +1,6 @@
 # Volume 48 English Translation Plan — active
 
-English translation is now **in progress**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have all passed, so the Tamil fidelity gate no longer blocks translation.
+English translation is **in progress**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have all passed, so the Tamil fidelity gate no longer blocks translation.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -50,7 +50,7 @@ The master processing guide requires three representative pilot letters for the 
 | 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story |
 | 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures |
 
-All three pilot letters are now **translated and source-checked**. Their bilingual alignment remains pending. The pilot confirms the Volume 49 style lock for titles, `Udanpirappē`, the closing, Rule 110, `lakh`/`crore`, quotations, minimal notes and complete Tamil reproduction. Volume-specific terms are recorded in `translations/en/GLOSSARY.md`.
+All three pilot letters are **translated and source-checked**. Their bilingual alignment remains pending. The pilot confirms the Volume 49 style lock for titles, `Udanpirappē`, the closing, Rule 110, `lakh`/`crore`, quotations, minimal notes and complete Tamil reproduction. Volume-specific terms are recorded in `translations/en/GLOSSARY.md`.
 
 ## Status progression
 
@@ -65,7 +65,12 @@ A letter must not be marked `verified` until a documented bilingual alignment re
 
 After the representative pilot, continue sequentially in batches of approximately five letters, using smaller batches where a letter is unusually long or quotation-heavy.
 
-The next bulk batch is **3706–3710**. All of its Tamil pages have already passed the mandatory scan-based textual-fidelity audit. When a later sequential batch reaches one of the three pilot letters, reuse and review the existing translation rather than creating a duplicate file.
+- **Batch 1: 3706–3710 — complete; five letters translated and source-checked.**
+- **Next batch: 3711–3715.** Their Tamil pages have already passed the mandatory scan-based textual-fidelity audit.
+
+When a later sequential batch reaches one of the three pilot letters, reuse and review the existing translation rather than creating a duplicate file.
+
+Current totals: **8 / 58 translated and source-checked**, including the three representative pilot letters; **50 remain untranslated**.
 
 ## Remaining stages
 
