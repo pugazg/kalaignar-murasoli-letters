@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3710 — தமிழகத்தை வளமாக்கும் திட்டத்துக்குத் தடை கோருவதா?](3710-obstructing-the-project-that-will-enrich-tamil-nadu.md)
 - அடுத்த கடிதம்: [3712 — இதற்கும் சேர்த்தா பாராட்டு விழா?](3712-does-this-also-deserve-a-celebration.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [March 5—the Day We Turn Our Tears into a Shield](../translations/en/letters/3711-march-5-the-day-tears-become-a-shield.md) — source-checked; bilingual alignment pending
