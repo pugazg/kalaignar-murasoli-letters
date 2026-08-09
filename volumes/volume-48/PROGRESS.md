@@ -35,7 +35,11 @@
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317; 39/39 pages source-checked; 5 corrections on 4 canonical pages
   - [x] User-authorised final fidelity batch: letters 3751–3763 — PDF 319–400 / printed 318–399, plus PDF 401–402; 84/84 pages source-checked; 2 corrections on PDF 321 and 399
-- [ ] English translation
+- [ ] English translation — **in progress: 3/58 source-checked**
+  - [x] Representative pilot 3735 — PDF 216–219
+  - [x] Representative pilot 3743 — PDF 260–266
+  - [x] Representative pilot 3756 — PDF 353–355
+  - [ ] Sequential bulk translation begins with 3706–3710
 - [ ] Bilingual alignment and editorial release
 
 ## Full-volume structural audit
@@ -48,13 +52,21 @@ The separate character-level textual-fidelity audit has now also been completed 
 
 Source-checked coverage is complete through **PDF 402**, covering all **58 letters 3706–3763**, the front matter and the final non-letter pages.
 
-Final batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores the source compound `அனுபவரீதியாகத்`. PDF 401 was verified as the effectively blank printed page 400, and PDF 402 as the back cover. See [TEXTUAL_FIDELITY_AUDIT_3751_3763.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md).
+Final fidelity batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores the source compound `அனுபவரீதியாகத்`. PDF 401 was verified as the effectively blank printed page 400, and PDF 402 as the back cover. See [TEXTUAL_FIDELITY_AUDIT_3751_3763.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md).
+
+## English translation
+
+The required three-letter representative pilot has now been translated and source-checked using the Volume 49 style lock:
+
+- **3735 — இதற்கோர் அறிக்கை படிக்கலாமே?** — ordinary policy/political pilot
+- **3743 — கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?** — rhetorical/cultural pilot
+- **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!** — quotation-heavy pilot
+
+The pilot files reproduce the complete audited Tamil beneath the English translation and use the standard translator’s note. See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-The full Tamil transcription, structural audit and second visual/textual-fidelity verification are complete. There are **no remaining Tamil fidelity pages**.
-
-English translation is **not started**. The Tamil fidelity gate has been satisfied, so translation may now begin as a separate authorised stage.
+Proceed with the first sequential bulk translation batch: **letters 3706–3710**. Their Tamil source pages have already passed the scan-based textual-fidelity gate.
 
 ## Transcription status
 
