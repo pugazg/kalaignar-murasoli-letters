@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3714 — போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே!](3714-lying-that-the-war-had-stopped-is-a-war-crime.md)
 - அடுத்த கடிதம்: [3716 — இங்குள்ள தமிழர் ஒன்றாதல் காண்போம்!](3716-let-us-see-tamils-here-unite.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Is It Fair to Try to Wreck the Sethu Project?](../translations/en/letters/3715-is-it-fair-to-destroy-the-sethu-project.md) — source-checked; bilingual alignment pending
