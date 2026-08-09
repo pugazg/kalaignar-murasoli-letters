@@ -6,7 +6,7 @@ The Tamil source layer is fully ready for translation: the full-volume structura
 
 ## Translation progress
 
-The required three-letter representative pilot is translated and source-checked, and the first sequential five-letter batch is now complete.
+The required three-letter representative pilot is translated and source-checked, and the first two sequential five-letter batches are now complete.
 
 ### Sequential batch 1 — source-checked
 
@@ -16,6 +16,14 @@ The required three-letter representative pilot is translated and source-checked,
 - [3709 — When Will They Understand?](letters/3709-when-will-they-understand.md) — PDF 44–50
 - [3710 — Should a Project That Would Enrich Tamil Nadu Be Blocked?](letters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) — PDF 51–56
 
+### Sequential batch 2 — source-checked
+
+- [3711 — March 5—the Day We Turn Our Tears into a Shield](letters/3711-march-5-the-day-tears-become-a-shield.md) — PDF 57–62
+- [3712 — A Felicitation Ceremony for This Too?](letters/3712-does-this-also-deserve-a-celebration.md) — PDF 63–69
+- [3713 — Are You Ready for the Siege Protest?](letters/3713-are-you-ready-for-the-siege.md) — PDF 70–74
+- [3714 — The Lie That the War Had Stopped Was Itself a War Crime!](letters/3714-lying-that-the-war-had-stopped-is-a-war-crime.md) — PDF 75–85
+- [3715 — Is It Fair to Try to Wreck the Sethu Project?](letters/3715-is-it-fair-to-destroy-the-sethu-project.md) — PDF 86–91
+
 ### Representative pilot — source-checked
 
 - [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219
@@ -24,13 +32,13 @@ The required three-letter representative pilot is translated and source-checked,
 
 Each file uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
-**Counts:** **8 / 58** letters translated and source-checked; **50** remain. Bilingual alignment is still pending.
+**Counts:** **13 / 58** letters translated and source-checked; **45** remain. Bilingual alignment is still pending.
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Style lock
 
-The representative pilot and first sequential batch confirm these conventions for Volume 48:
+The representative pilot and sequential batches confirm these conventions for Volume 48:
 
 - retain **Udanpirappē** and **With affection, M.K.**;
 - retain `lakh`, `crore` and **Rule 110**;
@@ -56,4 +64,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** have passed the sourc
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3711–3715**. Their Tamil pages are already scan-verified. When the sequence later reaches pilot letters 3735, 3743 and 3756, review and align the existing files rather than creating duplicates.
+Proceed sequentially with **letters 3716–3720 — PDF 92–128 / printed 91–127**. Their Tamil pages are already scan-verified. When the sequence later reaches pilot letters 3735, 3743 and 3756, review and align the existing files rather than creating duplicates.
