@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3728 — அருந்ததியருக்கு கழக ஆட்சி ஆற்றிய கடமை!](3728-duty-performed-by-dmk-rule-for-arunthathiyars.md)
 - அடுத்த கடிதம்: [3730 — துரோகம் தொடர்கதையானது யாராலே?](3730-by-whom-did-betrayal-become-a-serial-story.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3729 — That Day Came Back to Mind, Madam!](../translations/en/letters/3729-that-day-came-to-mind-madam.md) — source-checked; bilingual alignment pending
