@@ -31,7 +31,8 @@
   - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160; 33/33 pages source-checked; 1 correction on PDF 161
   - [x] Letters 3726–3730 — PDF 162–192 / printed 161–191; 31/31 pages source-checked; 7 corrections on 6 canonical pages
   - [x] Letters 3731–3735 — PDF 193–219 / printed 192–218; 27/27 pages source-checked; 5 corrections on 5 canonical pages
-  - [ ] PDF 220–402
+  - [x] Letters 3736–3740 — PDF 220–248 / printed 219–247; 29/29 pages source-checked; 2 corrections on PDF 236 and 241
+  - [ ] PDF 249–402
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -43,15 +44,15 @@ This structural pass does not replace the separate character-level textual-fidel
 
 ## Textual-fidelity coverage
 
-Source-checked coverage now reaches **PDF 219 / printed page 218**, covering the front matter and letters **3706–3735**.
+Source-checked coverage now reaches **PDF 248 / printed page 247**, covering the front matter and letters **3706–3740**.
 
-Latest batch: **3731–3735 / PDF 193–219**, 27/27 pages directly compared with the source scan. Five scan-proven punctuation/quotation corrections were applied on PDF **208, 209, 210, 211 and 212**. See [TEXTUAL_FIDELITY_AUDIT_3731_3735.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3731_3735.md).
+Latest batch: **3736–3740 / PDF 220–248**, 29/29 pages directly compared with the source scan. Two scan-proven canonical corrections were applied on PDF **236** and **241**: source spacing/form `தண்டிக்கப் பட்டு` was restored, and `கண்ணார் அஞ்சலி!` was corrected to the scan-visible `கண்ணீர் அஞ்சலி!`. See [TEXTUAL_FIDELITY_AUDIT_3736_3740.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3736_3740.md).
 
 ## Next fidelity-audit task
 
-Audit **letters 3736–3740**, PDF **220–248** / printed **219–247** (29 pages). PDF **249 / printed 248** is the verified start of letter **3741 — வலுவான காரணங்கள் குவிகின்றன!** and is outside that batch.
+Audit **letters 3741–3745**, PDF **249–279** / printed **248–278** (31 pages). PDF **280 / printed 279** is the verified start of letter **3746 — காழ்ப்புணர்வின் உச்சகட்டம்!** and is outside that batch.
 
-Every canonical page in PDF 220–248 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
+Every canonical page in PDF 249–279 must be visually compared with the scan; correct only defects proved by the source and record them in a new batch report.
 
 ## Transcription status
 
