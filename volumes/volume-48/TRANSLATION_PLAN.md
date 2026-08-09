@@ -63,15 +63,16 @@ A letter must not be marked `verified` until a documented bilingual alignment re
 
 ## Bulk translation sequence
 
-After the representative pilot, continue sequentially in batches of approximately five letters, using smaller batches where a letter is unusually long or quotation-heavy.
+After the representative pilot, continue sequentially in batches of approximately five letters, using smaller batches where a letter is unusually long or quotation-heavy. User-authorised larger batches may be used when explicitly requested, while preserving the same per-letter source-check requirements.
 
 - **Batch 1: 3706–3710 — complete; five letters translated and source-checked.**
 - **Batch 2: 3711–3715 — complete; five letters translated and source-checked.**
-- **Next batch: 3716–3720 — PDF 92–128 / printed 91–127.** Their Tamil pages have already passed the mandatory scan-based textual-fidelity audit.
+- **User-authorised large batch 3: 3716–3730 — complete; fifteen letters translated and source-checked, PDF 92–192 / printed 91–191.**
+- **Next sequential batch: 3731–3735 — PDF 193–219 / printed 192–218.** Letter 3735 is already an approved pilot translation and must be reviewed/reused in sequence rather than duplicated.
 
-When a later sequential batch reaches one of the three pilot letters, reuse and review the existing translation rather than creating a duplicate file.
+When later sequential coverage reaches pilot letters 3743 and 3756, reuse and review the existing translation rather than creating a duplicate file.
 
-Current totals: **13 / 58 translated and source-checked**, including the three representative pilot letters; **45 remain untranslated**.
+Current totals: **28 / 58 translated and source-checked**; **30 remain untranslated**. The translated set is sequential **3706–3730** plus pilot letters **3735, 3743 and 3756**.
 
 ## Remaining stages
 
