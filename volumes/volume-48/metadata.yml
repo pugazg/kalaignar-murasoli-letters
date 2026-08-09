@@ -32,7 +32,13 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3741_3745.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3746_3750.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md"
-translation_status: "not-started"
+translation_status: "in-progress"
+translated_letter_count: 3
+source_checked_translation_count: 3
+translated_letter_numbers:
+  - 3735
+  - 3743
+  - 3756
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
