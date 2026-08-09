@@ -15,7 +15,7 @@
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
-- English translation **தொடங்கியுள்ளது**: representative pilot letters **3735, 3743, 3756 — 3/58** translated and source-checked; bilingual alignment pending.
+- English translation **in progress**: **8/58** letters translated and source-checked — sequential letters **3706–3710** plus pilot letters **3735, 3743, 3756**. Bilingual alignment pending.
 
 ## Transcription iterations
 
@@ -44,26 +44,31 @@
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
-| English translation | 3735, 3743, 3756 | **3/58 source-checked; in progress** |
+| English translation | 3706–3710, 3735, 3743, 3756 | **8/58 source-checked; in progress** |
 | Bilingual alignment / editorial release | — | not started |
 
 The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found.
 
 Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference, the scan-proven letter-3743 `கழுதையே` reading, and malformed source English such as `By injectinga` on PDF 397.
 
-## English translation pilot
+## English translation
 
-Following the master guide, the first Volume 48 English work uses three representative letters before sequential bulk translation:
+The representative pilot is complete and the style lock is active. The first sequential bulk batch is also complete and source-checked:
 
+- [3706 — Should India Join the U.N.’s List—or Not?](translations/en/letters/3706-un-list.md)
+- [3707 — Do All These Look Like Praise?](translations/en/letters/3707-do-these-look-like-praise.md)
+- [3708 — Does Everything the Winner Says Become “Scripture”?](translations/en/letters/3708-do-winners-words-become-scripture.md)
+- [3709 — When Will They Understand?](translations/en/letters/3709-when-will-they-understand.md)
+- [3710 — Should a Project That Would Enrich Tamil Nadu Be Blocked?](translations/en/letters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md)
 - [3735 — Couldn’t a Statement Be Read for This Too?](translations/en/letters/3735-can-an-announcement-be-read-for-this.md)
 - [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](translations/en/letters/3743-dream-or-reality-donkey-keep-quiet.md)
 - [3756 — Will Amma’s Plans Stop at Announcements!](translations/en/letters/3756-will-ammas-plans-stop-with-announcements.md)
 
-All three are `source-checked`, use the approved translator’s note, and reproduce the complete audited Tamil beneath the English translation. See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
+All eight are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-Sequential English bulk translation: **letters 3706–3710**. Their canonical Tamil pages have already passed the mandatory visual/textual-fidelity audit.
+Sequential English translation batch **3711–3715**. Their canonical Tamil pages have already passed the mandatory visual/textual-fidelity audit.
 
 ## முக்கிய இணைப்புகள்
 
