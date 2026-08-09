@@ -32,4 +32,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3712 — இதற்கும் சேர்த்தா பாராட்டு விழா?](3712-does-this-also-deserve-a-celebration.md)
 - அடுத்த கடிதம்: [3714 — போர் நின்றுவிட்டதாகப் பொய் சொன்னது போர்க்குற்றமே!](3714-lying-that-the-war-had-stopped-is-a-war-crime.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Are You Ready for the Siege Protest?](../translations/en/letters/3713-are-you-ready-for-the-siege.md) — source-checked; bilingual alignment pending
