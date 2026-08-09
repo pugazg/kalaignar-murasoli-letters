@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3719 — இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா?](3719-does-everyone-accept-this.md)
 - அடுத்த கடிதம்: [3721 — உலகத் தமிழர்கள் ஒருபோதும் ஒப்பமாட்டார்கள்!](3721-world-tamils-will-never-agree.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3720 — Because TESO Asks, Does That Mean It Has No Strength?](../translations/en/letters/3720-is-there-no-strength-because-teso-asks.md) — source-checked; bilingual alignment pending
