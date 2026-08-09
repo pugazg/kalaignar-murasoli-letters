@@ -66,11 +66,12 @@ A letter must not be marked `verified` until a documented bilingual alignment re
 After the representative pilot, continue sequentially in batches of approximately five letters, using smaller batches where a letter is unusually long or quotation-heavy.
 
 - **Batch 1: 3706–3710 — complete; five letters translated and source-checked.**
-- **Next batch: 3711–3715.** Their Tamil pages have already passed the mandatory scan-based textual-fidelity audit.
+- **Batch 2: 3711–3715 — complete; five letters translated and source-checked.**
+- **Next batch: 3716–3720 — PDF 92–128 / printed 91–127.** Their Tamil pages have already passed the mandatory scan-based textual-fidelity audit.
 
 When a later sequential batch reaches one of the three pilot letters, reuse and review the existing translation rather than creating a duplicate file.
 
-Current totals: **8 / 58 translated and source-checked**, including the three representative pilot letters; **50 remain untranslated**.
+Current totals: **13 / 58 translated and source-checked**, including the three representative pilot letters; **45 remain untranslated**.
 
 ## Remaining stages
 
