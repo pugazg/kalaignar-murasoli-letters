@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3717 — மதுரவாயல் திட்டமும் அரோகரா! ஏன்? ஏன்?](3717-maduravoyal-project-arokara-why-why.md)
 - அடுத்த கடிதம்: [3719 — இதை எல்லோரும் ஏற்றுக் கொள்கிறார்களா?](3719-does-everyone-accept-this.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3718 — Udanpirappē! I Call You—Come!](../translations/en/letters/3718-sibling-i-call-you-come.md) — source-checked; bilingual alignment pending
