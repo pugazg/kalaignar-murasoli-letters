@@ -13,7 +13,9 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | லட்சம் | **lakh** | approved | Indian numbering unit: 100,000. |
 | கோடி | **crore** | approved | Indian numbering unit: 10,000,000. |
 | 110வது விதி | **Rule 110** | approved | Tamil Nadu Legislative Assembly procedure repeatedly invoked in these letters. |
-| பேராசிரியர் | **Perasiriyar** when used as the established personal honorific | approved | Retained in letter 3743 rather than reduced to a generic descriptive “Professor”. |
+| பேராசிரியர் | **Perasiriyar** when used as the established personal honorific | approved | Retained rather than reduced to a generic descriptive “Professor” when it functions as the recognised movement honorific. |
+| தமிழர் தலைவர் | **Tamilar Thalaivar** | approved | Established honorific retained for K. Veeramani where used as a title. |
+| பெருந்தலைவர் | **Perunthalaivar** | approved | Established honorific retained for Kamarajar. |
 | அம்மா | **Amma** when the source uses it as the political-honorific label | context-dependent | Retained where the wording or irony depends on the source form, including the title of letter 3756. |
 | மீன்பிடித் தடைக் காலம் | **fishing-ban season** | approved | Seasonal prohibition on marine fishing described in letter 3735. |
 | தமிழ்நாடு மீனவர் நல வாரியம் | **Tamil Nadu Fishermen Welfare Board** | approved | Institutional rendering used in letter 3735. |
@@ -31,10 +33,16 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | டி.எம்.சி. / TMC | **TMC** | approved | Indian water-volume abbreviation retained as in the source. |
 | விடுதலைப் புலிகள் / தமிழ் ஈழ விடுதலைப் புலிகள் | **Liberation Tigers of Tamil Eelam (LTTE)** / **Liberation Tigers** | approved | Full English name where context first requires it; acronym or shortened form thereafter. |
 | தமிழ் ஈழம் / ஈழத் தமிழர்கள் | **Tamil Eelam / Eelam Tamils** | approved | Source political-geographical terminology retained rather than replaced with a broader label. |
+| டெசோ / TESO | **Tamil Eelam Supporters Organisation (TESO)** | approved | Full form on first explanatory need; acronym retained in the body. |
+| அறப்போராட்டம் | **peaceful moral protest / principled non-violent struggle** | context-dependent | Dravidian-movement political term; translated by function rather than as literal “war”. |
+| முற்றுகைப் போராட்டம் / முற்றுகைப் போர் | **siege protest** | approved | Used for the TESO political mobilisation in letters 3711 and 3713; avoids falsely implying armed combat. |
+| தொப்புள் கொடி உறவு | **umbilical-cord bond** | approved | Source image for intimate ethnic/kinship connection with Eelam Tamils. |
+| மாநிலங்களவை | **Rajya Sabha / Council of States** | approved | `Rajya Sabha` in ordinary reference; institutional English supplied where useful. |
 | ஜால்ரா | **jalra** | context-dependent | Literally accompanying cymbals; in political rhetoric, sycophantic accompaniment or applause. |
 | சேது சமுத்திரத் திட்டம் | **Sethu Samudram project** / **Sethu Samudram Canal Project** | approved | Project name retained; longer form used when the canal itself is being described. |
 | எழுச்சி நாள் | **Ezhuchi Naal** / **Day of Uprising** | approved | Named mobilisation day in the historical Sethu Samudram discussion. |
 | ஆடம்ஸ் பாலம் / ராமர் பாலம் | **Adam's Bridge / Ram Setu** | source-dependent | Both names are preserved according to the speaker or political context in the source; they are not harmonised. |
+| நீரி / NEERI | **NEERI** | approved | National Environmental Engineering Research Institute; acronym retained in the Sethu project discussion. |
 | பாக் ஜலசந்தி / பாக்கடல் | **Palk Strait / Palk Bay** | context-dependent | Geographic rendering follows the source phrase and context. |
 | மன்னார் வளைகுடா | **Gulf of Mannar** | approved | Established geographic English name. |
 | அன்னியச் செலாவணி | **foreign exchange** | approved | Economic term used in the projected-benefits discussion of the Sethu Samudram project. |
