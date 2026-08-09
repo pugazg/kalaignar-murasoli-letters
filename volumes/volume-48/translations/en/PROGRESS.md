@@ -11,7 +11,8 @@
 - [x] Pilot glossary established and style decisions reviewed
 - [ ] Sequential bulk translation — in progress
   - [x] Letters 3706–3710 translated and source-checked — PDF 24–56 / printed 23–55
-  - [ ] Letters 3711–3715
+  - [x] Letters 3711–3715 translated and source-checked — PDF 57–91 / printed 56–90
+  - [ ] Letters 3716–3720
 - [ ] Bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
@@ -36,19 +37,31 @@ All five letters have complete English files and complete audited Tamil reproduc
 - [3709 — When Will They Understand?](letters/3709-when-will-they-understand.md) — PDF 44–50
 - [3710 — Should a Project That Would Enrich Tamil Nadu Be Blocked?](letters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) — PDF 51–56
 
-The batch preserves source attribution and rhetoric, including death-penalty argumentation, drought-relief criticism, the Cauvery chronology and exact source English quotation, Sri Lanka/LTTE political quotations, and the Sethu Samudram project history and projected-benefits list. The English files are marked **source-checked**; bilingual alignment remains pending.
+## Sequential batch 2 — 3711–3715
+
+All five letters have complete English files and complete audited Tamil reproduction beneath the translation:
+
+- [3711 — March 5—the Day We Turn Our Tears into a Shield](letters/3711-march-5-the-day-tears-become-a-shield.md) — PDF 57–62
+- [3712 — A Felicitation Ceremony for This Too?](letters/3712-does-this-also-deserve-a-celebration.md) — PDF 63–69
+- [3713 — Are You Ready for the Siege Protest?](letters/3713-are-you-ready-for-the-siege.md) — PDF 70–74
+- [3714 — The Lie That the War Had Stopped Was Itself a War Crime!](letters/3714-lying-that-the-war-had-stopped-is-a-war-crime.md) — PDF 75–85
+- [3715 — Is It Fair to Try to Wreck the Sethu Project?](letters/3715-is-it-fair-to-destroy-the-sethu-project.md) — PDF 86–91
+
+This batch preserves the source's chronology and political attribution across the TESO/Sri Lanka letters, the repeated drought-relief irony in 3712, the 2008–09 ceasefire and hunger-strike narrative in 3714, and the Sethu Samudram / Adam's Bridge / Ram Setu terminology and intentional English quotations in 3715. Source-specific numerical or bibliographic irregularities are noted rather than silently reconciled.
+
+All ten sequential translations and all three pilot translations are marked **source-checked**; bilingual alignment remains pending.
 
 ## Counts
 
 - Total letters: **58**
-- English translations created: **8 / 58**
-- Source-checked translations: **8 / 58**
+- English translations created: **13 / 58**
+- Source-checked translations: **13 / 58**
 - Bilingual-alignment verified: **0 / 58**
-- Remaining untranslated letters: **50**
+- Remaining untranslated letters: **45**
 
 ## Style lock
 
-The pilot and first sequential batch confirm the Volume 49 translation style for Volume 48:
+The pilot and sequential batches confirm the Volume 49 translation style for Volume 48:
 
 - preserve argument and paragraph order before literary elegance;
 - preserve criticism, irony, repetition and rhetorical questions;
@@ -63,4 +76,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next translation batch
 
-Proceed with **letters 3711–3715**. Their Tamil pages have already passed the mandatory scan-based textual-fidelity gate. When later sequential batches reach pilot letters 3735, 3743 and 3756, do not create duplicate translations; review the existing pilot files in sequence instead.
+Proceed with **letters 3716–3720 — PDF 92–128 / printed 91–127**. Their Tamil pages have already passed the mandatory scan-based textual-fidelity gate. When later sequential batches reach pilot letters 3735, 3743 and 3756, do not create duplicate translations; review the existing pilot files in sequence instead.
