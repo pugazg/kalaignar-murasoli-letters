@@ -35,38 +35,35 @@
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317; 39/39 pages source-checked; 5 corrections on 4 canonical pages
   - [x] User-authorised final fidelity batch: letters 3751–3763 — PDF 319–400 / printed 318–399, plus PDF 401–402; 84/84 pages source-checked; 2 corrections on PDF 321 and 399
-- [ ] English translation — **in progress: 3/58 source-checked**
-  - [x] Representative pilot 3735 — PDF 216–219
-  - [x] Representative pilot 3743 — PDF 260–266
-  - [x] Representative pilot 3756 — PDF 353–355
-  - [ ] Sequential bulk translation begins with 3706–3710
+- [ ] English translation — **in progress: 8/58 source-checked**
+  - [x] Representative pilot: 3735, 3743, 3756
+  - [x] Sequential bulk batch 1: 3706–3710 — PDF 24–56
+  - [ ] Sequential bulk batch 2: 3711–3715
 - [ ] Bilingual alignment and editorial release
 
 ## Full-volume structural audit
 
 The structural audit passed after fresh source hash/page-count verification and end-to-end reconciliation of the canonical page range, 58-letter contents register, chapter register, letter boundaries and final non-letter material. See [AUDIT.md](AUDIT.md).
 
-The separate character-level textual-fidelity audit has now also been completed for the full PDF.
+The separate character-level textual-fidelity audit has also been completed for the full PDF.
 
 ## Textual-fidelity coverage
 
-Source-checked coverage is complete through **PDF 402**, covering all **58 letters 3706–3763**, the front matter and the final non-letter pages.
+Source-checked Tamil coverage is complete through **PDF 402**, covering all **58 letters 3706–3763**, the front matter and the final non-letter pages.
 
-Final fidelity batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores the source compound `அனுபவரீதியாகத்`. PDF 401 was verified as the effectively blank printed page 400, and PDF 402 as the back cover. See [TEXTUAL_FIDELITY_AUDIT_3751_3763.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md).
+Final fidelity batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores the source compound `அனுபவரீதியாகத்`. See [TEXTUAL_FIDELITY_AUDIT_3751_3763.md](translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md).
 
 ## English translation
 
-The required three-letter representative pilot has now been translated and source-checked using the Volume 49 style lock:
+The three representative pilot letters **3735, 3743 and 3756** and the first sequential bulk batch **3706–3710** have now been translated and source-checked using the locked Volume 49 style. All eight files reproduce the complete audited Tamil beneath the English and retain source attribution, quotations, figures, rhetoric and intentional English text.
 
-- **3735 — இதற்கோர் அறிக்கை படிக்கலாமே?** — ordinary policy/political pilot
-- **3743 — கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?** — rhetorical/cultural pilot
-- **3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!** — quotation-heavy pilot
+Current counts: **8 / 58 translated and source-checked; 50 untranslated**. Bilingual alignment remains pending.
 
-The pilot files reproduce the complete audited Tamil beneath the English translation and use the standard translator’s note. See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
+See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Proceed with the first sequential bulk translation batch: **letters 3706–3710**. Their Tamil source pages have already passed the scan-based textual-fidelity gate.
+Proceed with sequential translation batch **3711–3715**. Their Tamil source pages have already passed the scan-based textual-fidelity gate.
 
 ## Transcription status
 
