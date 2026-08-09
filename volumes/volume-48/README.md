@@ -14,7 +14,7 @@
 - கடிதங்கள் **3706–3763 — 58/58** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
-- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–192** வரை source-checked; letters **3706–3730** audit gate-ஐ கடந்துள்ளன.
+- இரண்டாம் சுற்று textual-fidelity / visual verification தற்போது **PDF 1–219** வரை source-checked; letters **3706–3735** audit gate-ஐ கடந்துள்ளன.
 - English translation தொடங்கப்படவில்லை; relevant Tamil pages textual-fidelity audit-ஐத் தாண்டிய பின்னரே translation தொடங்கும்.
 
 ## Transcription iterations
@@ -42,19 +42,19 @@
 |---|---:|---|
 | Tamil transcription | PDF 1–402 | complete |
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
-| Second visual / textual-fidelity verification | PDF 1–192 | source-checked |
-| Source-checked letters | 3706–3730 | complete for this range |
-| Remaining textual-fidelity verification | PDF 193–402 | pending |
+| Second visual / textual-fidelity verification | PDF 1–219 | source-checked |
+| Source-checked letters | 3706–3735 | complete for this range |
+| Remaining textual-fidelity verification | PDF 220–402 | pending |
 | English translation | — | not started; blocked by fidelity gate |
 | Bilingual alignment / editorial release | — | not started |
 
-The latest fidelity batch, letters **3726–3730 / PDF 162–192**, passed after **7 scan-proven corrections on 6 canonical pages**: PDF **166, 172, 187, 188, 191 and 192**. The corrections preserve source-visible word spacing, punctuation and an intentionally unbalanced printed quotation rather than silently regularising them.
+The latest fidelity batch, letters **3731–3735 / PDF 193–219**, passed after **5 scan-proven punctuation/quotation corrections on 5 canonical pages**: PDF **208, 209, 210, 211 and 212**. No lexical reading, letter boundary, closing/date or large passage changed.
 
 Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference and the scan-proven correction of the earlier letter-3743 `கழகத்தே` reading to `கழுதையே`.
 
 ## Next exact task
 
-Textual-fidelity audit **letters 3731–3735**, PDF **193–219** / printed **192–218**. Every canonical page in that range must be visually compared with the scan before the range can be marked source-checked.
+Textual-fidelity audit **letters 3736–3740**, PDF **220–248** / printed **219–247**. PDF **249 / printed 248** begins letter **3741 — வலுவான காரணங்கள் குவிகின்றன!** and is the stop boundary.
 
 ## முக்கிய இணைப்புகள்
 
@@ -65,5 +65,6 @@ Textual-fidelity audit **letters 3731–3735**, PDF **193–219** / printed **19
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [Textual-fidelity audit — letters 3721–3725](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
 - [Textual-fidelity audit — letters 3726–3730](translations/en/TEXTUAL_FIDELITY_AUDIT_3726_3730.md)
+- [Textual-fidelity audit — letters 3731–3735](translations/en/TEXTUAL_FIDELITY_AUDIT_3731_3735.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)

@@ -11,7 +11,7 @@
 
 **Full-volume Tamil structural audit: PASS.**
 
-இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–192** வரை முடிந்துள்ளது; PDF **193–402** இன்னும் source-check செய்யப்பட வேண்டும்.
+இந்தத் தணிக்கை முழுத் தொகுதியின் page/letter/chapter/index கட்டமைப்பு ஒருமைப்பாட்டைச் சரிபார்க்கிறது. இது தனியான எழுத்து-எழுத்து second visual / textual-fidelity audit அல்ல. அந்த audit தற்போது PDF **1–219** வரை முடிந்துள்ளது; PDF **220–402** இன்னும் source-check செய்யப்பட வேண்டும்.
 
 ## Fresh source verification
 
@@ -69,14 +69,14 @@
 
 ## Verification still pending
 
-The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–192**, covering the front matter and letters **3706–3730**.
+The **second visual / textual-fidelity audit** remains separate. Current source-checked coverage is PDF **1–219**, covering the front matter and letters **3706–3735**.
 
-The latest batch, letters **3726–3730 / PDF 162–192**, directly compared **31/31 pages** and passed after **7 scan-proven corrections on 6 canonical pages**: PDF **166, 172, 187, 188, 191 and 192**. These corrections address source-visible word spacing, sentence punctuation, a semicolon/colon discrepancy, a joined word, a year suffix, and an unbalanced quotation that had previously been silently closed.
+The latest batch, letters **3731–3735 / PDF 193–219**, directly compared **27/27 pages** and passed after **5 scan-proven punctuation/quotation corrections on 5 canonical pages**: PDF **208, 209, 210, 211 and 212**. The fixes remove one duplicated period, remove three spaces wrongly inserted before a closing quotation mark, and remove one duplicated closing quotation mark. No lexical reading or passage boundary changed.
 
-The next audit batch begins with **3731 — “தலித்” மக்கள் தெரிந்து கொள்வதற்காக!**, PDF **193** / printed page **192**, and runs through letter **3735 / PDF 219**.
+The next audit batch begins with **3736 — மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது!**, PDF **220** / printed page **219**, and runs through letter **3740 / PDF 248**. PDF **249 / printed 248** is the verified start of letter **3741 — வலுவான காரணங்கள் குவிகின்றன!**.
 
 English translation remains blocked until the relevant canonical Tamil pages pass that scan-based textual-fidelity gate.
 
 ## Final transcription iteration record
 
-The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 192.
+The final user-authorised remainder exception completed letters 3762–3763 at PDF 387–400 and preserved PDF 401–402 back matter. That iteration was visually compared page by page before integration. This full-volume audit supersedes the earlier `AUDIT.md` status only at the **structural** level; it does not claim character-level source verification beyond PDF 219.
