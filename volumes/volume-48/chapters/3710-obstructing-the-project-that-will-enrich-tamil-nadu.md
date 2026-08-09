@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3709 — புரிந்துகொள்வதுதான் எப்போது?](3709-when-will-they-understand.md)
 - அடுத்த கடிதம்: [3711 — கண்ணீரைக் கவசமாக்கும் நாள் - மார்ச் 5.](3711-march-5-the-day-tears-become-a-shield.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3710 — Should a Project That Would Enrich Tamil Nadu Be Blocked?](../translations/en/letters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) — source-checked; bilingual alignment pending
