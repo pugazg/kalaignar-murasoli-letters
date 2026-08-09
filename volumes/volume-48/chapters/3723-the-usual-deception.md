@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3722 — சட்டப்பேரவையில் அன்றும், இன்றும்!](3722-in-the-legislative-assembly-then-and-now.md)
 - அடுத்த கடிதம்: [3724 — “இந்து” ஏடே சுட்டிக்காட்டும் இரட்டை வேடம்!](3724-the-hindu-itself-points-out-the-double-role.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3723 — The Deception Has Become Routine!](../translations/en/letters/3723-the-usual-deception.md) — source-checked; bilingual alignment pending
