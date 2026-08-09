@@ -38,4 +38,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3713 — முற்றுகைப் போருக்குத் தயாராகி விட்டாயா?](3713-are-you-ready-for-the-siege.md)
 - அடுத்த கடிதம்: [3715 — சேதுத் திட்டத்தைச் சீரழிக்க நினைப்பது நியாயமா?](3715-is-it-fair-to-destroy-the-sethu-project.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [The Lie That the War Had Stopped Was Itself a War Crime!](../translations/en/letters/3714-lying-that-the-war-had-stopped-is-a-war-crime.md) — source-checked; bilingual alignment pending
