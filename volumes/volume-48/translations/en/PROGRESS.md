@@ -9,7 +9,9 @@
 - [x] Pilot letter 3743 translated and source-checked — rhetorically/culturally difficult letter
 - [x] Pilot letter 3756 translated and source-checked — quotation-heavy policy letter
 - [x] Pilot glossary established and style decisions reviewed
-- [ ] Sequential bulk translation
+- [ ] Sequential bulk translation — in progress
+  - [x] Letters 3706–3710 translated and source-checked — PDF 24–56 / printed 23–55
+  - [ ] Letters 3711–3715
 - [ ] Bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
@@ -24,30 +26,41 @@ The Volume 48 pilot deliberately uses three non-consecutive representative lette
 | 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked | pending |
 | 3756 | PDF 353–355 | long quoted announcement/newspaper material and figures | source-checked | pending |
 
-All three use the mandatory translator's note, preserve `Udanpirappē`, retain `lakh` and `crore`, include complete source links and reproduce the full audited Tamil beneath the English translation.
+## Sequential batch 1 — 3706–3710
+
+All five letters have complete English files and complete audited Tamil reproduction beneath the translation:
+
+- [3706 — Should India Join the U.N.’s List—or Not?](letters/3706-un-list.md) — PDF 24–29
+- [3707 — Do All These Look Like Praise?](letters/3707-do-these-look-like-praise.md) — PDF 30–35
+- [3708 — Does Everything the Winner Says Become “Scripture”?](letters/3708-do-winners-words-become-scripture.md) — PDF 36–43
+- [3709 — When Will They Understand?](letters/3709-when-will-they-understand.md) — PDF 44–50
+- [3710 — Should a Project That Would Enrich Tamil Nadu Be Blocked?](letters/3710-obstructing-the-project-that-will-enrich-tamil-nadu.md) — PDF 51–56
+
+The batch preserves source attribution and rhetoric, including death-penalty argumentation, drought-relief criticism, the Cauvery chronology and exact source English quotation, Sri Lanka/LTTE political quotations, and the Sethu Samudram project history and projected-benefits list. The English files are marked **source-checked**; bilingual alignment remains pending.
 
 ## Counts
 
 - Total letters: **58**
-- English translations created: **3 / 58**
-- Source-checked translations: **3 / 58**
+- English translations created: **8 / 58**
+- Source-checked translations: **8 / 58**
 - Bilingual-alignment verified: **0 / 58**
-- Remaining untranslated letters: **55**
+- Remaining untranslated letters: **50**
 
-## Style lock after pilot
+## Style lock
 
-The pilot confirms the Volume 49 translation style for Volume 48:
+The pilot and first sequential batch confirm the Volume 49 translation style for Volume 48:
 
 - preserve argument and paragraph order before literary elegance;
 - preserve criticism, irony, repetition and rhetorical questions;
 - keep allegations attributed to their source speaker/report;
 - retain `Udanpirappē` and **With affection, M.K.**;
 - retain `lakh`, `crore` and **Rule 110**;
+- retain intentional source English exactly where it is already printed in English;
 - use minimal notes for source anomalies, culturally difficult idiom and institutional terms;
 - never use English to correct or normalise the audited Tamil.
 
-See [GLOSSARY.md](GLOSSARY.md) and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Next translation batch
 
-Begin sequential bulk translation with **letters 3706–3710**. Their Tamil pages have already passed the mandatory scan-based textual-fidelity gate. When later sequential batches reach pilot letters 3735, 3743 and 3756, do not create duplicate translations; review the existing pilot files in sequence instead.
+Proceed with **letters 3711–3715**. Their Tamil pages have already passed the mandatory scan-based textual-fidelity gate. When later sequential batches reach pilot letters 3735, 3743 and 3756, do not create duplicate translations; review the existing pilot files in sequence instead.
