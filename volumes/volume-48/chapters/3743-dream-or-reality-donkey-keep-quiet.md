@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!](3742-unending-cruelties-against-eelam-tamils.md)
 - அடுத்த கடிதம்: [3744 — பெண் ஆளும் மாநிலத்தில் மண் ஆகும் சட்டம் ஒழுங்கு!](3744-law-and-order-turns-to-dust-in-woman-ruled-state.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](../translations/en/letters/3743-dream-or-reality-donkey-keep-quiet.md) — source-checked; bilingual alignment pending
