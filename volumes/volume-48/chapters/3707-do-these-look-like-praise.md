@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3706 — ஐ.நா.வின் பட்டியலில் இணைவதா? வேண்டாமா?](3706-un-list.md)
 - அடுத்த கடிதம்: [3708 — வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?”](3708-do-winners-words-become-scripture.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [3707 — Do All These Look Like Praise?](../translations/en/letters/3707-do-these-look-like-praise.md) — source-checked; bilingual alignment pending
