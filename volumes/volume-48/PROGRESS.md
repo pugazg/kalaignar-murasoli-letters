@@ -35,10 +35,11 @@
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317; 39/39 pages source-checked; 5 corrections on 4 canonical pages
   - [x] User-authorised final fidelity batch: letters 3751–3763 — PDF 319–400 / printed 318–399, plus PDF 401–402; 84/84 pages source-checked; 2 corrections on PDF 321 and 399
-- [ ] English translation — **in progress: 8/58 source-checked**
+- [ ] English translation — **in progress: 13/58 source-checked**
   - [x] Representative pilot: 3735, 3743, 3756
   - [x] Sequential bulk batch 1: 3706–3710 — PDF 24–56
-  - [ ] Sequential bulk batch 2: 3711–3715
+  - [x] Sequential bulk batch 2: 3711–3715 — PDF 57–91
+  - [ ] Sequential bulk batch 3: 3716–3720 — PDF 92–128
 - [ ] Bilingual alignment and editorial release
 
 ## Full-volume structural audit
@@ -55,15 +56,17 @@ Final fidelity batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, w
 
 ## English translation
 
-The three representative pilot letters **3735, 3743 and 3756** and the first sequential bulk batch **3706–3710** have now been translated and source-checked using the locked Volume 49 style. All eight files reproduce the complete audited Tamil beneath the English and retain source attribution, quotations, figures, rhetoric and intentional English text.
+The three representative pilot letters **3735, 3743 and 3756** and sequential batches **3706–3710** and **3711–3715** have now been translated and source-checked using the locked Volume 49 style. All thirteen files reproduce the complete audited Tamil beneath the English and retain source attribution, quotations, figures, rhetoric and intentional English text.
 
-Current counts: **8 / 58 translated and source-checked; 50 untranslated**. Bilingual alignment remains pending.
+The second sequential batch covers Sri Lanka/TESO mobilisation, Cauvery drought-relief criticism, the 2008–09 ceasefire and hunger-strike chronology, and the Sethu Samudram / Adam's Bridge / Ram Setu argument. Source irregularities are documented rather than silently reconciled.
+
+Current counts: **13 / 58 translated and source-checked; 45 untranslated**. Bilingual alignment remains pending.
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Proceed with sequential translation batch **3711–3715**. Their Tamil source pages have already passed the scan-based textual-fidelity gate.
+Proceed with sequential translation batch **3716–3720 — PDF 92–128 / printed 91–127**. Their Tamil source pages have already passed the scan-based textual-fidelity gate.
 
 ## Transcription status
 
