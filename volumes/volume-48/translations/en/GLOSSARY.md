@@ -23,8 +23,12 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | குடுகுடுப்பைக்காரன் | **kudukuduppai fortune-teller** | source-specific | Itinerant fortune-teller described in letter 3734; the Tamil cultural identifier is retained. |
 | தோஷம் | **dosham** | source-specific | Retained as the source's term for an alleged harmful affliction/defect in the superstitious account of letter 3734. |
 | மீன்பிடித் தடைக் காலம் | **fishing-ban season** | approved | Seasonal prohibition on marine fishing described in letter 3735. |
-| தமிழ்நாடு மீனவர் நல வாரியம் | **Tamil Nadu Fishermen Welfare Board** | approved | Institutional rendering used in letter 3735. |
+| தமிழ்நாடு மீனவர் நல வாரியம் | **Tamil Nadu Fishermen Welfare Board** | approved | Institutional rendering used in letters 3735 and 3745. |
 | மா.சிங்காரவேலர் நினைவு வீட்டு வசதி திட்டம் | **M. Singaravelar Memorial Housing Scheme** | approved | Scheme name in letter 3735; source initial is retained. |
+| தொ.மு.ச. பேரவை | **Labour Progressive Federation** | approved | Trade-union federation in letters 3739 and 3745; abbreviation is expanded consistently in English prose. |
+| அமைப்புசாரா / அமைப்பு சாராத் தொழிலாளர்கள் | **unorganised workers** | approved | Indian labour-policy usage adopted for letter 3745; source spelling/spacing remains untouched in the Tamil layer. |
+| காமன்வெல்த் அமைச்சர்கள் சார்ந்த நடவடிக்கைக்குழு | **Commonwealth Ministerial Action Group** | approved | Institutional rendering used in letters 3741–3742. |
+| ஏட்டுச் சுரைக்காய் | **something existing only on paper** / retain Tamil with sense gloss | source-specific | Rhetorical idiom in 3744 for an announcement with no practical effect. |
 | “உங்கள் சொந்த இல்லம்” திட்டம் | **“Your Own Home” scheme** | approved | Police and Fire & Rescue housing scheme quoted in letter 3743. |
 | புனல் மின் திட்டம் | **hydroelectric project / hydel project** | context-dependent | `hydroelectric project` in prose; `hydel project` may be retained in translated newspaper-style headlines. |
 | மின் தொடரமைப்பு / மின் தொடர் பாதை | **transmission system / transmission line** | approved | Power-grid terminology in letter 3743. |
@@ -60,4 +64,4 @@ This glossary inherits the approved Volume 49 translation conventions and record
 
 ## Translation-stage note
 
-The representative pilot confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. Sequential source-checked coverage now runs through **3735**. Exact English already printed in the source remains untouched inside quotations, even when spelling or punctuation differs from the glossary form.
+The representative pilot confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. Sequential source-checked coverage now runs through **3745**; pilot 3743 has been reviewed/reused in sequence and pilot 3756 remains ahead. Exact English already printed in the source remains untouched inside quotations, even when spelling or punctuation differs from the glossary form.
