@@ -15,7 +15,7 @@
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
-- English translation **in progress**: **32/58** letters translated and source-checked — sequential letters **3706–3735** plus pilot letters **3743, 3756**. Bilingual alignment pending.
+- English translation **in progress**: **41/58** letters translated and source-checked — sequential letters **3706–3745** plus pilot letter **3756**. Bilingual alignment pending.
 
 ## Transcription iterations
 
@@ -44,7 +44,7 @@
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
-| English translation | 3706–3735, 3743, 3756 | **32/58 source-checked; in progress** |
+| English translation | 3706–3745, 3756 | **41/58 source-checked; in progress** |
 | Bilingual alignment / editorial release | — | not started |
 
 The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found.
@@ -53,27 +53,27 @@ Known preserved source distinctions include the letter-3749 contents/start-page 
 
 ## English translation
 
-The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3735**:
+The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3745**:
 
 - batch 1: **3706–3710 / PDF 24–56**
 - batch 2: **3711–3715 / PDF 57–91**
 - user-authorised large batch 3: **3716–3730 / PDF 92–192**
 - batch 4: **3731–3735 / PDF 193–219** — existing pilot 3735 reviewed/reused in sequence
+- user-authorised 10-letter batch 5: **3736–3745 / PDF 220–279** — existing pilot 3743 reviewed/reused in sequence
 
-The remaining representative pilot translations outside sequential coverage are:
+The remaining representative pilot translation outside sequential coverage is:
 
-- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](translations/en/letters/3743-dream-or-reality-donkey-keep-quiet.md)
 - [3756 — Will Amma’s Plans Stop at Announcements!](translations/en/letters/3756-will-ammas-plans-stop-with-announcements.md)
 
-All **32** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
+All **41** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
 
-Source-specific anomalies continue to be preserved rather than silently corrected. The 3731–3735 batch retains the printed *Hindu* headline and community terminology, both Narippaiyur cost figures, the `விதி` rule/fate wordplay, attributed newspaper criticism and Assembly procedural references, folk-superstition terminology, and the fisheries statistical inconsistency already documented in the 3735 pilot.
+Source-specific anomalies continue to be preserved rather than silently corrected. The 3736–3745 batch retains long source English and its Tamil restatements, scan-visible punctuation and spacing, attributed legal and human-rights claims, the restored `கண்ணீர் அஞ்சலி!` closing, Minjur tender/bribery allegations as allegations, the approved `கழுதையே` reading, the verified PDF 270 assault wording, repaired page boundaries, and all welfare-board figures exactly as audited.
 
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-Sequential English translation batch **3736–3740 — PDF 220–248 / printed 219–247**. All five source letters have already passed the scan-based textual-fidelity gate.
+Sequential English translation batch **3746–3750 — PDF 280–318 / printed 279–317**. All five source letters have already passed the scan-based textual-fidelity gate.
 
 ## முக்கிய இணைப்புகள்
 
