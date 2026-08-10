@@ -68,11 +68,12 @@ After the representative pilot, continue sequentially in batches of approximatel
 - **Batch 1: 3706–3710 — complete; five letters translated and source-checked.**
 - **Batch 2: 3711–3715 — complete; five letters translated and source-checked.**
 - **User-authorised large batch 3: 3716–3730 — complete; fifteen letters translated and source-checked, PDF 92–192 / printed 91–191.**
-- **Next sequential batch: 3731–3735 — PDF 193–219 / printed 192–218.** Letter 3735 is already an approved pilot translation and must be reviewed/reused in sequence rather than duplicated.
+- **Batch 4: 3731–3735 — complete; five letters source-checked, PDF 193–219 / printed 192–218.** The existing 3735 pilot was reviewed/reused in sequence rather than duplicated.
+- **Next sequential batch: 3736–3740 — PDF 220–248 / printed 219–247.**
 
 When later sequential coverage reaches pilot letters 3743 and 3756, reuse and review the existing translation rather than creating a duplicate file.
 
-Current totals: **28 / 58 translated and source-checked**; **30 remain untranslated**. The translated set is sequential **3706–3730** plus pilot letters **3735, 3743 and 3756**.
+Current totals: **32 / 58 translated and source-checked**; **26 remain untranslated**. The translated set is sequential **3706–3735** plus pilot letters **3743 and 3756**.
 
 ## Remaining stages
 
