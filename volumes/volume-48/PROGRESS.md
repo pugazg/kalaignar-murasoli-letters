@@ -23,9 +23,10 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **in progress: 5/58 verified**
+- [ ] Bilingual alignment review — **in progress: 10/58 verified**
   - [x] 3706–3710 — PDF 24–56 / printed 23–55
-  - [ ] Next: 3711–3715 — PDF 57–91 / printed 56–90
+  - [x] 3711–3715 — PDF 57–91 / printed 56–90
+  - [ ] Next: 3716–3720 — PDF 92–128 / printed 91–127
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -53,26 +54,19 @@ The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather th
 
 ## Bilingual alignment review
 
-The documented bilingual alignment stage has started using the completed Volume 49 workflow as the precedent. English is compared directly with the complete audited Tamil; canonical Tamil is not altered during this stage.
+The documented bilingual alignment stage uses the completed Volume 49 workflow as the precedent. English is compared directly with the complete audited Tamil; canonical Tamil is not altered during this stage.
 
-Letters **3706–3710 / PDF 24–56** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md).
+Letters **3706–3710 / PDF 24–56** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md). Four targeted English corrections were made across 3706–3708; 3709–3710 required no substantive correction; canonical Tamil changes: **0**.
 
-Four targeted English corrections were made:
+Letters **3711–3715 / PDF 57–91** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md). Two targeted English corrections were made: 3713 restores Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State**, and 3715 removes the unsupported qualifier `historical` so `ஒரு காவியமல்ல` is rendered **not an epic**. Letters 3711, 3712 and 3714 required no substantive English correction. Canonical Tamil changes: **0**.
 
-- **3706:** two places were corrected so an accusation/charge is not strengthened into guilt/conviction.
-- **3707:** the unsupported English word `costs` was removed from P. Shanmugam's quoted statement; the audited Tamil says only that production increased several-fold.
-- **3708:** *Dinamani*'s source-visible wording about the Supreme Court deadline was restored rather than normalised into a more conventional legal formulation.
-- **3709–3710:** no substantive English correction was required.
-
-Canonical Tamil changes in this alignment batch: **0**.
-
-Current counts: **58/58 translated and source-checked; 5/58 bilingual-aligned and verified; 53 alignment reviews remain.**
+Current counts: **58/58 translated and source-checked; 10/58 bilingual-aligned and verified; 48 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3711–3715 — PDF 57–91 / printed 56–90**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3716–3720 — PDF 92–128 / printed 91–127**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
 
 ## Transcription status
 
