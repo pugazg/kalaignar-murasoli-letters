@@ -36,4 +36,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - முந்தைய கடிதம்: [3762 — உவகை ஊட்டும் ஒகேனக்கல் தொடக்கம்!](3762-joyful-hogenakkal-beginning.md)
 - அடுத்த கடிதம்: இல்லை — தொகுதி 48-இன் கடைசி கடிதம்
 - பின்தாள்: PDF 401 வெற்றுப் பக்கம்; PDF 402 பின் அட்டை
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Everyone Knows All the Truth!](../translations/en/letters/3763-everyone-knows-all-the-truth.md) — source-checked; bilingual alignment pending
