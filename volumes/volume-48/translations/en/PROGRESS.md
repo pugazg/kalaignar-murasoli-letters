@@ -13,7 +13,8 @@
   - [x] Batch 1: letters 3706–3710 — PDF 24–56 / printed 23–55
   - [x] Batch 2: letters 3711–3715 — PDF 57–91 / printed 56–90
   - [x] User-authorised large batch 3: letters 3716–3730 — PDF 92–192 / printed 91–191
-  - [ ] Next: letters 3731–3735 — reuse and review the existing pilot translation for 3735 rather than creating a duplicate
+  - [x] Batch 4: letters 3731–3735 — PDF 193–219 / printed 192–218; existing 3735 pilot reviewed/reused in sequence
+  - [ ] Next: letters 3736–3740 — PDF 220–248 / printed 219–247
 - [ ] Bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
@@ -68,17 +69,27 @@ All fifteen are translated and source-checked. Every file includes the standard 
 - [3729 — That Day Came Back to Mind, Madam!](letters/3729-that-day-came-to-mind-madam.md) — PDF 180–186
 - [3730 — By Whom Did Betrayal Become a Continuing Story?](letters/3730-by-whom-did-betrayal-become-a-serial-story.md) — PDF 187–192
 
-This large batch preserves source-specific difficulties rather than normalising them: the 3719 `final award` wording is retained as printed; Katchatheevu source English in 3723 retains `Katcha Theevu` / `Katcha Theeve`; 3724 preserves the printed *Hindu* headline; 3727 keeps the tender-company name transliterated from the audited Tamil; 3729 explains but does not erase the `துணை` companion/satellite-town wordplay; and 3730 retains the printed `Kaveri` / `kauveri` English and the source-visible malformed quotation in its authoritative Tamil section.
+## Sequential batch 4 — 3731–3735
+
+All five are translated and source-checked. Letter 3735 was the existing approved pilot and was reviewed/reused rather than duplicated:
+
+- [3731 — For Dalit People to Know!](letters/3731-for-dalit-people-to-know.md) — PDF 193–199
+- [3732 — The Beneficiaries Will Know the Truth!](letters/3732-beneficiaries-will-know-the-truth.md) — PDF 200–206
+- [3733 — Let Us Raise Our Voice!](letters/3733-let-us-raise-our-voice.md) — PDF 207–212
+- [3734 — The Cruelty of Human Sacrifice in a Civilised Age?](letters/3734-human-sacrifice-cruelty-in-civilised-age.md) — PDF 213–215
+- [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219
+
+The batch preserves the printed *Hindu* headline and source community terminology in 3731; both Narippaiyur cost figures and the `விதி` rule/fate wordplay in 3732; attributed newspaper criticism, procedural references and the `ரன்-த்ரூ` metaphor in 3733; folk-superstition terminology in 3734; and the source's unreconciled fisheries statistical periods in 3735.
 
 ## Counts
 
 - Total letters: **58**
-- English translations created: **28 / 58**
-- Source-checked translations: **28 / 58**
+- English translations created: **32 / 58**
+- Source-checked translations: **32 / 58**
 - Bilingual-alignment verified: **0 / 58**
-- Remaining untranslated letters: **30**
+- Remaining untranslated letters: **26**
 
-The 28 translated letters are sequential **3706–3730**, plus pilot letters **3735, 3743 and 3756**.
+The 32 translated letters are sequential **3706–3735**, plus pilot letters **3743 and 3756**.
 
 ## Style lock
 
@@ -97,4 +108,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3731–3735 — PDF 193–219 / printed 192–218**. Letter **3735 already has the approved pilot translation**; review and reuse that file in sequence rather than creating a duplicate. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3736–3740 — PDF 220–248 / printed 219–247**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
