@@ -8,9 +8,10 @@ source_pdf_page_start: 137
 source_pdf_page_end: 143
 source_printed_page_start: 136
 source_printed_page_end: 142
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -68,7 +69,7 @@ As Chief Minister I said in the Assembly:
 
 Another incident. On the morning of 18 October 2007, Local Administration Minister M.K. Stalin was speaking on a question of breach of privilege. All the AIADMK members in the House rose together, shouted loudly, created disorder and prevented him from speaking, obstructing the proceedings. They left their seats in a group, went to the front of the Speaker's Chair and sat on the floor in an undignified manner.
 
-The Speaker repeatedly asked them to return to their seats, but they did not. He therefore called the Assembly marshals and ordered that they be removed. At that point A.K. Bose, MLA for Tirupparankundram, snatched the cap of marshal P. Mathivanan, who had come to remove him, and threw it toward the Speaker. Every member of the House saw it.
+The Speaker repeatedly asked them to return to their seats, but they did not. He therefore called the Assembly marshals and ordered that they be removed. At that point A.K. Bose, MLA for Tirupparankundram, snatched the cap of marshal P. Mathivanan, who had come to remove him, and threw it at the Speaker. Every member of the House saw it.
 
 For that act directed at the Speaker himself, the initial decision during the DMK government was to suspend him for six months. I immediately intervened and said that it would be enough to suspend him for the remainder of that session and the first ten days of the next session. That is what was done. This is another example from DMK rule.
 
