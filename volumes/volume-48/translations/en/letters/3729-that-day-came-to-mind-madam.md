@@ -8,9 +8,10 @@ source_pdf_page_start: 180
 source_pdf_page_end: 186
 source_printed_page_start: 179
 source_printed_page_end: 185
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -317,6 +318,7 @@ The text below is reproduced in full from the audited canonical Tamil page files
 என்பதையே அவர்களது வார்த்தைகளும் செயல்பாடுகளும் நிரூபிக்கின்றன”
 என்று எழுதியிருந்ததை இந்த நேரத்தில் எண்ணிப் பார்க்காமல்
 இருக்க முடியவில்லை.
+
 நான் இதையெல்லாம் குறிப்பிட்டதால் ஜெயலலிதா உடனே
 “நான் மாமல்லபுரம் அருகே துணை நகரம் அமைப்பதைத்தான்
 எதிர்த்தேன், திருமழிசையில்தானே பிறகு அறிவித்தேன்” என்று
