@@ -23,7 +23,9 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **next stage**
+- [ ] Bilingual alignment review — **in progress: 5/58 verified**
+  - [x] 3706–3710 — PDF 24–56 / printed 23–55
+  - [ ] Next: 3711–3715 — PDF 57–91 / printed 56–90
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -37,7 +39,7 @@ Known preserved source distinctions include the letter-3749 contents/start-page 
 
 ## English translation
 
-Source-checked English translation now runs continuously from **letter 3706 through letter 3763 — 58/58 complete**. Every translation follows the approved translator's note and bilingual order, translates substantive paragraphs/lists/quotations, records source links/page ranges, and reproduces the complete audited Tamil beneath the English.
+Source-checked English translation runs continuously from **letter 3706 through letter 3763 — 58/58 complete**. Every translation follows the approved translator's note and bilingual order, translates substantive paragraphs/lists/quotations, records source links/page ranges, and reproduces the complete audited Tamil beneath the English.
 
 The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather than silently normalises:
 
@@ -49,13 +51,28 @@ The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather th
 - Hogenakkal project chronology, financial/package figures and scan-visible word breaks in 3762; and
 - the Hogenakkal political chronology and exact *Hindu* English in 3763, including `By injectinga` and PDF 399 `அனுபவரீதியாகத்`.
 
-Current counts: **58 / 58 translated and source-checked; 0 untranslated.** Bilingual alignment remains pending.
+## Bilingual alignment review
+
+The documented bilingual alignment stage has started using the completed Volume 49 workflow as the precedent. English is compared directly with the complete audited Tamil; canonical Tamil is not altered during this stage.
+
+Letters **3706–3710 / PDF 24–56** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md).
+
+Four targeted English corrections were made:
+
+- **3706:** two places were corrected so an accusation/charge is not strengthened into guilt/conviction.
+- **3707:** the unsupported English word `costs` was removed from P. Shanmugam's quoted statement; the audited Tamil says only that production increased several-fold.
+- **3708:** *Dinamani*'s source-visible wording about the Supreme Court deadline was restored rather than normalised into a more conventional legal formulation.
+- **3709–3710:** no substantive English correction was required.
+
+Canonical Tamil changes in this alignment batch: **0**.
+
+Current counts: **58/58 translated and source-checked; 5/58 bilingual-aligned and verified; 53 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-**Do not create more translation files.** Translation is complete at the `source-checked` stage. Proceed with a documented **bilingual alignment review of letters 3706–3763**, then the English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3711–3715 — PDF 57–91 / printed 56–90**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
 
 ## Transcription status
 
