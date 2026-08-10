@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3761 — நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா?](3761-trying-again-to-sell-lignite-company-shares.md)
 - அடுத்த கடிதம்: [3763 — அனைத்து உண்மையும் அனைவருக்கும் தெரியுமே!](3763-everyone-knows-all-the-truth.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [A Joyous Beginning for Hogenakkal!](../translations/en/letters/3762-joyful-hogenakkal-beginning.md) — source-checked; bilingual alignment pending
