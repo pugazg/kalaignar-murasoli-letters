@@ -32,9 +32,9 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3741_3745.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3746_3750.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_3751_3763.md"
-translation_status: "in-progress"
-translated_letter_count: 51
-source_checked_translation_count: 51
+translation_status: "source-checked-complete"
+translated_letter_count: 58
+source_checked_translation_count: 58
 translated_letter_numbers:
   - 3706
   - 3707
@@ -87,7 +87,15 @@ translated_letter_numbers:
   - 3754
   - 3755
   - 3756
-next_translation_batch: "3757-3761"
+  - 3757
+  - 3758
+  - 3759
+  - 3760
+  - 3761
+  - 3762
+  - 3763
+next_translation_batch: null
+next_stage: "bilingual-alignment-review"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
