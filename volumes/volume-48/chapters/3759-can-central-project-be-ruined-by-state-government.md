@@ -32,4 +32,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3758 — இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற...](3758-reservation-policy-to-be-complete.md)
 - அடுத்த கடிதம்: [3760 — எச்சரிக்கையல்ல; எண்ணிப் பார்ப்பதற்காக!](3760-not-a-warning-for-reflection.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Can a Union Government Project Be Ruined by a State Government?](../translations/en/letters/3759-can-central-project-be-ruined-by-state-government.md) — source-checked; bilingual alignment pending
