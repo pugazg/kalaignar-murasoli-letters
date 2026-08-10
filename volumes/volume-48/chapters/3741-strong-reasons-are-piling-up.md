@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3740 — வருமுன் காப்பதா? வந்தபின் தவிப்பதா?](3740-prevent-before-or-suffer-after.md)
 - அடுத்த கடிதம்: [3742 — ஈழத் தமிழர்க்கு இன்னமும் ஓயாத கொடுமைகள்!](3742-unending-cruelties-against-eelam-tamils.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Strong Reasons Are Piling Up!](../translations/en/letters/3741-strong-reasons-are-piling-up.md) — source-checked; bilingual alignment pending
