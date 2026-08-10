@@ -1,6 +1,6 @@
-# Volume 48 English Translation Plan — source-checked translation complete
+# Volume 48 English Translation Plan — alignment in progress
 
-English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, now have source-checked English translations.
+English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 5/58 verified**.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -44,7 +44,7 @@ Volume 48 used three representative pilot letters:
 | 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story |
 | 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures |
 
-All three pilots are **source-checked** and were reviewed/reused at their correct sequential positions without duplicate files. Their bilingual alignment remains pending.
+All three pilots are source-checked and were reviewed/reused at their correct sequential positions without duplicate files. Their bilingual alignment will be completed when their sequential alignment batches are reached.
 
 ## Status progression
 
@@ -53,7 +53,7 @@ All three pilots are **source-checked** and were reviewed/reused at their correc
 3. `reviewed`
 4. `verified`
 
-All 58 letters have reached **`source-checked`**. No letter is to be marked `verified` until a documented bilingual alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
+All 58 letters have reached at least **`source-checked`**. Letters **3706–3710** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
 
 ## Completed translation sequence
 
@@ -67,7 +67,35 @@ All 58 letters have reached **`source-checked`**. No letter is to be marked `ver
 - **Existing pilot 3756 — PDF 353–355 / printed 352–354 — reviewed/reused.**
 - **Final batch: 3757–3763 — complete; PDF 356–400 / printed 355–399.**
 
-Current totals: **58 / 58 translated and source-checked**; **0 remain untranslated**. Sequential source-checked English coverage is complete from **3706 through 3763**.
+Translation totals: **58/58 source-checked; 0 untranslated**.
+
+## Bilingual alignment QA
+
+Alignment follows the completed Volume 49 method. Each English translation is compared directly with its complete audited Tamil for:
+
+- title and date;
+- salutation and closing;
+- paragraph and argument sequence;
+- every substantive claim and attribution;
+- quotations and intentional source-English passages;
+- names, initials, dates, percentages, monetary figures and counts;
+- lists and item order;
+- rhetorical questions, irony, repetition and political intensity; and
+- accidental omissions, additions, strengthening/weakening of responsibility, or English normalisation of source irregularities.
+
+The Tamil source is already scan-verified. **Alignment QA does not modify canonical Tamil.**
+
+### Completed alignment batch 1 — 3706–3710
+
+- Coverage: **PDF 24–56 / printed 23–55**
+- Result: **5/5 verified**
+- Report: [BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md)
+- Targeted English corrections: **4** across 3706–3708
+- Canonical Tamil changes: **0**
+
+The corrections restored accusation-versus-guilt distinctions in 3706, removed the unsupported English word `costs` in 3707, and preserved *Dinamani*'s source-visible legal wording in 3708. Letters 3709–3710 required no substantive English correction.
+
+Alignment totals: **5/58 verified; 53 remain**.
 
 ## Final-batch source-preservation lock
 
@@ -81,17 +109,8 @@ The 3757–3763 translations preserve the audited source rather than silently no
 - Hogenakkal chronology, financial/package figures and scan-visible word forms in 3762; and
 - the exact *Hindu* editorial in 3763, including malformed source `By injectinga`, plus scan-proven PDF 399 `அனுபவரீதியாகத்`.
 
-## Next stage — bilingual alignment QA
+## Next alignment batch
 
-No more translation files should be created for Volume 48. Proceed with a documented bilingual alignment review for **letters 3706–3763**, checking each translated file against its complete audited Tamil for:
+Proceed with **letters 3711–3715 — PDF 57–91 / printed 56–90**.
 
-- title and date;
-- salutation and closing;
-- paragraph and argument sequence;
-- every quotation and intentional source-English passage;
-- names, initials, dates, percentages, monetary figures and counts;
-- lists and source page boundaries;
-- attribution of allegations/reported claims; and
-- accidental omissions, additions or English normalisation of the Tamil source.
-
-After alignment QA, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
+After all 58 letters are verified, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
