@@ -7,10 +7,11 @@
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
 - [x] Representative pilot letters 3735, 3743 and 3756 translated, source-checked and reused in sequence
 - [x] Sequential bulk English translation — **58/58 source-checked complete**
-- [ ] Bilingual alignment review — **in progress: 10/58 verified**
+- [ ] Bilingual alignment review — **in progress: 15/58 verified**
   - [x] Letters 3706–3710 — PDF 24–56 / printed 23–55
   - [x] Letters 3711–3715 — PDF 57–91 / printed 56–90
-  - [ ] Next: letters 3716–3720 — PDF 92–128 / printed 91–127
+  - [x] Letters 3716–3720 — PDF 92–128 / printed 91–127
+  - [ ] Next: letters 3721–3725 — PDF 129–161 / printed 128–160
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -124,17 +125,22 @@ The final batch preserves source-specific material rather than silently normalis
   - 3713: restored Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State**.
   - 3715: removed the unsupported qualifier **historical** so `ஒரு காவியமல்ல` is rendered **not an epic**.
   - 3711, 3712 and 3714 required no substantive English correction.
+- Letters **3716–3720** — [`BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md`](BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md): **5/5 verified**; three targeted English corrections; no Tamil-source changes.
+  - 3716: restored `பொது வாக்கெடுப்பு` as **referendum** rather than “general vote.”
+  - 3717: removed the unsupported technical qualifier **grade-separated** from the Chennai Port elevated-road request.
+  - 3720: removed the unsupported **“or sanction”** addition from `இலங்கைக்குக் கெடு விதித்திட`; the English now says **set a deadline for Sri Lanka**.
+  - 3718–3719 required no substantive English correction.
 
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
-- Bilingual-alignment verified: **10 / 58**
+- Bilingual-alignment verified: **15 / 58**
 - Remaining untranslated letters: **0**
-- Remaining alignment review: **48**
+- Remaining alignment review: **43**
 
-Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete through **3715**.
+Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete through **3720**.
 
 ## Style lock
 
@@ -153,4 +159,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3716–3720 — PDF 92–128 / printed 91–127**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3721–3725 — PDF 129–161 / printed 128–160**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
