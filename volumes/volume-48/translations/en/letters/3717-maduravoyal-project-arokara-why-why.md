@@ -8,9 +8,10 @@ source_pdf_page_start: 99
 source_pdf_page_end: 104
 source_printed_page_start: 98
 source_printed_page_end: 103
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -26,7 +27,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 **Udanpirappē,**
 
-In the manifesto issued by the Dravida Munnetra Kazhagam for the 2006 Tamil Nadu Assembly election, we said that an **Elevated Highway** scheme would be implemented in parts of Chennai city suffering heavily from traffic congestion. After the DMK assumed office, in a letter I wrote to Prime Minister Manmohan Singh on 5 June 2006, I requested approval for a grade-separated elevated road to Chennai Port.
+In the manifesto issued by the Dravida Munnetra Kazhagam for the 2006 Tamil Nadu Assembly election, we said that an **Elevated Highway** scheme would be implemented in parts of Chennai city suffering heavily from traffic congestion. After the DMK assumed office, in a letter I wrote to Prime Minister Manmohan Singh on 5 June 2006, I requested approval for an elevated road to Chennai Port.
 
 Through the continuing efforts of people such as Thambi T.R. Baalu, the Union Government approved construction of an elevated road connecting Chennai Port and the Maduravoyal junction at a cost of ₹1,655 crore. Prime Minister Manmohan Singh himself came in person and, under my leadership as Chief Minister, laid the foundation stone for the project on 8 January 2009.
 
