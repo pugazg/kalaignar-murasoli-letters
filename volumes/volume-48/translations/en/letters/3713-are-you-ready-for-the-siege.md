@@ -8,9 +8,10 @@ source_pdf_page_start: 70
 source_pdf_page_end: 74
 source_printed_page_start: 69
 source_printed_page_end: 73
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -34,7 +35,7 @@ It is precisely because Rajapaksa is capable of telling lies on this scale that 
 
 The wish of every Tamil in Tamil Nadu is that India itself should move ahead of the United States and take the lead in a resolution condemning Sri Lanka. But it is being said that the U.S. resolution will be put to a vote on the 21st of this month. India's failure so far to announce its position surprises us here in Tamil Nadu. Rajapaksa is making every effort he can to defeat the U.S. resolution. But representatives of various countries who have watched the documentary on alleged war crimes in Sri Lanka are firm that Rajapaksa should receive appropriate punishment. The heartache of Tamils across the world is that, to this day, it has not been announced that our India is on that list of countries.
 
-In an interview to reporters yesterday evening, our Union Minister Narayanasamy said:
+In an interview to reporters yesterday evening, our Union Minister of State Narayanasamy said:
 
 > “The Union Government is watching the Sri Lankan issue with great concern. Full details of the resolution being brought by the United States are not known. Therefore the Union Government has not yet taken a decision. Once the complete details are known, the Union Government will take the right decision at the right time. The Government of India will follow this time too the position it adopted last time—support for the resolution.”
 
