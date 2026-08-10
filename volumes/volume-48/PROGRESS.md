@@ -23,11 +23,14 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **in progress: 15/58 verified**
+- [ ] Bilingual alignment review — **in progress: 30/58 verified**
   - [x] 3706–3710 — PDF 24–56 / printed 23–55
   - [x] 3711–3715 — PDF 57–91 / printed 56–90
   - [x] 3716–3720 — PDF 92–128 / printed 91–127
-  - [ ] Next: 3721–3725 — PDF 129–161 / printed 128–160
+  - [x] 3721–3725 — PDF 129–161 / printed 128–160
+  - [x] 3726–3730 — PDF 162–192 / printed 161–191
+  - [x] 3731–3735 — PDF 193–219 / printed 192–218
+  - [ ] Next: 3736–3740 — PDF 220–248 / printed 219–247
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -43,33 +46,29 @@ Known preserved source distinctions include the letter-3749 contents/start-page 
 
 Source-checked English translation runs continuously from **letter 3706 through letter 3763 — 58/58 complete**. Every translation follows the approved translator's note and bilingual order, translates substantive paragraphs/lists/quotations, records source links/page ranges, and reproduces the complete audited Tamil beneath the English.
 
-The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather than silently normalises:
-
-- Rule 110/111 procedure, free-land distribution figures, government-advertising criticism and scheme figures in 3757;
-- OBC reservation, `creamy layer`, constitutional terminology and the exact printed Supreme Court English in 3758;
-- the exact *Hindu* Soma Constructions/NHAI quotation and compensation figures in 3759;
-- attributed Dharmapuri bus-burning, criminal-case and High Court material in 3760;
-- NLC disinvestment, trade-union and contract-worker history in 3761;
-- Hogenakkal project chronology, financial/package figures and scan-visible word breaks in 3762; and
-- the Hogenakkal political chronology and exact *Hindu* English in 3763, including `By injectinga` and PDF 399 `அனுபவரீதியாகத்`.
+The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather than silently normalises Rule 110/111 procedure and scheme figures in 3757; OBC/`creamy layer` and exact Supreme Court English in 3758; the *Hindu* contractor passage in 3759; attributed Dharmapuri case/court material in 3760; NLC labour/disinvestment history in 3761; Hogenakkal chronology and scan-visible word forms in 3762; and exact *Hindu* English in 3763 including `By injectinga` and PDF 399 `அனுபவரீதியாகத்`.
 
 ## Bilingual alignment review
 
 The documented bilingual alignment stage uses the completed Volume 49 workflow as the precedent. English is compared directly with the complete audited Tamil; canonical Tamil is not altered during this stage.
 
-Letters **3706–3710 / PDF 24–56** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md). Four targeted English corrections were made across 3706–3708; 3709–3710 required no substantive correction; canonical Tamil changes: **0**.
+Letters **3706–3710 / PDF 24–56**, **3711–3715 / PDF 57–91**, and **3716–3720 / PDF 92–128** were previously verified. Their reports document four, two and three targeted English corrections respectively, with **0 canonical Tamil changes**.
 
-Letters **3711–3715 / PDF 57–91** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md). Two targeted English corrections were made: 3713 restores Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State**, and 3715 removes the unsupported qualifier `historical` so `ஒரு காவியமல்ல` is rendered **not an epic**. Letters 3711, 3712 and 3714 required no substantive English correction. Canonical Tamil changes: **0**.
+The user-authorised 15-letter block **3721–3735 / PDF 129–219** is now complete and verified in three reports:
 
-Letters **3716–3720 / PDF 92–128** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md). Three targeted English corrections were made: 3716 restores `பொது வாக்கெடுப்பு` as **referendum**; 3717 removes the unsupported qualifier **grade-separated**; and 3720 removes the unsupported **“or sanction”** addition so `இலங்கைக்குக் கெடு விதித்திட` is rendered **set a deadline for Sri Lanka**. Letters 3718 and 3719 required no substantive English correction. Canonical Tamil changes: **0**.
+- [BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md) — **5/5 verified**; one targeted English correction in 3722: `பேரவைத் தலைவர் மீது தூக்கி எறிந்தார்` is restored as **“threw it at the Speaker.”**
+- [BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md) — **5/5 verified**; no substantive English correction required.
+- [BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md) — **5/5 verified**; 3732 restores the source-visible **Rural Development Minister** reference and 3734 restores `உடன்பிறந்தே கொல்லும் வியாதியாக` as **“like a disease born with us that kills us.”**
 
-Current counts: **58/58 translated and source-checked; 15/58 bilingual-aligned and verified; 43 alignment reviews remain.**
+Source irregularities remain preserved rather than reconciled, including the conflicting Narippaiyur cost figures in 3732 and the inconsistent fishermen-statistics periods in 3735. Canonical Tamil changes in the 15-letter block: **0**.
+
+Current counts: **58/58 translated and source-checked; 30/58 bilingual-aligned and verified; 28 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3721–3725 — PDF 129–161 / printed 128–160**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3736–3740 — PDF 220–248 / printed 219–247**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
 
 ## Transcription status
 
