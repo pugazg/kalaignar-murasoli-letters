@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3732 — பயன்பெறும் மக்களுக்கு உண்மை தெரியத்தான் போகிறது!](3732-beneficiaries-will-know-the-truth.md)
 - அடுத்த கடிதம்: [3734 — நாகரிகயுகத்தில் நரபலிக் கொடுமையா?](3734-human-sacrifice-cruelty-in-civilised-age.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Let Us Raise Our Voice!](../translations/en/letters/3733-let-us-raise-our-voice.md) — source-checked; bilingual alignment pending
