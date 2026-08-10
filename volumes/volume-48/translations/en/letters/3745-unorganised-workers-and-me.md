@@ -28,7 +28,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 Workers in Tamil Nadu will not have forgotten that during the period of DMK rule, with the specific purpose of providing benefits and safeguarding the welfare of unorganised workers, 35 welfare boards were established. Through those boards, workers in the respective occupations were enrolled as members, the welfare assistance they needed was provided, and they and their families were protected. Everyone knows that whenever workers of a particular occupation came together during DMK rule and requested a separate board for themselves, those requests were accepted and boards were established for them. To become a member of those boards, it was enough for an application to come through a trade union; membership cards would immediately be issued through that trade union itself.
 
-Advisory committees were appointed for unorganised workers, and representatives of all trade unions had places on the respective committees during DMK rule. But now, under AIADMK rule, even the advisory committees have not been renewed. All the unorganised-workers welfare boards have been paralysed and rendered inactive for the sole reason that they were begun under DMK rule. Now, to register as a member, the worker must appear in person; a Village Administrative Officer must issue a certificate; a bank account must be opened—such severe conditions have been imposed.
+Advisory committees were appointed for unorganised workers, and representatives of all trade unions had places on the respective committees during DMK rule. But now, under AIADMK rule, even the advisory committees have not been renewed. All the unorganised-workers welfare boards have been paralysed and rendered inactive for the sole reason that they were begun under DMK rule. Now, to register as a member, the worker must appear in person; a village welfare officer must issue a certificate; a bank account must be opened—such severe conditions have been imposed.
 
 At this point I wish to explain briefly the scale of assistance provided through the various welfare boards during the fifth period of DMK rule, from 13 May 2006 to 19 April 2011.
 
@@ -94,6 +94,7 @@ This year, on the occasion of May Day, my expectation and desire—as one who wa
 3. `தொ.மு.ச. பேரவை` is rendered **Labour Progressive Federation**. Trade-union acronyms **AITUC, CITU, BMS** and **HMS** are retained.
 4. Community and welfare-board names such as **Narikuravar**, **Aravanis**, **Pudhirai Vannar** and **Ulema** are kept close to the source rather than silently modernised or reclassified.
 5. The scan-proven source forms on PDF 274 and PDF 279, including `செயல்பட்டுவந்த`, `ஈடுபட்டுவரும்`, `அமைப்பு சாராத்` and `மே தினத்தையொட்டி`, are preserved in the Tamil section below.
+6. `கிராம நல அதிகாரி` is rendered literally as **village welfare officer** rather than silently replacing it with a different modern administrative title.
 
 ## Original Tamil — மூலத் தமிழ்
 
