@@ -23,10 +23,11 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **in progress: 10/58 verified**
+- [ ] Bilingual alignment review — **in progress: 15/58 verified**
   - [x] 3706–3710 — PDF 24–56 / printed 23–55
   - [x] 3711–3715 — PDF 57–91 / printed 56–90
-  - [ ] Next: 3716–3720 — PDF 92–128 / printed 91–127
+  - [x] 3716–3720 — PDF 92–128 / printed 91–127
+  - [ ] Next: 3721–3725 — PDF 129–161 / printed 128–160
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -58,15 +59,17 @@ The documented bilingual alignment stage uses the completed Volume 49 workflow a
 
 Letters **3706–3710 / PDF 24–56** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md). Four targeted English corrections were made across 3706–3708; 3709–3710 required no substantive correction; canonical Tamil changes: **0**.
 
-Letters **3711–3715 / PDF 57–91** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md). Two targeted English corrections were made: 3713 restores Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State**, and 3715 removes the unsupported qualifier `historical` so `ஒரு காவியமல்ல` is rendered **not an epic**. Letters 3711, 3712 and 3714 required no substantive English correction. Canonical Tamil changes: **0**.
+Letters **3711–3715 / PDF 57–91** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md). Two targeted English corrections were made: 3713 restores Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State**, and 3715 removes the unsupported qualifier `historical` so `ஒரு காவியமல்ல` is rendered **not an epic**. Letters 3711, 3712 and 3714 required no substantive English correction. Canonical Tamil changes: **0**.
 
-Current counts: **58/58 translated and source-checked; 10/58 bilingual-aligned and verified; 48 alignment reviews remain.**
+Letters **3716–3720 / PDF 92–128** are **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md). Three targeted English corrections were made: 3716 restores `பொது வாக்கெடுப்பு` as **referendum**; 3717 removes the unsupported qualifier **grade-separated**; and 3720 removes the unsupported **“or sanction”** addition so `இலங்கைக்குக் கெடு விதித்திட` is rendered **set a deadline for Sri Lanka**. Letters 3718 and 3719 required no substantive English correction. Canonical Tamil changes: **0**.
+
+Current counts: **58/58 translated and source-checked; 15/58 bilingual-aligned and verified; 43 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3716–3720 — PDF 92–128 / printed 91–127**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3721–3725 — PDF 129–161 / printed 128–160**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
 
 ## Transcription status
 
