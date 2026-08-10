@@ -35,4 +35,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!](3756-will-ammas-plans-stop-with-announcements.md)
 - அடுத்த கடிதம்: [3758 — இட ஒதுக்கீட்டுக் கொள்கை முழுமை பெற...](3758-reservation-policy-to-be-complete.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Two Years of Rule: Achievement or Agony?](../translations/en/letters/3757-two-years-rule-achievement-or-agony.md) — source-checked; bilingual alignment pending
