@@ -97,8 +97,8 @@ translated_letter_numbers:
 next_translation_batch: null
 next_stage: "bilingual-alignment-review"
 bilingual_alignment_status: "in-progress"
-bilingual_aligned_letter_count: 10
-verified_translation_count: 10
+bilingual_aligned_letter_count: 15
+verified_translation_count: 15
 verified_letter_numbers:
   - 3706
   - 3707
@@ -110,10 +110,16 @@ verified_letter_numbers:
   - 3713
   - 3714
   - 3715
+  - 3716
+  - 3717
+  - 3718
+  - 3719
+  - 3720
 bilingual_alignment_reports:
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md"
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md"
-next_alignment_batch: "3716-3720"
+  - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md"
+next_alignment_batch: "3721-3725"
 english_release_status: "not-started"
 source_observations:
   - "PDF page 23 is blank, with faint show-through from the reverse side."
