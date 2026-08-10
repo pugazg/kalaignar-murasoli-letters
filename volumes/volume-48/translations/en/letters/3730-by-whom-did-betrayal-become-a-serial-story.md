@@ -8,9 +8,10 @@ source_pdf_page_start: 187
 source_pdf_page_end: 192
 source_printed_page_start: 186
 source_printed_page_end: 191
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -317,7 +318,5 @@ the farmers of the kauveri Delta in Tamil Nadu” என்று
 வேதனையான உண்மை.
 
 அன்புள்ள,
-
 மு.க.
-
 10-4-2013
