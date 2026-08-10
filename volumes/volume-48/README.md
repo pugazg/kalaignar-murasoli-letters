@@ -16,7 +16,7 @@
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
 - English translation **source-checked complete: 58/58**, continuous sequential coverage **3706–3763**.
-- Bilingual alignment **in progress: 10/58 verified** — letters **3706–3715** complete; next **3716–3720**.
+- Bilingual alignment **in progress: 15/58 verified** — letters **3706–3720** complete; next **3721–3725**.
 
 ## Audit / translation status
 
@@ -27,7 +27,7 @@
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
 | English translation | 3706–3763 | **58/58 source-checked complete** |
-| Bilingual alignment | 3706–3715 | **10/58 verified; in progress** |
+| Bilingual alignment | 3706–3720 | **15/58 verified; in progress** |
 | English editorial/release | — | not started |
 
 The final textual-fidelity pass covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores `அனுபவரீதியாகத்`.
@@ -60,11 +60,13 @@ The first batch, **3706–3710 / PDF 24–56**, is **5/5 verified**. Four target
 
 The second batch, **3711–3715 / PDF 57–91**, is **5/5 verified**. Two targeted English corrections were made: `இணை அமைச்சர்` in 3713 is now **Union Minister of State**, and 3715 now renders `ஒரு காவியமல்ல` as **not an epic** without the unsupported qualifier `historical`. Letters 3711, 3712 and 3714 required no substantive correction. See [BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md).
 
+The third batch, **3716–3720 / PDF 92–128**, is **5/5 verified**. Three targeted English corrections were made: `பொது வாக்கெடுப்பு` in 3716 is now **referendum**; the unsupported qualifier **grade-separated** was removed in 3717; and the unsupported **“or sanction”** addition was removed in 3720 so `இலங்கைக்குக் கெடு விதித்திட` is rendered **set a deadline for Sri Lanka**. Letters 3718 and 3719 required no substantive correction. See [BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md).
+
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-**Bilingual alignment review — letters 3716–3720 / PDF 92–128 / printed 91–127.** After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+**Bilingual alignment review — letters 3721–3725 / PDF 129–161 / printed 128–160.** After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
 
 ## முக்கிய இணைப்புகள்
 
@@ -76,6 +78,7 @@ See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](tr
 - [English glossary](translations/en/GLOSSARY.md)
 - [Bilingual alignment review — letters 3706–3710](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md)
 - [Bilingual alignment review — letters 3711–3715](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md)
+- [Bilingual alignment review — letters 3716–3720](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [Textual-fidelity audit — letters 3721–3725](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
