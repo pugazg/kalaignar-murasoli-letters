@@ -8,9 +8,10 @@ source_pdf_page_start: 24
 source_pdf_page_end: 29
 source_printed_page_start: 23
 source_printed_page_end: 28
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -58,7 +59,7 @@ Thus death, which is common to human society, becomes at times a prize of victor
 
 Against this background, there is a question to which we must find an answer today.
 
-How should those described as being guilty of extremely grave offences be punished? In what manner? By what kind of punishment? This has become a major issue across the world. Some countries have already arrived at a final position. In India too, the question of what punishment should be imposed for terrible crimes—if those crimes are proved—continues to remain a subject of debate.
+How should those described as facing extremely grave charges be punished? In what manner? By what kind of punishment? This has become a major issue across the world. Some countries have already arrived at a final position. In India too, the question of what punishment should be imposed for terrible crimes—if those crimes are proved—continues to remain a subject of debate.
 
 Among the various punishments, death sentences, life sentences and terms of imprisonment continue to be handed down as judgments by many courts.
 
@@ -69,7 +70,7 @@ Generally, when a person who has finally been declared guilty by a court is sent
 - imprisonment for a specified number of years; or
 - death by hanging,
 
-then the present question is how a person whose guilt has been proved—or who has been convicted of an offence—is to receive that punishment.
+then the present question is how a person whose guilt has been proved—or who has been accused of an offence—is to receive that punishment.
 
 Punishment itself means that, after a trial, a judge's verdict says that a person must spend a certain number of years in prison because the offence he committed has been proved. A person who has committed an extremely cruel crime may receive life imprisonment or a death sentence. Which is the greater punishment? The death sentence! But when a person sentenced to death is punished for the crime he committed, he is released from this world itself. Within a few moments, everything concerning the crimes he committed comes to an end. As far as the offender is concerned, there is then no further suffering. In one stroke, he is freed from the pains and sorrows of this world and comes to rest. But if a person receives life imprisonment, then for however many years he remains in prison, for all those years he must think again and again about the crimes he committed, wrench his heart and suffer. Think about it now. Is it a greater punishment for a person to be immediately released from this world for the crime he committed and depart without further suffering? Or to remain in prison for many years for the same crime, wasting away in suffering?
 
@@ -91,6 +92,7 @@ In 2007, when the United Nations put forward a resolution against the death pena
 
 1. Dates, counts and historical claims are translated exactly as presented in the audited Tamil source; they are not externally corrected or reconciled here.
 2. The phrase describing a “death sentence” for the death penalty itself is Kalaignar's deliberate rhetorical wordplay and is preserved in English.
+3. The alignment review restored the source distinction between a person **facing an accusation/charge** and a person whose guilt has been proved; the English does not promote an accusation into a conviction.
 
 ## Original Tamil — மூலத் தமிழ்
 
