@@ -96,7 +96,18 @@ translated_letter_numbers:
   - 3763
 next_translation_batch: null
 next_stage: "bilingual-alignment-review"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "in-progress"
+bilingual_aligned_letter_count: 5
+verified_translation_count: 5
+verified_letter_numbers:
+  - 3706
+  - 3707
+  - 3708
+  - 3709
+  - 3710
+bilingual_alignment_reports:
+  - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md"
+next_alignment_batch: "3711-3715"
 english_release_status: "not-started"
 source_observations:
   - "PDF page 23 is blank, with faint show-through from the reverse side."
