@@ -9,32 +9,13 @@
 ## தற்போதைய நிலை
 
 - மூல PDF intake, SHA-256, byte size மற்றும் page count பதிவு செய்யப்பட்டுள்ளன.
-- PDF பக்கங்கள் **1–402** அனைத்தும் தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
+- PDF பக்கங்கள் **1–402** அனைத்தும் canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
 - அச்சு உள்ளடக்க அட்டவணை **3706–3763** முழுமையாகப் பாதுகாக்கப்பட்டுள்ளது.
 - கடிதங்கள் **3706–3763 — 58/58** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன.
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
-- English translation **in progress**: **51/58** letters translated and source-checked — continuous sequential coverage **3706–3756**. Bilingual alignment pending.
-
-## Transcription iterations
-
-- Initial fixed batch: PDF **1–25**
-- Letter 3706 completion: PDF **26–29**
-- Five-letter iterations:
-  - 3707–3711 — PDF 30–62
-  - 3712–3716 — PDF 63–98
-  - 3717–3721 — PDF 99–136
-  - 3722–3726 — PDF 137–167
-  - 3727–3731 — PDF 168–199
-  - 3732–3736 — PDF 200–225
-  - 3737–3741 — PDF 226–254
-  - 3742–3746 — PDF 255–286
-  - 3747–3751 — PDF 287–325
-  - 3752–3756 — PDF 326–355
-  - 3757–3761 — PDF 356–386
-- User-authorised final remainder: 3762–3763 — PDF **387–400**
-- Final non-letter pages: PDF **401–402**
+- English translation **source-checked complete: 58/58**, continuous sequential coverage **3706–3763**. Bilingual alignment pending.
 
 ## Audit / translation status
 
@@ -44,35 +25,37 @@
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
-| English translation | 3706–3756 | **51/58 source-checked; in progress** |
-| Bilingual alignment / editorial release | — | not started |
+| English translation | 3706–3763 | **58/58 source-checked complete** |
+| Bilingual alignment | 3706–3763 | not started |
+| English editorial/release | — | not started |
 
-The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found.
+The final textual-fidelity pass covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores `அனுபவரீதியாகத்`.
 
-Known preserved source distinctions include the letter-3749 contents/start-page subtitle spacing difference, the scan-proven letter-3743 `கழுதையே` reading, and malformed source English such as `By injectinga` on PDF 397.
+Known preserved source distinctions include the letter-3749 contents/start-page subtitle difference, the scan-proven letter-3743 `கழுதையே`, the letter-3747 standalone cross-page `2`, exact Katchatheevu source-English variants and malformed source English such as `By injectinga` on PDF 397.
 
 ## English translation
 
-The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3756**:
+Sequential source-checked English coverage is now complete:
 
 - batch 1: **3706–3710 / PDF 24–56**
 - batch 2: **3711–3715 / PDF 57–91**
 - user-authorised large batch 3: **3716–3730 / PDF 92–192**
-- batch 4: **3731–3735 / PDF 193–219** — existing pilot 3735 reviewed/reused in sequence
-- user-authorised 10-letter batch 5: **3736–3745 / PDF 220–279** — existing pilot 3743 reviewed/reused in sequence
+- batch 4: **3731–3735 / PDF 193–219** — pilot 3735 reused
+- user-authorised 10-letter batch 5: **3736–3745 / PDF 220–279** — pilot 3743 reused
 - batch 6: **3746–3750 / PDF 280–318**
 - batch 7: **3751–3755 / PDF 319–352**
-- existing pilot **3756 / PDF 353–355** — reviewed/reused at the sequential boundary
+- existing pilot **3756 / PDF 353–355** — reviewed/reused
+- final batch: **3757–3763 / PDF 356–400**
 
-All **51** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
+All **58** translation files are `source-checked`, use the approved translator’s note, retain source attribution, quotations, figures and rhetoric, and reproduce the complete audited Tamil beneath the English translation.
 
-Source-specific anomalies continue to be preserved rather than silently corrected. The 3751–3755 batch keeps the 3751 allocation/percentage and agriculture-figure tensions plus scan-proven `நெருக்கடிகளுக்கு`; exact N.O.C. English and attributed legal/tender material in 3752; `One Man Show`, source `ASSO CHAMP` / `BIZCON` and source investment figures in 3753; Amnesty International and related allegations explicitly attributed in 3754; and the intentional English/legal identifiers plus sleeping-tiger proverb in 3755. Existing pilot 3756 was reviewed and reused without duplication.
+The final batch preserves the source-specific Rule 110/111 and scheme material in 3757; OBC/`creamy layer` and exact Supreme Court English in 3758; the *Hindu* contractor passage in 3759; attributed Dharmapuri case/court material in 3760; NLC labour/disinvestment history in 3761; Hogenakkal chronology and source-visible word forms in 3762; and exact *Hindu* English in 3763 including `By injectinga` and PDF 399 `அனுபவரீதியாகத்`.
 
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-Sequential English translation batch **3757–3761 — PDF 356–386 / printed 355–385**. All five source letters have already passed the scan-based textual-fidelity gate.
+**Bilingual alignment review — letters 3706–3763.** Translation is complete at the source-checked stage; do not create more translation files. After alignment, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
 
 ## முக்கிய இணைப்புகள்
 
