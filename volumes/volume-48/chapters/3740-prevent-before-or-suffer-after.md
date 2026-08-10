@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3739 — மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்!](3739-two-unforgettable-gems-condolence-letter.md)
 - அடுத்த கடிதம்: [3741 — வலுவான காரணங்கள் குவிகின்றன!](3741-strong-reasons-are-piling-up.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Prevent Before It Comes—or Suffer After It Arrives?](../translations/en/letters/3740-prevent-before-or-suffer-after.md) — source-checked; bilingual alignment pending
