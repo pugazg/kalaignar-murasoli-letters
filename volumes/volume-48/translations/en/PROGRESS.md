@@ -14,7 +14,8 @@
   - [x] Batch 2: letters 3711–3715 — PDF 57–91 / printed 56–90
   - [x] User-authorised large batch 3: letters 3716–3730 — PDF 92–192 / printed 91–191
   - [x] Batch 4: letters 3731–3735 — PDF 193–219 / printed 192–218; existing 3735 pilot reviewed/reused in sequence
-  - [ ] Next: letters 3736–3740 — PDF 220–248 / printed 219–247
+  - [x] User-authorised 10-letter batch 5: letters 3736–3745 — PDF 220–279 / printed 219–278; existing 3743 pilot reviewed/reused in sequence
+  - [ ] Next: letters 3746–3750 — PDF 280–318 / printed 279–317
 - [ ] Bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
@@ -26,7 +27,7 @@ The Volume 48 pilot deliberately uses three non-consecutive representative lette
 | Letter | Source | Pilot role | Translation status | Alignment |
 |---:|---|---|---|---|
 | 3735 | PDF 216–219 | ordinary policy/political argument, with fisheries statistics | source-checked | pending |
-| 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked | pending |
+| 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked; reused in sequence | pending |
 | 3756 | PDF 353–355 | long quoted announcement/newspaper material and figures | source-checked | pending |
 
 ## Sequential batch 1 — 3706–3710
@@ -79,17 +80,32 @@ All five are translated and source-checked. Letter 3735 was the existing approve
 - [3734 — The Cruelty of Human Sacrifice in a Civilised Age?](letters/3734-human-sacrifice-cruelty-in-civilised-age.md) — PDF 213–215
 - [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219
 
-The batch preserves the printed *Hindu* headline and source community terminology in 3731; both Narippaiyur cost figures and the `விதி` rule/fate wordplay in 3732; attributed newspaper criticism, procedural references and the `ரன்-த்ரூ` metaphor in 3733; folk-superstition terminology in 3734; and the source's unreconciled fisheries statistical periods in 3735.
+## User-authorised 10-letter sequential batch 5 — 3736–3745
+
+All ten positions in the sequential range are now translated and source-checked. Nine new translation files were created; existing pilot letter 3743 was visually reviewed against PDF 260–266 and reused rather than duplicated:
+
+- [3736 — Do Not Sully Departed Leaders!](letters/3736-do-not-sully-departed-leaders.md) — PDF 220–225
+- [3737 — What Do All Parties Expect in This Cooperative Election?](letters/3737-what-do-all-parties-expect-in-this-cooperative-election.md) — PDF 226–231
+- [3738 — An Appeal I Make Again and Again!](letters/3738-a-repeated-appeal.md) — PDF 232–236
+- [3739 — Two Unforgettable Gems! Kalaignar's Condolence Letter!](letters/3739-two-unforgettable-gems-condolence-letter.md) — PDF 237–241
+- [3740 — Prevent Before It Comes—or Suffer After It Arrives?](letters/3740-prevent-before-or-suffer-after.md) — PDF 242–248
+- [3741 — Strong Reasons Are Piling Up!](letters/3741-strong-reasons-are-piling-up.md) — PDF 249–254
+- [3742 — Unending Cruelties Against Eelam Tamils!](letters/3742-unending-cruelties-against-eelam-tamils.md) — PDF 255–259
+- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](letters/3743-dream-or-reality-donkey-keep-quiet.md) — PDF 260–266 — existing pilot reused
+- [3744 — Law and Order Turns to Dust in a State Ruled by a Woman!](letters/3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) — PDF 267–272
+- [3745 — Unorganised Workers—and Me!](letters/3745-unorganised-workers-and-me.md) — PDF 273–279
+
+The batch preserves source-specific difficulties rather than normalising them: long source English quotations and their Tamil restatements in 3736; the scan-visible `.செய்வதில்` punctuation on PDF 229 in 3737; legal/statistical source claims and `தண்டிக்கப் பட்டு` on PDF 236 in 3738; the restored `கண்ணீர் அஞ்சலி!` closing in 3739; attributed Minjur tender/bribery allegations in 3740; refugee and human-rights claims plus PDF 253 spacing/forms in 3741; attributed Sri Lanka land/military claims in 3742; the already-approved `கழுதையே` pilot reading and satire in 3743; the scan-proven `அலற அலறக் கற்பழிக்கப்பட்டிருக்கிறாள்` reading and repaired PDF 271–272 boundary in 3744; and all welfare-board figures plus PDF 274/279 joined forms in 3745.
 
 ## Counts
 
 - Total letters: **58**
-- English translations created: **32 / 58**
-- Source-checked translations: **32 / 58**
+- English translations created: **41 / 58**
+- Source-checked translations: **41 / 58**
 - Bilingual-alignment verified: **0 / 58**
-- Remaining untranslated letters: **26**
+- Remaining untranslated letters: **17**
 
-The 32 translated letters are sequential **3706–3735**, plus pilot letters **3743 and 3756**.
+The translated set is now sequential **3706–3745**, plus pilot letter **3756**.
 
 ## Style lock
 
@@ -108,4 +124,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3736–3740 — PDF 220–248 / printed 219–247**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3746–3750 — PDF 280–318 / printed 279–317**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
