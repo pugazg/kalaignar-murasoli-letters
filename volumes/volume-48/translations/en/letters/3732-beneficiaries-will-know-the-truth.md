@@ -8,9 +8,10 @@ source_pdf_page_start: 200
 source_pdf_page_end: 206
 source_printed_page_start: 199
 source_printed_page_end: 205
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -28,7 +29,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 On 21 March 2013, the Finance Minister presented the 2013–2014 Budget in the Tamil Nadu Legislative Assembly. The debate on the demand for grants for the Municipal Administration and Water Supply Department was held in the Assembly on 1 April 2013, and the minister of that department had already replied. Yet yesterday (10 April 2013), Chief Minister Jayalalithaa herself read in the Assembly, under Rule 110, a long statement containing announcements that ought to have been made during the grant debate for the Water Supply Department.
 
-Under Rule 110 she announced, along with several other measures, combined drinking-water schemes costing ₹450 crore in Dindigul district, ₹125 crore in Thanjavur, ₹114 crore 25 lakh in Coimbatore, ₹76 crore 44 lakh in Tiruppur, ₹797 crore 69 lakh in Tiruchirappalli and ₹227 crore 26 lakh in Tirunelveli; that Thanjavur and Dindigul municipalities would be made municipal corporations; and that Karaikudi and Sivakasi municipalities would be upgraded to special-grade municipalities. If all these schemes that should be announced by the department's minister are not allowed to be announced by that minister during the grant debate, and a few days later the Chief Minister herself reads them under Rule 110, why then is there a separate minister for that department at all? Let the Chief Minister read half the schemes; if at least the remaining half were left for the departmental ministers to read, would they not have the satisfaction of having fulfilled at least half their duty?
+Under Rule 110 she announced, along with several other measures, combined drinking-water schemes costing ₹450 crore in Dindigul district, ₹125 crore in Thanjavur, ₹114 crore 25 lakh in Coimbatore, ₹76 crore 44 lakh in Tiruppur, ₹797 crore 69 lakh in Tiruchirappalli and ₹227 crore 26 lakh in Tirunelveli; that Thanjavur and Dindigul municipalities would be made municipal corporations; and that Karaikudi and Sivakasi municipalities would be upgraded to special-grade municipalities. If all these schemes that the Rural Development Minister should announce are not allowed to be announced by that minister during the grant debate, and a few days later the Chief Minister herself reads them under Rule 110, why then is there a separate minister for that department at all? Let the Chief Minister read half the schemes; if at least the remaining half were left for the departmental ministers to read, would they not have the satisfaction of having fulfilled at least half their duty?
 
 Is the reason simply that newspapers must carry the words “Chief Minister's announcement”? Is the intention that neither the Finance Minister nor the departmental ministers should announce these measures? This same Chief Minister Jayalalithaa, when M.G.R. was alive, wrote in her own hand to the then Prime Minister Rajiv Gandhi that, apart from M.G.R., everyone else here was a “zero.” Are all the other ministers still “zeros” now as well?
 
