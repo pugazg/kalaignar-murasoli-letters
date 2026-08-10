@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3757 — இரண்டாண்டு ஆட்சி; சாதனையா? வேதனையா?](3757-two-years-rule-achievement-or-agony.md)
 - அடுத்த கடிதம்: [3759 — மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா?](3759-can-central-project-be-ruined-by-state-government.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [For the Reservation Policy to Become Complete...](../translations/en/letters/3758-reservation-policy-to-be-complete.md) — source-checked; bilingual alignment pending
