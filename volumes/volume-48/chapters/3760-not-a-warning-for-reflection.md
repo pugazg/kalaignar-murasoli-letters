@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3759 — மத்திய அரசின் திட்டம், மாநில அரசால் பாழாகலாமா?](3759-can-central-project-be-ruined-by-state-government.md)
 - அடுத்த கடிதம்: [3761 — நிலக்கரி நிறுவனப் பங்குகளை மீண்டும் விற்க முயற்சியா?](3761-trying-again-to-sell-lignite-company-shares.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Not a Warning; Just Something to Think About!](../translations/en/letters/3760-not-a-warning-for-reflection.md) — source-checked; bilingual alignment pending
