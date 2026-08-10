@@ -6,7 +6,7 @@ The Tamil source layer is fully ready for translation: the full-volume structura
 
 ## Translation progress
 
-The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3735**.
+The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3745**.
 
 ### Sequential coverage — source-checked
 
@@ -14,28 +14,29 @@ The required three-letter representative pilot is source-checked, and sequential
 - **3711–3715** — PDF 57–91
 - **3716–3730** — PDF 92–192, completed as a user-authorised 15-letter batch
 - **3731–3735** — PDF 193–219; the existing 3735 pilot was reviewed/reused rather than duplicated
+- **3736–3745** — PDF 220–279, completed as a user-authorised 10-letter batch; the existing 3743 pilot was visually reviewed/reused rather than duplicated
 
 For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md).
 
 ### Representative pilot — source-checked
 
-- [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219
-- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](letters/3743-dream-or-reality-donkey-keep-quiet.md) — PDF 260–266
+- [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219 — now within sequential coverage
+- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](letters/3743-dream-or-reality-donkey-keep-quiet.md) — PDF 260–266 — now within sequential coverage
 - [3756 — Will Amma’s Plans Stop at Announcements!](letters/3756-will-ammas-plans-stop-with-announcements.md) — PDF 353–355
 
 Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
-**Counts:** **32 / 58** letters translated and source-checked; **26** remain untranslated. Bilingual alignment is still pending.
+**Counts:** **41 / 58** letters translated and source-checked; **17** remain untranslated. Bilingual alignment is still pending.
 
-The translated set is sequential **3706–3735**, plus pilot letters **3743 and 3756**.
+The translated set is sequential **3706–3745**, plus pilot letter **3756**.
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Source-preservation decisions
 
-The 3716–3730 batch keeps difficult source forms visible rather than normalising them. Among the preserved cases are the source's `final award` wording in 3719, exact Katchatheevu English spellings in 3723, the printed *Hindu* headline in 3724, the Tamil-transliterated tender-company name in 3727, the `துணை` companion/satellite-town wordplay in 3729, and `Kaveri` / `kauveri` plus the malformed source quotation in 3730.
+Earlier sequential batches preserve source-specific English, spellings, wordplay, irregular quotation forms, institutional terms and source-visible numerical inconsistencies rather than silently normalising them.
 
-The 3731–3735 batch likewise preserves the printed *Hindu* headline and community terminology in 3731; both Narippaiyur cost figures and Kalaignar's `விதி` rule/fate wordplay in 3732; attributed newspaper criticism, Assembly procedural references and the `ரன்-த்ரூ` metaphor in 3733; source folk-superstition terminology in 3734; and the unreconciled fisheries statistical periods already documented in the 3735 pilot.
+The 3736–3745 batch follows the same rule. It retains the long source English passages and Tamil restatements in 3736; scan-visible punctuation in 3737; source legal/statistical claims and `தண்டிக்கப் பட்டு` in 3738; the restored `கண்ணீர் அஞ்சலி!` closing and source parenthesis in 3739; attributed Minjur tender/bribery allegations in 3740; refugee/human-rights claims and the verified PDF 253 forms in 3741; attributed land/military claims in 3742; the approved `கழுதையே` reading and satire in 3743; the verified PDF 270 assault wording and repaired page boundary in 3744; and the welfare-board figures and verified joined forms in 3745.
 
 ## Style lock
 
@@ -65,4 +66,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** have passed the sourc
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3736–3740 — PDF 220–248 / printed 219–247**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3746–3750 — PDF 280–318 / printed 279–317**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
