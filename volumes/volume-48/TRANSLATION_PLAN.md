@@ -1,6 +1,6 @@
 # Volume 48 English Translation Plan — alignment in progress
 
-English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 5/58 verified**.
+English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 10/58 verified**.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -53,7 +53,7 @@ All three pilots are source-checked and were reviewed/reused at their correct se
 3. `reviewed`
 4. `verified`
 
-All 58 letters have reached at least **`source-checked`**. Letters **3706–3710** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
+All 58 letters have reached at least **`source-checked`**. Letters **3706–3715** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
 
 ## Completed translation sequence
 
@@ -95,7 +95,17 @@ The Tamil source is already scan-verified. **Alignment QA does not modify canoni
 
 The corrections restored accusation-versus-guilt distinctions in 3706, removed the unsupported English word `costs` in 3707, and preserved *Dinamani*'s source-visible legal wording in 3708. Letters 3709–3710 required no substantive English correction.
 
-Alignment totals: **5/58 verified; 53 remain**.
+### Completed alignment batch 2 — 3711–3715
+
+- Coverage: **PDF 57–91 / printed 56–90**
+- Result: **5/5 verified**
+- Report: [BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md)
+- Targeted English corrections: **2**, in 3713 and 3715
+- Canonical Tamil changes: **0**
+
+The corrections restore Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State** in 3713 and remove the unsupported qualifier `historical` from the rendering of `ஒரு காவியமல்ல` in 3715. Letters 3711, 3712 and 3714 required no substantive English correction.
+
+Alignment totals: **10/58 verified; 48 remain**.
 
 ## Final-batch source-preservation lock
 
@@ -111,6 +121,6 @@ The 3757–3763 translations preserve the audited source rather than silently no
 
 ## Next alignment batch
 
-Proceed with **letters 3711–3715 — PDF 57–91 / printed 56–90**.
+Proceed with **letters 3716–3720 — PDF 92–128 / printed 91–127**.
 
 After all 58 letters are verified, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
