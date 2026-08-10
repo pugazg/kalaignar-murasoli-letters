@@ -8,9 +8,10 @@ source_pdf_page_start: 92
 source_pdf_page_end: 98
 source_printed_page_start: 91
 source_printed_page_end: 97
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -34,7 +35,7 @@ There must be a credible, independent international investigation into the war c
 
 Rajapaksa must answer to the nations of the world under international law, the letter argues, for atrocities without precedent in history—including the shooting and killing of Balachandran, the twelve-year-old son of Liberation Tigers leader Prabhakaran, and the killing of many thousands of children, women and elderly people.
 
-The Government of India must announce without even a moment's delay that it wholeheartedly supports the resolution being brought before the U.N. Human Rights Council condemning the genocide alleged to have taken place in Sri Lanka; and the Government of India itself must take forward an appropriate resolution for a general vote to protect the Eelam Tamils.
+The Government of India must announce without even a moment's delay that it wholeheartedly supports the resolution being brought before the U.N. Human Rights Council condemning the genocide alleged to have taken place in Sri Lanka; and the Government of India itself must take forward an appropriate resolution for a referendum to protect the Eelam Tamils.
 
 For these demands, I appeal to everyone to participate in a one-day strike—beyond party differences, without departing from democratic principles, peacefully and through the path of moral protest—with the understanding that this is a fundamental duty we must carry out for the Eelam Tamils, our own kin bound to us by the umbilical cord.
 
