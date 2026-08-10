@@ -32,4 +32,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3738 — மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்!](3738-a-repeated-appeal.md)
 - அடுத்த கடிதம்: [3740 — வருமுன் காப்பதா? வந்தபின் தவிப்பதா?](3740-prevent-before-or-suffer-after.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Two Unforgettable Gems! Kalaignar's Condolence Letter!](../translations/en/letters/3739-two-unforgettable-gems-condolence-letter.md) — source-checked; bilingual alignment pending
