@@ -61,7 +61,12 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | துணை நகரம் / துணைக்கோள் நகரம் | **satellite town** | approved | In letter 3729 the source exploits `துணை` as both “companion” and part of “satellite town”; that wordplay is explained in the letter note. |
 | கச்சத் தீவு | **Katchatheevu** | approved | Normal English treatment in translated prose; exact source-English variants such as `Kachativu`, `Katcha Theevu` and `Katcha Theeve` remain unchanged inside source quotations. |
 | முழு அடைப்புப் போராட்டம் | **shutdown** / **general strike** | context-dependent | Chosen by context; quoted criticism in 3720 uses “shutdown”, while mobilisation passages may use “general strike”. |
+| சமச்சீர் கல்வி | **Samacheer Kalvi** | approved | Tamil policy name retained in letters 3752 and 3755 rather than replaced by an invented official English title. |
+| தமிழ்ப் பயிற்று மொழி / தமிழ் வழி | **Tamil as the medium of instruction / Tamil-medium** | context-dependent | Used in letter 3755; exact source-English parentheticals such as `(through the Medium of Tamil)` remain untouched where printed. |
+| அறிவியல் தமிழ் | **Scientific Tamil** | source-specific | Subject name in letter 3755; translated closely without adding a modern programme description. |
+| சர்வதேசப் பொது மன்னிப்பு அவை | **Amnesty International** | approved | Organisation named in letter 3754; allegations and findings attributed to its report remain explicitly source-framed. |
+| சிப்காட் | **SIPCOT** | approved | Industrial-development corporation acronym used in letter 3753. |
 
 ## Translation-stage note
 
-The representative pilot confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. Sequential source-checked coverage now runs through **3745**; pilot 3743 has been reviewed/reused in sequence and pilot 3756 remains ahead. Exact English already printed in the source remains untouched inside quotations, even when spelling or punctuation differs from the glossary form.
+The representative pilot confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. Sequential source-checked coverage now runs continuously through **3756**; all three pilot letters 3735, 3743 and 3756 have been reviewed/reused at their proper sequential positions. Exact English already printed in the source remains untouched inside quotations, even when spelling or punctuation differs from the glossary form.

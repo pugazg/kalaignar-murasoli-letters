@@ -15,7 +15,7 @@
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
-- English translation **in progress**: **46/58** letters translated and source-checked — sequential letters **3706–3750** plus pilot letter **3756**. Bilingual alignment pending.
+- English translation **in progress**: **51/58** letters translated and source-checked — continuous sequential coverage **3706–3756**. Bilingual alignment pending.
 
 ## Transcription iterations
 
@@ -44,7 +44,7 @@
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
-| English translation | 3706–3750, 3756 | **46/58 source-checked; in progress** |
+| English translation | 3706–3756 | **51/58 source-checked; in progress** |
 | Bilingual alignment / editorial release | — | not started |
 
 The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found.
@@ -53,7 +53,7 @@ Known preserved source distinctions include the letter-3749 contents/start-page 
 
 ## English translation
 
-The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3750**:
+The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3756**:
 
 - batch 1: **3706–3710 / PDF 24–56**
 - batch 2: **3711–3715 / PDF 57–91**
@@ -61,20 +61,18 @@ The representative pilot is complete and the style lock is active. Sequential so
 - batch 4: **3731–3735 / PDF 193–219** — existing pilot 3735 reviewed/reused in sequence
 - user-authorised 10-letter batch 5: **3736–3745 / PDF 220–279** — existing pilot 3743 reviewed/reused in sequence
 - batch 6: **3746–3750 / PDF 280–318**
+- batch 7: **3751–3755 / PDF 319–352**
+- existing pilot **3756 / PDF 353–355** — reviewed/reused at the sequential boundary
 
-The remaining representative pilot translation outside sequential coverage is:
+All **51** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
 
-- [3756 — Will Amma’s Plans Stop at Announcements!](translations/en/letters/3756-will-ammas-plans-stop-with-announcements.md)
-
-All **46** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
-
-Source-specific anomalies continue to be preserved rather than silently corrected. The 3746–3750 batch retains exact source English in the UPA, Rajaji, Katchatheevu and NASA passages; the scan-visible cross-page figure on PDF 289–290; the scan-corrected High Court quotation and PDF 298 initials; the letter-3749 start-page subtitle `கலைஞர் தொடர் கடிதம்-3`; the corrected `இராபர்ட் பிரிஸ்டோ`; the restored `கூறினர்`; and the source project, environmental and historical claims with their attribution intact.
+Source-specific anomalies continue to be preserved rather than silently corrected. The 3751–3755 batch keeps the 3751 allocation/percentage and agriculture-figure tensions plus scan-proven `நெருக்கடிகளுக்கு`; exact N.O.C. English and attributed legal/tender material in 3752; `One Man Show`, source `ASSO CHAMP` / `BIZCON` and source investment figures in 3753; Amnesty International and related allegations explicitly attributed in 3754; and the intentional English/legal identifiers plus sleeping-tiger proverb in 3755. Existing pilot 3756 was reviewed and reused without duplication.
 
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-Sequential English translation batch **3751–3755 — PDF 319–352 / printed 318–351**. All five source letters have already passed the scan-based textual-fidelity gate.
+Sequential English translation batch **3757–3761 — PDF 356–386 / printed 355–385**. All five source letters have already passed the scan-based textual-fidelity gate.
 
 ## முக்கிய இணைப்புகள்
 

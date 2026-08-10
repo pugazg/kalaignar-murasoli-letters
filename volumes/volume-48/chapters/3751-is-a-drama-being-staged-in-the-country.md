@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3750 — எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்!](3750-let-us-work-for-rising-day-success.md)
 - அடுத்த கடிதம்: [3752 — “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை!](3752-blocking-sethu-destroying-tamil-livelihoods.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Isn’t a Drama Being Staged in the Country!](../translations/en/letters/3751-is-a-drama-being-staged-in-the-country.md) — source-checked; bilingual alignment pending

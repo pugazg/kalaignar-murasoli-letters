@@ -6,30 +6,32 @@ The Tamil source layer is fully ready for translation: the full-volume structura
 
 ## Translation progress
 
-The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3750**.
+The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3756**.
 
 ### Sequential coverage — source-checked
 
 - **3706–3710** — PDF 24–56
 - **3711–3715** — PDF 57–91
 - **3716–3730** — PDF 92–192, completed as a user-authorised 15-letter batch
-- **3731–3735** — PDF 193–219; the existing 3735 pilot was reviewed/reused rather than duplicated
-- **3736–3745** — PDF 220–279, completed as a user-authorised 10-letter batch; the existing 3743 pilot was visually reviewed/reused rather than duplicated
+- **3731–3735** — PDF 193–219; existing 3735 pilot reviewed/reused rather than duplicated
+- **3736–3745** — PDF 220–279, completed as a user-authorised 10-letter batch; existing 3743 pilot reviewed/reused rather than duplicated
 - **3746–3750** — PDF 280–318
+- **3751–3755** — PDF 319–352
+- **3756** — PDF 353–355; existing source-checked pilot reviewed/reused at the sequential boundary
 
 For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md).
 
-### Representative pilot — source-checked
+### Representative pilot — source-checked and now reused in sequence
 
-- [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219 — now within sequential coverage
-- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](letters/3743-dream-or-reality-donkey-keep-quiet.md) — PDF 260–266 — now within sequential coverage
+- [3735 — Couldn’t a Statement Be Read for This Too?](letters/3735-can-an-announcement-be-read-for-this.md) — PDF 216–219
+- [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](letters/3743-dream-or-reality-donkey-keep-quiet.md) — PDF 260–266
 - [3756 — Will Amma’s Plans Stop at Announcements!](letters/3756-will-ammas-plans-stop-with-announcements.md) — PDF 353–355
 
 Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
-**Counts:** **46 / 58** letters translated and source-checked; **12** remain untranslated. Bilingual alignment is still pending.
+**Counts:** **51 / 58** letters translated and source-checked; **7** remain untranslated. Bilingual alignment is still pending.
 
-The translated set is sequential **3706–3750**, plus pilot letter **3756**.
+The translated set is continuous and sequential **3706–3756**.
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
@@ -37,7 +39,7 @@ See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.
 
 Earlier sequential batches preserve source-specific English, spellings, wordplay, irregular quotation forms, institutional terms and source-visible numerical inconsistencies rather than silently normalising them.
 
-The 3746–3750 batch follows the same rule. It retains the printed UPA Common Minimum Programme sentence and Rajaji English in 3746; the scan-visible standalone `2` across PDF 289–290 and the corrected High Court quotation in 3747; the source’s exact Katchatheevu correspondence and spelling variants, plus scan-corrected initials on PDF 298, in 3748; the start-page subtitle `கலைஞர் தொடர் கடிதம்-3`, corrected `இராபர்ட் பிரிஸ்டோ`, and restored `கூறினர்` in 3749; and the source NASA disclaimer, source geographic wording and project figures in 3750. Historical, scientific, environmental and legal claims remain attributed to the speakers, documents or institutions named by the Tamil source rather than being externally normalised.
+The 3751–3755 batch follows the same rule. Letter 3751 preserves the printed allocation/percentage tension, both agriculture announcement totals and the scan-proven PDF 321 form `நெருக்கடிகளுக்கு`. Letter 3752 retains the exact source-English N.O.C. passage, translates the cited High Court material as the source presents it and keeps the tender allegation attributed. Letter 3753 retains `One Man Show`, `Blocks`, `Special Task Force`, the source forms `ASSO CHAMP` / `BIZCON`, and source investment/ranking figures without outside correction. Letter 3754 preserves serious Amnesty International and related allegations as attributed source material, including names and the source's figure of 15 in the Muttur account. Letter 3755 retains intentional English/legal expressions such as `(as a subject)`, `(through the Medium of Tamil)`, `(State Board)`, `(Quash)`, `(SLP)` and `SLP Civil No.13299-13301/2000`, and keeps the final tiger proverb close to its Tamil image. Existing pilot 3756 was reviewed/reused without duplication.
 
 ## Style lock
 
@@ -67,4 +69,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** have passed the sourc
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3751–3755 — PDF 319–352 / printed 318–351**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3757–3761 — PDF 356–386 / printed 355–385**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.

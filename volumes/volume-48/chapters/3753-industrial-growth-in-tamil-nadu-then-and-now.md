@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3752 — “சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை!](3752-blocking-sethu-destroying-tamil-livelihoods.md)
 - அடுத்த கடிதம்: [3754 — ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை?](3754-does-this-cruelty-still-continue-in-eelam.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Industrial Growth in Tamil Nadu: Then and Now!](../translations/en/letters/3753-industrial-growth-in-tamil-nadu-then-and-now.md) — source-checked; bilingual alignment pending

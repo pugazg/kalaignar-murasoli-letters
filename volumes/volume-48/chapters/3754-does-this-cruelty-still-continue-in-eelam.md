@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3753 — தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்!](3753-industrial-growth-in-tamil-nadu-then-and-now.md)
 - அடுத்த கடிதம்: [3755 — தூங்கும் புலியை இடறுகிறார்கள்!](3755-they-are-prodding-a-sleeping-tiger.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Must This Cruelty Still Continue in Eelam?](../translations/en/letters/3754-does-this-cruelty-still-continue-in-eelam.md) — source-checked; bilingual alignment pending

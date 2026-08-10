@@ -50,7 +50,7 @@ The master processing guide requires three representative pilot letters for the 
 | 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story |
 | 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures |
 
-All three pilot letters are **translated and source-checked**. Letters 3735 and 3743 have also been reviewed/reused at their proper places in the sequential run. Their bilingual alignment remains pending. The pilot confirms the Volume 49 style lock for titles, `Udanpirappē`, the closing, Rule 110, `lakh`/`crore`, quotations, minimal notes and complete Tamil reproduction. Volume-specific terms are recorded in `translations/en/GLOSSARY.md`.
+All three pilot letters are **translated and source-checked**, and all three have now been reviewed/reused at their proper places in the sequential run. Their bilingual alignment remains pending. The pilot confirms the Volume 49 style lock for titles, `Udanpirappē`, the closing, Rule 110, `lakh`/`crore`, quotations, minimal notes and complete Tamil reproduction. Volume-specific terms are recorded in `translations/en/GLOSSARY.md`.
 
 ## Status progression
 
@@ -68,14 +68,14 @@ After the representative pilot, continue sequentially in batches of approximatel
 - **Batch 1: 3706–3710 — complete; five letters translated and source-checked.**
 - **Batch 2: 3711–3715 — complete; five letters translated and source-checked.**
 - **User-authorised large batch 3: 3716–3730 — complete; fifteen letters translated and source-checked, PDF 92–192 / printed 91–191.**
-- **Batch 4: 3731–3735 — complete; five letters source-checked, PDF 193–219 / printed 192–218.** The existing 3735 pilot was reviewed/reused in sequence rather than duplicated.
-- **User-authorised 10-letter batch 5: 3736–3745 — complete; PDF 220–279 / printed 219–278.** Nine new translations were created and the existing source-checked 3743 pilot was visually reviewed and reused in sequence rather than duplicated.
+- **Batch 4: 3731–3735 — complete; five letters source-checked, PDF 193–219 / printed 192–218.** Existing pilot 3735 was reviewed/reused in sequence rather than duplicated.
+- **User-authorised 10-letter batch 5: 3736–3745 — complete; PDF 220–279 / printed 219–278.** Nine new translations were created and existing pilot 3743 was reviewed/reused in sequence rather than duplicated.
 - **Batch 6: 3746–3750 — complete; five letters translated and source-checked, PDF 280–318 / printed 279–317.**
-- **Next sequential batch: 3751–3755 — PDF 319–352 / printed 318–351.**
+- **Batch 7: 3751–3755 — complete; five letters translated and source-checked, PDF 319–352 / printed 318–351.**
+- **Existing pilot 3756 — PDF 353–355 / printed 352–354 — reviewed/reused at the sequential boundary; no duplicate created.**
+- **Next sequential batch: 3757–3761 — PDF 356–386 / printed 355–385.**
 
-When sequential coverage reaches pilot letter 3756, reuse and review the existing translation rather than creating a duplicate file.
-
-Current totals: **46 / 58 translated and source-checked**; **12 remain untranslated**. The translated set is sequential **3706–3750** plus pilot letter **3756**.
+Current totals: **51 / 58 translated and source-checked**; **7 remain untranslated**. The translated set is now continuous and sequential **3706–3756**.
 
 ## Remaining stages
 

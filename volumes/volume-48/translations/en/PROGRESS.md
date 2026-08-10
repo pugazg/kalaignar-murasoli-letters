@@ -5,9 +5,9 @@
 - [x] Full-volume second visual/textual-fidelity audit complete — PDF 1–402 / letters 3706–3763
 - [x] Translation plan activated after fidelity gate completion
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
-- [x] Pilot letter 3735 translated and source-checked — ordinary policy/political letter
-- [x] Pilot letter 3743 translated and source-checked — rhetorically/culturally difficult letter
-- [x] Pilot letter 3756 translated and source-checked — quotation-heavy policy letter
+- [x] Pilot letter 3735 translated and source-checked — ordinary policy/political letter; reused in sequence
+- [x] Pilot letter 3743 translated and source-checked — rhetorically/culturally difficult letter; reused in sequence
+- [x] Pilot letter 3756 translated and source-checked — quotation-heavy policy letter; reviewed/reused at sequential boundary
 - [x] Pilot glossary established and style decisions reviewed
 - [ ] Sequential bulk translation — in progress
   - [x] Batch 1: letters 3706–3710 — PDF 24–56 / printed 23–55
@@ -16,7 +16,9 @@
   - [x] Batch 4: letters 3731–3735 — PDF 193–219 / printed 192–218; existing 3735 pilot reviewed/reused in sequence
   - [x] User-authorised 10-letter batch 5: letters 3736–3745 — PDF 220–279 / printed 219–278; existing 3743 pilot reviewed/reused in sequence
   - [x] Batch 6: letters 3746–3750 — PDF 280–318 / printed 279–317
-  - [ ] Next: letters 3751–3755 — PDF 319–352 / printed 318–351
+  - [x] Batch 7: letters 3751–3755 — PDF 319–352 / printed 318–351
+  - [x] Existing pilot 3756 — PDF 353–355 / printed 352–354; reviewed/reused at sequential boundary
+  - [ ] Next: letters 3757–3761 — PDF 356–386 / printed 355–385
 - [ ] Bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
@@ -29,7 +31,7 @@ The Volume 48 pilot deliberately uses three non-consecutive representative lette
 |---:|---|---|---|---|
 | 3735 | PDF 216–219 | ordinary policy/political argument, with fisheries statistics | source-checked; reused in sequence | pending |
 | 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked; reused in sequence | pending |
-| 3756 | PDF 353–355 | long quoted announcement/newspaper material and figures | source-checked | pending |
+| 3756 | PDF 353–355 | long quoted announcement/newspaper material and figures | source-checked; reviewed/reused in sequence | pending |
 
 ## Sequential batch 1 — 3706–3710
 
@@ -106,17 +108,28 @@ All five are translated and source-checked against the already-audited canonical
 - [3749 — The Sethu Project That Does Not Hurt Hindus in the Least! — Kalaignar Serial Letter 3](letters/3749-sethu-project-that-does-not-hurt-hindus.md) — PDF 305–311
 - [3750 — Let Us Work to Make Ezhuchi Naal a Success!](letters/3750-let-us-work-for-rising-day-success.md) — PDF 312–318
 
-This batch deliberately preserves the source layer rather than smoothing it: the printed UPA and Rajaji English in 3746; the standalone `2` across PDF 289–290 and the scan-corrected High Court quotation in 3747; the exact Katchatheevu spellings and English correspondence plus corrected initials on PDF 298 in 3748; the start-page subtitle `கலைஞர் தொடர் கடிதம்-3`, corrected `இராபர்ட் பிரிஸ்டோ`, and restored `கூறினர்` in 3749; and the source NASA disclaimer and source-specific geographic/project wording in 3750. Claims and quotations remain attributed to the speakers, documents and institutions named by the Tamil source.
+## Sequential batch 7 — 3751–3755, followed by pilot 3756 reuse
+
+All five new letters are translated and source-checked against the audited canonical Tamil and the source scan. The already source-checked pilot 3756 was reviewed/reused at the sequential boundary rather than duplicated, so continuous source-checked coverage now reaches 3756:
+
+- [3751 — Isn’t a Drama Being Staged in the Country!](letters/3751-is-a-drama-being-staged-in-the-country.md) — PDF 319–325
+- [3752 — A Roadblock for “Sethu”! An Act That Will Ruin Tamil Livelihoods!](letters/3752-blocking-sethu-destroying-tamil-livelihoods.md) — PDF 326–332
+- [3753 — Industrial Growth in Tamil Nadu: Then and Now!](letters/3753-industrial-growth-in-tamil-nadu-then-and-now.md) — PDF 333–339
+- [3754 — Must This Cruelty Still Continue in Eelam?](letters/3754-does-this-cruelty-still-continue-in-eelam.md) — PDF 340–346
+- [3755 — They Are Prodding a Sleeping Tiger!](letters/3755-they-are-prodding-a-sleeping-tiger.md) — PDF 347–352
+- [3756 — Will Amma’s Plans Stop at Announcements!](letters/3756-will-ammas-plans-stop-with-announcements.md) — PDF 353–355 — existing pilot reviewed/reused
+
+Source-specific forms are preserved rather than normalised. Letter 3751 retains the source-visible allocation/percentage tension, both ₹984.70-crore and ₹965-crore agriculture figures, and the scan-proven `நெருக்கடிகளுக்கு` on PDF 321. Letter 3752 retains the exact printed N.O.C. English passage and keeps legal and tender allegations attributed. Letter 3753 retains intentional English such as `One Man Show`, `Blocks` and `Special Task Force`, and the source forms `ASSO CHAMP` / `BIZCON`. Letter 3754 keeps Amnesty International and other serious allegations explicitly attributed and preserves the source's Muttur figure of 15 rather than reconciling it externally. Letter 3755 retains the printed English/legal forms `(as a subject)`, `(through the Medium of Tamil)`, `(State Board)`, `(Quash)`, `(SLP)` and `SLP Civil No.13299-13301/2000`, and keeps the sleeping-tiger proverb close to its Tamil image.
 
 ## Counts
 
 - Total letters: **58**
-- English translations created: **46 / 58**
-- Source-checked translations: **46 / 58**
+- English translations created: **51 / 58**
+- Source-checked translations: **51 / 58**
 - Bilingual-alignment verified: **0 / 58**
-- Remaining untranslated letters: **12**
+- Remaining untranslated letters: **7**
 
-The translated set is now sequential **3706–3750**, plus pilot letter **3756**.
+The translated set is now sequential **3706–3756**.
 
 ## Style lock
 
@@ -135,4 +148,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3751–3755 — PDF 319–352 / printed 318–351**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3757–3761 — PDF 356–386 / printed 355–385**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.

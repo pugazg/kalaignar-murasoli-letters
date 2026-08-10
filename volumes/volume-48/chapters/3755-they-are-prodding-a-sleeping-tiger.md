@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3754 — ஈழத்தில் இன்னமும் தொடர்வதா இந்தக் கொடுமை?](3754-does-this-cruelty-still-continue-in-eelam.md)
 - அடுத்த கடிதம்: [3756 — அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!](3756-will-ammas-plans-stop-with-announcements.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [They Are Prodding a Sleeping Tiger!](../translations/en/letters/3755-they-are-prodding-a-sleeping-tiger.md) — source-checked; bilingual alignment pending

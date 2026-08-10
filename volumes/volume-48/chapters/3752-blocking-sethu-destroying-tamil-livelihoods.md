@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!](3751-is-a-drama-being-staged-in-the-country.md)
 - அடுத்த கடிதம்: [3753 — தமிழகத்தில் தொழில் வளர்ச்சி; அன்றும் - இன்றும்!](3753-industrial-growth-in-tamil-nadu-then-and-now.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [A Roadblock for “Sethu”! An Act That Will Ruin Tamil Livelihoods!](../translations/en/letters/3752-blocking-sethu-destroying-tamil-livelihoods.md) — source-checked; bilingual alignment pending

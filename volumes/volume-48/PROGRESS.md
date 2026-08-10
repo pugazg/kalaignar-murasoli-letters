@@ -35,15 +35,17 @@
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278; 31/31 pages source-checked; 9 scan-proven findings affecting 7 canonical pages
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317; 39/39 pages source-checked; 5 corrections on 4 canonical pages
   - [x] User-authorised final fidelity batch: letters 3751–3763 — PDF 319–400 / printed 318–399, plus PDF 401–402; 84/84 pages source-checked; 2 corrections on PDF 321 and 399
-- [ ] English translation — **in progress: 46/58 source-checked**
-  - [x] Representative pilot: 3735, 3743, 3756
+- [ ] English translation — **in progress: 51/58 source-checked**
+  - [x] Representative pilot: 3735, 3743, 3756 — all now reviewed/reused in sequence
   - [x] Sequential bulk batch 1: 3706–3710 — PDF 24–56
   - [x] Sequential bulk batch 2: 3711–3715 — PDF 57–91
   - [x] User-authorised large sequential batch 3: 3716–3730 — PDF 92–192
   - [x] Sequential batch 4: 3731–3735 — PDF 193–219; reused/reviewed existing pilot 3735
   - [x] User-authorised 10-letter sequential batch 5: 3736–3745 — PDF 220–279; reused/reviewed existing pilot 3743
   - [x] Sequential batch 6: 3746–3750 — PDF 280–318
-  - [ ] Next sequential batch: 3751–3755 — PDF 319–352
+  - [x] Sequential batch 7: 3751–3755 — PDF 319–352
+  - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused at sequential boundary
+  - [ ] Next sequential batch: 3757–3761 — PDF 356–386
 - [ ] Bilingual alignment and editorial release
 
 ## Full-volume structural audit
@@ -60,17 +62,19 @@ Final fidelity batch: **3751–3763 / PDF 319–400**, plus PDF **401–402**, w
 
 ## English translation
 
-The representative pilots **3735, 3743 and 3756** and sequential letters **3706–3750** have now been translated and source-checked using the locked Volume 49 style. Existing pilots 3735 and 3743 were reviewed and reused when sequential coverage reached them; no duplicates were created.
+The representative pilots **3735, 3743 and 3756** and sequential letters **3706–3756** have now been translated and source-checked using the locked Volume 49 style. All three pilots have now been reviewed and reused when sequential coverage reached them; no duplicate pilot files were created.
 
-Every translated file reproduces the complete audited Tamil beneath the English and retains source attribution, quotations, figures, rhetoric and intentional English text. Sequential batch **3746–3750 / PDF 280–318** was visually checked across its complete scan range; the already documented scan corrections and source-specific English, page-boundary, title and numerical forms were preserved rather than silently normalised.
+Every translated file reproduces the complete audited Tamil beneath the English and retains source attribution, quotations, figures, rhetoric and intentional English text. Sequential batch **3751–3755 / PDF 319–352** was checked against the scan-audited source range. The already source-checked **3756 / PDF 353–355** pilot was reviewed/reused immediately afterward, producing continuous sequential coverage through 3756.
 
-Current counts: **46 / 58 translated and source-checked; 12 untranslated**. Bilingual alignment remains pending.
+The batch preserves source-specific anomalies rather than silently correcting them, including the 3751 allocation/percentage and agriculture-figure tensions plus scan-proven `நெருக்கடிகளுக்கு`; the exact N.O.C. English and attributed legal/tender material in 3752; `One Man Show`, `ASSO CHAMP` and `BIZCON` in 3753; explicitly attributed Amnesty International and related allegations in 3754; and the source English/legal identifiers and sleeping-tiger proverb in 3755.
+
+Current counts: **51 / 58 translated and source-checked; 7 untranslated**. Bilingual alignment remains pending.
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Proceed with sequential translation batch **3751–3755 — PDF 319–352 / printed 318–351**. All five Tamil source letters have passed the scan-based textual-fidelity gate.
+Proceed with sequential translation batch **3757–3761 — PDF 356–386 / printed 355–385**. All five Tamil source letters have passed the scan-based textual-fidelity gate.
 
 ## Transcription status
 
