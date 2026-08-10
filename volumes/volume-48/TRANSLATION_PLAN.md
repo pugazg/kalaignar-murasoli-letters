@@ -1,6 +1,6 @@
 # Volume 48 English Translation Plan — alignment in progress
 
-English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 10/58 verified**.
+English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 15/58 verified**.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -53,7 +53,7 @@ All three pilots are source-checked and were reviewed/reused at their correct se
 3. `reviewed`
 4. `verified`
 
-All 58 letters have reached at least **`source-checked`**. Letters **3706–3715** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
+All 58 letters have reached at least **`source-checked`**. Letters **3706–3720** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
 
 ## Completed translation sequence
 
@@ -105,7 +105,17 @@ The corrections restored accusation-versus-guilt distinctions in 3706, removed t
 
 The corrections restore Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State** in 3713 and remove the unsupported qualifier `historical` from the rendering of `ஒரு காவியமல்ல` in 3715. Letters 3711, 3712 and 3714 required no substantive English correction.
 
-Alignment totals: **10/58 verified; 48 remain**.
+### Completed alignment batch 3 — 3716–3720
+
+- Coverage: **PDF 92–128 / printed 91–127**
+- Result: **5/5 verified**
+- Report: [BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md)
+- Targeted English corrections: **3**, in 3716, 3717 and 3720
+- Canonical Tamil changes: **0**
+
+The corrections restore `பொது வாக்கெடுப்பு` as **referendum** in 3716, remove the unsupported technical qualifier **grade-separated** from the elevated-road request in 3717, and remove the unsupported **“or sanction”** addition from `இலங்கைக்குக் கெடு விதித்திட` in 3720. Letters 3718 and 3719 required no substantive English correction; 3719 continues to preserve the source-visible `இறுதித் தீர்ப்பு` anomaly in its 1998 passage.
+
+Alignment totals: **15/58 verified; 43 remain**.
 
 ## Final-batch source-preservation lock
 
@@ -121,6 +131,6 @@ The 3757–3763 translations preserve the audited source rather than silently no
 
 ## Next alignment batch
 
-Proceed with **letters 3716–3720 — PDF 92–128 / printed 91–127**.
+Proceed with **letters 3721–3725 — PDF 129–161 / printed 128–160**.
 
 After all 58 letters are verified, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
