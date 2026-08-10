@@ -15,7 +15,7 @@
 - PDF **401** blank printed page 400 ஆகவும் PDF **402** back cover ஆகவும் பாதுகாக்கப்பட்டுள்ளன.
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
-- English translation **in progress**: **28/58** letters translated and source-checked — sequential letters **3706–3730** plus pilot letters **3735, 3743, 3756**. Bilingual alignment pending.
+- English translation **in progress**: **32/58** letters translated and source-checked — sequential letters **3706–3735** plus pilot letters **3743, 3756**. Bilingual alignment pending.
 
 ## Transcription iterations
 
@@ -44,7 +44,7 @@
 | Full-volume Tamil structural audit | PDF 1–402 / letters 3706–3763 | **PASS** |
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
-| English translation | 3706–3730, 3735, 3743, 3756 | **28/58 source-checked; in progress** |
+| English translation | 3706–3735, 3743, 3756 | **32/58 source-checked; in progress** |
 | Bilingual alignment / editorial release | — | not started |
 
 The final user-authorised fidelity batch covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, for **84/84 pages** directly compared with the source scan. Two scan-proven corrections were applied: PDF **321** changes `நெருக்கடி களுக்கு` to the source-visible `நெருக்கடிகளுக்கு`, and PDF **399** changes `அனுபவ ரீதியாகத்` to the source-visible `அனுபவரீதியாகத்`. No missing large passage, duplicate passage, letter-boundary, title or closing/date error was found.
@@ -53,27 +53,27 @@ Known preserved source distinctions include the letter-3749 contents/start-page 
 
 ## English translation
 
-The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3730**:
+The representative pilot is complete and the style lock is active. Sequential source-checked coverage now runs continuously from **3706 through 3735**:
 
 - batch 1: **3706–3710 / PDF 24–56**
 - batch 2: **3711–3715 / PDF 57–91**
 - user-authorised large batch 3: **3716–3730 / PDF 92–192**
+- batch 4: **3731–3735 / PDF 193–219** — existing pilot 3735 reviewed/reused in sequence
 
-The three representative pilot translations remain:
+The remaining representative pilot translations outside sequential coverage are:
 
-- [3735 — Couldn’t a Statement Be Read for This Too?](translations/en/letters/3735-can-an-announcement-be-read-for-this.md)
 - [3743 — Dream or Reality? Is This the Tale of “Donkey, Keep Quiet”?](translations/en/letters/3743-dream-or-reality-donkey-keep-quiet.md)
 - [3756 — Will Amma’s Plans Stop at Announcements!](translations/en/letters/3756-will-ammas-plans-stop-with-announcements.md)
 
-All **28** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
+All **32** translated letters are `source-checked`, use the approved translator’s note, retain source attribution and rhetoric, and reproduce the complete audited Tamil beneath the English translation. The detailed per-letter index is in [translations/en/PROGRESS.md](translations/en/PROGRESS.md).
 
-Source-specific anomalies encountered in the 3716–3730 batch were preserved rather than silently corrected, including exact printed English, Katchatheevu spelling variants, the 3719 `final award` wording, the 3729 `துணை` wordplay and the malformed/unbalanced source quotation in 3730.
+Source-specific anomalies continue to be preserved rather than silently corrected. The 3731–3735 batch retains the printed *Hindu* headline and community terminology, both Narippaiyur cost figures, the `விதி` rule/fate wordplay, attributed newspaper criticism and Assembly procedural references, folk-superstition terminology, and the fisheries statistical inconsistency already documented in the 3735 pilot.
 
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-Sequential English translation batch **3731–3735 — PDF 193–219 / printed 192–218**. Letter **3735** already has a source-checked pilot translation and must be reviewed/reused in sequence rather than recreated.
+Sequential English translation batch **3736–3740 — PDF 220–248 / printed 219–247**. All five source letters have already passed the scan-based textual-fidelity gate.
 
 ## முக்கிய இணைப்புகள்
 
