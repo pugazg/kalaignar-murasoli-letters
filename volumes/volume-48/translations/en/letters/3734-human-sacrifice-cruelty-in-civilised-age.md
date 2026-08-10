@@ -8,9 +8,10 @@ source_pdf_page_start: 213
 source_pdf_page_end: 215
 source_printed_page_start: 212
 source_printed_page_end: 214
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -42,7 +43,7 @@ When I read this report, the doubt pierced my thoughts: are we really living in 
 
 Yet even as we see and hear all this, marvelling at and celebrating the greatness of human knowledge, when reports of “seivinai—kudukuduppai fortune-teller—amulet—dosham—human sacrifice” fall upon our ears, one cannot help wondering whether, even after science has risen to astonishing heights, a section of humankind has still not escaped from the abyss called superstition.
 
-From time immemorial, Thanthai Periyar and, following him, the Self-Respect Movement have carried on immense rationalist propaganda. Yet even after all that, superstition—like a disease that kills one born alongside us, like weeds springing up in a good field—continues here and there to eat away at society. Completely uprooting this weed of superstition is among the finest forms of social service. It is an essential task that everyone must undertake, beyond politics and beyond differences of opinion.
+From time immemorial, Thanthai Periyar and, following him, the Self-Respect Movement have carried on immense rationalist propaganda. Yet even after all that, superstition—like a disease born with us that kills us, like weeds springing up in a good field—continues here and there to eat away at society. Completely uprooting this weed of superstition is among the finest forms of social service. It is an essential task that everyone must undertake, beyond politics and beyond differences of opinion.
 
 Thanthai Periyar said: “Only on the day all our people free themselves from superstitious customs and practices can we say that our country has attained true liberation.” Let us all remember those words and work tirelessly; that is what will serve the advancement of our society.
 
