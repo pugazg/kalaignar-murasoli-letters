@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3736 — மறைந்த தலைவர்களுக்கு மாசு கற்பித்தல் கூடாது!](3736-do-not-sully-departed-leaders.md)
 - அடுத்த கடிதம்: [3738 — மீண்டும், மீண்டும் விடுத்திடும் வேண்டுகோள்!](3738-a-repeated-appeal.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [What Do All Parties Expect in This Cooperative Election?](../translations/en/letters/3737-what-do-all-parties-expect-in-this-cooperative-election.md) — source-checked; bilingual alignment pending
