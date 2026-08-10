@@ -6,7 +6,7 @@ The Tamil source layer is fully ready for translation: the full-volume structura
 
 ## Translation progress
 
-The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3745**.
+The required three-letter representative pilot is source-checked, and sequential translation is now complete through **letter 3750**.
 
 ### Sequential coverage — source-checked
 
@@ -15,6 +15,7 @@ The required three-letter representative pilot is source-checked, and sequential
 - **3716–3730** — PDF 92–192, completed as a user-authorised 15-letter batch
 - **3731–3735** — PDF 193–219; the existing 3735 pilot was reviewed/reused rather than duplicated
 - **3736–3745** — PDF 220–279, completed as a user-authorised 10-letter batch; the existing 3743 pilot was visually reviewed/reused rather than duplicated
+- **3746–3750** — PDF 280–318
 
 For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md).
 
@@ -26,9 +27,9 @@ For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md)
 
 Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
-**Counts:** **41 / 58** letters translated and source-checked; **17** remain untranslated. Bilingual alignment is still pending.
+**Counts:** **46 / 58** letters translated and source-checked; **12** remain untranslated. Bilingual alignment is still pending.
 
-The translated set is sequential **3706–3745**, plus pilot letter **3756**.
+The translated set is sequential **3706–3750**, plus pilot letter **3756**.
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
@@ -36,7 +37,7 @@ See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.
 
 Earlier sequential batches preserve source-specific English, spellings, wordplay, irregular quotation forms, institutional terms and source-visible numerical inconsistencies rather than silently normalising them.
 
-The 3736–3745 batch follows the same rule. It retains the long source English passages and Tamil restatements in 3736; scan-visible punctuation in 3737; source legal/statistical claims and `தண்டிக்கப் பட்டு` in 3738; the restored `கண்ணீர் அஞ்சலி!` closing and source parenthesis in 3739; attributed Minjur tender/bribery allegations in 3740; refugee/human-rights claims and the verified PDF 253 forms in 3741; attributed land/military claims in 3742; the approved `கழுதையே` reading and satire in 3743; the verified PDF 270 assault wording and repaired page boundary in 3744; and the welfare-board figures and verified joined forms in 3745.
+The 3746–3750 batch follows the same rule. It retains the printed UPA Common Minimum Programme sentence and Rajaji English in 3746; the scan-visible standalone `2` across PDF 289–290 and the corrected High Court quotation in 3747; the source’s exact Katchatheevu correspondence and spelling variants, plus scan-corrected initials on PDF 298, in 3748; the start-page subtitle `கலைஞர் தொடர் கடிதம்-3`, corrected `இராபர்ட் பிரிஸ்டோ`, and restored `கூறினர்` in 3749; and the source NASA disclaimer, source geographic wording and project figures in 3750. Historical, scientific, environmental and legal claims remain attributed to the speakers, documents or institutions named by the Tamil source rather than being externally normalised.
 
 ## Style lock
 
@@ -66,4 +67,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** have passed the sourc
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3746–3750 — PDF 280–318 / printed 279–317**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3751–3755 — PDF 319–352 / printed 318–351**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.

@@ -35,4 +35,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3746 — காழ்ப்புணர்வின் உச்சகட்டம்!](3746-the-height-of-vindictiveness.md)
 - அடுத்த கடிதம்: [3748 — “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!”](3748-long-mouth-will-lose-truth-will-win.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Why Did Anna Declare a Day of Uprising?](../translations/en/letters/3747-why-did-anna-announce-rising-day.md) — source-checked; bilingual alignment pending

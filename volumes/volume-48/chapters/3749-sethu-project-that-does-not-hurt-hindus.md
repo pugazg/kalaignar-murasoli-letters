@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3748 — “வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!”](3748-long-mouth-will-lose-truth-will-win.md)
 - அடுத்த கடிதம்: [3750 — எழுச்சி நாள் வெற்றி பெற பணியாற்றுவோம்!](3750-let-us-work-for-rising-day-success.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [The Sethu Project That Does Not Hurt Hindus in the Least! — Kalaignar Serial Letter 3](../translations/en/letters/3749-sethu-project-that-does-not-hurt-hindus.md) — source-checked; bilingual alignment pending

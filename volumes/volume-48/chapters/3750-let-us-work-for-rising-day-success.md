@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3749 — இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர் கடிதம்-3](3749-sethu-project-that-does-not-hurt-hindus.md)
 - அடுத்த கடிதம்: [3751 — ஒரு நாடகமன்றோ நடக்குது நாட்டிலே!](3751-is-a-drama-being-staged-in-the-country.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Let Us Work to Make Ezhuchi Naal a Success!](../translations/en/letters/3750-let-us-work-for-rising-day-success.md) — source-checked; bilingual alignment pending

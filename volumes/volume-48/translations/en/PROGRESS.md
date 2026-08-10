@@ -15,7 +15,8 @@
   - [x] User-authorised large batch 3: letters 3716–3730 — PDF 92–192 / printed 91–191
   - [x] Batch 4: letters 3731–3735 — PDF 193–219 / printed 192–218; existing 3735 pilot reviewed/reused in sequence
   - [x] User-authorised 10-letter batch 5: letters 3736–3745 — PDF 220–279 / printed 219–278; existing 3743 pilot reviewed/reused in sequence
-  - [ ] Next: letters 3746–3750 — PDF 280–318 / printed 279–317
+  - [x] Batch 6: letters 3746–3750 — PDF 280–318 / printed 279–317
+  - [ ] Next: letters 3751–3755 — PDF 319–352 / printed 318–351
 - [ ] Bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
@@ -26,7 +27,7 @@ The Volume 48 pilot deliberately uses three non-consecutive representative lette
 
 | Letter | Source | Pilot role | Translation status | Alignment |
 |---:|---|---|---|---|
-| 3735 | PDF 216–219 | ordinary policy/political argument, with fisheries statistics | source-checked | pending |
+| 3735 | PDF 216–219 | ordinary policy/political argument, with fisheries statistics | source-checked; reused in sequence | pending |
 | 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked; reused in sequence | pending |
 | 3756 | PDF 353–355 | long quoted announcement/newspaper material and figures | source-checked | pending |
 
@@ -82,7 +83,7 @@ All five are translated and source-checked. Letter 3735 was the existing approve
 
 ## User-authorised 10-letter sequential batch 5 — 3736–3745
 
-All ten positions in the sequential range are now translated and source-checked. Nine new translation files were created; existing pilot letter 3743 was visually reviewed against PDF 260–266 and reused rather than duplicated:
+All ten positions are translated and source-checked; existing pilot 3743 was reviewed/reused rather than duplicated:
 
 - [3736 — Do Not Sully Departed Leaders!](letters/3736-do-not-sully-departed-leaders.md) — PDF 220–225
 - [3737 — What Do All Parties Expect in This Cooperative Election?](letters/3737-what-do-all-parties-expect-in-this-cooperative-election.md) — PDF 226–231
@@ -95,17 +96,27 @@ All ten positions in the sequential range are now translated and source-checked.
 - [3744 — Law and Order Turns to Dust in a State Ruled by a Woman!](letters/3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) — PDF 267–272
 - [3745 — Unorganised Workers—and Me!](letters/3745-unorganised-workers-and-me.md) — PDF 273–279
 
-The batch preserves source-specific difficulties rather than normalising them: long source English quotations and their Tamil restatements in 3736; the scan-visible `.செய்வதில்` punctuation on PDF 229 in 3737; legal/statistical source claims and `தண்டிக்கப் பட்டு` on PDF 236 in 3738; the restored `கண்ணீர் அஞ்சலி!` closing in 3739; attributed Minjur tender/bribery allegations in 3740; refugee and human-rights claims plus PDF 253 spacing/forms in 3741; attributed Sri Lanka land/military claims in 3742; the already-approved `கழுதையே` pilot reading and satire in 3743; the scan-proven `அலற அலறக் கற்பழிக்கப்பட்டிருக்கிறாள்` reading and repaired PDF 271–272 boundary in 3744; and all welfare-board figures plus PDF 274/279 joined forms in 3745.
+## Sequential batch 6 — 3746–3750
+
+All five are translated and source-checked against the already-audited canonical Tamil and the full scan range PDF 280–318:
+
+- [3746 — The Height of Vindictiveness!](letters/3746-the-height-of-vindictiveness.md) — PDF 280–286
+- [3747 — Why Did Anna Declare a Day of Uprising?](letters/3747-why-did-anna-announce-rising-day.md) — PDF 287–294
+- [3748 — “Long Mouth” Will Lose; Truth Alone Will Triumph!](letters/3748-long-mouth-will-lose-truth-will-win.md) — PDF 295–304
+- [3749 — The Sethu Project That Does Not Hurt Hindus in the Least! — Kalaignar Serial Letter 3](letters/3749-sethu-project-that-does-not-hurt-hindus.md) — PDF 305–311
+- [3750 — Let Us Work to Make Ezhuchi Naal a Success!](letters/3750-let-us-work-for-rising-day-success.md) — PDF 312–318
+
+This batch deliberately preserves the source layer rather than smoothing it: the printed UPA and Rajaji English in 3746; the standalone `2` across PDF 289–290 and the scan-corrected High Court quotation in 3747; the exact Katchatheevu spellings and English correspondence plus corrected initials on PDF 298 in 3748; the start-page subtitle `கலைஞர் தொடர் கடிதம்-3`, corrected `இராபர்ட் பிரிஸ்டோ`, and restored `கூறினர்` in 3749; and the source NASA disclaimer and source-specific geographic/project wording in 3750. Claims and quotations remain attributed to the speakers, documents and institutions named by the Tamil source.
 
 ## Counts
 
 - Total letters: **58**
-- English translations created: **41 / 58**
-- Source-checked translations: **41 / 58**
+- English translations created: **46 / 58**
+- Source-checked translations: **46 / 58**
 - Bilingual-alignment verified: **0 / 58**
-- Remaining untranslated letters: **17**
+- Remaining untranslated letters: **12**
 
-The translated set is now sequential **3706–3745**, plus pilot letter **3756**.
+The translated set is now sequential **3706–3750**, plus pilot letter **3756**.
 
 ## Style lock
 
@@ -124,4 +135,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next translation batch
 
-Proceed sequentially with **letters 3746–3750 — PDF 280–318 / printed 279–317**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.
+Proceed sequentially with **letters 3751–3755 — PDF 319–352 / printed 318–351**. All five Tamil source letters have already passed the scan-based textual-fidelity gate.

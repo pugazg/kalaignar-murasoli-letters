@@ -37,4 +37,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3747 — அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக?](3747-why-did-anna-announce-rising-day.md)
 - அடுத்த கடிதம்: [3749 — இந்துக்களை இம்மியளவும் புண்படுத்தாத சேதுத் திட்டம்! கலைஞர் தொடர் கடிதம்-3](3749-sethu-project-that-does-not-hurt-hindus.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [“Long Mouth” Will Lose; Truth Alone Will Triumph!](../translations/en/letters/3748-long-mouth-will-lose-truth-will-win.md) — source-checked; bilingual alignment pending

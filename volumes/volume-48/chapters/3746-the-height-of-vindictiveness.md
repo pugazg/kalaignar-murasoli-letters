@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3745 — அமைப்பு சாராத் தொழிலாளர்களும் - நானும்!](3745-unorganised-workers-and-me.md)
 - அடுத்த கடிதம்: [3747 — அண்ணா அறிவித்த எழுச்சி நாள் எதற்காக?](3747-why-did-anna-announce-rising-day.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [The Height of Vindictiveness!](../translations/en/letters/3746-the-height-of-vindictiveness.md) — source-checked; bilingual alignment pending
