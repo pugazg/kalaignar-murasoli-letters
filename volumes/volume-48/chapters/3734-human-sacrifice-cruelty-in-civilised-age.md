@@ -30,4 +30,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3733 — ஓங்கிக் குரல் கொடுப்போம்!](3733-let-us-raise-our-voice.md)
 - அடுத்த கடிதம்: [3735 — இதற்கோர் அறிக்கை படிக்கலாமே?](3735-can-an-announcement-be-read-for-this.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [The Cruelty of Human Sacrifice in a Civilised Age?](../translations/en/letters/3734-human-sacrifice-cruelty-in-civilised-age.md) — source-checked; bilingual alignment pending
