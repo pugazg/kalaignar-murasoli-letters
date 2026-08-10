@@ -52,7 +52,7 @@ The girl's mother is Lalitha; her father, Unnikrishnan, works in Chennai. The hu
 
 When the mother returned home in the evening, she found the child unconscious and carried her to a nearby hospital. After regaining consciousness, the girl described what had happened, and on that basis a complaint was made to the police. The police initially treated the matter casually, according to the source; only after local residents protested strongly did they register a case and arrest all four accused. All four were workers at a local factory. They are also alleged to have threatened that severe consequences would follow if a complaint were made to the police.
 
-The child was receiving treatment at Ganga Hospital in Coimbatore. When Kerala Chief Minister Oommen Chandy enquired, doctors informed him that she was recovering. The Kerala Chief Minister spoke to the girl's family and promised all assistance, including medical help. Local Malayali associations too extended consolation.
+The child was receiving treatment at Ganga Hospital in Coimbatore. When Kerala Chief Minister Oommen Chandy enquired, doctors informed him that she was recovering. The Kerala Chief Minister spoke to the girl's family and promised all assistance, including medical help. Moreover, the source says that local Malayali associations were “consoling Jayalalithaa, who was still frozen in shock.”
 
 Meanwhile, on the advice of the Kerala Chief Minister, Kerala Pradesh Congress Committee secretary C. Chandran personally came and enquired after the girl's relatives. He also spoke to administrators of Malayali associations in Tamil Nadu about the matter.
 
@@ -76,6 +76,7 @@ When a sexual crime occurs in Delhi, the entire city is in turmoil; processions 
 2. The source's idiom `ஏட்டுச் சுரைக்காய்` refers to something that exists only in writing and not in practical reality; it is retained in Tamil transliteration in the body with a brief sense gloss.
 3. The scan-proven PDF 270 wording `அலற அலறக் கற்பழிக்கப்பட்டிருக்கிறாள்` is translated directly and is not softened into the earlier erroneous transcription that had described the child merely as being called into a room.
 4. The Tamil section preserves the repaired PDF 271–272 page boundary exactly as established by the textual-fidelity audit.
+5. The source wording at the PDF 270–271 boundary says local Malayali associations were consoling Jayalalithaa, “still frozen in shock.” The phrasing is unusual in context, but it is retained rather than silently reassigned to another person.
 
 ## Original Tamil — மூலத் தமிழ்
 
