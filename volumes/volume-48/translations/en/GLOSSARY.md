@@ -8,13 +8,20 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | அன்புள்ள, மு.க. | **With affection, M.K.** | approved | Standard personal closing used consistently. |
 | திராவிட முன்னேற்றக் கழகம் / தி.மு.க. | **Dravida Munnetra Kazhagam (DMK)**; thereafter **DMK** | approved | Full form only when context needs it; abbreviation otherwise. |
 | அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம் / அ.தி.மு.க. | **All India Anna Dravida Munnetra Kazhagam (AIADMK)**; thereafter **AIADMK** | approved | Full form only when context needs it; abbreviation otherwise. |
+| தே.மு.தி.க. | **DMDK** | approved | Abbreviation retained for Desiya Murpokku Dravida Kazhagam in the Assembly discussion of letter 3733. |
+| விடுதலைச் சிறுத்தைகள் கட்சி | **Viduthalai Chiruthaigal Katchi (VCK)** / **Viduthalai Chiruthaigal Katchi** | approved | Party name retained/transliterated where first useful; source political context is not expanded beyond what is needed for identification. |
 | கழகம் | **the DMK** / **the movement** | context-dependent | Chosen by reference and rhetorical force; never mechanically rendered “organisation”. |
 | ஆட்சி | **government**, **rule**, or **regime** | context-dependent | `regime` only where the Tamil itself carries that degree of force. |
 | லட்சம் | **lakh** | approved | Indian numbering unit: 100,000. |
 | கோடி | **crore** | approved | Indian numbering unit: 10,000,000. |
 | 110வது விதி | **Rule 110** | approved | Tamil Nadu Legislative Assembly procedure repeatedly invoked in these letters. |
+| பேரவை விதி 20(1) | **Assembly Rule 20(1)** | approved | Procedural reference retained in letter 3733. |
 | பேராசிரியர் | **Perasiriyar** when used as the established personal honorific | approved | Retained rather than reduced to a generic descriptive “Professor” when it functions as the personal political honorific. |
 | அம்மா | **Amma** when the source uses it as the political-honorific label | context-dependent | Retained where the wording or irony depends on the source form. |
+| சமத்துவப் பெருவிழா | **Samathuva Peruvizha** | source-specific | Felicitation named in letter 3731; retained in transliteration rather than converted into an invented official English title. |
+| செய்வினை | **seivinai** | source-specific | Folk-superstitious notion invoked in letter 3734; retained without validating the belief. |
+| குடுகுடுப்பைக்காரன் | **kudukuduppai fortune-teller** | source-specific | Itinerant fortune-teller described in letter 3734; the Tamil cultural identifier is retained. |
+| தோஷம் | **dosham** | source-specific | Retained as the source's term for an alleged harmful affliction/defect in the superstitious account of letter 3734. |
 | மீன்பிடித் தடைக் காலம் | **fishing-ban season** | approved | Seasonal prohibition on marine fishing described in letter 3735. |
 | தமிழ்நாடு மீனவர் நல வாரியம் | **Tamil Nadu Fishermen Welfare Board** | approved | Institutional rendering used in letter 3735. |
 | மா.சிங்காரவேலர் நினைவு வீட்டு வசதி திட்டம் | **M. Singaravelar Memorial Housing Scheme** | approved | Scheme name in letter 3735; source initial is retained. |
@@ -53,4 +60,4 @@ This glossary inherits the approved Volume 49 translation conventions and record
 
 ## Translation-stage note
 
-The representative pilot confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. The sequential translation through **3730** extends this glossary only where terminology materially affects consistency. Exact English already printed in the source remains untouched inside quotations, even when spelling or punctuation differs from the glossary form.
+The representative pilot confirmed that the Volume 49 style lock works for Volume 48 without changing the mandatory translator's note, `Udanpirappē`, the closing, `lakh`/`crore`, or the policy on source anomalies. Sequential source-checked coverage now runs through **3735**. Exact English already printed in the source remains untouched inside quotations, even when spelling or punctuation differs from the glossary form.
