@@ -8,9 +8,10 @@ source_pdf_page_start: 36
 source_pdf_page_end: 43
 source_printed_page_start: 35
 source_printed_page_end: 42
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -36,7 +37,7 @@ That too must be kept in mind. The same *Dinamani* raised several further doubts
 
 1. The final award was delivered in 2007. Karnataka challenged that award, while the governments of Tamil Nadu, Puducherry and Kerala approached the Cauvery Tribunal seeking clarifications. Cases relating to it were also filed in the Supreme Court in 2007. Why did the Supreme Court not take up those cases at the outset and direct the Union Government to publish the Tribunal's award in the Gazette?
 2. All four State governments approached the Tribunal in 2007 seeking certain clarifications. After the Tribunal's Chairman resigned on 11 April 2012, a new Chairman was not appointed. What answer is there to the clarifications sought from the Tribunal by the four State governments?
-3. The Supreme Court had set a final deadline directing the Union Government to act on the Tribunal's final award by 20 February. Will the Supreme Court itself continue hearing these cases, or will the Cauvery Tribunal hear them?
+3. The Supreme Court had imposed a final deadline on the Union Government to examine the Tribunal's final award and issue a decision by 20 February. Therefore, will the Supreme Court itself continue hearing these cases, or will the Cauvery Tribunal hear them?
 4. A Cauvery River Water Regulation Authority has to be constituted. When will the Union Government constitute it?
 
 These are the questions *Dinamani* raised on 21 February 2013. We must keep them in mind; the questions it has raised cannot simply be brushed aside.
@@ -112,6 +113,7 @@ Does everything the winner says become “scripture”?
 1. **Cauvery Water Disputes Tribunal**, **Cauvery River Authority** and **Cauvery Monitoring Committee** are used consistently for the institutions named in the source.
 2. The English passage dated 21 September 1998 is reproduced exactly as printed in the audited Tamil source rather than rewritten.
 3. All dates, meeting counts and quoted political claims are retained as presented by the source without external reconciliation.
+4. In *Dinamani*'s third question, the audited Tamil itself says that the Supreme Court imposed a deadline on the Union Government to **examine the final award and issue a decision**. The alignment review preserves that source wording rather than smoothing it into a more legally conventional formulation.
 
 ## Original Tamil — மூலத் தமிழ்
 
