@@ -97,8 +97,8 @@ translated_letter_numbers:
 next_translation_batch: null
 next_stage: "bilingual-alignment-review"
 bilingual_alignment_status: "in-progress"
-bilingual_aligned_letter_count: 15
-verified_translation_count: 15
+bilingual_aligned_letter_count: 30
+verified_translation_count: 30
 verified_letter_numbers:
   - 3706
   - 3707
@@ -115,11 +115,29 @@ verified_letter_numbers:
   - 3718
   - 3719
   - 3720
+  - 3721
+  - 3722
+  - 3723
+  - 3724
+  - 3725
+  - 3726
+  - 3727
+  - 3728
+  - 3729
+  - 3730
+  - 3731
+  - 3732
+  - 3733
+  - 3734
+  - 3735
 bilingual_alignment_reports:
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md"
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md"
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md"
-next_alignment_batch: "3721-3725"
+  - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md"
+  - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md"
+  - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md"
+next_alignment_batch: "3736-3740"
 english_release_status: "not-started"
 source_observations:
   - "PDF page 23 is blank, with faint show-through from the reverse side."
