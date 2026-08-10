@@ -8,9 +8,10 @@ source_pdf_page_start: 151
 source_pdf_page_end: 156
 source_printed_page_start: 150
 source_printed_page_end: 155
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
