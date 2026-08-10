@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3743 — கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?](3743-dream-or-reality-donkey-keep-quiet.md)
 - அடுத்த கடிதம்: [3745 — அமைப்பு சாராத் தொழிலாளர்களும் - நானும்!](3745-unorganised-workers-and-me.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Law and Order Turns to Dust in a State Ruled by a Woman!](../translations/en/letters/3744-law-and-order-turns-to-dust-in-woman-ruled-state.md) — source-checked; bilingual alignment pending
