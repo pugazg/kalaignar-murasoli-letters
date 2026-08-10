@@ -7,7 +7,9 @@
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
 - [x] Representative pilot letters 3735, 3743 and 3756 translated, source-checked and reused in sequence
 - [x] Sequential bulk English translation — **58/58 source-checked complete**
-- [ ] Bilingual alignment review — next stage
+- [ ] Bilingual alignment review — **in progress: 5/58 verified**
+  - [x] Letters 3706–3710 — PDF 24–56 / printed 23–55
+  - [ ] Next: letters 3711–3715 — PDF 57–91 / printed 56–90
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -110,15 +112,24 @@ All seven remaining letters are translated and source-checked:
 
 The final batch preserves source-specific material rather than silently normalising it: the Rule 110/111 argument, land-distribution figures and advertising claims in 3757; the `creamy layer`, constitutional language and exact Supreme Court English in 3758; the full *Hindu* contractor quotation in 3759; the attributed Dharmapuri bus-burning case and court material in 3760; NLC disinvestment, union and contract-worker history in 3761; Hogenakkal chronology and source-visible broken word forms in 3762; and the complete *Hindu* editorial in 3763, including the malformed source form `By injectinga` and the scan-proven `அனுபவரீதியாகத்` on PDF 399.
 
+## Bilingual alignment review
+
+- Letters **3706–3710** — [`BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md`](BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md): **5/5 verified**; four targeted English corrections across letters 3706–3708; no Tamil-source changes.
+  - 3706: restored the distinction between accusations/charges and proved guilt in two places.
+  - 3707: removed the unsupported word **“costs”** from P. Shanmugam's quoted statement.
+  - 3708: restored *Dinamani*'s source-visible wording that the Union Government was to examine the final award and issue a decision by 20 February, rather than normalising it to “act on” the award.
+  - 3709–3710: no English correction required.
+
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
-- Bilingual-alignment verified: **0 / 58**
+- Bilingual-alignment verified: **5 / 58**
 - Remaining untranslated letters: **0**
+- Remaining alignment review: **53**
 
-Sequential English source-checked coverage is now complete from **3706 through 3763**.
+Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete through **3710**.
 
 ## Style lock
 
@@ -137,4 +148,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next stage
 
-**English translation is complete at the source-checked stage.** Proceed with **bilingual alignment review for letters 3706–3763**, followed by the volume-level English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3711–3715 — PDF 57–91 / printed 56–90**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
