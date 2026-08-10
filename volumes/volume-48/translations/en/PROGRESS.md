@@ -50,7 +50,7 @@
 - [3724 — The Hindu Itself Points Out the Double Role!](letters/3724-the-hindu-itself-points-out-the-double-role.md)
 - [3725 — Lawlessness in the Cooperative Elections!](letters/3725-lawlessness-in-cooperative-elections.md)
 - [3726 — How Long Will They Go On Deceiving?](letters/3726-how-long-will-they-deceive.md)
-- [3727 — Will They Reveal Their “Qualification”?](letters/3727-will-they-reveal-the-qualification.md)
+- [3727 — Will They Reveal Their “Qualification”?](letters/3727-will-they-reveal-their-qualification.md)
 - [3728 — The Duty the DMK Government Performed for Arunthathiyars!](letters/3728-duty-performed-by-dmk-rule-for-arunthathiyars.md)
 - [3729 — That Day Came Back to Mind, Madam!](letters/3729-that-day-came-to-mind-madam.md)
 - [3730 — By Whom Did Betrayal Become a Continuing Story?](letters/3730-by-whom-did-betrayal-become-a-serial-story.md)
