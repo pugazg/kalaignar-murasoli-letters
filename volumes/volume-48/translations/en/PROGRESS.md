@@ -7,11 +7,14 @@
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
 - [x] Representative pilot letters 3735, 3743 and 3756 translated, source-checked and reused in sequence
 - [x] Sequential bulk English translation — **58/58 source-checked complete**
-- [ ] Bilingual alignment review — **in progress: 15/58 verified**
+- [ ] Bilingual alignment review — **in progress: 30/58 verified**
   - [x] Letters 3706–3710 — PDF 24–56 / printed 23–55
   - [x] Letters 3711–3715 — PDF 57–91 / printed 56–90
   - [x] Letters 3716–3720 — PDF 92–128 / printed 91–127
-  - [ ] Next: letters 3721–3725 — PDF 129–161 / printed 128–160
+  - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160
+  - [x] Letters 3726–3730 — PDF 162–192 / printed 161–191
+  - [x] Letters 3731–3735 — PDF 193–219 / printed 192–218
+  - [ ] Next: letters 3736–3740 — PDF 220–248 / printed 219–247
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -19,7 +22,7 @@
 
 | Letter | Source | Pilot role | Translation status | Alignment |
 |---:|---|---|---|---|
-| 3735 | PDF 216–219 | ordinary policy/political argument, fisheries statistics | source-checked; reused in sequence | pending |
+| 3735 | PDF 216–219 | ordinary policy/political argument, fisheries statistics | source-checked; reused in sequence | **verified** |
 | 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked; reused in sequence | pending |
 | 3756 | PDF 353–355 | quoted announcement/newspaper material and figures | source-checked; reused in sequence | pending |
 
@@ -117,30 +120,24 @@ The final batch preserves source-specific material rather than silently normalis
 ## Bilingual alignment review
 
 - Letters **3706–3710** — [`BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md`](BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md): **5/5 verified**; four targeted English corrections across letters 3706–3708; no Tamil-source changes.
-  - 3706: restored the distinction between accusations/charges and proved guilt in two places.
-  - 3707: removed the unsupported word **“costs”** from P. Shanmugam's quoted statement.
-  - 3708: restored *Dinamani*'s source-visible wording that the Union Government was to examine the final award and issue a decision by 20 February, rather than normalising it to “act on” the award.
-  - 3709–3710: no English correction required.
 - Letters **3711–3715** — [`BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md`](BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md): **5/5 verified**; two targeted English corrections; no Tamil-source changes.
-  - 3713: restored Narayanasamy's source office-title `இணை அமைச்சர்` as **Union Minister of State**.
-  - 3715: removed the unsupported qualifier **historical** so `ஒரு காவியமல்ல` is rendered **not an epic**.
-  - 3711, 3712 and 3714 required no substantive English correction.
 - Letters **3716–3720** — [`BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md`](BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md): **5/5 verified**; three targeted English corrections; no Tamil-source changes.
-  - 3716: restored `பொது வாக்கெடுப்பு` as **referendum** rather than “general vote.”
-  - 3717: removed the unsupported technical qualifier **grade-separated** from the Chennai Port elevated-road request.
-  - 3720: removed the unsupported **“or sanction”** addition from `இலங்கைக்குக் கெடு விதித்திட`; the English now says **set a deadline for Sri Lanka**.
-  - 3718–3719 required no substantive English correction.
+- Letters **3721–3725** — [`BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md`](BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md): **5/5 verified**; one targeted English correction in 3722; no Tamil-source changes.
+- Letters **3726–3730** — [`BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md`](BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md): **5/5 verified**; no substantive English correction; no Tamil-source changes.
+- Letters **3731–3735** — [`BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md`](BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md): **5/5 verified**; two targeted English corrections in 3732 and 3734; no Tamil-source changes.
+
+The user-authorised 15-letter alignment block **3721–3735 / PDF 129–219** therefore required **3 targeted English corrections in total**: 3722 restores **“at the Speaker”**; 3732 restores the source-visible **Rural Development Minister** reference; 3734 corrects the superstition metaphor to **“like a disease born with us that kills us.”** Source anomalies such as the conflicting Narippaiyur cost figures in 3732 and the inconsistent fishermen-statistics periods in 3735 remain preserved rather than reconciled.
 
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
-- Bilingual-alignment verified: **15 / 58**
+- Bilingual-alignment verified: **30 / 58**
 - Remaining untranslated letters: **0**
-- Remaining alignment review: **43**
+- Remaining alignment review: **28**
 
-Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete through **3720**.
+Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete continuously through **3735**.
 
 ## Style lock
 
@@ -159,4 +156,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3721–3725 — PDF 129–161 / printed 128–160**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3736–3740 — PDF 220–248 / printed 219–247**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
