@@ -8,9 +8,10 @@ source_pdf_page_start: 30
 source_pdf_page_end: 35
 source_printed_page_start: 29
 source_printed_page_end: 34
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -62,7 +63,7 @@ Is even an announcement of a hunger strike against the AIADMK government praise 
 
 In a statement, P. Shanmugam, General Secretary of the Tamil Nadu Farmers' Association, said:
 
-> “At a time when production costs have increased several-fold, ₹15,000 per acre including crop insurance is not sufficient. Agricultural labourers have spent this entire year without work, living on loans and in poverty; the failure to announce any relief for them is deeply disappointing.”
+> “At a time when production has increased several-fold, ₹15,000 per acre including crop insurance is not sufficient. Agricultural labourers have spent this entire year without work, living on loans and in poverty; the failure to announce any relief for them is deeply disappointing.”
 
 Is the farmers' disappointment also a form of praise that gladdens Amma's heart?
 
@@ -98,6 +99,7 @@ But Jayalalithaa does not seem to know the actual situation in Tamil Nadu. Condu
 
 1. `kuruvai` and `samba` are retained as the source's agricultural-season terms; they refer to distinct paddy-cultivation seasons in the Cauvery Delta.
 2. The repeated questions asking whether criticism counts as “praise” are central to the letter's irony and are preserved rather than condensed.
+3. In P. Shanmugam's quoted statement, the audited Tamil says only that **production** had increased several-fold. The alignment review removed the unsupported English word “costs” rather than silently normalising the source.
 
 ## Original Tamil — மூலத் தமிழ்
 
