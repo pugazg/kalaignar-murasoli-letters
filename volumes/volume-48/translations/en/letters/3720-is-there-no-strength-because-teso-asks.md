@@ -8,9 +8,10 @@ source_pdf_page_start: 123
 source_pdf_page_end: 128
 source_printed_page_start: 122
 source_printed_page_end: 127
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -60,7 +61,7 @@ At a forum common to all the nations of the world, it was the United States that
 
 TESO has no direct opportunity to propose a resolution against Sri Lanka in the United Nations. The same is true of every political party here. That is why, on behalf of TESO, we have continuously raised our voice and submitted demands that there should be a strong resolution for a credible, independent international investigation into Rajapaksa's alleged war crimes and human-rights violations, including genocide of the Tamil people; that India itself should take a separate resolution before the U.N. Human Rights Council for a general referendum so that dawn may come in the lives of the Eelam Tamils; and that, at the very least, India should support the resolution brought by the United States with appropriate amendments.
 
-In today's situation, when we say pressure must be exerted both for support of the American resolution and for India to bring a separate resolution, some politicians here should think deeply: can we ourselves move a resolution in the assembly of the world's nations? Can we ourselves directly impose a deadline or sanction upon Sri Lanka? Can we ourselves raise an army and call Sri Lanka to war?
+In today's situation, when we say pressure must be exerted both for support of the American resolution and for India to bring a separate resolution, some politicians here should think deeply: can we ourselves move a resolution in the assembly of the world's nations? Can we ourselves directly set a deadline for Sri Lanka? Can we ourselves raise an army and call Sri Lanka to war?
 
 If these few politicians who constantly express views about the Eelam Tamils can formulate a higher and more appropriate position than the one TESO has now adopted, both Eelam Tamils and Tamils around the world will welcome it with joy.
 
@@ -142,7 +143,7 @@ The text below is reproduced in full from the audited canonical Tamil page files
 விவாதத்தின்போது அனைத்துக் கட்சித் தலைவர்களும் கழகத்தின்
 கருத்தினையொட்டிப் பெரிதும் வாதாடினர். ஆனால் மத்திய
 அரசின் சார்பில் வெளியுறவுத் துறை அமைச்சர் மாண்புமிகு சல்மான்
-குர்ஷித் அவர்கள் பதிலளித்துப் பேசும்போது, “ஜெனீவாவில்
+குர்ஷித் அவர்கள் பதிலளித்துப் பேசும்போது, “ஜெனிவாவில்
 நடைபெறும் ஐ.நா. மனித உரிமைகள் கவுன்சில் கூட்டத்தில்
 அமெரிக்கா கொண்டுவரும் தீர்மானம் குறித்து, அமெரிக்காவுடன்
 இலங்கை அரசு பேச்சு நடத்திய பிறகு, அந்தத் தீர்மானத்தை
