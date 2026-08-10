@@ -32,4 +32,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3737 — இந்தக் கூட்டுறவுத் தேர்தலில் எல்லாக் கட்சிகளும் எதிர்பார்ப்பது என்ன?](3737-what-do-all-parties-expect-in-this-cooperative-election.md)
 - அடுத்த கடிதம்: [3739 — மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்!](3739-two-unforgettable-gems-condolence-letter.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [An Appeal I Make Again and Again!](../translations/en/letters/3738-a-repeated-appeal.md) — source-checked; bilingual alignment pending
