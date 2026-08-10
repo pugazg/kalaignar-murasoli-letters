@@ -32,4 +32,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3741 — வலுவான காரணங்கள் குவிகின்றன!](3741-strong-reasons-are-piling-up.md)
 - அடுத்த கடிதம்: [3743 — கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?](3743-dream-or-reality-donkey-keep-quiet.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [Unending Cruelties Against Eelam Tamils!](../translations/en/letters/3742-unending-cruelties-against-eelam-tamils.md) — source-checked; bilingual alignment pending
