@@ -1,8 +1,8 @@
 # Volume 48 — English translation
 
-Status: **source-checked translation complete**.
+Status: **source-checked translation complete; bilingual alignment in progress**.
 
-The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English source-checked translation is now complete for all **58 letters**.
+The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English source-checked translation is complete for all **58 letters**. Bilingual alignment has begun and **5/58 letters are verified**.
 
 ## Translation progress
 
@@ -28,9 +28,18 @@ For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md)
 
 Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
-**Counts:** **58 / 58** letters translated and source-checked; **0** remain untranslated. Bilingual alignment is still pending.
+**Translation counts:** **58/58 source-checked; 0 untranslated.**  
+**Alignment counts:** **5/58 verified; 53 remain.**
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+
+## Bilingual alignment review
+
+Alignment uses the completed Volume 49 workflow: each English letter is compared directly with its complete audited Tamil for title/date, salutation/closing, paragraph sequence, substantive claims, attribution, quotations, names, figures, list completeness, rhetorical force and English wording that could accidentally broaden, narrow or normalise the source. Canonical Tamil is not modified during this stage.
+
+- **3706–3710 — PDF 24–56:** **5/5 verified** — [review report](BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md).
+- Four targeted English corrections were made across 3706–3708; no Tamil-source changes were made.
+- 3709 and 3710 required no substantive English correction.
 
 ## Source-preservation decisions
 
@@ -66,4 +75,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** passed the source-che
 
 ## Next stage
 
-**Do not create further translation files.** Proceed with documented **bilingual alignment review for letters 3706–3763**, then the volume-level English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3711–3715 — PDF 57–91 / printed 56–90**. After all 58 letters are verified, proceed with the volume-level English editorial consistency pass, translation manifest and final release report.
