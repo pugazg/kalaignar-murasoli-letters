@@ -1,6 +1,6 @@
-# Volume 48 English Translation Plan — active
+# Volume 48 English Translation Plan — source-checked translation complete
 
-English translation is **in progress**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have all passed, so the Tamil fidelity gate no longer blocks translation.
+English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, now have source-checked English translations.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -12,13 +12,7 @@ The audited Tamil page files remain authoritative. English is an interpretive la
 
 ## Mandatory translator’s note and bilingual order
 
-Every translated letter must place the following note immediately below the English title:
-
-> **Translator’s note**
->
-> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
-
-Required order in every letter file:
+Every translated letter uses the approved standard translator’s note immediately below the English title and follows this order:
 
 1. English title
 2. standard translator’s note
@@ -42,7 +36,7 @@ Required order in every letter file:
 
 ## Pilot and style lock
 
-The master processing guide requires three representative pilot letters for the first untranslated volume after Volume 49. Volume 48 uses:
+Volume 48 used three representative pilot letters:
 
 | Letter | PDF pages | Role |
 |---:|---:|---|
@@ -50,7 +44,7 @@ The master processing guide requires three representative pilot letters for the 
 | 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story |
 | 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures |
 
-All three pilot letters are **translated and source-checked**, and all three have now been reviewed/reused at their proper places in the sequential run. Their bilingual alignment remains pending. The pilot confirms the Volume 49 style lock for titles, `Udanpirappē`, the closing, Rule 110, `lakh`/`crore`, quotations, minimal notes and complete Tamil reproduction. Volume-specific terms are recorded in `translations/en/GLOSSARY.md`.
+All three pilots are **source-checked** and were reviewed/reused at their correct sequential positions without duplicate files. Their bilingual alignment remains pending.
 
 ## Status progression
 
@@ -59,28 +53,45 @@ All three pilot letters are **translated and source-checked**, and all three hav
 3. `reviewed`
 4. `verified`
 
-A letter must not be marked `verified` until a documented bilingual alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
+All 58 letters have reached **`source-checked`**. No letter is to be marked `verified` until a documented bilingual alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
 
-## Bulk translation sequence
+## Completed translation sequence
 
-After the representative pilot, continue sequentially in batches of approximately five letters, using smaller batches where a letter is unusually long or quotation-heavy. User-authorised larger batches may be used when explicitly requested, while preserving the same per-letter source-check requirements.
+- **Batch 1: 3706–3710 — complete; PDF 24–56 / printed 23–55.**
+- **Batch 2: 3711–3715 — complete; PDF 57–91 / printed 56–90.**
+- **User-authorised large batch 3: 3716–3730 — complete; PDF 92–192 / printed 91–191.**
+- **Batch 4: 3731–3735 — complete; PDF 193–219 / printed 192–218.** Existing pilot 3735 was reused.
+- **User-authorised 10-letter batch 5: 3736–3745 — complete; PDF 220–279 / printed 219–278.** Existing pilot 3743 was reused.
+- **Batch 6: 3746–3750 — complete; PDF 280–318 / printed 279–317.**
+- **Batch 7: 3751–3755 — complete; PDF 319–352 / printed 318–351.**
+- **Existing pilot 3756 — PDF 353–355 / printed 352–354 — reviewed/reused.**
+- **Final batch: 3757–3763 — complete; PDF 356–400 / printed 355–399.**
 
-- **Batch 1: 3706–3710 — complete; five letters translated and source-checked.**
-- **Batch 2: 3711–3715 — complete; five letters translated and source-checked.**
-- **User-authorised large batch 3: 3716–3730 — complete; fifteen letters translated and source-checked, PDF 92–192 / printed 91–191.**
-- **Batch 4: 3731–3735 — complete; five letters source-checked, PDF 193–219 / printed 192–218.** Existing pilot 3735 was reviewed/reused in sequence rather than duplicated.
-- **User-authorised 10-letter batch 5: 3736–3745 — complete; PDF 220–279 / printed 219–278.** Nine new translations were created and existing pilot 3743 was reviewed/reused in sequence rather than duplicated.
-- **Batch 6: 3746–3750 — complete; five letters translated and source-checked, PDF 280–318 / printed 279–317.**
-- **Batch 7: 3751–3755 — complete; five letters translated and source-checked, PDF 319–352 / printed 318–351.**
-- **Existing pilot 3756 — PDF 353–355 / printed 352–354 — reviewed/reused at the sequential boundary; no duplicate created.**
-- **Next sequential batch: 3757–3761 — PDF 356–386 / printed 355–385.**
+Current totals: **58 / 58 translated and source-checked**; **0 remain untranslated**. Sequential source-checked English coverage is complete from **3706 through 3763**.
 
-Current totals: **51 / 58 translated and source-checked**; **7 remain untranslated**. The translated set is now continuous and sequential **3706–3756**.
+## Final-batch source-preservation lock
 
-## Remaining stages
+The 3757–3763 translations preserve the audited source rather than silently normalising it, including:
 
-- sequential bulk English translation and source check;
-- bilingual alignment QA for every letter;
-- English editorial consistency review;
-- complete translation manifest; and
-- final English release report.
+- Rule 110/111 procedure, free-land figures, advertising criticism and scheme figures in 3757;
+- `creamy layer`, constitutional terminology and exact printed Supreme Court English in 3758;
+- the exact *Hindu* Soma Constructions/NHAI passage and compensation figures in 3759;
+- attributed Dharmapuri bus-burning, criminal-case and High Court material in 3760;
+- NLC disinvestment, trade-union and contract-worker history in 3761;
+- Hogenakkal chronology, financial/package figures and scan-visible word forms in 3762; and
+- the exact *Hindu* editorial in 3763, including malformed source `By injectinga`, plus scan-proven PDF 399 `அனுபவரீதியாகத்`.
+
+## Next stage — bilingual alignment QA
+
+No more translation files should be created for Volume 48. Proceed with a documented bilingual alignment review for **letters 3706–3763**, checking each translated file against its complete audited Tamil for:
+
+- title and date;
+- salutation and closing;
+- paragraph and argument sequence;
+- every quotation and intentional source-English passage;
+- names, initials, dates, percentages, monetary figures and counts;
+- lists and source page boundaries;
+- attribution of allegations/reported claims; and
+- accidental omissions, additions or English normalisation of the Tamil source.
+
+After alignment QA, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
