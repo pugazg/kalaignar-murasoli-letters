@@ -8,9 +8,10 @@ source_pdf_page_start: 86
 source_pdf_page_end: 91
 source_printed_page_start: 85
 source_printed_page_end: 90
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -68,7 +69,7 @@ The manifesto then called it **“Adam's Bridge”** and referred to **“sandba
 
 In the replies filed by the Union Government in the Supreme Court, the source says, no statement contrary to the truth about Rama or the Ramayana was made in a way intended to hurt anyone.
 
-The letter cites Pandit Nehru as having written in letters to Indira Gandhi, referred to here as *Discovery of India*, that the Ramayana was not a historical epic but an imaginative story that magnified a conflict between Dravidians and Aryans and inserted many tales inconsistent with reason.
+The letter cites Pandit Nehru as having written in letters to Indira Gandhi, referred to here as *Discovery of India*, that the Ramayana was not an epic but an imaginative story that magnified a conflict between Dravidians and Aryans and inserted many tales inconsistent with reason.
 
 Even Rajaji, described as a deeply devoted worshipper of Rama, is quoted in the source in these exact English words:
 
