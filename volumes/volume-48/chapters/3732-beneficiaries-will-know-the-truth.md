@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - முந்தைய கடிதம்: [3731 — “தலித்” மக்கள் தெரிந்து கொள்வதற்காக!](3731-for-dalit-people-to-know.md)
 - அடுத்த கடிதம்: [3733 — ஓங்கிக் குரல் கொடுப்போம்!](3733-let-us-raise-our-voice.md)
-- English translation: not started; full-volume Tamil and textual-fidelity audit gates pending
+- English translation: [The Beneficiaries Will Know the Truth!](../translations/en/letters/3732-beneficiaries-will-know-the-truth.md) — source-checked; bilingual alignment pending
