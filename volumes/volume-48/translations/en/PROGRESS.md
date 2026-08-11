@@ -7,7 +7,7 @@
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
 - [x] Representative pilot letters 3735, 3743 and 3756 translated, source-checked and reused in sequence
 - [x] Sequential bulk English translation — **58/58 source-checked complete**
-- [ ] Bilingual alignment review — **in progress: 55/58 verified**
+- [x] Bilingual alignment review — **58/58 verified; complete**
   - [x] Letters 3706–3710 — PDF 24–56 / printed 23–55
   - [x] Letters 3711–3715 — PDF 57–91 / printed 56–90
   - [x] Letters 3716–3720 — PDF 92–128 / printed 91–127
@@ -19,7 +19,7 @@
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317
   - [x] Letters 3751–3755 — PDF 319–352 / printed 318–351
   - [x] Letters 3756–3760 — PDF 353–380 / printed 352–379
-  - [ ] Final: letters 3761–3763 — PDF 381–400 / printed 380–399
+  - [x] Letters 3761–3763 — PDF 381–400 / printed 380–399
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -27,9 +27,9 @@
 
 | Letter | Source | Pilot role | Translation status | Alignment |
 |---:|---|---|---|---|
-| 3735 | PDF 216–219 | ordinary policy/political argument, fisheries statistics | source-checked; reused in sequence | **verified** |
-| 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked; reused in sequence | **verified** |
-| 3756 | PDF 353–355 | quoted announcement/newspaper material and figures | source-checked; reused in sequence | **verified** |
+| 3735 | PDF 216–219 | ordinary policy/political argument, fisheries statistics | verified; reused in sequence | **verified** |
+| 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | verified; reused in sequence | **verified** |
+| 3756 | PDF 353–355 | quoted announcement/newspaper material and figures | verified; reused in sequence | **verified** |
 
 ## Sequential translation coverage
 
@@ -110,7 +110,7 @@
 
 ### Final translation batch — 3757–3763 — PDF 356–400
 
-All seven remaining letters are translated and source-checked:
+All seven remaining letters are translated, source-checked and alignment-verified:
 
 - [3757 — Two Years of Rule: Achievement or Agony?](letters/3757-two-years-rule-achievement-or-agony.md) — PDF 356–363
 - [3758 — For the Reservation Policy to Become Complete...](letters/3758-reservation-policy-to-be-complete.md) — PDF 364–369
@@ -135,23 +135,24 @@ The final batch preserves source-specific material rather than silently normalis
 - Letters **3746–3750** — [`BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md`](BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md): **5/5 verified**; seven targeted English correction locations/groups across 3746, 3748, 3749 and 3750; no Tamil-source changes.
 - Letters **3751–3755** — [`BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md`](BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md): **5/5 verified**; twelve targeted English correction locations/groups across the five letters; no Tamil-source changes.
 - Letters **3756–3760** — [`BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md`](BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md): **5/5 verified**; four targeted English correction groups, one in 3758 and three in 3760; no Tamil-source changes.
+- Letters **3761–3763** — [`BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md`](BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md): **3/3 verified**; ten targeted English correction groups across the final three letters; no Tamil-source changes.
 
-The 3756–3760 review reused pilot 3756 without substantive body correction; 3757 and 3759 likewise required no substantive body correction. Letter 3758 removes unsupported **“family”** from the opening income-ceiling sentence. Letter 3760 removes unsupported **“allegedly,”** restores the Paiyur `ஆய்வு` as **“conducting a study,”** restores `குற்றச்சாட்டுகள்` as **“charges,”** and removes the unsupported “Government” from the public-prosecutor appointment-order wording.
+The final 3761–3763 pass preserves the source's **Labour Welfare Commission** wording and direct political judgment in 3761; restores the singular Pokhran **nuclear test**, `என்னால்தான்` emphasis, omitted *Theekkathir* work-in-progress wording and source-visible completion tension in 3762; and restores `Ilatchiya Nadigar S.S.R.`, direct **planned / accelerated / implemented** wording and the unsoftened project-credit argument in 3763.
 
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
-- Bilingual-alignment verified: **55 / 58**
+- Bilingual-alignment verified: **58 / 58**
 - Remaining untranslated letters: **0**
-- Remaining alignment review: **3**
+- Remaining alignment review: **0**
 
-Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete continuously through **3760**.
+Sequential English coverage and bilingual verification are complete continuously from **3706 through 3763**. Canonical Tamil changes during bilingual alignment: **0**.
 
 ## Style lock
 
-The complete source-checked translation set follows the Volume 49 style lock:
+The complete verified translation set follows the Volume 49 style lock:
 
 - preserve argument and paragraph order before literary elegance;
 - preserve criticism, irony, repetition and rhetorical questions;
@@ -166,4 +167,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next stage
 
-Complete bilingual alignment with the final **letters 3761–3763 — PDF 381–400 / printed 380–399**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+Proceed with the **volume-level English editorial consistency pass** across all **58 verified letters, 3706–3763**. This pass should check cross-letter consistency of recurring institutional terms, honorifics, transliteration, quotation handling, dates/number style, notes, headings and formatting **without reopening or normalising source-faithful alignment decisions**. After that, create the translation manifest and final English release report.
