@@ -79,8 +79,8 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | ஒகேனக்கல் குடிநீர் மற்றும் ஃப்ளோரைடு பாதிப்புக் குறைப்புத் திட்டம் | **Hogenakkal Drinking Water and Fluorosis Mitigation Project** | approved | Longer project description at the start of 3762. |
 | ஜப்பான் பன்னாட்டுக் கூட்டுறவு நிறுவனம் / வங்கி | **Japanese international-cooperation institution / Japan Bank for International Cooperation** | source-dependent | Translation follows the source wording in each passage rather than externally reconciling the institutional naming. |
 
-## Translation-stage note
+## Release-stage note
 
 The Volume 49 style lock has been applied across **all 58 Volume 48 letters**. Sequential verified English coverage and bilingual alignment are complete from **3706 through 3763**; pilots 3735, 3743 and 3756 were reused at their proper positions. Exact English already printed in the source remains untouched inside quotations even where spelling or punctuation is malformed, including `By injectinga` in letter 3763.
 
-The post-alignment [editorial consistency review](EDITORIAL_CONSISTENCY_REVIEW.md) is also complete and passed **58/58**. It required only six title-level typography corrections and **0 canonical Tamil changes**. The next stage is the **translation manifest and final English release report**.
+The post-alignment [editorial consistency review](EDITORIAL_CONSISTENCY_REVIEW.md) passed **58/58**, requiring only six title-level typography corrections and **0 canonical Tamil changes**. Release packaging is also complete: the [translation manifest](TRANSLATION_MANIFEST.csv) registers all **58** verified letters and the [final release report](RELEASE_REPORT.md) records the final **PASS**. There is no remaining English translation/release stage for Volume 48.
