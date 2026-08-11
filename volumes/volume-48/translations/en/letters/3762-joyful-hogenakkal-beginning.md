@@ -8,9 +8,9 @@ source_pdf_page_start: 387
 source_pdf_page_end: 392
 source_printed_page_start: 386
 source_printed_page_end: 391
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -44,7 +44,7 @@ The project would improve the quality of life of people in Dharmapuri and Krishn
 
 It was during DMK rule, in February 1997, that the Hogenakkal Combined Drinking Water Scheme was prepared at an estimated cost of ₹576 crore. It was later modified to include sanitation facilities and sent to the Union Government to obtain financial assistance from the Japanese funding institution.
 
-Field-survey work began in March 1998. An application for a no-objection certificate to draw water from the Cauvery River was made in March 1998, and the Union Ministry of Water Resources granted the certificate in September 1998. But because of the nuclear tests conducted at Pokhran in May 1998, the Japanese funding institution stopped extending financial assistance to any new project in India. During the AIADMK government from 2001 onward, no substantive action was taken to implement the Hogenakkal Combined Drinking Water Scheme.
+Field-survey work began in March 1998. An application for a no-objection certificate to draw water from the Cauvery River was made in March 1998, and the Union Ministry of Water Resources granted the certificate in September 1998. But because of the nuclear test conducted at Pokhran in May 1998, the Japanese funding institution stopped extending financial assistance to any new project in India. During the AIADMK government from 2001 onward, no substantive action was taken to implement the Hogenakkal Combined Drinking Water Scheme.
 
 Only after the DMK returned to office in May 2006 were continuous steps again taken to implement the project.
 
@@ -60,7 +60,7 @@ Then, when the 2007–2008 Budget was presented in the Tamil Nadu Legislative As
 
 As a result of the actions that followed these announcements, during DMK rule Local Administration Minister Thambi M.K. Stalin travelled with a team of officials to Tokyo. On 6 February 2008 he met and held discussions with Mr Tshioguchi, Executive Director of the Japan Bank for International Cooperation. As a result, the bank agreed to provide financial assistance both for the Chennai Metro Rail project, estimated at ₹9,700 crore, and for the Hogenakkal Combined Drinking Water Scheme—then estimated at ₹1,330 crore and a long-standing demand of the people of Dharmapuri and Krishnagiri districts.
 
-It was in continuation of this that I laid the foundation stone for the project at a massive function held in Dharmapuri on 26 February 2008.
+It was in continuation of this that **I myself laid the foundation stone** for the project at a massive function held in Dharmapuri on 26 February 2008.
 
 Nor did matters stop with laying the foundation stone. A formal timetable was fixed for implementing the Hogenakkal Combined Drinking Water Scheme, and work continued accordingly.
 
@@ -74,11 +74,11 @@ The people of Dharmapuri and Krishnagiri districts themselves know directly how 
 
 The AIADMK government conducted closing ceremonies for several good schemes begun under DMK rule. Fortunately, however, it did not obstruct the Hogenakkal Combined Drinking Water Scheme and, even if belatedly, has come forward to complete it. But it is said that even before the work has been completed in full, there is a hurried effort to have the Chief Minister inaugurate it.
 
-Although the present rulers may deliberately try to hide the fact that this project was accelerated during DMK rule, *Theekkathir* in a report published today referred to the efforts made under the DMK government. In particular, it wrote: **“During DMK rule, the work was divided into five packages. ₹1,200 crore has been spent and 90 per cent of the work has been completed.”**
+Although the present rulers may deliberately try to hide the fact that this project was accelerated during DMK rule, *Theekkathir* in a report published today referred to the efforts made under the DMK government. In particular, it wrote: **“During DMK rule, the work was divided into five packages and is being carried out. ₹1,200 crore has been spent and 90 per cent of the work has been completed.”**
 
 The government's announcement that the Chief Minister will inaugurate the scheme on the 29th itself indicates that the project has not yet been fully completed: it appears that she will inaugurate it after only a portion of the work has been completed, with the remaining works to be finished progressively afterward.
 
-Whatever the circumstances, a project launched through great effort during DMK rule is reaching completion, and the people of Dharmapuri and Krishnagiri districts are going to receive safe, good drinking water. As one who worked for this project, I express my happiness at that.
+Whatever the circumstances, a project launched through great effort during DMK rule **has come to completion**, and the people of Dharmapuri and Krishnagiri districts are going to receive safe, good drinking water. As one who worked for this project, I express my happiness at that.
 
 **With affection,**  
 **M.K.**  
