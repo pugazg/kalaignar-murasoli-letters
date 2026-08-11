@@ -8,9 +8,9 @@ source_pdf_page_start: 255
 source_pdf_page_end: 259
 source_printed_page_start: 254
 source_printed_page_end: 258
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -30,7 +30,7 @@ Forty-five Eelam Tamils who tried to cross the sea to escape the Sri Lankan mili
 
 Union Finance Minister P. Chidambaram, after reading this appeal of mine published in *Murasoli* on the 23rd, sent word that the Union Government had considered it and that those 19 Eelam Tamils in Dubai would not be sent back to Sri Lanka. I have also received information to that effect from the Eelam Tamils who were being held in Dubai. On behalf of Eelam Tamils, I convey my thanks to the Union Government and to the Finance Minister for this. Even so, I am duty-bound to point out that the Government of India remains slow in acting to remove the continuing hardships inflicted upon Eelam Tamils in Sri Lanka.
 
-Further, on the 22nd, when India's Defence Minister Antony answered a question in the Lok Sabha about the frequent attacks on Tamil Nadu fishermen by the Sri Lankan Navy, he said that India had advised the Sri Lankan government to instruct its Navy not to attack fishermen who come near the international maritime boundary, to act humanely, and that India would continue taking steps to safeguard the welfare of Indian fishermen.
+Further, on the 22nd, when India's Defence Minister Antony answered a question in the Lok Sabha about the frequent attacks on Tamil Nadu fishermen by the Sri Lankan Navy, he said that India had advised the Sri Lankan government to instruct the Sri Lankan military not to attack fishermen who come near the international maritime boundary and to act humanely, and that India would continue taking steps to safeguard the welfare of Indian fishermen.
 
 He further told the Lok Sabha: “An agreement was reached between the two countries on this issue in October 2008. Under it, the Sri Lankan Navy must not fire on Indian fishing boats. Indian naval vessels and Coast Guard vessels have been stationed in the Palk Strait region to prevent illegal activities in Indian waters and to prevent attacks on Indian fishermen fishing in our waters.”
 
@@ -50,7 +50,7 @@ It is further reported that the Sri Lankan government plans to construct the mil
 
 These demands of Eelam Tamils were already addressed in resolutions adopted at the grand TESO conference held in Chennai on 12 August 2012. One resolution said:
 
-> “In present-day Sri Lanka, military domination has overtaken democratic government. For its activities, the military has taken over a large number of houses belonging to Tamils in Tamil areas. The military takes control of vacant houses and refuses to vacate them. Without military permission, no social function can be held in Tamil homes in the Northern and Eastern regions. Military personnel themselves are appointed there as district administrators and government officials. Today's Tamil Eelam looks like a military camp. Because democratic local-government bodies do not exist, Tamils there have no way to voice their grievances, speak, or protest peacefully. They remain frozen in great fear at all times. This conference therefore calls upon the United Nations and the countries of the world to pressure the Sri Lankan government to withdraw the military immediately from Tamil Eelam areas. The United Nations should establish an international body to directly monitor the military withdrawal.”
+> “In present-day Sri Lanka, military domination has overtaken democratic government. For its activities, the military has taken over a large number of houses belonging to Tamils in Tamil areas. The military takes control of vacant houses and refuses to vacate them. Without military permission, no social function can be held in Tamil homes in the Northern and Eastern regions. Military personnel themselves are appointed there as District Collectors and government administrators. Today's Tamil Eelam looks like a military camp. Because democratic local-government bodies do not exist, Tamils there have no way to voice their grievances, speak, or protest peacefully. They remain frozen in great fear at all times. This conference therefore calls upon the United Nations and the countries of the world to pressure the Sri Lankan government to withdraw the military immediately from Tamil Eelam areas. The United Nations should establish an international body to directly monitor the military withdrawal.”
 
 We had also already asked:
 
