@@ -35,4 +35,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - The source bullet list, legal-section forms on PDF page 95 and zero-padded closing date `26-09-2012` are preserved.
 
 **முந்தைய கடிதம்:** [3656 — கை குலுக்குவது; அங்கே - கழுத்தறுப்பது இங்கேயா?](3656-kai-kulukkuvadhu-ange-kazhutharuppadhu-ingeyaa.md)  
-**அடுத்த கடிதம்:** 3658 — வெளிச்சத் துளி கிடைத்திட! — PDF பக்கம் 97-இல் தொடங்குகிறது; இன்னும் transcription தொடங்கப்படவில்லை
+**அடுத்த கடிதம்:** [3658 — வெளிச்சத் துளி கிடைத்திட!](3658-velichchath-thuli-kidaiththida.md)
