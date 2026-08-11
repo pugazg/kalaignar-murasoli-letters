@@ -1,8 +1,8 @@
 # Volume 48 — English translation
 
-Status: **translation and bilingual alignment verified complete; editorial consistency pass pending**.
+Status: **translation, bilingual alignment and editorial consistency verified complete; manifest/release packaging pending**.
 
-The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English translation is complete for all **58 letters**, and bilingual alignment is now **58/58 verified**.
+The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English translation is complete for all **58 letters**, bilingual alignment is **58/58 verified**, and the volume-level English editorial consistency pass is **58/58 complete — PASS**.
 
 ## Translation progress
 
@@ -29,9 +29,10 @@ For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md)
 Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
 **Translation counts:** **58/58 verified; 0 untranslated.**  
-**Alignment counts:** **58/58 verified; 0 remaining.**
+**Alignment counts:** **58/58 verified; 0 remaining.**  
+**Editorial consistency:** **58/58 reviewed; PASS.**
 
-See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Bilingual alignment review
 
@@ -53,6 +54,18 @@ Alignment used the completed Volume 49 workflow: each English letter was compare
 The final 3761–3763 pass preserves source-specific labour terminology and direct political judgment in 3761; restores the singular Pokhran **nuclear test**, `என்னால்தான்` emphasis, omitted *Theekkathir* work-in-progress wording and source-visible completion tension in 3762; and restores `Ilatchiya Nadigar S.S.R.`, direct **planned / accelerated / implemented** wording and the unsoftened project-credit argument in 3763.
 
 Canonical Tamil changes across the complete bilingual-alignment stage: **0**. Source irregularities, source-visible punctuation, intentional English and numerical tensions remain preserved rather than silently reconciled.
+
+## English editorial consistency review
+
+The post-alignment editorial pass is complete across all **58 verified English translations**. See [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md).
+
+The review checked title/index agreement, bilingual document structure, names and honorifics, transliteration, recurring institutional terminology, British/Indian English treatment, quotation/title typography, dates and page ranges, note placement and preservation of the authoritative Tamil layer.
+
+Only **six title-level typography corrections** were required: **3708, 3727, 3739, 3743, 3748 and 3752**. There were no prose-level source-meaning changes and no canonical Tamil changes. The progress index was synchronised to the typographic apostrophe in the 3739 title.
+
+The apparent variants **`video conference / video conferencing`** and **`Navratna`** were reviewed and deliberately retained as Volume 48 source/context-dependent treatments rather than mechanically harmonised to another volume. Exact source-English quotations—including Katchatheevu variants and malformed `By injectinga`—remain untouched.
+
+Editorial result: **PASS — 58/58**.
 
 ## Source-preservation decisions
 
@@ -88,4 +101,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** passed the source-che
 
 ## Next stage
 
-Proceed with the **volume-level English editorial consistency pass** across all **58 verified letters, 3706–3763**. Check recurring terminology, honorifics, transliteration, quotation handling, number/date style, notes, headings and formatting without reopening source-faithful alignment decisions. After that, create the translation manifest and final English release report.
+Create the **Volume 48 English translation manifest** and prepare the **final English release report**, following the completed Volume 49 release structure. Release packaging must preserve the completed textual-fidelity, bilingual-alignment and editorial decisions without reopening source meaning.
