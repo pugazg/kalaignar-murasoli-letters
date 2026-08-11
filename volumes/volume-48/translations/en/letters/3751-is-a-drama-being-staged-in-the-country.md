@@ -8,9 +8,9 @@ source_pdf_page_start: 319
 source_pdf_page_end: 325
 source_printed_page_start: 318
 source_printed_page_end: 324
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -64,7 +64,7 @@ In her Rule 110 statement, Chief Minister Jayalalithaa said that an unprecedente
 
 Altogether, on 6 May 2013 alone, announcements were piled up for ₹965 crore in agriculture, ₹771 crore in food and ₹15 crore in animal husbandry. Were all these announcements involving crores upon crores discussed in the Cabinet and decided upon? When announcements involving such enormous sums are being made every day by the Chief Minister, why were all these schemes not included in the Budget? There are more than thirty ministers handling the various departments; why did they not make all these announcements when replying to the debates on their own demands for grants?
 
-The Chief Minister herself is reading, under Rule 110, statements that ought to be made under the Assembly's departmental procedure! Who, now, cares about what? **Isn't a drama being staged in the country!**
+The Chief Minister herself is reading, under Rule 110, a statement that ought to be read under the Assembly's rules! Who, now, cares about what? **Isn't a drama being staged in the country!**
 
 **With affection,**  
 **M.K.**  
