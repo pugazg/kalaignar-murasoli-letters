@@ -16,7 +16,7 @@
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
 - English translation **source-checked complete: 58/58**, continuous sequential coverage **3706–3763**.
-- Bilingual alignment **in progress: 45/58 verified** — letters **3706–3750** complete; next **3751–3755**.
+- Bilingual alignment **in progress: 50/58 verified** — letters **3706–3755** complete; next **3756–3760**.
 
 ## Audit / translation status
 
@@ -27,7 +27,7 @@
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
 | English translation | 3706–3763 | **58/58 source-checked complete** |
-| Bilingual alignment | 3706–3750 | **45/58 verified; in progress** |
+| Bilingual alignment | 3706–3755 | **50/58 verified; in progress** |
 | English editorial/release | — | not started |
 
 The final textual-fidelity pass covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores `அனுபவரீதியாகத்`.
@@ -54,23 +54,23 @@ All **58** translation files have passed the source-check stage, use the approve
 
 The alignment stage follows the completed Volume 49 review method: each English file is compared directly with its complete audited Tamil for title/date, salutation/closing, paragraph sequence, claims and attribution, quotations, names, figures, lists, rhetorical force and accidental English additions or normalisation. Canonical Tamil is not changed during this stage.
 
-Letters **3706–3745 / PDF 24–279** were previously verified in eight five-letter review reports, with **0 Tamil-source changes**.
+Letters **3706–3750 / PDF 24–318** were previously verified in nine five-letter review reports, with **0 Tamil-source changes**.
 
-Letters **3746–3750 / PDF 280–318** are now fully verified. See [BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md). The batch required **7 targeted English correction locations/groups**, with **0 canonical Tamil changes**:
+Letters **3751–3755 / PDF 319–352** are now fully verified. See [BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md). The batch required **12 targeted English correction locations/groups**, with **0 canonical Tamil changes**:
 
-- 3746 removes the unsupported Nehru qualifier **“in the historical sense.”**
-- 3747 required no substantive English correction; the standalone cross-page `2` remains preserved in Tamil.
-- 3748 removes unsupported **“or easily,”** restores omitted **Manali Kandasamy** to the 1974 all-party list, and restores `பித்தலாட்டம்` as **“fraudulent trickery.”**
-- 3749 restores the source-specific office term **UPA coordinator** for `ஒருங்கிணைப்பாளர்`.
-- 3750 restores the source's triple rhetorical emphasis, preserves its source-visible **“two countries of North America and South America”** wording, and restores `என் தலைமையில்` as **“with me, then Chief Minister, presiding.”**
+- 3751 restores the source's **Assembly-rules** wording rather than the unsupported “departmental procedure.”
+- 3752 restores the **right to live** wording, preserves `மாநில சுற்றுச் சூழல் வாரியம்` as **State environmental board**, and restores the omitted source form `மகராஜன்` as **Maharajan**.
+- 3753 preserves source-visible **“yesterday”** and restores `மேம்படுத்தப்பட்ட தொழில்மனைகளை` as **developed industrial plots**.
+- 3754 restores the source-rendered Amnesty report title, Chief Justice causality, **U.N. Human Rights Commission**, the *Aguna* fabricated-disappearance framing and direct wording that **charges were brought** against the Chief Justice.
+- 3755 removes the unsupported expansion “Government Order Standing No. 324,” leaving **Government Order No. 324**.
 
-Current alignment total: **45/58 verified; 13 remain.** Canonical Tamil changes during bilingual alignment remain **0**.
+Current alignment total: **50/58 verified; 8 remain.** Canonical Tamil changes during bilingual alignment remain **0**.
 
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-**Bilingual alignment review — letters 3751–3755 / PDF 319–352 / printed 318–351.** After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+**Bilingual alignment review — letters 3756–3760 / PDF 353–380 / printed 352–379.** Letter **3756** is the existing pilot and must be reviewed/reused in place, not duplicated. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
 
 ## முக்கிய இணைப்புகள்
 
@@ -89,6 +89,7 @@ See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](tr
 - [Bilingual alignment review — letters 3736–3740](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md)
 - [Bilingual alignment review — letters 3741–3745](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md)
 - [Bilingual alignment review — letters 3746–3750](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md)
+- [Bilingual alignment review — letters 3751–3755](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [Textual-fidelity audit — letters 3721–3725](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
