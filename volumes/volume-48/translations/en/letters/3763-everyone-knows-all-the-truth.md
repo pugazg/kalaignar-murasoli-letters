@@ -8,9 +8,9 @@ source_pdf_page_start: 393
 source_pdf_page_end: 400
 source_printed_page_start: 392
 source_printed_page_end: 399
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -42,7 +42,7 @@ I must explain the facts.
 
 When the foundation stone for the Hogenakkal scheme was laid, there was no elected government in Karnataka. Governor's Rule was in force and preparations for a general election were under way. At that time the Karnataka BJP organised protests there, and Tamils living in Karnataka were severely attacked. Tamil-owned shops were destroyed. Buses were burned. Theatres showing Tamil films were attacked.
 
-Even after two resolutions seeking the Union Government's cooperation were passed in the Tamil Nadu Assembly, the attacks on Tamils did not stop. Condemning the Karnataka BJP's actions, the Tamil film industry held a fast at Chepauk on 4 April 2008 under the leadership of K.R.G., then president of the South Indian Film Chamber of Commerce. Among those who participated were Superstar Rajinikanth, Kalaignani Kamal Haasan, Vijayakanth, Ajith Kumar, Kaviperarasu Vairamuthu, directors Rama Narayanan, T. Rajendar, P. Vasu, Muktha Srinivasan, Cheran and K.S. Ravikumar, and actors including S.S.R., Sarathkumar, Dhanush, Jiiva, Simbu, Manorama, Khushbu, Sneha, Nayanthara and Ramya Krishnan, along with many others.
+Even after two resolutions seeking the Union Government's cooperation were passed in the Tamil Nadu Assembly, the attacks on Tamils did not stop. Condemning the Karnataka BJP's actions, the Tamil film industry held a fast at Chepauk on 4 April 2008 under the leadership of K.R.G., then president of the South Indian Film Chamber of Commerce. Among those who participated were Superstar Rajinikanth, Kalaignani Kamal Haasan, Vijayakanth, Ajith Kumar, Kaviperarasu Vairamuthu, directors Rama Narayanan, T. Rajendar, P. Vasu, Muktha Srinivasan, Cheran and K.S. Ravikumar, **Ilatchiya Nadigar S.S.R.**, Sarathkumar, Dhanush, Jiiva, Simbu, and actresses Manorama, Khushbu, Sneha, Nayanthara and Ramya Krishnan, along with many others.
 
 Because the issue had created a situation in which law and order could be affected in both States, and because Tamils living in Karnataka were suffering greatly, with only a few days remaining before a government was to be formed there, it is true that as Chief Minister I issued a statement saying that we would maintain peace temporarily on this issue until then, and that if the situation continued afterward there would be no need to remain patient.
 
@@ -95,13 +95,13 @@ When the Assembly is in session, whether a member or a party wants to seek an ex
 
 Tamil Nadu knows very well the extent to which opposition parties are given permission under their government today. Those who still believe in democracy and understand legislative traditions are learning this through experience.
 
-Chief Minister Jayalalithaa said that the Hogenakkal scheme was accelerated only after the AIADMK took office. The people of that region have directly witnessed under whose government the project was planned rapidly, accelerated and brought toward completion.
+Chief Minister Jayalalithaa said that the Hogenakkal scheme was accelerated only after the AIADMK took office. The people of that region have directly witnessed **under whose government the project was rapidly planned, accelerated and implemented**.
 
 When DMK Treasurer Thalapathi M.K. Stalin visited Krishnagiri in February, he said that a project that could have been completed by December 2012 had not been inaugurated because of delay caused by the AIADMK government. Chief Minister Jayalalithaa called that false propaganda.
 
 A single timetable had been prepared for this scheme, and on that basis work under DMK rule was organised so that the project could be completed by December 2012. The work proceeded accordingly. M.K. Stalin spoke at Krishnagiri on the basis of having repeatedly visited the works and monitored them directly as the minister responsible; he was not engaging in false propaganda.
 
-The Chief Minister said it was laughable that Stalin claimed he would complete in two months while out of office what had not been done in two years while the DMK was in office. The truth is that because the DMK government energetically accelerated the works while in office, the present Chief Minister was able to conduct the inauguration now. What the AIADMK has done is reap the harvest of work undertaken during DMK rule. The reality, the letter argues, is that the AIADMK has no right to celebrate the benefits of this project as though it had created them in the way the DMK did.
+The Chief Minister said it was laughable that Stalin claimed he would complete in two months while out of office what had not been done in two years while the DMK was in office. The truth is that because the DMK government energetically accelerated the works while in office, the present Chief Minister was able to conduct the inauguration now. **What they have done now is reap the harvest of the work undertaken during DMK rule; the reality is that the AIADMK has no right to celebrate the benefits of this project as the DMK does.**
 
 I had pointed to a photograph published by *Dinamalar* as evidence that the Hogenakkal works were not yet fully complete and were still under way, and asked why the scheme was being inaugurated in such haste. For some reason, the Chief Minister gave no answer to that question.
 
