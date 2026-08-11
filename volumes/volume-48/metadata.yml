@@ -95,7 +95,7 @@ translated_letter_numbers:
   - 3762
   - 3763
 next_translation_batch: null
-next_stage: "translation-manifest-and-release-report"
+next_stage: null
 bilingual_alignment_status: "complete"
 bilingual_aligned_letter_count: 58
 verified_translation_count: 58
@@ -174,7 +174,10 @@ bilingual_alignment_reports:
 next_alignment_batch: null
 english_editorial_consistency_status: "complete"
 english_editorial_consistency_report: "translations/en/EDITORIAL_CONSISTENCY_REVIEW.md"
-english_release_status: "not-started"
+english_release_status: "complete"
+english_translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
+english_release_report: "translations/en/RELEASE_REPORT.md"
+english_release_date: 2026-08-11
 source_observations:
   - "PDF page 23 is blank, with faint show-through from the reverse side."
   - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-402."
