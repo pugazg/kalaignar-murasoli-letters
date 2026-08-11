@@ -95,7 +95,7 @@ translated_letter_numbers:
   - 3762
   - 3763
 next_translation_batch: null
-next_stage: "english-editorial-consistency-pass"
+next_stage: "translation-manifest-and-release-report"
 bilingual_alignment_status: "complete"
 bilingual_aligned_letter_count: 58
 verified_translation_count: 58
@@ -172,6 +172,8 @@ bilingual_alignment_reports:
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md"
   - "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md"
 next_alignment_batch: null
+english_editorial_consistency_status: "complete"
+english_editorial_consistency_report: "translations/en/EDITORIAL_CONSISTENCY_REVIEW.md"
 english_release_status: "not-started"
 source_observations:
   - "PDF page 23 is blank, with faint show-through from the reverse side."
