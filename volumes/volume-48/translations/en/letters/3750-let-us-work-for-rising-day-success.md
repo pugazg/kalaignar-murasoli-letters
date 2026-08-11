@@ -8,9 +8,9 @@ source_pdf_page_start: 312
 source_pdf_page_end: 318
 source_printed_page_start: 311
 source_printed_page_end: 317
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -54,7 +54,7 @@ What did Mr Raghupathi, who had been chairman of the Thoothukudi Port Trust, say
 
 From this, those who think with a sense of balance can understand the justification for the Sethu Samudram project. It is equally clear that those acting with the intention of stopping the project will never recognise that justification.
 
-The Panama Canal and the Suez Canal were made by excavating and deepening land so that ships could pass through them. But the Sethu Canal project is completely different from those two canals—different in its very nature. The Panama Canal was cut through land between North America and South America; the Suez Canal through land between Egypt and Europe. The Sethu Canal, however, is planned entirely within sea territory belonging to India, near Pamban, by deepening to forty feet the rock formations known as Adam’s Bridge so that ships can pass.
+The Panama Canal and the Suez Canal were made by excavating and deepening land so that ships could pass through them. But the Sethu Canal project is completely different from those two canals! Different! Distinct! The Panama Canal was cut through land between the two countries of North America and South America; the Suez Canal through land between Egypt and Europe. The Sethu Canal, however, is planned entirely within sea territory belonging to India, near Pamban, by deepening to forty feet the rock formations known as Adam’s Bridge so that ships can pass.
 
 Even before the DMK came to office, Perarignar Anna delivered a long speech in the Tamil Nadu Legislative Assembly on 9 October 1960 on the Third Five-Year Plan. Speaking about the Sethu Samudram project, he said:
 
@@ -64,7 +64,7 @@ Anna spoke in this manner in the Legislative Assembly about the Sethu Samudram p
 
 When work on the Thoothukudi deep-sea harbour slowed and an attempt was made to turn it into a fishing harbour, Union Shipping Minister V.K.R.V. Rao visited Chennai in 1967. Anna and I, as Public Works Minister, went to the place where he was staying and met him. Anna also took with him former Chief Minister the elder statesman Bhaktavatsalam and former Industries Minister R. Venkataraman, and gave an assurance that if the port were to operate at a loss the State government itself would bear that loss. Perarignar Anna worked extraordinarily hard to secure the Thoothukudi deep-sea harbour.
 
-In 1972, at the entrance to Thoothukudi port, Prime Minister Mrs Indira Gandhi unveiled the statue of the “Tamil Helmsman”, V.O.C., when I was Chief Minister. On that occasion too, I said that the Sethu Canal project was absolutely essential for the usefulness of Thoothukudi port to grow further.
+In 1972, at the entrance to Thoothukudi port, Prime Minister Mrs Indira Gandhi unveiled the statue of the “Tamil Helmsman”, V.O.C., with me, then Chief Minister, presiding. On that occasion too, I said that the Sethu Canal project was absolutely essential for the usefulness of Thoothukudi port to grow further.
 
 In the DMK manifesto for the 2004 parliamentary election we stated:
 
@@ -97,7 +97,7 @@ Udanpirappē, it is against the continuation of such a distinguished Sethu Samud
 ## Letter-specific notes
 
 1. The NASA disclaimer is intentional English in the source and is reproduced exactly, including its punctuation and grammar.
-2. The source’s comparison sentence about the Suez, Panama and Kiel canals is translated as printed; no external geographic correction has been inserted into the body.
+2. The source’s comparison sentence about the Suez, Panama and Kiel canals is translated as printed; no external geographic correction has been inserted into the body. In particular, the source itself describes North America and South America as “the two countries”; that source wording is preserved here rather than silently corrected.
 3. Environmental, employment, profitability and financing claims are source-attributed project arguments and figures; they are not independently reconciled here.
 4. **Ezhuchi Naal** remains the established movement term, with the sense “Day of Uprising”.
 
