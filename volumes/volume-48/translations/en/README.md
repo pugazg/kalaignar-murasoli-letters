@@ -2,7 +2,7 @@
 
 Status: **source-checked translation complete; bilingual alignment in progress**.
 
-The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English source-checked translation is complete for all **58 letters**. Bilingual alignment has reached **40/58 verified letters**.
+The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English source-checked translation is complete for all **58 letters**. Bilingual alignment has reached **45/58 verified letters**.
 
 ## Translation progress
 
@@ -29,7 +29,7 @@ For the individual English files and page ranges, see [PROGRESS.md](PROGRESS.md)
 Each translation uses the approved translator’s note and bilingual order, translates every substantive paragraph, list and quotation, records source links and page ranges, and reproduces the complete audited Tamil beneath the English translation.
 
 **Translation counts:** **58/58 source-checked; 0 untranslated.**  
-**Alignment counts:** **40/58 verified; 18 remain.**
+**Alignment counts:** **45/58 verified; 13 remain.**
 
 See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
@@ -45,8 +45,9 @@ Alignment uses the completed Volume 49 workflow: each English letter is compared
 - **3731–3735 — PDF 193–219:** **5/5 verified** — [review report](BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md); two targeted English corrections.
 - **3736–3740 — PDF 220–248:** **5/5 verified** — [review report](BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md); three targeted English corrections; no Tamil-source changes.
 - **3741–3745 — PDF 249–279:** **5/5 verified** — [review report](BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md); five targeted English corrections across 3742, 3743 and 3744; no Tamil-source changes.
+- **3746–3750 — PDF 280–318:** **5/5 verified** — [review report](BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md); seven targeted English correction locations/groups across 3746, 3748, 3749 and 3750; no Tamil-source changes.
 
-For 3741–3745, alignment restores the source term **Sri Lankan military** and the office-title **District Collectors** in 3742; strengthens `உசுப்பி விட்டுவிட்டு` and restores the source position of the Rule 110 parenthetical in 3743; and removes the unsupported softening **“in my view”** from the lifelong-solitary-confinement statement in 3744. Letters 3741 and 3745 required no substantive English correction.
+For 3746–3750, alignment removes the unsupported Nehru qualifier **“in the historical sense”** in 3746. Letter 3747 required no substantive correction. In 3748 it removes unsupported **“or easily,”** restores omitted **Manali Kandasamy** to the 1974 all-party meeting list, and restores `பித்தலாட்டம்` as **“fraudulent trickery.”** Letter 3749 restores the source-specific office term **UPA coordinator**. Letter 3750 restores the source's repeated rhetorical force, preserves its source-visible **“two countries of North America and South America”** wording, and restores the V.O.C. event as **“with me, then Chief Minister, presiding.”**
 
 Canonical Tamil changes across bilingual alignment remain **0**. Source irregularities, source-visible punctuation, intentional English and numerical tensions remain preserved rather than silently reconciled.
 
@@ -84,4 +85,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** passed the source-che
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3746–3750 — PDF 280–318 / printed 279–317**. After all 58 letters are verified, proceed with the volume-level English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3751–3755 — PDF 319–352 / printed 318–351**. After all 58 letters are verified, proceed with the volume-level English editorial consistency pass, translation manifest and final release report.
