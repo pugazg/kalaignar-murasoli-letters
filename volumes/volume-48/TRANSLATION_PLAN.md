@@ -1,6 +1,6 @@
-# Volume 48 English Translation Plan — editorial consistency complete
+# Volume 48 English Translation Plan — release complete
 
-English translation, documented bilingual alignment and the volume-level English editorial consistency pass are now **complete: 58/58 verified and editorially reviewed**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and every English letter, **3706–3763**, has been compared directly with its complete audited Tamil.
+English translation, documented bilingual alignment, the volume-level English editorial consistency pass and final release packaging are now **complete: 58/58 verified, editorially reviewed and registered for release**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and every English letter, **3706–3763**, has been compared directly with its complete audited Tamil.
 
 This volume follows the approved Volume 49 bilingual/release workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -126,6 +126,16 @@ Two apparent variants were reviewed and deliberately retained rather than mechan
 
 Editorial result: **PASS — 58/58**.
 
-## Next stage — translation manifest and release report
+## Release packaging — complete
 
-Create the **Volume 48 English translation manifest** and prepare the **final English release report**, following the completed Volume 49 release structure. Release packaging must validate the final set and record the already completed gates without reopening source meaning or altering the authoritative Tamil.
+The [Volume 48 English translation manifest](translations/en/TRANSLATION_MANIFEST.csv) and [final English release report](translations/en/RELEASE_REPORT.md) are complete.
+
+The manifest registers exactly **58 verified letters, 3706–3763**, with continuous source coverage from **PDF 24–400 / printed 23–399**, no gap or overlap, and a completed bilingual-alignment report mapped to every row. It records source identity, date, English and Tamil titles, page spans, verification state, file path and alignment provenance without introducing any new source interpretation.
+
+The release report records completion of all gates: transcription/source fidelity, **58/58** English translations, **58/58** source checks, **58/58** bilingual alignment, editorial **PASS**, manifest **58/58**, and **0 canonical Tamil changes** during bilingual alignment or editorial review.
+
+Release result: **PASS — Volume 48 is ready as the completed English edition in this repository.**
+
+## Release state
+
+**Volume 48 English release preparation is complete.** There is no remaining translation, source-check, bilingual-alignment, editorial-consistency or release-packaging task. Any later downstream work must preserve this verified record unless a new correction is supported by documented source evidence.
