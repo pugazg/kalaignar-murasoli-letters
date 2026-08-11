@@ -8,9 +8,9 @@ source_pdf_page_start: 375
 source_pdf_page_end: 380
 source_printed_page_start: 374
 source_printed_page_end: 379
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -36,11 +36,11 @@ When journalists met me and asked about the Chief Minister's statement in the As
 
 Because the killing of the agricultural-college students took place many years ago, I think it necessary to recall the details somewhat fully.
 
-A case had been filed by the Directorate of Vigilance and Anti-Corruption against the present Chief Minister and others over allegedly granting unlawful permission to the seven-storey **Pleasant Stay** hotel in Kodaikanal in violation of development-control rules. On 2 February 2000, the Second Special Judge, Radhakrishnan, who heard the case, sentenced Jayalalithaa to one year's imprisonment. To enable an appeal, he also stayed operation of the judgment until 3 March 2000. But what happened that day?
+A case had been filed by the Directorate of Vigilance and Anti-Corruption against the present Chief Minister and others over granting unlawful permission to the seven-storey **Pleasant Stay** hotel in Kodaikanal in violation of development-control rules. On 2 February 2000, the Second Special Judge, Radhakrishnan, who heard the case, sentenced Jayalalithaa to one year's imprisonment. To enable an appeal, he also stayed operation of the judgment until 3 March 2000. But what happened that day?
 
 As soon as the judgment was delivered, AIADMK supporters gathered outside the court complex resorted to violence there itself. They smashed buses passing that way. They pelted shops with stones and looted them, causing panic among people in the area. And not there alone—AIADMK supporters engaged in violence in many parts of Tamil Nadu, setting buses on fire and looting shops.
 
-At that time, male and female students from the Coimbatore Agricultural College were returning to Coimbatore in two buses after visiting the Paiyur Agricultural Research Station near Krishnagiri. Those were the buses AIADMK supporters attempted to block and attack. Despite the women students pleading to be spared, petrol bombs were thrown at the buses and the students were burned inside. Three women students—Kokilavani of Namakkal, Gayathri of Virudhachalam and Hemalatha of Chennai—were burned alive; seventeen more women students suffered burn injuries. The news caused students across Tamil Nadu to erupt in anger.
+At that time, male and female students from the Coimbatore Agricultural College were returning to Coimbatore in two buses after conducting a study at the Paiyur Agricultural Research Station near Krishnagiri. Those were the buses AIADMK supporters attempted to block and attack. Despite the women students pleading to be spared, petrol bombs were thrown at the buses and the students were burned inside. Three women students—Kokilavani of Namakkal, Gayathri of Virudhachalam and Hemalatha of Chennai—were burned alive; seventeen more women students suffered burn injuries. The news caused students across Tamil Nadu to erupt in anger.
 
 But in a statement issued then, Jayalalithaa said:
 
@@ -56,9 +56,9 @@ Trial began in the Dharmapuri Sessions Court on 5 November 2001. Twenty-two peop
 >
 > “Cases must be registered and action taken against the Village Administrative Officer and Village Assistant of Viruppatchipuram for offences such as giving false evidence, signing a false report, causing evidence connected with the case to be destroyed and enabling the accused to escape legal proceedings. Their conduct, which undermined public trust in government officials, was base and shameful.”
 
-Were these criticisms by Justice Kanagaraj ordinary ones? Yet even after that, trial did not begin in the Salem court.
+Were these charges made by Justice Kanagaraj ordinary ones? Yet even after that, trial did not begin in the Salem court.
 
-On 3 December 2004, the Salem judge asked the police officer why, although fourteen months had passed since the bus-burning case was transferred from Krishnagiri to Salem, investigating officers failed to appear at each hearing and the case was being delayed. The judge asked what difficulty there was in obtaining the Government Order appointing a public prosecutor. The police officer replied that he had written to higher officials asking that notification be issued for appointment of a public prosecutor, and that his superior too had written repeatedly to the government.
+On 3 December 2004, the Salem judge asked the police officer why, although fourteen months had passed since the bus-burning case was transferred from Krishnagiri to Salem, investigating officers failed to appear at each hearing and the case was being delayed. The judge asked what difficulty there was in obtaining the order appointing a public prosecutor. The police officer replied that he had written to higher officials asking that notification be issued for appointment of a public prosecutor, and that his superior too had written repeatedly to the government.
 
 Kokilavani's father therefore again approached the Madras High Court. His petition said that the government had not issued a proper order appointing a public prosecutor and that the trial was not proceeding quickly in accordance with the High Court's earlier direction.
 
