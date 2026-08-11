@@ -8,9 +8,9 @@ source_pdf_page_start: 333
 source_pdf_page_end: 339
 source_printed_page_start: 332
 source_printed_page_end: 338
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -28,7 +28,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 I searched and searched through the newspapers to see whether, regarding the Tamil Nadu Legislative Assembly proceedings of 7 May 2013, any importance had been given to details such as which department's demand for grants was debated, who spoke in that debate, and what reply the minister of that department gave. I could find nothing. What is happening in Tamil Nadu? As they say in English, it is a **“One Man Show”**—that is what is happening here. In that pattern, on some days even Question Hour does not take place in the Assembly, but the Chief Minister's statements under Rule 110 appear every day, and they occupy page after page in the newspapers.
 
-On 7 May 2013, the Chief Minister read announcements relating to the Industries Department. The demand for grants for that department had already been debated in the Assembly and replies had already been given by the ministers concerned. Yet it was the Chief Minister who read the announcements concerning that very department in the Assembly the next day.
+On 7 May 2013, the Chief Minister read announcements relating to the Industries Department. The demand for grants for that department had already been debated in the Assembly and replies had already been given by the ministers concerned. Yet it was the Chief Minister who read the announcements concerning that very department in the Assembly **yesterday**.
 
 As soon as the Chief Minister finished reading her Rule 110 statement, there were words of praise from the Republican Party, Kongu Peravai, Forward Bloc, Samathuva Makkal Katchi, Manithaneya Makkal Katchi, Congress, Communist Party of India and Communist Party of India (Marxist). **“It would not be surprising if, because of the Chief Minister's announcements, Tamil Nadu becomes the Manchester of India”**—that was the praise from the Communist Party of India.
 
@@ -75,7 +75,7 @@ But after the DMK government was formed in 2006, the source attributes to the ne
 
 During the five years of AIADMK rule from 2001 to 2006, the increase in industrial investment over the preceding DMK government, the source says, was only ₹8,742 crore 61 lakh. But during the five years of DMK rule from 2006 to 2011, the increase over the preceding AIADMK period was ₹5 lakh 73 thousand 765 crore 94 lakh.
 
-The Chief Minister also referred to **SIPCOT** in the statement she read in the Assembly. It was the DMK government of 1971, the letter recalls, that established SIPCOT itself in order to create developed industrial estates with all basic facilities and provide them to industrial investors.
+The Chief Minister also referred to **SIPCOT** in the statement she read in the Assembly. It was the DMK government of 1971, the letter recalls, that established SIPCOT itself in order to create **developed industrial plots with all basic facilities** and provide them to industrial investors.
 
 Because the Chief Minister's statement claimed that it was her government that had been acting energetically in the industrial sector, I have given only this brief note on the initiative shown and the progress made in industry during DMK rule. If I were to list the factories that were started during the DMK period, that would require a separate letter.
 
@@ -89,6 +89,7 @@ Because the Chief Minister's statement claimed that it was her government that h
 2. The source prints the association/report reference as **“ASSO CHAMP”** and **BIZCON**. Those forms are preserved rather than silently normalised to an outside institutional spelling.
 3. Industrial rankings, investment figures and quoted assessments are translated as presented in the source and are not independently reconciled or updated.
 4. `சிப்காட்` is rendered as **SIPCOT**, the established source acronym used for the industrial-development corporation.
+5. The source itself says `நேற்று`—**“yesterday”**—immediately after dating the Industries Department announcements to 7 May 2013. That relative-date wording is retained rather than silently harmonised with the letter's printed date.
 
 ## Original Tamil — மூலத் தமிழ்
 
