@@ -37,7 +37,7 @@
   - [x] 3756–3760 — PDF 353–380 / printed 352–379
   - [x] 3761–3763 — PDF 381–400 / printed 380–399
 - [x] Volume-level English editorial consistency pass — **58/58 reviewed; PASS**
-- [ ] Translation manifest and final release report
+- [x] Translation manifest and final release report — **58/58 registered; release PASS**
 
 ## Full-volume structural and textual-fidelity status
 
@@ -79,11 +79,17 @@ Only **six title-level typography corrections** were required: 3708, 3727, 3739,
 
 Canonical Tamil changes during the editorial consistency pass: **0**. Editorial outcome: **PASS**.
 
-See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
+## English release
+
+Release packaging is complete. The machine-readable [TRANSLATION_MANIFEST.csv](translations/en/TRANSLATION_MANIFEST.csv) contains exactly **58 rows**, one for each verified letter from **3706 through 3763**, covering PDF **24–400** and printed pages **23–399** continuously. The [RELEASE_REPORT.md](translations/en/RELEASE_REPORT.md) records the final release gate and archival policy.
+
+Release outcome: **PASS — Volume 48 English edition complete in this repository.**
+
+See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/README.md](translations/en/README.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), [translations/en/EDITORIAL_CONSISTENCY_REVIEW.md](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md), [translations/en/TRANSLATION_MANIFEST.csv](translations/en/TRANSLATION_MANIFEST.csv), [translations/en/RELEASE_REPORT.md](translations/en/RELEASE_REPORT.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Create the **Volume 48 English translation manifest** and prepare the **final English release report**. Do not reopen verified source meaning during release packaging; preserve all textual-fidelity, bilingual-alignment and editorial decisions already recorded.
+**No remaining English translation/release stage for Volume 48.** Any later work should be treated as a new downstream task and must not reopen verified source meaning without documented evidence.
 
 ## Transcription status
 
