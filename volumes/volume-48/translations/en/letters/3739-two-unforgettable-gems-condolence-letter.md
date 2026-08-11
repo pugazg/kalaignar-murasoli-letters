@@ -2,7 +2,7 @@
 volume: 48
 letter_number: 3739
 tamil_title: "மறக்க முடியாத மாமணிகள் - இருவர்! கலைஞர் இரங்கல் கடிதம்!"
-english_title: "Two Unforgettable Gems! Kalaignar's Condolence Letter!"
+english_title: "Two Unforgettable Gems! Kalaignar’s Condolence Letter!"
 date: 2013-04-21
 source_pdf_page_start: 237
 source_pdf_page_end: 241
@@ -14,7 +14,7 @@ bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
-# 3739. Two Unforgettable Gems! Kalaignar's Condolence Letter!
+# 3739. Two Unforgettable Gems! Kalaignar’s Condolence Letter!
 
 > **Translator’s note**
 >
