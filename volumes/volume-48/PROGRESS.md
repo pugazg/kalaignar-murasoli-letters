@@ -23,7 +23,7 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **in progress: 55/58 verified**
+- [x] Bilingual alignment review — **58/58 verified; complete**
   - [x] 3706–3710 — PDF 24–56 / printed 23–55
   - [x] 3711–3715 — PDF 57–91 / printed 56–90
   - [x] 3716–3720 — PDF 92–128 / printed 91–127
@@ -35,7 +35,7 @@
   - [x] 3746–3750 — PDF 280–318 / printed 279–317
   - [x] 3751–3755 — PDF 319–352 / printed 318–351
   - [x] 3756–3760 — PDF 353–380 / printed 352–379
-  - [ ] Final: 3761–3763 — PDF 381–400 / printed 380–399
+  - [x] 3761–3763 — PDF 381–400 / printed 380–399
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -49,33 +49,31 @@ Known preserved source distinctions include the letter-3749 contents/start-page 
 
 ## English translation
 
-Source-checked English translation runs continuously from **letter 3706 through letter 3763 — 58/58 complete**. Every translation follows the approved translator's note and bilingual order, translates substantive paragraphs/lists/quotations, records source links/page ranges, and reproduces the complete audited Tamil beneath the English.
+Verified English translation runs continuously from **letter 3706 through letter 3763 — 58/58 complete**. Every translation follows the approved translator's note and bilingual order, translates substantive paragraphs/lists/quotations, records source links/page ranges, and reproduces the complete audited Tamil beneath the English.
 
-The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather than silently normalises Rule 110/111 procedure and scheme figures in 3757; OBC/`creamy layer` and exact Supreme Court English in 3758; the *Hindu* contractor passage in 3759; attributed Dharmapuri case/court material in 3760; NLC labour/disinvestment history in 3761; Hogenakkal chronology and scan-visible word forms in 3762; and exact *Hindu* English in 3763 including `By injectinga` and PDF 399 `அனுபவரீதியாகத்`.
+The final seven-letter sequence **3757–3763 / PDF 356–400** preserves rather than silently normalises Rule 110/111 procedure and scheme figures in 3757; OBC/`creamy layer` and exact Supreme Court English in 3758; the *Hindu* contractor passage in 3759; attributed Dharmapuri case/court material in 3760; NLC labour/disinvestment history in 3761; Hogenakkal chronology and scan-visible word forms in 3762; and exact *Hindu* English in 3763 including `By injectinga` and PDF 399 `அனுபவரீதியாகத்`.
 
 ## Bilingual alignment review
 
-The documented bilingual alignment stage uses the completed Volume 49 workflow as the precedent. English is compared directly with the complete audited Tamil; canonical Tamil is not altered during this stage.
+The documented bilingual alignment stage used the completed Volume 49 workflow as the precedent. English was compared directly with the complete audited Tamil; canonical Tamil was not altered during this stage.
 
-Letters **3706–3755 / PDF 24–352** were previously verified in ten five-letter review reports. Canonical Tamil changes during those alignment passes: **0**.
+Letters **3706–3760 / PDF 24–380** were verified in the first eleven alignment reports, with **0 canonical Tamil changes**.
 
-Letters **3756–3760 / PDF 353–380** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md). Four targeted English correction groups were made—one in 3758 and three in 3760—with **0 canonical Tamil changes**:
+The final **3761–3763 / PDF 381–400** batch is now **3/3 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md). Ten targeted English correction groups were made, with **0 canonical Tamil changes**:
 
-- 3756, the existing representative pilot, was reviewed and reused in place; no substantive English-body correction was required.
-- 3757 required no substantive English-body correction; its Rule 110/111 argument, advertising discussion, revised-estimate procedure and source land-distribution figures remain preserved as printed.
-- 3758 removes the unsupported word **“family”** from the opening income-ceiling sentence, restoring the source-level **“annual income not exceeding ₹4.5 lakh.”**
-- 3759 required no substantive English-body correction; the exact printed *Hindu* contractor quotation remains untouched.
-- 3760 removes unsupported **“allegedly”** from the Pleasant Stay sentence, restores `ஆய்வு செய்துவிட்டு` as **“after conducting a study at the Paiyur Agricultural Research Station,”** restores `குற்றச்சாட்டுகள்` as **“charges,”** and removes the unsupported “Government” from **“order appointing a public prosecutor.”**
+- 3761 preserves the source-specific **Labour Welfare Commission** wording, restores Kalaignar's direct judgment on the Narayanasamy statement, and renders `வீண் வம்புக்கு இழுக்கும்` as dragging Tamils—particularly Neyveli workers—into needless trouble.
+- 3762 restores the source singular **nuclear test**, the `என்னால்தான்` emphasis **“I myself laid the foundation stone,”** the omitted *Theekkathir* statement that work **“is being carried out,”** and the source-visible `முடிவுற்று` completion wording without reconciling its tension with the preceding unfinished-work passage.
+- 3763 restores **Ilatchiya Nadigar S.S.R.**, renders `விரைந்து திட்டம் தீட்டப்பட்டு, முடுக்கி விடப்பட்டு, நிறைவேற்றப்பட்டது` directly as **“rapidly planned, accelerated and implemented,”** and removes editorial softening/addition from the closing project-credit argument.
 
-Source irregularities remain preserved rather than reconciled throughout the verified set. Canonical Tamil changes during bilingual alignment: **0**.
+Source irregularities remain preserved rather than reconciled throughout the verified set. Canonical Tamil changes during the complete bilingual-alignment stage: **0**.
 
-Current counts: **58/58 translated and source-checked; 55/58 bilingual-aligned and verified; 3 alignment reviews remain.**
+Current counts: **58/58 translated, source-checked, bilingual-aligned and verified; 0 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Complete bilingual alignment with the final **letters 3761–3763 — PDF 381–400 / printed 380–399**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
+Proceed with the **volume-level English editorial consistency pass** across all **58 verified letters, 3706–3763**. Check cross-letter terminology, honorifics, transliteration, quotation handling, dates/numbers, notes, headings and Markdown consistency without undoing source-faithful alignment decisions. After that, create the translation manifest and final release report.
 
 ## Transcription status
 
