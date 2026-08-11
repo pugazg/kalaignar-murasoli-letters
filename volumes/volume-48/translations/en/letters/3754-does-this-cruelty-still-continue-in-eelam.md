@@ -8,9 +8,9 @@ source_pdf_page_start: 340
 source_pdf_page_end: 346
 source_printed_page_start: 339
 source_printed_page_end: 345
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -30,17 +30,17 @@ The countless sufferings inflicted upon Eelam Tamils have still not received due
 
 Amnesty International, the letter explains, is an independent organisation not aligned with any politics, any national government or any religion. It operates with three million supporters and members across 150 countries. Its fundamental purpose, the source says, is to prevent actions that violate human rights.
 
-After interviewing people from various sections in Sri Lanka, Amnesty International released its compiled findings on 30 April 2013. The letter gives the report the title **“Sri Lanka's Assault on Dissent.”** The material recorded in that report, Kalaignar writes, shocks and pains us deeply.
+After interviewing people from various sections in Sri Lanka, Amnesty International released its compiled findings on 30 April 2013. The letter gives the report the title **“The Sri Lankan Government's Attack on Dissent.”** The material recorded in that report, Kalaignar writes, shocks and pains us deeply.
 
 In Sri Lanka, dissent is dangerous, the report is presented as saying. Even after the war ended, the Sri Lankan authorities continued to show intolerance in political and social activity. Evidence of violations of international law relating to human rights and humanitarian concerns, the letter says, continued to emerge. In order to conceal alleged crimes committed during the war and avoid legal and political action, the authorities were said to attack, imprison, abduct and kill people who knew about those acts and might tell the world the truth and expose the government.
 
 Freedom of expression in Sri Lanka, the letter argues, was being treated as though it were a criminal act, and difference of opinion as though it were treason. The Sri Lankan authorities were described as acting aggressively to root out dissent and to destroy organisations, the judiciary and elected representatives who opposed government policies and practices.
 
-The Chief Justice of Sri Lanka was removed from office in January 2013, the source says, amid united opposition from lawyers after judgments protecting human rights. Lawyers expressing dissent were said to be monitored and their activities interfered with. Human-rights lawyers, lawyers protecting minorities, student leaders, professors, religious leaders, trade unionists, political-party members, judges and journalists were all described as being subjected to the government's anger and attacks. Those gathering information about people affected by the war and those extending assistance to them were also said to be threatened.
+The Chief Justice of Sri Lanka was removed from office in January 2013 **for delivering judgments that protected human rights**, amid united opposition from lawyers, the source says. Lawyers expressing dissent were said to be monitored and their activities interfered with. Human-rights lawyers, lawyers protecting minorities, student leaders, professors, religious leaders, trade unionists, political-party members, judges and journalists were all described as being subjected to the government's anger and attacks. Those gathering information about people affected by the war and those extending assistance to them were also said to be threatened.
 
 Journalists, the report as presented here says, were intimidated and attacked. At least fifteen journalists had been killed since 2006, and more than twenty-five had fled the country. A website supportive of the Liberation Tigers had been blocked, along with five more websites critical of the government.
 
-The Sri Lankan government had until then justified all its actions in the name of national security, the letter says, but neutral countries were no longer prepared to accept that argument. Amnesty International is described as urging the Sri Lankan government immediately to end inhuman practices involving attacks, threats, arrests, imprisonment and killings of journalists, lawyers, human-rights defenders and social activists. Because a meeting of the U.N. Human Rights Council was due in September 2013, the report is also presented as calling upon the United Nations and the Commonwealth, before that meeting, to hold the Sri Lankan government accountable for all forms of violations in the country.
+The Sri Lankan government had until then justified all its actions in the name of national security, the letter says, but neutral countries were no longer prepared to accept that argument. Amnesty International is described as urging the Sri Lankan government immediately to end inhuman practices involving attacks, threats, arrests, imprisonment and killings of journalists, lawyers, human-rights defenders and social activists. Because a meeting of the **U.N. Human Rights Commission** was due in September 2013, the report is also presented as calling upon the United Nations and the Commonwealth, before that meeting, to hold the Sri Lankan government accountable for all forms of violations in the country.
 
 As a member of the Commonwealth, Sri Lanka, the letter says, is obliged to implement all elements of the international declaration on human rights. Sri Lanka is described as a country without a right-to-information law and as having refused to fulfil its international responsibilities regarding freedom of expression, peaceful assembly and association.
 
@@ -50,7 +50,7 @@ On 2 January 2006 in Trincomalee, the source names five twenty-year-old Tamil st
 
 In Muttur in eastern Sri Lanka, the source says fifteen people belonging to a French relief organisation described as **“Action Against Hunger”** were shot dead on 6 August 2006. It also says that two sons of Ponnuthurai Yogaraja were killed in 2006.
 
-When violence began spreading in 2006, press censorship was introduced, the letter says, and journalists were subsequently targeted. Journalist Tissainayagam was arrested on 7 March 2008. On 8 January 2009, the editor of the *Sunday Leader*, named in the source as Wickrematunge, was killed in broad daylight. Jayantha, secretary of the working journalists' association, was abducted and tortured in June 2009, the letter says, with his fingers mutilated to such an extent that he could no longer write. Sinhala trade-union leaders who also ran the publication *Aguna*—Lalith Senavi Ratana, Nigal Serasinghe and Sisira Priyangara, as printed in the source—were said to have disappeared, followed by what the letter calls a fabricated story about their disappearance and the arrest of hundreds of tea-estate workers.
+When violence began spreading in 2006, press censorship was introduced, the letter says, and journalists were subsequently targeted. Journalist Tissainayagam was arrested on 7 March 2008. On 8 January 2009, the editor of the *Sunday Leader*, named in the source as Wickrematunge, was killed in broad daylight. Jayantha, secretary of the working journalists' association, was abducted and tortured in June 2009, the letter says, with his fingers mutilated to such an extent that he could no longer write. The source says that **a fabricated story was concocted that Sinhala trade-union leaders who also ran the publication *Aguna*—Lalith Senavi Ratana, Nigal Serasinghe and Sisira Priyangara—had disappeared. Following that, hundreds of tea-estate workers were arrested.**
 
 Cartoonist Prageeth was reported missing in 2010. On 11 February 2012, businessman Ramasamy Prabhakaran was said to have been abducted from his home. Women from Ashraf Nagar in Ampara district were described as having been severely harassed after going to court seeking the return of land occupied by the military. On 7 April 2012, leaders of the Frontline Socialist Party, Premakumar Gunaratnam and Dimuthu Attygalle, were said to have been abducted. Political activists Lalith Weeraraju and Kugan Muruganandam had been missing since 9 December 2011, according to the source.
 
@@ -66,7 +66,7 @@ People who maintained contact with the United Nations, foreign embassies, volunt
 
 In a victory speech in Parliament on 19 May 2009, Rajapaksa is quoted as saying that there were no longer any minorities in Sri Lanka and that there were only two categories of people: those who loved the country and those who had not loved it from birth. Under the Eighteenth Amendment to the Sri Lankan Constitution made on 8 September 2010, the Human Rights Commission, National Police Commission, Public Service Commission and Judicial Service Commission were brought under the President's direct control, the source says.
 
-The Chief Justice was impeached even after the Sri Lankan Supreme Court ruled that doing so was unconstitutional, the letter states. In a dispute in July 2012 between a Muslim person and Tamil fishermen, the Mannar Magistrate reportedly complained that a minister had threatened him to rewrite the judgment and warned that otherwise the court itself would be set on fire. Judicial Service Commission secretary Manjula Tilakaratne was attacked on 7 October 2012.
+**Charges were brought against the Chief Justice even after the Sri Lankan Supreme Court ruled that bringing such charges was unconstitutional**, the letter states. In a dispute in July 2012 between a Muslim person and Tamil fishermen, the Mannar Magistrate reportedly complained that a minister had threatened him to rewrite the judgment and warned that otherwise the court itself would be set on fire. Judicial Service Commission secretary Manjula Tilakaratne was attacked on 7 October 2012.
 
 Alongside these events, the letter says, another intense effort was under way to centralise authority over dissent. At the same time, the Rajapaksa government was denying the violence occurring in Sri Lanka, freely issuing empty assurances about protecting human rights and governing according to the rule of law, and, in the author's words, playing a double role on the international stage.
 
@@ -84,6 +84,7 @@ Although Amnesty International, international voluntary organisations and the ex
 2. Names are transliterated from the audited Tamil as closely as possible. No outside source has been used to silently replace the source's spellings or identify differently spelled individuals.
 3. The source gives **15** people as killed in the Muttur incident and uses its own names/descriptions for organisations and individuals. Those source forms and figures are preserved rather than reconciled with outside accounts.
 4. `ஈழம் / ஈழத் தமிழர்கள்` is rendered as **Eelam / Eelam Tamils**, following the established Volume 48 glossary.
+5. The source says `ஐ.நா. மனித உரிமைகள் ஆணையம்`; the alignment retains this as **U.N. Human Rights Commission** rather than silently normalising it to a different institutional title.
 
 ## Original Tamil — மூலத் தமிழ்
 
