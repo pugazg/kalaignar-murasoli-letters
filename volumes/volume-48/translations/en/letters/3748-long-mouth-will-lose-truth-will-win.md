@@ -8,9 +8,9 @@ source_pdf_page_start: 295
 source_pdf_page_end: 304
 source_printed_page_start: 294
 source_printed_page_end: 303
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -42,7 +42,7 @@ Was it I who, like Ammaiyar Jayalalithaa, swore in 1991 that “I will definitel
 
 On 25 December 1990, when then Prime Minister Chandra Shekhar came to meet the Shankaracharya, Jayalalithaa invited him to her own house and gave him a tea reception. She then went to Delhi and personally submitted petitions to the Prime Minister and to then President R. Venkataraman alleging that the DMK government was acting in support of the Liberation Tigers and asking that the government be dismissed. In the same way, how many times did Jayalalithaa go to Delhi over the Katchatheevu issue and meet the Prime Minister and the President? Can she list what protests she conducted and on what dates?
 
-Speaking in this very Legislative Assembly on 20 April 1992, Jayalalithaa said: “We passed a resolution here seeking the retrieval of Katchatheevu and sent it to the Union Government. But retrieving Katchatheevu does not appear to be something that can happen quickly or easily.” Having herself said in the Assembly that “retrieving Katchatheevu does not appear to be something that can happen quickly,” what a spectacle it is for her now to ask why I did not retrieve it and what exactly I was retrieving instead!
+Speaking in this very Legislative Assembly on 20 April 1992, Jayalalithaa said: “We passed a resolution here seeking the retrieval of Katchatheevu and sent it to the Union Government. But retrieving Katchatheevu does not appear to be something that can happen quickly.” Having herself said in the Assembly that “retrieving Katchatheevu does not appear to be something that can happen quickly,” what a spectacle it is for her now to ask why I did not retrieve it and what exactly I was retrieving instead!
 
 Jayalalithaa further said on that occasion that fishermen cross the international boundary and fish in the waters near Katchatheevu because that is where they obtain sufficient quantities of better-quality fish; that within Indian waters they do not get the quantity and quality they need; and that when they cross the international boundary, knowingly or unknowingly, the Sri Lankan Navy has on many occasions fired on their boats, seized the fish they had caught and burned their boats. Did she or did she not say all this in the Assembly?
 
@@ -52,7 +52,7 @@ Let me cite one thing. On 30 September 1994, Jayalalithaa, then Chief Minister o
 
 In her speech, Chief Minister Jayalalithaa asked why Karunanidhi took no immediate action even though he knew, before the agreement was signed, that India was going to give away Katchatheevu.
 
-Immediately after the agreement was signed on 26/28 June 1974, I convened an all-party leaders’ meeting at the Secretariat in Chennai on 29 June 1974. Ponnappa Nadar, A.R. Marimuthu, Arumugasamy, Tiruppur Moideen, Abdul Wahab, Aranganayagam, Venkatasamy, G. Saminathan, E.S. Thyagarajan, A.R. Perumal, Sakthi Mohan, Ma.Po.Si. and A.R. Damodaran participated, and we adopted a resolution on Katchatheevu. The AIADMK, however, refused even then to sign in support of that resolution.
+Immediately after the agreement was signed on 26/28 June 1974, I convened an all-party leaders’ meeting at the Secretariat in Chennai on 29 June 1974. Ponnappa Nadar, A.R. Marimuthu, Arumugasamy, Tiruppur Moideen, Abdul Wahab, Aranganayagam, Venkatasamy, G. Saminathan, E.S. Thyagarajan, A.R. Perumal, Sakthi Mohan, Manali Kandasamy, Ma.Po.Si. and A.R. Damodaran participated, and we adopted a resolution on Katchatheevu. The AIADMK, however, refused even then to sign in support of that resolution.
 
 On that same 29th, I wrote this letter to the Prime Minister:
 
@@ -88,7 +88,7 @@ When innocent Tamils were being killed in Sri Lanka, Jayalalithaa declared in th
 
 Again and again Jayalalithaa speaks as though I knew, before the India–Sri Lanka agreement was signed, that the agreement was going to be concluded. Rather than my offering an explanation, consider what *Dinamani* itself wrote in an editorial as early as 17 August 1991: “In the 1974 agreement entered into by then Prime Minister Indira Gandhi with Mrs Bandaranaike, it was announced that Katchatheevu would be ceded in order to establish good relations between the two countries. Before this agreement was signed, the Union Government did not consult the people of Tamil Nadu.”
 
-The same editorial wrote that “during the Emergency in India in 1976, through another agreement entered into with the Sri Lankan government without consulting the people, the traditional right of Indian fishermen to fish near Katchatheevu was also surrendered.” That itself shows that the claim that fishing rights were surrendered while the DMK was in office is an outright lie and a distortion.
+The same editorial wrote that “during the Emergency in India in 1976, through another agreement entered into with the Sri Lankan government without consulting the people, the traditional right of Indian fishermen to fish near Katchatheevu was also surrendered.” That itself shows that the claim that fishing rights were surrendered while the DMK was in office is an outright lie and fraudulent trickery.
 
 Jayalalithaa asks: the DMK was in office from 1996 to 2001 and again from 2006 to 2011; why did Karunanidhi not lift even a straw to retrieve Katchatheevu then? If I ask in return: Jayalalithaa herself was in office from 1991 to 1996, from 2001 to 2006, and again from 2011—why did she not retrieve Katchatheevu? Where would she hide her face?
 
