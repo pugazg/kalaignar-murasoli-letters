@@ -17,7 +17,8 @@
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
 - English translation **verified complete: 58/58**, continuous sequential coverage **3706–3763**.
 - Bilingual alignment **complete: 58/58 verified** — letters **3706–3763**.
-- Next stage: **volume-level English editorial consistency pass**.
+- English editorial consistency pass **complete: 58/58 reviewed — PASS**.
+- Next stage: **translation manifest and final English release report**.
 
 ## Audit / translation status
 
@@ -29,7 +30,8 @@
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
 | English translation | 3706–3763 | **58/58 verified complete** |
 | Bilingual alignment | 3706–3763 | **58/58 verified; complete** |
-| English editorial/release | — | editorial consistency pass pending |
+| English editorial consistency | 3706–3763 | **58/58 reviewed; PASS** |
+| English manifest/release | — | not started |
 
 The final textual-fidelity pass covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores `அனுபவரீதியாகத்`.
 
@@ -57,7 +59,7 @@ The alignment stage followed the completed Volume 49 review method: each English
 
 Letters **3706–3760 / PDF 24–380** were verified in the first eleven alignment reports, with **0 Tamil-source changes**.
 
-The final **3761–3763 / PDF 381–400** batch is now fully verified. See [BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md). The batch required **10 targeted English correction groups**, with **0 canonical Tamil changes**:
+The final **3761–3763 / PDF 381–400** batch is fully verified. See [BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md). The batch required **10 targeted English correction groups**, with **0 canonical Tamil changes**:
 
 - 3761 preserves the source-specific **Labour Welfare Commission** wording, restores the direct Narayanasamy judgment, and restores `வீண் வம்புக்கு இழுக்கும்` as dragging Tamils—particularly Neyveli workers—into needless trouble.
 - 3762 restores the source singular **nuclear test**, the `என்னால்தான்` emphasis **“I myself laid the foundation stone,”** the omitted *Theekkathir* work-in-progress wording, and the source-visible `முடிவுற்று` completion wording without reconciling its tension with the immediately preceding unfinished-work passage.
@@ -65,11 +67,19 @@ The final **3761–3763 / PDF 381–400** batch is now fully verified. See [BILI
 
 Final alignment total: **58/58 verified; 0 remain.** Canonical Tamil changes during the complete bilingual-alignment stage: **0**.
 
+## English editorial consistency
+
+The volume-level editorial pass has now completed across all **58 verified English translations**. See [EDITORIAL_CONSISTENCY_REVIEW.md](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
+
+The pass checked title/index agreement, bilingual structure, names and honorifics, transliteration, recurring terminology, British/Indian English treatment, quotation/title typography, dates and page ranges, note placement and preservation of the Tamil layer. It required only six title-level typography corrections in letters **3708, 3727, 3739, 3743, 3748 and 3752**.
+
+`video conference / video conferencing` and `Navratna` were reviewed and deliberately retained as Volume 48 source/context-dependent treatments. Exact source-English passages, source anomalies and numerical/chronological tensions remain untouched. Canonical Tamil changes during the editorial pass: **0**. Editorial result: **PASS**.
+
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-**Volume-level English editorial consistency pass — all 58 verified letters, 3706–3763.** Check recurring institutional terminology, office titles, honorifics, transliteration, quotation handling, number/date style, notes, headings, links and Markdown consistency. This pass must not normalise audited source irregularities, reconcile source-internal tensions or undo decisions already confirmed by bilingual alignment. After it passes, create the translation manifest and final English release report.
+Create the **Volume 48 English translation manifest** and prepare the **final English release report**. Release packaging must preserve the already verified textual-fidelity, bilingual-alignment and editorial decisions without reopening source meaning.
 
 ## முக்கிய இணைப்புகள்
 
@@ -79,6 +89,7 @@ See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](tr
 - [English translation plan](TRANSLATION_PLAN.md)
 - [English translation progress](translations/en/PROGRESS.md)
 - [English glossary](translations/en/GLOSSARY.md)
+- [English editorial consistency review](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
 - [Bilingual alignment review — letters 3706–3710](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md)
 - [Bilingual alignment review — letters 3711–3715](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md)
 - [Bilingual alignment review — letters 3716–3720](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md)
