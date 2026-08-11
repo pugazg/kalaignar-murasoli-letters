@@ -8,9 +8,9 @@ source_pdf_page_start: 280
 source_pdf_page_end: 286
 source_printed_page_start: 279
 source_printed_page_end: 285
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -70,7 +70,7 @@ Yet in the petition filed yesterday, 29 April 2013, by the Tamil Nadu government
 
 Jayalalithaa, who then described it in the election manifesto as “Adam’s Bridge” and as “sandbanks”, suddenly calls it “Rama’s Bridge” today. How? Why?
 
-Pandit Nehru, in the source’s account of letters written to Indira Gandhi, is quoted as saying that the Ramayana “is not an epic” in the historical sense, but an imaginative story that magnified a conflict between Dravidians and Aryans and incorporated many tales incompatible with reason.
+Pandit Nehru, in the source’s account of letters written to Indira Gandhi, is quoted as saying that the Ramayana “is not an epic”, but an imaginative story that magnified a conflict between Dravidians and Aryans and incorporated many tales incompatible with reason.
 
 The source also reproduces this statement by Rajaji, described there as a deeply devout Rama worshipper: “The Ramayana is not history or biography. It is a part of Hindu mythology”.
 
