@@ -8,9 +8,9 @@ source_pdf_page_start: 267
 source_pdf_page_end: 272
 source_printed_page_start: 266
 source_printed_page_end: 271
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -34,7 +34,7 @@ The rape of a student on a bus in Delhi last December had itself been raised in 
 
 Near Srivaikuntam, a twelve-year-old seventh-standard student named Punitha, who had gone to school, was sexually assaulted by an unidentified man and strangled to death. After learning of this, I sent the district DMK secretary, Thambi N. Periyasamy, to her home to console the girl's mother and provide financial assistance. I also sent DMK Rajya Sabha member and poet Kanimozhi directly to Thoothukudi to console the family. Only after that did the AIADMK government awaken and send a minister from the district to the house with financial assistance.
 
-Not in just one place but across India, and particularly in Tamil Nadu in recent times, reports have continued to appear widely of schoolgirls and poor women being subjected to such cruel sexual violence. The severe punishment for those who commit such acts, in my view, should be to keep them in solitary confinement for the rest of their lives. The Union and State governments must take a firm decision on this and put an end to sexual offences.
+Not in just one place but across India, and particularly in Tamil Nadu in recent times, reports have continued to appear widely of schoolgirls and poor women being subjected to such cruel sexual violence. The severe punishment for those who commit such acts should be to keep them in solitary confinement for the rest of their lives. The Union and State governments must take a firm decision on this and put an end to sexual offences.
 
 But as far as the Tamil Nadu government is concerned, action in such cases seems to amount only to registering a case at the police station for appearance's sake.
 
