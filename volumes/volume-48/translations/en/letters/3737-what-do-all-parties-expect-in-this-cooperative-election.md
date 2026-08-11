@@ -8,9 +8,9 @@ source_pdf_page_start: 226
 source_pdf_page_end: 231
 source_printed_page_start: 225
 source_printed_page_end: 230
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -30,7 +30,7 @@ Elections are said to be taking place for cooperative societies in Tamil Nadu. A
 
 But reports continue to appear every day about what they are being made to suffer because of the AIADMK government's anti-democratic actions, and about ruling-party factions themselves getting into internecine brawls in places during these cooperative elections. I have already written about this two or three times. Yet, so that the people of the State may understand the injustices produced by the continuing abuse of authority by ruling-party members, I have gathered some of them here.
 
-In a statement published in *Theekkathir* dated 16 April 2013, G. Ramakrishnan, State Secretary of the Communist Party of India (Marxist), said that the CPI(M) State Executive had already urged the Election Commission to condemn the widespread excesses of the ruling party in the first two phases of elections to cooperative bodies and the Commission's role as a mere spectator, and to ensure that the cooperative elections were conducted honestly and democratically.
+In a statement published in *Theekkathir* dated 16 April 2013, G. Ramakrishnan, State Secretary of the Communist Party of India (Marxist), said that the CPI(M) State Executive had already condemned the widespread excesses of the ruling party in the first two phases of elections to cooperative bodies, criticised the Election Commission for remaining a mere spectator, and urged the Commission to ensure that the cooperative elections were conducted honestly and democratically.
 
 He continued that when nominations were filed in Chennai for the third phase, in many places parties other than the ruling party, organisations and individuals were not allowed to file nominations. In many places, the police could be seen acting in support of the ruling party's lawlessness. Ruling-party members locked the doors of offices where nominations were to be filed and refused to let others enter; they gathered in groups and threatened and attacked people with weapons including bicycle chains and knives. Comrades who, unable even to enter to submit nominations and facing attacks, fought to uphold democratic rights were surrounded and arrested. He said this was the situation at many societies, including the T. Nagar Cooperative Bank, Pallavan Transport Corporation Employees Cooperative Credit Society, Transport Corporation Employees Credit Society, Anna Labour Cooperative Society, Nochikuppam Fishermen's Society and Fishermen's Credit Cooperative Society, and that the CPI(M) strongly condemned these atrocious anti-democratic acts.
 
