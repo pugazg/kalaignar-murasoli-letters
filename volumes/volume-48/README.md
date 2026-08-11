@@ -16,7 +16,7 @@
 - **Full-volume Tamil structural audit PASS** — 2026-08-08.
 - இரண்டாம் சுற்று textual-fidelity / visual verification **PDF 1–402 முழுவதும் complete**; letters **3706–3763 — 58/58** audit gate-ஐ கடந்துள்ளன.
 - English translation **source-checked complete: 58/58**, continuous sequential coverage **3706–3763**.
-- Bilingual alignment **in progress: 35/58 verified** — letters **3706–3740** complete; next **3741–3745**.
+- Bilingual alignment **in progress: 40/58 verified** — letters **3706–3745** complete; next **3746–3750**.
 
 ## Audit / translation status
 
@@ -27,7 +27,7 @@
 | Second visual / textual-fidelity verification | PDF 1–402 | **complete** |
 | Source-checked Tamil letters | 3706–3763 | **58/58 complete** |
 | English translation | 3706–3763 | **58/58 source-checked complete** |
-| Bilingual alignment | 3706–3740 | **35/58 verified; in progress** |
+| Bilingual alignment | 3706–3745 | **40/58 verified; in progress** |
 | English editorial/release | — | not started |
 
 The final textual-fidelity pass covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores `அனுபவரீதியாகத்`.
@@ -54,28 +54,22 @@ All **58** translation files have passed the source-check stage, use the approve
 
 The alignment stage follows the completed Volume 49 review method: each English file is compared directly with its complete audited Tamil for title/date, salutation/closing, paragraph sequence, claims and attribution, quotations, names, figures, lists, rhetorical force and accidental English additions or normalisation. Canonical Tamil is not changed during this stage.
 
-The first three five-letter batches, **3706–3720 / PDF 24–128**, are verified in their existing reports with **9 targeted English corrections** and **0 Tamil-source changes**.
+Letters **3706–3740 / PDF 24–248** were previously verified in seven five-letter review reports, with **0 Tamil-source changes**.
 
-The user-authorised 15-letter block **3721–3735 / PDF 129–219** is fully verified:
+Letters **3741–3745 / PDF 249–279** are now fully verified. See [BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md). The batch required **5 targeted English corrections**, with **0 canonical Tamil changes**:
 
-- **3721–3725:** [review report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md) — **5/5 verified**; 3722 restores **“threw it at the Speaker.”**
-- **3726–3730:** [review report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md) — **5/5 verified**; no substantive English correction required.
-- **3731–3735:** [review report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md) — **5/5 verified**; 3732 restores the source-visible **Rural Development Minister** reference and 3734 restores the metaphor **“like a disease born with us that kills us.”**
+- 3742 restores the source term **Sri Lankan military** rather than narrowing it to “its Navy,” and restores `மாவட்ட ஆட்சியராகவும் அரசு நிர்வாகிகளாகவும்` as **“District Collectors and government administrators.”**
+- 3743 restores the stronger force of `உசுப்பி விட்டுவிட்டு` as **“first stirring up those protesters”** and returns the Rule 110 parenthetical to its source position after the Tiruvallur 400-kV item.
+- 3744 removes the unsupported softening **“in my view”** from the source's direct punishment statement.
+- 3741 and 3745 required no substantive English correction.
 
-The next five-letter batch **3736–3740 / PDF 220–248** is also fully verified. See [BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md). It required **3 targeted English corrections** and **0 canonical Tamil changes**:
-
-- 3736 removes unsupported **“harmless”** and restores the passing-lizard image.
-- 3737 restores the CPI(M) statement's three-part attribution: condemning ruling-party excesses, criticising the Election Commission's spectator role, and urging honest democratic elections.
-- 3738 restores `ஆளுநரின் பரிந்துரைக்கு அனுப்ப` as **“send it to the Governor for recommendation.”**
-- 3739 and 3740 required no substantive English correction.
-
-Current alignment total: **35/58 verified; 23 remain.** Canonical Tamil changes during bilingual alignment remain **0**.
+Current alignment total: **40/58 verified; 18 remain.** Canonical Tamil changes during bilingual alignment remain **0**.
 
 See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-**Bilingual alignment review — letters 3741–3745 / PDF 249–279 / printed 248–278.** After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+**Bilingual alignment review — letters 3746–3750 / PDF 280–318 / printed 279–317.** After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
 
 ## முக்கிய இணைப்புகள்
 
@@ -92,6 +86,7 @@ See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](tr
 - [Bilingual alignment review — letters 3726–3730](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md)
 - [Bilingual alignment review — letters 3731–3735](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md)
 - [Bilingual alignment review — letters 3736–3740](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md)
+- [Bilingual alignment review — letters 3741–3745](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — letters 3706–3720](translations/en/TEXTUAL_FIDELITY_AUDIT_3706_3720.md)
 - [Textual-fidelity audit — letters 3721–3725](translations/en/TEXTUAL_FIDELITY_AUDIT_3721_3725.md)
