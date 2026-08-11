@@ -1,6 +1,6 @@
 # Volume 48 English Translation Plan — alignment in progress
 
-English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 50/58 verified**.
+English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 55/58 verified**.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -42,9 +42,9 @@ Volume 48 used three representative pilot letters:
 |---:|---:|---|---|
 | 3735 — `இதற்கோர் அறிக்கை படிக்கலாமே?` | 216–219 | ordinary policy/political argument, including fisheries relief and statistics | **verified** |
 | 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story | **verified** |
-| 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures | pending |
+| 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures | **verified** |
 
-All three pilots are source-checked and were reviewed/reused at their correct sequential positions without duplicate files.
+All three pilots are source-checked, were reviewed/reused at their correct sequential positions without duplicate files, and have now completed bilingual alignment.
 
 ## Status progression
 
@@ -53,7 +53,7 @@ All three pilots are source-checked and were reviewed/reused at their correct se
 3. `reviewed`
 4. `verified`
 
-All 58 letters have reached at least **`source-checked`**. Letters **3706–3755** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
+All 58 letters have reached at least **`source-checked`**. Letters **3706–3760** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
 
 ## Completed translation sequence
 
@@ -97,10 +97,11 @@ The Tamil source is already scan-verified. **Alignment QA does not modify canoni
 - **3741–3745 — PDF 249–279 / printed 248–278:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md); **5** targeted English corrections; Tamil changes **0**.
 - **3746–3750 — PDF 280–318 / printed 279–317:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md); **7** targeted English correction locations/groups; Tamil changes **0**.
 - **3751–3755 — PDF 319–352 / printed 318–351:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md); **12** targeted English correction locations/groups; Tamil changes **0**.
+- **3756–3760 — PDF 353–380 / printed 352–379:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md); **4** targeted English correction groups; Tamil changes **0**.
 
-The 3751–3755 alignment restores `சட்டப்பேரவை விதியின் கீழ்` as **“under the Assembly's rules”** in 3751. In 3752 it restores the source's **right to live** wording, preserves `மாநில சுற்றுச் சூழல் வாரியம்` as **State environmental board**, and restores omitted `மகராஜன்` as **Maharajan**. In 3753 it preserves source-visible **“yesterday”** and restores **developed industrial plots**. In 3754 it restores the source-rendered Amnesty report title, Chief Justice causality, **U.N. Human Rights Commission**, the *Aguna* fabricated-disappearance framing and direct wording that **charges were brought**. In 3755 it removes the unsupported expansion “Government Order Standing No. 324.”
+The 3756–3760 review reuses pilot 3756 without substantive body correction; 3757 and 3759 likewise require no substantive body correction. Letter 3758 removes unsupported **“family”** from the opening income-ceiling sentence. Letter 3760 removes unsupported **“allegedly,”** restores `ஆய்வு செய்துவிட்டு` as **“after conducting a study,”** restores `குற்றச்சாட்டுகள்` as **“charges,”** and removes the unsupported “Government” from the public-prosecutor appointment-order wording.
 
-Alignment totals: **50/58 verified; 8 remain**.
+Alignment totals: **55/58 verified; 3 remain**.
 
 ## Final-batch source-preservation lock
 
@@ -116,6 +117,6 @@ The 3757–3763 translations preserve the audited source rather than silently no
 
 ## Next alignment batch
 
-Proceed with **letters 3756–3760 — PDF 353–380 / printed 352–379**. Letter **3756** is the existing representative pilot and must be reviewed/reused in place, not duplicated.
+Proceed with the **final alignment batch: letters 3761–3763 — PDF 381–400 / printed 380–399**.
 
 After all 58 letters are verified, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
