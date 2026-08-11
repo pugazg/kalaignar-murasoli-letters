@@ -2,7 +2,7 @@
 volume: 48
 letter_number: 3727
 tamil_title: "தங்கள் “தகுதி”யை வெளிப்படுத்துவார்களா?"
-english_title: "Will They Reveal Their ‘Qualification’?"
+english_title: "Will They Reveal Their “Qualification”?"
 date: 2013-04-03
 source_pdf_page_start: 168
 source_pdf_page_end: 173
