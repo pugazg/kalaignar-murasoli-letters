@@ -7,7 +7,7 @@
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
 - [x] Representative pilot letters 3735, 3743 and 3756 translated, source-checked and reused in sequence
 - [x] Sequential bulk English translation — **58/58 source-checked complete**
-- [ ] Bilingual alignment review — **in progress: 50/58 verified**
+- [ ] Bilingual alignment review — **in progress: 55/58 verified**
   - [x] Letters 3706–3710 — PDF 24–56 / printed 23–55
   - [x] Letters 3711–3715 — PDF 57–91 / printed 56–90
   - [x] Letters 3716–3720 — PDF 92–128 / printed 91–127
@@ -18,7 +18,8 @@
   - [x] Letters 3741–3745 — PDF 249–279 / printed 248–278
   - [x] Letters 3746–3750 — PDF 280–318 / printed 279–317
   - [x] Letters 3751–3755 — PDF 319–352 / printed 318–351
-  - [ ] Next: letters 3756–3760 — PDF 353–380 / printed 352–379
+  - [x] Letters 3756–3760 — PDF 353–380 / printed 352–379
+  - [ ] Final: letters 3761–3763 — PDF 381–400 / printed 380–399
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -28,7 +29,7 @@
 |---:|---|---|---|---|
 | 3735 | PDF 216–219 | ordinary policy/political argument, fisheries statistics | source-checked; reused in sequence | **verified** |
 | 3743 | PDF 260–266 | rhetoric, satire, proverb and illustrative story | source-checked; reused in sequence | **verified** |
-| 3756 | PDF 353–355 | quoted announcement/newspaper material and figures | source-checked; reused in sequence | pending |
+| 3756 | PDF 353–355 | quoted announcement/newspaper material and figures | source-checked; reused in sequence | **verified** |
 
 ## Sequential translation coverage
 
@@ -133,19 +134,20 @@ The final batch preserves source-specific material rather than silently normalis
 - Letters **3741–3745** — [`BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md`](BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md): **5/5 verified**; five targeted English corrections across 3742, 3743 and 3744; no Tamil-source changes.
 - Letters **3746–3750** — [`BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md`](BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md): **5/5 verified**; seven targeted English correction locations/groups across 3746, 3748, 3749 and 3750; no Tamil-source changes.
 - Letters **3751–3755** — [`BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md`](BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md): **5/5 verified**; twelve targeted English correction locations/groups across the five letters; no Tamil-source changes.
+- Letters **3756–3760** — [`BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md`](BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md): **5/5 verified**; four targeted English correction groups, one in 3758 and three in 3760; no Tamil-source changes.
 
-The 3751–3755 alignment restores the Assembly-rules wording in 3751; restores the source's right-to-live wording, `மாநில சுற்றுச் சூழல் வாரியம்`, and omitted `மகராஜன்` in 3752; preserves source-visible **“yesterday”** and **developed industrial plots** in 3753; restores the source-rendered Amnesty report title, Chief Justice causality, **U.N. Human Rights Commission**, *Aguna* disappearance framing and direct “charges were brought” wording in 3754; and removes an unsupported expansion of Government Order No. 324 in 3755.
+The 3756–3760 review reused pilot 3756 without substantive body correction; 3757 and 3759 likewise required no substantive body correction. Letter 3758 removes unsupported **“family”** from the opening income-ceiling sentence. Letter 3760 removes unsupported **“allegedly,”** restores the Paiyur `ஆய்வு` as **“conducting a study,”** restores `குற்றச்சாட்டுகள்` as **“charges,”** and removes the unsupported “Government” from the public-prosecutor appointment-order wording.
 
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
-- Bilingual-alignment verified: **50 / 58**
+- Bilingual-alignment verified: **55 / 58**
 - Remaining untranslated letters: **0**
-- Remaining alignment review: **8**
+- Remaining alignment review: **3**
 
-Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete continuously through **3755**.
+Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete continuously through **3760**.
 
 ## Style lock
 
@@ -164,4 +166,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3756–3760 — PDF 353–380 / printed 352–379**. Letter 3756 is the existing pilot and must be reviewed/reused in place, not duplicated. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+Complete bilingual alignment with the final **letters 3761–3763 — PDF 381–400 / printed 380–399**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
