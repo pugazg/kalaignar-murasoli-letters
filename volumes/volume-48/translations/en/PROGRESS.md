@@ -21,7 +21,7 @@
   - [x] Letters 3756–3760 — PDF 353–380 / printed 352–379
   - [x] Letters 3761–3763 — PDF 381–400 / printed 380–399
 - [x] Volume-level English editorial consistency pass — **58/58 reviewed; PASS**
-- [ ] Translation manifest and final release report
+- [x] Translation manifest and final release report — **58/58 registered; release PASS**
 
 ## Pilot set
 
@@ -147,6 +147,12 @@ Six title-level typography corrections were applied in **3708, 3727, 3739, 3743,
 
 Editorial result: **PASS — 58/58**.
 
+## Release packaging
+
+Release packaging is complete. [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv) contains **58 release rows**, one for every verified letter from **3706 through 3763**, with continuous PDF coverage **24–400** and printed coverage **23–399**. [`RELEASE_REPORT.md`](RELEASE_REPORT.md) records the final release identity, QA state and archival policy.
+
+Release result: **PASS — completed English edition of Volume 48 in this repository**.
+
 ## Counts
 
 - Total letters: **58**
@@ -154,8 +160,10 @@ Editorial result: **PASS — 58/58**.
 - Source-checked translations: **58 / 58**
 - Bilingual-alignment verified: **58 / 58**
 - Editorially reviewed: **58 / 58**
+- Manifest rows: **58 / 58**
 - Remaining untranslated letters: **0**
 - Remaining alignment review: **0**
+- Remaining English release stage: **0**
 
 Sequential English coverage and bilingual verification are complete continuously from **3706 through 3763**. Canonical Tamil changes during bilingual alignment and editorial consistency: **0**.
 
@@ -172,8 +180,8 @@ The complete verified translation set follows the Volume 49 style lock:
 - use minimal notes for source anomalies, culturally difficult idiom and institutional terms;
 - never use English to correct or normalise the audited Tamil.
 
-See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md), [TRANSLATION_MANIFEST.csv](TRANSLATION_MANIFEST.csv), [RELEASE_REPORT.md](RELEASE_REPORT.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Create the **translation manifest** and prepare the **final English release report**, following the completed Volume 49 release structure. Release packaging must preserve the completed textual-fidelity, bilingual-alignment and editorial decisions without reopening source meaning.
+**Volume 48 English release preparation is complete.** Any later work is downstream of this release and must preserve the verified source, alignment and editorial record unless a new correction is supported by documented evidence.
