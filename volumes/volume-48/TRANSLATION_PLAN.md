@@ -1,6 +1,6 @@
 # Volume 48 English Translation Plan — alignment in progress
 
-English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 35/58 verified**.
+English translation is **complete at the source-checked stage**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and all **58 letters, 3706–3763**, have source-checked English translations. The documented bilingual alignment stage is now **in progress: 40/58 verified**.
 
 This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -41,7 +41,7 @@ Volume 48 used three representative pilot letters:
 | Letter | PDF pages | Role | Alignment |
 |---:|---:|---|---|
 | 3735 — `இதற்கோர் அறிக்கை படிக்கலாமே?` | 216–219 | ordinary policy/political argument, including fisheries relief and statistics | **verified** |
-| 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story | pending |
+| 3743 — `கனவா? நனவா? கழுதையே சும்மா இரு என்ற கதையா?` | 260–266 | rhetorically and culturally difficult satire, proverb and illustrative story | **verified** |
 | 3756 — `அறிவிப்போடு நிற்குமா அம்மாவின் திட்டங்கள்!` | 353–355 | quotation-heavy policy letter with newspaper material and figures | pending |
 
 All three pilots are source-checked and were reviewed/reused at their correct sequential positions without duplicate files.
@@ -53,7 +53,7 @@ All three pilots are source-checked and were reviewed/reused at their correct se
 3. `reviewed`
 4. `verified`
 
-All 58 letters have reached at least **`source-checked`**. Letters **3706–3740** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
+All 58 letters have reached at least **`source-checked`**. Letters **3706–3745** have completed documented bilingual alignment and are now **`verified`**. No remaining letter is to be marked `verified` until its alignment review confirms paragraph sequence, quotations, figures, names, title, salutation, closing and date.
 
 ## Completed translation sequence
 
@@ -90,14 +90,15 @@ The Tamil source is already scan-verified. **Alignment QA does not modify canoni
 - **3706–3710 — PDF 24–56 / printed 23–55:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md); **4** targeted English corrections; Tamil changes **0**.
 - **3711–3715 — PDF 57–91 / printed 56–90:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md); **2** targeted English corrections; Tamil changes **0**.
 - **3716–3720 — PDF 92–128 / printed 91–127:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md); **3** targeted English corrections; Tamil changes **0**.
-- **3721–3725 — PDF 129–161 / printed 128–160:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md); **1** targeted English correction in 3722: `பேரவைத் தலைவர் மீது தூக்கி எறிந்தார்` → **“threw it at the Speaker”**; Tamil changes **0**.
+- **3721–3725 — PDF 129–161 / printed 128–160:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md); **1** targeted English correction; Tamil changes **0**.
 - **3726–3730 — PDF 162–192 / printed 161–191:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md); **0** substantive English corrections; Tamil changes **0**.
-- **3731–3735 — PDF 193–219 / printed 192–218:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md); **2** targeted English corrections: 3732 restores the source-visible **Rural Development Minister** reference and 3734 restores `உடன்பிறந்தே கொல்லும் வியாதியாக` as **“like a disease born with us that kills us”**; Tamil changes **0**.
-- **3736–3740 — PDF 220–248 / printed 219–247:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md); **3** targeted English corrections in 3736, 3737 and 3738; Tamil changes **0**.
+- **3731–3735 — PDF 193–219 / printed 192–218:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md); **2** targeted English corrections; Tamil changes **0**.
+- **3736–3740 — PDF 220–248 / printed 219–247:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md); **3** targeted English corrections; Tamil changes **0**.
+- **3741–3745 — PDF 249–279 / printed 248–278:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3741_3745.md); **5** targeted English corrections across 3742, 3743 and 3744; Tamil changes **0**.
 
-The 3736–3740 corrections remove the unsupported word **“harmless”** from the passing-lizard image in 3736; restore the CPI(M) State Executive's three distinct actions in 3737—condemning ruling-party excesses, criticising the Election Commission's spectator role, and urging honest democratic elections; and restore `ஆளுநரின் பரிந்துரைக்கு அனுப்ப` in 3738 as **“send it to the Governor for recommendation.”** Letters 3739–3740 required no substantive English correction.
+The 3741–3745 corrections restore **Sri Lankan military** and **District Collectors** in 3742; restore the stronger source force of `உசுப்பி விட்டுவிட்டு` and the source order of the Rule 110 parenthetical in 3743; and remove the unsupported qualifier **“in my view”** from the direct punishment statement in 3744. Letters 3741 and 3745 required no substantive English correction.
 
-Alignment totals: **35/58 verified; 23 remain**.
+Alignment totals: **40/58 verified; 18 remain**.
 
 ## Final-batch source-preservation lock
 
@@ -113,6 +114,6 @@ The 3757–3763 translations preserve the audited source rather than silently no
 
 ## Next alignment batch
 
-Proceed with **letters 3741–3745 — PDF 249–279 / printed 248–278**.
+Proceed with **letters 3746–3750 — PDF 280–318 / printed 279–317**.
 
 After all 58 letters are verified, perform the volume-level English editorial consistency pass, create the translation manifest, and prepare the final English release report.
