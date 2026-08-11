@@ -8,9 +8,9 @@ source_pdf_page_start: 237
 source_pdf_page_end: 241
 source_printed_page_start: 236
 source_printed_page_end: 240
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
