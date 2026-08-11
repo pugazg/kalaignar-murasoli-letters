@@ -23,14 +23,15 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **in progress: 30/58 verified**
+- [ ] Bilingual alignment review — **in progress: 35/58 verified**
   - [x] 3706–3710 — PDF 24–56 / printed 23–55
   - [x] 3711–3715 — PDF 57–91 / printed 56–90
   - [x] 3716–3720 — PDF 92–128 / printed 91–127
   - [x] 3721–3725 — PDF 129–161 / printed 128–160
   - [x] 3726–3730 — PDF 162–192 / printed 161–191
   - [x] 3731–3735 — PDF 193–219 / printed 192–218
-  - [ ] Next: 3736–3740 — PDF 220–248 / printed 219–247
+  - [x] 3736–3740 — PDF 220–248 / printed 219–247
+  - [ ] Next: 3741–3745 — PDF 249–279 / printed 248–278
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -54,21 +55,28 @@ The documented bilingual alignment stage uses the completed Volume 49 workflow a
 
 Letters **3706–3710 / PDF 24–56**, **3711–3715 / PDF 57–91**, and **3716–3720 / PDF 92–128** were previously verified. Their reports document four, two and three targeted English corrections respectively, with **0 canonical Tamil changes**.
 
-The user-authorised 15-letter block **3721–3735 / PDF 129–219** is now complete and verified in three reports:
+The user-authorised 15-letter block **3721–3735 / PDF 129–219** is complete and verified in three reports:
 
 - [BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md) — **5/5 verified**; one targeted English correction in 3722: `பேரவைத் தலைவர் மீது தூக்கி எறிந்தார்` is restored as **“threw it at the Speaker.”**
 - [BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md) — **5/5 verified**; no substantive English correction required.
 - [BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md) — **5/5 verified**; 3732 restores the source-visible **Rural Development Minister** reference and 3734 restores `உடன்பிறந்தே கொல்லும் வியாதியாக` as **“like a disease born with us that kills us.”**
 
-Source irregularities remain preserved rather than reconciled, including the conflicting Narippaiyur cost figures in 3732 and the inconsistent fishermen-statistics periods in 3735. Canonical Tamil changes in the 15-letter block: **0**.
+Letters **3736–3740 / PDF 220–248** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md). Three targeted English corrections were made, with **0 canonical Tamil changes**:
 
-Current counts: **58/58 translated and source-checked; 30/58 bilingual-aligned and verified; 28 alignment reviews remain.**
+- 3736 removes the unsupported word **“harmless”** and restores the passing-lizard image as **“like letting a lizard that was merely passing by crawl onto one's own face.”**
+- 3737 restores the CPI(M) State Executive's three-part source attribution: it **condemned** ruling-party excesses, **criticised** the Election Commission's spectator role, and **urged** the Commission to ensure honest democratic elections.
+- 3738 restores `ஆளுநரின் பரிந்துரைக்கு அனுப்ப` as **“send it to the Governor for recommendation.”**
+- 3739 and 3740 required no substantive English correction.
+
+Source irregularities remain preserved rather than reconciled throughout the verified set. Canonical Tamil changes during bilingual alignment: **0**.
+
+Current counts: **58/58 translated and source-checked; 35/58 bilingual-aligned and verified; 23 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3736–3740 — PDF 220–248 / printed 219–247**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3741–3745 — PDF 249–279 / printed 248–278**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
 
 ## Transcription status
 
