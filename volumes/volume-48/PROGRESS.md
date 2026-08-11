@@ -36,7 +36,7 @@
   - [x] 3751–3755 — PDF 319–352 / printed 318–351
   - [x] 3756–3760 — PDF 353–380 / printed 352–379
   - [x] 3761–3763 — PDF 381–400 / printed 380–399
-- [ ] Volume-level English editorial consistency pass
+- [x] Volume-level English editorial consistency pass — **58/58 reviewed; PASS**
 - [ ] Translation manifest and final release report
 
 ## Full-volume structural and textual-fidelity status
@@ -59,7 +59,7 @@ The documented bilingual alignment stage used the completed Volume 49 workflow a
 
 Letters **3706–3760 / PDF 24–380** were verified in the first eleven alignment reports, with **0 canonical Tamil changes**.
 
-The final **3761–3763 / PDF 381–400** batch is now **3/3 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md). Ten targeted English correction groups were made, with **0 canonical Tamil changes**:
+The final **3761–3763 / PDF 381–400** batch is **3/3 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md). Ten targeted English correction groups were made, with **0 canonical Tamil changes**:
 
 - 3761 preserves the source-specific **Labour Welfare Commission** wording, restores Kalaignar's direct judgment on the Narayanasamy statement, and renders `வீண் வம்புக்கு இழுக்கும்` as dragging Tamils—particularly Neyveli workers—into needless trouble.
 - 3762 restores the source singular **nuclear test**, the `என்னால்தான்` emphasis **“I myself laid the foundation stone,”** the omitted *Theekkathir* statement that work **“is being carried out,”** and the source-visible `முடிவுற்று` completion wording without reconciling its tension with the preceding unfinished-work passage.
@@ -69,11 +69,21 @@ Source irregularities remain preserved rather than reconciled throughout the ver
 
 Current counts: **58/58 translated, source-checked, bilingual-aligned and verified; 0 alignment reviews remain.**
 
+## English editorial consistency review
+
+The volume-level English editorial pass is complete across **all 58 verified translations, 3706–3763**. See [EDITORIAL_CONSISTENCY_REVIEW.md](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
+
+The pass followed the completed Volume 49 release method and checked title/index agreement, mandatory bilingual structure, names/honorifics/transliteration, recurring institutional terminology, British/Indian English treatment, title typography, dates/page ranges/status fields, note placement and preservation of the complete Tamil layer.
+
+Only **six title-level typography corrections** were required: 3708, 3727, 3739, 3743, 3748 and 3752. No argument or source meaning was rewritten. `video conference / video conferencing` and `Navratna` were reviewed and deliberately retained as Volume 48 source/context-dependent treatments rather than mechanically normalised to another volume. Exact source-English passages and source irregularities remain untouched.
+
+Canonical Tamil changes during the editorial consistency pass: **0**. Editorial outcome: **PASS**.
+
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Proceed with the **volume-level English editorial consistency pass** across all **58 verified letters, 3706–3763**. Check cross-letter terminology, honorifics, transliteration, quotation handling, dates/numbers, notes, headings and Markdown consistency without undoing source-faithful alignment decisions. After that, create the translation manifest and final release report.
+Create the **Volume 48 English translation manifest** and prepare the **final English release report**. Do not reopen verified source meaning during release packaging; preserve all textual-fidelity, bilingual-alignment and editorial decisions already recorded.
 
 ## Transcription status
 
