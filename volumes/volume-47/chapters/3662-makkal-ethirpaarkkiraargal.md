@@ -34,4 +34,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - PDF பக்கங்கள் 122–127-இல் அச்சிடப்பட்ட bullet-list வரிசை, `(?)` குறியீடுகள் மற்றும் source-specific wording பாதுகாக்கப்பட்டுள்ளன; PDF 127 closing/date page ஆக verified.
 
 **முந்தைய கடிதம்:** [3661 — இனியாவது அதைத் தவிர்ப்பாரா?](3661-iniyaavathu-athaith-thavirppaaraa.md)  
-**அடுத்த கடிதம்:** 3663 — நெஞ்சைத் துளைத்திடும் கொடுமை இது! — PDF பக்கம் 128-இல் தொடங்குகிறது; அடுத்த iteration-க்கு pending
+**அடுத்த கடிதம்:** [3663 — நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!](3663-nenjai-thulaiththidum-thodarkathai-idhu.md)

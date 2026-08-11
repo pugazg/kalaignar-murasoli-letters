@@ -20,11 +20,16 @@
 | [3660](3660-indrae-anivaen-endrum-anivaen.md) | இன்றே அணிவேன்; என்றும் அணிவேன்! | 5-10-2012 | 110–115 | 111–116 | complete (first-pass-reviewed) |
 | [3661](3661-iniyaavathu-athaith-thavirppaaraa.md) | இனியாவது அதைத் தவிர்ப்பாரா? | 9-10-2012 | 116–120 | 117–121 | complete (first-pass-reviewed) |
 | [3662](3662-makkal-ethirpaarkkiraargal.md) | மக்கள் எதிர்பார்க்கிறார்கள்! | 12-10-2012 | 121–126 | 122–127 | complete (first-pass-reviewed) |
+| [3663](3663-nenjai-thulaiththidum-thodarkathai-idhu.md) | நெஞ்சைத் துளைத்திடும் தொடர்கதை இது! | 14-10-2012 | 127–131 | 128–132 | complete (first-pass-reviewed) |
+| [3664](3664-sethu-thittam-vanthaal-sezhippurum-thennagam.md) | சேது திட்டம் வந்தால் செழிப்புறும் தென்னகம்! | 21-10-2012 | 132–139 | 133–140 | complete (first-pass-reviewed) |
+| [3665](3665-neer-idiththu-neer-vilaguvadhaa.md) | நீர் இடித்து நீர் விலகுவதா? | 23-10-2012 | 140–147 | 141–148 | complete (first-pass-reviewed) |
+| [3666](3666-thaayth-thamizhagaththin-thavippu.md) | தாய்த் தமிழகத்தின் தவிப்பு! | 24-10-2012 | 148–153 | 149–154 | complete (first-pass-reviewed) |
+| [3667](3667-minvettu-theerum-naal-ennaalo.md) | மின்வெட்டு தீரும் நாள் எந்நாளோ? | 28-10-2012 | 154–160 | 155–161 | complete (first-pass-reviewed) |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3663–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3668–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
 
 ## அடுத்த exact task
 
-PDF பக்கம் **128** முதல் கடிதம் **3663 — “நெஞ்சைத் துளைத்திடும் கொடுமை இது!”**-ஐ முதல் கடிதமாகக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3663–3667**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3668-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.
+PDF பக்கம் **162** முதல் கடிதம் **3668 — “ஐ.நா. பயண வெற்றிக்கு; அனைவரும் வாழ்த்துவோம்!”**-ஐ முதல் கடிதமாகக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3668–3672**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3673-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.

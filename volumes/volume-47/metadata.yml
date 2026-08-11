@@ -14,10 +14,10 @@ pdf_pages: 401
 source_file: "Vol47.pdf"
 source_sha256: "4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558"
 source_size_bytes: 199112671
-transcription_page_range: "1-127"
+transcription_page_range: "1-161"
 transcription_status: "in-progress"
-completed_letter_range: "3647-3662"
-completed_letter_count: 16
+completed_letter_range: "3647-3667"
+completed_letter_count: 21
 partial_letter: null
 audit_status: "iteration-audit-complete"
 audit_date: 2026-08-11
@@ -29,7 +29,8 @@ source_observations:
   - "PDF page 5 is blank, with faint reverse-side show-through."
   - "PDF page 23 is blank, with faint show-through from the contents reverse side."
   - "Library stamps and handwritten library markings appear in the front matter."
-  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-127."
+  - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-161."
   - "The source has no usable authoritative searchable text layer; transcription is controlled by rendered page images."
-  - "Letters 3658-3662 occupy PDF pages 97-127 / printed pages 96-126."
-  - "Letter 3663 begins on PDF page 128 / printed page 127."
+  - "Letters 3663-3667 occupy PDF pages 128-161 / printed pages 127-160."
+  - "Letter 3668 begins on PDF page 162 / printed page 161."
+  - "Printed contents names letter 3663 as 'நெஞ்சைத் துளைத்திடும் கொடுமை இது!', while the actual letter heading on PDF page 128 is 'நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!'; both source forms are preserved in their respective contexts."
