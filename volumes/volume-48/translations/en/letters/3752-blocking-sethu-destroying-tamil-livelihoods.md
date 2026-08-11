@@ -2,7 +2,7 @@
 volume: 48
 letter_number: 3752
 tamil_title: "“சேது”வுக்கு முட்டுக்கட்டை! தமிழர் வாழ்வைச் சீரழிக்கும் நடவடிக்கை!"
-english_title: "A Roadblock for ‘Sethu’! An Act That Will Ruin Tamil Livelihoods!"
+english_title: "A Roadblock for “Sethu”! An Act That Will Ruin Tamil Livelihoods!"
 date: 2013-05-10
 source_pdf_page_start: 326
 source_pdf_page_end: 332
