@@ -40,6 +40,7 @@
 - The PDF has no usable authoritative searchable text layer. OCR was used only as a transcription aid; rendered page images controlled corrections and canonical text.
 - Letter 3668 preserves the `டெசோ` / ஐ.நா. travel account, names, dates and quoted material through the `1-11-2012` closing on PDF 168.
 - Letter 3669 preserves assembly/power-shortage chronology, Supreme Court discussion, generation capacities and the printed capacity list on PDF 178; closing `3-11-2012` retained.
+- Scan review corrected transcription-aid artifacts before canonicalisation, including PDF 171 punctuation, the printed `13-11-2008` date on PDF 178, date spacing on PDF 180, paragraph/word breaks on PDF 183, and `ஈ.ரோடு ‘குடியரசு’` on PDF 193.
 - Letter 3670 preserves the printed title punctuation and industrial-investment figures, plus Latin-script/source names including `ASSOCHAMP`, `BIZCON`, `Central Statistical Organisation`, `Fortune 500` and `Oxford Analytica`.
 - Letter 3671 preserves the power-transmission discussion and the three separately printed quoted forms `“கிடையாது”`, `“இயலாது”`, `“முடியாது”` on PDF 189.
 - Letter 3672 preserves youth-wing dates, quoted speeches and the stylised poem on PDF 195, including its printed punctuation; closing `17-11-2012` retained.
