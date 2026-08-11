@@ -2,7 +2,7 @@
 volume: 48
 letter_number: 3748
 tamil_title: "“வாய் நீளம்” தோற்றுப்போகும்; “வாய்மையே வெல்லும்!”"
-english_title: "‘Long Mouth’ Will Lose; Truth Alone Will Triumph!"
+english_title: "“Long Mouth” Will Lose; Truth Alone Will Triumph!"
 date: 2013-05-05
 source_pdf_page_start: 295
 source_pdf_page_end: 304
