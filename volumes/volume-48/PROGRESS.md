@@ -23,7 +23,7 @@
   - [x] Batch 7: 3751–3755 — PDF 319–352
   - [x] Existing pilot 3756 — PDF 353–355 — reviewed/reused
   - [x] Final batch: 3757–3763 — PDF 356–400
-- [ ] Bilingual alignment review — **in progress: 45/58 verified**
+- [ ] Bilingual alignment review — **in progress: 50/58 verified**
   - [x] 3706–3710 — PDF 24–56 / printed 23–55
   - [x] 3711–3715 — PDF 57–91 / printed 56–90
   - [x] 3716–3720 — PDF 92–128 / printed 91–127
@@ -33,7 +33,8 @@
   - [x] 3736–3740 — PDF 220–248 / printed 219–247
   - [x] 3741–3745 — PDF 249–279 / printed 248–278
   - [x] 3746–3750 — PDF 280–318 / printed 279–317
-  - [ ] Next: 3751–3755 — PDF 319–352 / printed 318–351
+  - [x] 3751–3755 — PDF 319–352 / printed 318–351
+  - [ ] Next: 3756–3760 — PDF 353–380 / printed 352–379
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -55,25 +56,25 @@ The final seven-letter batch **3757–3763 / PDF 356–400** preserves rather th
 
 The documented bilingual alignment stage uses the completed Volume 49 workflow as the precedent. English is compared directly with the complete audited Tamil; canonical Tamil is not altered during this stage.
 
-Letters **3706–3745 / PDF 24–279** were previously verified in eight five-letter review reports. Canonical Tamil changes during those alignment passes: **0**.
+Letters **3706–3750 / PDF 24–318** were previously verified in nine five-letter review reports. Canonical Tamil changes during those alignment passes: **0**.
 
-Letters **3746–3750 / PDF 280–318** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3746_3750.md). Seven targeted English correction locations/groups were made across 3746, 3748, 3749 and 3750, with **0 canonical Tamil changes**:
+Letters **3751–3755 / PDF 319–352** are now **5/5 verified**. See [BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3751_3755.md). Twelve targeted English correction locations/groups were made across the five letters, with **0 canonical Tamil changes**:
 
-- 3746 removes the unsupported qualifier **“in the historical sense”** from the Nehru/Ramayana passage.
-- 3747 required no substantive English correction; the scan-visible standalone `2` at the PDF 289–290 boundary remains preserved in the Tamil layer.
-- 3748 removes unsupported **“or easily”** from the 20 April 1992 quotation, restores omitted **Manali Kandasamy** to the 1974 all-party meeting list, and restores `பித்தலாட்டம்` as **“fraudulent trickery.”**
-- 3749 restores the source-specific office term **UPA coordinator** for `ஒருங்கிணைப்பாளர்` rather than externally normalising it to “Chairperson.”
-- 3750 restores the source's triple rhetorical emphasis **“completely different …! Different! Distinct!”**, preserves the source-visible description of North America and South America as **“the two countries”**, and restores `என் தலைமையில்` as **“with me, then Chief Minister, presiding.”**
+- 3751 restores `சட்டப்பேரவை விதியின் கீழ்` as **“under the Assembly's rules”** rather than the unsupported “departmental procedure.”
+- 3752 restores the source's **right to live** wording, preserves `மாநில சுற்றுச் சூழல் வாரியம்` as **State environmental board**, and restores the omitted source form `மகராஜன்` as **Maharajan** in the imagined police-personnel quotation.
+- 3753 preserves the source-visible **“yesterday”** and restores `மேம்படுத்தப்பட்ட தொழில்மனைகளை` as **developed industrial plots**.
+- 3754 restores the source-rendered Amnesty report title, Chief Justice causality, **U.N. Human Rights Commission**, the *Aguna* fabricated-disappearance framing, and the direct wording that **charges were brought** against the Chief Justice.
+- 3755 removes the unsupported expansion “Government Order Standing No. 324,” leaving the source-level **Government Order No. 324**.
 
 Source irregularities remain preserved rather than reconciled throughout the verified set. Canonical Tamil changes during bilingual alignment: **0**.
 
-Current counts: **58/58 translated and source-checked; 45/58 bilingual-aligned and verified; 13 alignment reviews remain.**
+Current counts: **58/58 translated and source-checked; 50/58 bilingual-aligned and verified; 8 alignment reviews remain.**
 
 See [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md), and [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3751–3755 — PDF 319–352 / printed 318–351**. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3756–3760 — PDF 353–380 / printed 352–379**. Letter 3756 is the existing representative pilot and should be reviewed/reused in place, not duplicated. After all 58 letters are verified, proceed with the English editorial consistency pass, translation manifest and final release report.
 
 ## Transcription status
 
