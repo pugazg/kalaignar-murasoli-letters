@@ -8,9 +8,9 @@ source_pdf_page_start: 326
 source_pdf_page_end: 332
 source_printed_page_start: 325
 source_printed_page_end: 331
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -26,7 +26,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 **Udanpirappē,**
 
-In the judgment delivered on 6 May 2013 by the Supreme Court Bench comprising Justices K.S. Radhakrishnan and Dipak Misra on permitting the Kudankulam Nuclear Power Plant to function, the Court is quoted in the source as saying that the petitioners claimed their right to life would be taken away if the nuclear plant operated, but that nuclear power plants were not established to take away the right to life; they were intended to secure the conditions for life. The judgment, as cited here, said that projects of this kind should receive importance in the public interest and in order to guarantee the right to life. If that is kept in mind, the Sethu Samudram project too is a project intended to secure people's means of living and is, moreover, wholly directed towards public benefit.
+In the judgment delivered on 6 May 2013 by the Supreme Court Bench comprising Justices K.S. Radhakrishnan and Dipak Misra on permitting the Kudankulam Nuclear Power Plant to function, the Court is quoted in the source as saying that the petitioners claimed their right to life would be taken away if the nuclear plant operated, but that nuclear power plants were not established to take away the right to life; they were intended to guarantee the right to live. The judgment, as cited here, said that projects of this kind should receive importance in the public interest and in order to guarantee the right to life. If that is kept in mind, the Sethu Samudram project too is a project intended to guarantee people's right to live and is, moreover, wholly directed towards public benefit.
 
 When the inauguration of the Sethu Samudram project was held in Madurai on 2 July 2005, the then Chief Minister Jayalalithaa said in a lengthy statement:
 
@@ -44,7 +44,7 @@ The source then reproduces the following English passage exactly:
 
 > “N.O.C. from the State Government or Tamilnadu Pollution Control Board is not a statutory requirement for consideration of environmental clearance for a project for which such clearance is to be accorded by the Central Government as per the Environmental Impact Assessment Notification dated 27-1-1994. Neither the notification, which has the force of law, nor Schedule IV which is appended to it and lays down the procedure for public hearing stipulates such No Objection Certificate”
 
-The Tamil parenthetical explanation that follows says that, under the environmental rules dated 27 January 1994, a no-objection certificate from the State Pollution Control Board is not a statutory requirement for a project whose environmental clearance is to be granted by the Union Government, and that neither the legally enforceable notification nor its appended Schedule IV governing public hearings stipulates such a certificate.
+The Tamil parenthetical explanation that follows says that, under the environmental rules dated 27 January 1994, a no-objection certificate from the State environmental board is not a statutory requirement for a project whose environmental clearance is to be granted by the Union Government, and that neither the legally enforceable notification nor its appended Schedule IV governing public hearings stipulates such a certificate.
 
 In the case filed by O. Fernandes opposing the Sethu Samudram project, the source quotes an important portion of the judgment delivered on 17 December 2004 by Madras High Court Chief Justice Markandey Katju and Justice V. Balasubramanian. It says that the petitioner had rushed to court seeking to stop a project brought forward in the national interest; that it was well known that the Sethu Samudram Canal Project could bring major benefits to the country because ships then had to sail around Sri Lanka to reach the Bay of Bengal; that a shipping canal across the Palk Strait could save substantial money and time and reduce fuel costs for shipping companies; that it could aid trade and improve transport and development around Tuticorin port and coastal towns; and that, like the Suez Canal, it could avoid a long circuitous route.
 
@@ -52,7 +52,7 @@ The cited judgment further says that district collectors had already held public
 
 Using the name of a government to oppose and obstruct the Sethu Samudram project on the basis of personal likes and dislikes is, the author argues, an act that damages the lives and progress of the people. Was it the Samacheer Kalvi scheme? Was it a scheme begun under DMK rule? Then it must not be allowed. Was it the Tamil Nadu Secretariat in the Omandurar complex, a building constructed under DMK rule at a cost of more than ₹600 crore? That too must not continue. If they say a hospital will instead be established there, Karunanidhi personally loses nothing. But if the Secretariat and Legislative Assembly had continued to function there, people might have spoken of who built it and under which government. What, then, will people passing that building say now after it has been kept unused for two years despite having been built from the taxes they paid?
 
-The Chief Minister speaks as though she alone cares about the police. Yet how many months have passed since a multi-storey building costing ₹100 crore was completed in Chennai for the office of the Police Commissioner? Because it was built under DMK rule, it has been left without an inauguration. What loss does Karunanidhi suffer from that? Police personnel who see it, the author imagines, will say that although ₹100 crore was spent to build it, “this lady has no heart to open it.”
+The Chief Minister speaks as though she alone cares about the police. Yet how many months have passed since a multi-storey building costing ₹100 crore was completed in Chennai for the office of the Police Commissioner? Because it was built under DMK rule, it has been left without an inauguration. What loss does Karunanidhi suffer from that? Police personnel who see it, the author imagines, will say, **“Maharajan, ₹100 crore was spent to build it, but this lady has no heart to open it.”**
 
 The same is true, he says, of the Maduravoyal–Port elevated-road project. Because the Prime Minister participated in laying its foundation stone during DMK rule, that project too has been obstructed after many crores had already been spent and is lying stalled. What will the people of Tamil Nadu, who have watched all this, think of this government?
 
@@ -80,6 +80,7 @@ On the 15th, I will address the Ezhuchi Naal meeting in North Chennai. Likewise,
 2. The Madras High Court passage is translated from the Tamil quotation as printed in the source; the legal propositions are presented as the letter cites them and are not independently verified here.
 3. The alleged ₹200-crore Transport Department tender irregularity remains explicitly attributed to the newspaper/source framing rather than being restated as an independently established fact.
 4. `எழுச்சி நாள்` is retained as **Ezhuchi Naal** in the mobilisation context, following the established Volume 48 glossary.
+5. The imagined police-personnel quotation begins with the source form `மகராஜன்`; it is retained as **Maharajan** rather than silently interpreted or omitted.
 
 ## Original Tamil — மூலத் தமிழ்
 
