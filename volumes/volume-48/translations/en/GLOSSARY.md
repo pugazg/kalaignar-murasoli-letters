@@ -36,7 +36,7 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | புனல் மின் திட்டம் | **hydroelectric project / hydel project** | context-dependent | `hydroelectric project` in prose; source newspaper style may use `hydel`. |
 | மின் தொடரமைப்பு / மின் தொடர் பாதை | **transmission system / transmission line** | approved | Power-grid terminology. |
 | சி.எம்.டி.ஏ. | **Chennai Metropolitan Development Authority (CMDA)** | approved | Expanded on first useful reference. |
-| காணொலிக் காட்சி / வீடியோ கான்பரன்சிங் | **video conference / video conferencing** | approved | Source term for remote inaugurations. |
+| காணொலிக் காட்சி / வீடியோ கான்பரன்சிங் | **video conference / video conferencing** | approved | Source term for remote inaugurations; both forms were editorially reviewed and retained by grammatical context. |
 | குறுவைச் சாகுபடி | **kuruvai cultivation** | approved | Cauvery Delta paddy season; Tamil term retained. |
 | சம்பா சாகுபடி | **samba cultivation** | approved | Cauvery Delta paddy season; Tamil term retained. |
 | காவிரி நடுவர் மன்றம் | **Cauvery Water Disputes Tribunal** | approved | Institutional rendering. |
@@ -73,7 +73,7 @@ This glossary inherits the approved Volume 49 translation conventions and record
 | கிரீமிலேயர் | **creamy layer** | approved | Reservation-policy term in 3758; exact source-English occurrences retained. |
 | சமூக ரீதியாகவும், கல்வி நிலையிலும் | **socially and educationally** | source-locked | Constitutional phrase in 3758; exact source English retained where printed. |
 | நெய்வேலி பழுப்பு நிலக்கரி நிறுவனம் / என்.எல்.சி. | **Neyveli Lignite Corporation (NLC)** | approved | Institutional treatment in 3761. |
-| நவரத்னா | **Navratna** | approved | Public-sector classification retained in 3761. |
+| நவரத்னா | **Navratna** | approved | Public-sector classification retained in 3761; reviewed during editorial QA and deliberately left source-specific. |
 | தொழில் கூட்டுறவு சேவை சங்கம் | **Neyveli Lignite Corporation Industrial Co-operative Service Society** | source-locked | Exact English institution name printed in 3761 is retained. |
 | ஒகேனக்கல் கூட்டுக் குடிநீர்த் திட்டம் | **Hogenakkal Combined Drinking Water Scheme** | approved | Main project rendering in 3762–3763. |
 | ஒகேனக்கல் குடிநீர் மற்றும் ஃப்ளோரைடு பாதிப்புக் குறைப்புத் திட்டம் | **Hogenakkal Drinking Water and Fluorosis Mitigation Project** | approved | Longer project description at the start of 3762. |
@@ -81,4 +81,6 @@ This glossary inherits the approved Volume 49 translation conventions and record
 
 ## Translation-stage note
 
-The Volume 49 style lock has now been applied across **all 58 Volume 48 letters**. Sequential source-checked English coverage is complete from **3706 through 3763**; pilots 3735, 3743 and 3756 were reused at their proper positions. Exact English already printed in the source remains untouched inside quotations even where spelling or punctuation is malformed, including `By injectinga` in letter 3763. The next stage is **bilingual alignment QA**, not additional translation.
+The Volume 49 style lock has been applied across **all 58 Volume 48 letters**. Sequential verified English coverage and bilingual alignment are complete from **3706 through 3763**; pilots 3735, 3743 and 3756 were reused at their proper positions. Exact English already printed in the source remains untouched inside quotations even where spelling or punctuation is malformed, including `By injectinga` in letter 3763.
+
+The post-alignment [editorial consistency review](EDITORIAL_CONSISTENCY_REVIEW.md) is also complete and passed **58/58**. It required only six title-level typography corrections and **0 canonical Tamil changes**. The next stage is the **translation manifest and final English release report**.
