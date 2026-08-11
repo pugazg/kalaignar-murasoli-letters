@@ -34,7 +34,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - மின் உற்பத்தித் திட்டங்களின் dates, costs, capacities மற்றும் 7798 MW மொத்தம் scan-படி பாதுகாக்கப்பட்டுள்ளன.
 - PDF page 157-இல் அச்சிலேயே உள்ள malformed paragraph-மும் அதைத் தொடர்ந்து வரும் clearer paragraph-மும் இரண்டும் canonical transcription-இல் அப்படியே பாதுகாக்கப்பட்டுள்ளன; duplicate என்று நீக்கப்படவில்லை.
-- PDF page 162 letter 3668 தொடக்கம் boundary verification-க்காக மட்டும் பார்க்கப்பட்டது; அதன் உரை இந்த iteration-இல் சேர்க்கப்படவில்லை.
+- PDF page 162 letter 3668 தொடக்கம் boundary verification-க்காக மட்டும் பார்க்கப்பட்டது; அதன் உரை அந்த iteration-இல் சேர்க்கப்படவில்லை.
 
 **முந்தைய கடிதம்:** [3666 — தாய்த் தமிழகத்தின் தவிப்பு!](3666-thaayth-thamizhagaththin-thavippu.md)  
-**அடுத்த கடிதம்:** 3668 — ஐ.நா. பயண வெற்றிக்கு; அனைவரும் வாழ்த்துவோம்! — PDF பக்கம் 162-இல் தொடங்குகிறது; அடுத்த iteration-க்கு pending
+**அடுத்த கடிதம்:** [3668 — ஐ.நா. பயண வெற்றிக்கு; அனைவரும் வாழ்த்துவோம்!](3668-ai-na-payana-vetrikku-anaivarum-vaazhththuvom.md)

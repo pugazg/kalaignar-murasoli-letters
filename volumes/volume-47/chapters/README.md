@@ -25,11 +25,16 @@
 | [3665](3665-neer-idiththu-neer-vilaguvadhaa.md) | நீர் இடித்து நீர் விலகுவதா? | 23-10-2012 | 140–147 | 141–148 | complete (first-pass-reviewed) |
 | [3666](3666-thaayth-thamizhagaththin-thavippu.md) | தாய்த் தமிழகத்தின் தவிப்பு! | 24-10-2012 | 148–153 | 149–154 | complete (first-pass-reviewed) |
 | [3667](3667-minvettu-theerum-naal-ennaalo.md) | மின்வெட்டு தீரும் நாள் எந்நாளோ? | 28-10-2012 | 154–160 | 155–161 | complete (first-pass-reviewed) |
+| [3668](3668-ai-na-payana-vetrikku-anaivarum-vaazhththuvom.md) | ஐ.நா. பயண வெற்றிக்கு; அனைவரும் வாழ்த்துவோம்! | 1-11-2012 | 161–167 | 162–168 | complete (first-pass-reviewed) |
+| [3669](3669-eththanaik-kaalam-ippadi-emaarruvaar.md) | எத்தனைக் காலம் இப்படி ஏமாற்றுவார்? | 3-11-2012 | 168–177 | 169–178 | complete (first-pass-reviewed) |
+| [3670](3670-thulli-varugudhu-vael-pulli-vivara-maaymaalam-thul-thul.md) | துள்ளி வருகுது வேல்! புள்ளி விவர மாய்மாலம் துள்! துள்!! | 8-11-2012 | 178–184 | 179–185 | complete (first-pass-reviewed) |
+| [3671](3671-thisai-thiruppum-muyarchiyaal-pirachchinai-theerumaa.md) | திசை திருப்பும் முயற்சியால் பிரச்சினை தீருமா? | 10-11-2012 | 185–189 | 186–190 | complete (first-pass-reviewed) |
+| [3672](3672-maraimalai-nagaril-ilainjar-ani-karuththarangu.md) | மறைமலை நகரில் - இளைஞர் அணி கருத்தரங்கு! | 17-11-2012 | 190–194 | 191–195 | complete (first-pass-reviewed) |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3668–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3673–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
 
 ## அடுத்த exact task
 
-PDF பக்கம் **162** முதல் கடிதம் **3668 — “ஐ.நா. பயண வெற்றிக்கு; அனைவரும் வாழ்த்துவோம்!”**-ஐ முதல் கடிதமாகக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3668–3672**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3673-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.
+PDF பக்கம் **196** முதல் கடிதம் **3673 — “கரும்பு விவசாயிகள் கவனத்திற்கு!”**-ஐ முதல் கடிதமாகக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3673–3677**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3678-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.
