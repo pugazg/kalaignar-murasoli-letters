@@ -11,14 +11,15 @@
 - [x] Five-letter iteration 3: letters 3658–3662, PDF pages 97–127
 - [x] Five-letter iteration 4: letters 3663–3667, PDF pages 128–161
 - [x] Five-letter iteration 5: letters 3668–3672, PDF pages 162–195
+- [x] Five-letter iteration 6: letters 3673–3677, PDF pages 196–230
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
-- [x] Complete letters 3647–3672: PDF 24–195 / printed pages 23–194
-- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 195
-- [x] Next letter start verified: letter 3673 at PDF page 196 / printed page 195
-- [ ] Five-letter iteration 6: letters 3673–3677, beginning PDF page 196
-- [ ] Remaining PDF pages 196–401
+- [x] Complete letters 3647–3677: PDF 24–230 / printed pages 23–229
+- [x] Page continuity, front matter, chapter links, Unicode and duplicate-body checks through PDF 230
+- [x] Next letter start verified: letter 3678 at PDF page 231 / printed page 230
+- [ ] Five-letter iteration 7: letters 3678–3682, beginning PDF page 231
+- [ ] Remaining PDF pages 231–401
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory textual-fidelity audits before any translation
 - [ ] English translation
@@ -26,4 +27,4 @@
 
 ## Next exact task
 
-Begin **letter 3673 — “கரும்பு விவசாயிகள் கவனத்திற்கு!”** at **PDF page 196 / printed page 195**, and complete the five-letter iteration **3673–3677** without including any part of letter 3678.
+Begin **letter 3678 — “இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ?”** at **PDF page 231 / printed page 230**, and complete the five-letter iteration **3678–3682** without including any part of letter 3683.

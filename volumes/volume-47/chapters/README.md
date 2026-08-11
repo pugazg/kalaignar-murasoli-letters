@@ -30,11 +30,16 @@
 | [3670](3670-thulli-varugudhu-vael-pulli-vivara-maaymaalam-thul-thul.md) | துள்ளி வருகுது வேல்! புள்ளி விவர மாய்மாலம் துள்! துள்!! | 8-11-2012 | 178–184 | 179–185 | complete (first-pass-reviewed) |
 | [3671](3671-thisai-thiruppum-muyarchiyaal-pirachchinai-theerumaa.md) | திசை திருப்பும் முயற்சியால் பிரச்சினை தீருமா? | 10-11-2012 | 185–189 | 186–190 | complete (first-pass-reviewed) |
 | [3672](3672-maraimalai-nagaril-ilainjar-ani-karuththarangu.md) | மறைமலை நகரில் - இளைஞர் அணி கருத்தரங்கு! | 17-11-2012 | 190–194 | 191–195 | complete (first-pass-reviewed) |
+| [3673](3673-karumbu-vivasaayigal-kavanaththirkku.md) | கரும்பு விவசாயிகள் கவனத்திற்கு! | 21-11-2012 | 195–201 | 196–202 | complete (first-pass-reviewed) |
+| [3674](3674-vidaithaan-ennavo-indha-vinaavukku.md) | விடைதான் என்னவோ; இந்த வினாவுக்கு! | 23-11-2012 | 202–207 | 203–208 | complete (first-pass-reviewed) |
+| [3675](3675-vaira-vizhaavum-maanbumigu-marabugalum.md) | வைர விழாவும்; மாண்புமிகு மரபுகளும்! | 30-11-2012 | 208–214 | 209–215 | complete (first-pass-reviewed) |
+| [3676](3676-neethi-kidaikkum-endru-nambugiren.md) | நீதி கிடைக்கும் என்று நம்புகிறேன்! | 7-12-2012 | 215–221 | 216–222 | complete (first-pass-reviewed) |
+| [3677](3677-endha-nilaiyilum-en-kadan-paniseydhu-kidappadhe.md) | எந்த நிலையிலும் என் கடன்; பணிசெய்து கிடப்பதே! | 8-12-2012 | 222–229 | 223–230 | complete (first-pass-reviewed) |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3673–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3678–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
 
 ## அடுத்த exact task
 
-PDF பக்கம் **196** முதல் கடிதம் **3673 — “கரும்பு விவசாயிகள் கவனத்திற்கு!”**-ஐ முதல் கடிதமாகக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3673–3677**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3678-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.
+PDF பக்கம் **231** முதல் கடிதம் **3678 — “இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ?”**-ஐ முதல் கடிதமாவக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3678–3682**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3683-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.

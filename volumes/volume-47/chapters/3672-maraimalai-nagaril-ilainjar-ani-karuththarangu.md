@@ -31,7 +31,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 ## Source-specific notes
 
 - இளைஞர் அணியின் வரலாற்று dates, quoted speeches மற்றும் PDF 195-இல் உள்ள கையெழுத்து-style poem punctuation scan-படி பாதுகாக்கப்பட்டுள்ளது.
-- PDF 196 letter 3673 boundary verification-க்காக மட்டும் பார்க்கப்பட்டது; அதன் உரை இந்த iteration-இல் சேர்க்கப்படவில்லை.
+- PDF 196 letter 3673 boundary verification-க்காகப் பார்க்கப்பட்டு, தற்போது அடுத்த verified chapter ஆக இணைக்கப்பட்டுள்ளது.
 
 **முந்தைய கடிதம்:** [3671 — திசை திருப்பும் முயற்சியால் பிரச்சினை தீருமா?](3671-thisai-thiruppum-muyarchiyaal-pirachchinai-theerumaa.md)  
-**அடுத்த கடிதம்:** 3673 — கரும்பு விவசாயிகள் கவனத்திற்கு! — PDF பக்கம் 196-இல் தொடங்குகிறது; அடுத்த iteration-க்கு pending
+**அடுத்த கடிதம்:** [3673 — கரும்பு விவசாயிகள் கவனத்திற்கு!](3673-karumbu-vivasaayigal-kavanaththirkku.md)
