@@ -8,9 +8,9 @@ source_pdf_page_start: 220
 source_pdf_page_end: 225
 source_printed_page_start: 219
 source_printed_page_end: 224
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -34,7 +34,7 @@ It is as a continuation of that history that the AIADMK government has now sough
 
 Although we welcomed the resolution on behalf of the DMK, one cannot help thinking for a moment about what my dear friend M.G.R. thought in his final days about the Tamil Nadu Chief Minister who introduced this resolution, and about the way those now in power criticised him. That people who once spoke in that manner have changed today and have gone so far as to take the initiative to name an airport terminal after M.G.R. is a great consolation to the mind.
 
-In the 1 January 1989 issue of *Makkal Kural*, its editor T.R. Ramasamy published at the time remarks attributed to M.G.R.: “I cannot bear Ammu's excesses. Thinking of something else, I brought Ammu into politics. I set out to make a Pillaiyar and it ended up becoming a monkey. This Ammu, who has learnt deceit, argument, treachery and intrigue, is now laying a trap even for me. My situation has become like inviting a harmless running lizard onto one's own face. This Ammu is dangerous. She will use anyone for herself. She will hesitate at nothing. She is very bad.”
+In the 1 January 1989 issue of *Makkal Kural*, its editor T.R. Ramasamy published at the time remarks attributed to M.G.R.: “I cannot bear Ammu's excesses. Thinking of something else, I brought Ammu into politics. I set out to make a Pillaiyar and it ended up becoming a monkey. This Ammu, who has learnt deceit, argument, treachery and intrigue, is now laying a trap even for me. My situation has become like letting a lizard that was merely passing by crawl onto one's own face. This Ammu is dangerous. She will use anyone for herself. She will hesitate at nothing. She is very bad.”
 
 The 22 January 1985 issue of *Anna* carried M.G.R.'s reported view: “It was my mistake to seat Jayalalithaa in a position of responsibility beyond her age and qualifications. I can no longer tolerate Jayalalithaa using my name in many places without my knowledge.”
 
@@ -256,8 +256,7 @@ scene and from public life.” அதாவது, “மிகுந்த ச�
 (எம்.ஜி.ஆர்.) செய்து வருகிறார்” என்று எம்.ஜி.ஆரைப் பற்றி
 எழுதினார்.
 
-அது மாத்திரமல்ல; அதே கடிதத்தில், “MGR himself who
-does not want to give me due importance does not want to induct
+அது மாத்திரமல்ல; அதே கடிதத்தில், “MGR himself who does not want to give me due importance does not want to induct
 me into the Cabinet. No one here can really dare to oppose him for
 without him they are Zeros.” ( எனக்கு உரிய முக்கியத்துவம்
 தர விரும்பாத எம்.ஜி.ஆர்., என்னை அமைச்சரவையில்
