@@ -8,9 +8,9 @@ source_pdf_page_start: 381
 source_pdf_page_end: 386
 source_printed_page_start: 380
 source_printed_page_end: 385
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -56,7 +56,7 @@ Tamil Nadu Labour Welfare Minister C.T. Chellapandian immediately rose and repli
 
 Yet the same minister who told the Assembly that the State could not intervene said again in the Assembly on 8 May 2012:
 
-> “The Union Government's Labour Commissioner must hold talks and find a solution to end the NLC workers' agitation. The DMK, which is part of the Union Government, has not pressed for a solution to this issue. The Tamil Nadu Government will urge the Union Government to find a solution to the NLC workers' agitation.”
+> “The Union Government's Labour Welfare Commission must hold talks and find a solution to end the NLC workers' agitation. The DMK, which is part of the Union Government, has not pressed for a solution to this issue. The Tamil Nadu Government will urge the Union Government to find a solution to the NLC workers' agitation.”
 
 (*Dinamani*, 9 May 2012.)
 
@@ -74,9 +74,9 @@ But in 2012 the management delayed registering contract workers in the Co-operat
 
 I have described above what procedure was followed when Neyveli contract workers went on strike under DMK rule. During AIADMK rule, however, a doubt arose whether there was even such a thing as a Tamil Nadu Government. Yet AIADMK people complained that “it does not even seem as though there is a government at the Centre.” Talks of some kind went on for days at official level, but neither the Chief Minister nor a minister intervened. The agitation finally ended on 5 June 2012.
 
-Meanwhile, on 24 May 2013, Union Minister and friend Narayanasamy expressed a view suggesting that there was nothing wrong in selling NLC shares. That position, which the source characterises as hostile to Tamil Nadu including Puducherry and particularly to workers, is not a view acceptable to the DMK.
+Meanwhile, on 24 May 2013, Union Minister and friend Narayanasamy expressed a view suggesting that there was nothing wrong in selling NLC shares. This view, hostile to Tamil Nadu including Puducherry and particularly to the workers, is not acceptable to the DMK.
 
-It was because of the strenuous efforts of Thambi Murasoli Maran when he was Union Minister for Industry and Commerce that NLC received **Navratna** status. The Union Government should not again attempt to sell NLC shares. Such a step would unnecessarily provoke Tamils, particularly Neyveli workers. I wish to warn the Union Government not to engage in such an action and thereby invite yet another protest.
+It was because of the strenuous efforts of Thambi Murasoli Maran when he was Union Minister for Industry and Commerce that NLC received **Navratna** status. The Union Government should not again attempt to sell NLC shares. Such a step would unnecessarily drag Tamils—particularly Neyveli workers—into needless trouble. I wish to warn the Union Government not to engage in such an action and thereby invite yet another protest.
 
 **With affection,**  
 **M.K.**  
