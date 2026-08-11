@@ -20,7 +20,7 @@
   - [x] Letters 3751–3755 — PDF 319–352 / printed 318–351
   - [x] Letters 3756–3760 — PDF 353–380 / printed 352–379
   - [x] Letters 3761–3763 — PDF 381–400 / printed 380–399
-- [ ] Volume-level English editorial consistency pass
+- [x] Volume-level English editorial consistency pass — **58/58 reviewed; PASS**
 - [ ] Translation manifest and final release report
 
 ## Pilot set
@@ -80,7 +80,7 @@
 - [3736 — Do Not Sully Departed Leaders!](letters/3736-do-not-sully-departed-leaders.md)
 - [3737 — What Do All Parties Expect in This Cooperative Election?](letters/3737-what-do-all-parties-expect-in-this-cooperative-election.md)
 - [3738 — An Appeal I Make Again and Again!](letters/3738-a-repeated-appeal.md)
-- [3739 — Two Unforgettable Gems! Kalaignar's Condolence Letter!](letters/3739-two-unforgettable-gems-condolence-letter.md)
+- [3739 — Two Unforgettable Gems! Kalaignar’s Condolence Letter!](letters/3739-two-unforgettable-gems-condolence-letter.md)
 - [3740 — Prevent Before It Comes—or Suffer After It Arrives?](letters/3740-prevent-before-or-suffer-after.md)
 - [3741 — Strong Reasons Are Piling Up!](letters/3741-strong-reasons-are-piling-up.md)
 - [3742 — Unending Cruelties Against Eelam Tamils!](letters/3742-unending-cruelties-against-eelam-tamils.md)
@@ -139,16 +139,25 @@ The final batch preserves source-specific material rather than silently normalis
 
 The final 3761–3763 pass preserves the source's **Labour Welfare Commission** wording and direct political judgment in 3761; restores the singular Pokhran **nuclear test**, `என்னால்தான்` emphasis, omitted *Theekkathir* work-in-progress wording and source-visible completion tension in 3762; and restores `Ilatchiya Nadigar S.S.R.`, direct **planned / accelerated / implemented** wording and the unsoftened project-credit argument in 3763.
 
+## English editorial consistency review
+
+The editorial consistency pass is complete across **all 58 verified translations**. See [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md).
+
+Six title-level typography corrections were applied in **3708, 3727, 3739, 3743, 3748 and 3752**. No prose-level source meaning and no canonical Tamil was changed. The pass also reviewed apparent cross-volume variants and deliberately retained **`video conference / video conferencing`** and **`Navratna`** as Volume 48 source/context-dependent treatments. Exact source-English quotations and already documented source irregularities remain untouched.
+
+Editorial result: **PASS — 58/58**.
+
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
 - Bilingual-alignment verified: **58 / 58**
+- Editorially reviewed: **58 / 58**
 - Remaining untranslated letters: **0**
 - Remaining alignment review: **0**
 
-Sequential English coverage and bilingual verification are complete continuously from **3706 through 3763**. Canonical Tamil changes during bilingual alignment: **0**.
+Sequential English coverage and bilingual verification are complete continuously from **3706 through 3763**. Canonical Tamil changes during bilingual alignment and editorial consistency: **0**.
 
 ## Style lock
 
@@ -163,8 +172,8 @@ The complete verified translation set follows the Volume 49 style lock:
 - use minimal notes for source anomalies, culturally difficult idiom and institutional terms;
 - never use English to correct or normalise the audited Tamil.
 
-See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Next stage
 
-Proceed with the **volume-level English editorial consistency pass** across all **58 verified letters, 3706–3763**. This pass should check cross-letter consistency of recurring institutional terms, honorifics, transliteration, quotation handling, dates/number style, notes, headings and formatting **without reopening or normalising source-faithful alignment decisions**. After that, create the translation manifest and final English release report.
+Create the **translation manifest** and prepare the **final English release report**, following the completed Volume 49 release structure. Release packaging must preserve the completed textual-fidelity, bilingual-alignment and editorial decisions without reopening source meaning.
