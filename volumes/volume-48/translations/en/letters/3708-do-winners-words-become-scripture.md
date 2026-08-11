@@ -2,7 +2,7 @@
 volume: 48
 letter_number: 3708
 tamil_title: "வென்றவர் சொல்வதெல்லாம் “வேதம் ஆகுமா?”"
-english_title: "Does Everything the Winner Says Become ‘Scripture’?"
+english_title: "Does Everything the Winner Says Become “Scripture”?"
 date: 2013-02-23
 source_pdf_page_start: 36
 source_pdf_page_end: 43
