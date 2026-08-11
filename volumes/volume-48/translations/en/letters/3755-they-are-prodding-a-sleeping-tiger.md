@@ -8,9 +8,9 @@ source_pdf_page_start: 347
 source_pdf_page_end: 352
 source_printed_page_start: 346
 source_printed_page_end: 351
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -57,7 +57,7 @@ Even after such announcements, one section continued campaigning against Tamil-m
 2. From Class I to Class V, in all matriculation schools and schools following the State Government **(State Board)** syllabus, only the mother tongue or Tamil must be the medium of instruction.
 3. In the Matriculation Board rules, Tamil and the mother tongue would be included as media of instruction along with English. Separate amendments to the rules governing matriculation schools would be issued for this purpose.
 
-Seeking to have this Government Order declared invalid and **(Quash)** it, the Tamil Nadu associations of nursery, primary, matriculation and higher secondary school managements, together with some parents, filed various writ petitions in the Madras High Court. The High Court quashed Government Order Standing No. 324, School Education, dated 19 November 1999, in its judgment of 20 April 2000. Against that judgment, the government filed Special Leave Petitions **(SLP)** in the Supreme Court on 10 July 2000—**SLP Civil No.13299-13301/2000**—and the case remained pending, according to the source.
+Seeking to have this Government Order declared invalid and **(Quash)** it, the Tamil Nadu associations of nursery, primary, matriculation and higher secondary school managements, together with some parents, filed various writ petitions in the Madras High Court. The High Court quashed **Government Order No. 324, School Education, dated 19 November 1999**, in its judgment of 20 April 2000. Against that judgment, the government filed Special Leave Petitions **(SLP)** in the Supreme Court on 10 July 2000—**SLP Civil No.13299-13301/2000**—and the case remained pending, according to the source.
 
 Claiming that its government would ensure that no boy or girl in Tamil Nadu left school without learning Tamil, the AIADMK government introduced a subject called **“Scientific Tamil”** under Chief Minister Jayalalithaa. From the 2003–2004 academic year, it ordered that “Scientific Tamil” be taught alongside other subjects from LKG to +2 in all kinds of schools, and textbooks were provided free for it. Even so, the scheme was not fully implemented.
 
