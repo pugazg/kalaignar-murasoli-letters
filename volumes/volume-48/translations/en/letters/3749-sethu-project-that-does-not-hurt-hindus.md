@@ -8,9 +8,9 @@ source_pdf_page_start: 305
 source_pdf_page_end: 311
 source_printed_page_start: 304
 source_printed_page_end: 310
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -83,7 +83,7 @@ Only after the United Progressive Alliance government, of which the DMK was a pa
 
 - approval was granted to implement the Sethu Samudram project at an estimated cost of ₹2,427 crore;
 - 2 July 2005 became the day on which a demand of nearly 150 years could move towards fulfilment;
-- on 2 July 2005 Prime Minister Dr Manmohan Singh inaugurated the project and laid the foundation stone, while UPA Chairperson Mrs Sonia Gandhi and I were present in the lead; and
+- on 2 July 2005 Prime Minister Dr Manmohan Singh inaugurated the project and laid the foundation stone, while UPA coordinator Mrs Sonia Gandhi and I were present in the lead; and
 - the work of cutting the Sethu Samudram Canal began and proceeded well.
 
 But after the project had begun and many crores of rupees of the people’s tax money had been spent, efforts of various kinds began to block it for the single reason that completion of the project would bring credit to the DMK. The issue was coloured as “Rama’s Bridge” and attempts were made to create a religious controversy.
