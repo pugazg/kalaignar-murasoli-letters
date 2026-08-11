@@ -7,14 +7,15 @@
 - [x] Volume 49 translator’s note and bilingual order adopted without drift
 - [x] Representative pilot letters 3735, 3743 and 3756 translated, source-checked and reused in sequence
 - [x] Sequential bulk English translation — **58/58 source-checked complete**
-- [ ] Bilingual alignment review — **in progress: 30/58 verified**
+- [ ] Bilingual alignment review — **in progress: 35/58 verified**
   - [x] Letters 3706–3710 — PDF 24–56 / printed 23–55
   - [x] Letters 3711–3715 — PDF 57–91 / printed 56–90
   - [x] Letters 3716–3720 — PDF 92–128 / printed 91–127
   - [x] Letters 3721–3725 — PDF 129–161 / printed 128–160
   - [x] Letters 3726–3730 — PDF 162–192 / printed 161–191
   - [x] Letters 3731–3735 — PDF 193–219 / printed 192–218
-  - [ ] Next: letters 3736–3740 — PDF 220–248 / printed 219–247
+  - [x] Letters 3736–3740 — PDF 220–248 / printed 219–247
+  - [ ] Next: letters 3741–3745 — PDF 249–279 / printed 248–278
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final release report
 
@@ -119,25 +120,26 @@ The final batch preserves source-specific material rather than silently normalis
 
 ## Bilingual alignment review
 
-- Letters **3706–3710** — [`BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md`](BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md): **5/5 verified**; four targeted English corrections across letters 3706–3708; no Tamil-source changes.
+- Letters **3706–3710** — [`BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md`](BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md): **5/5 verified**; four targeted English corrections; no Tamil-source changes.
 - Letters **3711–3715** — [`BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md`](BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md): **5/5 verified**; two targeted English corrections; no Tamil-source changes.
 - Letters **3716–3720** — [`BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md`](BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md): **5/5 verified**; three targeted English corrections; no Tamil-source changes.
 - Letters **3721–3725** — [`BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md`](BILINGUAL_ALIGNMENT_REVIEW_3721_3725.md): **5/5 verified**; one targeted English correction in 3722; no Tamil-source changes.
 - Letters **3726–3730** — [`BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md`](BILINGUAL_ALIGNMENT_REVIEW_3726_3730.md): **5/5 verified**; no substantive English correction; no Tamil-source changes.
 - Letters **3731–3735** — [`BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md`](BILINGUAL_ALIGNMENT_REVIEW_3731_3735.md): **5/5 verified**; two targeted English corrections in 3732 and 3734; no Tamil-source changes.
+- Letters **3736–3740** — [`BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md`](BILINGUAL_ALIGNMENT_REVIEW_3736_3740.md): **5/5 verified**; three targeted English corrections in 3736, 3737 and 3738; no Tamil-source changes.
 
-The user-authorised 15-letter alignment block **3721–3735 / PDF 129–219** therefore required **3 targeted English corrections in total**: 3722 restores **“at the Speaker”**; 3732 restores the source-visible **Rural Development Minister** reference; 3734 corrects the superstition metaphor to **“like a disease born with us that kills us.”** Source anomalies such as the conflicting Narippaiyur cost figures in 3732 and the inconsistent fishermen-statistics periods in 3735 remain preserved rather than reconciled.
+The 3736–3740 batch restores the passing-lizard image in 3736 without the unsupported word **“harmless”**; restores the three-part CPI(M) attribution in 3737—condemn ruling-party excesses, criticise the Election Commission's spectator role, and urge proper democratic elections; and restores `ஆளுநரின் பரிந்துரைக்கு அனுப்ப` in 3738 as **“send it to the Governor for recommendation.”** Letters 3739 and 3740 required no substantive English correction.
 
 ## Counts
 
 - Total letters: **58**
 - English translations created: **58 / 58**
 - Source-checked translations: **58 / 58**
-- Bilingual-alignment verified: **30 / 58**
+- Bilingual-alignment verified: **35 / 58**
 - Remaining untranslated letters: **0**
-- Remaining alignment review: **28**
+- Remaining alignment review: **23**
 
-Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete continuously through **3735**.
+Sequential English source-checked coverage is complete from **3706 through 3763**. Bilingual verification is complete continuously through **3740**.
 
 ## Style lock
 
@@ -156,4 +158,4 @@ See [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), 
 
 ## Next stage
 
-Continue bilingual alignment with **letters 3736–3740 — PDF 220–248 / printed 219–247**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
+Continue bilingual alignment with **letters 3741–3745 — PDF 249–279 / printed 248–278**. After all 58 letters are verified, proceed to the volume-level English editorial consistency pass, translation manifest and final release report.
