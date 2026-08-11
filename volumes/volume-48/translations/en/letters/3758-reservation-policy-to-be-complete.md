@@ -8,9 +8,9 @@ source_pdf_page_start: 364
 source_pdf_page_end: 369
 source_printed_page_start: 363
 source_printed_page_end: 368
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -26,7 +26,7 @@ source_textual_fidelity_audit: "visual-scan-verified"
 
 **Udanpirappē,**
 
-As a result of the DMK's persistent insistence, from the time of the National Front government in which the DMK participated and whose Prime Minister was the guardian of social justice, V.P. Singh, the Union Government has provided **27 per cent reservation for Other Backward Classes**. To exclude those among them considered advanced—the **creamy layer**—reservation is presently available only to those with annual family income not exceeding ₹4.5 lakh.
+As a result of the DMK's persistent insistence, from the time of the National Front government in which the DMK participated and whose Prime Minister was the guardian of social justice, V.P. Singh, the Union Government has provided **27 per cent reservation for Other Backward Classes**. To exclude those among them considered advanced—the **creamy layer**—reservation is presently available only to those with annual income not exceeding ₹4.5 lakh.
 
 The National Commission for Backward Classes recommended that this ceiling be raised to ₹12 lakh in urban areas and ₹9 lakh in rural areas. A Group of Ministers, however, recommended that such levels were not feasible and that a uniform limit of ₹6 lakh could be adopted. It is in this context that reports have appeared that a Union Cabinet meeting chaired by Prime Minister Dr Manmohan Singh decided to raise the income ceiling for OBC reservation from ₹4.5 lakh to ₹6 lakh.
 
