@@ -1,8 +1,8 @@
-# Volume 48 English Translation Plan — alignment complete
+# Volume 48 English Translation Plan — editorial consistency complete
 
-English translation and documented bilingual alignment are now **complete: 58/58 verified**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and every English letter, **3706–3763**, has been compared directly with its complete audited Tamil.
+English translation, documented bilingual alignment and the volume-level English editorial consistency pass are now **complete: 58/58 verified and editorially reviewed**. The complete Tamil transcription, full-volume structural audit and full 402-page second visual/textual-fidelity audit have passed, and every English letter, **3706–3763**, has been compared directly with its complete audited Tamil.
 
-This volume follows the approved Volume 49 bilingual workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
+This volume follows the approved Volume 49 bilingual/release workflow without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
 ## Objective
 
@@ -100,8 +100,6 @@ The Tamil source was already scan-verified. **Alignment QA modified no canonical
 - **3756–3760 — PDF 353–380 / printed 352–379:** **5/5 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3756_3760.md); **4** targeted English correction groups; Tamil changes **0**.
 - **3761–3763 — PDF 381–400 / printed 380–399:** **3/3 verified**; [report](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3761_3763.md); **10** targeted English correction groups; Tamil changes **0**.
 
-The final 3761–3763 review preserves `மத்திய அரசின் தொழிலாளர் நல ஆணையம்` as **Labour Welfare Commission** and restores Kalaignar's direct political voice in 3761; restores the singular Pokhran **nuclear test**, `என்னால்தான்` emphasis, omitted *Theekkathir* work-in-progress wording and source-visible completion tension in 3762; and restores `Ilatchiya Nadigar S.S.R.`, direct **rapidly planned / accelerated / implemented** wording and the unsoftened harvest/project-credit argument in 3763.
-
 Alignment totals: **58/58 verified; 0 remain.** Canonical Tamil changes during bilingual alignment: **0**.
 
 ## Final-batch source-preservation lock
@@ -116,19 +114,18 @@ The 3757–3763 translations preserve the audited source rather than silently no
 - Hogenakkal chronology, financial/package figures and scan-visible word forms in 3762; and
 - the exact *Hindu* editorial in 3763, including malformed source `By injectinga`, plus scan-proven PDF 399 `அனுபவரீதியாகத்`.
 
-## Next stage — English editorial consistency pass
+## English editorial consistency pass — complete
 
-Proceed across all **58 verified letters, 3706–3763**. This is a cross-letter consistency pass, not a new source-meaning rewrite. Check:
+The volume-level editorial consistency review has been completed across all **58 verified translations**. See [EDITORIAL_CONSISTENCY_REVIEW.md](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
 
-- recurring institutional terms and office titles;
-- honorifics and transliteration;
-- recurring project/programme names;
-- quotation and source-English handling;
-- `lakh`/`crore`, dates, percentages and number style;
-- translator's-note placement and letter-specific note style;
-- headings, source links and Markdown formatting; and
-- consistency with the glossary and established Volume 48 style lock.
+The pass checked recurring institutional terms and office titles, honorifics and transliteration, project/programme names, quotation/source-English handling, `lakh`/`crore`, dates and number style, translator's-note and letter-specific-note placement, headings, source links, status metadata and Markdown consistency.
 
-Do **not** use this pass to normalise audited source irregularities, reconcile internal numerical tensions, or undo source-faithful decisions made during bilingual alignment.
+Only **six title-level typography corrections** were required: **3708, 3727, 3739, 3743, 3748 and 3752**. There were **0 prose-level source-meaning changes** and **0 canonical Tamil changes**.
 
-After the editorial consistency pass, create the translation manifest and prepare the final English release report.
+Two apparent variants were reviewed and deliberately retained rather than mechanically harmonised: **`video conference / video conferencing`**, because Volume 48 uses the source loan form contextually; and **`Navratna`** in 3761, because the source `நவரத்னா` and the verified Volume 48 glossary already lock that treatment. Exact source-English quotations and source-internal tensions remain untouched.
+
+Editorial result: **PASS — 58/58**.
+
+## Next stage — translation manifest and release report
+
+Create the **Volume 48 English translation manifest** and prepare the **final English release report**, following the completed Volume 49 release structure. Release packaging must validate the final set and record the already completed gates without reopening source meaning or altering the authoritative Tamil.
