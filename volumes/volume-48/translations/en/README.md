@@ -1,8 +1,8 @@
 # Volume 48 — English translation
 
-Status: **translation, bilingual alignment and editorial consistency verified complete; manifest/release packaging pending**.
+Status: **completed English release — 58/58 verified, editorial PASS, manifest and release report complete**.
 
-The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English translation is complete for all **58 letters**, bilingual alignment is **58/58 verified**, and the volume-level English editorial consistency pass is **58/58 complete — PASS**.
+The Tamil source layer is fully audited: the full-volume structural audit passed and the separate scan-based textual-fidelity audit is complete for **PDF 1–402 / letters 3706–3763**. English translation is complete for all **58 letters**, bilingual alignment is **58/58 verified**, the volume-level English editorial consistency pass is **58/58 complete — PASS**, and release packaging is complete.
 
 ## Translation progress
 
@@ -30,9 +30,10 @@ Each translation uses the approved translator’s note and bilingual order, tran
 
 **Translation counts:** **58/58 verified; 0 untranslated.**  
 **Alignment counts:** **58/58 verified; 0 remaining.**  
-**Editorial consistency:** **58/58 reviewed; PASS.**
+**Editorial consistency:** **58/58 reviewed; PASS.**  
+**Release manifest:** **58/58 rows; PASS.**
 
-See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
+See [PROGRESS.md](PROGRESS.md), [GLOSSARY.md](GLOSSARY.md), [PILOT_STYLE_REVIEW.md](PILOT_STYLE_REVIEW.md), [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md), [TRANSLATION_MANIFEST.csv](TRANSLATION_MANIFEST.csv), [RELEASE_REPORT.md](RELEASE_REPORT.md), and the volume [TRANSLATION_PLAN.md](../../TRANSLATION_PLAN.md).
 
 ## Bilingual alignment review
 
@@ -66,6 +67,16 @@ Only **six title-level typography corrections** were required: **3708, 3727, 373
 The apparent variants **`video conference / video conferencing`** and **`Navratna`** were reviewed and deliberately retained as Volume 48 source/context-dependent treatments rather than mechanically harmonised to another volume. Exact source-English quotations—including Katchatheevu variants and malformed `By injectinga`—remain untouched.
 
 Editorial result: **PASS — 58/58**.
+
+## Volume release
+
+Volume 48 has completed translation, source checking, bilingual alignment, the volume-level English editorial consistency pass and release packaging.
+
+- [Editorial consistency review](EDITORIAL_CONSISTENCY_REVIEW.md)
+- [Translation manifest](TRANSLATION_MANIFEST.csv)
+- [Final release report](RELEASE_REPORT.md)
+
+The manifest contains exactly **58 rows**, with continuous source coverage from **PDF 24–400 / printed 23–399**. Release status: **58/58 translated, source-checked, verified, editorially reviewed and registered**.
 
 ## Source-preservation decisions
 
@@ -101,4 +112,4 @@ All **58 letters, 3706–3763**, and all **402 PDF pages** passed the source-che
 
 ## Next stage
 
-Create the **Volume 48 English translation manifest** and prepare the **final English release report**, following the completed Volume 49 release structure. Release packaging must preserve the completed textual-fidelity, bilingual-alignment and editorial decisions without reopening source meaning.
+**No remaining English translation/release stage for Volume 48.** Any later work is downstream of this completed release and must preserve the verified source, bilingual-alignment and editorial record unless a new correction is supported by documented evidence.
