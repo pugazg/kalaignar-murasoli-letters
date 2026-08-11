@@ -8,9 +8,9 @@ source_pdf_page_start: 232
 source_pdf_page_end: 236
 source_printed_page_start: 231
 source_printed_page_end: 235
-translation_status: "source-checked"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -44,7 +44,7 @@ In a statement I issued on 29 August 2011, I said:
 
 When the Assembly passed a resolution concerning the release of these three, Jayalalithaa said in her speech that under Article 161 of the Constitution the State Chief Minister had no power in the matter, and that the State Governor too had no power. To this day, Jayalalithaa has continued to repeat the same view—that the State Chief Minister has no authority in this matter.
 
-Yet in the statement she read in the Tamil Nadu Legislative Assembly under Rule 110 on 30 August 2011, she herself said that His Excellency the Governor had accepted the decision of the Cabinet headed by Karunanidhi and given approval on 21 April 2000. It is in precisely that manner, out of concern to save the lives of these three, that I and several other parties in Tamil Nadu have continued to demand that the Tamil Nadu government and Jayalalithaa pass a resolution in the State Cabinet and send it for the Governor's consideration.
+Yet in the statement she read in the Tamil Nadu Legislative Assembly under Rule 110 on 30 August 2011, she herself said that His Excellency the Governor had accepted the decision of the Cabinet headed by Karunanidhi and given approval on 21 April 2000. It is in precisely that manner, out of concern to save the lives of these three, that I and several other parties in Tamil Nadu have continued to demand that the Tamil Nadu government and Jayalalithaa pass a resolution in the State Cabinet and send it to the Governor for recommendation.
 
 Likewise, we have continuously appealed for mercy for four men sentenced to death after being accused of being associates of Veerappan, and have asked that their death sentences be commuted to life imprisonment. The Mysore TADA Court that tried Gnanaprakasam, Simon, Meesai Mathaiyan and Bilavendran sentenced them only to life imprisonment. But because that judgment was appealed in the Supreme Court, the Supreme Court in 2004 converted the life sentences imposed on the four into death sentences.
 
