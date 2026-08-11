@@ -18,7 +18,7 @@
 - English translation **verified complete: 58/58**, continuous sequential coverage **3706–3763**.
 - Bilingual alignment **complete: 58/58 verified** — letters **3706–3763**.
 - English editorial consistency pass **complete: 58/58 reviewed — PASS**.
-- Next stage: **translation manifest and final English release report**.
+- English translation manifest and final release report **complete — release PASS**.
 
 ## Audit / translation status
 
@@ -31,7 +31,7 @@
 | English translation | 3706–3763 | **58/58 verified complete** |
 | Bilingual alignment | 3706–3763 | **58/58 verified; complete** |
 | English editorial consistency | 3706–3763 | **58/58 reviewed; PASS** |
-| English manifest/release | — | not started |
+| English manifest/release | 3706–3763 | **58/58 registered; PASS** |
 
 The final textual-fidelity pass covered letters **3751–3763 / PDF 319–400** plus PDF **401–402**, with **84/84 pages** directly compared against the source scan. Two scan-proven canonical corrections were applied: PDF **321** restores `நெருக்கடிகளுக்கு`, and PDF **399** restores `அனுபவரீதியாகத்`.
 
@@ -69,17 +69,23 @@ Final alignment total: **58/58 verified; 0 remain.** Canonical Tamil changes dur
 
 ## English editorial consistency
 
-The volume-level editorial pass has now completed across all **58 verified English translations**. See [EDITORIAL_CONSISTENCY_REVIEW.md](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
+The volume-level editorial pass completed across all **58 verified English translations**. See [EDITORIAL_CONSISTENCY_REVIEW.md](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
 
 The pass checked title/index agreement, bilingual structure, names and honorifics, transliteration, recurring terminology, British/Indian English treatment, quotation/title typography, dates and page ranges, note placement and preservation of the Tamil layer. It required only six title-level typography corrections in letters **3708, 3727, 3739, 3743, 3748 and 3752**.
 
 `video conference / video conferencing` and `Navratna` were reviewed and deliberately retained as Volume 48 source/context-dependent treatments. Exact source-English passages, source anomalies and numerical/chronological tensions remain untouched. Canonical Tamil changes during the editorial pass: **0**. Editorial result: **PASS**.
 
-See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
+## English release
+
+Release packaging is complete. The [translation manifest](translations/en/TRANSLATION_MANIFEST.csv) contains exactly **58 rows**, one per verified letter from **3706 through 3763**, with continuous source coverage from **PDF 24–400 / printed 23–399**. The [final release report](translations/en/RELEASE_REPORT.md) records the release identity, QA state, archival policy and final PASS decision.
+
+Release outcome: **PASS — completed English edition of Volume 48 in this repository.**
+
+See [TRANSLATION_PLAN.md](TRANSLATION_PLAN.md), [translations/en/PROGRESS.md](translations/en/PROGRESS.md), [translations/en/README.md](translations/en/README.md), and [translations/en/GLOSSARY.md](translations/en/GLOSSARY.md).
 
 ## Next exact task
 
-Create the **Volume 48 English translation manifest** and prepare the **final English release report**. Release packaging must preserve the already verified textual-fidelity, bilingual-alignment and editorial decisions without reopening source meaning.
+**No remaining English translation/release task for Volume 48.** Any later work is downstream of this release and must preserve the verified source, alignment and editorial record unless a correction is supported by new documented evidence.
 
 ## முக்கிய இணைப்புகள்
 
@@ -88,8 +94,11 @@ Create the **Volume 48 English translation manifest** and prepare the **final En
 - [Full-volume Tamil audit](AUDIT.md)
 - [English translation plan](TRANSLATION_PLAN.md)
 - [English translation progress](translations/en/PROGRESS.md)
+- [English translation README](translations/en/README.md)
 - [English glossary](translations/en/GLOSSARY.md)
 - [English editorial consistency review](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
+- [English translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
+- [Final English release report](translations/en/RELEASE_REPORT.md)
 - [Bilingual alignment review — letters 3706–3710](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3706_3710.md)
 - [Bilingual alignment review — letters 3711–3715](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3711_3715.md)
 - [Bilingual alignment review — letters 3716–3720](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3716_3720.md)
