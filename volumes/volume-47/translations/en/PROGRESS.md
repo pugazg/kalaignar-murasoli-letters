@@ -11,7 +11,9 @@
   - [x] **3657–3686** — thirty-letter alignment iteration 3
   - [x] **3687–3705** — final nineteen-letter alignment iteration 4
 - [x] Volume-level English editorial consistency pass — **59 / 59 reviewed; 0 blockers**
-- [ ] Translation manifest and final English release report
+- [x] Translation manifest and final English release report
+- [x] English release inventory verified — **59 / 59; 0 missing; 0 duplicate letter numbers**
+- [x] **Volume 47 English release certified release-ready within the limits of the surviving source**
 
 ## Counts
 
@@ -20,6 +22,9 @@
 - Bilingual-aligned: **59 / 59** — letters 3647–3705
 - Editorially reviewed at volume level: **59 / 59**
 - Translation files requiring editorial rewrite in consistency pass: **0 / 59**
+- Missing English records: **0**
+- Duplicate letter numbers: **0**
+- Unresolved English editorial blockers: **0**
 - Source-incomplete: **1** — letter 3681
 
 ## Completed English gates
@@ -39,10 +44,19 @@ Editorial review record:
 
 - [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md)
 
+The final release inventory confirms exactly one English Markdown translation record for every letter number from **3647 through 3705 inclusive**: **59 / 59 present, 0 missing and 0 duplicate letter numbers**.
+
+Final release records:
+
+- [`TRANSLATION_MANIFEST.md`](TRANSLATION_MANIFEST.md)
+- [`FINAL_RELEASE_REPORT.md`](FINAL_RELEASE_REPORT.md)
+
 Letter **3681** remains the sole source-incomplete exception: printed page **252** is absent from the only source PDF. Its English remains limited to the available source text; the missing continuation and closing were not reconstructed, and its date provenance remains explicitly documented.
 
-The per-letter YAML field `translation_status: draft-translated` has not been mass-rewritten merely to create a status-name change. Release certification will instead be recorded explicitly by the manifest/final report unless a later schema decision requires per-file status migration.
+The per-letter YAML field `translation_status: draft-translated` has not been mass-rewritten merely to create a status-name change. Release certification is recorded explicitly by the manifest, final report, editorial review and this tracker.
 
-## Next exact task
+## Final English status
 
-Prepare the **translation manifest and final English release report** for Volume 47. Inventory all 59 English records, verify the expected letter range and repository/link completeness, record the completed Tamil fidelity, bilingual alignment and editorial-consistency gates, preserve the explicit 3681 source-incomplete exception, and state precisely what is and is not certified for English release.
+**VERIFIED / RELEASE-READY**
+
+Volume 47's English workflow is complete for the surviving source. No further English translation or editorial gate is required unless new source evidence — especially missing printed page **252** — becomes available or a later repository-wide release policy introduces an additional requirement.
