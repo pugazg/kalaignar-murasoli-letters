@@ -1,0 +1,111 @@
+chapter_id,number,source_pages,source_date,visual_title_status,ocr_title_comparison,publication_title,english_words,tamil_words,date_present,udanpirappe_policy_passed,running_header_absent,status
+m1-l0001,1,m1-p0024;m1-p0025;m1-p0026;m1-p0027,1968-10-22,verified_exact,normalized,“ஜாக்குலின்கள்”,802,422,True,True,True,passed
+m1-l0002,2,m1-p0028;m1-p0029;m1-p0030;m1-p0031,1968-10-24,verified_exact,normalized,நீ விளைத்த கழனி - நீ உழைத்த உழைப்பு!,933,521,True,True,True,passed
+m1-l0003,3,m1-p0032;m1-p0033;m1-p0034;m1-p0035,1968-10-25,verified_exact,normalized,நிதானமாகப் பேசுங்கள்!,793,433,True,True,True,passed
+m1-l0004,4,m1-p0036;m1-p0037;m1-p0038,1968-10-27,verified_exact,mismatch,உன்னால் முடிந்ததைச் செய்து விட்டாயா?,755,407,True,True,True,passed
+m1-l0005,5,m1-p0039;m1-p0040;m1-p0041;m1-p0042,1968-10-29,verified_exact,normalized,நேர்மையும் பொறுப்பும் நீர்மேல் எழுத்தல்ல!,795,418,True,True,True,passed
+m1-l0006,6,m1-p0043;m1-p0044;m1-p0045;m1-p0046;m1-p0047,1968-10-30,verified_exact,mismatch,வெற்றி பெற்றவனே உன் வேலை என்ன?,1193,653,True,True,True,passed
+m1-l0007,7,m1-p0048;m1-p0049;m1-p0050;m1-p0051;m1-p0052;m1-p0053,1968-10-31,verified_exact,mismatch,தோற்ற முயலே! முன்போல சுறுசுறுப்பாக இரு!,1205,683,True,True,True,passed
+m1-l0008,8,m1-p0054;m1-p0055;m1-p0056;m1-p0057,1968-10-31,verified_exact,mismatch,“தீராதி தீரர்- தேசீய மகிபர்- பராக்! பராக்!”,861,497,True,True,True,passed
+m1-l0009,9,m1-p0058;m1-p0059;m1-p0060;m1-p0061;m1-p0062,1968-11-01,verified_exact,mismatch,வீரனே! வெற்றி என்றைக்கும் உன் பக்கம்தான்!,1165,668,True,True,True,passed
+m1-l0010,10,m1-p0063;m1-p0064;m1-p0065;m1-p0066,1968-11-02,verified_exact,mismatch,பாவி கெடுத்தானே; பலே சாப்பாட்டை!,893,533,True,True,True,passed
+m1-l0011,11,m1-p0067;m1-p0068;m1-p0069,1968-11-06,verified_exact,mismatch,தென்றல்- தெம்பாங்கு- தேன்கீதம்!,621,259,True,True,True,passed
+m1-l0012,12,m1-p0070;m1-p0071;m1-p0072,1968-11-07,verified_exact,mismatch,“பூப்போட்ட கிளாசிலே போட்டய்யா ஒண்ணரை!”,720,407,True,True,True,passed
+m1-l0013,13,m1-p0073;m1-p0074;m1-p0075;m1-p0076;m1-p0077,1968-11-09,verified_exact,mismatch,மேயர் தேர்தல் நேரம் - நிலை - நேர்த்தியான முடிவு!,896,515,True,True,True,passed
+m1-l0014,14,m1-p0078;m1-p0079;m1-p0080;m1-p0081,1968-11-11,verified_exact,mismatch,‘பகைமரம்’ தழைக்க விடோம்!,823,430,True,True,True,passed
+m1-l0015,15,m1-p0082;m1-p0083;m1-p0084;m1-p0085,1968-11-14,verified_exact,mismatch,நம்பிக்கையில்லாத் தீர்மானம் - நாடாளுமன்ற நிகழ்ச்சி!,949,545,True,True,True,passed
+m1-l0016,16,m1-p0086;m1-p0087;m1-p0088;m1-p0089,1968-11-16,verified_exact,mismatch,யார் அந்த உணவு அமைச்சர்?,816,511,True,True,True,passed
+m1-l0017,17,m1-p0090;m1-p0091;m1-p0092;m1-p0093,1968-11-18,verified_exact,mismatch,கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்!,1002,590,True,True,True,passed
+m1-l0018,18,m1-p0094;m1-p0095;m1-p0096,1968-11-22,verified_exact,exact,கழுதையும் - பன்றியும்!,702,415,True,True,True,passed
+m1-l0019,19,m1-p0097;m1-p0098;m1-p0099;m1-p0100,1968-11-25,verified_exact,mismatch,“பசுத்தோல் வேங்கை பாராய்!”,779,448,True,True,True,passed
+m1-l0020,20,m1-p0101;m1-p0102;m1-p0103;m1-p0104,1968-11-26,verified_exact,mismatch,“தமிழ்த்தாயே அவர்களை மன்னித்துவிடு!”,875,447,True,True,True,passed
+m1-l0021,21,m1-p0105;m1-p0106;m1-p0107;m1-p0108;m1-p0109;m1-p0110;m1-p0111;m1-p0112;m1-p0113;m1-p0114;m1-p0115;m1-p0116,1968-11-28,verified_exact,mismatch,‘தமிழ் நாடு’ ஒரு முழு விளக்கம்!,2484,1736,True,True,True,passed
+m1-l0022,22,m1-p0117;m1-p0118,1968-12-02,verified_exact,mismatch,கண்கள் திறக்க ஒரு கதை!,408,193,True,True,True,passed
+m1-l0023,23,m1-p0119,1968-12-05,verified_exact,mismatch,பரிதாபப்படுகிறேன்!,293,122,True,True,True,passed
+m1-l0024,24,m1-p0120;m1-p0121;m1-p0122,1968-12-07,verified_exact,mismatch,“அரசியல் மோசடியாம் - அறிவிக்கிறார்; ஆழ்வப் பிறவி!”,676,363,True,True,True,passed
+m1-l0025,25,m1-p0123;m1-p0124,1968-12-09,verified_exact,mismatch,இந்தியும் மொரார்ஜி தேசாயும்!,438,240,True,True,True,passed
+m1-l0026,26,m1-p0125;m1-p0126,1968-12-20,verified_exact,mismatch,தகுந்த பாடம் தரவேண்டாமா?,470,235,True,True,True,passed
+m1-l0027,27,m1-p0127;m1-p0128,1968-12-26,verified_exact,mismatch,காட்சி காண அல்ல - களம் காண!,559,241,True,True,True,passed
+m1-l0028,28,m1-p0129;m1-p0130;m1-p0131,1968-12-28,verified_exact,mismatch,வெண்மணிச் சம்பவம் ஒரு விளக்கம்!,695,352,True,True,True,passed
+m1-l0029,29,m1-p0132;m1-p0133,1969-01-11,verified_exact,mismatch,காங்கிரஸ் வெற்றியும் இந்தித் திணிப்பும்!,576,287,True,True,True,passed
+m1-l0030,30,m1-p0134;m1-p0135,1969-01-17,verified_exact,mismatch,பாழடைந்த மண்டபமும் வெளவால்களும்!,503,278,True,True,True,passed
+m1-l0031,31,m1-p0136;m1-p0137;m1-p0138;m1-p0139;m1-p0140,1969-01-18,verified_exact,mismatch,வேங்கை போடும் வெள்ளாடு வேடம்!,1100,657,True,True,True,passed
+m1-l0032,32,m1-p0141;m1-p0142,1969-01-28,verified_exact,normalized,காமராஜரின் கடற்கரைப் பேச்சின் பொருள் என்ன?,591,317,True,True,True,passed
+m1-l0033,33,m1-p0143;m1-p0144;m1-p0145;m1-p0146;m1-p0147,1971-01-01,verified_exact,exact,தெளிந்திடும் நீரோடை!,1314,704,True,True,True,passed
+m1-l0034,34,m1-p0148;m1-p0149;m1-p0150;m1-p0151,1971-01-07,verified_exact,mismatch,வென்றிட வேறு யாருளர்?,1037,615,True,True,True,passed
+m1-l0035,35,m1-p0152;m1-p0153;m1-p0154;m1-p0155,1971-01-10,verified_exact,exact,உனக்காக விழித்திருப்போம்!,968,540,True,True,True,passed
+m1-l0036,36,m1-p0156;m1-p0157;m1-p0158;m1-p0159;m1-p0160,1971-04-16,verified_exact,mismatch,"“கிழச் சிங்கம், கிளறிய நெஞ்சம்!”",1182,641,True,True,True,passed
+m1-l0037,37,m1-p0161;m1-p0162;m1-p0163;m1-p0164,1971-04-17,verified_exact,mismatch,நீயும் நானும் தூங்குவோமா?,952,544,True,True,True,passed
+m1-l0038,38,m1-p0165;m1-p0166;m1-p0167;m1-p0168,1971-04-18,verified_exact,exact,இன்றே தொடங்கிடுக பணி!,815,456,True,True,True,passed
+m1-l0039,39,m1-p0169;m1-p0170;m1-p0171;m1-p0172;m1-p0173,1971-04-22,verified_exact,normalized,“கோவை - ஒரு கனி! நீ ஒரு கிளி!”,1452,776,True,True,True,passed
+m1-l0040,40,m1-p0174;m1-p0175;m1-p0176;m1-p0177,1971-04-23,verified_exact,mismatch,அண்ணன்-கண்ணன் எங்கே?,1213,718,True,True,True,passed
+m1-l0041,41,m1-p0178;m1-p0179;m1-p0180,1971-05-26,verified_exact,exact,நான் கேட்கும் பிச்சை!,780,420,True,True,True,passed
+m1-l0042,42,m1-p0181;m1-p0182;m1-p0183,1972-07-10,verified_exact,exact,ஜூலை 15!,703,387,True,True,True,passed
+m1-l0043,43,m1-p0184;m1-p0185;m1-p0186,1972-07-17,verified_exact,exact,பெருமை எது?,893,511,True,True,True,passed
+m1-l0044,44,m1-p0187;m1-p0188;m1-p0189;m1-p0190;m1-p0191,1972-07-22,verified_exact,exact,வழக்கு ஜோடனை!,1095,665,True,True,True,passed
+m1-l0045,45,m1-p0192;m1-p0193;m1-p0194;m1-p0195,1972-08-09,verified_exact,exact,மதுரை மாட்சி (1),911,490,True,True,True,passed
+m1-l0046,46,m1-p0196;m1-p0197;m1-p0198;m1-p0199,1972-08-10,verified_exact,exact,மதுரை மாட்சி (2),953,523,True,True,True,passed
+m1-l0047,47,m1-p0200;m1-p0201;m1-p0202,1972-08-29,verified_exact,mismatch,“தாயே எட்டடி என்றால்...”,891,525,True,True,True,passed
+m1-l0048,48,m1-p0203;m1-p0204;m1-p0205,1972-10-10,verified_exact,mismatch,"பாவம்; பண்பாடு, படும் பாடு!",670,394,True,True,True,passed
+m1-l0049,49,m1-p0206;m1-p0207;m1-p0208;m1-p0209,1972-10-20,verified_exact,mismatch,அன்பகம்! அறிவகம்!,1109,612,True,True,True,passed
+m1-l0050,50,m1-p0210;m1-p0211;m1-p0212;m1-p0213,1972-10-21,verified_exact,exact,நமக்குப் புரியவில்லை!,1063,594,True,True,True,passed
+m1-l0051,51,m1-p0214;m1-p0215;m1-p0216;m1-p0217;m1-p0218,1972-10-23,verified_exact,mismatch,அகல்விளக்கு கையில் அண்ணன் மொழி நெஞ்சில்!,1200,751,True,True,True,passed
+m1-l0052,52,m1-p0219;m1-p0220;m1-p0221;m1-p0222,1973-01-23,verified_exact,mismatch,பிப்ரவரி மூன்றாம் நாள்!,949,539,True,True,True,passed
+m1-l0053,53,m1-p0223;m1-p0224;m1-p0225;m1-p0226,1973-05-12,verified_exact,mismatch,நட வேகமாக! நமக்கே வெற்றி!!,963,611,True,True,True,passed
+m1-l0054,54,m1-p0227;m1-p0228;m1-p0229,1973-05-13,verified_exact,exact,ஐந்தாம் ஜார்ஜா? ஆறாம் ஜார்ஜா?,612,346,True,True,True,passed
+m1-l0055,55,m1-p0230;m1-p0231;m1-p0232,1973-05-23,verified_exact,normalized,“அரிதாரம் கலையும்!”,597,334,True,True,True,passed
+m1-l0056,56,m1-p0233;m1-p0234;m1-p0235,1973-05-24,verified_exact,exact,சிந்தனைக்கு!,725,446,True,True,True,passed
+m1-l0057,57,m1-p0236;m1-p0237;m1-p0238,1973-05-28,verified_exact,normalized,“பிறந்த நாள் வேண்டுகோள்!”,665,373,True,True,True,passed
+m1-l0058,58,m1-p0239;m1-p0240,1973-05-29,verified_exact,mismatch,“நடக்கின்ற ஆச்சரியம்!”,542,260,True,True,True,passed
+m1-l0059,59,m1-p0241;m1-p0242;m1-p0243;m1-p0244;m1-p0245,1973-05-30,verified_exact,mismatch,இதுதான் உலகம்!,1097,689,True,True,True,passed
+m1-l0060,60,m1-p0246;m1-p0247;m1-p0248;m1-p0249,1973-06-02,verified_exact,mismatch,“கண்ணீர் மடல்!”,1087,668,True,True,True,passed
+m1-l0061,61,m1-p0250;m1-p0251;m1-p0252,1973-06-15,verified_exact,normalized,“ஒழுங்கான கணக்கு!”,699,396,True,True,True,passed
+m1-l0062,62,m1-p0253;m1-p0254;m1-p0255,1973-06-24,verified_exact,mismatch,உண்மை! உண்மை!!,647,368,True,True,True,passed
+m1-l0063,63,m1-p0256;m1-p0257;m1-p0258;m1-p0259,,verified_exact,mismatch,“கிலுகிலுப்பை!”,957,509,True,True,True,passed
+m1-l0064,64,m1-p0260;m1-p0261;m1-p0262,1973-07-02,verified_exact,mismatch,பதவி-துறவி!,583,331,True,True,True,passed
+m1-l0065,65,m1-p0263;m1-p0264;m1-p0265,1973-07-23,verified_exact,mismatch,உன் பெயர் எங்கே?,734,425,True,True,True,passed
+m1-l0066,66,m1-p0266;m1-p0267;m1-p0268,1973-10-02,verified_exact,mismatch,“அண்ணன் எழுதிய மடல்!”,873,490,True,True,True,passed
+m1-l0067,67,m1-p0269;m1-p0270,1973-11-29,verified_exact,exact,நடக்கட்டும் நாடகம்!,458,198,True,True,True,passed
+m1-l0068,68,m1-p0271;m1-p0272,1973-12-03,verified_exact,normalized,“டெல்லி லாயத்தில்!”,478,208,True,True,True,passed
+m1-l0069,69,m1-p0273;m1-p0274,1973-12-07,verified_exact,mismatch,படையெடுப்பு பலிக்குமா?,458,218,True,True,True,passed
+m1-l0070,70,m1-p0275;m1-p0276,1973-12-11,verified_exact,mismatch,உணரச் செய்வோம்!,557,290,True,True,True,passed
+m1-l0071,71,m1-p0277;m1-p0278,1973-12-12,verified_exact,mismatch,காலக் கருவூலம்!,424,215,True,True,True,passed
+m1-l0072,72,m1-p0279;m1-p0280,1973-12-13,verified_exact,exact,ஒன்று சொல்க!,641,306,True,True,True,passed
+m1-l0073,73,m1-p0281;m1-p0282,1973-12-15,verified_exact,normalized,புன்னகையும் பெருமூச்சும்!,505,256,True,True,True,passed
+m1-l0074,74,m1-p0283;m1-p0284,1973-12-16,verified_exact,mismatch,குறள் மறவோம்!,453,198,True,True,True,passed
+m1-l0075,75,m1-p0285;m1-p0286,1973-12-18,verified_exact,exact,உன் எதிரே!,601,260,True,True,True,passed
+m1-l0076,76,m1-p0287;m1-p0288,1973-12-20,verified_exact,mismatch,தட்டிக் கேட்கலாமா?,509,230,True,True,True,passed
+m1-l0077,77,m1-p0289;m1-p0290,1973-12-26,verified_exact,mismatch,பெரியாரின் வெற்றி!,564,261,True,True,True,passed
+m1-l0078,78,m1-p0291;m1-p0292,1973-12-28,verified_exact,mismatch,நம்மை வென்றாரா?,552,247,True,True,True,passed
+m1-l0079,79,m1-p0293;m1-p0294;m1-p0295,1974-01-01,verified_exact,mismatch,இருபதாயிரம் பாடி வீடுகள்!,732,380,True,True,True,passed
+m1-l0080,80,m1-p0296;m1-p0297,1974-01-04,verified_exact,mismatch,கொள்கை மலர்கள்,456,207,True,True,True,passed
+m1-l0081,81,m1-p0298;m1-p0299;m1-p0300,1974-01-10,verified_exact,normalized,தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!,779,413,True,True,True,passed
+m1-l0082,82,m1-p0301,1974-01-14,verified_exact,mismatch,பொங்கல் உறுதி!,309,118,True,True,True,passed
+m1-l0083,83,m1-p0302;m1-p0303;m1-p0304,1974-02-11,verified_exact,exact,காண வருகிறேன் உன்னை!,804,412,True,True,True,passed
+m1-l0084,84,m1-p0305;m1-p0306;m1-p0307,1974-03-05,verified_exact,mismatch,‘தொய்வு இல்லை! தொடர்க பயணம்!’,792,407,True,True,True,passed
+m1-l0085,85,m1-p0308;m1-p0309,1974-03-19,verified_exact,mismatch,“எல்லா மலர்களும் ரோஜா மலர்களே!”,584,273,True,True,True,passed
+m1-l0086,86,m1-p0310;m1-p0311;m1-p0312,1974-05-01,verified_exact,exact,மே தின வாழ்த்து!,679,330,True,True,True,passed
+m1-l0087,87,m1-p0313;m1-p0314;m1-p0315,1974-05-10,verified_exact,mismatch,‘நமது நிலை’!,636,292,True,True,True,passed
+m1-l0088,88,m1-p0316;m1-p0317;m1-p0318,1974-05-15,verified_exact,mismatch,என் பிறந்த நாளில்...!,630,322,True,True,True,passed
+m1-l0089,89,m1-p0319;m1-p0320;m1-p0321,1974-05-18,verified_exact,normalized,“மறவாதே!”,872,483,True,True,True,passed
+m1-l0090,90,m1-p0322;m1-p0323;m1-p0324;m1-p0325,1974-06-05,verified_exact,mismatch,கோடையிலே...!,1052,563,True,True,True,passed
+m1-l0091,91,m1-p0326;m1-p0327,1974-06-16,verified_exact,exact,நமது விழாக்கள்!,619,345,True,True,True,passed
+m1-l0092,92,m1-p0328;m1-p0329,1974-06-23,verified_exact,mismatch,பயணம் தொடரட்டும்!,664,318,True,True,True,passed
+m1-l0093,93,m1-p0330;m1-p0331;m1-p0332;m1-p0333;m1-p0334,1974-07-28,verified_exact,normalized,பிறந்த நாள் விழாவும் மறந்த சில விவரங்களும்!,1112,695,True,True,True,passed
+m1-l0094,94,m1-p0335;m1-p0336;m1-p0337;m1-p0338,1974-08-04,verified_exact,mismatch,நேரமும் நினைப்பும்!,936,536,True,True,True,passed
+m1-l0095,95,m1-p0339;m1-p0340;m1-p0341;m1-p0342,1974-08-11,verified_exact,mismatch,‘மாம்பழ மங்கை!’,1067,567,True,True,True,passed
+m1-l0096,96,m1-p0343;m1-p0344,1974-09-01,verified_exact,mismatch,அதே தேதிகள்!,525,253,True,True,True,passed
+m1-l0097,97,m1-p0345;m1-p0346,1974-09-08,verified_exact,mismatch,இன்றே தயாராகு!,622,305,True,True,True,passed
+m1-l0098,98,m1-p0347;m1-p0348;m1-p0349;m1-p0350,1974-09-15,verified_exact,mismatch,உயர்த்திடுவோம் தோள்!,1108,649,True,True,True,passed
+m1-l0099,99,m1-p0351;m1-p0352;m1-p0353,1974-09-22,verified_exact,exact,வழி மேல் விழி...,740,372,True,True,True,passed
+m1-l0100,100,m1-p0354;m1-p0355;m1-p0356;m1-p0357;m1-p0358,1974-09-25,verified_exact,mismatch,அழைக்கிறேன் - வா! அன்பே வா!,1230,772,True,True,True,passed
+m1-l0101,101,m1-p0359;m1-p0360,1974-09-29,verified_exact,mismatch,உயிரே! உடன்பிறப்பே! வா! வா!,551,256,True,True,True,passed
+m1-l0102,102,m1-p0361;m1-p0362;m1-p0363;m1-p0364,1974-10-06,verified_exact,exact,என் காணிக்கை!,935,540,True,True,True,passed
+m1-l0103,103,m1-p0365;m1-p0366;m1-p0367;m1-p0368,1974-10-13,verified_exact,mismatch,"பார், பார்-இதோ பார்! இந்தியா பார்!",948,598,True,True,True,passed
+m1-l0104,104,m1-p0369;m1-p0370;m1-p0371;m1-p0372;m1-p0373,1974-10-26,verified_exact,mismatch,‘கல்கி’யின் கண்ணோட்டம்!,1125,692,True,True,True,passed
+m1-l0105,105,m1-p0374;m1-p0375;m1-p0376;m1-p0377;m1-p0378;m1-p0379,1974-10-27,verified_exact,mismatch,‘கல்கி’யின் கண்ணோட்டம் (2),1088,622,True,True,True,passed
+m1-l0106,106,m1-p0380;m1-p0381;m1-p0382;m1-p0383,1974-11-03,verified_exact,mismatch,‘கல்கி’யின் கண்ணோட்டம்(3),803,440,True,True,True,passed
+m1-l0107,107,m1-p0384;m1-p0385;m1-p0386;m1-p0387,1974-11-10,verified_exact,exact,வாழ்க-உன் புன்னகை!,1142,567,True,True,True,passed
+m1-l0108,108,m1-p0388;m1-p0389;m1-p0390;m1-p0391,1974-11-17,verified_exact,mismatch,வாண வேடிக்கை!,1015,567,True,True,True,passed
+m1-l0109,109,m1-p0392;m1-p0393;m1-p0394;m1-p0395,1974-11-24,verified_exact,exact,அவள் ஒரு தொடர்கதை!,915,523,True,True,True,passed
+m1-l0110,110,m1-p0396;m1-p0397;m1-p0398;m1-p0399;m1-p0400;m1-p0401,1974-12-01,verified_exact,mismatch,கயிற்றில் தொங்கிய கணபதி!,1345,689,True,True,True,passed
