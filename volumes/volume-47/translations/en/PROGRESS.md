@@ -17,7 +17,8 @@
 - [x] Letter **3691** — completed under one-letter cadence
 - [x] Letter **3692** — completed under one-letter cadence
 - [x] Letter **3693** — completed under one-letter cadence
-- [ ] Letter **3694** — next one-letter batch
+- [x] Letter **3694** — completed under one-letter cadence
+- [ ] Letter **3695** — next one-letter batch
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
@@ -26,14 +27,14 @@
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **47** — letters 3647–3693, including source-incomplete 3681
+- Draft-translated: **48** — letters 3647–3694, including source-incomplete 3681
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
 
-## Latest completed batch — letter 3693
+## Latest completed batch — letter 3694
 
-Letter **3693 — *The Union Government Must Intervene—Immediately!* ** contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 313–319.
+Letter **3694 — *An Article Written by ‘Nedu’ with a Malicious Mind!* ** contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 320–326.
 
 This remains a draft translation. Completion here does not claim bilingual alignment or English release verification.
 
@@ -47,4 +48,4 @@ The working cadence is **one consecutive letter per English-translation batch**.
 
 ## Next exact task
 
-Complete letter **3694**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
+Complete letter **3695**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
