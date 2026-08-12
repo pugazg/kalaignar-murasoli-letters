@@ -6,7 +6,7 @@ The canonical Tamil transcription, full-volume Tamil structural audit, and manda
 
 ## Translation progress
 
-The first English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The user has since revised the working cadence to **five letters per iteration**. Two five-letter batches under that revised cadence, **3662–3666** and **3667–3671**, are now complete.
+The first English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The user has since revised the working cadence to **five letters per iteration**. Three five-letter batches under that revised cadence, **3662–3666**, **3667–3671**, and **3672–3676**, are now complete.
 
 Each letter file contains the standard translator’s note, source pagination/date, a thought-preserving English translation, and the full audited canonical Tamil below it.
 
@@ -35,11 +35,16 @@ Each letter file contains the standard translator’s note, source pagination/da
 23. [3669 — How Long Will She Keep Deceiving People Like This?](letters/3669-how-long-will-she-keep-deceiving-people-like-this.md)
 24. [3670 — The Spear Leaps Forth! Statistical Trickery—Shred by Shred!!](letters/3670-the-spear-leaps-forth-statistical-trickery-shred-by-shred.md)
 25. [3671 — Will an Attempt at Diversion Solve the Problem?](letters/3671-will-an-attempt-at-diversion-solve-the-problem.md)
+26. [3672 — Youth Wing Seminar at Maraimalai Nagar!](letters/3672-youth-wing-seminar-at-maraimalai-nagar.md)
+27. [3673 — Attention, Sugarcane Farmers!](letters/3673-attention-sugarcane-farmers.md)
+28. [3674 — What Is the Answer to This Question?](letters/3674-what-is-the-answer-to-this-question.md)
+29. [3675 — The Diamond Jubilee and Honourable Traditions!](letters/3675-the-diamond-jubilee-and-honourable-traditions.md)
+30. [3676 — I Believe Justice Will Be Done!](letters/3676-i-believe-justice-will-be-done.md)
 
 ### Counts
 
 - Total letter records: **59**
-- Draft-translated: **25 / 59** — letters 3647–3671
+- Draft-translated: **30 / 59** — letters 3647–3676
 - Bilingual-aligned: **0 / 59**
 - Editorially verified for English release: **0 / 59**
 - Source-incomplete: **1** — letter 3681
@@ -63,6 +68,6 @@ Cumulative second-pass source coverage is **PDF 001–401 — 401/401 PDF pages*
 
 ## Next exact task
 
-Translate letters **3672–3676** as the next five-letter English iteration. Bilingual alignment remains a later separate stage.
+Translate letters **3677–3681** as the next five-letter English iteration. Letter **3681** is source-incomplete: translate only its available audited Tamil, explicitly preserve the gap, and do not reconstruct its missing continuation, closing, or printed date. Bilingual alignment remains a later separate stage.
 
 See also [English progress](PROGRESS.md), [Glossary](GLOSSARY.md), and the [Volume 47 translation plan](../TRANSLATION_PLAN.md).
