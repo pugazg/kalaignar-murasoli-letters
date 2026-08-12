@@ -12,7 +12,7 @@
 3. Chapter records: **59** — 58 complete + source-incomplete **3681**.
 4. Printed page **252** is absent from the only source PDF. PDF 252 / printed 251 ends 3681 mid-sentence; PDF 253 / printed 253 begins 3682. Missing continuation, closing and date were not reconstructed.
 5. Contents/actual-heading discrepancies for **3663** and **3674** remain preserved in their separate source contexts.
-6. English translation remains `not-started`.
+6. English translation is now **in progress**: letters **3647–3661**, 15/59 records, are `draft-translated`; bilingual alignment remains not started.
 
 ## முடிவு
 
@@ -27,7 +27,8 @@
 | Full-volume Tamil structural audit | complete for available source |
 | Second visual verification | **complete — PDF 001–401** |
 | Textual-fidelity audits | **complete for all available source** |
-| English translation | not started |
+| English translation | **in progress — 15/59 draft-translated, letters 3647–3661** |
+| Bilingual alignment | not started |
 
 ## Second visual / textual-fidelity verification — complete
 
@@ -55,10 +56,20 @@ All final closing/signature/date pages were visually checked: **332, 339, 344, 3
 
 Source-specific oddities and print forms were preserved when the scan confirmed them. No external source was used to normalize or supplement the canonical Tamil.
 
+## English translation stage
+
+The Tamil fidelity gate cleared before English translation began. The first user-approved English iteration covers **letters 3647–3661**, exactly **15 consecutive records**.
+
+- 15/15 files in the iteration are present under `translations/en/letters/`.
+- Each contains the standard translator’s note, source pagination/date metadata, thought-preserving non-literary English, and the full audited canonical Tamil below the translation.
+- All 15 remain `draft-translated`.
+- Bilingual alignment and English editorial/release verification have **not** begun and are not implied by the draft status.
+- The next exact English batch is **3662–3676**.
+
 ## Source gap — printed page 252
 
-The source defect remains unchanged and explicit. Letter 3681 has available PDF 249–252 / printed 248–251; printed page 252 is absent. Every source page that exists for 3681 has passed second-pass verification, but the missing continuation, closing and printed date remain unavailable and unguessed.
+The source defect remains unchanged and explicit. Letter 3681 has available PDF 249–252 / printed 248–251; printed page 252 is absent. Every source page that exists for 3681 has passed second-pass verification, but the missing continuation, closing and printed date remain unavailable and unguessed. When letter 3681 reaches English translation, only the available audited text may be translated and the gap must remain explicit.
 
 ## Next gate
 
-The Tamil structural and textual-fidelity gates are **complete for all available Volume 47 source material**. English translation is still unstarted and is now the next project stage, with letter 3681 retained as a documented source-incomplete exception.
+Continue English translation with letters **3662–3676** as the second user-approved 15-letter iteration. Bilingual alignment remains a separate later gate.
