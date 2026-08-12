@@ -25,43 +25,40 @@
 | Source-incomplete letters | 1 — 3681 |
 | Source missing printed pages | 1 — printed 252 |
 | Full-volume Tamil structural audit | complete for available source |
-| Second visual verification | in progress — source-checked through PDF 326 |
-| Textual-fidelity audits | in progress — PDF 001–326 passed for available source |
+| Second visual verification | **complete — PDF 001–401** |
+| Textual-fidelity audits | **complete for all available source** |
 | English translation | not started |
 
-## Second visual / textual-fidelity verification progress
+## Second visual / textual-fidelity verification — complete
 
-Five fidelity ranges are complete:
+Six fidelity ranges cover the entire source:
 
 - [PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md): 25/25 pages; corrections on PDF **002, 003, 004, 016**.
 - [PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md): 25/25 pages; corrections on PDF **027, 044, 048, 049**.
-- [PDF 051–140](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md): user-requested **15 letters 3650–3664**; **90/90 new pages** visually compared; corrections on PDF **052, 054**.
-- [PDF 141–243](translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md): user-requested **15 letters 3665–3679**; **103/103 pages** visually compared; corrections on PDF **143, 150, 157, 169, 196, 215, 217, 221, 226**.
-- [PDF 244–326](translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md): user-requested **15 letter records 3680–3694**; **83/83 available pages** visually compared; corrections on PDF **255, 256, 257, 261, 262, 263, 266, 274**; 3681 remains source-incomplete.
+- [PDF 051–140](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md): letters **3650–3664**; 90/90 new pages; corrections on PDF **052, 054**.
+- [PDF 141–243](translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md): letters **3665–3679**; 103/103 pages; corrections on PDF **143, 150, 157, 169, 196, 215, 217, 221, 226**.
+- [PDF 244–326](translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md): letter records **3680–3694**; 83/83 available pages; corrections on PDF **255, 256, 257, 261, 262, 263, 266, 274**; 3681 remains source-incomplete.
+- [PDF 327–401](translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md): letters **3695–3705** plus back cover; 75/75 pages; corrections on PDF **330, 333, 337, 350, 369, 390**.
 
-Cumulative second-pass coverage: **326/401 PDF pages**. Complete letters **3647–3680** and **3682–3694** have complete second-pass source coverage. Every available source page of letter **3681** has also been checked.
+Cumulative second-pass coverage is **401/401 PDF pages**. Across the six reports, **33 canonical PDF pages** received scan-proven corrections.
 
-### Scan-proven corrections in the 3680–3694 batch
+### Final batch scan-proven corrections
 
-- PDF 255: `இரண்டாண்டுக்கு` → `இருண்ட ஆட்சிக்கு`.
-- PDF 256: `பொம்பலூர்` → `பெரம்பலூர்`.
-- PDF 257: `சிங்கின் டியைச்` → `சிங்கிள் டீயைக்`.
-- PDF 261: `ஒளிபுமிழும்` → `ஒளியுமிழும்`.
-- PDF 262: `வீருகொண்ட` → `வீறுகொண்ட`.
-- PDF 263: `என்றெடுத்த` → `ஈன்றெடுத்த`.
-- PDF 266: `கனீர்` → `கணீர்`.
-- PDF 274: `யாரே` → `யாரோ`.
+- PDF 330: `வாரதமாக` → `வாரதுமாக`.
+- PDF 333: `முடி மறைத்ததாக` → `மூடி மறைத்ததாக`.
+- PDF 337: `நடைபெற்ற வந்ததாகவும்` → `நடைபெற்று வந்ததாகவும்`.
+- PDF 350: `அமுத பிள்ளை` → `அழுத பிள்ளை`.
+- PDF 369: `பிரமரே` → `பிரதமரே`.
+- PDF 390: `முதலவர் ஜெயலலிதா` → `முதல்வர் ஜெயலலிதா`.
 
-Available closing/signature/date pages for the complete letters in this batch were visually checked: **248, 254, 259, 264, 270, 276, 282, 288, 295, 301, 306, 312, 319, 326**. Letter 3681 has no source closing/date page because printed page 252 is absent.
+All final closing/signature/date pages were visually checked: **332, 339, 344, 351, 358, 365, 371, 377, 383, 393, 400**. PDF **401** back cover was also checked.
 
-Source-specific unusual forms confirmed by the scan and deliberately preserved include `3681.இருள்...`, `என்னரும் ஏழைத் தமிழர்களை`, `தெரிவாக்கியிருக்கிறார்`, and `41-2013க்குள்`. The indistinct small photo caption on PDF 244 remains unguessed.
-
-PDF **327** was inspected only as the next-letter boundary and confirms the start of **3695 — “துணிச்சலான செயலா? துவள வைக்கும் காரியமா?”**.
+Source-specific oddities and print forms were preserved when the scan confirmed them. No external source was used to normalize or supplement the canonical Tamil.
 
 ## Source gap — printed page 252
 
-The source defect remains unchanged and explicit. Letter 3681 has available PDF 249–252 / printed 248–251; printed page 252 is absent. No reconstruction is present in canonical Tamil.
+The source defect remains unchanged and explicit. Letter 3681 has available PDF 249–252 / printed 248–251; printed page 252 is absent. Every source page that exists for 3681 has passed second-pass verification, but the missing continuation, closing and printed date remain unavailable and unguessed.
 
 ## Next gate
 
-Proceed with the final remaining fidelity scope: **letters 3695–3705, PDF 327–400, plus back cover PDF 401**. English translation remains unstarted while full Tamil fidelity verification is in progress.
+The Tamil structural and textual-fidelity gates are **complete for all available Volume 47 source material**. English translation is still unstarted and is now the next project stage, with letter 3681 retained as a documented source-incomplete exception.

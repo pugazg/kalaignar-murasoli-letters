@@ -6,21 +6,22 @@
 **பதிப்பகம்:** சீதை பதிப்பகம்  
 **PDF:** 401 பக்கங்கள்; நூலில் குறிப்பிடப்பட்ட அச்சுப் பக்கங்கள்: 400
 
-## Tamil transcription நிலை
+## Tamil transcription / fidelity நிலை
 
 - PDF பக்கங்கள் **1–401** அனைத்தும் canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
 - கடிதங்கள் **3647–3680** மற்றும் **3682–3705** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன — **58 complete letters**.
-- கடிதம் **3681** source-incomplete: PDF **249–252** / printed **248–251** available; printed page **252** மட்டும் source PDF-இல் இல்லை. காணாமற்போன உரை, closing அல்லது date ஊகிக்கப்படவில்லை.
+- கடிதம் **3681** source-incomplete: PDF **249–252** / printed **248–251** available; printed page **252** source PDF-இல் இல்லை. காணாமற்போன உரை, closing அல்லது date ஊகிக்கப்படவில்லை.
 - Full-volume Tamil structural audit complete.
-- இரண்டாம் சுற்று textual-fidelity / close visual verification **PDF 001–326** வரை முடிக்கப்பட்டது.
+- Mandatory second visual / textual-fidelity verification **PDF 001–401 முழுவதும் complete**.
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
 - [Textual-fidelity audit — PDF 051–140 / letters 3650–3664](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md)
 - [Textual-fidelity audit — PDF 141–243 / letters 3665–3679](translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md)
 - [Textual-fidelity audit — PDF 244–326 / letters 3680–3694](translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md)
-- Cumulative scan-proven corrected canonical pages: **002, 003, 004, 016, 027, 044, 048, 049, 052, 054, 143, 150, 157, 169, 196, 215, 217, 221, 226, 255, 256, 257, 261, 262, 263, 266, 274**.
-- Complete letters **3647–3680** and **3682–3694** now have complete second-pass source coverage. Every available page of letter **3681** has also been checked, but it remains source-incomplete.
-- English translation தொடங்கப்படவில்லை; project-level Tamil fidelity gate முழுமையாக முடியும் வரை translation stage blocked ஆகவே இருக்கும்.
+- [Textual-fidelity audit — PDF 327–401 / letters 3695–3705 + back cover](translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md)
+- Cumulative scan-proven corrected canonical pages: **002, 003, 004, 016, 027, 044, 048, 049, 052, 054, 143, 150, 157, 169, 196, 215, 217, 221, 226, 255, 256, 257, 261, 262, 263, 266, 274, 330, 333, 337, 350, 369, 390**.
+- Complete letters **3647–3680** and **3682–3705** now have complete second-pass source coverage. Every available source page of **3681** has also been checked; the record remains source-incomplete solely because printed page 252 is absent from the source.
+- English translation இன்னும் தொடங்கப்படவில்லை; ஆனால் Tamil fidelity gate இப்போது complete ஆகிவிட்டதால் அடுத்த stage-ஆக translation தொடங்கலாம்.
 
 ## தற்போதைய நிலை
 
@@ -28,54 +29,44 @@
 |---|---:|---|
 | முன் அட்டை / நூல் விவரம் / contents | 1–23 | second-pass source-checked |
 | கடிதங்கள் 3647–3679 | 24–243 | second-pass source-checked |
-| கடிதங்கள் 3680–3694 | 244–326 | second-pass source-checked for all available source pages; 3681 source-incomplete |
-| மீதமுள்ள கடிதங்கள் 3695–3705 | 327–400 | second visual verification pending |
-| பின்அட்டை | 401 | second visual verification pending |
+| கடிதங்கள் 3680–3694 | 244–326 | second-pass source-checked for all available source; 3681 source-incomplete |
+| கடிதங்கள் 3695–3705 | 327–400 | second-pass source-checked |
+| பின்அட்டை | 401 | second-pass source-checked |
 | Full-volume Tamil structural audit | 1–401 | complete |
-| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–326 | in progress; source-checked through 326 |
-| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 327–401 | pending |
+| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–401 | **complete** |
+| English translation | — | not started |
 
-## தற்போதைய batch — letters 3680–3694
+## Final fidelity batch — letters 3695–3705
 
-பயனர் கேட்ட **next batch / 15 letter records** scope-இன்படி letters **3680–3694** audit செய்யப்பட்டன. PDF **244–326 — 83 available pages** நேரடியாக scan-உடன் ஒப்பிடப்பட்டன.
+Final scope PDF **327–400** மற்றும் **PDF 401 back cover** — மொத்தம் **75/75 pages** scan-உடன் நேரடியாக ஒப்பிடப்பட்டன. Scan-proven corrections canonical pages **330, 333, 337, 350, 369, 390**-இல் மட்டும் செய்யப்பட்டன:
 
-Scan-proven corrections canonical pages **255, 256, 257, 261, 262, 263, 266, 274**-இல் செய்யப்பட்டன. குறிப்பாக:
+- PDF 330: `வாரதமாக` → `வாரதுமாக`.
+- PDF 333: `முடி மறைத்ததாக` → `மூடி மறைத்ததாக`.
+- PDF 337: `நடைபெற்ற வந்ததாகவும்` → `நடைபெற்று வந்ததாகவும்`.
+- PDF 350: `அமுத பிள்ளை` → `அழுத பிள்ளை`.
+- PDF 369: `பிரமரே` → `பிரதமரே`.
+- PDF 390: `முதலவர் ஜெயலலிதா` → `முதல்வர் ஜெயலலிதா`.
 
-- PDF 255: `இரண்டாண்டுக்கு` → `இருண்ட ஆட்சிக்கு`.
-- PDF 256: `பொம்பலூர்` → `பெரம்பலூர்`.
-- PDF 257: `சிங்கின் டியைச்` → `சிங்கிள் டீயைக்`.
-- PDF 261: `ஒளிபுமிழும்` → `ஒளியுமிழும்`.
-- PDF 262: `வீருகொண்ட` → `வீறுகொண்ட`.
-- PDF 263: `என்றெடுத்த` → `ஈன்றெடுத்த`.
-- PDF 266: `கனீர்` → `கணீர்`.
-- PDF 274: `யாரே` → `யாரோ`.
-
-Letter **3681**-ன் available PDF **249–252** முழுவதும் source-check செய்யப்பட்டது. PDF 252 / printed 251 நடுவாக்கியத்தில் முடிகிறது; printed page 252 source-இல் இல்லை என்பதால் missing continuation, closing மற்றும் date உருவாக்கப்படவில்லை.
-
-PDF **327** boundary-only inspection மூலம் **3695 — “துணிச்சலான செயலா? துவள வைக்கும் காரியமா?”** அங்கே தொடங்குவது உறுதி செய்யப்பட்டது.
+11 final letters-ன் closing/signature/date pages **332, 339, 344, 351, 358, 365, 371, 377, 383, 393, 400** source-check செய்யப்பட்டன. PDF **401** back cover-மும் scan-உடன் ஒப்பிடப்பட்டது.
 
 ## பாதுகாக்கப்பட்ட source discrepancies / defects
 
 - Printed contents-இல் 3663 title `நெஞ்சைத் துளைத்திடும் கொடுமை இது!`; actual PDF 128 heading `நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!`.
 - Printed contents-இல் 3674 title `விடை தான் என்னவோ; இந்த வினாவுக்கு!`; actual PDF 203 heading `விடைதான் என்னவோ; இந்த வினாவுக்கு!`.
-- Printed page **252** source PDF-இல் இல்லை; letter 3681 source-incomplete.
-- இந்த batch-இல் scan-ல் உறுதி செய்யப்பட்ட unusual source forms (`3681.இருள்...`, `என்னரும் ஏழைத் தமிழர்களை`, `தெரிவாக்கியிருக்கிறார்`, `41-2013க்குள்`) normalization செய்யப்படாமல் source-படி பாதுகாக்கப்பட்டுள்ளன.
+- Printed page **252** source PDF-இல் இல்லை; letter 3681 source-incomplete. Missing continuation, closing அல்லது date உருவாக்கப்படவில்லை.
 - PDF 244 புகைப்படத்தின் கீழுள்ள மிகச் சிறிய caption நம்பகமாக வாசிக்க முடியாததால் ஊகிக்கப்படவில்லை.
+- Source-specific wording, spelling, punctuation, spacing, English passages, figures மற்றும் visible print anomalies scan-படி பாதுகாக்கப்பட்டுள்ளன; silent normalization செய்யப்படவில்லை.
 
-## அடுத்த fidelity task
+## அடுத்த project stage
 
-இப்போது மீதமுள்ளது **11 letters — 3695–3705**, PDF **327–400**, அதன்பின் **PDF 401 back cover**. இதுவே Volume 47-ன் final second-pass fidelity scope.
+Volume 47-ன் Tamil transcription, structural audit மற்றும் mandatory second visual/textual-fidelity gate அனைத்தும் available source-க்கு **complete**. அடுத்த task: `TRANSLATION_PLAN.md`-க்கு இணங்க English translation தொடங்குவது. Letter **3681** மட்டும் documented source-incomplete exception ஆகவே தொடரும்.
 
 ## முக்கிய இணைப்புகள்
 
 - [Metadata](metadata.yml)
 - [முன்னேற்றம்](PROGRESS.md)
 - [Full-volume Tamil structural audit](AUDIT.md)
-- [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
-- [Textual-fidelity audit — PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
-- [Textual-fidelity audit — PDF 051–140](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md)
-- [Textual-fidelity audit — PDF 141–243](translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md)
-- [Textual-fidelity audit — PDF 244–326](translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md)
+- [Final textual-fidelity audit — PDF 327–401](translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)
 - [Translation gate](TRANSLATION_PLAN.md)
