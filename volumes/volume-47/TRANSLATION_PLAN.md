@@ -29,19 +29,20 @@ Each Volume 47 English letter file must:
 
 ## Batching
 
-The user has explicitly approved a cadence of **15 consecutive letter records per English-translation iteration** wherever the source permits.
+The first English iteration was completed under the user's earlier explicit approval for **15 consecutive letters**. The user has since changed the working cadence to **five consecutive letter records per English-translation iteration**. That five-letter cadence controls all subsequent draft iterations unless the user explicitly changes it again.
 
-- **Iteration 1:** letters **3647–3661** — 15/15 draft-translated.
-- **Iteration 2:** letters **3662–3676** — next exact translation batch.
+- **Initial iteration:** letters **3647–3661** — 15/15 draft-translated under the earlier approved cadence.
+- **Five-letter iteration 1:** letters **3662–3666** — 5/5 draft-translated.
+- **Next five-letter iteration:** letters **3667–3671**.
 
 Bilingual alignment does not silently occur during drafting. It remains a separate later gate.
 
 ## Current status
 
 - Total letter records: **59**
-- Draft-translated: **15** — letters 3647–3661
+- Draft-translated: **20** — letters 3647–3666
 - Bilingual-aligned: **0**
 - English release verified: **0**
 - Source-incomplete: **1** — letter 3681
 
-The next exact task is to translate letters **3662–3676** as the second user-approved 15-letter iteration.
+The next exact task is to translate letters **3667–3671** as the next five-letter English iteration.

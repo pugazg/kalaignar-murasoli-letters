@@ -6,7 +6,9 @@ The canonical Tamil transcription, full-volume Tamil structural audit, and manda
 
 ## Translation progress
 
-The user-approved first English iteration contains **15 consecutive letters, 3647–3661**. All fifteen are now `draft-translated`. Each letter file contains the standard translator’s note, source pagination/date, a thought-preserving English translation, and the full audited canonical Tamil below it.
+The first English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The user has since revised the working cadence to **five letters per iteration**. The first five-letter batch under that revised cadence, **3662–3666**, is now complete.
+
+Each letter file contains the standard translator’s note, source pagination/date, a thought-preserving English translation, and the full audited canonical Tamil below it.
 
 1. [3647 — What Becomes of Neutrality, Justice and Conscience?](letters/3647-what-becomes-of-neutrality-justice-and-conscience.md)
 2. [3648 — The Cauvery Authority—Then and Now!](letters/3648-the-cauvery-authority-then-and-now.md)
@@ -23,16 +25,25 @@ The user-approved first English iteration contains **15 consecutive letters, 364
 13. [3659 — I Have No Intention of Stopping Writing!](letters/3659-i-have-no-intention-of-stopping-writing.md)
 14. [3660 — I Will Wear It Today; I Will Wear It Always!](letters/3660-i-will-wear-it-today-i-will-wear-it-always.md)
 15. [3661 — Will She at Least Avoid It Now?](letters/3661-will-she-at-least-avoid-it-now.md)
+16. [3662 — What the People Expect!](letters/3662-what-the-people-expect.md)
+17. [3663 — This Is a Continuing Story That Pierces the Heart!](letters/3663-this-is-a-continuing-story-that-pierces-the-heart.md)
+18. [3664 — The South Will Prosper When the Sethu Project Comes!](letters/3664-the-south-will-prosper-when-the-sethu-project-comes.md)
+19. [3665 — Can Water Be Separated by Striking Water?](letters/3665-can-water-be-separated-by-striking-water.md)
+20. [3666 — Mother Tamil Nadu's Anguish!](letters/3666-mother-tamil-nadus-anguish.md)
 
 ### Counts
 
 - Total letter records: **59**
-- Draft-translated: **15 / 59**
+- Draft-translated: **20 / 59** — letters 3647–3666
 - Bilingual-aligned: **0 / 59**
 - Editorially verified for English release: **0 / 59**
 - Source-incomplete: **1** — letter 3681
 
 These are translation drafts, not bilingual-alignment or release-verification claims.
+
+## Current batching rule
+
+The user's current instruction is **five consecutive letters per English-translation iteration**. The completed 3647–3661 batch remains as historical project state under the earlier 15-letter approval; all subsequent draft iterations follow the five-letter cadence unless explicitly changed again.
 
 ## Completed fidelity reports
 
@@ -47,6 +58,6 @@ Cumulative second-pass source coverage is **PDF 001–401 — 401/401 PDF pages*
 
 ## Next exact task
 
-Translate letters **3662–3676** as the second user-approved 15-letter iteration. Bilingual alignment remains a later separate stage.
+Translate letters **3667–3671** as the next five-letter English iteration. Bilingual alignment remains a later separate stage.
 
 See also [English progress](PROGRESS.md), [Glossary](GLOSSARY.md), and the [Volume 47 translation plan](../TRANSLATION_PLAN.md).
