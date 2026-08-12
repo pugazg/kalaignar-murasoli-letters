@@ -13,32 +13,34 @@
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
   - [x] PDF 026–050 — 25/25 visually compared; 4 canonical pages corrected
   - [x] User-requested 15-letter fidelity batch 3650–3664 — new pages PDF 051–140, 90/90 visually compared; 2 canonical pages corrected
-  - [ ] PDF 141–401
+  - [x] User-requested 15-letter fidelity batch 3665–3679 — PDF 141–243, 103/103 visually compared; 9 canonical pages corrected
+  - [ ] PDF 244–401
 - [ ] Mandatory textual-fidelity audits before any translation — in progress
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md`
-  - [ ] PDF 141 onward
+  - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md`
+  - [ ] PDF 244 onward
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
 ## Source gap — letter 3681
 
-The only available Volume 47 source jumps from **PDF 252 / printed page 251** to **PDF 253 / printed page 253**. PDF 252 ends letter 3681 in the middle of the sentence after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`; PDF 253 starts letter 3682. Printed page **252** is absent. The missing continuation, closing and printed date have not been reconstructed or guessed.
+The only available Volume 47 source jumps from **PDF 252 / printed page 251** to **PDF 253 / printed page 253**. PDF 252 ends letter 3681 mid-sentence after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`; PDF 253 starts letter 3682. Printed page **252** is absent. The missing continuation, closing and printed date have not been reconstructed or guessed.
 
 ## Second visual / textual-fidelity progress
 
-Cumulative second-pass source coverage is now **PDF 001–140**.
+Cumulative second-pass source coverage is now **PDF 001–243**.
 
-- Earlier corrections: PDF **002, 003, 004, 016, 027, 044, 048, 049**.
-- This 15-letter batch: PDF **052** `கேட்டபதைப்போல` → `கேட்பதைப்போல`; PDF **054** `வெளியேந்தோரின்` → `வெளிவந்தோரின்`, and `வெளியேகொண்டுவரப்பட்டுள்ள` → `வெளிக்கொணரப்பட்டுள்ள`.
-- Letters **3650–3664** now have complete second-pass source coverage. Letter 3650 combines the previous PDF 047–050 audit with this batch's PDF 051–052.
-- All 15 closing/signature/date pages were visually checked: PDF **052, 059, 064, 071, 078, 083, 089, 096, 099, 110, 116, 121, 127, 132, 140**.
-- The printed-contents/actual-heading discrepancy for letter **3663** remains preserved: contents `நெஞ்சைத் துளைத்திடும் கொடுமை இது!`; PDF 128 heading `நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!`.
-- PDF **141** was inspected only to verify that letter **3665** begins there; no 3665 body is included in this audit batch.
+- Prior corrected pages: **002, 003, 004, 016, 027, 044, 048, 049, 052, 054**.
+- Latest 15-letter batch corrected canonical pages **143, 150, 157, 169, 196, 215, 217, 221, 226**.
+- Letters **3647–3679** now have complete second-pass source coverage.
+- All 15 closing/signature/date pages for letters 3665–3679 were visually checked: PDF **148, 154, 161, 168, 178, 185, 190, 195, 202, 208, 215, 222, 230, 237, 243**.
+- The printed-contents/actual-heading discrepancy for letter **3674** remains preserved: contents `விடை தான் என்னவோ; இந்த வினாவுக்கு!`; PDF 203 heading `விடைதான் என்னவோ; இந்த வினாவுக்கு!`.
+- PDF **244** was inspected only to verify the start of letter **3680**.
 
 English translation remains unstarted while the project-level Tamil fidelity gate is in progress.
 
 ## Next exact task
 
-Proceed with the next 15-letter second-pass fidelity batch, **letters 3665–3679**, beginning at **PDF 141**. Based on verified chapter boundaries, that batch runs through **PDF 243**; PDF 244 begins letter 3680 and is the next boundary page.
+Proceed with the next 15-letter second-pass fidelity batch, **letters 3680–3694**, covering available source PDF **244–326**. Letter **3681** must remain a documented source-incomplete exception because printed page 252 is absent; no missing text, closing or date may be reconstructed.
