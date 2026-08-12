@@ -33,16 +33,17 @@ The first English iteration was completed under the user's earlier explicit appr
 
 - **Initial iteration:** letters **3647–3661** — 15/15 draft-translated under the earlier approved cadence.
 - **Five-letter iteration 1:** letters **3662–3666** — 5/5 draft-translated.
-- **Next five-letter iteration:** letters **3667–3671**.
+- **Five-letter iteration 2:** letters **3667–3671** — 5/5 draft-translated.
+- **Next five-letter iteration:** letters **3672–3676**.
 
 Bilingual alignment does not silently occur during drafting. It remains a separate later gate.
 
 ## Current status
 
 - Total letter records: **59**
-- Draft-translated: **20** — letters 3647–3666
+- Draft-translated: **25** — letters 3647–3671
 - Bilingual-aligned: **0**
 - English release verified: **0**
 - Source-incomplete: **1** — letter 3681
 
-The next exact task is to translate letters **3667–3671** as the next five-letter English iteration.
+The next exact task is to translate letters **3672–3676** as the next five-letter English iteration.
