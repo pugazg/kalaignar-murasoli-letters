@@ -34,16 +34,17 @@ The first English iteration was completed under the user's earlier explicit appr
 - **Initial iteration:** letters **3647–3661** — 15/15 draft-translated under the earlier approved cadence.
 - **Five-letter iteration 1:** letters **3662–3666** — 5/5 draft-translated.
 - **Five-letter iteration 2:** letters **3667–3671** — 5/5 draft-translated.
-- **Next five-letter iteration:** letters **3672–3676**.
+- **Five-letter iteration 3:** letters **3672–3676** — 5/5 draft-translated.
+- **Next five-letter iteration:** letters **3677–3681** — letter 3681 must remain source-incomplete and must not be reconstructed.
 
 Bilingual alignment does not silently occur during drafting. It remains a separate later gate.
 
 ## Current status
 
 - Total letter records: **59**
-- Draft-translated: **25** — letters 3647–3671
+- Draft-translated: **30** — letters 3647–3676
 - Bilingual-aligned: **0**
 - English release verified: **0**
 - Source-incomplete: **1** — letter 3681
 
-The next exact task is to translate letters **3672–3676** as the next five-letter English iteration.
+The next exact task is to translate letters **3677–3681** as the next five-letter English iteration. For letter **3681**, translate only the available audited Tamil, explicitly document the missing printed page 252, and do not infer the continuation, closing or date.
