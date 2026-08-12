@@ -1,72 +1,65 @@
-# தொகுதி 47 — five-letter transcription iteration audit
+# தொகுதி 47 — 15-letter transcription iteration audit
 
 **தணிக்கை நாள்:** 2026-08-12  
-**மொத்த canonical பரப்பு:** PDF பக்கங்கள் 1–254  
-**இந்த iteration:** PDF பக்கங்கள் 231–254; கடிதப் பதிவுகள் 3678–3682  
+**மொத்த canonical பரப்பு:** PDF பக்கங்கள் 1–344  
+**இந்த iteration:** PDF/printed பக்கங்கள் 255–344; கடிதங்கள் 3683–3697  
 **மூல PDF:** `Vol47.pdf`  
 **SHA-256:** `4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558`
 
+## Batch-size exception
+
+Repository default policy ஐந்து complete letters per normal iteration என்கிறது; larger batch user explicit approval இருந்தால் அனுமதிக்கப்படுகிறது. பயனர் **“15 letters in each batch”** என வெளிப்படையாக scope மாற்றத்தை ஒப்புதல் அளித்ததால், இந்த iteration **3683–3697** என்ற 15 complete consecutive letters-ஐ ஒரே atomic batch-ஆகப் பதிவு செய்கிறது.
+
 ## செய்யப்பட்ட சோதனைகள்
 
-1. PDF 1–254 அனைத்துக்கும் uninterrupted `page-001.md`–`page-254.md` canonical filename range இருப்பு.
-2. புதிய canonical pages 231–254 ஒவ்வொன்றும் rendered scan-உடன் visual comparison.
-3. கடிதம் 3678: PDF 231–237 / printed 230–236; title, address, body, closing மற்றும் date verified.
-4. கடிதம் 3679: PDF 238–243 / printed 237–242; title, English quotations, closing மற்றும் date verified.
-5. கடிதம் 3680: PDF 244–248 / printed 243–247; title, image page, body, closing மற்றும் date verified.
-6. கடிதம் 3681: PDF 249–252 / printed 248–251 கிடைக்கக்கூடிய source pages visually verified. PDF 252 நடுவில் முடிகிறது; printed page 252 source PDF-இல் இல்லை. Missing continuation, closing மற்றும் date ஊகிக்கப்படவில்லை; chapter status `source-incomplete`.
-7. கடிதம் 3682: PDF 253–254 / printed 253–254; title, body, closing மற்றும் date verified.
-8. PDF 255 visually inspected only to establish that letter 3683 starts there; `page-255.md` உருவாக்கப்படவில்லை, 3683 body இந்த iteration-இல் சேர்க்கப்படவில்லை.
-9. Exactly five new chapter records 3678–3682 உருவாக்கப்பட்டன; 4 `complete`, 1 `source-incomplete`.
-10. Previous letter 3677 next navigation, chapter index, contents register, metadata, progress, volume README மற்றும் root README consistency checked.
-11. New page/front-matter mapping checked against verified printed pagination, including the source jump printed 251 → 253.
-12. Duplicate canonical body, replacement Unicode (`U+FFFD`), zero-width residue மற்றும் completed/recorded-range broken-link checks.
-13. Existing contents-vs-heading discrepancies for 3663 and 3674 remain preserved without reconciliation.
-14. Volume 48 மற்றும் Volume 49 release files இந்த iteration-இல் மாற்றப்படவில்லை.
-15. English translation files உருவாக்கப்படவில்லை; translation gate remains blocked.
+1. PDF 1–344 அனைத்துக்கும் uninterrupted canonical filename range `page-001.md`–`page-344.md` இருப்பு.
+2. புதிய canonical pages **255–344**, மொத்தம் **90**, ஒவ்வொன்றும் rendered scan-உடன் visual comparison.
+3. கடிதங்கள் 3683–3697 அனைத்திற்கும் letter-start heading, salutation, body continuity, closing `அன்புள்ள, மு.க.`, printed date மற்றும் exact end boundary verification.
+4. Verified letter ranges: 3683 = 255–259; 3684 = 260–264; 3685 = 265–270; 3686 = 271–276; 3687 = 277–282; 3688 = 283–288; 3689 = 289–295; 3690 = 296–301; 3691 = 302–306; 3692 = 307–312; 3693 = 313–319; 3694 = 320–326; 3695 = 327–332; 3696 = 333–339; 3697 = 340–344.
+5. Exactly **15** new chapter records உருவாக்கப்பட்டன; previous letter 3682 next navigation புதிய 3683 chapter-க்கு மாற்றப்பட்டது.
+6. `contents/index.md`, `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, Volume 47 `README.md` மற்றும் root `README.md` range/count agreement checked.
+7. New page front matter-ல் PDF page = printed page for 255–344; letter-number/date/title mappings verified.
+8. Duplicate canonical body, replacement Unicode (`U+FFFD`), zero-width residue மற்றும் new-range internal-link targets checked.
+9. Existing source-incomplete letter 3681 மற்றும் missing printed page 252 record மாற்றமின்றி carry forward செய்யப்பட்டது.
+10. Existing contents-vs-heading discrepancies for 3663 and 3674 remain preserved without reconciliation.
+11. PDF **345** visually inspected only to establish that letter **3698** starts there; `page-345.md` இந்த iteration-இல் உருவாக்கப்படவில்லை, 3698 body சேர்க்கப்படவில்லை.
+12. Volume 48 மற்றும் Volume 49 release-state files இந்த iteration-இல் மாற்றப்படவில்லை.
+13. English translation files உருவாக்கப்படவில்லை; translation gate remains blocked.
 
 ## முடிவு
 
 | சோதனை | முடிவு |
 |---|---|
-| Expected canonical page range | `page-001.md`–`page-254.md` |
-| PDF filename continuity | no gap through PDF 254 |
-| New canonical pages | 24 — PDF 231–254 |
-| New letter records | 5 — letters 3678–3682 |
-| New complete letters | 4 — 3678, 3679, 3680, 3682 |
-| New source-incomplete letters | 1 — 3681 |
-| Total complete letters | 35 — 3647–3680 and 3682 |
-| Ordinary partial letters | 0 |
+| Expected canonical page range | `page-001.md`–`page-344.md` |
+| PDF filename continuity | no gap through PDF 344 |
+| New canonical pages | 90 — PDF/printed 255–344 |
+| New letter records | 15 — letters 3683–3697 |
+| New complete letters | 15 |
+| Total complete letters | 50 — 3647–3680 and 3682–3697 |
+| Source-incomplete letters | 1 — 3681 |
 | Source missing printed pages | 1 — printed page 252 |
+| Ordinary partial letters | 0 |
 | Printed contents rows | 59 — letters 3647–3705 |
 | Duplicate new page body | none detected |
 | Replacement Unicode | none detected |
 | Zero-width residue | none detected |
-| Broken internal links | none detected in recorded range |
-| New canonical pages visually compared | 24/24 |
-| Next boundary | letter 3683 starts PDF 255 / printed 255 |
-
-## Source gap — printed page 252
-
-The scan itself establishes the discontinuity: PDF 252 carries printed page number **251** and letter 3681 continues to the bottom of that page, ending after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`. The next PDF page, PDF 253, begins letter 3682; its printed-page sequence is **253**, and PDF 254 is visibly printed page **254**. Therefore printed page **252** is absent from this only available PDF/edition. No external source, reconstructed prose, inferred closing or invented date was inserted.
-
-The printed contents lists letter 3681 at printed page 248 dated `15-12-2012` and letter 3682 at printed page 253 dated `16-12-2012`; those contents forms are preserved as structural source data. The chapter record for 3681 distinguishes the contents-derived date from the missing closing/date page.
+| New canonical pages visually compared | 90/90 |
+| Next boundary | letter 3698 starts PDF 345 / printed 345 |
 
 ## Scan-proven readings and preservation decisions
 
-- Letter 3678 preserves source forms including `மின் புழுதி நீக்க உபகரணங்கள் இல்லை`, `மாராட்டிய மாநில அரசு`, `திருப்பூர் மாநிலத்தில்`, `ஈரோடு மாநிலத்திலும்`, `நெசவாலைகள்`, `தெரிய வில்லை`, `செயற் குழு` and `வாழ் வாதாரத்திற்கு`.
-- Letter 3679 preserves the printed English headline and English quotation on PDF 240, including their source punctuation and line sequence; PDF 241 preserves `பிரமாண்டமான`.
-- Letter 3680's PDF 244 photograph is described factually. Its small printed caption is not reliably legible and is marked `[தெளிவில்லை]` rather than guessed. Source forms such as `கீவளூர் வட்டாரத்தில்`, `முதல,`, `ராஜகோபால இடத்திலும்`, `கல்யாணத்திடமும்` and `அவர்களை யெல்லாம்` remain unnormalised.
-- Letter 3681 preserves actual heading spacing `3681.இருள்...`, `ஏ.எல். சுப்பிரமணியனும்`, `காதர்பாட்சா (எ) வெள்ளைச் சாமியும்`, `சமயநல்லூர் செல்வராஜும்`, `சூராதி சூரன்`, `16 மணிநேரம்,18 மணிநேரம்` and `“சான்றிதழ்” (?)`.
-- Letter 3682 preserves source punctuation/repetition and the unusual PDF 254 reading `என்னரும் ஏழைத் தமிழர்களை`.
+- Letter 3690 preserves the printed quotation containing `“மைனாரிட்டி” தி.மு.க. அரசு ராஜினாமா செய்ய வேண்டும்`.
+- Letter 3693 preserves printed constitutional/statutory references including `அரசியல் சாசனச் சட்டப்பிரிவு 348`, `348 (1)` and `1963ஆம் ஆண்டு ஆட்சி மொழிச் சட்டப் பிரிவு 7`.
+- Letter 3694 preserves intentional English `(Street House)` on PDF 322.
+- Letter 3695 preserves the printed English sentence `(The State also took courageous decisions under my leadership to raise power tariffs after ten years)` on PDF 327 and the printed `(?)` marker on PDF 332.
+- Letter 3696 preserves its long quoted passage and the printed Thirukkural quotation forms on PDF 339 rather than silently normalising them.
+- Letter 3697 preserves the quoted Rizana Nafeek petition, names, ages, dates and times exactly as transcribed from the scan, ending with printed date `21-1-2013`.
 - Printed contents row 3663 versus actual PDF 128 heading and printed contents row 3674 versus actual PDF 203 heading remain separately preserved as previously audited.
 
-## பாதுகாக்கப்பட்ட source observations
+## Source gap — printed page 252
 
-- PDF page 5 is blank with faint reverse-side show-through.
-- PDF page 23 is blank with faint reverse-side contents show-through.
-- Library stamps and handwritten library markings appear on title/publication/dedication pages and remain factual descriptions only.
-- No source defect had been observed through PDF 230; the first confirmed source-page omission is printed page 252 within the later PDF 231–254 region.
+The earlier source defect remains unchanged: PDF 252 carries printed page 251 and letter 3681 ends there mid-sentence; the next source page is PDF 253 / printed page 253 and begins letter 3682. Printed page 252 is absent from the only available PDF/edition. No missing continuation, closing or date has been reconstructed.
 
 ## Audit-level limitation
 
-This is an **iteration/batch audit** and first visual comparison of the available scan pages, not the full-volume Tamil structural audit, not the later character-by-character second visual verification, and not the mandatory textual-fidelity audit that unlocks translation. English translation remains blocked.
+This remains an **iteration/batch audit** and first visual comparison of the available scan pages. It is not the full-volume Tamil structural audit, not the later character-by-character second visual verification, and not the mandatory textual-fidelity audit that unlocks translation. English translation remains blocked.

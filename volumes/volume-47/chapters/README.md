@@ -38,17 +38,36 @@
 | [3678](3678-irulin-aatchi-innum-eththanai-kaalamo.md) | இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ? | 9-12-2012 | 230–236 | 231–237 | complete (first-pass-reviewed) |
 | [3679](3679-paththirikaiyaalargalum-rasiththuch-sirikkattum.md) | பத்திரிகையாளர்களும் ரசித்துச் சிரிக்கட்டும்! | 11-12-2012 | 237–242 | 238–243 | complete (first-pass-reviewed) |
 | [3680](3680-vengidangaal-vaazhkkaraiyai-engnganam-marappen.md) | வெங்கிடங்கால், வாழ்க்கரையை எங்ஙனம் மறப்பேன்! | 12-12-2012 | 243–247 | 244–248 | complete (first-pass-reviewed) |
-| [3681](3681-irul-tholaindhida-vaa-viraindhu-vaa-vaa.md) | இருள் தொலைந்திட வா! விரைந்து வா! வா! | 15-12-2012 | 248–251 available; 252 missing | 249–252 | source-incomplete (first-pass-reviewed available pages) |
+| [3681](3681-irul-tholaindhida-vaa-viraindhu-vaa-vaa.md) | இருள் தொலைந்திட வா! விரைந்து வா! வா! | 15-12-2012 | 248–251 available; 252 missing | 249–252† | source-incomplete (first-pass-reviewed available pages) |
 | [3682](3682-anbe-vaa-andhakaara-irul-pokka-arimaave-vaa.md) | அன்பே வா! அந்தகார இருள் போக்க அரிமாவே வா! | 16-12-2012 | 253–254 | 253–254 | complete (first-pass-reviewed) |
+| [3683](3683-vellai-arikkai-veliyida-munvaruvaargalaa.md) | “வெள்ளை அறிக்கை” வெளியிட முன்வருவார்களா? | 17-12-2012 | 255–259 | 255–259 | complete (first-pass-reviewed) |
+| [3684](3684-petragariya-thirunaal-peraasiriyar-pirandha-naal.md) | பெற்றகரிய திருநாள் பேராசிரியர் பிறந்த நாள்! | 19-12-2012 | 260–264 | 260–264 | complete (first-pass-reviewed) |
+| [3685](3685-en-indha-irattai-alavukol.md) | ஏன்; இந்த இரட்டை அளவுகோல்? | 22-12-2012 | 265–270 | 265–270 | complete (first-pass-reviewed) |
+| [3686](3686-angum-ingum-en-indha-etraththaazhvu.md) | அங்கும் - இங்கும் ஏன் இந்த ஏற்றத்தாழ்வு? | 25-12-2012 | 271–276 | 271–276 | complete (first-pass-reviewed) |
+| [3687](3687-karnadagam-thadukkum-thanneerum-thamizhagam-vadikkum-kanneerum.md) | கர்நாடகம் தடுக்கும் தண்ணீரும்; தமிழகம் வடிக்கும் கண்ணீரும்! | 27-12-2012 | 277–282 | 277–282 | complete (first-pass-reviewed) |
+| [3688](3688-pallik-kalvith-thuraiyum-paazhaagum-parithaabam.md) | பள்ளிக் கல்வித் துறையும் பாழாகும் பரிதாபம்! | 28-12-2012 | 283–288 | 283–288 | complete (first-pass-reviewed) |
+| [3689](3689-avamaanam-yaaraal-enbathuthaan-kelvi.md) | அவமானம்; யாரால் என்பதுதான் கேள்வி! | 29-12-2012 | 289–295 | 289–295 | complete (first-pass-reviewed) |
+| [3690](3690-kabada-naadagamaadigalaik-kandugolveer.md) | கபட நாடகமாடிகளைக் கண்டுகொள்வீர்! | 31-12-2012 | 296–301 | 296–301 | complete (first-pass-reviewed) |
+| [3691](3691-valluvar-silai-kaaththida-vaaimaippor.md) | வள்ளுவர் சிலை காத்திட வாய்மைப்போர்! | 03-01-2013 | 302–306 | 302–306 | complete (first-pass-reviewed) |
+| [3692](3692-paaliyal-kodumaikku-thanimai-chiraiye-thakka-thandanai.md) | பாலியல் கொடுமைக்கு தனிமைச்சிறையே தக்க தண்டனை! | 06-01-2013 | 307–312 | 307–312 | complete (first-pass-reviewed) |
+| [3693](3693-maththiya-arasu-thalaiyida-vendum-udanadiyaaga.md) | மத்திய அரசு தலையிட வேண்டும்; உடனடியாக! | 10-01-2013 | 313–319 | 313–319 | complete (first-pass-reviewed) |
+| [3694](3694-kedumathi-kondu-nedu-ezhuthiya-katturai.md) | கெடுமதி கொண்டு “நெடு” எழுதிய கட்டுரை! | 11-01-2013 | 320–326 | 320–326 | complete (first-pass-reviewed) |
+| [3695](3695-thunichchalaana-seyalaa-thuvala-vaikkum-kaariyamaa.md) | துணிச்சலான செயலா? துவள வைக்கும் காரியமா? | 16-1-2013 | 327–332 | 327–332 | complete (first-pass-reviewed) |
+| [3696](3696-yaagaavaaraayinum-naa-kaakka.md) | “யாகாவாராயினும் நா காக்க!” | 17-1-2013 | 333–339 | 333–339 | complete (first-pass-reviewed) |
+| [3697](3697-indha-kodumaikku-eppodhu-vidiyal.md) | இந்த கொடுமைக்கு எப்போது விடியல்? | 21-1-2013 | 340–344 | 340–344 | complete (first-pass-reviewed) |
 
 ## Source gap
 
 கடிதம் 3681-இன் PDF 252 அச்சுப் பக்கம் 251-இல் நடுவில் முடிகிறது. மூல PDF-இல் அச்சுப் பக்கம் 252 இல்லை; அடுத்த PDF 253 / அச்சுப் பக்கம் 253-இல் கடிதம் 3682 தொடங்குகிறது. காணாமற்போன உரை, closing மற்றும் date ஊகிக்கப்படவில்லை. இது `partial` transcription அல்ல; source itself incomplete என்பதால் chapter status `source-incomplete`.
 
+## Batch-size exception
+
+Repository default five-letter iteration policy-க்கு மாறாக, பயனர் **15 letters in each batch** என வெளிப்படையாக ஒப்புதல் அளித்துள்ளார். அதன்படி இந்த iteration-இல் **3683–3697** என்ற 15 complete consecutive letters ஒரே atomic batch-ஆக பதிவு செய்யப்பட்டுள்ளன.
+
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3683–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3698–3705**. இவை Volume 47-இன் இறுதி 8 கடிதங்கள்; அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
 
 ## அடுத்த exact task
 
-PDF பக்கம் **255** / அச்சுப் பக்கம் **255** முதல் கடிதம் **3683 — “வெள்ளை அறிக்கை” வெளியிட முன்வருவார்களா?** தொடங்குகிறது. அடுத்த regular iteration அங்கே தொடங்க வேண்டும்; தற்போதைய iteration-இல் 3683-ன் எந்த உரையும் சேர்க்கப்படவில்லை.
+PDF பக்கம் **345** / அச்சுப் பக்கம் **345** முதல் கடிதம் **3698 — “எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்?”** தொடங்குவது visually verified செய்யப்பட்டுள்ளது. அடுத்த iteration அங்கே தொடங்க வேண்டும்; தற்போதைய 15-letter batch-இல் 3698-ன் எந்த body உரையும் சேர்க்கப்படவில்லை.

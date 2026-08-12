@@ -14,11 +14,11 @@ pdf_pages: 401
 source_file: "Vol47.pdf"
 source_sha256: "4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558"
 source_size_bytes: 199112671
-transcription_page_range: "1-254"
+transcription_page_range: "1-344"
 transcription_status: "in-progress"
-recorded_letter_range: "3647-3682"
-completed_letter_range: "3647-3680,3682"
-completed_letter_count: 35
+recorded_letter_range: "3647-3697"
+completed_letter_range: "3647-3680,3682-3697"
+completed_letter_count: 50
 source_incomplete_letters: [3681]
 source_incomplete_letter_count: 1
 source_missing_printed_pages: [252]
@@ -39,6 +39,8 @@ source_observations:
   - "Letters 3678-3680 occupy PDF pages 231-248 / printed pages 230-247 and are complete."
   - "Letter 3681 begins PDF page 249 / printed page 248. PDF 252 is printed page 251 and ends mid-sentence; printed page 252 is absent from the only source PDF. Missing text, closing and date were not guessed."
   - "Letter 3682 begins PDF page 253 / printed page 253 and ends PDF page 254 / printed page 254."
-  - "Letter 3683 begins PDF page 255 / printed page 255; PDF 255 was inspected only for boundary verification and is not transcribed in this iteration."
+  - "User explicitly approved a 15-letter batch size for subsequent Volume 47 transcription work; letters 3683-3697 were processed as one documented policy exception."
+  - "Letters 3683-3697 occupy PDF pages 255-344 / printed pages 255-344 and are complete."
+  - "Letter 3698 begins PDF page 345 / printed page 345; PDF 345 was inspected only for boundary verification and is not transcribed in this iteration."
   - "Printed contents names letter 3663 as 'நெஞ்சைத் துளைத்திடும் கொடுமை இது!', while the actual letter heading on PDF page 128 is 'நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!'; both source forms are preserved in their respective contexts."
   - "Printed contents names letter 3674 as 'விடை தான் என்னவோ; இந்த வினாவுக்கு!', while the actual letter heading on PDF page 203 is 'விடைதான் என்னவோ; இந்த வினாவுக்கு!'; both source forms are preserved in their respective contexts."
