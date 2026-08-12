@@ -5,7 +5,7 @@
 - [x] Full-volume Tamil structural audit complete
 - [x] Second visual verification / close character-level review complete for PDF 001–401
 - [x] Mandatory textual-fidelity audits complete for all available source
-- [ ] English translation — **in progress: 45/59 letter records draft-translated**
+- [ ] English translation — **in progress: 47/59 letter records draft-translated**
   - [x] **3647–3661** — initial 15-letter iteration
   - [x] **3662–3666** — five-letter iteration 1
   - [x] **3667–3671** — iteration 2
@@ -17,15 +17,17 @@
   - [x] **3689** — one-letter batch
   - [x] **3690** — one-letter batch
   - [x] **3691** — one-letter batch
-  - [ ] **3692** — next one-letter batch
+  - [x] **3692** — one-letter batch
+  - [x] **3693** — one-letter batch
+  - [ ] **3694** — next one-letter batch
 - [ ] Bilingual alignment and editorial release
 
 ## English translation status
 
-Letters **3647–3691** are represented as English translation drafts under `translations/en/letters/`.
+Letters **3647–3693** are represented as English translation drafts under `translations/en/letters/`.
 
 - total letter records: **59**
-- draft-translated: **45**
+- draft-translated: **47**
 - bilingual-aligned: **0**
 - editorially verified for English release: **0**
 - source-incomplete: **1** — letter 3681
@@ -46,4 +48,4 @@ The user has revised the English-translation cadence to **one letter per batch**
 
 ## Next exact task
 
-Complete letter **3692** as the next one-letter English batch, including full audited Tamil embedding and integrity checking. Bilingual alignment remains a later separate stage.
+Complete letter **3694** as the next one-letter English batch, including full audited Tamil embedding and integrity checking. Bilingual alignment remains a later separate stage.
