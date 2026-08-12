@@ -7,7 +7,8 @@
 - [x] Letters **3647–3661** draft-translated — initial 15-letter iteration completed under the user's earlier approved cadence
 - [x] Letters **3662–3666** draft-translated — first five-letter iteration under the user's revised cadence
 - [x] Letters **3667–3671** draft-translated — second five-letter iteration under the revised cadence
-- [ ] Letters **3672–3676** — next five-letter iteration
+- [x] Letters **3672–3676** draft-translated — third five-letter iteration under the revised cadence
+- [ ] Letters **3677–3681** — next five-letter iteration; letter 3681 is source-incomplete and must remain explicitly incomplete
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
@@ -31,7 +32,7 @@ All **5/5** letters are present under `letters/`:
 
 ### Five-letter iteration 2 — letters 3667–3671
 
-All **5/5** letters are now present under `letters/`:
+All **5/5** letters are present under `letters/`:
 
 - 3667 — *When Will the Power Cuts End?*
 - 3668 — *Let Us All Wish Success to the U.N. Mission!*
@@ -39,12 +40,22 @@ All **5/5** letters are now present under `letters/`:
 - 3670 — *The Spear Leaps Forth! Statistical Trickery—Shred by Shred!!*
 - 3671 — *Will an Attempt at Diversion Solve the Problem?*
 
+### Five-letter iteration 3 — letters 3672–3676
+
+All **5/5** letters are now present under `letters/`:
+
+- 3672 — *Youth Wing Seminar at Maraimalai Nagar!*
+- 3673 — *Attention, Sugarcane Farmers!*
+- 3674 — *What Is the Answer to This Question?*
+- 3675 — *The Diamond Jubilee and Honourable Traditions!*
+- 3676 — *I Believe Justice Will Be Done!*
+
 Each remains a translation draft. No letter in the completed draft batches is being represented as bilingual-aligned or release-verified yet.
 
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **25** — letters 3647–3671
+- Draft-translated: **30** — letters 3647–3676
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
@@ -59,4 +70,4 @@ The user's current instruction is **five consecutive letters per English-transla
 
 ## Next exact task
 
-Translate letters **3672–3676** as the next five-letter English iteration. Bilingual alignment remains a later separate gate.
+Translate letters **3677–3681** as the next five-letter English iteration. For letter **3681**, translate only the available audited Tamil and explicitly preserve the source gap. Bilingual alignment remains a later separate gate.
