@@ -4,12 +4,13 @@
 - [x] Full-volume Tamil structural audit complete
 - [x] Mandatory second visual / textual-fidelity gate complete for PDF 001–401
 - [x] Volume 49 translation structure, translator’s note and glossary discipline adopted as the reference workflow
-- [x] Letters **3647–3661** draft-translated — initial 15-letter iteration completed under the user's earlier approved cadence
-- [x] Letters **3662–3666** draft-translated — first five-letter iteration under the revised cadence
-- [x] Letters **3667–3671** draft-translated — second five-letter iteration
-- [x] Letters **3672–3676** draft-translated — third five-letter iteration
-- [x] Letters **3677–3681** draft-translated — fourth five-letter iteration; 3681 preserved as source-incomplete
-- [ ] Letters **3682–3686** — next five-letter iteration
+- [x] Letters **3647–3661** draft-translated — initial 15-letter iteration
+- [x] Letters **3662–3666** — five-letter iteration 1
+- [x] Letters **3667–3671** — iteration 2
+- [x] Letters **3672–3676** — iteration 3
+- [x] Letters **3677–3681** — iteration 4; 3681 preserved as source-incomplete
+- [x] Letters **3682–3686** — iteration 5
+- [ ] Letters **3687–3691** — next five-letter iteration
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
@@ -17,52 +18,34 @@
 
 ## Completed translation iterations
 
-### Initial iteration — letters 3647–3661
+The initial 15-letter iteration covers **3647–3661**. Five subsequent five-letter iterations cover **3662–3666**, **3667–3671**, **3672–3676**, **3677–3681**, and **3682–3686**.
 
-All **15/15** letters are present under `letters/` with the standard translator’s note, source PDF and printed-page metadata, clear thought-preserving non-literary English, the audited canonical Tamil, and draft translation status.
+Iteration 5 contains:
 
-### Five-letter iteration 1 — letters 3662–3666
+- 3682 — *Come, My Dear! Come, Lion, to Drive Away the Darkness!*
+- 3683 — *Will They Come Forward to Issue a ‘White Paper’?*
+- 3684 — *A Rare Festival Day—the Professor's Birthday!*
+- 3685 — *Why This Double Standard?*
+- 3686 — *Why This Disparity There and Here?*
 
-Complete.
-
-### Five-letter iteration 2 — letters 3667–3671
-
-Complete.
-
-### Five-letter iteration 3 — letters 3672–3676
-
-Complete.
-
-### Five-letter iteration 4 — letters 3677–3681
-
-All **5/5 letter records** are now represented under `letters/`:
-
-- 3677 — *Whatever the Circumstances, My Duty Is to Keep Working!*
-- 3678 — *Rule of Darkness—How Much Longer?*
-- 3679 — *Let the Journalists Enjoy It and Laugh Too!*
-- 3680 — *How Could I Forget Vengidangal and Vaazhkkarai!*
-- 3681 — *Come, Drive Away the Darkness! Come Quickly! Come!* — **source-incomplete**
-
-Letter 3681 translates only the available audited Tamil on PDF 249–252 / printed 248–251. Printed page 252 is missing from the sole source PDF; the missing continuation and closing have not been reconstructed. The date 15-12-2012 is identified as coming from the printed contents.
-
-No letter in the completed draft batches is being represented as bilingual-aligned or release-verified yet.
+All remain draft translations. No bilingual-alignment or English release-verification claim is made.
 
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **35** — letters 3647–3681, including the explicitly source-incomplete 3681 record
+- Draft-translated: **40** — letters 3647–3686, including source-incomplete 3681
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
 
 ## Source-incomplete exception — letter 3681
 
-The only available Volume 47 source omits printed page **252**. Letter 3681 ends on PDF 252 / printed 251 in mid-sentence after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`; PDF 253 / printed 253 begins letter 3682. The missing continuation and closing have not been reconstructed. The date comes from the printed contents record.
+Printed page **252** is absent from the sole source PDF. The translation contains only the available audited Tamil from PDF 249–252 / printed 248–251. The missing continuation and closing were not reconstructed; its date comes from the printed contents.
 
 ## Current batching rule
 
-The current working cadence is **five consecutive letters per English-translation iteration**. The earlier 15-letter batch remains completed as historical project state.
+The working cadence is **five consecutive letters per English-translation iteration**. The earlier 15-letter batch remains historical project state.
 
 ## Next exact task
 
-Translate letters **3682–3686** as the next five-letter English iteration. Bilingual alignment remains a later separate gate.
+Translate letters **3687–3691**. Bilingual alignment remains a later separate gate.
