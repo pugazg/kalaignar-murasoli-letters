@@ -25,38 +25,38 @@
 | Source-incomplete letters | 1 — 3681 |
 | Source missing printed pages | 1 — printed 252 |
 | Full-volume Tamil structural audit | complete for available source |
-| Second visual verification | in progress — source-checked through PDF 243 |
-| Textual-fidelity audits | in progress — PDF 001–243 passed |
+| Second visual verification | in progress — source-checked through PDF 326 |
+| Textual-fidelity audits | in progress — PDF 001–326 passed for available source |
 | English translation | not started |
 
 ## Second visual / textual-fidelity verification progress
 
-Four fidelity ranges are complete:
+Five fidelity ranges are complete:
 
 - [PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md): 25/25 pages; corrections on PDF **002, 003, 004, 016**.
 - [PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md): 25/25 pages; corrections on PDF **027, 044, 048, 049**.
 - [PDF 051–140](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md): user-requested **15 letters 3650–3664**; **90/90 new pages** visually compared; corrections on PDF **052, 054**.
 - [PDF 141–243](translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md): user-requested **15 letters 3665–3679**; **103/103 pages** visually compared; corrections on PDF **143, 150, 157, 169, 196, 215, 217, 221, 226**.
+- [PDF 244–326](translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md): user-requested **15 letter records 3680–3694**; **83/83 available pages** visually compared; corrections on PDF **255, 256, 257, 261, 262, 263, 266, 274**; 3681 remains source-incomplete.
 
-Cumulative second-pass coverage: **243/401 PDF pages**. Letters **3647–3679** have complete second-pass source coverage.
+Cumulative second-pass coverage: **326/401 PDF pages**. Complete letters **3647–3680** and **3682–3694** have complete second-pass source coverage. Every available source page of letter **3681** has also been checked.
 
-### Scan-proven corrections in the 3665–3679 batch
+### Scan-proven corrections in the 3680–3694 batch
 
-- PDF 143: `பாராமரியம்` → `பாரம்பரியம்`.
-- PDF 150: `இந்தியர்கள் தான்` → `இந்தியர்கள்தான்`.
-- PDF 157: removed a garbled duplicate paragraph absent from the source scan.
-- PDF 169: removed an accidental blank paragraph break inside a continuous source sentence.
-- PDF 196: `விவசாயி களின்` → `விவசாயிகளின்`.
-- PDF 215: restored source quotation boundary `‘அம்மா’வை`.
-- PDF 217: `நீதிப் பராரணைகளை` → `நீதிப் பேராணைகளை`.
-- PDF 221: removed an accidental blank paragraph break after `சென்னை மாவட்டக்`.
-- PDF 226: `திமு.க.` → `தி.மு.க.`.
+- PDF 255: `இரண்டாண்டுக்கு` → `இருண்ட ஆட்சிக்கு`.
+- PDF 256: `பொம்பலூர்` → `பெரம்பலூர்`.
+- PDF 257: `சிங்கின் டியைச்` → `சிங்கிள் டீயைக்`.
+- PDF 261: `ஒளிபுமிழும்` → `ஒளியுமிழும்`.
+- PDF 262: `வீருகொண்ட` → `வீறுகொண்ட`.
+- PDF 263: `என்றெடுத்த` → `ஈன்றெடுத்த`.
+- PDF 266: `கனீர்` → `கணீர்`.
+- PDF 274: `யாரே` → `யாரோ`.
 
-All closing/signature/date pages for the 15 letters were visually checked: **148, 154, 161, 168, 178, 185, 190, 195, 202, 208, 215, 222, 230, 237, 243**.
+Available closing/signature/date pages for the complete letters in this batch were visually checked: **248, 254, 259, 264, 270, 276, 282, 288, 295, 301, 306, 312, 319, 326**. Letter 3681 has no source closing/date page because printed page 252 is absent.
 
-Letter 3674 source discrepancy was explicitly rechecked: printed contents says `விடை தான் என்னவோ; இந்த வினாவுக்கு!`; PDF 203 actual heading says `விடைதான் என்னவோ; இந்த வினாவுக்கு!`. No normalization was made.
+Source-specific unusual forms confirmed by the scan and deliberately preserved include `3681.இருள்...`, `என்னரும் ஏழைத் தமிழர்களை`, `தெரிவாக்கியிருக்கிறார்`, and `41-2013க்குள்`. The indistinct small photo caption on PDF 244 remains unguessed.
 
-PDF **244** was inspected only as the next-letter boundary and confirms the start of **3680 — “வெங்கிடங்கால், வாழ்க்கரையை எங்ஙனம் மறப்பேன்!”**. No 3680 body belongs to this audit batch.
+PDF **327** was inspected only as the next-letter boundary and confirms the start of **3695 — “துணிச்சலான செயலா? துவள வைக்கும் காரியமா?”**.
 
 ## Source gap — printed page 252
 
@@ -64,4 +64,4 @@ The source defect remains unchanged and explicit. Letter 3681 has available PDF 
 
 ## Next gate
 
-Proceed with the next 15-letter fidelity batch, **3680–3694**, covering available source PDF **244–326**. Letter 3681 must remain source-incomplete because the only source lacks printed page 252. English translation remains unstarted while full Tamil fidelity verification is in progress.
+Proceed with the final remaining fidelity scope: **letters 3695–3705, PDF 327–400, plus back cover PDF 401**. English translation remains unstarted while full Tamil fidelity verification is in progress.
