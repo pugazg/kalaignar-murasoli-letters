@@ -21,24 +21,29 @@
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md`
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md`
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md`
-- [ ] English translation — **in progress: 15/59 draft-translated**
-  - [x] Letters **3647–3661** — first user-approved 15-letter iteration
-  - [ ] Letters **3662–3676** — next user-approved 15-letter iteration
+- [ ] English translation — **in progress: 20/59 draft-translated**
+  - [x] Letters **3647–3661** — initial 15-letter iteration completed under the user's earlier approved cadence
+  - [x] Letters **3662–3666** — first five-letter iteration under the revised cadence
+  - [ ] Letters **3667–3671** — next five-letter iteration
 - [ ] Bilingual alignment and editorial release
 
-## English translation — first 15-letter iteration
+## English translation status
 
-Letters **3647–3661** are now present as English translation drafts under `translations/en/letters/`. Each file contains the standard translator’s note, source page/date metadata, thought-preserving non-literary English, and the full audited canonical Tamil below the translation.
+Letters **3647–3666** are now present as English translation drafts under `translations/en/letters/`. Each file contains the standard translator’s note, source page/date metadata, thought-preserving non-literary English, and the full audited canonical Tamil below the translation.
 
 Current English counts:
 
 - total letter records: **59**
-- draft-translated: **15**
+- draft-translated: **20**
 - bilingual-aligned: **0**
 - editorially verified for English release: **0**
 - source-incomplete: **1** — letter 3681
 
-The first 15 files remain `draft-translated`; this stage does not claim bilingual alignment or release verification.
+The files remain `draft-translated`; this stage does not claim bilingual alignment or release verification.
+
+### Current batching rule
+
+The first English batch, **3647–3661**, was completed under the user's earlier explicit approval for a 15-letter iteration. The user has now revised the working cadence to **five consecutive letters per English-translation iteration**. The first revised-cadence batch, **3662–3666**, is complete. The next exact batch is **3667–3671**.
 
 ## Source gap — letter 3681
 
@@ -63,4 +68,4 @@ Across all completed fidelity reports, **33 canonical PDF pages** received scan-
 
 ## Next exact task
 
-Translate letters **3662–3676** as the second user-approved 15-letter English iteration. The Tamil fidelity gate remains complete; bilingual alignment remains a later separate stage. Letter **3681** must remain a documented source-incomplete exception when its turn arrives.
+Translate letters **3667–3671** as the next five-letter English iteration. The Tamil fidelity gate remains complete; bilingual alignment remains a later separate stage. Letter **3681** must remain a documented source-incomplete exception when its turn arrives.
