@@ -33,4 +33,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - PDF 340–344 scan-படி first-pass-reviewed; ரிசானா நபீக் தொடர்பான quoted petition, names, dates, ages, times மற்றும் closing `21-1-2013` source-படி பாதுகாக்கப்பட்டுள்ளன.
 
 **முந்தைய கடிதம்:** [3696 — “யாகாவாராயினும் நா காக்க!”](3696-yaagaavaaraayinum-naa-kaakka.md)  
-**அடுத்த கடிதம்:** 3698 — எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்? — PDF பக்கம் 345 / அச்சுப் பக்கம் 345-இல் தொடங்குகிறது; அடுத்த iteration-க்கு pending
+**அடுத்த கடிதம்:** [3698 — எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்?](3698-ettikkup-pottiyena-eththanai-kaalam-emaattruvaar.md)

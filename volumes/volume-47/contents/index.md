@@ -60,23 +60,22 @@ transcription_status: visually-transcribed
 | 3695 | துணிச்சலான செயலா? துவள வைக்கும் காரியமா? | 16-1-2013 | 327 | 327 | 332 | [அத்தியாயம்](../chapters/3695-thunichchalaana-seyalaa-thuvala-vaikkum-kaariyamaa.md) |
 | 3696 | “யாகாவாராயினும் நா காக்க!” | 17-1-2013 | 333 | 333 | 339 | [அத்தியாயம்](../chapters/3696-yaagaavaaraayinum-naa-kaakka.md) |
 | 3697 | இந்த கொடுமைக்கு எப்போது விடியல்? | 21-1-2013 | 340 | 340 | 344 | [அத்தியாயம்](../chapters/3697-indha-kodumaikku-eppodhu-vidiyal.md) |
-| 3698 | எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்? | 22-1-2013 | 345 | 345 | — | pending |
-| 3699 | ஈழத்தமிழர் வாழ்வில், நல்லொளி பரவிட..... | 26-1-2013 | 352 | — | — | pending |
-| 3700 | வெளியே வந்து விட்டது பூனைக்குட்டி! | 31-1-2013 | 359 | — | — | pending |
-| 3701 | எப்போது விஸ்வரூபம் எடுக்கப் போகிறதோ? | 1-2-2013 | 366 | — | — | pending |
-| 3702 | தனிப்பட்ட காழ்ப்பும், தலைமைச் செயலக மாற்றமும்! | 2-2-2013 | 372 | — | — | pending |
-| 3703 | மின் உற்பத்தி வளர்ச்சி - அன்றும், இன்றும்! | 11-02-2013 | 378 | — | — | pending |
-| 3704 | முறையான நடவடிக்கை எடுத்தது; நானா? அவரா? | 12-02-2013 | 384 | — | — | pending |
-| 3705 | பெண்ணாளும் மாநிலத்தில், மண்ணாகுதே மங்கையர் வாழ்வு! | 19-2-2013 | 394 | — | — | pending |
+| 3698 | எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்? | 22-1-2013 | 345 | 345 | 351 | [அத்தியாயம்](../chapters/3698-ettikkup-pottiyena-eththanai-kaalam-emaattruvaar.md) |
+| 3699 | ஈழத்தமிழர் வாழ்வில், நல்லொளி பரவிட..... | 26-1-2013 | 352 | 352 | 358 | [அத்தியாயம்](../chapters/3699-eezhaththamizhar-vaazhvil-nalloli-paravida.md) |
+| 3700 | வெளியே வந்து விட்டது பூனைக்குட்டி! | 31-1-2013 | 359 | 359 | 365 | [அத்தியாயம்](../chapters/3700-veliye-vandhu-vittadhu-poonaikkutti.md) |
+| 3701 | எப்போது விஸ்வரூபம் எடுக்கப் போகிறதோ? | 1-2-2013 | 366 | 366 | 371 | [அத்தியாயம்](../chapters/3701-eppodhu-viswaroopam-edukkap-pogiradho.md) |
+| 3702 | தனிப்பட்ட காழ்ப்பும், தலைமைச் செயலக மாற்றமும்! | 2-2-2013 | 372 | 372 | 377 | [அத்தியாயம்](../chapters/3702-thanippatta-kaazhppum-thalaimai-seyalaga-maatramum.md) |
+| 3703 | மின் உற்பத்தி வளர்ச்சி - அன்றும், இன்றும்! | 11-02-2013 | 378 | 378 | 383 | [அத்தியாயம்](../chapters/3703-min-urpaththi-valarchchi-andrum-indrum.md) |
+| 3704 | முறையான நடவடிக்கை எடுத்தது; நானா? அவரா? | 12-02-2013 | 384 | 384 | 393 | [அத்தியாயம்](../chapters/3704-muraiyaana-nadavadikkai-eduththadhu-naanaa-avaraa.md) |
+| 3705 | பெண்ணாளும் மாநிலத்தில், மண்ணாகுதே மங்கையர் வாழ்வு! | 19-2-2013 | 394 | 394 | 400 | [அத்தியாயம்](../chapters/3705-pennaalum-maanilaththil-mannaagudhe-mangaiyar-vaazhvu.md) |
 
 † Letter 3681 is **source-incomplete**: PDF 252 is printed page 251 and ends mid-sentence; printed page 252 is absent from the only source PDF. PDF 253 is printed page 253 and starts letter 3682. `252†` therefore means the last available PDF page for letter 3681, not a verified closing page.
 
-## தற்போதைய boundary குறிப்பு
+## முழுத் தொகுதி boundary குறிப்பு
 
-- அச்சு உள்ளடக்க அட்டவணை PDF பக்கங்கள் 18–22-இல் **3647–3705** வரை 59 பதிவுகளைக் கொண்டுள்ளது.
-- கடிதங்கள் 3647–3680 மற்றும் 3682 முன்பே complete எனப் பதிவு செய்யப்பட்டுள்ளன; 3681 source-incomplete ஆகத் தொடர்கிறது, ஏனெனில் printed page 252 மூல PDF-இல் இல்லை.
-- பயனர் வெளிப்படையாக ஒப்புதல் அளித்த 15-letter batch exception-ஆக கடிதங்கள் **3683–3697** PDF/printed **255–344** வரை scan comparison உடன் பதிவு செய்யப்பட்டன.
-- கடிதங்கள் 3683–3697 அனைத்திற்கும் verified start/end boundaries, closing மற்றும் printed date canonical page files மற்றும் chapter records-இல் பதிவு செய்யப்பட்டுள்ளன.
+- அச்சு உள்ளடக்க அட்டவணை PDF பக்கங்கள் 18–22-இல் **3647–3705** வரை **59** பதிவுகளைக் கொண்டுள்ளது.
+- அனைத்து 59 பதிவுகளுக்கும் PDF start/end boundaries scan-அடிப்படையில் பதிவு செய்யப்பட்டுள்ளன; கடிதங்கள் 3647–3680 மற்றும் 3682–3705 complete. கடிதம் 3681 மட்டும் source-incomplete.
+- மூல PDF-இல் PDF 252 / அச்சுப் பக்கம் 251-க்கு அடுத்து PDF 253 / அச்சுப் பக்கம் 253 வருகிறது. **அச்சுப் பக்கம் 252 இல்லை**; காணாமற்போன உரை, closing மற்றும் date ஊகிக்கப்படவில்லை.
 - Printed contents-இல் 3663 title `நெஞ்சைத் துளைத்திடும் கொடுமை இது!`; actual letter heading PDF 128-இல் `நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!`. இரு source forms-மும் தத்தம் context-இல் பாதுகாக்கப்பட்டுள்ளன.
 - Printed contents-இல் 3674 title `விடை தான் என்னவோ; இந்த வினாவுக்கு!`; actual letter heading PDF 203-இல் `விடைதான் என்னவோ; இந்த வினாவுக்கு!`. இரு source forms-மும் தத்தம் context-இல் பாதுகாக்கப்பட்டுள்ளன.
-- கடிதம் **3698** PDF பக்கம் **345** / அச்சுப் பக்கம் **345**-இல் தொடங்குவது visually verified செய்யப்பட்டது; அதன் body இந்த iteration-இல் சேர்க்கப்படவில்லை.
+- கடிதம் 3705 PDF/printed பக்கம் 400-இல் முடிகிறது; PDF 401 பின்அட்டை.

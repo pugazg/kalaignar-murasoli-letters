@@ -14,17 +14,18 @@
 - [x] Five-letter iteration 6: letters 3673–3677, PDF pages 196–230
 - [x] Five-letter record iteration 7: letters 3678–3682, available source PDF pages 231–254; 3678, 3679, 3680 and 3682 complete; 3681 source-incomplete because printed page 252 is absent from the only source PDF
 - [x] User-approved 15-letter iteration: letters 3683–3697, PDF/printed pages 255–344
+- [x] Final remaining-letter iteration: letters 3698–3705, PDF/printed pages 345–400
+- [x] Back cover: PDF 401
 - [x] Front matter and publisher material: PDF 1–17
 - [x] Printed contents: PDF 18–22
 - [x] Blank page: PDF 23
-- [x] Canonical Markdown page continuity: PDF 1–344
-- [x] Complete letters 3647–3680 and 3682–3697: 50 letters
+- [x] Canonical Markdown page continuity: PDF 1–401
+- [x] Complete letters 3647–3680 and 3682–3705: 58 letters
 - [x] Source-incomplete letter 3681: available PDF 249–252 / printed 248–251; printed page 252 missing
-- [x] Page continuity, chapter links, Unicode, zero-width and duplicate-body checks through canonical PDF 344
-- [x] Next letter start verified: letter 3698 at PDF page 345 / printed page 345
-- [ ] Remaining PDF pages 345–401
-- [ ] Remaining letters 3698–3705
-- [ ] Full-volume Tamil structural audit
+- [x] All 59 letter records 3647–3705 present
+- [x] Page continuity, chapter links, Unicode, zero-width and duplicate-body checks through canonical PDF 401
+- [x] Full-volume Tamil structural audit
+- [ ] Second visual verification / close character-level review
 - [ ] Mandatory textual-fidelity audits before any translation
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
@@ -35,8 +36,12 @@ The only available Volume 47 source jumps from **PDF 252 / printed page 251** to
 
 ## Batch-size policy exception
 
-The repository policy defaults to five complete letters per normal transcription iteration and allows a larger scope only with explicit user approval. The user has now explicitly instructed: **15 letters in each batch**. Accordingly, letters **3683–3697** were processed as one atomic 15-letter iteration covering PDF/printed pages **255–344**. This approval applies to the remaining Volume 47 transcription work; because only eight letters remain after 3697, the final Volume 47 transcription iteration will necessarily contain the remaining **3698–3705** rather than inventing additional scope.
+The repository policy defaults to five complete letters per normal transcription iteration and allows a larger scope only with explicit user approval. The user explicitly instructed **15 letters in each batch**. Letters **3683–3697** were therefore processed as one atomic 15-letter iteration. Only eight letters remained afterward, so the final transcription iteration necessarily consists of **3698–3705**.
+
+## Tamil transcription completion
+
+The only source PDF has **401 pages**. All 401 now have canonical Markdown files. Letter 3705 ends on PDF/printed page **400**; PDF **401** is the back cover. The full-volume structural audit is complete for the available source, with letter 3681 retained as a documented source-incomplete exception.
 
 ## Next exact task
 
-Begin **letter 3698 — “எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்?”** at **PDF page 345 / printed page 345** and complete the remaining letters **3698–3705** through the end of Volume 47, while preserving the existing source gap at 3681. English translation remains blocked until the full Tamil transcription and audit gates are complete.
+Begin the **second visual verification / close character-level review** from PDF page **1**. English translation remains blocked until the relevant Tamil pages also pass the mandatory textual-fidelity audit required by the translation workflow.

@@ -55,19 +55,23 @@
 | [3695](3695-thunichchalaana-seyalaa-thuvala-vaikkum-kaariyamaa.md) | துணிச்சலான செயலா? துவள வைக்கும் காரியமா? | 16-1-2013 | 327–332 | 327–332 | complete (first-pass-reviewed) |
 | [3696](3696-yaagaavaaraayinum-naa-kaakka.md) | “யாகாவாராயினும் நா காக்க!” | 17-1-2013 | 333–339 | 333–339 | complete (first-pass-reviewed) |
 | [3697](3697-indha-kodumaikku-eppodhu-vidiyal.md) | இந்த கொடுமைக்கு எப்போது விடியல்? | 21-1-2013 | 340–344 | 340–344 | complete (first-pass-reviewed) |
+| [3698](3698-ettikkup-pottiyena-eththanai-kaalam-emaattruvaar.md) | எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்? | 22-1-2013 | 345–351 | 345–351 | complete (first-pass-reviewed) |
+| [3699](3699-eezhaththamizhar-vaazhvil-nalloli-paravida.md) | ஈழத்தமிழர் வாழ்வில், நல்லொளி பரவிட..... | 26-1-2013 | 352–358 | 352–358 | complete (first-pass-reviewed) |
+| [3700](3700-veliye-vandhu-vittadhu-poonaikkutti.md) | வெளியே வந்து விட்டது பூனைக்குட்டி! | 31-1-2013 | 359–365 | 359–365 | complete (first-pass-reviewed) |
+| [3701](3701-eppodhu-viswaroopam-edukkap-pogiradho.md) | எப்போது விஸ்வரூபம் எடுக்கப் போகிறதோ? | 1-2-2013 | 366–371 | 366–371 | complete (first-pass-reviewed) |
+| [3702](3702-thanippatta-kaazhppum-thalaimai-seyalaga-maatramum.md) | தனிப்பட்ட காழ்ப்பும், தலைமைச் செயலக மாற்றமும்! | 2-2-2013 | 372–377 | 372–377 | complete (first-pass-reviewed) |
+| [3703](3703-min-urpaththi-valarchchi-andrum-indrum.md) | மின் உற்பத்தி வளர்ச்சி - அன்றும், இன்றும்! | 11-02-2013 | 378–383 | 378–383 | complete (first-pass-reviewed) |
+| [3704](3704-muraiyaana-nadavadikkai-eduththadhu-naanaa-avaraa.md) | முறையான நடவடிக்கை எடுத்தது; நானா? அவரா? | 12-02-2013 | 384–393 | 384–393 | complete (first-pass-reviewed) |
+| [3705](3705-pennaalum-maanilaththil-mannaagudhe-mangaiyar-vaazhvu.md) | பெண்ணாளும் மாநிலத்தில், மண்ணாகுதே மங்கையர் வாழ்வு! | 19-2-2013 | 394–400 | 394–400 | complete (first-pass-reviewed) |
 
 ## Source gap
 
-கடிதம் 3681-இன் PDF 252 அச்சுப் பக்கம் 251-இல் நடுவில் முடிகிறது. மூல PDF-இல் அச்சுப் பக்கம் 252 இல்லை; அடுத்த PDF 253 / அச்சுப் பக்கம் 253-இல் கடிதம் 3682 தொடங்குகிறது. காணாமற்போன உரை, closing மற்றும் date ஊகிக்கப்படவில்லை. இது `partial` transcription அல்ல; source itself incomplete என்பதால் chapter status `source-incomplete`.
+கடிதம் 3681-இன் PDF 252 அச்சுப் பக்கம் 251-இல் நடுவில் முடிகிறது. மூல PDF-இல் அச்சுப் பக்கம் 252 இல்லை; அடுத்த PDF 253 / அச்சுப் பக்கம் 253-இல் கடிதம் 3682 தொடங்குகிறது. காணாமற்போன உரை, closing மற்றும் date ஊகிக்கப்படவில்லை. இது ordinary `partial` transcription அல்ல; source itself incomplete என்பதால் chapter status `source-incomplete`.
 
-## Batch-size exception
+## தொகுதி transcription நிலை
 
-Repository default five-letter iteration policy-க்கு மாறாக, பயனர் **15 letters in each batch** என வெளிப்படையாக ஒப்புதல் அளித்துள்ளார். அதன்படி இந்த iteration-இல் **3683–3697** என்ற 15 complete consecutive letters ஒரே atomic batch-ஆக பதிவு செய்யப்பட்டுள்ளன.
-
-## Pending letter register
-
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3698–3705**. இவை Volume 47-இன் இறுதி 8 கடிதங்கள்; அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
-
-## அடுத்த exact task
-
-PDF பக்கம் **345** / அச்சுப் பக்கம் **345** முதல் கடிதம் **3698 — “எட்டிக்குப் போட்டியென எத்தனை காலம் ஏமாற்றுவார்?”** தொடங்குவது visually verified செய்யப்பட்டுள்ளது. அடுத்த iteration அங்கே தொடங்க வேண்டும்; தற்போதைய 15-letter batch-இல் 3698-ன் எந்த body உரையும் சேர்க்கப்படவில்லை.
+- கடிதங்கள் **3647–3705** அனைத்துக்கும் chapter records உள்ளன — மொத்தம் **59**.
+- **58 complete letters**: 3647–3680 மற்றும் 3682–3705.
+- **1 source-incomplete letter**: 3681; printed page 252 source-இல் இல்லை.
+- PDF பக்கங்கள் **1–401** அனைத்துக்கும் canonical page file உள்ளது; PDF 401 பின்அட்டை.
+- English translation இன்னும் தொடங்கப்படவில்லை; full-volume Tamil structural audit முடிந்தாலும் second visual/textual-fidelity gates தனியாக pending.

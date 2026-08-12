@@ -14,16 +14,16 @@ pdf_pages: 401
 source_file: "Vol47.pdf"
 source_sha256: "4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558"
 source_size_bytes: 199112671
-transcription_page_range: "1-344"
-transcription_status: "in-progress"
-recorded_letter_range: "3647-3697"
-completed_letter_range: "3647-3680,3682-3697"
-completed_letter_count: 50
+transcription_page_range: "1-401"
+transcription_status: "first-pass-complete"
+recorded_letter_range: "3647-3705"
+completed_letter_range: "3647-3680,3682-3705"
+completed_letter_count: 58
 source_incomplete_letters: [3681]
 source_incomplete_letter_count: 1
 source_missing_printed_pages: [252]
 partial_letter: null
-audit_status: "iteration-audit-complete"
+audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-12
 second_visual_verification: "pending"
 translation_status: "not-started"
@@ -35,12 +35,12 @@ source_observations:
   - "Library stamps and handwritten library markings appear in the front matter."
   - "No missing, duplicated, rotated, damaged or illegible page was observed in PDF pages 1-230."
   - "The source has no usable authoritative searchable text layer; transcription is controlled by rendered page images."
-  - "Letters 3673-3677 occupy PDF pages 196-230 / printed pages 195-229."
-  - "Letters 3678-3680 occupy PDF pages 231-248 / printed pages 230-247 and are complete."
   - "Letter 3681 begins PDF page 249 / printed page 248. PDF 252 is printed page 251 and ends mid-sentence; printed page 252 is absent from the only source PDF. Missing text, closing and date were not guessed."
   - "Letter 3682 begins PDF page 253 / printed page 253 and ends PDF page 254 / printed page 254."
   - "User explicitly approved a 15-letter batch size for subsequent Volume 47 transcription work; letters 3683-3697 were processed as one documented policy exception."
-  - "Letters 3683-3697 occupy PDF pages 255-344 / printed pages 255-344 and are complete."
-  - "Letter 3698 begins PDF page 345 / printed page 345; PDF 345 was inspected only for boundary verification and is not transcribed in this iteration."
+  - "Letters 3683-3697 occupy PDF/printed pages 255-344 and are complete."
+  - "The final remaining letters 3698-3705 occupy PDF/printed pages 345-400 and are complete; only eight letters remained, so the final batch contains eight letters."
+  - "PDF page 401 is the back cover with a colour portrait, 1924 - 2018, publisher/contact material, QR code and price."
+  - "Every source PDF page 1-401 has one canonical Markdown page file."
   - "Printed contents names letter 3663 as 'நெஞ்சைத் துளைத்திடும் கொடுமை இது!', while the actual letter heading on PDF page 128 is 'நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!'; both source forms are preserved in their respective contexts."
   - "Printed contents names letter 3674 as 'விடை தான் என்னவோ; இந்த வினாவுக்கு!', while the actual letter heading on PDF page 203 is 'விடைதான் என்னவோ; இந்த வினாவுக்கு!'; both source forms are preserved in their respective contexts."
