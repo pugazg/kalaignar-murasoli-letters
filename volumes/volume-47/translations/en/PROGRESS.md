@@ -10,33 +10,29 @@
 - [x] Letters **3672–3676** — iteration 3
 - [x] Letters **3677–3681** — iteration 4; 3681 preserved as source-incomplete
 - [x] Letters **3682–3686** — iteration 5
-- [ ] Letters **3687–3691** — next five-letter iteration
+- [x] Letter **3687** — completed under one-letter cadence
+- [x] Letter **3688** — completed under one-letter cadence
+- [x] Letter **3689** — completed under one-letter cadence
+- [x] Letter **3690** — completed under one-letter cadence
+- [ ] Letter **3691** — next one-letter batch
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
 - [ ] Translation manifest and final English release report
 
-## Completed translation iterations
-
-The initial 15-letter iteration covers **3647–3661**. Five subsequent five-letter iterations cover **3662–3666**, **3667–3671**, **3672–3676**, **3677–3681**, and **3682–3686**.
-
-Iteration 5 contains:
-
-- 3682 — *Come, My Dear! Come, Lion, to Drive Away the Darkness!*
-- 3683 — *Will They Come Forward to Issue a ‘White Paper’?*
-- 3684 — *A Rare Festival Day—the Professor's Birthday!*
-- 3685 — *Why This Double Standard?*
-- 3686 — *Why This Disparity There and Here?*
-
-All remain draft translations. No bilingual-alignment or English release-verification claim is made.
-
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **40** — letters 3647–3686, including source-incomplete 3681
+- Draft-translated: **44** — letters 3647–3690, including source-incomplete 3681
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
+
+## Latest completed batch — letter 3690
+
+Letter **3690 — *Recognise Those Staging a Deceptive Drama!* ** now contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 296–301.
+
+This remains a draft translation. Completion here does not claim bilingual alignment or English release verification.
 
 ## Source-incomplete exception — letter 3681
 
@@ -44,8 +40,8 @@ Printed page **252** is absent from the sole source PDF. The translation contain
 
 ## Current batching rule
 
-The working cadence is **five consecutive letters per English-translation iteration**. The earlier 15-letter batch remains historical project state.
+The working cadence is now **one consecutive letter per English-translation batch**. Earlier 15-letter and five-letter batches remain historical project state.
 
 ## Next exact task
 
-Translate letters **3687–3691**. Bilingual alignment remains a later separate gate.
+Complete letter **3691**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
