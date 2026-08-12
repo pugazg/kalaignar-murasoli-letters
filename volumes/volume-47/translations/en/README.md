@@ -1,35 +1,31 @@
 # Volume 47 — English translation
 
-Status: **translation in progress**.
+Status: **all English drafts complete; bilingual alignment pending**.
 
 The canonical Tamil transcription, structural audit and mandatory second visual/textual-fidelity verification are complete for all available Volume 47 source material.
 
 ## Translation progress
 
-The initial iteration contains **3647–3661**. Five five-letter iterations are complete through **3682–3686**. Letters **3687–3694** have subsequently been completed under the revised one-letter-per-batch cadence.
+All **59 letter records, 3647–3705**, now have English translation drafts under `letters/`.
 
 Each completed translation file contains source metadata, a thought-preserving English translation and the full audited canonical Tamil. Letter **3681** remains explicitly source-incomplete; its missing printed page 252, continuation and closing were not reconstructed.
 
 ### Counts
 
 - Total letter records: **59**
-- Draft-translated: **48 / 59** — letters 3647–3694
+- Draft-translated: **59 / 59**
 - Bilingual-aligned: **0 / 59**
 - Editorially verified for English release: **0 / 59**
 - Source-incomplete: **1** — letter 3681
 
-## Latest completed one-letter batch — 3694
+## Final drafting run — 3695–3705
 
-[3694 — An Article Written by ‘Nedu’ with a Malicious Mind!](letters/3694-an-article-written-by-nedu-with-a-malicious-mind.md)
+The remaining eleven letters, **3695 through 3705**, have been completed as draft translations with their full audited Tamil embedded beneath the English.
 
-The file contains the complete audited Tamil from PDF 320–326 beneath the English translation. It remains a translation draft, not a bilingual-alignment or release-verification claim.
-
-## Current batching rule
-
-The current instruction is **one letter per English-translation batch**. Earlier multi-letter batches remain part of the historical project record.
+Drafting completion is not a bilingual-alignment or release-verification claim.
 
 ## Next exact task
 
-Complete letter **3695** as the next one-letter batch, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate stage.
+Begin the separate bilingual alignment/source-check stage. Compare every English letter against the authoritative Tamil, correct omissions, additions, number/name drift, quotation drift or rhetorical loss, and record the review before any letter is marked verified.
 
 See also [English progress](PROGRESS.md), [Glossary](GLOSSARY.md), and the [Volume 47 translation plan](../TRANSLATION_PLAN.md).
