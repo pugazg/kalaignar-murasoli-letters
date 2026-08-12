@@ -14,7 +14,8 @@
 - [x] Letter **3688** — completed under one-letter cadence
 - [x] Letter **3689** — completed under one-letter cadence
 - [x] Letter **3690** — completed under one-letter cadence
-- [ ] Letter **3691** — next one-letter batch
+- [x] Letter **3691** — completed under one-letter cadence
+- [ ] Letter **3692** — next one-letter batch
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
@@ -23,14 +24,14 @@
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **44** — letters 3647–3690, including source-incomplete 3681
+- Draft-translated: **45** — letters 3647–3691, including source-incomplete 3681
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
 
-## Latest completed batch — letter 3690
+## Latest completed batch — letter 3691
 
-Letter **3690 — *Recognise Those Staging a Deceptive Drama!* ** now contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 296–301.
+Letter **3691 — *A Truthful Struggle to Protect the Valluvar Statue!* ** now contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 302–306.
 
 This remains a draft translation. Completion here does not claim bilingual alignment or English release verification.
 
@@ -44,4 +45,4 @@ The working cadence is now **one consecutive letter per English-translation batc
 
 ## Next exact task
 
-Complete letter **3691**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
+Complete letter **3692**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
