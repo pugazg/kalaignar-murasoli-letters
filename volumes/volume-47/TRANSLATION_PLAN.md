@@ -1,6 +1,6 @@
 # Volume 47 English Translation Plan
 
-The Tamil transcription, full-volume structural audit, and mandatory scan-to-canonical textual-fidelity gate are **complete for all available Volume 47 source material**. English translation is therefore unblocked and is now in progress.
+The Tamil transcription, full-volume structural audit, and mandatory scan-to-canonical textual-fidelity gate are **complete for all available Volume 47 source material**. English translation is therefore unblocked and remains in progress.
 
 ## Cleared source gates
 
@@ -11,7 +11,7 @@ Before translation began, Volume 47 satisfied all required gates:
 3. the full-volume Tamil structural audit passed; and
 4. all six mandatory textual-fidelity audit ranges were completed against the source scan, covering PDF 001–401.
 
-The sole source exception remains letter **3681**: printed page **252** is absent from the only source PDF. The missing continuation, closing and printed date must never be reconstructed or guessed. When that letter reaches the translation stage, only the available audited Tamil may be translated and the source incompleteness must remain explicit.
+The sole source exception is letter **3681**: printed page **252** is absent from the only source PDF. Its available audited Tamil has now been translated, but the missing continuation and closing remain explicitly unreconstructed. The date 15-12-2012 is preserved only from the printed contents record.
 
 ## Translation method
 
@@ -24,27 +24,30 @@ Each Volume 47 English letter file must:
 - retain the standard translator’s note and `Udanpirappē` treatment;
 - retain names, dates, figures, source quotations and intentional English expressions without adding unsupported claims;
 - include source pagination and date metadata;
-- reproduce the full audited canonical Tamil below the English translation, with Tamil remaining authoritative; and
-- remain `draft-translated` until bilingual alignment and editorial verification are separately completed.
+- reproduce the audited canonical Tamil below the English translation, with Tamil remaining authoritative; and
+- remain a draft until bilingual alignment and editorial verification are separately completed.
+
+For source-incomplete records such as 3681, only available audited source material may be translated. Missing source text must never be inferred.
 
 ## Batching
 
-The first English iteration was completed under the user's earlier explicit approval for **15 consecutive letters**. The user has since changed the working cadence to **five consecutive letter records per English-translation iteration**. That five-letter cadence controls all subsequent draft iterations unless the user explicitly changes it again.
+The first English iteration was completed under the user's earlier explicit approval for **15 consecutive letters**. The current working cadence is **five consecutive letter records per English-translation iteration**.
 
-- **Initial iteration:** letters **3647–3661** — 15/15 draft-translated under the earlier approved cadence.
-- **Five-letter iteration 1:** letters **3662–3666** — 5/5 draft-translated.
-- **Five-letter iteration 2:** letters **3667–3671** — 5/5 draft-translated.
-- **Five-letter iteration 3:** letters **3672–3676** — 5/5 draft-translated.
-- **Next five-letter iteration:** letters **3677–3681** — letter 3681 must remain source-incomplete and must not be reconstructed.
+- **Initial iteration:** letters **3647–3661** — 15/15 draft-translated.
+- **Five-letter iteration 1:** letters **3662–3666** — 5/5.
+- **Five-letter iteration 2:** letters **3667–3671** — 5/5.
+- **Five-letter iteration 3:** letters **3672–3676** — 5/5.
+- **Five-letter iteration 4:** letters **3677–3681** — 5/5 records represented; 3681 remains source-incomplete.
+- **Next five-letter iteration:** letters **3682–3686**.
 
 Bilingual alignment does not silently occur during drafting. It remains a separate later gate.
 
 ## Current status
 
 - Total letter records: **59**
-- Draft-translated: **30** — letters 3647–3676
+- Draft-translated: **35** — letters 3647–3681, with 3681 explicitly source-incomplete
 - Bilingual-aligned: **0**
 - English release verified: **0**
 - Source-incomplete: **1** — letter 3681
 
-The next exact task is to translate letters **3677–3681** as the next five-letter English iteration. For letter **3681**, translate only the available audited Tamil, explicitly document the missing printed page 252, and do not infer the continuation, closing or date.
+The next exact task is to translate letters **3682–3686** as the next five-letter English iteration.
