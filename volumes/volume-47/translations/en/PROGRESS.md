@@ -15,7 +15,8 @@
 - [x] Letter **3689** — completed under one-letter cadence
 - [x] Letter **3690** — completed under one-letter cadence
 - [x] Letter **3691** — completed under one-letter cadence
-- [ ] Letter **3692** — next one-letter batch
+- [x] Letter **3692** — completed under one-letter cadence
+- [ ] Letter **3693** — next one-letter batch
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
@@ -24,14 +25,14 @@
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **45** — letters 3647–3691, including source-incomplete 3681
+- Draft-translated: **46** — letters 3647–3692, including source-incomplete 3681
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
 
-## Latest completed batch — letter 3691
+## Latest completed batch — letter 3692
 
-Letter **3691 — *A Truthful Struggle to Protect the Valluvar Statue!* ** now contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 302–306.
+Letter **3692 — *Solitary Confinement Is the Fitting Punishment for Sexual Violence!* ** contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 307–312.
 
 This remains a draft translation. Completion here does not claim bilingual alignment or English release verification.
 
@@ -41,8 +42,8 @@ Printed page **252** is absent from the sole source PDF. The translation contain
 
 ## Current batching rule
 
-The working cadence is now **one consecutive letter per English-translation batch**. Earlier 15-letter and five-letter batches remain historical project state.
+The working cadence is **one consecutive letter per English-translation batch**. Earlier 15-letter and five-letter batches remain historical project state.
 
 ## Next exact task
 
-Complete letter **3692**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
+Complete letter **3693**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
