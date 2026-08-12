@@ -8,49 +8,52 @@
 
 ## Tamil transcription நிலை
 
-- மூல PDF intake, SHA-256, byte size மற்றும் 401-page count பதிவு செய்யப்பட்டுள்ளன.
-- PDF scan-இன் அட்டை மற்றும் title page மூலம் இது **தொகுதி 47** என உறுதிசெய்யப்பட்டது.
-- PDF பக்கங்கள் **1–401** அனைத்தும் தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
-- PDF பக்கங்கள் **18–22** அடிப்படையில் முழு அச்சு உள்ளடக்க அட்டவணை **3647–3705** தனியாகப் பாதுகாக்கப்பட்டுள்ளது.
-- கடிதங்கள் **3647–3680** மற்றும் **3682–3705** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன — மொத்தம் **58 complete letters**.
-- கடிதம் **3681** PDF **249–252** / printed **248–251 available** வரை scan comparison உடன் பதிவு செய்யப்பட்டுள்ளது; மூல PDF-இல் printed page **252** இல்லை என்பதால் chapter `source-incomplete`. காணாமற்போன உரை, closing அல்லது date ஊகிக்கப்படவில்லை.
-- பயனர் ஒப்புதலுடன் letters **3683–3697** ஒரு 15-letter iteration-ஆக PDF/printed **255–344** வரை பதிவு செய்யப்பட்டன.
-- இறுதி மீதமுள்ள letters **3698–3705** PDF/printed **345–400** வரை பதிவு செய்யப்பட்டன; PDF **401** பின்அட்டையாக தனியாகப் பதிவு செய்யப்பட்டது.
+- PDF பக்கங்கள் **1–401** அனைத்தும் canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டுள்ளன.
+- கடிதங்கள் **3647–3680** மற்றும் **3682–3705** முழுமையாகப் பதிவு செய்யப்பட்டுள்ளன — **58 complete letters**.
+- கடிதம் **3681** source-incomplete: PDF **249–252** / printed **248–251** available; printed page **252** only source PDF-இல் இல்லை. காணாமற்போன உரை, closing அல்லது date ஊகிக்கப்படவில்லை.
 - Full-volume Tamil structural audit complete.
-- இரண்டாம் சுற்று textual-fidelity / close visual verification **PDF 001–050** வரை முடிக்கப்பட்டது; 50/50 pages scan-உடன் ஒப்பிடப்பட்டு மொத்தம் **8 canonical pages**-இல் scan-proven corrections செய்யப்பட்டன: **002, 003, 004, 016, 027, 044, 048, 049**.
+- இரண்டாம் சுற்று textual-fidelity / close visual verification **PDF 001–140** வரை முடிக்கப்பட்டது.
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
-- Letters **3647, 3648, 3649** complete second-pass source coverage பெற்றுள்ளன; letter **3650** PDF 050 வரை source-checked, ஆனால் அடுத்த பக்கங்களில் தொடர்கிறது.
+- [Textual-fidelity audit — PDF 051–140 / letters 3650–3664](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md)
+- Cumulative scan-proven corrected canonical pages: **002, 003, 004, 016, 027, 044, 048, 049, 052, 054**.
+- Letters **3650–3664** now have complete second-pass source coverage.
 - English translation தொடங்கப்படவில்லை; project-level Tamil fidelity gate முழுமையாக முடியும் வரை translation stage blocked ஆகவே இருக்கும்.
 
 ## தற்போதைய நிலை
 
 | பகுதி | PDF பக்கங்கள் | நிலை |
 |---|---:|---|
-| முன் அட்டை / நூல் விவரம் | 1–5 | second-pass source-checked |
-| அணிந்துரை | 6–14 | second-pass source-checked |
-| பதிப்புரை | 15–17 | second-pass source-checked |
-| உள்ளடக்கம் | 18–22 | second-pass source-checked |
-| வெற்றுப் பக்கம் | 23 | second-pass source-checked |
-| கடிதம் 3647 | 24–30 | second-pass source-checked |
-| கடிதம் 3648 | 31–39 | second-pass source-checked |
-| கடிதம் 3649 | 40–46 | second-pass source-checked |
-| கடிதம் 3650 — audited portion | 47–50 | second-pass source-checked; continues beyond PDF 50 |
-| மீதமுள்ள கடிதங்கள் / பக்கங்கள் | 51–400 | second visual verification pending |
+| முன் அட்டை / நூல் விவரம் / contents | 1–23 | second-pass source-checked |
+| கடிதங்கள் 3647–3649 | 24–46 | second-pass source-checked |
+| கடிதங்கள் 3650–3664 | 47–140 | second-pass source-checked |
+| மீதமுள்ள கடிதங்கள் | 141–400 | second visual verification pending |
 | பின்அட்டை | 401 | second visual verification pending |
 | Full-volume Tamil structural audit | 1–401 | complete |
-| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–50 | in progress; source-checked through 50 |
-| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 51–401 | pending |
+| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–140 | in progress; source-checked through 140 |
+| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 141–401 | pending |
+
+## தற்போதைய batch — letters 3650–3664
+
+பயனர் கேட்ட **next 15 letters** scope-இன்படி letters **3650–3664** audit செய்யப்பட்டன. PDF **047–050** ஏற்கனவே முந்தைய fidelity batch-இல் 3650-க்காக source-checked ஆக இருந்ததால், இந்த iteration-இல் புதிதாக **PDF 051–140 — 90 pages** நேரடியாக scan-உடன் ஒப்பிடப்பட்டன.
+
+Scan-proven corrections:
+
+- PDF 052: `கேட்டபதைப்போல` → `கேட்பதைப்போல`.
+- PDF 054: `வெளியேந்தோரின்` → `வெளிவந்தோரின்`.
+- PDF 054: `வெளியேகொண்டுவரப்பட்டுள்ள` → `வெளிக்கொணரப்பட்டுள்ள`.
+
+PDF 141 boundary-only inspection மூலம் **3665 — “நீர் இடித்து நீர் விலகுவதா?”** அங்கே தொடங்குவது உறுதி செய்யப்பட்டது.
 
 ## பாதுகாக்கப்பட்ட source discrepancies
 
 - Printed contents-இல் 3663 title `நெஞ்சைத் துளைத்திடும் கொடுமை இது!`; actual PDF 128 heading `நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!`. இரு source forms-மும் தத்தம் context-இல் பாதுகாக்கப்பட்டுள்ளன.
-- Printed contents-இல் 3674 title `விடை தான் என்னவோ; இந்த வினாவுக்கு!`; actual PDF 203 heading `விடைதான் என்னவோ; இந்த வினாவுக்கு!`. இரு source forms-மும் தத்தம் context-இல் பாதுகாக்கப்பட்டுள்ளன.
-- Printed page **252** source PDF-இல் இல்லை; இது letter 3681-ஐ source-incomplete ஆக்குகிறது.
+- Printed contents-இல் 3674 title `விடை தான் என்னவோ; இந்த வினாவுக்கு!`; actual PDF 203 heading `விடைதான் என்னவோ; இந்த வினாவுக்கு!`.
+- Printed page **252** source PDF-இல் இல்லை; letter 3681 source-incomplete.
 
 ## அடுத்த fidelity task
 
-PDF **051–075**-ஐ scan-உடன் close visual comparison செய்ய வேண்டும்; scan-proven defects மட்டும் canonical text-இல் திருத்தப்பட வேண்டும்.
+அடுத்த **15 letters — 3665–3679**, PDF **141–243**. PDF **244** letter 3680-ன் boundary page.
 
 ## முக்கிய இணைப்புகள்
 
@@ -59,6 +62,7 @@ PDF **051–075**-ஐ scan-உடன் close visual comparison செய்ய 
 - [Full-volume Tamil structural audit](AUDIT.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [Textual-fidelity audit — PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
+- [Textual-fidelity audit — PDF 051–140](translations/en/TEXTUAL_FIDELITY_AUDIT_051_140.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)
 - [Translation gate](TRANSLATION_PLAN.md)
