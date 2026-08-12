@@ -21,8 +21,24 @@
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md`
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md`
   - [x] `translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md`
-- [ ] English translation
+- [ ] English translation — **in progress: 15/59 draft-translated**
+  - [x] Letters **3647–3661** — first user-approved 15-letter iteration
+  - [ ] Letters **3662–3676** — next user-approved 15-letter iteration
 - [ ] Bilingual alignment and editorial release
+
+## English translation — first 15-letter iteration
+
+Letters **3647–3661** are now present as English translation drafts under `translations/en/letters/`. Each file contains the standard translator’s note, source page/date metadata, thought-preserving non-literary English, and the full audited canonical Tamil below the translation.
+
+Current English counts:
+
+- total letter records: **59**
+- draft-translated: **15**
+- bilingual-aligned: **0**
+- editorially verified for English release: **0**
+- source-incomplete: **1** — letter 3681
+
+The first 15 files remain `draft-translated`; this stage does not claim bilingual alignment or release verification.
 
 ## Source gap — letter 3681
 
@@ -30,7 +46,7 @@ The only available Volume 47 source jumps from **PDF 252 / printed page 251** to
 
 ## Final second visual / textual-fidelity result
 
-Cumulative second-pass source coverage is now **PDF 001–401 — 401/401 PDF pages**.
+Cumulative second-pass source coverage is **PDF 001–401 — 401/401 PDF pages**.
 
 The final scope, letters **3695–3705** plus PDF **401** back cover, covered **75/75 pages**. Scan-proven corrections were made on canonical PDF pages **330, 333, 337, 350, 369 and 390**:
 
@@ -47,4 +63,4 @@ Across all completed fidelity reports, **33 canonical PDF pages** received scan-
 
 ## Next exact task
 
-The Tamil fidelity gate is now **complete for all available Volume 47 source material**. English translation remains **not started**. The next project stage is to begin the English translation according to `TRANSLATION_PLAN.md`, while preserving letter 3681 as a documented source-incomplete exception.
+Translate letters **3662–3676** as the second user-approved 15-letter English iteration. The Tamil fidelity gate remains complete; bilingual alignment remains a later separate stage. Letter **3681** must remain a documented source-incomplete exception when its turn arrives.
