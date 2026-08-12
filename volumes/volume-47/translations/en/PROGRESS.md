@@ -16,7 +16,8 @@
 - [x] Letter **3690** — completed under one-letter cadence
 - [x] Letter **3691** — completed under one-letter cadence
 - [x] Letter **3692** — completed under one-letter cadence
-- [ ] Letter **3693** — next one-letter batch
+- [x] Letter **3693** — completed under one-letter cadence
+- [ ] Letter **3694** — next one-letter batch
 - [ ] Remaining English translation drafts
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency pass
@@ -25,14 +26,14 @@
 ## Counts
 
 - Total letter records: **59**
-- Draft-translated: **46** — letters 3647–3692, including source-incomplete 3681
+- Draft-translated: **47** — letters 3647–3693, including source-incomplete 3681
 - Bilingual-aligned: **0**
 - Editorially verified for English release: **0**
 - Source-incomplete: **1** — letter 3681
 
-## Latest completed batch — letter 3692
+## Latest completed batch — letter 3693
 
-Letter **3692 — *Solitary Confinement Is the Fitting Punishment for Sexual Violence!* ** contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 307–312.
+Letter **3693 — *The Union Government Must Intervene—Immediately!* ** contains its thought-preserving English translation together with the full audited canonical Tamil from PDF 313–319.
 
 This remains a draft translation. Completion here does not claim bilingual alignment or English release verification.
 
@@ -46,4 +47,4 @@ The working cadence is **one consecutive letter per English-translation batch**.
 
 ## Next exact task
 
-Complete letter **3693**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
+Complete letter **3694**, including the full audited Tamil and integrity check. Bilingual alignment remains a later separate gate.
