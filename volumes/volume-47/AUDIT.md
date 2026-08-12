@@ -8,12 +8,12 @@
 
 ## Final batch scope
 
-பயனர் முன்பு **15 letters in each batch** என larger-batch scope-ஐ வெளிப்படையாக ஒப்புதல் அளித்தார். 3697 முடிந்தபின் தொகுதியில் எட்டு கடிதங்களே மீதமிருந்ததால், இறுதி iteration **3698–3705** என்ற எட்டு கடிதங்களையும் PDF/printed **345–400** வரை ஒரே atomic batch-ஆக முடிக்கிறது. PDF **401** ஒரு letter page அல்ல; source-இன் பின்அட்டை என்பதால் one-page/one-Markdown விதிப்படி அதுவும் இந்த final source-completion commit-இல் சேர்க்கப்படுகிறது.
+பயனர் முன்பு **15 letters in each batch** என larger-batch scope-ஐ வெளிப்படையாக ஒப்புதல் அளித்தார். 3697 முடிந்தபின் தொகுதியில் எட்டு கடிதங்களே மீதமிருந்ததால், இறுதி iteration **3698–3705** என்ற எட்டு கடிதங்களையும் PDF/printed **345–400** வரை ஒரே atomic batch-ஆக முடிக்கிறது. PDF **401** ஒரு letter page அல்ல; source-இன் பின்அட்டை என்பதால் one-page/one-Markdown விதிப்படி அதுவும் final source-completion commit-இல் சேர்க்கப்பட்டது.
 
 ## Full-volume structural checks
 
-1. மூலக் கோப்பு SHA-256 `4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558`, byte size `199112671`, page count **401** என மீண்டும் உறுதி செய்யப்பட்டது.
-2. Canonical filename range `page-001.md`–`page-401.md` முழுமையாக இருக்க வேண்டும் என்ற invariant prior iteration audits + final pages மூலம் உறுதி செய்யப்பட்டது; புதிய range **345–401**-இல் 57 files உள்ளன.
+1. மூலக் கோப்பு SHA-256 `4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558`, byte size `199112671`, page count **401** என உறுதி செய்யப்பட்டது.
+2. Canonical filename range `page-001.md`–`page-401.md` முழுமையாக உள்ளது.
 3. PDF 18–22 printed contents-இல் உள்ள **59** letter records **3647–3705** அனைத்தும் contents register-இல் உள்ளன.
 4. Chapter records மொத்தம் **59**: **58 complete** (3647–3680, 3682–3705) + **1 source-incomplete** (3681).
 5. Source-incomplete 3681: PDF 249–252 / printed 248–251 available; printed page **252** source PDF-இல் இல்லை. காணாமற்போன continuation, closing, date ஊகிக்கப்படவில்லை.
@@ -27,7 +27,7 @@
 13. Final page/structural files Unicode format / zero-width residue check — இல்லை.
 14. New chapter page links 345–400, previous/next navigation, contents links மற்றும் chapter-index links synthetic repository path set-க்கு எதிராகச் சரிபார்க்கப்பட்டன.
 15. Contents title versus actual heading discrepancies 3663 மற்றும் 3674 தத்தம் source context-இல் மாற்றமின்றிப் பாதுகாக்கப்பட்டுள்ளன.
-16. Volume 48 மற்றும் Volume 49 release-state files இந்த final Volume 47 commit-இல் மாற்றப்படக்கூடாது.
+16. Volume 48 மற்றும் Volume 49 release-state files Volume 47 transcription completion-இல் மாற்றப்படவில்லை.
 17. English translation files உருவாக்கப்படவில்லை; translation status `not-started` ஆகவே உள்ளது.
 
 ## முடிவு
@@ -43,15 +43,9 @@
 | Source-incomplete letters | 1 — 3681 |
 | Ordinary partial letters | 0 |
 | Source missing printed pages | 1 — printed page 252 |
-| Final new canonical pages | 57 — PDF 345–401 |
-| Final new letter records | 8 — 3698–3705 |
-| Final new complete letters | 8 |
-| Duplicate final-range body | none detected |
-| Replacement Unicode | none detected |
-| Zero-width / format residue | none detected |
-| Final pages visually compared | 57/57 |
 | Full-volume Tamil structural audit | complete for available source |
-| Second visual verification | pending |
+| Second visual verification | in progress — source-checked through PDF 025 |
+| Textual-fidelity audits | in progress — PDF 001–025 passed |
 | English translation | not started |
 
 ## Final batch scan-proven preservation notes
@@ -66,10 +60,21 @@
 - Letter 3705 preserves the printed violence-case list, death-penalty/legal references, names, dates and quotations; no external source was used to supplement the text.
 - Final visual comparison also corrected draft readings against the scan, including PDF 374 `திரிபுரா ஆளுநர்`, PDF 396 `மாதர் சங்கம்`, PDF 397 `பண்பாட்டுக்கும்`, PDF 399 `தூக்கிலேறிட`, and PDF 401 `அட்டை : ஜெ.ஜெ டிசைன்ஸ்`; these scan-proven forms control the canonical files.
 
+## Second visual / textual-fidelity verification progress
+
+The first second-pass fidelity range, **PDF 001–025**, has now been compared page-by-page against rendered images from the source PDF. The detailed record is [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md).
+
+- 25/25 pages visually compared.
+- Scan-proven canonical corrections: PDF **002, 003, 004, 016**.
+- PDF 003's omitted English bibliographic column was restored from the scan.
+- PDF 018–022 contents rows were rechecked against the printed table.
+- PDF 024–025, the beginning of letter 3647, passed without canonical correction.
+- Letter 3647 is not translation-ready because its remaining PDF pages **026–030** have not yet passed this second-pass fidelity audit.
+
 ## Source gap — printed page 252
 
 The source defect remains unchanged and explicit: PDF 252 is printed page 251 and ends letter 3681 mid-sentence after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`. The next PDF page is printed page 253 and begins letter 3682. Printed page 252 is not present in this only PDF/edition. No reconstruction is present in canonical Tamil.
 
 ## Audit-level limitation / next gate
 
-இந்த report **full-volume Tamil structural audit** ஆகும். இது later **second visual verification** அல்லது translationக்கு முன் செய்ய வேண்டிய **textual-fidelity audit** அல்ல. அந்த இரு verification நிலைகளும் தனியாக pending. English translation தொடங்கப்படவில்லை.
+The full-volume Tamil structural audit is complete. The separate **second visual verification / textual-fidelity audit** is currently verified only through PDF **025**. The next range is **PDF 026–050**. English translation remains unstarted until the relevant complete letters pass the mandatory fidelity gate.

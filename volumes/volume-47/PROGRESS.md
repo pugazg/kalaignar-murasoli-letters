@@ -25,8 +25,12 @@
 - [x] All 59 letter records 3647–3705 present
 - [x] Page continuity, chapter links, Unicode, zero-width and duplicate-body checks through canonical PDF 401
 - [x] Full-volume Tamil structural audit
-- [ ] Second visual verification / close character-level review
-- [ ] Mandatory textual-fidelity audits before any translation
+- [ ] Second visual verification / close character-level review — in progress
+  - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
+  - [ ] PDF 026–401
+- [ ] Mandatory textual-fidelity audits before any translation — in progress
+  - [x] PDF 001–025 — `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
+  - [ ] PDF 026 onward
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -34,14 +38,16 @@
 
 The only available Volume 47 source jumps from **PDF 252 / printed page 251** to **PDF 253 / printed page 253**. PDF 252 ends letter 3681 in the middle of the sentence after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`; PDF 253 starts letter 3682. Printed page **252** is absent. The missing continuation, closing and printed date of letter 3681 have not been reconstructed or guessed. The printed-contents date `15-12-2012` is recorded as such in the chapter metadata.
 
-## Batch-size policy exception
-
-The repository policy defaults to five complete letters per normal transcription iteration and allows a larger scope only with explicit user approval. The user explicitly instructed **15 letters in each batch**. Letters **3683–3697** were therefore processed as one atomic 15-letter iteration. Only eight letters remained afterward, so the final transcription iteration necessarily consists of **3698–3705**.
-
 ## Tamil transcription completion
 
-The only source PDF has **401 pages**. All 401 now have canonical Markdown files. Letter 3705 ends on PDF/printed page **400**; PDF **401** is the back cover. The full-volume structural audit is complete for the available source, with letter 3681 retained as a documented source-incomplete exception.
+The only source PDF has **401 pages**. All 401 have canonical Markdown files. Letter 3705 ends on PDF/printed page **400**; PDF **401** is the back cover. The full-volume structural audit is complete for the available source, with letter 3681 retained as a documented source-incomplete exception.
+
+## Second visual / textual-fidelity progress
+
+PDF pages **001–025** have now passed the second-pass scan comparison. Four canonical pages required scan-proven corrections: **002, 003, 004 and 016**. PDF 003's omitted English bibliographic column was restored. PDF 018–022 contents rows and the beginning of letter 3647 on PDF 024–025 were rechecked directly against the scan.
+
+Letter **3647** continues through PDF **030**, so it is not yet translation-ready. English translation remains unstarted.
 
 ## Next exact task
 
-Begin the **second visual verification / close character-level review** from PDF page **1**. English translation remains blocked until the relevant Tamil pages also pass the mandatory textual-fidelity audit required by the translation workflow.
+Visually compare **PDF pages 026–050** against their canonical Markdown files, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This will include the remaining pages **026–030** of letter 3647.
