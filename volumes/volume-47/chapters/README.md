@@ -35,11 +35,20 @@
 | [3675](3675-vaira-vizhaavum-maanbumigu-marabugalum.md) | வைர விழாவும்; மாண்புமிகு மரபுகளும்! | 30-11-2012 | 208–214 | 209–215 | complete (first-pass-reviewed) |
 | [3676](3676-neethi-kidaikkum-endru-nambugiren.md) | நீதி கிடைக்கும் என்று நம்புகிறேன்! | 7-12-2012 | 215–221 | 216–222 | complete (first-pass-reviewed) |
 | [3677](3677-endha-nilaiyilum-en-kadan-paniseydhu-kidappadhe.md) | எந்த நிலையிலும் என் கடன்; பணிசெய்து கிடப்பதே! | 8-12-2012 | 222–229 | 223–230 | complete (first-pass-reviewed) |
+| [3678](3678-irulin-aatchi-innum-eththanai-kaalamo.md) | இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ? | 9-12-2012 | 230–236 | 231–237 | complete (first-pass-reviewed) |
+| [3679](3679-paththirikaiyaalargalum-rasiththuch-sirikkattum.md) | பத்திரிகையாளர்களும் ரசித்துச் சிரிக்கட்டும்! | 11-12-2012 | 237–242 | 238–243 | complete (first-pass-reviewed) |
+| [3680](3680-vengidangaal-vaazhkkaraiyai-engnganam-marappen.md) | வெங்கிடங்கால், வாழ்க்கரையை எங்ஙனம் மறப்பேன்! | 12-12-2012 | 243–247 | 244–248 | complete (first-pass-reviewed) |
+| [3681](3681-irul-tholaindhida-vaa-viraindhu-vaa-vaa.md) | இருள் தொலைந்திட வா! விரைந்து வா! வா! | 15-12-2012 | 248–251 available; 252 missing | 249–252 | source-incomplete (first-pass-reviewed available pages) |
+| [3682](3682-anbe-vaa-andhakaara-irul-pokka-arimaave-vaa.md) | அன்பே வா! அந்தகார இருள் போக்க அரிமாவே வா! | 16-12-2012 | 253–254 | 253–254 | complete (first-pass-reviewed) |
+
+## Source gap
+
+கடிதம் 3681-இன் PDF 252 அச்சுப் பக்கம் 251-இல் நடுவில் முடிகிறது. மூல PDF-இல் அச்சுப் பக்கம் 252 இல்லை; அடுத்த PDF 253 / அச்சுப் பக்கம் 253-இல் கடிதம் 3682 தொடங்குகிறது. காணாமற்போன உரை, closing மற்றும் date ஊகிக்கப்படவில்லை. இது `partial` transcription அல்ல; source itself incomplete என்பதால் chapter status `source-incomplete`.
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3678–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள பதிவுகள் **3683–3705**. அவற்றின் verified PDF boundaries மற்றும் chapter files தொடர்புடைய பக்கங்கள் visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்.
 
 ## அடுத்த exact task
 
-PDF பக்கம் **231** முதல் கடிதம் **3678 — “இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ?”**-ஐ முதல் கடிதமாவக் கொண்டு, அடுத்த ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3678–3682**-ஐ verified closing/date பக்கம் வரை பதிவு செய்ய வேண்டும். ஆறாவது கடிதமான 3683-ன் எந்தப் பகுதியும் அந்த iteration-இல் சேர்க்கப்படக் கூடாது.
+PDF பக்கம் **255** / அச்சுப் பக்கம் **255** முதல் கடிதம் **3683 — “வெள்ளை அறிக்கை” வெளியிட முன்வருவார்களா?** தொடங்குகிறது. அடுத்த regular iteration அங்கே தொடங்க வேண்டும்; தற்போதைய iteration-இல் 3683-ன் எந்த உரையும் சேர்க்கப்படவில்லை.

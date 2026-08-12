@@ -35,7 +35,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - PDF 223–230-இல் மாற்றுத் திறனாளிகள் தொடர்பான terminology, English labels `(Handicapped)` / `(Differently Abled)`, திட்டத் தேதிகள் மற்றும் figures scan-படி பாதுகாக்கப்பட்டுள்ளன.
 - PDF 224–225-இல் அச்சில் உள்ள `(Crutches), ,` punctuation அப்படியே உள்ளது; PDF 225-இல் source date `11.7.2000` scan-படி மாற்றமின்றி பதிவு செய்யப்பட்டுள்ளது.
-- PDF 231 letter 3678 boundary verification-க்காக மட்டும் பார்க்கப்பட்டது; அதன் உரை இந்த iteration-இல் சேர்க்கப்படவில்லை.
+- PDF 231 letter 3678 boundary verification-க்காக மட்டும் பார்க்கப்பட்டது; அதன் உரை முந்தைய iteration-இல் சேர்க்கப்படவில்லை.
 
 **முந்தைய கடிதம்:** [3676 — நீதி கிடைக்கும் என்று நம்புகிறேன்!](3676-neethi-kidaikkum-endru-nambugiren.md)  
-**அடுத்த கடிதம்:** 3678 — இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ? — PDF பக்கம் 231-இல் தொடங்குகிறது; அடுத்த iteration-க்கு pending
+**அடுத்த கடிதம்:** [3678 — இருளின் ஆட்சி; இன்னும் எத்தனை காலமோ?](3678-irulin-aatchi-innum-eththanai-kaalamo.md)

@@ -1,60 +1,72 @@
 # தொகுதி 47 — five-letter transcription iteration audit
 
-**தணிக்கை நாள்:** 2026-08-11  
-**மொத்தப் பரப்பு:** PDF பக்கங்கள் 1–230  
-**இந்த iteration:** PDF பக்கங்கள் 196–230; கடிதங்கள் 3673–3677  
+**தணிக்கை நாள்:** 2026-08-12  
+**மொத்த canonical பரப்பு:** PDF பக்கங்கள் 1–254  
+**இந்த iteration:** PDF பக்கங்கள் 231–254; கடிதப் பதிவுகள் 3678–3682  
 **மூல PDF:** `Vol47.pdf`  
 **SHA-256:** `4c151357a822a8855e553de080b311d35934e9d844c81aff168b811cd8fd8558`
 
 ## செய்யப்பட்ட சோதனைகள்
 
-1. PDF 1–230 அனைத்துக்கும் uninterrupted `page-001.md`–`page-230.md` canonical range இருப்பு.
-2. புதிய canonical pages 196–230 ஒவ்வொன்றும் rendered scan-உடன் visual comparison.
-3. கடிதங்கள் 3673–3677 அனைத்துக்கும் title, address, body, closing, signature, printed date மற்றும் next-letter boundary verification.
-4. ஐந்து chapter records, chapter index, contents boundaries, metadata, progress மற்றும் volume/root status agreement.
-5. புதிய 35 page files-க்கு front-matter/page-number/printed-page/letter mapping validation.
-6. Duplicate canonical body, replacement Unicode (`U+FFFD`), zero-width OCR residue மற்றும் completed-range broken-link checks.
-7. PDF page 231 visually inspected; கடிதம் 3678 அங்கே தொடங்குவது உறுதி செய்யப்பட்டது. Page 231 இந்த iteration-இல் சேர்க்கப்படவில்லை.
-8. Volume 48 மற்றும் Volume 49 release files இந்த iteration-இல் மாற்றப்படவில்லை.
+1. PDF 1–254 அனைத்துக்கும் uninterrupted `page-001.md`–`page-254.md` canonical filename range இருப்பு.
+2. புதிய canonical pages 231–254 ஒவ்வொன்றும் rendered scan-உடன் visual comparison.
+3. கடிதம் 3678: PDF 231–237 / printed 230–236; title, address, body, closing மற்றும் date verified.
+4. கடிதம் 3679: PDF 238–243 / printed 237–242; title, English quotations, closing மற்றும் date verified.
+5. கடிதம் 3680: PDF 244–248 / printed 243–247; title, image page, body, closing மற்றும் date verified.
+6. கடிதம் 3681: PDF 249–252 / printed 248–251 கிடைக்கக்கூடிய source pages visually verified. PDF 252 நடுவில் முடிகிறது; printed page 252 source PDF-இல் இல்லை. Missing continuation, closing மற்றும் date ஊகிக்கப்படவில்லை; chapter status `source-incomplete`.
+7. கடிதம் 3682: PDF 253–254 / printed 253–254; title, body, closing மற்றும் date verified.
+8. PDF 255 visually inspected only to establish that letter 3683 starts there; `page-255.md` உருவாக்கப்படவில்லை, 3683 body இந்த iteration-இல் சேர்க்கப்படவில்லை.
+9. Exactly five new chapter records 3678–3682 உருவாக்கப்பட்டன; 4 `complete`, 1 `source-incomplete`.
+10. Previous letter 3677 next navigation, chapter index, contents register, metadata, progress, volume README மற்றும் root README consistency checked.
+11. New page/front-matter mapping checked against verified printed pagination, including the source jump printed 251 → 253.
+12. Duplicate canonical body, replacement Unicode (`U+FFFD`), zero-width residue மற்றும் completed/recorded-range broken-link checks.
+13. Existing contents-vs-heading discrepancies for 3663 and 3674 remain preserved without reconciliation.
+14. Volume 48 மற்றும் Volume 49 release files இந்த iteration-இல் மாற்றப்படவில்லை.
+15. English translation files உருவாக்கப்படவில்லை; translation gate remains blocked.
 
 ## முடிவு
 
 | சோதனை | முடிவு |
 |---|---|
-| Expected canonical page range | `page-001.md`–`page-230.md` |
-| Continuity | no gap through PDF 230 |
-| New pages in this iteration | 35 — PDF 196–230 |
-| New complete letters | 5 — letters 3673–3677 |
-| Total complete letters | 31 — letters 3647–3677 |
-| Partial letters | 0 |
+| Expected canonical page range | `page-001.md`–`page-254.md` |
+| PDF filename continuity | no gap through PDF 254 |
+| New canonical pages | 24 — PDF 231–254 |
+| New letter records | 5 — letters 3678–3682 |
+| New complete letters | 4 — 3678, 3679, 3680, 3682 |
+| New source-incomplete letters | 1 — 3681 |
+| Total complete letters | 35 — 3647–3680 and 3682 |
+| Ordinary partial letters | 0 |
+| Source missing printed pages | 1 — printed page 252 |
 | Printed contents rows | 59 — letters 3647–3705 |
-| New chapter records | 5 |
 | Duplicate new page body | none detected |
 | Replacement Unicode | none detected |
-| Zero-width OCR residue | none detected |
-| Broken internal links | none detected in completed range |
-| New canonical pages visually compared | 35/35 |
-| Next boundary | letter 3678 starts PDF 231 / printed 230 |
+| Zero-width residue | none detected |
+| Broken internal links | none detected in recorded range |
+| New canonical pages visually compared | 24/24 |
+| Next boundary | letter 3683 starts PDF 255 / printed 255 |
+
+## Source gap — printed page 252
+
+The scan itself establishes the discontinuity: PDF 252 carries printed page number **251** and letter 3681 continues to the bottom of that page, ending after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`. The next PDF page, PDF 253, begins letter 3682; its printed-page sequence is **253**, and PDF 254 is visibly printed page **254**. Therefore printed page **252** is absent from this only available PDF/edition. No external source, reconstructed prose, inferred closing or invented date was inserted.
+
+The printed contents lists letter 3681 at printed page 248 dated `15-12-2012` and letter 3682 at printed page 253 dated `16-12-2012`; those contents forms are preserved as structural source data. The chapter record for 3681 distinguishes the contents-derived date from the missing closing/date page.
 
 ## Scan-proven readings and preservation decisions
 
-- The PDF has no usable authoritative searchable text layer. OCR was used only as a transcription aid; rendered page images controlled corrections and canonical text.
-- Letter 3673 preserves the sugarcane procurement chronology and printed figures; PDF 199 reads `ரூ.11.30/-ம்` scan-படி பதிவு செய்யப்பட்டுள்ளது.
-- Printed contents row 3674 reads `விடை தான் என்னவோ; இந்த வினாவுக்கு!`, while the actual heading on PDF 203 reads `விடைதான் என்னவோ; இந்த வினாவுக்கு!`. The contents wording remains in `contents/index.md`; the actual heading controls the page and chapter records.
-- Letter 3674 preserves the election-case chronology, including scan-proven `2007ஆம் ஆண்டு ஜூன் மாதம்`, `2007ஆம் ஆண்டு ஜூலை மாதம்`, `திரு. லலித் அவர்கள்`, and closing `23-11-2012`.
-- Letter 3675 preserves the Assembly platinum/diamond-jubilee chronology, names and dates; PDF 215 retains source form `(ப்ரோட்டகால்)` and the scan reading `எண்ணி துணைபோய் விடக் கூடாது`.
-- Letter 3676 preserves the horticulture/government-land litigation chronology and long quoted High Court passage; PDF 216 retains `(As per instructions, I may be permitted to withdraw appeals)` and PDF 221 retains `(Show Cause Notice)`.
-- Letter 3677 preserves source terminology and English labels `(Handicapped)` / `(Differently Abled)`, the printed `(Crutches), ,` punctuation, scheme dates and figures, including the source date `11.7.2000` on PDF 225 and `2010-2011ஆம் ஆண்டில்` on PDF 229.
-- Printed contents row 3663 and the actual PDF 128 heading continue to be preserved separately as previously audited.
-- PDF page 231 was inspected only to establish the next boundary and was not transcribed or included in this iteration.
+- Letter 3678 preserves source forms including `மின் புழுதி நீக்க உபகரணங்கள் இல்லை`, `மாராட்டிய மாநில அரசு`, `திருப்பூர் மாநிலத்தில்`, `ஈரோடு மாநிலத்திலும்`, `நெசவாலைகள்`, `தெரிய வில்லை`, `செயற் குழு` and `வாழ் வாதாரத்திற்கு`.
+- Letter 3679 preserves the printed English headline and English quotation on PDF 240, including their source punctuation and line sequence; PDF 241 preserves `பிரமாண்டமான`.
+- Letter 3680's PDF 244 photograph is described factually. Its small printed caption is not reliably legible and is marked `[தெளிவில்லை]` rather than guessed. Source forms such as `கீவளூர் வட்டாரத்தில்`, `முதல,`, `ராஜகோபால இடத்திலும்`, `கல்யாணத்திடமும்` and `அவர்களை யெல்லாம்` remain unnormalised.
+- Letter 3681 preserves actual heading spacing `3681.இருள்...`, `ஏ.எல். சுப்பிரமணியனும்`, `காதர்பாட்சா (எ) வெள்ளைச் சாமியும்`, `சமயநல்லூர் செல்வராஜும்`, `சூராதி சூரன்`, `16 மணிநேரம்,18 மணிநேரம்` and `“சான்றிதழ்” (?)`.
+- Letter 3682 preserves source punctuation/repetition and the unusual PDF 254 reading `என்னரும் ஏழைத் தமிழர்களை`.
+- Printed contents row 3663 versus actual PDF 128 heading and printed contents row 3674 versus actual PDF 203 heading remain separately preserved as previously audited.
 
 ## பாதுகாக்கப்பட்ட source observations
 
 - PDF page 5 is blank with faint reverse-side show-through.
 - PDF page 23 is blank with faint reverse-side contents show-through.
 - Library stamps and handwritten library markings appear on title/publication/dedication pages and remain factual descriptions only.
-- No missing, duplicated, rotated, damaged or illegible source page was observed in PDF 1–230.
+- No source defect had been observed through PDF 230; the first confirmed source-page omission is printed page 252 within the later PDF 231–254 region.
 
 ## Audit-level limitation
 
-This is an **iteration/batch audit** and first visual comparison, not the full-volume Tamil structural audit, not the later character-by-character second visual verification, and not the mandatory textual-fidelity audit that unlocks translation. English translation remains blocked.
+This is an **iteration/batch audit** and first visual comparison of the available scan pages, not the full-volume Tamil structural audit, not the later character-by-character second visual verification, and not the mandatory textual-fidelity audit that unlocks translation. English translation remains blocked.
