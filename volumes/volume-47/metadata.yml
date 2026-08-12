@@ -35,8 +35,9 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md"
 translation_status: "in-progress"
-translated_letter_range: "3647-3661"
-translated_letter_count: 15
+translated_letter_range: "3647-3666"
+translated_letter_count: 20
+translation_batch_cadence: "5 consecutive letters per iteration from letter 3662 onward; initial 3647-3661 batch completed under earlier 15-letter approval"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -53,4 +54,4 @@ source_observations:
   - "The small printed caption under the photograph on PDF page 244 remains too indistinct in the source scan for a reliable word-for-word reading and has not been guessed."
   - "Printed contents names letter 3663 as 'நெஞ்சைத் துளைத்திடும் கொடுமை இது!', while the actual letter heading on PDF page 128 is 'நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!'; both source forms are preserved in their respective contexts."
   - "Printed contents names letter 3674 as 'விடை தான் என்னவோ; இந்த வினாவுக்கு!', while the actual letter heading on PDF page 203 is 'விடைதான் என்னவோ; இந்த வினாவுக்கு!'; both source forms are preserved in their respective contexts."
-  - "English translation began after the full Tamil fidelity gate cleared. The first user-approved 15-letter iteration, letters 3647-3661, is draft-translated with the standard translator's note and the full audited Tamil retained in each letter file; bilingual alignment remains not started."
+  - "English translation began after the full Tamil fidelity gate cleared. Letters 3647-3661 were draft-translated under the user's earlier 15-letter approval; the user then revised the cadence to five letters per iteration, and letters 3662-3666 are the first completed five-letter batch. Bilingual alignment remains not started."
