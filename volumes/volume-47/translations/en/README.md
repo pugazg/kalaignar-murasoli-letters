@@ -6,7 +6,7 @@ The canonical Tamil transcription, full-volume Tamil structural audit, and manda
 
 ## Translation progress
 
-The first English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The user has since revised the working cadence to **five letters per iteration**. The first five-letter batch under that revised cadence, **3662–3666**, is now complete.
+The first English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The user has since revised the working cadence to **five letters per iteration**. Two five-letter batches under that revised cadence, **3662–3666** and **3667–3671**, are now complete.
 
 Each letter file contains the standard translator’s note, source pagination/date, a thought-preserving English translation, and the full audited canonical Tamil below it.
 
@@ -30,11 +30,16 @@ Each letter file contains the standard translator’s note, source pagination/da
 18. [3664 — The South Will Prosper When the Sethu Project Comes!](letters/3664-the-south-will-prosper-when-the-sethu-project-comes.md)
 19. [3665 — Can Water Be Separated by Striking Water?](letters/3665-can-water-be-separated-by-striking-water.md)
 20. [3666 — Mother Tamil Nadu's Anguish!](letters/3666-mother-tamil-nadus-anguish.md)
+21. [3667 — When Will the Power Cuts End?](letters/3667-when-will-the-power-cuts-end.md)
+22. [3668 — Let Us All Wish Success to the U.N. Mission!](letters/3668-let-us-all-wish-success-to-the-un-mission.md)
+23. [3669 — How Long Will She Keep Deceiving People Like This?](letters/3669-how-long-will-she-keep-deceiving-people-like-this.md)
+24. [3670 — The Spear Leaps Forth! Statistical Trickery—Shred by Shred!!](letters/3670-the-spear-leaps-forth-statistical-trickery-shred-by-shred.md)
+25. [3671 — Will an Attempt at Diversion Solve the Problem?](letters/3671-will-an-attempt-at-diversion-solve-the-problem.md)
 
 ### Counts
 
 - Total letter records: **59**
-- Draft-translated: **20 / 59** — letters 3647–3666
+- Draft-translated: **25 / 59** — letters 3647–3671
 - Bilingual-aligned: **0 / 59**
 - Editorially verified for English release: **0 / 59**
 - Source-incomplete: **1** — letter 3681
@@ -58,6 +63,6 @@ Cumulative second-pass source coverage is **PDF 001–401 — 401/401 PDF pages*
 
 ## Next exact task
 
-Translate letters **3667–3671** as the next five-letter English iteration. Bilingual alignment remains a later separate stage.
+Translate letters **3672–3676** as the next five-letter English iteration. Bilingual alignment remains a later separate stage.
 
 See also [English progress](PROGRESS.md), [Glossary](GLOSSARY.md), and the [Volume 47 translation plan](../TRANSLATION_PLAN.md).
