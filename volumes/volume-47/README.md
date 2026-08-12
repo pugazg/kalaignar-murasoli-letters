@@ -21,7 +21,18 @@
 - [Textual-fidelity audit — PDF 327–401 / letters 3695–3705 + back cover](translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md)
 - Cumulative scan-proven corrected canonical pages: **002, 003, 004, 016, 027, 044, 048, 049, 052, 054, 143, 150, 157, 169, 196, 215, 217, 221, 226, 255, 256, 257, 261, 262, 263, 266, 274, 330, 333, 337, 350, 369, 390**.
 - Complete letters **3647–3680** and **3682–3705** now have complete second-pass source coverage. Every available source page of **3681** has also been checked; the record remains source-incomplete solely because printed page 252 is absent from the source.
-- English translation இன்னும் தொடங்கப்படவில்லை; ஆனால் Tamil fidelity gate இப்போது complete ஆகிவிட்டதால் அடுத்த stage-ஆக translation தொடங்கலாம்.
+
+## English translation நிலை
+
+- English translation **started and is in progress**.
+- User-approved first 15-letter iteration **3647–3661** is **15/15 draft-translated**.
+- Overall English draft count: **15 / 59** letter records.
+- Each English letter file contains the standard translator’s note, source pagination/date, thought-preserving non-literary English, and the full audited canonical Tamil below it.
+- Bilingual alignment: **not started**.
+- English editorial/release verification: **not started**.
+- [Volume 47 English index](translations/en/README.md)
+- [English translation progress](translations/en/PROGRESS.md)
+- [English glossary](translations/en/GLOSSARY.md)
 
 ## தற்போதைய நிலை
 
@@ -34,7 +45,8 @@
 | பின்அட்டை | 401 | second-pass source-checked |
 | Full-volume Tamil structural audit | 1–401 | complete |
 | இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–401 | **complete** |
-| English translation | — | not started |
+| English translation | — | **15/59 draft-translated — letters 3647–3661** |
+| Bilingual alignment | — | not started |
 
 ## Final fidelity batch — letters 3695–3705
 
@@ -59,14 +71,16 @@ Final scope PDF **327–400** மற்றும் **PDF 401 back cover** — �
 
 ## அடுத்த project stage
 
-Volume 47-ன் Tamil transcription, structural audit மற்றும் mandatory second visual/textual-fidelity gate அனைத்தும் available source-க்கு **complete**. அடுத்த task: `TRANSLATION_PLAN.md`-க்கு இணங்க English translation தொடங்குவது. Letter **3681** மட்டும் documented source-incomplete exception ஆகவே தொடரும்.
+அடுத்த user-approved English translation iteration: **letters 3662–3676** — 15 consecutive letters. Bilingual alignment ஒரு தனி later gate ஆகவே இருக்கும். Letter **3681** translation stage-க்கு வரும்போதும் source-incomplete exception ஆகவே explicit-ஆக பாதுகாக்கப்பட வேண்டும்.
 
 ## முக்கிய இணைப்புகள்
 
 - [Metadata](metadata.yml)
 - [முன்னேற்றம்](PROGRESS.md)
 - [Full-volume Tamil structural audit](AUDIT.md)
+- [Translation plan](TRANSLATION_PLAN.md)
+- [Volume 47 English index](translations/en/README.md)
+- [English translation progress](translations/en/PROGRESS.md)
 - [Final textual-fidelity audit — PDF 327–401](translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)
-- [Translation gate](TRANSLATION_PLAN.md)
