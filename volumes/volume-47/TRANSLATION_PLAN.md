@@ -23,16 +23,17 @@ Volume 49's approved bilingual order, translator’s note, glossary discipline, 
 - **3688** — complete.
 - **3689** — complete.
 - **3690** — complete.
-- Next: **3691**.
+- **3691** — complete.
+- Next: **3692**.
 
 Bilingual alignment remains a separate later gate.
 
 ## Current status
 
 - Total letter records: **59**
-- Draft-translated: **44** — letters 3647–3690
+- Draft-translated: **45** — letters 3647–3691
 - Bilingual-aligned: **0**
 - English release verified: **0**
 - Source-incomplete: **1** — letter 3681
 
-The next exact task is to complete letter **3691** as a one-letter batch, including full audited Tamil embedding and integrity checking.
+The next exact task is to complete letter **3692** as a one-letter batch, including full audited Tamil embedding and integrity checking.
