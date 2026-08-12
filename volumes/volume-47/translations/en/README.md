@@ -6,9 +6,11 @@ The canonical Tamil transcription, full-volume Tamil structural audit, and manda
 
 ## Translation progress
 
-The first English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The user has since revised the working cadence to **five letters per iteration**. Three five-letter batches under that revised cadence, **3662–3666**, **3667–3671**, and **3672–3676**, are now complete.
+The initial English iteration, completed under the user's earlier approved cadence, contains **15 consecutive letters, 3647–3661**. The working cadence is now **five letters per iteration**. Four five-letter batches under that cadence are complete: **3662–3666**, **3667–3671**, **3672–3676**, and **3677–3681**.
 
-Each letter file contains the standard translator’s note, source pagination/date, a thought-preserving English translation, and the full audited canonical Tamil below it.
+Each translation file contains the standard translator’s note, source pagination/date metadata, a thought-preserving English translation, and the audited canonical Tamil below it. Letter **3681** is a documented source-incomplete exception: only the available Tamil on PDF 249–252 / printed 248–251 has been translated, with the missing printed page 252, continuation and closing left unreconstructed.
+
+## Completed letters
 
 1. [3647 — What Becomes of Neutrality, Justice and Conscience?](letters/3647-what-becomes-of-neutrality-justice-and-conscience.md)
 2. [3648 — The Cauvery Authority—Then and Now!](letters/3648-the-cauvery-authority-then-and-now.md)
@@ -40,11 +42,16 @@ Each letter file contains the standard translator’s note, source pagination/da
 28. [3674 — What Is the Answer to This Question?](letters/3674-what-is-the-answer-to-this-question.md)
 29. [3675 — The Diamond Jubilee and Honourable Traditions!](letters/3675-the-diamond-jubilee-and-honourable-traditions.md)
 30. [3676 — I Believe Justice Will Be Done!](letters/3676-i-believe-justice-will-be-done.md)
+31. [3677 — Whatever the Circumstances, My Duty Is to Keep Working!](letters/3677-whatever-the-circumstances-my-duty-is-to-keep-working.md)
+32. [3678 — Rule of Darkness—How Much Longer?](letters/3678-rule-of-darkness-how-much-longer.md)
+33. [3679 — Let the Journalists Enjoy It and Laugh Too!](letters/3679-let-the-journalists-enjoy-it-and-laugh-too.md)
+34. [3680 — How Could I Forget Vengidangal and Vaazhkkarai!](letters/3680-how-could-i-forget-vengidangal-and-vaazhkkarai.md)
+35. [3681 — Come, Drive Away the Darkness! Come Quickly! Come!](letters/3681-come-drive-away-the-darkness-come-quickly-come.md) — **source-incomplete**
 
 ### Counts
 
 - Total letter records: **59**
-- Draft-translated: **30 / 59** — letters 3647–3676
+- Draft-translated: **35 / 59** — letters 3647–3681, with 3681 explicitly source-incomplete
 - Bilingual-aligned: **0 / 59**
 - Editorially verified for English release: **0 / 59**
 - Source-incomplete: **1** — letter 3681
@@ -53,21 +60,14 @@ These are translation drafts, not bilingual-alignment or release-verification cl
 
 ## Current batching rule
 
-The user's current instruction is **five consecutive letters per English-translation iteration**. The completed 3647–3661 batch remains as historical project state under the earlier 15-letter approval; all subsequent draft iterations follow the five-letter cadence unless explicitly changed again.
+The user's current instruction is **five consecutive letters per English-translation iteration**. The completed 3647–3661 batch remains historical project state under the earlier 15-letter approval; subsequent draft iterations follow the five-letter cadence unless explicitly changed again.
 
-## Completed fidelity reports
+## Source-incomplete exception — letter 3681
 
-- [PDF 001–025](TEXTUAL_FIDELITY_AUDIT_001_025.md) — 25/25 pages source-checked; four canonical pages corrected.
-- [PDF 026–050](TEXTUAL_FIDELITY_AUDIT_026_050.md) — 25/25 pages source-checked; four canonical pages corrected.
-- [PDF 051–140](TEXTUAL_FIDELITY_AUDIT_051_140.md) — letters 3650–3664; 90/90 new pages checked; two canonical pages corrected.
-- [PDF 141–243](TEXTUAL_FIDELITY_AUDIT_141_243.md) — letters 3665–3679; 103/103 pages checked; nine canonical pages corrected.
-- [PDF 244–326](TEXTUAL_FIDELITY_AUDIT_244_326.md) — letter records 3680–3694; 83/83 available pages checked; eight canonical pages corrected. Letter 3681 remains source-incomplete because printed page 252 is absent.
-- [PDF 327–401](TEXTUAL_FIDELITY_AUDIT_327_401.md) — final letters 3695–3705 plus back cover; 75/75 pages checked; six canonical pages corrected.
-
-Cumulative second-pass source coverage is **PDF 001–401 — 401/401 PDF pages**. Complete letters **3647–3680** and **3682–3705** have complete source-checked coverage. Every available source page of letter **3681** has also been checked, but its missing printed page 252, continuation, closing and printed date remain unavailable and have not been guessed.
+The only available Volume 47 source omits printed page **252**. Letter 3681 ends on PDF 252 / printed 251 in mid-sentence after `அடிப்படையான வேளாண்மை, வணிகம், சிறுதொழில் மற்றும்`; PDF 253 / printed 253 begins letter 3682. The English file translates only the available audited Tamil. The missing continuation and closing have not been reconstructed. The date **15-12-2012** is retained only as a printed-contents date, not as a closing-page date.
 
 ## Next exact task
 
-Translate letters **3677–3681** as the next five-letter English iteration. Letter **3681** is source-incomplete: translate only its available audited Tamil, explicitly preserve the gap, and do not reconstruct its missing continuation, closing, or printed date. Bilingual alignment remains a later separate stage.
+Translate letters **3682–3686** as the next five-letter English iteration. Bilingual alignment remains a later separate stage.
 
 See also [English progress](PROGRESS.md), [Glossary](GLOSSARY.md), and the [Volume 47 translation plan](../TRANSLATION_PLAN.md).
