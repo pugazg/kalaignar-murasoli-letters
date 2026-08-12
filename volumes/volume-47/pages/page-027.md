@@ -31,7 +31,7 @@ Chief Minister Jayalalithaa, to assist the court in petitions filed by her
 and other accused. Justice Mohan Shantana goundar, before whom the
 petitions came up for hearing, told Mr. Acharya that he should assist the
 court on the issue raised in the petitions as it involved the law followed
-in the appointment of judge to the special court. When Mr. Acharya told
+in the appointment of judge to the special court. When Mr.Acharya told
 the court that he had submitted his resignation to the State Government
 and had been asked to continue till alternative arrangements were made,
 the Judge said there was no need for him to resign from the post and

@@ -27,10 +27,12 @@
 - [x] Full-volume Tamil structural audit
 - [ ] Second visual verification / close character-level review — in progress
   - [x] PDF 001–025 — 25/25 visually compared; 4 canonical pages corrected
-  - [ ] PDF 026–401
+  - [x] PDF 026–050 — 25/25 visually compared; 4 canonical pages corrected
+  - [ ] PDF 051–401
 - [ ] Mandatory textual-fidelity audits before any translation — in progress
   - [x] PDF 001–025 — `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
-  - [ ] PDF 026 onward
+  - [x] PDF 026–050 — `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
+  - [ ] PDF 051 onward
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -44,10 +46,15 @@ The only source PDF has **401 pages**. All 401 have canonical Markdown files. Le
 
 ## Second visual / textual-fidelity progress
 
-PDF pages **001–025** have now passed the second-pass scan comparison. Four canonical pages required scan-proven corrections: **002, 003, 004 and 016**. PDF 003's omitted English bibliographic column was restored. PDF 018–022 contents rows and the beginning of letter 3647 on PDF 024–025 were rechecked directly against the scan.
+PDF pages **001–050** have now passed the second-pass scan comparison.
 
-Letter **3647** continues through PDF **030**, so it is not yet translation-ready. English translation remains unstarted.
+- PDF 001–025: four scan-proven canonical corrections — **002, 003, 004, 016**.
+- PDF 026–050: four scan-proven canonical corrections — **027, 044, 048, 049**.
+- Letters **3647, 3648 and 3649** now have complete second-pass source coverage.
+- Letter **3650** is source-checked through PDF 050 but continues beyond this range.
+
+English translation remains unstarted while the project-level Tamil fidelity gate is still in progress.
 
 ## Next exact task
 
-Visually compare **PDF pages 026–050** against their canonical Markdown files, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This will include the remaining pages **026–030** of letter 3647.
+Visually compare **PDF pages 051–075** against their canonical Markdown files, correct only scan-proven defects, and record the results in the next textual-fidelity audit report.

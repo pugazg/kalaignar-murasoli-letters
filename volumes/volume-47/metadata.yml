@@ -26,9 +26,10 @@ partial_letter: null
 audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-12
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-25"
+second_visual_verified_page_range: "1-50"
 textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md"
 translation_status: "not-started"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
@@ -45,6 +46,6 @@ source_observations:
   - "The final remaining letters 3698-3705 occupy PDF/printed pages 345-400 and are complete; only eight letters remained, so the final batch contains eight letters."
   - "PDF page 401 is the back cover with a colour portrait, 1924 - 2018, publisher/contact material, QR code and price."
   - "Every source PDF page 1-401 has one canonical Markdown page file."
-  - "Second visual/textual-fidelity verification is complete for PDF pages 1-25; scan-proven corrections were made on PDF pages 2, 3, 4 and 16."
+  - "Second visual/textual-fidelity verification is complete for PDF pages 1-50; scan-proven corrections were made on PDF pages 2, 3, 4, 16, 27, 44, 48 and 49."
   - "Printed contents names letter 3663 as 'நெஞ்சைத் துளைத்திடும் கொடுமை இது!', while the actual letter heading on PDF page 128 is 'நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!'; both source forms are preserved in their respective contexts."
   - "Printed contents names letter 3674 as 'விடை தான் என்னவோ; இந்த வினாவுக்கு!', while the actual letter heading on PDF page 203 is 'விடைதான் என்னவோ; இந்த வினாவுக்கு!'; both source forms are preserved in their respective contexts."

@@ -44,8 +44,8 @@
 | Ordinary partial letters | 0 |
 | Source missing printed pages | 1 — printed page 252 |
 | Full-volume Tamil structural audit | complete for available source |
-| Second visual verification | in progress — source-checked through PDF 025 |
-| Textual-fidelity audits | in progress — PDF 001–025 passed |
+| Second visual verification | in progress — source-checked through PDF 050 |
+| Textual-fidelity audits | in progress — PDF 001–050 passed |
 | English translation | not started |
 
 ## Final batch scan-proven preservation notes
@@ -62,14 +62,14 @@
 
 ## Second visual / textual-fidelity verification progress
 
-The first second-pass fidelity range, **PDF 001–025**, has now been compared page-by-page against rendered images from the source PDF. The detailed record is [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md).
+Two second-pass fidelity ranges are now complete:
 
-- 25/25 pages visually compared.
-- Scan-proven canonical corrections: PDF **002, 003, 004, 016**.
-- PDF 003's omitted English bibliographic column was restored from the scan.
-- PDF 018–022 contents rows were rechecked against the printed table.
-- PDF 024–025, the beginning of letter 3647, passed without canonical correction.
-- Letter 3647 is not translation-ready because its remaining PDF pages **026–030** have not yet passed this second-pass fidelity audit.
+- [PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md): 25/25 pages visually compared; scan-proven corrections on PDF **002, 003, 004, 016**.
+- [PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md): 25/25 pages visually compared; scan-proven corrections on PDF **027, 044, 048, 049**.
+
+Cumulative second-pass coverage is therefore **50/401 PDF pages**, through PDF 050.
+
+Letters **3647, 3648 and 3649** now have complete second-pass source coverage. Letter **3650** has been checked through PDF 050 but continues beyond this audit boundary.
 
 ## Source gap — printed page 252
 
@@ -77,4 +77,4 @@ The source defect remains unchanged and explicit: PDF 252 is printed page 251 an
 
 ## Audit-level limitation / next gate
 
-The full-volume Tamil structural audit is complete. The separate **second visual verification / textual-fidelity audit** is currently verified only through PDF **025**. The next range is **PDF 026–050**. English translation remains unstarted until the relevant complete letters pass the mandatory fidelity gate.
+The full-volume Tamil structural audit is complete. The separate **second visual verification / textual-fidelity audit** is currently verified through PDF **050**. The next range is **PDF 051–075**. English translation remains unstarted while the project-level Tamil fidelity gate is still in progress.

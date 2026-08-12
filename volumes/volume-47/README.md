@@ -17,9 +17,11 @@
 - பயனர் ஒப்புதலுடன் letters **3683–3697** ஒரு 15-letter iteration-ஆக PDF/printed **255–344** வரை பதிவு செய்யப்பட்டன.
 - இறுதி மீதமுள்ள letters **3698–3705** PDF/printed **345–400** வரை பதிவு செய்யப்பட்டன; PDF **401** பின்அட்டையாக தனியாகப் பதிவு செய்யப்பட்டது.
 - Full-volume Tamil structural audit complete.
-- இரண்டாம் சுற்று textual-fidelity / close visual verification **PDF 001–025**க்கு முடிக்கப்பட்டது; 25/25 pages scan-உடன் ஒப்பிடப்பட்டு PDF **002, 003, 004, 016** canonical transcription-களில் scan-proven corrections செய்யப்பட்டன.
+- இரண்டாம் சுற்று textual-fidelity / close visual verification **PDF 001–050** வரை முடிக்கப்பட்டது; 50/50 pages scan-உடன் ஒப்பிடப்பட்டு மொத்தம் **8 canonical pages**-இல் scan-proven corrections செய்யப்பட்டன: **002, 003, 004, 016, 027, 044, 048, 049**.
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
-- English translation தொடங்கப்படவில்லை; தொடர்புடைய முழுக் கடிதத்தின் அனைத்து Tamil pages-க்கும் textual-fidelity audit முடிந்த பின்னரே அந்தக் கடிதம் translation-ready ஆகும்.
+- [Textual-fidelity audit — PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
+- Letters **3647, 3648, 3649** complete second-pass source coverage பெற்றுள்ளன; letter **3650** PDF 050 வரை source-checked, ஆனால் அடுத்த பக்கங்களில் தொடர்கிறது.
+- English translation தொடங்கப்படவில்லை; project-level Tamil fidelity gate முழுமையாக முடியும் வரை translation stage blocked ஆகவே இருக்கும்.
 
 ## தற்போதைய நிலை
 
@@ -30,12 +32,15 @@
 | பதிப்புரை | 15–17 | second-pass source-checked |
 | உள்ளடக்கம் | 18–22 | second-pass source-checked |
 | வெற்றுப் பக்கம் | 23 | second-pass source-checked |
-| கடிதம் 3647 — audited portion | 24–25 | second-pass source-checked; continues through PDF 30 |
-| மீதமுள்ள கடிதங்கள் / பக்கங்கள் | 26–400 | second visual verification pending |
+| கடிதம் 3647 | 24–30 | second-pass source-checked |
+| கடிதம் 3648 | 31–39 | second-pass source-checked |
+| கடிதம் 3649 | 40–46 | second-pass source-checked |
+| கடிதம் 3650 — audited portion | 47–50 | second-pass source-checked; continues beyond PDF 50 |
+| மீதமுள்ள கடிதங்கள் / பக்கங்கள் | 51–400 | second visual verification pending |
 | பின்அட்டை | 401 | second visual verification pending |
 | Full-volume Tamil structural audit | 1–401 | complete |
-| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–25 | in progress; source-checked through 25 |
-| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 26–401 | pending |
+| இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–50 | in progress; source-checked through 50 |
+| மீதமுள்ள இரண்டாம் சுற்று சரிபார்ப்பு | 51–401 | pending |
 
 ## பாதுகாக்கப்பட்ட source discrepancies
 
@@ -45,7 +50,7 @@
 
 ## அடுத்த fidelity task
 
-PDF **026–050**-ஐ scan-உடன் close visual comparison செய்ய வேண்டும். PDF **026–030** letter 3647-ன் மீதமுள்ள பகுதி; அவை audit ஆகும் வரை 3647 translation-ready அல்ல.
+PDF **051–075**-ஐ scan-உடன் close visual comparison செய்ய வேண்டும்; scan-proven defects மட்டும் canonical text-இல் திருத்தப்பட வேண்டும்.
 
 ## முக்கிய இணைப்புகள்
 
@@ -53,6 +58,7 @@ PDF **026–050**-ஐ scan-உடன் close visual comparison செய்ய 
 - [முன்னேற்றம்](PROGRESS.md)
 - [Full-volume Tamil structural audit](AUDIT.md)
 - [Textual-fidelity audit — PDF 001–025](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
+- [Textual-fidelity audit — PDF 026–050](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
 - [அச்சு உள்ளடக்கம்](contents/index.md)
 - [கடிதங்கள் / அத்தியாயங்கள்](chapters/README.md)
 - [Translation gate](TRANSLATION_PLAN.md)
