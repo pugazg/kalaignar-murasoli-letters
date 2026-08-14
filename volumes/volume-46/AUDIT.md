@@ -337,6 +337,59 @@ The affected pages were rechecked directly against magnified source scans. Lette
 | Chapter navigation | verified for 3607–3612 |
 | English translation | not started; blocked |
 
+---
+
+## Fifth regular five-letter batch audit — letters 3613–3617 / PDF 168–205
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** PDF பக்கங்கள் **168–205** / அச்சுப் பக்கங்கள் **167–204**  
+**கடிதங்கள்:** **3613–3617**  
+**batch தொடக்க main HEAD:** `fb977b292e67594baeb642a8a359638105e9f169`
+
+### Boundary verification
+
+1. **3613** PDF 168 / printed 167-ல் தொடங்கி PDF 174 / printed 173-ல் `அன்புள்ள, / மு.க. / 9-4-2012` என முடிகிறது.
+2. **3614** PDF 175 / printed 174-ல் தொடங்கி PDF 180 / printed 179-ல் `அன்புள்ள, / மு.க. / 14-4-2012` என முடிகிறது.
+3. **3615** PDF 181 / printed 180-ல் தொடங்கி PDF 189 / printed 188-ல் `அன்புள்ள, / மு.க. / 15-4-2012` என முடிகிறது.
+4. **3616** PDF 190 / printed 189-ல் தொடங்கி PDF 195 / printed 194-ல் `அன்புள்ள, / மு.க. / 20-4-2012` என முடிகிறது.
+5. **3617** PDF 196 / printed 195-ல் தொடங்கி PDF 205 / printed 204-ல் `அன்புள்ள, / மு.க. / 21-4-2012` என முடிகிறது.
+6. PDF **206** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3618 — `உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!`** என தொடங்குகிறது. `page-206.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Visual comparison / scan-proven corrections
+
+- PDF 168–205-இன் **38/38** canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- PDF 189-ல் source-specific forms **`குழ்ச்சிகளிலே`** மற்றும் **`எசிப் பேசி`** scan-இன்படி பாதுகாக்கப்பட்டன; regularise செய்யப்படவில்லை.
+- PDF 191 working draft `வடக்குகிழக்கோட்டை தீர்மானம்` scan-க்கு எதிராகச் சரிபார்த்து source-supported **`வடக்குக்கோட்டை தீர்மானம்`** என canonical reading அமைக்கப்பட்டது.
+- PDF 193-இல் printed English resolution மற்றும் அதற்குப் பின்வரும் Tamil parenthetical rendering source-இன்படி பாதுகாக்கப்பட்டன; English wording modernise செய்யப்படவில்லை.
+- PDF 195-இல் அச்சிடப்பட்ட பாடல் வரிகள் magnified scan-க்கு எதிராகச் சரிபார்க்கப்பட்டு source line order-இல் பாதுகாக்கப்பட்டன.
+- PDF 198 source phrase **`மாநாட்டுக் கண்காட்சி பயனுள்ளதாக இருந்தது`** scan-ல் உறுதிசெய்யப்பட்டது.
+- PDF 200 draft `குறிப்பிடுக் காட்டியிருக்கிறார்கள்` scan-க்கு எதிராக **`குறிப்பிட்டுக் காட்டியிருக்கிறார்கள்`** என திருத்தப்பட்டது.
+- PDF 201 பட்டியலில் source-supported பெயர் **`கந்தசாமி`** magnified scan-ல் உறுதிசெய்யப்பட்டது.
+- PDF 203 source prose **`இவைகளையெல்லாம் மறைத்தது பற்றி எனக்கொன்றும் வருத்தமில்லை.`** scan-க்கு எதிராக உறுதிசெய்யப்பட்டது.
+- PDF 204–205 poetry/quotation blocks, letter closing and printed date source punctuation/order-இன்படி first-pass reviewed செய்யப்பட்டன.
+- இந்த PDF 168–205 batch-இல் missing, duplicated, rotated, damaged அல்லது confidently illegible source page எதுவும் காணப்படவில்லை.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 38; `page-168.md`–`page-205.md` |
+| Completed canonical range | `page-001.md`–`page-205.md` |
+| Complete letters in this batch | exactly 5 — 3613, 3614, 3615, 3616, 3617 |
+| Complete letters cumulative | 26 — 3592–3617 |
+| Partial letter after batch | none |
+| PDF page 206 canonical body included | இல்லை |
+| New pages visually compared | 38 / 38 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 168–205 batch |
+| Chapter navigation | verified for 3612–3617 |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 168–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 206–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+
+## Exact next task
+
+PDF பக்கம் **206** / அச்சுப் பக்கம் **205**-இல் தொடங்கும் **3618 — `உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!`** முதல் அடுத்த normal ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3618–3622** batch-ஐ செயல்படுத்த வேண்டும். 3622-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த கடிதத்தின் canonical body-ஐ சேர்க்கக்கூடாது.

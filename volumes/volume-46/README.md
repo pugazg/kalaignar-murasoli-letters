@@ -14,9 +14,10 @@
 - இரண்டாவது regular five-letter batch **3598–3602**, PDF **64–94** / அச்சு **63–93**.
 - மூன்றாவது regular five-letter batch **3603–3607**, PDF **95–133** / அச்சு **94–132**.
 - நான்காவது regular five-letter batch **3608–3612**, PDF **134–167** / அச்சு **133–166**.
-- இதுவரை **21 முழுமையான கடிதங்கள் (3592–3612)** canonical Tamil page files-ல் உள்ளன.
+- ஐந்தாவது regular five-letter batch **3613–3617**, PDF **168–205** / அச்சு **167–204**.
+- இதுவரை **26 முழுமையான கடிதங்கள் (3592–3617)** canonical Tamil page files-ல் உள்ளன.
 - ஒவ்வொரு completed letter-ன் closing/signature/date scan-ல் visually verified செய்யப்பட்டுள்ளது.
-- PDF **168** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3613-ஐ தொடங்குகிறது. `page-168.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF **206** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3618-ஐ தொடங்குகிறது. `page-206.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
 - English translation தொடங்கப்படவில்லை; repository translation gate `blocked` நிலையில் உள்ளது.
 
 ## Printed contents anomalies preserved
@@ -39,7 +40,8 @@
 | கடிதங்கள் 3598–3602 | 64–94 | complete; first-pass-reviewed |
 | கடிதங்கள் 3603–3607 | 95–133 | complete; first-pass-reviewed |
 | கடிதங்கள் 3608–3612 | 134–167 | complete; first-pass-reviewed |
-| மீதமுள்ள PDF | 168–402 | pending |
+| கடிதங்கள் 3613–3617 | 168–205 | complete; first-pass-reviewed |
+| மீதமுள்ள PDF | 206–402 | pending |
 | full-volume Tamil structural audit | — | pending |
 | second visual verification | — | pending |
 | English translation | — | not started; blocked |
@@ -54,4 +56,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **168** / அச்சுப் பக்கம் **167**-இல் தொடங்கும் **3613 — “புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி!”** முதல் அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3613–3617** batch-ஐ தொடங்க வேண்டும். 3617-ன் verified closing/date page-ல் நிறுத்தி, 3618-ன் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.
+PDF பக்கம் **206** / அச்சுப் பக்கம் **205**-இல் தொடங்கும் **3618 — “உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!”** முதல் அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3618–3622** batch-ஐ தொடங்க வேண்டும். 3622-ன் verified closing/date page-ல் நிறுத்தி, 3623-ன் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.

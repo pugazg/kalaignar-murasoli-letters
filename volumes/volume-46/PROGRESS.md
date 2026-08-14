@@ -11,6 +11,7 @@
 - [x] Follow-up magnified fidelity correction committed at `dfc58c74e0fcf22c077477b9201944811a54f3e1` for PDF 60, 61 and 63; boundaries/status unchanged
 - [x] Second regular five-letter batch committed at `99dd8cc409ef7bcc87fb887ce6478290b3a4689b`: letters 3598–3602, PDF 64–94 / printed 63–93
 - [x] Third regular five-letter batch committed at `57104f33a978ecc705fd5731a480ec0d2c72e9ee`: letters 3603–3607, PDF 95–133 / printed 94–132
+- [x] Fourth regular five-letter batch committed at `fb977b292e67594baeb642a8a359638105e9f169`: letters 3608–3612, PDF 134–167 / printed 133–166
 - [x] Volume number verified from the source scan as **46**
 - [x] Source filename, SHA-256, byte size and 402-page count recorded
 - [x] Searchable-text-layer check completed: none on all 402 pages
@@ -20,15 +21,17 @@
 - [x] Second regular batch: letters 3598–3602, PDF 64–94 / printed 63–93
 - [x] Third regular batch: letters 3603–3607, PDF 95–133 / printed 94–132
 - [x] Fourth regular batch: letters 3608–3612, PDF 134–167 / printed 133–166
-- [x] Five new closing/date boundaries verified: 3608 PDF 139, 3609 PDF 145, 3610 PDF 155, 3611 PDF 162, 3612 PDF 167
-- [x] All new canonical pages PDF 134–167 visually compared with their source scans in this iteration
-- [x] Magnified checks corrected draft readings including PDF 142 `வைதீகராக` and PDF 154 `புதிய நில ஆர்ஜித கொள்கை`
+- [x] Fifth regular batch: letters 3613–3617, PDF 168–205 / printed 167–204
+- [x] Five new closing/date boundaries verified: 3613 PDF 174, 3614 PDF 180, 3615 PDF 189, 3616 PDF 195, 3617 PDF 205
+- [x] All new canonical pages PDF 168–205 visually compared with their source scans in this iteration
+- [x] Magnified checks preserved scan-supported PDF 189 forms `குழ்ச்சிகளிலே` and `எசிப் பேசி`, and corrected PDF 191 to `வடக்குக்கோட்டை தீர்மானம்`
+- [x] Printed English resolution on PDF 193 and poetry/quotation formatting in letters 3616–3617 were preserved from the scan
 - [x] Source-specific forms and visible anomalies were preserved rather than silently regularised
 - [x] Page continuity, required YAML metadata, Unicode-format controls, duplicate-body and chapter-link checks run for the new batch
-- [x] PDF 168 inspected only as the verified start boundary of letter 3613; no `page-168.md` included
+- [x] PDF 206 inspected only as the verified start boundary of letter 3618; no `page-206.md` included
 - [x] Printed contents numbering anomalies documented without correction
-- [ ] Remaining PDF pages 168–402
-- [ ] Regular five-complete-letter transcription batches beginning with letter 3613
+- [ ] Remaining PDF pages 206–402
+- [ ] Regular five-complete-letter transcription batches beginning with letter 3618
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual verification / translation textual-fidelity gates
 - [ ] English translation
@@ -36,4 +39,4 @@
 
 ## Exact next task
 
-Begin the next regular five-letter batch at **PDF page 168 / printed page 167**, where the scan visibly starts **letter 3613 — “புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி!”**. Transcribe exactly five complete consecutive letters **3613–3617**, stopping at the verified closing/date page of letter 3617 and including no part of letter 3618.
+Begin the next regular five-letter batch at **PDF page 206 / printed page 205**, where the scan visibly starts **letter 3618 — “உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!”**. Transcribe exactly five complete consecutive letters **3618–3622**, stopping at the verified closing/date page of letter 3622 and including no part of letter 3623.

@@ -38,7 +38,6 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - PDF 163–167 canonical page bodies first-pass visual comparison-ல் source scan-க்கு எதிராகச் சரிபார்க்கப்பட்டன.
 - Source-specific forms including `தொடற்கூடாது` போன்றவை modernise/regularise செய்யப்படவில்லை.
-- PDF 168 boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3613-ஐ தொடங்குகிறது; அதன் body இந்த batch-ல் சேர்க்கப்படவில்லை.
 
 **முந்தைய கடிதம்:** [3611](3611-annavin-kanavai-azhikka-thudikkum-aariyamaayai.md)  
-**அடுத்த கடிதம்:** 3613 — “புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி!” — PDF பக்கம் 168 / அச்சுப் பக்கம் 167-இல் தொடக்கம் visually verified; chapter record அடுத்த five-letter batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3613](3613-puththiyulla-tamizhaa-nee-purinthukondaal-sari.md)
