@@ -45,9 +45,12 @@ Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வ
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
+| 46 | 05.10.2011–15.08.2012 | 402 | 1–25 | 0; கடிதம் 3592 partial | not started; blocked pending Tamil audit |
 | 47 | 19.08.2012–19.02.2013 | 401 | 1–401 | 58 complete; 3681 source-incomplete (printed page 252 absent) | **20 / 59 draft-translated (3647–3666); Tamil fidelity complete; bilingual alignment pending** |
 | 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | 58 / 58 verified; editorial release complete |
 | 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 53 / 53 verified; editorial release complete |
+
+தொகுதி 46-இன் தற்போதைய நிலைக்கு [Volume 46 README](volumes/volume-46/README.md) மற்றும் [தொடக்க batch audit](volumes/volume-46/AUDIT.md) பார்க்கவும்.
 
 தொகுதி 47-இன் தற்போதைய நிலைக்கு [Volume 47 README](volumes/volume-47/README.md), [full-volume Tamil structural audit](volumes/volume-47/AUDIT.md) மற்றும் [English translation index](volumes/volume-47/translations/en/README.md) பார்க்கவும்.
 

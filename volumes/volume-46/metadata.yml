@@ -1,0 +1,46 @@
+volume: 46
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 46"
+author: "கலைஞர்"
+date_from: 2011-10-05
+date_to: 2012-08-15
+letter_number_from: 3592
+letter_number_to: 3649
+letter_count: null
+printed_contents_entry_count: 55
+letter_count_status: "provisional; printed contents inspected, actual letter starts not yet fully verified"
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+pdf_pages: 402
+source_file: "Vol46.pdf"
+source_sha256: "ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9"
+source_size_bytes: 200631699
+source_searchable_text_layer: false
+transcription_page_range: "1-25"
+transcription_status: "in-progress"
+recorded_letter_range: "3592-3649 (printed contents; numbering anomalies documented)"
+completed_letter_range: null
+completed_letter_count: 0
+partial_letter: 3592
+source_incomplete_letters: []
+source_incomplete_letter_count: 0
+source_missing_printed_pages: []
+audit_status: "iteration-audit-complete"
+audit_date: 2026-08-14
+second_visual_verification: "pending"
+translation_status: "not-started"
+bilingual_alignment_status: "not-started"
+english_release_status: "not-started"
+source_observations:
+  - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
+  - "PDF page 3 prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
+  - "PDF pages 5 and 23 are blank with faint reverse-side show-through."
+  - "Library stamps and handwritten library markings appear in the front matter and are described rather than treated as printed edition text."
+  - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
+  - "All PDF page rotation metadata is 0 degrees."
+  - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for later full visual audit."
+  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-25 batch; full-volume missing/discontinuity verification remains pending."
+  - "Printed contents PDF pages 18-22 contain 55 rows and preserve source numbering anomalies: 3637 is printed twice after 3635 with no 3636 row, and 3643 is followed by 3647 with no 3644-3646 rows."
+  - "Letter 3592 begins PDF page 24 / printed page 23 and is partial at PDF page 25; it continues at PDF page 26."
+  - "PDF page 24 ends the split word as 'நிகழ்ந்' and PDF page 25 begins 'துள்ளன.'; the page-boundary split is preserved."
