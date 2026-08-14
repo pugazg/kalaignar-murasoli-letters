@@ -108,6 +108,25 @@
 | Internal links | valid in updated Volume 46 control/chapter files |
 | English translation | not started; blocked |
 
+---
+
+## Post-completion zoom fidelity correction — PDF 26–28
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** Letter 3592 canonical PDF pages 26–28  
+**முன் completion commit:** `4f606a836fe89e42b5c41beea7f2b91946182ee8`
+
+Follow-up high-magnification scan review identified six source-fidelity corrections before beginning the first regular five-letter batch:
+
+- PDF 26: `அறியாத செய்திகள்?` → scan-supported `அறியாத செய்திகளா?`.
+- PDF 27: `மக்ஸிம் கார்க்கி` → scan-supported `மாக்ஸிம் கார்க்கி`.
+- PDF 27: `இருந்திருப்பேனேயானால்` → scan-supported `இருந்திருப்பேனே யானால்`.
+- PDF 27: `உள்ளாட்சிமன்றத்` → scan-supported `உள்ளாட்சி மன்றத்`.
+- PDF 27: `தண்ணீர்கூட கொடுக்காமல்` → scan-supported `தண்ணீர்கூடக் கொடுக்காமல்`.
+- PDF 28: `சிவசுப்ரமணியம்` → scan-supported `சிவசுப்பிரமணியம்`.
+
+The corrections change no letter boundary, printed/PDF page mapping, closing, signature, date, or completion status. PDF 29 required no correction. Letter 3592 remains complete at PDF 24–29 / printed 23–28.
+
 ## Pending
 
 இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 30–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.

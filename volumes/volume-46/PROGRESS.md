@@ -18,6 +18,7 @@
 - [x] Letter 3592 initial partial segment: PDF 24–25 / printed 23–24
 - [x] Interrupted-letter completion batch: PDF 26–29 / printed 25–28
 - [x] Letter 3592 complete: PDF 24–29 / printed 23–28; closing and date visually verified on PDF 29
+- [x] Follow-up zoom fidelity correction applied to PDF 26–28 before the first regular five-letter batch
 - [x] All canonical pages PDF 1–29 visually compared with their scan within their respective batches
 - [x] Page continuity, internal links, Unicode and duplicate-body checks for completed PDF 1–29 range
 - [x] Printed contents numbering anomalies documented without correction
