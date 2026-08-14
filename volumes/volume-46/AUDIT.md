@@ -386,10 +386,55 @@ The affected pages were rechecked directly against magnified source scans. Lette
 | Chapter navigation | verified for 3612–3617 |
 | English translation | not started; blocked |
 
+---
+
+## Sixth regular five-letter batch audit — letters 3618–3622 / PDF 206–245
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** PDF பக்கங்கள் **206–245** / அச்சுப் பக்கங்கள் **205–244**  
+**கடிதங்கள்:** **3618–3622**  
+**batch தொடக்க main HEAD:** `5737146b2fc364af14b024a8e1a55a3763f9a667`
+
+### Boundary verification
+
+1. **3618** PDF 206 / printed 205-ல் தொடங்கி PDF 213 / printed 212-ல் `அன்புள்ள, / மு.க. / 22-04-2012` என முடிகிறது.
+2. **3619** PDF 214 / printed 213-ல் தொடங்கி PDF 220 / printed 219-ல் `அன்புள்ள, / மு.க. / 25-4-2012` என முடிகிறது.
+3. **3620** PDF 221 / printed 220-ல் தொடங்கி PDF 232 / printed 231-ல் `அன்புள்ள, / மு.க. / 28-4-2012` என முடிகிறது.
+4. **3621** PDF 233 / printed 232-ல் தொடங்கி PDF 238 / printed 237-ல் `அன்புள்ள, / மு.க. / 5-5-2012` என முடிகிறது.
+5. **3622** PDF 239 / printed 238-ல் தொடங்கி PDF 245 / printed 244-ல் `அன்புள்ள, / மு.க. / 8-5-2012` என முடிகிறது.
+6. PDF **246** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3623 — `அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?`** என தொடங்குகிறது. `page-246.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Visual comparison / scan-proven corrections
+
+- PDF 206–245-இன் **40/40** canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- **3620 title discrepancy:** printed contents `என்று தணியும் ஈழத்தமிழா தாகம்!`; actual letter-start PDF 221 `என்று தணியும் ஈழத்தமிழர் தாகம்!`. இரண்டு source forms-மும் force-match செய்யப்படாமல் தத்தம் source context-இன்படி பாதுகாக்கப்பட்டன.
+- PDF 218 OCR draft-இல் ஏற்பட்ட year error scan-க்கு எதிராகச் சரிபார்க்கப்பட்டு source-supported **`1977ஆம் ஆண்டு நடைபெற்ற தேர்தலுக்கு முன்பு, 1976இல் வட்டுக்கோட்டை...`** canonical text-ஆக அமைக்கப்பட்டது.
+- PDF 223 source date **`27-12-2008`**, PDF 227 **`24-4-2009 அன்றிரவு`**, PDF 232 closing date **`28-4-2012`**, PDF 238 closing date **`5-5-2012`**, PDF 241 **`2006ஆம் ஆண்டு மே திங்களில்`** ஆகியவை scan-க்கு எதிராக உறுதிசெய்யப்பட்டன.
+- PDF 229 source-specific wording **`ராணுவத்துக்கு உத்தர விடப்பட்டுள்ளது`** அமைதியாக regularise செய்யப்படவில்லை.
+- PDF 230 names/organisation labels, PDF 232 poem, 3619-இன் quotation/poem blocks, 3621–3622-இன் figures/dates/names மற்றும் mixed punctuation source form-இன்படி பாதுகாக்கப்பட்டன.
+- இந்த PDF 206–245 batch-இல் missing, duplicated, rotated, damaged அல்லது confidently illegible source page எதுவும் காணப்படவில்லை.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 40; `page-206.md`–`page-245.md` |
+| Completed canonical range | `page-001.md`–`page-245.md` |
+| Complete letters in this batch | exactly 5 — 3618, 3619, 3620, 3621, 3622 |
+| Complete letters cumulative | 31 — 3592–3622 |
+| Partial letter after batch | none |
+| PDF page 246 canonical body included | இல்லை |
+| New pages visually compared | 40 / 40 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 206–245 batch |
+| Chapter navigation | verified for 3617–3622 |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 206–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 246–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
 
 ## Exact next task
 
-PDF பக்கம் **206** / அச்சுப் பக்கம் **205**-இல் தொடங்கும் **3618 — `உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!`** முதல் அடுத்த normal ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3618–3622** batch-ஐ செயல்படுத்த வேண்டும். 3622-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த கடிதத்தின் canonical body-ஐ சேர்க்கக்கூடாது.
+PDF பக்கம் **246** / அச்சுப் பக்கம் **245**-இல் தொடங்கும் **3623 — `அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?`** முதல் அடுத்த normal ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் **3623–3627** batch-ஐ செயல்படுத்த வேண்டும். 3627-ன் verified closing/date page-ல் நிறுத்தி, 3628-ன் எந்த canonical body-ஐயும் சேர்க்கக்கூடாது.

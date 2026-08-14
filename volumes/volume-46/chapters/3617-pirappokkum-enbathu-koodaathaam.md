@@ -43,7 +43,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - PDF 196–205 canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
 - சமச்சீர் கல்வி தொடர்பான quoted circular wording, page numbers, names, punctuation, ellipses, poetry and source-specific wording silently regularise செய்யப்படவில்லை.
-- PDF 206 boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3618 — `உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!` என தொடங்குகிறது; அதன் canonical body இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF 206 முந்தைய batch-இல் boundary check-க்காக மட்டும் பார்க்கப்பட்டது; தற்போதைய batch-இல் அது 3618-ன் canonical தொடக்கப் பக்கமாக transcribe செய்யப்பட்டுள்ளது.
 
 **முந்தைய கடிதம்:** [3616](3616-kunrin-melitta-vilakkaagum-thani-thamizh-eezham.md)  
-**அடுத்த கடிதம்:** 3618 — “உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!” — PDF பக்கம் 206 / அச்சுப் பக்கம் 205-இல் தொடக்கம் visually verified; chapter record அடுத்த five-letter batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3618](3618-unmai-thamizhar-unarnthe-theervar.md)

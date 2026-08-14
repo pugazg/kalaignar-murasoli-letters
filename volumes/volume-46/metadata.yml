@@ -17,11 +17,11 @@ source_file: "Vol46.pdf"
 source_sha256: "ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9"
 source_size_bytes: 200631699
 source_searchable_text_layer: false
-transcription_page_range: "1-205"
+transcription_page_range: "1-245"
 transcription_status: "in-progress"
 recorded_letter_range: "3592-3649 (printed contents; numbering anomalies documented)"
-completed_letter_range: "3592-3617"
-completed_letter_count: 26
+completed_letter_range: "3592-3622"
+completed_letter_count: 31
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
@@ -40,7 +40,7 @@ source_observations:
   - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
   - "All PDF page rotation metadata is 0 degrees."
   - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for later full visual audit."
-  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-205 range; full-volume missing/discontinuity verification remains pending."
+  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-245 range; full-volume missing/discontinuity verification remains pending."
   - "Printed contents PDF pages 18-22 contain 55 rows and preserve source numbering anomalies: 3637 is printed twice after 3635 with no 3636 row, and 3643 is followed by 3647 with no 3644-3646 rows."
   - "Letter 3592 spans PDF pages 24-29 / printed pages 23-28 and closes on PDF page 29 with 'அன்புள்ள,', 'மு.க.' and printed date '5-10-2011'."
   - "Letters 3593-3597 form the first regular five-letter batch and span PDF pages 30-63 / printed pages 29-62; all five closing/date boundaries were visually verified."
@@ -48,7 +48,11 @@ source_observations:
   - "Letters 3603-3607 form the third regular five-letter batch and span PDF pages 95-133 / printed pages 94-132; all five closing/date boundaries were visually verified."
   - "Letters 3608-3612 form the fourth regular five-letter batch and span PDF pages 134-167 / printed pages 133-166; all five closing/date boundaries were visually verified."
   - "Letters 3613-3617 form the fifth regular five-letter batch and span PDF pages 168-205 / printed pages 167-204; all five closing/date boundaries were visually verified."
+  - "Letters 3618-3622 form the sixth regular five-letter batch and span PDF pages 206-245 / printed pages 205-244; all five closing/date boundaries were visually verified."
   - "Letter 3595 heading/contents print 'தமிழா!' while the final exhortation on PDF page 49 prints 'தமிழ!'; both source forms are preserved without normalization."
   - "PDF page 189 preserves source-specific forms 'குழ்ச்சிகளிலே' and 'எசிப் பேசி' without normalization."
   - "PDF page 191 preserves the scan-supported wording 'வடக்குக்கோட்டை தீர்மானம்'."
-  - "PDF page 206 was inspected only to verify the next boundary: it starts letter 3618, 'உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!'; no PDF 206 canonical body is included in the completed range."
+  - "Printed contents title for letter 3620 is 'என்று தணியும் ஈழத்தமிழா தாகம்!' while the actual letter-start title on PDF page 221 is 'என்று தணியும் ஈழத்தமிழர் தாகம்!'; both source forms are preserved separately."
+  - "PDF page 229 preserves the printed wording 'ராணுவத்துக்கு உத்தர விடப்பட்டுள்ளது' without normalization."
+  - "PDF page 241 scan prints '2006ஆம் ஆண்டு மே திங்களில்' in the sugar-mill discussion."
+  - "PDF page 246 was inspected only to verify the next boundary: it starts letter 3623, 'அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?'; no PDF 246 canonical body is included in the completed range."

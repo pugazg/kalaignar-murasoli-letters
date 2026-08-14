@@ -15,16 +15,18 @@
 - மூன்றாவது regular five-letter batch **3603–3607**, PDF **95–133** / அச்சு **94–132**.
 - நான்காவது regular five-letter batch **3608–3612**, PDF **134–167** / அச்சு **133–166**.
 - ஐந்தாவது regular five-letter batch **3613–3617**, PDF **168–205** / அச்சு **167–204**.
-- இதுவரை **26 முழுமையான கடிதங்கள் (3592–3617)** canonical Tamil page files-ல் உள்ளன.
+- ஆறாவது regular five-letter batch **3618–3622**, PDF **206–245** / அச்சு **205–244**.
+- இதுவரை **31 முழுமையான கடிதங்கள் (3592–3622)** canonical Tamil page files-ல் உள்ளன.
 - ஒவ்வொரு completed letter-ன் closing/signature/date scan-ல் visually verified செய்யப்பட்டுள்ளது.
-- PDF **206** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3618-ஐ தொடங்குகிறது. `page-206.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF **246** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3623-ஐ தொடங்குகிறது. `page-246.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
 - English translation தொடங்கப்படவில்லை; repository translation gate `blocked` நிலையில் உள்ளது.
 
 ## Printed contents anomalies preserved
 
 - `3635`-க்கு அடுத்து source contents **3637**-ஐ அச்சிட்டு, அடுத்த row-யிலும் **3637**-ஐ மீண்டும் அச்சிடுகிறது; `3636` row இல்லை.
 - `3643`-க்கு அடுத்து source contents **3647**-க்கு செல்கிறது; `3644–3646` rows இல்லை.
-- இவை actual letter-start pages later verified ஆகும் வரை source anomalies ஆகவே பாதுகாக்கப்பட்டுள்ளன; மறுஎண்ணிடப்படவில்லை.
+- கடிதம் **3620**-க்கு printed contents `என்று தணியும் ஈழத்தமிழா தாகம்!` என்று அச்சிடுகிறது; actual letter-start PDF 221-ல் `என்று தணியும் ஈழத்தமிழர் தாகம்!` என்று உள்ளது. இரண்டு source forms-மும் தத்தம் context-ல் பாதுகாக்கப்பட்டுள்ளன.
+- இவை actual source-இன்படி பதிவு செய்யப்பட்டுள்ளன; மறுஎண்ணிடவோ force-match செய்யவோ இல்லை.
 
 ## தற்போதைய நிலை
 
@@ -41,7 +43,8 @@
 | கடிதங்கள் 3603–3607 | 95–133 | complete; first-pass-reviewed |
 | கடிதங்கள் 3608–3612 | 134–167 | complete; first-pass-reviewed |
 | கடிதங்கள் 3613–3617 | 168–205 | complete; first-pass-reviewed |
-| மீதமுள்ள PDF | 206–402 | pending |
+| கடிதங்கள் 3618–3622 | 206–245 | complete; first-pass-reviewed |
+| மீதமுள்ள PDF | 246–402 | pending |
 | full-volume Tamil structural audit | — | pending |
 | second visual verification | — | pending |
 | English translation | — | not started; blocked |
@@ -56,4 +59,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **206** / அச்சுப் பக்கம் **205**-இல் தொடங்கும் **3618 — “உண்மைத் தமிழர் உணர்ந்தே தீர்வர்!”** முதல் அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3618–3622** batch-ஐ தொடங்க வேண்டும். 3622-ன் verified closing/date page-ல் நிறுத்தி, 3623-ன் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.
+PDF பக்கம் **246** / அச்சுப் பக்கம் **245**-இல் தொடங்கும் **3623 — “அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?”** முதல் அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3623–3627** batch-ஐ தொடங்க வேண்டும். 3627-ன் verified closing/date page-ல் நிறுத்தி, 3628-ன் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.
