@@ -202,6 +202,51 @@ Follow-up magnified scan review found four transcription-level fidelity correcti
 
 The affected pages were rechecked directly against magnified source scans. Letter 3597 remains complete at PDF 57–63 / printed 56–62. The next canonical page remains PDF 64, letter 3598.
 
+---
+
+## Second regular five-letter batch audit — letters 3598–3602 / PDF 64–94
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** PDF பக்கங்கள் **64–94** / அச்சுப் பக்கங்கள் **63–93**  
+**கடிதங்கள்:** **3598–3602**  
+**batch தொடக்க main HEAD:** `dfc58c74e0fcf22c077477b9201944811a54f3e1`
+
+### Boundary verification
+
+1. **3598** PDF 64 / printed 63-ல் தொடங்கி PDF 66 / printed 65-ல் `அன்புள்ள, / மு.க. / 7-11-2011` என முடிகிறது.
+2. **3599** PDF 67 / printed 66-ல் தொடங்கி PDF 74 / printed 73-ல் `அன்புள்ள, / மு.க. / 8-11-2011` என முடிகிறது.
+3. **3600** PDF 75 / printed 74-ல் தொடங்கி PDF 79 / printed 78-ல் `அன்புள்ள, / மு.க. / 10-11-2011` என முடிகிறது.
+4. **3601** PDF 80 / printed 79-ல் தொடங்கி PDF 87 / printed 86-ல் `அன்புள்ள, / மு.க. / 19-11-2011` என முடிகிறது.
+5. **3602** PDF 88 / printed 87-ல் தொடங்கி PDF 94 / printed 93-ல் `அன்புள்ள, / மு.க. / 12-12-2011` என முடிகிறது.
+6. PDF **95** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3603 — `மறைமலையார் கருத்தை மறைப்பதோ?`** என தொடங்குகிறது. `page-095.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Visual comparison / scan-proven readings
+
+- PDF 64–94-இன் **31/31** canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- 3598-ல் source wording `பூதகி`, `பகத்சிங்`, `பச்சை வண்ண பசுங்கிளையிலே` போன்ற readings scan-இன்படி பாதுகாக்கப்பட்டன.
+- 3599-ல் பேட்டியில் அச்சிடப்பட்ட colloquial forms (`குறுக்கிடாம`, `ஆச்சரியப்பட்டாங்க`, `உதவி செஞ்சேன்`) regularise செய்யப்படவில்லை; election examples, names and figures source-க்கு எதிராகச் சரிபார்க்கப்பட்டன.
+- 3600-ல் source-specific spacing/wording `சட்டங்களை யெல்லாம்`, `நாடாறு மாதம், காடாறு மாதம்`, `ஏழை அழுத கண்ணா வீண் போகாது` மாற்றமின்றிப் பாதுகாக்கப்பட்டது.
+- 3601 actual heading **`இந்தப் புவியே அவர் புகழ் பாடட்டும்!`** scan-ல் உறுதிசெய்யப்பட்டது; fare/milk-price figures மற்றும் இறுதி `ஆக்சிஜன்` rhetorical passage scan-க்கு எதிராக checked செய்யப்பட்டது.
+- 3602 heading **`அறவழி - அமைதி வழி - அதுவே அண்ணா வழி!`** scan-இன்படி பாதுகாக்கப்பட்டது; PDF 91-ல் source Roman list markers `(i)`, `(ii)`, `(iii)` மற்றும் PDF 92-இன் printed English Supreme Court quotation அப்படியே வைத்திருக்கப்பட்டது.
+- PDF 94 closing/date source-இன்படி `அன்புள்ள, / மு.க. / 12-12-2011` என உறுதிசெய்யப்பட்டது.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 31; `page-064.md`–`page-094.md` |
+| Completed canonical range | `page-001.md`–`page-094.md` |
+| Complete letters in this batch | exactly 5 — 3598, 3599, 3600, 3601, 3602 |
+| Complete letters cumulative | 11 — 3592–3602 |
+| Partial letter after batch | none |
+| PDF page 95 canonical body included | இல்லை |
+| New pages visually compared | 31 / 31 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 64–94 batch |
+| Chapter navigation | verified for 3597–3602 |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 64–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 95–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.

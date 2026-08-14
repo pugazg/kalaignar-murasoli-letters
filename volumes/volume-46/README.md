@@ -9,20 +9,19 @@
 ## நிறைவேற்றப்பட்ட transcription batches
 
 - மூல PDF intake, SHA-256, byte size, page count மற்றும் searchable-text-layer நிலை பதிவு செய்யப்பட்டுள்ளன.
-- PDF scan-இன் அட்டை மற்றும் title page மூலம் இது **தொகுதி 46** என உறுதிசெய்யப்பட்டது.
-- தொடக்க mandatory batch-ல் PDF பக்கங்கள் **1–25** தனித்தனி canonical Markdown கோப்புகளாகப் பதிவு செய்யப்பட்டன.
-- PDF பக்கங்கள் **18–22** அடிப்படையில் அச்சு உள்ளடக்க அட்டவணையின் **55 rows** source order-ல் பாதுகாக்கப்பட்டுள்ளன.
-- PDF பக்கங்கள் **5** மற்றும் **23** blank pages ஆகப் பதிவு செய்யப்பட்டுள்ளன.
-- முதல் batch எல்லையில் partial ஆன **3592 — “என் விருப்பத்தை வெளியிடுகிறேன்!”** completion batch PDF **26–29** மூலம் முடிக்கப்பட்டது.
-- முதல் regular five-letter batch **3593–3597** PDF **30–63** / அச்சு **29–62** வரை முடிக்கப்பட்டது; ஐந்து closing/date boundaries-மும் scan-ல் visually verified செய்யப்பட்டன.
-- PDF **64** அடுத்த கடிதம் **3598** தொடங்குவதை boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அதன் canonical body இந்த batch-ல் சேர்க்கப்படவில்லை.
+- தொடக்க mandatory batch PDF **1–25**; அதன் எல்லையில் partial ஆன 3592, PDF **26–29** completion batch-ல் முடிக்கப்பட்டது.
+- முதல் regular five-letter batch **3593–3597**, PDF **30–63** / அச்சு **29–62**.
+- இரண்டாவது regular five-letter batch **3598–3602**, PDF **64–94** / அச்சு **63–93**.
+- இதுவரை **11 முழுமையான கடிதங்கள் (3592–3602)** canonical Tamil page files-ல் உள்ளன.
+- ஒவ்வொரு completed letter-ன் closing/signature/date scan-ல் visually verified செய்யப்பட்டுள்ளது.
+- PDF **95** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3603-ஐ தொடங்குகிறது. `page-095.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
 - English translation தொடங்கப்படவில்லை; repository translation gate `blocked` நிலையில் உள்ளது.
 
 ## Printed contents anomalies preserved
 
 - `3635`-க்கு அடுத்து source contents **3637**-ஐ அச்சிட்டு, அடுத்த row-யிலும் **3637**-ஐ மீண்டும் அச்சிடுகிறது; `3636` row இல்லை.
 - `3643`-க்கு அடுத்து source contents **3647**-க்கு செல்கிறது; `3644–3646` rows இல்லை.
-- கடிதம் 3595-ன் contents/actual heading **`தமிழா!`** என அச்சிடப்பட்டாலும் PDF 49 இறுதி exhortation **`தமிழ!`** என அச்சிடப்பட்டுள்ளது; இரு source forms-மும் மாற்றமின்றி பாதுகாக்கப்பட்டுள்ளன.
+- இவை actual letter-start pages later verified ஆகும் வரை source anomalies ஆகவே பாதுகாக்கப்பட்டுள்ளன; மறுஎண்ணிடப்படவில்லை.
 
 ## தற்போதைய நிலை
 
@@ -33,9 +32,10 @@
 | பதிப்புரை | 15–17 | first-pass-reviewed |
 | உள்ளடக்கம் | 18–22 | visually transcribed |
 | வெற்றுப் பக்கம் | 23 | recorded |
-| கடிதம் 3592 | 24–29 | complete; first-pass-reviewed; closing/date verified |
-| கடிதங்கள் 3593–3597 | 30–63 | five complete letters; first-pass-reviewed; all closing/date boundaries verified |
-| மீதமுள்ள PDF | 64–402 | pending |
+| கடிதம் 3592 | 24–29 | complete; first-pass-reviewed |
+| கடிதங்கள் 3593–3597 | 30–63 | complete; first-pass-reviewed |
+| கடிதங்கள் 3598–3602 | 64–94 | complete; first-pass-reviewed |
+| மீதமுள்ள PDF | 95–402 | pending |
 | full-volume Tamil structural audit | — | pending |
 | second visual verification | — | pending |
 | English translation | — | not started; blocked |
@@ -50,4 +50,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **64** / அச்சுப் பக்கம் **63**-இல் scan-ல் தொடங்கும் **கடிதம் 3598 — “என் உடன்பிறப்புகள் ஏமாற மாட்டார்கள்!”** முதல் அடுத்த regular **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் (3598–3602)** batch-ஐ தொடங்க வேண்டும். கடிதம் 3602-ன் verified closing/date page-ல் நிறுத்தி, கடிதம் 3603-ன் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.
+PDF பக்கம் **95** / அச்சுப் பக்கம் **94**-இல் தொடங்கும் **3603 — “மறைமலையார் கருத்தை மறைப்பதோ?”** முதல் அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3603–3607** batch-ஐ தொடங்க வேண்டும். 3607-ன் verified closing/date page-ல் நிறுத்தி, 3608-ன் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.

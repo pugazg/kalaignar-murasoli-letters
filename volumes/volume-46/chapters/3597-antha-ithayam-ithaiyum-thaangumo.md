@@ -40,7 +40,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - Contents title மற்றும் actual letter-start title ஒன்றுபடுகின்றன.
 - PDF 57–63-இல் நினைவிடங்கள், பெயர்கள், மேற்கோள்கள் மற்றும் இறுதி bullet list scan-க்கு எதிராக visually checked செய்யப்பட்டன.
-- PDF 64 அடுத்த கடிதம் 3598 தொடங்குவதை boundary verification-க்கு மட்டும் பார்க்கப்பட்டது; அதன் canonical body இந்த chapter/batch-ல் சேர்க்கப்படவில்லை.
+- Follow-up magnified audit-ல் PDF 60, 61, 63 fidelity corrections செய்யப்பட்டன; boundary/status மாறவில்லை.
 
 **முந்தைய கடிதம்:** [3596](3596-sitrur-perur-therthalkalilum-silmishangal.md)  
-**அடுத்த கடிதம்:** 3598 — “என் உடன்பிறப்புகள் ஏமாற மாட்டார்கள்!” — PDF பக்கம் 64 / அச்சுப் பக்கம் 63-இல் தொடக்கம் scan-ல் visually verified; chapter record அடுத்த five-letter batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3598](3598-en-udanpirappugal-emara-maattaargal.md)

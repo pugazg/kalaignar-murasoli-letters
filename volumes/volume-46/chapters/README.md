@@ -10,12 +10,17 @@
 | [3595](3595-uthavathini-oru-thaamatham-udane-vizhi-tamizha.md) | உதவாதினி ஒரு தாமதம்; உடனே விழி; தமிழா! | 31-10-2011 | 44–48 | 45–49 | complete |
 | [3596](3596-sitrur-perur-therthalkalilum-silmishangal.md) | சிற்றூர், பேரூர் தேர்தல்களிலும் சில்மிஷங்கள்! | 1-11-2011 | 49–55 | 50–56 | complete |
 | [3597](3597-antha-ithayam-ithaiyum-thaangumo.md) | அந்த இதயம்; இதையும் தாங்குமோ? | 4-11-2011 | 56–62 | 57–63 | complete |
+| [3598](3598-en-udanpirappugal-emara-maattaargal.md) | என் உடன்பிறப்புகள் ஏமாற மாட்டார்கள்! | 7-11-2011 | 63–65 | 64–66 | complete |
+| [3599](3599-ayyarin-manasatchiye-athaik-sollum.md) | அய்யரின் மனசாட்சியே அதைக் சொல்லும்! | 8-11-2011 | 66–73 | 67–74 | complete |
+| [3600](3600-yaarume-ange-illaiyaa.md) | யாருமே அங்கே இல்லையா? | 10-11-2011 | 74–78 | 75–79 | complete |
+| [3601](3601-inthap-puviye-avar-pugazh-paattum.md) | இந்தப் புவியே அவர் புகழ் பாடட்டும்! | 19-11-2011 | 79–86 | 80–87 | complete |
+| [3602](3602-aravazhi-amaithi-vazhi-athuve-anna-vazhi.md) | அறவழி - அமைதி வழி - அதுவே அண்ணா வழி! | 12-12-2011 | 87–93 | 88–94 | complete |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **49** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **44** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3598 — “என் உடன்பிறப்புகள் ஏமாற மாட்டார்கள்!”** PDF பக்கம் **64** / அச்சுப் பக்கம் **63**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
+அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3603 — “மறைமலையார் கருத்தை மறைப்பதோ?”** PDF பக்கம் **95** / அச்சுப் பக்கம் **94**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
 
 குறிப்பு: printed contents numbering தானே முரண்படுகிறது — `3637` இரண்டு முறை அச்சிடப்பட்டுள்ளது; `3636` இல்லை; `3643`-க்கு அடுத்து `3647` வருகிறது. Actual letter-start pages பின்னர் இதை தெளிவுபடுத்தும் வரை source wording/numbering மாற்றப்படாது.
 
@@ -23,4 +28,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **64** முதல் கடிதம் **3598**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3598–3602** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3602-ன் verified closing/date page-ல் நிறுத்தி, 3603-ன் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
+PDF பக்கம் **95** முதல் கடிதம் **3603**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3603–3607** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3607-ன் verified closing/date page-ல் நிறுத்தி, 3608-ன் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
