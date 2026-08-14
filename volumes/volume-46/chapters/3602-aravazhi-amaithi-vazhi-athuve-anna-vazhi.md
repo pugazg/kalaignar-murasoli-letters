@@ -42,4 +42,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - PDF 88–94 canonical page bodies first-pass visual comparison-ல் source scan-க்கு எதிராகச் சரிபார்க்கப்பட்டன.
 
 **முந்தைய கடிதம்:** [3601](3601-inthap-puviye-avar-pugazh-paattum.md)  
-**அடுத்த கடிதம்:** 3603 — “மறைமலையார் கருத்தை மறைப்பதோ?” — PDF பக்கம் 95 / அச்சுப் பக்கம் 94-இல் தொடக்கம் scan-ல் visually verified; chapter record அடுத்த five-letter batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3603](3603-maraimalaiyar-karuththai-maraippatho.md)

@@ -247,6 +247,51 @@ The affected pages were rechecked directly against magnified source scans. Lette
 | Chapter navigation | verified for 3597–3602 |
 | English translation | not started; blocked |
 
+---
+
+## Third regular five-letter batch audit — letters 3603–3607 / PDF 95–133
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** PDF பக்கங்கள் **95–133** / அச்சுப் பக்கங்கள் **94–132**  
+**கடிதங்கள்:** **3603–3607**  
+**batch தொடக்க main HEAD:** `99dd8cc409ef7bcc87fb887ce6478290b3a4689b`
+
+### Boundary verification
+
+1. **3603** PDF 95 / printed 94-ல் தொடங்கி PDF 101 / printed 100-ல் `அன்புள்ள, / மு.க. / 01-01-2012` என முடிகிறது.
+2. **3604** PDF 102 / printed 101-ல் தொடங்கி PDF 107 / printed 106-ல் `அன்புள்ள, / மு.க. / 08-01-2012` என முடிகிறது.
+3. **3605** PDF 108 / printed 107-ல் தொடங்கி PDF 113 / printed 112-ல் `அன்புள்ள, / மு.க. / 14-1-2012` என முடிகிறது.
+4. **3606** PDF 114 / printed 113-ல் தொடங்கி PDF 127 / printed 126-ல் `அன்புள்ள, / மு.க. / 3-2-2012` என முடிகிறது.
+5. **3607** PDF 128 / printed 127-ல் தொடங்கி PDF 133 / printed 132-ல் `அன்புள்ள, / மு.க. / 6-2-2012` என முடிகிறது.
+6. PDF **134** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3608 — `திராவிட இயக்க நூற்றாண்டு தொடக்கம்!`** என தொடங்குகிறது. `page-134.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Visual comparison / scan-proven readings
+
+- PDF 95–133-இன் **39/39** canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- 3603-ல் மறைமலை அடிகளார் கூட்டத் தீர்மானங்கள், பாரதிதாசன் பாடல், அறிஞர் பெயர்கள், `01-01-2012` date format மற்றும் தை/சித்திரை தொடர்பான source wording regularise செய்யப்படவில்லை.
+- 3604-ல் கரும்பு விலை, FRP, சாக்கரைப் பிழிதிறன், monetary figures மற்றும் dates scan-க்கு எதிராகச் சரிபார்க்கப்பட்டன; PDF 102-இன் library stamp/handwriting printed body-ஆக கலக்கப்படவில்லை.
+- 3605-ல் நலத்திட்டப் பெயர்கள், years, beneficiary counts மற்றும் monetary figures source scan-இன்படி பாதுகாக்கப்பட்டன.
+- 3606-ல் printed English newspaper excerpts மற்றும் Tamil parenthetical glosses source form-இல் வைத்திருக்கப்பட்டன; PDF 125 source-supported `நெடுஞ்சாலைத் துறையிலே நடைபெற்ற டெண்டர் பற்றி` மற்றும் PDF 126 `உடனடியாக அவற்றின் அறிக்கையை` magnified scan-ல் உறுதிசெய்யப்பட்டன.
+- 3607-ல் PDF 129 source phrase **`நான் அளித்த பேட்டியில்`**, PDF 131 **`ஜூன் மாதம் முதல்`**, PDF 132 **`திடமான விளக்கமாக`** ஆகியவை high-magnification scan review-ல் உறுதிசெய்யப்பட்டன.
+- PDF 133 closing/date source-இன்படி `அன்புள்ள, / மு.க. / 6-2-2012` எனப் பதிவு செய்யப்பட்டது.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 39; `page-095.md`–`page-133.md` |
+| Completed canonical range | `page-001.md`–`page-133.md` |
+| Complete letters in this batch | exactly 5 — 3603, 3604, 3605, 3606, 3607 |
+| Complete letters cumulative | 16 — 3592–3607 |
+| Partial letter after batch | none |
+| PDF page 134 canonical body included | இல்லை |
+| New pages visually compared | 39 / 39 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 95–133 batch |
+| Chapter navigation | verified for 3602–3607 |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 95–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 134–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
