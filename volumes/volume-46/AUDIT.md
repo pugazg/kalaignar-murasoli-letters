@@ -292,6 +292,51 @@ The affected pages were rechecked directly against magnified source scans. Lette
 | Chapter navigation | verified for 3602–3607 |
 | English translation | not started; blocked |
 
+---
+
+## Fourth regular five-letter batch audit — letters 3608–3612 / PDF 134–167
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** PDF பக்கங்கள் **134–167** / அச்சுப் பக்கங்கள் **133–166**  
+**கடிதங்கள்:** **3608–3612**  
+**batch தொடக்க main HEAD:** `57104f33a978ecc705fd5731a480ec0d2c72e9ee`
+
+### Boundary verification
+
+1. **3608** PDF 134 / printed 133-ல் தொடங்கி PDF 139 / printed 138-ல் `அன்புள்ள, / மு.க. / 18-2-2012` என முடிகிறது.
+2. **3609** PDF 140 / printed 139-ல் தொடங்கி PDF 145 / printed 144-ல் `அன்புள்ள, / மு.க. / 24-2-2012` என முடிகிறது.
+3. **3610** PDF 146 / printed 145-ல் தொடங்கி PDF 155 / printed 154-ல் `அன்புள்ள, / மு.க. / 28-3-2012` என முடிகிறது.
+4. **3611** PDF 156 / printed 155-ல் தொடங்கி PDF 162 / printed 161-ல் `அன்புள்ள, / மு.க. / 03-04-2012` என முடிகிறது.
+5. **3612** PDF 163 / printed 162-ல் தொடங்கி PDF 167 / printed 166-ல் `அன்புள்ள, / மு.க. / 08-04-2012` என முடிகிறது.
+6. PDF **168** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3613 — `புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி!`** என தொடங்குகிறது. `page-168.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Visual comparison / scan-proven corrections
+
+- PDF 134–167-இன் **34/34** canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- PDF 142 draft `பெரும் வைத்திரராக இருந்தார்` scan-க்கு எதிராக **`பெரும் வைதீகராக இருந்தார்`** என source-supported canonical reading-ஆக திருத்தப்பட்டது.
+- PDF 154 draft `புதிய நில ஆளித கொள்கை` scan-க்கு எதிராக **`புதிய நில ஆர்ஜித கொள்கை`** என source-supported canonical reading-ஆக திருத்தப்பட்டது.
+- 3608–3609-இல் historical names, quotations, English parentheticals, poetry, dates and bullet formatting source-இன்படி பாதுகாக்கப்பட்டன.
+- 3610-இல் budget figures, percentages, quoted policy wording and dates silently normalize செய்யப்படவில்லை.
+- 3611–3612-இல் source-specific forms and wording, including unusual printed forms such as `272005` and `தொடற்கூடாது`, scan-supported form-இன்படி பாதுகாக்கப்பட்டன.
+- இந்த PDF 134–167 batch-இல் missing, duplicated, rotated, damaged அல்லது confidently illegible source page எதுவும் காணப்படவில்லை.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 34; `page-134.md`–`page-167.md` |
+| Completed canonical range | `page-001.md`–`page-167.md` |
+| Complete letters in this batch | exactly 5 — 3608, 3609, 3610, 3611, 3612 |
+| Complete letters cumulative | 21 — 3592–3612 |
+| Partial letter after batch | none |
+| PDF page 168 canonical body included | இல்லை |
+| New pages visually compared | 34 / 34 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 134–167 batch |
+| Chapter navigation | verified for 3607–3612 |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 134–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 168–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.

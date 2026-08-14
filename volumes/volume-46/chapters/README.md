@@ -20,12 +20,17 @@
 | [3605](3605-naam-thodangiya-nadamaadum-koyil-thiruppani.md) | நாம் தொடங்கிய நடமாடும் கோயில் திருப்பணி! | 14-1-2012 | 107–112 | 108–113 | complete |
 | [3606](3606-visham-oru-thuli-pothatha.md) | விஷம்; ஒரு துளி போதாதா? | 3-2-2012 | 113–126 | 114–127 | complete |
 | [3607](3607-asandhuthaan-ponaargal.md) | அசந்துதான் போனார்கள்! | 6-2-2012 | 127–132 | 128–133 | complete |
+| [3608](3608-thiravida-iyakka-nootrandu-thodakkam.md) | திராவிட இயக்க நூற்றாண்டு தொடக்கம்! | 18-2-2012 | 133–138 | 134–139 | complete |
+| [3609](3609-ina-ezhuchchikku-edukkum-vizha.md) | இன எழுச்சிக்கு எடுக்கும் விழா! | 24-2-2012 | 139–144 | 140–145 | complete |
+| [3610](3610-sonnathu-enna-enna-nadanthathu-enna-enna.md) | சொன்னது என்ன? என்ன? நடந்தது என்ன? என்ன? | 28-3-2012 | 145–154 | 146–155 | complete |
+| [3611](3611-annavin-kanavai-azhikka-thudikkum-aariyamaayai.md) | அண்ணாவின் கனவை அழிக்கத் துடிக்கும் ஆரியமாயை! | 03-04-2012 | 155–161 | 156–162 | complete |
+| [3612](3612-araajakaththirku-mudivukatta-ani-thiralvom.md) | அராஜகத்திற்கு முடிவுகட்ட; அணி திரள்வோம்! | 08-04-2012 | 162–166 | 163–167 | complete |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **39** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **34** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3608 — “திராவிட இயக்க நூற்றாண்டு தொடக்கம்!”** PDF பக்கம் **134** / அச்சுப் பக்கம் **133**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
+அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3613 — “புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி!”** PDF பக்கம் **168** / அச்சுப் பக்கம் **167**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
 
 குறிப்பு: printed contents numbering தானே முரண்படுகிறது — `3637` இரண்டு முறை அச்சிடப்பட்டுள்ளது; `3636` இல்லை; `3643`-க்கு அடுத்து `3647` வருகிறது. Actual letter-start pages பின்னர் இதை தெளிவுபடுத்தும் வரை source wording/numbering மாற்றப்படாது.
 
@@ -33,4 +38,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **134** முதல் கடிதம் **3608**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3608–3612** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3612-ன் verified closing/date page-ல் நிறுத்தி, 3613-ன் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
+PDF பக்கம் **168** முதல் கடிதம் **3613**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3613–3617** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3617-ன் verified closing/date page-ல் நிறுத்தி, 3618-ன் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
