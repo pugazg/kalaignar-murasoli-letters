@@ -17,12 +17,12 @@ source_file: "Vol46.pdf"
 source_sha256: "ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9"
 source_size_bytes: 200631699
 source_searchable_text_layer: false
-transcription_page_range: "1-25"
+transcription_page_range: "1-29"
 transcription_status: "in-progress"
 recorded_letter_range: "3592-3649 (printed contents; numbering anomalies documented)"
-completed_letter_range: null
-completed_letter_count: 0
-partial_letter: 3592
+completed_letter_range: "3592"
+completed_letter_count: 1
+partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
@@ -40,7 +40,8 @@ source_observations:
   - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
   - "All PDF page rotation metadata is 0 degrees."
   - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for later full visual audit."
-  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-25 batch; full-volume missing/discontinuity verification remains pending."
+  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-29 range; full-volume missing/discontinuity verification remains pending."
   - "Printed contents PDF pages 18-22 contain 55 rows and preserve source numbering anomalies: 3637 is printed twice after 3635 with no 3636 row, and 3643 is followed by 3647 with no 3644-3646 rows."
-  - "Letter 3592 begins PDF page 24 / printed page 23 and is partial at PDF page 25; it continues at PDF page 26."
+  - "Letter 3592 spans PDF pages 24-29 / printed pages 23-28 and closes on PDF page 29 with 'அன்புள்ள,', 'மு.க.' and printed date '5-10-2011'."
   - "PDF page 24 ends the split word as 'நிகழ்ந்' and PDF page 25 begins 'துள்ளன.'; the page-boundary split is preserved."
+  - "PDF page 26 ends with 'கம்யூனிசத்திற்கு' and PDF page 27 continues 'எதிரான கொள்கையா?'; the page boundary is preserved without rewriting the sentence."
