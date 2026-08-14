@@ -185,6 +185,23 @@ The corrections change no letter boundary, printed/PDF page mapping, closing, si
 | Chapter navigation | verified for 3592–3597 |
 | English translation | not started; blocked |
 
+---
+
+## Post-batch source-fidelity correction — PDF 60, 61, 63
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** Letter 3597 canonical PDF pages 60, 61 and 63  
+**முன் regular-batch commit:** `697b205c835735c0ce0c0da7e048b7135498773c`
+
+Follow-up magnified scan review found four transcription-level fidelity corrections. These do not change any letter boundary, date, title, closing, page mapping or completion status:
+
+- PDF 60: `அம்பேத்கர்` → scan-supported **`அம்பேத்கார்`**.
+- PDF 61: `சின்னங்கள் தான்!` → scan-supported **`சின்னங்கள்தான்!`**.
+- PDF 61: `உயர்த்துவதற் காக` → scan-supported **`உயர்த்துவதற்காக`**.
+- PDF 63: restored the source-printed dash in **`தொடங்கப்பட்ட -`** immediately before the bullet list.
+
+The affected pages were rechecked directly against magnified source scans. Letter 3597 remains complete at PDF 57–63 / printed 56–62. The next canonical page remains PDF 64, letter 3598.
+
 ## Pending
 
 இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 64–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.

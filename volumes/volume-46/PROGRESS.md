@@ -26,6 +26,7 @@
 - [x] Five closing/date boundaries verified: 3593 PDF 36, 3594 PDF 44, 3595 PDF 49, 3596 PDF 56, 3597 PDF 63
 - [x] All canonical pages PDF 1–63 visually compared with their scan within their respective batches
 - [x] Page continuity, internal links, Unicode and duplicate-body checks for completed PDF 1–63 range
+- [x] Follow-up magnified fidelity correction applied to PDF 60, 61 and 63 after the first regular batch; boundaries and completion status unchanged
 - [x] PDF 64 inspected only as the verified start boundary of letter 3598; no `page-064.md` included
 - [x] Printed contents numbering anomalies documented without correction
 - [ ] Remaining PDF pages 64–402
