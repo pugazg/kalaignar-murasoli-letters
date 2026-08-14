@@ -40,12 +40,17 @@
 | [3625](3625-oru-suyamariyaathaikkaararin-soolurai.md) | ஒரு சுயமரியாதைக்காரனின் சூளுரை! | 23-05-2012 | 261–265 | 262–266 | complete |
 | [3626](3626-maanila-arase-seyalpadaatha-nilaiyil.md) | மாநில அரசே செயல்படாத நிலையில்... | 25-5-2012 | 266–271 | 267–272 | complete |
 | [3627](3627-thaamathamindri-thakkathor-mudivu-kaanbeer.md) | தாமதமின்றி - தக்கதோர் முடிவு காண்பீர்! | 27-5-2012 | 272–277 | 273–278 | complete |
+| [3628](3628-alaikadalena-aarththezhuvom.md) | அலைகடலென ஆர்த்தெழுவோம்! | 29-5-2012 | 278–285 | 279–286 | complete |
+| [3629](3629-thimukavin-maanila-suyaatchikku-je-paadiya-pinpaattu.md) | தி.மு.க.வின் மாநில சுயாட்சிக்கு ஜெ. பாடிய பின்பாட்டு! | 7-6-2012 | 286–294 | 287–295 | complete |
+| [3630](3630-virikkira-perugum-virinji-vidugiren.md) | விரிக்கிற பெருகும்; விரிஞ்சி விடுகிறேன்! | 8-6-2012 | 295–303 | 296–304 | complete |
+| [3631](3631-jananaayagam-kelip-porulaagi-viduvatha.md) | ஜனநாயகம் கேலிப் பொருளாகி விடுவதா? | 9-6-2012 | 304–309 | 305–310 | complete |
+| [3632](3632-otherwise-janaathipathi.md) | “OTHERWISE - ஜனாதிபதி” | 10-6-12 | 310–314 | 311–315 | complete |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **19** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **14** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3628 — “அலைகடலென ஆர்த்தெழுவோம்!”** PDF பக்கம் **279** / அச்சுப் பக்கம் **278**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
+அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?”** PDF பக்கம் **316** / அச்சுப் பக்கம் **315**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
 
 குறிப்பு: printed contents numbering தானே முரண்படுகிறது — `3637` இரண்டு முறை அச்சிடப்பட்டுள்ளது; `3636` இல்லை; `3643`-க்கு அடுத்து `3647` வருகிறது. Actual letter-start pages பின்னர் இதை தெளிவுபடுத்தும் வரை source wording/numbering மாற்றப்படாது.
 
@@ -57,4 +62,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **279** முதல் கடிதம் **3628**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3628–3632** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3632-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த கடிதத்தின் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
+PDF பக்கம் **316** / அச்சுப் பக்கம் **315**-இல் தொடங்கும் **3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?”** முதல் அடுத்த normal five-letter transcription iteration-ஐ தொடங்க வேண்டும். Printed contents numbering anomaly (`3636` இல்லை; `3637` இரண்டு முறை) காரணமாக அடுத்த source sequence-ஐ scan boundaries மூலமே உறுதிப்படுத்த வேண்டும்; ஐந்தாவது complete source letter-ன் verified closing/date page-ல் நிறுத்த வேண்டும்.

@@ -17,9 +17,10 @@
 - ஐந்தாவது regular five-letter batch **3613–3617**, PDF **168–205** / அச்சு **167–204**.
 - ஆறாவது regular five-letter batch **3618–3622**, PDF **206–245** / அச்சு **205–244**.
 - ஏழாவது regular five-letter batch **3623–3627**, PDF **246–278** / அச்சு **245–277**.
-- இதுவரை **36 முழுமையான கடிதங்கள் (3592–3627)** canonical Tamil page files-ல் உள்ளன.
+- எட்டாவது regular five-letter batch **3628–3632**, PDF **279–315** / அச்சு **278–314**.
+- இதுவரை **41 முழுமையான கடிதங்கள் (3592–3632)** canonical Tamil page files-ல் உள்ளன.
 - ஒவ்வொரு completed letter-ன் closing/signature/date scan-ல் visually verified செய்யப்பட்டுள்ளது.
-- PDF **279** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3628-ஐ தொடங்குகிறது. `page-279.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF **316** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3633-ஐ தொடங்குகிறது. `page-316.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
 - English translation தொடங்கப்படவில்லை; repository translation gate `blocked` நிலையில் உள்ளது.
 
 ## Printed contents anomalies preserved
@@ -47,10 +48,19 @@
 | கடிதங்கள் 3613–3617 | 168–205 | complete; first-pass-reviewed |
 | கடிதங்கள் 3618–3622 | 206–245 | complete; first-pass-reviewed |
 | கடிதங்கள் 3623–3627 | 246–278 | complete; first-pass-reviewed |
-| மீதமுள்ள PDF | 279–402 | pending |
+| கடிதங்கள் 3628–3632 | 279–315 | complete; first-pass-reviewed |
+| மீதமுள்ள PDF | 316–402 | pending |
 | full-volume Tamil structural audit | — | pending |
 | second visual verification | — | pending |
 | English translation | — | not started; blocked |
+
+## Eighth batch source-fidelity notes
+
+- PDF **279–315** canonical page bodies **37/37** source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- PDF 288 `இருக்` / PDF 289 `கிறதே` page-boundary split மற்றும் PDF 289 printed `(Upgradation Grants)` source-படி பாதுகாக்கப்பட்டன.
+- PDF 308-ன் printed English High Court passage source order-இல் உள்ளது; அதன் Tamil rendering PDF 308–309-ல் source order-இல் தொடர்கிறது.
+- PDF 311 `பிப்ரவரி` / PDF 312 `2ந்தேதியன்று` page-boundary continuation preserve செய்யப்பட்டது.
+- கடிதம் 3632 PDF 315-ல் source-இன்படி comma இல்லாத `அன்புள்ள`, அடுத்து `மு.க.`, தேதி `10-6-12` என முடிகிறது.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -62,4 +72,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **279** / அச்சுப் பக்கம் **278**-இல் தொடங்கும் **3628 — “அலைகடலென ஆர்த்தெழுவோம்!”** முதல் அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3628–3632** batch-ஐ தொடங்க வேண்டும். 3632-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த கடிதத்தின் எந்தப் பகுதியையும் சேர்க்கக் கூடாது.
+PDF பக்கம் **316** / அச்சுப் பக்கம் **315**-இல் தொடங்கும் **3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?”** முதல் அடுத்த normal five-letter transcription iteration-ஐ தொடங்க வேண்டும். Printed contents numbering anomaly (`3636` இல்லை; `3637` இரண்டு முறை) காரணமாக அடுத்த ஐந்து source letters-ன் வரிசையையும் எல்லைகளையும் scan மூலம் உறுதிப்படுத்தி, ஐந்தாவது complete letter-ன் closing/date page-ல் நிறுத்த வேண்டும்.

@@ -40,7 +40,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - PDF 273–278 canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
 - PDF 273 இறுதியின் `(Common Minimum` / PDF 274 தொடக்கத்தின் `Programme)` source page-boundary split அமைதியாக ஒன்றிணைக்கப்படாமல் பாதுகாக்கப்பட்டது.
 - Petrol/diesel price figures and country comparisons source scan-க்கு எதிராக first-pass checked செய்யப்பட்டன.
-- PDF 279 boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3628 — `அலைகடலென ஆர்த்தெழுவோம்!` என தொடங்குகிறது; அதன் canonical body இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF 279 boundary check-ல் 3628 — `அலைகடலென ஆர்த்தெழுவோம்!` தொடக்கம் உறுதிசெய்யப்பட்டது; அதன் canonical record இப்போது அடுத்த chapter-ஆக இணைக்கப்பட்டுள்ளது.
 
 **முந்தைய கடிதம்:** [3626](3626-maanila-arase-seyalpadaatha-nilaiyil.md)  
-**அடுத்த கடிதம்:** 3628 — “அலைகடலென ஆர்த்தெழுவோம்!” — PDF பக்கம் 279 / அச்சுப் பக்கம் 278-இல் தொடக்கம் visually verified; chapter record அடுத்த five-letter batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3628](3628-alaikadalena-aarththezhuvom.md)
