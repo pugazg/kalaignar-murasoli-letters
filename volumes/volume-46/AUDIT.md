@@ -127,6 +127,64 @@ Follow-up high-magnification scan review identified six source-fidelity correcti
 
 The corrections change no letter boundary, printed/PDF page mapping, closing, signature, date, or completion status. PDF 29 required no correction. Letter 3592 remains complete at PDF 24–29 / printed 23–28.
 
+---
+
+## First regular five-letter batch audit — letters 3593–3597 / PDF 30–63
+
+**தணிக்கை நாள்:** 2026-08-14  
+**பரப்பு:** PDF பக்கங்கள் **30–63** / அச்சுப் பக்கங்கள் **29–62**  
+**கடிதங்கள்:** **3593–3597**  
+**batch தொடக்க main HEAD:** `4f606a836fe89e42b5c41beea7f2b91946182ee8`  
+**final-tree rebuild parent after concurrent fidelity correction:** `e0b166e482da0ed39c65b2423d0cde384ba3299e`
+
+### Boundary verification
+
+1. **3593** PDF 30 / printed 29-ல் தொடங்கி PDF 36 / printed 35-ல் `அன்புள்ள, / மு.க. / 10-10-2011` என முடிகிறது.
+2. **3594** PDF 37 / printed 36-ல் தொடங்கி PDF 44 / printed 43-ல் `அன்புள்ள, / மு.க. / 30-10-2011` என முடிகிறது; தேதிக்குப் பின் அச்சிடப்பட்ட parenthetical குறிப்பு source body-யாகப் பாதுகாக்கப்பட்டது.
+3. **3595** PDF 45 / printed 44-ல் தொடங்கி PDF 49 / printed 48-ல் `அன்புள்ள, / மு.க. / 31-10-2011` என முடிகிறது.
+4. **3596** PDF 50 / printed 49-ல் தொடங்கி PDF 56 / printed 55-ல் `அன்புள்ள, / மு.க. / 1-11-2011` என முடிகிறது.
+5. **3597** PDF 57 / printed 56-ல் தொடங்கி PDF 63 / printed 62-ல் `அன்புள்ள, / மு.க. / 4-11-2011` என முடிகிறது.
+6. PDF **64** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3598 — `என் உடன்பிறப்புகள் ஏமாற மாட்டார்கள்!`** என தொடங்குகிறது. `page-064.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Visual comparison / scan-proven corrections
+
+- PDF 30–63-இன் **34/34** canonical page bodies source scans-க்கு எதிராக visually compared செய்யப்பட்டன.
+- PDF 39-ல் date **`11-5-1999`** scan-க்கு எதிராக உறுதிசெய்யப்பட்டது; printed English quotation capitalization/wording source-இன்படி பாதுகாக்கப்பட்டது.
+- PDF 43-ல் scan-supported பெயர் **`சோழநம்பியார்`** மற்றும் wording **`தூக்குத் தண்டனையிலிருந்து`** canonical-ல் அமைக்கப்பட்டது.
+- PDF 45 actual title **`உதவாதினி ஒரு தாமதம்; உடனே விழி; தமிழா!`** scan-இன்படி உறுதிசெய்யப்பட்டது.
+- PDF 47-இன் புறநானூறு பாடல் தனியாக high-resolution scan-க்கு எதிராக line-by-line checked செய்யப்பட்டது; OCR-induced letter substitutions நீக்கப்பட்டன.
+- PDF 49 இறுதி exhortation source-ல் **`உதவாதினி ஒரு தாமதம்; உடனே விழி; தமிழ!`** என அச்சிடப்பட்டுள்ளது. Heading/contents-இன் `தமிழா!` வடிவத்துடன் force-match செய்யப்படவில்லை.
+- PDF 50-ல் OCR-generated malformed Unicode readings scan-க்கு எதிராக `கட்சியினர்`, `உறுப்பினர்` என source-supported glyphs-ஆக சரிசெய்யப்பட்டன.
+- PDF 52-ல் `அதில்` மற்றும் `அளித்ததால்தான்`; PDF 54-ல் **`16 ஓட்டு`** scan-க்கு எதிராக உறுதிசெய்யப்பட்டன.
+- PDF 58-ல் `நான்`, `மருத்துவப் பல்கலைக்`, `வெங்கட்ராமன் பல்கலைக்` readings scan-க்கு எதிராக திருத்தப்பட்டன.
+- PDF 60-ல் running header OCR residue canonical body-யிலிருந்து நீக்கப்பட்டு, source-supported `என்றமைத்திடும் வகையில்` reading பாதுகாக்கப்பட்டது.
+- PDF 63 bullet list, closing மற்றும் date scan-க்கு எதிராக உறுதிசெய்யப்பட்டன.
+
+### Preserved source-specific forms / anomalies
+
+- 3595: heading/contents `தமிழா!`, final exhortation `தமிழ!` — இரண்டும் source-supported; anomaly documented, not normalized.
+- 3596: source-specific **`25ந்தேதி`** wording மற்றும் PDF 53 unusual name **`அய்ரசி`** மாற்றப்படவில்லை.
+- 3594 PDF 44 post-date parenthetical note letter body-யிலிருந்து நீக்கப்படவில்லை.
+- Mixed spacing around abbreviations, dates, punctuation and source quotation forms silently regularise செய்யப்படவில்லை.
+- இந்த PDF 30–63 batch-இல் genuinely missing, duplicated, rotated, damaged அல்லது confidently illegible source page எதுவும் காணப்படவில்லை.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 34; `page-030.md`–`page-063.md` |
+| Completed canonical range | `page-001.md`–`page-063.md` |
+| Complete letters in this batch | exactly 5 — 3593, 3594, 3595, 3596, 3597 |
+| Complete letters cumulative | 6 — 3592–3597 |
+| Partial letter after batch | none |
+| PDF page 64 canonical body included | இல்லை |
+| New pages visually compared | 34 / 34 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 30–63 batch |
+| Chapter navigation | verified for 3592–3597 |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 30–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit log இன்னும் **iteration/batch audit** மட்டுமே. PDF 64–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
