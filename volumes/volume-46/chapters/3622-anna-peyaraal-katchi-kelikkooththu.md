@@ -40,7 +40,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 - PDF 239–245 canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
 - Labour-dispute figures/dates and source-specific wording preserved; PDF 241 scan confirms `2006ஆம் ஆண்டு மே திங்களில்`; PDF 245 closing date `8-5-2012`.
-- PDF 246 boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3623 — `அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?` என தொடங்குகிறது; அதன் canonical body இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF 246 boundary check உறுதி செய்யப்பட்டு, 3623 canonical transcription அடுத்த batch-ல் PDF 246 முதல் தொடங்குகிறது.
 
 **முந்தைய கடிதம்:** [3621](3621-ethaik-kondu-ithaip-paarppathu.md)  
-**அடுத்த கடிதம்:** 3623 — “அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?” — PDF பக்கம் 246 / அச்சுப் பக்கம் 245-இல் தொடக்கம் visually verified; chapter record அடுத்த five-letter batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3623](3623-arasiyal-thiruppam-andru-nadanthathu-enna-enna.md)

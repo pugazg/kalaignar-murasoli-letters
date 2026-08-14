@@ -35,12 +35,17 @@
 | [3620](3620-endru-thaniyum-eezhaththamizhar-thaagam.md) | என்று தணியும் ஈழத்தமிழர் தாகம்! | 28-4-2012 | 220–231 | 221–232 | complete |
 | [3621](3621-ethaik-kondu-ithaip-paarppathu.md) | எதைக் கொண்டு; இதைப் பார்ப்பது? | 5-5-2012 | 232–237 | 233–238 | complete |
 | [3622](3622-anna-peyaraal-katchi-kelikkooththu.md) | அண்ணா பெயரால் கட்சி; கேலிக்கூத்து! | 8-5-2012 | 238–244 | 239–245 | complete |
+| [3623](3623-arasiyal-thiruppam-andru-nadanthathu-enna-enna.md) | அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன? | 14-5-2012 | 245–250 | 246–251 | complete |
+| [3624](3624-kaarirulaal-sooriyandhaan-maraivathundo.md) | காரிருளால் சூரியன்தான் மறைவதுண்டோ? | 21-5-2012 | 251–260 | 252–261 | complete |
+| [3625](3625-oru-suyamariyaathaikkaararin-soolurai.md) | ஒரு சுயமரியாதைக்காரனின் சூளுரை! | 23-05-2012 | 261–265 | 262–266 | complete |
+| [3626](3626-maanila-arase-seyalpadaatha-nilaiyil.md) | மாநில அரசே செயல்படாத நிலையில்... | 25-5-2012 | 266–271 | 267–272 | complete |
+| [3627](3627-thaamathamindri-thakkathor-mudivu-kaanbeer.md) | தாமதமின்றி - தக்கதோர் முடிவு காண்பீர்! | 27-5-2012 | 272–277 | 273–278 | complete |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **24** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **19** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3623 — “அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?”** PDF பக்கம் **246** / அச்சுப் பக்கம் **245**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
+அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3628 — “அலைகடலென ஆர்த்தெழுவோம்!”** PDF பக்கம் **279** / அச்சுப் பக்கம் **278**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
 
 குறிப்பு: printed contents numbering தானே முரண்படுகிறது — `3637` இரண்டு முறை அச்சிடப்பட்டுள்ளது; `3636` இல்லை; `3643`-க்கு அடுத்து `3647` வருகிறது. Actual letter-start pages பின்னர் இதை தெளிவுபடுத்தும் வரை source wording/numbering மாற்றப்படாது.
 
@@ -48,6 +53,8 @@
 
 கடிதம் **3620**-க்கு contents title `என்று தணியும் ஈழத்தமிழா தாகம்!`; actual letter-start title PDF 221-ல் `என்று தணியும் ஈழத்தமிழர் தாகம்!`. இரண்டு source forms-மும் force-match செய்யப்படவில்லை.
 
+கடிதம் **3625**-க்கு contents title `ஒரு சுயமரியாதைக்காரனின் குளுரை!`; actual letter-start title PDF 262-ல் `ஒரு சுயமரியாதைக்காரனின் சூளுரை!`. இரண்டு source forms-மும் force-match செய்யப்படவில்லை.
+
 ## அடுத்த exact task
 
-PDF பக்கம் **246** முதல் கடிதம் **3623**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3623–3627** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3627-ன் verified closing/date page-ல் நிறுத்தி, 3628-ன் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
+PDF பக்கம் **279** முதல் கடிதம் **3628**-ஐ முதல் letter ஆகக் கொண்டு அடுத்த normal **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் 3628–3632** batch-ஐ செயல்படுத்த வேண்டும். கடிதம் 3632-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த கடிதத்தின் எந்தப் பகுதியையும் சேர்க்கக்கூடாது.
