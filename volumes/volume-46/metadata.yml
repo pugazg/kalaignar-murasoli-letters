@@ -26,7 +26,7 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-audit-pending"
+audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-15
 second_visual_verification: "pending"
 translation_status: "not-started"
@@ -39,8 +39,8 @@ source_observations:
   - "Library stamps and handwritten library markings appear in the front matter and are described rather than treated as printed edition text."
   - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
   - "All PDF page rotation metadata is 0 degrees."
-  - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for the pending full-volume audit."
-  - "Every source PDF page 1-402 now has a canonical Markdown page file; full-volume Tamil structural audit and second visual verification remain pending."
+  - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this remains a structural signal and is not a substitute for second visual/textual-fidelity verification."
+  - "Every source PDF page 1-402 has a canonical Markdown page file; full-volume Tamil structural audit is complete and second visual verification remains pending."
   - "Printed contents PDF pages 18-22 contain 55 rows. Complete scan verification confirms the actual source-letter count is also 55."
   - "Source numbering anomalies are real in the scan: after 3635 the source prints 3637 twice with no 3636, and after 3643 the source jumps to 3647 with no 3644-3646. No archival renumbering has been applied."
   - "Letter 3592 spans PDF pages 24-29 / printed pages 23-28 and closes on PDF page 29 with 'அன்புள்ள,', 'மு.க.' and printed date '5-10-2011'."
@@ -87,3 +87,7 @@ source_observations:
   - "Letter 3642 closes on PDF page 370 with printed 'அன்புள்ள' without a following comma, then 'மு.க.' and date '24-7-2012'; this source form is preserved."
   - "PDF 373 preserves the scan's malformed mixed-English sequence 'Chennai örgjiThis' rather than silently repairing it."
   - "Printed contents title for 3647 is 'ஈழத்தமிழா இன்னல் களைந்திட வாரீர்!' while actual PDF 382 heading is 'ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!'; both source forms are preserved."
+  - "Full-volume Tamil structural audit completed on 2026-08-15: source SHA-256, byte size and 402-page count matched metadata; all page rotations were 0 degrees."
+  - "The full-volume audit reconciled 402/402 canonical page records, 55/55 contents rows, 55/55 chapter records and continuous letter PDF coverage 24-400 with no structural gap or overlap."
+  - "High-risk navigation transitions across both numbering anomalies and the volume end were reconciled; no structural inconsistency required a canonical Tamil page correction."
+  - "Full-volume audit is structural/source-boundary validation only; second visual/textual-fidelity verification remains pending and English translation remains blocked."

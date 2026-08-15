@@ -9,36 +9,39 @@
 - [x] Initial mandatory batch PDF 1–25 completed
 - [x] Interrupted letter 3592 completed at PDF 29
 - [x] Regular/source-order transcription iterations completed through PDF 370 / letter 3642
-- [x] Tenth regular five-letter batch committed at `d658bbcec37a0890ca4a59eed640cedc05227b6d`: letters 3638–3642, PDF 344–370 / printed 343–369
-- [x] Final source sequence PDF 371–402 inspected completely
-- [x] Scan confirms actual final letter sequence **3643 → 3647 → 3648 → 3649**; no 3644–3646 source records exist
-- [x] Final-residue batching exception documented: only four source letters remain in the volume, so a normal five-letter iteration is impossible
-- [x] Final four letter boundaries verified: 3643 PDF 371–381, 3647 PDF 382–387, 3648 PDF 388–393, 3649 PDF 394–400
-- [x] Final four closing/date pages verified: PDF 381 `26-07-2012`, PDF 387 `02-08-2012`, PDF 393 `05-08-2012`, PDF 400 `15-8-2012`
-- [x] PDF 401 verified as printed page 400 with no body text and faint reverse-side show-through
-- [x] PDF 402 verified as back cover and transcribed/described without treating the portrait as text
-- [x] All PDF 371–402 canonical page files visually compared with the source scans in this iteration
-- [x] PDF 373 malformed mixed-English source sequence `Chennai örgjiThis` preserved rather than silently repaired
-- [x] 3647 printed-contents `ஈழத்தமிழா...` / actual PDF 382 `ஈழத்தமிழர்...` title discrepancy preserved
-- [x] Page continuity, YAML metadata, Unicode-format controls, duplicate-body and chapter-link checks run for the final residue
-- [x] **All 402 PDF pages now have canonical Markdown page records**
+- [x] Final-residue transcription completed: source records 3643, 3647, 3648, 3649 / PDF 371–402
+- [x] Scan confirms source numbering anomalies: no 3636; two distinct 3637 records; no 3644–3646
+- [x] **All 402 PDF pages have canonical Markdown page records**
 - [x] **55 complete source-letter records verified from the full scan**
-- [x] Source numbering anomalies fully verified: no 3636; two distinct 3637 records; no 3644–3646
-- [ ] Full-volume Tamil structural audit
-- [ ] Second visual verification / translation textual-fidelity gates
+- [x] Full-volume source SHA-256, byte size and 402-page count rechecked against metadata
+- [x] Full-volume page-rotation check: 402/402 at 0°
+- [x] Fresh low-resolution whole-PDF render-hash check: no exact duplicate source page
+- [x] Canonical coverage reconciled as PDF 1–23 front matter, PDF 24–400 letters, PDF 401 blank printed page 400, PDF 402 back cover
+- [x] Contents rows reconciled: **55 / 55**
+- [x] Chapter records reconciled: **55 / 55**
+- [x] Letter PDF ranges reconciled: **24–400 continuous, no structural gap/overlap**
+- [x] High-risk chapter navigation transitions verified across both numbering anomalies and volume end
+- [x] Known contents-title / actual-heading distinctions preserved for 3620, 3625, 3634, second 3637 and 3647
+- [x] Source-incomplete letters: **0**; missing printed pages: **none observed**
+- [x] **Full-volume Tamil structural audit complete — PASS**
+- [ ] Second visual verification / scan-based textual-fidelity gate
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
-## Current transcription state
+## Current state
 
 - Canonical PDF coverage: **1–402 / 402**
 - Source-letter records: **55 complete**
 - Source-incomplete letters: **0**
-- Missing printed pages: **none observed**
-- First-pass transcription: **complete**
-- Full-volume Tamil structural audit: **pending**
-- English translation: **blocked**
+- Full-volume Tamil structural audit: **complete**
+- Second visual/textual-fidelity verification: **pending**
+- English translation: **blocked pending textual-fidelity review**
+- Bilingual alignment: **not started**
+
+## Audit boundary
+
+The completed structural audit validates repository/page coverage, source identity, letter boundaries, contents/chapter mapping, navigation and source-number anomalies. It does **not** claim the separate character-level second visual verification.
 
 ## Exact next task
 
-Run the **full-volume Tamil structural audit** for Volume 46. Verify all `page-001.md`–`page-402.md` continuity and metadata, all 55 chapter boundaries and navigation links, contents-to-actual-heading distinctions, the verified numbering anomalies (`3636` absent; `3637` duplicated; `3644–3646` absent), front/back matter coverage, missing/duplicate-page signals, and structural consistency across `metadata.yml`, `contents/index.md`, `chapters/README.md`, and chapter files. Do **not** begin English translation until the full-volume audit and required fidelity gates pass.
+Begin **Volume 46 second visual / textual-fidelity verification at PDF 001**. Compare canonical Markdown directly with the scan, record any scan-proven corrections, preserve source-specific wording/punctuation/anomalies, and maintain explicit coverage reports. Do not begin English translation until the relevant textual-fidelity gate passes.

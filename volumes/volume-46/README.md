@@ -6,15 +6,16 @@
 **பதிப்பகம்:** சீதை பதிப்பகம்  
 **PDF:** 402 பக்கங்கள்; நூலில் குறிப்பிடப்பட்ட அச்சுப் பக்கங்கள்: 400
 
-## Transcription நிலை
+## தற்போதைய archival நிலை
 
-- Source intake, SHA-256, byte size, page count மற்றும் searchable-text-layer நிலை பதிவு செய்யப்பட்டுள்ளன.
 - PDF **1–402 / 402** அனைத்திற்கும் canonical Markdown page files உள்ளன.
-- **55 complete source-letter records** scan sequence-இலிருந்து verified செய்யப்பட்டுள்ளன.
-- First-pass transcription **complete**; full-volume Tamil structural audit இன்னும் **pending**.
-- English translation தொடங்கப்படவில்லை; translation gate **blocked**.
+- **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
+- First-pass Tamil transcription: **complete**.
+- Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
+- Second visual / textual-fidelity verification: **pending**.
+- English translation: **not started; blocked pending textual-fidelity review**.
 
-## நிறைவேற்றப்பட்ட transcription batches
+## நிறைவேற்றப்பட்ட transcription structure
 
 - Mandatory first batch: PDF **1–25**; interrupted 3592 completion PDF **26–29**.
 - 3593–3597: PDF **30–63** / printed **29–62**.
@@ -27,51 +28,45 @@
 - 3628–3632: PDF **279–315** / printed **278–314**.
 - Source-order anomaly batch 3633, 3634, 3635, 3637, 3637: PDF **316–343** / printed **315–342**.
 - 3638–3642: PDF **344–370** / printed **343–369**.
-- Final-residue exception: **3643, 3647, 3648, 3649**, PDF **371–400** / printed **370–399**, followed by blank printed page 400 at PDF 401 and back cover at PDF 402.
+- Final-residue exception: 3643, 3647, 3648, 3649 at PDF **371–400** / printed **370–399**, followed by blank printed page 400 at PDF 401 and back cover at PDF 402.
 
-The final residue has only **four** source letters. A fifth source record does not exist before the volume ends, so the repository's documented smaller-batch exception is used for the final transcription iteration.
+## Source numbering anomalies — verified
 
-## Source numbering anomalies — fully verified
+- Actual scan sequence: **3635 → 3637 → 3637**; **3636 இல்லை**.
+- Later actual scan sequence: **3643 → 3647**; **3644–3646 இல்லை**.
+- இரண்டு `3637` source records தனித்துவமான records; stable chapter filenames அவற்றை வேறுபடுத்துகின்றன.
+- Repository source numbering-ஐ மறுஎண்ணிடவில்லை.
 
-- Actual scan sequence goes **3635 → 3637 → 3637**. There is **no 3636** source record.
-- Actual scan sequence later goes **3643 → 3647**. There are **no 3644–3646** source records.
-- These are not contents-only omissions: the full letter-start scan sequence confirms them.
-- Repository numbering is source-faithful; no archival renumbering has been applied.
+இதனால் nominal numeric span 3592–3649 என்றாலும் actual source-record count **55**.
 
 ## Contents / actual-heading distinctions preserved
 
 - 3620 contents `என்று தணியும் ஈழத்தமிழா தாகம்!`; actual PDF 221 `என்று தணியும் ஈழத்தமிழர் தாகம்!`.
 - 3625 contents `ஒரு சுயமரியாதைக்காரனின் குளுரை!`; actual PDF 262 `ஒரு சுயமரியாதைக்காரனின் சூளுரை!`.
-- 3634 contents uses comma; actual PDF 322 heading uses semicolon.
+- 3634 contents comma; actual PDF 322 heading semicolon.
 - Second 3637 contents `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!`; actual PDF 343 `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`.
 - 3647 contents `ஈழத்தமிழா இன்னல் களைந்திட வாரீர்!`; actual PDF 382 `ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!`.
 
-## Final-residue source-fidelity notes
+## Full-volume Tamil structural audit result
 
-- PDF **371–402** canonical page bodies **32/32** source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
-- 3643 closes PDF 381 with `அன்புள்ள, / மு.க. / 26-07-2012`.
-- PDF 373 source-இல் malformed mixed-English sequence `Chennai örgjiThis` அப்படியே பாதுகாக்கப்பட்டது.
-- 3647 PDF 382–387; international/Tamil representative names source scan-இலிருந்தே transcribe செய்யப்பட்டன; outside normalization பயன்படுத்தப்படவில்லை.
-- 3648 PDF 388–393; drought/cultivation figures and dates source order-இல் பாதுகாக்கப்பட்டன.
-- 3649 PDF 394–400; PDF 398–399 bullet lists source order/punctuation-இல் பாதுகாக்கப்பட்டன; PDF 400 closes `அன்புள்ள, / மு.க. / 15-8-2012`.
-- PDF 401 body text இல்லாத printed page 400; faint reverse-side show-through மட்டும்.
-- PDF 402 back cover-ல் publisher/distributor details, `1924 - 2018`, `அட்டை : ஜெ.ஜெ டிசைன்ஸ்`, `ஆகஸ்ட் 2022`, QR, `GO 2300`, `ரூ.300` source-supported form-இல் பதிவு செய்யப்பட்டன. Portrait image தனிநபர் அடையாளமாகப் படிக்கப்படவில்லை.
+2026-08-15 audit-ல்:
 
-## தற்போதைய நிலை
+- source SHA-256, byte size மற்றும் **402-page** count metadata-உடன் rechecked;
+- all 402 source pages rotation **0°**;
+- fresh low-resolution whole-PDF render-hash scan-ல் exact duplicate source page இல்லை;
+- canonical page range `page-001.md`–`page-402.md` reconciled;
+- contents rows **55 / 55** and chapter records **55 / 55** reconciled;
+- source-letter PDF coverage **24–400** continuous என்று verified;
+- source-incomplete record **0**; missing printed pages **none observed**;
+- anomaly navigation `3635 → 3637 → 3637 → 3638` மற்றும் `3643 → 3647` தனியாக verified;
+- first/last/non-letter structure (front cover, contents, blank pages, final blank page, back cover) reconciled;
+- structural correction தேவைப்படும் canonical Tamil defect எதுவும் இந்த audit-ல் கண்டறியப்படவில்லை.
 
-| பகுதி | PDF பக்கங்கள் | நிலை |
-|---|---:|---|
-| front matter / contents / blank | 1–23 | canonical recorded |
-| source letters | 24–400 | 55 complete; first-pass-reviewed |
-| final blank printed page | 401 | recorded / first-pass-reviewed |
-| back cover | 402 | recorded / first-pass-reviewed |
-| full-volume Tamil structural audit | — | pending |
-| second visual verification | — | pending |
-| English translation | — | not started; blocked |
+இந்த structural pass **second visual verification அல்ல**. ஒவ்வொரு canonical page-ஐ scan-க்கு எதிராக close character-level review செய்யும் textual-fidelity gate இன்னும் pending.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
-- [Batch audit log](AUDIT.md)
+- [Full-volume Tamil audit](AUDIT.md)
 - [Progress](PROGRESS.md)
 - [Printed contents](contents/index.md)
 - [Letters / chapters](chapters/README.md)
@@ -79,4 +74,4 @@ The final residue has only **four** source letters. A fifth source record does n
 
 ## அடுத்த exact task
 
-**Full-volume Tamil structural audit** செய்ய வேண்டும். PDF 1–402 page continuity, all 55 source-letter boundaries, contents/chapter links, source numbering anomalies, metadata consistency, front/back matter coverage மற்றும் missing/duplicate-page signals ஆகியவற்றை volume-level-ல் verify செய்ய வேண்டும். அந்த audit pass ஆகும் முன் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification**-ஐ PDF **001** முதல் தொடங்க வேண்டும். Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ report செய்ய வேண்டும். Relevant fidelity gate pass ஆகும் வரை English translation தொடங்கக்கூடாது.

@@ -60,14 +60,21 @@
 | [3648](3648-vivasayigal-vedhanaiyum-vidhavidhamaana-arikkaigalum.md) | விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்! | 05-08-2012 | 387–392 | 388–393 | complete |
 | [3649](3649-vazhakkai-ethirnokkirom.md) | வழக்கை எதிர்நோக்குகிறோம்! | 15-8-2012 | 393–399 | 394–400 | complete |
 
-## Source-numbering verification
+## Full-volume structural audit state
 
-முழு source scan இப்போது PDF **1–402** வரை transcribe செய்யப்பட்டதால் source-letter sequence முழுமையாக உறுதிசெய்யப்பட்டுள்ளது. Actual scan **3635 → 3637 → 3637** என்று செல்கிறது; `3636` source record இல்லை. பின்னர் **3643 → 3647** என்று நேரடியாகச் செல்கிறது; `3644–3646` source records இல்லை. Repository எந்த source record-ஐயும் மறுஎண்ணிடவில்லை.
+- Source-letter records: **55 / 55 complete**.
+- Contents rows ↔ chapter records: **55 / 55 reconciled**.
+- Letter PDF coverage: **24–400 continuous**.
+- `3636` source record இல்லை; `3637` இரண்டு distinct records.
+- `3644–3646` source records இல்லை; 3643-க்கு அடுத்து source 3647.
+- High-risk navigation transitions `3635 → 3637 → 3637 → 3638` மற்றும் `3643 → 3647` verified.
+- 3592 first-record navigation மற்றும் 3649 volume-end navigation verified.
+- PDF 401 blank printed page 400; PDF 402 back cover — chapter records அல்ல.
+- Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
+- Second visual/textual-fidelity verification: **pending**.
 
 Printed contents / actual-heading வேறுபாடுகள் source context-களில் தனித்தனியாகப் பாதுகாக்கப்பட்டுள்ளன; குறிப்பாக 3620, 3625, 3634, இரண்டாவது 3637 மற்றும் 3647 records.
 
-PDF **401** என்பது அச்சுப் பக்கம் 400 உடைய blank body page; PDF **402** பின்அட்டை. அவை letter records அல்ல, canonical page files ஆக மட்டும் பதிவு செய்யப்பட்டுள்ளன.
-
 ## அடுத்த exact task
 
-அனைத்து **402 PDF pages** மற்றும் **55 complete source records** first-pass transcription முடிந்துள்ளது. அடுத்த கட்டம் **full-volume Tamil structural audit**: page continuity, letter-boundary coverage, contents/chapter cross-links, source-number anomalies, structural metadata மற்றும் missing/duplicate-page checks-ஐ முழுத் தொகுதி அளவில் மீளச் சரிபார்க்க வேண்டும். English translation இன்னும் blocked.
+PDF **001** முதல் **second visual / textual-fidelity verification** தொடங்க வேண்டும். Canonical page text-ஐ source scan-க்கு எதிராக close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ fidelity report(s)-ல் பதிவு செய்ய வேண்டும். Relevant fidelity gate pass ஆகும் வரை English translation தொடங்கக்கூடாது.
