@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–175 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **15 pages / 17 spans**.
-- Complete letters with full second-pass coverage: **3592–3613**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–200 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **16 pages / 18 spans**.
+- Complete letters with full second-pass coverage: **3592–3616**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -133,10 +133,20 @@
 - PDF 172 preserves source spacing `சட்ட முன் வடிவை`.
 - PDF 173 preserves `ஈ.எஸ்.எஸ்.` and source form `சட்டமாகக்கொண்டு`.
 - Letters 3610, 3611, 3612 and 3613 passed through closing/date pages PDF 155, 162, 167 and 174.
-- PDF 175 begins letter 3614 and is only partial fidelity coverage for that letter.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_151_175.md](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md).
 
-Cumulative second-pass source coverage is now **PDF 001–175 / 402**, with **15 corrected pages / 17 spans**. Complete source letters **3592–3613** have full second-pass coverage; letter **3614** remains partial.
+### PDF 176–200
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **1 page / 1 span**.
+- PDF 179 restored source spacing `கொடை நாட்டை` instead of joined `கொடைநாட்டை`.
+- Letters 3614, 3615 and 3616 passed through closing/date pages PDF 180, 189 and 195.
+- PDF 189 preserves source-specific `குழ்ச்சிகளிலே` and `எசிப் பேசி`; PDF 191 preserves `வடக்குக்கோட்டை தீர்மானம்`.
+- PDF 193 printed English resolution was checked directly against the scan.
+- PDF 196–200 is partial fidelity coverage for letter 3617.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_176_200.md](translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md).
+
+Cumulative second-pass source coverage is now **PDF 001–200 / 402**, with **16 corrected pages / 18 spans**. Complete source letters **3592–3616** have full second-pass coverage; letter **3617** remains partial through PDF 200.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -149,4 +159,4 @@ Cumulative second-pass source coverage is now **PDF 001–175 / 402**, with **15
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 176–200**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 201–225**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3617-ஐ முடித்து அடுத்த source letters-ஐத் தொடரும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
