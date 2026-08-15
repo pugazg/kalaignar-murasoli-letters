@@ -14,7 +14,8 @@ English translation has not begun.
   - [x] PDF **076–100** passed on **2026-08-15** — 25/25 pages checked; 3 scan-proven canonical corrections.
   - [x] PDF **101–125** passed on **2026-08-15** — 25/25 pages checked; 3 scan-proven canonical corrections.
   - [x] PDF **126–150** passed on **2026-08-15** — 25/25 pages checked; 2 corrected pages / 3 scan-proven corrected spans.
-  - [ ] PDF **151–402** remains to be second-pass verified.
+  - [x] PDF **151–175** passed on **2026-08-15** — 25/25 pages checked; 5 corrected pages / 6 scan-proven corrected spans.
+  - [ ] PDF **176–402** remains to be second-pass verified.
 
 The complete source sequence confirms no `3636` source record, two distinct `3637` records, and no `3644–3646` source records. These anomalies remain part of the source model used for later translation and alignment.
 
@@ -28,8 +29,9 @@ Fidelity reports completed:
 - [`translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md)
 - [`translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md)
 - [`translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md)
+- [`translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md)
 
-Cumulative scan-based coverage now reaches PDF **150**. Complete source letters **3592–3609** have full second-pass coverage. Across the completed fidelity ranges, **10 pages / 11 spans** have required scan-proven correction: PDF 052, 066, 079, 097, 099, 114, 119, 122, 126 and 142. Letter **3610** is second-pass checked through PDF 150 and continues beyond that page.
+Cumulative scan-based coverage now reaches PDF **175**. Complete source letters **3592–3613** have full second-pass coverage. Across the completed fidelity ranges, **15 pages / 17 spans** have required scan-proven correction: PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172 and 173. Letter **3614** is second-pass checked only at PDF 175 and continues beyond that page.
 
 When translation work begins, Volume 49's approved bilingual order, translator’s note, glossary discipline, source checking and bilingual alignment workflow will be applied without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -37,4 +39,4 @@ Current state: **translation not started; Tamil second visual/textual-fidelity r
 
 ## Exact next task
 
-Second-pass verify **PDF 151–175**. Continue letter 3610 and subsequent source letters, correct only scan-proven defects, and record the next fidelity range. Do not begin English translation in this activity.
+Second-pass verify **PDF 176–200**. Continue letter 3614 and subsequent source letters, correct only scan-proven defects, and record the next fidelity range. Do not begin English translation in this activity.

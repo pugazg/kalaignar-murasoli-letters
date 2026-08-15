@@ -31,7 +31,8 @@
   - [x] PDF **076–100** — 25/25 visually compared; **3 corrected pages / 3 spans**
   - [x] PDF **101–125** — 25/25 visually compared; **3 corrected pages / 3 spans**
   - [x] PDF **126–150** — 25/25 visually compared; **2 corrected pages / 3 spans**
-  - [ ] PDF **151–402**
+  - [x] PDF **151–175** — 25/25 visually compared; **5 corrected pages / 6 spans**
+  - [ ] PDF **176–402**
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -41,17 +42,18 @@
 - Source-letter records: **55 complete**
 - Source-incomplete letters: **0**
 - Full-volume Tamil structural audit: **complete**
-- Second visual/textual-fidelity verification: **in progress — PDF 001–150 passed**
-- Textual-fidelity reports: **6**
+- Second visual/textual-fidelity verification: **in progress — PDF 001–175 passed**
+- Textual-fidelity reports: **7**
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md`
-- Scan-proven canonical corrections in completed second-pass range: **10 pages / 11 spans**
-- Complete letters with full second-pass coverage: **3592–3609**
-- Letter **3610**: fidelity checked through PDF 150; continues beyond this page
+  - `translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md`
+- Scan-proven canonical corrections in completed second-pass range: **15 pages / 17 spans**
+- Complete letters with full second-pass coverage: **3592–3613**
+- Letter **3614**: fidelity checked only at PDF 175; continues beyond this page
 - English translation: **not started**
 - Bilingual alignment: **not started**
 
@@ -106,7 +108,18 @@
 - PDF 142 corrected first-pass `வைத்தகத்திலிருந்து` to source `வைதீகத்திலிருந்து`.
 - PDF 142 corrected first-pass `பார்ப்பனைக் சாதி` to source `நால்வகைச் சாதி`.
 - Canonical corrections: **2 pages / 3 spans**.
-- PDF 146–150 begins/continues letter 3610; that letter remains incomplete for this gate.
+
+### PDF 151–175
+
+- All **25/25** pages directly compared with rendered source scans.
+- Letter 3610 completed at PDF 155; letters 3611, 3612 and 3613 checked through their closings at PDF 162, 167 and 174.
+- PDF 154 restored source spacing `3லட்சம்` instead of `3 லட்சம்`.
+- PDF 160 corrected first-pass `குறிப்பிட்டத்தக்க` to source `குறிப்பிடத்தக்க`.
+- PDF 161 restored source-joined `முட்டுக்கட்டைபோட்டு`.
+- PDF 172 restored source spacing `சட்ட முன் வடிவை`.
+- PDF 173 restored source initials `ஈ.எஸ்.எஸ்.` and corrected `சட்டமாக்கொண்டு` to `சட்டமாகக்கொண்டு`.
+- Canonical corrections: **5 pages / 6 spans**.
+- PDF 175 begins letter 3614; that letter remains incomplete for this gate.
 
 ## Audit boundary
 
@@ -114,4 +127,4 @@ The completed structural audit validates repository/page coverage, source identi
 
 ## Exact next task
 
-Visually compare **PDF 151–175** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3610 and subsequent source letters. Do not begin English translation in this activity.
+Visually compare **PDF 176–200** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3614 and subsequent source letters. Do not begin English translation in this activity.
