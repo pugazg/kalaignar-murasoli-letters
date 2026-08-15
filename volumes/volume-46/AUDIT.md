@@ -132,8 +132,8 @@ Structural state after this audit and subsequent fidelity work:
 - numbering anomalies reconciled: **yes**;
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
-- second visual/textual-fidelity verification: **in progress — PDF 001–275 passed**;
-- scan-proven canonical corrections in PDF 001–275: **25 pages / 27 spans**;
+- second visual/textual-fidelity verification: **in progress — PDF 001–300 passed**;
+- scan-proven canonical corrections in PDF 001–300: **26 pages / 28 spans**;
 - English translation: **not started**.
 
 ## முக்கிய status boundary
@@ -273,16 +273,28 @@ Detailed report: [TEXTUAL_FIDELITY_AUDIT_251_275.md](translations/en/TEXTUAL_FID
 - Letter 3623 passed through closing/date page PDF 251; letters 3624, 3625 and 3626 passed through closing/date pages PDF 261, 266 and 272.
 - PDF 273–275 is only partial coverage for letter 3627.
 
+### Report 12 — PDF 276–300
+
+Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md)
+
+- New PDF pages visually compared: **25 / 25**.
+- Scan-proven canonical corrections: **1 page / 1 span**.
+- PDF 299 corrected first-pass `வசிப்படும்` to source `அவதிப்படும்` in the phrase `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`.
+- Letter 3627 passed through closing/date page PDF 278; letters 3628 and 3629 passed through closing/date pages PDF 286 and 295.
+- PDF 288–289 source page-boundary split `இருக்` → `கிறதே` and PDF 289 `(Upgradation Grants)` were rechecked and retained.
+- PDF 290 source wording `இரண்டு இலட்சம் ரூபாய்க்கான ஒதுக்கீடும்` was rechecked and retained without normalization.
+- PDF 296–300 is only partial coverage for letter 3630.
+
 ### Cumulative fidelity state
 
-- Second-pass coverage: **PDF 001–275 / 402**.
-- Total pages second-pass checked: **275**.
-- Total scan-proven canonical corrections: **25 pages / 27 spans**.
-- Complete source letters with full second-pass coverage: **3592–3626**.
-- Letter 3627: PDF 273–275 checked so far; fidelity gate incomplete.
+- Second-pass coverage: **PDF 001–300 / 402**.
+- Total pages second-pass checked: **300**.
+- Total scan-proven canonical corrections: **26 pages / 28 spans**.
+- Complete source letters with full second-pass coverage: **3592–3629**.
+- Letter 3630: PDF 296–300 checked so far; fidelity gate incomplete.
 
-This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 276 onward.
+This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 301 onward.
 
 ## Exact next task
 
-Continue second visual / textual-fidelity verification with **PDF 276–300**. Continue letter 3627 and subsequent source letters, correct only scan-proven canonical defects, and record the range in the next fidelity report. Do not begin English translation in this activity.
+Continue second visual / textual-fidelity verification with **PDF 301–325**. Continue letter 3630 and subsequent source letters, correct only scan-proven canonical defects, and record the range in the next fidelity report. Do not begin English translation in this activity.

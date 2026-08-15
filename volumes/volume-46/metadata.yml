@@ -29,7 +29,7 @@ source_missing_printed_pages: []
 audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-15
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-275"
+second_visual_verified_page_range: "1-300"
 textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md"
@@ -42,6 +42,7 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md"
 translation_status: "not-started"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
@@ -53,7 +54,7 @@ source_observations:
   - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
   - "All PDF page rotation metadata is 0 degrees."
   - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this remains a structural signal and is not a substitute for second visual/textual-fidelity verification."
-  - "Every source PDF page 1-402 has a canonical Markdown page file; full-volume Tamil structural audit is complete and second visual verification is in progress through PDF 275."
+  - "Every source PDF page 1-402 has a canonical Markdown page file; full-volume Tamil structural audit is complete and second visual verification is in progress through PDF 300."
   - "Printed contents PDF pages 18-22 contain 55 rows. Complete scan verification confirms the actual source-letter count is also 55."
   - "Source numbering anomalies are real in the scan: after 3635 the source prints 3637 twice with no 3636, and after 3643 the source jumps to 3647 with no 3644-3646. No archival renumbering has been applied."
   - "Letter 3592 spans PDF pages 24-29 / printed pages 23-28 and closes on PDF page 29 with 'அன்புள்ள,', 'மு.க.' and printed date '5-10-2011'."
@@ -150,3 +151,6 @@ source_observations:
   - "PDF 273 fidelity correction restored source 'குறைந்த பட்சத் திட்டங்கள்' while preserving the printed page-end '(Common Minimum'."
   - "PDF 274 fidelity correction restored source spacing 'தா.பாண்டியனும்'; the page begins 'Programme)' as printed."
   - "Cumulative second-pass coverage is PDF 001-275 with 25 corrected pages / 27 corrected spans; complete letters 3592-3626 are fully fidelity-checked and letter 3627 is only partially checked through PDF 275."
+  - "Second visual/textual-fidelity audit PDF 276-300 completed on 2026-08-15: 25/25 pages directly compared with rendered source scans; one canonical page required one scan-proven corrected span, on PDF 299."
+  - "PDF 299 fidelity correction changed first-pass 'வசிப்படும்' to source 'அவதிப்படும்' in 'போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு'."
+  - "Cumulative second-pass coverage is PDF 001-300 with 26 corrected pages / 28 corrected spans; complete letters 3592-3629 are fully fidelity-checked and letter 3630 is only partially checked through PDF 300."

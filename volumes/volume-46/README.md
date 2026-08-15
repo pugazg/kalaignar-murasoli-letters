@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–275 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **25 pages / 27 spans**.
-- Complete letters with full second-pass coverage: **3592–3626**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–300 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **26 pages / 28 spans**.
+- Complete letters with full second-pass coverage: **3592–3629**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -182,7 +182,18 @@
 - PDF 273–275 is partial fidelity coverage for letter 3627.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_251_275.md](translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md).
 
-Cumulative second-pass source coverage is now **PDF 001–275 / 402**, with **25 corrected pages / 27 spans**. Complete source letters **3592–3626** have full second-pass coverage; letter **3627** remains partial through PDF 275.
+### PDF 276–300
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **1 page / 1 span**.
+- PDF 299 corrected first-pass `வசிப்படும்` to source `அவதிப்படும்` in `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`.
+- Letter 3627 completed at PDF 278; letters 3628 and 3629 passed through closing/date pages PDF 286 and 295.
+- PDF 288–289 preserves the source page-boundary split `இருக்` → `கிறதே`; PDF 289 preserves `(Upgradation Grants)`.
+- PDF 290 preserves the source-printed wording `இரண்டு இலட்சம் ரூபாய்க்கான ஒதுக்கீடும்` without normalization.
+- PDF 296–300 is partial fidelity coverage for letter 3630.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md).
+
+Cumulative second-pass source coverage is now **PDF 001–300 / 402**, with **26 corrected pages / 28 spans**. Complete source letters **3592–3629** have full second-pass coverage; letter **3630** remains partial through PDF 300.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -195,4 +206,4 @@ Cumulative second-pass source coverage is now **PDF 001–275 / 402**, with **25
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 276–300**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3627-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 301–325**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3630-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
