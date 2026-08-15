@@ -45,14 +45,19 @@
 | [3630](3630-virikkira-perugum-virinji-vidugiren.md) | விரிக்கிற பெருகும்; விரிஞ்சி விடுகிறேன்! | 8-6-2012 | 295–303 | 296–304 | complete |
 | [3631](3631-jananaayagam-kelip-porulaagi-viduvatha.md) | ஜனநாயகம் கேலிப் பொருளாகி விடுவதா? | 9-6-2012 | 304–309 | 305–310 | complete |
 | [3632](3632-otherwise-janaathipathi.md) | “OTHERWISE - ஜனாதிபதி” | 10-6-12 | 310–314 | 311–315 | complete |
+| [3633](3633-yaar-petra-pillaikku-yaar-thaai-murai-koruvathu.md) | யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது? | 11-6-2012 | 315–320 | 316–321 | complete |
+| [3634](3634-thalaimai-seyarkuzhu-thakka-mudivedukkum.md) | தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்! | 21-6-2012 | 321–327 | 322–328 | complete |
+| [3635](3635-kalam-kaana-thudikkuthu-kazhagappadai.md) | களம் காணத் துடிக்குது, கழகப்படை! | 27-06-2012 | 328–334 | 329–335 | complete |
+| [3637](3637-indre-selga-inithe-velga.md) | “இன்றே செல்க! இனிதே வெல்க!” என வாழ்த்தி வழியனுப்புகிறேன்! | 3-7-2012 | 335–341 | 336–342 | complete |
+| [3637](3637-en-uyirinumelana-anbu-udanpirappukkale.md) | என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே! | 05-07-2012 | 342 | 343 | complete |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **14** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
+அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **9** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?”** PDF பக்கம் **316** / அச்சுப் பக்கம் **315**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
+Scan source sequence PDF **329–343** itself confirms the numbering anomaly: 3635-க்கு அடுத்து **3637** வருகிறது; **3636** இல்லை; அதற்குப் பின் தனித்துவமான இன்னொரு source item-மும் **3637** என்றே அச்சிடப்பட்டுள்ளது. Repository எந்த source record-ஐயும் மறுஎண்ணிடவில்லை.
 
-குறிப்பு: printed contents numbering தானே முரண்படுகிறது — `3637` இரண்டு முறை அச்சிடப்பட்டுள்ளது; `3636` இல்லை; `3643`-க்கு அடுத்து `3647` வருகிறது. Actual letter-start pages பின்னர் இதை தெளிவுபடுத்தும் வரை source wording/numbering மாற்றப்படாது.
+அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?”** PDF பக்கம் **344** / அச்சுப் பக்கம் **343**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
 
 கடிதம் **3595**-க்கு contents மற்றும் actual heading இரண்டிலும் `தமிழா!` உள்ளது; ஆனால் அதன் இறுதி exhortation PDF 49-ல் source-இன்படி `தமிழ!` என்று உள்ளது. Chapter/page files இந்த வேறுபாட்டை வெளிப்படையாகப் பாதுகாக்கின்றன.
 
@@ -60,6 +65,10 @@
 
 கடிதம் **3625**-க்கு contents title `ஒரு சுயமரியாதைக்காரனின் குளுரை!`; actual letter-start title PDF 262-ல் `ஒரு சுயமரியாதைக்காரனின் சூளுரை!`. இரண்டு source forms-மும் force-match செய்யப்படவில்லை.
 
+கடிதம் **3634**-க்கு contents title `தலைமைச் செயற்குழு, தக்க முடிவெடுக்கும்!`; actual PDF 322 heading `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`. இரண்டு source forms-மும் தனித்தனியாகப் பாதுகாக்கப்பட்டுள்ளன.
+
+இரண்டாவது **3637** source item-க்கு contents title `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!`; actual PDF 343 heading `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`. இரண்டு source forms-மும் தனித்தனியாகப் பாதுகாக்கப்பட்டுள்ளன.
+
 ## அடுத்த exact task
 
-PDF பக்கம் **316** / அச்சுப் பக்கம் **315**-இல் தொடங்கும் **3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?”** முதல் அடுத்த normal five-letter transcription iteration-ஐ தொடங்க வேண்டும். Printed contents numbering anomaly (`3636` இல்லை; `3637` இரண்டு முறை) காரணமாக அடுத்த source sequence-ஐ scan boundaries மூலமே உறுதிப்படுத்த வேண்டும்; ஐந்தாவது complete source letter-ன் verified closing/date page-ல் நிறுத்த வேண்டும்.
+PDF பக்கம் **344** / அச்சுப் பக்கம் **343**-இல் தொடங்கும் **3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?”** முதல் அடுத்த normal five-complete-source-letter transcription iteration-ஐ தொடங்க வேண்டும். ஐந்தாவது complete source letter-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த source letter-ன் எந்த canonical body-ஐயும் சேர்க்கக்கூடாது.

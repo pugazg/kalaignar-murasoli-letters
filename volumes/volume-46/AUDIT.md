@@ -65,7 +65,7 @@
 3. **3630** PDF 296 / printed 295-ல் தொடங்கி PDF 304 / printed 303-ல் `அன்புள்ள, / மு.க. / 8-6-2012` என முடிகிறது.
 4. **3631** PDF 305 / printed 304-ல் தொடங்கி PDF 310 / printed 309-ல் `அன்புள்ள, / மு.க. / 9-6-2012` என முடிகிறது.
 5. **3632** PDF 311 / printed 310-ல் தொடங்கி PDF 315 / printed 314-ல் source-இன்படி comma இல்லாத `அன்புள்ள / மு.க. / 10-6-12` என முடிகிறது.
-6. PDF **316** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`** என தொடங்குகிறது. `page-316.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+6. PDF **316** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`** என தொடங்குகிறது. `page-316.md` அந்த batch-ல் உருவாக்கப்படவில்லை.
 
 ### Visual comparison / source-fidelity notes
 
@@ -98,10 +98,63 @@
 | Chapter navigation | verified for 3627–3632 |
 | English translation | not started; blocked |
 
+---
+
+## Ninth source-order five-record batch audit — 3633, 3634, 3635, 3637, 3637 / PDF 316–343
+
+**தணிக்கை நாள்:** 2026-08-15  
+**பரப்பு:** PDF பக்கங்கள் **316–343** / அச்சுப் பக்கங்கள் **315–342**  
+**source records:** **3633, 3634, 3635, 3637, 3637**  
+**batch தொடக்க main HEAD:** `bb99d371617dc8ac45e3f9255269bab7b68a19a1`
+
+### Boundary verification
+
+1. **3633** PDF 316 / printed 315-ல் தொடங்கி PDF 321 / printed 320-ல் `அன்புள்ள, / மு.க. / 11-6-2012` என முடிகிறது.
+2. **3634** PDF 322 / printed 321-ல் தொடங்கி PDF 328 / printed 327-ல் `அன்புள்ள, / மு.க. / 21-6-2012` என முடிகிறது.
+3. **3635** PDF 329 / printed 328-ல் தொடங்கி PDF 335 / printed 334-ல் `அன்புள்ள, / மு.க. / 27-06-2012` என முடிகிறது.
+4. முதல் **3637** PDF 336 / printed 335-ல் தொடங்கி PDF 342 / printed 341-ல் `அன்புள்ள, / மு.க. / 3-7-2012` என முடிகிறது.
+5. இரண்டாவது தனித்துவமான **3637** PDF 343 / printed 342-ல் தொடங்கி அதே பக்கத்தில் handwritten signature image, printed `தலைவர், தி.மு.க.` மற்றும் `05-07-2012` உடன் முடிகிறது.
+6. PDF **344** boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது **3638 — `பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?`** என தொடங்குகிறது. `page-344.md` இந்த batch-ல் உருவாக்கப்படவில்லை.
+
+### Source numbering / title anomalies
+
+- Scan source sequence-மே **3635 → 3637 → 3637** என்று செல்கிறது; இடையில் **3636 source record இல்லை**. Repository 3636-ஐ உருவாக்கவோ, இரு 3637 records-ஐ மறுஎண்ணிடவோ இல்லை.
+- **3634:** printed contents `தலைமைச் செயற்குழு, தக்க முடிவெடுக்கும்!`; actual PDF 322 heading `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`.
+- முதல் **3637:** contents `“இன்றே செல்க! இனிதே வெல்க!”என வாழ்த்தி வழியனுப்புகிறேன்!`; actual PDF 336 heading-ல் closing quote-க்கு பின் space உள்ளது.
+- இரண்டாவது **3637:** contents `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!`; actual PDF 343 heading `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`.
+
+### Visual comparison / source-fidelity notes
+
+- PDF 316–343-இன் **28/28** canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- PDF 325 இறுதியின் **`உழைத்த`** / PDF 326 தொடக்கத்தின் **`தைத் தவிர`** source page-boundary split அமைதியாக ஒன்றிணைக்கப்படவில்லை.
+- PDF 338 targeted magnified recheck source-supported **`கட்-அவுட்கள்`**, **`முகம்சுளிக்கும்`**, **`ஐயம் திரிபற`** readings-ஐ canonical text-ல் உறுதிசெய்தது.
+- PDF 343-ல் handwritten signature image உள்ளது; அது printed text-ஆக ஊகிக்கப்படாமல் `[கையெழுத்துக் கையொப்பம்]` என factual description மட்டும் பெறுகிறது.
+- PDF 343-ன் verse-like line breaks, repeated `நன்றி! நன்றி! நன்றி!`, printed designation மற்றும் date source order-இல் பாதுகாக்கப்பட்டன.
+- இந்த PDF 316–343 batch-இல் missing, duplicated, rotated, damaged அல்லது confidently illegible source page எதுவும் காணப்படவில்லை.
+
+### Validation result
+
+| சோதனை | முடிவு |
+|---|---|
+| New canonical page files | 28; `page-316.md`–`page-343.md` |
+| Completed canonical range | `page-001.md`–`page-343.md` |
+| Complete source records in this batch | exactly 5 — 3633, 3634, 3635, 3637, 3637 |
+| Complete source records cumulative | 46 |
+| Source record numbered 3636 | none in scan sequence; not invented |
+| Duplicate-number source records | two distinct records both printed `3637` |
+| Partial record after batch | none |
+| PDF page 344 canonical body included | இல்லை |
+| New pages visually compared | 28 / 28 |
+| Replacement Unicode (`U+FFFD`) | none |
+| Zero-width / format-control residue | none |
+| Duplicate canonical body | none in new 316–343 batch |
+| Chapter navigation | verified for 3632 through both 3637 records |
+| English translation | not started; blocked |
+
 ## Pending
 
-இந்த audit இன்னும் **iteration/batch audit** மட்டுமே. PDF 316–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
+இந்த audit இன்னும் **iteration/batch audit** மட்டுமே. PDF 344–402 transcription, full-volume Tamil structural audit, second visual verification மற்றும் translation textual-fidelity gates pending. English translation unlock ஆகவில்லை.
 
 ## Exact next task
 
-PDF பக்கம் **316** / அச்சுப் பக்கம் **315**-இல் தொடங்கும் **3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`** முதல் அடுத்த normal five-letter transcription iteration-ஐ செயல்படுத்த வேண்டும். Printed contents source-இல் `3636` row இல்லை மற்றும் `3637` இரண்டு முறை வருகிறது; ஆகவே அடுத்த ஐந்து complete source-letter sequence-ஐ scan boundaries மூலம் உறுதிப்படுத்தி, ஐந்தாவது letter-ன் verified closing/date page-ல் நிறுத்த வேண்டும்.
+PDF பக்கம் **344** / அச்சுப் பக்கம் **343**-இல் தொடங்கும் **3638 — `பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?`** முதல் அடுத்த normal five-complete-source-record transcription iteration-ஐ செயல்படுத்த வேண்டும். ஐந்தாவது source record-ன் verified ending/date page-ல் நிறுத்தி, அடுத்த source record-ன் எந்த canonical body-ஐயும் சேர்க்கக்கூடாது.

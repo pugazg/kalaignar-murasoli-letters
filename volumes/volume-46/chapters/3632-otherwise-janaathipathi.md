@@ -39,7 +39,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - PDF 311–315 canonical page bodies source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
 - PDF 311 இறுதியின் `பிப்ரவரி` / PDF 312 தொடக்கத்தின் `2ந்தேதியன்று` source page-boundary continuation அமைதியாக ஒன்றிணைக்கப்படாமல் பாதுகாக்கப்பட்டது.
 - PDF 315 scan-ல் closing `அன்புள்ள` என்பதற்குப் பின் comma இல்லை; repository அதையே `அன்புள்ள / மு.க. / 10-6-12` என பாதுகாக்கிறது.
-- PDF 316 boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது 3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?` என தொடங்குகிறது. PDF 316 canonical body இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF 316 begins 3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`; that source record is now archived in the following chapter record.
 
 **முந்தைய கடிதம்:** [3631](3631-jananaayagam-kelip-porulaagi-viduvatha.md)  
-**அடுத்த கடிதம்:** 3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?” — PDF பக்கம் 316 / அச்சுப் பக்கம் 315-இல் தொடக்கம் visually verified; chapter record அடுத்த transcription batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3633 — யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?](3633-yaar-petra-pillaikku-yaar-thaai-murai-koruvathu.md)

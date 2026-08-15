@@ -15,6 +15,7 @@
 - [x] Fifth regular five-letter batch committed at `5737146b2fc364af14b024a8e1a55a3763f9a667`: letters 3613–3617, PDF 168–205 / printed 167–204
 - [x] Sixth regular five-letter batch committed at `4742e07243457b676e77b0795694ba9dd873ef35`: letters 3618–3622, PDF 206–245 / printed 205–244
 - [x] Seventh regular five-letter batch committed at `9274e200d9389e238b9ff17d5a6eeacca8adf40c`: letters 3623–3627, PDF 246–278 / printed 245–277
+- [x] Eighth regular five-letter batch committed at `bb99d371617dc8ac45e3f9255269bab7b68a19a1`: letters 3628–3632, PDF 279–315 / printed 278–314
 - [x] Volume number verified from the source scan as **46**
 - [x] Source filename, SHA-256, byte size and 402-page count recorded
 - [x] Searchable-text-layer check completed: none on all 402 pages
@@ -27,19 +28,22 @@
 - [x] Fifth regular batch: letters 3613–3617, PDF 168–205 / printed 167–204
 - [x] Sixth regular batch: letters 3618–3622, PDF 206–245 / printed 205–244
 - [x] Seventh regular batch: letters 3623–3627, PDF 246–278 / printed 245–277
-- [x] Eighth regular batch prepared and validated: letters 3628–3632, PDF 279–315 / printed 278–314
-- [x] Five new closing/date boundaries verified: 3628 PDF 286, 3629 PDF 295, 3630 PDF 304, 3631 PDF 310, 3632 PDF 315
-- [x] All new canonical pages PDF 279–315 visually compared with their source scans in this iteration
-- [x] PDF 288 `இருக்` / PDF 289 `கிறதே` page-boundary split preserved; PDF 289 printed `(Upgradation Grants)` preserved
-- [x] PDF 308 printed English High Court passage preserved in source order; Tamil rendering continues across PDF 308–309
-- [x] PDF 311 `பிப்ரவரி` / PDF 312 `2ந்தேதியன்று` page-boundary continuation preserved
-- [x] PDF 315 closing preserves source `அன்புள்ள` without a comma and printed date `10-6-12`
-- [x] Source-specific wording, figures, historical quotations, printed English, mixed date styles and punctuation preserved rather than silently regularised
+- [x] Eighth regular batch: letters 3628–3632, PDF 279–315 / printed 278–314
+- [x] Ninth source-order five-record batch prepared and validated: **3633, 3634, 3635, 3637, 3637**, PDF 316–343 / printed 315–342
+- [x] Five new source-ending/date boundaries verified: 3633 PDF 321, 3634 PDF 328, 3635 PDF 335, first 3637 PDF 342, second 3637 PDF 343
+- [x] Scan itself confirms no source record numbered 3636 between 3635 and 3637, and confirms two distinct consecutive source records numbered 3637
+- [x] All new canonical pages PDF 316–343 visually compared with their source scans in this iteration
+- [x] 3634 printed-contents comma / actual-heading semicolon discrepancy preserved without force-matching
+- [x] PDF 325 `உழைத்த` / PDF 326 `தைத் தவிர` page-boundary split preserved
+- [x] PDF 338 magnified scan check confirms `கட்-அவுட்கள்`, `முகம்சுளிக்கும்`, `ஐயம் திரிபற`
+- [x] Second 3637 printed-contents `உடன்பிறப்புக்கள்!` / actual PDF 343 `உடன்பிறப்புக்களே!` discrepancy preserved
+- [x] PDF 343 handwritten signature image described rather than interpreted; printed `தலைவர், தி.மு.க.` and `05-07-2012` preserved
+- [x] Source-specific wording, figures, quotations, punctuation and mixed date styles preserved rather than silently regularised
 - [x] Page continuity, required YAML metadata, Unicode-format controls, duplicate-body and chapter-link checks run for the new batch
-- [x] PDF 316 inspected only as the verified start boundary of letter 3633; no `page-316.md` included
-- [x] Printed contents numbering anomalies documented without correction
-- [ ] Remaining PDF pages 316–402
-- [ ] Regular five-complete-letter transcription batches beginning with letter 3633; source sequence must be scan-verified because printed contents omits 3636 and repeats 3637
+- [x] PDF 344 inspected only as the verified start boundary of 3638; no `page-344.md` included
+- [x] Printed contents/source numbering anomalies documented without correction
+- [ ] Remaining PDF pages 344–402
+- [ ] Regular five-complete-source-record transcription batches beginning with 3638
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual verification / translation textual-fidelity gates
 - [ ] English translation
@@ -47,4 +51,4 @@
 
 ## Exact next task
 
-Begin the next regular transcription iteration at **PDF page 316 / printed page 315**, where the scan visibly starts **letter 3633 — “யார் பெற்ற பிள்ளைக்கு; யார் ‘தாய் முறை’ கோருவது?”**. Because the printed contents later omit `3636` and print `3637` twice, identify the next five complete source letters from the scan itself and stop at the verified closing/date page of the fifth source letter. Do not include any part of the following letter.
+Begin the next regular transcription iteration at **PDF page 344 / printed page 343**, where the scan visibly starts **3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?”**. Process exactly five complete consecutive source records in scan order, stopping at the verified ending/date page of the fifth source record and including no canonical body from the following record.
