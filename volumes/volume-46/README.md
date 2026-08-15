@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–125 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **8 pages / 8 spans**.
-- Complete letters with full second-pass coverage: **3592–3605**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–150 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **10 pages / 11 spans**.
+- Complete letters with full second-pass coverage: **3592–3609**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -111,10 +111,20 @@
 - PDF 119 corrected `சட்டதிருத்தம்` to source `சட்டத்திருத்தம்`.
 - PDF 122 corrected `ஆட்சிக்கு வந்ததும் அடிமைத்தனமாக` to source `ஆட்சிக்கு வந்ததும் வராததுமாக`.
 - Letters 3603, 3604 and 3605 passed through closing/date pages PDF 101, 107 and 113.
-- PDF 114–125 is only a partial fidelity range for letter 3606.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_101_125.md](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md).
 
-Cumulative second-pass source coverage is now **PDF 001–125 / 402**, with **8 corrected pages / 8 spans**. Complete source letters **3592–3605** have full second-pass coverage; letter **3606** remains partial.
+### PDF 126–150
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **2 pages / 3 spans**.
+- PDF 126 corrected `கனிசமான` to source `கணிசமான`.
+- PDF 142 corrected `வைத்தகத்திலிருந்து` to source `வைதீகத்திலிருந்து`.
+- PDF 142 corrected `பார்ப்பனைக் சாதி` to source `நால்வகைச் சாதி`.
+- Letters 3606, 3607, 3608 and 3609 passed through closing/date pages PDF 127, 133, 139 and 145.
+- PDF 146–150 is only a partial fidelity range for letter 3610.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_126_150.md](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md).
+
+Cumulative second-pass source coverage is now **PDF 001–150 / 402**, with **10 corrected pages / 11 spans**. Complete source letters **3592–3609** have full second-pass coverage; letter **3610** remains partial.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -127,4 +137,4 @@ Cumulative second-pass source coverage is now **PDF 001–125 / 402**, with **8 
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 126–150**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 151–175**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity-ல் English translation தொடங்கக்கூடாது.

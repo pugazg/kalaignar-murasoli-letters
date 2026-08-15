@@ -30,7 +30,8 @@
   - [x] PDF **051–075** — 25/25 visually compared; **2 corrected pages / 2 spans**
   - [x] PDF **076–100** — 25/25 visually compared; **3 corrected pages / 3 spans**
   - [x] PDF **101–125** — 25/25 visually compared; **3 corrected pages / 3 spans**
-  - [ ] PDF **126–402**
+  - [x] PDF **126–150** — 25/25 visually compared; **2 corrected pages / 3 spans**
+  - [ ] PDF **151–402**
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -40,16 +41,17 @@
 - Source-letter records: **55 complete**
 - Source-incomplete letters: **0**
 - Full-volume Tamil structural audit: **complete**
-- Second visual/textual-fidelity verification: **in progress — PDF 001–125 passed**
-- Textual-fidelity reports: **5**
+- Second visual/textual-fidelity verification: **in progress — PDF 001–150 passed**
+- Textual-fidelity reports: **6**
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md`
-- Scan-proven canonical corrections in completed second-pass range: **8 pages / 8 spans**
-- Complete letters with full second-pass coverage: **3592–3605**
-- Letter **3606**: fidelity checked through PDF 125; continues beyond this page
+  - `translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md`
+- Scan-proven canonical corrections in completed second-pass range: **10 pages / 11 spans**
+- Complete letters with full second-pass coverage: **3592–3609**
+- Letter **3610**: fidelity checked through PDF 150; continues beyond this page
 - English translation: **not started**
 - Bilingual alignment: **not started**
 
@@ -95,7 +97,16 @@
 - PDF 119 corrected first-pass `சட்டதிருத்தம்` to source `சட்டத்திருத்தம்`.
 - PDF 122 corrected first-pass `ஆட்சிக்கு வந்ததும் அடிமைத்தனமாக` to source `ஆட்சிக்கு வந்ததும் வராததுமாக`.
 - Canonical corrections: **3 pages / 3 spans**.
-- PDF 114–125 begins/continues letter 3606; that letter remains incomplete for this gate.
+
+### PDF 126–150
+
+- All **25/25** pages directly compared with rendered source scans.
+- Letter 3606 completed at PDF 127; letters 3607, 3608 and 3609 checked through their closings at PDF 133, 139 and 145.
+- PDF 126 corrected first-pass `கனிசமான` to source `கணிசமான`.
+- PDF 142 corrected first-pass `வைத்தகத்திலிருந்து` to source `வைதீகத்திலிருந்து`.
+- PDF 142 corrected first-pass `பார்ப்பனைக் சாதி` to source `நால்வகைச் சாதி`.
+- Canonical corrections: **2 pages / 3 spans**.
+- PDF 146–150 begins/continues letter 3610; that letter remains incomplete for this gate.
 
 ## Audit boundary
 
@@ -103,4 +114,4 @@ The completed structural audit validates repository/page coverage, source identi
 
 ## Exact next task
 
-Visually compare **PDF 126–150** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3606 and subsequent source letters. Do not begin English translation in this activity.
+Visually compare **PDF 151–175** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3610 and subsequent source letters. Do not begin English translation in this activity.
