@@ -36,7 +36,7 @@ volumes/
 2. பக்கம் 25 கடிதத்தின் நடுவில் முடிந்தால், அடுத்த commit-ல் பக்கம் 26 முதல் அதே கடிதத்தை முடித்தல்.
 3. அதன் பின்னர் இயல்பாக **ஐந்து முழுமையான தொடர்ச்சியான கடிதங்கள் = ஒரு atomic commit**.
 4. ஒவ்வொரு iteration-க்கும் scan comparison, chapter records, structural updates, batch audit மற்றும் exact next-page/letter record கட்டாயம்.
-5. இயல்பான ஐந்து-letter batch-ஐ விட பெரிய scope explicit user approval-உடன் மட்டுமே பயன்படுத்தப்படும்.
+5. இயல்பான ஐந்து-letter batch-ஐ விட பெரிய scope explicit user approval-உடன் மட்டுமே பயன்படுத்தப்படும்; documented end-of-volume/source exception-ல் smaller batch பயன்படுத்தலாம்.
 6. முழுத் Tamil volume audit முடியும் முன் English translation தொடங்காது.
 
 Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வொரு பழைய தொகுதியின் அச்சு அமைப்பு, கடித எண்ணிக்கை, தேதி, மொழிநடை மற்றும் scan quality தனியாகச் சரிபார்க்கப்பட வேண்டும்.
@@ -45,7 +45,7 @@ Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வ
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
-| 46 | 05.10.2011–15.08.2012 | 402 | 1–370 | 51 complete source records; source numbering omits 3636 and prints 3637 twice | not started; blocked pending Tamil audit |
+| 46 | 05.10.2011–15.08.2012 | 402 | **1–402 first-pass complete** | **55 complete source records**; source numbering omits 3636 and 3644–3646 and prints 3637 twice | not started; blocked pending full-volume Tamil audit |
 | 47 | 19.08.2012–19.02.2013 | 401 | 1–401 | 58 complete; 3681 source-incomplete (printed page 252 absent) | **20 / 59 draft-translated (3647–3666); Tamil fidelity complete; bilingual alignment pending** |
 | 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | 58 / 58 verified; editorial release complete |
 | 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 53 / 53 verified; editorial release complete |

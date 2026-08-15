@@ -5,9 +5,9 @@ date_from: 2011-10-05
 date_to: 2012-08-15
 letter_number_from: 3592
 letter_number_to: 3649
-letter_count: null
+letter_count: 55
 printed_contents_entry_count: 55
-letter_count_status: "provisional; printed contents inspected, actual letter starts not yet fully verified"
+letter_count_status: "verified from complete source scan; source numbering anomalies preserved"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -17,16 +17,16 @@ source_file: "Vol46.pdf"
 source_sha256: "ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9"
 source_size_bytes: 200631699
 source_searchable_text_layer: false
-transcription_page_range: "1-370"
-transcription_status: "in-progress"
-recorded_letter_range: "3592-3649 (printed contents; numbering anomalies documented)"
-completed_letter_range: "3592-3635; 3637 (two source records; no 3636 in source numbering); 3638-3642"
-completed_letter_count: 51
+transcription_page_range: "1-402"
+transcription_status: "first-pass-complete"
+recorded_letter_range: "3592-3649 (55 actual source records; numbering anomalies documented)"
+completed_letter_range: "3592-3635; 3637 (two source records; no 3636); 3638-3643; 3647-3649 (no 3644-3646)"
+completed_letter_count: 55
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "iteration-audit-complete"
+audit_status: "full-volume-audit-pending"
 audit_date: 2026-08-15
 second_visual_verification: "pending"
 translation_status: "not-started"
@@ -39,9 +39,10 @@ source_observations:
   - "Library stamps and handwritten library markings appear in the front matter and are described rather than treated as printed edition text."
   - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
   - "All PDF page rotation metadata is 0 degrees."
-  - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for later full visual audit."
-  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-370 range; full-volume missing/discontinuity verification remains pending."
-  - "Printed contents PDF pages 18-22 contain 55 rows and preserve source numbering anomalies: 3637 is printed twice after 3635 with no 3636 row, and 3643 is followed by 3647 with no 3644-3646 rows."
+  - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for the pending full-volume audit."
+  - "Every source PDF page 1-402 now has a canonical Markdown page file; full-volume Tamil structural audit and second visual verification remain pending."
+  - "Printed contents PDF pages 18-22 contain 55 rows. Complete scan verification confirms the actual source-letter count is also 55."
+  - "Source numbering anomalies are real in the scan: after 3635 the source prints 3637 twice with no 3636, and after 3643 the source jumps to 3647 with no 3644-3646. No archival renumbering has been applied."
   - "Letter 3592 spans PDF pages 24-29 / printed pages 23-28 and closes on PDF page 29 with 'அன்புள்ள,', 'மு.க.' and printed date '5-10-2011'."
   - "Letters 3593-3597 form the first regular five-letter batch and span PDF pages 30-63 / printed pages 29-62; all five closing/date boundaries were visually verified."
   - "Letters 3598-3602 form the second regular five-letter batch and span PDF pages 64-94 / printed pages 63-93; all five closing/date boundaries were visually verified."
@@ -51,8 +52,15 @@ source_observations:
   - "Letters 3618-3622 form the sixth regular five-letter batch and span PDF pages 206-245 / printed pages 205-244; all five closing/date boundaries were visually verified."
   - "Letters 3623-3627 form the seventh regular five-letter batch and span PDF pages 246-278 / printed pages 245-277; all five closing/date boundaries were visually verified."
   - "Letters 3628-3632 form the eighth regular five-letter batch and span PDF pages 279-315 / printed pages 278-314; all five closing/date boundaries were visually verified."
-  - "The ninth source-order five-record batch spans PDF pages 316-343 / printed pages 315-342 and contains source records 3633, 3634, 3635, 3637 and a second distinct 3637; the scan itself contains no 3636 between 3635 and 3637."
+  - "The ninth source-order five-record batch spans PDF pages 316-343 / printed pages 315-342 and contains source records 3633, 3634, 3635, 3637 and a second distinct 3637."
   - "Letters 3638-3642 form the tenth regular five-letter batch and span PDF pages 344-370 / printed pages 343-369; all five closing/date boundaries were visually verified."
+  - "The final-residue transcription spans PDF pages 371-402 / printed pages 370-400 plus back cover and contains the only four remaining source letters: 3643, 3647, 3648 and 3649. A normal five-letter batch is impossible because the volume ends after the fourth remaining source letter."
+  - "Letter 3643 spans PDF 371-381 / printed 370-380 and closes 'அன்புள்ள, / மு.க. / 26-07-2012'."
+  - "Letter 3647 spans PDF 382-387 / printed 381-386 and closes 'அன்புள்ள, / மு.க. / 02-08-2012'."
+  - "Letter 3648 spans PDF 388-393 / printed 387-392 and closes 'அன்புள்ள, / மு.க. / 05-08-2012'."
+  - "Letter 3649 spans PDF 394-400 / printed 393-399 and closes 'அன்புள்ள, / மு.க. / 15-8-2012'."
+  - "PDF 401 is printed page 400 with the running header/page number and no body text, only faint reverse-side show-through; PDF 402 is the back cover."
+  - "PDF 402 preserves publisher/distributor details, '1924 - 2018', cover credit 'அட்டை : ஜெ.ஜெ டிசைன்ஸ்', a vertical 'ஆகஸ்ட் 2022' marking, QR code, GO 2300 and price ரூ.300. The portrait is described without identifying the person from the image."
   - "Letter 3595 heading/contents print 'தமிழா!' while the final exhortation on PDF page 49 prints 'தமிழ!'; both source forms are preserved without normalization."
   - "PDF page 189 preserves source-specific forms 'குழ்ச்சிகளிலே' and 'எசிப் பேசி' without normalization."
   - "PDF page 191 preserves the scan-supported wording 'வடக்குக்கோட்டை தீர்மானம்'."
@@ -70,7 +78,6 @@ source_observations:
   - "Printed contents title for 3634 uses a comma ('தலைமைச் செயற்குழு, தக்க முடிவெடுக்கும்!') while actual PDF 322 heading uses a semicolon ('தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!'); both source forms are preserved."
   - "PDF page 325 ends with 'உழைத்த' and PDF page 326 begins 'தைத் தவிர'; the source page-boundary split is preserved."
   - "PDF page 338 magnified scan supports the forms 'கட்-அவுட்கள்', 'முகம்சுளிக்கும்' and 'ஐயம் திரிபற'; these are preserved in the canonical transcription."
-  - "The source scan jumps from 3635 to 3637 and then prints a second distinct 3637 source item; no archival renumbering or invented 3636 has been applied."
   - "Printed contents title for the second 3637 is 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!' while actual PDF 343 heading is 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!'; both source forms are preserved separately."
   - "PDF page 343 contains a handwritten signature image; it is described rather than interpreted as printed text, while printed 'தலைவர், தி.மு.க.' and date '05-07-2012' are transcribed."
   - "PDF 345 and 353 preserve source forms including 'ஆசிரியர்கள் இட மாறுதலிலிருந்து' and 'விளம்பர மேலா'; PDF 346 preserves 'காழ்ப்பினைக்' and 'அவசர அவசரமாக'."
@@ -78,4 +85,5 @@ source_observations:
   - "PDF page 363 preserves 'மனித நேயம் மற்றும் மனித உரிமைக்கு எதிரானத் தாக்குதலில்'; PDF 365 preserves the printed public-referendum question and 'கருத்துக்களை யெல்லாம்' spacing."
   - "PDF pages 367-370 preserve source verse/prose forms including 'இந்திப்பெண்ணே', 'முரசொலி துண்டு வெளியீடு', 'நாளங்காடி', 'பாவலரேறு பெருஞ்சித்திரனார்', and 'வேண்டு கோள்களை'."
   - "Letter 3642 closes on PDF page 370 with printed 'அன்புள்ள' without a following comma, then 'மு.க.' and date '24-7-2012'; this source form is preserved."
-  - "PDF page 371 was inspected only to verify the next boundary: it starts 3643, '“எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!'; no PDF 371 canonical body is included in the completed range."
+  - "PDF 373 preserves the scan's malformed mixed-English sequence 'Chennai örgjiThis' rather than silently repairing it."
+  - "Printed contents title for 3647 is 'ஈழத்தமிழா இன்னல் களைந்திட வாரீர்!' while actual PDF 382 heading is 'ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!'; both source forms are preserved."

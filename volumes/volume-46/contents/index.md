@@ -60,11 +60,11 @@ transcription_status: visually-transcribed
 | 3640 | என்ன நடக்கிறது தமிழகத்தில்? | 13-7-2012 | 355 | 356 | 361 | என்ன நடக்கிறது தமிழகத்தில்? | [முழுப் பதிவு](../chapters/3640-enna-nadakkirathu-tamizhagaththil.md) |
 | 3641 | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | 19-7-2012 | 361 | 362 | 366 | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | [முழுப் பதிவு](../chapters/3641-kuzhappam-enakkoori-kutharkkam-vilaikkaatheer.md) |
 | 3642 | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | 24-7-2012 | 366 | 367 | 370 | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | [முழுப் பதிவு](../chapters/3642-murasoli-ennikkai-mummadangu-peruga-vendum.md) |
-| 3643 | “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல! | 26-07-2012 | 370 | — | — | — | pending |
-| 3647 | ஈழத்தமிழா இன்னல் களைந்திட வாரீர்! | 02-08-2012 | 381 | — | — | — | pending |
-| 3648 | விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்! | 05-08-2012 | 387 | — | — | — | pending |
-| 3649 | வழக்கை எதிர்நோக்குகிறோம்! | 15-8-2012 | 393 | — | — | — | pending |
+| 3643 | “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல! | 26-07-2012 | 370 | 371 | 381 | “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல! | [முழுப் பதிவு](../chapters/3643-ellaam-naane-enbathu-nallor-potrum-vazhiyalla.md) |
+| 3647 | ஈழத்தமிழா இன்னல் களைந்திட வாரீர்! | 02-08-2012 | 381 | 382 | 387 | ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்! | [முழுப் பதிவு](../chapters/3647-eezhaththamizhar-innal-kalaindhida-vareer.md) |
+| 3648 | விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்! | 05-08-2012 | 387 | 388 | 393 | விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்! | [முழுப் பதிவு](../chapters/3648-vivasayigal-vedhanaiyum-vidhavidhamaana-arikkaigalum.md) |
+| 3649 | வழக்கை எதிர்நோக்குகிறோம்! | 15-8-2012 | 393 | 394 | 400 | வழக்கை எதிர்நோக்குகிறோம்! | [முழுப் பதிவு](../chapters/3649-vazhakkai-ethirnokkirom.md) |
 
 ## Source numbering note
 
-Printed contents source order is preserved exactly. It prints `3637` twice after `3635`, with no `3636` row, and jumps from `3643` to `3647`, with no `3644–3646` rows. These entries are not silently renumbered. Actual scan sequence after PDF 371 remains to be verified before deciding whether any source records absent from the printed contents exist.
+Printed contents source order is preserved exactly. It prints `3637` twice after `3635`, with no `3636` row, and jumps from `3643` to `3647`, with no `3644–3646` rows. Complete scan verification confirms both anomalies are also present in the actual letter-start sequence: no source records numbered `3636` or `3644–3646` exist in this edition. These source numbers are not silently repaired or renumbered.

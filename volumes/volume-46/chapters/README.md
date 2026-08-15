@@ -55,25 +55,19 @@
 | [3640](3640-enna-nadakkirathu-tamizhagaththil.md) | என்ன நடக்கிறது தமிழகத்தில்? | 13-7-2012 | 355–360 | 356–361 | complete |
 | [3641](3641-kuzhappam-enakkoori-kutharkkam-vilaikkaatheer.md) | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | 19-7-2012 | 361–365 | 362–366 | complete |
 | [3642](3642-murasoli-ennikkai-mummadangu-peruga-vendum.md) | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | 24-7-2012 | 366–369 | 367–370 | complete |
+| [3643](3643-ellaam-naane-enbathu-nallor-potrum-vazhiyalla.md) | “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல! | 26-07-2012 | 370–380 | 371–381 | complete |
+| [3647](3647-eezhaththamizhar-innal-kalaindhida-vareer.md) | ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்! | 02-08-2012 | 381–386 | 382–387 | complete |
+| [3648](3648-vivasayigal-vedhanaiyum-vidhavidhamaana-arikkaigalum.md) | விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்! | 05-08-2012 | 387–392 | 388–393 | complete |
+| [3649](3649-vazhakkai-ethirnokkirom.md) | வழக்கை எதிர்நோக்குகிறோம்! | 15-8-2012 | 393–399 | 394–400 | complete |
 
-## Pending letter register
+## Source-numbering verification
 
-அச்சு உள்ளடக்க அட்டவணையில் இன்னும் **4** pending பதிவுகள் `contents/index.md`-இல் உள்ளன: 3643, 3647, 3648, 3649. ஆனால் printed contents `3643`-இலிருந்து `3647`-க்கு நேரடியாகச் செல்கிறது; ஆகவே actual scan sequence PDF 371 முதல் தனியாகச் சரிபார்க்கப்பட்ட பின்னரே 3644–3646 source records உண்மையில் உள்ளனவா இல்லையா என்று முடிவு செய்ய வேண்டும். Contents omission-ஐ source absence என முன்கூட்டியே கருதக்கூடாது.
+முழு source scan இப்போது PDF **1–402** வரை transcribe செய்யப்பட்டதால் source-letter sequence முழுமையாக உறுதிசெய்யப்பட்டுள்ளது. Actual scan **3635 → 3637 → 3637** என்று செல்கிறது; `3636` source record இல்லை. பின்னர் **3643 → 3647** என்று நேரடியாகச் செல்கிறது; `3644–3646` source records இல்லை. Repository எந்த source record-ஐயும் மறுஎண்ணிடவில்லை.
 
-Scan source sequence PDF **329–343** itself confirms the earlier numbering anomaly: 3635-க்கு அடுத்து **3637** வருகிறது; **3636** இல்லை; அதற்குப் பின் தனித்துவமான இன்னொரு source item-மும் **3637** என்றே அச்சிடப்பட்டுள்ளது. Repository எந்த source record-ஐயும் மறுஎண்ணிடவில்லை.
+Printed contents / actual-heading வேறுபாடுகள் source context-களில் தனித்தனியாகப் பாதுகாக்கப்பட்டுள்ளன; குறிப்பாக 3620, 3625, 3634, இரண்டாவது 3637 மற்றும் 3647 records.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3643 — “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!** PDF பக்கம் **371** / அச்சுப் பக்கம் **370**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
-
-கடிதம் **3595**-க்கு contents மற்றும் actual heading இரண்டிலும் `தமிழா!` உள்ளது; ஆனால் அதன் இறுதி exhortation PDF 49-ல் source-இன்படி `தமிழ!` என்று உள்ளது. Chapter/page files இந்த வேறுபாட்டை வெளிப்படையாகப் பாதுகாக்கின்றன.
-
-கடிதம் **3620**-க்கு contents title `என்று தணியும் ஈழத்தமிழா தாகம்!`; actual letter-start title PDF 221-ல் `என்று தணியும் ஈழத்தமிழர் தாகம்!`. இரண்டு source forms-மும் force-match செய்யப்படவில்லை.
-
-கடிதம் **3625**-க்கு contents title `ஒரு சுயமரியாதைக்காரனின் குளுரை!`; actual letter-start title PDF 262-ல் `ஒரு சுயமரியாதைக்காரனின் சூளுரை!`. இரண்டு source forms-மும் force-match செய்யப்படவில்லை.
-
-கடிதம் **3634**-க்கு contents title `தலைமைச் செயற்குழு, தக்க முடிவெடுக்கும்!`; actual PDF 322 heading `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`. இரண்டு source forms-மும் தனித்தனியாகப் பாதுகாக்கப்பட்டுள்ளன.
-
-இரண்டாவது **3637** source item-க்கு contents title `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!`; actual PDF 343 heading `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`. இரண்டு source forms-மும் தனித்தனியாகப் பாதுகாக்கப்பட்டுள்ளன.
+PDF **401** என்பது அச்சுப் பக்கம் 400 உடைய blank body page; PDF **402** பின்அட்டை. அவை letter records அல்ல, canonical page files ஆக மட்டும் பதிவு செய்யப்பட்டுள்ளன.
 
 ## அடுத்த exact task
 
-PDF பக்கம் **371** / அச்சுப் பக்கம் **370**-இல் தொடங்கும் **3643 — “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!** முதல் அடுத்த transcription iteration-ஐ தொடங்க வேண்டும். Printed contents `3643 → 3647` என jump செய்வதால், அடுத்த ஐந்து complete source records-ன் actual numbering மற்றும் எல்லைகளை scan-இலிருந்தே கண்டறிந்து, ஐந்தாவது verified source record-ன் ending/date page-ல் நிறுத்த வேண்டும்; following record-ன் canonical body சேர்க்கக்கூடாது.
+அனைத்து **402 PDF pages** மற்றும் **55 complete source records** first-pass transcription முடிந்துள்ளது. அடுத்த கட்டம் **full-volume Tamil structural audit**: page continuity, letter-boundary coverage, contents/chapter cross-links, source-number anomalies, structural metadata மற்றும் missing/duplicate-page checks-ஐ முழுத் தொகுதி அளவில் மீளச் சரிபார்க்க வேண்டும். English translation இன்னும் blocked.

@@ -41,7 +41,7 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - PDF 369 source `பாவலரேறு பெருஞ்சித்திரனார்` designation மாற்றமின்றிப் பாதுகாக்கப்பட்டது.
 - PDF 370 prose source-specific `வேண்டு கோள்களை` spacing மற்றும் `ஆட்டியின்றி` wording பாதுகாக்கப்பட்டன.
 - PDF 370 closing-ல் source-இன்படி `அன்புள்ள` என்பதற்குப் பின் comma இல்லை; அடுத்து `மு.க.` மற்றும் `24-7-2012` அப்படியே transcribe செய்யப்பட்டன.
-- PDF 371 boundary check-க்காக மட்டும் visually inspected செய்யப்பட்டது; அது 3643 — `“எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!` என தொடங்குகிறது. PDF 371 canonical body இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF 371 actual source sequence check confirms the next record is 3643.
 
 **முந்தைய கடிதம்:** [3641](3641-kuzhappam-enakkoori-kutharkkam-vilaikkaatheer.md)  
-**அடுத்த கடிதம்:** 3643 — “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல! — PDF பக்கம் 371 / அச்சுப் பக்கம் 370-இல் தொடக்கம் visually verified; chapter record அடுத்த transcription iteration-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3643](3643-ellaam-naane-enbathu-nallor-potrum-vazhiyalla.md)
