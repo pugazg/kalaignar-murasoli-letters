@@ -10,7 +10,8 @@ English translation has not begun.
 - [ ] Relevant Tamil pages must pass the mandatory scan-to-canonical textual-fidelity / second visual review required by `VOLUME_PROCESSING_GUIDE.md`.
   - [x] PDF **001–025** passed on **2026-08-15** — 25/25 pages checked; 0 canonical corrections.
   - [x] PDF **026–050** passed on **2026-08-15** — 25/25 pages checked; 0 canonical corrections.
-  - [ ] PDF **051–402** remains to be second-pass verified.
+  - [x] PDF **051–075** passed on **2026-08-15** — 25/25 pages checked; 2 scan-proven canonical corrections.
+  - [ ] PDF **076–402** remains to be second-pass verified.
 
 The complete source sequence confirms no `3636` source record, two distinct `3637` records, and no `3644–3646` source records. These anomalies remain part of the source model used for later translation and alignment.
 
@@ -20,8 +21,9 @@ Fidelity reports completed:
 
 - [`translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 - [`translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
+- [`translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md)
 
-Cumulative scan-based coverage now reaches PDF **050**. Complete source letters **3592–3595** have full second-pass coverage. Letter **3596** begins on PDF 050 and continues through PDF 056, so it has not yet fully cleared the fidelity gate.
+Cumulative scan-based coverage now reaches PDF **075**. Complete source letters **3592–3599** have full second-pass coverage. The third fidelity range corrected two scan-proven first-pass defects: quotation marks around `‘பூஜை’` on PDF 052 and `உண்டு,` → `உண்டே,` on PDF 066. Letter **3600** begins on PDF 075 and continues beyond that page, so it has not yet fully cleared the fidelity gate.
 
 When translation work begins, Volume 49's approved bilingual order, translator’s note, glossary discipline, source checking and bilingual alignment workflow will be applied without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
 
@@ -29,4 +31,4 @@ Current state: **translation not started; Tamil second visual/textual-fidelity r
 
 ## Exact next task
 
-Second-pass verify **PDF 051–075**. This will complete the fidelity review of letter 3596 and continue through later source letters. Do not begin English translation in this activity.
+Second-pass verify **PDF 076–100**. This will continue letter 3600 and subsequent source letters. Correct only scan-proven defects and record the next fidelity range. Do not begin English translation in this activity.
