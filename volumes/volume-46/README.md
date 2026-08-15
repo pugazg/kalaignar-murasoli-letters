@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–250 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **18 pages / 20 spans**.
-- Complete letters with full second-pass coverage: **3592–3622**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–275 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **25 pages / 27 spans**.
+- Complete letters with full second-pass coverage: **3592–3626**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -167,7 +167,22 @@
 - PDF 246–250 is partial fidelity coverage for letter 3623.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_226_250.md](translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md).
 
-Cumulative second-pass source coverage is now **PDF 001–250 / 402**, with **18 corrected pages / 20 spans**. Complete source letters **3592–3622** have full second-pass coverage; letter **3623** remains partial through PDF 250.
+### PDF 251–275
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **7 pages / 7 spans**.
+- PDF 257 corrected `முடியாதல்லவா?` to source `முடிகிறதல்லவா?`.
+- PDF 258 corrected `எவ்வளவு அளிப்பதாக` to source `கவலையை அளிப்பதாக`.
+- PDF 261 corrected `மலேச்சாமி` to source `மலைச்சாமி`.
+- PDF 264 corrected `நடைபெறுவாய்` to source `நடைபோடுவாய்`.
+- PDF 268 corrected `தொடங்கின்ற` to source `தொடர்கின்ற`.
+- PDF 273 restored source `குறைந்த பட்சத் திட்டங்கள்` and preserved the page-end `(Common Minimum` split.
+- PDF 274 restored source spacing `தா.பாண்டியனும்`; the page begins with `Programme)` as printed.
+- Letter 3623 completed at PDF 251; letters 3624, 3625 and 3626 passed through closing/date pages PDF 261, 266 and 272.
+- PDF 273–275 is partial fidelity coverage for letter 3627.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_251_275.md](translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md).
+
+Cumulative second-pass source coverage is now **PDF 001–275 / 402**, with **25 corrected pages / 27 spans**. Complete source letters **3592–3626** have full second-pass coverage; letter **3627** remains partial through PDF 275.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -180,4 +195,4 @@ Cumulative second-pass source coverage is now **PDF 001–250 / 402**, with **18
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 251–275**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3623-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 276–300**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3627-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.

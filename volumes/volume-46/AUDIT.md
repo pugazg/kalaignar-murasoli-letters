@@ -132,8 +132,8 @@ Structural state after this audit and subsequent fidelity work:
 - numbering anomalies reconciled: **yes**;
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
-- second visual/textual-fidelity verification: **in progress — PDF 001–250 passed**;
-- scan-proven canonical corrections in PDF 001–250: **18 pages / 20 spans**;
+- second visual/textual-fidelity verification: **in progress — PDF 001–275 passed**;
+- scan-proven canonical corrections in PDF 001–275: **25 pages / 27 spans**;
 - English translation: **not started**.
 
 ## முக்கிய status boundary
@@ -257,16 +257,32 @@ Detailed report: [TEXTUAL_FIDELITY_AUDIT_226_250.md](translations/en/TEXTUAL_FID
 - PDF 229 source `ராணுவத்துக்கு உத்தர விடப்பட்டுள்ளது`, PDF 241 source `2006ஆம் ஆண்டு மே திங்களில்`, and source-specific forms across the political-history passages were rechecked and retained.
 - PDF 246–250 is only partial coverage for letter 3623.
 
+### Report 11 — PDF 251–275
+
+Detailed report: [TEXTUAL_FIDELITY_AUDIT_251_275.md](translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md)
+
+- New PDF pages visually compared: **25 / 25**.
+- Scan-proven canonical corrections: **7 pages / 7 spans**.
+- PDF 257 `முடியாதல்லவா?` → `முடிகிறதல்லவா?`.
+- PDF 258 `எவ்வளவு அளிப்பதாக` → `கவலையை அளிப்பதாக`.
+- PDF 261 `மலேச்சாமி` → `மலைச்சாமி`.
+- PDF 264 `நடைபெறுவாய்` → `நடைபோடுவாய்`.
+- PDF 268 `தொடங்கின்ற` → `தொடர்கின்ற`.
+- PDF 273 restored `குறைந்த பட்சத் திட்டங்கள்`; `(Common Minimum` remains at the source page end.
+- PDF 274 restored `தா.பாண்டியனும்`; the page begins `Programme)` as printed.
+- Letter 3623 passed through closing/date page PDF 251; letters 3624, 3625 and 3626 passed through closing/date pages PDF 261, 266 and 272.
+- PDF 273–275 is only partial coverage for letter 3627.
+
 ### Cumulative fidelity state
 
-- Second-pass coverage: **PDF 001–250 / 402**.
-- Total pages second-pass checked: **250**.
-- Total scan-proven canonical corrections: **18 pages / 20 spans**.
-- Complete source letters with full second-pass coverage: **3592–3622**.
-- Letter 3623: PDF 246–250 checked so far; fidelity gate incomplete.
+- Second-pass coverage: **PDF 001–275 / 402**.
+- Total pages second-pass checked: **275**.
+- Total scan-proven canonical corrections: **25 pages / 27 spans**.
+- Complete source letters with full second-pass coverage: **3592–3626**.
+- Letter 3627: PDF 273–275 checked so far; fidelity gate incomplete.
 
-This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 251 onward.
+This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 276 onward.
 
 ## Exact next task
 
-Continue second visual / textual-fidelity verification with **PDF 251–275**. Continue letter 3623 and subsequent source letters, correct only scan-proven canonical defects, and record the range in the next fidelity report. Do not begin English translation in this activity.
+Continue second visual / textual-fidelity verification with **PDF 276–300**. Continue letter 3627 and subsequent source letters, correct only scan-proven canonical defects, and record the range in the next fidelity report. Do not begin English translation in this activity.

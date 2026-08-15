@@ -35,7 +35,8 @@
   - [x] PDF **176–200** — 25/25 visually compared; **1 corrected page / 1 span**
   - [x] PDF **201–225** — 25/25 visually compared; **1 corrected page / 1 span**
   - [x] PDF **226–250** — 25/25 visually compared; **1 corrected page / 1 span**
-  - [ ] PDF **251–402**
+  - [x] PDF **251–275** — 25/25 visually compared; **7 corrected pages / 7 spans**
+  - [ ] PDF **276–402**
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -45,8 +46,8 @@
 - Source-letter records: **55 complete**
 - Source-incomplete letters: **0**
 - Full-volume Tamil structural audit: **complete**
-- Second visual/textual-fidelity verification: **in progress — PDF 001–250 passed**
-- Textual-fidelity reports: **10**
+- Second visual/textual-fidelity verification: **in progress — PDF 001–275 passed**
+- Textual-fidelity reports: **11**
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`
@@ -57,9 +58,10 @@
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md`
-- Scan-proven canonical corrections in completed second-pass range: **18 pages / 20 spans**
-- Complete letters with full second-pass coverage: **3592–3622**
-- Letter **3623**: fidelity checked through PDF 250; continues beyond this page
+  - `translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md`
+- Scan-proven canonical corrections in completed second-pass range: **25 pages / 27 spans**
+- Complete letters with full second-pass coverage: **3592–3626**
+- Letter **3627**: fidelity checked through PDF 275; continues beyond this page
 - English translation: **not started**
 - Bilingual alignment: **not started**
 
@@ -154,10 +156,24 @@
 - Canonical corrections: **1 page / 1 span**.
 - PDF 246–250 begins/continues letter 3623; that letter remains incomplete for this gate.
 
+### PDF 251–275
+
+- All **25/25** pages directly compared with rendered source scans.
+- Letter 3623 completed at PDF 251; letters 3624, 3625 and 3626 checked through their closings at PDF 261, 266 and 272.
+- PDF 257 corrected `முடியாதல்லவா?` → `முடிகிறதல்லவா?`.
+- PDF 258 corrected `எவ்வளவு அளிப்பதாக` → `கவலையை அளிப்பதாக`.
+- PDF 261 corrected `மலேச்சாமி` → `மலைச்சாமி`.
+- PDF 264 corrected `நடைபெறுவாய்` → `நடைபோடுவாய்`.
+- PDF 268 corrected `தொடங்கின்ற` → `தொடர்கின்ற`.
+- PDF 273 corrected `குறைந்த பட்ச திட்டங்கள்` → `குறைந்த பட்சத் திட்டங்கள்`; source page-boundary `(Common Minimum` → `Programme)` remains preserved across PDFs 273–274.
+- PDF 274 restored source spacing `தா.பாண்டியனும்`.
+- Canonical corrections: **7 pages / 7 spans**.
+- PDF 273–275 begins/continues letter 3627; that letter remains incomplete for this gate.
+
 ## Audit boundary
 
 The completed structural audit validates repository/page coverage, source identity, letter boundaries, contents/chapter mapping, navigation and source-number anomalies. The active second pass is the separate scan-based close textual-fidelity verification.
 
 ## Exact next task
 
-Visually compare **PDF 251–275** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3623 and subsequent source letters. Do not begin English translation in this activity.
+Visually compare **PDF 276–300** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3627 and subsequent source letters. Do not begin English translation in this activity.
