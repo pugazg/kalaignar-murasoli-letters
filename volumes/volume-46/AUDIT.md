@@ -132,7 +132,7 @@ Structural state after this audit:
 - numbering anomalies reconciled: **yes**;
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
-- second visual/textual-fidelity verification: **pending**;
+- second visual/textual-fidelity verification: **in progress — PDF 001–025 passed**;
 - English translation: **not started; still blocked**.
 
 ## முக்கிய status boundary
@@ -141,8 +141,24 @@ Structural state after this audit:
 
 Repository guide-ன்படி English translation தொடங்குவதற்கு relevant Tamil pages mandatory scan-based textual-fidelity review pass ஆக வேண்டும்.
 
+## Second visual / textual-fidelity verification progress
+
+The first second-pass fidelity range, **PDF 001–025**, has been directly compared page-by-page with rendered images from `Vol46.pdf`.
+
+Detailed report: [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
+
+- PDF pages visually compared: **25 / 25**.
+- Canonical page range: `page-001.md`–`page-025.md`.
+- Scan-proven canonical corrections: **0**.
+- PDF 001–017 front/publication matter passed.
+- PDF 018–022 printed contents rows passed direct scan recheck, including source-number anomalies.
+- PDF 023 blank page correctly keeps faint reverse-side show-through out of body text.
+- PDF 024–025 beginning of letter 3592 passed without canonical correction.
+- PDF 024 `நிகழ்ந்` → PDF 025 `துள்ளன.` remains preserved as a source page-boundary split.
+- Letter **3592** continues through PDF **029**; therefore it is not translation-ready after this first range alone.
+
+This second-pass result does not alter the full-volume structural-audit conclusion and does not certify PDF 026 onward.
+
 ## Exact next task
 
-Volume 46-க்கு **second visual / textual-fidelity verification** தொடங்க வேண்டும். PDF **001** முதல் scan-ஐ canonical Markdown-உடன் close comparison செய்து, title/body/paragraphs/quotes/names/dates/figures/punctuation/intentional English/page-boundary continuations அனைத்தையும் மீண்டும் சரிபார்த்து, scan-proven corrections மற்றும் coverage-ஐ dedicated fidelity report(s)-ல் பதிவு செய்ய வேண்டும்.
-
-English translation இந்த gate pass ஆகும் வரை தொடங்கக்கூடாது.
+Continue the second visual / textual-fidelity verification with **PDF 026–050**. Correct only scan-proven canonical defects and record the range in the next fidelity report. PDF 026–029 complete letter 3592; English translation remains blocked until relevant complete letters pass the fidelity gate.

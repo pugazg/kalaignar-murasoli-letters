@@ -12,8 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **pending**.
-- English translation: **not started; blocked pending textual-fidelity review**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–025 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **0**.
+- English translation: **not started; blocked pending further textual-fidelity review**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
 
@@ -62,7 +63,19 @@
 - first/last/non-letter structure (front cover, contents, blank pages, final blank page, back cover) reconciled;
 - structural correction தேவைப்படும் canonical Tamil defect எதுவும் இந்த audit-ல் கண்டறியப்படவில்லை.
 
-இந்த structural pass **second visual verification அல்ல**. ஒவ்வொரு canonical page-ஐ scan-க்கு எதிராக close character-level review செய்யும் textual-fidelity gate இன்னும் pending.
+## Second visual / textual-fidelity progress
+
+The first close second-pass range, PDF **001–025**, was compared page-by-page against the source scan on 2026-08-15.
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **0**.
+- PDF 001–017 front/publication matter passed.
+- PDF 018–022 printed contents passed direct source recheck.
+- PDF 023 blank-page state passed.
+- PDF 024–025 beginning of letter 3592 passed.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md).
+
+Letter **3592** continues through PDF **029**, so no complete letter is translation-ready solely from this first range.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -71,7 +84,8 @@
 - [Printed contents](contents/index.md)
 - [Letters / chapters](chapters/README.md)
 - [Translation gate](TRANSLATION_PLAN.md)
+- [English/fidelity workspace](translations/en/README.md)
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification**-ஐ PDF **001** முதல் தொடங்க வேண்டும். Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ report செய்ய வேண்டும். Relevant fidelity gate pass ஆகும் வரை English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 026–050**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். PDF 026–029 letter 3592-ஐ முடிக்கின்றன. Relevant fidelity gate pass ஆகும் வரை English translation தொடங்கக்கூடாது.
