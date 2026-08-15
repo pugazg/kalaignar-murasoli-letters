@@ -132,8 +132,8 @@ Structural state after this audit and subsequent fidelity work:
 - numbering anomalies reconciled: **yes**;
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
-- second visual/textual-fidelity verification: **in progress — PDF 001–200 passed**;
-- scan-proven canonical corrections in PDF 001–200: **16 pages / 18 spans**;
+- second visual/textual-fidelity verification: **in progress — PDF 001–225 passed**;
+- scan-proven canonical corrections in PDF 001–225: **17 pages / 19 spans**;
 - English translation: **not started**.
 
 ## முக்கிய status boundary
@@ -235,16 +235,27 @@ Detailed report: [TEXTUAL_FIDELITY_AUDIT_176_200.md](translations/en/TEXTUAL_FID
 - PDF 193 printed English resolution was checked directly against the scan.
 - PDF 196–200 is only partial coverage for letter 3617.
 
+### Report 9 — PDF 201–225
+
+Detailed report: [TEXTUAL_FIDELITY_AUDIT_201_225.md](translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md)
+
+- New PDF pages visually compared: **25 / 25**.
+- Scan-proven canonical corrections: **1 page / 1 span**.
+- PDF 225 corrected first-pass `போரை நிறுத்த வில்லை` to source `போரை நிறுத்தவில்லை`.
+- Letter 3617 passed through closing/date page PDF 205; letters 3618 and 3619 passed through closing/date pages PDF 213 and 220.
+- PDF 208 Tolkappiyam quotations, PDF 214 source `கொசோவா`, PDF 218 `வட்டுக்கோட்டை`, and the PDF 221 actual heading were rechecked and retained.
+- PDF 221–225 is only partial coverage for letter 3620.
+
 ### Cumulative fidelity state
 
-- Second-pass coverage: **PDF 001–200 / 402**.
-- Total pages second-pass checked: **200**.
-- Total scan-proven canonical corrections: **16 pages / 18 spans**.
-- Complete source letters with full second-pass coverage: **3592–3616**.
-- Letter 3617: PDF 196–200 checked so far; fidelity gate incomplete.
+- Second-pass coverage: **PDF 001–225 / 402**.
+- Total pages second-pass checked: **225**.
+- Total scan-proven canonical corrections: **17 pages / 19 spans**.
+- Complete source letters with full second-pass coverage: **3592–3619**.
+- Letter 3620: PDF 221–225 checked so far; fidelity gate incomplete.
 
-This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 201 onward.
+This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 226 onward.
 
 ## Exact next task
 
-Continue second visual / textual-fidelity verification with **PDF 201–225**. Complete letter 3617, continue subsequent source letters, correct only scan-proven canonical defects, and record the range in the next fidelity report. Do not begin English translation in this activity.
+Continue second visual / textual-fidelity verification with **PDF 226–250**. Continue letter 3620 and subsequent source letters, correct only scan-proven canonical defects, and record the range in the next fidelity report. Do not begin English translation in this activity.

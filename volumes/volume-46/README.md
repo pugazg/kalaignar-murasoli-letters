@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–200 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **16 pages / 18 spans**.
-- Complete letters with full second-pass coverage: **3592–3616**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–225 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **17 pages / 19 spans**.
+- Complete letters with full second-pass coverage: **3592–3619**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -146,7 +146,18 @@
 - PDF 196–200 is partial fidelity coverage for letter 3617.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_176_200.md](translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md).
 
-Cumulative second-pass source coverage is now **PDF 001–200 / 402**, with **16 corrected pages / 18 spans**. Complete source letters **3592–3616** have full second-pass coverage; letter **3617** remains partial through PDF 200.
+### PDF 201–225
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **1 page / 1 span**.
+- PDF 225 corrected `போரை நிறுத்த வில்லை` to source `போரை நிறுத்தவில்லை`.
+- Letter 3617 completed at PDF 205; letters 3618 and 3619 passed through closing/date pages PDF 213 and 220.
+- PDF 208 preserves the Tolkappiyam quotations; PDF 214 preserves source `கொசோவா`; PDF 218 preserves `வட்டுக்கோட்டை`.
+- PDF 221 preserves the actual heading `என்று தணியும் ஈழத்தமிழர் தாகம்!`, distinct from the contents form `என்று தணியும் ஈழத்தமிழா தாகம்!`.
+- PDF 221–225 is partial fidelity coverage for letter 3620.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_201_225.md](translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md).
+
+Cumulative second-pass source coverage is now **PDF 001–225 / 402**, with **17 corrected pages / 19 spans**. Complete source letters **3592–3619** have full second-pass coverage; letter **3620** remains partial through PDF 225.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -159,4 +170,4 @@ Cumulative second-pass source coverage is now **PDF 001–200 / 402**, with **16
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 201–225**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3617-ஐ முடித்து அடுத்த source letters-ஐத் தொடரும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 226–250**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3620-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.

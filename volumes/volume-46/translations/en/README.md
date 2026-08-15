@@ -12,7 +12,8 @@ Full-volume Tamil structural audit is complete. The mandatory second visual / te
 - PDF **126–150**: passed — 25/25 pages checked, 2 corrected pages / 3 scan-proven corrected spans.
 - PDF **151–175**: passed — 25/25 pages checked, 5 corrected pages / 6 scan-proven corrected spans.
 - PDF **176–200**: passed — 25/25 pages checked, 1 corrected page / 1 scan-proven corrected span.
-- Cumulative second-pass coverage: **PDF 001–200 / 402**.
+- PDF **201–225**: passed — 25/25 pages checked, 1 corrected page / 1 scan-proven corrected span.
+- Cumulative second-pass coverage: **PDF 001–225 / 402**.
 - Fidelity reports:
   - [TEXTUAL_FIDELITY_AUDIT_001_025.md](TEXTUAL_FIDELITY_AUDIT_001_025.md)
   - [TEXTUAL_FIDELITY_AUDIT_026_050.md](TEXTUAL_FIDELITY_AUDIT_026_050.md)
@@ -22,11 +23,12 @@ Full-volume Tamil structural audit is complete. The mandatory second visual / te
   - [TEXTUAL_FIDELITY_AUDIT_126_150.md](TEXTUAL_FIDELITY_AUDIT_126_150.md)
   - [TEXTUAL_FIDELITY_AUDIT_151_175.md](TEXTUAL_FIDELITY_AUDIT_151_175.md)
   - [TEXTUAL_FIDELITY_AUDIT_176_200.md](TEXTUAL_FIDELITY_AUDIT_176_200.md)
-- Scan-proven canonical corrections so far: **16 pages / 18 spans** — PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173 and 179.
-- PDF **201–402**: pending.
+  - [TEXTUAL_FIDELITY_AUDIT_201_225.md](TEXTUAL_FIDELITY_AUDIT_201_225.md)
+- Scan-proven canonical corrections so far: **17 pages / 19 spans** — PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173, 179 and 225.
+- PDF **226–402**: pending.
 
-Complete source letters **3592–3616** now have full scan-based second-pass coverage. Letter **3617** is checked through PDF 200 but continues through PDF 205, so it remains incomplete for the fidelity gate.
+Complete source letters **3592–3619** now have full scan-based second-pass coverage. Letter **3620** is checked through PDF 225 but continues beyond it, so it remains incomplete for the fidelity gate.
 
 No English letter translation has been created.
 
-**Next fidelity range:** PDF **201–225**. Do not begin English translation in that activity.
+**Next fidelity range:** PDF **226–250**. Do not begin English translation in that activity.
