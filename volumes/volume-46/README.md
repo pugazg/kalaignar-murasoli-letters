@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–225 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **17 pages / 19 spans**.
-- Complete letters with full second-pass coverage: **3592–3619**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–250 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **18 pages / 20 spans**.
+- Complete letters with full second-pass coverage: **3592–3622**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -157,7 +157,17 @@
 - PDF 221–225 is partial fidelity coverage for letter 3620.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_201_225.md](translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md).
 
-Cumulative second-pass source coverage is now **PDF 001–225 / 402**, with **17 corrected pages / 19 spans**. Complete source letters **3592–3619** have full second-pass coverage; letter **3620** remains partial through PDF 225.
+### PDF 226–250
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **1 page / 1 span**.
+- PDF 250 corrected `இணைப்பு பற்றிப்` to source `இணைப்புப் பற்றிப்`.
+- Letter 3620 completed at PDF 232; letters 3621 and 3622 passed through closing/date pages PDF 238 and 245.
+- PDF 229 preserves source `ராணுவத்துக்கு உத்தர விடப்பட்டுள்ளது`; PDF 241 preserves `2006ஆம் ஆண்டு மே திங்களில்`.
+- PDF 246–250 is partial fidelity coverage for letter 3623.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_226_250.md](translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md).
+
+Cumulative second-pass source coverage is now **PDF 001–250 / 402**, with **18 corrected pages / 20 spans**. Complete source letters **3592–3622** have full second-pass coverage; letter **3623** remains partial through PDF 250.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -170,4 +180,4 @@ Cumulative second-pass source coverage is now **PDF 001–225 / 402**, with **17
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 226–250**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3620-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 251–275**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3623-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
