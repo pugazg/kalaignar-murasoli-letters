@@ -133,7 +133,7 @@ Structural state after this audit and subsequent fidelity work:
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
 - second visual/textual-fidelity verification: **in progress — PDF 001–300 passed**;
-- scan-proven canonical corrections in PDF 001–300: **26 pages / 28 spans**;
+- scan-proven canonical corrections in PDF 001–300: **26 pages / 29 spans**;
 - English translation: **not started**.
 
 ## முக்கிய status boundary
@@ -278,8 +278,9 @@ Detailed report: [TEXTUAL_FIDELITY_AUDIT_251_275.md](translations/en/TEXTUAL_FID
 Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md)
 
 - New PDF pages visually compared: **25 / 25**.
-- Scan-proven canonical corrections: **1 page / 1 span**.
+- Scan-proven canonical corrections: **1 page / 2 spans**.
 - PDF 299 corrected first-pass `வசிப்படும்` to source `அவதிப்படும்` in the phrase `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`.
+- PDF 299 restored source spacing `கேட்டுக் கொள்ள வில்லையா?` instead of joined `கேட்டுக் கொள்ளவில்லையா?`.
 - Letter 3627 passed through closing/date page PDF 278; letters 3628 and 3629 passed through closing/date pages PDF 286 and 295.
 - PDF 288–289 source page-boundary split `இருக்` → `கிறதே` and PDF 289 `(Upgradation Grants)` were rechecked and retained.
 - PDF 290 source wording `இரண்டு இலட்சம் ரூபாய்க்கான ஒதுக்கீடும்` was rechecked and retained without normalization.
@@ -289,7 +290,7 @@ Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FID
 
 - Second-pass coverage: **PDF 001–300 / 402**.
 - Total pages second-pass checked: **300**.
-- Total scan-proven canonical corrections: **26 pages / 28 spans**.
+- Total scan-proven canonical corrections: **26 pages / 29 spans**.
 - Complete source letters with full second-pass coverage: **3592–3629**.
 - Letter 3630: PDF 296–300 checked so far; fidelity gate incomplete.
 

@@ -5,7 +5,7 @@
 **Source SHA-256:** `ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9`  
 **Scope:** PDF pages 276–300  
 **Method:** direct second-pass visual comparison of every canonical Markdown page against rendered images from the controlling source PDF  
-**Status:** passed after scan-proven correction
+**Status:** passed after scan-proven corrections
 
 ## Scope
 
@@ -27,7 +27,7 @@ Letter 3630 continues beyond PDF 300 and therefore has not yet fully cleared the
 | New PDF pages visually compared | **25 / 25 — PDF 276–300** |
 | Cumulative second-pass coverage | **PDF 001–300** |
 | Canonical pages requiring correction | **1 — PDF 299** |
-| Scan-proven corrected text spans | **1** |
+| Scan-proven corrected text spans | **2** |
 | Other new pages requiring no canonical text change | **24** |
 | Complete letters newly cleared in this range | **3627–3629 — 3 letters** |
 | Cumulative complete letters with full second-pass coverage | **3592–3629 — 38 letters** |
@@ -35,14 +35,17 @@ Letter 3630 continues beyond PDF 300 and therefore has not yet fully cleared the
 | Letter 3630 | begins PDF 296; audited through PDF 300; continues beyond PDF 300 |
 | English translation | not started |
 
-## Scan-proven correction
+## Scan-proven corrections
 
 ### PDF 299 — letter 3630
 
 - Before: `போர்ப்பகுதிகளில் வசிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`
 - Corrected to source: `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`
 
-The correction restores the word visibly printed in the scan; no contextual reconstruction or modernization was used.
+- Before: `அனுப்ப வேண்டும் என்று கேட்டுக் கொள்ளவில்லையா?`
+- Corrected to source: `அனுப்ப வேண்டும் என்று கேட்டுக் கொள்ள வில்லையா?`
+
+Both corrections restore forms visibly printed in the scan; no contextual reconstruction or modernization was used.
 
 ## Pages passing without canonical correction
 
@@ -71,7 +74,7 @@ With the twelve completed fidelity reports:
 
 - PDF **001–300** has passed second-pass scan comparison;
 - total second-pass pages checked: **300 / 402**;
-- total scan-proven canonical corrections: **26 pages / 28 spans** — PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173, 179, 225, 250, 257, 258, 261, 264, 268, 273, 274 and 299;
+- total scan-proven canonical corrections: **26 pages / 29 spans** — PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173, 179, 225, 250, 257, 258, 261, 264, 268, 273, 274 and 299;
 - complete source letters with full second-pass coverage: **3592–3629**; and
 - letter **3630** has PDF 296–300 audited so far and remains incomplete for the fidelity gate.
 

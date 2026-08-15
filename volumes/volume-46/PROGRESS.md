@@ -36,7 +36,7 @@
   - [x] PDF **201–225** — 25/25 visually compared; **1 corrected page / 1 span**
   - [x] PDF **226–250** — 25/25 visually compared; **1 corrected page / 1 span**
   - [x] PDF **251–275** — 25/25 visually compared; **7 corrected pages / 7 spans**
-  - [x] PDF **276–300** — 25/25 visually compared; **1 corrected page / 1 span**
+  - [x] PDF **276–300** — 25/25 visually compared; **1 corrected page / 2 spans**
   - [ ] PDF **301–402**
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
@@ -61,7 +61,7 @@
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md`
-- Scan-proven canonical corrections in completed second-pass range: **26 pages / 28 spans**
+- Scan-proven canonical corrections in completed second-pass range: **26 pages / 29 spans**
 - Complete letters with full second-pass coverage: **3592–3629**
 - Letter **3630**: fidelity checked through PDF 300; continues beyond this page
 - English translation: **not started**
@@ -177,8 +177,9 @@
 - All **25/25** pages directly compared with rendered source scans.
 - Letter 3627 completed at PDF 278; letters 3628 and 3629 checked through their closings at PDF 286 and 295.
 - PDF 299 corrected first-pass `வசிப்படும்` to source `அவதிப்படும்` in the phrase `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`.
+- PDF 299 restored source spacing `கேட்டுக் கொள்ள வில்லையா?` instead of joined `கேட்டுக் கொள்ளவில்லையா?`.
 - PDF 288–289 page-boundary split `இருக்` → `கிறதே`, PDF 289 `(Upgradation Grants)`, and PDF 290 source wording `இரண்டு இலட்சம் ரூபாய்க்கான ஒதுக்கீடும்` were rechecked and preserved.
-- Canonical corrections: **1 page / 1 span**.
+- Canonical corrections: **1 page / 2 spans**.
 - PDF 296–300 begins/continues letter 3630; that letter remains incomplete for this gate.
 
 ## Audit boundary

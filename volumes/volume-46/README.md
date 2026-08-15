@@ -13,7 +13,7 @@
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
 - Second visual / textual-fidelity verification: **in progress — PDF 001–300 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **26 pages / 28 spans**.
+- Scan-proven canonical corrections in completed second-pass range: **26 pages / 29 spans**.
 - Complete letters with full second-pass coverage: **3592–3629**.
 - English translation: **not started**.
 
@@ -185,15 +185,16 @@
 ### PDF 276–300
 
 - Pages checked: **25 / 25**.
-- Canonical corrections required: **1 page / 1 span**.
+- Canonical corrections required: **1 page / 2 spans**.
 - PDF 299 corrected first-pass `வசிப்படும்` to source `அவதிப்படும்` in `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`.
+- PDF 299 restored source spacing `கேட்டுக் கொள்ள வில்லையா?` instead of joined `கேட்டுக் கொள்ளவில்லையா?`.
 - Letter 3627 completed at PDF 278; letters 3628 and 3629 passed through closing/date pages PDF 286 and 295.
 - PDF 288–289 preserves the source page-boundary split `இருக்` → `கிறதே`; PDF 289 preserves `(Upgradation Grants)`.
 - PDF 290 preserves the source-printed wording `இரண்டு இலட்சம் ரூபாய்க்கான ஒதுக்கீடும்` without normalization.
 - PDF 296–300 is partial fidelity coverage for letter 3630.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md).
 
-Cumulative second-pass source coverage is now **PDF 001–300 / 402**, with **26 corrected pages / 28 spans**. Complete source letters **3592–3629** have full second-pass coverage; letter **3630** remains partial through PDF 300.
+Cumulative second-pass source coverage is now **PDF 001–300 / 402**, with **26 corrected pages / 29 spans**. Complete source letters **3592–3629** have full second-pass coverage; letter **3630** remains partial through PDF 300.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
