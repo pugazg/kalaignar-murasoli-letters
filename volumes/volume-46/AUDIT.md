@@ -132,8 +132,8 @@ Structural state after this audit and subsequent fidelity work:
 - numbering anomalies reconciled: **yes**;
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
-- second visual/textual-fidelity verification: **in progress — PDF 001–075 passed**;
-- scan-proven canonical corrections in PDF 001–075: **2 pages / 2 spans**;
+- second visual/textual-fidelity verification: **in progress — PDF 001–100 passed**;
+- scan-proven canonical corrections in PDF 001–100: **5 pages / 5 spans**;
 - English translation: **not started**.
 
 ## முக்கிய status boundary
@@ -175,18 +175,29 @@ Detailed report: [TEXTUAL_FIDELITY_AUDIT_051_075.md](translations/en/TEXTUAL_FID
 - PDF 052 restored source quotation marks around `‘பூஜை’`.
 - PDF 066 corrected first-pass `உண்டு,` to scan-supported `உண்டே,`.
 - Letters 3596, 3597, 3598 and 3599 passed through closing/date pages PDF 056, 063, 066 and 074.
-- PDF 075 begins letter 3600 and does not complete it.
+
+### Report 4 — PDF 076–100
+
+Detailed report: [TEXTUAL_FIDELITY_AUDIT_076_100.md](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md)
+
+- New PDF pages visually compared: **25 / 25**.
+- Scan-proven canonical corrections: **3 pages / 3 spans**.
+- PDF 079 corrected first-pass `கண்ணா` to source `கண்ணீர்`.
+- PDF 097 corrected first-pass `உலகிய` to source `உலவிய`.
+- PDF 099 restored source spacing `சட்ட முன் வடிவை` instead of joined `சட்ட முன்வடிவை`.
+- Letters 3600, 3601 and 3602 passed through closing/date pages PDF 079, 087 and 094.
+- PDF 095–100 is only partial coverage for letter 3603.
 
 ### Cumulative fidelity state
 
-- Second-pass coverage: **PDF 001–075 / 402**.
-- Total pages second-pass checked: **75**.
-- Total scan-proven canonical corrections: **2 pages / 2 spans**.
-- Complete source letters with full second-pass coverage: **3592–3599**.
-- Letter 3600: only PDF 075 checked so far; fidelity gate incomplete.
+- Second-pass coverage: **PDF 001–100 / 402**.
+- Total pages second-pass checked: **100**.
+- Total scan-proven canonical corrections: **5 pages / 5 spans**.
+- Complete source letters with full second-pass coverage: **3592–3602**.
+- Letter 3603: PDF 095–100 checked so far; fidelity gate incomplete.
 
-This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 076 onward.
+This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 101 onward.
 
 ## Exact next task
 
-Continue second visual / textual-fidelity verification with **PDF 076–100**. Correct only scan-proven canonical defects and record the range in the next fidelity report. Do not begin English translation in this activity.
+Continue second visual / textual-fidelity verification with **PDF 101–125**. Correct only scan-proven canonical defects and record the range in the next fidelity report. Do not begin English translation in this activity.

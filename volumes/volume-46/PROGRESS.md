@@ -28,7 +28,8 @@
   - [x] PDF **001–025** — 25/25 visually compared; **0 canonical corrections**
   - [x] PDF **026–050** — 25/25 visually compared; **0 canonical corrections**
   - [x] PDF **051–075** — 25/25 visually compared; **2 corrected pages / 2 spans**
-  - [ ] PDF **076–402**
+  - [x] PDF **076–100** — 25/25 visually compared; **3 corrected pages / 3 spans**
+  - [ ] PDF **101–402**
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -38,14 +39,15 @@
 - Source-letter records: **55 complete**
 - Source-incomplete letters: **0**
 - Full-volume Tamil structural audit: **complete**
-- Second visual/textual-fidelity verification: **in progress — PDF 001–075 passed**
-- Textual-fidelity reports: **3**
+- Second visual/textual-fidelity verification: **in progress — PDF 001–100 passed**
+- Textual-fidelity reports: **4**
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
   - `translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`
-- Scan-proven canonical corrections in completed second-pass range: **2 pages / 2 spans**
-- Complete letters with full second-pass coverage: **3592–3599**
-- Letter **3600**: fidelity checked only at PDF 075; continues beyond this page
+  - `translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md`
+- Scan-proven canonical corrections in completed second-pass range: **5 pages / 5 spans**
+- Complete letters with full second-pass coverage: **3592–3602**
+- Letter **3603**: fidelity checked through PDF 100; continues beyond this page
 - English translation: **not started**
 - Bilingual alignment: **not started**
 
@@ -63,7 +65,6 @@
 - Letter 3592 completed at PDF 029.
 - Complete letters 3593 and 3594 checked through their closings at PDF 036 and 044.
 - Letter 3595 checked through PDF 049, preserving final source form `தமிழ!` against heading `தமிழா!`.
-- PDF 050 begins letter 3596.
 - High-risk English passages on PDF 031 and 039 and the Purananuru quotation on PDF 047 were rechecked directly.
 - Canonical corrections: **0**.
 
@@ -74,7 +75,16 @@
 - PDF 052 restored source quotation marks around `‘பூஜை’`.
 - PDF 066 corrected first-pass `உண்டு,` to source `உண்டே,`.
 - Canonical corrections: **2 pages / 2 spans**.
-- PDF 075 begins letter 3600; that letter remains incomplete for this gate.
+
+### PDF 076–100
+
+- All **25/25** pages directly compared with rendered source scans.
+- Letter 3600 completed at PDF 079; letters 3601 and 3602 checked through their closings at PDF 087 and 094.
+- PDF 079 corrected first-pass `கண்ணா` to source `கண்ணீர்`.
+- PDF 097 corrected first-pass `உலகிய` to source `உலவிய`.
+- PDF 099 restored source spacing `சட்ட முன் வடிவை` instead of joined `சட்ட முன்வடிவை`.
+- Canonical corrections: **3 pages / 3 spans**.
+- PDF 095–100 begins/continues letter 3603; that letter remains incomplete for this gate.
 
 ## Audit boundary
 
@@ -82,4 +92,4 @@ The completed structural audit validates repository/page coverage, source identi
 
 ## Exact next task
 
-Visually compare **PDF 076–100** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3600 and subsequent source letters. Do not begin English translation in this activity.
+Visually compare **PDF 101–125** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range continues letter 3603 and subsequent source letters. Do not begin English translation in this activity.
