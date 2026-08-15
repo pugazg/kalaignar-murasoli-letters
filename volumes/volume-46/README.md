@@ -12,9 +12,10 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–025 passed**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–050 passed**.
 - Scan-proven canonical corrections in completed second-pass range: **0**.
-- English translation: **not started; blocked pending further textual-fidelity review**.
+- Complete letters with full second-pass coverage: **3592–3595**.
+- English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
 
@@ -65,17 +66,26 @@
 
 ## Second visual / textual-fidelity progress
 
-The first close second-pass range, PDF **001–025**, was compared page-by-page against the source scan on 2026-08-15.
+### PDF 001–025
 
 - Pages checked: **25 / 25**.
 - Canonical corrections required: **0**.
-- PDF 001–017 front/publication matter passed.
-- PDF 018–022 printed contents passed direct source recheck.
-- PDF 023 blank-page state passed.
-- PDF 024–025 beginning of letter 3592 passed.
+- Front/publication matter, printed contents, blank-page state and PDF 024–025 beginning of letter 3592 passed.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md).
 
-Letter **3592** continues through PDF **029**, so no complete letter is translation-ready solely from this first range.
+### PDF 026–050
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **0**.
+- Letter 3592 completed and source closing/date checked at PDF 029.
+- Letters 3593, 3594 and 3595 passed through their closing/date pages PDF 036, 044 and 049.
+- PDF 031 and 039 English legal passages were checked directly against the scan.
+- PDF 047 Purananuru quotation was checked line by line.
+- PDF 049 preserves source-specific closing exhortation `தமிழ!` against heading `தமிழா!`.
+- PDF 050 begins letter 3596; that letter continues through PDF 056 and is not yet fully fidelity-cleared.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_026_050.md](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md).
+
+Cumulative second-pass source coverage is now **PDF 001–050 / 402**, with **0 scan-proven canonical corrections** so far.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -88,4 +98,4 @@ Letter **3592** continues through PDF **029**, so no complete letter is translat
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 026–050**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். PDF 026–029 letter 3592-ஐ முடிக்கின்றன. Relevant fidelity gate pass ஆகும் வரை English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 051–075**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். PDF 051–056 letter 3596-ஐ முடிக்கின்றன. இந்த activity-ல் English translation தொடங்கக்கூடாது.

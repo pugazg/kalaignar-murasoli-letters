@@ -24,7 +24,7 @@
 10. source-incomplete / missing-printed-page state;
 11. metadata, README, progress மற்றும் translation-gate consistency.
 
-இந்த audit **second visual verification அல்ல**. ஒவ்வொரு canonical body-யையும் character-by-character scan-க்கு எதிராக மறுமுறை வாசிக்கும் textual-fidelity pass அடுத்த தனி gate ஆகும்.
+இந்த audit **second visual verification அல்ல**. ஒவ்வொரு canonical body-யையும் character-by-character scan-க்கு எதிராக மறுமுறை வாசிக்கும் textual-fidelity pass தனி gate ஆகும்.
 
 ## Source / PDF structural checks
 
@@ -123,7 +123,7 @@ Examples of source-faithful anomalies retained include:
 
 **PASS — Volume 46 full-volume Tamil structural audit complete.**
 
-Structural state after this audit:
+Structural state after this audit and subsequent fidelity work:
 
 - source PDF pages represented: **402 / 402**;
 - source-letter records: **55 / 55**;
@@ -132,33 +132,51 @@ Structural state after this audit:
 - numbering anomalies reconciled: **yes**;
 - structural metadata / chapter ranges / navigation: **reconciled**;
 - full-volume audit status: **complete**;
-- second visual/textual-fidelity verification: **in progress — PDF 001–025 passed**;
-- English translation: **not started; still blocked**.
+- second visual/textual-fidelity verification: **in progress — PDF 001–050 passed**;
+- scan-proven canonical corrections in PDF 001–050: **0**;
+- English translation: **not started**.
 
 ## முக்கிய status boundary
 
-`full-volume-audit-complete` என்பது canonical structure, source boundaries, numbering, mappings மற்றும் page coverage pass ஆனது என்பதையே குறிக்கிறது. இது ஒவ்வொரு எழுத்தையும் scan-க்கு எதிராக second-pass character-level review செய்ததாகக் கருதக்கூடாது.
+`full-volume-audit-complete` என்பது canonical structure, source boundaries, numbering, mappings மற்றும் page coverage pass ஆனது என்பதையே குறிக்கிறது. Second visual/textual-fidelity verification தனியாக source scan-க்கு எதிரான close review ஆகத் தொடர்கிறது.
 
 Repository guide-ன்படி English translation தொடங்குவதற்கு relevant Tamil pages mandatory scan-based textual-fidelity review pass ஆக வேண்டும்.
 
 ## Second visual / textual-fidelity verification progress
 
-The first second-pass fidelity range, **PDF 001–025**, has been directly compared page-by-page with rendered images from `Vol46.pdf`.
+### Report 1 — PDF 001–025
 
 Detailed report: [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
 
 - PDF pages visually compared: **25 / 25**.
-- Canonical page range: `page-001.md`–`page-025.md`.
 - Scan-proven canonical corrections: **0**.
-- PDF 001–017 front/publication matter passed.
-- PDF 018–022 printed contents rows passed direct scan recheck, including source-number anomalies.
-- PDF 023 blank page correctly keeps faint reverse-side show-through out of body text.
-- PDF 024–025 beginning of letter 3592 passed without canonical correction.
+- Front/publication matter, contents, blanks and PDF 024–025 beginning of letter 3592 passed.
 - PDF 024 `நிகழ்ந்` → PDF 025 `துள்ளன.` remains preserved as a source page-boundary split.
-- Letter **3592** continues through PDF **029**; therefore it is not translation-ready after this first range alone.
 
-This second-pass result does not alter the full-volume structural-audit conclusion and does not certify PDF 026 onward.
+### Report 2 — PDF 026–050
+
+Detailed report: [TEXTUAL_FIDELITY_AUDIT_026_050.md](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
+
+- New PDF pages visually compared: **25 / 25**.
+- Scan-proven canonical corrections: **0**.
+- Letter 3592 completed at PDF 029 with source closing/date checked.
+- Letters 3593, 3594 and 3595 passed through closing/date pages PDF 036, 044 and 049.
+- PDF 031 English legal phrases and PDF 039 Colin Gonsalves English quotation were checked against the scan.
+- PDF 044 printed parenthetical note after the closing/date was preserved.
+- PDF 047 Purananuru quotation was checked line by line.
+- PDF 049 source-specific final `தமிழ!` remains distinct from the heading/contents `தமிழா!`.
+- PDF 050 begins letter 3596, which continues through PDF 056.
+
+### Cumulative fidelity state
+
+- Second-pass coverage: **PDF 001–050 / 402**.
+- Total pages second-pass checked: **50**.
+- Total scan-proven canonical corrections: **0**.
+- Complete source letters with full second-pass coverage: **3592–3595**.
+- Letter 3596: only PDF 050 checked so far; fidelity gate incomplete.
+
+This second-pass progress does not alter the full-volume structural-audit conclusion and does not certify PDF 051 onward.
 
 ## Exact next task
 
-Continue the second visual / textual-fidelity verification with **PDF 026–050**. Correct only scan-proven canonical defects and record the range in the next fidelity report. PDF 026–029 complete letter 3592; English translation remains blocked until relevant complete letters pass the fidelity gate.
+Continue second visual / textual-fidelity verification with **PDF 051–075**. Correct only scan-proven canonical defects and record the range in the next fidelity report. PDF 051–056 complete letter 3596. Do not begin English translation in this activity.

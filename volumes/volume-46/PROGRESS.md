@@ -26,7 +26,8 @@
 - [x] **Full-volume Tamil structural audit complete — PASS**
 - [ ] Second visual verification / scan-based textual-fidelity gate — **in progress**
   - [x] PDF **001–025** — 25/25 visually compared; **0 canonical corrections**
-  - [ ] PDF **026–402**
+  - [x] PDF **026–050** — 25/25 visually compared; **0 canonical corrections**
+  - [ ] PDF **051–402**
 - [ ] English translation
 - [ ] Bilingual alignment and editorial release
 
@@ -36,20 +37,33 @@
 - Source-letter records: **55 complete**
 - Source-incomplete letters: **0**
 - Full-volume Tamil structural audit: **complete**
-- Second visual/textual-fidelity verification: **in progress — PDF 001–025 passed**
-- Textual-fidelity reports: **1** — `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
+- Second visual/textual-fidelity verification: **in progress — PDF 001–050 passed**
+- Textual-fidelity reports: **2**
+  - `translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`
+  - `translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`
 - Scan-proven canonical corrections in completed second-pass range: **0**
-- English translation: **not started; blocked pending textual-fidelity review**
+- Complete letters with full second-pass coverage: **3592–3595**
+- Letter **3596**: fidelity checked only at PDF 050; continues through PDF 056
+- English translation: **not started**
 - Bilingual alignment: **not started**
 
-## First second-pass fidelity range — PDF 001–025
+## Second-pass fidelity ranges completed
 
-- All **25/25** canonical pages were directly compared with rendered source scans.
-- PDF 001–017 front/publication matter passed without canonical correction.
-- PDF 018–022 printed contents rows were rechecked, including the source numbering anomalies.
-- PDF 023 blank-page state was rechecked.
-- PDF 024–025, the beginning of letter 3592, passed without canonical correction.
-- Letter **3592** continues through PDF **029**, so it is **not translation-ready** after this range alone.
+### PDF 001–025
+
+- All **25/25** canonical pages directly compared with rendered source scans.
+- Front/publication matter, contents, blanks and PDF 024–025 start of letter 3592 passed.
+- Canonical corrections: **0**.
+
+### PDF 026–050
+
+- All **25/25** pages directly compared with rendered source scans.
+- Letter 3592 completed at PDF 029.
+- Complete letters 3593 and 3594 checked through their closings at PDF 036 and 044.
+- Letter 3595 checked through PDF 049, preserving final source form `தமிழ!` against heading `தமிழா!`.
+- PDF 050 begins letter 3596; that letter remains incomplete for this gate.
+- High-risk English passages on PDF 031 and 039 and the Purananuru quotation on PDF 047 were rechecked directly.
+- Canonical corrections: **0**.
 
 ## Audit boundary
 
@@ -57,4 +71,4 @@ The completed structural audit validates repository/page coverage, source identi
 
 ## Exact next task
 
-Visually compare **PDF 026–050** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range includes PDF **026–029**, the remainder of letter 3592. English translation remains blocked until the relevant complete letters pass the mandatory fidelity gate.
+Visually compare **PDF 051–075** against the canonical Markdown, correct only scan-proven defects, and record the results in the next textual-fidelity audit report. This range completes letter 3596 and continues through later source letters. Do not begin English translation in this activity.
