@@ -19,15 +19,16 @@
 - ஏழாவது regular five-letter batch **3623–3627**, PDF **246–278** / அச்சு **245–277**.
 - எட்டாவது regular five-letter batch **3628–3632**, PDF **279–315** / அச்சு **278–314**.
 - ஒன்பதாவது source-order five-record batch **3633, 3634, 3635, 3637, 3637**, PDF **316–343** / அச்சு **315–342**.
-- இதுவரை **46 முழுமையான source records** canonical Tamil page files-ல் உள்ளன. Source scan-ல் 3636 எண் இல்லாமல், 3637 இரண்டு தனித்துவமான records-க்கு அச்சிடப்பட்டுள்ளது; repository அதை மாற்றவில்லை.
+- பத்தாவது regular five-letter batch **3638–3642**, PDF **344–370** / அச்சு **343–369**.
+- இதுவரை **51 முழுமையான source records** canonical Tamil page files-ல் உள்ளன. Source scan-ல் 3636 எண் இல்லாமல், 3637 இரண்டு தனித்துவமான records-க்கு அச்சிடப்பட்டுள்ளது; repository அதை மாற்றவில்லை.
 - ஒவ்வொரு completed source record-ன் ending/signature/date scan-ல் visually verified செய்யப்பட்டுள்ளது.
-- PDF **344** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3638-ஐ தொடங்குகிறது. `page-344.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
+- PDF **371** boundary check-க்காக மட்டும் பார்க்கப்பட்டது; அது 3643-ஐ தொடங்குகிறது. `page-371.md` இந்த batch-ல் சேர்க்கப்படவில்லை.
 - English translation தொடங்கப்படவில்லை; repository translation gate `blocked` நிலையில் உள்ளது.
 
 ## Printed contents / source numbering anomalies preserved
 
 - `3635`-க்கு அடுத்து source contents மற்றும் actual scan **3637**-ஐ அச்சிட்டு, அடுத்த source item-யிலும் **3637**-ஐ மீண்டும் அச்சிடுகிறது; **3636 source record இல்லை**.
-- `3643`-க்கு அடுத்து source contents **3647**-க்கு செல்கிறது; `3644–3646` rows இல்லை.
+- `3643`-க்கு அடுத்து printed contents **3647**-க்கு செல்கிறது; `3644–3646` rows இல்லை. Actual scan sequence PDF 371 onward இன்னும் முழுமையாகச் சரிபார்க்கப்படவில்லை; source record numbering முன்கூட்டியே ஊகிக்கப்படாது.
 - கடிதம் **3620**-க்கு printed contents `என்று தணியும் ஈழத்தமிழா தாகம்!` என்று அச்சிடுகிறது; actual letter-start PDF 221-ல் `என்று தணியும் ஈழத்தமிழர் தாகம்!` என்று உள்ளது. இரண்டு source forms-மும் தத்தம் context-ல் பாதுகாக்கப்பட்டுள்ளன.
 - கடிதம் **3625**-க்கு printed contents `ஒரு சுயமரியாதைக்காரனின் குளுரை!` என்று அச்சிடுகிறது; actual letter-start PDF 262-ல் `ஒரு சுயமரியாதைக்காரனின் சூளுரை!` என்று உள்ளது.
 - **3634** contents title `தலைமைச் செயற்குழு, தக்க முடிவெடுக்கும்!`; actual PDF 322 heading `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`.
@@ -53,18 +54,21 @@
 | கடிதங்கள் 3623–3627 | 246–278 | complete; first-pass-reviewed |
 | கடிதங்கள் 3628–3632 | 279–315 | complete; first-pass-reviewed |
 | source records 3633, 3634, 3635, 3637, 3637 | 316–343 | complete; first-pass-reviewed |
-| மீதமுள்ள PDF | 344–402 | pending |
+| கடிதங்கள் 3638–3642 | 344–370 | complete; first-pass-reviewed |
+| மீதமுள்ள PDF | 371–402 | pending |
 | full-volume Tamil structural audit | — | pending |
 | second visual verification | — | pending |
 | English translation | — | not started; blocked |
 
-## Ninth batch source-fidelity notes
+## Tenth batch source-fidelity notes
 
-- PDF **316–343** canonical page bodies **28/28** source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
-- PDF 325 இறுதியின் `உழைத்த` / PDF 326 தொடக்கத்தின் `தைத் தவிர` source page-boundary split preserve செய்யப்பட்டது.
-- PDF 338 magnified check-ல் source-supported `கட்-அவுட்கள்`, `முகம்சுளிக்கும்`, `ஐயம் திரிபற` readings canonical text-ல் உறுதிசெய்யப்பட்டன.
-- PDF 343 ஒரு தனித்துவமான one-page second `3637` source item. அதிலுள்ள handwritten signature image விளக்கமாக மட்டும் பதிவு செய்யப்பட்டு, printed designation `தலைவர், தி.மு.க.` மற்றும் தேதி `05-07-2012` அப்படியே பாதுகாக்கப்பட்டன.
-- PDF 344 scan boundary மட்டும் பார்க்கப்பட்டது; அது 3638-ஐத் தொடங்குகிறது.
+- PDF **344–370** canonical page bodies **27/27** source scans-க்கு எதிராக first-pass visually compared செய்யப்பட்டன.
+- PDF 345/353 source resolution quotation-ல் `ஆசிரியர்கள் இட மாறுதலிலிருந்து`, `விளம்பர மேலா`; PDF 346-ல் `காழ்ப்பினைக்`, `அவசர அவசரமாக` ஆகிய forms scan-படி பாதுகாக்கப்பட்டன.
+- PDF 351 பெயர் `ஐசரி கணேசும்` என்றும் PDF 360 `கவுரவ விரிவுரையாளர் நியமனம்`, `கொடநாட்டிலே` என்றும் scan-க்கு எதிராக உறுதிசெய்யப்பட்டன.
+- PDF 363 `மனித நேயம் மற்றும்`; PDF 365-ன் public-referendum question மற்றும் `கருத்துக்களை யெல்லாம்` source wording/spacing பாதுகாக்கப்பட்டன.
+- PDF 367–370 literary/source forms `இந்திப்பெண்ணே`, `முரசொலி துண்டு வெளியீடு`, `நாளங்காடி`, `பாவலரேறு பெருஞ்சித்திரனார்`, `வேண்டு கோள்களை` source-படி transcribe செய்யப்பட்டன.
+- கடிதம் 3642 PDF 370-ல் source-இன்படி comma இல்லாத `அன்புள்ள`, அடுத்து `மு.க.`, தேதி `24-7-2012` என முடிகிறது.
+- PDF 371 scan boundary மட்டும் பார்க்கப்பட்டது; அது 3643-ஐத் தொடங்குகிறது.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -76,4 +80,4 @@
 
 ## அடுத்த exact task
 
-PDF பக்கம் **344** / அச்சுப் பக்கம் **343**-இல் தொடங்கும் **3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?”** முதல் அடுத்த normal five-complete-source-letter transcription iteration-ஐ தொடங்க வேண்டும். ஐந்தாவது complete source record-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த source record-ன் எந்த canonical body-ஐயும் சேர்க்கக் கூடாது.
+PDF பக்கம் **371** / அச்சுப் பக்கம் **370**-இல் தொடங்கும் **3643 — “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!** முதல் அடுத்த source-order transcription iteration-ஐ தொடங்க வேண்டும். Printed contents `3643`-க்கு அடுத்து `3647`-க்கு தாவுவதால் actual scan sequence-ஐ முன்கூட்டியே ஊகிக்காமல், அடுத்த ஐந்து complete source records-ன் தொடக்கம்/முடிவு எல்லைகளைக் scan மூலம் உறுதிப்படுத்த வேண்டும்.

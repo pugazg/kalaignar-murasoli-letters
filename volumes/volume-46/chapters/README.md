@@ -50,14 +50,19 @@
 | [3635](3635-kalam-kaana-thudikkuthu-kazhagappadai.md) | களம் காணத் துடிக்குது, கழகப்படை! | 27-06-2012 | 328–334 | 329–335 | complete |
 | [3637](3637-indre-selga-inithe-velga.md) | “இன்றே செல்க! இனிதே வெல்க!” என வாழ்த்தி வழியனுப்புகிறேன்! | 3-7-2012 | 335–341 | 336–342 | complete |
 | [3637](3637-en-uyirinumelana-anbu-udanpirappukkale.md) | என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே! | 05-07-2012 | 342 | 343 | complete |
+| [3638](3638-perethirppaal-unmaithaan-inmaiyaamo.md) | பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ? | 6-7-2012 | 343–347 | 344–348 | complete |
+| [3639](3639-ivai-ellaame-arasiyalthaanaa.md) | இவை எல்லாமே அரசியல்தானா? | 09-07-2012 | 348–354 | 349–355 | complete |
+| [3640](3640-enna-nadakkirathu-tamizhagaththil.md) | என்ன நடக்கிறது தமிழகத்தில்? | 13-7-2012 | 355–360 | 356–361 | complete |
+| [3641](3641-kuzhappam-enakkoori-kutharkkam-vilaikkaatheer.md) | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | 19-7-2012 | 361–365 | 362–366 | complete |
+| [3642](3642-murasoli-ennikkai-mummadangu-peruga-vendum.md) | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | 24-7-2012 | 366–369 | 367–370 | complete |
 
 ## Pending letter register
 
-அச்சு உள்ளடக்க அட்டவணையின் மீதமுள்ள **9** பதிவுகள் `contents/index.md`-இல் பாதுகாக்கப்பட்டுள்ளன. அவற்றின் actual heading, verified PDF boundaries மற்றும் chapter files தொடர்புடைய pages visually transcribed செய்யப்பட்ட பின்னரே உருவாக்கப்படும்; unresolved boundaries இருக்கும் நிலையில் chapter files முன்கூட்டியே உருவாக்கப்படாது.
+அச்சு உள்ளடக்க அட்டவணையில் இன்னும் **4** pending பதிவுகள் `contents/index.md`-இல் உள்ளன: 3643, 3647, 3648, 3649. ஆனால் printed contents `3643`-இலிருந்து `3647`-க்கு நேரடியாகச் செல்கிறது; ஆகவே actual scan sequence PDF 371 முதல் தனியாகச் சரிபார்க்கப்பட்ட பின்னரே 3644–3646 source records உண்மையில் உள்ளனவா இல்லையா என்று முடிவு செய்ய வேண்டும். Contents omission-ஐ source absence என முன்கூட்டியே கருதக்கூடாது.
 
-Scan source sequence PDF **329–343** itself confirms the numbering anomaly: 3635-க்கு அடுத்து **3637** வருகிறது; **3636** இல்லை; அதற்குப் பின் தனித்துவமான இன்னொரு source item-மும் **3637** என்றே அச்சிடப்பட்டுள்ளது. Repository எந்த source record-ஐயும் மறுஎண்ணிடவில்லை.
+Scan source sequence PDF **329–343** itself confirms the earlier numbering anomaly: 3635-க்கு அடுத்து **3637** வருகிறது; **3636** இல்லை; அதற்குப் பின் தனித்துவமான இன்னொரு source item-மும் **3637** என்றே அச்சிடப்பட்டுள்ளது. Repository எந்த source record-ஐயும் மறுஎண்ணிடவில்லை.
 
-அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?”** PDF பக்கம் **344** / அச்சுப் பக்கம் **343**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
+அடுத்த letter-start boundary மட்டும் இந்த batch stop condition-ஐ உறுதிப்படுத்த scan-ல் பார்க்கப்பட்டது: **3643 — “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!** PDF பக்கம் **371** / அச்சுப் பக்கம் **370**-இல் தொடங்குகிறது. அதன் canonical page transcription அல்லது chapter record இந்த batch-ல் உருவாக்கப்படவில்லை.
 
 கடிதம் **3595**-க்கு contents மற்றும் actual heading இரண்டிலும் `தமிழா!` உள்ளது; ஆனால் அதன் இறுதி exhortation PDF 49-ல் source-இன்படி `தமிழ!` என்று உள்ளது. Chapter/page files இந்த வேறுபாட்டை வெளிப்படையாகப் பாதுகாக்கின்றன.
 
@@ -71,4 +76,4 @@ Scan source sequence PDF **329–343** itself confirms the numbering anomaly: 36
 
 ## அடுத்த exact task
 
-PDF பக்கம் **344** / அச்சுப் பக்கம் **343**-இல் தொடங்கும் **3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?”** முதல் அடுத்த normal five-complete-source-letter transcription iteration-ஐ தொடங்க வேண்டும். ஐந்தாவது complete source letter-ன் verified closing/date page-ல் நிறுத்தி, அடுத்த source letter-ன் எந்த canonical body-ஐயும் சேர்க்கக்கூடாது.
+PDF பக்கம் **371** / அச்சுப் பக்கம் **370**-இல் தொடங்கும் **3643 — “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!** முதல் அடுத்த transcription iteration-ஐ தொடங்க வேண்டும். Printed contents `3643 → 3647` என jump செய்வதால், அடுத்த ஐந்து complete source records-ன் actual numbering மற்றும் எல்லைகளை scan-இலிருந்தே கண்டறிந்து, ஐந்தாவது verified source record-ன் ending/date page-ல் நிறுத்த வேண்டும்; following record-ன் canonical body சேர்க்கக்கூடாது.

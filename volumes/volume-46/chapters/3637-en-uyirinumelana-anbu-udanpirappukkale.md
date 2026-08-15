@@ -36,7 +36,6 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 - The source prints a second consecutive `3637`, distinct from the 3-7-2012 letter immediately before it. The duplicate number is preserved.
 - Printed contents title is `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!`; actual PDF 343 heading is `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`. Both source forms are preserved separately.
 - The page includes a handwritten signature image. It is described rather than interpreted as printed text; the printed designation below it is `தலைவர், தி.மு.க.` and the printed date is `05-07-2012`.
-- PDF 344 was inspected only as the next boundary; it begins 3638 and no PDF 344 canonical body is included in this batch.
 
 **முந்தைய கடிதம்:** [3637 — முதல் பதிவு](3637-indre-selga-inithe-velga.md)  
-**அடுத்த கடிதம்:** 3638 — “பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?” — PDF பக்கம் 344 / அச்சுப் பக்கம் 343-இல் தொடக்கம் visually verified; chapter record அடுத்த transcription batch-ல் உருவாக்கப்படும்.
+**அடுத்த கடிதம்:** [3638 — பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?](3638-perethirppaal-unmaithaan-inmaiyaamo.md)

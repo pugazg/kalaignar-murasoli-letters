@@ -17,11 +17,11 @@ source_file: "Vol46.pdf"
 source_sha256: "ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9"
 source_size_bytes: 200631699
 source_searchable_text_layer: false
-transcription_page_range: "1-343"
+transcription_page_range: "1-370"
 transcription_status: "in-progress"
 recorded_letter_range: "3592-3649 (printed contents; numbering anomalies documented)"
-completed_letter_range: "3592-3635; 3637 (two source records; no 3636 in source numbering)"
-completed_letter_count: 46
+completed_letter_range: "3592-3635; 3637 (two source records; no 3636 in source numbering); 3638-3642"
+completed_letter_count: 51
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
@@ -40,7 +40,7 @@ source_observations:
   - "No usable searchable text layer exists on any of the 402 PDF pages; transcription is controlled by rendered page images."
   - "All PDF page rotation metadata is 0 degrees."
   - "A low-resolution whole-PDF render-hash scan found no exact duplicate rendered pages; this is only a structural signal, not a substitute for later full visual audit."
-  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-343 range; full-volume missing/discontinuity verification remains pending."
+  - "No missing, duplicated, rotated, damaged or illegible source page was observed within the completed PDF 1-370 range; full-volume missing/discontinuity verification remains pending."
   - "Printed contents PDF pages 18-22 contain 55 rows and preserve source numbering anomalies: 3637 is printed twice after 3635 with no 3636 row, and 3643 is followed by 3647 with no 3644-3646 rows."
   - "Letter 3592 spans PDF pages 24-29 / printed pages 23-28 and closes on PDF page 29 with 'அன்புள்ள,', 'மு.க.' and printed date '5-10-2011'."
   - "Letters 3593-3597 form the first regular five-letter batch and span PDF pages 30-63 / printed pages 29-62; all five closing/date boundaries were visually verified."
@@ -52,6 +52,7 @@ source_observations:
   - "Letters 3623-3627 form the seventh regular five-letter batch and span PDF pages 246-278 / printed pages 245-277; all five closing/date boundaries were visually verified."
   - "Letters 3628-3632 form the eighth regular five-letter batch and span PDF pages 279-315 / printed pages 278-314; all five closing/date boundaries were visually verified."
   - "The ninth source-order five-record batch spans PDF pages 316-343 / printed pages 315-342 and contains source records 3633, 3634, 3635, 3637 and a second distinct 3637; the scan itself contains no 3636 between 3635 and 3637."
+  - "Letters 3638-3642 form the tenth regular five-letter batch and span PDF pages 344-370 / printed pages 343-369; all five closing/date boundaries were visually verified."
   - "Letter 3595 heading/contents print 'தமிழா!' while the final exhortation on PDF page 49 prints 'தமிழ!'; both source forms are preserved without normalization."
   - "PDF page 189 preserves source-specific forms 'குழ்ச்சிகளிலே' and 'எசிப் பேசி' without normalization."
   - "PDF page 191 preserves the scan-supported wording 'வடக்குக்கோட்டை தீர்மானம்'."
@@ -72,4 +73,9 @@ source_observations:
   - "The source scan jumps from 3635 to 3637 and then prints a second distinct 3637 source item; no archival renumbering or invented 3636 has been applied."
   - "Printed contents title for the second 3637 is 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!' while actual PDF 343 heading is 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!'; both source forms are preserved separately."
   - "PDF page 343 contains a handwritten signature image; it is described rather than interpreted as printed text, while printed 'தலைவர், தி.மு.க.' and date '05-07-2012' are transcribed."
-  - "PDF page 344 was inspected only to verify the next boundary: it starts 3638, 'பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?'; no PDF 344 canonical body is included in the completed range."
+  - "PDF 345 and 353 preserve source forms including 'ஆசிரியர்கள் இட மாறுதலிலிருந்து' and 'விளம்பர மேலா'; PDF 346 preserves 'காழ்ப்பினைக்' and 'அவசர அவசரமாக'."
+  - "PDF page 360 preserves source-specific 'கவுரவ விரிவுரையாளர் நியமனம்' and 'கொடநாட்டிலே'."
+  - "PDF page 363 preserves 'மனித நேயம் மற்றும் மனித உரிமைக்கு எதிரானத் தாக்குதலில்'; PDF 365 preserves the printed public-referendum question and 'கருத்துக்களை யெல்லாம்' spacing."
+  - "PDF pages 367-370 preserve source verse/prose forms including 'இந்திப்பெண்ணே', 'முரசொலி துண்டு வெளியீடு', 'நாளங்காடி', 'பாவலரேறு பெருஞ்சித்திரனார்', and 'வேண்டு கோள்களை'."
+  - "Letter 3642 closes on PDF page 370 with printed 'அன்புள்ள' without a following comma, then 'மு.க.' and date '24-7-2012'; this source form is preserved."
+  - "PDF page 371 was inspected only to verify the next boundary: it starts 3643, '“எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!'; no PDF 371 canonical body is included in the completed range."

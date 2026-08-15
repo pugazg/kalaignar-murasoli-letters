@@ -55,11 +55,11 @@ transcription_status: visually-transcribed
 | 3635 | களம் காணத் துடிக்குது, கழகப்படை! | 27-06-2012 | 328 | 329 | 335 | களம் காணத் துடிக்குது, கழகப்படை! | [முழுப் பதிவு](../chapters/3635-kalam-kaana-thudikkuthu-kazhagappadai.md) |
 | 3637 | “இன்றே செல்க! இனிதே வெல்க!”என வாழ்த்தி வழியனுப்புகிறேன்! | 3-7-2012 | 335 | 336 | 342 | “இன்றே செல்க! இனிதே வெல்க!” என வாழ்த்தி வழியனுப்புகிறேன்! | [முழுப் பதிவு](../chapters/3637-indre-selga-inithe-velga.md) |
 | 3637 | என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்! | 05-07-2012 | 342 | 343 | 343 | என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே! | [முழுப் பதிவு](../chapters/3637-en-uyirinumelana-anbu-udanpirappukkale.md) |
-| 3638 | பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ? | 6-7-2012 | 343 | — | — | — | pending |
-| 3639 | இவை எல்லாமே அரசியல்தானா? | 09-07-2012 | 348 | — | — | — | pending |
-| 3640 | என்ன நடக்கிறது தமிழகத்தில்? | 13-7-2012 | 355 | — | — | — | pending |
-| 3641 | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | 19-7-2012 | 361 | — | — | — | pending |
-| 3642 | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | 24-7-2012 | 366 | — | — | — | pending |
+| 3638 | பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ? | 6-7-2012 | 343 | 344 | 348 | பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ? | [முழுப் பதிவு](../chapters/3638-perethirppaal-unmaithaan-inmaiyaamo.md) |
+| 3639 | இவை எல்லாமே அரசியல்தானா? | 09-07-2012 | 348 | 349 | 355 | இவை எல்லாமே அரசியல்தானா? | [முழுப் பதிவு](../chapters/3639-ivai-ellaame-arasiyalthaanaa.md) |
+| 3640 | என்ன நடக்கிறது தமிழகத்தில்? | 13-7-2012 | 355 | 356 | 361 | என்ன நடக்கிறது தமிழகத்தில்? | [முழுப் பதிவு](../chapters/3640-enna-nadakkirathu-tamizhagaththil.md) |
+| 3641 | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | 19-7-2012 | 361 | 362 | 366 | குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்! | [முழுப் பதிவு](../chapters/3641-kuzhappam-enakkoori-kutharkkam-vilaikkaatheer.md) |
+| 3642 | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | 24-7-2012 | 366 | 367 | 370 | முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்! | [முழுப் பதிவு](../chapters/3642-murasoli-ennikkai-mummadangu-peruga-vendum.md) |
 | 3643 | “எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல! | 26-07-2012 | 370 | — | — | — | pending |
 | 3647 | ஈழத்தமிழா இன்னல் களைந்திட வாரீர்! | 02-08-2012 | 381 | — | — | — | pending |
 | 3648 | விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்! | 05-08-2012 | 387 | — | — | — | pending |
@@ -67,4 +67,4 @@ transcription_status: visually-transcribed
 
 ## Source numbering note
 
-Printed contents source order is preserved exactly. It prints `3637` twice after `3635`, with no `3636` row, and jumps from `3643` to `3647`, with no `3644–3646` rows. These entries are not silently renumbered.
+Printed contents source order is preserved exactly. It prints `3637` twice after `3635`, with no `3636` row, and jumps from `3643` to `3647`, with no `3644–3646` rows. These entries are not silently renumbered. Actual scan sequence after PDF 371 remains to be verified before deciding whether any source records absent from the printed contents exist.
