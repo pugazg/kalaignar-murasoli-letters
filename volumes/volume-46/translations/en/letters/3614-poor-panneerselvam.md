@@ -8,9 +8,9 @@ source_pdf_page_start: 175
 source_pdf_page_end: 180
 source_printed_page_start: 174
 source_printed_page_end: 179
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Housing Board allotment figures, names, official designations, plot measurements, legal references, the long recipient list, and Kalaignar’s closing sarcasm toward Panneerselvam are preserved in source order. Allegations and rhetorical questions remain presented as Kalaignar’s claims. The complete audited Tamil remains authoritative. This draft awaits separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Housing Board allotment figures, names, official designations, plot measurements, legal references, the long recipient list, and Kalaignar’s closing sarcasm toward Panneerselvam are preserved in source order. Allegations and rhetorical questions remain presented as Kalaignar’s claims. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3614](../../../chapters/3614-paavam-panneerselvam.md)  
 **Source pages:** [PDF 175](../../../pages/page-175.md)–[PDF 180](../../../pages/page-180.md)  
@@ -55,7 +55,7 @@ It is not only Housing Board plot allotments. In Coimbatore, when defects were f
 
 Who is sitting in the Fort and looting today? Who looted Kodanadu? Who looted Siruthavur? Who accumulated assets worth ₹66 crore and has dragged out the trial in the Bengaluru court for years by seeking adjournment after adjournment? Every day complaints arrive alleging that those surrounding them committed looting. Do they imagine the town knows none of this? Having somehow won and come to power, and in the arrogance of that victory, the Leader of the House himself, instead of maintaining order in the Assembly, stretches his tongue at every opportunity about “2G” and spectrum allocation. Is that the standard by which the House is to be run?
 
-The spectrum case is still being tried; no judgment has been delivered. Kalaignar Television received a loan from those who had obtained spectrum licences; that loan was properly received through banks by cheque and later repaid with interest, again by cheque. Even though I had no connection whatsoever with the television company’s day-to-day operations and was only a shareholder, Panneerselvam speaks in the Assembly as though some great wrongdoing had been committed, comparing it to the “Bengaluru” case.
+The spectrum case is still being tried; no judgment has been delivered. Kalaignar Television received a loan from those who had obtained spectrum licences; that loan was properly received through banks by cheque and later repaid with interest, again by cheque. Even in a situation where there was no connection whatsoever with the television company’s day-to-day operations and only a shareholding in it, Panneerselvam speaks in the Assembly as though some great wrongdoing had been committed, comparing it to the “Bengaluru” case.
 
 When cases concerning spectrum are pending before courts including the Supreme Court of India, even the convention that such matters should not be discussed in the Assembly is ignored by the Leader of the House himself. Poor man! The situation there seems to be that only by behaving so aggressively can he earn the Chief Minister’s confidence and continue as a minister.
 
@@ -69,6 +69,7 @@ When cases concerning spectrum are pending before courts including the Supreme C
 2. `ground` is retained as the source land unit, following the locked Volume 46 convention.
 3. Allegations concerning Kodanadu, Siruthavur, the ₹66-crore assets case and spectrum remain attributed as Kalaignar’s rhetorical claims; no external adjudication is substituted.
 4. `பாவம்` in the title and close is rendered as **Poor Panneerselvam!**, preserving Kalaignar’s ironic pity rather than literalising it awkwardly.
+5. Bilingual review removed an unsupported first-person subject from the spectrum paragraph; the Tamil source does not state `I` there.
 
 ## Original Tamil — மூலத் தமிழ்
 
