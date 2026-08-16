@@ -35,9 +35,9 @@ For each actual letter record:
 - record source/page traceability and translator note;
 - move through explicit migration/source-check/alignment statuses rather than treating legacy audit labels as automatic verification.
 
-## Batch rule
+## Volume 1 batch rule
 
-After the Tamil gates are open, migrate/review English in **five actual letters per normal iteration**, with a separate bilingual source-alignment review before promotion to verified status. End-of-volume residue may be smaller when documented.
+For **Volume 1 alone**, after the Tamil gates are open, migrate/review English in **10 actual letters per normal iteration**, with a separate bilingual source-alignment review before promotion to verified status. This Volume 1-specific cadence also applies to the remaining canonical Tamil migration. A documented end-of-volume residue may be smaller.
 
 ## Final gates
 

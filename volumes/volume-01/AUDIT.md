@@ -15,6 +15,8 @@
 
 The existing `volumes/volume-1/` corpus is preserved as legacy provenance. The scan controls the new canonical page layer. Existing source-corrected Tamil and English may assist comparison but cannot silently override the printed scan.
 
+For **Volume 1 alone**, regular iterations now use **10 complete consecutive letters**, per the volume-specific instruction. This overrides the repository's normal five-letter cadence only for Volume 1. A documented final residue may be smaller.
+
 ## Iteration 1 — mandatory PDF 001–025
 
 **Result: PASS — first-pass canonical migration complete for this scope.**
@@ -60,11 +62,11 @@ Checks performed:
 - source wording, punctuation, political comparison and rhetorical-question sequence retained;
 - letter 0001 chapter boundary promoted from partial to complete;
 - verified complete coverage is **PDF 024–027 / printed 23–26**;
-- the printed-contents hint that letter 0002 starts at printed page 27 is now independently confirmed by the visible heading on PDF 028;
+- the printed-contents hint that letter 0002 starts at printed page 27 is independently confirmed by the visible heading on PDF 028;
 - legacy bilingual files remain unchanged;
 - English migration remains blocked.
 
-## Iteration 3 — first regular five-letter batch: 0002–0006
+## Iteration 3 — initial five-letter batch: 0002–0006
 
 **Result: PASS — five complete consecutive source letters migrated.**
 
@@ -80,17 +82,42 @@ Checks performed:
 
 - one canonical page file for every PDF page **028–047**: **20 / 20**;
 - actual letter-start headings and closing sign-off/date pages visually checked against the scan;
-- legacy source-corrected Tamil was used only as migration assistance and reconciled against the visible scan in this scope;
-- source-specific wording, rhetorical questions, repeated imperatives, quotations, names, figures and sign-off forms retained;
-- letter 0004's closing uses `இங்ஙனம்`; letter 0005's closing uses `தங்கள் தம்பி`; other sign-off forms remain as printed;
-- PDF 039 visibly prints page number 38, while PDF 040 visibly prints 40; the sentence continues directly across the boundary, so printed page number 39 is documented as a pagination anomaly rather than missing text;
-- PDF 048 was inspected only to confirm that letter 0007 begins there; no PDF-048 text was committed;
-- no source PDF was committed;
-- no legacy bilingual file was modified;
-- no English migration was started.
+- legacy source-corrected Tamil used only as migration assistance and reconciled against the visible scan;
+- PDF 039 visibly prints page number 38, while PDF 040 visibly prints 40; text continues directly, so printed page number 39 is a pagination anomaly rather than missing text;
+- PDF 048 inspected only to confirm that letter 0007 begins there;
+- no legacy bilingual file modified; no English migration started.
+
+## Iteration 4 — first Volume 1 ten-letter batch: 0007–0016
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0007 — `தோற்ற முயலே! முன்போல சுறுசுறுப்பாக இரு!`: PDF **048–053**, date **31-10-1968**;
+- 0008 — `“தீராதி தீரர்- தேசீய மகிபர்- பராக்! பராக்!”`: PDF **054–057**, date printed **31-10-68**;
+- 0009 — `வீரனே! வெற்றி என்றைக்கும் உன் பக்கம்தான்!`: PDF **058–062**, date **01-11-1968**;
+- 0010 — `பாவி கெடுத்தானே; பலே சாப்பாட்டை!`: PDF **063–066**, date **02-11-1968**;
+- 0011 — `தென்றல்- தெம்பாங்கு- தேன்கீதம்!`: PDF **067–069**, date **06-11-1968**;
+- 0012 — `“பூப்போட்ட கிளாசிலே போட்டய்யா ஒண்ணரை!”`: PDF **070–072**, date **07-11-1968**;
+- 0013 — `மேயர் தேர்தல் நேரம் - நிலை - நேர்த்தியான முடிவு!`: PDF **073–077**, date **09-11-1968**;
+- 0014 — `‘பகைமரம்’ தழைக்க விடோம்!`: PDF **078–081**, date **11-11-1968**;
+- 0015 — `நம்பிக்கையில்லாத் தீர்மானம் - நாடாளுமன்ற நிகழ்ச்சி!`: PDF **082–085**, date **14-11-1968**;
+- 0016 — `யார் அந்த உணவு அமைச்சர்?`: PDF **086–089**, date **16-11-1968**.
+
+Checks performed:
+
+- one canonical page file for every PDF page **048–089**: **42 / 42**;
+- all ten letter starts and all ten closing/sign-off/date boundaries visually checked against the scan;
+- actual letter headings control over contents-page forms; notably 0008 and 0012 retain their scan headings rather than silently adopting contents variants;
+- source-shortened date `(31-10-68)` on 0008 preserved at page level;
+- source wording, rhetorical sequences, lists, quotations, emphases and sign-off forms retained;
+- legacy source-corrected Tamil used only as migration assistance and checked against the visible scan in this scope;
+- PDF 090 inspected only to verify that letter 0017 begins there; no PDF-090 text committed in this iteration;
+- legacy bilingual files remain unchanged;
+- English migration remains blocked.
 
 ## Current boundary
 
-Canonical PDF coverage is **001–047 / 401**. Letters **0001–0006** are canonically complete. The next activity begins at PDF 048 and follows the normal five-complete-letter rule for letters **0007–0011**, stopping before letter 0012.
+Canonical PDF coverage is **001–089 / 401**. Letters **0001–0016** are canonically complete. The next activity begins at PDF 090 and follows the Volume 1-specific **10-letter** rule for letters **0017–0026**, stopping before letter 0027.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.

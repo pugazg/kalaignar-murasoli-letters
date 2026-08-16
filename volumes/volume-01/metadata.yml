@@ -20,18 +20,20 @@ source_searchable_text_layer: false
 legacy_repository_path: "volumes/volume-1"
 legacy_bilingual_record_count: 110
 legacy_translation_audit_passed: true
-transcription_page_range: "1-47"
+volume_specific_batch_size: 10
+volume_specific_batch_rule: "Volume 1 only: regular migration/review iterations use 10 complete consecutive letters; documented final residue may be smaller."
+transcription_page_range: "1-89"
 transcription_status: "in-progress"
 recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
-completed_letter_range: "1-6"
-completed_letter_count: 6
+completed_letter_range: "1-16"
+completed_letter_count: 16
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
 source_printed_pagination_anomalies:
   - "PDF 39 prints page 38; PDF 40 prints page 40. Printed page number 39 is skipped, but text is continuous across the boundary."
-audit_status: "first-regular-five-letter-batch-complete"
+audit_status: "volume-01-ten-letter-batch-0007-0016-complete"
 audit_date: 2026-08-16
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -51,7 +53,8 @@ source_observations:
   - "PDF pages 18-23 contain the printed contents with 110 entries."
   - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
   - "Letter 1 begins at PDF page 24 / printed page 23 and closes at PDF page 27 / printed page 26 with sign-off and date."
-  - "Letters 2-6 are visually boundary-verified and canonically migrated through PDF page 47."
+  - "Letters 2-16 are visually boundary-verified and canonically migrated through PDF page 89."
   - "The source visibly skips printed page number 39 between PDF pages 39 and 40, but the text is continuous; no missing content is inferred."
-  - "PDF page 48 visibly begins letter 7, confirming the boundary after letter 6."
+  - "Actual page heading controls over contents variants; letter 8 and letter 12 already demonstrate this rule."
+  - "PDF page 90 visibly begins letter 17, confirming the boundary after letter 16."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."
