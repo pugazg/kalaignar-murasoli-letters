@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; 38 English files exist and all 38 are structurally complete and verified**.
+Status: **main translation in progress; 43 English files exist: 38 verified and 5 draft-translated awaiting bilingual alignment**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -17,27 +17,31 @@ Structurally complete verified bilingual records:
 - **3620–3624** — Batch 6, verified; structural corrective completion closed.
 - **3625–3629** — Batch 7, verified; complete Tamil appendices were present from creation.
 
-**English files: 38 / 55.**  
+Draft-translated / bilingual-alignment pending:
+
+- **3630–3634** — Batch 8, covering PDF 296–328. All five contain the standard translator note and complete audited Tamil appendix.
+
+**English files: 43 / 55.**  
 **Structurally complete verified bilingual records: 38 / 55 (3592–3629).**  
-**Draft-translated / alignment-pending: 0.**
+**Draft-translated / alignment-pending: 5 / 55 (3630–3634).**
 
 Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md), [Batch 6](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md), [Batch 7](BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md). The closed structural regression is documented in [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-## Batch 7 — 3625–3629 — VERIFIED
+## Batch 8 — 3630–3634 — DRAFT COMPLETE
 
-The five-letter bilingual source-alignment gate passed for **PDF 262–295**.
+The five-letter drafting iteration covers **PDF 296–328**. Complete audited Tamil appendices were embedded from creation in all five records; no canonical Tamil page was changed.
 
-**3625** preserves the actual heading `ஒரு சுயமரியாதைக்காரனின் சூளுரை!` rather than replacing it with the differing printed-contents form. Kalaignar's birthday meditation, Periyar/Anna movement imagery, `குற்றம் பார்க்கின் சுற்றம் இல்லை`, organisational discipline and concluding self-respect pledge remain aligned.
+**3630 — `விரிக்கிற பெருகும்; விரிஞ்சி விடுகிறேன்!`** preserves Kalaignar’s answer to D. Pandian, the Pudukkottai context and the full source chronology of his claimed 2008–09 efforts concerning Eelam Tamils, including dates, quoted statements, telegrams, demonstrations and relief figures. These remain source claims rather than externally reconciled history.
 
-**3626** preserves the Neyveli contract-worker chronology, the source-printed `(Neyveli Lignite Corporation Industrial Co-operative Service Society)` and `(Contractors)` labels, the 2008 and 2010 settlements, wage figures, parliamentary interventions and electricity-generation figures. The alignment gate required one English-only correction: the source-printed 26-10-2010 participant sequence — AITUC Sekar, Kuppusamy, Venkatesan, Sukumaran, Kuppusamy and Chakkarapani — was restored after having been compressed in the draft.
+**3631 — `ஜனநாயகம் கேலிப் பொருளாகி விடுவதா?`** preserves the P. Chidambaram election-case argument, Kalaignar’s comparison with Jayalalithaa’s cases and the 2001 episode. The *The Hindu* passage printed in English in the source is retained, while the Tamil rendering printed immediately after it is separately translated as required by the locked mixed-language convention.
 
-**3627** preserves the coalition-responsibility argument, `Common Minimum Programme`, the CPI/CPI(M) comparisons, all petrol-price and international-price figures, and Kalaignar's request that both Union and State Governments act.
+**3632 — `“OTHERWISE - ஜனாதிபதி”`** preserves the mixed-language title, the constitutional word `Otherwise`, the 1990–91 dismissal chronology, R. Venkataraman/Barnala references and the article’s treatment of former Presidents and Pratibha Patil. The source’s `அன்புள்ள` closing without a comma is preserved in the Tamil appendix.
 
-**3628** preserves the complete protest argument against petrol, milk, bus-fare and electricity-charge increases, including the subsidy/tax figures, detailed transport comparisons, milk procurement/retail figures and power-tariff history.
+**3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`** preserves the Pudukkottai by-election argument, the `இடைத்` / `எடை` / `நடை` wordplay, earlier by-election examples and vote figures, and the full dates, costs and capacities of the power projects Kalaignar attributes to DMK rule.
 
-**3629** preserves the Planning Commission/State-autonomy argument, Murasoli Maran material, Kalaignar's earlier Assembly statements, source-printed `Upgradation Grants`, five-year/annual-plan figures and the closing `பின்பாட்டு` rhetorical turn, represented as `sang the chorus`.
+**3634 — `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`** uses the actual letter-start semicolon title rather than silently replacing it with the differing contents-page comma form. The case chronology, statutory-section counts, Goondas Act references, court observations and the long source-printed list of arrested Kazhagam functionaries are retained without compression.
 
-No canonical Tamil page was changed. Complete Tamil appendices remain embedded in all five records.
+All five remain `draft-translated` / `pending` until the separate source-alignment gate.
 
 ## Textual-fidelity completion
 
@@ -47,4 +51,4 @@ No canonical Tamil page was changed. Complete Tamil appendices remain embedded i
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** draft **3630–3634** as one five-letter English batch from the fidelity-cleared canonical Tamil, preserving the locked conventions and embedding the complete Tamil in each record from the outset. Leave those five `draft-translated / pending` until their separate alignment gate.
+**Exact next task:** perform the full five-letter bilingual source-alignment review for **3630–3634**. Apply only source-proven English corrections, make no canonical Tamil changes, and promote the five together only after that gate passes. Do not begin 3635 onward until the gate is closed.
