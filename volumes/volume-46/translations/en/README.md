@@ -16,7 +16,8 @@ Full-volume Tamil structural audit is complete. The mandatory second visual / te
 - PDF **226–250**: passed — 25/25 pages checked, 1 corrected page / 1 scan-proven corrected span.
 - PDF **251–275**: passed — 25/25 pages checked, 7 corrected pages / 7 scan-proven corrected spans.
 - PDF **276–300**: passed — 25/25 pages checked, 1 corrected page / 2 scan-proven corrected spans.
-- Cumulative second-pass coverage: **PDF 001–300 / 402**.
+- PDF **301–325**: passed — 25/25 pages checked, 2 corrected pages / 2 scan-proven corrected spans.
+- Cumulative second-pass coverage: **PDF 001–325 / 402**.
 - Fidelity reports:
   - [TEXTUAL_FIDELITY_AUDIT_001_025.md](TEXTUAL_FIDELITY_AUDIT_001_025.md)
   - [TEXTUAL_FIDELITY_AUDIT_026_050.md](TEXTUAL_FIDELITY_AUDIT_026_050.md)
@@ -30,11 +31,12 @@ Full-volume Tamil structural audit is complete. The mandatory second visual / te
   - [TEXTUAL_FIDELITY_AUDIT_226_250.md](TEXTUAL_FIDELITY_AUDIT_226_250.md)
   - [TEXTUAL_FIDELITY_AUDIT_251_275.md](TEXTUAL_FIDELITY_AUDIT_251_275.md)
   - [TEXTUAL_FIDELITY_AUDIT_276_300.md](TEXTUAL_FIDELITY_AUDIT_276_300.md)
-- Scan-proven canonical corrections so far: **26 pages / 29 spans** — PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173, 179, 225, 250, 257, 258, 261, 264, 268, 273, 274 and 299.
-- PDF **301–402**: pending.
+  - [TEXTUAL_FIDELITY_AUDIT_301_325.md](TEXTUAL_FIDELITY_AUDIT_301_325.md)
+- Scan-proven canonical corrections so far: **28 pages / 31 spans** — PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173, 179, 225, 250, 257, 258, 261, 264, 268, 273, 274, 299, 313 and 316.
+- PDF **326–402**: pending.
 
-Complete source letters **3592–3629** now have full scan-based second-pass coverage. Letter **3630** is checked through PDF 300 but continues beyond it, so it remains incomplete for the fidelity gate.
+Complete source letters **3592–3633** now have full scan-based second-pass coverage. Letter **3634** is checked through PDF 325 but continues beyond it, so it remains incomplete for the fidelity gate.
 
 No English letter translation has been created.
 
-**Next fidelity range:** PDF **301–325**. Do not begin English translation in that activity.
+**Next fidelity range:** PDF **326–350**. Do not begin English translation in that activity.
