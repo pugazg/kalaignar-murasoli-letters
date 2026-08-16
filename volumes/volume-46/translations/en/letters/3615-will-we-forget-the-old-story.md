@@ -8,9 +8,9 @@ source_pdf_page_start: 181
 source_pdf_page_end: 189
 source_printed_page_start: 180
 source_printed_page_end: 188
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s reply to Jayalalithaa on the Tamil New Year question, his cited dictionaries and scholarly statements, the Thiruvalluvar-year chronology, Bharathidasan verse, scientific argument and closing charge of political animus are preserved in source order. Source-specific historical wording and claims are translated as printed without outside reconciliation. The complete audited Tamil remains authoritative. This draft awaits separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s reply to Jayalalithaa on the Tamil New Year question, his cited dictionaries and scholarly statements, the Thiruvalluvar-year chronology, Bharathidasan verse, scientific argument and closing charge of political animus are preserved in source order. Source-specific historical wording and claims are translated as printed without outside reconciliation. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3615](../../../chapters/3615-pazhaiya-kathai-maranthupomo.md)  
 **Source pages:** [PDF 181](../../../pages/page-181.md)–[PDF 189](../../../pages/page-189.md)  
@@ -112,7 +112,7 @@ Tamil scholar Dr. Mu. Varadarasanar explained:
 
 Chief Minister Jayalalithaa even ventured into scientific research in support of her speech, saying that the month of Chithirai was based upon astronomy and the cycle of the seasons.
 
-As though answering that claim, scientist Dr. V. Masilamani, Professor in the Laser Department of King Saud University, wrote a lengthy article titled “The First Day of Thai Is Tamil New Year.” He explained that, in the Tamil environment of a thousand years ago, village astronomers had correctly calculated Thai as the month in which the whole world receives fresh vitality; that is why the last day of Margazhi became Bhogi, when the old and sloth are cast away, and the first day of Thai became Pongal, when thanks are offered to the sun. He wrote that the day on which the sun, having reached the southernmost point, turns back toward us is the day on which the living world receives new vitality; that day is January 14; beginning the year on that day is astronomically correct; and that January 14, the first day of Thai, therefore has this special significance. He then appealed to scientifically interested readers and students: go to the Internet and type “perihelion”; you will certainly say that the month of Thai is the proper New Year.
+As though answering that claim, scientist Dr. V. Masilamani, Professor in the Laser Department of King Saud University, wrote a lengthy article titled “The First Day of Thai Is Tamil New Year.” He explained that, in the Tamil environment of a thousand years ago, village astronomers had correctly calculated Thai as the month in which the whole world receives fresh vitality; that is why the last day of Margazhi became Bhogi, when the old and sloth are cast away, and the first day of Thai became Pongal, when thanks are offered to the sun. He wrote that the day on which the sun, having reached the southernmost point, turns back toward us is the day on which the living world receives new vitality; that day is January 14; beginning the year on that day is astronomically correct; and that January 14, the first day of Thai, therefore has this special significance. He then appealed to scientifically interested readers and students: go to the Internet and type “perhelion”; you will certainly say that the month of Thai is the proper New Year.
 
 Therefore, Jayalalithaa’s act of changing the first day of Thai as the beginning of Tamil New Year and announcing Chithirai instead is, as usual, nothing but one more of her schemes born of hostility, seeking to injure everything implemented by the DMK Government!
 
@@ -127,7 +127,7 @@ Did I make the first day of Thai Tamil New Year for self-publicity? Or is today�
 1. `அர்ச்சனை` is retained as *archanai* in Kalaignar’s sarcastic metaphor of a ritual recital directed against him.
 2. `சுறவம்` and `மேழம்` are retained as **Suravam** and **Mezham**, with the source’s own explanation that they correspond to Thai and Chithirai.
 3. The Bharathidasan verse and the quoted scientific argument are translated from the canonical Tamil as printed; no external source is substituted or reconciled.
-4. Source-specific forms on PDF 189 are reflected by sense in English without altering the authoritative Tamil.
+4. The source-printed Internet term `perhelion` on PDF 189 is preserved exactly rather than silently corrected.
 
 ## Original Tamil — மூலத் தமிழ்
 
