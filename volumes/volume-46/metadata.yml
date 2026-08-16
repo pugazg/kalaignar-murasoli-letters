@@ -66,7 +66,9 @@ bilingual_alignment_status: "complete"
 bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
 bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
 editorial_consistency_review_status: "complete"
-english_release_status: "editorial-review-complete"
+english_release_status: "released"
+translation_manifest_rows: 55
+editorial_english_word_count: 90510
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
   - "PDF page 3 prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."

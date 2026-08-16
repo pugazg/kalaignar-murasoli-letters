@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **all 55 actual source-letter records have structurally complete English bilingual files and all 55 are source-checked and bilingual-alignment verified**.
+Status: **English edition complete and release-ready: all 55 actual source-letter records are structurally complete, source-checked, bilingual-alignment verified and editorially reviewed**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -45,4 +45,4 @@ Both records passed the final bilingual source-alignment gate without substantiv
 
 **Editorial consistency review:** complete across all 55 verified bilingual records.
 
-**Exact next task:** build the **translation manifest** for all 55 records, then prepare the final English release report.
+**Release:** [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv) and [`RELEASE_REPORT.md`](RELEASE_REPORT.md) complete the Volume 46 English release package.
