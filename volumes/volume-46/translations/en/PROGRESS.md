@@ -18,7 +18,9 @@
 - [x] Main translation batch 7: 3625–3629 verified
 - [x] Main translation batch 8: 3630–3634 verified
 - [x] Main translation batch 9 draft complete: 3635; 3637 (first); 3637 (second); 3638; 3639
-- [ ] Batch 9 bilingual source-alignment review
+- [x] Batch 9 bilingual source-alignment review complete
+- [ ] Apply and recheck one English-only Batch 9 correction in second 3637
+- [ ] Promote Batch 9 together after corrective recheck
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -33,7 +35,9 @@
 - Source numbering preserved: **no 3636 is invented**
 - Batch 9 source coverage: **PDF 329–355**
 - Complete Tamil appendices embedded in Batch 9: **5 / 5**
-- Canonical Tamil changes caused by Batch 9 drafting: **0**
+- Batch 9 alignment result: **4 PASS; 1 requires one English-only lexical correction**
+- Required correction: second 3637, `கிளம்பிற்று காண் தமிழச் சிங்கக் கூட்டம்` — replace `pride of Tamil lions` with `host of Tamil lions`
+- Canonical Tamil changes required by Batch 9 review: **0**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -44,21 +48,22 @@ Batch 5 review: [BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md](BILINGUAL_ALIGNMENT_RE
 Batch 6 review: [BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md)  
 Batch 7 review: [BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md](BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md)  
 Batch 8 review: [BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md](BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md)  
+Batch 9 review: [BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md](BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md)  
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 9 — DRAFT COMPLETE
+## Batch 9 — ALIGNMENT REVIEW COMPLETE
 
-The next five **actual source records**, rather than a fabricated numeric sequence, have been drafted in scan order.
+The five actual source records were reviewed in scan order rather than fabricated numerical order.
 
-- **3635 — `களம் காணத் துடிக்குது, கழகப்படை!`** — PDF 329–335.
-- **3637 — first source record — `“இன்றே செல்க! இனிதே வெல்க!” என வாழ்த்தி வழியனுப்புகிறேன்!`** — PDF 336–342.
-- **3637 — second source record — `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`** — PDF 343; the actual page heading is kept distinct from the printed-contents wording and the handwritten signature is described rather than interpreted.
-- **3638 — `பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?`** — PDF 344–348.
-- **3639 — `இவை எல்லாமே அரசியல்தானா?`** — PDF 349–355.
+- **3635 — `களம் காணத் துடிக்குது, கழகப்படை!`** — PASS without substantive English correction.
+- **3637 — first source record — `“இன்றே செல்க! இனிதே வெல்க!” என வாழ்த்தி வழியனுப்புகிறேன்!`** — PASS without substantive English correction.
+- **3637 — second source record — `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`** — one English-only lexical correction required: `கிளம்பிற்று காண் தமிழச் சிங்கக் கூட்டம்` should read `Behold! The host of Tamil lions has set forth!` rather than `pride of Tamil lions`.
+- **3638 — `பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?`** — PASS without substantive English correction.
+- **3639 — `இவை எல்லாமே அரசியல்தானா?`** — PASS without substantive English correction.
 
-All five contain translator-note blocks and complete audited Tamil appendices from creation. They remain `draft-translated / pending` until the separate bilingual source-alignment gate.
+The duplicate 3637 numbering, absence of 3636, second-3637 page structure and handwritten-signature placeholder remain correctly preserved. Complete Tamil appendices are present in all five. No canonical Tamil page changes are required.
 
 ## Exact next task
 
-Perform the full **five-record bilingual source-alignment review for Batch 9** in actual source order: 3635; first 3637; second 3637; 3638; 3639. Check titles, source-number anomaly handling, quotations, names, dates, figures, rhetorical force, the one-page second 3637 structure, and complete Tamil appendices. Apply only source-proven English corrections and promote the five together only after the gate passes.
+Apply the single source-proven correction in the **second 3637** (`pride of Tamil lions` → `host of Tamil lions`), recheck that one-page bilingual record against PDF 343, then promote all five Batch 9 records together to `verified / verified` and synchronize README + metadata + progress.
