@@ -60,6 +60,26 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0054 | ஐந்தாம் ஜார்ஜா? ஆறாம் ஜார்ஜா? | 1973-05-13 | 227–229 | complete |
 | 0055 | “அரிதாரம் கலையும்!” | 1973-05-23 | 230–232 | complete |
 | 0056 | சிந்தனைக்கு! | 1973-05-24 | 233–235 | complete |
+| 0057 | “பிறந்த நாள் வேண்டுகோள்!” | 1973-05-28 | 236–238 | complete |
+| 0058 | “நடக்கின்ற ஆச்சரியம்!” | 1973-05-29 | 239–240 | complete |
+| 0059 | இதுதான் உலகம்! | 1973-05-30 | 241–245 | complete |
+| 0060 | “கண்ணீர் மடல்!” | 1973-06-02 | 246–249 | complete |
+| 0061 | “ஒழுங்கான கணக்கு!” | 1973-06-15 | 250–252 | complete |
+| 0062 | உண்மை! உண்மை!! | 1973-06-24 | 253–255 | complete |
+| 0063 | “கிலுகிலுப்பை!” | — | 256–259 | complete; no printed date |
+| 0064 | பதவி-துறவி! | 1973-07-02 | 260–262 | complete |
+| 0065 | உன் பெயர் எங்கே? | 1973-07-23 | 263–265 | complete |
+| 0066 | “அண்ணன் எழுதிய மடல்!” | 1973-10-02 | 266–268 | complete |
+| 0067 | நடக்கட்டும் நாடகம்! | 1973-11-29 | 269–270 | complete |
+| 0068 | “டெல்லி லாயத்தில்!” | 1973-12-03 | 271–272 | complete |
+| 0069 | படையெடுப்பு பலிக்குமா? | 1973-12-07 | 273–274 | complete |
+| 0070 | உணரச் செய்வோம்! | 1973-12-11 | 275–276 | complete |
+| 0071 | காலக் கருவூலம்! | 1973-12-12 | 277–278 | complete |
+| 0072 | ஒன்று சொல்க! | 1973-12-13 | 279–280 | complete |
+| 0073 | புன்னகையும் பெருமூச்சும்! | 1973-12-15 | 281–282 | complete |
+| 0074 | குறள் மறவோம்! | 1973-12-16 | 283–284 | complete |
+| 0075 | உன் எதிரே! | 1973-12-18 | 285–286 | complete |
+| 0076 | தட்டிக் கேட்கலாமா? | 1973-12-20 | 287–288 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -71,10 +91,8 @@ Letter 0028 closes on PDF 131 with the source-printed date **28-12-1968**; that 
 
 PDF 144 contains a substantial scan-visible 1938 anti-Hindi movement passage in letter 0033 that is absent from the legacy reading copy. The canonical page layer follows the scan.
 
-The source also changes address/sign-off form in this range: letters 0033–0035 address `அண்ணா,` and close `தம்பி, / மு. கருணாநிதி.`; letter 0036 begins `உடன் பிறப்பே!` and closes `அன்புள்ள, / மு. கருணாநிதி`.
+The source changes address/sign-off form across the volume; source-visible forms are preserved rather than normalized. Letters 0043 onward frequently use the abbreviated `மு. க.` sign-off where printed.
 
-In the 0037–0046 batch, PDF 164 contains a fuller source closing sentence than the legacy reading copy, PDF 165 prints `என் உடன்பிறப்பே!` without an internal space, PDF 173 prints a final period after `மு. கருணாநிதி.`, and letters 0043–0046 use the abbreviated `மு. க.` sign-off where printed.
+The user explicitly approved an expanded 20-letter scope for the completed **0057–0076 / PDF 236–288** iteration. Letter 0063 has no date printed in the source and is deliberately not assigned one. Scan-controlled divergences and typographic forms in this range are recorded in [`../AUDIT.md`](../AUDIT.md).
 
-In the 0047–0056 batch, letter 0048 retains the printed `சென்னை. / 10.10.1972` without inventing a later composition date despite the text's later internal reference; PDF 209 preserves an underline on `நினைவூட்டினேன்.`; PDF 211 follows the scan's `ஆட்டுச்சந்தைக்கு அருகாமையில்!` rather than the legacy Spencer reading; PDF 213 preserves `வேண்டும்”மென்கிறார்.`; PDF 228 preserves `ஆறாயிரத்துத்தொள்ளாயிரத்து எட்டு`; and source-visible bold/lineation is retained in letters 0051–0055 where printed.
-
-The scan confirms that letter 0057 — `“பிறந்த நாள் வேண்டுகோள்!”` — begins at PDF 236 with salutation `உடன் பிறப்பே,`. PDF 236 was inspected only for that boundary; no letter 0057 text is part of the completed 0047–0056 batch.
+The scan confirms that letter 0077 — `பெரியாரின் வெற்றி!` — begins at PDF 289 with salutation `உடன் பிறப்பே,`. PDF 289 was inspected only for that boundary; no letter 0077 text is part of the completed 0057–0076 batch.

@@ -44,7 +44,7 @@ volumes/
 5. இயல்பான ஐந்து-letter batch-ஐ விட பெரிய scope explicit user approval-உடன் மட்டுமே பயன்படுத்தப்படும்; documented end-of-volume/source exception-ல் smaller batch பயன்படுத்தலாம்.
 6. முழுத் Tamil volume audit முடியும் முன் English translation தொடங்காது.
 
-**Volume 1-specific override:** Volume 01 canonical migration/review work now uses **10 complete consecutive letters per regular iteration**. This exception applies to Volume 1 only; other volumes continue to follow the controlling repository batching policy unless separately instructed.
+**Volume 1-specific override:** Volume 01 canonical migration/review work uses **10 complete consecutive letters per regular iteration**. The user explicitly approved one expanded **20-letter** iteration for letters **0057–0076**. This does not permanently change the regular Volume 1 cadence; later regular work returns to 10 letters unless separately instructed.
 
 Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வொரு பழைய தொகுதியின் அச்சு அமைப்பு, கடித எண்ணிக்கை, தேதி, மொழிநடை மற்றும் scan quality தனியாகச் சரிபார்க்கப்பட வேண்டும்.
 
@@ -52,7 +52,7 @@ Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வ
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
-| 01 | 22.10.1968–01.12.1974 | 401 | **canonical migration 1–235 / 401; fifth Volume 1 ten-letter batch complete** | **56 / 110 complete; 0001–0056; printed pagination skips number 39 while text remains continuous** | **legacy 110 bilingual records preserved under `volume-1`; canonical migration/alignment pending** |
+| 01 | 22.10.1968–01.12.1974 | 401 | **canonical migration 1–288 / 401; expanded 20-letter batch 0057–0076 complete** | **76 / 110 complete; 0001–0076; printed pagination skips number 39 while text remains continuous** | **legacy 110 bilingual records preserved under `volume-1`; canonical migration/alignment pending** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **1–402 complete; structural audit + second visual/textual-fidelity verification complete** | **55 actual source records**; source numbering omits 3636 and 3644–3646 and prints 3637 twice | **55 / 55 verified; editorial review + 55-row manifest + final release report complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **1–401 complete; Tamil structural/fidelity gates complete** | **59 records; 3681 source-incomplete because printed page 252 is absent** | **59 / 59 bilingual-aligned; editorial review + manifest + final release report complete; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | **58 / 58 verified; editorial release complete** |

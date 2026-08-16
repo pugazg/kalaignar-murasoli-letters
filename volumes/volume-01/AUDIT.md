@@ -252,8 +252,58 @@ Checks performed and source anomalies recorded:
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
 
+## Iteration 9 — user-approved expanded Volume 1 batch: 0057–0076
+
+**Result: PASS — 20 complete consecutive source letters migrated.**
+
+The user explicitly requested letters **0057–0076** in one activity. This is a one-time expansion beyond the regular Volume 1 ten-letter cadence and is documented here rather than silently changing the standing rule.
+
+Coverage and verified boundaries:
+
+- 0057 — `“பிறந்த நாள் வேண்டுகோள்!”`: PDF **236–238**, date **28-05-1973**;
+- 0058 — `“நடக்கின்ற ஆச்சரியம்!”`: PDF **239–240**, date **29-05-1973**;
+- 0059 — `இதுதான் உலகம்!`: PDF **241–245**, date **30-05-1973**;
+- 0060 — `“கண்ணீர் மடல்!”`: PDF **246–249**, date **02-06-1973**;
+- 0061 — `“ஒழுங்கான கணக்கு!”`: PDF **250–252**, date **15-06-1973**;
+- 0062 — `உண்மை! உண்மை!!`: PDF **253–255**, date **24-06-1973**;
+- 0063 — `“கிலுகிலுப்பை!”`: PDF **256–259**, **no date printed in source**;
+- 0064 — `பதவி-துறவி!`: PDF **260–262**, date **02-07-1973**;
+- 0065 — `உன் பெயர் எங்கே?`: PDF **263–265**, date **23-07-1973**;
+- 0066 — `“அண்ணன் எழுதிய மடல்!”`: PDF **266–268**, date **02-10-1973**;
+- 0067 — `நடக்கட்டும் நாடகம்!`: PDF **269–270**, date **29-11-1973**;
+- 0068 — `“டெல்லி லாயத்தில்!”`: PDF **271–272**, date **03-12-1973**;
+- 0069 — `படையெடுப்பு பலிக்குமா?`: PDF **273–274**, date **07-12-1973**;
+- 0070 — `உணரச் செய்வோம்!`: PDF **275–276**, date **11-12-1973**;
+- 0071 — `காலக் கருவூலம்!`: PDF **277–278**, date **12-12-1973**;
+- 0072 — `ஒன்று சொல்க!`: PDF **279–280**, date **13-12-1973**;
+- 0073 — `புன்னகையும் பெருமூச்சும்!`: PDF **281–282**, date **15-12-1973**;
+- 0074 — `குறள் மறவோம்!`: PDF **283–284**, date **16-12-1973**;
+- 0075 — `உன் எதிரே!`: PDF **285–286**, date **18-12-1973**;
+- 0076 — `தட்டிக் கேட்கலாமா?`: PDF **287–288**, date **20-12-1973**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **236–288**: **53 / 53**;
+- all twenty actual heading pages, salutations, continuation pages and closing boundaries were visually inspected against the controlling scan;
+- letter 0063 has no date printed either in the contents date cell or at its closing on PDF 259; canonical `letter_date` is therefore `null` and no date is inferred;
+- PDF 252 prints `என் நெஞ்சும் கல்லாகவில்லை!`, while the legacy reading copy uses `என் நெஞ்சம்`; canonical transcription follows the scan;
+- PDF 258 visibly emphasizes `தொண்டர்களை மதிக்காதவர்களை மதிக்காதவன் நான் என்பதை நீ அறிவாய்!`; the emphasis is represented in the canonical page layer;
+- PDF 259 closes letter 0063 with `அன்புள்ள, / மு. க.` and no date;
+- PDF 270 visibly underlines `ஊரையடித்து உலையிலே போடுபவர்கள்.-`; the underline and unusual terminal punctuation are retained;
+- PDFs 271–272 preserve Bharathidasan verse lineation and source hyphenation rather than silently adopting the legacy reading copy's spacing; PDF 272 prints `எழுச்சிமிகு` and visually emphasizes `“கனைக்கும் உரிமை”`;
+- PDF 274 prints the newspaper phrase `யூனியன் சர்க்கார் இலாக்காக்களில் காகிதப் பஞ்சம்`; the source's doubled `க்` form controls over the legacy reading copy;
+- PDF 276 contains the English judicial quotation beginning `That the dead body found, in the reservoir`; source punctuation and wording are preserved verbatim;
+- PDF 277 preserves the printed mixed Tamil-English `Becosules - B-Complex`, `Capsules`, `கேப்ஸூல்ஸ்-Capsules-` sequence and the ingredient list, including printed `Pyridoxime`;
+- PDFs 279–280 preserve the source lineation/hyphenation of the Bharathidasan poem, including `காண்-தோள்கள்`, `காண்-கிளம்பிற்றுகாண்`, and `கூட்டம்-`;
+- PDFs 283–284 preserve the Kural quotation as a two-line unit;
+- PDF 286 preserves the lineated closing exhortations in letter 0075;
+- PDF 289 was inspected only enough to verify the next boundary: actual heading `77. பெரியாரின் வெற்றி!`, salutation `உடன் பிறப்பே,`; no PDF-289 or letter-0077 text is committed in this iteration;
+- no silent modernisation, correction, regularisation or reconstruction was applied to source-supported spelling, spacing, punctuation, English text, quotations, or typography;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain blocked/unstarted as required.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–235 / 401**. Letters **0001–0056** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 236 with letter 0057 and follows the Volume 1-specific **10-letter** rule for letters **0057–0066**, stopping before letter 0067.
+Canonical PDF coverage is **001–288 / 401**. Letters **0001–0076** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF **289** with letter **0077 — `பெரியாரின் வெற்றி!`**. Unless the user separately expands the scope again, return to the standing **10-letter** Volume 1 cadence for letters **0077–0086**, stopping before letter 0087.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.

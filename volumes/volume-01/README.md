@@ -16,9 +16,11 @@ The supplied `Vol1.pdf` is the controlling source for this migration. Existing T
 
 For **Volume 1 alone**, regular migration/review iterations use **10 complete consecutive letters per iteration**. This volume-specific instruction supersedes the repository's normal five-letter cadence for Volume 1 work only. A documented final residue may be smaller.
 
+For the present iteration, the user explicitly requested an expanded scope of **20 complete consecutive letters — 0057 through 0076**. That approval applies to this iteration only; subsequent regular Volume 1 work returns to the ten-letter cadence unless separately instructed.
+
 ## Current canonical state
 
-- Canonical PDF coverage: **001–235 / 401**.
+- Canonical PDF coverage: **001–288 / 401**.
 - Mandatory first batch: **complete — PDF 001–025**.
 - Interrupted letter 0001 completion: **complete — PDF 026–027**.
 - Initial five-letter batch completed before the Volume 1 override: **0002–0006 / PDF 028–047**.
@@ -27,14 +29,16 @@ For **Volume 1 alone**, regular migration/review iterations use **10 complete co
 - Third Volume 1 ten-letter batch: **complete — 0027–0036 / PDF 127–160**.
 - Fourth Volume 1 ten-letter batch: **complete — 0037–0046 / PDF 161–199**.
 - Fifth Volume 1 ten-letter batch: **complete — 0047–0056 / PDF 200–235**.
+- User-approved expanded 20-letter batch: **complete — 0057–0076 / PDF 236–288**.
 - Front matter/preface: PDF **001–017** first-pass reviewed.
 - Printed contents: PDF **018–023**, all **110 printed entries** transcribed.
-- Canonically complete letters: **0001–0056 (56 / 110)**.
+- Canonically complete letters: **0001–0076 (76 / 110)**.
 - Partial canonical letter: **none**.
 - Source pagination note: PDF 039 prints **38**, while PDF 040 prints **40**; text is continuous, so printed number 39 is treated as a source pagination anomaly, not missing content.
 - Actual heading variants are preserved where they differ from contents entries, including letters 0008, 0012 and 0024.
-- Batch-specific source anomalies and legacy divergences are recorded in [`AUDIT.md`](AUDIT.md), including the PDF 211 `ஆட்டுச்சந்தைக்கு அருகாமையில்!` scan/legacy divergence and the unusual PDF 228 joined numeral wording.
-- PDF 236 visibly begins letter 0057 — `“பிறந்த நாள் வேண்டுகோள்!”` — and was inspected only to verify the next boundary; no letter 0057 text is committed in this batch.
+- Batch-specific source anomalies and legacy divergences are recorded in [`AUDIT.md`](AUDIT.md), including scan-visible passages absent from legacy reading copies and source-controlled wording/punctuation in the 0057–0076 range.
+- Letter 0063 has **no date printed in the source**; no date is inferred.
+- PDF 289 visibly begins letter 0077 — `பெரியாரின் வெற்றி!` — and was inspected only to verify the next boundary; no letter 0077 text is committed in this batch.
 - Full-volume Tamil structural audit: **blocked until 401/401 canonical pages exist**.
 - Second visual/textual-fidelity verification: **not started**.
 - English migration/alignment: **blocked** until the canonical Tamil volume and required audit gates are complete.
@@ -57,4 +61,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Begin at **PDF 236**, where the scan visibly starts letter **0057 — `“பிறந்த நாள் வேண்டுகோள்!”`**. In the next regular Volume 1 iteration, migrate exactly **10 complete consecutive letters — 0057 through 0066** — with direct scan verification of every page and boundary. Stop before any text from letter 0067. Keep the legacy bilingual corpus untouched and do not begin English migration yet.
+Begin at **PDF 289**, where the scan visibly starts letter **0077 — `பெரியாரின் வெற்றி!`**. Unless the user separately expands the scope again, resume the regular Volume 1 cadence and migrate exactly **10 complete consecutive letters — 0077 through 0086** — with direct scan verification of every page and boundary. Stop before any text from letter 0087. Keep the legacy bilingual corpus untouched and do not begin English migration yet.
