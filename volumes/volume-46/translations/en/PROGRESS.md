@@ -19,7 +19,8 @@
 - [x] Main translation batch 3 draft complete: 3605–3609
 - [x] Bilingual alignment review completed for 3605–3609
 - [x] Batch 3 review found no substantive English correction required
-- [ ] Synchronize 3605–3609 to verified status
+- [x] 3605–3609 synchronized to verified status
+- [ ] Main translation batch 4: 3610–3614
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -28,14 +29,13 @@
 ## Current boundary
 
 - English files: **18 / 55 actual source-letter records**
-- Verified file status: **3592–3604 (13 / 55)**
-- Source-alignment reviewed: **3592–3609 (18 / 55)**
-- Batch 3 reviewed: **3605–3609 (5 / 5)**
+- Verified: **3592–3609 (18 / 55)**
+- Batch 3 verified: **3605–3609 (5 / 5)**
 - Batch 3 substantive English corrections required: **0**
-- Batch 3 files still awaiting status-field synchronization: **3605–3609**
 - Main batch 3 source coverage: **PDF 108–145**
 - Canonical Tamil changes during Batch 3 drafting/alignment: **0**
-- Next gate: **promote 3605–3609 to verified together**
+- Draft/alignment backlog: **0**
+- Main batch 4 (3610–3614): **unblocked and next**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -43,18 +43,12 @@ Batch 2 review: [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_RE
 Batch 3 review: [BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 3 review outcome
+## Batch 3 final outcome
 
-The complete five-letter bilingual source-alignment review for **3605–3609** is finished. All five drafts pass at meaning level and no substantive English-only revision is required.
+The five-letter bilingual source-alignment gate for **3605–3609** is closed. All five letters pass at meaning level without substantive English correction. The moving-temple/medical-care metaphor and welfare figures in 3605, the long `சாதனை`/court/TASMAC sequence in 3606, the Kudankulam and electricity chronology in 3607, the source-ordered Murasoli Maran historical quotation in 3608, and the Dravidian Movement centenary historical sequence in 3609 remain aligned with the fidelity-cleared Tamil.
 
-- **3605:** moving-temple/medical-care metaphor, welfare schemes, figures, *Dinamani* comparison and closing metaphor align.
-- **3606:** repeated sarcastic `சாதனை`, court chronology, numbered list, printed English newspaper passages plus separately translated Tamil renderings, allegations and closing poison metaphor align.
-- **3607:** Assembly argument, Kudankulam chronology, electricity projects/figures and `அசந்து` reversal align.
-- **3608:** the long Murasoli Maran historical passage is complete and source-ordered; historical terminology and bullet structure are retained. The source's own singular/plural bibliographic phrasing is not externally repaired.
-- **3609:** centenary announcement, Bharathidasan, Caldwell, Sundaram Pillai, Natesanar, Thyagarayar, T.M. Nair and closing `இன எழுச்சி` appeal align.
-
-No canonical Tamil page was modified.
+All five files now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was modified.
 
 ## Exact next task
 
-Synchronize the five translation files **3605–3609** to `translation_status: verified` and `bilingual_alignment_status: verified`, then update `metadata.yml` and the English `README.md`. After that gate closes, **3610–3614** is unblocked as the next five-letter drafting batch.
+Draft the complete next five-letter English translation batch, **3610–3614**, in one iteration from the fidelity-cleared canonical Tamil using the locked conventions. Keep those five at draft/pending status until their own separate five-letter bilingual source-alignment review.
