@@ -15,8 +15,8 @@
 - [x] Main translation batch 5: 3615–3619 verified and structurally repaired
 - [x] Main translation batch 6: 3620–3624 verified and structurally repaired
 - [x] Structural compliance audit and corrective programme for 3610–3624 closed
-- [x] Main translation batch 7 draft: 3625–3629
-- [ ] Bilingual alignment review: 3625–3629
+- [x] Main translation batch 7: 3625–3629 verified
+- [ ] Main translation batch 8: 3630–3634
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -25,11 +25,12 @@
 ## Current boundary
 
 - English files: **38 / 55 actual source-letter records**
-- Structurally complete verified bilingual records: **3592–3624 (33 / 55)**
-- Draft-translated / bilingual-alignment pending: **3625–3629 (5 / 55)**
+- Structurally complete verified bilingual records: **3592–3629 (38 / 55)**
+- Existing draft/alignment backlog: **0**
 - Batch 7 source coverage: **PDF 262–295**
-- Complete Tamil appendices embedded in Batch 7 from the outset: **5 / 5**
-- Canonical Tamil changes caused by Batch 7 drafting: **0**
+- Complete Tamil appendices in Batch 7: **5 / 5**
+- Batch 7 English-only corrections: **1 — 3626 participant-name restoration**
+- Canonical Tamil changes caused by Batch 7 review: **0**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -38,21 +39,22 @@ Batch 3 review: [BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md](BILINGUAL_ALIGNMENT_RE
 Batch 4 review: [BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md)  
 Batch 5 review: [BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md)  
 Batch 6 review: [BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md)  
+Batch 7 review: [BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md](BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md)  
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 7 draft — 3625–3629
+## Batch 7 verification — 3625–3629
 
-The five-letter English draft batch **3625–3629** is complete, covering **PDF 262–295**. All five records were created with the standard translator-note block and complete fidelity-cleared Tamil appendix from the outset, avoiding the structural regression previously corrected in 3610–3624.
+The complete five-letter bilingual source-alignment gate for **3625–3629**, covering **PDF 262–295**, has passed.
 
-- **3625 — `ஒரு சுயமரியாதைக்காரனின் சூளுரை!`** — PDF 262–266. The actual letter-start title `சூளுரை` is retained; the printed contents variant `குளுரை` is not silently substituted. The birthday reflections, movement/fortress metaphors, `குற்றம் பார்க்கின் சுற்றம் இல்லை`, discipline discussion, Dravidian Movement centenary and closing Bharathidasan lines are translated in source order.
-- **3626 — `மாநில அரசே செயல்படாத நிலையில்...`** — PDF 267–272. The Neyveli contract-workers chronology, 1994 co-operative society, printed English organisation labels, 2008 and 2010 settlements, wage increases, parliamentary interventions and power-generation figures are retained.
-- **3627 — `தாமதமின்றி - தக்கதோர் முடிவு காண்பீர்!`** — PDF 273–278. Coalition responsibility, `Common Minimum Programme`, CPI/CPI(M) comparisons, petrol-price increase and international price figures, and Kalaignar's appeal to both Union and State Governments are preserved without outside reconciliation.
-- **3628 — `அலைகடலென ஆர்த்தெழுவோம்!`** — PDF 279–286. The petrol-tax/subsidy argument and detailed bus, milk and electricity figures are translated in full, including the closing mobilisation `அலை கடலென ஆர்த்தெழுவோம்!`.
-- **3629 — `தி.மு.க.வின் மாநில சுயாட்சிக்கு ஜெ. பாடிய பின்பாட்டு!`** — PDF 287–295. The State-autonomy/Planning Commission argument, Murasoli Maran excerpts, Kalaignar's 1973–1975 statements, `Upgradation Grants`, plan-allocation components and closing `பின்பாட்டு` wordplay are retained.
+- **3625 — `ஒரு சுயமரியாதைக்காரனின் சூளுரை!`** — passed without substantive English correction. The actual letter-start title `சூளுரை` remains controlling rather than the differing printed-contents form.
+- **3626 — `மாநில அரசே செயல்படாத நிலையில்...`** — passed after one English-only archival-fidelity correction. The source-printed 26-10-2010 Secretariat-meeting sequence `ஏ.ஐ.டி.யூ.சி. சேகர், குப்புசாமி, வெங்கடேசன், சுகுமாறன், குப்புசாமி, சக்கரபாணி` is now retained in English instead of being compressed to generic union representatives.
+- **3627 — `தாமதமின்றி - தக்கதோர் முடிவு காண்பீர்!`** — passed without substantive English correction.
+- **3628 — `அலைகடலென ஆர்த்தெழுவோம்!`** — passed without substantive English correction.
+- **3629 — `தி.மு.க.வின் மாநில சுயாட்சிக்கு ஜெ. பாடிய பின்பாட்டு!`** — passed without substantive English correction; the `பின்பாட்டு` rhetorical turn remains represented by `sang the chorus`.
 
-All five remain deliberately at `translation_status: draft-translated` / `bilingual_alignment_status: pending` until their separate source-alignment gate.
+All five now carry `translation_status: verified` and `bilingual_alignment_status: verified`. Their complete audited Tamil appendices remain embedded. No canonical Tamil page was changed.
 
 ## Exact next task
 
-Perform the complete five-letter bilingual source-alignment review for **3625–3629** against the fidelity-cleared canonical Tamil, checking titles, rhetorical force, quotations, names, dates, figures, source anomalies and complete Tamil appendices. Apply only source-proven English corrections; make no canonical Tamil changes; then promote all five together if the gate passes. Do not begin 3630 onward before this review is closed.
+Draft **3630–3634 as one five-letter English batch** from the fidelity-cleared canonical Tamil. Preserve the locked translation conventions and Kalaignar's language, embed the complete Tamil in every bilingual record from the outset, and leave the five at `draft-translated / pending` until their separate bilingual source-alignment review.
