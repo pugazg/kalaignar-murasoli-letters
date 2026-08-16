@@ -17,8 +17,9 @@
 - [x] Two required English-only revisions applied in 3602/3603
 - [x] 3600–3604 synchronized to verified status
 - [x] Main translation batch 3 draft complete: 3605–3609
-- [ ] Bilingual alignment review for 3605–3609
-- [ ] Apply any Batch 3 English-only revisions and verify 3605–3609
+- [x] Bilingual alignment review completed for 3605–3609
+- [x] Batch 3 review found no substantive English correction required
+- [ ] Synchronize 3605–3609 to verified status
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -27,27 +28,33 @@
 ## Current boundary
 
 - English files: **18 / 55 actual source-letter records**
-- Verified: **3592–3604 (13 / 55)**
-- Draft-translated / alignment pending: **3605–3609 (5 / 55)**
+- Verified file status: **3592–3604 (13 / 55)**
+- Source-alignment reviewed: **3592–3609 (18 / 55)**
+- Batch 3 reviewed: **3605–3609 (5 / 5)**
+- Batch 3 substantive English corrections required: **0**
+- Batch 3 files still awaiting status-field synchronization: **3605–3609**
 - Main batch 3 source coverage: **PDF 108–145**
-- Canonical Tamil changes during Batch 3 drafting: **0**
-- Next gate: **five-letter bilingual source-alignment review for 3605–3609**
+- Canonical Tamil changes during Batch 3 drafting/alignment: **0**
+- Next gate: **promote 3605–3609 to verified together**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
 Batch 2 review: [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md)  
+Batch 3 review: [BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 3 draft notes
+## Batch 3 review outcome
 
-- **3605** preserves `நடமாடும் கோயில் திருப்பணி` as the moving-temple/medical-care metaphor explicitly explained by Kalaignar, along with the full welfare-scheme sequence, beneficiary counts and insurance comparison.
-- **3606** preserves the repeated sarcastic `சாதனை` structure, the numbered eleven-item list, court material, and all source-printed English newspaper passages verbatim; each accompanying Tamil rendering is separately translated in full.
-- **3607** preserves the Assembly argument, Kudankulam chronology, complete power-project sequence and the closing `அசந்துதான் போனார்கள்` reversal.
-- **3608** translates in full the long Murasoli Maran passage that Kalaignar says he is reproducing `வார்த்தை பிசகாமல்`, retaining its English parentheticals, bullets and historical terminology.
-- **3609** preserves the centenary-event announcement, Bharathidasan verse, Caldwell/Sundaram Pillai/Natesanar/Thyagarayar/T.M. Nair sequence, historical numerical claims and the closing call to attend the festival for `இன எழுச்சி`.
+The complete five-letter bilingual source-alignment review for **3605–3609** is finished. All five drafts pass at meaning level and no substantive English-only revision is required.
 
-All five files remain deliberately at `translation_status: draft-translated` and `bilingual_alignment_status: pending`. No verification is claimed before the separate alignment gate.
+- **3605:** moving-temple/medical-care metaphor, welfare schemes, figures, *Dinamani* comparison and closing metaphor align.
+- **3606:** repeated sarcastic `சாதனை`, court chronology, numbered list, printed English newspaper passages plus separately translated Tamil renderings, allegations and closing poison metaphor align.
+- **3607:** Assembly argument, Kudankulam chronology, electricity projects/figures and `அசந்து` reversal align.
+- **3608:** the long Murasoli Maran historical passage is complete and source-ordered; historical terminology and bullet structure are retained. The source's own singular/plural bibliographic phrasing is not externally repaired.
+- **3609:** centenary announcement, Bharathidasan, Caldwell, Sundaram Pillai, Natesanar, Thyagarayar, T.M. Nair and closing `இன எழுச்சி` appeal align.
+
+No canonical Tamil page was modified.
 
 ## Exact next task
 
-Perform the bilingual source-alignment review for the complete five-letter batch **3605–3609** in one iteration. Apply no canonical Tamil change unless the controlling scan itself requires it. Only after the review and any English corrections should these five be promoted to verified; **3610–3614 remains blocked until then**.
+Synchronize the five translation files **3605–3609** to `translation_status: verified` and `bilingual_alignment_status: verified`, then update `metadata.yml` and the English `README.md`. After that gate closes, **3610–3614** is unblocked as the next five-letter drafting batch.
