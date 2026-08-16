@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; first five-letter batch bilingual-verified**.
+Status: **main translation in progress; two five-letter batches bilingual-verified**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -16,18 +16,23 @@ Verified:
 - **3597 — அந்த இதயம்; இதையும் தாங்குமோ? / Can That Heart Bear This Too?** — PDF 57–63.
 - **3598 — என் உடன்பிறப்புகள் ஏமாற மாட்டார்கள்! / My Udanpirappugal Will Not Be Deceived!** — PDF 64–66.
 - **3599 — அய்யரின் மனசாட்சியே அதைக் சொல்லும்! / Ayyar's Conscience Itself Will Say It!** — PDF 67–74.
+- **3600 — யாருமே அங்கே இல்லையா? / Is There No One There?** — PDF 75–79.
+- **3601 — இந்தப் புவியே அவர் புகழ் பாடட்டும்! / Let This Earth Itself Sing Her Praise!** — PDF 80–87.
+- **3602 — அறவழி - அமைதி வழி - அதுவே அண்ணா வழி! / The Path of Righteousness — the Path of Peace — That Is Anna's Path!** — PDF 88–94.
+- **3603 — மறைமலையார் கருத்தை மறைப்பதோ? / Are They Hiding Maraimalai Adigal's View?** — PDF 95–101.
+- **3604 — என்ன பதில் சொல்லப் போகிறார்? / What Answer Is She Going to Give?** — PDF 102–107.
 
-**English files: 8 / 55.**  
-**Verified: 8 / 55.**  
+**English files: 13 / 55.**  
+**Verified: 13 / 55.**  
 **Current draft-alignment backlog: 0.**
 
-The pilot review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md). Batch 1 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
+The pilot review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md). Batch 1 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md). Batch 2 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-## Batch 3595–3599 verification
+## Batch 3600–3604 verification
 
-The separate bilingual source-alignment pass is complete. Three English-only revisions were required and applied: 3595 now makes the money referent in `அதைக் காத்திடுவதற்காக` explicit; 3597 now correctly reads Omandur Ramasamy Reddiar as having assumed office **as Chief Minister** after Independence rather than as **the first Chief Minister**, and restores `பொதுவுடைமை வீரர் ஜீவா` as **communist fighter Jeeva**. Letters 3596, 3598 and 3599 required no substantive correction.
+The separate bilingual source-alignment pass is complete. Letters 3600, 3601 and 3604 required no substantive English correction. Two English-only revisions were applied: 3602 now renders `தமிழகத்தில் உள்ள மாநகரங்களிலும், நகரங்களிலும்` as **“in the cities and towns of Tamil Nadu”**; 3603 now carries the full rhetorical title **“Are They Hiding Maraimalai Adigal's View?”**.
 
-All five files are now `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was changed during translation or alignment.
+Letter 3604's source-printed `கூடுதலாக ரூ.2260/எனவும்` remains preserved rather than silently regularised through contextual arithmetic. All five files are now `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was changed during translation or alignment.
 
 ## Textual-fidelity completion
 
@@ -37,4 +42,4 @@ All five files are now `translation_status: verified` and `bilingual_alignment_s
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** begin the next normal five-letter English translation batch, **3600–3604**, using the locked conventions and fidelity-cleared canonical Tamil. Keep that batch draft/pending until its own separate bilingual alignment review.
+**Exact next task:** draft the next five English letters, **3605–3609**, in one iteration using the locked conventions and fidelity-cleared canonical Tamil. Keep all five draft/pending until their own separate five-letter bilingual alignment review.
