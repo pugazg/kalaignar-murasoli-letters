@@ -14,8 +14,9 @@
 - [x] 3595–3599 synchronized to verified status
 - [x] Main translation batch 2 draft complete: 3600–3604
 - [x] Bilingual alignment review completed for 3600–3604
-- [ ] Apply two required English-only revisions in 3602/3603
-- [ ] Synchronize 3600–3604 to verified status
+- [x] Two required English-only revisions applied in 3602/3603
+- [x] 3600–3604 synchronized to verified status
+- [ ] Main translation batch 3: 3605–3609
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -24,27 +25,26 @@
 ## Current boundary
 
 - English files: **13 / 55 actual source-letter records**
-- Verified: **3592–3599 (8 / 55)**
-- Batch 2 reviewed: **3600–3604 (5 / 5)**
-- Pass without substantive correction: **3600, 3601, 3604**
-- English-only corrections pending: **3602 (1), 3603 (1)**
+- Verified: **3592–3604 (13 / 55)**
+- Batch 2 verified: **3600–3604 (5 / 5)**
+- English-only corrections applied in Batch 2: **3602 (1), 3603 (1)**
 - Canonical Tamil changes during Batch 2 alignment: **0**
 - Main batch 2 source coverage: **PDF 75–107**
+- Main batch 3 (3605–3609): **unblocked and next**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
 Batch 2 review: [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 2 review findings
+## Batch 2 final outcome
 
-The five-letter bilingual source-alignment review is complete. Letters 3600, 3601 and 3604 pass without substantive English correction. Two English-only revisions are required before the batch can be promoted:
-
-1. In **3602**, `தமிழகத்தில் உள்ள மாநகரங்களிலும், நகரங்களிலும்` should read **“in the cities and towns of Tamil Nadu”**, not “in the corporations and towns of Tamil Nadu.”
-2. In **3603**, the title `மறைமலையார் கருத்தை மறைப்பதோ?` should be the full rhetorical question **“Are They Hiding Maraimalai Adigal's View?”**, replacing the clipped “Hide Maraimalai Adigal's View?”
+The source-alignment gate is closed. Letters 3600, 3601 and 3604 required no substantive English correction. Letter 3602 now renders `தமிழகத்தில் உள்ள மாநகரங்களிலும், நகரங்களிலும்` as **“in the cities and towns of Tamil Nadu.”** Letter 3603 now carries the full rhetorical English title **“Are They Hiding Maraimalai Adigal's View?”**
 
 Letter 3604's source-printed `கூடுதலாக ரூ.2260/எனவும்` remains preserved rather than silently regularised. No canonical Tamil was modified.
 
+All five letters now carry `translation_status: verified` and `bilingual_alignment_status: verified`.
+
 ## Exact next task
 
-Apply the two documented revisions to **3602** and **3603**, synchronize all five letters **3600–3604** to `translation_status: verified` and `bilingual_alignment_status: verified`, and update repository metadata/README. Only after that verification gate closes should the next five-letter translation batch **3605–3609** begin.
+Draft the next five English letters, **3605–3609**, in one iteration from the fidelity-cleared canonical Tamil using the locked conventions. Keep all five at draft/pending status until their separate five-letter bilingual source-alignment review.
