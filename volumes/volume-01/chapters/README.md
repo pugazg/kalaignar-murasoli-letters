@@ -30,6 +30,16 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0024 | “அரசியல் மோசடியாம் - அறிவிக்கிறார்; ஆழ்வப் பிறவி!” | 1968-12-07 | 120–122 | complete |
 | 0025 | இந்தியும் மொரார்ஜி தேசாயும்! | 1968-12-09 | 123–124 | complete |
 | 0026 | தகுந்த பாடம் தரவேண்டாமா? | 1968-12-20 | 125–126 | complete |
+| 0027 | காட்சி காண அல்ல - களம் காண! | 1968-12-26 | 127–128 | complete |
+| 0028 | வெண்மணிச் சம்பவம் ஒரு விளக்கம்! | 1968-12-28 | 129–131 | complete |
+| 0029 | காங்கிரஸ் வெற்றியும் இந்தித் திணிப்பும்! | 1969-01-11 | 132–133 | complete |
+| 0030 | பாழடைந்த மண்டபமும் வெளவால்களும்! | 1969-01-17 | 134–135 | complete |
+| 0031 | வேங்கை போடும் வெள்ளாடு வேடம்! | 1969-01-18 | 136–140 | complete |
+| 0032 | காமராஜரின் கடற்கரைப் பேச்சின் பொருள் என்ன? | 1969-01-28 | 141–142 | complete |
+| 0033 | தெளிந்திடும் நீரோடை! | 1971-01-01 | 143–147 | complete |
+| 0034 | வென்றிட வேறு யாருளர்? | 1971-01-07 | 148–151 | complete |
+| 0035 | உனக்காக விழித்திருப்போம்! | 1971-01-10 | 152–155 | complete |
+| 0036 | “கிழச் சிங்கம், கிளறிய நெஞ்சம்!” | 1971-04-16 | 156–160 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -37,4 +47,10 @@ Source-pagination note: the scan visibly jumps from printed page **38** on PDF 0
 
 Actual letter headings control over contents-page variants. This matters for letters 0008, 0012 and 0024; letter 0024's actual heading-page form is `ஆழ்வப் பிறவி`.
 
-The scan confirms that letter 0027 — `காட்சி காண அல்ல - களம் காண!` — begins at PDF 127. PDF 127 was inspected only for that boundary; no letter 0027 text is part of the completed 0017–0026 batch.
+Letter 0028 closes on PDF 131 with the source-printed date **28-12-1968**; that date controls over the conflicting legacy metadata value.
+
+PDF 144 contains a substantial scan-visible 1938 anti-Hindi movement passage in letter 0033 that is absent from the legacy reading copy. The canonical page layer follows the scan.
+
+The source also changes address/sign-off form in this range: letters 0033–0035 address `அண்ணா,` and close `தம்பி, / மு. கருணாநிதி.`; letter 0036 begins `உடன் பிறப்பே!` and closes `அன்புள்ள, / மு. கருணாநிதி`.
+
+The scan confirms that letter 0037 — `நீயும் நானும் தூங்குவோமா?` — begins at PDF 161. PDF 161 was inspected only for that boundary; no letter 0037 text is part of the completed 0027–0036 batch.

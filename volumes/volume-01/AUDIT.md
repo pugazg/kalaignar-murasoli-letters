@@ -152,8 +152,41 @@ Checks performed and source anomalies recorded:
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
 
+## Iteration 6 — third Volume 1 ten-letter batch: 0027–0036
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0027 — `காட்சி காண அல்ல - களம் காண!`: PDF **127–128**, date **26-12-1968**;
+- 0028 — `வெண்மணிச் சம்பவம் ஒரு விளக்கம்!`: PDF **129–131**, date **28-12-1968**;
+- 0029 — `காங்கிரஸ் வெற்றியும் இந்தித் திணிப்பும்!`: PDF **132–133**, date **11-01-1969**;
+- 0030 — `பாழடைந்த மண்டபமும் வெளவால்களும்!`: PDF **134–135**, date **17-01-1969**;
+- 0031 — `வேங்கை போடும் வெள்ளாடு வேடம்!`: PDF **136–140**, date **18-01-1969**;
+- 0032 — `காமராஜரின் கடற்கரைப் பேச்சின் பொருள் என்ன?`: PDF **141–142**, date **28-01-1969**;
+- 0033 — `தெளிந்திடும் நீரோடை!`: PDF **143–147**, date **01-01-1971**;
+- 0034 — `வென்றிட வேறு யாருளர்?`: PDF **148–151**, date **07-01-1971**;
+- 0035 — `உனக்காக விழித்திருப்போம்!`: PDF **152–155**, date **10-01-1971**;
+- 0036 — `“கிழச் சிங்கம், கிளறிய நெஞ்சம்!”`: PDF **156–160**, date **16-04-1971**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **127–160**: **34 / 34**;
+- all ten heading pages, salutations, closing/sign-off forms and printed dates were visually checked against the controlling scan;
+- letter 0028 closes on PDF 131 with the source-printed date `(28-12-1968)`; a conflicting legacy metadata value is not propagated into the canonical layer;
+- PDF 137 prints the unusual punctuation `ஜனநாயக உரிமைகளை(!)`; it is retained;
+- PDF 144 contains a substantial scan-visible 1938 anti-Hindi movement passage that is absent from the legacy Tamil reading copy; canonical transcription follows the scan, including the source's references to Periyar, தாளமுத்து, நடராசன், Anna's imprisonment, and the `தமிழர் படை` sequence;
+- PDF 149 prints `எட்டு நாட்களுக்கு முன்பு`; the legacy reading copy's `ஏழெட்டு நாட்களுக்கு முன்பு` is not substituted;
+- PDF 155 uses decorative diamond list markers and PDF 158 uses three-dot list markers; their list structure is retained in the canonical page layer;
+- letters 0033–0035 address `அண்ணா,` and close `தம்பி, / மு. கருணாநிதி.`; letter 0036 begins `உடன் பிறப்பே!` and closes `அன்புள்ள, / மு. கருணாநிதி`, preserving the source-visible transition away from the earlier `மறவன்` sign-off;
+- PDF 160 prints no final period after `மு. கருணாநிதி`; the source form is retained;
+- no silent modernisation, correction, regularisation or reconstruction was applied to source-supported wording, punctuation, dates or typography;
+- PDF 161 was inspected only enough to verify the start of 0037 — `நீயும் நானும் தூங்குவோமா?`; no PDF-161 text is committed in this batch;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–126 / 401**. Letters **0001–0026** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 127 with letter 0027 and follows the Volume 1-specific **10-letter** rule for letters **0027–0036**, stopping before letter 0037.
+Canonical PDF coverage is **001–160 / 401**. Letters **0001–0036** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 161 with letter 0037 and follows the Volume 1-specific **10-letter** rule for letters **0037–0046**, stopping before letter 0047.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.
