@@ -53,13 +53,13 @@ textual_fidelity_audit_reports:
 translation_status: "in-progress"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
-translated_letter_range: "3592-3599"
-translated_letter_count: 8
-source_checked_letter_count: 8
-verified_translation_count: 8
+translated_letter_range: "3592-3604"
+translated_letter_count: 13
+source_checked_letter_count: 13
+verified_translation_count: 13
 draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
-bilingual_alignment_verified_range: "3592-3599"
+bilingual_alignment_verified_range: "3592-3604"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -78,4 +78,7 @@ source_observations:
   - "Pilot conventions are locked."
   - "First normal five-letter translation batch 3595-3599 is source-checked and bilingual-alignment verified."
   - "Batch 3595-3599 required three English-only corrections: one in 3595 and two in 3597; canonical Tamil did not change."
-  - "Next translation batch is 3600-3604."
+  - "Second normal five-letter translation batch 3600-3604 is source-checked and bilingual-alignment verified."
+  - "Batch 3600-3604 required two English-only corrections: one in 3602 and one in 3603; canonical Tamil did not change."
+  - "Letter 3604 retains the source-printed 'ரூ.2260/' sequence without silent arithmetic regularisation."
+  - "Next translation batch is 3605-3609."
