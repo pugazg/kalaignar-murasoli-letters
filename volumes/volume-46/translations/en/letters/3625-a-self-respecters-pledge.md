@@ -8,9 +8,9 @@ source_pdf_page_start: 262
 source_pdf_page_end: 266
 source_printed_page_start: 261
 source_printed_page_end: 265
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s birthday reflections, movement metaphors, references to Periyar and Anna, the organisational-discipline discussion, and the closing pledge are preserved in source order and tone. The printed contents/actual-heading distinction is not normalised: the actual letter heading is `சூளுரை`. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s birthday reflections, movement metaphors, references to Periyar and Anna, the organisational-discipline discussion, and the closing pledge are preserved in source order and tone. The printed contents/actual-heading distinction is not normalised: the actual letter heading is `சூளுரை`. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3625](../../../chapters/3625-oru-suyamariyaathaikkaararin-soolurai.md)  
 **Source pages:** [PDF 262](../../../pages/page-262.md)–[PDF 266](../../../pages/page-266.md)  
