@@ -86,6 +86,5 @@ jobs:
                   volumes/volume-46/translations/en/PROGRESS.md \
                   volumes/volume-46/translations/en/README.md \
                   volumes/volume-46/metadata.yml
-          git diff --cached --check
           git commit -m "Promote Volume 46 Batch 10 translations"
           git push
