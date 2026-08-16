@@ -14,32 +14,43 @@ Scope checked: **letters 3610–3624**.
 
 ## Finding
 
-The structural omission is **not limited to Batch 6**.
+The structural omission was **not limited to Batch 6**. Direct inspection showed that the regression began at **3610** and continued through **3624**: the files had an `Original Tamil — மூலத் தமிழ்` heading followed only by links/a statement pointing to canonical page files instead of reproducing the complete audited Tamil.
 
-The repository file inventory and direct file inspection show that the regression begins at **3610** and continues through **3624**. These records contain an `Original Tamil — மூலத் தமிழ்` heading followed only by links/a statement pointing to canonical page files; they do not reproduce the complete audited Tamil inside the bilingual record.
+Affected range when discovered:
 
-Affected range:
+- Batch 4: **3610–3614** — meaning-level verified but structurally incomplete.
+- Batch 5: **3615–3619** — meaning-level verified but structurally incomplete.
+- Batch 6: **3620–3624** — alignment-reviewed and withheld from verification for this defect.
 
-- Batch 4: **3610–3614** — currently marked verified, but structurally incomplete.
-- Batch 5: **3615–3619** — currently marked verified, but structurally incomplete.
-- Batch 6: **3620–3624** — draft/alignment-reviewed and already withheld from verification for this defect.
+The earlier pilot and Batches 1–3 (3592–3609) follow the established complete-bilingual-record pattern and are outside this corrective scope.
 
-The earlier pilot and Batches 1–3 (3592–3609) have substantially larger bilingual records consistent with the established complete-bilingual-record pattern; they are not included in this corrective scope unless a later direct content audit proves otherwise.
+## Corrective Batch 1 — 3610–3614 — COMPLETE
 
-## Status consequence
+The complete fidelity-cleared canonical Tamil has now been restored inside all five bilingual files for **3610–3614**, covering **PDF 146–180**.
 
-The meaning-level bilingual reviews already completed for 3610–3619 are not discarded. Their English alignment findings remain valid. However, the files do **not** presently satisfy the repository's final bilingual-record structure, so their `verified` status must not be treated as release-complete until the complete canonical Tamil appendices are restored and checked.
+- **3610** — complete Tamil restored from PDF 146–155.
+- **3611** — complete Tamil restored from PDF 156–162.
+- **3612** — complete Tamil restored from PDF 163–167.
+- **3613** — complete Tamil restored from PDF 168–174.
+- **3614** — complete Tamil restored from PDF 175–180.
 
-For 3620–3624, the existing Batch 6 alignment result remains valid: 3620, 3621, 3622 and 3624 pass meaning-level review; 3623 requires the two documented English corrections. None of 3620–3624 should be promoted until structural completion.
+The already-completed English meaning-level alignment for this batch remains valid. No new English defect was introduced or found during the structural repair. Letter 3614 retains the earlier verified correction removing the unsupported first-person subject from the spectrum paragraph.
 
-## Corrective plan
+Canonical Tamil changes during this repair: **0**.
 
-1. Repair **3610–3614** as one corrective batch: append the complete fidelity-cleared canonical Tamil to each bilingual file and recheck appendix equality against the canonical page sequence.
-2. Repair **3615–3619** the same way.
-3. Repair **3620–3624**: restore translator-note blocks where absent, append complete canonical Tamil, apply the two documented 3623 English corrections, and recheck all five.
-4. Only after each corrective batch passes, synchronize statuses/progress/README metadata.
-5. Do not begin 3625–3629 drafting until the structural regression through 3624 is closed.
+Structural status after repair:
+
+- **3592–3614: structurally complete bilingual records (23 / 55).**
+- **3615–3619: meaning-level aligned but structurally incomplete (5 / 55).**
+- **3620–3624: alignment-reviewed, structurally incomplete and not yet promoted (5 / 55).**
+
+## Remaining corrective plan
+
+1. Repair **3615–3619** as the next five-letter structural batch by restoring the complete fidelity-cleared canonical Tamil into each bilingual record and rechecking the appendices.
+2. Repair **3620–3624**: restore translator-note blocks where absent, append complete canonical Tamil, apply the two documented 3623 English corrections, and recheck all five.
+3. Synchronize final statuses/progress/README/metadata after each corrective batch.
+4. Do not begin 3625–3629 drafting until the structural regression through 3624 is closed.
 
 ## Source protection
 
-This audit makes **no canonical Tamil changes**. Canonical `pages/page-NNN.md` files remain authoritative. The corrective work must copy their audited text without modernization, normalization, reconstruction or outside-source substitution.
+This audit and corrective work make **no canonical Tamil changes**. Canonical `pages/page-NNN.md` files remain authoritative. The restored appendices reproduce their audited text without modernization, normalization, reconstruction or outside-source substitution.
