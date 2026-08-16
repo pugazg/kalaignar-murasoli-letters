@@ -8,9 +8,9 @@ source_pdf_page_start: 322
 source_pdf_page_end: 328
 source_printed_page_start: 321
 source_printed_page_end: 327
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The actual letter heading uses a semicolon (`தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`) while the printed contents use a comma; the actual heading controls here and the distinction is not normalised. Kalaignar’s catalogue of arrests, case dates, statutory counts, names, court observations, Goondas Act references and the concluding call for the emergency Executive Committee are retained in source order. The long source-printed list of arrested DMK functionaries is reproduced rather than compressed. Source legal and political claims are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. The actual letter heading uses a semicolon (`தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`) while the printed contents use a comma; the actual heading controls here and the distinction is not normalised. Kalaignar’s catalogue of arrests, case dates, statutory counts, names, court observations, Goondas Act references and the concluding call for the emergency Executive Committee are retained in source order. The long source-printed list of arrested DMK functionaries is reproduced rather than compressed. Source legal and political claims are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3634](../../../chapters/3634-thalaimai-seyarkuzhu-thakka-mudivedukkum.md)  
 **Source pages:** [PDF 322](../../../pages/page-322.md)–[PDF 328](../../../pages/page-328.md)  
