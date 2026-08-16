@@ -55,11 +55,11 @@ translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
 translated_letter_range: "3592-3619"
 translated_letter_count: 28
-source_checked_letter_count: 23
-verified_translation_count: 23
-draft_alignment_pending_range: "3615-3619"
+source_checked_letter_count: 28
+verified_translation_count: 28
+draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
-bilingual_alignment_verified_range: "3592-3614"
+bilingual_alignment_verified_range: "3592-3619"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -87,5 +87,7 @@ source_observations:
   - "Fourth normal five-letter translation batch 3610-3614 is source-checked and bilingual-alignment verified."
   - "Batch 3610-3614 required one substantive English-only correction in 3614: an unsupported first-person subject was removed from the spectrum paragraph; canonical Tamil did not change."
   - "Batch 3610-3614 covers PDF 146-180."
-  - "Fifth normal five-letter translation batch 3615-3619 is draft-translated from fidelity-cleared canonical Tamil and awaits its separate bilingual source-alignment review."
-  - "Batch 3615-3619 covers PDF 181-220; no canonical Tamil was changed during drafting."
+  - "Fifth normal five-letter translation batch 3615-3619 is source-checked and bilingual-alignment verified."
+  - "Batch 3615-3619 required English-only corrections in 3615 and 3616: source token 'perhelion' was restored in 3615, and two unsupported editorial-attribution spans were removed in 3616; canonical Tamil did not change."
+  - "Batch 3615-3619 covers PDF 181-220."
+  - "Next translation batch is 3620-3624."
