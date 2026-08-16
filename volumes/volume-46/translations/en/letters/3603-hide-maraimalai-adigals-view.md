@@ -2,24 +2,24 @@
 volume: 46
 letter_number: 3603
 tamil_title: "மறைமலையார் கருத்தை மறைப்பதோ?"
-english_title: "Hide Maraimalai Adigal's View?"
+english_title: "Are They Hiding Maraimalai Adigal's View?"
 date: 2012-01-01
 source_pdf_page_start: 95
 source_pdf_page_end: 101
 source_printed_page_start: 94
 source_printed_page_end: 100
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
 
-# 3603. Hide Maraimalai Adigal's View?
+# 3603. Are They Hiding Maraimalai Adigal's View?
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 translation conventions. Historical claims, scholar names, dates, quotations, poem form, and source framing concerning the Tamil New Year are preserved as presented by Kalaignar. No outside historical reconciliation or correction has been introduced. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 translation conventions. Historical claims, scholar names, dates, quotations, poem form, and source framing concerning the Tamil New Year are preserved as presented by Kalaignar. No outside historical reconciliation or correction has been introduced. The complete audited Tamil follows and remains authoritative. Bilingual source alignment has been verified.
 
 **Tamil source:** [Letter 3603](../../../chapters/3603-maraimalaiyar-karuththai-maraippatho.md)  
 **Source pages:** [PDF 95](../../../pages/page-095.md)–[PDF 101](../../../pages/page-101.md)  
