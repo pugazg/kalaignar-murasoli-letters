@@ -185,8 +185,39 @@ Checks performed and source anomalies recorded:
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
 
+## Iteration 7 — fourth Volume 1 ten-letter batch: 0037–0046
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0037 — `நீயும் நானும் தூங்குவோமா?`: PDF **161–164**, date **17-04-1971**;
+- 0038 — `இன்றே தொடங்கிடுக பணி!`: PDF **165–168**, date **18-04-1971**;
+- 0039 — `“கோவை - ஒரு கனி! நீ ஒரு கிளி!”`: PDF **169–173**, date **22-04-1971**;
+- 0040 — `அண்ணன்-கண்ணன் எங்கே?`: PDF **174–177**, date **23-04-1971**;
+- 0041 — `நான் கேட்கும் பிச்சை!`: PDF **178–180**, date **26-05-1971**;
+- 0042 — `ஜூலை 15!`: PDF **181–183**, date **10-07-1972**;
+- 0043 — `பெருமை எது?`: PDF **184–186**, date **17-07-1972**;
+- 0044 — `வழக்கு ஜோடனை!`: PDF **187–191**, date **22-07-1972**;
+- 0045 — `மதுரை மாட்சி (1)`: PDF **192–195**, date **09-08-1972**;
+- 0046 — `மதுரை மாட்சி (2)`: PDF **196–199**, date **10-08-1972**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **161–199**: **39 / 39**;
+- all ten heading pages, salutations, closing/sign-off forms and printed dates were visually checked against the controlling scan;
+- PDF 164 contains the scan-visible sentence `இறுதி வெற்றி பெறாமல், என் இனிய நண்பா! நீயும் நானும் தூங்குவோமா என்ன?`, while the legacy reading copy contains only the shortened ending `தூங்குவோமா என்ன?`; the canonical transcription follows the scan;
+- PDF 165 prints the salutation `என் உடன்பிறப்பே!` without an internal space; the source form is retained rather than the legacy spacing;
+- PDF 173 closes with `மு. கருணாநிதி.` including the source's final period;
+- PDF 188 uses decorative markers for the eight-item accusation list; the canonical page preserves the list structure rather than flattening it into prose;
+- letters 0043–0046 use the abbreviated `மு. க.` sign-off where printed; these forms are retained;
+- no silent modernisation, correction, regularisation or reconstruction was applied to source-supported wording, punctuation, names, dates, quotations or typography;
+- PDF 200 was inspected only enough to verify the start of 0047 — actual heading `“தாயே எட்டடி என்றால்...”`, salutation `உடன் பிறப்பே,`; no PDF-200 or letter-0047 text is committed in this batch;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–160 / 401**. Letters **0001–0036** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 161 with letter 0037 and follows the Volume 1-specific **10-letter** rule for letters **0037–0046**, stopping before letter 0047.
+Canonical PDF coverage is **001–199 / 401**. Letters **0001–0046** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 200 with letter 0047 and follows the Volume 1-specific **10-letter** rule for letters **0047–0056**, stopping before letter 0057.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.

@@ -22,18 +22,18 @@ legacy_bilingual_record_count: 110
 legacy_translation_audit_passed: true
 volume_specific_batch_size: 10
 volume_specific_batch_rule: "Volume 1 only: regular migration/review iterations use 10 complete consecutive letters; documented final residue may be smaller."
-transcription_page_range: "1-160"
+transcription_page_range: "1-199"
 transcription_status: "in-progress"
 recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
-completed_letter_range: "1-36"
-completed_letter_count: 36
+completed_letter_range: "1-46"
+completed_letter_count: 46
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
 source_printed_pagination_anomalies:
   - "PDF 39 prints page 38; PDF 40 prints page 40. Printed page number 39 is skipped, but text is continuous across the boundary."
-audit_status: "volume-01-ten-letter-batch-0027-0036-complete"
+audit_status: "volume-01-ten-letter-batch-0037-0046-complete"
 audit_date: 2026-08-16
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -53,7 +53,7 @@ source_observations:
   - "PDF pages 18-23 contain the printed contents with 110 entries."
   - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
   - "Letter 1 begins at PDF page 24 / printed page 23 and closes at PDF page 27 / printed page 26 with sign-off and date."
-  - "Letters 2-36 are visually boundary-verified and canonically migrated through PDF page 160."
+  - "Letters 2-46 are visually boundary-verified and canonically migrated through PDF page 199."
   - "The source visibly skips printed page number 39 between PDF pages 39 and 40, but the text is continuous; no missing content is inferred."
   - "Actual page heading controls over contents variants; letters 8, 12 and 24 demonstrate this rule."
   - "PDF page 95 contains deliberate censored ellipses; they are preserved without reconstruction."
@@ -66,5 +66,10 @@ source_observations:
   - "PDF page 149 prints எட்டு நாட்களுக்கு முன்பு; the legacy reading copy's ஏழெட்டு form is not substituted."
   - "PDF page 155 uses decorative diamond list markers and PDF page 158 uses three-dot list markers; the canonical page layer preserves these typographic list structures."
   - "Letters 33-35 address Anna and close as Thambi / Mu. Karunanidhi; letter 36 begins Udan Pirappe and closes Anbulla / Mu. Karunanidhi, marking a source-visible change from the earlier Maravan sign-off."
-  - "PDF page 161 visibly begins letter 37, confirming the boundary after letter 36; no letter 37 text is committed in the 0027-0036 batch."
+  - "PDF page 164 contains the scan-visible closing sentence இறுதி வெற்றி பெறாமல், என் இனிய நண்பா! நீயும் நானும் தூங்குவோமா என்ன?, fuller than the legacy reading copy; canonical transcription follows the scan."
+  - "PDF page 165 prints என் உடன்பிறப்பே! without an internal space; the source form is retained."
+  - "PDF page 173 prints மு. கருணாநிதி. with a final period; the source punctuation is retained."
+  - "PDF page 188 uses decorative list markers for the resolution accusation list; the canonical page layer preserves the list structure."
+  - "Letters 43-46 close with the abbreviated மு. க. sign-off where printed."
+  - "PDF page 200 visibly begins letter 47 with the actual heading “தாயே எட்டடி என்றால்...”, confirming the boundary after letter 46; no letter 47 text is committed in the 0037-0046 batch."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."

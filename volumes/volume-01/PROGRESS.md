@@ -12,6 +12,7 @@
 - [x] First ten-letter batch: letters 0007–0016 / PDF 048–089
 - [x] Second ten-letter batch: letters 0017–0026 / PDF 090–126
 - [x] Third ten-letter batch: letters 0027–0036 / PDF 127–160
+- [x] Fourth ten-letter batch: letters 0037–0046 / PDF 161–199
 - [ ] Remaining ten-complete-letter Volume 1 migration iterations
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
@@ -22,18 +23,18 @@
 
 ## Current boundary
 
-- Canonical page files: **160 / 401**
+- Canonical page files: **199 / 401**
 - Printed contents entries captured: **110 / 110**
-- Canonically completed letters: **36 / 110**
-- Completed canonical letter range: **0001–0036**
+- Canonically completed letters: **46 / 110**
+- Completed canonical letter range: **0001–0046**
 - Partial canonical letter: **none**
-- Canonical letter coverage: **PDF 024–160**
+- Canonical letter coverage: **PDF 024–199**
 - Current Volume 1 regular batch size: **10 letters**
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
-- New batch anomalies/divergences are recorded in `AUDIT.md`, including the PDF 144 scan-visible 1938 passage absent from the legacy reading copy and the source-printed 28-12-1968 date for letter 0028
+- New batch anomalies/divergences are recorded in `AUDIT.md`, including the fuller scan-visible closing sentence on PDF 164, PDF 165's source `என் உடன்பிறப்பே!`, and source punctuation/sign-off forms through PDF 199
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
 - Canonically migrated/verified English records: **0 / 110**
 
 ## Exact next task
 
-Begin at **PDF 161**, where the scan visibly starts letter **0037 — `நீயும் நானும் தூங்குவோமா?`**. Process exactly **10 complete consecutive letters, 0037–0046**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0047. Keep the legacy bilingual corpus untouched and do not start English migration.
+Begin at **PDF 200**, where the scan visibly starts letter **0047 — `“தாயே எட்டடி என்றால்...”`**. Process exactly **10 complete consecutive letters, 0047–0056**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0057. Keep the legacy bilingual corpus untouched and do not start English migration.

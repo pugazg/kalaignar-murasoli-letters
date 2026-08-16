@@ -40,6 +40,16 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0034 | வென்றிட வேறு யாருளர்? | 1971-01-07 | 148–151 | complete |
 | 0035 | உனக்காக விழித்திருப்போம்! | 1971-01-10 | 152–155 | complete |
 | 0036 | “கிழச் சிங்கம், கிளறிய நெஞ்சம்!” | 1971-04-16 | 156–160 | complete |
+| 0037 | நீயும் நானும் தூங்குவோமா? | 1971-04-17 | 161–164 | complete |
+| 0038 | இன்றே தொடங்கிடுக பணி! | 1971-04-18 | 165–168 | complete |
+| 0039 | “கோவை - ஒரு கனி! நீ ஒரு கிளி!” | 1971-04-22 | 169–173 | complete |
+| 0040 | அண்ணன்-கண்ணன் எங்கே? | 1971-04-23 | 174–177 | complete |
+| 0041 | நான் கேட்கும் பிச்சை! | 1971-05-26 | 178–180 | complete |
+| 0042 | ஜூலை 15! | 1972-07-10 | 181–183 | complete |
+| 0043 | பெருமை எது? | 1972-07-17 | 184–186 | complete |
+| 0044 | வழக்கு ஜோடனை! | 1972-07-22 | 187–191 | complete |
+| 0045 | மதுரை மாட்சி (1) | 1972-08-09 | 192–195 | complete |
+| 0046 | மதுரை மாட்சி (2) | 1972-08-10 | 196–199 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -53,4 +63,6 @@ PDF 144 contains a substantial scan-visible 1938 anti-Hindi movement passage in 
 
 The source also changes address/sign-off form in this range: letters 0033–0035 address `அண்ணா,` and close `தம்பி, / மு. கருணாநிதி.`; letter 0036 begins `உடன் பிறப்பே!` and closes `அன்புள்ள, / மு. கருணாநிதி`.
 
-The scan confirms that letter 0037 — `நீயும் நானும் தூங்குவோமா?` — begins at PDF 161. PDF 161 was inspected only for that boundary; no letter 0037 text is part of the completed 0027–0036 batch.
+In the 0037–0046 batch, PDF 164 contains a fuller source closing sentence than the legacy reading copy, PDF 165 prints `என் உடன்பிறப்பே!` without an internal space, PDF 173 prints a final period after `மு. கருணாநிதி.`, and letters 0043–0046 use the abbreviated `மு. க.` sign-off where printed.
+
+The scan confirms that letter 0047 — `“தாயே எட்டடி என்றால்...”` — begins at PDF 200. PDF 200 was inspected only for that boundary; no letter 0047 text is part of the completed 0037–0046 batch.
