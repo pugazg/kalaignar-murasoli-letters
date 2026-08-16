@@ -19,27 +19,22 @@
 - [x] Main translation batch 8: 3630–3634 verified
 - [x] Main translation batch 9: 3635; 3637 (first); 3637 (second); 3638; 3639 verified
 - [x] Batch 9 bilingual source-alignment review and one required English-only correction complete
-- [x] Main translation batch 10 draft complete: 3640, 3641, 3642, 3643, 3647
-- [x] Batch 10 bilingual source-alignment review complete: 5 / 5 PASS
 - [x] Main translation batch 10: 3640, 3641, 3642, 3643, 3647 verified
-- [ ] Remaining main translation batches
+- [x] Final translation batch draft complete: 3648–3649
+- [ ] Final batch bilingual source-alignment review: 3648–3649
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
 - [ ] Translation manifest and final English release report
 
 ## Current boundary
 
-- English files: **53 / 55 actual source-letter records**
+- English files: **55 / 55 actual source-letter records**
 - Structurally complete verified bilingual records: **53 / 55 actual source records**
-- Draft-translated / bilingual-alignment pending: **0 / 55 actual source records**
+- Draft-translated / bilingual-alignment pending: **2 / 55 actual source records — 3648–3649**
 - Verified source coverage: **3592–3635; 3637 (two distinct source records); 3638–3643; 3647**
-- Batch 10 actual source order: **3640, 3641, 3642, 3643, 3647**
-- Batch 10 source coverage: **PDF 356–387**
-- Batch 10 alignment result: **5 / 5 PASS**
-- Batch 10 English-only corrections required: **0**
-- Complete Tamil appendices embedded in Batch 10: **5 / 5**
-- Source numbering preserved: **3644–3646 are not invented**
-- Canonical Tamil changes caused by Batch 10: **0**
+- Final draft source coverage: **3648–3649 / PDF 388–400**
+- Complete audited Tamil appendices embedded in final batch: **2 / 2**
+- Canonical Tamil changes caused by final drafting: **0**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -55,18 +50,13 @@ Batch 10 review: [BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md](BILINGUAL_ALIGNMENT_R
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 10 — VERIFIED COMPLETE
+## Final translation batch — DRAFT COMPLETE
 
-The five actual source records were reviewed in scan order:
+- **3648 — `விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்!`** — drafted from PDF 388–393 with complete Tamil appendix. The translation preserves the competing acreage/production-loss figures, farmer-organisation statements, *Theekkathir* quotation, Aadi eighteenth-day reference and the review-meeting sarcasm.
+- **3649 — `வழக்கை எதிர்நோக்குகிறோம்!`** — drafted from PDF 394–400 with complete Tamil appendix. The translation preserves the defamation-case argument, six-question Q&A context, repeated rest/Kodanadu distinction, list of cases against political/media targets, source bullet lists of earlier criticisms, and the final Kodanadu questions.
 
-- **3640 — `என்ன நடக்கிறது தமிழகத்தில்?`** — PASS without substantive English correction.
-- **3641 — `குழப்பம் எனக்கூறி குதர்க்கம் விளைக்காதீர்!`** — PASS without substantive English correction.
-- **3642 — `முரசொலி எண்ணிக்கை மும்மடங்கு பெருக வேண்டும்!`** — PASS without substantive English correction.
-- **3643 — `“எல்லாம் நானே” என்பது நல்லோர் போற்றும் வழியல்ல!`** — PASS without substantive English correction.
-- **3647 — `ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!`** — PASS without substantive English correction.
-
-All five contain their complete audited Tamil appendices. The source jump from 3643 directly to 3647 remains preserved; 3644, 3645 and 3646 are not source records in this volume. No canonical Tamil page was changed.
+Both records remain `draft-translated / pending` until their separate bilingual source-alignment review. No canonical Tamil page was changed.
 
 ## Exact next task
 
-Draft the final two actual source records, **3648 and 3649**, in scan order. Embed complete audited Tamil appendices and translator-note blocks from creation, leave both at `draft-translated / pending`, and then perform their final bilingual source-alignment gate before the volume-level editorial consistency review and English release work.
+Perform the final **two-record bilingual source-alignment review for 3648–3649** against the audited Tamil on PDF 388–400. Apply only source-proven English corrections, then promote both records together to `verified / verified` if the gate passes. After that, close volume-level bilingual alignment and begin the editorial-consistency/release phase.
