@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; two five-letter batches bilingual-verified**.
+Status: **main translation in progress; 13 verified letters and Batch 3 awaiting bilingual review**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -22,17 +22,25 @@ Verified:
 - **3603 — மறைமலையார் கருத்தை மறைப்பதோ? / Are They Hiding Maraimalai Adigal's View?** — PDF 95–101.
 - **3604 — என்ன பதில் சொல்லப் போகிறார்? / What Answer Is She Going to Give?** — PDF 102–107.
 
-**English files: 13 / 55.**  
+Draft-translated; bilingual alignment pending:
+
+- **3605 — நாம் தொடங்கிய நடமாடும் கோயில் திருப்பணி! / The Moving-Temple Renovation We Began!** — PDF 108–113.
+- **3606 — விஷம்; ஒரு துளி போதாதா? / Poison; Isn't One Drop Enough?** — PDF 114–127.
+- **3607 — அசந்துதான் போனார்கள்! / They Were Stunned, All Right!** — PDF 128–133.
+- **3608 — திராவிட இயக்க நூற்றாண்டு தொடக்கம்! / Beginning of the Dravidian Movement Centenary!** — PDF 134–139.
+- **3609 — இன எழுச்சிக்கு எடுக்கும் விழா! / A Festival We Hold for Ethnic Awakening!** — PDF 140–145.
+
+**English files: 18 / 55.**  
 **Verified: 13 / 55.**  
-**Current draft-alignment backlog: 0.**
+**Draft/alignment pending: 5 / 55 (3605–3609).**
 
 The pilot review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md). Batch 1 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md). Batch 2 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-## Batch 3600–3604 verification
+## Batch 3605–3609 draft state
 
-The separate bilingual source-alignment pass is complete. Letters 3600, 3601 and 3604 required no substantive English correction. Two English-only revisions were applied: 3602 now renders `தமிழகத்தில் உள்ள மாநகரங்களிலும், நகரங்களிலும்` as **“in the cities and towns of Tamil Nadu”**; 3603 now carries the full rhetorical title **“Are They Hiding Maraimalai Adigal's View?”**.
+The complete five-letter batch has been translated from fidelity-cleared canonical Tamil, covering **PDF 108–145**. Letter 3605 preserves the moving-temple medical-care metaphor and welfare-scheme sequence. Letter 3606 preserves the repeated sarcastic `சாதனை` structure, long court material and source-supplied English newspaper passages, with their Tamil renderings separately translated in full. Letter 3607 preserves the Kudankulam and electricity-project chronologies and closing wordplay. Letter 3608 reproduces the long Murasoli Maran historical passage in full. Letter 3609 preserves the Dravidian Movement centenary historical sequence and closing call for `இன எழுச்சி`.
 
-Letter 3604's source-printed `கூடுதலாக ரூ.2260/எனவும்` remains preserved rather than silently regularised through contextual arithmetic. All five files are now `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was changed during translation or alignment.
+All five are deliberately still `translation_status: draft-translated` and `bilingual_alignment_status: pending`. No canonical Tamil page was changed during this batch.
 
 ## Textual-fidelity completion
 
@@ -42,4 +50,4 @@ Letter 3604's source-printed `கூடுதலாக ரூ.2260/எனவு�
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** draft the next five English letters, **3605–3609**, in one iteration using the locked conventions and fidelity-cleared canonical Tamil. Keep all five draft/pending until their own separate five-letter bilingual alignment review.
+**Exact next task:** perform the complete five-letter bilingual source-alignment review for **3605–3609**. Apply any English-only corrections found, then promote the five letters together only after the gate clears. Do not begin **3610–3614** before that review.
