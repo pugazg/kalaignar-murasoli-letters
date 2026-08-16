@@ -8,9 +8,10 @@ source_pdf_page_start: 37
 source_pdf_page_end: 44
 source_printed_page_start: 36
 source_printed_page_end: 43
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md"
 source_textual_fidelity_audit: "visual-scan-verified"
 ---
 
@@ -36,7 +37,9 @@ Another senior advocate who argued in the High Court for the prisoners facing ex
 
 > “The Chief Minister has the power to reduce Capital Punishment to life in Jail, and it is the right time to convene a Meeting and take a Cabinet Decision; ....... Jayalalithaa can exercise her power to stay the death sentence under Article 161 of the Constitution .... said one of the three advocates, Colin Gonsalves, who appeared before the High Court for the convicts.”
 
-The Tamil explanation printed in the source says, in substance, that the Chief Minister has the authority to reduce a death sentence to life imprisonment; that this is the right time to convene the Cabinet and take a decision; and that Jayalalithaa can exercise her authority under Article 161 of the Constitution to stay the death sentence.
+**Tamil rendering printed immediately after the English quotation in the source:**
+
+> “The Chief Minister has the authority to reduce the death sentence to life imprisonment, and this is the right time to convene the Cabinet and take a decision on it..... Jayalalithaa can exercise the authority under Article 161 of the Constitution to stay the death sentence..... said Mr. Colin Gonsalves, one of the three advocates who argued before the Madras High Court.”
 
 In the statement she read in the Legislative Assembly under Rule 110 on 29 August 2011, Chief Minister Jayalalithaa referred to the decision taken at the Cabinet meeting held under the DMK government on 19 April 2000: clemency could be shown to Nalini alone among those convicted in the Rajiv Gandhi assassination case by commuting her death sentence to life imprisonment, while the mercy petitions of the others could be rejected. Without realising it, she thereby acknowledged that fundamentally it was the DMK government that was responsible for Nalini's death sentence being reduced to life imprisonment. The Supreme Court confirmed the death sentences of these four, including Nalini, on 11 May 1999. Their review petition before the same Supreme Court was dismissed on 8 October 1999. The Governor rejected the mercy petitions they submitted to him on 17 October 1999, doing so on 27 October 1999. In the case filed against this in the Madras High Court, the Court on 25 November 1999 set aside the Governor's rejection order and directed that a fresh order be issued after obtaining the advice of the Cabinet. It was in those circumstances that the DMK Cabinet met and took its decision on 19 April 2000.
 
@@ -77,7 +80,7 @@ Instead of wasting time by clinging firmly to what someone has told her—that s
 1. **Udanpirappē** is retained as Kalaignar's characteristic political-familial address.
 2. The recurring idiom `பூனைக்குட்டி வெளியே வந்துவிட்டது` is translated as **“the kitten has come out of the bag”**, preserving Kalaignar's metaphor and its sense of a concealed position becoming exposed.
 3. The proverb `பூனை இளைத்தால் எலி கூட “மச்சான்” முறை கொண்டாடும்` is translated close to its imagery rather than replaced with an unrelated English proverb.
-4. The Colin Gonsalves passage printed in English in the Tamil source is reproduced verbatim, including its source capitalization and ellipses. The Tamil parenthetical explanation that follows is represented separately rather than silently discarded.
+4. The Colin Gonsalves passage printed in English in the Tamil source is reproduced verbatim, including its source capitalization and ellipses. The Tamil parenthetical rendering that follows is also translated in full rather than summarized.
 5. Long quotations attributed in the letter to Jayalalithaa, Thiyagu and Chozhanambiyar are translated from the audited canonical Tamil as printed; no outside versions have been substituted.
 6. The parenthetical note printed **after** `30-10-2011` is preserved as source text rather than treated as material outside the letter record.
 
