@@ -8,9 +8,9 @@ source_pdf_page_start: 206
 source_pdf_page_end: 213
 source_printed_page_start: 205
 source_printed_page_end: 212
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s Assembly rebuttal, conference comparison, month-name argument, Tolkappiyam references, dictionary citations, historical chronology, named scholars and closing appeal are preserved in source order. Attributed claims and etymological/historical arguments remain those of the source and are not externally corrected. The complete audited Tamil remains authoritative. This draft awaits separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s Assembly rebuttal, conference comparison, month-name argument, Tolkappiyam references, dictionary citations, historical chronology, named scholars and closing appeal are preserved in source order. Attributed claims and etymological/historical arguments remain those of the source and are not externally corrected. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3618](../../../chapters/3618-unmai-thamizhar-unarnthe-theervar.md)  
 **Source pages:** [PDF 206](../../../pages/page-206.md)–[PDF 213](../../../pages/page-213.md)  
@@ -89,7 +89,7 @@ To attempt to erase the true identity of Tamils is injustice! To try to invent f
 
 1. The source’s polemical terms—including `சமாளிப்புகள்`, `காதில் பூ சுற்ற`, `தன்னிச்சையாக`, and `தான்தோன்றித்தனமாக`—are rendered for rhetorical force without converting the letter into neutral exposition.
 2. Tolkappiyam phrases and the grammatical labels concerning month-name endings are retained in Tamil alongside an English explanation rather than reconstructed from an external edition.
-3. Names, dates and historical claims are preserved from the canonical Tamil as printed; this draft does not independently reconcile the source’s chronology.
+3. Names, dates and historical claims are preserved from the canonical Tamil as printed; no independent reconciliation of the source’s chronology is introduced.
 4. `உண்மைத் தமிழர்` is rendered as **True Tamils**, preserving Kalaignar’s direct rhetorical category in the title and close.
 
 ## Original Tamil — மூலத் தமிழ்
