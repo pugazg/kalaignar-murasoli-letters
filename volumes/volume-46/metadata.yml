@@ -50,7 +50,11 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_326_350.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_376_402.md"
-translation_status: "not-started"
+translation_status: "in-progress"
+translated_letter_range: "3592"
+translated_letter_count: 1
+source_checked_letter_count: 0
+verified_translation_count: 0
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -65,4 +69,4 @@ source_observations:
   - "The full-volume Tamil structural audit passed on 2026-08-15."
   - "The second visual/textual-fidelity pass is complete for PDF 001-402 / 402 and required 29 corrected canonical pages / 32 corrected spans."
   - "Final fidelity correction: PDF 385 first-pass 'பேரினால் பாதிக்கப்பட்டும்' corrected to source 'போரினால் பாதிக்கப்பட்டும்'."
-  - "English translation has not started; the Tamil fidelity gate is now cleared."
+  - "English translation pilot started with source-fidelity-cleared letter 3592; bilingual source check remains pending."
