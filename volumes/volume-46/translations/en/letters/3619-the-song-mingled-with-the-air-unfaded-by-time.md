@@ -8,9 +8,9 @@ source_pdf_page_start: 214
 source_pdf_page_end: 220
 source_printed_page_start: 213
 source_printed_page_end: 219
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s follow-up argument on Separate Tamil Eelam, the history and political claims he invokes, his discussion of repeated Sri Lankan promises, the 1976–1977 electoral sequence, the Cuba comparison, Erode Tamilanban’s verse and the closing democratic-referendum argument are preserved in source order. Historical and political assertions are represented as the source presents them and are not independently adjudicated. The complete audited Tamil remains authoritative. This draft awaits separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s follow-up argument on Separate Tamil Eelam, the history and political claims he invokes, his discussion of repeated Sri Lankan promises, the 1976–1977 electoral sequence, the Cuba comparison, Erode Tamilanban’s verse and the closing democratic-referendum argument are preserved in source order. Historical and political assertions are represented as the source presents them and are not independently adjudicated. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3619](../../../chapters/3619-kaalaththaal-maraiyaatha-kaatril-kalantha-geetham.md)  
 **Source pages:** [PDF 214](../../../pages/page-214.md)–[PDF 220](../../../pages/page-220.md)  
@@ -84,7 +84,7 @@ In the liberation struggle of Bangladesh, called “Sonar Bangla,” did I deman
 
 ## Letter-specific notes
 
-1. Historical, demographic and political assertions are translated as Kalaignar’s/source claims and are not independently verified or reconciled in this archival draft.
+1. Historical, demographic and political assertions are translated as Kalaignar’s/source claims and are not independently verified or reconciled.
 2. The source chronology on PDF 218 is preserved explicitly: the election is in **1977**, after the **1976 Vaddukottai conference**; it is not silently altered.
 3. Erode Tamilanban’s verse is translated directly from the canonical Tamil, retaining the veena/song/air metaphor that drives Kalaignar’s title and conclusion.
 4. `தனித் தமிழ் ஈழம்` is rendered consistently as **Separate Tamil Eelam**, following the convention established in Letter 3616.
