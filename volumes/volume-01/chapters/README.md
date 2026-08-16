@@ -80,6 +80,16 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0074 | குறள் மறவோம்! | 1973-12-16 | 283–284 | complete |
 | 0075 | உன் எதிரே! | 1973-12-18 | 285–286 | complete |
 | 0076 | தட்டிக் கேட்கலாமா? | 1973-12-20 | 287–288 | complete |
+| 0077 | பெரியாரின் வெற்றி! | 1973-12-26 | 289–290 | complete |
+| 0078 | நம்மை வென்றாரா? | 1973-12-28 | 291–292 | complete |
+| 0079 | இருபதாயிரம் பாடி வீடுகள்! | 1974-01-01 | 293–295 | complete |
+| 0080 | கொள்கை மலர்கள் | 1974-01-04 | 296–297 | complete |
+| 0081 | தெள்ளிய ஆலின் சிறு பழத்தொரு விதை! | 1974-01-10 | 298–300 | complete |
+| 0082 | பொங்கல் உறுதி! | 1974-01-14 | 301 | complete |
+| 0083 | காண வருகிறேன் உன்னை! | 1974-02-11 | 302–304 | complete |
+| 0084 | ‘தொய்வு இல்லை! தொடர்க பயணம்!’ | 1974-03-05 | 305–307 | complete |
+| 0085 | “எல்லா மலர்களும் ரோஜா மலர்களே!” | 1974-03-19 | 308–309 | complete |
+| 0086 | மே தின வாழ்த்து! | 1974-05-01 | 310–312 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -95,4 +105,4 @@ The source changes address/sign-off form across the volume; source-visible forms
 
 The user explicitly approved an expanded 20-letter scope for the completed **0057–0076 / PDF 236–288** iteration. Letter 0063 has no date printed in the source and is deliberately not assigned one. Scan-controlled divergences and typographic forms in this range are recorded in [`../AUDIT.md`](../AUDIT.md).
 
-The scan confirms that letter 0077 — `பெரியாரின் வெற்றி!` — begins at PDF 289 with salutation `உடன் பிறப்பே,`. PDF 289 was inspected only for that boundary; no letter 0077 text is part of the completed 0057–0076 batch.
+The scan confirms that letters 0077–0086 are complete through PDF 312. PDF 313 begins letter 0087 — `‘நமது நிலை’!` — with salutation `உடன் பிறப்பே,`; no PDF-313 text is part of the completed 0077–0086 batch.

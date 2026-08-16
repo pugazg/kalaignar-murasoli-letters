@@ -212,7 +212,7 @@ Checks performed and source anomalies recorded:
 - PDF 188 uses decorative markers for the eight-item accusation list; the canonical page preserves the list structure rather than flattening it into prose;
 - letters 0043–0046 use the abbreviated `மு. க.` sign-off where printed; these forms are retained;
 - no silent modernisation, correction, regularisation or reconstruction was applied to source-supported wording, punctuation, names, dates, quotations or typography;
-- PDF 200 was inspected only enough to verify the start of 0047 — actual heading `“தாயே எட்டடி என்றால்...”`, salutation `உடன் பிறப்பே,`; no PDF-200 or letter-0047 text is committed in this batch;
+- PDF 200 was inspected only enough to verify the start of 0047 — actual heading `“தாயே எட்டடி என்றால்...”`, salutation `உடன்பிறப்பே,`; no PDF-200 or letter-0047 text is committed in this batch;
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
 
@@ -248,7 +248,7 @@ Checks performed and source anomalies recorded:
 - PDF 228 prints `(6908) ஆறாயிரத்துத்தொள்ளாயிரத்து எட்டு`; the unusual joined wording is retained rather than replaced by the legacy reading copy's spaced form;
 - PDF 232 prints the closing rhetorical passage in bold; that emphasis is retained;
 - source-supported spacing, punctuation, abbreviations and sign-off forms are preserved, including abbreviated `மு. க.` where printed;
-- PDF 236 was inspected only enough to verify the start of 0057 — actual heading `“பிறந்த நாள் வேண்டுகோள்!”`, salutation `உடன் பிறப்பே,`; no PDF-236 or letter-0057 text is committed in this batch;
+- PDF 236 was inspected only enough to verify the start of 0057 — actual heading `“பிறந்த நாள் வேண்டுகோள்!”`, salutation `உடன்பிறப்பே,`; no PDF-236 or letter-0057 text is committed in this batch;
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
 
@@ -302,8 +302,43 @@ Checks performed and source anomalies recorded:
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain blocked/unstarted as required.
 
+## Iteration 10 — sixth regular Volume 1 ten-letter batch: 0077–0086
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0077 — `பெரியாரின் வெற்றி!`: PDF **289–290**, date **26-12-1973**;
+- 0078 — `நம்மை வென்றாரா?`: PDF **291–292**, date **28-12-1973**;
+- 0079 — `இருபதாயிரம் பாடி வீடுகள்!`: PDF **293–295**, date **01-01-1974**;
+- 0080 — `கொள்கை மலர்கள்`: PDF **296–297**, date **04-01-1974**;
+- 0081 — `தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!`: PDF **298–300**, date **10-01-1974**;
+- 0082 — `பொங்கல் உறுதி!`: PDF **301**, date **14-01-1974**;
+- 0083 — `காண வருகிறேன் உன்னை!`: PDF **302–304**, date **11-02-1974**;
+- 0084 — `‘தொய்வு இல்லை! தொடர்க பயணம்!’`: PDF **305–307**, date **05-03-1974**;
+- 0085 — `“எல்லா மலர்களும் ரோஜா மலர்களே!”`: PDF **308–309**, date **19-03-1974**;
+- 0086 — `மே தின வாழ்த்து!`: PDF **310–312**, date **01-05-1974**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **289–312**: **24 / 24**;
+- all ten heading pages, salutations, continuation pages, sign-offs and printed dates were visually checked against the controlling scan;
+- PDF 294 prints `அறை கூவல்`, `நியாய நெஞ்சும்`, and the closing form `வலிப்பு நோய் ஆவான்...`; these scan forms control over the legacy reading copy;
+- PDF 297 prints `தன்னலமற்ற-கண்ணயராத` without spaces around the hyphen;
+- PDF 299 prints `சட்டம் பயின்றோர்-அரசியல்`, `எங்கள் களைப்பையெல்லாம்`, and `மாநிலத்தில் சுயாட்சி-மத்தியிலே கூட்டாட்சி`; PDF 300 prints `ராஜ மன்னார்` and `செழியன்-மாறன்`;
+- PDF 301 prints `“நல்லவர்”(?)களுக்கும்` without inserted spaces;
+- PDF 302 uses decorative three-dot markers for its five campaign-summary lines; PDF 303 visually emphasizes repeated `ஊழல்` forms and prints `உழைப்புக்கு சொந்தக்காரனாகிய`;
+- PDF 304 preserves the source lineation of `வீரனே! / தீரனே! / வெற்றிச் சரிதம் / படைக்கும் என் / அன்பு உடன்பிறப்பே!`;
+- PDFs 306–307 preserve source punctuation and hyphenation including `வீட்டு விளக்கு-வீதி`, `தாண்டுகிறது-`, `கடாட்சத்தால்!-`, and `இவைகளைத் தான்`; source-visible bold scheme and closing passages are represented in Markdown;
+- PDFs 308–309 preserve the bold election passages, `மேலவை-மாநிலங்கள்`, the lineated principle block, and `மலர்கள் தான்`;
+- PDFs 310–312 preserve mixed source hyphenation including `மேடைகளில்-ஏடுகளில்`, `பொறுப்பு-முதலீட்டில்`, `அரசுத்துறையில்- குறிப்பாக`, and `மத்திய-மாநில`; PDF 312 prints a colon after `தடைப்பட்டன`;
+- PDF 313 was inspected only enough to verify the next boundary: actual heading `87. ‘நமது நிலை’!`, salutation `உடன் பிறப்பே,`; no PDF-313 or letter-0087 text is committed in this iteration;
+- no silent modernisation, correction, regularisation or reconstruction was applied to source-supported spelling, spacing, punctuation, emphasis or typography;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain blocked/unstarted as required.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–288 / 401**. Letters **0001–0076** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF **289** with letter **0077 — `பெரியாரின் வெற்றி!`**. Unless the user separately expands the scope again, return to the standing **10-letter** Volume 1 cadence for letters **0077–0086**, stopping before letter 0087.
+Canonical PDF coverage is **001–312 / 401**. Letters **0001–0086** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF **313** with letter **0087 — `‘நமது நிலை’!`** and follows the standing **10-letter** rule for letters **0087–0096**, stopping before letter 0097.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.

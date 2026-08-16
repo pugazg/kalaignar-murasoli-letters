@@ -22,18 +22,18 @@ legacy_bilingual_record_count: 110
 legacy_translation_audit_passed: true
 volume_specific_batch_size: 10
 volume_specific_batch_rule: "Volume 1 only: regular migration/review iterations use 10 complete consecutive letters; documented final residue may be smaller. User explicitly approved one expanded 20-letter iteration for 0057-0076."
-transcription_page_range: "1-288"
+transcription_page_range: "1-312"
 transcription_status: "in-progress"
 recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
-completed_letter_range: "1-76"
-completed_letter_count: 76
+completed_letter_range: "1-86"
+completed_letter_count: 86
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
 source_printed_pagination_anomalies:
   - "PDF 39 prints page 38; PDF 40 prints page 40. Printed page number 39 is skipped, but text is continuous across the boundary."
-audit_status: "volume-01-expanded-twenty-letter-batch-0057-0076-complete"
+audit_status: "volume-01-ten-letter-batch-0077-0086-complete"
 audit_date: 2026-08-16
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -53,7 +53,7 @@ source_observations:
   - "PDF pages 18-23 contain the printed contents with 110 entries."
   - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
   - "Letter 1 begins at PDF page 24 / printed page 23 and closes at PDF page 27 / printed page 26 with sign-off and date."
-  - "Letters 2-76 are visually boundary-verified and canonically migrated through PDF page 288."
+  - "Letters 2-86 are visually boundary-verified and canonically migrated through PDF page 312."
   - "The source visibly skips printed page number 39 between PDF pages 39 and 40, but the text is continuous; no missing content is inferred."
   - "Actual page heading controls over contents variants; letters 8, 12 and 24 demonstrate this rule."
   - "PDF page 95 contains deliberate censored ellipses; they are preserved without reconstruction."
@@ -84,5 +84,14 @@ source_observations:
   - "PDF page 276 contains an English judicial quotation beginning That the dead body found, in the reservoir; it is preserved verbatim."
   - "PDF page 277 contains the printed English Becosules/Capsule ingredient list and mixed Tamil-English spellings; these are preserved without normalization."
   - "PDF pages 279-280 preserve the printed Bharathidasan poem lineation and no-space hyphenation in forms such as காண்-தோள்கள் and கூட்டம்-."
-  - "PDF page 289 visibly begins letter 77 with the actual heading பெரியாரின் வெற்றி! and salutation உடன் பிறப்பே, confirming the boundary after letter 76; no letter 77 text is committed in the 0057-0076 batch."
+  - "PDF page 289 begins letter 77 with the actual heading பெரியாரின் வெற்றி!. Letters 77-86 are now canonically migrated through PDF 312."
+  - "PDF page 294 prints அறை கூவல் and நியாய நெஞ்சும், and ends வலிப்பு நோய் ஆவான்... with an ellipsis; these scan forms control over the legacy reading copy."
+  - "PDF page 297 prints the joined form தன்னலமற்ற-கண்ணயராத."
+  - "PDF page 299 prints சட்டம் பயின்றோர்-அரசியல், எங்கள் களைப்பையெல்லாம், and மாநிலத்தில் சுயாட்சி-மத்தியிலே கூட்டாட்சி; PDF 300 prints ராஜ மன்னார் and செழியன்-மாறன்."
+  - "PDF page 301 prints “நல்லவர்”(?)களுக்கும் without inserted spaces."
+  - "PDF page 302 uses decorative three-dot markers for its five-item campaign list; PDF 303 visually emphasizes repeated ஊழல் forms and prints உழைப்புக்கு சொந்தக்காரனாகிய."
+  - "PDF pages 306-307 preserve source punctuation/hyphenation such as வீட்டு விளக்கு-வீதி, தாண்டுகிறது-, கடாட்சத்தால்!-, and இவைகளைத் தான், together with bold scheme/closing passages."
+  - "PDF pages 308-309 preserve source-visible bold passages, மேலவை-மாநிலங்கள், the lineated election-principles block, and மலர்கள் தான்."
+  - "PDF pages 310-312 preserve mixed source hyphenation including மேடைகளில்-ஏடுகளில், பொறுப்பு-முதலீட்டில், அரசுத்துறையில்- குறிப்பாக, and மத்திய-மாநில; PDF 312 prints a colon after தடைப்பட்டன."
+  - "PDF page 313 visibly begins letter 87 with the actual heading ‘நமது நிலை’! and salutation உடன் பிறப்பே, confirming the boundary after letter 86; no letter 87 text is committed in the 0077-0086 batch."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."
