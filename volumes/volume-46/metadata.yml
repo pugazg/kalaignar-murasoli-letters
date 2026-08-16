@@ -55,16 +55,16 @@ translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
 translated_letter_range: "3592-3634"
 translated_letter_count: 43
-source_checked_letter_count: 38
-verified_translation_count: 38
-structurally_complete_verified_count: 38
-structurally_complete_verified_range: "3592-3629"
+source_checked_letter_count: 43
+verified_translation_count: 43
+structurally_complete_verified_count: 43
+structurally_complete_verified_range: "3592-3634"
 structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: null
-draft_alignment_pending_range: "3630-3634"
+draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
-bilingual_alignment_reviewed_range: "3592-3629"
-bilingual_alignment_verified_range: "3592-3629"
+bilingual_alignment_reviewed_range: "3592-3634"
+bilingual_alignment_verified_range: "3592-3634"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -95,15 +95,15 @@ source_observations:
   - "Sixth normal five-letter translation batch 3620-3624 is source-checked, bilingual-alignment verified, and structurally repaired."
   - "Batch 3620-3624 covers PDF 221-261; complete canonical Tamil appendices and translator-note blocks are present in all five bilingual records."
   - "Letter 3623 received two English corrections: the repeated source title ending is preserved as 'A Political Turn; What Happened That Day? What?', and 'அதை அப்படியே இங்கே தந்துள்ளேன்' is rendered 'I reproduce it here exactly.'"
-  - "The bilingual-record structural regression identified across 3610-3624 is fully closed; all verified English records through 3629 are structurally complete."
+  - "The bilingual-record structural regression identified across 3610-3624 is fully closed; all verified English records through 3634 are structurally complete."
   - "Seventh normal five-letter translation batch 3625-3629 is source-checked and bilingual-alignment verified."
   - "Batch 3625-3629 covers PDF 262-295 and all five records contain translator-note blocks and complete fidelity-cleared Tamil appendices."
   - "Letter 3625 preserves the actual letter heading 'ஒரு சுயமரியாதைக்காரனின் சூளுரை!' separately from the differing printed-contents form."
   - "Batch 3625-3629 required one English-only correction in 3626: the source-printed 26-10-2010 AITUC participant names were restored instead of being compressed to generic representatives; canonical Tamil did not change."
   - "Batch 3625-3629 caused no canonical Tamil changes."
-  - "Eighth normal five-letter translation batch 3630-3634 is draft-translated and awaits bilingual source alignment."
+  - "Eighth normal five-letter translation batch 3630-3634 is source-checked and bilingual-alignment verified."
   - "Batch 3630-3634 covers PDF 296-328 and all five bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices from creation."
-  - "Letter 3631 preserves the source-printed English High Court passage and separately translates the Tamil rendering that follows it."
+  - "Batch 3630-3634 required two English-only corrections in 3631: 'நீங்கள் தான் குற்றவாளி' was restored with its direct accusatory force, and the source-printed Tamil rendering following the English The Hindu passage was translated separately and in full rather than summarized."
   - "Letter 3634 preserves the actual semicolon heading separately from the differing printed-contents comma form and retains the long source-printed arrested-person list without compression."
   - "Batch 3630-3634 caused no canonical Tamil changes."
-  - "Next task is bilingual source-alignment review for 3630-3634 before drafting 3635 onward."
+  - "Next task is the next five actual source-letter records beginning with 3635; source numbering anomalies must be preserved, including no 3636 and two distinct 3637 records."
