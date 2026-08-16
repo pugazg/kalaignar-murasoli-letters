@@ -8,9 +8,9 @@ source_pdf_page_start: 267
 source_pdf_page_end: 272
 source_printed_page_start: 266
 source_printed_page_end: 271
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The Neyveli contract-workers chronology, organisation names, wage figures, power-generation figures, parliamentary interventions and Kalaignar’s contrast between the 2008/2010 DMK interventions and the 2012 State Government response are preserved in source order. Printed English organisation labels are retained as source-supported terms. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. The Neyveli contract-workers chronology, organisation names, wage figures, power-generation figures, parliamentary interventions and Kalaignar’s contrast between the 2008/2010 DMK interventions and the 2012 State Government response are preserved in source order. Printed English organisation labels are retained as source-supported terms. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete; the source-printed participant names in the 26 October 2010 Secretariat meeting are retained in full.
 
 **Tamil source:** [Letter 3626](../../../chapters/3626-maanila-arase-seyalpadaatha-nilaiyil.md)  
 **Source pages:** [PDF 267](../../../pages/page-267.md)–[PDF 272](../../../pages/page-272.md)  
