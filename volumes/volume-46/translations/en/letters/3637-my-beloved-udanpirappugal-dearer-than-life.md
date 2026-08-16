@@ -9,9 +9,9 @@ source_pdf_page_start: 343
 source_pdf_page_end: 343
 source_printed_page_start: 342
 source_printed_page_end: 342
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -20,7 +20,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This is the second distinct consecutive source item printed as letter number 3637. Its one-page proclamation-like form, lineation, repetition and handwritten-signature placeholder are preserved rather than regularised into an ordinary letter. The actual page heading `உடன்பிறப்புக்களே!` differs from the printed-contents form `உடன்பிறப்புக்கள்!`; the actual heading controls here. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This is the second distinct consecutive source item printed as letter number 3637. Its one-page proclamation-like form, lineation, repetition and handwritten-signature placeholder are preserved rather than regularised into an ordinary letter. The actual page heading `உடன்பிறப்புக்களே!` differs from the printed-contents form `உடன்பிறப்புக்கள்!`; the actual heading controls here. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source page.
 
 **Tamil source:** [Second source Letter 3637](../../../chapters/3637-en-uyirinumelana-anbu-udanpirappukkale.md)  
 **Source page:** [PDF 343](../../../pages/page-343.md)  
@@ -34,7 +34,7 @@ To teach a lesson to the lawless AIADMK rulers,
 accepting this humble one’s appeal—
 **rally in ranks, fill the prisons;**
 
-**Behold! The pride of Tamil lions has set forth!**
+**Behold! The host of Tamil lions has set forth!**
 
 Where is that prison?
 Is there enough room there for us too?
