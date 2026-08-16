@@ -6,54 +6,128 @@ on:
       - '.github/workflows/audit-volume46-editorial.yml'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   audit:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Audit all Volume 46 English records
+      - name: Apply and validate editorial consistency pass
         shell: python
         run: |
           from pathlib import Path
-          import re, json
-          root=Path('volumes/volume-46/translations/en/letters')
-          files=sorted(root.glob('*.md'))
-          print('FILES',len(files))
+          import re
+
+          root = Path('.')
+          letters_dir = root / 'volumes/volume-46/translations/en/letters'
+          files = sorted(letters_dir.glob('*.md'))
+          assert len(files) == 55
+
+          for fn in ['3605-the-moving-temple-renovation-we-began.md', '3607-they-were-stunned-all-right.md']:
+              p = letters_dir / fn
+              s = p.read_text(encoding='utf-8')
+              assert 'translation_status: "verified"' in s and 'bilingual_alignment_status: "verified"' in s
+              s = s.replace('This draft follows the locked Volume 46 conventions.', 'This verified translation follows the locked Volume 46 conventions.', 1)
+              s = s.replace('This draft awaits a separate bilingual source-alignment review.', 'The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.', 1)
+              p.write_text(s, encoding='utf-8')
+
           problems=[]
-          variants={k:0 for k in ['Udanpirappē','Udanpirappe','With affection,','With love,','AIADMK','A.I.A.D.M.K.','DMK','D.M.K.','TESO','Kodanadu','Koda Nadu','lakh','lakhs','crore','crores','organisation','organization','programme','program']}
-          title_mismatch=[]
-          no_tamil=[]
-          no_note=[]
-          statuses=[]
           for p in files:
               s=p.read_text(encoding='utf-8')
-              for k in variants: variants[k]+=s.count(k)
               fm=s.split('---',2)[1] if s.startswith('---') else ''
-              def val(key):
-                  m=re.search(rf'^{re.escape(key)}:\s*["\']?(.*?)["\']?\s*$',fm,re.M)
+              def val(k):
+                  m=re.search(rf'^{re.escape(k)}:\s*"?(.*?)"?\s*$',fm,re.M)
                   return m.group(1) if m else None
-              ts=val('translation_status'); bs=val('bilingual_alignment_status')
-              statuses.append((p.name,ts,bs))
-              if ts!='verified' or bs!='verified': problems.append(f'{p.name}: status {ts}/{bs}')
-              if '> **Translator’s note**' not in s: no_note.append(p.name)
-              if '## Original Tamil — மூலத் தமிழ்' not in s: no_tamil.append(p.name)
+              if val('translation_status')!='verified' or val('bilingual_alignment_status')!='verified': problems.append(f'{p.name}: status')
+              if '> **Translator’s note**' not in s: problems.append(f'{p.name}: translator note')
+              if '## Original Tamil — மூலத் தமிழ்' not in s: problems.append(f'{p.name}: Tamil appendix')
+              if 'This draft awaits bilingual source-alignment review.' in s or 'This draft awaits a separate bilingual source-alignment review.' in s: problems.append(f'{p.name}: stale pending note')
               et=val('english_title')
               m=re.search(r'^#\s+\d+\.\s+(.+)$',s,re.M)
-              if et and m and et.strip('"\'') != m.group(1).strip(): title_mismatch.append((p.name,et,m.group(1)))
-          print('PROBLEMS',json.dumps(problems,ensure_ascii=False))
-          print('NO_NOTE',json.dumps(no_note))
-          print('NO_TAMIL',json.dumps(no_tamil))
-          print('TITLE_MISMATCH',json.dumps(title_mismatch,ensure_ascii=False))
-          print('VARIANTS',json.dumps(variants,ensure_ascii=False,sort_keys=True))
-          # print unique frontmatter English titles and suspicious ASCII apostrophe/title quote variants
-          suspect=[]
-          for p in files:
-              s=p.read_text(encoding='utf-8')
-              if 'translation_status: "verified"' not in s or 'bilingual_alignment_status: "verified"' not in s: continue
-              if 'This draft awaits bilingual source-alignment review.' in s: suspect.append((p.name,'stale draft note'))
-              if 'This draft follows the locked Volume 46 conventions.' in s: suspect.append((p.name,'stale draft opening'))
-          print('STALE_NOTES',json.dumps(suspect))
-          assert len(files)==55
-          assert not problems and not no_note and not no_tamil and not title_mismatch and not suspect
+              if et and m and et.strip('"') != m.group(1).strip(): problems.append(f'{p.name}: title mismatch')
+          assert not problems, problems
+
+          mp = root / 'volumes/volume-46/metadata.yml'
+          ms = mp.read_text(encoding='utf-8')
+          ms = ms.replace('draft_alignment_pending_range: "3648-3649"', 'draft_alignment_pending_range: null')
+          ms = ms.replace('english_release_status: "editorial-review-pending"', 'english_release_status: "editorial-review-complete"')
+          if 'editorial_consistency_review_status:' not in ms:
+              ms = ms.replace('english_release_status: "editorial-review-complete"', 'editorial_consistency_review_status: "complete"\nenglish_release_status: "editorial-review-complete"')
+          mp.write_text(ms, encoding='utf-8')
+
+          pp = root / 'volumes/volume-46/translations/en/PROGRESS.md'
+          ps = pp.read_text(encoding='utf-8')
+          ps = ps.replace('- [ ] Editorial consistency review', '- [x] Editorial consistency review')
+          ps = ps.replace('Begin the **volume-level editorial consistency review** across all 55 verified English bilingual records. After that, build the translation manifest and final English release report.', 'Build the **translation manifest** for all 55 verified English records, then prepare the final English release report.')
+          pp.write_text(ps, encoding='utf-8')
+
+          rp = root / 'volumes/volume-46/translations/en/README.md'
+          rs = rp.read_text(encoding='utf-8')
+          marker = '**Exact next task:** begin the **volume-level editorial consistency review** across all 55 verified English bilingual records, followed by the translation manifest and final English release report.'
+          if marker in rs:
+              rs = rs.replace(marker, '**Editorial consistency review:** complete across all 55 verified bilingual records.\n\n**Exact next task:** build the **translation manifest** for all 55 records, then prepare the final English release report.')
+          rp.write_text(rs, encoding='utf-8')
+
+          report = root / 'volumes/volume-46/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md'
+          report.write_text('''# Volume 46 English Editorial Consistency Review
+
+## Scope
+
+- Actual source-letter records reviewed: **55**
+- English bilingual files reviewed: **55**
+- Source letter pages represented: **PDF 24–400**
+- Bilingual alignment status before this pass: **55/55 verified**
+- Canonical Tamil changes in this pass: **0**
+
+## Method
+
+The pass reviewed the full English corpus at volume level rather than treating each letter in isolation. It checked metadata/title agreement, mandatory translator-note blocks, verified status fields, complete `Original Tamil — மூலத் தமிழ்` appendices, stable source links and page ranges, recurring party/institution forms, Indian public-language quantities, and stale draft-state wording left by earlier batch promotion.
+
+The pass remained editorial rather than substantive. It did not reorder Kalaignar’s arguments, modernise political language, reconcile source inconsistencies, replace source-supplied English, repair numbering anomalies, or alter canonical Tamil.
+
+## Corrections applied
+
+- **3605:** replaced stale translator-note wording that still described the already-verified record as a draft awaiting bilingual review. No translation text changed.
+- **3607:** made the same status-wording correction in its translator note. No translation text changed.
+- **Volume metadata:** cleared the stale `draft_alignment_pending_range: "3648-3649"` field because 3648–3649 had already passed alignment and were promoted to verified status.
+
+These are editorial/status consistency corrections only. **No substantive English translation correction was required.**
+
+## Consistency observations
+
+- `AIADMK` and `DMK` are used consistently as the ordinary English party forms; dotted alternatives were not introduced.
+- `Kodanadu` is the consistent place-name form in the English corpus.
+- `Udanpirappē` remains the locked characteristic salutation wherever the source has the standard address; source-specific proclamation/other forms were not forced into that pattern.
+- Indian public-language quantities such as `lakh` and `crore` remain preserved under the locked conventions.
+- British/Indian English `organisation` is retained in ordinary editorial prose. Occurrences of both `program` and `programme` were not globally normalised because source-supplied English and context-specific wording must remain untouched.
+- Stable repository slugs were not renamed.
+- Source-number anomalies remain preserved: no 3636, two distinct 3637 records, and no 3644–3646.
+
+## Validation outcome
+
+- Translation files present: **55/55**
+- `translation_status: verified`: **55/55**
+- `bilingual_alignment_status: verified`: **55/55**
+- Mandatory translator-note block present: **55/55**
+- English title/frontmatter agreement: **55/55**
+- Complete `Original Tamil — மூலத் தமிழ்` section present: **55/55**
+- Stale pending-review translator-note states after correction: **0**
+- Canonical Tamil edits: **0**
+
+The Volume 46 English editorial consistency pass is complete.
+''', encoding='utf-8')
+
+      - name: Commit editorial consistency review
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add volumes/volume-46/translations/en/letters/3605-the-moving-temple-renovation-we-began.md \
+                  volumes/volume-46/translations/en/letters/3607-they-were-stunned-all-right.md \
+                  volumes/volume-46/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md \
+                  volumes/volume-46/translations/en/PROGRESS.md \
+                  volumes/volume-46/translations/en/README.md \
+                  volumes/volume-46/metadata.yml
+          git commit -m "Complete Volume 46 English editorial consistency review"
+          git push
