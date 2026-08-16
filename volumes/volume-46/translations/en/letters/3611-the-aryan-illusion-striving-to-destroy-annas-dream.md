@@ -8,9 +8,9 @@ source_pdf_page_start: 156
 source_pdf_page_end: 162
 source_printed_page_start: 155
 source_printed_page_end: 161
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The Sethu Samudram chronology, election-manifesto quotations, court passage, references to Adam's Bridge/Ramar Bridge, and Kalaignar's closing `ஆரியமாயை` wordplay are preserved from the canonical source without outside correction. The complete audited Tamil remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. The Sethu Samudram chronology, election-manifesto quotations, court passage, references to Adam's Bridge/Ramar Bridge, and Kalaignar's closing `ஆரியமாயை` wordplay are preserved from the canonical source without outside correction. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3611](../../../chapters/3611-annavin-kanavai-azhikka-thudikkum-aariyamaayai.md)  
 **Source pages:** [PDF 156](../../../pages/page-156.md)–[PDF 162](../../../pages/page-162.md)  
