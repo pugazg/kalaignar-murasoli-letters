@@ -8,9 +8,9 @@ source_pdf_page_start: 88
 source_pdf_page_end: 94
 source_printed_page_start: 87
 source_printed_page_end: 93
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 translation conventions. Dates, figures, court directions, quoted English wording embedded in the Tamil source, institutional terms and the chronological sequence of the Mullai Periyar account are preserved without outside correction or supplementation. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 translation conventions. Dates, figures, court directions, quoted English wording embedded in the Tamil source, institutional terms and the chronological sequence of the Mullai Periyar account are preserved without outside correction or supplementation. The complete audited Tamil follows and remains authoritative. Bilingual source alignment has been verified.
 
 **Tamil source:** [Letter 3602](../../../chapters/3602-aravazhi-amaithi-vazhi-athuve-anna-vazhi.md)  
 **Source pages:** [PDF 88](../../../pages/page-088.md)–[PDF 94](../../../pages/page-094.md)  
@@ -27,7 +27,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 **Udanpirappē,**
 
-I had told reporters that if the Kerala Government and the Central Government did not stop the acts of violence taking place in Kerala against the people of Tamil Nadu, and if the violence in Kerala continued, the Kazhagam Executive Committee would meet and take an appropriate decision. Accordingly, on the 9th, the Kazhagam Executive Committee met. To establish Tamil Nadu's firm stand on this issue and draw the immediate attention of the Central Government, we resolved to observe a one-day fast in the corporations and towns of Tamil Nadu on 12 December 2011, from 8 a.m. to 5 p.m. We also resolved that, following this, a massive human-chain procession would be held on the 15th, from 3 p.m. to 5 p.m., in the districts of Theni, Madurai, Sivaganga, Dindigul and Ramanathapuram, which receive irrigation facilities from the Mullai Periyar Dam.
+I had told reporters that if the Kerala Government and the Central Government did not stop the acts of violence taking place in Kerala against the people of Tamil Nadu, and if the violence in Kerala continued, the Kazhagam Executive Committee would meet and take an appropriate decision. Accordingly, on the 9th, the Kazhagam Executive Committee met. To establish Tamil Nadu's firm stand on this issue and draw the immediate attention of the Central Government, we resolved to observe a one-day fast in the cities and towns of Tamil Nadu on 12 December 2011, from 8 a.m. to 5 p.m. We also resolved that, following this, a massive human-chain procession would be held on the 15th, from 3 p.m. to 5 p.m., in the districts of Theni, Madurai, Sivaganga, Dindigul and Ramanathapuram, which receive irrigation facilities from the Mullai Periyar Dam.
 
 In Chennai, the capital of Tamil Nadu, the fast to be held at Anna Arivalayam on behalf of the North Chennai and South Chennai districts will be inaugurated by our Kazhagam General Secretary, the Professor of Self-Respect; and in the evening I will conclude the fast and address the gathering. I would indeed like to sit with you in the fast from 8 in the morning itself! But the Udanpirappugal of the Kazhagam, taking my age into account, have decided on their own, without even asking me, that fasting for the whole day would not be good for my health. Whether or not my body cooperates with the fast, you know and I know that my whole heart will remain firmly rooted in that fast.
 
