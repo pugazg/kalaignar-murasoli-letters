@@ -50,6 +50,16 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0044 | வழக்கு ஜோடனை! | 1972-07-22 | 187–191 | complete |
 | 0045 | மதுரை மாட்சி (1) | 1972-08-09 | 192–195 | complete |
 | 0046 | மதுரை மாட்சி (2) | 1972-08-10 | 196–199 | complete |
+| 0047 | “தாயே எட்டடி என்றால்...” | 1972-08-29 | 200–202 | complete |
+| 0048 | பாவம்; பண்பாடு, படும் பாடு! | 1972-10-10 | 203–205 | complete |
+| 0049 | அன்பகம்! அறிவகம்! | 1972-10-20 | 206–209 | complete |
+| 0050 | நமக்குப் புரியவில்லை! | 1972-10-21 | 210–213 | complete |
+| 0051 | அகல்விளக்கு கையில் அண்ணன் மொழி நெஞ்சில்! | 1972-10-23 | 214–218 | complete |
+| 0052 | பிப்ரவரி மூன்றாம் நாள் ! | 1973-01-23 | 219–222 | complete |
+| 0053 | நட வேகமாக! நமக்கே வெற்றி!! | 1973-05-12 | 223–226 | complete |
+| 0054 | ஐந்தாம் ஜார்ஜா? ஆறாம் ஜார்ஜா? | 1973-05-13 | 227–229 | complete |
+| 0055 | “அரிதாரம் கலையும்!” | 1973-05-23 | 230–232 | complete |
+| 0056 | சிந்தனைக்கு! | 1973-05-24 | 233–235 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -65,4 +75,6 @@ The source also changes address/sign-off form in this range: letters 0033–0035
 
 In the 0037–0046 batch, PDF 164 contains a fuller source closing sentence than the legacy reading copy, PDF 165 prints `என் உடன்பிறப்பே!` without an internal space, PDF 173 prints a final period after `மு. கருணாநிதி.`, and letters 0043–0046 use the abbreviated `மு. க.` sign-off where printed.
 
-The scan confirms that letter 0047 — `“தாயே எட்டடி என்றால்...”` — begins at PDF 200. PDF 200 was inspected only for that boundary; no letter 0047 text is part of the completed 0037–0046 batch.
+In the 0047–0056 batch, letter 0048 retains the printed `சென்னை. / 10.10.1972` without inventing a later composition date despite the text's later internal reference; PDF 209 preserves an underline on `நினைவூட்டினேன்.`; PDF 211 follows the scan's `ஆட்டுச்சந்தைக்கு அருகாமையில்!` rather than the legacy Spencer reading; PDF 213 preserves `வேண்டும்”மென்கிறார்.`; PDF 228 preserves `ஆறாயிரத்துத்தொள்ளாயிரத்து எட்டு`; and source-visible bold/lineation is retained in letters 0051–0055 where printed.
+
+The scan confirms that letter 0057 — `“பிறந்த நாள் வேண்டுகோள்!”` — begins at PDF 236 with salutation `உடன் பிறப்பே,`. PDF 236 was inspected only for that boundary; no letter 0057 text is part of the completed 0047–0056 batch.

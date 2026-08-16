@@ -216,8 +216,44 @@ Checks performed and source anomalies recorded:
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
 
+## Iteration 8 — fifth Volume 1 ten-letter batch: 0047–0056
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0047 — `“தாயே எட்டடி என்றால்...”`: PDF **200–202**, date **29-08-1972**;
+- 0048 — `பாவம்; பண்பாடு, படும் பாடு!`: PDF **203–205**, printed ending **சென்னை. / 10.10.1972**;
+- 0049 — `அன்பகம்! அறிவகம்!`: PDF **206–209**, date **20-10-1972**;
+- 0050 — `நமக்குப் புரியவில்லை!`: PDF **210–213**, date **21-10-1972**;
+- 0051 — `அகல்விளக்கு கையில் அண்ணன் மொழி நெஞ்சில்!`: PDF **214–218**, date **23-10-1972**;
+- 0052 — `பிப்ரவரி மூன்றாம் நாள் !`: PDF **219–222**, date **23-01-1973**;
+- 0053 — `நட வேகமாக! நமக்கே வெற்றி!!`: PDF **223–226**, date **12-05-1973**;
+- 0054 — `ஐந்தாம் ஜார்ஜா? ஆறாம் ஜார்ஜா?`: PDF **227–229**, date **13-05-1973**;
+- 0055 — `“அரிதாரம் கலையும்!”`: PDF **230–232**, date **23-05-1973**;
+- 0056 — `சிந்தனைக்கு!`: PDF **233–235**, date **24-05-1973**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **200–235**: **36 / 36**;
+- all ten heading pages, salutations, closing/date boundaries and source emphasis were visually checked against the controlling scan;
+- letter 0048's text itself says the AIADMK had existed eight years, while PDF 205 ends with `சென்னை.` / `10.10.1972`; the printed evidence is retained as-is and no unsupported later composition date is inferred;
+- PDF 209 visibly underlines `நினைவூட்டினேன்.`; the canonical page uses underline markup to retain the source emphasis;
+- PDF 211 prints `ஆட்டுச்சந்தைக்கு அருகாமையில்!`, while the legacy Tamil reading copy gives `ஸ்பென்சருக்கு அருகாமையில்!`; the canonical page follows the scan;
+- PDF 213 visibly prints the unusual joined form `வேண்டும்”மென்கிறார்.`; it is retained without regularisation;
+- PDF 214 sets the letter 0051 title on two lines, and PDFs 215–218 contain source-visible bold emphasis; the canonical page layer retains that structure;
+- PDFs 219–222 preserve source-visible emphasis and the lineated Anna-praise sequence in letter 0052;
+- PDF 219 prints the heading `பிப்ரவரி மூன்றாம் நாள் !` with a space before the exclamation mark and later prints `வரையில்- அப்போதுகூட என் உடன்பிறப்பாம்`; these source forms are retained;
+- PDF 226 preserves the source-visible bold closing exhortations in letter 0053;
+- PDF 228 prints `(6908) ஆறாயிரத்துத்தொள்ளாயிரத்து எட்டு`; the unusual joined wording is retained rather than replaced by the legacy reading copy's spaced form;
+- PDF 232 prints the closing rhetorical passage in bold; that emphasis is retained;
+- source-supported spacing, punctuation, abbreviations and sign-off forms are preserved, including abbreviated `மு. க.` where printed;
+- PDF 236 was inspected only enough to verify the start of 0057 — actual heading `“பிறந்த நாள் வேண்டுகோள்!”`, salutation `உடன் பிறப்பே,`; no PDF-236 or letter-0057 text is committed in this batch;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–199 / 401**. Letters **0001–0046** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 200 with letter 0047 and follows the Volume 1-specific **10-letter** rule for letters **0047–0056**, stopping before letter 0057.
+Canonical PDF coverage is **001–235 / 401**. Letters **0001–0056** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 236 with letter 0057 and follows the Volume 1-specific **10-letter** rule for letters **0057–0066**, stopping before letter 0067.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.
