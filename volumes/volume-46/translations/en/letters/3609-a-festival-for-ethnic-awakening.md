@@ -8,9 +8,9 @@ source_pdf_page_start: 140
 source_pdf_page_end: 145
 source_printed_page_start: 139
 source_printed_page_end: 144
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Historical names, dates, numerical claims, quoted speeches and Bharathidasan's verse are translated from the canonical Tamil without substituting outside versions. Historical claims remain attributed to Kalaignar's source narrative. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Historical names, dates, numerical claims, quoted speeches and Bharathidasan's verse are translated from the canonical Tamil without substituting outside versions. Historical claims remain attributed to Kalaignar's source narrative. The complete audited Tamil follows and remains authoritative. The bilingual source-alignment review has passed without substantive correction.
 
 **Tamil source:** [Letter 3609](../../../chapters/3609-ina-ezhuchchikku-edukkum-vizha.md)  
 **Source pages:** [PDF 140](../../../pages/page-140.md)–[PDF 145](../../../pages/page-145.md)  
