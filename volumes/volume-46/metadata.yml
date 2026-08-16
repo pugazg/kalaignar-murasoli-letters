@@ -57,9 +57,9 @@ translated_letter_range: "3592-3624"
 translated_letter_count: 33
 source_checked_letter_count: 33
 verified_translation_count: 28
-structurally_complete_verified_count: 23
-structurally_complete_verified_range: "3592-3614"
-structurally_incomplete_verified_range: "3615-3619"
+structurally_complete_verified_count: 28
+structurally_complete_verified_range: "3592-3619"
+structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: "3620-3624"
 draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
@@ -94,9 +94,9 @@ source_observations:
   - "Batch 3610-3614 covers PDF 146-180."
   - "A later structural audit found that bilingual records 3610-3624 had link-only Tamil sections instead of the mandatory complete Original Tamil appendix."
   - "Corrective structural repair is complete for 3610-3614: complete canonical Tamil appendices have been restored for PDF 146-180 without changing canonical Tamil or the already-reviewed English."
-  - "Fifth normal five-letter translation batch 3615-3619 is meaning-level source-checked and bilingual-alignment verified but remains structurally incomplete pending Tamil-appendix restoration."
-  - "Batch 3615-3619 required English-only corrections in 3615 and 3616: source token 'perhelion' was restored in 3615, and two unsupported editorial-attribution spans were removed in 3616; canonical Tamil did not change."
-  - "Batch 3615-3619 covers PDF 181-220."
+  - "Fifth normal five-letter translation batch 3615-3619 is meaning-level source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Complete canonical Tamil appendices have been restored for 3615-3619 covering PDF 181-220; canonical Tamil did not change."
+  - "Batch 3615-3619 required English-only corrections in 3615 and 3616: source token 'perhelion' was restored in 3615, and two unsupported editorial-attribution spans were removed in 3616; those corrections remain intact after structural repair."
   - "Sixth normal five-letter translation batch 3620-3624 is draft-translated and meaning-level alignment-reviewed; structural repair remains before promotion."
   - "Batch 3620-3624 covers PDF 221-261; 3623 requires two documented English corrections and all five require complete Tamil appendices."
-  - "Next task is the five-letter structural repair for 3615-3619."
+  - "Next task is the five-letter corrective completion for 3620-3624."
