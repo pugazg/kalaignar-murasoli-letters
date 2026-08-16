@@ -8,9 +8,9 @@ source_pdf_page_start: 305
 source_pdf_page_end: 310
 source_printed_page_start: 304
 source_printed_page_end: 309
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The Sivaganga election-petition chronology, Kalaignar’s comparison with Jayalalithaa’s own cases and 2001 disqualification episode, the source-printed *The Hindu* English passage and its following Tamil rendering, Chidambaram’s response, and the closing legal-democratic argument are retained in source order. The printed English passage is preserved as printed; the Tamil rendering that follows it is also translated separately and in full rather than collapsed. The complete audited Tamil is reproduced below and remains authoritative. The source-alignment corrections identified in review have been applied; final batch promotion remains pending.
+> This translation follows the locked Volume 46 conventions. The Sivaganga election-petition chronology, Kalaignar’s comparison with Jayalalithaa’s own cases and 2001 disqualification episode, the source-printed *The Hindu* English passage and its following Tamil rendering, Chidambaram’s response, and the closing legal-democratic argument are retained in source order. The printed English passage is preserved as printed; the Tamil rendering that follows it is also translated separately and in full rather than collapsed. The complete audited Tamil is reproduced below and remains authoritative. The source-alignment corrections identified in review have been applied and bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3631](../../../chapters/3631-jananaayagam-kelip-porulaagi-viduvatha.md)  
 **Source pages:** [PDF 305](../../../pages/page-305.md)–[PDF 310](../../../pages/page-310.md)  
