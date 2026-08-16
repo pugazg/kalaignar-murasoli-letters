@@ -20,7 +20,8 @@
 - [x] Bilingual alignment review completed for 3605–3609
 - [x] Batch 3 review found no substantive English correction required
 - [x] 3605–3609 synchronized to verified status
-- [ ] Main translation batch 4: 3610–3614
+- [x] Main translation batch 4 draft complete: 3610–3614
+- [ ] Bilingual alignment review for 3610–3614
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -28,14 +29,13 @@
 
 ## Current boundary
 
-- English files: **18 / 55 actual source-letter records**
+- English files: **23 / 55 actual source-letter records**
 - Verified: **3592–3609 (18 / 55)**
-- Batch 3 verified: **3605–3609 (5 / 5)**
-- Batch 3 substantive English corrections required: **0**
-- Main batch 3 source coverage: **PDF 108–145**
-- Canonical Tamil changes during Batch 3 drafting/alignment: **0**
-- Draft/alignment backlog: **0**
-- Main batch 4 (3610–3614): **unblocked and next**
+- Draft-translated / alignment pending: **3610–3614 (5 / 55)**
+- Main batch 4 source coverage: **PDF 146–180**
+- Canonical Tamil changes during Batch 4 drafting: **0**
+- Next gate: **five-letter bilingual source-alignment review for 3610–3614**
+- Main batch 5 (3615–3619): **blocked until Batch 4 alignment clears**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -43,12 +43,18 @@ Batch 2 review: [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_RE
 Batch 3 review: [BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 3 final outcome
+## Batch 4 draft outcome
 
-The five-letter bilingual source-alignment gate for **3605–3609** is closed. All five letters pass at meaning level without substantive English correction. The moving-temple/medical-care metaphor and welfare figures in 3605, the long `சாதனை`/court/TASMAC sequence in 3606, the Kudankulam and electricity chronology in 3607, the source-ordered Murasoli Maran historical quotation in 3608, and the Dravidian Movement centenary historical sequence in 3609 remain aligned with the fidelity-cleared Tamil.
+The complete five-letter drafting pass for **3610–3614** is finished from the fidelity-cleared canonical Tamil.
 
-All five files now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was modified.
+- **3610 — சொன்னது என்ன? என்ன? நடந்தது என்ன? என்ன? / What Was Said? What Happened?** — PDF 146–155. Budget figures, percentages, paragraph references, prior promises and Kalaignar's repeated promise-versus-outcome questioning are preserved.
+- **3611 — அண்ணாவின் கனவை அழிக்கத் துடிக்கும் ஆரியமாயை! / The Aryan Illusion Striving to Destroy Anna's Dream!** — PDF 156–162. Sethu Samudram chronology, AIADMK manifesto reversals, court material, Adam's Bridge/Ramar Bridge terminology and the closing `ஆரியமாயை` wordplay are preserved.
+- **3612 — அராஜகத்திற்கு முடிவுகட்ட; அணி திரள்வோம்! / Let Us Rally to Put an End to Lawlessness!** — PDF 163–167. The Jayalalithaa–Sasikala passage, *Ananda Vikatan* material, power/project criticisms, People's Welfare Workers issue and protest mobilisation remain source-ordered.
+- **3613 — புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி! / Wise Tamil, It Is Enough If You Understand This!** — PDF 168–174. Maraimalai Adigal/Thiruvalluvar-year chronology, attributed statements, Nakkiran–Kuyakkondan story, legislative history and Bharathidasan verse are preserved.
+- **3614 — பாவம்; பன்னீர்செல்வம்! / Poor Panneerselvam!** — PDF 175–180. Housing Board allotment figures, names, designations, land measurements, long recipient list, legal references and closing sarcasm are preserved.
+
+All five remain deliberately `translation_status: draft-translated` and `bilingual_alignment_status: pending`. No canonical Tamil page was modified.
 
 ## Exact next task
 
-Draft the complete next five-letter English translation batch, **3610–3614**, in one iteration from the fidelity-cleared canonical Tamil using the locked conventions. Keep those five at draft/pending status until their own separate five-letter bilingual source-alignment review.
+Perform the complete five-letter bilingual source-alignment review for **3610–3614**. Apply any English-only corrections found and promote the five together only after that gate clears. Do not begin **3615–3619** before the review.
