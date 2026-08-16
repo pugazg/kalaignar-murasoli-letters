@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar's irony, Assembly criticism, Kudankulam chronology, power-project dates, megawatt figures and the closing wordplay around `அசந்து போவார்கள்` are preserved. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. Kalaignar's irony, Assembly criticism, Kudankulam chronology, power-project dates, megawatt figures and the closing wordplay around `அசந்து போவார்கள்` are preserved. The complete audited Tamil follows and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3607](../../../chapters/3607-asandhuthaan-ponaargal.md)  
 **Source pages:** [PDF 128](../../../pages/page-128.md)–[PDF 133](../../../pages/page-133.md)  

@@ -24,7 +24,7 @@
 - [x] Final batch bilingual source-alignment review: 3648–3649 — 2 / 2 PASS
 - [x] Final batch promoted: 3648–3649 verified / verified
 - [x] Volume-level bilingual alignment complete: 55 / 55 actual source records
-- [ ] Editorial consistency review
+- [x] Editorial consistency review
 - [ ] Translation manifest and final English release report
 
 ## Current boundary
@@ -63,4 +63,4 @@ Both records contain complete audited Tamil appendices. The final alignment revi
 
 ## Exact next task
 
-Begin the **volume-level editorial consistency review** across all 55 verified English bilingual records. After that, build the translation manifest and final English release report.
+Build the **translation manifest** for all 55 verified English records, then prepare the final English release report.

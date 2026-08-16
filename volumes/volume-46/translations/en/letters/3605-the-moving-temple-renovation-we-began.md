@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Scheme names, dates, beneficiary counts, monetary figures, Kalaignar's contrast between governments, and the source expression `நடமாடும் கோயில் திருப்பணி` are preserved without outside correction or modernisation. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. Scheme names, dates, beneficiary counts, monetary figures, Kalaignar's contrast between governments, and the source expression `நடமாடும் கோயில் திருப்பணி` are preserved without outside correction or modernisation. The complete audited Tamil follows and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3605](../../../chapters/3605-naam-thodangiya-nadamaadum-koyil-thiruppani.md)  
 **Source pages:** [PDF 108](../../../pages/page-108.md)–[PDF 113](../../../pages/page-113.md)  

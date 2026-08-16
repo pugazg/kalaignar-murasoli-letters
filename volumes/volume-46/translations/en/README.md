@@ -43,4 +43,6 @@ Both records passed the final bilingual source-alignment gate without substantiv
 **Cumulative scan-proven canonical corrections: 29 pages / 32 spans.**  
 **Actual source-letter records fully cleared for translation: 55 / 55.**
 
-**Exact next task:** begin the **volume-level editorial consistency review** across all 55 verified English bilingual records, followed by the translation manifest and final English release report.
+**Editorial consistency review:** complete across all 55 verified bilingual records.
+
+**Exact next task:** build the **translation manifest** for all 55 records, then prepare the final English release report.
