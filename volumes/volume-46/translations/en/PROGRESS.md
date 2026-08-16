@@ -16,7 +16,9 @@
 - [x] Bilingual alignment review completed for 3600–3604
 - [x] Two required English-only revisions applied in 3602/3603
 - [x] 3600–3604 synchronized to verified status
-- [ ] Main translation batch 3: 3605–3609
+- [x] Main translation batch 3 draft complete: 3605–3609
+- [ ] Bilingual alignment review for 3605–3609
+- [ ] Apply any Batch 3 English-only revisions and verify 3605–3609
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -24,27 +26,28 @@
 
 ## Current boundary
 
-- English files: **13 / 55 actual source-letter records**
+- English files: **18 / 55 actual source-letter records**
 - Verified: **3592–3604 (13 / 55)**
-- Batch 2 verified: **3600–3604 (5 / 5)**
-- English-only corrections applied in Batch 2: **3602 (1), 3603 (1)**
-- Canonical Tamil changes during Batch 2 alignment: **0**
-- Main batch 2 source coverage: **PDF 75–107**
-- Main batch 3 (3605–3609): **unblocked and next**
+- Draft-translated / alignment pending: **3605–3609 (5 / 55)**
+- Main batch 3 source coverage: **PDF 108–145**
+- Canonical Tamil changes during Batch 3 drafting: **0**
+- Next gate: **five-letter bilingual source-alignment review for 3605–3609**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
 Batch 2 review: [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 2 final outcome
+## Batch 3 draft notes
 
-The source-alignment gate is closed. Letters 3600, 3601 and 3604 required no substantive English correction. Letter 3602 now renders `தமிழகத்தில் உள்ள மாநகரங்களிலும், நகரங்களிலும்` as **“in the cities and towns of Tamil Nadu.”** Letter 3603 now carries the full rhetorical English title **“Are They Hiding Maraimalai Adigal's View?”**
+- **3605** preserves `நடமாடும் கோயில் திருப்பணி` as the moving-temple/medical-care metaphor explicitly explained by Kalaignar, along with the full welfare-scheme sequence, beneficiary counts and insurance comparison.
+- **3606** preserves the repeated sarcastic `சாதனை` structure, the numbered eleven-item list, court material, and all source-printed English newspaper passages verbatim; each accompanying Tamil rendering is separately translated in full.
+- **3607** preserves the Assembly argument, Kudankulam chronology, complete power-project sequence and the closing `அசந்துதான் போனார்கள்` reversal.
+- **3608** translates in full the long Murasoli Maran passage that Kalaignar says he is reproducing `வார்த்தை பிசகாமல்`, retaining its English parentheticals, bullets and historical terminology.
+- **3609** preserves the centenary-event announcement, Bharathidasan verse, Caldwell/Sundaram Pillai/Natesanar/Thyagarayar/T.M. Nair sequence, historical numerical claims and the closing call to attend the festival for `இன எழுச்சி`.
 
-Letter 3604's source-printed `கூடுதலாக ரூ.2260/எனவும்` remains preserved rather than silently regularised. No canonical Tamil was modified.
-
-All five letters now carry `translation_status: verified` and `bilingual_alignment_status: verified`.
+All five files remain deliberately at `translation_status: draft-translated` and `bilingual_alignment_status: pending`. No verification is claimed before the separate alignment gate.
 
 ## Exact next task
 
-Draft the next five English letters, **3605–3609**, in one iteration from the fidelity-cleared canonical Tamil using the locked conventions. Keep all five at draft/pending status until their separate five-letter bilingual source-alignment review.
+Perform the bilingual source-alignment review for the complete five-letter batch **3605–3609** in one iteration. Apply no canonical Tamil change unless the controlling scan itself requires it. Only after the review and any English corrections should these five be promoted to verified; **3610–3614 remains blocked until then**.
