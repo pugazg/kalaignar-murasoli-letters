@@ -10,13 +10,15 @@ Five-letter Batch 8, covering **PDF 296–328**:
 - 3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`
 - 3634 — `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`
 
-The review compares each English draft against the fidelity-cleared canonical Tamil, including title/wordplay, quotations, names, dates, figures, source-printed English/Tamil duplication, legal terminology, closing formulae and complete Tamil appendices.
+The review compares each English translation against the fidelity-cleared canonical Tamil, including title/wordplay, quotations, names, dates, figures, source-printed English/Tamil duplication, legal terminology, closing formulae and complete Tamil appendices.
 
 ## Result
 
-**Gate status: PASS — corrections complete; status promotion pending.**
+**Gate status: PASS — corrections and status promotion complete.**
 
-Letters **3630, 3632, 3633 and 3634 passed without substantive English correction.** Letter **3631 required two English-only fidelity corrections, both now applied and rechecked against canonical PDF 306 and PDF 308–309.** No canonical Tamil change was required.
+Letters **3630, 3632, 3633 and 3634 passed without substantive English correction.** Letter **3631 required two English-only fidelity corrections, both applied and rechecked against canonical PDF 306 and PDF 308–309.** No canonical Tamil change was required.
+
+All five records now carry `translation_status: verified` and `bilingual_alignment_status: verified`.
 
 ## Letter-by-letter findings
 
@@ -72,9 +74,10 @@ Canonical Tamil changes required: **0**.
 - Canonical Tamil changes caused by Batch 8 alignment: **0**.
 - Meaning-level bilingual alignment: **5 / 5 PASS**.
 - Complete Tamil appendices: **5 / 5 present**.
+- Status promotion: **5 / 5 verified**.
 
-## Remaining administrative completion
+## Completion boundary
 
-The content/alignment gate is closed. The remaining action is administrative synchronization only: promote **3630–3634 together** from `draft-translated / pending` to `verified / verified`, then synchronize `PROGRESS.md`, the English `README.md`, and `metadata.yml`.
+Batch 8 is fully closed. The repository now has **43 / 55 structurally complete verified bilingual records, covering 3592–3634**, with no draft/alignment backlog.
 
-Do not begin 3635 onward until that status promotion is complete.
+The next translation batch must begin with **3635** and then follow the **actual source-record order**, preserving the source numbering anomaly: there is no 3636 and the scan prints two distinct 3637 records. No archival renumbering is permitted.
