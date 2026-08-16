@@ -14,12 +14,15 @@ The supplied `Vol1.pdf` is the controlling source for this migration. Existing T
 
 ## Current canonical state
 
-- Canonical PDF coverage: **001–027 / 401**.
+- Canonical PDF coverage: **001–047 / 401**.
 - Mandatory first batch: **complete — PDF 001–025**.
+- Interrupted letter 0001 completion: **complete — PDF 026–027**.
+- First normal five-letter batch: **complete — letters 0002–0006 / PDF 028–047**.
 - Front matter/preface: PDF **001–017** first-pass reviewed.
 - Printed contents: PDF **018–023**, all **110 printed entries** transcribed.
-- Letter 0001 — `“ஜாக்குலின்கள்”`: **complete**, PDF **024–027 / printed 23–26**.
-- PDF 028 visibly begins letter 0002 and was used only to verify the next boundary.
+- Canonically complete letters: **0001–0006 (6 / 110)**.
+- Source pagination note: PDF 039 prints **38**, while PDF 040 prints **40**; text is continuous, so printed number 39 is treated as a source pagination anomaly, not missing content.
+- PDF 048 visibly begins letter 0007 and was used only to verify the next boundary.
 - Full-volume Tamil structural audit: **blocked until 401/401 canonical pages exist**.
 - Second visual/textual-fidelity verification: **not started**.
 - English migration/alignment: **blocked** until the canonical Tamil volume and required audit gates are complete.
@@ -42,4 +45,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Begin at **PDF 028** and migrate exactly **five complete consecutive letters — 0002 through 0006** — with direct scan verification of every page and letter boundary. Stop before any text from letter 0007. Keep the legacy bilingual corpus untouched and do not begin English migration yet.
+Begin at **PDF 048** and migrate exactly **five complete consecutive letters — 0007 through 0011** — with direct scan verification of every page and boundary. Stop before any text from letter 0012. Keep the legacy bilingual corpus untouched and do not begin English migration yet.

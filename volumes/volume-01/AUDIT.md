@@ -64,8 +64,33 @@ Checks performed:
 - legacy bilingual files remain unchanged;
 - English migration remains blocked.
 
+## Iteration 3 — first regular five-letter batch: 0002–0006
+
+**Result: PASS — five complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0002 — `நீ விளைத்த கழனி - நீ உழைத்த உழைப்பு!`: PDF **028–031**, date **24-10-1968**;
+- 0003 — `நிதானமாகப் பேசுங்கள்!`: PDF **032–035**, date **25-10-1968**;
+- 0004 — `உன்னால் முடிந்ததைச் செய்து விட்டாயா?`: PDF **036–038**, date **27-10-1968**;
+- 0005 — `நேர்மையும் பொறுப்பும் நீர்மேல் எழுத்தல்ல!`: PDF **039–042**, date **29-10-1968**;
+- 0006 — `வெற்றி பெற்றவனே உன் வேலை என்ன?`: PDF **043–047**, date **30-10-1968**.
+
+Checks performed:
+
+- one canonical page file for every PDF page **028–047**: **20 / 20**;
+- actual letter-start headings and closing sign-off/date pages visually checked against the scan;
+- legacy source-corrected Tamil was used only as migration assistance and reconciled against the visible scan in this scope;
+- source-specific wording, rhetorical questions, repeated imperatives, quotations, names, figures and sign-off forms retained;
+- letter 0004's closing uses `இங்ஙனம்`; letter 0005's closing uses `தங்கள் தம்பி`; other sign-off forms remain as printed;
+- PDF 039 visibly prints page number 38, while PDF 040 visibly prints 40; the sentence continues directly across the boundary, so printed page number 39 is documented as a pagination anomaly rather than missing text;
+- PDF 048 was inspected only to confirm that letter 0007 begins there; no PDF-048 text was committed;
+- no source PDF was committed;
+- no legacy bilingual file was modified;
+- no English migration was started.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–027 / 401**. Letter **0001 — `“ஜாக்குலின்கள்”`** is complete. The next activity starts at PDF 028 and follows the normal five-complete-letter rule for letters **0002–0006**, stopping before letter 0007.
+Canonical PDF coverage is **001–047 / 401**. Letters **0001–0006** are canonically complete. The next activity begins at PDF 048 and follows the normal five-complete-letter rule for letters **0007–0011**, stopping before letter 0012.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.
