@@ -55,16 +55,16 @@ translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
 translated_letter_range: "3592-3635; 3637 (two source records); 3638-3639"
 translated_letter_count: 48
-source_checked_letter_count: 43
-verified_translation_count: 43
-structurally_complete_verified_count: 43
-structurally_complete_verified_range: "3592-3634"
+source_checked_letter_count: 48
+verified_translation_count: 48
+structurally_complete_verified_count: 48
+structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3639"
 structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: null
-draft_alignment_pending_range: "3635; 3637 (two source records); 3638-3639"
+draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
-bilingual_alignment_reviewed_range: "3592-3634"
-bilingual_alignment_verified_range: "3592-3634"
+bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3639"
+bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3639"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -106,9 +106,10 @@ source_observations:
   - "Batch 3630-3634 required two English-only corrections in 3631: 'நீங்கள் தான் குற்றவாளி' was restored with its direct accusatory force, and the source-printed Tamil rendering following the English The Hindu passage was translated separately and in full rather than summarized."
   - "Letter 3634 preserves the actual semicolon heading separately from the differing printed-contents comma form and retains the long source-printed arrested-person list without compression."
   - "Batch 3630-3634 caused no canonical Tamil changes."
-  - "Ninth five-record translation batch is draft-complete in actual source order: 3635; first 3637; second 3637; 3638; 3639, covering PDF 329-355."
+  - "Ninth five-record translation batch is source-checked and bilingual-alignment verified in actual source order: 3635; first 3637; second 3637; 3638; 3639, covering PDF 329-355."
   - "Batch 9 preserves the scan anomaly of no 3636 and two distinct consecutive 3637 records; both 3637 English files retain letter_number 3637 and use separate stable filenames/variant markers."
   - "The second 3637 is a one-page proclamation-like source item; its actual heading 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!' is preserved separately from the printed-contents form, and its handwritten signature is described rather than interpreted."
-  - "All five Batch 9 bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices from creation."
-  - "Batch 9 drafting caused no canonical Tamil changes."
-  - "Next task is bilingual source-alignment review for the five actual Batch 9 records before drafting 3640 onward."
+  - "Batch 9 required one English-only lexical correction in the second 3637: 'கிளம்பிற்று காண் தமிழச் சிங்கக் கூட்டம்' is verified as 'Behold! The host of Tamil lions has set forth!' rather than 'pride of Tamil lions'."
+  - "All five Batch 9 bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices."
+  - "Batch 9 caused no canonical Tamil changes."
+  - "Next translation batch must follow actual source order: 3640, 3641, 3642, 3643, 3647; no 3644-3646 are to be invented."
