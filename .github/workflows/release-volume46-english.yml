@@ -41,64 +41,51 @@ jobs:
               n=val(s,'letter_number'); nums.append(int(n))
               pre=s.split('## Original Tamil — மூலத் தமிழ்',1)[0]
               if '## English translation' in pre: body=pre.split('## English translation',1)[1]
-              else:
-                  body=pre.split('**Date:**',1)[1] if '**Date:**' in pre else pre.split('---',2)[-1]
+              else: body=pre.split('**Date:**',1)[1] if '**Date:**' in pre else pre.split('---',2)[-1]
               wc=len(re.findall(r"\b[\w’'-]+\b",body,re.UNICODE)); total+=wc
               rows.append([n,val(s,'date'),val(s,'english_title'),val(s,'tamil_title'),val(s,'source_pdf_page_start')+'-'+val(s,'source_pdf_page_end'),val(s,'source_printed_page_start')+'-'+val(s,'source_printed_page_end'),val(s,'translation_status'),val(s,'bilingual_alignment_status'),val(s,'source_textual_fidelity_audit'),wc,'letters/'+p.name,report(n)])
           assert len(rows)==55 and nums.count(3637)==2 and 3636 not in nums and all(x not in nums for x in (3644,3645,3646))
           out=io.StringIO(newline=''); w=csv.writer(out,lineterminator='\n')
           w.writerow(['letter_number','date','english_title','tamil_title','source_pdf_pages','source_printed_pages','translation_status','bilingual_alignment_status','source_textual_fidelity_audit','english_word_count','file','bilingual_alignment_report']); w.writerows(rows)
           (base/'TRANSLATION_MANIFEST.csv').write_text(out.getvalue(),encoding='utf-8')
-          report_text=f'''# Volume 46 English Translation — Final Release Report
-
-## Release identity
-
-- Work: **Kalaignar’s Murasoli Letters — Volume 46**
-- Source numbering span: **3592–3649**, with source anomalies preserved
-- Actual source-letter records: **55**
-- Letter dates: **5 October 2011–15 August 2012**
-- Source PDF: **402 pages**
-- Translated letter-page span: **PDF 24–400**
-- English letters released: **55**
-- Editorial English word count: **{total:,}**
-
-## Completion status
-
-| Stage | Result |
-|---|---:|
-| Tamil page-level transcription | Complete |
-| Full-volume Tamil structural audit | Complete |
-| Second visual/textual-fidelity gate | Complete |
-| English translation | 55/55 |
-| Source checking | 55/55 |
-| Bilingual alignment verification | 55/55 |
-| Volume-level English editorial review | Complete |
-| Translation manifest | 55 rows |
-| Canonical Tamil changed during English editorial review | 0 |
-
-## Release contents
-
-- [`README.md`](README.md) — English translation status and access point
-- [`letters/`](letters/) — one verified bilingual Markdown file per actual source record
-- [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv) — machine-readable metadata for all 55 records
-- [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — volume-level editorial QA record
-- `BILINGUAL_ALIGNMENT_REVIEW_*.md` — substantive Tamil–English review reports
-- `TEXTUAL_FIDELITY_AUDIT_*.md` — scan-to-Markdown source audits
-- [`PILOT_TRANSLATION_CONVENTIONS.md`](PILOT_TRANSLATION_CONVENTIONS.md) — locked translation conventions
-
-## Editorial and archival policy
-
-The released English is a thought-preserving, non-literary translation. It retains Kalaignar’s argument order, political directness, criticism, irony, repetition, rhetorical questions, source-specific figures and quoted voices. The complete audited Tamil source is appended to every bilingual record and remains authoritative.
-
-The source numbering is not repaired. There is **no 3636**; the scan prints **two distinct consecutive 3637 records**; and there are **no 3644–3646 source records**. Known contents-page versus actual-heading distinctions are likewise preserved rather than silently normalised.
-
-## QA summary
-
-The final editorial pass found only two stale translator-note status phrases (3605 and 3607) plus one stale metadata pending-range field. Those were corrected without changing substantive English. No political meaning, attribution, uncertainty, figures, quotations or canonical Tamil was altered by the editorial pass.
-
-Release status: **ready as the completed English edition of Volume 46 in this repository**.
-'''
-          (base/'RELEASE_REPORT.md').write_text(report_text,encoding='utf-8')
+          lines=[
+              '# Volume 46 English Translation — Final Release Report','',
+              '## Release identity','',
+              '- Work: **Kalaignar’s Murasoli Letters — Volume 46**',
+              '- Source numbering span: **3592–3649**, with source anomalies preserved',
+              '- Actual source-letter records: **55**',
+              '- Letter dates: **5 October 2011–15 August 2012**',
+              '- Source PDF: **402 pages**',
+              '- Translated letter-page span: **PDF 24–400**',
+              '- English letters released: **55**',
+              f'- Editorial English word count: **{total:,}**','',
+              '## Completion status','',
+              '| Stage | Result |','|---|---:|',
+              '| Tamil page-level transcription | Complete |',
+              '| Full-volume Tamil structural audit | Complete |',
+              '| Second visual/textual-fidelity gate | Complete |',
+              '| English translation | 55/55 |',
+              '| Source checking | 55/55 |',
+              '| Bilingual alignment verification | 55/55 |',
+              '| Volume-level English editorial review | Complete |',
+              '| Translation manifest | 55 rows |',
+              '| Canonical Tamil changed during English editorial review | 0 |','',
+              '## Release contents','',
+              '- [`README.md`](README.md) — English translation status and access point',
+              '- [`letters/`](letters/) — one verified bilingual Markdown file per actual source record',
+              '- [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv) — machine-readable metadata for all 55 records',
+              '- [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — volume-level editorial QA record',
+              '- `BILINGUAL_ALIGNMENT_REVIEW_*.md` — substantive Tamil–English review reports',
+              '- `TEXTUAL_FIDELITY_AUDIT_*.md` — scan-to-Markdown source audits',
+              '- [`PILOT_TRANSLATION_CONVENTIONS.md`](PILOT_TRANSLATION_CONVENTIONS.md) — locked translation conventions','',
+              '## Editorial and archival policy','',
+              'The released English is a thought-preserving, non-literary translation. It retains Kalaignar’s argument order, political directness, criticism, irony, repetition, rhetorical questions, source-specific figures and quoted voices. The complete audited Tamil source is appended to every bilingual record and remains authoritative.','',
+              'The source numbering is not repaired. There is **no 3636**; the scan prints **two distinct consecutive 3637 records**; and there are **no 3644–3646 source records**. Known contents-page versus actual-heading distinctions are likewise preserved rather than silently normalised.','',
+              '## QA summary','',
+              'The final editorial pass found only two stale translator-note status phrases (3605 and 3607) plus one stale metadata pending-range field. Those were corrected without changing substantive English. No political meaning, attribution, uncertainty, figures, quotations or canonical Tamil was altered by the editorial pass.','',
+              'Release status: **ready as the completed English edition of Volume 46 in this repository**.',''
+          ]
+          (base/'RELEASE_REPORT.md').write_text('\n'.join(lines),encoding='utf-8')
           p=base/'PROGRESS.md'; s=p.read_text(encoding='utf-8').replace('- [ ] Translation manifest and final English release report','- [x] Translation manifest and final English release report')
           if '## Release status' not in s:s+='\n\n## Release status\n\n**Volume 46 English edition complete and release-ready: 55 / 55 verified bilingual records.**\n'
           p.write_text(s,encoding='utf-8')
