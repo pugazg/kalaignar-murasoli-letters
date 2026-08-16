@@ -8,9 +8,9 @@ source_pdf_page_start: 362
 source_pdf_page_end: 366
 source_printed_page_start: 361
 source_printed_page_end: 365
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s distinction between the immediate post-war protection of Eelam Tamils and the continuing goal of Tamil Eelam, his criticism of those who portray that distinction as confusion, and the quoted press-conference answers are retained in source order and rhetorical force. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. Kalaignar’s distinction between the immediate post-war protection of Eelam Tamils and the continuing goal of Tamil Eelam, his criticism of those who portray that distinction as confusion, and the quoted press-conference answers are retained in source order and rhetorical force. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3641](../../../chapters/3641-kuzhappam-enakkoori-kutharkkam-vilaikkaatheer.md)  
 **Source pages:** [PDF 362](../../../pages/page-362.md)–[PDF 366](../../../pages/page-366.md)  

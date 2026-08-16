@@ -21,7 +21,7 @@
 - [x] Batch 9 bilingual source-alignment review and one required English-only correction complete
 - [x] Main translation batch 10 draft complete: 3640, 3641, 3642, 3643, 3647
 - [x] Batch 10 bilingual source-alignment review complete: 5 / 5 PASS
-- [ ] Promote Batch 10 records to verified / verified and synchronize tracking
+- [x] Main translation batch 10: 3640, 3641, 3642, 3643, 3647 verified
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -30,9 +30,9 @@
 ## Current boundary
 
 - English files: **53 / 55 actual source-letter records**
-- Structurally complete verified bilingual records: **48 / 55 actual source records**
-- Draft-translated / bilingual-alignment pending: **5 / 55 actual source records**
-- Verified source coverage: **3592–3635; 3637 (two distinct source records); 3638–3639**
+- Structurally complete verified bilingual records: **53 / 55 actual source records**
+- Draft-translated / bilingual-alignment pending: **0 / 55 actual source records**
+- Verified source coverage: **3592–3635; 3637 (two distinct source records); 3638–3643; 3647**
 - Batch 10 actual source order: **3640, 3641, 3642, 3643, 3647**
 - Batch 10 source coverage: **PDF 356–387**
 - Batch 10 alignment result: **5 / 5 PASS**
@@ -55,7 +55,7 @@ Batch 10 review: [BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md](BILINGUAL_ALIGNMENT_R
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 10 — ALIGNMENT REVIEW COMPLETE
+## Batch 10 — VERIFIED COMPLETE
 
 The five actual source records were reviewed in scan order:
 
@@ -69,4 +69,4 @@ All five contain their complete audited Tamil appendices. The source jump from 3
 
 ## Exact next task
 
-Promote **3640, 3641, 3642, 3643 and 3647 together** from `draft-translated / pending` to `verified / verified`, change their translator notes from draft wording to completed source-alignment wording, and synchronize the English README, Volume 46 metadata and this progress file. After that, only the final two actual source records remain to be translated.
+Draft the final two actual source records, **3648 and 3649**, in scan order. Embed complete audited Tamil appendices and translator-note blocks from creation, leave both at `draft-translated / pending`, and then perform their final bilingual source-alignment gate before the volume-level editorial consistency review and English release work.

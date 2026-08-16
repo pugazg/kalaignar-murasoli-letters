@@ -8,9 +8,9 @@ source_pdf_page_start: 382
 source_pdf_page_end: 387
 source_printed_page_start: 381
 source_printed_page_end: 386
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The actual page heading `ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!` controls over the differing contents-page form. The TESO conference programme, participant names, organisational responsibilities, references to displaced and refugee Tamils, the *Dinamalar* passage on Chinese activity in Sri Lanka, and Kalaignar’s closing call are preserved in source order without outside normalization. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. The actual page heading `ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!` controls over the differing contents-page form. The TESO conference programme, participant names, organisational responsibilities, references to displaced and refugee Tamils, the *Dinamalar* passage on Chinese activity in Sri Lanka, and Kalaignar’s closing call are preserved in source order without outside normalization. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3647](../../../chapters/3647-eezhaththamizhar-innal-kalaindhida-vareer.md)  
 **Source pages:** [PDF 382](../../../pages/page-382.md)–[PDF 387](../../../pages/page-387.md)  

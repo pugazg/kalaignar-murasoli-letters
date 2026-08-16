@@ -8,9 +8,9 @@ source_pdf_page_start: 371
 source_pdf_page_end: 381
 source_printed_page_start: 370
 source_printed_page_end: 380
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s argument against centralising the five Anna Universities of Technology, his criticism of reversing DMK-era measures, the Deccan Chronicle and The Hindu material, the statistical and historical university comparisons, the Yash Pal/Sam Pitroda committee references and his repeated decentralisation-versus-centralisation argument are preserved in source order. Source-supplied English is retained, including the visibly printed anomalous string `Chennai örgjiThis`; it is not silently corrected. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. Kalaignar’s argument against centralising the five Anna Universities of Technology, his criticism of reversing DMK-era measures, the Deccan Chronicle and The Hindu material, the statistical and historical university comparisons, the Yash Pal/Sam Pitroda committee references and his repeated decentralisation-versus-centralisation argument are preserved in source order. Source-supplied English is retained, including the visibly printed anomalous string `Chennai örgjiThis`; it is not silently corrected. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3643](../../../chapters/3643-ellaam-naane-enbathu-nallor-potrum-vazhiyalla.md)  
 **Source pages:** [PDF 371](../../../pages/page-371.md)–[PDF 381](../../../pages/page-381.md)  

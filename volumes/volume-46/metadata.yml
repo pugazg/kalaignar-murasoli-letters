@@ -53,18 +53,18 @@ textual_fidelity_audit_reports:
 translation_status: "in-progress"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
-translated_letter_range: "3592-3635; 3637 (two source records); 3638-3639"
-translated_letter_count: 48
-source_checked_letter_count: 48
-verified_translation_count: 48
-structurally_complete_verified_count: 48
-structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3639"
+translated_letter_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
+translated_letter_count: 53
+source_checked_letter_count: 53
+verified_translation_count: 53
+structurally_complete_verified_count: 53
+structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
 structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: null
 draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
-bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3639"
-bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3639"
+bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
+bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -112,4 +112,6 @@ source_observations:
   - "Batch 9 required one English-only lexical correction in the second 3637: 'கிளம்பிற்று காண் தமிழச் சிங்கக் கூட்டம்' is verified as 'Behold! The host of Tamil lions has set forth!' rather than 'pride of Tamil lions'."
   - "All five Batch 9 bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices."
   - "Batch 9 caused no canonical Tamil changes."
-  - "Next translation batch must follow actual source order: 3640, 3641, 3642, 3643, 3647; no 3644-3646 are to be invented."
+  - "Tenth five-record translation batch is source-checked and bilingual-alignment verified in actual source order: 3640, 3641, 3642, 3643, 3647, covering PDF 356-387."
+  - "Batch 10 required no substantive English correction and caused no canonical Tamil changes; all five bilingual records contain complete audited Tamil appendices."
+  - "The final translation batch consists of the two actual source records 3648 and 3649."

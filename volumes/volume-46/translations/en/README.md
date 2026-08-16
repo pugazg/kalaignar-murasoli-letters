@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; 48 English files exist and all 48 are source-checked, structurally complete and bilingual-alignment verified**.
+Status: **main translation in progress; 53 English files exist and all 53 are source-checked, structurally complete and bilingual-alignment verified**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -18,14 +18,15 @@ Structurally complete verified bilingual records:
 - **3625–3629** — Batch 7, verified.
 - **3630–3634** — Batch 8, verified.
 - **Batch 9 actual source order: 3635; 3637 (first); 3637 (second); 3638; 3639** — verified, covering PDF **329–355**.
+- **Batch 10 actual source order: 3640; 3641; 3642; 3643; 3647** — verified, covering PDF **356–387**.
 
-**English files: 48 / 55.**  
-**Structurally complete verified bilingual records: 48 / 55 actual source records.**  
+**English files: 53 / 55.**  
+**Structurally complete verified bilingual records: 53 / 55 actual source records.**  
 **Draft-translated / alignment-pending: 0.**
 
 The source numbering anomaly is preserved exactly: **there is no 3636**, and the scan prints **two distinct consecutive 3637 records**. English records use distinct stable filenames while retaining `letter_number: 3637` for both source items.
 
-Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md), [Batch 6](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md), [Batch 7](BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md), [Batch 8](BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md), [Batch 9](BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md). The closed structural regression is documented in [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
+Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md), [Batch 6](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md), [Batch 7](BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md), [Batch 8](BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md), [Batch 9](BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md), [Batch 10](BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md). The closed structural regression is documented in [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
 ## Batch 9 — VERIFIED COMPLETE
 
@@ -51,4 +52,4 @@ All five contain translator-note blocks and complete audited Tamil appendices. *
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** draft the next five **actual source records** in scan order: **3640, 3641, 3642, 3643, 3647**. Preserve the jump after 3643 and do not invent 3644–3646. Embed complete audited Tamil and translator notes from creation; leave the new records draft/pending until their separate bilingual source-alignment gate.
+**Exact next task:** draft the final two actual source records, **3648 and 3649**, in scan order. Embed complete audited Tamil and translator notes from creation; leave both draft/pending until their final bilingual source-alignment gate.

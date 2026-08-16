@@ -8,9 +8,9 @@ source_pdf_page_start: 367
 source_pdf_page_end: 370
 source_printed_page_start: 366
 source_printed_page_end: 369
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s autobiographical recollections of *Murasoli*, the verse passages, the anti-Hindi student mobilisation, the Vallalar quotation, the memories of the Krishna Press and the bamboo bridge, the Perunchithiranar intervention, the references to Periyar and Anna, and the closing appeal to increase daily *Murasoli* sales threefold are preserved in source order. Source-specific wording and the source’s lack of a comma after `அன்புள்ள` in the closing are retained in the Tamil appendix. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. Kalaignar’s autobiographical recollections of *Murasoli*, the verse passages, the anti-Hindi student mobilisation, the Vallalar quotation, the memories of the Krishna Press and the bamboo bridge, the Perunchithiranar intervention, the references to Periyar and Anna, and the closing appeal to increase daily *Murasoli* sales threefold are preserved in source order. Source-specific wording and the source’s lack of a comma after `அன்புள்ள` in the closing are retained in the Tamil appendix. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3642](../../../chapters/3642-murasoli-ennikkai-mummadangu-peruga-vendum.md)  
 **Source pages:** [PDF 367](../../../pages/page-367.md)–[PDF 370](../../../pages/page-370.md)  
