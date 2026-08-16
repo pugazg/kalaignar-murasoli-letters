@@ -10,6 +10,7 @@
 - [x] Initial regular five-letter batch: letters 0002–0006 / PDF 028–047
 - [x] Volume 1 batch override adopted: **10 complete letters per regular iteration**
 - [x] First ten-letter batch: letters 0007–0016 / PDF 048–089
+- [x] Second ten-letter batch: letters 0017–0026 / PDF 090–126
 - [ ] Remaining ten-complete-letter Volume 1 migration iterations
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
@@ -20,17 +21,18 @@
 
 ## Current boundary
 
-- Canonical page files: **89 / 401**
+- Canonical page files: **126 / 401**
 - Printed contents entries captured: **110 / 110**
-- Canonically completed letters: **16 / 110**
-- Completed canonical letter range: **0001–0016**
+- Canonically completed letters: **26 / 110**
+- Completed canonical letter range: **0001–0026**
 - Partial canonical letter: **none**
-- Canonical letter coverage: **PDF 024–089**
+- Canonical letter coverage: **PDF 024–126**
 - Current Volume 1 regular batch size: **10 letters**
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
+- New batch anomalies/divergences are recorded in `AUDIT.md`, including scan-visible PDF 099 text absent from the legacy reading copy
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
 - Canonically migrated/verified English records: **0 / 110**
 
 ## Exact next task
 
-Begin at **PDF 090**, where the scan visibly starts letter **0017 — `கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்!`**. Process exactly **10 complete consecutive letters, 0017–0026**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0027. Keep the legacy bilingual corpus untouched and do not start English migration.
+Begin at **PDF 127**, where the scan visibly starts letter **0027 — `காட்சி காண அல்ல - களம் காண!`**. Process exactly **10 complete consecutive letters, 0027–0036**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0037. Keep the legacy bilingual corpus untouched and do not start English migration.

@@ -20,11 +20,21 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0014 | ‘பகைமரம்’ தழைக்க விடோம்! | 1968-11-11 | 078–081 | complete |
 | 0015 | நம்பிக்கையில்லாத் தீர்மானம் - நாடாளுமன்ற நிகழ்ச்சி! | 1968-11-14 | 082–085 | complete |
 | 0016 | யார் அந்த உணவு அமைச்சர்? | 1968-11-16 | 086–089 | complete |
+| 0017 | கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்! | 1968-11-18 | 090–093 | complete |
+| 0018 | கழுதையும் - பன்றியும்! | 1968-11-22 | 094–096 | complete |
+| 0019 | “பசுத்தோல் வேங்கை பாராய்!” | 1968-11-25 | 097–100 | complete |
+| 0020 | “தமிழ்த்தாயே அவர்களை மன்னித்துவிடு!” | 1968-11-26 | 101–104 | complete |
+| 0021 | ‘தமிழ் நாடு’ ஒரு முழு விளக்கம்! | 1968-11-28 | 105–116 | complete |
+| 0022 | கண்கள் திறக்க ஒரு கதை! | 1968-12-02 | 117–118 | complete |
+| 0023 | பரிதாபப்படுகிறேன்! | 1968-12-05 | 119 | complete |
+| 0024 | “அரசியல் மோசடியாம் - அறிவிக்கிறார்; ஆழ்வப் பிறவி!” | 1968-12-07 | 120–122 | complete |
+| 0025 | இந்தியும் மொரார்ஜி தேசாயும்! | 1968-12-09 | 123–124 | complete |
+| 0026 | தகுந்த பாடம் தரவேண்டாமா? | 1968-12-20 | 125–126 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
 Source-pagination note: the scan visibly jumps from printed page **38** on PDF 039 to printed page **40** on PDF 040 while the sentence continues without a gap. The missing printed number 39 is therefore preserved as a pagination anomaly, not treated as missing source text.
 
-Actual letter headings control over contents-page variants. This matters already for letters 0008 and 0012.
+Actual letter headings control over contents-page variants. This matters for letters 0008, 0012 and 0024; letter 0024's actual heading-page form is `ஆழ்வப் பிறவி`.
 
-The scan confirms that letter 0017 begins at PDF 090.
+The scan confirms that letter 0027 — `காட்சி காண அல்ல - களம் காண!` — begins at PDF 127. PDF 127 was inspected only for that boundary; no letter 0027 text is part of the completed 0017–0026 batch.

@@ -116,8 +116,44 @@ Checks performed:
 - legacy bilingual files remain unchanged;
 - English migration remains blocked.
 
+## Iteration 5 — second Volume 1 ten-letter batch: 0017–0026
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0017 — `கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்!`: PDF **090–093**, date **18-11-1968**;
+- 0018 — `கழுதையும் - பன்றியும்!`: PDF **094–096**, date **22-11-1968**;
+- 0019 — `“பசுத்தோல் வேங்கை பாராய்!”`: PDF **097–100**, date **25-11-1968**;
+- 0020 — `“தமிழ்த்தாயே அவர்களை மன்னித்துவிடு!”`: PDF **101–104**, date **26-11-1968**;
+- 0021 — `‘தமிழ் நாடு’ ஒரு முழு விளக்கம்!`: PDF **105–116**, date **28-11-1968**;
+- 0022 — `கண்கள் திறக்க ஒரு கதை!`: PDF **117–118**, date **02-12-1968**;
+- 0023 — `பரிதாபப்படுகிறேன்!`: PDF **119**, date **05-12-1968**;
+- 0024 — `“அரசியல் மோசடியாம் - அறிவிக்கிறார்; ஆழ்வப் பிறவி!”`: PDF **120–122**, date **07-12-1968**;
+- 0025 — `இந்தியும் மொரார்ஜி தேசாயும்!`: PDF **123–124**, date **09-12-1968**;
+- 0026 — `தகுந்த பாடம் தரவேண்டாமா?`: PDF **125–126**, date **20-12-1968**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **090–126**: **37 / 37**;
+- all ten heading pages, salutations, closing/sign-off forms and printed dates visually checked against the controlling scan;
+- actual heading-page title controls over the contents variant for 0024; canonical title retains `ஆழ்வப் பிறவி`;
+- PDF 095 deliberately suppresses words with printed ellipses around `சேலையிலே`; the omission marks are preserved and no wording is reconstructed;
+- PDF 099 contains substantial scan-visible text that is absent from the legacy Tamil reading copy, including Anna's `ரத்தத்தின் ரத்தம் / சதையின் சதை` response and the Morarji/Hindi passage; canonical transcription follows the scan, not the legacy record;
+- PDF 101 has a library stamp and handwritten accession/notation marks over/above the heading; these are non-authorial and omitted;
+- PDF 109 prints `(?)` after `பொய்யா`; it is retained;
+- PDF 113 prints `கண்யம்`; it is retained rather than normalised;
+- PDF 115 repeats `தமிழ் நாடா?` before `மெட்ராஸ் ஸ்டேட்டா?`; the repetition is retained;
+- PDF 119 contains an unmatched opening parenthesis after `திரியும்போது-`; it is retained as printed;
+- PDF 123 and PDF 125 contain source-leading hyphens before `துணைப் பிரதமர்` and `ஷாவின்`; they are retained;
+- PDF 124 prints `வில்லையா?`; it is retained;
+- no silent modernisation, regularisation or reconstruction was applied to source-supported unusual forms;
+- PDF 127 was inspected only enough to verify the start of 0027 — `காட்சி காண அல்ல - களம் காண!`; no PDF-127 text is committed in this batch;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain unstarted/blocked as required.
+
 ## Current boundary
 
-Canonical PDF coverage is **001–089 / 401**. Letters **0001–0016** are canonically complete. The next activity begins at PDF 090 and follows the Volume 1-specific **10-letter** rule for letters **0017–0026**, stopping before letter 0027.
+Canonical PDF coverage is **001–126 / 401**. Letters **0001–0026** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF 127 with letter 0027 and follows the Volume 1-specific **10-letter** rule for letters **0027–0036**, stopping before letter 0037.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.
