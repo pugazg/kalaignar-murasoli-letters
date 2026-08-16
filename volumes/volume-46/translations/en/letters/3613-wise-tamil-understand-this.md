@@ -8,9 +8,9 @@ source_pdf_page_start: 168
 source_pdf_page_end: 174
 source_printed_page_start: 167
 source_printed_page_end: 173
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The Maraimalai Adigal/Thiruvalluvar-year chronology, quoted Governor’s Address, statements by Tamil scholars and movement leaders, the Nakkiran–Kuyakkondan story, legislative history, Bharathidasan verse and Kalaignar’s closing appeal are preserved in source order. The complete audited Tamil remains authoritative. This draft awaits separate bilingual review.
+> This translation follows the locked Volume 46 conventions. The Maraimalai Adigal/Thiruvalluvar-year chronology, quoted Governor’s Address, statements by Tamil scholars and movement leaders, the Nakkiran–Kuyakkondan story, legislative history, Bharathidasan verse and Kalaignar’s closing appeal are preserved in source order. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3613](../../../chapters/3613-puththiyulla-tamizhaa-nee-purinthukondaal-sari.md)  
 **Source pages:** [PDF 168](../../../pages/page-168.md)–[PDF 174](../../../pages/page-174.md)  
