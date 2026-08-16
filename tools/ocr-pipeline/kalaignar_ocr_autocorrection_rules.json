@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "description": "Conservative source-confirmed OCR rules learned from Kalaignar Letters Volume 53. Exact token rules never perform substring replacement. Context rules require every listed context term in the same paragraph.",
+  "rules": [
+    {"id":"ta-001","type":"exact_token","ocr":"தந்ைத","corrected":"தந்தை","evidence_count":10,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-002","type":"exact_token","ocr":"தோர்தல்","corrected":"தேர்தல்","evidence_count":6,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-003","type":"exact_token","ocr":"முதவீடு","corrected":"முதலீடு","evidence_count":4,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-004","type":"exact_token","ocr":"எலலாம்","corrected":"எல்லாம்","evidence_count":4,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-005","type":"exact_token","ocr":"முதவீடுகள்","corrected":"முதலீடுகள்","evidence_count":3,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-006","type":"exact_token","ocr":"கலவித்","corrected":"கல்வித்","evidence_count":3,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-007","type":"exact_token","ocr":"ஐனநாயக","corrected":"ஜனநாயக","evidence_count":2,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-008","type":"exact_token","ocr":"ஐனவரி","corrected":"ஜனவரி","evidence_count":2,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-009","type":"exact_token","ocr":"அனறு","corrected":"அன்று","evidence_count":2,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-010","type":"exact_token","ocr":"உத்திரப்பிரதேச","corrected":"உத்தரப்பிரதேச","evidence_count":2,"scope":"kalaignar_corpus_vocabulary","confidence":"high"},
+    {"id":"ta-011","type":"exact_token","ocr":"அமலபடுத்தப்பட்டு","corrected":"அமல்படுத்தப்பட்டு","evidence_count":2,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-012","type":"exact_token","ocr":"வாயப்பு","corrected":"வாய்ப்பு","evidence_count":2,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-013","type":"exact_token","ocr":"கொ௫ர","corrected":"கொடூர","evidence_count":2,"scope":"generic_tamil_ocr","confidence":"high"},
+    {"id":"ta-014","type":"exact_token","ocr":"உத்திரவிடுங்கள்","corrected":"உத்தரவிடுங்கள்","evidence_count":2,"scope":"kalaignar_corpus_vocabulary","confidence":"high"},
+
+    {"id":"ctx-001","type":"context_token","ocr":"PIFLD","corrected":"முரசம்","required_context":["வெற்றி","ஒலிக்கும்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"ctx-002","type":"context_token","ocr":"STUNG","corrected":"தீர்ப்பிலே","required_context":["தீர்ப்ப"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"ctx-003","type":"context_token","ocr":"Feveneu","corrected":"சலவை","required_context":["மூளைச்","Brain-Wash"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"ctx-004","type":"context_token","ocr":"Osu","corrected":"இதய","required_context":["நோய்","நீரிழிவு"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"ctx-005","type":"context_token","ocr":"SLE","corrected":"தடச்","required_context":["ஒரு வழித்","சாலைகள்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"ctx-006","type":"context_span","ocr":"Maus தப்பட்டு","corrected":"விரிவுபடுத்தப்பட்டு","required_context":["மாற்றுத் திறனாளிகளுக்கும்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"ctx-007","type":"context_token","ocr":"வற்றி","corrected":"வெற்றி","required_context":["உடன்பிறப்புகள்தான்"],"scope":"kalaignar_corpus_vocabulary","confidence":"source_verified"},
+    {"id":"ctx-008","type":"context_token","ocr":"வபறுகிறவர்களும்","corrected":"பெறுகிறவர்களும்","required_context":["உடன்பிறப்புகள்தான்"],"scope":"kalaignar_corpus_vocabulary","confidence":"source_verified"},
+    {"id":"ctx-009","type":"context_token","ocr":"ஆடிட்சியா","corrected":"ஆட்சியா","required_context":["காட்சியா"],"scope":"generic_tamil_ocr","confidence":"source_verified"},
+    {"id":"ctx-010","type":"context_token","ocr":"தீறனாளிகளை","corrected":"திறனாளிகளை","required_context":["மாற்றுத்"],"scope":"generic_tamil_ocr","confidence":"source_verified"},
+    {"id":"ctx-011","type":"context_token","ocr":"எமாற்றும்","corrected":"ஏமாற்றும்","required_context":["மாற்றுத்"],"scope":"generic_tamil_ocr","confidence":"source_verified"},
+    {"id":"ctx-012","type":"context_token","ocr":"வி௫வது","corrected":"விடுவது","required_context":["எதை"],"scope":"generic_tamil_ocr","confidence":"source_verified"},
+
+    {"id":"v52-001","type":"context_token","ocr":"Site","corrected":"சட்ட","required_context":["விரோதமாக","நகராட்சி ஆணையர்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"v52-002","type":"context_token","ocr":"Cars","corrected":"தேர்தல்","required_context":["ஜெயலலிதா","பிரச்சாரத்தில்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"v52-003","type":"context_span","ocr":"AOS துள்ள","corrected":"விடுத்துள்ள","required_context":["இள.புகழேந்தி","அறிக்கையில்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"v52-004","type":"context_span","ocr":"சூப்பர் ௫ப்பர்","corrected":"சூப்பர் டூப்பர்","required_context":["டி.வி லிமிடெட்"],"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"v52-005","type":"exact_token","ocr":"பிராபா்ட்டீஸ்","corrected":"பிராபர்ட்டீஸ்","evidence_count":1,"scope":"murasoli_typography","confidence":"source_verified"},
+    {"id":"v52-006","type":"exact_token","ocr":"உயா்நிலைச்","corrected":"உயர்நிலைச்","evidence_count":1,"scope":"generic_tamil_ocr","confidence":"source_verified"},
+    {"id":"v52-007","type":"exact_token","ocr":"தேோரதல்","corrected":"தேர்தல்","evidence_count":1,"scope":"generic_tamil_ocr","confidence":"source_verified"},
+    {"id":"v52-008","type":"exact_token","ocr":"கடத்தப்பட்டாா","corrected":"கடத்தப்பட்டார்","evidence_count":1,"scope":"generic_tamil_ocr","confidence":"source_verified"},
+    {"id":"v52-009","type":"context_token","ocr":"ஆ௫ு","corrected":"ஆடு","required_context":["மாடுகளும்"],"scope":"generic_tamil_ocr","confidence":"source_verified"}
+  ],
+  "prohibited_automatic_patterns": [
+    "terminal consonant deletion or insertion inferred only from edit distance",
+    "sandhi or inflection normalization",
+    "global Latin-script deletion",
+    "numeric or date repair without an explicit source-confirmed rule",
+    "substring replacement inside a larger token",
+    "rules with competing corrected targets"
+  ]
+}

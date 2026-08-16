@@ -1,0 +1,122 @@
+volume: 46
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 46"
+author: "கலைஞர்"
+date_from: 2011-10-05
+date_to: 2012-08-15
+letter_number_from: 3592
+letter_number_to: 3649
+letter_count: 55
+printed_contents_entry_count: 55
+letter_count_status: "verified from complete source scan; source numbering anomalies preserved"
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+pdf_pages: 402
+source_file: "Vol46.pdf"
+source_sha256: "ff88d5a78a5ef4d96888ec2f5a0a3653a4f34b1bfbcb0317b5191242cc72cff9"
+source_size_bytes: 200631699
+source_searchable_text_layer: false
+transcription_page_range: "1-402"
+transcription_status: "first-pass-complete"
+recorded_letter_range: "3592-3649 (55 actual source records; numbering anomalies documented)"
+completed_letter_range: "3592-3635; 3637 (two source records; no 3636); 3638-3643; 3647-3649 (no 3644-3646)"
+completed_letter_count: 55
+partial_letter: null
+source_incomplete_letters: []
+source_incomplete_letter_count: 0
+source_missing_printed_pages: []
+audit_status: "full-volume-audit-complete"
+audit_date: 2026-08-15
+second_visual_verification: "complete"
+second_visual_verified_page_range: "1-402"
+second_visual_verified_page_count: 402
+textual_fidelity_correction_pages: 29
+textual_fidelity_correction_spans: 32
+textual_fidelity_audit_reports:
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_301_325.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_326_350.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_376_402.md"
+translation_status: "translated-verified"
+translation_pilot_status: "verified-complete"
+translation_conventions_status: "locked"
+translated_letter_range: "3592-3649 (55 actual source records; anomalies preserved)"
+translated_letter_count: 55
+source_checked_letter_count: 55
+verified_translation_count: 55
+structurally_complete_verified_count: 55
+structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
+structurally_incomplete_verified_range: null
+reviewed_structural_pending_range: null
+draft_alignment_pending_range: null
+bilingual_alignment_status: "complete"
+bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
+bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
+editorial_consistency_review_status: "complete"
+english_release_status: "released"
+translation_manifest_rows: 55
+editorial_english_word_count: 90510
+source_observations:
+  - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
+  - "PDF page 3 prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
+  - "No usable searchable text layer exists on any of the 402 PDF pages; rendered scan images control transcription."
+  - "Every source PDF page 1-402 has a canonical Markdown page file."
+  - "Printed contents contain 55 rows; complete scan verification confirms 55 actual source-letter records."
+  - "Source numbering anomalies are real in the scan: after 3635 the source prints 3637 twice with no 3636; after 3643 the source jumps to 3647 with no 3644-3646. No archival renumbering has been applied."
+  - "Canonical letter coverage is PDF 24-400 continuous; PDF 401 is printed page 400 with no body text; PDF 402 is the back cover."
+  - "Known contents/actual-heading distinctions are preserved for 3620, 3625, 3634, the second 3637, and 3647."
+  - "The full-volume Tamil structural audit passed on 2026-08-15."
+  - "The second visual/textual-fidelity pass is complete for PDF 001-402 / 402 and required 29 corrected canonical pages / 32 corrected spans."
+  - "Final fidelity correction: PDF 385 first-pass 'பேரினால் பாதிக்கப்பட்டும்' corrected to source 'போரினால் பாதிக்கப்பட்டும்'."
+  - "English translation pilot letters 3592-3594 are source-checked and bilingual-alignment verified."
+  - "One English-only pilot correction was applied to 3594 to translate the duplicated Tamil rendering of the Colin Gonsalves quotation in full; canonical Tamil did not change."
+  - "Pilot conventions are locked."
+  - "First normal five-letter translation batch 3595-3599 is source-checked and bilingual-alignment verified."
+  - "Batch 3595-3599 required three English-only corrections: one in 3595 and two in 3597; canonical Tamil did not change."
+  - "Second normal five-letter translation batch 3600-3604 is source-checked and bilingual-alignment verified."
+  - "Batch 3600-3604 required two English-only corrections: one in 3602 and one in 3603; canonical Tamil did not change."
+  - "Letter 3604 retains the source-printed 'ரூ.2260/' sequence without silent arithmetic regularisation."
+  - "Third normal five-letter translation batch 3605-3609 is source-checked and bilingual-alignment verified."
+  - "Batch 3605-3609 required no substantive English correction and no canonical Tamil change."
+  - "Fourth normal five-letter translation batch 3610-3614 is source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Batch 3610-3614 required one substantive English-only correction in 3614: an unsupported first-person subject was removed; canonical Tamil did not change."
+  - "Fifth normal five-letter translation batch 3615-3619 is source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Batch 3615-3619 required English-only corrections in 3615 and 3616: source token 'perhelion' was restored in 3615, and two unsupported editorial-attribution spans were removed in 3616; canonical Tamil did not change."
+  - "Sixth normal five-letter translation batch 3620-3624 is source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Batch 3620-3624 covers PDF 221-261; complete canonical Tamil appendices and translator-note blocks are present in all five bilingual records."
+  - "Letter 3623 received two English corrections: the repeated source title ending is preserved as 'A Political Turn; What Happened That Day? What?', and 'அதை அப்படியே இங்கே தந்துள்ளேன்' is rendered 'I reproduce it here exactly.'"
+  - "The bilingual-record structural regression identified across 3610-3624 is fully closed; all verified English records through 3634 are structurally complete."
+  - "Seventh normal five-letter translation batch 3625-3629 is source-checked and bilingual-alignment verified."
+  - "Batch 3625-3629 covers PDF 262-295 and all five records contain translator-note blocks and complete fidelity-cleared Tamil appendices."
+  - "Letter 3625 preserves the actual letter heading 'ஒரு சுயமரியாதைக்காரனின் சூளுரை!' separately from the differing printed-contents form."
+  - "Batch 3625-3629 required one English-only correction in 3626: the source-printed 26-10-2010 AITUC participant names were restored instead of being compressed to generic representatives; canonical Tamil did not change."
+  - "Batch 3625-3629 caused no canonical Tamil changes."
+  - "Eighth normal five-letter translation batch 3630-3634 is source-checked and bilingual-alignment verified."
+  - "Batch 3630-3634 covers PDF 296-328 and all five bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices from creation."
+  - "Batch 3630-3634 required two English-only corrections in 3631: 'நீங்கள் தான் குற்றவாளி' was restored with its direct accusatory force, and the source-printed Tamil rendering following the English The Hindu passage was translated separately and in full rather than summarized."
+  - "Letter 3634 preserves the actual semicolon heading separately from the differing printed-contents comma form and retains the long source-printed arrested-person list without compression."
+  - "Batch 3630-3634 caused no canonical Tamil changes."
+  - "Ninth five-record translation batch is source-checked and bilingual-alignment verified in actual source order: 3635; first 3637; second 3637; 3638; 3639, covering PDF 329-355."
+  - "Batch 9 preserves the scan anomaly of no 3636 and two distinct consecutive 3637 records; both 3637 English files retain letter_number 3637 and use separate stable filenames/variant markers."
+  - "The second 3637 is a one-page proclamation-like source item; its actual heading 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!' is preserved separately from the printed-contents form, and its handwritten signature is described rather than interpreted."
+  - "Batch 9 required one English-only lexical correction in the second 3637: 'கிளம்பிற்று காண் தமிழச் சிங்கக் கூட்டம்' is verified as 'Behold! The host of Tamil lions has set forth!' rather than 'pride of Tamil lions'."
+  - "All five Batch 9 bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices."
+  - "Batch 9 caused no canonical Tamil changes."
+  - "Tenth five-record translation batch is source-checked and bilingual-alignment verified in actual source order: 3640, 3641, 3642, 3643, 3647, covering PDF 356-387."
+  - "Batch 10 required no substantive English correction and caused no canonical Tamil changes; all five bilingual records contain complete audited Tamil appendices."
+  - "Final two-record translation batch 3648-3649 is draft-translated, structurally complete and awaiting bilingual source-alignment review, covering PDF 388-400."
+  - "All 55 actual source records now have English bilingual files; 53 are verified and 2 are draft/pending."
+  - "Final drafting caused no canonical Tamil changes."

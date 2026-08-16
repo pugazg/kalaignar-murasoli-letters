@@ -1,0 +1,324 @@
+---
+volume: 49
+letter_number: 3776
+tamil_title: "தொய்வின்றி தொடரும் நமது பயணம்!"
+english_title: "Our Journey Continues Without Faltering!"
+date: 2013-07-18
+source_pdf_page_start: 107
+source_pdf_page_end: 113
+source_printed_page_start: 106
+source_printed_page_end: 112
+translation_status: "verified"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "verified"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3775_3779.md"
+source_textual_fidelity_audit: "visual-scan-verified-with-corrections"
+---
+
+# 3776. Our Journey Continues Without Faltering!
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 3776](../../../chapters/3776-thoyvindri-thodarum-namathu-payanam.md)  
+**Source pages:** [PDF 107](../../../pages/page-107.md)–[PDF 113](../../../pages/page-113.md)  
+**Textual-fidelity audit:** Complete — every source Markdown page from PDF 107 through PDF 113 was visually compared against its corresponding scan before translation.  
+**Date:** 18 July 2013
+
+**Udanpirappē,**
+
+As a continuation of the measures we have been taking so that Eelam Tamils may democratically obtain every kind of right and live with self-respect and dignity, a meeting of the Tamil Eelam Supporters Organisation—TESO—was held at Anna Arivalayam in Chennai on 16 July 2013. Five resolutions were adopted, and you would have read them all in the newspapers.
+
+The Tamil Eelam Supporters Organisation, TESO, was formed about twenty-five years ago so that light might enter the lives of Sri Lankan Tamils, who had continually been subjected to unending suffering. It was created jointly by the Dravida Munnetra Kazhagam, the Dravidar Kazhagam led by Tamilar Thalaivar K. Veeramani, and the Kamaraj Congress movement then led by Madurai Nedumaran. At a public meeting at Tiruvallur on 26 April 1985, I announced the formation of TESO. I served as its President, while the DMK General Secretary, Professor Anbazhagan, Tamilar Thalaivar K. Veeramani, Pazha Nedumaran and Ayyanan Ambalam served as members.
+
+In support of Eelam Tamils, 4,002 people took part in civil-disobedience protests and were arrested in Chennai on 29 April 1985; 3,000 in Tiruchirappalli on the 30th; 1,000 in Dharmapuri on 3 May; 3,000 in Salem on the 6th; 6,000 in Thanjavur on the 7th; 2,500 in North Arcot on the 8th; 3,000 in South Arcot on the 13th; 1,500 in Periyar district on the 15th; 3,000 in Kanchipuram district on the 16th; 3,500 in Coimbatore and the Nilgiris on the 17th; 3,000 in Ramanathapuram, Pasumpon and Kamarajar districts on the 18th; 5,000 in Madurai district on the 20th; and 5,500 in Tirunelveli, Kanyakumari and Puducherry on the 22nd.
+
+When I went to participate in the civil-disobedience protest held at Kanchipuram on 16 May 1985 to safeguard the welfare of Sri Lankan Tamils, the police arrested me along with one thousand others and imprisoned us. When the judge asked whether I admitted the charge, I replied: “In the eyes of the court, I may legally be guilty. But, by my conscience and on the basis of my feeling for the Tamil people, I am not guilty.”
+
+During February and March 1986, the atrocities of the Sinhala army in Sri Lanka intensified. One day, the Sri Lankan army entered the village of Thangavelayuthapuram in Amparai district and shot dead every woman, elderly person and child it saw, as though shooting birds. More than sixty Tamils died in a single day. As such grievous reports continued to reach Tamil Nadu, an organising meeting of TESO was held in Chennai under my chairmanship. We decided to conduct processions in every district and to convene, in Madurai, a **Conference for the Protection of Sri Lankan Tamils**, inviting leaders of various parties from across India.
+
+On behalf of TESO, enormous processions concerning the Sri Lankan Tamil issue were held at Coimbatore on 3 October 1985, Dindigul on 4 October, Thoothukudi on 5 October, Tiruchirappalli on 6 October, Salem on 7 October and Vellore on 13 October.
+
+At the Eelam Tamil Support Conference held in Madurai on 4 May 1986, the participating representatives included Amirthalingam for TULF; Thilakar for the LTTE (Liberation Tigers); Mathi for TELO; Chandrahassan for the organisation printed in the source as “PROTEC”; Rathinasabapathy for EROS; Eelavendan for TELF; Varadaraja Perumal for EPRLF; and Vasudevan for PLOTE. National leaders who attended included N. T. Rama Rao, Atal Bihari Vajpayee, Bahuguna, Ramuwalia, Upendra, Unnikrishnan, Jaswant Singh and Karnataka Home Minister Rachaiah. Leaders from Tamil Nadu included Professor Anbazhagan, Tamilar Thalaivar Veeramani, Pazha Nedumaran, Ayyanan Ambalam, Abdul Samad and Subramanian Swamy. That conference too was conducted by TESO solely to help bring a permanent dawn to the lives of Sri Lankan Tamils.
+
+Therefore, none of the programmes we conduct through TESO is organised with the ulterior motives alleged by a few irresponsible babblers. The **Eelam Tamils’ Right to Life Protection Conference** conducted by TESO in Chennai on 12 August 2012 was likewise held without giving room for any ulterior motive. We conducted it despite every obstruction placed by the AIADMK Government. Some had indulged in the fantasy that neither the evening TESO conference nor the morning seminar would take place; that even if they did, no one concerned about the Sri Lankan Tamil issue would attend from abroad, Sri Lanka or northern India; and that Karunanidhi was destined to be deceived. The conference concluded with such distinction, success and usefulness to Eelam Tamils that it blackened the faces of all who had entertained those hopes.
+
+At the seminar conducted that morning for more than three hours, more than thirty international delegates, Tamil enthusiasts and people consistently engaged with the Eelam Tamil issue attended from northern Indian States and from the United States, Britain, Switzerland, Sweden, Morocco, Singapore, Malaysia, Nigeria and Sri Lanka. Only a few stayed away for fear of what Sri Lanka’s tyrannical Government might do if they attended. They presented detailed views and amendments to the eleven draft resolutions, helped shape the final resolutions, and proposed three additional resolutions, which were debated and approved for adoption at the conference. In particular, the final resolution condemning the Tamil Nadu AIADMK Government for ordering that permission be denied to the TESO conference was proposed by my dear friend Ram Vilas Paswan, leader of the Lok Janshakti Party, former Union Minister and then Member of Parliament.
+
+We did not end TESO’s work with that historic conference. A meeting was held under my chairmanship at Anna Arivalayam on 19 November 2012. The General Secretary, Professor Anbazhagan; my younger brother K. Veeramani; Thol. Thirumavalavan; Professor Suba. Veerapandian; Mrs Subbulakshmi Jagadeesan; Thalapathi M. K. Stalin and DMK Parliamentary Party leader T. R. Baalu, who had gone to the United Nations and presented the necessary explanations on the Sri Lankan Tamil issue; organising secretary T. K. S. Elangovan, who had attended the London conference; advocates Radhakrishnan and Ravikumar; and Hasan Mohamed Jinnah participated. Four important resolutions were adopted.
+
+TESO met again at Anna Arivalayam under my chairmanship on 4 February 2013 and adopted nine resolutions. That meeting passed resolutions on the renaming of eighty-nine Tamil villages in Sri Lanka with Sinhala names and on the destruction of 367 Hindu temples, mosques and churches used by Tamils. It also resolved to hold TESO protest demonstrations at Rameswaram on 18 February and Nagapattinam on 19 February against the Sri Lankan navy’s continuing harassment of Tamil Nadu fishermen. Those non-violent protests were held with enormous public support.
+
+TESO met again under my chairmanship at Anna Arivalayam on 25 February 2013. Afterwards, Tamilar Thalaivar K. Veeramani met journalists on my behalf and announced that, on 5 March, TESO would conduct a **siege protest** at the Sri Lankan Deputy High Commission in Chennai to condemn Sri Lankan President Rajapaksa as a war criminal who had violated human rights. On the same day, DMK Members of Parliament and Viduthalai Chiruthaigal Katchi MP Thol. Thirumavalavan would conduct a protest in front of Parliament in Delhi. He also announced that leaders of all political parties and various humanitarian organisations would attend a special TESO conference and seminar in Delhi on 7 March. All those events were duly and successfully held.
+
+Following TESO’s siege protest on 5 March 2013, a meeting of TESO members at Anna Arivalayam resolved to conduct a statewide general strike on 12 March, pressing the Government of India to support the United States resolution condemning the Sri Lankan Government’s genocide.
+
+At the TESO meeting held on 15 April 2013, we declared that ceding Katchatheevu to Sri Lanka through an agreement was constitutionally invalid. We decided that TESO would approach the Supreme Court to have the 1974 agreement annulled and Katchatheevu declared a part of India. A case was accordingly filed in my name. The Supreme Court admitted it and directed the Union Government to submit a response.
+
+It is in this sequence that TESO met yesterday, 16 July 2013. Resolutions were adopted urging full implementation of the Thirteenth Amendment to Sri Lanka’s Constitution; insisting that India must not participate in the Commonwealth conference to be held in Sri Lanka; calling for the protection of Tamil Nadu fishermen; and demanding an end to Sinhala settlement in Tamil areas of Sri Lanka.
+
+To draw the Union Government’s attention to these resolutions and unite Tamil awakening against Sinhala domination, TESO decided to conduct a **Tamil People’s Mass Demonstration** at district headquarters throughout Tamil Nadu on 8 August.
+
+Udanpirappē, on behalf of our movement, the leadership has been deciding and announcing demonstrations over the Sri Lankan issue, the need to implement the Sethusamudram project and other public concerns. I ask all of you to understand that the present political circumstances compel us to conduct such programmes.
+
+Our relationship with Sri Lankan Tamils is an umbilical-cord relationship. I am fully confident that, as always, you will make the demonstration to be held for them by TESO on 8 August distinguished and successful. When I say that I shall lead the demonstration in Chennai, you too will make it a great success—you must! Until Eelam Tamils obtain a permanent political solution, our journey along the path of non-violence will not stop.
+
+**With affection,**  
+**M.K.**  
+**18 July 2013**
+
+## Letter-specific notes
+
+1. The source prints one participating organisation at the 1986 Madurai conference as `“புரோடெக்”` (“PROTEC”). It is retained as printed rather than silently identified or corrected.
+2. **TESO** is the Tamil Eelam Supporters Organisation. **Eelam Tamils** is retained for Sri Lankan Tamils in contexts where Kalaignar invokes the political and historical movement term.
+3. The names and arrest totals are preserved exactly as presented in the source.
+
+## Original Tamil — மூலத் தமிழ்
+
+The text below is reproduced in full from the audited and corrected canonical Tamil page files. The Tamil source remains authoritative.
+
+<!-- Source PDF page 107 -->
+
+3776. தொய்வின்றி தொடரும் நமது பயணம்!
+உடன்பிறப்பே,
+
+ஈழத் தமிழர்கள் ஜனநாயக ரீதியாக அனைத்து வகை
+உரிமைகளையும் பெற்று, சுயமரியாதையோடும், கண்ணியத்
+தோடும் வாழ்ந்திட வேண்டும் என்பதற்காக நாம் மேற்கொண்டு
+வரும் நடவடிக்கைகளின் தொடர்ச்சியாக, 16-7-2013 அன்று
+சென்னை அண்ணா அறிவாலயத்தில் “டெசோ” அமைப்பின்
+கூட்டம் நடைபெற்று, ஐந்து தீர்மானங்கள் நிறைவேற்றப்பட்டு,
+அந்தத் தீர்மானங்கள் எல்லாம் ஏடுகளில் வெளிவந்திருப்பதைப்
+படித்திருப்பாய்!
+
+இடையறாத இன்னல்களுக்குத் தொடர்ந்து ஆளாகிவரும்
+இலங்கைத் தமிழர்தம் வாழ்வில் ஒளி காண வேண்டும் என்பதற்காக
+திராவிட முன்னேற்றக் கழகமும், தமிழர் தலைவர் கி. வீரமணி
+அவர்கள் தலைமையிலான திராவிடர் கழகமும், மதுரை நெடுமாறன்
+தலைமையில் இருந்த காமராஜ் காங்கிரஸ் இயக்கமும் சேர்ந்து
+தான் தமிழ் ஈழ ஆதரவாளர் இயக்கம் என்ற “டெசோ” அமைப்பு
+சுமார் 25 ஆண்டுகளுக்கு முன்பு தோற்றுவிக்கப்பட்டது. 26-4-
+1985 அன்று திருவள்ளூரில் நடைபெற்ற பொதுக் கூட்டத்தில்
+தமிழ் ஈழ ஆதரவாளர் அமைப்பு (டெசோ) உருவாக்கப்படுவதைப்
+பற்றி அறிவித்தேன். டெசோ அமைப்புக்கு தலைவராக நானும்,
+உறுப்பினர்களாக கழகப் பொதுச் செயலாளர் பேராசிரியர், தமிழர்
+தலைவர் கி. வீரமணி, பழ. நெடுமாறன், அய்யணன் அம்பலம்
+ஆகியோரும் அப்போது இடம் பெற்றோம்.
+
+ஈழத் தமிழருக்கு ஆதரவாக 29-4-1985 அன்று சென்னையில்
+நடைபெற்ற மறியலில் 4002 பேரும், 30ஆம் தேதி திருச்சியில்
+3000 பேரும், மே 3ஆம் தேதி தர்மபுரியில் 1000 பேரும், 6ஆம் தேதி
+சேலத்தில் 3000 பேரும், 7ஆம் தேதி தஞ்சையில் 6000 பேரும்,
+8ஆம் தேதி வட ஆர்க்காட்டில் 2500 பேரும், 13ஆம் தேதி தென்
+ஆர்க்காட்டில் 3000 பேரும், 15ஆம் தேதி பெரியார் மாவட்டத்தில்
+
+<!-- Source PDF page 108 -->
+
+1500 பேரும், 16ஆம் தேதி காஞ்சிபுரம் மாவட்டத்தில் 3000
+பேரும், 17ஆம் தேதி கோவை, நீலகிரி மாவட்டங்களில் 3500
+பேரும், 18ஆம் தேதி ராமனாதபுரம், பசும்பொன், காமராஜர்
+மாவட்டங்களில் 3000 பேரும், 20ஆம் தேதி மதுரை மாவட்டத்
+தில் 5000 பேரும், 22ஆம் தேதி நெல்லை, குமரி, புதுவையில்
+5500 பேரும் ஈடுபட்டு கைது ஆயினர்.
+
+இலங்கைத் தமிழர்களின் நலன் காக்க 16-5-1985 அன்று
+காஞ்சிபுரத்தில் நடைபெற்ற மறியல் போராட்டத்தில் கலந்து
+கொள்ளச் சென்ற என்னையும் மற்றும் ஆயிரம் பேரையும் கைது
+செய்து சிறைச்சாலையில் அடைத்தனர். நீதிபதி என்னைப்
+பார்த்து குற்றச்சாட்டை ஒப்புக் கொள்கிறீர்களா என்று கேட்ட
+போது, “நீதிமன்றத்தின் கண்ணோட்டத்தில் சட்டப்படி நான்
+குற்றவாளியாக இருக்கலாம், ஆனால் எனது தமிழ் இன உணர்வு
+அடிப்படையில் என் மனசாட்சிப்படி நான் குற்றவாளி அல்ல” என்று
+கூறினேன்.
+
+1986ஆம் ஆண்டு பிப்ரவரி, மார்ச் திங்களில் இலங்கையில்
+சிங்கள இராணுவத்தின் கொடுமைகள் அதிகரித்தன. அம்பாறை
+மாவட்டத்தில் தங்கவேலாயுதபுரம் என்ற கிராமத்தில் ஒரு நாள்
+இலங்கை இராணுவம் நுழைந்து கண்ணில் பட்ட பெண்களையும்,
+வயதானவர்களையும், குழந்தைகளையும் குருவிகளைச் சுடுவது
+போலச் சுட்டுக் கொன்றார்கள். ஒரே நாளில் அறுபதுக்கும் மேற்பட்ட
+தமிழர்கள் மடிந்தனர். தொடர்ந்து இப்படிப்பட்ட துயரச் செய்திகள்
+தமிழகத்திற்கு வந்து கொண்டே யிருந்ததால், சென்னையில்
+‘டெசோ’வின் அமைப்புக் கூட்டம் என் தலைமையிலே கூடி,
+மாவட்டந்தோறும் பேரணிகளை நடத்துவதென்றும், மதுரை
+மாநகரில் “டெசோ” சார்பில் அனைத்திந்தியாவில் உள்ள பல்வேறு
+கட்சிகளின் தலைவர்களை எல்லாம் அழைத்து “இலங்கைத் தமிழர்
+பாதுகாப்பு மாநாட்டினை” நடத்துவதென்றும் முடிவெடுத்தோம்.
+
+இலங்கைத் தமிழர்களின் பிரச்சினை குறித்து டெசோ
+அமைப்பின் சார்பில் 3-10-1985 அன்று கோவையிலும்,
+4-10-1985 அன்று திண்டுக்கல்லிலும், 5-10-1985 அன்று
+தூத்துக்குடியிலும், 6-10-1985 அன்று திருச்சியிலும், 7-10-1985
+அன்று சேலத்திலும், 13-10-1985 அன்று வேலூரிலும் மிகப்
+பெரிய பேரணிகள் நடத்தப்பட்டன.
+
+<!-- Source PDF page 109 -->
+
+4-5-1986 அன்று மதுரையில் ஈழத் தமிழர் ஆதரவு
+மாநாட்டுக்கு “டி.யு.எல்.எப்.” சார்பாக அமிர்தலிங்கம், “எல்.டி.டி.ஈ.”
+(விடுதலைப் புலிகள்) சார்பாக திலகர், “டெலோ” சார்பாக மதி,
+“புரோடெக்” சார்பாக சந்திரகாசன், “ஈராஸ்” சார்பாக ரத்தின
+சபாபதி, “டி.இ.எல்.எப்.” சார்பாக ஈழவேந்தன்,  “ஈ.பி.ஆர்.
+எல்.எப்.” சார்பாக வரதராஜப்பெருமாள், “பிளாட்” சார்பாக
+வாசுதேவன் ஆகியோர் கலந்து கொண்டனர் என்பதும், அந்த
+மாநாட்டில் அகில இந்திய ரீதியில் என்.டி ராமராவ், வாஜ்பய்,
+பகுகுணா, ராமுவாலியா, உபேந்திரா, உன்னிகிருஷ்ணன்,
+ஜஸ்வந்த் சிங், கர்நாடக உள்துறை அமைச்சர் ராச்சையா மற்றும்
+தமிழகத் தலைவர்கள் பேராசிரியர் அன்பழகன், தமிழர் தலைவர்
+வீரமணி, பழ. நெடுமாறன், அய்யணன் அம்பலம், அப்துல் சமத்,
+சுப்பிரமணியம் சுவாமி ஆகியோர் கலந்து கொண்டனர். அப்போதும்
+இலங்கைத் தமிழர் வாழ்வில் நிரந்தர விடியல் ஏற்பட வேண்டும்
+என்பதற்காகத்தான் அந்த மாநாட்டினை “டெசோ” அமைப்பின்
+சார்பில் நடத்தினோம்.
+எனவே “டெசோ” இயக்கத்தின் சார்பில் நாங்கள் நடத்துகின்ற
+எந்த நிகழ்ச்சியும் சில உளறுவாயர்கள் கூறுவது போன்ற எந்த
+உள்நோக்கத்தோடும் நடத்தப்படுவதில்லை. ஏன், கடந்த ஆண்டு
+12-8-2012 அன்று சென்னையில் “டெசோ” இயக்கத்தின் சார்பில்
+நடத்திய “ஈழத் தமிழர் வாழ்வுரிமைப் பாதுகாப்பு மாநாடு”ம் எந்த
+உள்நோக்கத்திற்கும் இடம் தராமல் நடத்தப்பட்ட மாநாடுதான்.
+அந்த மாநாட்டினை அ.தி.மு.க. அரசின் தடைகளையெல்லாம்
+கடந்து நாங்கள் நடத்திய போதும், மாலையில் நடைபெற்ற
+“டெசோ” மாநாடும், அதனையொட்டி காலையில் நடைபெற்ற
+ஆய்வரங்கமும் நடைபெறவே நடைபெறாது என்றும், அப்படியே
+நடைபெற்றாலும் வெளிநாட்டிலிருந்தோ, இலங்கையிலிருந்தோ,
+வட மாநிலங்களிலிருந்தோ இலங்கைத் தமிழர் பிரச்சினைகளில்
+ஆர்வமும் அக்கறையும் உடைய யாருமே கலந்து கொள்ள
+மாட்டார்கள் என்றும், கருணாநிதி ஏமாறப் போகிறார் என்றும்
+மனப்பால் குடித்தவர்களின் முகத்தில் எல்லாம் கரியை அள்ளிப்
+பூசுகின்ற அளவிற்கு அந்த “டெசோ” மாநாடு மிகவும் சிறப்பாகவும்
+வெற்றிகரமாகவும் ஈழத்தமிழர்களுக்குப் பயனுள்ள வகையிலும்
+நடைபெற்று முடிந்தது.
+
+<!-- Source PDF page 110 -->
+
+“டெசோ” இயக்கத்தின் சார்பில், அன்று காலையில் மூன்று
+மணி நேரத்திற்கு மேலாக நடைபெற்ற ஆய்வரங்கத்தில்
+இந்தியாவின் வட மாநிலங்களிலிருந்தும், அமெரிக்கா, பிரிட்டன்,
+சுவிட்சர்லாந்த், சுவீடன், மொராக்கோ, சிங்கப்பூர், மலேசியா,
+நைஜீரியா மற்றும் இலங்கை நாடுகளிலிருந்தும்; மாநாட்டுக்கு
+வந்தால் இலங்கை கொடுங்கோல் அரசு என்ன செய்யுமோ
+என்ற அச்சத்தால் வராத ஒரு சிலர் தவிர்த்து, வந்திருந்த 30க்கு
+மேற்பட்ட பன்னாட்டுப் பிரதிநிதிகள், தமிழார்வலர்கள், ஈழத்
+தமிழர் பிரச்சினைகளில் தொடர்ந்து ஈடுபாடு காட்டி வருவோர்,
+வரைவுத் தீர்மானங்களாக தயாரிக்கப்பட்டிருந்த 11 தீர்மானங்
+களின் மீது விரிவாக தங்கள் ஆழ்ந்த கருத்துக்களையும்,
+திருத்தங்களையும் எடுத்து வைத்து இறுதித் தீர்மானங்களை
+வடிவமைத்து உருவாக்கியதோடு மட்டுமின்றி, புதிதாக மூன்று
+தீர்மானங்களையும் முன்மொழிந்து அவையும் விவாதிக்கப்
+பட்டு மாநாட்டிலே நிறைவேற்றப்பட வேண்டுமென்று
+முடிவெடுக்கப்பட்டது. குறிப்பாக கடைசித் தீர்மானமான “டெசோ”
+மாநாட்டிற்கு அனுமதி வழங்கக் கூடாது என்று ஆணை பிறப்பித்த
+தமிழக அ.தி.மு.க. அரசுக்குக் கண்டனம் தெரிவித்து தீர்மானம்
+நிறைவேற்றப்பட வேண்டுமென்று கூறி, அந்தத் தீர்மானத்தை
+முன்மொழிந்ததே “லோக் ஜனசக்தி” தலைவரும், மத்திய அரசின்
+முன்னாள் அமைச்சரும், இந்நாள் நாடாளுமன்ற உறுப்பினருமான
+அருமை நண்பர் ராம் விலாஸ் பஸ்வான் அவர்கள் தான்.
+
+வரலாற்றுச் சிறப்புமிக்க இந்த மாநாட்டோடும் “டெசோ”
+பணிகளை நாங்கள் முடித்திடவில்லை. 19-11-2012 அன்று
+அண்ணா அறிவாலயத்தில் “டெசோ” அமைப்பின் கூட்டம்
+என்னுடைய தலைமையிலே நடைபெற்றது. பொதுச் செயலாளர்
+பேராசிரியரும், இளவல் கி. வீரமணி, தொல். திருமாவளவன்,
+பேராசிரியர் சுப. வீரபாண்டியன், திருமதி சுப்புலட்சுமி ஜெகதீசன்
+ஆகியோரும், இலங்கைத் தமிழர் பிரச்சினைக்காக ஐ.நா.விற்குச்
+சென்று தேவையான விளக்கங்கள் அளித்து வந்த தளபதி
+மு.க.ஸ்டாலின், நாடாளுமன்றக் கழகக் குழுத் தலைவர் டி.ஆர்.
+பாலு, லண்டன் மாநாட்டில் கலந்து கொண்ட அமைப்புச் செயலாளர்
+டி.கே.எஸ். இளங்கோவன், வழக்கறிஞர் ராதாகிருஷ்ணன்
+மற்றும் ரவிக்குமார், அசன் முகமது ஜின்னா ஆகியோரும் அந்தக்
+கூட்டத்தில் கலந்து கொண்டு; நான்கு முக்கிய தீர்மானங்கள்
+நிறைவேற்றப்பட்டன.
+
+<!-- Source PDF page 111 -->
+
+4-2-2013 அன்று மீண்டும் “டெசோ” அமைப்பின் கூட்டம்
+சென்னையில், அண்ணா அறிவாலயத்தில் என் தலைமையில்
+நடைபெற்று 9 தீர்மானங்கள் நிறைவேற்றப்பட்டன. அந்த
+மாநாட்டில்தான், இலங்கையில் தமிழர்கள் வாழும் 89
+கிராமங்களின் பெயர்கள் சிங்களப் பெயர்களாக மாற்றப்பட்டதைப்
+பற்றியும், தமிழர்கள் வழிபடும் 367 இந்துக் கோயில்கள் மற்றும்
+மசூதிகள், தேவாலயங்கள் அழிக்கப்பட்டு வருவதைப் பற்றியும்
+தீர்மானம் நிறைவேற்றப்பட்டது. தமிழக மீனவர்களை இலங்கைக்
+கடற்படையினர் தொடர்ந்து துன்புறுத்தி வருவதைக் கண்டித்து
+18-2-2013 அன்று ராமேஸ்வரத்திலும், 19-2-2013 அன்று
+நாகப்பட்டினத்திலும், “டெசோ” இயக்கத்தின் சார்பில் “கண்டன
+ஆர்ப்பாட்டம்” நடத்துவதென்று தீர்மானம் நிறைவேற்றப்பட்டு,
+அவ்வாறே அந்த அறவழி ஆர்ப்பாட்டங்களும் தமிழ் மக்களின்
+பேராதரவோடு நடைபெற்றுள்ளன.
+
+மீண்டும் 25-2-2013 அன்று “டெசோ” அமைப்பின் கூட்டம்
+அண்ணா அறிவாலயத்தில் என் தலைமையில் நடைபெற்றது.
+அந்தக் கூட்டத்திற்குப் பின், என் சார்பில், செய்தியாளர்களைச்
+சந்தித்த தமிழர் தலைவர் கி. வீரமணி அவர்கள், “மனித உரிமைகளை
+மீறிய போர்க் குற்றவாளியான இலங்கை அதிபர் ராஜபக்சேவை
+கண்டித்திடும் வகையில் மார்ச் 5ஆம் தேதியன்று “டெசோ” இயக்கத்தின் சார்பில் சென்னையில் உள்ள இலங்கைத் தூதரகத்தை
+“முற்றுகையிடும் போராட்டம்” நடைபெறும் என்றும், அதே
+நாளில் டெல்லி நாடாளுமன்றம் முன்பு தி.மு.கழக நாடாளுமன்ற
+உறுப்பினர்களும், விடுதலைச் சிறுத்தைகள் கட்சி நாடாளுமன்ற உறுப்பினர், தொல். திருமாவளவனும் கலந்து கொண்டு
+“கண்டன ஆர்ப்பாட்டம்” நடத்துவார்கள் என்றும் அறிவித்தார்.
+மேலும் மார்ச் 7ஆம் தேதியன்று “டெசோ” இயக்கத்தின் சார்பில்
+டெல்லியில் நடைபெறும் சிறப்பு மாநாடு மற்றும் கருத்தரங்கில்
+அனைத்து அரசியல் கட்சித் தலைவர்களும், பல்வேறு மனிதநேய
+அமைப்பினரும் கலந்து கொள்ளவிருக்கிறார்கள் என்றும் கூறினார்.
+அவ்வாறே இந்த நிகழ்ச்சிகள் எல்லாம் சிறப்பாக நடைபெற்றன.
+
+5-3-2013 அன்று “டெசோ” அமைப்பின் சார்பில் நடைபெற்ற
+“முற்றுகைப் போராட்டத்தைத்” தொடர்ந்து அண்ணா
+அறிவாலயத்தில் “டெசோ” உறுப்பினர்களின் கூட்டத்தில்
+இலங்கை அரசின் இனப் படுகொலையைக் கண்டித்து அமெரிக்கா
+
+<!-- Source PDF page 112 -->
+
+கொண்டு வரும் தீர்மானத்தை இந்திய அரசு ஆதரிக்க வேண்டும்
+என்பதை வலியுறுத்தி 12-3-2013 அன்று தமிழகம் முழுவதும்
+பொது வேலை நிறுத்தம் நடத்துவதென்று தீர்மானிக்கப்பட்டது.
+15-4-2013 அன்று நடைபெற்ற “டெசோ” கூட்டத்தில், கச்சத்
+தீவினை இலங்கைக்கு ஒப்பந்தத்தின் மூலம் விட்டுக் கொடுத்தது
+அரசியல் சட்ட ரீதியாகச் செல்லுபடி ஆகாது என்பதுதான்
+உண்மை என்றும், எனவே 1974ஆம் ஆண்டு ஒப்பந்தத்தை
+ரத்து செய்யவும், கச்சத் தீவு இந்தியாவின் ஒரு பகுதிதான்
+என்பதைப் பிரகடனப்படுத்தவும், “டெசோ” அமைப்பின் மூலம்
+உச்ச நீதிமன்றத்தை அணுகுவதென முடிவெடுக்கப்பட்டு
+அறிவிக்கப்பட்டது. அவ்வாறே உச்ச நீதிமன்றத்தில் என்
+பெயரிலேயே வழக்கு தாக்கல் செய்யப்பட்டு, அந்த வழக்கும்
+உச்ச நீதிமன்றத்தில் ஏற்றுக் கொள்ளப்பட்டு, மத்திய அரசு பதில்
+மனு தாக்கல் செய்ய வேண்டுமென்று உத்தரவிடப்பட்டிருக்கிறது.
+இந்த வரிசையில்தான் நேற்றையதினம் (16-7-2013)
+“டெசோ” கூட்டம் நடைபெற்று, அதிலே இலங்கை அரசமைப்புச்
+சட்டத்தின் 13வது திருத்தத்தை முழுமையாக நிறைவேற்ற
+வலியுறுத்தியும், இலங்கையில் நடைபெறவுள்ள “காமன்வெல்த்”
+மாநாட்டில் இந்தியா கலந்து கொள்ளக் கூடாது என்பதை
+வற்புறுத்தியும், தமிழக மீனவர்களைப் பாதுகாக்க வேண்டும்
+என்பதைச் சுட்டிக்காட்டியும், இலங்கையில் தமிழர் பகுதிகளில்
+சிங்களக் குடியேற்றத்தைத் தடுக்க வேண்டும் என்பதை
+எடுத்துக்காட்டியும் தீர்மானங்கள் நிறைவேற்றப்பட்டுள்ளன.
+இந்த தீர்மானங்களின் மீது இந்திய மத்திய அரசின் கவனத்தை
+ஈர்ப்பதற்காகவும், சிங்கள ஆதிக்க வெறிக்கு எதிராக தமிழர்
+எழுச்சியை ஒன்று திரட்டவும், “டெசோ” இயக்கத்தின் சார்பில்
+வரும் ஆகஸ்ட் 8ஆம் தேதியன்று தமிழகம் முழுதும் மாவட்டத்
+தலைநகரங்களில் “தமிழர் பெருந்திரள் ஆர்ப்பாட்டம்”
+நடத்துவதென முடிவு செய்து அறிவிக்கப்பட்டுள்ளது.
+உடன்பிறப்பே, நமது இயக்கத்தின் சார்பில் இவ்வாறு
+இலங்கைப் பிரச்சினைக்காகவும், சேது சமுத்திரத் திட்டத்தை
+நிறைவேற்ற வேண்டும் என்பதற்காகவும், ஏனைய பொதுமக்கள்
+பிரச்சினைகளுக்காகவும் ஆர்ப்பாட்டங்களை நடத்த
+வேண்டுமென்று தலைமையின் சார்பில் முடிவெடுத்து அறிவித்து
+வருகிறோம். இத்தகைய நிகழ்ச்சிகளை இன்றுள்ள அரசியல்
+
+<!-- Source PDF page 113 -->
+
+சூழலில் நடத்த வேண்டிய கட்டாயத்தில் இருக்கிறோம் என்பதை
+நீங்கள் எல்லாம் உணர்ந்து கொள்ள வேண்டுமென்று கேட்டுக்
+கொள்கிறேன். இலங்கைத் தமிழர் உறவு என்பது நம்முடைய
+தொப்புள் கொடி உறவாகும். அவர்களுக்காக “டெசோ” இயக்கத்தின்
+சார்பில் ஆகஸ்ட் 8ஆம் தேதி நடத்த வேண்டிய ஆர்ப்பாட்டத்தை
+எப்போதும் போல் சிறப்பாகவும், வெற்றிகரமாகவும் நடத்திடுவாய்
+என்ற நம்பிக்கை எனக்கு நிரம்பவே இருக்கிறது. சென்னை
+மாநகரில் இந்த ஆர்ப்பாட்டத்திற்கு நான் தலைமை தாங்கவிருக்கிறேன் என்கிற போது, நீயும் இந்த ஆர்ப்பாட்டத்தைச் சிறப்பாக
+ஆக்கிடுவாய்; ஆக்கிட வேண்டும்! ஈழத் தமிழர்களுக்கு நிரந்தர
+அரசியல் தீர்வு கிடைத்திடும் வரை, நமது அறவழிப் பயணம்
+நிற்காது!
+அன்புள்ள,
+மு.க.
+18-07-2013
