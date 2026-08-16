@@ -1,0 +1,90 @@
+name: Promote Volume 46 Final Batch
+
+on:
+  push:
+    paths:
+      - '.github/workflows/promote-volume46-final.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Promote final two records and close bilingual alignment
+        shell: python
+        run: |
+          from pathlib import Path
+
+          root = Path('.')
+          letters = [
+              root / 'volumes/volume-46/translations/en/letters/3648-farmers-anguish-and-varied-statements.md',
+              root / 'volumes/volume-46/translations/en/letters/3649-we-await-the-case.md',
+          ]
+          for path in letters:
+              s = path.read_text(encoding='utf-8')
+              assert s.count('translation_status: "draft-translated"') == 1, path
+              assert s.count('bilingual_alignment_status: "pending"') == 1, path
+              assert 'This draft follows the locked Volume 46 conventions.' in s, path
+              assert 'This draft awaits bilingual source-alignment review.' in s, path
+              s = s.replace('translation_status: "draft-translated"', 'translation_status: "verified"', 1)
+              s = s.replace('bilingual_alignment_status: "pending"', 'bilingual_alignment_status: "verified"', 1)
+              s = s.replace('This draft follows the locked Volume 46 conventions.', 'This verified translation follows the locked Volume 46 conventions.', 1)
+              s = s.replace('This draft awaits bilingual source-alignment review.', 'The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.', 1)
+              path.write_text(s, encoding='utf-8')
+
+          progress = root / 'volumes/volume-46/translations/en/PROGRESS.md'
+          s = progress.read_text(encoding='utf-8')
+          s = s.replace('- [ ] Promote final two records to verified / verified and synchronize volume-level bilingual completion', '- [x] Final batch promoted: 3648–3649 verified / verified\n- [x] Volume-level bilingual alignment complete: 55 / 55 actual source records')
+          s = s.replace('- Structurally complete verified bilingual records: **53 / 55 actual source records**', '- Structurally complete verified bilingual records: **55 / 55 actual source records**')
+          s = s.replace('- Draft-translated / bilingual-alignment pending: **2 / 55 actual source records — 3648–3649**', '- Draft-translated / bilingual-alignment pending: **0 / 55 actual source records**')
+          s = s.replace('- Verified source coverage: **3592–3635; 3637 (two distinct source records); 3638–3643; 3647**', '- Verified source coverage: **all 55 actual source records — 3592–3635; 3637 (two distinct source records); 3638–3643; 3647–3649**')
+          s = s.replace('## Final translation batch — ALIGNMENT REVIEW COMPLETE', '## Final translation batch — VERIFIED COMPLETE')
+          s = s.replace('## Exact next task\n\nPromote **3648 and 3649 together** from `draft-translated / pending` to `verified / verified`, change their translator notes to completed source-alignment wording, synchronize the English README and Volume 46 metadata, and mark volume-level bilingual alignment complete. Then begin the editorial-consistency and final English release phase.', '## Exact next task\n\nBegin the **volume-level editorial consistency review** across all 55 verified English bilingual records. After that, build the translation manifest and final English release report.')
+          progress.write_text(s, encoding='utf-8')
+
+          readme = root / 'volumes/volume-46/translations/en/README.md'
+          s = readme.read_text(encoding='utf-8')
+          s = s.replace('Status: **all 55 actual source-letter records now have English bilingual files; 53 are source-checked and verified, while the final two (3648–3649) are draft-translated and await bilingual source-alignment review**.', 'Status: **all 55 actual source-letter records have structurally complete English bilingual files and all 55 are source-checked and bilingual-alignment verified**.')
+          s = s.replace('- **Final batch: 3648; 3649** — draft-translated, covering PDF **388–400**, awaiting bilingual source-alignment review.', '- **Final batch: 3648; 3649** — verified, covering PDF **388–400**.')
+          s = s.replace('**Structurally complete verified bilingual records: 53 / 55 actual source records.**', '**Structurally complete verified bilingual records: 55 / 55 actual source records.**')
+          s = s.replace('**Draft-translated / alignment-pending: 2 / 55 — 3648–3649.**', '**Draft-translated / alignment-pending: 0 / 55.**')
+          s = s.replace('[Batch 10](BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md). The closed structural regression', '[Batch 10](BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md), [Final batch](BILINGUAL_ALIGNMENT_REVIEW_3648_3649.md). The closed structural regression')
+          s = s.replace('## Final batch — DRAFT COMPLETE', '## Final batch — VERIFIED COMPLETE')
+          s = s.replace('Both remain `draft-translated / pending` until their separate source-alignment gate. **No canonical Tamil page was changed by the final drafting activity.**', 'Both records passed the final bilingual source-alignment gate without substantive English correction and are now `verified / verified`. **No canonical Tamil page was changed by the final drafting or alignment activity.**')
+          s = s.replace('**Exact next task:** perform the final bilingual source-alignment review for **3648–3649** against audited Tamil PDF **388–400**. Apply only source-proven English corrections; if both pass, promote them together and then proceed to volume-level editorial consistency and release work.', '**Exact next task:** begin the **volume-level editorial consistency review** across all 55 verified English bilingual records, followed by the translation manifest and final English release report.')
+          readme.write_text(s, encoding='utf-8')
+
+          metadata = root / 'volumes/volume-46/metadata.yml'
+          s = metadata.read_text(encoding='utf-8')
+          s = s.replace('translation_status: "in-progress"', 'translation_status: "translated-verified"')
+          s = s.replace('translated_letter_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"', 'translated_letter_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"')
+          s = s.replace('translated_letter_count: 53', 'translated_letter_count: 55')
+          s = s.replace('source_checked_letter_count: 53', 'source_checked_letter_count: 55')
+          s = s.replace('verified_translation_count: 53', 'verified_translation_count: 55')
+          s = s.replace('structurally_complete_verified_count: 53', 'structurally_complete_verified_count: 55')
+          s = s.replace('structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"', 'structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"')
+          s = s.replace('bilingual_alignment_status: "in-progress"', 'bilingual_alignment_status: "complete"')
+          s = s.replace('bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"', 'bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"')
+          s = s.replace('bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"', 'bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"')
+          s = s.replace('english_release_status: "not-started"', 'english_release_status: "editorial-review-pending"')
+          old = '  - "The final translation batch consists of the two actual source records 3648 and 3649."'
+          new = '  - "The final translation batch 3648-3649 is source-checked and bilingual-alignment verified, covering PDF 388-400."\n  - "Final batch required no substantive English correction and caused no canonical Tamil changes."\n  - "All 55 actual source-letter records now have structurally complete, source-checked, bilingual-alignment-verified English records."'
+          assert old in s
+          s = s.replace(old, new)
+          metadata.write_text(s, encoding='utf-8')
+
+      - name: Commit final promotion
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add volumes/volume-46/translations/en/letters/3648-farmers-anguish-and-varied-statements.md \
+                  volumes/volume-46/translations/en/letters/3649-we-await-the-case.md \
+                  volumes/volume-46/translations/en/PROGRESS.md \
+                  volumes/volume-46/translations/en/README.md \
+                  volumes/volume-46/metadata.yml
+          git commit -m "Complete Volume 46 bilingual translation alignment"
+          git push
