@@ -8,9 +8,9 @@ source_pdf_page_start: 329
 source_pdf_page_end: 335
 source_printed_page_start: 328
 source_printed_page_end: 334
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s mobilisation language around the 4 July jail-filling agitation, the repeated references to `அறப்போர்`, his ironic descriptions of press hostility, the Ramanathapuram unity episode, the catalogue of cases against Natarajan, and the long source-quoted colloquial interview are retained in source order and register as closely as English permits. Political and legal claims remain source-attributed and are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s mobilisation language around the 4 July jail-filling agitation, the repeated references to `அறப்போர்`, his ironic descriptions of press hostility, the Ramanathapuram unity episode, the catalogue of cases against Natarajan, and the long source-quoted colloquial interview are retained in source order and register as closely as English permits. Political and legal claims remain source-attributed and are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3635](../../../chapters/3635-kalam-kaana-thudikkuthu-kazhagappadai.md)  
 **Source pages:** [PDF 329](../../../pages/page-329.md)–[PDF 335](../../../pages/page-335.md)  
