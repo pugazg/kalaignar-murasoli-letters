@@ -29,6 +29,11 @@ volumes/
 - [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
 - [Mandatory Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
 - [Quick Tamil Transcription Rules](TRANSCRIPTION_GUIDE.md)
+- [Future Volume Work Guidelines](FUTURE_VOLUME_WORK_GUIDELINES.md)
+- [Project Handover](PROJECT_HANDOVER.md)
+- [Reusable Prompt — Start or Continue the Next Volume](START_NEXT_MURASOLI_VOLUME_PROMPT.md)
+
+`VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, மற்றும் `TRANSCRIPTION_GUIDE.md` ஆகியவை controlling repository policies. புதிய future-work documents அவற்றை operational continuation / handover நோக்கில் ஒருங்கிணைக்கின்றன; conflict ஏற்பட்டால் controlling policies முன்னுரிமை பெறும்.
 
 ### இயல்பான transcription வரிசை
 
@@ -45,14 +50,14 @@ Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வ
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
-| 46 | 05.10.2011–15.08.2012 | 402 | **1–402 first-pass complete; structural audit complete; second visual verified 1–402** | **55 complete source records**; source numbering omits 3636 and 3644–3646 and prints 3637 twice | not started; Tamil fidelity complete |
-| 47 | 19.08.2012–19.02.2013 | 401 | 1–401 | 58 complete; 3681 source-incomplete (printed page 252 absent) | **20 / 59 draft-translated (3647–3666); Tamil fidelity complete; bilingual alignment pending** |
-| 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | 58 / 58 verified; editorial release complete |
-| 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | 53 / 53 verified; editorial release complete |
+| 46 | 05.10.2011–15.08.2012 | 402 | **1–402 complete; structural audit + second visual/textual-fidelity verification complete** | **55 actual source records**; source numbering omits 3636 and 3644–3646 and prints 3637 twice | **55 / 55 verified; editorial review + 55-row manifest + final release report complete** |
+| 47 | 19.08.2012–19.02.2013 | 401 | **1–401 complete; Tamil structural/fidelity gates complete** | **59 records; 3681 source-incomplete because printed page 252 is absent** | **59 / 59 bilingual-aligned; editorial review + manifest + final release report complete; release-ready within surviving source** |
+| 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | **58 / 58 verified; editorial release complete** |
+| 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | **53 / 53 verified; editorial release complete** |
 
-தொகுதி 46-இன் தற்போதைய நிலைக்கு [Volume 46 README](volumes/volume-46/README.md), [full-volume Tamil audit](volumes/volume-46/AUDIT.md), மற்றும் [English/fidelity workspace](volumes/volume-46/translations/en/README.md) பார்க்கவும்.
+தொகுதி 46-இன் தற்போதைய நிலைக்கு [Volume 46 README](volumes/volume-46/README.md), [full-volume Tamil audit](volumes/volume-46/AUDIT.md), [English workspace](volumes/volume-46/translations/en/README.md), [translation manifest](volumes/volume-46/translations/en/TRANSLATION_MANIFEST.csv), மற்றும் [final release report](volumes/volume-46/translations/en/RELEASE_REPORT.md) பார்க்கவும்.
 
-தொகுதி 47-இன் தற்போதைய நிலைக்கு [Volume 47 README](volumes/volume-47/README.md), [full-volume Tamil structural audit](volumes/volume-47/AUDIT.md) மற்றும் [English translation index](volumes/volume-47/translations/en/README.md) பார்க்கவும்.
+தொகுதி 47-இன் தற்போதைய நிலைக்கு [Volume 47 README](volumes/volume-47/README.md), [full-volume Tamil structural audit](volumes/volume-47/AUDIT.md), [English translation progress](volumes/volume-47/translations/en/PROGRESS.md) மற்றும் final release records பார்க்கவும்.
 
 தொகுதி 48-இன் தற்போதைய நிலைக்கு [Volume 48 README](volumes/volume-48/README.md) மற்றும் [iteration audit](volumes/volume-48/AUDIT.md) பார்க்கவும்.
 
