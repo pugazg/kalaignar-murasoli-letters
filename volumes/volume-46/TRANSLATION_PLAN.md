@@ -1,4 +1,4 @@
-# Volume 46 English Translation Plan — blocked pending textual-fidelity review
+# Volume 46 English Translation Plan — Tamil fidelity gate cleared
 
 English translation has not begun.
 
@@ -7,48 +7,67 @@ English translation has not begun.
 - [x] Every source PDF page **1–402** has one canonical Tamil page file.
 - [x] All **55 actual source-letter records** have verified boundaries/chapter records; source numbering anomalies are documented rather than repaired.
 - [x] Full-volume Tamil structural audit passed on **2026-08-15**.
-- [ ] Relevant Tamil pages must pass the mandatory scan-to-canonical textual-fidelity / second visual review required by `VOLUME_PROCESSING_GUIDE.md`.
-  - [x] PDF **001–025** passed on **2026-08-15** — 25/25 pages checked; 0 canonical corrections.
-  - [x] PDF **026–050** passed on **2026-08-15** — 25/25 pages checked; 0 canonical corrections.
-  - [x] PDF **051–075** passed on **2026-08-15** — 25/25 pages checked; 2 scan-proven canonical corrections.
-  - [x] PDF **076–100** passed on **2026-08-15** — 25/25 pages checked; 3 scan-proven canonical corrections.
-  - [x] PDF **101–125** passed on **2026-08-15** — 25/25 pages checked; 3 scan-proven canonical corrections.
-  - [x] PDF **126–150** passed on **2026-08-15** — 25/25 pages checked; 2 corrected pages / 3 scan-proven corrected spans.
-  - [x] PDF **151–175** passed on **2026-08-15** — 25/25 pages checked; 5 corrected pages / 6 scan-proven corrected spans.
-  - [x] PDF **176–200** passed on **2026-08-15** — 25/25 pages checked; 1 corrected page / 1 scan-proven corrected span.
-  - [x] PDF **201–225** passed on **2026-08-15** — 25/25 pages checked; 1 corrected page / 1 scan-proven corrected span.
-  - [x] PDF **226–250** passed on **2026-08-15** — 25/25 pages checked; 1 corrected page / 1 scan-proven corrected span.
-  - [x] PDF **251–275** passed on **2026-08-15** — 25/25 pages checked; 7 corrected pages / 7 scan-proven corrected spans.
-  - [x] PDF **276–300** passed on **2026-08-15** — 25/25 pages checked; 1 corrected page / 2 scan-proven corrected spans.
-  - [x] PDF **301–325** passed on **2026-08-16** — 25/25 pages checked; 2 corrected pages / 2 scan-proven corrected spans.
-  - [ ] PDF **326–402** remains to be second-pass verified.
+- [x] Mandatory scan-to-canonical textual-fidelity / second visual review is complete for **PDF 001–402 / 402**.
+- [ ] English translation.
+- [ ] Bilingual alignment.
+- [ ] Editorial consistency review and release validation.
 
-The complete source sequence confirms no `3636` source record, two distinct `3637` records, and no `3644–3646` source records. These anomalies remain part of the source model used for later translation and alignment.
+## Textual-fidelity completion
 
-The structural audit confirms page coverage, source identity, chapter/contents mapping, navigation and source boundaries. It does **not** replace the scan-based character-level textual-fidelity gate.
+The second visual/textual-fidelity pass was completed in these ranges:
 
-Fidelity reports completed:
+- PDF 001–025
+- PDF 026–050
+- PDF 051–075
+- PDF 076–100
+- PDF 101–125
+- PDF 126–150
+- PDF 151–175
+- PDF 176–200
+- PDF 201–225
+- PDF 226–250
+- PDF 251–275
+- PDF 276–300
+- PDF 301–325
+- PDF 326–350
+- PDF 351–375
+- PDF 376–402
 
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md)
-- [`translations/en/TEXTUAL_FIDELITY_AUDIT_301_325.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_301_325.md)
+Cumulative result:
 
-Cumulative scan-based coverage now reaches PDF **325**. Complete source letters **3592–3633** have full second-pass coverage. Across the completed fidelity ranges, **28 pages / 31 spans** have required scan-proven correction: PDF 052, 066, 079, 097, 099, 114, 119, 122, 126, 142, 154, 160, 161, 172, 173, 179, 225, 250, 257, 258, 261, 264, 268, 273, 274, 299, 313 and 316. Letter **3634** is second-pass checked through PDF 325 and continues beyond that page.
+- source pages second-pass verified: **402 / 402**;
+- source-letter records fully cleared: **55 / 55**;
+- cumulative scan-proven canonical corrections: **29 pages / 32 spans**;
+- final correction: PDF 385 `பேரினால் பாதிக்கப்பட்டும்` → source `போரினால் பாதிக்கப்பட்டும்`.
 
-When translation work begins, Volume 49's approved bilingual order, translator’s note, glossary discipline, source checking and bilingual alignment workflow will be applied without importing Volume 49-specific dates, page offsets, letter ranges or anomalies.
+Detailed reports are stored under `translations/en/TEXTUAL_FIDELITY_AUDIT_*.md`, ending with [`TEXTUAL_FIDELITY_AUDIT_376_402.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_402.md).
 
-Current state: **translation not started; Tamil second visual/textual-fidelity review in progress**. No English letter file has been created.
+## Source model to preserve in translation
+
+The complete source sequence confirms:
+
+- no source record `3636`;
+- two distinct source records numbered `3637`;
+- no source records `3644`, `3645`, or `3646`;
+- contents-title / actual-heading distinctions already documented in the Tamil archive remain intentional and must not be silently harmonized.
+
+These source anomalies are part of the archival model and must remain explicit in English alignment and navigation.
+
+## Translation method
+
+When translation begins, apply the approved repository conventions already established in the completed reference volumes:
+
+1. translate from the **fidelity-verified canonical Tamil**, not OCR or an inferred reconstruction;
+2. preserve Kalaignar's argument order, political framing, rhetorical questions, repetition and quoted material;
+3. use clear, non-literary English without flattening source emphasis;
+4. retain names, dates, numbers and institutional references accurately;
+5. distinguish translator clarification from source text;
+6. maintain letter/source-record boundaries exactly, including numbering anomalies;
+7. complete bilingual alignment after draft translation;
+8. perform editorial consistency and release validation only after alignment.
+
+No English letter file has yet been created.
 
 ## Exact next task
 
-Second-pass verify **PDF 326–350**. Continue letter 3634 and subsequent source letters, correct only scan-proven defects, and record the next fidelity range. Do not begin English translation in this activity.
+Begin the Volume 46 English translation workflow with the first approved translation batch from the fully fidelity-verified Tamil source, following the repository's established translation batch order and review conventions.
