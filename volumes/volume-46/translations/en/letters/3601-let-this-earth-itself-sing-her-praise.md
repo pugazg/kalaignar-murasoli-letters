@@ -8,9 +8,9 @@ source_pdf_page_start: 80
 source_pdf_page_end: 87
 source_printed_page_start: 79
 source_printed_page_end: 86
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This translation follows the locked Volume 46 conventions. Kalaignar's sarcasm, numerical comparisons, repeated contrasts, political accusations, reported statements, rhetorical questions and closing irony are preserved. Figures are reproduced as printed in the audited Tamil source; they are not independently recalculated or corrected. The complete audited Tamil follows and remains authoritative.
+> This translation follows the locked Volume 46 conventions. Kalaignar's sarcasm, numerical comparisons, repeated contrasts, political accusations, reported statements, rhetorical questions and closing irony are preserved. Figures are reproduced as printed in the audited Tamil source; they are not independently recalculated or corrected. The complete audited Tamil follows and remains authoritative. Bilingual source alignment has been verified.
 
 **Tamil source:** [Letter 3601](../../../chapters/3601-inthap-puviye-avar-pugazh-paattum.md)  
 **Source pages:** [PDF 80](../../../pages/page-080.md)–[PDF 87](../../../pages/page-087.md)  
