@@ -50,10 +50,13 @@ Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வ
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
+| 01 | 22.10.1968–01.12.1974 | 401 | **canonical migration 1–25 / 401; mandatory first batch complete** | **0 complete; 0001 partial at PDF 24–25; 110 printed contents entries captured** | **legacy 110 bilingual records preserved under `volume-1`; canonical migration/alignment pending** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **1–402 complete; structural audit + second visual/textual-fidelity verification complete** | **55 actual source records**; source numbering omits 3636 and 3644–3646 and prints 3637 twice | **55 / 55 verified; editorial review + 55-row manifest + final release report complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **1–401 complete; Tamil structural/fidelity gates complete** | **59 records; 3681 source-incomplete because printed page 252 is absent** | **59 / 59 bilingual-aligned; editorial review + manifest + final release report complete; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | **58 / 58 verified; editorial release complete** |
 | 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | **53 / 53 verified; editorial release complete** |
+
+தொகுதி 01 canonical migration நிலைக்கு [Volume 01 README](volumes/volume-01/README.md) மற்றும் [legacy migration audit](volumes/volume-1/MIGRATION_AUDIT.md) பார்க்கவும். பழைய `volumes/volume-1/` bilingual/audit material provenance ஆக மாற்றமின்றி பாதுகாக்கப்படுகிறது.
 
 தொகுதி 46-இன் தற்போதைய நிலைக்கு [Volume 46 README](volumes/volume-46/README.md), [full-volume Tamil audit](volumes/volume-46/AUDIT.md), [English workspace](volumes/volume-46/translations/en/README.md), [translation manifest](volumes/volume-46/translations/en/TRANSLATION_MANIFEST.csv), மற்றும் [final release report](volumes/volume-46/translations/en/RELEASE_REPORT.md) பார்க்கவும்.
 

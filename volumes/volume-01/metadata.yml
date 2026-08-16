@@ -1,0 +1,52 @@
+volume: 1
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 1"
+author: "கலைஞர்"
+date_from: 1968-10-22
+date_to: 1974-12-01
+letter_number_from: 1
+letter_number_to: 110
+letter_count: 110
+printed_contents_entry_count: 110
+letter_count_status: "verified from printed contents; canonical letter bodies still being migrated"
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+pdf_pages: 401
+source_file: "Vol1.pdf"
+source_sha256: "02eda7e7bb74d6d611351319ea87bc7761df6e9c5e73cc28883940b62d1fc6df"
+source_size_bytes: 244892260
+source_searchable_text_layer: false
+legacy_repository_path: "volumes/volume-1"
+legacy_bilingual_record_count: 110
+legacy_translation_audit_passed: true
+transcription_page_range: "1-25"
+transcription_status: "in-progress"
+recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
+completed_letter_range: null
+completed_letter_count: 0
+partial_letter: 1
+source_incomplete_letters: []
+source_incomplete_letter_count: 0
+source_missing_printed_pages: []
+audit_status: "first-batch-complete"
+audit_date: 2026-08-16
+second_visual_verification: "pending"
+second_visual_verified_page_range: null
+textual_fidelity_audit_reports: []
+translation_status: "legacy-complete-migration-pending"
+translated_letter_range: null
+translated_letter_count: 0
+source_checked_letter_count: 0
+verified_translation_count: 0
+bilingual_alignment_status: "blocked-pending-canonical-tamil"
+editorial_consistency_review_status: "not-started"
+english_release_status: "not-started"
+source_observations:
+  - "Cover and title page identify Volume 1 and the date range 22.10.1968-01.12.1974."
+  - "PDF page 3 prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
+  - "Programmatic inspection confirms 401 PDF pages and no usable searchable text layer."
+  - "PDF pages 18-23 contain the printed contents with 110 entries."
+  - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
+  - "Letter 1 begins at PDF page 24 / printed page 23 and is partial at the mandatory PDF-25 batch boundary."
+  - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."
