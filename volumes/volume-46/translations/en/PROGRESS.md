@@ -12,7 +12,8 @@
 - [x] Bilingual alignment review completed for 3595–3599
 - [x] Three required English-only revisions applied in 3595/3597
 - [x] 3595–3599 synchronized to verified status
-- [ ] Main translation batch 2: 3600–3604
+- [x] Main translation batch 2 draft complete: 3600–3604
+- [ ] Bilingual alignment review for 3600–3604
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -20,23 +21,23 @@
 
 ## Current boundary
 
-- English files: **8 / 55 actual source-letter records**
+- English files: **13 / 55 actual source-letter records**
 - Verified: **3592–3599 (8 / 55)**
+- Draft-translated / alignment pending: **3600–3604 (5 / 5)**
 - Batch 1 verified: **3595–3599 (5 / 5)**
-- English-only corrections applied in Batch 1: **3595 (1), 3597 (2)**
-- Canonical Tamil changes during Batch 1 alignment: **0**
-- Main batch 2 (3600–3604): **unblocked and next**
+- Canonical Tamil changes during translation batches: **0**
+- Main batch 2 source coverage: **PDF 75–107**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 1 final outcome
+## Batch 2 draft outcome
 
-The source-alignment gate is closed. Letter 3595 now makes clear that the betrayal of the Kazhagam is undertaken to protect **the accumulated money**, matching `அதைக் காத்திடுவதற்காக`. Letter 3597 now renders `முதல் அமைச்சராக` as **Chief Minister**, not **the first Chief Minister**, and restores `பொதுவுடைமை வீரர் ஜீவா` as **communist fighter Jeeva**. Letters 3596, 3598 and 3599 required no substantive English correction.
+Letters **3600–3604** are now all draft-translated from the fidelity-cleared canonical Tamil. The batch includes people's-welfare-worker dismissals and government policy criticism (3600); bus fare, milk price and electricity-tariff increases (3601); the Mullai Periyar dispute and peaceful agitation (3602); the Tamil New Year / Thai–Chithirai debate and historical quotations (3603); and sugarcane procurement-price / FRP policy comparisons (3604).
 
-All five letters now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil was modified.
+All five remain deliberately at `translation_status: draft-translated` and `bilingual_alignment_status: pending` until the batch receives a separate bilingual source-alignment review. Letter 3604 also carries an explicit note preserving the source-printed `ரூ.2260/` sequence pending that review rather than silently emending it.
 
 ## Exact next task
 
-Begin the next normal five-letter English translation batch, **3600–3604**, from the fidelity-cleared canonical Tamil using the locked conventions. Keep those new translations in draft/pending state until their separate bilingual source-alignment review.
+Perform one **five-letter bilingual source-alignment review for 3600–3604 in a single iteration**, apply any English-only corrections found, and then synchronize all five to verified status before beginning the next five-letter translation batch **3605–3609**.
