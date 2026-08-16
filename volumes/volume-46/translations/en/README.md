@@ -1,55 +1,39 @@
 # Volume 46 — English translation
 
-Status: **not started; Tamil textual-fidelity gate complete**.
+Status: **translation pilot started**.
 
-The full-volume Tamil structural audit is complete, and the mandatory second visual / textual-fidelity gate has now passed for **all PDF pages 001–402 / 402**.
+The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
+
+## Translation progress
+
+- Letter **3592 — `என் விருப்பத்தை வெளியிடுகிறேன்!`**: **draft-translated**.
+- English title: **I State My Wish!**
+- Source PDF range: **24–29** / printed pages **23–28**.
+- Translation follows the mandatory Volume 49 bilingual order and standard translator's note.
+- Complete audited Tamil is reproduced below the English in the letter file.
+- Working [GLOSSARY.md](GLOSSARY.md) and [PROGRESS.md](PROGRESS.md) have been initialized.
+- Source check and bilingual alignment for 3592 remain pending; the draft has not been promoted beyond `draft-translated`.
+
+## Pilot workflow
+
+Following the completed Volume 49 reference convention, the first three Volume 46 letters are handled individually to establish and lock translation style before normal five-letter batches:
+
+1. **3592** — draft translation complete.
+2. **3593** — next.
+3. **3594** — follows 3593.
+
+The pilot checks title style, `Udanpirappē`, quotations, party terminology, rhetorical questions, policy/institution names, figures, and closing conventions before the main translation phase.
 
 ## Textual-fidelity completion
 
-- PDF **001–025**: passed — 25/25 pages checked, 0 canonical corrections.
-- PDF **026–050**: passed — 25/25 pages checked, 0 canonical corrections.
-- PDF **051–075**: passed — 25/25 pages checked, 2 corrected pages / 2 spans.
-- PDF **076–100**: passed — 25/25 pages checked, 3 corrected pages / 3 spans.
-- PDF **101–125**: passed — 25/25 pages checked, 3 corrected pages / 3 spans.
-- PDF **126–150**: passed — 25/25 pages checked, 2 corrected pages / 3 spans.
-- PDF **151–175**: passed — 25/25 pages checked, 5 corrected pages / 6 spans.
-- PDF **176–200**: passed — 25/25 pages checked, 1 corrected page / 1 span.
-- PDF **201–225**: passed — 25/25 pages checked, 1 corrected page / 1 span.
-- PDF **226–250**: passed — 25/25 pages checked, 1 corrected page / 1 span.
-- PDF **251–275**: passed — 25/25 pages checked, 7 corrected pages / 7 spans.
-- PDF **276–300**: passed — 25/25 pages checked, 1 corrected page / 2 spans.
-- PDF **301–325**: passed — 25/25 pages checked, 2 corrected pages / 2 spans.
-- PDF **326–350**: passed — 25/25 pages checked, 0 canonical corrections.
-- PDF **351–375**: passed — 25/25 pages checked, 0 canonical corrections.
-- PDF **376–402**: passed — 27/27 pages checked, 1 corrected page / 1 span.
+All ranges have passed: PDF **001–025, 026–050, 051–075, 076–100, 101–125, 126–150, 151–175, 176–200, 201–225, 226–250, 251–275, 276–300, 301–325, 326–350, 351–375, and 376–402**.
 
 **Cumulative second-pass coverage: PDF 001–402 / 402.**  
 **Cumulative scan-proven canonical corrections: 29 pages / 32 spans.**  
 **Actual source-letter records fully cleared: 55 / 55.**
 
-The final-range correction is on PDF 385: first-pass `பேரினால் பாதிக்கப்பட்டும்` was corrected to the scan-supported `போரினால் பாதிக்கப்பட்டும்`.
+Detailed reports remain in `TEXTUAL_FIDELITY_AUDIT_*.md`.
 
-## Fidelity reports
+Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-- [TEXTUAL_FIDELITY_AUDIT_001_025.md](TEXTUAL_FIDELITY_AUDIT_001_025.md)
-- [TEXTUAL_FIDELITY_AUDIT_026_050.md](TEXTUAL_FIDELITY_AUDIT_026_050.md)
-- [TEXTUAL_FIDELITY_AUDIT_051_075.md](TEXTUAL_FIDELITY_AUDIT_051_075.md)
-- [TEXTUAL_FIDELITY_AUDIT_076_100.md](TEXTUAL_FIDELITY_AUDIT_076_100.md)
-- [TEXTUAL_FIDELITY_AUDIT_101_125.md](TEXTUAL_FIDELITY_AUDIT_101_125.md)
-- [TEXTUAL_FIDELITY_AUDIT_126_150.md](TEXTUAL_FIDELITY_AUDIT_126_150.md)
-- [TEXTUAL_FIDELITY_AUDIT_151_175.md](TEXTUAL_FIDELITY_AUDIT_151_175.md)
-- [TEXTUAL_FIDELITY_AUDIT_176_200.md](TEXTUAL_FIDELITY_AUDIT_176_200.md)
-- [TEXTUAL_FIDELITY_AUDIT_201_225.md](TEXTUAL_FIDELITY_AUDIT_201_225.md)
-- [TEXTUAL_FIDELITY_AUDIT_226_250.md](TEXTUAL_FIDELITY_AUDIT_226_250.md)
-- [TEXTUAL_FIDELITY_AUDIT_251_275.md](TEXTUAL_FIDELITY_AUDIT_251_275.md)
-- [TEXTUAL_FIDELITY_AUDIT_276_300.md](TEXTUAL_FIDELITY_AUDIT_276_300.md)
-- [TEXTUAL_FIDELITY_AUDIT_301_325.md](TEXTUAL_FIDELITY_AUDIT_301_325.md)
-- [TEXTUAL_FIDELITY_AUDIT_326_350.md](TEXTUAL_FIDELITY_AUDIT_326_350.md)
-- [TEXTUAL_FIDELITY_AUDIT_351_375.md](TEXTUAL_FIDELITY_AUDIT_351_375.md)
-- [TEXTUAL_FIDELITY_AUDIT_376_402.md](TEXTUAL_FIDELITY_AUDIT_376_402.md)
-
-Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records.
-
-No English letter translation has yet been created.
-
-**Exact next task:** begin the Volume 46 English translation workflow from the fully fidelity-verified Tamil source, following the approved repository translation and bilingual-alignment conventions.
+**Exact next task:** translate pilot letter **3593 — `அய்யகோ! அ.தி.மு.க. ஆட்சியில் அரசு நிலம் அரோகரா!`** from its fidelity-verified canonical Tamil source. Do not yet begin a five-letter batch.
