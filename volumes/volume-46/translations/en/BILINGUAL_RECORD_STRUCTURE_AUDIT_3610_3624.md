@@ -26,30 +26,34 @@ The earlier pilot and Batches 1–3 (3592–3609) follow the established complet
 
 ## Corrective Batch 1 — 3610–3614 — COMPLETE
 
-The complete fidelity-cleared canonical Tamil has now been restored inside all five bilingual files for **3610–3614**, covering **PDF 146–180**.
-
-- **3610** — complete Tamil restored from PDF 146–155.
-- **3611** — complete Tamil restored from PDF 156–162.
-- **3612** — complete Tamil restored from PDF 163–167.
-- **3613** — complete Tamil restored from PDF 168–174.
-- **3614** — complete Tamil restored from PDF 175–180.
-
-The already-completed English meaning-level alignment for this batch remains valid. No new English defect was introduced or found during the structural repair. Letter 3614 retains the earlier verified correction removing the unsupported first-person subject from the spectrum paragraph.
+The complete fidelity-cleared canonical Tamil has been restored inside all five bilingual files for **3610–3614**, covering **PDF 146–180**. The already-completed English meaning-level alignment remains valid. No new English defect was introduced or found during the structural repair. Letter 3614 retains the earlier verified correction removing the unsupported first-person subject from the spectrum paragraph.
 
 Canonical Tamil changes during this repair: **0**.
 
-Structural status after repair:
+## Corrective Batch 2 — 3615–3619 — COMPLETE
 
-- **3592–3614: structurally complete bilingual records (23 / 55).**
-- **3615–3619: meaning-level aligned but structurally incomplete (5 / 55).**
+The complete fidelity-cleared canonical Tamil has now been restored inside all five bilingual files for **3615–3619**, covering **PDF 181–220**.
+
+- **3615** — complete Tamil restored from PDF 181–189; source-printed `perhelion` remains preserved.
+- **3616** — complete Tamil restored from PDF 190–195; the earlier bilingual-review removal of two unsupported editorial-attribution phrases remains intact.
+- **3617** — complete Tamil restored from PDF 196–205.
+- **3618** — complete Tamil restored from PDF 206–213.
+- **3619** — complete Tamil restored from PDF 214–220.
+
+The already-completed English meaning-level alignment for this batch remains valid. No new English defect was found during this structural restoration.
+
+Canonical Tamil changes during this repair: **0**.
+
+Structural status after the first two corrective batches:
+
+- **3592–3619: structurally complete verified bilingual records (28 / 55).**
 - **3620–3624: alignment-reviewed, structurally incomplete and not yet promoted (5 / 55).**
 
 ## Remaining corrective plan
 
-1. Repair **3615–3619** as the next five-letter structural batch by restoring the complete fidelity-cleared canonical Tamil into each bilingual record and rechecking the appendices.
-2. Repair **3620–3624**: restore translator-note blocks where absent, append complete canonical Tamil, apply the two documented 3623 English corrections, and recheck all five.
-3. Synchronize final statuses/progress/README/metadata after each corrective batch.
-4. Do not begin 3625–3629 drafting until the structural regression through 3624 is closed.
+1. Repair **3620–3624** as one five-letter corrective completion batch: restore translator-note blocks where absent, append complete canonical Tamil, apply the two documented 3623 English corrections, and recheck all five.
+2. Synchronize their statuses/progress/README/metadata if that corrective gate passes.
+3. Do not begin 3625–3629 drafting until the structural regression through 3624 is closed.
 
 ## Source protection
 
