@@ -8,9 +8,9 @@ source_pdf_page_start: 287
 source_pdf_page_end: 295
 source_printed_page_start: 286
 source_printed_page_end: 294
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s argument that Jayalalithaa’s Planning Commission criticism echoed the DMK’s long-standing State-autonomy position, the Murasoli Maran extracts, his own 1973–1975 Assembly statements, the plan/allocation figures, Montak Singh Ahluwalia’s response and the closing `பின்பாட்டு` wordplay are preserved in source order. Printed English `Upgradation Grants`, figures and source claims are retained without outside correction. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s argument that Jayalalithaa’s Planning Commission criticism echoed the DMK’s long-standing State-autonomy position, the Murasoli Maran extracts, his own 1973–1975 Assembly statements, the plan/allocation figures, Montak Singh Ahluwalia’s response and the closing `பின்பாட்டு` wordplay are preserved in source order. Printed English `Upgradation Grants`, figures and source claims are retained without outside correction. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3629](../../../chapters/3629-thimukavin-maanila-suyaatchikku-je-paadiya-pinpaattu.md)  
 **Source pages:** [PDF 287](../../../pages/page-287.md)–[PDF 295](../../../pages/page-295.md)  
