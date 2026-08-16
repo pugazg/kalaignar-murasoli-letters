@@ -17,9 +17,9 @@
 - [x] Structural compliance audit and corrective programme for 3610–3624 closed
 - [x] Main translation batch 7: 3625–3629 verified
 - [x] Main translation batch 8 draft: 3630–3634
-- [x] Bilingual alignment review completed for 3630–3634
-- [ ] Apply two English-only corrections in 3631 and recheck
-- [ ] Promote 3630–3634 together after correction gate passes
+- [x] Bilingual alignment review: 3630–3634
+- [x] Required 3631 English-only corrections applied and rechecked
+- [ ] Promote/synchronize Batch 8 statuses: 3630–3634
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -29,12 +29,12 @@
 
 - English files: **43 / 55 actual source-letter records**
 - Structurally complete verified bilingual records: **3592–3629 (38 / 55)**
-- Alignment-reviewed but not yet verified: **3630–3634 (5 / 55)**
+- Alignment-passed but status-promotion pending: **3630–3634 (5 / 55)**
 - Batch 8 source coverage: **PDF 296–328**
-- Batch 8 meaning-level pass without correction: **3630, 3632, 3633, 3634**
-- Batch 8 correction required: **3631 — two English-only fidelity corrections**
 - Complete Tamil appendices embedded in Batch 8: **5 / 5**
-- Canonical Tamil changes required by Batch 8 review: **0**
+- Batch 8 English-only corrections: **2 — both in 3631**
+- Batch 8 meaning-level alignment result: **5 / 5 PASS**
+- Canonical Tamil changes caused by Batch 8 drafting/review: **0**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -50,17 +50,16 @@ Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENT
 
 ## Batch 8 alignment outcome — 3630–3634
 
-The complete five-letter source-alignment review for **3630–3634**, covering **PDF 296–328**, is complete.
+The complete five-letter source-alignment review for **3630–3634**, covering **PDF 296–328**, now passes at content level.
 
-**3630, 3632, 3633 and 3634 pass without substantive English correction.** Their titles, rhetorical structures, names, dates, figures, quotations, source anomalies and complete Tamil appendices align with the fidelity-cleared canonical Tamil.
+- **3630** — passed without substantive English correction.
+- **3631** — passed after two English-only corrections: the source-printed Tamil rendering following the English *The Hindu* passage is now translated separately and in full; and `நீங்கள் தான் குற்றவாளி` is restored with its direct accusatory force as `you yourself are the guilty one` rather than `you are the accused`.
+- **3632** — passed without substantive English correction.
+- **3633** — passed without substantive English correction.
+- **3634** — passed without substantive English correction.
 
-**3631 requires two English-only corrections before promotion:**
-
-1. The source-printed Tamil rendering that follows the printed English *The Hindu* passage on PDF 308–309 is currently summarized as being translated "in substance and sequence." Under the locked convention, that duplicated Tamil rendering must be translated separately and in full, not collapsed into the preceding English passage. Its own source wording — including `நமது அரசியல் சட்டத்தின் பாரபட்சமற்ற தன்மையை அங்கீகரிக்கும் நோக்கிலும்` — must remain visible rather than being silently reconciled with the printed English.
-2. In the disproportionate-assets passage, `நீங்கள் தான் குற்றவாளி` is weakened to "you are the accused." The source is accusatory — "you are the guilty one" / "you are the culprit" — and that rhetorical force must be restored.
-
-No canonical Tamil page requires any change.
+All five retain complete audited Tamil appendices. No canonical Tamil page was changed.
 
 ## Exact next task
 
-Correct **3631 only**, recheck the two repaired passages against canonical PDF 306 and PDF 308–309, and then—if the recheck passes—promote **3630–3634 together** to verified and synchronize `PROGRESS.md`, the English `README.md`, and `metadata.yml`. Do not begin 3635 onward before this gate closes.
+Perform the **administrative status promotion for 3630–3634 together**: change each record to `translation_status: verified` and `bilingual_alignment_status: verified`, update translator-note wording from draft/pending to verified where necessary, then synchronize this progress file, the English `README.md`, and `metadata.yml`. Only after that promotion should drafting begin for the next source batch starting with 3635.
