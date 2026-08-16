@@ -1,28 +1,24 @@
 # Volume 46 — English translation
 
-Status: **translation pilot started**.
+Status: **pilot verified; main translation batches unblocked**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
 ## Translation progress
 
-- Letter **3592 — `என் விருப்பத்தை வெளியிடுகிறேன்!`**: **draft-translated**.
-- English title: **I State My Wish!**
-- Source PDF range: **24–29** / printed pages **23–28**.
-- Translation follows the mandatory Volume 49 bilingual order and standard translator's note.
-- Complete audited Tamil is reproduced below the English in the letter file.
-- Working [GLOSSARY.md](GLOSSARY.md) and [PROGRESS.md](PROGRESS.md) have been initialized.
-- Source check and bilingual alignment for 3592 remain pending; the draft has not been promoted beyond `draft-translated`.
+- **3592 — என் விருப்பத்தை வெளியிடுகிறேன்! / I State My Wish!** — verified.
+- **3593 — அய்யகோ! அ.தி.மு.க. ஆட்சியில் அரசு நிலம் அரோகரா! / Alas! Government Land Under AIADMK Rule—Arokara!** — verified.
+- **3594 — அன்றும், இன்றும் ஒரே நிலைதான்! / Then and Now, the Position Is the Same!** — verified after one English-only bilingual-alignment correction.
 
-## Pilot workflow
+**Verified English letters: 3 / 55.**
 
-Following the completed Volume 49 reference convention, the first three Volume 46 letters are handled individually to establish and lock translation style before normal five-letter batches:
+The pilot review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), and the resulting conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-1. **3592** — draft translation complete.
-2. **3593** — next.
-3. **3594** — follows 3593.
+## Pilot outcome
 
-The pilot checks title style, `Udanpirappē`, quotations, party terminology, rhetorical questions, policy/institution names, figures, and closing conventions before the main translation phase.
+The pilot confirmed the repository conventions for `Udanpirappē`, `With affection, M.K.`, source-supplied English, duplicate English/Tamil source passages, attributed quotations, source-specific legal/policy/land terminology, Indian public-language units, Kalaignar's rhetorical questions/proverbs/sarcasm, source text printed after closings, and preservation of source numbering anomalies.
+
+The only alignment correction required in the pilot was in 3594: the Tamil rendering printed after the Colin Gonsalves English quotation is now translated fully rather than summarized. No canonical Tamil page changed.
 
 ## Textual-fidelity completion
 
@@ -36,4 +32,4 @@ Detailed reports remain in `TEXTUAL_FIDELITY_AUDIT_*.md`.
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** translate pilot letter **3593 — `அய்யகோ! அ.தி.மு.க. ஆட்சியில் அரசு நிலம் அரோகரா!`** from its fidelity-verified canonical Tamil source. Do not yet begin a five-letter batch.
+**Exact next task:** begin the first normal five-letter translation batch, **letters 3595–3599**, from the fidelity-verified canonical Tamil source using the locked pilot conventions.
