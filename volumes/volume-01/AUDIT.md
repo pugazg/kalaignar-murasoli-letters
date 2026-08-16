@@ -44,8 +44,28 @@ Checks performed:
 - no legacy bilingual file was changed;
 - no English migration/translation was started.
 
-## Boundary
+## Iteration 2 — complete interrupted letter 0001
 
-Letter **0001 — `“ஜாக்குலின்கள்”`** begins at PDF 024 / printed 23 and remains partial after PDF 025. The next canonical commit must start at PDF 026 and finish only this interrupted letter through its visually verified end.
+**Result: PASS — letter 0001 canonical boundary complete.**
 
-This iteration is a first-pass visual transcription gate. It is **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.
+Coverage:
+
+- PDF 026 / printed 25: continuation of letter 0001;
+- PDF 027 / printed 26: final body paragraphs, `அன்புள்ள,`, `மறவன்`, and printed date `(22-10-1968)`;
+- PDF 028 was inspected only to verify that letter 0002 begins there; no PDF-028 text was committed in this iteration.
+
+Checks performed:
+
+- canonical page files added for PDF 026–027 only;
+- source wording, punctuation, political comparison and rhetorical-question sequence retained;
+- letter 0001 chapter boundary promoted from partial to complete;
+- verified complete coverage is **PDF 024–027 / printed 23–26**;
+- the printed-contents hint that letter 0002 starts at printed page 27 is now independently confirmed by the visible heading on PDF 028;
+- legacy bilingual files remain unchanged;
+- English migration remains blocked.
+
+## Current boundary
+
+Canonical PDF coverage is **001–027 / 401**. Letter **0001 — `“ஜாக்குலின்கள்”`** is complete. The next activity starts at PDF 028 and follows the normal five-complete-letter rule for letters **0002–0006**, stopping before letter 0007.
+
+These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.

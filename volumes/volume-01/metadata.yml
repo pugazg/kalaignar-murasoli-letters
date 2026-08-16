@@ -20,16 +20,16 @@ source_searchable_text_layer: false
 legacy_repository_path: "volumes/volume-1"
 legacy_bilingual_record_count: 110
 legacy_translation_audit_passed: true
-transcription_page_range: "1-25"
+transcription_page_range: "1-27"
 transcription_status: "in-progress"
 recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
-completed_letter_range: null
-completed_letter_count: 0
-partial_letter: 1
+completed_letter_range: "1"
+completed_letter_count: 1
+partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "first-batch-complete"
+audit_status: "first-batch-and-interrupted-letter-completion-complete"
 audit_date: 2026-08-16
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -48,5 +48,6 @@ source_observations:
   - "Programmatic inspection confirms 401 PDF pages and no usable searchable text layer."
   - "PDF pages 18-23 contain the printed contents with 110 entries."
   - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
-  - "Letter 1 begins at PDF page 24 / printed page 23 and is partial at the mandatory PDF-25 batch boundary."
+  - "Letter 1 begins at PDF page 24 / printed page 23 and closes at PDF page 27 / printed page 26 with sign-off and date."
+  - "PDF page 28 visibly begins letter 2, confirming the boundary after letter 1."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."
