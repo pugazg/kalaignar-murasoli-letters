@@ -56,15 +56,15 @@ translation_conventions_status: "locked"
 translated_letter_range: "3592-3624"
 translated_letter_count: 33
 source_checked_letter_count: 33
-verified_translation_count: 28
-structurally_complete_verified_count: 28
-structurally_complete_verified_range: "3592-3619"
+verified_translation_count: 33
+structurally_complete_verified_count: 33
+structurally_complete_verified_range: "3592-3624"
 structurally_incomplete_verified_range: null
-reviewed_structural_pending_range: "3620-3624"
+reviewed_structural_pending_range: null
 draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
 bilingual_alignment_reviewed_range: "3592-3624"
-bilingual_alignment_verified_range: "3592-3619"
+bilingual_alignment_verified_range: "3592-3624"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -89,14 +89,12 @@ source_observations:
   - "Third normal five-letter translation batch 3605-3609 is source-checked and bilingual-alignment verified."
   - "Batch 3605-3609 required no substantive English correction and no canonical Tamil change."
   - "Batch 3605-3609 covers PDF 108-145."
-  - "Fourth normal five-letter translation batch 3610-3614 is meaning-level source-checked and bilingual-alignment verified."
-  - "Batch 3610-3614 required one substantive English-only correction in 3614: an unsupported first-person subject was removed from the spectrum paragraph; canonical Tamil did not change."
-  - "Batch 3610-3614 covers PDF 146-180."
-  - "A later structural audit found that bilingual records 3610-3624 had link-only Tamil sections instead of the mandatory complete Original Tamil appendix."
-  - "Corrective structural repair is complete for 3610-3614: complete canonical Tamil appendices have been restored for PDF 146-180 without changing canonical Tamil or the already-reviewed English."
-  - "Fifth normal five-letter translation batch 3615-3619 is meaning-level source-checked, bilingual-alignment verified, and structurally repaired."
-  - "Complete canonical Tamil appendices have been restored for 3615-3619 covering PDF 181-220; canonical Tamil did not change."
-  - "Batch 3615-3619 required English-only corrections in 3615 and 3616: source token 'perhelion' was restored in 3615, and two unsupported editorial-attribution spans were removed in 3616; those corrections remain intact after structural repair."
-  - "Sixth normal five-letter translation batch 3620-3624 is draft-translated and meaning-level alignment-reviewed; structural repair remains before promotion."
-  - "Batch 3620-3624 covers PDF 221-261; 3623 requires two documented English corrections and all five require complete Tamil appendices."
-  - "Next task is the five-letter corrective completion for 3620-3624."
+  - "Fourth normal five-letter translation batch 3610-3614 is source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Batch 3610-3614 required one substantive English-only correction in 3614: an unsupported first-person subject was removed; canonical Tamil did not change."
+  - "Fifth normal five-letter translation batch 3615-3619 is source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Batch 3615-3619 required English-only corrections in 3615 and 3616: source token 'perhelion' was restored in 3615, and two unsupported editorial-attribution spans were removed in 3616; canonical Tamil did not change."
+  - "Sixth normal five-letter translation batch 3620-3624 is source-checked, bilingual-alignment verified, and structurally repaired."
+  - "Batch 3620-3624 covers PDF 221-261; complete canonical Tamil appendices and translator-note blocks are present in all five bilingual records."
+  - "Letter 3623 received two English corrections: the repeated source title ending is preserved as 'A Political Turn; What Happened That Day? What?', and 'அதை அப்படியே இங்கே தந்துள்ளேன்' is rendered 'I reproduce it here exactly.'"
+  - "The bilingual-record structural regression identified across 3610-3624 is fully closed; all 33 existing English records 3592-3624 are structurally complete and verified, with zero canonical Tamil changes caused by the corrective programme."
+  - "Next task is the five-letter draft batch 3625-3629."
