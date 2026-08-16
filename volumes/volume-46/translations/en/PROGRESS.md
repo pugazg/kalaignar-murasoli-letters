@@ -17,6 +17,8 @@
 - [x] Structural compliance audit and corrective programme for 3610–3624 closed
 - [x] Main translation batch 7: 3625–3629 verified
 - [x] Main translation batch 8: 3630–3634 verified
+- [x] Main translation batch 9 draft complete: 3635; 3637 (first); 3637 (second); 3638; 3639
+- [ ] Batch 9 bilingual source-alignment review
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -24,14 +26,14 @@
 
 ## Current boundary
 
-- English files: **43 / 55 actual source-letter records**
+- English files: **48 / 55 actual source-letter records**
 - Structurally complete verified bilingual records: **3592–3634 (43 / 55)**
-- Draft-translated / bilingual-alignment pending: **0**
-- Batch 8 source coverage: **PDF 296–328**
-- Complete Tamil appendices embedded in Batch 8: **5 / 5**
-- Batch 8 English-only corrections: **2 — both in 3631**
-- Batch 8 bilingual alignment result: **5 / 5 PASS**
-- Canonical Tamil changes caused by Batch 8 drafting/review: **0**
+- Draft-translated / bilingual-alignment pending: **5 / 55 actual source records**
+- Batch 9 actual source order: **3635; 3637 (first); 3637 (second); 3638; 3639**
+- Source numbering preserved: **no 3636 is invented**
+- Batch 9 source coverage: **PDF 329–355**
+- Complete Tamil appendices embedded in Batch 9: **5 / 5**
+- Canonical Tamil changes caused by Batch 9 drafting: **0**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -45,18 +47,18 @@ Batch 8 review: [BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md](BILINGUAL_ALIGNMENT_RE
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 8 verification — 3630–3634
+## Batch 9 — DRAFT COMPLETE
 
-The complete five-letter bilingual source-alignment gate for **3630–3634**, covering **PDF 296–328**, has passed and the five records have been promoted together.
+The next five **actual source records**, rather than a fabricated numeric sequence, have been drafted in scan order.
 
-- **3630 — `விரிக்கிற பெருகும்; விரிஞ்சி விடுகிறேன்!`** — passed without substantive English correction.
-- **3631 — `ஜனநாயகம் கேலிப் பொருளாகி விடுவதா?`** — passed after two English-only fidelity corrections: `நீங்கள் தான் குற்றவாளி` now retains its direct accusatory force as `you yourself are the guilty one`, and the source-printed Tamil rendering following the English *The Hindu* passage is translated separately and in full rather than summarized.
-- **3632 — `“OTHERWISE - ஜனாதிபதி”`** — passed without substantive English correction.
-- **3633 — `யார் பெற்ற பிள்ளைக்கு; யார் “தாய் முறை” கோருவது?`** — passed without substantive English correction.
-- **3634 — `தலைமைச் செயற்குழு; தக்க முடிவெடுக்கும்!`** — passed without substantive English correction; the actual semicolon heading and complete long arrest-name sequence remain preserved.
+- **3635 — `களம் காணத் துடிக்குது, கழகப்படை!`** — PDF 329–335.
+- **3637 — first source record — `“இன்றே செல்க! இனிதே வெல்க!” என வாழ்த்தி வழியனுப்புகிறேன்!`** — PDF 336–342.
+- **3637 — second source record — `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`** — PDF 343; the actual page heading is kept distinct from the printed-contents wording and the handwritten signature is described rather than interpreted.
+- **3638 — `பேரெதிர்ப்பால் உண்மைதான் இன்மையாமோ?`** — PDF 344–348.
+- **3639 — `இவை எல்லாமே அரசியல்தானா?`** — PDF 349–355.
 
-All five now carry `translation_status: verified` and `bilingual_alignment_status: verified`, with complete audited Tamil appendices embedded. No canonical Tamil page was changed.
+All five contain translator-note blocks and complete audited Tamil appendices from creation. They remain `draft-translated / pending` until the separate bilingual source-alignment gate.
 
 ## Exact next task
 
-Draft the **next five actual source-letter records** beginning with **3635**, preserving the source numbering anomalies rather than inventing missing numbers. Because the scan has **no 3636** and prints **two distinct 3637 records**, the next five-record batch must follow actual source order rather than a naïve numeric 3635–3639 sequence. Leave the new records `draft-translated / pending` until their separate bilingual source-alignment gate.
+Perform the full **five-record bilingual source-alignment review for Batch 9** in actual source order: 3635; first 3637; second 3637; 3638; 3639. Check titles, source-number anomaly handling, quotations, names, dates, figures, rhetorical force, the one-page second 3637 structure, and complete Tamil appendices. Apply only source-proven English corrections and promote the five together only after the gate passes.
