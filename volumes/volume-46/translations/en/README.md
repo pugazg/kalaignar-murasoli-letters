@@ -1,64 +1,56 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; 28 verified letters + 5 draft letters**.
+Status: **main translation in progress; 33 English files exist, with structural corrective work active for 3615–3624**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
 ## Translation progress
 
-Verified through **3619**, covering 28 actual source-letter records:
+Structurally complete bilingual records:
 
 - **3592–3594** — pilot, verified.
 - **3595–3599** — Batch 1, verified.
 - **3600–3604** — Batch 2, verified.
 - **3605–3609** — Batch 3, verified.
-- **3610–3614** — Batch 4, verified; PDF 146–180.
-- **3615–3619** — Batch 5, verified; PDF 181–220.
+- **3610–3614** — Batch 4, meaning-level verified and structurally repaired; complete Tamil appendices restored for PDF 146–180.
 
-Drafted and awaiting bilingual source alignment:
+Meaning-level aligned but structurally incomplete:
 
-- **3620–3624** — Batch 6, draft complete; PDF 221–261.
+- **3615–3619** — Batch 5; complete Tamil appendices still need restoration for PDF 181–220.
 
-Batch 6 letters:
+Reviewed but not yet promoted:
 
-- **3620 — என்று தணியும் ஈழத்தமிழர் தாகம்! / When Will the Thirst of Eelam Tamils Be Quenched!** — PDF 221–232.
-- **3621 — எதைக் கொண்டு; இதைப் பார்ப்பது? / By What Shall This Be Viewed?** — PDF 233–238.
-- **3622 — அண்ணா பெயரால் கட்சி; கேலிக்கூத்து! / A Party in Anna's Name; What a Farce!** — PDF 239–245.
-- **3623 — அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?** — PDF 246–251.
-- **3624 — காரிருளால் சூரியன்தான் மறைவதுண்டோ?** — PDF 252–261.
+- **3620–3624** — Batch 6; PDF 221–261. Meaning-level alignment is complete, but translator-note/Tamil-appendix repair remains, together with two documented English corrections in 3623.
 
 **English files: 33 / 55.**  
-**Verified: 28 / 55.**  
-**Draft/alignment pending: 5 / 55 (3620–3624).**
+**Structurally complete verified bilingual records: 23 / 55 (3592–3614).**  
+**Meaning-level aligned but structurally incomplete: 5 / 55 (3615–3619).**  
+**Reviewed, structurally incomplete and not yet promoted: 5 / 55 (3620–3624).**
 
-Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
+Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md), [Batch 6](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md). The structural regression and corrective plan are documented in [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-## Batch 3610–3614 verification
+## Batch 3610–3614 structural repair
 
-The complete five-letter bilingual source-alignment review is finished for **PDF 146–180**. Letters 3610–3613 passed without substantive English correction. Letter 3614 required one English-only correction: an unsupported first-person subject had been introduced in the final spectrum paragraph even though the Tamil does not state `I`. That subject was removed and the source-neutral construction restored.
+The first five-letter corrective structural batch is complete. The full fidelity-cleared canonical Tamil has been restored inside each bilingual record for **3610–3614**, covering **PDF 146–180**. The English meaning-level alignment had already passed; no new English correction was required during the appendix restoration. Letter 3614 continues to carry the earlier bilingual-review correction removing the unsupported first-person subject in the spectrum paragraph.
 
-All five carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was changed during drafting or alignment.
+No canonical Tamil page was changed. The restored appendices reproduce the canonical page text without modernization, normalization, reconstruction or outside-source substitution.
 
-## Batch 3615–3619 verification
+## Batch 3615–3619 status
 
-The complete five-letter bilingual source-alignment review is finished for **PDF 181–220**.
+Meaning-level bilingual alignment for **3615–3619** remains valid. Letter 3615 retains the source token `perhelion`, and 3616 retains the earlier removal of two unsupported editorial-attribution phrases. However, these five records still end their `Original Tamil — மூலத் தமிழ்` sections with canonical-page links rather than the complete Tamil, so they remain structurally incomplete pending corrective restoration.
 
-Letter **3615** required one English-only source-token fidelity correction: the canonical source prints `perhelion` on PDF 189, while the draft had silently regularised it to `perihelion`. The source form is now preserved exactly. Letter **3616** required removal of two unsupported editorial-attribution insertions (`Kalaignar says` and `he says`) from a historical paragraph; the Tamil states those claims directly in Kalaignar's argumentative voice, and the English now does the same without externally adjudicating them. Letters **3617–3619** passed without substantive English correction.
+## Batch 3620–3624 status
 
-All five now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was changed during drafting or alignment.
+The complete five-letter meaning-level alignment review for **3620–3624** has been performed. Letters **3620, 3621, 3622 and 3624** pass without substantive English correction. Letter **3623** requires two source-proven English corrections: preserve the repeated `என்ன? என்ன?` in the title, and replace `I reproduce it here exactly in substance` with **`I reproduce it here exactly.`**
 
-## Batch 3620–3624 draft status
-
-The complete five-letter Batch 6 English draft now exists for **PDF 221–261**. All five files remain `draft-translated` / `pending`; drafting does not count as source-check or bilingual verification. The next gate must compare each draft directly against the complete fidelity-cleared canonical Tamil, preserving Kalaignar's argument order, repetitions, quotations, rhetorical force, names, dates, figures and source-specific wording.
-
-No canonical Tamil page was changed during Batch 6 drafting.
+All five also require the mandatory complete Tamil appendix; translator-note blocks must be restored where absent. None is promoted until those corrections are completed.
 
 ## Textual-fidelity completion
 
 **Cumulative second-pass coverage: PDF 001–402 / 402.**  
 **Cumulative scan-proven canonical corrections: 29 pages / 32 spans.**  
-**Actual source-letter records fully cleared: 55 / 55.**
+**Actual source-letter records fully cleared for translation: 55 / 55.**
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** perform the complete bilingual source-alignment review for **3620–3624** against PDF 221–261 canonical Tamil, apply only source-proven English corrections, create the Batch 6 alignment report, and then synchronize all five files to verified status if the review passes.
+**Exact next task:** repair **3615–3619** as one five-letter structural batch by restoring the complete fidelity-cleared Tamil into each bilingual record and rechecking the appendices. Then repair 3620–3624 before beginning 3625–3629.
