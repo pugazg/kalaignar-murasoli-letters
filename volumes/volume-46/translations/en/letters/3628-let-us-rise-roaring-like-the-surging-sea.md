@@ -8,9 +8,9 @@ source_pdf_page_start: 279
 source_pdf_page_end: 286
 source_printed_page_start: 278
 source_printed_page_end: 285
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s protest call against the Union petrol-price increase and the State Government’s milk, bus-fare and electricity-charge increases; his tax/subsidy comparisons; all source-printed fare, milk and power figures; his quoted 2011 and 2010 statements; and the closing `அலை கடலென ஆர்த்தெழுவோம்!` mobilisation are preserved in source order. Figures and source claims are not independently reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s protest call against the Union petrol-price increase and the State Government’s milk, bus-fare and electricity-charge increases; his tax/subsidy comparisons; all source-printed fare, milk and power figures; his quoted 2011 and 2010 statements; and the closing `அலை கடலென ஆர்த்தெழுவோம்!` mobilisation are preserved in source order. Figures and source claims are not independently reconciled. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3628](../../../chapters/3628-alaikadalena-aarththezhuvom.md)  
 **Source pages:** [PDF 279](../../../pages/page-279.md)–[PDF 286](../../../pages/page-286.md)  
