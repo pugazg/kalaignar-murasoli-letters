@@ -55,11 +55,11 @@ translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
 translated_letter_range: "3592-3599"
 translated_letter_count: 8
-source_checked_letter_count: 3
-verified_translation_count: 3
-draft_alignment_pending_range: "3595-3599"
+source_checked_letter_count: 8
+verified_translation_count: 8
+draft_alignment_pending_range: null
 bilingual_alignment_status: "in-progress"
-bilingual_alignment_verified_range: "3592-3594"
+bilingual_alignment_verified_range: "3592-3599"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -76,4 +76,6 @@ source_observations:
   - "English translation pilot letters 3592-3594 are source-checked and bilingual-alignment verified."
   - "One English-only pilot correction was applied to 3594 to translate the duplicated Tamil rendering of the Colin Gonsalves quotation in full; canonical Tamil did not change."
   - "Pilot conventions are locked."
-  - "First normal five-letter translation batch 3595-3599 is draft-complete from canonical PDF pages 45-74; bilingual alignment is pending."
+  - "First normal five-letter translation batch 3595-3599 is source-checked and bilingual-alignment verified."
+  - "Batch 3595-3599 required three English-only corrections: one in 3595 and two in 3597; canonical Tamil did not change."
+  - "Next translation batch is 3600-3604."
