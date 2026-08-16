@@ -8,9 +8,9 @@ source_pdf_page_start: 163
 source_pdf_page_end: 167
 source_printed_page_start: 162
 source_printed_page_end: 166
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s accusations, rhetorical escalation, references to Jayalalithaa–Sasikala, quoted *Ananda Vikatan* material, project names, protest dates and closing mobilisation are preserved in source order. The complete audited Tamil remains authoritative. This draft awaits separate bilingual review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s accusations, rhetorical escalation, references to Jayalalithaa–Sasikala, quoted *Ananda Vikatan* material, project names, protest dates and closing mobilisation are preserved in source order. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3612](../../../chapters/3612-araajakaththirku-mudivukatta-ani-thiralvom.md)  
 **Source pages:** [PDF 163](../../../pages/page-163.md)–[PDF 167](../../../pages/page-167.md)  
