@@ -8,16 +8,16 @@
 
 ## தற்போதைய archival நிலை
 
-- PDF **1–402 / 402** அனைத்திற்கும் canonical Markdown page files உள்ளன.
-- **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
+- Canonical PDF coverage: **1–402 / 402**.
+- Actual source-letter records: **55 / 55 complete**.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–325 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **28 pages / 31 spans**.
-- Complete letters with full second-pass coverage: **3592–3633**.
-- English translation: **not started**.
+- Second visual / textual-fidelity verification: **complete — PASS, PDF 001–402 / 402**.
+- Scan-proven canonical corrections across the completed second pass: **29 pages / 32 spans**.
+- English translation: **not started; Tamil fidelity gate cleared**.
+- Bilingual alignment: **not started**.
 
-## நிறைவேற்றப்பட்ட transcription structure
+## Transcription structure
 
 - Mandatory first batch: PDF **1–25**; interrupted 3592 completion PDF **26–29**.
 - 3593–3597: PDF **30–63** / printed **29–62**.
@@ -32,14 +32,14 @@
 - 3638–3642: PDF **344–370** / printed **343–369**.
 - Final-residue exception: 3643, 3647, 3648, 3649 at PDF **371–400** / printed **370–399**, followed by blank printed page 400 at PDF 401 and back cover at PDF 402.
 
-## Source numbering anomalies — verified
+## Source-numbering anomalies — verified
 
-- Actual scan sequence: **3635 → 3637 → 3637**; **3636 இல்லை**.
-- Later actual scan sequence: **3643 → 3647**; **3644–3646 இல்லை**.
-- இரண்டு `3637` source records தனித்துவமான records; stable chapter filenames அவற்றை வேறுபடுத்துகின்றன.
-- Repository source numbering-ஐ மறுஎண்ணிடவில்லை.
+- Actual scan sequence: **3635 → 3637 → 3637**; there is no source record 3636.
+- Later actual scan sequence: **3643 → 3647**; there are no source records 3644–3646.
+- The two source records numbered 3637 are distinct archival records and remain separate.
+- Repository numbering follows the source and is not silently repaired.
 
-இதனால் nominal numeric span 3592–3649 என்றாலும் actual source-record count **55**.
+Nominal numeric span 3592–3649 therefore contains **55 actual source records**.
 
 ## Contents / actual-heading distinctions preserved
 
@@ -49,173 +49,42 @@
 - Second 3637 contents `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்கள்!`; actual PDF 343 `என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!`.
 - 3647 contents `ஈழத்தமிழா இன்னல் களைந்திட வாரீர்!`; actual PDF 382 `ஈழத்தமிழர் இன்னல் களைந்திட வாரீர்!`.
 
-## Full-volume Tamil structural audit result
+## Tamil structural audit
 
-2026-08-15 audit-ல்:
+The full-volume structural audit reconciled:
 
-- source SHA-256, byte size மற்றும் **402-page** count metadata-உடன் rechecked;
-- all 402 source pages rotation **0°**;
-- fresh low-resolution whole-PDF render-hash scan-ல் exact duplicate source page இல்லை;
-- canonical page range `page-001.md`–`page-402.md` reconciled;
-- contents rows **55 / 55** and chapter records **55 / 55** reconciled;
-- source-letter PDF coverage **24–400** continuous என்று verified;
-- source-incomplete record **0**; missing printed pages **none observed**;
-- anomaly navigation `3635 → 3637 → 3637 → 3638` மற்றும் `3643 → 3647` தனியாக verified;
-- first/last/non-letter structure (front cover, contents, blank pages, final blank page, back cover) reconciled;
-- structural correction தேவைப்படும் canonical Tamil defect எதுவும் இந்த audit-ல் கண்டறியப்படவில்லை.
+- source SHA-256, source size and 402-page count;
+- 402/402 canonical page records;
+- page rotation and duplicate-page structural checks;
+- 55/55 contents rows and 55/55 chapter records;
+- continuous source-letter PDF coverage **24–400**;
+- anomaly navigation across both source-numbering irregularities;
+- PDF 401 blank-page state and PDF 402 back-cover state;
+- source-incomplete letters: **0**; missing printed pages: **none observed**.
 
-## Second visual / textual-fidelity progress
+Detailed structural audit: [AUDIT.md](AUDIT.md).
 
-### PDF 001–025
+## Second visual / textual-fidelity verification
 
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **0**.
-- Front/publication matter, printed contents, blank-page state and PDF 024–025 beginning of letter 3592 passed.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_001_025.md](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md).
+The mandatory close scan-to-canonical second pass is complete for every source page:
 
-### PDF 026–050
+- **PDF 001–402 / 402 passed**.
+- **55 / 55 source-letter records fully cleared**.
+- **29 canonical pages / 32 text spans** required scan-proven correction across all fidelity ranges.
+- Final-range correction: PDF 385 first-pass `பேரினால் பாதிக்கப்பட்டும்` → source `போரினால் பாதிக்கப்பட்டும்`.
 
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **0**.
-- Letter 3592 completed and source closing/date checked at PDF 029.
-- Letters 3593, 3594 and 3595 passed through their closing/date pages PDF 036, 044 and 049.
-- PDF 031 and 039 English legal passages were checked directly against the scan.
-- PDF 047 Purananuru quotation was checked line by line.
-- PDF 049 preserves source-specific closing exhortation `தமிழ!` against heading `தமிழா!`.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_026_050.md](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md).
+Detailed range reports are stored in `translations/en/TEXTUAL_FIDELITY_AUDIT_*.md`; the final report is [TEXTUAL_FIDELITY_AUDIT_376_402.md](translations/en/TEXTUAL_FIDELITY_AUDIT_376_402.md).
 
-### PDF 051–075
+## Translation gate
 
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **2 pages / 2 spans**.
-- PDF 052 restored printed quotation marks in `‘பூஜை’`.
-- PDF 066 corrected first-pass `உண்டு,` to source `உண்டே,`.
-- Letters 3596, 3597, 3598 and 3599 passed through closing/date pages PDF 056, 063, 066 and 074.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_051_075.md](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md).
+The Tamil source is now fully fidelity-verified. English translation has **not** yet begun, but it is no longer blocked by Tamil verification.
 
-### PDF 076–100
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **3 pages / 3 spans**.
-- PDF 079 corrected `கண்ணா` to source `கண்ணீர்`.
-- PDF 097 corrected `உலகிய` to source `உலவிய`.
-- PDF 099 preserves source spacing `சட்ட முன் வடிவை`.
-- Letters 3600, 3601 and 3602 passed through closing/date pages PDF 079, 087 and 094.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_076_100.md](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md).
-
-### PDF 101–125
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **3 pages / 3 spans**.
-- PDF 114 corrected `செய்யப்பட்டவில்லையேதான்` to source `செய்யப்படவில்லையேதான்`.
-- PDF 119 corrected `சட்டதிருத்தம்` to source `சட்டத்திருத்தம்`.
-- PDF 122 corrected `ஆட்சிக்கு வந்ததும் அடிமைத்தனமாக` to source `ஆட்சிக்கு வந்ததும் வராததுமாக`.
-- Letters 3603, 3604 and 3605 passed through closing/date pages PDF 101, 107 and 113.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_101_125.md](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md).
-
-### PDF 126–150
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **2 pages / 3 spans**.
-- PDF 126 corrected `கனிசமான` to source `கணிசமான`.
-- PDF 142 corrected `வைத்தகத்திலிருந்து` to source `வைதீகத்திலிருந்து`.
-- PDF 142 corrected `பார்ப்பனைக் சாதி` to source `நால்வகைச் சாதி`.
-- Letters 3606, 3607, 3608 and 3609 passed through closing/date pages PDF 127, 133, 139 and 145.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_126_150.md](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md).
-
-### PDF 151–175
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **5 pages / 6 spans**.
-- PDF 154 preserves source spacing `3லட்சம்`.
-- PDF 160 corrected `குறிப்பிட்டத்தக்க` to source `குறிப்பிடத்தக்க`.
-- PDF 161 preserves source-joined `முட்டுக்கட்டைபோட்டு`.
-- PDF 172 preserves source spacing `சட்ட முன் வடிவை`.
-- PDF 173 preserves `ஈ.எஸ்.எஸ்.` and source form `சட்டமாகக்கொண்டு`.
-- Letters 3610, 3611, 3612 and 3613 passed through closing/date pages PDF 155, 162, 167 and 174.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_151_175.md](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md).
-
-### PDF 176–200
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **1 page / 1 span**.
-- PDF 179 restored source spacing `கொடை நாட்டை` instead of joined `கொடைநாட்டை`.
-- Letters 3614, 3615 and 3616 passed through closing/date pages PDF 180, 189 and 195.
-- PDF 189 preserves source-specific `குழ்ச்சிகளிலே` and `எசிப் பேசி`; PDF 191 preserves `வடக்குக்கோட்டை தீர்மானம்`.
-- PDF 193 printed English resolution was checked directly against the scan.
-- PDF 196–200 is partial fidelity coverage for letter 3617.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_176_200.md](translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md).
-
-### PDF 201–225
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **1 page / 1 span**.
-- PDF 225 corrected `போரை நிறுத்த வில்லை` to source `போரை நிறுத்தவில்லை`.
-- Letter 3617 completed at PDF 205; letters 3618 and 3619 passed through closing/date pages PDF 213 and 220.
-- PDF 208 preserves the Tolkappiyam quotations; PDF 214 preserves source `கொசோவா`; PDF 218 preserves `வட்டுக்கோட்டை`.
-- PDF 221 preserves the actual heading `என்று தணியும் ஈழத்தமிழர் தாகம்!`, distinct from the contents form `என்று தணியும் ஈழத்தமிழா தாகம்!`.
-- PDF 221–225 is partial fidelity coverage for letter 3620.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_201_225.md](translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md).
-
-### PDF 226–250
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **1 page / 1 span**.
-- PDF 250 corrected `இணைப்பு பற்றிப்` to source `இணைப்புப் பற்றிப்`.
-- Letter 3620 completed at PDF 232; letters 3621 and 3622 passed through closing/date pages PDF 238 and 245.
-- PDF 229 preserves source `ராணுவத்துக்கு உத்தர விடப்பட்டுள்ளது`; PDF 241 preserves `2006ஆம் ஆண்டு மே திங்களில்`.
-- PDF 246–250 is partial fidelity coverage for letter 3623.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_226_250.md](translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md).
-
-### PDF 251–275
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **7 pages / 7 spans**.
-- PDF 257 corrected `முடியாதல்லவா?` to source `முடிகிறதல்லவா?`.
-- PDF 258 corrected `எவ்வளவு அளிப்பதாக` to source `கவலையை அளிப்பதாக`.
-- PDF 261 corrected `மலேச்சாமி` to source `மலைச்சாமி`.
-- PDF 264 corrected `நடைபெறுவாய்` to source `நடைபோடுவாய்`.
-- PDF 268 corrected `தொடங்கின்ற` to source `தொடர்கின்ற`.
-- PDF 273 restored source `குறைந்த பட்சத் திட்டங்கள்` and preserved the page-end `(Common Minimum` split.
-- PDF 274 restored source spacing `தா.பாண்டியனும்`; the page begins with `Programme)` as printed.
-- Letter 3623 completed at PDF 251; letters 3624, 3625 and 3626 passed through closing/date pages PDF 261, 266 and 272.
-- PDF 273–275 is partial fidelity coverage for letter 3627.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_251_275.md](translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md).
-
-### PDF 276–300
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **1 page / 2 spans**.
-- PDF 299 corrected first-pass `வசிப்படும்` to source `அவதிப்படும்` in `போர்ப்பகுதிகளில் அவதிப்படும் இரண்டு இலட்சத்திற்கும் மேற்பட்ட தமிழர்களுக்கு`.
-- PDF 299 restored source spacing `கேட்டுக் கொள்ள வில்லையா?` instead of joined `கேட்டுக் கொள்ளவில்லையா?`.
-- Letter 3627 completed at PDF 278; letters 3628 and 3629 passed through closing/date pages PDF 286 and 295.
-- PDF 288–289 preserves the source page-boundary split `இருக்` → `கிறதே`; PDF 289 preserves `(Upgradation Grants)`.
-- PDF 290 preserves the source-printed wording `இரண்டு இலட்சம் ரூபாய்க்கான ஒதுக்கீடும்` without normalization.
-- PDF 296–300 is partial fidelity coverage for letter 3630.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md).
-
-### PDF 301–325
-
-- Pages checked: **25 / 25**.
-- Canonical corrections required: **2 pages / 2 spans**.
-- PDF 313 restored source spacing `திரு.ஆர். வெங்கட்ராமன்` instead of `திரு. ஆர். வெங்கட்ராமன்`.
-- PDF 316 corrected first-pass `குற்றாவளி பிரச்சாரத்திற்காக` to source `சூறாவளி பிரச்சாரத்திற்காக`.
-- Letter 3630 completed at PDF 304; letters 3631, 3632 and 3633 passed through closing/date pages PDF 310, 315 and 321.
-- PDF 308 preserves the printed English High Court passage; PDF 311–312 preserves `பிப்ரவரி` → `2ந்தேதியன்று`; PDF 315 preserves comma-less `அன்புள்ள`; PDF 322 preserves the actual-heading semicolon; PDF 325 preserves the page-end `உழைத்த` split.
-- PDF 322–325 is partial fidelity coverage for letter 3634.
-- Detailed report: [TEXTUAL_FIDELITY_AUDIT_301_325.md](translations/en/TEXTUAL_FIDELITY_AUDIT_301_325.md).
-
-Cumulative second-pass source coverage is now **PDF 001–325 / 402**, with **28 corrected pages / 31 spans**. Complete source letters **3592–3633** have full second-pass coverage; letter **3634** remains partial through PDF 325.
-
-## தணிக்கை மற்றும் வழிகாட்டிகள்
-
-- [Full-volume Tamil audit](AUDIT.md)
+- [Translation plan](TRANSLATION_PLAN.md)
+- [English/fidelity workspace](translations/en/README.md)
 - [Progress](PROGRESS.md)
 - [Printed contents](contents/index.md)
 - [Letters / chapters](chapters/README.md)
-- [Translation gate](TRANSLATION_PLAN.md)
-- [English/fidelity workspace](translations/en/README.md)
 
-## அடுத்த exact task
+## Exact next task
 
-**Second visual / textual-fidelity verification PDF 326–350**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3634-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+Begin the Volume 46 English translation workflow from the fully fidelity-verified canonical Tamil, following the repository's established translation, bilingual-alignment and editorial-review conventions.
