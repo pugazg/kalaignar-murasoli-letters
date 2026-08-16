@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; 33 English files exist, with structural corrective work now limited to 3620–3624**.
+Status: **main translation in progress; 33 English files exist and all 33 are structurally complete and verified**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -12,32 +12,21 @@ Structurally complete verified bilingual records:
 - **3595–3599** — Batch 1, verified.
 - **3600–3604** — Batch 2, verified.
 - **3605–3609** — Batch 3, verified.
-- **3610–3614** — Batch 4, meaning-level verified and structurally repaired; complete Tamil appendices restored for PDF 146–180.
-- **3615–3619** — Batch 5, meaning-level verified and structurally repaired; complete Tamil appendices restored for PDF 181–220.
-
-Reviewed but not yet promoted:
-
-- **3620–3624** — Batch 6; PDF 221–261. Meaning-level alignment is complete, but translator-note/Tamil-appendix repair remains, together with two documented English corrections in 3623.
+- **3610–3614** — Batch 4, verified; structural appendix repair complete.
+- **3615–3619** — Batch 5, verified; structural appendix repair complete.
+- **3620–3624** — Batch 6, verified; translator notes and complete Tamil appendices restored for PDF 221–261.
 
 **English files: 33 / 55.**  
-**Structurally complete verified bilingual records: 28 / 55 (3592–3619).**  
-**Reviewed, structurally incomplete and not yet promoted: 5 / 55 (3620–3624).**
+**Structurally complete verified bilingual records: 33 / 55 (3592–3624).**  
+**Existing draft/alignment backlog: 0.**
 
-Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md), [Batch 6](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md). The structural regression and corrective plan are documented in [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
+Reviews: [pilot](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md), [Batch 1](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md), [Batch 2](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md), [Batch 3](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md), [Batch 4](BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md), [Batch 5](BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md), [Batch 6](BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md). The closed structural regression is documented in [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-## Structural repair through 3619
+## Structural corrective programme — CLOSED
 
-Both five-letter corrective structural batches are complete. The full fidelity-cleared canonical Tamil has been restored inside every bilingual record from **3610 through 3619**, covering **PDF 146–220**. Their earlier English meaning-level alignment remains valid.
+The regression discovered in bilingual records **3610–3624** has been fully repaired in three five-letter corrective batches. The complete fidelity-cleared canonical Tamil is now reproduced inside every bilingual record from **3610 through 3624**, and no canonical Tamil page was changed.
 
-For Batch 5 specifically, letter **3615** continues to preserve the source-printed token `perhelion`, and **3616** retains the earlier bilingual-review removal of two unsupported editorial-attribution phrases. No new English defect was found while restoring the appendices.
-
-No canonical Tamil page was changed. The restored appendices reproduce the canonical page text without modernization, normalization, reconstruction or outside-source substitution.
-
-## Batch 3620–3624 status
-
-The complete five-letter meaning-level alignment review for **3620–3624** has already been performed. Letters **3620, 3621, 3622 and 3624** pass without substantive English correction. Letter **3623** requires two source-proven English corrections: preserve the repeated `என்ன? என்ன?` in the title, and replace `I reproduce it here exactly in substance` with **`I reproduce it here exactly.`**
-
-All five also require the mandatory complete Tamil appendix; translator-note blocks must be restored where absent. None is promoted until those corrections are completed.
+Batch 6 corrective completion also restored the established translator-note block to **3620–3624**. Meaning-level English for 3620, 3621, 3622 and 3624 required no substantive correction. Letter **3623** received the two corrections identified by its alignment review: its repeated `என்ன? என்ன?` title ending is preserved as **`A Political Turn; What Happened That Day? What?`**, and `அதை அப்படியே இங்கே தந்துள்ளேன்` is rendered **`I reproduce it here exactly.`**
 
 ## Textual-fidelity completion
 
@@ -47,4 +36,4 @@ All five also require the mandatory complete Tamil appendix; translator-note blo
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** repair **3620–3624** as one five-letter corrective completion batch by restoring translator-note blocks where absent, restoring the complete fidelity-cleared Tamil for PDF 221–261, applying the two documented 3623 English corrections, rechecking all five, and then promoting/synchronizing the batch if it passes. Do not begin 3625–3629 until this structural regression is closed.
+**Exact next task:** draft **3625–3629** as one five-letter English batch from the fidelity-cleared canonical Tamil, preserving the locked conventions and embedding the complete Tamil in each record from the outset. Leave those five `draft-translated / pending` until their separate alignment gate.
