@@ -14,9 +14,9 @@ The review compares each English draft against the fidelity-cleared canonical Ta
 
 ## Result
 
-**Gate status: CORRECTION REQUIRED before promotion.**
+**Gate status: PASS — corrections complete; status promotion pending.**
 
-Letters **3630, 3632, 3633 and 3634 pass meaning-level bilingual alignment without substantive English correction.** Letter **3631 requires two English-only fidelity corrections.** No canonical Tamil change is required.
+Letters **3630, 3632, 3633 and 3634 passed without substantive English correction.** Letter **3631 required two English-only fidelity corrections, both now applied and rechecked against canonical PDF 306 and PDF 308–309.** No canonical Tamil change was required.
 
 ## Letter-by-letter findings
 
@@ -27,15 +27,15 @@ Letters **3630, 3632, 3633 and 3634 pass meaning-level bilingual alignment witho
 - Rhetorical question sequence and closing title-return remain intact.
 - Complete Tamil appendix present.
 
-### 3631 — CORRECTION REQUIRED
+### 3631 — PASS AFTER TWO ENGLISH-ONLY CORRECTIONS
 
-Two source-proven issues remain:
+1. The source-printed Tamil rendering following the printed English *The Hindu* passage is now translated **separately and in full**, rather than summarized as being only "in substance and sequence." The Tamil's own formulation `நமது அரசியல் சட்டத்தின் பாரபட்சமற்ற தன்மையை அங்கீகரிக்கும் நோக்கிலும்` remains visible in English as the source's reference to recognising the impartial character of the Constitution, without silently reconciling it to the preceding printed English wording.
 
-1. **The source-printed Tamil rendering that follows the printed English *The Hindu* passage is summarized rather than translated in full.** The draft currently introduces it as a rendering "in substance and sequence" and compresses the Tamil into one English summary paragraph. Under the locked Volume 46 convention, duplicated Tamil renderings must be translated separately and fully rather than collapsed into the already printed English. This matters here because the Tamil rendering itself uses the phrase `நமது அரசியல் சட்டத்தின் பாரபட்சமற்ற தன்மையை அங்கீகரிக்கும் நோக்கிலும்`, which should remain visible in the English rendering rather than being silently reconciled with the preceding printed English wording.
+2. `நீங்கள் தான் குற்றவாளி` is now rendered with its source accusatory force as **"you yourself are the guilty one"**, instead of the weaker "you are the accused."
 
-2. **`நீங்கள் தான் குற்றவாளி` is weakened to "you are the accused."** The source says `குற்றவாளி` — the guilty one / culprit — not merely accused. Kalaignar's accusatory rhetorical force should therefore be restored in English.
+Post-correction recheck: **PASS** against canonical PDF 306 and PDF 308–309.
 
-Everything else in 3631 — the Sivaganga election-petition chronology, 2001 comparison, source-printed English passage, Chidambaram response and closing `வாய்தா` turn — aligns.
+Everything else in 3631 — the Sivaganga election-petition chronology, 2001 comparison, source-printed English passage, Chidambaram response and closing `வாய்தா` turn — remains aligned.
 
 ### 3632 — PASS
 
@@ -66,13 +66,15 @@ Everything else in 3631 — the Sivaganga election-petition chronology, 2001 com
 
 Canonical Tamil changes required: **0**.
 
-## Required corrective action
+## Correction accounting
 
-Repair **3631 only**:
+- English-only corrections in Batch 8: **2, both in 3631**.
+- Canonical Tamil changes caused by Batch 8 alignment: **0**.
+- Meaning-level bilingual alignment: **5 / 5 PASS**.
+- Complete Tamil appendices: **5 / 5 present**.
 
-1. Replace the compressed description of the Tamil rendering after the printed *The Hindu* passage with a complete, separate translation of that Tamil rendering.
-2. Replace "you are the accused" in the disproportionate-assets passage with a source-faithful rendering of `நீங்கள் தான் குற்றவாளி`, such as "you are the guilty one" or "you are the culprit," while retaining the surrounding sentence structure.
-3. Recheck the corrected passages against canonical PDF 306 and PDF 308–309.
-4. If the recheck passes, promote **3630–3634 together** to `translation_status: verified` / `bilingual_alignment_status: verified`, then synchronize progress, README and metadata.
+## Remaining administrative completion
 
-Do not begin 3635 onward before this gate closes.
+The content/alignment gate is closed. The remaining action is administrative synchronization only: promote **3630–3634 together** from `draft-translated / pending` to `verified / verified`, then synchronize `PROGRESS.md`, the English `README.md`, and `metadata.yml`.
+
+Do not begin 3635 onward until that status promotion is complete.
