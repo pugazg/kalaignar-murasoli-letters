@@ -5,8 +5,9 @@
 - [x] Full-volume second visual/textual-fidelity gate complete
 - [x] Translation pilot started
 - [x] Letter 3592 draft-translated
-- [ ] Letter 3592 source check / bilingual alignment
-- [ ] Pilot letters 3593–3594
+- [x] Letter 3593 draft-translated
+- [ ] Letters 3592–3593 source check / bilingual alignment
+- [ ] Pilot letter 3594
 - [ ] Main translation batches
 - [ ] Volume-level bilingual alignment
 - [ ] Editorial consistency review
@@ -14,10 +15,18 @@
 
 ## Current boundary
 
-- English files: **1 / 55 actual source-letter records**
-- Draft-translated: **3592**
+- English files: **2 / 55 actual source-letter records**
+- Draft-translated: **3592–3593**
 - Source-checked: **0**
 - Verified: **0**
-- Next translation record: **3593 — அய்யகோ! அ.தி.மு.க. ஆட்சியில் அரசு நிலம் அரோகரா!**
+- Next translation record: **3594 — அன்றும், இன்றும் ஒரே நிலைதான்!**
 
-The pilot follows the Volume 49 reference workflow: first three letters are translated individually to lock style before normal five-letter batches. No source numbering anomaly is repaired in English.
+## Pilot observations after 3593
+
+- `Udanpirappē` and `With affection, M.K.` remain stable.
+- Source-supplied English court wording is preserved verbatim rather than retranslated.
+- Long legal/court quotations remain visibly attributed and are translated from the audited canonical Tamil; outside judgment wording is not substituted.
+- Source land units such as `காணி` and `கிரவுண்ட்` are retained as `kani` and `ground(s)` unless the source itself supplies a conversion.
+- Rhetorical/sarcastic title language is preserved rather than neutralized; `அரோகரா` is retained as `Arokara` with a letter-specific note.
+
+The pilot follows the Volume 49 reference workflow: the first three letters are translated individually to lock style before normal five-letter batches. No source numbering anomaly is repaired in English.
