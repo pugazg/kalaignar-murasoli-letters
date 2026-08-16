@@ -1,12 +1,12 @@
 # Volume 46 — Bilingual Alignment Review: 3625–3629
 
-Status: **review complete; one English correction required before promotion**
+Status: **PASS — correction applied; all five verified**
 
 Scope: letters **3625–3629**, source PDF **262–295**.
 
 ## Method
 
-Each English draft was checked against the fidelity-cleared canonical Tamil for title, paragraph sequence, rhetorical force, quotations, names, dates, figures, source anomalies, closing formulae, and presence of the complete Tamil appendix. The locked Volume 46 translation conventions remain controlling. No outside factual reconciliation was used and no canonical Tamil change is authorised by this review.
+Each English draft was checked against the fidelity-cleared canonical Tamil for title, paragraph sequence, rhetorical force, quotations, names, dates, figures, source anomalies, closing formulae, and presence of the complete Tamil appendix. The locked Volume 46 translation conventions remain controlling. No outside factual reconciliation was used and no canonical Tamil change was made by this review.
 
 ## Results
 
@@ -16,7 +16,7 @@ Each English draft was checked against the fidelity-cleared canonical Tamil for 
 
 ### 3626 — `மாநில அரசே செயல்படாத நிலையில்...`
 
-**CORRECTION REQUIRED.** The overall chronology, dates, wage figures, co-operative-society history, parliamentary interventions, power-generation figures and closing appeal are aligned. However, the 26-10-2010 Secretariat-meeting paragraph compresses a source-printed participant list into `representatives from AITUC and other unions`. The canonical Tamil explicitly prints the sequence `ஏ.ஐ.டி.யூ.சி. சேகர், குப்புசாமி, வெங்கடேசன், சுகுமாறன், குப்புசாமி, சக்கரபாணி மற்றும் தொழிற்சங்கப் பிரதிநிதிகள்`. Under the archival conventions those printed names must not be silently collapsed. Restore them in English before promotion. Complete Tamil appendix present. Canonical Tamil remains unchanged.
+**PASS AFTER ONE ENGLISH-ONLY CORRECTION.** The overall chronology, dates, wage figures, co-operative-society history, parliamentary interventions, power-generation figures and closing appeal are aligned. The review initially found that the 26-10-2010 Secretariat-meeting paragraph had compressed a source-printed participant list into `representatives from AITUC and other unions`. The canonical Tamil explicitly prints `ஏ.ஐ.டி.யூ.சி. சேகர், குப்புசாமி, வெங்கடேசன், சுகுமாறன், குப்புசாமி, சக்கரபாணி மற்றும் தொழிற்சங்கப் பிரதிநிதிகள்`. The English now restores that sequence as **AITUC's Sekar, Kuppusamy, Venkatesan, Sukumaran, Kuppusamy and Chakkarapani; and other trade-union representatives**. The corrected sentence was rechecked against the canonical Tamil and passes. Complete Tamil appendix present. Canonical Tamil unchanged.
 
 ### 3627 — `தாமதமின்றி - தக்கதோர் முடிவு காண்பீர்!`
 
@@ -34,8 +34,9 @@ Each English draft was checked against the fidelity-cleared canonical Tamil for 
 
 - Letters checked: **5 / 5**
 - Structural Tamil appendices present: **5 / 5**
-- Letters requiring substantive English correction: **1 / 5 — 3626 only**
+- English-only corrections applied: **1 — 3626 participant-name restoration**
 - Canonical Tamil corrections: **0**
-- Promotion decision: **BLOCKED only until the source-printed participant names in 3626 are restored.**
+- Final promotion: **PASS**
+- Final statuses: **3625–3629 = `translation_status: verified` / `bilingual_alignment_status: verified`**
 
-After that single English-only correction, recheck the corrected sentence and promote **3625–3629 together** to `translation_status: verified` and `bilingual_alignment_status: verified`.
+Batch 7 is closed. The next normal translation batch is **3630–3634**.
