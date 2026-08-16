@@ -51,12 +51,14 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_376_402.md"
 translation_status: "in-progress"
-translation_pilot_status: "draft-complete; source-check pending"
+translation_pilot_status: "verified-complete"
+translation_conventions_status: "locked"
 translated_letter_range: "3592-3594"
 translated_letter_count: 3
-source_checked_letter_count: 0
-verified_translation_count: 0
-bilingual_alignment_status: "not-started"
+source_checked_letter_count: 3
+verified_translation_count: 3
+bilingual_alignment_status: "in-progress"
+bilingual_alignment_verified_range: "3592-3594"
 english_release_status: "not-started"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
@@ -70,4 +72,6 @@ source_observations:
   - "The full-volume Tamil structural audit passed on 2026-08-15."
   - "The second visual/textual-fidelity pass is complete for PDF 001-402 / 402 and required 29 corrected canonical pages / 32 corrected spans."
   - "Final fidelity correction: PDF 385 first-pass 'பேரினால் பாதிக்கப்பட்டும்' corrected to source 'போரினால் பாதிக்கப்பட்டும்'."
-  - "English translation pilot contains draft translations for letters 3592-3594; pilot bilingual source check is the next gate."
+  - "English translation pilot letters 3592-3594 are source-checked and bilingual-alignment verified."
+  - "One English-only pilot correction was applied to 3594 to translate the duplicated Tamil rendering of the Colin Gonsalves quotation in full; canonical Tamil did not change."
+  - "Pilot conventions are locked; the first normal five-letter translation batch 3595-3599 is unblocked."
