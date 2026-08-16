@@ -8,9 +8,9 @@ source_pdf_page_start: 102
 source_pdf_page_end: 107
 source_printed_page_start: 101
 source_printed_page_end: 106
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 translation conventions. Sugarcane prices, FRP figures, recovery-rate figures, manifesto claims, dates and reported statements are translated exactly from the audited canonical Tamil without outside reconciliation. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 translation conventions. Sugarcane prices, FRP figures, recovery-rate figures, manifesto claims, dates and reported statements are translated exactly from the audited canonical Tamil without outside reconciliation. The complete audited Tamil follows and remains authoritative. Bilingual source alignment has been verified.
 
 **Tamil source:** [Letter 3604](../../../chapters/3604-enna-pathil-sollap-pogirar.md)  
 **Source pages:** [PDF 102](../../../pages/page-102.md)–[PDF 107](../../../pages/page-107.md)  
@@ -75,7 +75,7 @@ When the AIADMK was in opposition, whenever the sugarcane price was fixed democr
 
 1. The source's repeated first-person formulations attributed to Jayalalithaa are retained because Kalaignar's opening sarcasm depends on that repetition.
 2. `Fair and Remunerative Price (FRP)` is preserved as the source's own English institutional term.
-3. The source prints the sequence `கூடுதலாக ரூ.2260/எனவும்` on PDF 105. It is preserved in the English as a source-printed figure rather than silently emended; the separate bilingual alignment pass should recheck its contextual sense against the scan.
+3. The source prints the sequence `கூடுதலாக ரூ.2260/எனவும்` on PDF 105. It is preserved in the English as a source-printed figure rather than silently emended; the bilingual alignment review rechecked the sequence and retained it because the source is controlling.
 4. Allegations, manifesto comparisons and quoted farmer reactions are translated as claims made in the source, without outside verification.
 
 ## Original Tamil — மூலத் தமிழ்
