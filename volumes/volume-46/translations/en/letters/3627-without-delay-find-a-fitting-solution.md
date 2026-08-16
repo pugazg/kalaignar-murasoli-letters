@@ -8,9 +8,9 @@ source_pdf_page_start: 273
 source_pdf_page_end: 278
 source_printed_page_start: 272
 source_printed_page_end: 277
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s argument about coalition responsibility, the `Common Minimum Programme` reference, his comparisons with the Communist parties’ relationship to the AIADMK, the petrol-price figures and country comparisons, and his appeal to both Union and State Governments are preserved in source order. Source claims and figures are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s argument about coalition responsibility, the `Common Minimum Programme` reference, his comparisons with the Communist parties’ relationship to the AIADMK, the petrol-price figures and country comparisons, and his appeal to both Union and State Governments are preserved in source order. Source claims and figures are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3627](../../../chapters/3627-thaamathamindri-thakkathor-mudivu-kaanbeer.md)  
 **Source pages:** [PDF 273](../../../pages/page-273.md)–[PDF 278](../../../pages/page-278.md)  
