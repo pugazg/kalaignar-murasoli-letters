@@ -6,8 +6,10 @@
 - [x] Translation pilot started
 - [x] Letter 3592 draft-translated
 - [x] Letter 3593 draft-translated
-- [ ] Letters 3592–3593 source check / bilingual alignment
-- [ ] Pilot letter 3594
+- [x] Letter 3594 draft-translated
+- [x] Three-letter translation pilot draft complete
+- [ ] Pilot source check / bilingual alignment (3592–3594)
+- [ ] Lock translation conventions after pilot review
 - [ ] Main translation batches
 - [ ] Volume-level bilingual alignment
 - [ ] Editorial consistency review
@@ -15,18 +17,22 @@
 
 ## Current boundary
 
-- English files: **2 / 55 actual source-letter records**
-- Draft-translated: **3592–3593**
+- English files: **3 / 55 actual source-letter records**
+- Draft-translated: **3592–3594**
 - Source-checked: **0**
 - Verified: **0**
-- Next translation record: **3594 — அன்றும், இன்றும் ஒரே நிலைதான்!**
+- Next gate: **source-check and bilingual-align pilot letters 3592–3594 before beginning normal five-letter batches**
+- First post-pilot translation record after that gate: **3595 — உதவாதினி ஒரு தாமதம்; உடனே விழி; தமிழா!**
 
-## Pilot observations after 3593
+## Pilot conventions demonstrated across 3592–3594
 
 - `Udanpirappē` and `With affection, M.K.` remain stable.
-- Source-supplied English court wording is preserved verbatim rather than retranslated.
-- Long legal/court quotations remain visibly attributed and are translated from the audited canonical Tamil; outside judgment wording is not substituted.
-- Source land units such as `காணி` and `கிரவுண்ட்` are retained as `kani` and `ground(s)` unless the source itself supplies a conversion.
-- Rhetorical/sarcastic title language is preserved rather than neutralized; `அரோகரா` is retained as `Arokara` with a letter-specific note.
+- Kalaignar's argument sequence, rhetorical questions, repetition, irony, and political directness are preserved rather than neutralized.
+- Source-supplied English wording is reproduced verbatim when printed in English; Tamil explanations printed alongside it are not silently discarded.
+- Long attributed quotations are translated from the audited canonical Tamil; outside versions are not substituted.
+- Source-specific legal, institutional, programme, and land-measure terminology is retained or translated conservatively, with letter-specific notes where needed.
+- Tamil idioms and proverbs retain their source imagery where replacing them with an unrelated English proverb would erase Kalaignar's phrasing.
+- Source text printed after a formal closing/date remains part of the archival translation record when the canonical scan shows it there.
+- No source numbering anomaly is repaired in English.
 
-The pilot follows the Volume 49 reference workflow: the first three letters are translated individually to lock style before normal five-letter batches. No source numbering anomaly is repaired in English.
+The three-letter pilot is now complete at the **draft-translation** stage. It is deliberately not promoted to source-checked or verified status until a separate bilingual alignment pass compares each English paragraph against the fidelity-cleared canonical Tamil.
