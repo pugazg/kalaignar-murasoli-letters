@@ -8,9 +8,9 @@ source_pdf_page_start: 311
 source_pdf_page_end: 315
 source_printed_page_start: 310
 source_printed_page_end: 314
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The source-mixed title `OTHERWISE - ஜனாதிபதி`, Kalaignar’s rebuttal to the *Dinamani* article, the 1990–91 Article 356 chronology, the source word `Otherwise`, references to Governors and Presidents, the quoted characterisations of former Presidents, and the criticism concerning President Pratibha Patil are retained in source order and rhetorical force. Source claims are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. The source-mixed title `OTHERWISE - ஜனாதிபதி`, Kalaignar’s rebuttal to the *Dinamani* article, the 1990–91 Article 356 chronology, the source word `Otherwise`, references to Governors and Presidents, the quoted characterisations of former Presidents, and the criticism concerning President Pratibha Patil are retained in source order and rhetorical force. Source claims are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3632](../../../chapters/3632-otherwise-janaathipathi.md)  
 **Source pages:** [PDF 311](../../../pages/page-311.md)–[PDF 315](../../../pages/page-315.md)  
