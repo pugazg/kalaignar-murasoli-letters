@@ -1,0 +1,59 @@
+name: Audit Volume 46 Editorial Consistency
+
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-volume46-editorial.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit all Volume 46 English records
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, json
+          root=Path('volumes/volume-46/translations/en/letters')
+          files=sorted(root.glob('*.md'))
+          print('FILES',len(files))
+          problems=[]
+          variants={k:0 for k in ['Udanpirappē','Udanpirappe','With affection,','With love,','AIADMK','A.I.A.D.M.K.','DMK','D.M.K.','TESO','Kodanadu','Koda Nadu','lakh','lakhs','crore','crores','organisation','organization','programme','program']}
+          title_mismatch=[]
+          no_tamil=[]
+          no_note=[]
+          statuses=[]
+          for p in files:
+              s=p.read_text(encoding='utf-8')
+              for k in variants: variants[k]+=s.count(k)
+              fm=s.split('---',2)[1] if s.startswith('---') else ''
+              def val(key):
+                  m=re.search(rf'^{re.escape(key)}:\s*["\']?(.*?)["\']?\s*$',fm,re.M)
+                  return m.group(1) if m else None
+              ts=val('translation_status'); bs=val('bilingual_alignment_status')
+              statuses.append((p.name,ts,bs))
+              if ts!='verified' or bs!='verified': problems.append(f'{p.name}: status {ts}/{bs}')
+              if '> **Translator’s note**' not in s: no_note.append(p.name)
+              if '## Original Tamil — மூலத் தமிழ்' not in s: no_tamil.append(p.name)
+              et=val('english_title')
+              m=re.search(r'^#\s+\d+\.\s+(.+)$',s,re.M)
+              if et and m and et.strip('"\'') != m.group(1).strip(): title_mismatch.append((p.name,et,m.group(1)))
+          print('PROBLEMS',json.dumps(problems,ensure_ascii=False))
+          print('NO_NOTE',json.dumps(no_note))
+          print('NO_TAMIL',json.dumps(no_tamil))
+          print('TITLE_MISMATCH',json.dumps(title_mismatch,ensure_ascii=False))
+          print('VARIANTS',json.dumps(variants,ensure_ascii=False,sort_keys=True))
+          # print unique frontmatter English titles and suspicious ASCII apostrophe/title quote variants
+          suspect=[]
+          for p in files:
+              s=p.read_text(encoding='utf-8')
+              if 'translation_status: "verified"' not in s or 'bilingual_alignment_status: "verified"' not in s: continue
+              if 'This draft awaits bilingual source-alignment review.' in s: suspect.append((p.name,'stale draft note'))
+              if 'This draft follows the locked Volume 46 conventions.' in s: suspect.append((p.name,'stale draft opening'))
+          print('STALE_NOTES',json.dumps(suspect))
+          assert len(files)==55
+          assert not problems and not no_note and not no_tamil and not title_mismatch and not suspect
