@@ -19,6 +19,8 @@
 - [x] Bilingual alignment review completed for 3615–3619
 - [x] Required English-only corrections applied in 3615 and 3616
 - [x] 3615–3619 synchronized to verified status
+- [x] Main translation batch 6 draft complete: 3620–3624
+- [ ] Bilingual alignment review for 3620–3624
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -26,13 +28,12 @@
 
 ## Current boundary
 
-- English files: **28 / 55 actual source-letter records**
+- English files: **33 / 55 actual source-letter records**
 - Verified: **3592–3619 (28 / 55)**
-- Draft/alignment pending: **0**
-- Main batch 5 source coverage: **PDF 181–220**
-- Batch 5 substantive English corrections: **3 spans across 2 letters** — 3615: 1; 3616: 2
-- Canonical Tamil changes during Batch 5 drafting/alignment: **0**
-- Main batch 6 (3620–3624): **unblocked and next**
+- Draft/alignment pending: **3620–3624 (5 / 55)**
+- Main batch 6 source coverage: **PDF 221–261**
+- Canonical Tamil changes during Batch 6 drafting: **0**
+- Main batch 6: **draft complete; bilingual source-alignment gate is next**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -60,6 +61,18 @@ The five-letter bilingual source-alignment gate for **3615–3619** is closed, c
 
 All five now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was modified during drafting or alignment.
 
+## Batch 6 draft outcome
+
+The complete five-letter English draft batch **3620–3624** now exists, covering **PDF 221–261**. All five remain deliberately at `translation_status: draft-translated` and `bilingual_alignment_status: pending` until the separate five-letter source-alignment review.
+
+- **3620 — என்று தணியும் ஈழத்தமிழர் தாகம்! / When Will the Thirst of Eelam Tamils Be Quenched!** — PDF 221–232.
+- **3621 — எதைக் கொண்டு; இதைப் பார்ப்பது? / By What Shall This Be Viewed?** — PDF 233–238.
+- **3622 — அண்ணா பெயரால் கட்சி; கேலிக்கூத்து! / A Party in Anna's Name; What a Farce!** — PDF 239–245.
+- **3623 — அரசியல் திருப்பம்; அன்று நடந்தது என்ன? என்ன?** — PDF 246–251.
+- **3624 — காரிருளால் சூரியன்தான் மறைவதுண்டோ?** — PDF 252–261.
+
+No canonical Tamil page was changed during Batch 6 drafting.
+
 ## Exact next task
 
-Draft the complete next five-letter English translation batch, **3620–3624**, in one iteration from the fidelity-cleared canonical Tamil using the locked conventions. Keep all five at draft/pending status until their own separate five-letter bilingual source-alignment review.
+Run the complete **five-letter bilingual source-alignment review for 3620–3624** against the fidelity-cleared canonical Tamil. Check every paragraph, quotation, name, date, figure, list, rhetorical turn and closing; apply only source-proven English corrections; keep canonical Tamil unchanged unless a fresh scan comparison independently proves a transcription defect. Then synchronize all five files to verified status and record the Batch 6 alignment report.
