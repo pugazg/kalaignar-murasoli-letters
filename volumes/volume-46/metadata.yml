@@ -53,15 +53,15 @@ textual_fidelity_audit_reports:
 translation_status: "in-progress"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
-translated_letter_range: "3592-3634"
-translated_letter_count: 43
+translated_letter_range: "3592-3635; 3637 (two source records); 3638-3639"
+translated_letter_count: 48
 source_checked_letter_count: 43
 verified_translation_count: 43
 structurally_complete_verified_count: 43
 structurally_complete_verified_range: "3592-3634"
 structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: null
-draft_alignment_pending_range: null
+draft_alignment_pending_range: "3635; 3637 (two source records); 3638-3639"
 bilingual_alignment_status: "in-progress"
 bilingual_alignment_reviewed_range: "3592-3634"
 bilingual_alignment_verified_range: "3592-3634"
@@ -106,4 +106,9 @@ source_observations:
   - "Batch 3630-3634 required two English-only corrections in 3631: 'நீங்கள் தான் குற்றவாளி' was restored with its direct accusatory force, and the source-printed Tamil rendering following the English The Hindu passage was translated separately and in full rather than summarized."
   - "Letter 3634 preserves the actual semicolon heading separately from the differing printed-contents comma form and retains the long source-printed arrested-person list without compression."
   - "Batch 3630-3634 caused no canonical Tamil changes."
-  - "Next task is the next five actual source-letter records beginning with 3635; source numbering anomalies must be preserved, including no 3636 and two distinct 3637 records."
+  - "Ninth five-record translation batch is draft-complete in actual source order: 3635; first 3637; second 3637; 3638; 3639, covering PDF 329-355."
+  - "Batch 9 preserves the scan anomaly of no 3636 and two distinct consecutive 3637 records; both 3637 English files retain letter_number 3637 and use separate stable filenames/variant markers."
+  - "The second 3637 is a one-page proclamation-like source item; its actual heading 'என் உயிரினுமேலான அன்பு உடன்பிறப்புக்களே!' is preserved separately from the printed-contents form, and its handwritten signature is described rather than interpreted."
+  - "All five Batch 9 bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices from creation."
+  - "Batch 9 drafting caused no canonical Tamil changes."
+  - "Next task is bilingual source-alignment review for the five actual Batch 9 records before drafting 3640 onward."
