@@ -61,11 +61,11 @@ Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENT
 
 Both records contain complete audited Tamil appendices. The final alignment review required **0 English-only corrections** and **0 canonical Tamil changes**.
 
-## Exact next task
-
-Build the **translation manifest** for all 55 verified English records, then prepare the final English release report.
-
-
 ## Release status
 
 **Volume 46 English edition complete and release-ready: 55 / 55 verified bilingual records.**
+
+Release package:
+- [TRANSLATION_MANIFEST.csv](TRANSLATION_MANIFEST.csv) — 55 validated rows
+- [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md) — volume-level editorial QA
+- [RELEASE_REPORT.md](RELEASE_REPORT.md) — final English release report
