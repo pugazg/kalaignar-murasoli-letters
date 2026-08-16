@@ -71,10 +71,6 @@ jobs:
           s = s.replace('bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"', 'bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"')
           s = s.replace('bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"', 'bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"')
           s = s.replace('english_release_status: "not-started"', 'english_release_status: "editorial-review-pending"')
-          old = '  - "The final translation batch consists of the two actual source records 3648 and 3649."'
-          new = '  - "The final translation batch 3648-3649 is source-checked and bilingual-alignment verified, covering PDF 388-400."\n  - "Final batch required no substantive English correction and caused no canonical Tamil changes."\n  - "All 55 actual source-letter records now have structurally complete, source-checked, bilingual-alignment-verified English records."'
-          assert old in s
-          s = s.replace(old, new)
           metadata.write_text(s, encoding='utf-8')
 
       - name: Commit final promotion
