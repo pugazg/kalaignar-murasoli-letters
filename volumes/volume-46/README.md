@@ -12,9 +12,9 @@
 - **55 complete source-letter records** source scan-இலிருந்து verified செய்யப்பட்டுள்ளன.
 - First-pass Tamil transcription: **complete**.
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
-- Second visual / textual-fidelity verification: **in progress — PDF 001–300 passed**.
-- Scan-proven canonical corrections in completed second-pass range: **26 pages / 29 spans**.
-- Complete letters with full second-pass coverage: **3592–3629**.
+- Second visual / textual-fidelity verification: **in progress — PDF 001–325 passed**.
+- Scan-proven canonical corrections in completed second-pass range: **28 pages / 31 spans**.
+- Complete letters with full second-pass coverage: **3592–3633**.
 - English translation: **not started**.
 
 ## நிறைவேற்றப்பட்ட transcription structure
@@ -194,7 +194,18 @@
 - PDF 296–300 is partial fidelity coverage for letter 3630.
 - Detailed report: [TEXTUAL_FIDELITY_AUDIT_276_300.md](translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md).
 
-Cumulative second-pass source coverage is now **PDF 001–300 / 402**, with **26 corrected pages / 29 spans**. Complete source letters **3592–3629** have full second-pass coverage; letter **3630** remains partial through PDF 300.
+### PDF 301–325
+
+- Pages checked: **25 / 25**.
+- Canonical corrections required: **2 pages / 2 spans**.
+- PDF 313 restored source spacing `திரு.ஆர். வெங்கட்ராமன்` instead of `திரு. ஆர். வெங்கட்ராமன்`.
+- PDF 316 corrected first-pass `குற்றாவளி பிரச்சாரத்திற்காக` to source `சூறாவளி பிரச்சாரத்திற்காக`.
+- Letter 3630 completed at PDF 304; letters 3631, 3632 and 3633 passed through closing/date pages PDF 310, 315 and 321.
+- PDF 308 preserves the printed English High Court passage; PDF 311–312 preserves `பிப்ரவரி` → `2ந்தேதியன்று`; PDF 315 preserves comma-less `அன்புள்ள`; PDF 322 preserves the actual-heading semicolon; PDF 325 preserves the page-end `உழைத்த` split.
+- PDF 322–325 is partial fidelity coverage for letter 3634.
+- Detailed report: [TEXTUAL_FIDELITY_AUDIT_301_325.md](translations/en/TEXTUAL_FIDELITY_AUDIT_301_325.md).
+
+Cumulative second-pass source coverage is now **PDF 001–325 / 402**, with **28 corrected pages / 31 spans**. Complete source letters **3592–3633** have full second-pass coverage; letter **3634** remains partial through PDF 325.
 
 ## தணிக்கை மற்றும் வழிகாட்டிகள்
 
@@ -207,4 +218,4 @@ Cumulative second-pass source coverage is now **PDF 001–300 / 402**, with **26
 
 ## அடுத்த exact task
 
-**Second visual / textual-fidelity verification PDF 301–325**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3630-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
+**Second visual / textual-fidelity verification PDF 326–350**. Canonical Tamil-ஐ source scan-உடன் close comparison செய்து, scan-proven corrections மற்றும் coverage-ஐ next report-ல் பதிவு செய்ய வேண்டும். இந்த activity letter 3634-ஐத் தொடர்ந்து அடுத்த source letters-ஐ உள்ளடக்கும். இந்த activity-ல் English translation தொடங்கக்கூடாது.
