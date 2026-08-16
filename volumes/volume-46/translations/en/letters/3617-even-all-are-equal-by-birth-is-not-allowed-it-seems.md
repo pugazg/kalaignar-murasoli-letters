@@ -8,9 +8,9 @@ source_pdf_page_start: 196
 source_pdf_page_end: 205
 source_printed_page_start: 195
 source_printed_page_end: 204
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. The Assembly exchange, court observations, Education Department circular, textbook page numbers, names, programme titles, quoted textbook passages, poetry and Kalaignar’s sarcasm are preserved in source order. The source’s claim about what was ordered to be hidden or deleted is translated as printed and not independently adjudicated. The complete audited Tamil remains authoritative. This draft awaits separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. The Assembly exchange, court observations, Education Department circular, textbook page numbers, names, programme titles, quoted textbook passages, poetry and Kalaignar’s sarcasm are preserved in source order. The source’s claim about what was ordered to be hidden or deleted is translated as printed and not independently adjudicated. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3617](../../../chapters/3617-pirappokkum-enbathu-koodaathaam.md)  
 **Source pages:** [PDF 196](../../../pages/page-196.md)–[PDF 205](../../../pages/page-205.md)  
@@ -159,7 +159,7 @@ Udanpirappē, those who did all this today conceal every bit of it and a ministe
 1. `சமச்சீர் கல்வி` is retained as **Samacheer Kalvi**, the source’s programme terminology, rather than replaced with a generic phrase throughout.
 2. The title’s `பிறப்பொக்கும்` refers directly to the Thirukkural phrase reproduced later in the letter; it is rendered in the title as **All Are Equal by Birth** and in the quoted line as **All living beings are equal by birth**.
 3. Textbook page numbers, circular instructions, programme names and quoted passages are preserved in source order; no attempt is made here to reconcile them with external editions.
-4. The long *Semmozhi Vaazhthu* and Thanjavur conference verses are translated directly from the canonical Tamil for this archival draft.
+4. The long *Semmozhi Vaazhthu* and Thanjavur conference verses are translated directly from the canonical Tamil.
 
 ## Original Tamil — மூலத் தமிழ்
 
