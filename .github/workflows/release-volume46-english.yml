@@ -1,0 +1,185 @@
+name: Release Volume 46 English Edition
+
+on:
+  push:
+    paths:
+      - '.github/workflows/release-volume46-english.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build manifest and release report
+        shell: python
+        run: |
+          from pathlib import Path
+          import csv, io, re
+
+          base = Path('volumes/volume-46/translations/en')
+          letters_dir = base / 'letters'
+          files = sorted(letters_dir.glob('*.md'))
+          assert len(files) == 55, len(files)
+
+          def fm_value(text, key):
+              fm = text.split('---', 2)[1]
+              m = re.search(rf'^{re.escape(key)}:\s*(.*)$', fm, re.M)
+              if not m:
+                  return ''
+              v = m.group(1).strip()
+              if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
+                  v = v[1:-1]
+              return v
+
+          def alignment_report(n):
+              n = int(n)
+              if 3592 <= n <= 3594: return '../BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md'
+              if 3595 <= n <= 3599: return '../BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md'
+              if 3600 <= n <= 3604: return '../BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md'
+              if 3605 <= n <= 3609: return '../BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md'
+              if 3610 <= n <= 3614: return '../BILINGUAL_ALIGNMENT_REVIEW_3610_3614.md'
+              if 3615 <= n <= 3619: return '../BILINGUAL_ALIGNMENT_REVIEW_3615_3619.md'
+              if 3620 <= n <= 3624: return '../BILINGUAL_ALIGNMENT_REVIEW_3620_3624.md'
+              if 3625 <= n <= 3629: return '../BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md'
+              if 3630 <= n <= 3634: return '../BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md'
+              if n in (3635,3637,3638,3639): return '../BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md'
+              if n in (3640,3641,3642,3643,3647): return '../BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md'
+              if n in (3648,3649): return '../BILINGUAL_ALIGNMENT_REVIEW_3648_3649.md'
+              raise AssertionError(n)
+
+          rows=[]
+          total_words=0
+          seen=[]
+          for p in files:
+              s=p.read_text(encoding='utf-8')
+              assert 'translation_status: "verified"' in s, p
+              assert 'bilingual_alignment_status: "verified"' in s, p
+              assert '## Original Tamil — மூலத் தமிழ்' in s, p
+              assert '> **Translator’s note**' in s, p
+              n=fm_value(s,'letter_number')
+              seen.append(int(n))
+              start=fm_value(s,'source_pdf_page_start'); end=fm_value(s,'source_pdf_page_end')
+              ps=fm_value(s,'source_printed_page_start'); pe=fm_value(s,'source_printed_page_end')
+              before=s.split('## Original Tamil — மூலத் தமிழ்',1)[0]
+              if '## English translation' in before:
+                  body=before.split('## English translation',1)[1]
+              else:
+                  marker=f"**Date:**"
+                  body=before.split(marker,1)[1] if marker in before else before.split('---',2)[-1]
+              words=re.findall(r"\b[\w’'-]+\b", body, flags=re.UNICODE)
+              wc=len(words); total_words += wc
+              rows.append([
+                  n, fm_value(s,'date'), fm_value(s,'english_title'), fm_value(s,'tamil_title'),
+                  f'{start}-{end}', f'{ps}-{pe}', fm_value(s,'translation_status'),
+                  fm_value(s,'bilingual_alignment_status'), fm_value(s,'source_textual_fidelity_audit'),
+                  wc, f'letters/{p.name}', alignment_report(n)
+              ])
+
+          assert len(rows)==55
+          assert seen.count(3637)==2
+          assert 3636 not in seen
+          for missing in (3644,3645,3646): assert missing not in seen
+          assert min(int(r[4].split('-')[0]) for r in rows)==24
+          assert max(int(r[4].split('-')[1]) for r in rows)==400
+
+          out=io.StringIO(newline='')
+          w=csv.writer(out, lineterminator='\n')
+          w.writerow(['letter_number','date','english_title','tamil_title','source_pdf_pages','source_printed_pages','translation_status','bilingual_alignment_status','source_textual_fidelity_audit','english_word_count','file','bilingual_alignment_report'])
+          w.writerows(rows)
+          (base/'TRANSLATION_MANIFEST.csv').write_text(out.getvalue(),encoding='utf-8')
+
+          report=f'''# Volume 46 English Translation — Final Release Report
+
+## Release identity
+
+- Work: **Kalaignar’s Murasoli Letters — Volume 46**
+- Source numbering span: **3592–3649**, with source anomalies preserved
+- Actual source-letter records: **55**
+- Letter dates: **5 October 2011–15 August 2012**
+- Source PDF: **402 pages**
+- Translated letter-page span: **PDF 24–400**
+- English letters released: **55**
+- Editorial English word count: **{total_words:,}**
+
+## Completion status
+
+| Stage | Result |
+|---|---:|
+| Tamil page-level transcription | Complete |
+| Full-volume Tamil structural audit | Complete |
+| Second visual/textual-fidelity gate | Complete |
+| English translation | 55/55 |
+| Source checking | 55/55 |
+| Bilingual alignment verification | 55/55 |
+| Volume-level English editorial review | Complete |
+| Translation manifest | 55 rows |
+| Canonical Tamil changed during English editorial review | 0 |
+
+## Release contents
+
+- [`README.md`](README.md) — English translation status and access point
+- [`letters/`](letters/) — one verified bilingual Markdown file per actual source record
+- [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv) — machine-readable metadata for all 55 records
+- [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — volume-level editorial QA record
+- `BILINGUAL_ALIGNMENT_REVIEW_*.md` — substantive Tamil–English review reports
+- `TEXTUAL_FIDELITY_AUDIT_*.md` — scan-to-Markdown source audits
+- [`PILOT_TRANSLATION_CONVENTIONS.md`](PILOT_TRANSLATION_CONVENTIONS.md) — locked translation conventions
+
+## Editorial and archival policy
+
+The released English is a thought-preserving, non-literary translation. It retains Kalaignar’s argument order, political directness, criticism, irony, repetition, rhetorical questions, source-specific figures and quoted voices. The complete audited Tamil source is appended to every bilingual record and remains authoritative.
+
+The source numbering is not repaired. There is **no 3636**; the scan prints **two distinct consecutive 3637 records**; and there are **no 3644–3646 source records**. Known contents-page versus actual-heading distinctions are likewise preserved rather than silently normalised.
+
+## QA summary
+
+The final editorial pass found only two stale translator-note status phrases (3605 and 3607) plus one stale metadata pending-range field. Those were corrected without changing substantive English. No political meaning, attribution, uncertainty, figures, quotations or canonical Tamil was altered by the editorial pass.
+
+Release status: **ready as the completed English edition of Volume 46 in this repository**.
+'''
+          (base/'RELEASE_REPORT.md').write_text(report,encoding='utf-8')
+
+          progress=base/'PROGRESS.md'
+          s=progress.read_text(encoding='utf-8')
+          s=s.replace('- [ ] Translation manifest and final English release report','- [x] Translation manifest and final English release report')
+          s=s.replace('## Exact next task\n\nBuild the **translation manifest** for all 55 records and prepare the final English release report.', '## Release status\n\n**Volume 46 English edition complete and release-ready: 55 / 55 verified bilingual records.**')
+          if '## Release status' not in s:
+              s += '\n\n## Release status\n\n**Volume 46 English edition complete and release-ready: 55 / 55 verified bilingual records.**\n'
+          progress.write_text(s,encoding='utf-8')
+
+          readme=base/'README.md'
+          s=readme.read_text(encoding='utf-8')
+          s=s.replace('Status: **all 55 actual source-letter records have structurally complete English bilingual files and all 55 are source-checked and bilingual-alignment verified**.', 'Status: **English edition complete and release-ready: all 55 actual source-letter records are structurally complete, source-checked, bilingual-alignment verified and editorially reviewed**.')
+          s=s.replace('**Exact next task:** build the **translation manifest** for all 55 records, then prepare the final English release report.', '**Release:** [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv) and [`RELEASE_REPORT.md`](RELEASE_REPORT.md) complete the Volume 46 English release package.')
+          readme.write_text(s,encoding='utf-8')
+
+          metadata=Path('volumes/volume-46/metadata.yml')
+          s=metadata.read_text(encoding='utf-8')
+          s=s.replace('english_release_status: "editorial-review-complete"','english_release_status: "released"')
+          if 'translation_manifest_rows:' not in s:
+              anchor='english_release_status: "released"'
+              s=s.replace(anchor, anchor+f'\ntranslation_manifest_rows: 55\neditorial_english_word_count: {total_words}')
+          metadata.write_text(s,encoding='utf-8')
+
+          # post-build validation
+          manifest=list(csv.DictReader((base/'TRANSLATION_MANIFEST.csv').read_text(encoding='utf-8').splitlines()))
+          assert len(manifest)==55
+          assert all(r['translation_status']=='verified' and r['bilingual_alignment_status']=='verified' for r in manifest)
+          assert sum(int(r['english_word_count']) for r in manifest)==total_words
+          print('rows',len(manifest),'words',total_words)
+
+      - name: Commit release package
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add volumes/volume-46/translations/en/TRANSLATION_MANIFEST.csv \
+                  volumes/volume-46/translations/en/RELEASE_REPORT.md \
+                  volumes/volume-46/translations/en/PROGRESS.md \
+                  volumes/volume-46/translations/en/README.md \
+                  volumes/volume-46/metadata.yml
+          git commit -m "Release Volume 46 English translation"
+          git push
