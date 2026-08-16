@@ -53,10 +53,11 @@ textual_fidelity_audit_reports:
 translation_status: "in-progress"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
-translated_letter_range: "3592-3594"
-translated_letter_count: 3
+translated_letter_range: "3592-3599"
+translated_letter_count: 8
 source_checked_letter_count: 3
 verified_translation_count: 3
+draft_alignment_pending_range: "3595-3599"
 bilingual_alignment_status: "in-progress"
 bilingual_alignment_verified_range: "3592-3594"
 english_release_status: "not-started"
@@ -74,4 +75,5 @@ source_observations:
   - "Final fidelity correction: PDF 385 first-pass 'பேரினால் பாதிக்கப்பட்டும்' corrected to source 'போரினால் பாதிக்கப்பட்டும்'."
   - "English translation pilot letters 3592-3594 are source-checked and bilingual-alignment verified."
   - "One English-only pilot correction was applied to 3594 to translate the duplicated Tamil rendering of the Colin Gonsalves quotation in full; canonical Tamil did not change."
-  - "Pilot conventions are locked; the first normal five-letter translation batch 3595-3599 is unblocked."
+  - "Pilot conventions are locked."
+  - "First normal five-letter translation batch 3595-3599 is draft-complete from canonical PDF pages 45-74; bilingual alignment is pending."
