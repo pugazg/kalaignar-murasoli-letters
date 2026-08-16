@@ -10,8 +10,9 @@
 - [x] Translation conventions formally documented and locked
 - [x] Main translation batch 1 draft complete: 3595–3599
 - [x] Bilingual alignment review completed for 3595–3599
-- [ ] Apply three required English-only revisions in 3595/3597
-- [ ] Synchronize 3595–3599 to verified status
+- [x] Three required English-only revisions applied in 3595/3597
+- [x] 3595–3599 synchronized to verified status
+- [ ] Main translation batch 2: 3600–3604
 - [ ] Remaining main translation batches
 - [ ] Volume-level bilingual alignment completion
 - [ ] Editorial consistency review
@@ -20,34 +21,22 @@
 ## Current boundary
 
 - English files: **8 / 55 actual source-letter records**
-- Verified: **3592–3594 (3 / 55)**
-- Batch 1 reviewed: **3595–3599 (5 / 5)**
-- Passed without correction: **3596, 3598, 3599**
-- English-only corrections required: **3595 (1), 3597 (2)**
-- Canonical Tamil changes required: **0**
-- Main batch 2 (3600–3604): **blocked until the three corrections are applied and Batch 1 statuses are synchronized**
+- Verified: **3592–3599 (8 / 55)**
+- Batch 1 verified: **3595–3599 (5 / 5)**
+- English-only corrections applied in Batch 1: **3595 (1), 3597 (2)**
+- Canonical Tamil changes during Batch 1 alignment: **0**
+- Main batch 2 (3600–3604): **unblocked and next**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Batch 1 alignment findings
+## Batch 1 final outcome
 
-### 3595
+The source-alignment gate is closed. Letter 3595 now makes clear that the betrayal of the Kazhagam is undertaken to protect **the accumulated money**, matching `அதைக் காத்திடுவதற்காக`. Letter 3597 now renders `முதல் அமைச்சராக` as **Chief Minister**, not **the first Chief Minister**, and restores `பொதுவுடைமை வீரர் ஜீவா` as **communist fighter Jeeva**. Letters 3596, 3598 and 3599 required no substantive English correction.
 
-One pronoun changes the source referent. The Tamil says that after money came into their hands, some people try to betray the Kazhagam **to protect that money**. The current English `in order to protect it` can read as protecting the Kazhagam. Replace it with `in order to protect that money`.
-
-### 3597
-
-Two corrections are required:
-
-1. `சுதந்திரத்திற்குப் பிறகு தமிழகத்தில் முதல் அமைச்சராகப் பொறுப்பேற்று` means **assumed office as Chief Minister in Tamil Nadu after Independence**, not **became the first Chief Minister of Tamil Nadu after Independence**.
-2. `பொதுவுடைமை வீரர் ஜீவா` should retain the source political description as **communist fighter Jeeva**, not **socialist fighter**.
-
-### 3596, 3598, 3599
-
-No substantive English correction is required from this alignment pass.
+All five letters now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil was modified.
 
 ## Exact next task
 
-Apply the one correction in **3595** and the two corrections in **3597**, then mark **3595–3599** source-checked / bilingual-alignment verified and synchronize repository status files. Do not begin **3600–3604** until that gate is complete.
+Begin the next normal five-letter English translation batch, **3600–3604**, from the fidelity-cleared canonical Tamil using the locked conventions. Keep those new translations in draft/pending state until their separate bilingual source-alignment review.
