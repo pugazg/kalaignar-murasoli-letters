@@ -8,9 +8,9 @@ source_pdf_page_start: 349
 source_pdf_page_end: 355
 source_printed_page_start: 348
 source_printed_page_end: 354
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s argument with CPI(M) State Secretary G. Ramakrishnan, the full arrest chronology, the 703/42 land-grab-case figures, the Angammal Colony/Veerapandi Arumugam discussion, the repeated Executive Committee resolution extract and the Siruthavur commission comparison are retained in source order. Political and legal claims remain source-attributed and are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s argument with CPI(M) State Secretary G. Ramakrishnan, the full arrest chronology, the 703/42 land-grab-case figures, the Angammal Colony/Veerapandi Arumugam discussion, the repeated Executive Committee resolution extract and the Siruthavur commission comparison are retained in source order. Political and legal claims remain source-attributed and are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3639](../../../chapters/3639-ivai-ellaame-arasiyalthaanaa.md)  
 **Source pages:** [PDF 349](../../../pages/page-349.md)–[PDF 355](../../../pages/page-355.md)  
