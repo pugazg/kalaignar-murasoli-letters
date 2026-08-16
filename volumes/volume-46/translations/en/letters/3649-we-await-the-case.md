@@ -8,9 +8,9 @@ source_pdf_page_start: 394
 source_pdf_page_end: 400
 source_printed_page_start: 393
 source_printed_page_end: 399
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s response to the defamation case, the six-question *Murasoli* Q&A context, his repeated distinction between asking whether a Chief Minister had stayed away for months and actually accusing the Chief Minister of taking rest, the catalogue of cases against political opponents and newspapers, and the source-printed bullet list of Jayalalithaa’s past criticisms are preserved in source order. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This verified translation follows the locked Volume 46 conventions. Kalaignar’s response to the defamation case, the six-question *Murasoli* Q&A context, his repeated distinction between asking whether a Chief Minister had stayed away for months and actually accusing the Chief Minister of taking rest, the catalogue of cases against political opponents and newspapers, and the source-printed bullet list of Jayalalithaa’s past criticisms are preserved in source order. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [Letter 3649](../../../chapters/3649-vazhakkai-ethirnokkirom.md)  
 **Source pages:** [PDF 394](../../../pages/page-394.md)–[PDF 400](../../../pages/page-400.md)  

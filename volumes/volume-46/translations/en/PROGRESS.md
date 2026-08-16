@@ -22,16 +22,17 @@
 - [x] Main translation batch 10: 3640, 3641, 3642, 3643, 3647 verified
 - [x] Final translation batch draft complete: 3648–3649
 - [x] Final batch bilingual source-alignment review: 3648–3649 — 2 / 2 PASS
-- [ ] Promote final two records to verified / verified and synchronize volume-level bilingual completion
+- [x] Final batch promoted: 3648–3649 verified / verified
+- [x] Volume-level bilingual alignment complete: 55 / 55 actual source records
 - [ ] Editorial consistency review
 - [ ] Translation manifest and final English release report
 
 ## Current boundary
 
 - English files: **55 / 55 actual source-letter records**
-- Structurally complete verified bilingual records: **53 / 55 actual source records**
-- Draft-translated / bilingual-alignment pending: **2 / 55 actual source records — 3648–3649**
-- Verified source coverage: **3592–3635; 3637 (two distinct source records); 3638–3643; 3647**
+- Structurally complete verified bilingual records: **55 / 55 actual source records**
+- Draft-translated / bilingual-alignment pending: **0 / 55 actual source records**
+- Verified source coverage: **all 55 actual source records — 3592–3635; 3637 (two distinct source records); 3638–3643; 3647–3649**
 - Final draft source coverage: **3648–3649 / PDF 388–400**
 - Final batch alignment result: **2 / 2 PASS**
 - Final batch English-only corrections required: **0**
@@ -53,7 +54,7 @@ Final batch review: [BILINGUAL_ALIGNMENT_REVIEW_3648_3649.md](BILINGUAL_ALIGNMEN
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Final translation batch — ALIGNMENT REVIEW COMPLETE
+## Final translation batch — VERIFIED COMPLETE
 
 - **3648 — `விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்!`** — PASS without substantive English correction. Competing acreage/production-loss figures, farmer-organisation statements, the *Theekkathir* quotation, Aadi eighteenth-day reference, May 28 / June 15 review chronology and closing drought-relief appeal all remain source-aligned.
 - **3649 — `வழக்கை எதிர்நோக்குகிறோம்!`** — PASS without substantive English correction. The defamation-case argument, six-question Q&A context, repeated Kodanadu/rest distinction, case catalogue, source bullet criticisms and final Kodanadu questions all remain source-aligned.
@@ -62,4 +63,4 @@ Both records contain complete audited Tamil appendices. The final alignment revi
 
 ## Exact next task
 
-Promote **3648 and 3649 together** from `draft-translated / pending` to `verified / verified`, change their translator notes to completed source-alignment wording, synchronize the English README and Volume 46 metadata, and mark volume-level bilingual alignment complete. Then begin the editorial-consistency and final English release phase.
+Begin the **volume-level editorial consistency review** across all 55 verified English bilingual records. After that, build the translation manifest and final English release report.

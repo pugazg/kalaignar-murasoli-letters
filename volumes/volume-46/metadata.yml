@@ -50,22 +50,22 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_326_350.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_376_402.md"
-translation_status: "in-progress"
+translation_status: "translated-verified"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
 translated_letter_range: "3592-3649 (55 actual source records; anomalies preserved)"
 translated_letter_count: 55
-source_checked_letter_count: 53
-verified_translation_count: 53
-structurally_complete_verified_count: 53
-structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
+source_checked_letter_count: 55
+verified_translation_count: 55
+structurally_complete_verified_count: 55
+structurally_complete_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
 structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: null
 draft_alignment_pending_range: "3648-3649"
-bilingual_alignment_status: "in-progress"
-bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
-bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647"
-english_release_status: "not-started"
+bilingual_alignment_status: "complete"
+bilingual_alignment_reviewed_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
+bilingual_alignment_verified_range: "3592-3635; 3637 (two source records); 3638-3643; 3647-3649"
+english_release_status: "editorial-review-pending"
 source_observations:
   - "Front cover and title page identify Volume 46 and the visible date range 05.10.2011-15.08.2012."
   - "PDF page 3 prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
