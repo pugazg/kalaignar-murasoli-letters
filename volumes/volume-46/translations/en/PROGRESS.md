@@ -21,8 +21,8 @@
 - [x] Batch 9 bilingual source-alignment review and one required English-only correction complete
 - [x] Main translation batch 10: 3640, 3641, 3642, 3643, 3647 verified
 - [x] Final translation batch draft complete: 3648–3649
-- [ ] Final batch bilingual source-alignment review: 3648–3649
-- [ ] Volume-level bilingual alignment completion
+- [x] Final batch bilingual source-alignment review: 3648–3649 — 2 / 2 PASS
+- [ ] Promote final two records to verified / verified and synchronize volume-level bilingual completion
 - [ ] Editorial consistency review
 - [ ] Translation manifest and final English release report
 
@@ -33,8 +33,10 @@
 - Draft-translated / bilingual-alignment pending: **2 / 55 actual source records — 3648–3649**
 - Verified source coverage: **3592–3635; 3637 (two distinct source records); 3638–3643; 3647**
 - Final draft source coverage: **3648–3649 / PDF 388–400**
+- Final batch alignment result: **2 / 2 PASS**
+- Final batch English-only corrections required: **0**
 - Complete audited Tamil appendices embedded in final batch: **2 / 2**
-- Canonical Tamil changes caused by final drafting: **0**
+- Canonical Tamil changes caused by final drafting/alignment: **0**
 
 Detailed pilot review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
 Batch 1 review: [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md)  
@@ -47,16 +49,17 @@ Batch 7 review: [BILINGUAL_ALIGNMENT_REVIEW_3625_3629.md](BILINGUAL_ALIGNMENT_RE
 Batch 8 review: [BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md](BILINGUAL_ALIGNMENT_REVIEW_3630_3634.md)  
 Batch 9 review: [BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md](BILINGUAL_ALIGNMENT_REVIEW_3635_3639.md)  
 Batch 10 review: [BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md](BILINGUAL_ALIGNMENT_REVIEW_3640_3647.md)  
+Final batch review: [BILINGUAL_ALIGNMENT_REVIEW_3648_3649.md](BILINGUAL_ALIGNMENT_REVIEW_3648_3649.md)  
 Structural audit: [BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md](BILINGUAL_RECORD_STRUCTURE_AUDIT_3610_3624.md)  
 Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Final translation batch — DRAFT COMPLETE
+## Final translation batch — ALIGNMENT REVIEW COMPLETE
 
-- **3648 — `விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்!`** — drafted from PDF 388–393 with complete Tamil appendix. The translation preserves the competing acreage/production-loss figures, farmer-organisation statements, *Theekkathir* quotation, Aadi eighteenth-day reference and the review-meeting sarcasm.
-- **3649 — `வழக்கை எதிர்நோக்குகிறோம்!`** — drafted from PDF 394–400 with complete Tamil appendix. The translation preserves the defamation-case argument, six-question Q&A context, repeated rest/Kodanadu distinction, list of cases against political/media targets, source bullet lists of earlier criticisms, and the final Kodanadu questions.
+- **3648 — `விவசாயிகள் வேதனையும், விதவிதமான அறிக்கைகளும்!`** — PASS without substantive English correction. Competing acreage/production-loss figures, farmer-organisation statements, the *Theekkathir* quotation, Aadi eighteenth-day reference, May 28 / June 15 review chronology and closing drought-relief appeal all remain source-aligned.
+- **3649 — `வழக்கை எதிர்நோக்குகிறோம்!`** — PASS without substantive English correction. The defamation-case argument, six-question Q&A context, repeated Kodanadu/rest distinction, case catalogue, source bullet criticisms and final Kodanadu questions all remain source-aligned.
 
-Both records remain `draft-translated / pending` until their separate bilingual source-alignment review. No canonical Tamil page was changed.
+Both records contain complete audited Tamil appendices. The final alignment review required **0 English-only corrections** and **0 canonical Tamil changes**.
 
 ## Exact next task
 
-Perform the final **two-record bilingual source-alignment review for 3648–3649** against the audited Tamil on PDF 388–400. Apply only source-proven English corrections, then promote both records together to `verified / verified` if the gate passes. After that, close volume-level bilingual alignment and begin the editorial-consistency/release phase.
+Promote **3648 and 3649 together** from `draft-translated / pending` to `verified / verified`, change their translator notes to completed source-alignment wording, synchronize the English README and Volume 46 metadata, and mark volume-level bilingual alignment complete. Then begin the editorial-consistency and final English release phase.
