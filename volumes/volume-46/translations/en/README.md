@@ -1,6 +1,6 @@
 # Volume 46 — English translation
 
-Status: **main translation in progress; 18 verified letters**.
+Status: **main translation in progress; 18 verified letters and Batch 4 draft complete**.
 
 The full-volume Tamil structural audit and mandatory second visual/textual-fidelity gate are complete for **PDF 001–402 / 402**. All **55 / 55 actual source-letter records** are cleared for translation.
 
@@ -27,17 +27,25 @@ Verified:
 - **3608 — திராவிட இயக்க நூற்றாண்டு தொடக்கம்! / Beginning of the Dravidian Movement Centenary!** — PDF 134–139.
 - **3609 — இன எழுச்சிக்கு எடுக்கும் விழா! / A Festival We Hold for Ethnic Awakening!** — PDF 140–145.
 
-**English files: 18 / 55.**  
+Draft-translated; bilingual alignment pending:
+
+- **3610 — சொன்னது என்ன? என்ன? நடந்தது என்ன? என்ன? / What Was Said? What Happened?** — PDF 146–155.
+- **3611 — அண்ணாவின் கனவை அழிக்கத் துடிக்கும் ஆரியமாயை! / The Aryan Illusion Striving to Destroy Anna's Dream!** — PDF 156–162.
+- **3612 — அராஜகத்திற்கு முடிவுகட்ட; அணி திரள்வோம்! / Let Us Rally to Put an End to Lawlessness!** — PDF 163–167.
+- **3613 — புத்தியுள்ள தமிழா; நீ புரிந்துகொண்டால் சரி! / Wise Tamil, It Is Enough If You Understand This!** — PDF 168–174.
+- **3614 — பாவம்; பன்னீர்செல்வம்! / Poor Panneerselvam!** — PDF 175–180.
+
+**English files: 23 / 55.**  
 **Verified: 18 / 55.**  
-**Draft/alignment pending: 0.**
+**Draft/alignment pending: 5 / 55 (3610–3614).**
 
 The pilot review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md). Batch 1 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md](BILINGUAL_ALIGNMENT_REVIEW_3595_3599.md). Batch 2 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md](BILINGUAL_ALIGNMENT_REVIEW_3600_3604.md). Batch 3 review is documented in [BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md](BILINGUAL_ALIGNMENT_REVIEW_3605_3609.md). Translation conventions are locked in [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md).
 
-## Batch 3605–3609 verification
+## Batch 3610–3614 draft state
 
-The complete five-letter bilingual source-alignment review is finished for **PDF 108–145**. All five letters passed without substantive English correction. Letter 3605 preserves the moving-temple medical-care metaphor and welfare-scheme sequence. Letter 3606 preserves the repeated sarcastic `சாதனை` structure, long court material and source-supplied English newspaper passages, with their Tamil renderings separately translated in full. Letter 3607 preserves the Kudankulam and electricity-project chronologies and closing wordplay. Letter 3608 reproduces the long Murasoli Maran historical passage in full. Letter 3609 preserves the Dravidian Movement centenary historical sequence and closing call for `இன எழுச்சி`.
+The complete five-letter batch has been translated from fidelity-cleared canonical Tamil, covering **PDF 146–180**. Letter 3610 preserves the detailed budget figures and promise-versus-outcome structure. Letter 3611 preserves the Sethu Samudram chronology, manifesto reversals and `ஆரியமாயை` wordplay. Letter 3612 preserves the Jayalalithaa–Sasikala and *Ananda Vikatan* passages, project criticisms and protest call. Letter 3613 preserves the Thai/Chithirai Tamil New Year historical and legislative sequence, attributed scholarly statements, Nakkiran–Kuyakkondan story and Bharathidasan verse. Letter 3614 preserves the Housing Board argument, land measurements, long recipient list and closing sarcasm toward Panneerselvam.
 
-All five now carry `translation_status: verified` and `bilingual_alignment_status: verified`. No canonical Tamil page was changed during drafting or alignment.
+All five are deliberately still `translation_status: draft-translated` and `bilingual_alignment_status: pending`. No canonical Tamil page was changed during this batch.
 
 ## Textual-fidelity completion
 
@@ -47,4 +55,4 @@ All five now carry `translation_status: verified` and `bilingual_alignment_statu
 
 Source-numbering anomalies remain part of the canonical source model: there is no 3636; the scan prints two distinct 3637 records; and there are no 3644–3646 records. They will not be repaired in English.
 
-**Exact next task:** draft the complete next five-letter English translation batch, **3610–3614**, in one iteration using the locked conventions and fidelity-cleared canonical Tamil. Keep all five at draft/pending status until their own separate bilingual source-alignment review.
+**Exact next task:** perform the complete five-letter bilingual source-alignment review for **3610–3614**. Apply any English-only corrections found and promote the five letters together only after the gate clears. Do not begin **3615–3619** before that review.
