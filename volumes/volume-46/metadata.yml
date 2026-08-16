@@ -53,15 +53,15 @@ textual_fidelity_audit_reports:
 translation_status: "in-progress"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
-translated_letter_range: "3592-3629"
-translated_letter_count: 38
+translated_letter_range: "3592-3634"
+translated_letter_count: 43
 source_checked_letter_count: 38
 verified_translation_count: 38
 structurally_complete_verified_count: 38
 structurally_complete_verified_range: "3592-3629"
 structurally_incomplete_verified_range: null
 reviewed_structural_pending_range: null
-draft_alignment_pending_range: null
+draft_alignment_pending_range: "3630-3634"
 bilingual_alignment_status: "in-progress"
 bilingual_alignment_reviewed_range: "3592-3629"
 bilingual_alignment_verified_range: "3592-3629"
@@ -101,4 +101,9 @@ source_observations:
   - "Letter 3625 preserves the actual letter heading 'ஒரு சுயமரியாதைக்காரனின் சூளுரை!' separately from the differing printed-contents form."
   - "Batch 3625-3629 required one English-only correction in 3626: the source-printed 26-10-2010 AITUC participant names were restored instead of being compressed to generic representatives; canonical Tamil did not change."
   - "Batch 3625-3629 caused no canonical Tamil changes."
-  - "Next task is the five-letter draft batch 3630-3634."
+  - "Eighth normal five-letter translation batch 3630-3634 is draft-translated and awaits bilingual source alignment."
+  - "Batch 3630-3634 covers PDF 296-328 and all five bilingual records contain translator-note blocks and complete fidelity-cleared Tamil appendices from creation."
+  - "Letter 3631 preserves the source-printed English High Court passage and separately translates the Tamil rendering that follows it."
+  - "Letter 3634 preserves the actual semicolon heading separately from the differing printed-contents comma form and retains the long source-printed arrested-person list without compression."
+  - "Batch 3630-3634 caused no canonical Tamil changes."
+  - "Next task is bilingual source-alignment review for 3630-3634 before drafting 3635 onward."
