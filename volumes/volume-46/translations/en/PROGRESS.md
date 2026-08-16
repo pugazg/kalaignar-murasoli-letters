@@ -9,8 +9,9 @@
 - [x] Letter 3594 draft-translated
 - [x] Three-letter translation pilot draft complete
 - [x] Pilot source check / bilingual alignment review completed for 3592–3594
+- [x] Translation conventions formally documented and locked
 - [ ] Apply one required English-only correction in 3594
-- [ ] Lock translation conventions after the correction
+- [ ] Synchronize pilot file/status records after correction
 - [ ] Main translation batches
 - [ ] Volume-level bilingual alignment
 - [ ] Editorial consistency review
@@ -23,29 +24,35 @@
 - Pilot alignment review: **3 / 3 reviewed**
 - Passed without correction: **3592, 3593**
 - Requires one English-only correction: **3594**
-- Source-checked/verified status promotion: **deferred until 3594 correction is applied**
-- Main five-letter batches: **blocked until pilot lock**
+- Pilot conventions: **locked in `PILOT_TRANSLATION_CONVENTIONS.md`**
+- Source-checked/verified status promotion: **deferred until the 3594 correction is physically applied**
+- Main five-letter batches: **still blocked until that file-level correction/status synchronization is complete**
 
-Detailed review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)
+Detailed review: [BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md](BILINGUAL_ALIGNMENT_REVIEW_3592_3594.md)  
+Locked conventions: [PILOT_TRANSLATION_CONVENTIONS.md](PILOT_TRANSLATION_CONVENTIONS.md)
 
-## Review finding requiring action
+## Remaining pilot correction
 
-Letter **3594** correctly reproduces the source-supplied English Colin Gonsalves quotation, but the immediately following parenthetical Tamil rendering was compressed in English as a summary introduced by `says, in substance`. The repository's no-summarising bilingual rule requires that duplicated source passage to be fully represented too.
+Letter **3594** correctly reproduces the source-supplied English Colin Gonsalves quotation, but the immediately following parenthetical Tamil rendering is currently compressed in English as a summary introduced by `says, in substance`. The locked no-summarising bilingual rule requires that duplicated source passage to be fully represented too.
+
+Required replacement:
+
+> **Tamil rendering printed immediately after the English quotation in the source:** “The Chief Minister has the authority to reduce the death sentence to life imprisonment, and this is the right time to convene the Cabinet and take a decision on it..... Jayalalithaa can exercise the authority under Article 161 of the Constitution to stay the death sentence..... said Mr. Colin Gonsalves, one of the three advocates who argued before the Madras High Court.”
 
 This is an **English translation correction only**. No canonical Tamil page needs modification.
 
-## Pilot conventions supported by the review
+## Locked pilot principles
 
 - `Udanpirappē` and `With affection, M.K.` remain stable.
-- Kalaignar's argument sequence, rhetorical questions, repetition, irony and political directness are preserved rather than neutralized.
-- Source-supplied English wording is reproduced verbatim when printed in English.
-- If the source prints both English wording and a Tamil rendering/explanation, both must be represented even when repetitive.
-- Long attributed quotations are translated from the audited canonical Tamil; outside versions are not substituted.
+- Kalaignar's thought/argument order takes priority over stylistic elegance.
+- Source-supplied English is reproduced verbatim.
+- If source English is followed by a Tamil rendering/explanation, both are represented in full even when repetitive.
+- Long attributed quotations are translated from audited canonical Tamil; outside versions are not substituted.
 - Source-specific legal, institutional, programme and land-measure terminology is retained or translated conservatively.
-- Tamil idioms and proverbs retain their source imagery where replacing them with an unrelated English proverb would erase Kalaignar's phrasing.
-- Source text printed after a formal closing/date remains part of the archival translation record when the canonical scan shows it there.
-- No source numbering anomaly is repaired in English.
+- Tamil idioms/proverbs retain source imagery where an unrelated English proverb would erase Kalaignar's phrasing.
+- Source text printed after a formal closing/date remains part of the archival translation record.
+- Source numbering anomalies are never repaired in English.
 
 ## Exact next task
 
-Apply the single 3594 English correction documented in the alignment report, synchronize the three pilot files/status records, and then freeze the pilot conventions. Only after that should the first normal five-letter translation batch begin with **3595**.
+Apply the documented 3594 replacement against the current file revision, then synchronize pilot statuses. Once that physical correction is confirmed, the first normal five-letter translation batch may begin with **3595**.
