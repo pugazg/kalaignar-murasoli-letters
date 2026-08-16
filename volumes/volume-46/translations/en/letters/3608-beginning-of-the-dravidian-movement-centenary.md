@@ -8,9 +8,9 @@ source_pdf_page_start: 134
 source_pdf_page_end: 139
 source_printed_page_start: 133
 source_printed_page_end: 138
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar explicitly says he is reproducing Murasoli Maran's account “without a word going astray”; accordingly, that embedded historical account is translated in full and in its source order, without replacing it with outside history. Printed English parentheticals, bullet structure, dates, names and historical terminology are preserved. The complete audited Tamil follows and remains authoritative. This draft awaits a separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar explicitly says he is reproducing Murasoli Maran's account “without a word going astray”; accordingly, that embedded historical account is translated in full and in its source order, without replacing it with outside history. Printed English parentheticals, bullet structure, dates, names and historical terminology are preserved. The complete audited Tamil follows and remains authoritative. The bilingual source-alignment review has passed without substantive correction.
 
 **Tamil source:** [Letter 3608](../../../chapters/3608-thiravida-iyakka-nootrandu-thodakkam.md)  
 **Source pages:** [PDF 134](../../../pages/page-134.md)–[PDF 139](../../../pages/page-139.md)  
