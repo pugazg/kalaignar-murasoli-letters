@@ -8,9 +8,9 @@ source_pdf_page_start: 190
 source_pdf_page_end: 195
 source_printed_page_start: 189
 source_printed_page_end: 194
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -19,7 +19,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This draft follows the locked Volume 46 conventions. Kalaignar’s argument for a UN-supervised referendum, the international examples he cites, the 1987 referendum discussion, the source-printed 1983 DMK resolution, the Vaddukoddai-related chronology, historical claims and Bharathidasan verse are preserved in source order and as attributed. No outside historical correction has been substituted. The complete audited Tamil remains authoritative. This draft awaits separate bilingual source-alignment review.
+> This translation follows the locked Volume 46 conventions. Kalaignar’s argument for a UN-supervised referendum, the international examples he cites, the 1987 referendum discussion, the source-printed 1983 DMK resolution, the Vadukkukkottai-related chronology, historical claims and Bharathidasan verse are preserved in source order. No outside historical correction has been substituted. The complete audited Tamil remains authoritative. Bilingual source-alignment review is complete.
 
 **Tamil source:** [Letter 3616](../../../chapters/3616-kunrin-melitta-vilakkaagum-thani-thamizh-eezham.md)  
 **Source pages:** [PDF 190](../../../pages/page-190.md)–[PDF 195](../../../pages/page-195.md)  
@@ -61,7 +61,7 @@ Explaining that resolution at the public meeting held on the Chennai beachfront 
 
 At the conference held in Vadakkukkottai in Eelam in 1976, Eelam Thanthai Selva changed the name “Tamil United Front” to “Tamil United Liberation Front” and issued a declaration that Eelam Tamil Nadu must obtain independence. But that great man passed away the very next year.
 
-Udanpirappē, Separate Tamil Eelam is historically a right that must be granted to Tamils. Many researchers have established, Kalaignar says, that Sri Lanka and Tamil Nadu formed a single landmass seven thousand years ago. Eelam Tamils are the descendants of the people who lived there before Sri Lanka was separated by the sea. Archaeological excavations at Anaikottai in Jaffna have yielded evidence, he says, that Tamil people lived under a small kingdom there three thousand years ago, in the period described as the Early Iron Age. Historians consider Kantharodai to have been the capital of that Tamil principality during this period.
+Udanpirappē, Separate Tamil Eelam is historically a right that must be granted to Tamils. Many researchers have established that Sri Lanka and Tamil Nadu formed a single landmass seven thousand years ago. Eelam Tamils are the descendants of the people who lived there before Sri Lanka was separated by the sea. Archaeological excavations at Anaikottai in Jaffna have yielded evidence that Tamil people lived under a small kingdom there three thousand years ago, in the period described as the Early Iron Age. Historians consider Kantharodai to have been the capital of that Tamil principality during this period.
 
 It is against this background that Kannusamy, also called Vikrama Rajasinha, the Tamil king who ruled Kandy until 1815 in Sri Lankan history, was defeated in war by the British, captured and imprisoned at Vellore in Tamil Nadu. After sixteen years of imprisonment, the king died there. During DMK rule, in order that the king’s name and the ancient history of Sri Lankan Tamils not be forgotten, a “Muthu Mandapam” was built and inaugurated at the place of his burial in Vellore on 1 July 1990.
 
@@ -84,8 +84,8 @@ The song of liberation called “Separate Tamil Eelam” is sounding without int
 
 1. `தனி ஈழம்` / `தனித் தமிழ் ஈழம்` is rendered as **Separate Eelam / Separate Tamil Eelam**, retaining Kalaignar’s political terminology rather than replacing it with later terminology.
 2. The source-printed English text of the 27 August 1983 DMK General Council resolution is preserved as printed; the following Tamil parenthetical is represented separately by sense.
-3. The canonical source prints `வடக்குக்கோட்டை` in the referendum-report passage and later again in the 1976 conference passage; this draft does not silently substitute an outside place-name form.
-4. Historical and archaeological statements are represented explicitly as Kalaignar’s/source claims; no external verification or correction is introduced.
+3. The canonical source prints `வடக்குக்கோட்டை` in the referendum-report passage and later again in the 1976 conference passage; this translation does not silently substitute an outside place-name form.
+4. Historical and archaeological statements are preserved in Kalaignar’s direct argumentative voice rather than weakened by added editorial attribution; no external verification or correction is introduced.
 
 ## Original Tamil — மூலத் தமிழ்
 
