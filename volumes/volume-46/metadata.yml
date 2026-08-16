@@ -53,11 +53,11 @@ textual_fidelity_audit_reports:
 translation_status: "in-progress"
 translation_pilot_status: "verified-complete"
 translation_conventions_status: "locked"
-translated_letter_range: "3592-3609"
-translated_letter_count: 18
+translated_letter_range: "3592-3614"
+translated_letter_count: 23
 source_checked_letter_count: 18
 verified_translation_count: 18
-draft_alignment_pending_range: null
+draft_alignment_pending_range: "3610-3614"
 bilingual_alignment_status: "in-progress"
 bilingual_alignment_verified_range: "3592-3609"
 english_release_status: "not-started"
@@ -84,4 +84,5 @@ source_observations:
   - "Third normal five-letter translation batch 3605-3609 is source-checked and bilingual-alignment verified."
   - "Batch 3605-3609 required no substantive English correction and no canonical Tamil change."
   - "Batch 3605-3609 covers PDF 108-145."
-  - "Next translation batch is 3610-3614."
+  - "Fourth normal five-letter translation batch 3610-3614 is draft-translated from fidelity-cleared canonical Tamil and awaits its separate bilingual source-alignment review."
+  - "Batch 3610-3614 covers PDF 146-180; no canonical Tamil was changed during drafting."
