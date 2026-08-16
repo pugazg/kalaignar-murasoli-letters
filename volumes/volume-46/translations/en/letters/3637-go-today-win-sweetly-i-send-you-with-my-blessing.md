@@ -9,9 +9,9 @@ source_pdf_page_start: 336
 source_pdf_page_end: 342
 source_printed_page_start: 335
 source_printed_page_end: 341
-translation_status: "draft-translated"
+translation_status: "verified"
 translation_method: "thought-preserving, non-literary"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "verified"
 source_textual_fidelity_audit: "visual-scan-verified"
 translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 ---
@@ -20,7 +20,7 @@ translation_conventions: "../PILOT_TRANSLATION_CONVENTIONS.md"
 
 > **Translator’s note**
 >
-> This is the first of two distinct consecutive source records both printed as letter number 3637. The source numbering anomaly is preserved; no 3636 is invented. The draft follows the locked Volume 46 conventions. Kalaignar’s `அறப்போர்` / jail-filling mobilisation language, first-person pledge to stand in the ranks, criticism of the AIADMK Government and hostile press, references to the Thiruverkadu mass marriages, official transfers, Delta distress, the V.K. Gurusamy case and the closing martial exhortation are retained in source order and rhetorical force. Political and legal claims remain source-attributed and are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. This draft awaits bilingual source-alignment review.
+> This is the first of two distinct consecutive source records both printed as letter number 3637. The source numbering anomaly is preserved; no 3636 is invented. The translation follows the locked Volume 46 conventions. Kalaignar’s `அறப்போர்` / jail-filling mobilisation language, first-person pledge to stand in the ranks, criticism of the AIADMK Government and hostile press, references to the Thiruverkadu mass marriages, official transfers, Delta distress, the V.K. Gurusamy case and the closing martial exhortation are retained in source order and rhetorical force. Political and legal claims remain source-attributed and are not externally reconciled. The complete audited Tamil is reproduced below and remains authoritative. The English translation has passed bilingual source-alignment review against the audited Tamil and source pages.
 
 **Tamil source:** [First source Letter 3637](../../../chapters/3637-indre-selga-inithe-velga.md)  
 **Source pages:** [PDF 336](../../../pages/page-336.md)–[PDF 342](../../../pages/page-342.md)  
