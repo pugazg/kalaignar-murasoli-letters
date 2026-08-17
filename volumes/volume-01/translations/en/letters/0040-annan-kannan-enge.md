@@ -1,0 +1,133 @@
+---
+volume: 1
+letter_number: 40
+tamil_title: "அண்ணன்-கண்ணன் எங்கே?"
+english_title: "Where Is Elder Brother Kannan?"
+date: 1971-04-23
+source_pdf_page_start: 174
+source_pdf_page_end: 177
+source_printed_page_start: 174
+source_printed_page_end: 177
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0040.en.md"
+---
+
+# 40. Where Is Elder Brother Kannan?
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0040](../../../chapters/0040-annan-kannan-enge.md)  
+**Source pages:** [PDF 174](../../../pages/page-174.md)–[PDF 177](../../../pages/page-177.md)  
+**Date:** 23 April 1971
+
+Udanpirappē,
+
+You may not know many of the heroic commanders who stood in formation when Periyar's rationalist movement was described as a volcano, praising it instead as “the drizzle from Sanjeevi Mountain.” I shall name, as far as memory serves, only those tiger-like heroes who have departed: Soundirapandian, the valiant man of the southern Pandya region; Alagirisami, the fiery orator with a fearless heart; Ponnambalanar, like a surging sea; Nagai Mani; Mayuram Natarajan; the brothers Raman and Lakshmanan of Tiruvarur; Singaravelar, treasure-house of thought; the aged Moovalur Ramamirtham; Chennai Thamambal; Singarayar; Rangaraj; S. V. Lingam; K. K. Neelamegam; Nagammai; Kaivalyam; Ramanathan; Kunjitham; Gurusami; Sami Chidambaranar; and Jeeva. I knew them closely even in my youth. Through labour, writing and speech, they nurtured the movement of knowledge and built Periyar's great army in Tamil Nadu.
+
+In those earlier days, Periyar's campaign was conducted amid knives, stones and riots. Those great warriors were a fortress and shield protecting Periyar's life; they also shone as flames of sacrifice while defending principles dearer to them than life itself.
+
+To them, the word “Periyar” was honey that could never cloy. It was a song of feeling. It was the drumbeat of the community's awakening. Those commanders stood as devoted companions to that old lion who travelled through forest and hill, night and day, spreading the Self-Respect message with the speed of a cyclone.
+
+Only a few of that old battle line remain today. Our journey now proceeds upon the beautiful road they built amid raging fire and earthquakes. It may have begun as an earthen road. You and I may have levelled it with gravel. We may have converted it into a tarred road. We may have endured much pain in that work. Yet the honour of clearing an unmarked wilderness and making the first earthen road belongs to those lights of Self-Respect. One by one, those lamps have gone out. A few remain visible to our eyes and continue to offer us their blessings.
+
+Friend! The cruel hand of time is straining to pull out and extinguish the wicks of those lamps too.
+
+It was an age when hundreds of research books appeared to spread the principles of the rationalist movement. Kaivalyam and Singaravelar wrote research essays on ghosts, spirits and demons, gaining an indelible place in Tamil hearts through the weekly journal *Pagutharivu*. At that time, one person earned the distinction of beginning propaganda through stories, believing that essays and poems alone were insufficient to implant Self-Respect ideas in people's minds: “J. P. Krishnan.”
+
+I was among the young men who read his stories eagerly. J. P. Krishnan wrote hundreds of short stories condemning caste fanaticism, attacking religious fanaticism and dispelling the foul stench of superstition. Who was that J. P. Krishnan? If I asked you, you would not know. Friend, he was P. Kannan of Jalakandapuram!
+
+Only yesterday evening, I announced his name to the newspapers as one of the members of the Tamil Nadu government's Film Awards Committee. I then unveiled a statue of Arignar Anna in Robinson Park, Royapuram, and returned home. Around midnight, Kazhagam friends from Chengalpattu were waiting at the entrance. Comrade Pasupathi, victorious in the election for Chair of Chengalpattu Municipality, had come with them to place a garland upon me. That happiness did not last even a moment. As soon as I entered the house, sorrowful news was waiting: Kannan had died in Jalakandapuram.
+
+I could not believe it. I had another telephone call placed to Jalakandapuram. Yes, the news was true. Alas, when so many false reports circulate, could this not have been one of them?
+
+He had come to Chennai on the last day of the previous month. He met me at home and spoke with me for a long while. I have always valued his long and distinguished service. Whenever his works of writing were staged as plays, he never failed to invite me, and I never refused. That day he spoke to me about many matters, both as an Executive Committee member of the Tamil Nadu Sangeetha Nataka Sangam and as a member of the Radio Programme Advisory Committee. I habitually called him “Annan.” To me he belonged in the same line as Annan Chitrarasu, Annan Kanchi Kalyanam and Annan Kannan.
+
+He, however, might have thought of me inwardly as a younger brother, but earlier he would address me as “Kalaignar” and now only as “Chief Minister.” What simplicity there was in the habits of that cultured man! What respect he showed younger men like me!
+
+When he came home that day, I asked quite casually, “You made a decision about a matter in Salem without consulting me, did you not?”
+
+“Nothing of the sort. That is incorrect information,” he replied. The matter ended there. But after returning home, he wrote me a letter dated 2 April.
+
+Friend, behold the magnanimity of that noble man, built like an unbowed king! How much affection there was in the letter he wrote me! How much discipline! How much sense of duty! What is my age, and what was his? A towering figure like Nedunchezhiyan Pandiyan! A pain in the chest ended his life in a single instant. That great warrior concluded his letter with these words:
+
+> “You stand at the head of the Kazhagam! I am one who swells with fulfilment and thrills with joy at this. I most humbly state that not even the slightest movement in my conduct will run contrary to the judgment with which you protect and nurture the Kazhagam. If anyone makes complaints about me, you possess, as always, every right to question me and reprimand me.
+>
+> With humble affection,
+>
+> P. Kannan”
+
+Now I press that loving letter to my eyes. The letter grows wet with my tears!
+
+He was the man who brought *Veeravali* to life upon the stage; who gave us the fruit of classical Tamil through *Nandivarman*; who proclaimed the glory of the Kongu country's warriors through the dramatic epic *Thennavan Chinnamalai*; guardian of the city of rationalism; emissary of the movement of knowledge. My Annan Kannan was here yesterday; today he is not!
+
+The Kural says:
+
+> “Yesterday a man existed; today he does not:  
+> such is the proud distinction of this world.”
+
+Yet when I try now to repeat it and console his family, my voice trembles. What am I to do, friend?
+
+With affection,
+
+M. Karunanidhi
+
+(23 April 1971)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 40. அண்ணன்-கண்ணன் எங்கே?
+
+உடன் பிறப்பே,
+
+பெரியாரின் பகுத்தறிவு இயக்கம் ஒரு எரிமலையென வர்ணிக்கப்பட்ட நேரத்திலே அதனை “சஞ்சீவி பர்வதத்தின் சாரல்” எனப் புகழ்ந்தவாறு அணி வகுத்து நின்ற வீரத் தளபதிகள் பலரை நீ அறிய மாட்டாய். தென்பாண்டி மண்டிலத்துத் தீரன் செளந்திரபாண்டியன் - தீப்பொறிப் பேச்சாளன் அஞ்சா நெஞ்சன் அழகிரிசாமி - பொங்குமாங் கடலனைய பொன்னம்பலனார் - நாகை மணி - மாயூரம் நடராசன் - திருவாரூர் - ராமன், லட்சுமணன் - சிந்தனைச் செல்வர் சிங்காரவேலர் - மூவலூர் மூதாட்டி ராமாமிர்தம் - சென்னை தாமாம்பாள் - சிங்கராயர் - ரங்கராஜ் - எஸ். வி. லிங்கம் - கே. கே. நீலமேகம் - நாகம்மை - கைவல்யம் - ராமனாதன் - குஞ்சிதம் - குருசாமி - சாமி சிதம்பரனார் - ஜீவா மறைந்துவிட்ட வேங்கைப் புலிகளின் பட்டியலை மட்டுமே என் நினைவுக்கு வந்த வரையில் உனக்குச் சொல்கிறேன். இவர்களிடம் எனக்கு இளமைக்காலத்திலேயே மிகுந்த பழக்கமுண்டு. உழைப்பால், எழுத்தால், பேச்சால், அறிவியக்கத்தை வளர்த்துப் பெரியாரின் பெரும் படையைத் தமிழகத்தில் உருவாக்கினார்கள்.
+
+முன்பெல்லாம்; கத்திக்கும் கல்லுக்கும் கலவரங்களுக்குமிடையிலேதான் பெரியாரின் பிரச்சாரம் நடைபெற்றுக் கொண்டிருந்தது. அப்போது பெரியாரின் உயிரைக் காக்கும் அரணாகவும், கேடயமாகவும் விளங்கியதோடு, தங்கள் உயிரினும் மேலான கொள்கைகளைக் காப்பதிலும் தியாகச் சுடர்களாகத் திகழ்ந்தார்கள் அந்த மாவீரர்கள்.
+
+பெரியார் என்ற சொல் அவர்களுக்குத் தெவிட்டாத தேன்பாகாக இருந்தது. உணர்ச்சிக் கீதமாக இருந்தது. இன எழுச்சியின் முரசமாக இருந்தது. அல்லும் பகலும் காடுமேடு சுற்றிச் சூறாவளி வேகத்தில் சுயமரியாதைப் பிரச்சாரம் செய்திட்ட அந்தக் கிழச் சிங்கத்திற்கு அந்தத் தானைத் தலைவர்கள் உற்ற துணைவர்களாக இருந்தார்கள்.
+
+அந்தப் பழைய படை வரிசையில் சிலர்தான் இப்போது மிச்சமிருக்கிறார்கள். அவர்கள் எரிதழலுக்கும் பூகம்பங்களுக்குமிடையே அமைத்த அழகான சாலையில் இன்று நமது பயணம் நடைபெறுகிறது. அது மண் சாலையாக இருக்கலாம். நீயும் நானும் அதனை சரளைக் கற்களைப் பரப்பி ஒழுங்குபடுத்தியிருக்கலாம். தார் போட்ட சாலையாக மாற்றியிருக்கலாம். அந்தப் பணியில் வேதனைகள் பலவற்றை நாம் தாங்கியிருக்கலாம். ஆனாலும், தடம் தெரியாது கிடந்த காட்டைச் சீர்படுத்தி மண்சாலை உருவாக்கிய பெருமை அந்தச் சுயமரியாதைச் சுடரொளிகளுக்கு உண்டு. அந்த ஒளிவிளக்குகள் ஒன்றன்பின் ஒன்றாக அணைந்து விட்டன. ஆனால் சில விளக்குகள் நம் கண்ணுக்குத் தென்படுவது மட்டுமல்ல; நமக்கு வாழ்த்துக் கூறிக்கொண்டுமிருக்கின்றன.
+
+நண்பா! காலத்தின் கொடிய கரம், அந்த விளக்குத் திரிகளையும் இழுத்து அணைத்துப் போடத் துடித்துக் கொண்டுதானிருக்கிறது.
+
+அறிவியக்கக் கொள்கைகள் பரவுதற்காக நூற்றுக்கணக்கான ஆராய்ச்சி நூல்கள் வெளிவந்த காலம் அது. பேய் - பிசாசு - பூதம் இவைகளைப் பற்றியெல்லாம் ஆராய்ச்சிக் கட்டுரைகளை எழுதி “பகுத்தறிவு” என்ற வார இதழின் வாயிலாகக் கைவல்யமும், சிங்காரவேலரும் தமிழ் மக்களின் உள்ளத்தில் அழியாத இடத்தைப் பெற்றிருந்த வேளை, சுயமரியாதைக் கருத்துக்களை மக்கள் நெஞ்சில் பதிய வைக்கக் கட்டுரைகள், கவிதைகள் மட்டும் போதாது என்று கதை வடிவிலும் பிரச்சாரத்தைத் தொடங்கிய பெருமை; “ஜே. பி. கிருஷ்ணன்” இவர்களுக்கு உண்டு.
+
+அவரது கதைகளை ஆர்வத்தோடு படித்த இளைஞர்களில் அன்று நானும் ஒருவன். ஜாதி வெறியைச் சாடி, சமய வெறியைத் தாக்கி, மூட நம்பிக்கையெனும் முடை நாற்றத்தைப் போக்கிடும் வகையில் ஜே. பி. கிருஷ்ணன் எழுதிய சிறுகதைகள் நூற்றுக்கணக்கில் இருக்கும். யார் அந்த ஜே. பி. கிருஷ்ணன்? இப்படிக் கேட்டால் உனக்குத் தெரியாது! அவர்தான் நண்பா; சலகண்டபுரம் “ப. கண்ணன்!”
+
+நேற்று மாலைதான் தமிழக அரசு திரைப்படப் பரிசளிப்புக் குழுவின் உறுப்பினர்களில் ஒருவராக அவர் பெயரைப் பத்திரிகைகளுக்கு அறிவித்துவிட்டு ராயபுரம் ராபின்சன் பூங்காவில் அறிஞர் அண்ணா அவர்களின் சிலையைத் திறந்து வைத்துவிட்டு வீட்டுக்குத் திரும்பினேன். இரவு பனிரெண்டு மணி அளவில் வாசலில், செங்கற்பட்டுக் கழக நண்பர்கள் காத்திருந்தார்கள். செங்கற்பட்டு நகராட்சித் தலைவர் தேர்தலில் வெற்றிபெற்ற தோழர் பசுபதி மாலை அணிவிக்க வந்திருந்தார் அவர்களோடு! அந்த மகிழ்ச்சி ஒரு கணம்கூட இருந்திடவில்லை. வீட்டுக்குள் நுழைந்ததும் சோகச் செய்தி காத்திருந்தது; சலகண்டபுரத்தில் கண்ணன் மறைந்துவிட்டார் என்று!
+
+நம்ப முடியவில்லை என்னால்! மீண்டும் தொலைபேசி மூலம் சலகண்டபுரத்துக்குத் தொடர்பு கொள்ளச் செய்தேன். ஆம்! அந்தச் செய்தி உண்மைதான்! அய்யோ; எத்தனையோ பொய்ச் செய்திகள் பரவுகின்றனவே; அவைகளில் ஒன்றாக அந்தச் செய்தி இருந்திருக்கக் கூடாதா?
+
+சென்ற திங்கள் கடைசி நாளன்று சென்னை வந்திருந்தார். வீட்டில் என்னைச் சந்தித்து நீண்ட நேரம் அளவளாவிக் கொண்டிருந்தார். அவரது பழம்பெரும் பணிகளை என்றும் மதிப்பவன் நான். அவரது எழுத்தோவியங்கள் நாடக அரங்கேறும் போதெல்லாம் என்னை அழைக்காமல் இருக்கமாட்டார். நானும் தட்டியதில்லை. தமிழ்நாடு சங்கீத நாடக சங்கத்தின் செயற்குழு உறுப்பினர் என்ற நிலையிலும், வானொலி நிகழ்ச்சி ஆலோசனைக் குழுவின் உறுப்பினர் என்ற முறையிலும் பல்வேறு விஷயங்களை அன்று அவர் என்னிடம் பேசினார். நான் அவரை “அண்ணன்” என்றே அழைப்பது வழக்கம். அண்ணன் சிற்றரசு, அண்ணன் காஞ்சி கல்யாணம், அண்ணன் கண்ணன் - இப்படி அழைக்கும் வரிசையிலே அவர் ஒருவராக எனக்கு இருந்தார்.
+
+ஆனால் அவரோ என்னைத் தம்பி என்று மனதுக்குள் நினைத்துக் கொண்டு முன்பெல்லாம் “கலைஞர்” என்றும் இப்போது “முதல்வர்” என்றும்தான் விளிப்பார். அந்தப் பண்பாடு மிக்கவரின் பழக்க வழக்கங்களிலேதான் எவ்வளவு எளிமை! என்போன்ற இளையவர்களிடம் எத்துணை மதிப்பு.
+
+அன்று அவர் வீட்டுக்கு வந்திருந்தபோது; “சேலத்தில் ஒரு காரியம் என்னைக் கலக்காமல் முடிவெடுத்து விட்டீர்களே!” என்று சாதாரணமாகத்தான் கேட்டேன்! “அப்படியொன்றுமில்லை. அது தவறான தகவல்” என்று பதிலளித்தார். பிரச்சினை அதோடு முடிந்துவிட்டது. ஆனால் ஊருக்குச் சென்றவர் ஏப்ரல் 2-ஆம் தேதி ஒரு கடிதம் எழுதினார்.
+
+நண்பா! வணங்காமுடி மன்னன் போல் உருவமைந்த அந்தப் பண்பாளரின் பெருந்தன்மையைப் பார்! எனக்கு எழுதிய அந்த மடலில் எவ்வளவு அன்பு! எவ்வளவு கட்டுப்பாடு! எவ்வளவு கடமை உணர்வு! என் வயதென்ன? அவர் வயதென்ன? நெடுஞ்செழிய பாண்டியனைப் போல் நிமிர்ந்த வடிவம்! நெஞ்சு வலி அவரை ஒரு வினாடியில் முடித்து விட்டது! அந்த மாவீரர் எழுதிய மடல்களில்:
+
+“கழகத் தலைமையில் தாங்கள்! இதனால் பூரித்துப் புளகாங்கிதம் அடைபவன் நான். கழகத்தைக் கட்டிக்காத்து வளர்த்து வரும் தங்கள் கருத்துக்கு மாறாக என்னுடைய நடவடிக்கையின் ஒரு அசைவும் இருக்காது என்பதை மிகப் பணிவோடு தெரிவித்துக் கொள்கிறேன். என்னைப் பற்றிய புகார்கள் யாரேனும் கூறின், என்னைக் கேட்கவும் கடிந்து கொள்ளவும் ‘என்றும் போல்’ எல்லா உரிமையும் தங்களுக்கு உண்டு.
+
+பணிவன்புடன்,
+
+ப. கண்ணன்”
+
+- என்று முடித்திருந்தார். அந்த அன்பு மடலை இப்போது நான் கண்களில் ஒத்திக் கொள்கிறேன். கடிதம் நனைகிறது என் கண்ணீரால்!
+
+‘வீரவாலி’யை நாடக மேடையில் உலவ விட்டவர் - ‘நந்திவர்மன்’ மூலம் செந்தமிழ்க்கனி தந்தவர் - ‘தென்னவன் சின்னமலை’ நாடகக் காவியத்தின் வாயிலாகக் கொங்குநாட்டு வீரர் மகிமை கூறியவர் - பகுத்தறிவுபுரியின் காவலர் - அறிவியக்கத் தூதுவர் என் அண்ணன்-கண்ணன் நேற்றிருந்தார்; இன்றில்லை!
+
+“நெருநல் உளனொருவன் இன்றில்லை என்னும்
+
+பெருமை உடைத்(து) இவ்வுலகு”
+
+- எனக் குறள் கூறிடினும்; அதை இப்போது திருப்பிச் சொல்லி அவர் குடும்பத்தார்க்கு ஆறுதல் அளிக்க இயலாமல் என் குரல் நடுங்குகிறது என் செய்வேன்; நண்பா!
+
+அன்புள்ள,
+
+மு. கருணாநிதி
+
+(23-04-1971)
