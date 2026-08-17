@@ -1,0 +1,160 @@
+---
+volume: 1
+letter_number: 28
+tamil_title: "வெண்மணிச் சம்பவம் ஒரு விளக்கம்!"
+english_title: "An Explanation of the Venmani Incident!"
+date: 1968-12-28
+source_pdf_page_start: 129
+source_pdf_page_end: 131
+source_printed_page_start: 129
+source_printed_page_end: 131
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0028.en.md"
+---
+
+# 28. An Explanation of the Venmani Incident!
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0028](../../../chapters/0028-venmanich-sambavam-oru-vilakkam.md)  
+**Source pages:** [PDF 129](../../../pages/page-129.md)–[PDF 131](../../../pages/page-131.md)  
+**Date:** 28 December 1968
+
+Dear friend,
+
+You would have learned through the newspapers of the horrific event that took place in the village of Venmani and shed tears.
+
+As for me, friend, tears do not come from my eyes; my very heart sheds tears of blood.
+
+We have heard of hundreds being sacrificed when a volcano erupted.
+
+We have read of the dreadful event in which the earth split during an earthquake and thousands perished.
+
+We have seen those who died in storms and floods.
+
+But the frenzy and cruelty that occurred in the village of Venmani cannot be found even in history.
+
+At Jallianwala Bagh, the white fanatic Dyer drove people into an enclosure bounded on all four sides by walls like a fortress and shot them down. In that event, more than a thousand people cried out in agony and died at one time.
+
+After that, friend, it is in the village of Venmani that forty-three people have now fallen victim at one time to an act of frenzy.
+
+They have personally inspected the place where flowers and tender buds were scorched and charred in the fire lit by fanatics.
+
+Chief Minister Anna has said that whoever the perpetrators may be, they will be punished without mercy or favour.
+
+Senior police officers are staying in Venmani itself and swiftly pursuing the necessary action.
+
+So far, thirteen people have been arrested in connection with the violence.
+
+Prominent among those arrested is landlord Gopalakrishna Naidu, a former president of the Nagapattinam Congress Committee and a current member of the District Congress Committee.
+
+Arrangements are under way to build houses immediately for those suffering after losing their homes.
+
+Chief Minister Anna has said that, once full particulars are available, compensation for the families of the dead will be considered with the deepest sympathy.
+
+Anna has also asked the people of the Venmani area to cooperate in maintaining law and order and preserving peace.
+
+Friend, a Congress newspaper that tries to coat every event with politics and seek advantage from it is now attempting to tie the Venmani incident to the DMK.
+
+“It is learned that the person arrested in connection with the arson worked actively for the Dravida Munnetra Kazhagam in the last general election and is very close to a minister.”
+
+This report appeared in the daily *Navasakthi* dated 28 December 1968.
+
+At a time when everyone should unite, express sympathy for the affected people, and preserve peace, Congressmen seek profit even from cruelty by casting blame upon the DMK.
+
+Without the slightest hesitation, they have written that the person arrested in connection with the arson is very close to a minister. Have you seen what a grave accusation that is? They imagine the people will believe it.
+
+Friend, I believe you will remember. They stirred up just such a rumour during the South Chennai by-election.
+
+Every Congress paper wrote: “It is learned that the man who cut the leg of Nannilam MLA Jayaraj is close to a minister.”
+
+Now the *Navasakthi* paper is stirring up the same rumour.
+
+The rumour about Jayaraj was for the South Chennai election; the rumour now being raised is for the Nagercoil election.
+
+Friend, what became of the South Chennai election result?
+
+They do not grieve over the Venmani village incident. They seek political profit even from cruelty.
+
+As we offer our tears to the people of Venmani who suffered this atrocity, let us also extend our sympathy to the Congressmen of Tamil Nadu.
+
+With affection,
+
+Maravan
+
+(28 December 1968)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 28. வெண்மணிச் சம்பவம் ஒரு விளக்கம்!
+
+அன்பு நண்பா,
+
+வெண்மணிக் கிராமத்தில் நடைபெற்ற பயங்கர நிகழ்ச்சியை பத்திரிகை வாயிலாக அறிந்து கண்ணீர் வடித்திருப்பாய்.
+
+எனக்கோ கண்களில் நீர் வரவில்லை நண்பா-இதயமே இரத்தக் கண்ணீர் வடிக்கிறது.
+
+எரிமலை வெடித்து நூற்றுக்கணக்கானோர் பலியாயினர் எனக் கேள்விப்பட்டிருக்கிறோம்.
+
+பூகம்பம் ஏற்பட்டு-பூமி பிளந்து ஆயிரக்கணக்கானோர் அழிந்த கோரச் சம்பவத்தைப் படித்திருக்கிறோம்.
+
+புயலாலும் வெள்ளத்தாலும் மாண்டுபோனவர்களைப் பார்த்திருக்கிறோம்-
+
+ஆனால் வெண்மணிக் கிராமத்தில் நடைபெற்ற வெறித்தனத்தை-கொடுமையை வரலாறுகளிலும் காண முடியாது.
+
+ஜாலியன் வாலா பாக்கில், நான்கு பக்கமும் கோட்டை சுவர் அரண்போல அமைந்த பகுதிக்குள் மக்களைத் தள்ளி-டயர் என்ற வெள்ளைக்கார வெறியன் சுட்டுப் பொசுக்கினான்-அந்த நிகழ்ச்சியில்தான் ஒரே சமயத்தில் ஆயிரத்துக்கு மேற்பட்டோர் அலறித் துடித்து இறந்தனர்.
+
+அதற்குப்பிறகு-வெண்மணிக் கிராமத்தில்தான் நண்பா வெறிச்செயலுக்கு ஒரே நேரத்தில் நாற்பத்தி மூன்று பேர் பலியாகியிருக்கின்றனர்.
+
+வெறியர்கள் மூட்டிய தீயில் பூக்களும் பிஞ்சுகளும் வெந்து கருகிய இடத்தை அவர்கள் நேரில் பார்வையிட்டிருக்கின்றனர்.
+
+அக்கிரமக்காரர்கள் யாராயினும் அவர்கள் தயவு தாட்சண்யமின்றித் தண்டிக்கப்படுவர் என முதலமைச்சர் அண்ணா அவர்கள் கூறியிருக்கிறார்கள்.
+
+உயர்தரப் போலீஸ் அதிகாரிகள் வெண்மணிக் கிராமத்திலேயே தங்கியிருந்து அதற்கான நடவடிக்கைகளைத் துரிதமாக எடுத்து வருகின்றனர்.
+
+வெறித்தனம் சம்பந்தமாக இதுவரை பதின்மூன்று பேர் கைதாகியிருக்கின்றனர்.
+
+கைதானவர்களில்-நாகை காங்கிரஸ் கமிட்டியின் முன்னாள் தலைவரும்-தற்போது மண்டல காங்கிரஸ் கமிட்டியில் அங்கம் வகிப்பவருமான மிராசுதார் கோபாலகிருஷ்ண நாயுடு முக்கியமானவர்.
+
+வீடு இழந்து தவிப்போருக்கு உடனடியாக வீடுகள் கட்டிக் கொடுப்பதற்கான ஏற்பாடுகள் நடைபெற்று வருகின்றன.
+
+முழு விவரங்கள் கிடைத்த பிறகு இறந்தவர்களின் குடும்பங்களுக்கு நட்டஈடு தருவது பற்றி மிகுந்த அனுதாபத்துடன் கவனிக்கப்படும் என்று தமிழக முதலமைச்சர் அண்ணா அவர்கள் கூறியிருக்கின்றார்.
+
+சட்டம் ஒழுங்கை நிலைநாட்டுவதற்கும்-அமைதி காப்பதற்கும் வெண்மணிக் கிராமப் பகுதியிலுள்ள மக்கள் ஒத்துழைப்புத் தர வேண்டுமென்றும் அண்ணா அவர்கள் கேட்டுக் கொண்டுள்ளார்.
+
+நண்பா, எந்த நிகழ்ச்சிக்கும் அரசியல் முலாம் பூசி ஆதாயம் தேட முயற்சிக்கும் காங்கிரஸ் பத்திரிகை ஒன்று-வெண்மணிக் கிராம நிகழ்ச்சிக்கும்-தி. மு. கழகத்துக்கும் முடிச்சுப் போட முயற்சிக்கிறது.
+
+“தீ வைப்பு சம்பவத்தை ஒட்டி கைது செய்யப்பட்ட நபர் திராவிட முன்னேற்றக் கழகத்துக்கு கடந்த பொதுத் தேர்தலில் தீவிரமாக வேலை செய்த நபர் என்றும் ஒரு மந்திரிக்கு மிக வேண்டியவர் என்றும் தெரிய வருகிறது.”
+
+என்று ‘நவசக்தி’ (28-12-68) நாளேட்டில் ஒரு செய்தி வெளிவந்திருக்கிறது.
+
+அனைவரும் ஒன்று சேர்ந்து பாதிக்கப்பட்ட மக்களுக்கு அனுதாபம் தெரிவித்து அமைதி காக்கவேண்டிய நேரத்தில் தி. மு. கழகத்தின் மீது பழி போட்டுக் கொடுமையிலும் ஆதாயம் தேட முயலுகின்றனர் காங்கிரசார்.
+
+தீவைப்புச் சம்பவத்தையொட்டி கைதானவர் ஒரு மந்திரிக்கு மிக வேண்டியவர் என்று கை கூசாமல் எழுதியிருக்கின்றனர். எவ்வளவு பெரிய பழி பார்த்தாயா? மக்கள் நம்பி விடுவார்கள் என்ற எண்ணம் அவர்களுக்கு.
+
+நண்பா! உனக்கு நினைவிருக்குமென்று கருதுகிறேன். தென்சென்னை இடைத் தேர்தல் நேரத்தில் இப்படித்தான் ஒரு புரளியைக் கிளப்பிவிட்டனர்.
+
+நன்னிலம் எம்.எல்.ஏ. ஜெயராஜ் அவர்களின் காலை வெட்டியவர் அமைச்சர் ஒருவருக்கு வேண்டியவர் எனத் தெரிகிறது-என்று காங்கிரஸ் ஏடுகள் அனைத்தும் எழுதின.
+
+இப்போதும் அதே புரளியைத்தான் ‘நவசக்தி’ ஏடு கிளப்புகிறது.
+
+ஜெயராஜ் பற்றிய புரளி தென் சென்னைத் தேர்தலுக்கு-
+
+இப்போது கிளப்பியுள்ள புரளி நாகர்கோவில் தேர்தலுக்கு.
+
+நண்பா! தென் சென்னைத் தேர்தல் முடிவு என்னவாயிற்று-
+
+வெண்மணிக் கிராமச் சம்பவத்திற்காக அவர்கள் இரக்கப்படவில்லை. கொடுமையிலும் அரசியல் லாபம் தேடப் பார்க்கிறார்கள்.
+
+கொடுமைக்கு ஆளான வெண்மணிக் கிராம மக்களுக்கு நமது கண்ணீரைக் காணிக்கையாக்கும் போது-தமிழக காங்கிரசாருக்கு நமது அனுதாபத்தையும் உரித்தாக்குவோம்.
+
+அன்புள்ள,
+
+மறவன்
+
+(28-12-1968)
