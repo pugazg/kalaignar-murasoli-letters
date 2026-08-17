@@ -12,7 +12,7 @@ source_note: "Letter 0072 begins here; scan-controlled poem lineation and no-spa
 
 # 72. ஒன்று சொல்க!
 
-உடன்பிறப்பே,
+**உடன் பிறப்பே,**
 
 > “தண்பொழிலில் குயில் பாடும் திருவாரூரில்
 > தமிழ்நாடு தமிழ் மாணவர் மன்றம் காண்
