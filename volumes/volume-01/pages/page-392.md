@@ -7,11 +7,11 @@ letter_number: 109
 letter_date: "1974-11-24"
 letter_title_ta: "அவள் ஒரு தொடர்கதை!"
 transcription_status: "first-pass-reviewed"
-source_note: "Letter 0109 begins here; film title and source compact hyphenation are retained."
+source_note: "Letter 0109 begins here; scan-bold opening salutation, film title and source compact hyphenation are retained."
 ---
 # 109. அவள் ஒரு தொடர்கதை!
 
-உடன்பிறப்பே,
+**உடன்பிறப்பே,**
 
 கவிதா-ஒரு பெண்-ஆம்; அவள் ஒரு சுமைதாங்கி.
 
