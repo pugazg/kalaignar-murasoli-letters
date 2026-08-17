@@ -2,7 +2,7 @@
 
 ## Status
 
-**ACTIVE.** Both prerequisite Tamil gates are complete and PASS: the full-volume structural audit and the full PDF 001–401 second visual/textual-fidelity verification. Canonical English migration/source checking is complete through letters **0001–0030**.
+**ACTIVE.** Both prerequisite Tamil gates are complete and PASS: the full-volume structural audit and the full PDF 001–401 second visual/textual-fidelity verification. Canonical English migration/source checking is complete through letters **0001–0040**.
 
 Volume 1 has 110 preserved legacy bilingual English files under `../volume-1/translations/en/letters/`. They are valuable prior work and must be reused rather than discarded, but they are draft/evidence only in the canonical workflow.
 
@@ -36,8 +36,9 @@ Completed canonical English migration/source-check batches:
 - **0001–0010**
 - **0011–0020**
 - **0021–0030**
+- **0031–0040**
 
-Next batch: **0031–0040**.
+Next batch: **0041–0050**.
 
 ## Final gates
 
