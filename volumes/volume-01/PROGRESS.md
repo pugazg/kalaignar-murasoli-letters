@@ -16,6 +16,7 @@
 - [x] Fifth ten-letter batch: letters 0047–0056 / PDF 200–235
 - [x] User-approved expanded 20-letter batch: letters 0057–0076 / PDF 236–288
 - [x] Sixth regular ten-letter batch: letters 0077–0086 / PDF 289–312
+- [x] Seventh regular ten-letter batch: letters 0087–0096 / PDF 313–344
 - [ ] Remaining ten-complete-letter Volume 1 migration iterations
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
@@ -26,19 +27,19 @@
 
 ## Current boundary
 
-- Canonical page files: **312 / 401**
+- Canonical page files: **344 / 401**
 - Printed contents entries captured: **110 / 110**
-- Canonically completed letters: **86 / 110**
-- Completed canonical letter range: **0001–0086**
+- Canonically completed letters: **96 / 110**
+- Completed canonical letter range: **0001–0096**
 - Partial canonical letter: **none**
-- Canonical letter coverage: **PDF 024–312**
+- Canonical letter coverage: **PDF 024–344**
 - Current regular Volume 1 batch size: **10 letters**; the completed 0057–0076 iteration was explicitly expanded to 20 letters by the user
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
-- New scan-controlled divergences are recorded in `AUDIT.md`, including PDF 294 `அறை கூவல்` / `நியாய நெஞ்சும்`, source hyphenation and emphasis through PDF 312, and the PDF 312 colon after `தடைப்பட்டன`
+- New scan-controlled divergences are recorded in `AUDIT.md`, including PDF 315 `இது தான்`, PDF 329 `வீழட்டும்` / `துண்டாடப் பட்டது`, PDF 340 double-quoted `“மாம்பழ மங்கை”`, PDF 342 `பகுத்தறிவு வாதிகளின்`, and source no-space hyphenation through PDF 344
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
 - Canonically migrated/verified English records: **0 / 110**
 
 ## Exact next task
 
-Begin at **PDF 313**, where the scan visibly starts letter **0087 — `‘நமது நிலை’!`**. Process exactly **10 complete consecutive letters, 0087–0096**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0097. Keep the legacy bilingual corpus untouched and do not start English migration.
+Begin at **PDF 345**, where the scan visibly starts letter **0097 — `இன்றே தயாராகு!`**. Process exactly **10 complete consecutive letters, 0097–0106**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0107. Keep the legacy bilingual corpus untouched and do not start English migration.

@@ -297,7 +297,7 @@ Checks performed and source anomalies recorded:
 - PDFs 279–280 preserve the source lineation/hyphenation of the Bharathidasan poem, including `காண்-தோள்கள்`, `காண்-கிளம்பிற்றுகாண்`, and `கூட்டம்-`;
 - PDFs 283–284 preserve the Kural quotation as a two-line unit;
 - PDF 286 preserves the lineated closing exhortations in letter 0075;
-- PDF 289 was inspected only enough to verify the next boundary: actual heading `77. பெரியாரின் வெற்றி!`, salutation `உடன் பிறப்பே,`; no PDF-289 or letter-0077 text is committed in this iteration;
+- PDF 289 was inspected only enough to verify the next boundary: actual heading `77. பெரியாரின் வெற்றி!`, salutation `உடன்பிறப்பே,`; no PDF-289 or letter-0077 text is committed in this iteration;
 - no silent modernisation, correction, regularisation or reconstruction was applied to source-supported spelling, spacing, punctuation, English text, quotations, or typography;
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain blocked/unstarted as required.
@@ -332,13 +332,51 @@ Checks performed and source anomalies recorded:
 - PDFs 306–307 preserve source punctuation and hyphenation including `வீட்டு விளக்கு-வீதி`, `தாண்டுகிறது-`, `கடாட்சத்தால்!-`, and `இவைகளைத் தான்`; source-visible bold scheme and closing passages are represented in Markdown;
 - PDFs 308–309 preserve the bold election passages, `மேலவை-மாநிலங்கள்`, the lineated principle block, and `மலர்கள் தான்`;
 - PDFs 310–312 preserve mixed source hyphenation including `மேடைகளில்-ஏடுகளில்`, `பொறுப்பு-முதலீட்டில்`, `அரசுத்துறையில்- குறிப்பாக`, and `மத்திய-மாநில`; PDF 312 prints a colon after `தடைப்பட்டன`;
-- PDF 313 was inspected only enough to verify the next boundary: actual heading `87. ‘நமது நிலை’!`, salutation `உடன் பிறப்பே,`; no PDF-313 or letter-0087 text is committed in this iteration;
+- PDF 313 was inspected only enough to verify the next boundary: actual heading `87. ‘நமது நிலை’!`, salutation `உடன்பிறப்பே,`; no PDF-313 or letter-0087 text is committed in this iteration;
 - no silent modernisation, correction, regularisation or reconstruction was applied to source-supported spelling, spacing, punctuation, emphasis or typography;
+- legacy bilingual files remain unchanged;
+- English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain blocked/unstarted as required.
+
+## Iteration 11 — seventh regular Volume 1 ten-letter batch: 0087–0096
+
+**Result: PASS — 10 complete consecutive source letters migrated.**
+
+Coverage and verified boundaries:
+
+- 0087 — `‘நமது நிலை’!`: PDF **313–315**, date **10-05-1974**;
+- 0088 — `என் பிறந்த நாளில்...!`: PDF **316–318**, date **15-05-1974**;
+- 0089 — `“மறவாதே!”`: PDF **319–321**, date **18-05-1974**;
+- 0090 — `கோடையிலே...!`: PDF **322–325**, date **05-06-1974**;
+- 0091 — `நமது விழாக்கள்!`: PDF **326–327**, date **16-06-1974**;
+- 0092 — `பயணம் தொடரட்டும்!`: PDF **328–329**, date **23-06-1974**;
+- 0093 — `பிறந்த நாள் விழாவும் மறந்த சில விவரங்களும்!`: PDF **330–334**, date **28-07-1974**;
+- 0094 — `நேரமும் நினைப்பும்!`: PDF **335–338**, date **04-08-1974**;
+- 0095 — `‘மாம்பழ மங்கை!’`: PDF **339–342**, date **11-08-1974**;
+- 0096 — `அதே தேதிகள்!`: PDF **343–344**, date **01-09-1974**.
+
+Checks performed and source anomalies recorded:
+
+- one canonical page file for every PDF page **313–344**: **32 / 32**;
+- all ten actual heading pages, page boundaries, sign-offs and printed dates were visually checked against the controlling scan;
+- PDF 313 prints the salutation `உடன் பிறப்பே,` with an internal space and carries a source-bold railway-worker demand block; PDFs 314–315 preserve the bold negotiation/settlement passages;
+- PDF 315 prints `இது தான் நமது ஆசை` with `இது தான்` separated, and later `உடன் பிறப்பே!` with an internal space; the legacy joined forms are not substituted;
+- PDFs 316–318 preserve the source-bold three-fund list, the lineated `கவியரங்கம் / பாட்டரங்கம் / கலையரங்கம் / கூத்தரங்கம்` sequence, the bold request to stop extravagant birthday functions, and the lineation around `கழகக் குரல்`;
+- PDFs 319–321 preserve source no-space hyphenation around the movement-destruction sequence, `தியாகநோக்கும்`, the bold organisational-unity passage, and the closing `சிந்தாமல் சிதறாமல்`;
+- PDFs 322–325 preserve source no-space hyphenation including `தமிழர்-மலையாளிகள்`, the arrest/legal-action sequence, the bold `அலைஓசை` passage, the quoted `தி.மு.க.-அ.தி.மு.க.` form, `காமராசரின்`, and the lineated closing counter-question;
+- PDFs 326–327 preserve scan forms including `எதுபற்றிக்`, `நமது உடன் பிறப்புகளும்`, and the dated September festival sequence with source hyphenation;
+- PDF 329 prints `வீழட்டும்`, `துண்டாடப் பட்டது`, and later `சில உடன் பிறப்புக்கள்`; these scan forms control over the legacy reading copy;
+- PDFs 330–334 preserve dense source no-space hyphenation, the lineated `கேலி / கிண்டல் / ஏசல் / ஏளனம் / ஏகடியம்` block, the contrasting `அவன் - இவன்` / `அவன்-இவன்` forms, and the two `தினமணி` quotations;
+- PDFs 335–338 preserve the `உதய சூரியன்` lullaby lineation, source no-space hyphenation, and the bold prohibition-song/accusation blocks;
+- PDF 340 prints `“மாம்பழ மங்கை”` with double quotation marks, `இதோ...மங்கையே` without an inserted space after the ellipsis, and a source-bold newspaper quotation;
+- PDF 342 prints `பகுத்தறிவு வாதிகளின்` with a space; the legacy joined form is not substituted;
+- letter 0096 begins on PDF 343 without a salutation after its heading; PDFs 343–344 preserve the bold opening account, source no-space hyphenation, the bold `1799ஆம் ஆண்டு...` line, and the bold 1972 parallel;
+- PDF 345 was inspected only enough to verify the next boundary: actual heading `97. இன்றே தயாராகு!`, salutation `உடன்பிறப்பே,`; no PDF-345 or letter-0097 text is committed in this iteration;
+- no silent modernisation, correction, regularisation or reconstruction was applied to source-supported spelling, spacing, punctuation, emphasis, quotations or typography;
 - legacy bilingual files remain unchanged;
 - English migration, bilingual alignment, full-volume structural audit, second visual verification, editorial review and release work remain blocked/unstarted as required.
 
 ## Current boundary
 
-Canonical PDF coverage is **001–312 / 401**. Letters **0001–0086** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF **313** with letter **0087 — `‘நமது நிலை’!`** and follows the standing **10-letter** rule for letters **0087–0096**, stopping before letter 0097.
+Canonical PDF coverage is **001–344 / 401**. Letters **0001–0096** are canonically complete, with no partial letter. The next regular Volume 1 migration activity begins at PDF **345** with letter **0097 — `இன்றே தயாராகு!`** and follows the standing **10-letter** rule for letters **0097–0106**, stopping before letter 0107.
 
 These migration iterations are first-pass visual transcription gates. They are **not** the later full-volume structural audit, second visual verification, or translation textual-fidelity audit.

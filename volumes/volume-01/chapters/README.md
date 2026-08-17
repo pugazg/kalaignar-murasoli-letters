@@ -90,6 +90,16 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0084 | ‘தொய்வு இல்லை! தொடர்க பயணம்!’ | 1974-03-05 | 305–307 | complete |
 | 0085 | “எல்லா மலர்களும் ரோஜா மலர்களே!” | 1974-03-19 | 308–309 | complete |
 | 0086 | மே தின வாழ்த்து! | 1974-05-01 | 310–312 | complete |
+| 0087 | ‘நமது நிலை’! | 1974-05-10 | 313–315 | complete |
+| 0088 | என் பிறந்த நாளில்...! | 1974-05-15 | 316–318 | complete |
+| 0089 | “மறவாதே!” | 1974-05-18 | 319–321 | complete |
+| 0090 | கோடையிலே...! | 1974-06-05 | 322–325 | complete |
+| 0091 | நமது விழாக்கள்! | 1974-06-16 | 326–327 | complete |
+| 0092 | பயணம் தொடரட்டும்! | 1974-06-23 | 328–329 | complete |
+| 0093 | பிறந்த நாள் விழாவும் மறந்த சில விவரங்களும்! | 1974-07-28 | 330–334 | complete |
+| 0094 | நேரமும் நினைப்பும்! | 1974-08-04 | 335–338 | complete |
+| 0095 | ‘மாம்பழ மங்கை!’ | 1974-08-11 | 339–342 | complete |
+| 0096 | அதே தேதிகள்! | 1974-09-01 | 343–344 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -105,4 +115,4 @@ The source changes address/sign-off form across the volume; source-visible forms
 
 The user explicitly approved an expanded 20-letter scope for the completed **0057–0076 / PDF 236–288** iteration. Letter 0063 has no date printed in the source and is deliberately not assigned one. Scan-controlled divergences and typographic forms in this range are recorded in [`../AUDIT.md`](../AUDIT.md).
 
-The scan confirms that letters 0077–0086 are complete through PDF 312. PDF 313 begins letter 0087 — `‘நமது நிலை’!` — with salutation `உடன் பிறப்பே,`; no PDF-313 text is part of the completed 0077–0086 batch.
+The scan confirms that letters 0077–0096 are complete through PDF 344. PDF 345 begins letter 0097 — `இன்றே தயாராகு!` — with salutation `உடன்பிறப்பே,`; no PDF-345 text is part of the completed 0087–0096 batch.
