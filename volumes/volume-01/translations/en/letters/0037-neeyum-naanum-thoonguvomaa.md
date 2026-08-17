@@ -1,0 +1,166 @@
+---
+volume: 1
+letter_number: 37
+tamil_title: "நீயும் நானும் தூங்குவோமா?"
+english_title: "Shall You and I Sleep?"
+date: 1971-04-17
+source_pdf_page_start: 161
+source_pdf_page_end: 164
+source_printed_page_start: 161
+source_printed_page_end: 164
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0037.en.md"
+---
+
+# 37. Shall You and I Sleep?
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0037](../../../chapters/0037-neeyum-naanum-thoonguvomaa.md)  
+**Source pages:** [PDF 161](../../../pages/page-161.md)–[PDF 164](../../../pages/page-164.md)  
+**Date:** 17 April 1971
+
+Dear friend,
+
+Like you, I read in the newspapers the speeches delivered in Chennai by Union Minister Mohan Kumaramangalam and Mr C. Subramaniam.
+
+“If state governments ask for particular powers in order to carry out progressive economic programmes, those powers must indeed be given to them! Likewise, if the Union government asks that particular powers remain with it in order to carry out progressive economic programmes on an all-India basis, those powers must be given to the Union government. After the report of the Rajamannar Committee appointed by the Tamil Nadu government on the distribution of powers between the Union and state governments is received, the matter may be discussed amicably and decided.”
+
+These were the words spoken in Chennai by the Honourable Mohan Kumaramangalam on 14 April, New Year's Day. At the same meeting, Mr C. S. also expressed the view that the distribution of powers between the Union and state governments could be discussed and settled.
+
+Just as you rejoice that their speeches appear to encourage our voice of rights, I too rejoice.
+
+We insist upon state autonomy because the concentration of powers at the Centre obstructs the growth of the states. We have not the slightest intention of weakening India! On the contrary, granting autonomy to the states is indispensable if India's security and strength are to be made still firmer.
+
+Though they may not demand “autonomy” as explicitly as our Kazhagam does, ministers of various states continue to echo our voice in different ways. The view recently expressed by Achutha Menon and the view repeatedly voiced by the Chief Minister of Andhra strengthen our argument; they do not complicate the issue.
+
+What we say is a great matter, and those who think it through can ultimately agree with it. Yet to certain people here, are we who speak of so great a matter not very small men? To use the language of the puranic astrologer, such is our “horoscope”!
+
+Even those who grin before us and obtain positions sigh after receiving them: “Has the situation fallen so low that we must receive this office from him?” The reason, dear friend, is their thought that you and I were born into such ordinary families!
+
+There was a time when a man walked until his legs ached for a post that would let him enjoy the sea breeze. After breathing that breeze to his heart's content, the same man recently found himself able to send only a postcard bearing the single line, “Congratulations on your victory!”
+
+Their conclusion is that they alone are summits of wisdom, lords of counsel, kings of ability, masters, and virtuosos!
+
+Friend, they do not know what “humility” means. They are accustomed to hearing the word “gratitude,” but not to feeling and practising it!
+
+If we were to wake Anna, sleeping there upon the expanse of white sand, and ask him, he would give us the grammar of humility and the meaning of gratitude!
+
+Those who disregarded that great thinker, me, and you, and were thereby rejected by the people, now call our ideas inferior merely because we speak them.
+
+Who are they?
+
+Where are they?
+
+You ask, your young moustache quivering and your shoulders swelling. I am not unaware!
+
+I am not going to identify them for you, because they are fading away beyond recognition.
+
+“The state government needs more powers!”
+
+Because we say this, those here oppose it!
+
+“The right to issue industrial licences must belong to the state government.”
+
+Because this is our demand, those who have become clowns in politics cry, “No, no, do not give it!”
+
+There is a statue of Tirumala Nayak in the Madurai temple because that temple is connected with the Tamil Nadu government. At Rameswaram there is a statue of the Sethupathi.
+
+But the Union government refuses to allow a statue of Rajaraja Chola, who built the Thanjavur temple, any place within that temple! The reason is that the Thanjavur temple lies in its grip.
+
+Some “intellectuals” may consider it contemptible that we point this out. But must even the Chola king Rajaraja appear an ordinary man in their eyes?
+
+Friend, the labour I endured to remove the grass and weeds around the Fort that houses the Secretariat and turn the grounds into gardens blooming with flowers was no small thing!
+
+I brought a Union minister there in person, showed him around the Fort, and then obtained permission through him to remove the grass and weeds. Do you know why? Fort St George belongs to the Union government's Defence Department! That is why even trimming weeds and making the place beautiful required us to undergo so much difficulty.
+
+In this way, many tasks, small and great, are obstructed because the hands of the state government are tied!
+
+“We may discuss and decide upon sharing the powers.”
+
+The assurance of one Union minister and another who may become a minister is the first-stage victory our view has won!
+
+Shall we sleep, then?
+
+With affection,
+
+M. Karunanidhi
+
+(17 April 1971)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 37. நீயும் நானும் தூங்குவோமா?
+
+அன்பு நண்பா,
+
+மத்திய அமைச்சர் மோகன் குமாரமங்கலமும் திரு. சி. சுப்பிரமணியமும் சென்னையில் ஆற்றிய உரைகளை உன்னைப் போல நானும் நாளேடுகளில் படித்துப் பார்த்தேன்.
+
+“முற்போக்கான பொருளாதாரத் திட்டங்களை நிறைவேற்ற இன்னின்ன அதிகாரங்கள் வேண்டுமென்று மாநில அரசுகள் கேட்டால் அந்த அதிகாரங்கள் கொடுக்கப்பட வேண்டியதே! அதே போல் அகில இந்திய ரீதியில் முற்போக்கான பொருளாதாரத் திட்டங்களை நிறைவேற்ற இன்னின்ன அதிகாரங்கள் தன்னிடமிருக்க வேண்டுமென்று மத்திய அரசு கேட்டால் அந்த அதிகாரங்கள் மத்திய அரசுக்குக் கொடுக்கப்பட வேண்டும். மத்திய மாநில அரசுக்கிடையே அதிகாரங்களை பகிர்ந்து கொள்வது பற்றி தமிழக அரசு நியமித்துள்ள ராஜ மன்னார் கமிட்டியின் அறிக்கை வந்த பிறகு அதுபற்றி சுமுகமாகப் பேசி முடிவு செய்யலாம்.”
+
+இது ஏப்ரல் 14ஆம் நாளன்று புத்தாண்டு பிறந்த தினத்தில் சென்னையில் மாண்புமிகு மோகன் குமாரமங்கலம் பேசியதாகும். மத்திய மாநில அரசு அதிகாரங்களை பகிர்ந்து கொள்வதுபற்றி பேசி முடிவு செய்யலாம் என்ற கருத்தை அதே கூட்டத்தில் திரு. சி. எஸ். அவர்களும் எடுத்துக் கூறியுள்ளார்.
+
+நமது உரிமைக் குரலுக்கு ஊக்கமளிப்பது போல அவர்களது உரை அமைந்திருப்பது கண்டு நீ மகிழ்வதைப் போலவே நானும் மகிழ்கிறேன்.
+
+மத்தியில் அதிகாரங்கள் குவிந்திடுவது, மாநிலங்களின் வளர்ச்சியைத் தடுக்கும் என்பதினாலேயே மாநில சுயாட்சியை வலியுறுத்துகிறோமே அல்லாமல் இந்தியாவைப் பலகீனப்படுத்தும் நோக்கம் எள்ளளவும் நமக்குக் கிடையாது! மாறாக, இந்தியாவின் பாதுகாப்பும் பலமும் மேலும் உறுதிப்படுத்துவதற்கு மாநிலங்களுக்கு சுயாட்சி வழங்குவது இன்றியமையாததாகும்.
+
+“சுயாட்சி” என்று நமது கழகம் சுட்டிக் காட்டிக் கேட்பதைப் போலக் கேட்காவிடினும், வெவ்வேறு முறைகளில் நமது குரலைப் பல்வேறு மாநில அமைச்சர்களும் எதிரொலித்துக் கொண்டுதானிருக்கிறார்கள். அண்மையில், அச்சுதமேனன் வெளியிட்ட கருத்தும், அடிக்கடி ஆந்திர முதல்வர் எடுத்துக் கூறுகிற கருத்தும் - நமது வாதத்திற்கு வலுவளிக்கக் கூடியவைகளே தவிர, பிரச்சினையைச் சிக்கலாக்குவன அல்ல!
+
+நாம் சொல்கிற விஷயம் பெரியது எனினும்-சிந்தித்துப் பார்க்கிறவர்கள் இறுதியில் ஒத்துக் கொள்ளக் கூடியது எனினும்-அவ்வளவு பெரிய விஷயத்தைச் சொல்கிற நாம், மிகச் சிறியவர்களாக அல்லவா இங்குள்ள சிலருக்குத் தென்படுகிறோம். புராணீகர் மொழியிலே கூற வேண்டுமானால் நமது ‘ஜாதகம்’ அப்படி!
+
+நம்மிடம் பல் இளித்துப் பதவிகளைப் பெறுகிறவர்கள் கூட அதனைப் பெற்ற பிறகு, “இவன் கொடுத்து நாம் இந்தப் பதவியைப் பெறவேண்டிய அளவுக்கு நிலைமை ஆகிவிட்டதே!” என்றுதான் பெருமூச்சு விட்டுக் கொள்கிறார்கள். காரணம், அருமை நண்பா! நீயும் நானும் அவ்வளவு சாதாரணக் குடும்பத்தில் பிறந்து விட்டதாக அவர்களுக்கு ஒரு நினைப்பு!
+
+கடற்கரைக் காற்று வாங்கும் பதவிக்குக் கால் கடுக்க நடந்த காலமும் உண்டு. அந்தக் காற்றை ஆசைதீர சுவாசித்த பிறகு, ஒரு அஞ்சலட்டையில் “உன் வெற்றிக்குப் பாராட்டு!” என்று ஒரு வரியில் எழுதி அனுப்பிய நிலை அதே மனிதருக்குச் சில நாட்களுக்கு முன் ஏற்பட்டதும் உண்டு.
+
+அவர்களது முடிவு, தாங்கள்தான் அறிவின் சிகரங்கள் - அறிவுரை நாயகர்கள் - ஆற்றல் அரசர்கள் - விற்பன்னர்கள் - வித்தகர்கள் - என்று!
+
+நண்பா; அவர்கள் “அடக்கம்” என்பது இன்னதென்று அறியாதவர்கள். “நன்றி” என்ற சொல்லைக் கேட்டுப் பழக்கப்பட்டவர்களே தவிர, உணர்ந்து பழக்கப்பட்டவர்களல்ல!
+
+அதோ வெண்மணற் பரப்பில் கண்துயிலும் அண்ணனைத் தட்டி எழுப்பிக் கேட்டால், அவர் சொல்வார் - அடக்கத்திற்கு இலக்கணம்! நன்றிக்குப் பொருள்!
+
+அந்த மேதையையும், என்னையும் உன்னையும் அலட்சியப்படுத்தியே மக்களால் புறக்கணிக்கப்பட்டவர்கள், இன்று நாம் சொல்வதாலேயே நமது கருத்துகளுக்கு “சோடை” சொல்கிறார்கள்.
+
+யார் அவர்கள்?
+
+எங்கே இருக்கிறார்கள்?
+
+நீ அரும்பு மீசை துடித்திடக் கேட்கிறாய், உன் தோள்கள் விம்முகின்றன - எனக்குத் தெரியாமல் இல்லை!
+
+நான் அவர்களை உனக்கு அடையாளம் காட்டப் போவதில்லை - காரணம், அவர்கள் அடையாளம் தெரியாமல் அழிந்து கொண்டிருக்கிறார்கள்.
+
+“மாநில அரசுக்கு அதிக அதிகாரங்கள் தேவை!”
+
+இதை நாம் சொல்கிறோமாம், அதற்காக எதிர்க்கிறார்கள் இங்குள்ளோர்!
+
+“தொழில் உரிமங்கள் வழங்குவது மாநில அரசின் உரிமையாக இருக்க வேண்டும்.”
+
+இது நமது முழக்கமாக இருப்பதால், வேண்டாம் வேண்டாம் கொடுக்காதே என்கிறார்கள், அரசியலில் விதூஷகர்களாகப் போனவர்கள்.
+
+மதுரைக் கோயிலில் திருமலை நாயக்கர் சிலை இருக்கிறது. அந்தக் கோயில் தமிழக அரசின் தொடர்புடன் இருப்பதால்! ராமேசுவரத்தில் சேதுபதி சிலை இருக்கிறது.
+
+ஆனால் தஞ்சைக் கோயில் கட்டிய ராஜராஜ சோழன் சிலைக்குக் கோயிலுக்குள் இடம் கிடையாது என மறுக்கிறது, மத்திய அரசு! காரணம் தஞ்சைக் கோயில் அவர்கள் பிடியில் இருப்பதுதான்;
+
+இதனை நாம் சுட்டிக் காட்டுவது சில “அறிவாளி”களுக்குக் கேவலமாகத் தெரியலாம்! ஆனால் சோழமன்னன் ராஜராஜனுமா இவர்கள் கண்ணுக்கு சாதாரணமாகத் தெரிய வேண்டும்.
+
+நண்பா, தலைமைச் செயலகம் இருக்கிற கோட்டையைச் சுற்றியுள்ள புல்பூண்டுகளை அகற்றி பூக்கள் மலரும் சோலைகளாக ஆக்கிட, நான் பட்டபாடு கொஞ்சமல்ல!
+
+மத்திய அமைச்சர் ஒருவரை நேராகவே அழைத்து வந்து கோட்டையைச் சுற்றிக்காட்டி, பிறகு அவர் மூலமாக புல்பூண்டுகளை அகற்றும் வேலைக்கு அனுமதி பெற்றோம், ஏன் தெரியுமா? செயின்ட் ஜார்ஜ் கோட்டை மத்திய அரசின் பாதுகாப்பு இலாகாவுக்குச் சொந்தம்! அதனால்தான் புல் பூண்டுகளைச் செதுக்கி அதனை எழிலாக்கிடவும் இத்துணை சிரமம் ஏற்றிட வேண்டியுள்ளது.
+
+இப்படிச் சிறியதும் பெரியதுமாகப் பல்வேறு வேலைகள் தடைப்படுகின்றன - மாநில அரசின் கைகள் கட்டிக் கிடப்பதால்!
+
+“அதிகாரங்களைப் பகிர்வதைப் பேசி முடிவு செய்யலாம்.”
+
+என்று மத்திய அமைச்சர் ஒருவரும்; அமைச்சராக, ஆகக் கூடிய மற்றொருவரும் உறுதியளித்திருப்பது; நம் கருத்திற்கு கிடைத்துள்ள முதல் கட்ட வெற்றியாகும்!
+
+தூங்குவோமா என்ன?
+
+அன்புள்ள,
+
+மு. கருணாநிதி
+
+(17-04-1971)
