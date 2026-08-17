@@ -6,7 +6,7 @@
 - [x] Canonical Tamil page/letter migration complete: **401 / 401 pages; 110 / 110 letters**
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
-- [ ] Legacy English record migration and source checking — **in progress; 0001–0040 / 110 source-checked**
+- [ ] Legacy English record migration and source checking — **in progress; 0001–0050 / 110 source-checked**
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
 - [ ] Translation manifest and final release report
@@ -27,9 +27,9 @@
 - Letter 0063 has no printed date and remains undated rather than inferred
 - Printed-contents wording remains literal where it differs from actual heading pages; letter 0109 contents `அவள் ஒரு தொடற்கதை!` differs from actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
-- Canonically migrated English records: **40 / 110**
-- Canonically source-checked English records: **40 / 110**
-- Completed canonical English range: **0001–0040**
+- Canonically migrated English records: **50 / 110**
+- Canonically source-checked English records: **50 / 110**
+- Completed canonical English range: **0001–0050**
 - Bilingual-aligned canonical English records: **0 / 110**
 - Verified canonical English records: **0 / 110**
 - Source-check reports:
@@ -37,6 +37,7 @@
   - [`translations/en/SOURCE_CHECK_0011_0020.md`](translations/en/SOURCE_CHECK_0011_0020.md)
   - [`translations/en/SOURCE_CHECK_0021_0030.md`](translations/en/SOURCE_CHECK_0021_0030.md)
   - [`translations/en/SOURCE_CHECK_0031_0040.md`](translations/en/SOURCE_CHECK_0031_0040.md)
+  - [`translations/en/SOURCE_CHECK_0041_0050.md`](translations/en/SOURCE_CHECK_0041_0050.md)
 - Letter 0002 was corrected against scan-verified PDF 030 so Kamaraj's Deepavali quotation includes the source-visible `என்பதை இந்த ஆண்டு காண்கிறோம்` before the following sentence
 - Letter 0010 follows scan-verified PDF 063 `ரன்னர்` and therefore uses **Runner Cup**, not the stale legacy `Rainer` reading
 - Letter 0018 preserves the deliberate censored ellipses on PDF 095 without reconstruction
@@ -47,7 +48,13 @@
 - Letter 0036 retains printed `சி. பி. சி.` / `C. P. C.` without speculative expansion
 - Letter 0037 follows the scan-supported title `தூங்குவோமா?`, not the earlier OCR corruption `தாங்குவோமா?`
 - Letters 0038–0040 preserve the source-supported membership directive, General Council programme, P. Kannan private-letter quotation, dramatic titles and closing Tirukkural
+- Letters 0041–0050 are migrated and source-checked across PDF / printed pages **178–213** with no new substantive English omission identified
+- Letters 0042–0044 preserve the linked anti-violence argument and political examples; letters 0045–0046 preserve the complete two-part Madurai conference sequence
+- Letter 0047 preserves the `நாடு + அகம் = நாடகம்` wordplay and closing proverb reversal
+- Letter 0048 preserves printed `சென்னை. / 10.10.1972` as source evidence despite the internal later-time indicator; no unsupported composition date is inferred
+- Letter 0049 preserves Anna's complete 1961 quoted reply and `நெஞ்சகம் / அன்பகம் / அறிவகம்` wordplay
+- Letter 0050 preserves the *Navasakthi* chronology, Madurai conference financial figures and elephant-pit image
 
 ## Exact next task
 
-Migrate and source-check canonical English letters **0041–0050** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.
+Migrate and source-check canonical English letters **0051–0060** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.
