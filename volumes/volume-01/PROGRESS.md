@@ -6,7 +6,7 @@
 - [x] Canonical Tamil page/letter migration complete: **401 / 401 pages; 110 / 110 letters**
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
-- [ ] Legacy English record migration and source checking — **in progress; 0001–0010 / 110 source-checked**
+- [ ] Legacy English record migration and source checking — **in progress; 0001–0020 / 110 source-checked**
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
 - [ ] Translation manifest and final release report
@@ -27,16 +27,20 @@
 - Letter 0063 has no printed date and remains undated rather than inferred
 - Printed-contents wording remains literal where it differs from actual heading pages; letter 0109 contents `அவள் ஒரு தொடற்கதை!` differs from actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
-- Canonically migrated English records: **10 / 110**
-- Canonically source-checked English records: **10 / 110**
-- Completed canonical English range: **0001–0010**
+- Canonically migrated English records: **20 / 110**
+- Canonically source-checked English records: **20 / 110**
+- Completed canonical English range: **0001–0020**
 - Bilingual-aligned canonical English records: **0 / 110**
 - Verified canonical English records: **0 / 110**
-- First canonical English source-check report: [`translations/en/SOURCE_CHECK_0001_0010.md`](translations/en/SOURCE_CHECK_0001_0010.md)
+- Source-check reports:
+  - [`translations/en/SOURCE_CHECK_0001_0010.md`](translations/en/SOURCE_CHECK_0001_0010.md)
+  - [`translations/en/SOURCE_CHECK_0011_0020.md`](translations/en/SOURCE_CHECK_0011_0020.md)
 - Letter 0002 was corrected against scan-verified PDF 030 so Kamaraj's Deepavali quotation includes the source-visible `என்பதை இந்த ஆண்டு காண்கிறோம்` before the following sentence
 - Letter 0010 follows scan-verified PDF 063 `ரன்னர்` and therefore uses **Runner Cup**, not the stale legacy `Rainer` reading
-- Letter 0009's embedded Tamil incorporates the second-pass source forms from PDFs 058 and 060–062
+- Letter 0018 preserves the deliberate censored ellipses on PDF 095 without reconstruction
+- Letter 0019 now restores and translates the scan-visible PDF 099 passages absent from the legacy reading copy, including Anna's `ஆமாம்! அவர்களுக்காகத்தான்! ... சதையின் சதை!` reply and Morarji Desai's five-line Hindi statement ending `இந்தக் கதை வெகுநாள் ஓடாது!`
+- Letter 0020 excludes the PDF 101 library stamp and handwritten accession marks as non-authorial artefacts
 
 ## Exact next task
 
-Migrate and source-check canonical English letters **0011–0020** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.
+Migrate and source-check canonical English letters **0021–0030** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.
