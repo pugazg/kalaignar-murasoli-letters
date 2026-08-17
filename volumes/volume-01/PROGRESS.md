@@ -20,7 +20,7 @@
 - [x] Eighth regular ten-letter batch: letters 0097–0106 / PDF 345–383
 - [x] Final documented residue: letters 0107–0110 / PDF 384–400, plus non-letter back cover PDF 401
 - [x] Full-volume Tamil structural audit
-- [ ] Second visual/textual-fidelity verification — **in progress; PDF 001–125 / 401 complete**
+- [ ] Second visual/textual-fidelity verification — **in progress; PDF 001–150 / 401 complete**
 - [ ] Legacy English record migration and source checking
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
@@ -35,18 +35,19 @@
 - Partial canonical letter: **none**
 - Canonical letter coverage: **PDF 024–400**; PDF 401 is non-letter back cover
 - Full-volume Tamil structural audit: **PASS — complete**; report: [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md)
-- Second visual/textual-fidelity verification: **in progress — PDF 001–125 / 401 complete**
+- Second visual/textual-fidelity verification: **in progress — PDF 001–150 / 401 complete**
 - Fidelity reports completed:
   - [`translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
   - [`translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
   - [`translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md)
   - [`translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md)
   - [`translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md)
-- Cumulative second-pass corrections: **58 canonical pages / 128 spans**
-- PDF 101–125 required scan-proven corrections on **22 canonical pages / 54 spans**
-- The range primarily restores source-bold vocatives, quotations, political-speech blocks and displayed exhortations; PDF 111 also restores the scan-spaced `தி. மு. கழகம்`
-- PDFs 116, 118 and 124 required no canonical correction in this range
-- Letters **0001–0025** now have complete second-pass source-page coverage; letter **0026** is checked through its opening PDF 125 and continues beyond the current range
+  - [`translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md)
+- Cumulative second-pass corrections: **73 canonical pages / 160 spans**
+- PDF 126–150 required scan-proven corrections on **15 canonical pages / 32 spans**
+- This range chiefly restores source-bold opening addresses, quoted newspaper/political passages, the eight-line accusation display on PDF 136, selected Hande-letter emphasis on PDFs 138–140, and source emphasis through PDFs 146–148
+- PDFs **126, 128, 131, 137, 139, 142, 144, 145, 149 and 150** required no canonical correction
+- Letters **0001–0033** now have complete second-pass source-page coverage; letter **0034** is checked through PDF 150 and continues beyond the current range
 - The structural audit confirmed exactly one canonical page record for PDF 001–401 and exactly 110 numbered canonical chapter records, with continuous letter coverage PDF 024–400 and no gap or overlap
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
@@ -56,4 +57,4 @@
 
 ## Exact next task
 
-Continue the **second visual/textual-fidelity verification with PDF 126–150**, beginning with the continuation of letter 0026, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus untouched. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
+Continue the **second visual/textual-fidelity verification with PDF 151–175**, beginning with the continuation of letter 0034, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus untouched. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
