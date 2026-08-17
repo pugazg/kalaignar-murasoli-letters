@@ -20,7 +20,7 @@
 - [x] Eighth regular Volume 1 ten-letter batch: letters 0097–0106 / PDF 345–383
 - [x] Final documented residue: letters 0107–0110 / PDF 384–400, plus non-letter back cover PDF 401
 - [x] Full-volume Tamil structural audit
-- [ ] Second visual/textual-fidelity verification — **in progress; PDF 001–375 / 401 complete**
+- [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
 - [ ] Legacy English record migration and source checking
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
@@ -35,20 +35,20 @@
 - Partial canonical letter: **none**
 - Canonical letter coverage: **PDF 024–400**; PDF 401 is non-letter back cover
 - Full-volume Tamil structural audit: **PASS — complete**; report: [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md)
-- Second visual/textual-fidelity verification: **in progress — PDF 001–375 / 401 complete**
-- Fidelity reports completed through [`translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md)
-- Cumulative second-pass corrections: **154 canonical pages / 269 spans**
-- PDF 351–375 required scan-proven corrections on **7 canonical pages / 7 spans**
-- This range restores scan-bold opening salutations for letters **0099–0105** on PDFs **351, 354, 359, 361, 365, 369 and 374**, preserving exact joined/spaced forms and punctuation
-- Existing source-visible emphasis elsewhere in the range, including the bold opening hunger statement on PDF 365 and the opening `கல்கி` quotation on PDF 374, was retained
-- Letters **0001–0104** now have complete second-pass source-page coverage; letter **0105** is checked through PDF 375 and continues beyond the current range
+- Full-volume second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401 complete**; closure report: [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
+- Final range reports: [`translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) and [`translations/en/TEXTUAL_FIDELITY_AUDIT_401.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md)
+- Cumulative second-pass corrections: **159 canonical pages / 274 spans**
+- PDF 376–400 required scan-proven corrections on **5 canonical pages / 5 spans**: PDFs **380, 384, 388, 392 and 396**, restoring the scan-bold opening salutations for letters **0106–0110** while preserving exact source forms and punctuation
+- PDF **401** back cover was visually verified and required **no canonical correction**
+- Letters **0001–0110** now have complete second-pass source-page coverage
 - The structural audit confirmed exactly one canonical page record for PDF 001–401 and exactly 110 numbered canonical chapter records, with continuous letter coverage PDF 024–400 and no gap or overlap
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
 - Printed-contents wording remains literal where it differs from actual heading pages; letter 0109 contents `அவள் ஒரு தொடற்கதை!` differs from actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
 - Canonically migrated/verified English records: **0 / 110**
+- Canonical English migration is now **unblocked** because both required Tamil gates — structural and full visual/textual fidelity — are complete and PASS
 
 ## Exact next task
 
-Continue the **second visual/textual-fidelity verification with PDF 376–400**, beginning with the continuation of letter 0105, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Then verify non-letter back cover PDF **401** and close the full-volume fidelity gate. Keep the legacy bilingual corpus untouched. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
+Begin **legacy English record migration and source checking** for canonical Volume 1. Use the 110 preserved bilingual records under `../volume-1/` only as reusable drafts/evidence; the verified canonical Tamil pages and controlling `Vol1.pdf` remain authoritative. Follow the repository translation workflow and Volume 49/46 release conventions, preserve Kalaignar's thought order, rhetoric and political language, and do not silently normalize source-specific terms or anomalies.
