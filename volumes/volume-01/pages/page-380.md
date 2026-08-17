@@ -7,11 +7,11 @@ letter_number: 106
 letter_date: "1974-11-03"
 letter_title_ta: "‘கல்கி’யின் கண்ணோட்டம்(3)"
 transcription_status: "first-pass-reviewed"
-source_note: "Letter 0106 begins here; title has no space before (3), and the three offence lines are source-lineated. Page ends at கழகக்."
+source_note: "Letter 0106 begins here; title has no space before (3), scan-bold opening salutation is retained, and the three offence lines are source-lineated. Page ends at கழகக்."
 ---
 # 106. ‘கல்கி’யின் கண்ணோட்டம்(3)
 
-உடன்பிறப்பே!
+**உடன்பிறப்பே!**
 
 “கடமைகளைச் சரிவர நிறைவேற்றாத தி. மு. க. பிரமுகர்கள், கட்டுப்பாடு இழந்து பிளவுபடுவதும்-கட்சிக்குக் கட்சி தாவுவதும்-கண்ணியமிழந்து மேடைக்கு மேடை ஒருவரை யொருவர் தூற்றிக் கொள்வதும் அண்ணாவுக்குச் செய்யும் அபச்சாரங்கள்!”
 

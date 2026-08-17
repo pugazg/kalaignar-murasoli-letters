@@ -7,11 +7,11 @@ letter_number: 108
 letter_date: "1974-11-17"
 letter_title_ta: "வாண வேடிக்கை!"
 transcription_status: "first-pass-reviewed"
-source_note: "Letter 0108 begins here; source-bold quotation blocks and page-boundary continuation are retained."
+source_note: "Letter 0108 begins here; scan-bold opening salutation, source-bold quotation blocks and page-boundary continuation are retained."
 ---
 # 108. வாண வேடிக்கை!
 
-உடன்பிறப்பே,
+**உடன்பிறப்பே,**
 
 இந்திய நாட்டு முதுபெரும் தலைவர்களில் ஒருவரான ஜெயப்பிரகாஷ் அவர்கள், பீகார் மாநிலத்தில் தலைமையேற்று நடத்தி வருகின்ற கிளர்ச்சி பற்றி நமது திட்டவட்டமான கருத்தை, ஏற்கெனவே கழகச் சார்பில் நான் எடுத்துக் கூறியிருக்கிறேன்.
 

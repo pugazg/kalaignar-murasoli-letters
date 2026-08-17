@@ -7,11 +7,11 @@ letter_number: 110
 letter_date: "1974-12-01"
 letter_title_ta: "கயிற்றில் தொங்கிய கணபதி!"
 transcription_status: "first-pass-reviewed"
-source_note: "Letter 0110 begins here; source names, title and Malaya historical wording are retained."
+source_note: "Letter 0110 begins here; scan-bold opening salutation, source names, title and Malaya historical wording are retained."
 ---
 # 110. கயிற்றில் தொங்கிய கணபதி!
 
-உடன்பிறப்பே!
+**உடன்பிறப்பே!**
 
 இரண்டொரு நாட்களுக்கு முன்பு வேலூர் சென்றிருந்தேன்; மலேயா சாம்பசிவம் என்ற நண்பருக்கு முதல்வர் நிதியிலிருந்து மூவாயிரம் ரூபாய் குடும்ப நிதியாக-அரசின் சார்பில் நானே நேரடியாக அவரிடம் வழங்கினேன்.
 
