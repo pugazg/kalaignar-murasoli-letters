@@ -7,11 +7,11 @@ letter_number: 107
 letter_date: "1974-11-10"
 letter_title_ta: "வாழ்க-உன் புன்னகை!"
 transcription_status: "first-pass-reviewed"
-source_note: "Letter 0107 begins here; actual heading and source compact hyphenation are retained."
+source_note: "Letter 0107 begins here; actual heading, scan-bold opening salutation and source compact hyphenation are retained."
 ---
 # 107. வாழ்க-உன் புன்னகை!
 
-உடன்பிறப்பே,
+**உடன்பிறப்பே,**
 
 நமது கழகத்திற்கு வயது இருபத்தைந்து என்கிறபோது, காளைப் பருவத்தின் கம்பீரத் தோற்றம் எதிர்நிற்கிறது! காளைப் பருவம் கம்பீரம் வாய்ந்தது மட்டுமல்ல-முறுக்கேறிய கட்டுடல்-முறுவலிக்கும் இதழ்கள்-துடிக்கும் இளம் மீசைகள்-துருதுருக்கும் கைகள்-ஆகிய அனைத்து இலக்கணங்களும் கொண்டது.
 
