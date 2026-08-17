@@ -45,10 +45,10 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Letter 0063 has **no date printed in the source**; no date is inferred.
 - Letters 0107–0110 are complete on PDF **384–400**. Letter 0110 closes on PDF 400 with `(01-12-1974)`; PDF 401 is a non-letter colour back cover / publisher advertisement.
 - Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md). The audit confirmed 401/401 page records, 110/110 chapter records, continuous letter coverage PDF 024–400, and no structural gaps or overlaps.
-- Second visual/textual-fidelity verification: **in progress — PDF 001–275 / 401 complete**. Cumulative scan-proven corrections: **120 canonical pages / 235 spans**.
-- Completed second-pass reports: [`001–025`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md), [`026–050`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md), [`051–075`](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md), [`076–100`](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md), [`101–125`](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md), [`126–150`](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md), [`151–175`](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md), [`176–200`](translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md), [`201–225`](translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md), [`226–250`](translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md), and [`251–275`](translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md).
-- The PDF 251–275 range required corrections on **9 pages / 9 spans**, restoring scan-bold opening salutations for letters 0062–0070; source-visible emphasis already present elsewhere in the range, including PDF 258, was retained.
-- Letters **0001–0069** now have complete second-pass source-page coverage. Letter 0070 is second-pass checked through PDF 275 and continues beyond the current range.
+- Second visual/textual-fidelity verification: **in progress — PDF 001–350 / 401 complete**. Cumulative scan-proven corrections: **147 canonical pages / 262 spans**.
+- Completed second-pass reports run through [`326–350`](translations/en/TEXTUAL_FIDELITY_AUDIT_326_350.md).
+- The PDF 326–350 range required corrections on **7 pages / 7 spans**, restoring scan-bold opening salutations for letters 0091–0095 and 0097–0098 while preserving exact joined/spaced forms and punctuation. Letter 0096 begins without a salutation and its source-bold opening paragraph was already correctly retained.
+- Letters **0001–0098** now have complete second-pass source-page coverage.
 - English migration/alignment: **blocked** while the required second visual/textual-fidelity gate remains incomplete.
 
 ## Source identity
@@ -69,4 +69,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Continue the **second visual/textual-fidelity verification with PDF 276–300**, beginning with the continuation of letter 0070, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
+Continue the **second visual/textual-fidelity verification with PDF 351–375**, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
