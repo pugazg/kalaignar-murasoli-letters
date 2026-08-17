@@ -37,14 +37,15 @@ audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-17
 structural_audit_report: "FULL_VOLUME_STRUCTURAL_AUDIT.md"
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-75"
-second_visual_verified_page_count: 75
-textual_fidelity_correction_pages: 18
-textual_fidelity_correction_spans: 30
+second_visual_verified_page_range: "1-100"
+second_visual_verified_page_count: 100
+textual_fidelity_correction_pages: 36
+textual_fidelity_correction_spans: 74
 textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md"
 translation_status: "legacy-complete-migration-pending"
 translated_letter_range: null
 translated_letter_count: 0
@@ -127,7 +128,7 @@ source_observations:
   - "PDF pages 396-400 preserve letter 110's Malaya / Sambasivam history, the long quoted 1949 கயிற்றில் தொங்கிய கணபதி passage, source lineation, the four-exclamation தமிழகமே!!!! form, and the 01-12-1974 closure."
   - "PDF page 401 is the colour back cover with Kalaignar portrait, 1924 - 2018, publisher contact block, QR code, GO 2300 and ரூ.300; it contains no letter text."
   - "The full-volume Tamil structural audit passed. It corrected stale migration-status notes in contents/index.md and chapters/README.md; no canonical Tamil page body or letter metadata required correction in that structural audit."
-  - "Second visual/textual-fidelity verification is in progress: PDF pages 001-075 / 401 passed after scan-proven corrections on 18 canonical pages / 30 spans."
+  - "Second visual/textual-fidelity verification is in progress: PDF pages 001-100 / 401 passed after scan-proven corrections on 36 canonical pages / 74 spans."
   - "PDF page 011 second-pass review restored a complete scan-visible paragraph omitted in the first pass, beginning தலைவர் கலைஞரின் அந்த “என்னுரை”யில், “நண்பா” and ending with the applicability of “கலைஞரின் கடிதங்கள்” to the volumes."
   - "PDF page 012 preserves the foreword's scan-printed அய்ந்தாண்டுகள், while the actual letter on PDF page 024 independently prints ஐந்தாண்டுகள்."
   - "PDF pages 015-017 restore scan-printed முதல்வர் forms; PDF 017 also restores the source-tight ஐ.ஏ.எஸ்.(ஓய்வு)."
@@ -140,7 +141,11 @@ source_observations:
   - "PDF page 067 restores five scan-controlled joining/spacing forms: மறுபிறவி எடுத்துவரும் மாணிக்கத்திருவே!, the body தென்றல்- தெம்பாங்கு- தேன்கீதம்!, மாங்குயில் கூவக்கண்டு, இனிச்சாவில்லை, and பரிவுடனே தடவிக்கொடுப்பாய்-."
   - "PDF page 071 restores the source occurrence மது விலக்குக் கொள்கையையும்; PDF 072 restores இதை விட."
   - "PDF page 075 restores source எதற்காகவோ, the hyphen in அதற்குள்-பத்திரிகையாளர், and a complete scan-visible final paragraph beginning நாமே அதனைத் தேடிச் சென்றால்; that had been omitted in the first pass."
-  - "Letters 0001-0012 are now fully second-pass fidelity-cleared. Letter 0013 is checked only through PDF 075 and continues beyond this range."
-  - "The next fidelity range is PDF 076-100."
+  - "Second-pass PDF 076-100 is complete: 25/25 pages checked, with 18 corrected canonical pages / 44 corrected spans; details are recorded in translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md."
+  - "PDF 076 removes a duplicated paragraph belonging to PDF 075; the scan starts directly with இந்த அசைக்க முடியாத மனதிடத்துடன்."
+  - "PDFs 081-095 restore scan-controlled source spacing, hyphenation and bold emphasis including பி. சோ., தி. மு. க., தி. மு., 1966 ஆம், source newspaper/judicial quotation blocks, and deliberate ellipses remain unreconstructed."
+  - "PDFs 097-100 restore source-bold Morarji Desai, Assembly, Anna and Hindi-policy quotations."
+  - "Letters 0001-0019 are now fully second-pass fidelity-cleared."
+  - "The next fidelity range is PDF 101-125."
   - "Canonical English migration remains blocked while the full second visual/textual-fidelity gate is incomplete."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."
