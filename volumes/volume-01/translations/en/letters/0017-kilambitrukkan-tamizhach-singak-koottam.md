@@ -1,0 +1,206 @@
+---
+volume: 1
+letter_number: 17
+tamil_title: "கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்!"
+english_title: "Behold, the Band of Tamil Lions Has Set Forth!"
+date: 1968-11-18
+source_pdf_page_start: 90
+source_pdf_page_end: 93
+source_printed_page_start: 90
+source_printed_page_end: 93
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0017.en.md"
+---
+
+# 17. Behold, the Band of Tamil Lions Has Set Forth!
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0017](../../../chapters/0017-kilambitrukkan-tamizhach-singak-koottam.md)  
+**Source pages:** [PDF 90](../../../pages/page-090.md)–[PDF 93](../../../pages/page-093.md)  
+**Date:** 18 November 1968
+
+Dear friend,
+
+The DMK is the camp of democracy.
+
+The DMK is the training ground that nurtures Tamil.
+
+The DMK is the pavilion of opposition to Hindi.
+
+The DMK is the threshold of equality.
+
+The DMK is the guide to good government.
+
+The DMK is the messenger of renaissance.
+
+The representatives of Chennai's students who assembled yesterday at Anbagam proclaimed these words.
+
+They spoke at length about the bond of affection that has linked the Kazhagam and the students over many long years, and about how those who tried to sever that bond in between had been identified. They also clearly exposed the true shape of the false calculation that students had gone over to Congress in great numbers.
+
+“While the memory of student hero Rajendran of Sivaganga, shot dead in his youth for proclaiming ‘Long live Tamil! Down with Hindi!’, remains engraved upon our hearts, who would believe that students are marching toward the Congress that carried out this tyranny of the gun?”
+
+When a student friend spoke with a melting heart, it seemed as though the voice of the student lion Rajendran itself echoed there.
+
+“Upon the soil of Mayuram, he set fire to his mango-hued body. Even while flesh and life burned in the flames, he sounded the trumpet call, ‘Let Tamil's fragrance rise from my ashes!’ Crying, ‘Mother Tamil, live! Hindi domination that comes to enslave us, fall!’, our precious Sarangapani went to his grave. Could student friends suddenly discover new love for Congressmen more cruel than fire, who kindled flames in his body and in our hearts? No! Never! A few who forever betray Tamil are over there. They continue to receive certain hidden support in the colleges. Our formation has not scattered. Our ranks have not broken. Our affection and love for our Anna and the other leaders of the Kazhagam have not diminished!”
+
+When that gathering of young lions declared this at Anbagam, the flood of emotion knew no bounds, friend, no bounds at all!
+
+You have often seen the emblem of the students' language revolution, fashioned in a form of uprising at the entrance to Anbagam:
+
+“One student, struck by a bullet. Another, holding him upright so he will not fall, gripping the flag in a hand overflowing with valour. A student lies upon the ground as blood pours from him. Even then, his eyes blossom toward the idealistic flag clutched firmly in his hand.”
+
+The reward given to students during the struggle to protect the language under Congress rule! A heroic memorial to the history of the student uprising!
+
+When the student lions who climbed to the upper floor of Anbagam saw that heroic emblem, their eyes became pools before they knew it. They turned all the love in their hearts into flowers and scattered them upon the monument.
+
+“Honourable Minister! We have come to explain the suffering Hindi domination will bring upon the country. Call us and speak to us!”
+
+When they made that request, did not the Congress ministers of that day roar in Mussolini's language, “Impossible! We cannot meet you!”, and beat and drive them away? Will the student community forget such arrogance?
+
+When some student friends spoke passionately in this way, sparks flew from every student's eyes.
+
+“The student community has not yet forgotten the words of Congress leaders who wounded every student by saying, ‘Students want to pass without studying.’”
+
+“It is true that, during the clash between bus workers and students in Chennai, they distorted ministers' statements and speeches and tried to create bitterness toward the Kazhagam Government among students. But their disguise was quickly stripped away.”
+
+“When Congress ruled, its ministers refused even to meet students involved in the anti-Hindi struggle. After the Kazhagam Government was formed, during the students' anti-Hindi agitation, Kazhagam ministers rushed to Central Station to calm them. For five days, day and night without sleep, Arignar Anna and the other ministers held discussions with student representatives.”
+
+Between the student friends' speeches surging with valour and their addresses overflowing with tears, explanations of events such as these were also presented.
+
+The Kazhagam Treasurer and Organising Secretary rejoiced at the undiminished enthusiasm of the student jewels. They were fulfilled by the unshaken hearts before which even mountains would seem small.
+
+The uprising deserves praise!
+
+The emotion deserves acclaim!
+
+The heart deserves blessing!
+
+But should all this not be ordered through a suitable organisation? The student jewels found the answer to that question too.
+
+That answer is:
+
+**Student DMK throughout the state.**
+
+Leaders explained why the student organisation, which had expanded with a proud stride under our dear comrade S. D. Somasundaram, had been unable to function organisationally for several years. To contact and renew those organisations in the various districts and create a statewide student DMK, an interim organising committee was established with Raja Mohammed as organiser. The committee has prepared a list of student friends for making contact in the districts.
+
+“The door of the locked iron cage has opened;
+
+O leopard, come out!”
+
+Hearing the revolutionary verse of Pavendhar and setting forth to act, the student formation,
+
+“Behold, the band
+
+of Tamil lions has set forth!”
+
+the student ranks that give living form to his heroic lines,
+
+have risen with a roar to renew their organisation!
+
+“Student friend, set forth and act like a tiger, making those who scorned you as a mouse tremble.”
+
+Let us too welcome and bless them.
+
+With affection,
+
+Maravan
+
+(18 November 1968)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 17. கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்!
+
+அன்பு நண்ப,
+
+தி. மு. க. ஜனநாயகத்தின் முகாம்.
+
+தி. மு. க. தமிழ் வளர்க்கும் பாசறை.
+
+தி. மு. க. இந்தி எதிர்ப்பின் கூடாரம்.
+
+தி. மு. க. சமத்துவத்தின் தாழ்வாரம்.
+
+தி. மு. க. நல்லாட்சியின் வழிகாட்டி.
+
+தி. மு. க. மறுமலர்ச்சியின் தூதுவன்.
+
+அன்பகத்தில் நேற்றுக் கூடிய சென்னை மாணவர்களின் பிரதிநிதிகள் மேற்கண்டவாறு முழங்கினர்.
+
+கழகத்திற்கும் மாணவர்களுக்கும் நீண்ட நெடு நாட்களாக இருந்துவரும் பாசப் பிணைப்பையும், அதனை இடையிலே அறுத்தெறிய முயன்ற சிலர் அடையாளம் கண்டு கொள்ளப்பட்டதையும் அவர்கள் விரிவாக விளக்கிப் பேசினர். காங்கிரசின் பக்கம் மாணவர்கள் தொகை தொகையாகப் போய்ச் சேர்ந்துவிட்டார்கள் என்ற தப்புக் கணக்கின் உண்மை உருவத்தையும் அவர்கள் படம் பிடித்துக் காட்டத் தவறவில்லை.
+
+“தமிழ் வாழ்க! இந்தி ஒழிக!-என்று முழங்கியதற்காகத் துடிக்கத் துடிக்கச் சுட்டுக் கொல்லப்பட்ட சிவகெங்கை மாணவ வீரன் ராஜேந்திரனின் நினைவு எங்கள் நெஞ்சில் பதிந்திருக்கும் போது துப்பாக்கித் துரைத்தனம் நடத்திய காங்கிரசை நோக்கி மாணவர்கள் அணி செல்கிறது என்பதை யார்தான் நம்புவார்கள்?”
+
+என்று உள்ளம் உருக ஒரு மாணவ நண்பர் பேசிய போது; மாணவச் சிங்கம் ராஜேந்திரனின் குரலே எதிரொலித்தது போலிருந்தது.
+
+“மாயூரம் மண்ணிலே, தன் மாம்பழ மேனிக்கு நெருப்பு வைத்துக் கொண்டு ஊனும் உயிரும் தீயிலே கருகிக் கொண்டிருந்த நேரத்திலும் ‘என் சாம்பலிலே தமிழ் மணக்கட்டும்’ என எக்காளக் குரல் கொடுத்து ‘அன்னைத் தமிழே! நீ வாழ்க! எங்களை அடிமை கொள்ள வரும் இந்தி ஆதிக்கமே! நீ வீழ்க!’ என்று ஒலித்தவாறு கல்லறைக்குச் சென்றானே; கண்மணி சாரங்கபாணி; அவன் உடலிலும் எங்கள் உள்ளத்திலும் நெருப்பு மூளக் காரணமாயிருந்த நெருப்பினுங் கொடிய காங்கிரசாரிடமா மாணவ நண்பர்களுக்குப் புதிய அன்பு பிறந்துவிடும்? இல்லை! இல்லவே இல்லை! என்றைக்கும் தமிழுக்குத் துரோகம் செய்யும் சிலர் அங்கே இருக்கிறார்கள். அவர்களுக்குக் கல்லூரியில் கிடைக்கும் சில மறைமுக ஆதரவுகள் கிடைத்துக் கொண்டு வருகின்றன. எங்கள் அணி சிதறவில்லை. எங்கள் வரிசை குலையவில்லை. எங்கள் அண்ணன் மீதும், கழகத்தின் ஏனைய தலைவர்கள் மீதும் நாங்கள் கொண்டுள்ள நேசமும் பாசமும் குறையவில்லை!”
+
+என்று அந்த இளஞ்சிங்கக் கூட்டம் அன்பகத்தில் அறிவித்தபோது ஏற்பட்ட உணர்ச்சிப் பிரவாகத்திற்கு அளவே இல்லை நண்பா; அளவேயில்லை!
+
+அன்பகத்தின் முகப்பிலே எழுச்சி வடிவிலே அமைக்கப்பட்டிருக்கும் மாணவர் மொழிப் புரட்சியின் அடையாளச் சின்னத்தை நீ பார்த்திருப்பாயே அடிக்கடி.
+
+“குண்டடிப்பட்டு ஒரு மாணவன்-அவனைக் கீழே விழாமல் தாங்கியவாறு வீரங் கொப்பளிக்கக் கையிலே கொடியைப் பிடித்தவாறு ஒரு மாணவன். ரத்தங் கொட்டக்கொட்டத் தரையிலே கிடக்கும் ஒரு மாணவன். அப்போதும் கரத்திலே அழுத்தமாகப் பிடித்திருக்கும் இலட்சியக் கொடி நோக்கி அவன் விழிகள் மலர்ந்திருக்கும் காட்சி”
+
+காங்கிரசாட்சியில், மொழி காக்க மூண்ட போரில் மாணவர்களுக்கு அவர்கள் அளித்த பரிசு! மாணவர் எழுச்சி வரலாற்றின் வீரமிக்க நினைவுச் சின்னம்!
+
+அன்பகத்து மாடியில் ஏறிவந்த மாணவச் சீயங்கள் அந்த வீரச் சின்னத்தைக் கண்டதும், தங்களையுமறியாமல் விழிகளைக் குளமாக்கிக் கொண்டார்கள். தங்களின் நெஞ்சத்து அன்பையெல்லாம் மலர்களாக்கி அந்தச் சின்னத்தின் மீது தூவினர்.
+
+“அமைச்சர் அவர்களே! இந்தி ஆதிக்கத்தால் நாட்டில் ஏற்படும் அல்லல் பற்றி எடுத்துரைக்க வந்துள்ளோம் அழைத்துப் பேசிடுக எம்மை!”
+
+எனக் கோரிக்கை விடுத்தபோது; “முடியாது! சந்திக்க முடியாது!” என்று முசோலினியின் மொழியில் கர்சித்து-அடித்து விரட்டினார்களே; அந்நாள் காங்கிரஸ் அமைச்சர்கள்! அந்த ஆணவப் போக்கை மாணவர் சமுதாயம் மறந்துவிடுமா?
+
+என்று சில மாணவ நண்பர்கள் ஆவேசமாகப் பேசிய போது கூடியிருந்த அத்தனை மாணவர் கண்களிலும் தீப்பொறி பறந்தது.
+
+“படிக்காமலே பாஸ் செய்திட மாணவர்கள் நினைக்கிறார்கள்” என்று கூறி எல்லா மாணவர்களையும் புண்படுத்திய காங்கிரஸ் தலைவர்களின் பேச்சை மாணவர் சமுதாயம் அதற்குள் மறந்து விடவில்லை.
+
+“சென்னையில் ஏற்பட்ட பஸ் தொழிலாளர் மாணவர் மோதுதலில், அமைச்சர்களின் அறிக்கைகளையும், பேச்சுக்களையும் திரித்துக் கூறி, மாணவர்களிடையே கழக அரசு பற்றிக் கசப்பு உணர்வை உருவாக்க முயன்றார்கள் என்பது உண்மை! ஆனால் அவர்கள் போட்ட வேஷம் விரைவிலே கலைக்கப்பட்டது.”
+
+“காங்கிரஸ் அரசாண்ட காலத்தில் இந்தி எதிர்ப்பில் ஈடுபட்ட மாணவர்களைச் சந்திக்கவே மறுத்தனர் மந்திரிகள். கழக அரசு உருவான பிறகு, மாணவர்கள் நடத்திய இந்தி எதிர்ப்புப் போரில்; மாணவர்களை அமைதிப்படுத்த கழக அமைச்சர்கள் சென்ட்ரல் ஸ்டேஷனுக்கே ஓடிவந்தனர். ஐந்து நாட்கள் இரவு பகல் கண் விழித்து மாணவப் பிரதிநிதிகளோடு அறிஞர் அண்ணா அவர்களும் மற்ற அமைச்சர்களும் விவாதித்தார்கள்.”
+
+மாணவ நண்பர்களின் வீரங் கொந்தளிக்கும் பேச்சுக்கிடையே, விழிநீர் கொப்பளிக்கும் சொற்பொழிவுக்கிடையே, இதுபோன்ற நிகழ்ச்சி விளக்கங்களும் எடுத்துக் காட்டப்பட்டன.
+
+கழகப் பொருளாளரும், அமைப்புச் செயலாளரும் மாணவ மணிகளின் குன்றா ஆர்வங் கண்டு மகிழ்ந்தனர். குன்றும் தோற்றிடும் அவர்கள் குலையாத உள்ளங்கண்டு பூரித்தனர்.
+
+எழுச்சி போற்றத் தக்கது!
+
+உணர்ச்சி பாராட்டத் தக்கது!
+
+உள்ளம் வாழ்த்தத் தக்கது!
+
+அனைத்தையும் தக்கதோர் அமைப்பின் வாயிலாக வகைப்படுத்திட வேண்டாமோ? என்ற கேள்விக் குறிக்கான விடையினையும் மாணவ மணிகள் கண்டனர்.
+
+அந்த விடைதான்;
+
+**மாநிலமெங்கும் மாணவர் தி. மு. க.**
+
+அருமைத் தோழர் எஸ்.டி. சோமசுந்தரம் அவர்கள் தலைமையில் வீறு நடை போட்டு விரிவடைந்திருந்த மாணவர் அமைப்பு, சில ஆண்டுகளாக அமைப்பு ரீதியில் செயல்பட முடியாமற் போய் விட்டதற்கான காரணங்களைத் தலைவர்கள் விளக்கினார்கள். பல்வேறு மாவட்டங்களிலுமுள்ள அந்த அமைப்புகளோடு தொடர்பு கொள்ளவும், புதுப்பிக்கவும் மாநில அளவில் மாணவர் தி.மு.க.வை உருவாக்கவும், ராஜாமுகமது அவர்களை அமைப்பாளராகக் கொண்டு, தற்காலிக அமைப்புக் குழு நிறுவப் பெற்றது. அந்தக் குழு, மாவட்டங்களில் தொடர்பு கொள்ள, மாணவ நண்பர்களின் பட்டியலைத் தயாரித்துள்ளது.
+
+“பூட்டிய இருப்புக் கூட்டின் கதவு திறக்கப்பட்டது
+
+சிறுத்தையே வெளியில் வா!”
+
+பாவேந்தரின் புரட்சிக் கவிகேட்டு, செயல் புரியக் கிளம்பிய மாணவர் அணி-
+
+“கிளம்பிற்றுக்காண்
+
+தமிழச் சிங்கக் கூட்டம்!”
+
+என்ற அவரது வீர வரிகளுக்கு இலக்கணமாய்த் திகழும் மாணவர் வரிசை-
+
+தன் அமைப்பினைப் புதுப்பித்துக்கொள்ள ஆர்த்தெழுந்து விட்டது!
+
+“மாணவ நண்பனே,
+
+எலியென உன்னை இகழ்ந்தவர் நடுங்கப் புலியெனச் செயல் செயப் புறப்படுவாய்” என, நாமும் வாழ்த்தி வரவேற்போம்.
+
+அன்புள்ள
+
+மறவன்
+
+(18-11-1968)
