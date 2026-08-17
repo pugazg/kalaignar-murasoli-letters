@@ -19,6 +19,6 @@ source_note: "A library ownership stamp appears over the title page and is not p
 தலைவர் கலைஞர்
 
 சீதை பதிப்பகம்,
-சென்னை-05. ☎ 97907 06549 / 97907 06548
+சென்னை-05. ☎ 97907 06549/97907 06548
 
 [நூலக உரிமை முத்திரை.]

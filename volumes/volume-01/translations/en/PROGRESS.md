@@ -5,5 +5,7 @@
 - Source-checked under current workflow: **0 / 110**
 - Bilingual-aligned under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
+- Tamil second visual/textual-fidelity verification: **in progress — PDF 001–025 / 401**
+- Fidelity report: [`TEXTUAL_FIDELITY_AUDIT_001_025.md`](TEXTUAL_FIDELITY_AUDIT_001_025.md)
 
-English work remains blocked until all canonical Tamil pages and required audit gates are complete.
+English work remains blocked while the required second visual/textual-fidelity gate is incomplete. No canonical English record was migrated, source-checked or verified in the PDF 001–025 fidelity activity.

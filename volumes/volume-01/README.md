@@ -45,8 +45,9 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Letter 0063 has **no date printed in the source**; no date is inferred.
 - Letters 0107–0110 are complete on PDF **384–400**. Letter 0110 closes on PDF 400 with `(01-12-1974)`; PDF 401 is a non-letter colour back cover / publisher advertisement.
 - Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md). The audit confirmed 401/401 page records, 110/110 chapter records, continuous letter coverage PDF 024–400, and no structural gaps or overlaps.
-- Second visual/textual-fidelity verification: **not started**.
-- English migration/alignment: **blocked** until the required second visual/textual-fidelity gate is complete.
+- Second visual/textual-fidelity verification: **in progress — PDF 001–025 / 401 complete**. The first range required scan-proven corrections on **8 canonical pages / 13 spans**. See [`translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md).
+- The first second-pass range restored a complete omitted paragraph on PDF 011, source `அய்ந்தாண்டுகள்` on PDF 012, source `முதல்வர்` forms on PDFs 015–017, source-tight `ஐ.ஏ.எஸ்.(ஓய்வு)` on PDF 017, and printed-contents `தேசீய` on PDF 018 / `contents/index.md`, together with smaller punctuation/spacing corrections documented in the range report.
+- English migration/alignment: **blocked** while the required second visual/textual-fidelity gate remains incomplete.
 
 ## Source identity
 
@@ -66,4 +67,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Begin the **second visual/textual-fidelity verification** at PDF **001** and continue systematically through PDF **401**, comparing every canonical Markdown page directly against the controlling scan and recording correction spans/audit reports as required. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration until this second visual/textual-fidelity gate is complete.
+Continue the **second visual/textual-fidelity verification with PDF 026–050**, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
