@@ -1,0 +1,138 @@
+---
+volume: 1
+letter_number: 39
+tamil_title: "“கோவை - ஒரு கனி! நீ ஒரு கிளி!”"
+english_title: "“Coimbatore Is a Fruit; You Are a Parrot!”"
+date: 1971-04-22
+source_pdf_page_start: 169
+source_pdf_page_end: 173
+source_printed_page_start: 169
+source_printed_page_end: 173
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0039.en.md"
+---
+
+# 39. “Coimbatore Is a Fruit; You Are a Parrot!”
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0039](../../../chapters/0039-kovai-oru-kani-nee-oru-kili.md)  
+**Source pages:** [PDF 169](../../../pages/page-169.md)–[PDF 173](../../../pages/page-173.md)  
+**Date:** 22 April 1971
+
+Udanpirappē!
+
+In accordance with General Secretary Navalar's announcement, the Kazhagam's Executive Committee and General Council will meet on the 24th and 25th of this month. After the great general election, you stand crowned with a magnificent victory, your chest held proudly high, and you are coming to the Executive Committee and General Council meetings. Those who asked, “Will a field planted by a little child ever yield a harvest that reaches home?” have been left astonished. Over twenty-two years, through the tears you shed, the sweat you poured and the blood you spilt, you transformed the Kazhagam into a paddy field where even a thorn planted in the soil would yield grain. My very life, is not that glory yours?
+
+Whenever you entered prison, I saw upon your blossoming face the happiness of a bridegroom entering the wedding chamber! When blows and kicks embraced your beautiful body, you cried out, “Anna! Anna!” and drove away the pain; I have praised to my heart's content that steadfast, diamond-like heart of yours.
+
+How many battlefields have you seen! How many! Were the victories you won ordinary ones? You and I alone may be ordinary people; our victories, our principles and our ideals are all finials upon a temple tower! Yet you and I are mere heaps of refuse. Even refuse has reason to rejoice when it becomes manure for a field, does it not? Who can prevent you and me from knowing that joy?
+
+Beloved comrade! During the election, amid tours conducted at lightning speed, I met you across the country. At the sea-like floods of people you brought together, I obeyed your command and completed my work. Only now, at the General Council, shall I see again your radiant face, made lustrous by fulfilment.
+
+You may come as a young man! You may come as one of middle age! You may come as an old man! What does it matter how you come? Valli smiled and embraced Murugan when she discovered that all who had appeared before her as the divine Velan, the hunter and the old man were Murugan himself. Just so, I shall wait at the General Council to gather you into my arms. For you come as the life-vein of the Kazhagam! You come striding erect like Senguttuvan returning victorious from the field! You come as the living embodiment of the Kural: “The warrior who hurls his hand-spear along with the elephant laughs as he plucks the spear lodged in his own body.”
+
+Had Anna been here, with betel reddening his mouth, would he not have called, “Thambi! Come!”? You and I have been denied that blessing! You may feel an emptiness in my invitation, but this invitation suffers no poverty of love. I pour that love like rain and call you. Through the victory flag you hold in your hand, you are showing the world that even a withered tree will sprout wherever your feet have touched!
+
+Have you seen where the General Council is meeting? There, smoke rises from the mills, does it not? It is meeting in the sacred city of Coimbatore, where smoke of hostility will likewise rise in the hearts of some opponents. Friend, how many agitations were launched there to destroy our Kazhagam and destabilise its government! Coimbatore is the city where the Kazhagam activist smashed to dust the steel fortress of the ruling elite: mill barons, landlords, pannaiyars and men of the old fort. Guns thundered during the election! They were not in the hands of the police; they were in the hands of your enemies!
+
+“Coimbatore district? The DMK will not win even four seats there,” declared the grandees, laughing in loud voices. Our General Council meets in the arena where you, the warrior, made them weep and beat the drum of victory.
+
+There are countless issues to discuss in the Executive Committee and General Council. Those who clamoured that they would snatch from our hands the government Anna established have been made to turn their backs and flee. Through your labour, you have created a powerful government in Tamil Nadu.
+
+People throughout India are setting pearls upon the crown of the Kazhagam's fame: they say the DMK is the “shade of hope” for four crore Tamil people; that our movement is the protective fortress of the poor and humble; and that this organisation is the weapon fit for the struggle to protect the Tamil language.
+
+If my words are examined, criticised or accepted in the political arena, are you not the rightful owner who gave strength to every letter of those words and sent them out into the world? Are you not the warrior of action who will take the trouble to think, string those words into resolutions, and guide the party through its headquarters and the country through its Cabinet so that good may be born?
+
+Anna was here and gave us an election manifesto. Standing in his path, we implemented most of it through the government. You are coming to Coimbatore to offer your views on the right path by which we may fulfil the promises made in this election and everything that remains from those made earlier.
+
+Our Members of Parliament have won the people's support and gone forth as victorious warriors, declaring that the Constitution must be amended so that an egalitarian society without high and low may be built to suit the scientific age. You will take part in the Executive Committee and General Council, the heart of the Kazhagam, and debate how they must work toward that end.
+
+Our election proclamation thunders that the Kazhagam regards resisting Hindi domination and honouring Tamil as among the very reasons for its birth. If Hindi advances with a pleasing gait, the valiant speeches you give to rally our army of uprising against it will become the spear and sword of righteous struggle in the hands of the Kazhagam leadership. Every frenzy of domination will be reduced to dust!
+
+The Fourth Plan must be revised so as to eliminate unemployment. Alongside large industries, small-industry development must be shaped to remove rural unemployment. Our election manifesto declared that the Kazhagam takes a vow to provide, step by step, better facilities for agricultural labourers who toil and pour out their sweat, for workers, for barbers and washermen struggling to practise their trades without adequate means, for all such poor and humble people, for those suffering at the bottom of society, and for the middle classes. Today, at the General Council, your ideas are sought on how the Kazhagam government may put that pledge into action.
+
+In the Assembly sessions just concluded, it was explained again and again how bitterly our Tamil State has been disappointed over the funds the Union government must provide. How many facilities are needed for the people to live! It is not the Kazhagam's policy to torment the poor and humble with taxes. Vast sums are still needed to remove grievances, attend to petitions and bring prosperity to Tamil Nadu. We need a way to secure them. We need your counsel for that!
+
+But whenever we ask, the Union government merely spreads its empty hands.
+
+All the fat taxes go there! Only lean purses return here!
+
+The Union government luxuriates in its concentration of power. Delhi possesses powers beyond the point of satiety! Those powers must be dispersed to the states, and strength must be added to our demand for state autonomy!
+
+Expecting so many forms of counsel from you, the General Council meets in Coimbatore.
+
+After the General Council there will be a procession, a reception and a victory celebration. Our Coimbatore friends, under the leadership of District Secretary Rajamanickam, are making splendid arrangements!
+
+Coimbatore is a fruit!
+
+You are a parrot!
+
+Come to taste it! Bring ideas rich in flavour!
+
+With affection,
+
+M. Karunanidhi
+
+(22 April 1971)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 39. “கோவை - ஒரு கனி! நீ ஒரு கிளி!”
+
+உடன்பிறப்பே!
+
+பொதுச் செயலாளர் நாவலரின் அறிக்கைக்கிணங்க இந்தத் திங்கள் 24 - 25 ஆகிய நாட்களில் கழகத்தின் செயற்குழுவும் பொதுக்குழுவும் கூடுகிறது. மாபெரும் பொதுத் தேர்தலுக்குப் பின் மகத்தான வெற்றிக் கிரீடத்தை அணிந்து கொண்டிருக்கிற நீ, மார்பினைக் கம்பீரமாக உயர்த்தியவாறு செயற்குழு, பொதுக்குழு கூட்டங்களுக்கு வர இருக்கிறாய். “சிறு பிள்ளையிட்ட வேளாண்மை வீடு வந்து சேருமா?” என்று கேட்டவர்கள், வியப்படையும் வண்ணம், இருபத்தி இரண்டு ஆண்டு காலத்தில் நீ வடித்த கண்ணீரில், வழித்தெறிந்த வியர்வையில், சிந்திய குருதியில் கழகத்தை முள் போட்டால் நெல் விளையும் கழனியாக ஆக்கிக் காட்டிய பெருமை; என் ஆருயிரே! உனக்கல்லவா உண்டு! மணவறைக்குச் செல்லும் மாப்பிள்ளையின் மகிழ்ச்சியை உன் மலர்ந்த முகத்தில் கண்டிருக்கிறேன்; நீ சிறைச்சாலைக்குள் சென்றபோதெல்லாம்! அடியும் உதையும் உன் அழகு மேனியை ஆலிங்கனம் செய்தபோது “அண்ணா! அண்ணா!” எனக் கூவியழைத்து வலியைத் துரத்திய உன் வைராக்கிய நெஞ்சத்தை நான் வாயார வாழ்த்தியிருக்கிறேன்.
+
+நீ கண்ட களங்கள் எத்தனை! எத்தனை! நீ பெற்ற வெற்றிகள் சாதாரணமானவைகளா? நீயும் நானுந்தான் சாதாரணமானவர்களே தவிர; நமது வெற்றிகள் - நமது கொள்கைகள் - நமது லட்சியங்கள் - அனைத்துமே கோபுரத்துக் கலசங்கள்! ஆனால், நானும் நீயும்; வெறும் குப்பைக் கூளங்கள்! வயலுக்கு உரமாகிறோம் என்பதிலே குப்பைக் கூளங்களுக்குக்கூட மகிழ்ச்சி உண்டல்லவா; அந்த மகிழ்ச்சி எனக்கும் உனக்கும் ஏற்படுவதை எவர்தான் தடுத்திட முடியும்?
+
+அன்புத் தோழ! தேர்தல் நேரத்தில் - மின்னல் வேகத்தில் நடைபெற்ற சுற்றுப்பயண நிகழ்ச்சிகளின்போது உன்னை நான் நாடெங்கும் சந்தித்தேன். நீ நடத்திக் காட்டிய கடல்பெருக்கு போன்ற கூட்டங்களில் உன் ஆணைக்குக் கட்டுப்பட்டு; என் பணியினைச் செய்து முடித்தேன். அதற்குப் பிறகு, பொதுக்குழுவில்தான் பூரிப்பால் பொலிவு பெற்றுள்ள உன் திருமுகத்தைக் காணப்போகிறேன்.
+
+நீ இளைஞனாக வருவாய்! நடுத்தர வயதினனாக வருவாய்! முதியோனாக வருவாய்! எப்படி வந்தால் என்ன; வேலனாக - வேடனாக - விருத்தனாக வந்தவனெல்லாம் முருகனாக இருந்தது கண்டு முறுவலித்துத் தழுவிக் கொண்ட வள்ளியைப் போலவே உன்னை அள்ளி அணைத்துக் கொள்ளப் பொதுக்குழுவில் காத்திருப்பேன். ஏனெனில், நீ கழகத்தின் உயிர்நாடியாக வருகிறாய்! களத்தில் வெற்றி கண்ட செங்குட்டுவனைப் போல் நிமிர் நடைபோட்டு வருகிறாய்! “கை வேல் களிற்றொடு போக்கி வருபவன், மெய்வேல் பறியா நகும்” என்ற குறளுக்கு உண்மைப் பொருளாக உருவெடுத்து வருகிறாய்!
+
+அண்ணன் இருந்தால்; “தம்பீ! வா!” என்று வாயில் வெற்றிலை குழைய உன்னை அழைத்திருப்பார்? நீயும் நானும் தான் அதற்குக் கொடுத்து வைக்காதவர்களாகி விட்டோமே! என் அழைப்பிலே; ஒரு வெறுமை தோன்றலாம் உனக்கு - ஆனால் இந்த அழைப்பில் அன்புக்கு வறுமையில்லை! அதனை மழையெனப் பொழிந்து உன்னை அழைக்கிறேன். உன் பாதம் பட்ட இடங்களில் பட்ட மரம் துளிர்க்கும் என்பதை நீ கையிலே பிடித்திருக்கும் வெற்றிக் கொடியின் மூலமாக உலகுக்கு உணர்த்திக் கொண்டிருக்கிறாய்!
+
+பொதுக்குழு, எங்கே கூடுகிறது பார்த்தாயா? அதோ ஆலையிலே புகை கிளம்புகிறதல்லவா; அதைப் போல மாற்றார் சிலரின் நெஞ்சில் பகைப்புகை கிளம்பிடும் கோவைத் திருநகரில் கூடுகிறது. அங்கேதான் நண்பா; நமது கழகத்தை அழிக்க - கழக அரசை நிலைகுலைக்க - எத்தனையோ கிளர்ச்சிகள்! ஆலை அரசர்கள்; நிலப் பிரபுக்கள்; பண்ணையார்கள்; பழைய கோட்டைக்காரர்கள்; இப்படி ஆதிக்கபுரியினரின் எஃகுக் கோட்டையைக் கழகத்தின் தொண்டன் தூள் தூளாக நொறுக்கிப் போட்ட இடம்; கோவை மாநகரம்! துப்பாக்கிகள் முழங்கின தேர்தல் நேரத்தில்! காவல் துறையினர் கையிலிருந்தவையல்ல அவை! உன் பகைவர்களின் கரங்களில் இருந்தவை!
+
+கோவை மாவட்டமா? அங்கு தி. மு. க. வுக்கு நாலு இடங்கள் கூட வராது - என உரத்த குரலெழுப்பிச் சிரித்துக் கொண்டிருந்த சீமான்களை அழ வைத்து வெற்றி முரசு கொட்டிய வீரர் கோட்டத்தில் நமது பொதுக்குழு கூடுகிறது.
+
+செயற்குழுவிலும் பொதுக்குழுவிலும் பேச இருக்கின்ற பிரச்சினைகள் ஏராளம். அண்ணன் அமைத்த அரசை நமது கையை விட்டுப் பறித்து விடுவோமென ஆர்ப்பரித்தவர்களைப் புறமுதுகிடச் செய்து வலிமைமிக்கத் தமிழக ஆட்சியை உன் உழைப்பால் உருவாக்கியிருக்கிறாய்.
+
+நாலு கோடித் தமிழ் மக்களின் “நம்பிக்கை நிழல்” தி. மு. கழகம் என்றும்; ஏழை எளியவர்களின் பாதுகாப்பு அரண் நமது இயக்கம்தான் என்றும்; தமிழ் மொழி காத்திடும் போருக்கேற்ற படைக்கலன் இந்த அமைப்புத்தான் என்றும் அனைத்திந்தியாவிலும் உள்ளோர், கழகத்தின் புகழ்முடியின் மீது முத்துக்களைப் பதிக்கின்றனர். என் வார்த்தைகள் அரசியல் அரங்கத்தில் ஆராயப்படுகின்றன - விமர்சிக்கப்படுகின்றன - அல்லது ஏற்றுக்கொள்ளப்படுகின்றன என்றால்; அந்த வார்த்தையின் ஒவ்வொரு எழுத்துக்கும் வலிமையளித்து உலவவிட்ட உரிமைக்காரன் நீயல்லவா? அந்த வார்த்தைகளைக் கோத்துத் தீர்மானங்களாக்கித் தலைமைக் கழக வாயிலாகக் கட்சிக்கும், அமைச்சரவை வாயிலாக நாட்டுக்கும் வழிகாட்டி நல்லன பிறந்திட சிரமமெடுத்துச் சிந்திக்கப்போகும் செயல் மறவனன்றோ நீ?
+
+அண்ணன் இருந்து தேர்தல் அறிக்கை தந்தார். அவர் வழி நின்று அதில் பெரும்பாலானவற்றை அரசின் சார்பில் நிறைவேற்றிக் காட்டினோம். இந்தத் தேர்தலில் நாம் அளித்துள்ள வாக்குறுதிகள், ஏற்கனவே அளித்தவைகளில் எஞ்சியிருப்பவை அனைத்தையும் நிறைவேற்ற எவ்வழி நல்வழி என்று கருத்துக்கள் கூறிட நீ வரப்போகிறாய்; கோவைக்கு!
+
+ஏற்றத்தாழ்வற்ற சமதர்ம சமுதாயம் விஞ்ஞான யுகத்திற்கேற்றவாறு அமைந்திட அரசியல் சட்டம் திருத்தப்பட வேண்டுமெனக் கூறி, நமது நாடாளுமன்ற உறுப்பினர்கள் மக்களின் ஆதரவைப் பெற்று வெற்றி வீரர்களாகச் சென்றிருக்கிறார்கள். அதற்கேற்ப அவர்கள் எவ்வாறு பணியாற்றிட வேண்டுமெனக் கட்டளையிடும் கழகத்தின் இதயமாம் செயற்குழு, பொதுக்குழுவில் நீ கலந்து கொண்டு விவாதிக்க இருக்கிறாய்.
+
+இந்தி ஆதிக்கத்தைத் தடுத்து நிறுத்துவதை, தமிழைப் போற்றுவதை, கழகம், தான் பிறவியெடுத்ததற்கான காரணங்களில் ஒன்றாகக் கருதுகிறது என நமது தேர்தல் பிரகடனம் முழங்குகிறது. இன்ப நடைபோட்டு இந்தி வந்தால் நமது எழுச்சிப் படை கூட்டி அதனை எதிர்க்க நீ தரும் வீர உரைகள் கழகத் தலைமைக்கு அறப்போர் வேலாகும் - வாளாகும்! ஆதிக்க வெறியனைத்தும் தூளாகும்!
+
+வேலையில்லாத் திண்டாட்டத்தைப் போக்கும் வகையில் நான்காவது திட்டம் திருத்தியமைக்கப்பட வேண்டுமென்பதும், பெரிய தொழில்களோடு சிறு தொழில் வளர்ச்சி கிராமப்புற வேலையில்லாத் திண்டாட்டத்தை நீக்கும் வகையில் அமைய வேண்டுமென்பதும், வியர்வை கொட்டப் பாடுபடும் விவசாயத் தொழிலாளர்கள், பாட்டாளிகள், வசதியற்ற நிலையில் தங்கள் தொழிலை நடத்தும் முடி திருத்துவோர்; சலவையாளர் இன்னோரன்ன ஏழை எளியவர்க்கும் சமுதாயத்தின் அடித்தளத்தில் அவதிப்படுவோருக்கும் நடுத்தர வர்க்கத்தினருக்கும் படிப்படியாக வசதிகளை அளிக்கக் கழகம் சபதம் ஏற்கிறது எனத் தேர்தல் அறிக்கையில் தெரிவித்ததை இன்று, கழக அரசு செயல்படுத்தும் வகையில் உன் யோசனைகள் வேண்டப்படுகின்றன பொதுக்குழுவில்!
+
+மத்திய அரசு வழங்க வேண்டிய நிதியைப் பொறுத்து நமது தமிழ் மாநிலம் எவ்வளவு ஏமாற்றத்துக்கு ஆளாகியிருக்கிறது என்பதை நடந்து முடிந்த சட்டமன்றக் கூட்டங்களில் எவ்வளவோ விளக்கப்பட்டிருக்கிறது. மக்கள் வாழ வசதிகள் எவ்வளவோ தேவை! வரிகளால் ஏழை எளியோரை வாட்டிடும் கொள்கை கழகத்தின் கொள்கையல்ல! குறைகள் களைய - முறையீடுகள் கவனிக்கப்பட - தமிழகம் வளம்பெற இன்னும் ஏராளமாகப் பணம் தேவை! அதற்கு வழி வகையும் தேவை! அதற்கு உன் ஆலோசனையும் தேவை!
+
+மத்திய அரசோ; கேட்கும் போதெல்லாம் கை விரிக்கிறது.
+
+கொழுத்த வரிகள் அனைத்தும் அங்கே போகிறது! இளைத்த பண முடிப்புக்களே இங்கே திரும்ப வருகின்றன!
+
+அதிகாரக் குவியலில் மத்திய அரசு திளைத்துக்கிடக்கிறது. தெவிட்டிப் போகிற அளவுக்கு டெல்லியிலே அதிகாரங்கள்! அவை மாநிலங்களுக்குப் பரவலாக்கப்பட நமது மாநில சுயாட்சிக் கோரிக்கைக்கு ஆக்கம் சேர்க்க வேண்டும்!
+
+இப்படி எத்தனையோ ஆலோசனைகளை உன்னிடம் எதிர்பார்த்துக் கோவையில் கூடுகிறது பொதுக்குழு.
+
+பொதுக்குழுவைத் தொடர்ந்து ஊர்வலம், வரவேற்பு, வெற்றிவிழாக் கூட்டம் - கோவை நண்பர்கள், மாவட்டச் செயலாளர் ராஜமாணிக்கம் தலைமையில் சீர்மிகு ஏற்பாடுகளைச் செய்கின்றனர்!
+
+கோவை ஒரு கனி!
+
+நீ ஒரு கிளி!
+
+சுவைத்திட வருவாய்! சுவைதரும் கருத்துக்களைத் தருவாய்!
+
+அன்புள்ள,
+
+மு. கருணாநிதி.
+
+(22-04-1971)
