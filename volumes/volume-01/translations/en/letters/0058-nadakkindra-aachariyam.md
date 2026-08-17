@@ -1,0 +1,136 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0058"
+date: 1973-05-29
+title_ta: "“நடக்கின்ற ஆச்சரியம்!”"
+title_en: "The Wonder Taking Place!"
+source_pdf_pages: [239, 240]
+source_printed_pages: [239, 240]
+source_chapter: "../../chapters/0058-nadakkindra-aachariyam.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0058 — “The Wonder Taking Place!”
+
+**Tamil title:** “நடக்கின்ற ஆச்சரியம்!”  
+**Date:** 29 May 1973  
+**Source:** PDF 239–240 / printed 239–240  
+**Canonical Tamil chapter:** [`0058-nadakkindra-aachariyam.md`](../../chapters/0058-nadakkindra-aachariyam.md)
+
+## English Translation
+
+Udanpirappē,
+
+Have you ever heard that Rasputin of Russia shed tears until his eyes grew dim for
+
+> the shoulders of tireless labour
+> that bring forth grain through long ploughing,
+> for the little village and its embanked fields,
+> and the good canal that stores the river's water?
+
+Have you at least read a story saying that the Tsar took the hands
+
+> that split stone and mountain
+> and fashioned every tool,
+
+kissed them and adorned them with rings?
+
+Has anyone told you that an inscription exists in Paris saying King Louis commissioned colourful poems praising
+
+> those who spilled blood upon this earth
+> to tend its painted gardens,
+
+and lavished prizes upon both those poets and the working people who were the heroes of their songs?
+
+Have you ever seen capitalists embrace and kiss the brow of a worker who pours sweat in the furnace and writhes like a worm in the flames?
+
+In any film, have you ever seen a glittering millionaire seated upon a golden, gem-studded cot, diamond earrings in his ears and precious-stone rings on his fingers, weeping aloud:
+
+> “Everything we see was made by the worker. Is poverty all he deserves to see, and patience all he deserves to wear?”
+
+Has anyone told you that monastic pontiffs, singing hymns of renunciation, opened their sacred mouths and proclaimed:
+
+> “Your labour is this country. Your breath is this society. Noble comrade who keeps the town alive! The whole world belongs to you!”
+
+Udanpirappē, my questions bewilder you, do they not?
+
+How could the Tsar, Rasputin, King Louis, religious establishments and pleasure-seekers reclining on perfumed beds ever have praised those who labour, those who toil until their bodies lose form, the working class, industrial workers and servants of the people?
+
+How astonishing! In a childhood lesson I read only the little story of the wolf flattering the lamb in order to kill it. I know you will look at me in amazement and ask: Rasputin? The Tsar? Praising the working class?
+
+Yet in this strange Tamil Nadu, even that has happened.
+
+One man used to ask which should come first, a DMK branch or a fan-club branch bearing his own name, and consistently gave first place to the fan club. Suddenly, he has shed tears for DMK workers.
+
+If this wonder can occur, why should the other wonders I described not have occurred?
+
+I shall write later about the relationship between him and the workers.
+
+With affection,
+
+M. K.
+
+29 May 1973
+
+## Original Tamil — மூலத் தமிழ்
+
+### 58. “நடக்கின்ற ஆச்சரியம்!”
+
+உடன்பிறப்பே,
+
+சிற்றூரும் வரப்பெடுத்த வயலும்
+
+ஆறு தேக்கிய நல் வாய்க்காலும்
+
+நெற்சேர உழுதுமுது பயன் விளைக்கும்
+
+நிறையுழைப்புத் தோள்களுக்காகக்
+
+கண்ணீர் விட்டுக் கண் கலங்கினான் ரஷ்ய நாட்டு ரஸ்புடீன் என்று நீ கேள்விப்பட்டிருக்கிறாயா?
+
+கற்பிளந்து மலை பிளந்து
+
+கருவியெலாம் செய்து தந்த
+
+கைகளை
+
+எடுத்து முத்தமிட்டு மோதிரம் அணிவித்தான் ஜார் அரசன் என்று கதையாவது படித்திருக்கிறாயா?
+
+சித்திரச் சோலைகளை நன்கு திருத்த
+
+இந்தப் பாரினிலே ரத்தம் சொரிந்தவர்களை
+
+வாழ்த்திப் பாராட்டிய வண்ணக் கவிதைகளைத் தீட்டச் செய்து, அந்தக் கவிஞர்களுக்கும், பாட்டுடைத் தலைவர்களாம் அந்தப் பாட்டாளி மக்களுக்கும் பரிசில் பல வழங்கினான் லூயி மன்னன் என்று பாரிஸ் நாட்டில் கல்வெட்டு ஏதாவது காணப்படுவதாக உனக்கு யாராவது கூறியிருக்கிறார்களா?
+
+உலைக்களத்தில் வியர்வை கொட்டி அனலிற் புழுவெனத் துடிக்கும் தொழிலாளியின் உடலை அணைத்து உச்சி மோந்த முதலாளிகளை நீ கண்டதுண்டா?
+
+“காண்பதெல்லாம் தொழிலாளி செய்தான், அவன் காணத்தகுந்தது வறுமையும் - பூணத் தகுந்தது பொறுமையுமா?” என்று காதிலே வைரக் குண்டலமும், கைவிரல்களிலே வைடூரியக் கணையாழிகளும், ஒளிவிடும் கனதனவான் கனக மணிக்கட்டிலில் இருந்தவாறு கதறியழுத காட்சியை எந்தத் திரைப்படத்திலாவது நீ காண நேரிட்டதுண்டா?
+
+“உன் உழைப்பன்றோ, இந்த நாடு. உன் மூச்சன்றோ இந்தச் சமுதாயம் - ஊரை வாழவைக்கும் உத்தமத் தோழனே! உனக்குத்தானே உலகமே சொந்தம்!” என்று பற்றற்றப் பதிகம் பாடும் பண்டார சந்நிதிகள் திருவாய் மலர்ந்தருளியதாக உன்னிடம் யாராவது தெரிவித்ததுண்டா?
+
+உடன்பிறப்பே, என் கேள்விகள் உன்னைத் திகைக்க வைக்கின்றன அல்லவா?
+
+உழைப்போரை, உருக்குலையப் பாடுபடுவோரை, பாட்டாளியை, தொழிலாளியை, தொண்டு புரிவோரை, ஜாரும் - ரஸ்புடீனும் - லூயி மன்னனும் - சந்நிதானங்களும் - சப்ரகூட மஞ்சத்து சுகவாசிகளும் - எப்படியப்பா பாராட்டியிருக்க முடியும்?
+
+ஆச்சரியமாயிருக்கிறதே! ஆட்டுக்குட்டியைக் கொல்வதற்காக இச்சகம் பேசியது ஓநாய் என்றுதான் பாலர் பாடத்தில் சிறுகதை படித்திருக்கிறேன் - ரஸ்புடீனாவது, ஜாராவது, உழைக்கும் வர்க்கத்தைப் புகழ்வதாவது என்று நீ என்னைப் பார்த்து வியப்புடன் கேட்பாய் என்று எனக்குத் தெரியும்.
+
+ஆனால், இந்த விசித்திரமான தமிழ் நாட்டில் அதுவும் நடந்திருக்கிறது.
+
+தி. மு. கழகக் கிளையா, அல்லது தன் பெயரால் உள்ள ரசிகர் மன்றக் கிளையா - எதற்கு முதலிடம் என்று கேட்டு, ரசிகர் மன்றத்திற்கே முதல் இடம் வழங்கிவந்த ஒருவர், திடீரென்று தி. மு. கழகத்தின் தொண்டர்களுக்காகக் கண்ணீர் வடித்திருக்கிறார்.
+
+இந்த ஆச்சரியம் நடக்கும்போது நான் சொன்ன ஆச்சரியங்கள் ஏன் நடந்திருக்கக் கூடாது?
+
+தொண்டர்களுக்கும் அவருக்கும் உள்ள தொடர்பைப் பிறகு எழுதுகிறேன்.
+
+அன்புள்ள,
+
+மு. க.
+
+(29-05-1973)
