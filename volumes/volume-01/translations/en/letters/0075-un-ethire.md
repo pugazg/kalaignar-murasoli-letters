@@ -1,0 +1,97 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0075"
+date: 1973-12-18
+title_ta: "உன் எதிரே!"
+title_en: "Before You!"
+source_pdf_pages: [285, 286]
+source_printed_pages: [285, 286]
+source_chapter: "../../chapters/0075-un-ethire.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0075 — Before You!
+
+**Tamil title:** உன் எதிரே!  
+**Date:** 18 December 1973  
+**Source:** PDF 285–286 / printed 285–286  
+**Canonical Tamil chapter:** [`0075-un-ethire.md`](../../chapters/0075-un-ethire.md)
+
+## Translator's Note
+
+Kalaignar addresses the party worker directly and affectionately, celebrating fundraising gatherings in Madurai, Ramanathapuram, Tiruchirappalli, Salem and Namakkal for the Anna Arivalayam. The repeated “you” is both an individual cadre and the collective rank and file: the one who reunites estranged comrades, works through rain and fatigue, gathers funds and fills public meetings. Kalaignar's praise rises into a declaration that falsehood, betrayal and intimidation will crumble before such commitment.
+
+`Udanpirappē` is retained because no single English substitute carries the equality, affection, shared identity and movement solidarity Kalaignar gives the form of address. The final lineated exhortations and source date are preserved in the canonical Tamil.
+
+## English Translation
+
+Udanpirappē,
+
+I saw you at Madurai railway station. You stood there as a flame of emotion. Poets would say that the roar you raised there deserves to be compared with the battle cry of the army of the Pandya king Nedunchezhiyan, victor of the battle at Thalaiyalanganam.
+
+That morning at the Tamukkam auditorium, I was captivated by the radiance of your face. On seeing the greatness of your pure service, all those who had parted from us gathered there once more!
+
+I swell with pride whenever I think of the affection with which you brought them back into the Kazhagam, and of the political civility Anna taught us. When I received the one lakh gold-bright coins you had run from place to place to collect for the Anna Arivalayam fund, my heart became a sailboat leaping into an ocean of joy.
+
+My precious one, who portrayed through your eyes the resolve of Madurai's soil and the valour of that ancient city, I salute you!
+
+In Ramanathapuram district too, you showed your full-moon face. Even when dark clouds gathered and heavy rain poured, you resolved that you would not stop the Kazhagam's work. What reward could I possibly give for that resolve and for the labour you performed?
+
+When you offered more than one lakh and twenty thousand rupees to the Arivalayam, I felt as though I should lift those beautiful hands that had rendered such noble service and press them to my eyes. May your labour triumph! Triumph!
+
+In Tiruchirappalli, there was a little weariness in your continuing work. Yet you bore even the somewhat stern words I spoke to drive away that weariness, and you smiled, my precious one! Is that not the affection of our family, which no one can ever divide?
+
+On the rock at Namakkal in Salem, you stood as the summit of our Kazhagam. I shall never forget it. The one lakh and thirty thousand rupees you gave was not the greater thing! You seated hundreds of thousands of Tamil people before me and, showing every tooth in a jasmine-white smile, seemed to say, “Have you seen Salem's distinction?”
+
+Udanpirappē! Breath of my life! As long as your resolve and labour endure, what can anyone do to this Kazhagam created by Anna? Before you, mountains of falsehood will be ground to dust!
+
+Betrayal will become dust! Intimidation itself will now flee in fear at the sight of you!
+
+You are the strength of the Kazhagam!
+
+You are the guardian of Anna's principles!
+
+You are death to the enemy that roars against us!
+
+Live long! Triumph!
+
+With affection,
+
+M. K.
+
+18 December 1973
+
+## Original Tamil — மூலத் தமிழ்
+
+# 75. உன் எதிரே!
+
+உடன் பிறப்பே,
+
+மதுரைப் புகைவண்டி நிலையத்தில் உன்னைக் கண்டேன். உணர்ச்சிப் பிழம்பாகக் காட்சி அளித்தாய். அங்கு நீ எழுப்பிய ஒலி முழக்கம், தலையாலங்கானத்துச் செருவென்ற நெடுஞ்செழிய பாண்டியனின் படை முழக்கத்தோடு ஒப்பிட்டுப் புகழ வேண்டிய ஒன்று என்றுதான் புலவர்கள் கூறுவர். அன்று காலையில் தமுக்கம் கலையரங்கில் உன் சுடர் முகம் கண்டு நான் சொக்கிப் போனேன். உன் தூய தொண்டின் மேன்மை கண்டு, பிரிந்தவர் எல்லாம் கூடினரே அங்கு!
+
+அவர்களை நீ கழகத்திற்குள் மீண்டும் அழைத்துக் கொண்ட அந்தப் பாச உணர்வை, அண்ணன் கற்றுத் தந்த அரசியல் நாகரிகத்தை எண்ணி எண்ணிப் பூரிக்கிறேன். நீ ஓடி ஓடிச் சேர்த்த ஒரு லட்சம் வெண் பொற் காசுகளை அண்ணா அறிவாலய நிதியாகப் பெற்றுக் கொண்டபோது என் இதயம் மகிழ்ச்சிக் கடலில் பாய்மரப் படகாயிற்று. மதுரை மண்ணின் உறுதியை, அந்தப் பழம்பெரும் பதியின் வீரத்தை விழிகளால் எழுதிக் காட்டிய என் தங்கமே! உன்னை வாழ்த்துகிறேன். முகவை மாவட்டத்திலும் உன் முழுநிலா முகத்தைக் காட்டினாய். கார்முகில் கூடி கடுமழை பொழிந்தாலும் கழகப் பணியை நிறுத்த மாட்டேன் என்று நீ எடுத்துக் கொண்ட உறுதிக்கும், ஆற்றிய பணிக்கும் என்னதான் பரிசு கொடுக்கமுடியும்? ஒரு லட்சத்து இருபதாயிரத்துக்கு மேற்பட்ட தொகையை, அறிவாலயத்திற்கு நீ காணிக்கையாக வழங்கியபோது அருந்தொண்டாற்றிய உன் அழகிய கைகளை எடுத்துக் கண்ணிலே ஒத்திக் கொள்ளலாம் போல் இருந்தது. உன் உழைப்பு வெல்க! வெல்க! என்று வாழ்த்துகிறேன். திருச்சியிலே உன் தொடர்பணியிலே சிறிது சோர்வு! அந்தச் சோர்வு போக்க நான் சற்றுக் கடுமையாகக் கூறிய சொற்களையும் பொறுத்துக் கொண்டு புன்னகை புரிந்தாயே; கண்மணி! அதுதானே யாராலும் பிரிக்க முடியாத நமது குடும்ப பாசம்!
+
+சேலத்து நாமக்கல் பாறையில் நீ நமது கழகத்தின் சிகரமாக நின்றாயே. அதை நான் என்றைக்கும் மறக்க மாட்டேன். ஒரு லட்சத்து முப்பதாயிர ரூபாய் நீ வழங்கியது பெரிதல்ல! லட்சக் கணக்கான தமிழ்ப் பெருங்குடி மக்களை என் எதிரே அமர வைத்து, “பார்த்தாயா சேலத்துச் சிறப்பை!” என்று பல் எல்லாம் முல்லையாகச் சிரித்துக் காட்டினாயே; உடன்பிறப்பே! என் உயிரின் மூச்சே! உன் நெஞ்சுறுதியும் உழைப்பும் உள்ளவரையில் அண்ணன் உருவாக்கிய இந்தக் கழகத்தை யார் என்ன செய்ய முடியும்? உன் எதிரே பொய்மலைகள் பொடிப் பொடியாகும்!
+
+துரோகம் தூளாகும்! மிரட்டல், இனி உன்னைக்கண்டு மிரண்டோடும்!
+
+கழகத்தின் சக்தி நீ!
+
+அண்ணன் கொள்கைக்குக் காவல் நீ!
+
+ஆர்த்திடும் பகைக்குக் காலன் நீ!
+
+நீ வாழ்க! வெல்க!
+
+அன்புள்ள,
+
+மு. க.
+
+(18-12-1973)
