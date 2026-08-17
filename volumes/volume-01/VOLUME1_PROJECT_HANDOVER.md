@@ -68,62 +68,64 @@ Do not restart Tamil migration, structural audit, or the completed full-volume f
 
 ## Active English migration gate
 
-Canonical English migration is now the active gate.
+Canonical English migration/source checking is now complete through:
 
-Previously completed and source-checked canonical English range:
+- **0001–0080 / 110**
 
-- **0001–0070 / 110**
+The ten-letter batch **0071–0080** is closed and documented in:
 
-In the current session, canonical English records **0071–0075** were additionally created/source-checked on `main`:
+`volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md`
 
-- 0071 — `காலக் கருவூலம்!` / *A Treasury of Time!* — PDF 277–278
-- 0072 — `ஒன்று சொல்க!` / *Tell Them One Thing!* — PDF 279–280
-- 0073 — `புன்னகையும் பெருமூச்சும்!` / *A Smile and a Sigh!* — PDF 281–282
-- 0074 — `குறள் மறவோம்!` / *Let Us Not Forget the Kural!* — PDF 283–284
-- 0075 — `உன் எதிரே!` / *Before You!* — PDF 285–286
+All canonical English records through 0080 are `source-checked`, not `verified`. They include the full canonical Tamil witness. Bilingual alignment and editorial consistency remain later gates.
 
-These records use the verified canonical Tamil and preserved legacy English as migration evidence. They retain Kalaignar's thought order, rhetoric and political language and include the Tamil witness in the canonical bilingual record.
+The completed 0071–0080 batch includes:
 
-At this handover boundary, **0076–0080 have not yet been canonically migrated**. A batch-level `SOURCE_CHECK_0071_0080.md` has also not yet been created, and `PROGRESS.md` still records the prior completed batch boundary of 0070. The next window must finish 0076–0080 and only then close/synchronise the 0071–0080 batch.
-
-## Exact next activity
-
-Continue canonical English migration with **letters 0076–0080**:
-
+- 0071 — `காலக் கருவூலம்!` — PDF 277–278
+- 0072 — `ஒன்று சொல்க!` — PDF 279–280
+- 0073 — `புன்னகையும் பெருமூச்சும்!` — PDF 281–282
+- 0074 — `குறள் மறவோம்!` — PDF 283–284
+- 0075 — `உன் எதிரே!` — PDF 285–286
 - 0076 — `தட்டிக் கேட்கலாமா?` — PDF 287–288
 - 0077 — `பெரியாரின் வெற்றி!` — PDF 289–290
 - 0078 — `நம்மை வென்றாரா?` — PDF 291–292
 - 0079 — `இருபதாயிரம் பாடி வீடுகள்!` — PDF 293–295
 - 0080 — `கொள்கை மலர்கள்` — PDF 296–297
 
+Important semantic/source decisions in the just-closed batch:
+
+- 0076 retains the three-sons analogy and Sixth Finance Commission argument.
+- 0077 retains the mother/child analogy and the distinction between Periyar's objective and method.
+- 0078 retains the self-critical caste turn and the question whether Periyar has truly won over those who profess agreement.
+- 0079 retains `பாடி வீடுகள்` as a martial camps metaphor rather than neutralising it into administrative offices; PDF 294 controls `அறை கூவல்`, `நியாய நெஞ்சும்` and `வலிப்பு நோய் ஆவான்...`.
+- 0080 retains the `கொள்கை மலர்கள்` / victory-garland image for Anna; PDF 297 controls `தன்னலமற்ற-கண்ணயராத`.
+
+## Exact next activity
+
+Continue canonical English migration/source checking with **letters 0081–0090**:
+
+- 0081 — `தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!` — PDF 298–300
+- 0082 — `பொங்கல் உறுதி!` — PDF 301
+- 0083 — `காண வருகிறேன் உன்னை!` — PDF 302–304
+- 0084 — `‘தொய்வு இல்லை! தொடர்க பயணம்!’` — PDF 305–307
+- 0085 — `“எல்லா மலர்களும் ரோஜா மலர்களே!”` — PDF 308–309
+- 0086 — `மே தின வாழ்த்து!` — PDF 310–312
+- 0087 — `‘நமது நிலை’!` — PDF 313–315
+- 0088 — `என் பிறந்த நாளில்...!` — PDF 316–318
+- 0089 — `“மறவாதே!”` — PDF 319–321
+- 0090 — `கோடையிலே...!` — PDF 322–325
+
 For each record:
 
-1. treat verified canonical Tamil pages/chapters and the controlling scan as authoritative;
-2. use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l00xx.en.md` only as a reusable draft/evidence;
-3. source-check for omissions, mistranslations, OCR-derived errors, title/date errors, rhetorical flattening and altered political terminology;
+1. treat the verified canonical Tamil pages/chapters and controlling scan as authoritative;
+2. use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l00xx.en.md` only as reusable draft/evidence;
+3. source-check for omissions, mistranslations, OCR-derived errors, title/date errors, rhetorical flattening, altered metaphors and political-language drift;
 4. preserve Kalaignar's voice, thought order, repetition, metaphors and movement vocabulary;
-5. retain `Udanpirappē` where established by the project convention;
-6. include the full canonical Tamil witness in the bilingual canonical record;
-7. mark `translation_status: source-checked` and `quality_controls.source_checked: true` only after the check;
-8. leave `bilingual_alignment_checked: false` and `editorial_consistency_checked: false` at this gate.
+5. retain `Udanpirappē` where established by project convention;
+6. include the full canonical Tamil witness;
+7. use `translation_status: source-checked`, `quality_controls.source_checked: true`, `quality_controls.full_tamil_included: true`;
+8. leave `bilingual_alignment_checked: false` and `editorial_consistency_checked: false`.
 
-After 0076–0080 are complete:
-
-- create `volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md` covering the full ten-letter batch;
-- update `PROGRESS.md` from 70 to **80 / 110** only after all ten records are confirmed present/source-checked;
-- update `AUDIT.md`, Volume 1 `README.md`, translation indexes/manifests if the established previous batches require them, and root status only where the repository's current conventions require it;
-- inspect current `main` before every write so concurrent work is not overwritten;
-- commit coherent changes directly to `main`.
-
-## Important source notes in this batch
-
-- 0071 contains an English medicine ingredient list and mixed Tamil-English forms; preserve source-supported forms.
-- 0072 contains Bharathidasan verse; preserve source-controlled verse structure and rhetoric.
-- 0074 closes with a Thirukkural; preserve the Tamil couplet and translate for meaning without replacing the source witness.
-- 0076 is built around the three-sons / Sixth Finance Commission analogy.
-- 0077 and 0078 are consecutive reflections on Periyar; do not flatten their distinct arguments.
-- 0079 uses `பாடி வீடுகள்` as a martial metaphor for branch organisations/camps; preserve the governing metaphor rather than neutralising it.
-- 0080 uses the closing `கொள்கை மலர்கள்` / flowers-of-principle image.
+After 0081–0090 are complete, create `SOURCE_CHECK_0081_0090.md`, update tracking to **90 / 110**, and identify 0091–0100 as the next source-check batch.
 
 ## Gates still blocked
 

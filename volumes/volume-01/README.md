@@ -8,9 +8,9 @@
 
 ## Migration status
 
-Volume 1 was previously processed by a different workflow under [`../volume-1/`](../volume-1/). That legacy corpus contains 110 bilingual records and audit material. It is being preserved unchanged while a canonical later-volume structure is built here.
+Volume 1 was previously processed by a different workflow under [`../volume-1/`](../volume-1/). That legacy corpus contains 110 bilingual records and audit material. It is preserved unchanged while the canonical later-volume structure and source-checked English records are built here.
 
-The supplied `Vol1.pdf` is the controlling source for this migration. Existing Tamil reading copies and English translations are reusable evidence/drafts, but they do not override the scan.
+The supplied `Vol1.pdf` is the controlling source for this migration. Existing Tamil reading copies and English translations are reusable evidence/drafts, but they do not override the scan or the verified canonical Tamil.
 
 ## Volume 1 batch override
 
@@ -49,7 +49,8 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
 - Final letter-text range [`376–400`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) required corrections on **5 pages / 5 spans**, restoring the scan-bold opening salutations for letters 0106–0110 on PDFs 380, 384, 388, 392 and 396. The non-letter [`PDF 401`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md) back cover required no canonical correction.
 - Letters **0001–0110** have complete second-pass source-page coverage.
-- English migration/alignment: **unblocked and not yet started canonically**. Legacy bilingual records remain drafts/evidence only and must be checked against the verified canonical Tamil/source scan.
+- Canonical English migration/source check: **0001–0080 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md) and [`translations/en/SOURCE_CHECK_0071_0080.md`](translations/en/SOURCE_CHECK_0071_0080.md).
+- Canonical English records remain **source-checked, not verified**. Bilingual alignment, volume-level editorial consistency review and final release work remain later gates.
 
 ## Source identity
 
@@ -69,4 +70,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Begin **legacy English record migration and source checking** for canonical Volume 1. Use the 110 preserved bilingual records under `../volume-1/` only as drafts/evidence. The verified canonical Tamil pages and controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric, political language and source-specific terminology; do not silently normalize or infer.
+Migrate and source-check canonical English letters **0081–0090** as the next Volume 1 ten-letter batch. Use the 110 preserved bilingual records under `../volume-1/` only as reusable drafts/evidence. The verified canonical Tamil pages and controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric, political language, metaphors and movement vocabulary; do not silently normalise or infer. Do not begin bilingual alignment until canonical English source checking reaches **110 / 110**.

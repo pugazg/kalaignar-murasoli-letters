@@ -1,12 +1,12 @@
 # Volume 1 — English Migration Progress
 
 - Legacy bilingual records available: **110 / 110**
-- Canonically migrated English records: **70 / 110**
-- Source-checked under current workflow: **70 / 110**
+- Canonically migrated English records: **80 / 110**
+- Source-checked under current workflow: **80 / 110**
 - Bilingual-aligned under current workflow: **0 / 110**
 - Verified under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
-- Completed canonical English range: **0001–0070**
+- Completed canonical English range: **0001–0080**
 - Tamil structural audit: **PASS — complete**
 - Tamil full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
 - Cumulative scan-proven Tamil corrections: **159 canonical pages / 274 spans**
@@ -18,6 +18,7 @@
   - [`SOURCE_CHECK_0041_0050.md`](SOURCE_CHECK_0041_0050.md)
   - [`SOURCE_CHECK_0051_0060.md`](SOURCE_CHECK_0051_0060.md)
   - [`SOURCE_CHECK_0061_0070.md`](SOURCE_CHECK_0061_0070.md)
+  - [`SOURCE_CHECK_0071_0080.md`](SOURCE_CHECK_0071_0080.md)
 
 ## Canonical English batches completed
 
@@ -47,12 +48,20 @@ The sixth regular ten-letter batch was migrated and source-checked across PDF / 
 
 ### Letters 0061–0070
 
-The seventh regular ten-letter batch is now migrated and source-checked across PDF / printed pages **250–276**. It preserves the correspondence-based “proper reckoning” argument in 0061; the deliberately impossible news satire in 0062; the Harishchandra/rattle/cadre argument in undated 0063; the C. Subramaniam office-renunciation satire in 0064; the membership drive and organisational metaphors in 0065; Anna's last-letter/state-autonomy argument in 0066; the political allegory in 0067; Bharathidasan's stamp and “right to neigh” argument in 0068; the Veera Vanchi/Maniyachi appeal in 0069; and the student/judicial-inquiry argument in 0070.
+The seventh regular ten-letter batch is migrated and source-checked across PDF / printed pages **250–276**. It preserves the correspondence-based “proper reckoning” argument in 0061; the deliberately impossible news satire in 0062; the Harishchandra/rattle/cadre argument in undated 0063; the C. Subramaniam office-renunciation satire in 0064; the membership drive and organisational metaphors in 0065; Anna's last-letter/state-autonomy argument in 0066; the political allegory in 0067; Bharathidasan's stamp and “right to neigh” argument in 0068; the Veera Vanchi/Maniyachi appeal in 0069; and the student/judicial-inquiry argument in 0070.
 
 Source-specific controls include PDF 252 **`என் நெஞ்சும் கல்லாகவில்லை!`** in 0061; no inferred date for 0063; source punctuation `போடுபவர்கள்.-` in 0067; scan-controlled Bharathidasan verse hyphenation, **`எழுச்சிமிகு`** and **`“கனைக்கும் உரிமை”`** in 0068; PDF 274 **`இலாக்காக்களில்`** in 0069; and the printed English judicial quotation reproduced verbatim in 0070.
 
-All canonical English records through 0070 remain `source-checked`; none is promoted to `verified` until the separate bilingual-alignment review is completed.
+### Letters 0071–0080
+
+The eighth regular ten-letter English batch is migrated and source-checked across PDF / printed pages **277–297**. It preserves the mixed Tamil-English Time Capsule argument in 0071, Bharathidasan verse in 0072, the smile/sigh contrast in 0073, the closing Thirukkural in 0074, and the cadre-centred fundraising praise in 0075.
+
+For the second half of the batch, 0076 retains the three-sons / Sixth Finance Commission structure; 0077 preserves the mother/child analogy and the distinction between Periyar's objective and method; 0078 preserves the self-critical question of caste in everyday conduct; 0079 retains `பாடி வீடுகள்` as a martial image for branch camps and preserves the blood-vessel, convulsive-disease, fortress, hand-lamp and soldier imagery; and 0080 closes with the `கொள்கை மலர்கள்` / victory-garland image for Anna.
+
+Scan-controlled source forms carried into the full Tamil witnesses include PDF 294 **`அறை கூவல்`**, **`நியாய நெஞ்சும்`** and **`வலிப்பு நோய் ஆவான்...`**, and PDF 297 **`தன்னலமற்ற-கண்ணயராத`**.
+
+All canonical English records through 0080 remain `source-checked`; none is promoted to `verified` until the separate bilingual-alignment review is completed.
 
 ## Exact next task
 
-Migrate and source-check letters **0071–0080** as the next Volume 1 ten-letter English batch. Preserve the legacy bilingual tree unchanged and use it only as draft evidence; verified canonical Tamil and `Vol1.pdf` remain authoritative.
+Migrate and source-check letters **0081–0090** as the next Volume 1 ten-letter English batch. Preserve the legacy bilingual tree unchanged and use it only as draft evidence; verified canonical Tamil and `Vol1.pdf` remain authoritative. Keep bilingual alignment, editorial consistency review and final release work blocked until canonical English source checking reaches **110 / 110**.

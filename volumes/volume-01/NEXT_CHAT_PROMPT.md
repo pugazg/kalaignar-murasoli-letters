@@ -52,29 +52,26 @@ Tamil Volume 1 is complete:
 
 Do not restart Tamil migration, structural audit or full-volume fidelity verification.
 
-Canonical English source-check migration was complete through **0070 / 110** before the latest session.
-
-The latest session additionally created/source-checked canonical English records **0071–0075**. Treat those as completed unless current `main` proves otherwise. Do not redo them.
-
-`PROGRESS.md` may still show 0070 because the ten-letter 0071–0080 batch has not yet been closed. `SOURCE_CHECK_0071_0080.md` does not yet exist at the handover boundary.
+Canonical English source-check migration is complete through **0080 / 110**. The closed ten-letter batch **0071–0080** is documented in `volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md`.
 
 ## EXACT NEXT ACTIVITY
 
-Complete the remaining half of the current English batch: **letters 0076–0080**.
+Migrate and source-check **letters 0081–0090**:
 
-- 0076 — `தட்டிக் கேட்கலாமா?` — PDF 287–288
-- 0077 — `பெரியாரின் வெற்றி!` — PDF 289–290
-- 0078 — `நம்மை வென்றாரா?` — PDF 291–292
-- 0079 — `இருபதாயிரம் பாடி வீடுகள்!` — PDF 293–295
-- 0080 — `கொள்கை மலர்கள்` — PDF 296–297
+- 0081 — `தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!` — PDF 298–300
+- 0082 — `பொங்கல் உறுதி!` — PDF 301
+- 0083 — `காண வருகிறேன் உன்னை!` — PDF 302–304
+- 0084 — `‘தொய்வு இல்லை! தொடர்க பயணம்!’` — PDF 305–307
+- 0085 — `“எல்லா மலர்களும் ரோஜா மலர்களே!”` — PDF 308–309
+- 0086 — `மே தின வாழ்த்து!` — PDF 310–312
+- 0087 — `‘நமது நிலை’!` — PDF 313–315
+- 0088 — `என் பிறந்த நாளில்...!` — PDF 316–318
+- 0089 — `“மறவாதே!”` — PDF 319–321
+- 0090 — `கோடையிலே...!` — PDF 322–325
 
-Use the corresponding legacy English records under:
+Use corresponding legacy English records under `volumes/volume-1/translations/en/letters/` only as reusable drafts/evidence. The verified canonical Tamil and controlling scan are authoritative.
 
-`volumes/volume-1/translations/en/letters/`
-
-only as reusable drafts/evidence. The verified canonical Tamil and controlling scan are authoritative.
-
-For every letter, source-check the English against the canonical Tamil for omissions, mistranslations, OCR-derived errors, title/date errors, altered metaphors, rhetorical flattening and political-language drift. Preserve Kalaignar's language, thought order, repetition, imagery and movement vocabulary. Retain `Udanpirappē` under the established project convention. Include the full canonical Tamil witness in each canonical bilingual record.
+For every letter, source-check for omissions, mistranslations, OCR-derived errors, title/date errors, altered metaphors, rhetorical flattening and political-language drift. Preserve Kalaignar's language, thought order, repetition, imagery and movement vocabulary. Retain `Udanpirappē` under the established project convention. Include the full canonical Tamil witness.
 
 At this gate use:
 
@@ -86,29 +83,21 @@ At this gate use:
 
 Do not mark any record `verified` yet.
 
-Important semantic cautions:
+## BATCH CLOSURE AFTER 0090
 
-- 0076: retain the three-sons analogy and its Sixth Finance Commission argument.
-- 0077: retain Kalaignar's mother/child analogy and the distinction between Periyar's objective and methods.
-- 0078: retain the self-critical turn — the question is whether Periyar has truly won over those who profess agreement while caste remains embedded in everyday conduct.
-- 0079: `பாடி வீடுகள்` is a governing martial metaphor for the movement's branch organisations/camps; do not neutralise it into merely administrative offices.
-- 0080: preserve the closing image of office-bearers as `கொள்கை மலர்கள்`, gathered into a victory garland for Anna.
+Only after all canonical English records **0081–0090** are confirmed present and source-checked:
 
-## BATCH CLOSURE AFTER 0080
-
-Only after all canonical English records **0071–0080** are confirmed present and source-checked:
-
-1. create `volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md`;
-2. update `PROGRESS.md` to **80 / 110** canonical English records/source-checked;
-3. synchronise `AUDIT.md`, Volume 1 `README.md`, translation indexes/manifests and root status where current repository conventions require it;
-4. verify all ten files 0071–0080 have `full_tamil_included: true` and the later-gate flags remain false;
+1. create `volumes/volume-01/translations/en/SOURCE_CHECK_0081_0090.md`;
+2. update progress to **90 / 110** canonical English records/source-checked;
+3. synchronise Volume 1 tracking and root status where current conventions require it;
+4. verify all ten files have `full_tamil_included: true` and later-gate flags remain false;
 5. commit coherent changes directly to `main`.
 
 ## DO NOT START YET
 
 Do not begin:
 
-- letters 0081 onward until the 0071–0080 batch is properly closed;
+- letters 0091 onward until the 0081–0090 batch is properly closed;
 - bilingual alignment;
 - volume-level editorial consistency review;
 - final translation manifest/release report;
