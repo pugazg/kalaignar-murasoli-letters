@@ -20,7 +20,7 @@
 - [x] Eighth regular ten-letter batch: letters 0097–0106 / PDF 345–383
 - [x] Final documented residue: letters 0107–0110 / PDF 384–400, plus non-letter back cover PDF 401
 - [x] Full-volume Tamil structural audit
-- [ ] Second visual/textual-fidelity verification — **in progress; PDF 001–025 / 401 complete**
+- [ ] Second visual/textual-fidelity verification — **in progress; PDF 001–050 / 401 complete**
 - [ ] Legacy English record migration and source checking
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
@@ -35,15 +35,15 @@
 - Partial canonical letter: **none**
 - Canonical letter coverage: **PDF 024–400**; PDF 401 is non-letter back cover
 - Full-volume Tamil structural audit: **PASS — complete**; report: [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md)
-- Second visual/textual-fidelity verification: **in progress — PDF 001–025 / 401 complete**
-- First fidelity range report: [`translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
-- PDF 001–025 required scan-proven corrections on **8 canonical pages / 13 spans**
-- The most substantial first-range correction restored a complete scan-visible paragraph omitted from PDF 011 during the first pass
-- PDF 012 now preserves the foreword's source form `அய்ந்தாண்டுகள்`, while the actual letter on PDF 024 independently preserves `ஐந்தாண்டுகள்`
-- PDFs 015–017 restore source `முதல்வர்` forms; PDF 017 also restores `ஐ.ஏ.எஸ்.(ஓய்வு)`
-- PDF 018 and `contents/index.md` restore printed contents entry 8's `தேசீய` form
-- The structural audit confirmed exactly one canonical page record for PDF 001–401 and exactly 110 numbered canonical chapter records, with continuous letter coverage PDF 024–400 and no gap or overlap
-- Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
+- Second visual/textual-fidelity verification: **in progress — PDF 001–050 / 401 complete**
+- Fidelity reports:
+  - [`translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md)
+  - [`translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md)
+- Cumulative second-pass corrections: **9 canonical pages / 14 spans**
+- PDF 026–050 required one scan-proven correction on **PDF 030 / 1 span**: the omitted source words `என்பதை இந்த ஆண்டு காண்கிறோம்` and the source quotation boundary were restored in Kamarajar's Deepavali statement
+- Letters **0001–0006** are now fully second-pass fidelity-cleared; letter **0007** is checked only through PDF 050 and continues beyond this range
+- The first fidelity range restored a complete scan-visible paragraph omitted from PDF 011, source `அய்ந்தாண்டுகள்` on PDF 012, source `முதல்வர்` forms on PDFs 015–017, source-tight `ஐ.ஏ.எஸ்.(ஓய்வு)` on PDF 017, and printed-contents `தேசீய` on PDF 018 / `contents/index.md`
+- Source-pagination anomaly remains correctly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
 - Printed-contents wording remains literal where it differs from actual heading pages; letter 0109 contents `அவள் ஒரு தொடற்கதை!` differs from actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
@@ -51,4 +51,4 @@
 
 ## Exact next task
 
-Continue the **second visual/textual-fidelity verification with PDF 026–050**, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus untouched. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
+Continue the **second visual/textual-fidelity verification with PDF 051–075**, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus untouched. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
