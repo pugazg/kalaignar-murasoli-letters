@@ -8,41 +8,39 @@ Work on `main`.
 
 ## Active work
 
-Canonical migration of **Murasoli Letters — Volume 1** into:
+Canonical migration/release preparation of **Murasoli Letters — Volume 1** under:
 
 `volumes/volume-01/`
 
-The earlier tree:
+Legacy preserved tree:
 
 `volumes/volume-1/`
 
-contains the legacy 110 bilingual records. It must remain preserved and unchanged unless a later, explicitly authorised migration gate requires work there.
+The legacy tree contains 110 bilingual records and remains preserved as migration evidence. Do not rewrite it.
 
 ## Controlling source
 
-The controlling source is the supplied **`Vol1.pdf` scan**.
-
-Repository intake records:
+The supplied **`Vol1.pdf` scan** is authoritative for this edition.
 
 - SHA-256: `02eda7e7bb74d6d611351319ea87bc7761df6e9c5e73cc28883940b62d1fc6df`
 - size: 244,892,260 bytes
 - PDF pages: 401
-- printed pages stated by publisher: 400
+- publisher-stated printed pages: 400
 - edition: first edition, 2022
 - publisher: Seethai Pathippagam
 - usable searchable text layer: none
 
-The scan controls all canonical Tamil transcription and metadata decisions.
+Do not commit the PDF.
 
-## Mandatory startup for a new chat
+## Mandatory startup in a new window
 
-Before making any change, read these files completely:
+Before making any repository change, read completely:
 
 1. `VOLUME_PROCESSING_GUIDE.md`
 2. `TRANSCRIPTION_GUIDE.md`
 3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
 4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
-5. `PROJECT_HANDOVER.md`
+5. root `PROJECT_HANDOVER.md`
 6. `volumes/volume-01/VOLUME1_MIGRATION_GUIDELINES.md`
 7. `volumes/volume-01/VOLUME1_PROJECT_HANDOVER.md`
 8. `volumes/volume-01/README.md`
@@ -50,113 +48,90 @@ Before making any change, read these files completely:
 10. `volumes/volume-01/AUDIT.md`
 11. `volumes/volume-01/metadata.yml`
 12. `volumes/volume-01/chapters/README.md`
+13. all existing `volumes/volume-01/translations/en/SOURCE_CHECK_*.md` reports
 
-Then inspect the current `main` state and verify that no later Volume 1 work has already been committed.
+Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or older status paragraphs.
 
-## Current canonical status
+## Completed Tamil gates — do not restart
 
-As of the handover creation point:
+Volume 1 Tamil work is complete:
 
-- canonical PDF pages: **89 / 401**
-- canonical coverage: **PDF 001–089**
-- printed contents captured: **110 / 110 entries**
-- canonically complete letters: **16 / 110**
-- completed letter range: **0001–0016**
-- partial canonical letter: **none**
-- canonical letter-body coverage: **PDF 024–089**
-- legacy bilingual records preserved: **110 / 110**
-- canonically migrated/verified English records: **0 / 110**
-- full-volume Tamil structural audit: not started
-- second visual/textual-fidelity verification: not started
-- English migration/alignment: blocked
+- canonical Tamil migration: **401 / 401 PDF pages**
+- letters: **110 / 110** (`0001–0110`)
+- full-volume structural audit: **PASS**
+- second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
+- second-pass corrections: **159 canonical pages / 274 spans**
+- PDF 401 is a non-letter back cover
+- legacy bilingual records remain **110 / 110** under `volumes/volume-1/`
 
-The latest completed migration commit before these handover documents was:
+Do not restart Tamil migration, structural audit, or the completed full-volume fidelity pass.
 
-`e4e4a8f43581e3eeede3979dba0e8482610efce6` — `Complete Volume 1 ten-letter migration batch 0007-0016`
+## Active English migration gate
 
-## Completed work
+Canonical English migration is now the active gate.
 
-### Initial intake and front matter
+Previously completed and source-checked canonical English range:
 
-- canonical `volumes/volume-01/` scaffold created;
-- PDF 001–025 first-pass reviewed;
-- front matter and publisher matter migrated;
-- printed contents PDF 018–023 transcribed with all 110 entries;
-- Letter 0001 correctly started at PDF 024 and completed through PDF 027.
+- **0001–0070 / 110**
 
-### Initial regular batch
+In the current session, canonical English records **0071–0075** were additionally created/source-checked on `main`:
 
-Letters **0002–0006** migrated from PDF **028–047**.
+- 0071 — `காலக் கருவூலம்!` / *A Treasury of Time!* — PDF 277–278
+- 0072 — `ஒன்று சொல்க!` / *Tell Them One Thing!* — PDF 279–280
+- 0073 — `புன்னகையும் பெருமூச்சும்!` / *A Smile and a Sigh!* — PDF 281–282
+- 0074 — `குறள் மறவோம்!` / *Let Us Not Forget the Kural!* — PDF 283–284
+- 0075 — `உன் எதிரே!` / *Before You!* — PDF 285–286
 
-### Volume 1 batching override
+These records use the verified canonical Tamil and preserved legacy English as migration evidence. They retain Kalaignar's thought order, rhetoric and political language and include the Tamil witness in the canonical bilingual record.
 
-The user explicitly instructed that **Volume 1 alone uses 10 letters per regular iteration**. That rule is now recorded in `VOLUME1_MIGRATION_GUIDELINES.md`, `PROGRESS.md` and `AUDIT.md`.
+At this handover boundary, **0076–0080 have not yet been canonically migrated**. A batch-level `SOURCE_CHECK_0071_0080.md` has also not yet been created, and `PROGRESS.md` still records the prior completed batch boundary of 0070. The next window must finish 0076–0080 and only then close/synchronise the 0071–0080 batch.
 
-### First 10-letter batch
+## Exact next activity
 
-Letters **0007–0016** migrated from PDF **048–089**:
+Continue canonical English migration with **letters 0076–0080**:
 
-- 0007 — `தோற்ற முயலே! முன்போல சுறுசுறுப்பாக இரு!` — PDF 048–053 — 31-10-1968
-- 0008 — `“தீராதி தீரர்- தேசீய மகிபர்- பராக்! பராக்!”` — PDF 054–057 — printed `(31-10-68)`
-- 0009 — `வீரனே! வெற்றி என்றைக்கும் உன் பக்கம்தான்!` — PDF 058–062 — 01-11-1968
-- 0010 — `பாவி கெடுத்தானே; பலே சாப்பாட்டை!` — PDF 063–066 — 02-11-1968
-- 0011 — `தென்றல்- தெம்பாங்கு- தேன்கீதம்!` — PDF 067–069 — 06-11-1968
-- 0012 — `“பூப்போட்ட கிளாசிலே போட்டய்யா ஒண்ணரை!”` — PDF 070–072 — 07-11-1968
-- 0013 — `மேயர் தேர்தல் நேரம் - நிலை - நேர்த்தியான முடிவு!` — PDF 073–077 — 09-11-1968
-- 0014 — `‘பகைமரம்’ தழைக்க விடோம்!` — PDF 078–081 — 11-11-1968
-- 0015 — `நம்பிக்கையில்லாத் தீர்மானம் - நாடாளுமன்ற நிகழ்ச்சி!` — PDF 082–085 — 14-11-1968
-- 0016 — `யார் அந்த உணவு அமைச்சர்?` — PDF 086–089 — 16-11-1968
+- 0076 — `தட்டிக் கேட்கலாமா?` — PDF 287–288
+- 0077 — `பெரியாரின் வெற்றி!` — PDF 289–290
+- 0078 — `நம்மை வென்றாரா?` — PDF 291–292
+- 0079 — `இருபதாயிரம் பாடி வீடுகள்!` — PDF 293–295
+- 0080 — `கொள்கை மலர்கள்` — PDF 296–297
 
-All 42 PDF pages in this batch were represented by canonical page files and all ten start/end boundaries were visually checked.
+For each record:
 
-## Known source/migration notes
+1. treat verified canonical Tamil pages/chapters and the controlling scan as authoritative;
+2. use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l00xx.en.md` only as a reusable draft/evidence;
+3. source-check for omissions, mistranslations, OCR-derived errors, title/date errors, rhetorical flattening and altered political terminology;
+4. preserve Kalaignar's voice, thought order, repetition, metaphors and movement vocabulary;
+5. retain `Udanpirappē` where established by the project convention;
+6. include the full canonical Tamil witness in the bilingual canonical record;
+7. mark `translation_status: source-checked` and `quality_controls.source_checked: true` only after the check;
+8. leave `bilingual_alignment_checked: false` and `editorial_consistency_checked: false` at this gate.
 
-1. **Printed page 39 anomaly:** PDF 039 visibly prints page 38 and PDF 040 prints page 40, while the text continues normally. Treat this as a source pagination anomaly, not a missing-text gap.
-2. **Letter 0008 shortened date:** closing page prints `(31-10-68)`; preserve it at page level.
-3. **Contents versus heading variants:** actual letter heading pages control canonical titles where they differ from contents entries.
-4. Legacy Tamil/English may assist migration, but may never silently override the scan.
-5. Do not commit the source PDF.
+After 0076–0080 are complete:
 
-## Exact next task
+- create `volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md` covering the full ten-letter batch;
+- update `PROGRESS.md` from 70 to **80 / 110** only after all ten records are confirmed present/source-checked;
+- update `AUDIT.md`, Volume 1 `README.md`, translation indexes/manifests if the established previous batches require them, and root status only where the repository's current conventions require it;
+- inspect current `main` before every write so concurrent work is not overwritten;
+- commit coherent changes directly to `main`.
 
-Begin at **PDF 090**, which visibly starts:
+## Important source notes in this batch
 
-**0017 — `கிளம்பிற்றுக்காண் தமிழச் சிங்கக் கூட்டம்!`**
+- 0071 contains an English medicine ingredient list and mixed Tamil-English forms; preserve source-supported forms.
+- 0072 contains Bharathidasan verse; preserve source-controlled verse structure and rhetoric.
+- 0074 closes with a Thirukkural; preserve the Tamil couplet and translate for meaning without replacing the source witness.
+- 0076 is built around the three-sons / Sixth Finance Commission analogy.
+- 0077 and 0078 are consecutive reflections on Periyar; do not flatten their distinct arguments.
+- 0079 uses `பாடி வீடுகள்` as a martial metaphor for branch organisations/camps; preserve the governing metaphor rather than neutralising it.
+- 0080 uses the closing `கொள்கை மலர்கள்` / flowers-of-principle image.
 
-Process exactly **10 complete consecutive letters: 0017–0026**.
+## Gates still blocked
 
-For each letter:
+Do **not** begin yet:
 
-- inspect every scan page directly;
-- create one canonical Markdown page per PDF page;
-- preserve scan-supported Tamil wording and punctuation;
-- verify heading, salutation, closing/sign-off and date;
-- create/update the corresponding chapter record;
-- keep the legacy `volumes/volume-1/` corpus untouched.
-
-After completing letter 0026, inspect only enough of the following PDF page to confirm where letter 0027 begins. **Do not commit any text from letter 0027.**
-
-Then synchronise:
-
-- `chapters/README.md`
-- `metadata.yml`
-- `README.md`
-- `PROGRESS.md`
-- `AUDIT.md`
-- root `README.md` Volume 01 status row
-
-and commit the complete 10-letter iteration to `main`.
-
-## Gates that remain blocked
-
-Do not begin these yet:
-
-- full-volume Tamil structural audit;
-- second visual/textual-fidelity verification;
-- canonical English migration/source checking;
 - bilingual alignment;
-- editorial consistency review;
-- translation manifest;
-- final release report.
+- volume-level editorial consistency review;
+- final translation manifest/release report;
+- final release declaration.
 
-Those follow only after the canonical Tamil page migration reaches 401/401 and the repository-level workflow permits them.
+Those begin only after all **110 / 110** canonical English records have completed the source-check migration gate.
