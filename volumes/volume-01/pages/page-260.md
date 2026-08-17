@@ -12,7 +12,7 @@ source_note: "Letter 0064 begins here; opening quotation and source wording reta
 
 # 64. பதவி-துறவி!
 
-உடன்பிறப்பே,
+**உடன்பிறப்பே,**
 
 “பதவியைக் காப்பாற்றிக் கொள்ளவே கள்ளுக்கடைகளை மூடுகிறார்கள்”
 
