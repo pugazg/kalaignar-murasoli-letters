@@ -117,4 +117,4 @@ Source: printed contents on PDF **018–023** / printed pages **17–22**. Title
 
 ## Canonical migration note
 
-Only letter 0001 has a visually verified canonical start in the new structure so far. Later chapter/PDF boundaries will be promoted from printed-content hints/legacy evidence only after direct scan verification.
+All **110** canonical letter start/end boundaries are now scan-verified and represented by the numbered chapter records `0001`–`0110`. This table remains a literal transcription of the printed contents: contents-page wording is not silently changed when an actual heading page differs. The canonical chapter title follows the actual scan heading, including the documented variants for 0008, 0012, 0024 and 0109. The completed mapping is checked in [`../FULL_VOLUME_STRUCTURAL_AUDIT.md`](../FULL_VOLUME_STRUCTURAL_AUDIT.md).

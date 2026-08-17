@@ -33,8 +33,9 @@ source_incomplete_letter_count: 0
 source_missing_printed_pages: []
 source_printed_pagination_anomalies:
   - "PDF 39 prints page 38; PDF 40 prints page 40. Printed page number 39 is skipped, but text is continuous across the boundary."
-audit_status: "volume-01-final-residue-0107-0110-complete"
+audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-17
+structural_audit_report: "FULL_VOLUME_STRUCTURAL_AUDIT.md"
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
 textual_fidelity_audit_reports: []
@@ -54,8 +55,12 @@ source_observations:
   - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
   - "Letter 1 begins at PDF page 24 / printed page 23 and closes at PDF page 27 / printed page 26 with sign-off and date."
   - "Letters 2-110 are visually boundary-verified and canonically migrated through PDF page 400; PDF 401 is non-letter back cover."
+  - "The full-volume structural audit confirms exactly 401 sequential canonical page records, page-001.md through page-401.md, with no page-record gap or duplicate."
+  - "The full-volume structural audit confirms exactly 110 numbered canonical chapter records, 0001 through 0110, with contiguous letter coverage PDF 024-400 and no range gap or overlap."
+  - "All 110 printed-contents entries map by letter number to canonical chapter records. Printed contents wording remains literal; actual heading pages control canonical titles where wording differs."
+  - "Confirmed contents/actual-heading variants include letters 8, 12, 24 and 109; PDF 392 prints அவள் ஒரு தொடர்கதை! while the contents prints அவள் ஒரு தொடற்கதை!."
   - "The source visibly skips printed page number 39 between PDF pages 39 and 40, but the text is continuous; no missing content is inferred."
-  - "Actual page heading controls over contents variants; letters 8, 12 and 24 demonstrate this rule."
+  - "Actual page heading controls over contents variants; letters 8, 12, 24 and 109 demonstrate this rule."
   - "PDF page 95 contains deliberate censored ellipses; they are preserved without reconstruction."
   - "PDF page 99 contains scan-visible passages absent from the legacy reading copy; the canonical transcription follows the scan."
   - "PDF page 101 contains a library stamp and handwritten accession/notation marks; these are non-authorial and omitted."
@@ -115,5 +120,6 @@ source_observations:
   - "PDF pages 392-395 preserve letter 109's film analogy, decorative ∵ epithet lists, the opaque printed form நமப்பார்வதி பதேக்கள்! without reconstruction, source-bold final analogy, and the 24-11-1974 closure."
   - "PDF pages 396-400 preserve letter 110's Malaya / Sambasivam history, the long quoted 1949 கயிற்றில் தொங்கிய கணபதி passage, source lineation, the four-exclamation தமிழகமே!!!! form, and the 01-12-1974 closure."
   - "PDF page 401 is the colour back cover with Kalaignar portrait, 1924 - 2018, publisher contact block, QR code, GO 2300 and ரூ.300; it contains no letter text."
-  - "All 110 canonical letters are now first-pass complete; the full-volume Tamil structural audit and second visual/textual-fidelity verification remain pending."
+  - "The full-volume Tamil structural audit passed. It corrected stale migration-status notes in contents/index.md and chapters/README.md; no canonical Tamil page body or letter metadata required correction."
+  - "Second visual/textual-fidelity verification remains pending, so canonical English migration remains blocked."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."

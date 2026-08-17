@@ -40,13 +40,13 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Canonically complete letters: **0001–0110 (110 / 110)**.
 - Partial canonical letter: **none**.
 - Source pagination note: PDF 039 prints **38**, while PDF 040 prints **40**; text is continuous, so printed number 39 is treated as a source pagination anomaly, not missing content.
-- Actual heading variants are preserved where they differ from contents entries, including letters 0008, 0012 and 0024.
+- Actual heading variants are preserved where they differ from contents entries, including letters 0008, 0012, 0024 and 0109. For 0109, the contents prints `அவள் ஒரு தொடற்கதை!`, while PDF 392 actually heads the letter `அவள் ஒரு தொடர்கதை!`.
 - Batch-specific source observations for 0097–0106 are recorded in [`BATCH_0097_0106_AUDIT.md`](BATCH_0097_0106_AUDIT.md), and the final 0107–0110 residue / source ending is recorded in [`BATCH_0107_0110_AUDIT.md`](BATCH_0107_0110_AUDIT.md); earlier migration observations remain in [`AUDIT.md`](AUDIT.md).
 - Letter 0063 has **no date printed in the source**; no date is inferred.
 - Letters 0107–0110 are complete on PDF **384–400**. Letter 0110 closes on PDF 400 with `(01-12-1974)`; PDF 401 is a non-letter colour back cover / publisher advertisement.
-- Full-volume Tamil structural audit: **ready to begin; 401/401 canonical page files now exist**.
+- Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md). The audit confirmed 401/401 page records, 110/110 chapter records, continuous letter coverage PDF 024–400, and no structural gaps or overlaps.
 - Second visual/textual-fidelity verification: **not started**.
-- English migration/alignment: **blocked** until the canonical Tamil volume and required audit gates are complete.
+- English migration/alignment: **blocked** until the required second visual/textual-fidelity gate is complete.
 
 ## Source identity
 
@@ -66,4 +66,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Run the **full-volume Tamil structural audit** across canonical PDF pages **001–401** and letters **0001–0110**. Verify continuous canonical page coverage, all 110 printed contents entries against canonical chapter records, every letter start/end boundary, titles, dates, the undated letter 0063, the printed-page-39 pagination anomaly, and the non-letter PDF 401 back cover. Keep the legacy bilingual corpus unchanged. Do not begin English migration until the structural audit and required second visual/textual-fidelity gate are complete.
+Begin the **second visual/textual-fidelity verification** at PDF **001** and continue systematically through PDF **401**, comparing every canonical Markdown page directly against the controlling scan and recording correction spans/audit reports as required. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration until this second visual/textual-fidelity gate is complete.

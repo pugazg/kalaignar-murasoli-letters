@@ -115,11 +115,11 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0109 | அவள் ஒரு தொடர்கதை! | 1974-11-24 | 392–395 | complete |
 | 0110 | கயிற்றில் தொங்கிய கணபதி! | 1974-12-01 | 396–400 | complete |
 
-The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
+All **110** printed-contents records are mapped to the canonical chapter records `0001`–`0110`, and all canonical start/end boundaries are now scan-verified. Printed contents remain preserved separately and are not allowed to override a differing actual heading page. The completed mapping and contiguous PDF coverage are checked in [`../FULL_VOLUME_STRUCTURAL_AUDIT.md`](../FULL_VOLUME_STRUCTURAL_AUDIT.md).
 
 Source-pagination note: the scan visibly jumps from printed page **38** on PDF 039 to printed page **40** on PDF 040 while the sentence continues without a gap. The missing printed number 39 is therefore preserved as a pagination anomaly, not treated as missing source text.
 
-Actual letter headings control over contents-page variants. This matters for letters 0008, 0012 and 0024; letter 0024's actual heading-page form is `ஆழ்வப் பிறவி`.
+Actual letter headings control over contents-page variants. This matters for letters 0008, 0012, 0024 and 0109; letter 0024's actual heading-page form is `ஆழ்வப் பிறவி`, and PDF 392 prints 0109 as `அவள் ஒரு தொடர்கதை!` while the contents gives `அவள் ஒரு தொடற்கதை!`.
 
 Letter 0028 closes on PDF 131 with the source-printed date **28-12-1968**; that date controls over the conflicting legacy metadata value.
 
