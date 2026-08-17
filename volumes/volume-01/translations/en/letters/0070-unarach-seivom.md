@@ -1,0 +1,99 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0070"
+date: 1973-12-11
+title_ta: "உணரச் செய்வோம்!"
+title_en: "Let Us Explain!"
+source_pdf_pages: [275, 276]
+source_printed_pages: [275, 276]
+source_chapter: "../../chapters/0070-unarach-seivom.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0070 — Let Us Explain!
+
+**Tamil title:** உணரச் செய்வோம்!  
+**Date:** 11 December 1973  
+**Source:** PDF 275–276 / printed 275–276  
+**Canonical Tamil chapter:** [`0070-unarach-seivom.md`](../../chapters/0070-unarach-seivom.md)
+
+## Translator's Note
+
+Kalaignar answers former Chief Minister M. Bhaktavatsalam and other Congress leaders who had newly presented themselves as defenders of students. He recalls the repression of the anti-Hindi agitation and distinguishes his cautious initial statement about the death of Annamalai University student Udayakumar from the later judicial finding. The inquiry's English sentence is retained verbatim, including its original punctuation and syntax, because Kalaignar cites the official wording as evidence.
+
+## English Translation
+
+Udanpirappē,
+
+For some reason, the elder Bhaktavatsalam bears a feeling of vengeance toward me. He acts as though I transported him four hundred miles in a police lorry, confined him in solitary imprisonment at Palayamkottai, and he now burns to take revenge upon me for it.
+
+Never mind. A sudden love for our dear students has arisen within him and comes surging in waves. Is it only he? When student lives were taken one by one, ten by ten and a hundred at a time during the anti-Hindi agitation, Kamaraj, then Congress leader, did not even turn to look toward Tamil Nadu. The “new devotee” who has now set out on behalf of students thought the beaches on this side dangerous and ran away to hide on the beaches of Goa.
+
+Many young students today may not know these facts. It is our duty to remind them and explain the situation.
+
+When doubts arise in connection with important incidents, a judicial inquiry is arranged to determine on which side the wrong occurred. The country knows that, unlike the previous Congress governments, this government has instituted judicial inquiries.
+
+I never said that the person who fell into the water and died in the incident at Annamalai University was not Udayakumar.
+
+I said only that there was doubt and that it was impossible to state with certainty who it was. It was in consequence of that doubt that the judicial inquiry was arranged.
+
+The judge who conducted the inquiry recorded:
+
+> “That the dead body found, in the reservoir is in all probability that of Udayakumar, but he did not die due to police excess and that he should have died as a result of drowning only on the night of 23rd July 1971”
+
+Whether in the Palai incident or the Clive Hostel incident, the Kazhagam government instituted judicial inquiries precisely to discover the truth. On the basis of the details revealed by those inquiries, action was taken against the officials concerned.
+
+What more do those who incite students say must be done? Forgetting what they did when they ruled, they speak without conscience. Is that fair?
+
+Inventing something I never said merely because they must say something, then speaking it, writing it and issuing statements about it, has become utterly commonplace in today's politics.
+
+Udanpirappē, they expect that if a lie is proclaimed loudly enough, it will become truth. With falsehood as their instrument, they conspire to bring down a government. They do not realise that our Kazhagam stands upright, chest raised, ready to bear their arrows. Poor fellows!
+
+With affection,
+
+M. K.
+
+11 December 1973
+
+## Original Tamil — மூலத் தமிழ்
+
+# 70. உணரச் செய்வோம்!
+
+உடன்பிறப்பே,
+
+பெரியவர் பக்தவத்சலம் அவர்களுக்கு என்மீது ஏனோ ஒரு பழிவாங்கும் உணர்ச்சி. நான் என்னமோ அவரை நானூறு மைல்கள் போலீஸ் லாரியில் கொண்டுபோய்ப் பாளையங்கோட்டைத் தனிமைச் சிறையில் அடைத்தது போலவும், அதற்காக அவர் என்னைப் பழிவாங்கத் துடிப்பது போலவும் காணப்படுகிறார்.
+
+பரவாயில்லை. மாணவக் கண்மணிகள் மீது அவருக்குத் திடீரென ஒரு ஆசை பிறந்து அலை மோதுகிறது. அவருக்கு மட்டுமா? இந்தி எதிர்ப்புப் போரின்போது மாணவர்களின் உயிர் ஒன்று, பத்து, நூறாகப் பறிக்கப்பட்ட போது காங்கிரஸ் தலைவராக இருந்த காமராஜர், தமிழ்நாட்டுப் பக்கமே திரும்பிப் பார்க்கவில்லை. மாணவர்களுக்காகப் புறப்பட்டுள்ள “புதிய பக்தர்”, இந்தப் பக்கத்துக் கடற்கரைகள் என்றால் ஆபத்து என்று “கோவா” கடற்கரைக்கே ஓடிப்போய் ஒளிந்து கொண்டார்.
+
+இந்தச் செய்திகள் எல்லாம் இன்றுள்ள பல மாணவத் தளிர்களுக்குத் தெரியாமல் போயிருக்கலாம். நினைவூட்டி நிலையை விளக்குவது நமது கடமை.
+
+சில முக்கியமான சம்பவங்களையொட்டி சந்தேகம் எழும்போது, தவறு எந்தத் தரப்பில் நடந்திருக்கிறது என்பதை அறிய நீதி விசாரணை ஏற்பாடு செய்யப்படுகிறது. முன்பிருந்த காங்கிரஸ் அரசுகளைப் போல் இல்லாமல் இந்த அரசு நீதி விசாரணைகளுக்கு ஏற்பாடு செய்ததை நாடு அறியும்.
+
+அண்ணாமலைப் பல்கலைக்கழகத்தில் நடந்த சம்பவத்தில் நீரில் வீழ்ந்து மடிந்தது உதயகுமார் அல்ல என்று நான் சொன்னதே கிடையாது.
+
+சந்தேகமாக இருக்கிறது. யார் என்று நிச்சயமாகச் சொல்ல முடியவில்லை என்றுதான் சொன்னேன். அதனையொட்டித்தான் நீதிபதி விசாரணை ஏற்பாடாயிற்று.
+
+> “That the dead body found, in the reservoir is in all probability that of Udayakumar, but he did not die due to police excess and that he should have died as a result of drowning only on the night of 23rd July 1971”
+
+என்றுதான் நீதி விசாரணை நடத்திய நீதிபதி குறிப்பிட்டிருக்கிறார்.
+
+பாளைச் சம்பவமானாலும், கிளைவ் விடுதிச் சம்பவமானாலும் உண்மை நிலையை அறியத்தான் கழக அரசு நீதி விசாரணைக்கு ஏற்பாடு செய்தது. விசாரணையில் வெளிவந்த விபரங்களின் அடிப்படையில் தொடர்புடைய அதிகாரிகள் மீது நடவடிக்கை எடுக்கப்பட்டிருக்கிறது.
+
+மாணவர்களைத் தூண்டிவிடுகிறவர்கள் இன்னும் என்ன செய்ய வேண்டும் என்கிறார்கள்? இவர்கள் ஆண்டபோது என்ன செய்தார்கள் என்பதை மறந்துவிட்டு மனச்சாட்சி இல்லாமல் பேசுகிறார்களே; நியாயம்தானா?
+
+தாங்கள் ஏதாவது சொல்ல வேண்டும் என்பதற்காக நான் சொல்லாத ஒன்றைக் கற்பனை செய்து கொண்டு பேசுவதும், எழுதுவதும், அறிக்கைகள் விடுவதும் இன்றைய அரசியலில் சர்வ சாதாரணமாகி விட்டது!
+
+உடன்பிறப்பே, பொய்யை ஓங்கிச் சொன்னால் உண்மையாகி விடாதா என்று எதிர்பார்க்கிறார்கள். பொய்யைக் கருவியாகக் கொண்டு ஒரு அரசைக் கவிழ்த்துவிடச் சதி செய்கிறார்கள். அவர்தம் கணைகளைத் தாங்கிக் கொள்ள நெஞ்சை நிமிர்த்தி நிற்கிறது நமது கழகம் என்பதை அவர்கள் உணரவில்லை; பாவம்!
+
+அன்புள்ள,
+
+மு. க.
+
+(11-12-1973)
