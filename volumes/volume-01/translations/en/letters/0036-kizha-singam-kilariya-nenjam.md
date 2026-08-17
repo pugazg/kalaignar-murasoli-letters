@@ -1,0 +1,190 @@
+---
+volume: 1
+letter_number: 36
+tamil_title: "“கிழச் சிங்கம், கிளறிய நெஞ்சம்!”"
+english_title: "“The Old Lion, and a Heart Stirred!”"
+date: 1971-04-16
+source_pdf_page_start: 156
+source_pdf_page_end: 160
+source_printed_page_start: 156
+source_printed_page_end: 160
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0036.en.md"
+---
+
+# 36. “The Old Lion, and a Heart Stirred!”
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0036](../../../chapters/0036-kizha-singam-kilariya-nenjam.md)  
+**Source pages:** [PDF 156](../../../pages/page-156.md)–[PDF 160](../../../pages/page-160.md)  
+**Date:** 16 April 1971
+
+Udanpirappē!
+
+The world marvels at the victory produced by your labour and steadfastness in principle. You yourself cannot contain your joy. You swell with pride each time you see me and a few others from the Kazhagam front serving as ministers.
+
+You are a cadre! We too were cadres who, like you, received kicks and blows and endured repression. Whenever the arrows called prisons and preventive-detention laws flew at us, we laboured without faltering or allowing our hearts to be shaken. That is why you feel as though you yourself are seated in the Cabinet. Though “many cadres, a few leaders” is the grammar of every party in the world, in the Kazhagam camp the leaders have shaped their public lives by regarding themselves as cadres.
+
+I have often said this: the one who thinks, “What benefit can the party gain from me?” and acts accordingly is an artery of the party. The one who calculates, “What benefit can I gain from the party?” is a symptom of an infectious disease beginning to grow within it!
+
+We have never forgotten the beloved jewels of the Kazhagam who laboured so the party might benefit from them and became flames of sacrifice, not merely today or yesterday, but from the days when we all worked in the Dravidar Kazhagam. Nor have we allowed their families to suffer.
+
+Twenty-five years ago, Udayarpalayam Velayutham was accused of spreading the principles of the Dravidian movement, beaten to death, and his body hung from a tree. That family was not abandoned by this movement of the poor. When we were in the Dravidar Kazhagam, Commander of the Rationalist Movement, elder brother Alagirisamy, died leaving his family in distress. This party of ordinary people took steps to keep his family from being left adrift.
+
+No leader or front-line fighter in this movement suddenly leapt to the summit. You now call this Karunanidhi “Chief Minister” with overflowing delight, but he was once a cadre in Tiruvarur, putting up stages, tying festoons, pasting posters, and organising meetings!
+
+Those who guard and preserve the Kazhagam today are no less than I. Without cadres there are no leaders; without the affectionate bond and concern of leaders there are no cadres. It is through that relationship that this Kazhagam has grown and flourished.
+
+A film will not succeed merely because the hero acts alone and displays the whole of his talent. Its success is formed by the joined labour of the supporting actors and the hardships they accept. If the supporting actors push the hero aside, saying, “Without us there is no film,” can they alone make the film run? The same is true if the hero thinks that way. If this union is essential even to a film's success, need it be said how essential the union of leaders and cadres is to the success of a vast movement?
+
+You will not have forgotten words Anna once spoke:
+
+“Cadres of the Kazhagam! A few of us are ministers. Yes, you have made us so. Because there is not enough room in the Assembly building for all of us to become ministers or legislators, you have made a few among us so and rejoice at the sight.”
+
+Today not a few but many members of the Kazhagam hold great offices of responsibility. There was a time when we had only one Shanmugam as municipal chairman in Tiruvannamalai and proclaimed it to the whole town! Today we have Kazhagam municipal chairmen and councillors in more than fifty municipalities.
+
+Until 1958 our strength in the Madras Corporation was one Munusamy, one A. Po. Arasu, and one Jeevarathinam. Today our mayors travel around the world. Many Kazhagam cadres are corporation councillors. Our valiant Muthu, who served as a cadre among cadres and turned Madurai into a Kazhagam fortress, becomes Mayor of Madurai on May Day! In more than 180 panchayat unions, large numbers of cadres nurtured by the Kazhagam are now union chairmen. Our people are presidents in thousands of village panchayats. Members of the Legislative Assembly, members of the Legislative Council, members of Parliament!
+
+When the anti-Hindi struggle took place in 1938, did we bind ourselves to the Dravidian movement thinking of these offices? No! No!!
+
+Prison!
+
+Torture!!
+
+We entered this work expecting these to be everyday occurrences for us:
+
+- Pondicherrys would pounce;
+- Palayamkottais would await us;
+- Kotturs would obstruct us;
+- Bullets would fly;
+- Bees would swarm in;
+- Thillais would oppose us.
+
+Then, prison;
+
+Today, the Fort!
+
+Yesterday, a knife at the throat;
+
+Today, a garland!
+
+What certainty is there that a sword of death will not come tomorrow?
+
+Is that not public life?
+
+Do you ask why all these memories have come to me now?
+
+Last night was the sixty-sixth birthday celebration of elder brother C. P. C.!
+
+Without ostentation, a few friends formed a celebration committee and held a dinner under my chairmanship.
+
+Beside me sat our brother, Assembly Speaker Mathi. On my other side sat Minister N. V. N. (no, no, our old Organising Secretary). I barely spoke even with the two of them. My thoughts circled around events that had happened so many years ago.
+
+Is there a village in Tamil Nadu on which elder brother C. P. C.'s feet have not fallen? Can there be a part of Tamil Nadu where his battle cry has not been heard? Without money for travel, without food for his stomach at every mealtime, how many meetings in a single day, how immense the labour!
+
+What a quality it was, the way he moved as a cadre among cadres! What ceaseless wandering was his as a throbbing, ardent partisan!
+
+Is it not the labour of such people that constitutes this Kazhagam, this victory, this government?
+
+Today we have made that old lion Chairman of the Legislative Council, and we take pride in the sight.
+
+This is the time when cadres assume responsibility!
+
+This is the age when ordinary people govern the country!
+
+That is why some suffer irritation, spite, and fever!
+
+My mind did not turn to the dinner. I kept thinking about the conduct of those spiteful minds. When the celebration ended and I came home, I felt I should gather the scattered pieces of my thoughts and write them to you. I wrote them as a letter, that is all!
+
+With affection,
+
+M. Karunanidhi
+
+(16 April 1971)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 36. “கிழச் சிங்கம், கிளறிய நெஞ்சம்!”
+
+உடன் பிறப்பே!
+
+உன் உழைப்பும், கொள்கைப் பிடிப்பும் விளைத்த வெற்றி கண்டு உலகம் வியக்கிறது. உனக்கே மகிழ்ச்சி தாங்க முடியவில்லை. என்னையும் கழக முன்னணியினர் சிலரையும் அமைச்சர்களாகப் பார்த்துப் பார்த்துப் பூரிப்படைகிறாய். தொண்டன் நீ! நாங்களும் தொண்டர்களாய் இருந்து உன்னைப் போல அடி உதைகள் பட்டு, அடக்குமுறைகளை ஏற்று-சிறைச்சாலைகள்-பாதுகாப்புச் சட்டங்கள் என்ற கணைகள் பாய்ந்த போதெல்லாம் கலங்காது-உள்ளத்தைச் சலனத்திற்கு ஆளாக்காது உழைத்தவர்கள்தான் என்பதால், நீயே அமைச்சரவையில் வீற்றிருப்பது போன்ற உணர்வினைப் பெறுகிறாய். “பல தொண்டர்கள் சில தலைவர்கள்”-இதுதான் உலகத்தின் எல்லாக் கட்சிகளுக்கும் இலக்கணம் எனினும், கழகப் பாசறையில் தலைவர்கள் தங்களைத் தொண்டர்களாகக் கருதியே பொது வாழ்க்கையை அமைத்துக் கொண்டிருக்கிறார்கள்.
+
+நான் அடிக்கடி சொல்லியிருக்கிறேன்; தன்னால் கட்சிக்கு என்ன லாபம்! என்று சிந்தித்துச் செயலாற்றுபவனே கட்சியின் ரத்த நாளம்! கட்சியால் தனக்கு என்ன லாபம்? என்று கணக்கிடுபவன் கட்சிக்குள் வளரத் தொடங்கும் தொத்து நோயின் அறிகுறி!
+
+தன்னால் கட்சி பயனடைய வேண்டும் என்று பாடுபட்டுத் தியாகச் சுடர்களான கழகக் கண்மணிகளை, இன்று நேற்றல்ல-திராவிடர் கழகத்தில் நாமெல்லாம் பணியாற்றிய அந்தக் காலத்திலிருந்தே மறந்தது கிடையாது. அவர்கள் குடும்பங்களையும் தவிக்கவிட்டது கிடையாது. உடையார்பாளையம் வேலாயுதம்-திராவிடர் இயக்கக் கொள்கைகளைப் பரப்புகிறார் என்று குற்றஞ்சாட்டி, இருபத்தைந்து ஆண்டுகளுக்கு முன்பு அடித்துக் கொன்று மரக்கிளையிலே பிணத்தைத் தொங்க விட்டார்கள். அந்தக் குடும்பம் இந்த ஏழையர் இயக்கத்தால் கைவிடப்படவில்லை.
+
+அறிவியக்கத் தளபதி அண்ணன் அழகிரிசாமி திராவிடர் கழகமாக நாம் இருந்த போது குடும்பத்தைத் தவிக்கவிட்டு மறைந்து போனார். அவர் குடும்பத்தைத் தத்தளிக்க விடாமல் இந்தச் சாதாரணமானவர்களின் கட்சி முயற்சிகளை மேற்கொண்டது. இந்த இயக்கத்தின் எந்தத் தலைவனும், முன்னணி வீரனும் திடீரெனக் குதித்து உச்சிக்குப் போய் விட்டவனல்ல. திருவாரூரில் மேடை போட்டு, தோரணங்கட்டி, சுவரொட்டிகளை ஒட்டிக் கூட்டம் நடத்தும் தொண்டனாக இருந்த இந்தக் கருணாநிதியைத்தான் களிப்பு பொங்கிட “முதல்வரே” என நீ அழைக்கிறாய்!
+
+எனக்குச் சளைத்தவர்களல்ல, இன்று கழகத்தைக் கட்டிக் காக்கும் காவலர்கள். தொண்டர்கள் இல்லையேல் தலைவர்கள் இல்லை-தலைவர்களின் பாசப் பிணைப்பும் பரிவும் இல்லையேல் தொண்டர்கள் இல்லை - என்ற நிலையில் வளர்ந்தோங்கியிருப்பதுதான் இந்தக் கழகம். கதாநாயகன் மட்டும் தனியாகத் தன் திறன் முழுதும் காட்டி நடித்துவிட்டால் படம் வெற்றி பெற்று விடாது. துணை நடிகர்களின் உழைப்பும், அவர்கள் ஏற்றுக் கொள்கிற சிரமங்களும் இணைந்துதான் படத்தின் வெற்றி அமைகிறது. நாங்கள் இல்லையேல் படமில்லையென்று கதாநாயகனை ஒதுக்கித் தள்ளி விட்டால், துணை நடிகர்களால் மட்டும் படம் ஓடிவிடுமா? அதுபோல் கதாநாயகன் கருதினாலும் படத்தின் வெற்றிக்கே இந்த இணைப்பு அவசியமென்றால், பரந்து கிடக்கும் ஒரு இயக்கத்தின் வெற்றிக்குத் தலைவர்கள் தொண்டர்கள் இணைப்பு எவ்வளவு தேவையென்று கூறவும் வேண்டுமோ?
+
+“கழகத் தொண்டர்களே! நாங்கள் சிலர் அமைச்சர்களாக இருக்கிறோம். ஆம்; அப்படி உங்களால் ஆக்கப்பட்டிருக்கிறோம். நாம் அனைவருமே அமைச்சர்களாகவோ சட்டமன்ற உறுப்பினர்களாகவோ ஆவதற்கு சட்டமன்றக் கட்டிடத்தில் இடம் போதாத காரணத்தால் எங்களில் சிலரை நீங்கள் அது போலாக்கிக் கண்டு களிக்கிறீர்கள்.”
+
+-என்று ஒருமுறை அண்ணா அவர்கள் கூறிய வாசகத்தை நீ மறந்திருக்க மாட்டாய்.
+
+பெரும் பெரும் பதவிப் பொறுப்புக்களிலே இன்று கழகத்தினர் சிலர் அல்லர், பலர் இருக்கிறார்கள். திருவண்ணாமலையில் ஒரு சண்முகத்தை மட்டும் நகராட்சித் தலைவராகப் பெற்று அதை ஊருக்கெல்லாம் சொல்லிக் கொண்டிருந்தோம். அது ஒரு காலம்! - இன்று ஐம்பதுக்கு மேற்பட்ட நகராட்சிகளில் நமது கழக நகராட்சித் தலைவர்கள்-நகராட்சி உறுப்பினர்கள்! சென்னை மாநகராட்சியில் 1958-ஆம் ஆண்டு வரையில் ஒரு முனுசாமி. ஒரு அ. பொ. அரசு, ஒரு ஜீவரத்தினம்-இதுதான் நமது பலம்! இன்று நமது மேயர்கள் உலகம் சுற்றி வருகிறார்கள். கழகத் தொண்டர்கள் பலர் மாநகராட்சி உறுப்பினர்கள்! தொண்டர்க்குத் தொண்டராய் இருந்து மதுரையைக் கழகக் கோட்டையாக்கிய நமது மாவீரர் முத்து, மே முதல் நாள் மதுரை மேயராகிறார்! 180-க்கு மேற்பட்ட ஊராட்சி ஒன்றியங்களில் கழகம் வளர்த்த பெரும்பான்மையான தொண்டர்கள் இன்று ஒன்றியத் தலைவர்கள்! ஆயிரக்கணக்கான ஊராட்சி மன்றங்களில் நம்மவர் தலைவர்கள்! சட்டமன்ற உறுப்பினர்கள் - மேலவை உறுப்பினர்கள் - நாடாளுமன்ற உறுப்பினர்கள்!
+
+1938 இல் இந்தி எதிர்ப்புப் போர் நடந்த போது இந்தப் பதவிகளை எண்ணிப் பார்த்தா திராவிடர் இயக்கத்தில் நம்மைப் பிணைத்துக் கொண்டோம்? இல்லை! இல்லை!!
+
+சிறைச்சாலை!
+
+சித்ரவதை!!
+
+இவை நமக்கு நித்ய நிகழ்ச்சிகளாக இருக்குமென்று கருதித்தான் இந்த வேலைக்கு வந்தோம்.
+
+- பாண்டிச்சேரிகள் பாய்ந்திடும்
+- பாளையங்கோட்டைகள் கிடைத்திடும்
+- கோட்டூர்கள் குறுக்கிடும்
+- குண்டுகள் பறந்திடும்
+- தேனீக்கள் நுழைந்திடும்
+- தில்லைகள் எதிர்த்திடும்
+
+என்று எதிர்பார்த்தே இப்பணிக்கு நம்மை ஒப்படைத்துக் கொண்டோம்.
+
+அன்று சிறைச்சாலை
+
+இன்று கோட்டை!
+
+நேற்று கழுத்துக்குக் கத்தி
+
+இன்று பூமாலை!
+
+நாளைக்குக் கொலைவாள் வராது என்பது என்ன நிச்சயம்?
+
+அதுதானே பொது வாழ்க்கை!
+
+இந்த நினைவெல்லாம் இப்போது ஏன் வந்தது என்று கேட்கிறாயா?
+
+நேற்றிரவு அண்ணன் சி. பி. சி. அவர்களுக்கு 66வது பிறந்த நாள்விழா!
+
+ஆடம்பரமில்லாமல் நண்பர்கள் சிலர் கூடி விழாக் குழு அமைத்து விருந்தொன்று நடத்தினார்கள் என் தலைமையில்!
+
+என்னருகே பேரவைத் தலைவர் சகோதரர் மதி அமர்ந்திருந்தார். இன்னொரு புறத்தில் அமைச்சர் என். வி. என். (இல்லை-இல்லை-நமது பழைய அமைப்புச் செயலாளர்) உட்கார்ந்திருந்தார். அவர்கள் இருவருடனும் கூட நான் அதிகம் பேசவில்லை. என் சிந்தனை எத்தனையோ ஆண்டுகளுக்கு முன்பு நடந்த நிகழ்ச்சிகளை வட்டமிட்டுக் கொண்டிருந்தது.
+
+அண்ணன் சி. பி. சி.யின் காலடி படாத கிராமம் தமிழ்நாட்டில் உண்டா? அவர் முழக்கம் கேட்காத பகுதி தமிழகத்தில் இருக்க முடியுமா? வழிச் செலவுக்குப் பணமில்லாமல், வயிற்றுக்கு வேளா வேளைக்குச் சோறில்லாமல் நாளொன்றுக்கு எத்தனை கூட்டங்கள் - எத்துணை உழைப்பு!
+
+தொண்டர்க்குத் தொண்டராய் அவர் பழகிய பண்புதான் என்னே! துடிக்கும் கட்சி வெறியராய் அவர் அலைந்த அலைச்சல்தான் என்னே!
+
+இப்படிப்பட்டவர்களின் உழைப்பன்றோ, இந்தக் கழகம்! இந்த வெற்றி!! இந்த அரசு!!!
+
+அந்தக் கிழச் சிங்கத்தை இன்று மேலவைத் தலைவராக ஆக்கி, அந்தக் காட்சி கண்டு பெருமிதங் கொள்கிறோம்.
+
+தொண்டர்கள் பொறுப்பேற்கும் காலம் இது!
+
+சாதாரணமானவர்கள் நாடாளும் சகாப்தமிது!
+
+அதனால்தான் சிலருக்கு எரிச்சல்-காழ்ப்பு-காய்ச்சல்!
+
+விருந்தில் மனம் செல்லவில்லை. அந்தக் காழ்ச்சிந்தையினரின் போக்கு பற்றியே எண்ணிக் கொண்டிருந்தேன். விழா முடிந்து வீட்டுக்கு வந்ததும், உனக்கு என் எண்ணச் சிதறல்களைத் தொகுத்து எழுத வேண்டும் போல் தோன்றிற்று. எழுதினேன் மடலாக, அவ்வளவுதான்!
+
+அன்புள்ள,
+
+மு. கருணாநிதி
+
+(16-04-1971)
