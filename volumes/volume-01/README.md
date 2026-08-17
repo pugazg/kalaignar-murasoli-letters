@@ -45,10 +45,10 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Letter 0063 has **no date printed in the source**; no date is inferred.
 - Letters 0107–0110 are complete on PDF **384–400**. Letter 0110 closes on PDF 400 with `(01-12-1974)`; PDF 401 is a non-letter colour back cover / publisher advertisement.
 - Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md). The audit confirmed 401/401 page records, 110/110 chapter records, continuous letter coverage PDF 024–400, and no structural gaps or overlaps.
-- Second visual/textual-fidelity verification: **in progress — PDF 001–175 / 401 complete**. Cumulative scan-proven corrections: **82 canonical pages / 181 spans**.
-- Completed second-pass reports: [`001–025`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md), [`026–050`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md), [`051–075`](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md), [`076–100`](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md), [`101–125`](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md), [`126–150`](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md), and [`151–175`](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md).
-- The PDF 151–175 range required corrections on **9 pages / 21 spans**, restoring scan-controlled source emphasis and removing three unsupported bold display lines on PDF 173.
-- Letters **0001–0039** now have complete second-pass source-page coverage. Letter 0040 is second-pass checked through PDF 175 and continues beyond the current range.
+- Second visual/textual-fidelity verification: **in progress — PDF 001–200 / 401 complete**. Cumulative scan-proven corrections: **97 canonical pages / 212 spans**.
+- Completed second-pass reports: [`001–025`](translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md), [`026–050`](translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md), [`051–075`](translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md), [`076–100`](translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md), [`101–125`](translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md), [`126–150`](translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md), [`151–175`](translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md), and [`176–200`](translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md).
+- The PDF 176–200 range required corrections on **15 pages / 31 spans**, restoring scan-controlled source emphasis in the P. Kannan private letter, violence-condemnation passages, the Luke epigraph, rebuttal passages, and selected Madurai-conference blocks.
+- Letters **0001–0046** now have complete second-pass source-page coverage. Letter 0047 is second-pass checked through PDF 200 and continues beyond the current range.
 - English migration/alignment: **blocked** while the required second visual/textual-fidelity gate remains incomplete.
 
 ## Source identity
@@ -69,4 +69,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Continue the **second visual/textual-fidelity verification with PDF 176–200**, beginning with the continuation of letter 0040, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
+Continue the **second visual/textual-fidelity verification with PDF 201–225**, beginning with the continuation of letter 0047, comparing every canonical Markdown page directly against the controlling scan, applying only scan-proven corrections and recording the next range audit/cumulative status. Keep the legacy bilingual corpus unchanged. Do not begin canonical English migration while the required second visual/textual-fidelity gate remains incomplete.
