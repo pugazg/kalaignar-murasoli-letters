@@ -1,0 +1,198 @@
+---
+volume: 1
+letter_number: 16
+tamil_title: "யார் அந்த உணவு அமைச்சர்?"
+english_title: "Who Was That Food Minister?"
+date: 1968-11-16
+source_pdf_page_start: 86
+source_pdf_page_end: 89
+source_printed_page_start: 86
+source_printed_page_end: 89
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0016.en.md"
+---
+
+# 16. Who Was That Food Minister?
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0016](../../../chapters/0016-yaar-antha-unavu-amaichar.md)  
+**Source pages:** [PDF 86](../../../pages/page-086.md)–[PDF 89](../../../pages/page-089.md)  
+**Date:** 16 November 1968
+
+Dear friend,
+
+Whatever happens in any corner of the world, Congressmen have made a profession of lifting it up, throwing it upon DMK rule, and dancing in delight. Congress Party newspapers perform that job with great skill.
+
+They run a headline, “Quarrel between husband and wife,” and then add the false report: “The husband is said to belong to the DMK.”
+
+“One person died after being caught in a crush while buying a ticket at a cinema theatre! The DMK actor appearing in that film is responsible.”
+
+What a discovery!
+
+“Under DMK rule, a train derailed in Bengal.”
+
+“Under DMK rule, an aeroplane struck the Alps and shattered.”
+
+“Nixon defeated the DMK candidate Humphrey! Victory! Victory!”
+
+Only reports such as these have not yet appeared in their newspapers. We may expect even this variety very soon.
+
+When a private bus overturned at Namakkal, did they not write, “Bus overturns under DMK rule”? Did they not repeat it on every street corner?
+
+“Boy who ate spicy *karaboondi* admitted to hospital after it lodged in his throat! Behold the cruelty of Kazhagam rule!”
+
+The country sees newspapers and speakers who discover such stories, use them to blame DMK rule, and parade around carrying “certificates” from Sathyamurthi Bhavan.
+
+In Thanjavur district and several other districts, the Government procures rice and sends it for sale at fair prices to places with large consuming populations.
+
+Claiming that the procurement “price” was not remunerative, a few landlords filed a case in the High Court. Accepting their plea, the Court ruled that procurement from those particular landlords should be restrained.
+
+Congress newspapers publish this judgment in enormous type and leap with joy. Congressmen are thrilled that a ruling has been obtained against the Government.
+
+Instead of regretting that the conduct of a few landlords has obstructed the Government's effort to provide food for everyone, what does it mean when they are delighted?
+
+It does not matter if the people are struck in the stomach.
+
+If the Government's procurement work is obstructed, that alone satisfies them.
+
+That is the Congressmen's ideal! The reason for their delight is perfectly clear.
+
+Procurement has continued since the period of Congress rule. The price paid now was paid then as well. Even when Congress governed, some landed magnates opposed procurement, filed cases, and obtained injunctions. At that time, neither the DMK nor its newspapers celebrated it as a victory for the landlords. The Kazhagam instead insisted that the Government act more vigorously in procurement.
+
+Today's Congressmen are driven by the degraded aim of blaming the Kazhagam Government somehow or other. Friend, I even have a doubt!
+
+Suppose an opposition party governed at the Centre instead of Congress, and China or Pakistan invaded. Would the Congressmen here praise even that invasion and sing songs in its honour? Who knows!
+
+Such is their fever against opposition parties.
+
+Here is *Navasakthi*. Look at the banner headline published on 16 November 1968:
+
+“Mill rice: seizure and building search!
+
+High Court quashes Tamil Nadu Government action!
+
+Mill traders' writ admitted.”
+
+That is the headline. Now read the report printed inside:
+
+“Holding that there was no evidence for the Food Department Secretary's statement that the building searches and seizure of mill rice were conducted after obtaining oral instructions from the Food Minister, the High Court admitted the mill traders' writ petitions.”
+
+That, friend, is the report published by *Navasakthi*. On reading it, even you might assume that the Court had been told Food Minister Mathiazhagan personally issued the oral order.
+
+Yes, that is precisely how the *Navasakthi* report has been framed.
+
+Do you know under which order the Court ruled the action invalid?
+
+Other newspapers reported that it was the 1966 Madras Paddy and Rice Licensing Order.
+
+The Food Minister at that time was Mr Ramayya. The *Navasakthi* report concealed both “1966” and “Minister Ramayya.” A fond little hope that readers would assume it meant the Honourable Mathiazhagan!
+
+That is why the headline flashes in enormous letters:
+
+“High Court quashes Tamil Nadu Government action.”
+
+There lies their satisfaction!
+
+There lies their joy!
+
+It does not matter if her son dies, so long as her daughter-in-law loses the sacred marriage thread: such a mother-in-law's desire has seized the Congressmen of Tamil Nadu!
+
+Poor souls. Long live their noble (?) thought!
+
+With affection,
+
+Maravan
+
+(16 November 1968)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 16. யார் அந்த உணவு அமைச்சர்?
+
+அன்பு நண்ப,
+
+உலகத்தில் எந்த மூலையில் எது நடந்தாலும் அதைத் தி. மு. க. ஆட்சியின் மீது தூக்கிப் போட்டுக் கும்மாளம் அடிப்பதையே தங்கள் தொழிலாகக் கொண்டிருக்கிறார்கள் காங்கிரசார்! காங்கிரஸ் கட்சியின் ஏடுகள் அந்த வேலையைத் திறம்படச் செய்து வருகின்றன.
+
+**“கணவன் மனைவி தகராறு” என்று செய்திக்குத் தலைப்பிட்டு; கணவன் தி. மு. கழகத்தைச் சேர்ந்தவர் என்று கூறப்படுகிறது என்பதாக ஒரு பொய்ச் செய்தி!**
+
+**“சினிமாக் கொட்டகையில் டிக்கட் வாங்கும்போது நெரிசலில் சிக்கி ஒருவர் சாவு! அதற்கு அந்தப் படத்தில் நடித்த தி. மு. க. நடிகரே காரணம்.”**
+
+இப்படியொரு கண்டுபிடிப்பு!
+
+**“தி.மு.க. ஆட்சியில் வங்காளத்தில் ஒரு ரயில் கவிழ்ந்தது.”**
+
+**“தி.மு.க. ஆட்சியில் ‘ஆல்ப்ஸ்’ மலையில் ஒரு விமானம் மோதி நொறுங்கியது.”**
+
+**“தி.மு.க. வேட்பாளர் ஹம்ப்ரியை, நிக்சன் வெற்றி கண்டார்! வெற்றி! வெற்றி!!”**
+
+இன்னும் இது போன்ற செய்திகள்தான் அவர்களது பத்திரிகையில் வரவில்லை. விரைவில் இந்த ரகச் செய்திகளையும் எதிர்பார்க்கலாம்.
+
+தனியார் பஸ் ஒன்று; நாமக்கல்லில் கவிழ்ந்ததை வைத்துக் கொண்டு “தி.மு.க. ஆட்சியில் பஸ் கவிழ்ந்தது” என்று எழுதவில்லையா? மூலைக்கு மூலை பேசித் திரியவில்லையா?
+
+**“காராப்பூந்தி சாப்பிட்ட பையனுக்கு தொண்டையில் காராப்பூந்தி சிக்கியதால் ஆஸ்பத்திரியில் அனுமதி! கழக ஆட்சியின் கொடுமை பாரீர்!”**
+
+இப்படியெல்லாம் செய்திகளைத் தேடிக் கண்டுபிடித்து தி.மு.க. ஆட்சி மீது குறைகூறும் ஏடுகளும், பேச்சாளர்களும் சத்தியமூர்த்தி பவன் தரும் ‘சர்டிபிகேட்’டுகளுடன் வலம் வருகின்ற காட்சியை நாடு காண்கிறது.
+
+தஞ்சை மாவட்டத்திலும் மற்றும் சில மாவட்டங்களிலும் அரசின் சார்பில் அரிசி கொள்முதல் செய்யப்பட்டு வாங்கிப் புசிப்போர் அதிகமுள்ள இடங்களுக்கு-நியாய விலையில் விற்பனை செய்ய அனுப்பி வைக்கப்படுகிறது.
+
+அந்தக் கொள்முதலில் தங்களுக்கு ‘விலை’ கட்டுப்படியாகாதென்று ஒரு சில நிலப் பிரபுக்கள்; உயர்நீதிமன்றத்தில் வழக்குத் தொடர்ந்துள்ளனர். அதனையேற்றுக் கொண்டு, அந்த நிலப் பிரபுக்களைப் பொறுத்தவரையில் கொள்முதல் செய்யத் தடைவிதித்து நீதிமன்றம் தீர்ப்பு அளித்திருக்கிறது.
+
+இந்தத் தீர்ப்பைக் கொட்டை எழுத்தில் வெளியிட்டு; காங்கிரஸ் ஏடுகள் மகிழ்ச்சியால் துள்ளுகின்றன, அரசாங்கத்திற்கு எதிராக ஒரு தீர்ப்பு கிடைத்துவிட்டதாகக் காங்கிரஸ்காரர்களுக்குப் பூரிப்பு!
+
+எல்லா மக்களுக்கும் உணவு வழங்க வேண்டுமென்று அரசு எடுத்துள்ள முயற்சியில் நிலப் பிரபுக்கள் சிலரது போக்கால் ஒரு குறுக்கீடு ஏற்பட்டுவிட்டதே என்று வருந்துவதற்குப் பதிலாக, அவர்கள் புளகாங்கிதமுறுகிறார்கள் என்றால் என்ன பொருள்?
+
+மக்கள் வயிற்றில் அடிக்கப்பட்டாலும் பரவாயில்லை;
+
+அரசாங்கத்தின் கொள்முதல் வேலைக்குத் தடங்கல் ஏற்பட்டால்; அதுவே தங்களுக்குத் திருப்தி.
+
+இதுதான் காங்கிரசாரின் லட்சியம்! அவர்கள் களிப்புக்குக் காரணமும் தெளிவாகப் புரிகிறது!
+
+கொள்முதல், காங்கிரஸ் ஆட்சிக் காலத்திலேயிருந்து நடந்து வருகிறது! இப்போது தரப்படுகிற விலைதான் அப்போதும் தரப்பட்டது! காங்கிரசார் ஆண்டபோதும் கொள்முதலை எதிர்த்துச் சில நிலவேந்தர்கள் வழக்குப் போட்டார்கள் தடை வாங்கினார்கள். அப்போதெல்லாம் தி. மு. கழகத்தினரோ கழக ஏடுகளோ; அதனை நிலப் பிரபுக்களின் வெற்றியாகக் கொண்டு கூத்தடிக்கவில்லை. கொள்முதல் விஷயத்தில் அரசாங்கம் மேலும் தீவிரமாக இருக்க வேண்டுமென்றுதான் அப்போது கழகத்தினர் வற்புறுத்தினர்.
+
+இன்றைய காங்கிரசாரோ; எப்படியாவது கழக அரசைக் குறை கூற வேண்டுமென்ற இழிந்த நோக்கத்தில் இருக்கிறார்கள். எனக்கு ஒரு சந்தேகம் கூட உண்டு நண்பா!
+
+மத்திய அரசில், காங்கிரசார் இல்லாமல் மாற்றுக் கட்சியின் ஆட்சி நடைபெற்று; அந்த வேளையில் சீனாக்காரனோ; பாகிஸ்தானோ படையெடுத்தால்கூட; இங்குள்ள காங்கிரசார் அந்தப் படையெடுப்பைப் பாராட்டிப் பள்ளுப் பாடுவார்களோ; என்னவோ!
+
+அந்த அளவுக்கு எதிர்க் கட்சிகளின் மீது அவர்களுக்குக் காய்ச்சல் இருக்கிறது.
+
+இதோ நவசக்தி; (16-11-68)யில் வெளிவந்துள்ள கொட்டை எழுத்துச் செய்தியைப் பார்!
+
+**“மில் அரிசி - கைப்பற்றுதல் கட்டட சோதனை! தமிழக அரசு நடவடிக்கையை ஹைகோர்ட் ரத்து செய்தது! மில் வர்த்தகர்களின் ‘ரிட்’ அனுமதி.”**
+
+இது தலைப்புச் செய்தியாகும். உள்ளே பிரசுரித்துள்ள விஷயத்தைப் படித்துப் பார்!
+
+**“உணவு அமைச்சரிடமிருந்து வாய் மொழியாக உத்தரவு பெற்றுக் கட்டட சோதனையும் மில் அரிசிக் கைப்பற்றுதலும் நடந்தன என்று உணவு இலாக்கா காரியதரிசி கூறியதற்கு ஆதாரமில்லை என்று கூறி, மில் வர்த்தகர்களின் ‘ரிட்’ மனுக்களை ஹைகோர்ட் அனுமதித்தது”**
+
+இதுதான் நண்பா; நவசக்தி பிரசுரித்துள்ள செய்தி! இதைப் படிக்கும்போது உணவு அமைச்சர் மதியழகன் அவர்கள் தான் வாய் மொழியாக உத்தரவிட்டதாகக் கோர்ட்டில் சொல்லப்பட்டதென்று நீகூடக் கருதிக் கொள்வாய்!
+
+ஆமாம்; நவசக்திச் செய்தி அப்படித்தான் உருவகப்படுத்தப்பட்டிருக்கிறது.
+
+நீதிமன்றத்தில் செல்லாது எனத் தீர்ப்பு கூறப்பட்டது எந்த உத்தரவின் பேரில் தெரியுமா; உனக்கு?
+
+**1966 ஆம் வருஷத்திய சென்னை நெல் அரிசி லைசென்ஸ் உத்தரவுதான் அது என்ற விபரத்தை மற்ற ஏடுகள் பிரசுரித்திருக்கின்றன.**
+
+**அப்போது உணவு அமைச்சராக இருந்தவர் திரு. ராமய்யா அவர்கள் ஆவார்கள். நவசக்திச் செய்தியில் 1966 என்பதும் அமைச்சர் ராமய்யா என்பதும் மறைக்கப்பட்டு விட்டது. படிக்கிறவர்கள்; மாண்புமிகு மதியழகன் என்று எண்ணிக் கொள்ளட்டுமே என்று ஒரு நப்பாசை!**
+
+அதனால்தான் தலைப்பில்;
+
+**“தமிழக அரசு நடவடிக்கையை ஹைகோர்ட் ரத்து செய்தது”**
+
+என்று கொட்டை எழுத்துக்கள் மின்னுகின்றன. அதிலே ஒரு திருப்தி!
+
+அதிலே ஒரு மகிழ்ச்சி!
+
+மகன் இறந்தாலும் பரவாயில்லை; மருமகள் மாங்கல்யம் இழந்தால் போதும் என்று மாமியாருக்கு ஏற்படுகின்ற ஆசை; தமிழ் நாட்டில் உள்ள காங்கிரசாருக்கு ஏற்பட்டிருக்கிறது!
+
+பாவம்; வாழட்டும் அவர்களின் நல்ல (?) எண்ணம்!
+
+அன்புள்ள
+
+மறவன்
+
+(16-11-1968)
