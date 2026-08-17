@@ -1,0 +1,101 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0041"
+date: 1971-05-26
+title_ta: "நான் கேட்கும் பிச்சை!"
+title_en: "The Alms I Ask of You!"
+source_pdf_pages: [178, 179, 180]
+source_printed_pages: [178, 179, 180]
+source_chapter: "../../chapters/0041-naan-ketkum-pichchai.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0041 — The Alms I Ask of You!
+
+**Tamil title:** நான் கேட்கும் பிச்சை!  
+**Date:** 26 May 1971  
+**Source:** PDF 178–180 / printed 178–180  
+**Canonical Tamil chapter:** [`0041-naan-ketkum-pichchai.md`](../../chapters/0041-naan-ketkum-pichchai.md)
+
+## English Translation
+
+Udanpirappē,
+
+You keep writing letters to me, saying that you are planning a grand celebration of my birthday on 3 June and that I too must attend. You know very well that I have never made a habit of appearing at celebration venues on my birthday. But I do sometimes take part in a birthday function on one condition.
+
+That condition is this: I can participate only if a substantial donation is to be made to the “Anna Trust,” which I founded in connection with my birthday. My responsibility was only to establish the Anna Trust. Its administrators attend to the remaining work.
+
+In my birthday celebrations last year and the year before, a considerable sum was presented. From it, I gave a specified amount to Anna's family and placed the remainder in the Trust. With the interest earned on that bank deposit, prizes are awarded district by district each year to the boy and girl students who pass the school-final examination with the highest marks in Tamil.
+
+From this year onward, the Anna Trust has come forward to undertake several more charitable works. From the large sum presented by the South Indian film community at my birthday celebration last year, I gave twenty-five thousand rupees to the higher secondary school being built in the village where I was born.
+
+I handed the remaining amount back to my friends in the arts world, asking them to begin a scheme that would assist distinguished artists suffering hardship in life. They have created a trust in my name and drawn up plans to provide financial assistance to such artists this year. That work is to continue from the final week of June.
+
+Everyone knows that our Kazhagam government is working to bring about a renewal under which, within a specified period, there will be no people begging in Tamil Nadu. Homes are being established, and a major effort is under way to create workshops there for those who have been forced to beg.
+
+As a first step this year, homes are to be established for people affected by leprosy who beg. Instead of allowing them to wander the streets, they will be admitted to those homes, treated for the disease, and trained in different forms of work. Employment will be available to them within the homes themselves.
+
+The fund being collected for this purpose is the Beggars' Rehabilitation Fund! Are we not the younger brothers of Anna, who longed to see God in the smile of the poor? Let us labour to fulfil that longing.
+
+On 3 June, in the presence of the new Governor, the Tamil Nadu government will launch the Beggars' Rehabilitation Scheme. What greater happiness could I have than for my birthday celebration to become a celebration of that rehabilitation scheme?
+
+That day, the Tamil Nadu government will place on sale a card bearing an image of the noble Mahatma Gandhi touching the body of a person affected by leprosy and treating him. The card will be sold throughout June. Its price is only fifty paise!
+
+The country also knows that the Tamil Nadu Government Lottery has announced special prizes in aid of the Beggars' Rehabilitation Fund.
+
+Therefore, instead of wasting money on garlands and train fare to come and see me and offer birthday greetings on 3 June, I ask you to spend half that amount on buying many of those fifty-paise cards. I ask you to buy lottery tickets.
+
+If you insist, “My desire will not be stilled; I must come,” then let me state this firmly: on 3 June, I shall accept a garland only if, with each garland, you give me ten rupees for the Beggars' Rehabilitation Fund.
+
+Every person in Tamil Nadu must have a share in this rare effort undertaken by the government for the rehabilitation of people who beg. That alone, on this year's birthday, my Udanpirappē, is the alms I ask of you.
+
+With affection,
+
+M. Karunanidhi
+
+(26 May 1971)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 41. நான் கேட்கும் பிச்சை!
+
+உடன்பிறப்பே,
+
+ஜூன் மூன்றாம் நாள் என் பிறந்த நாளைச் சிறப்பாகக் கொண்டாடத் திட்டமிட்டு அந்த விழாவுக்கு நானும் வரவேண்டும் என்று மடல்கள் தீட்டிக் கொண்டேயிருக்கிறாய். என் பிறந்த நாளன்று நான் விழா அரங்குகளுக்கு வருவதை வழக்கமாகவே கொள்ளவில்லை என்பது உனக்கு நன்றாகத் தெரியும். ஆனால் ஒரு நிபந்தனையுடன் பிறந்தநாள் விழாவில் நான் கலந்து கொள்வதுண்டு.
+
+என் பிறந்த நாளையொட்டி நான் தொடங்கி வைத்த “அண்ணா அறக்கட்டளை”க்குப் பெருந்தொகையொன்றினை அன்பளிப்பாகத் தருவதாக இருந்தால் மட்டுமே விழாக்களில் நான் பங்குகொள்ள முடியும் என்பதுதான் அந்த நிபந்தனை. அண்ணா அறக்கட்டளையைத் துவக்கி வைத்ததுதான் என் பொறுப்பு!
+
+ஏனைய பணிகளை அதன் பொறுப்பாளர்கள் கவனித்து வருகிறார்கள். ஒரு கணிசமான தொகை சென்ற ஆண்டும், அதற்கு முதல் ஆண்டும் என் பிறந்தநாளில் வழங்கப்பெற்று அதில் ஒரு குறிப்பிட்ட தொகையை அண்ணா குடும்பத்தாருக்கு அளித்து, மிச்சத்தை அறக்கட்டளையில் சேர்த்துவிட்டேன். வங்கியில் போடப்பட்டுள்ள அந்தப் பணத்திற்கு வரும் வட்டியைக் கொண்டு, ஆண்டுதோறும் பள்ளி இறுதி வகுப்பில் தமிழ்ப் பாடத்தில் முதல் எண்கள் எடுத்துத் தேர்ச்சி பெறும் மாணவ மாணவிகளுக்கு மாவட்ட வாரியாக ஒரு தொகை பரிசாக வழங்கப்படுகிறது.
+
+இந்த ஆண்டு முதல் மேற்கொண்டும் பல அறச்செயல்கள் புரிந்திட அண்ணா அறக்கட்டளையினர் முனைந்துள்ளனர். தென்னிந்திய திரைப்படத் துறையினர் சென்ற ஆண்டு என் பிறந்தநாள் விழாவில் அளித்த பெருந்தொகையில் நான் பிறந்த ஊரில் கட்டப்படும் உயர்நிலைப்பள்ளிக்கு இருபத்தையாயிரம் ரூபாய் அளித்தேன்.
+
+மிச்சத்தொகையை வாழ்வில் இன்னலுறும் கலையுலகப் பெருமக்களுக்கு உதவி அளிக்கும் திட்டமொன்றைத் தொடங்குமாறு வேண்டி, கலையுலகத்து நண்பர்களிடமே அளித்து விட்டேன். அவர்கள் என் பெயரால் ஒரு அறக்கட்டளை உருவாக்கி இந்த ஆண்டு அத்தகைய கலைஞர்களுக்கு உதவிப் பணம் தந்திடத் திட்டம் தீட்டியுள்ளனர். ஜூன் இறுதி வாரத்திலிருந்து அந்தக் காரியம் தொடர்ந்து நடக்க இருக்கிறது.
+
+நமது கழக அரசு, ஒரு குறிப்பிட்ட காலவரையறைக்குள் தமிழ் நாட்டில் பிச்சைக்காரர்களே இல்லாத அளவுக்கு மறுமலர்ச்சி ஏற்படுத்தப் பணியாற்றி வருகிறது என்பதை அனைவரும் அறிவர். அதற்காக விடுதிகள் அமைக்கப்பட்டு ஆங்கு பிச்சைக்காரர்களுக்குத் தொழிற்கூடங்கள் ஏற்படுத்த பெரிய முயற்சி எடுக்கப்பட்டுள்ளது. அதற்கு முன்னோடியாக இந்த ஆண்டு, தொழுநோய்ப் பிச்சைக்காரர்களுக்கு விடுதிகள் அமைத்து அவர்களை யாரும் வீதியில் அலைய விடாமல் அந்த விடுதிகளில் சேர்த்து வியாதிக்கு சிகிச்சை அளிப்பதோடு வேலைகள் கற்றுக் கொடுக்கும் பயிற்சியும் தரப்பட இருக்கிறது. அந்த விடுதிகளிலேயே அவர்களுக்கு வேலை வாய்ப்பும் கிடைக்கும். அதற்கெனத் திரட்டப்படும் நிதிதான் பிச்சைக்காரர் மறுவாழ்வு நிதி! - ஏழையின் சிரிப்பில் இறைவனைக் காணத் துடித்த அண்ணனுக்குத் தம்பிகள் அல்லவா நாம்! அந்த ஆவலை நிறைவேற்றப் பாடுபடுவோம்.
+
+ஜூன் மூன்றாம் நாள் பிச்சைக்காரர் மறுவாழ்வுத் திட்டத்தை புதிய கவர்னர் முன்னிலையில் தமிழக அரசு தொடங்குகிறது. என் பிறந்தநாள் விழா, பிச்சைக்காரர் மறுவாழ்வுத் திட்ட விழாவாக இருப்பதைவிட எனக்கு வேறொரு மகிழ்ச்சி இருக்க முடியுமா?
+
+உத்தமர் காந்தியடிகள் தொழுநோய்க்காரன் உடலைத் தொட்டு சிகிச்சை அளிப்பது போன்ற படம் பொறித்த ஒரு அட்டையை அன்று தமிழக அரசு விற்பனைக்குக் கொண்டு வருகிறது. ஜூன் திங்கள் முழுவதும் அந்த அட்டை விற்பனையாகும். அதன் விலை ஐம்பது காசுதான்!
+
+பிச்சைக்காரர் மறுவாழ்வு நிதிக்காக தமிழக அரசுப் பரிசுச் சீட்டு சிறப்புப் பரிசுகளைப் பிரகடனப்படுத்தியிருப்பதையும் நாடு அறியும்.
+
+ஆகவே, ஜூன் மூன்றாம் நாள் என்னைப் பார்க்க, பிறந்தநாள் வாழ்த்துச் சொல்ல, மாலைச் செலவு, ரயில் செலவு இவைகளையெல்லாம் வீணாகச் செய்து கொண்டிராமல் அந்தச் செலவில் பாதி பணத்தைக் கொண்டு ஐம்பது காசு அட்டைகள் பலவற்றைப் பெற்றிட வேண்டுகிறேன். பரிசுச் சீட்டுகள் வாங்கிட வேண்டுகிறேன்.
+
+“ஆவல் அடங்கவில்லை. வந்துதான் தீருவேன்” என்று அடம் பிடித்தால், ஒவ்வொரு மாலை போடும்போதும் பிச்சைக்காரர் மறுவாழ்வு நிதிக்குப் பத்து ரூபாய் என்னிடம் கொடுத்தால்தான் ஜூன் மூன்றாம் தேதியன்று நான் மாலை போட்டுக் கொள்வேன் என்பதை மட்டும் கண்டிப்பாகச் சொல்லி விடுகிறேன். பிச்சைக்காரர் மறுவாழ்வுக்கு அரசு எடுக்கும் அரிய முயற்சிக்கு தமிழகத்தார் அனைவரின் பங்கும் இருந்திடல் வேண்டும். அது ஒன்றே இந்த ஆண்டுப் பிறந்த நாளில்; என் உடன்பிறப்பே! நான் உன்னிடம் கேட்கும் பிச்சையாகும்.
+
+அன்புள்ள,
+
+மு. கருணாநிதி
+
+(26-05-1971)
+
+## Translator's Note
+
+Migrated from the preserved legacy Volume 1 bilingual draft and checked against the fully verified canonical Tamil source layer. The English preserves the source's argument order, political language, rhetoric and numerical details. `Udanpirappē` is retained where the Tamil uses `உடன்பிறப்பே`, because no single English substitute carries its literal and movement-specific force.
