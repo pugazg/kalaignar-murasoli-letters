@@ -1,0 +1,132 @@
+---
+volume: 1
+letter_number: 38
+tamil_title: "இன்றே தொடங்கிடுக பணி!"
+english_title: "Begin the Work Today!"
+date: 1971-04-18
+source_pdf_page_start: 165
+source_pdf_page_end: 168
+source_printed_page_start: 165
+source_printed_page_end: 168
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0038.en.md"
+---
+
+# 38. Begin the Work Today!
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0038](../../../chapters/0038-indre-thodangiduga-pani.md)  
+**Source pages:** [PDF 165](../../../pages/page-165.md)–[PDF 168](../../../pages/page-168.md)  
+**Date:** 18 April 1971
+
+My Udanpirappē!
+
+I call you my friend; I call you my dear comrade; I call you my beloved brother; I call you an activist as precious as life itself. However I address you, my dear jewel of the Kazhagam, every word points only to you.
+
+Devotees look upon their Lord and rejoice in calling out in many ways: “God! King! Divinity! Sacred One! Our Lord! Great Lord! Mother! Father!” In the same way, every day I call you “My life! My Tamil! Peerless warrior! Udanpirappē! Comrade bound by deep-rooted love!” and find the fullness of joy.
+
+Anna nurtured so great an affection between you and me before he departed. The country knows that no one can destroy that feeling, the love I bear you, the love you bear me, or the affection that the life-veins of the Kazhagam across the country show one another as you and I do.
+
+Each person has the right only to nurture this movement. Whenever anyone says, “I built it; now I shall try to destroy it,” you have never spared them. The very next moment they have been flung into some deep abyss.
+
+How many trials in the Kazhagam's twenty-two-year history! Tamil Nadu's political history continues to tell the story of friends who imagined themselves qualified to advise even Arignar Anna, finally tried to split the Kazhagam, had their noses cut in that attempt, founded a new party, and today have scattered into separate corners.
+
+At every moment when the Kazhagam faced a trial, how many people dreamed and rejoiced that “the Kazhagam chapter ends here”!
+
+But my beloved friend, at every difficult stage, your courage, the value you placed upon true sacrifice, and the pledge you took that you were ready to give your life for the ideal Anna nurtured have protected this fortress so that enemies could not capture it and traitors could not betray it.
+
+How many victories have you forged while standing against the sword's point!
+
+Can anyone count the acts of repression you endured, baring your chest to the accursed gun?
+
+Do not imagine that your work is finished today! Your task did not end merely because a few of your brothers were made ministers. Nor is that alone the work you undertook!
+
+You rejoice in the victory because you believe that my friends and I felt the same joy when accepting imprisonment and repression as we did when accepting ministerial office.
+
+Never forget that those seated in the Fort today are men who strike their mighty shoulders and stand ready, tomorrow, to cast away these offices and enter the sacred struggle to protect Tamil Nadu's rights!
+
+Some say that our aims, such as state autonomy and the dispersal of the Union government's powers, can be discussed and settled. Yet I do not think that you and I can walk so easily upon that summit of victory.
+
+The methods we use to demand and obtain rights are the parliamentary method, the method of righteous struggle, the Gandhian method by which we subject ourselves to suffering, and Anna's method that rejects violence!
+
+If the time comes when those methods are required for the victory of state autonomy, could you and I then remain inside the Fort in Chennai?
+
+What certainty is there that “Palayamkottais” will not return?
+
+Our work must remain prepared for that too!
+
+The Kazhagam must be strengthened accordingly!
+
+Branches must arise in their thousands and tens of thousands!
+
+The first week of May draws near. You must send the headquarters an account showing that several lakhs of members have joined the Kazhagam. The preparations must begin now. Paying attention to nothing else, labour so that the Kazhagam flag flies in street after street, branches multiply from town to town, and members join not merely one or two at a time but in their lakhs. Labour, comrade; labour!
+
+May the resolve in your heart and the disciplined structure of the branch Kazhagam you build shine with new brilliance as a revolutionary chapter in the history of the Tamil people's awakening!
+
+Let the work of enrolling members begin today!
+
+With affection,
+
+M. Karunanidhi
+
+(18 April 1971)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 38. இன்றே தொடங்கிடுக பணி!
+
+என் உடன் பிறப்பே!
+
+நண்பன் என்கின்றேன்; இனிய தோழன் என்கின்றேன்; அன்புச் சோதரன் என்கின்றேன்; ஆருயிர்ச் செயல்வீரன் என்கின்றேன் - எப்படி விளித்தாலும் என் அருமைக் கழகக் கண்மணியே! எல்லாமே உன்னைத்தான் குறிக்கும்.
+
+பக்தர்கள் ஆண்டவனைப் பார்த்து ‘தேவே! கோவே! தெய்வமே! திருவே! எம்மானே! பெம்மானே! தாயே! தந்தையே!’ என்றெல்லாம் பலவாறு அழைத்து மகிழ்வதுபோல் நானும் உன்னை ஒவ்வொரு நாளும் உயிரே! தமிழே! ஒப்பற்ற தீரனே! உடன்பிறப்பே! உழுவலன்பு கொண்ட தோழனே! என்றெல்லாம் கூறி இன்ப நிறைவு கொள்கிறேன். அத்துணை பாசத்தை அண்ணன், உனக்கும் எனக்குமிடையே வளர்த்து வைத்துவிட்டுப் போயிருக்கிறார். அந்த உணர்வினையும், உன்பால் நான் கொண்டிருக்கிற அன்பினையும், என்பால் நீ கொண்டிருக்கிற அன்பினையும் நம்மிருவரைப் போலவே நாடு முழுவதுமுள்ள கழகத்தின் உயிர்நாடிகள் ஒருவருக்கொருவர் காட்டிக் கொள்கிற நேசத்தையும் குலைத்துவிட யாராலும் முடியாது என்பதை நாடறியும்.
+
+இந்த இயக்கத்தை வளர்க்கத்தான் ஒவ்வொருவருக்கும் உரிமையுண்டே தவிர, “வளர்த்தவன் நான்! அழிக்க முற்படுகிறேன்” என்று யார் கூறினாலும் அவர்களை நீ விட்டு வைத்தது கிடையாது. அடுத்த கணம் அவர்கள் எங்கேயோ ஒரு ஆழமான பள்ளத்தில் தூக்கி எறியப்பட்டிருக்கிறார்கள்.
+
+கழகத்தின் இருபத்திரண்டு ஆண்டு கால வரலாற்றில் எத்தனையோ சோதனைகள்! அறிஞர் அண்ணா அவர்களுக்கே அறிவுரை கூறிடும் தகுதி தங்களுக்கிருப்பதாகக் கருதிக் கொண்டு இறுதியில் கழகத்தைப் பிளக்க முயற்சித்து அந்த முயற்சியில் மூக்கறுபட்டு புதிய கட்சி ஆரம்பித்து இன்று மூலைக்கு ஒருவராகப் போய்விட்ட நண்பர்களின் கதையை எல்லாம் தமிழ்நாட்டு அரசியல் சரித்திரம் கூறிக்கொண்டுதானிருக்கிறது.
+
+கழகத்திற்குச் சோதனை ஏற்பட்ட ஒவ்வொரு நேரத்திலும் இத்துடன் “கழக அத்தியாயம் முடிந்தது” என்று கனவு கண்டு களிப்படைந்தவர்கள் எத்தனையோ பேர் உண்டு!
+
+ஆனால், என் அன்பு நண்பனே! ஒவ்வொரு சிக்கலான கட்டத்திலும் நீ காட்டிய தீரமும், உண்மையான தியாகத்திற்கு நீ தந்த மதிப்பும், அண்ணன் வளர்த்த இலட்சியத்திற்காக உயிர்விடவும் தயார் என்று நீ எடுத்துக் கொண்ட சூளுரையும் இந்தக் கோட்டையை எதிரிகளும் பிடிக்க முடியாமல் துரோகிகளும் காட்டிக் கொடுக்க முடியாமல் காப்பாற்றி இருக்கிறது.
+
+வாள் முனைக்கு எதிர் நின்று நீ வடித்த வெற்றிகள் எத்தனை!
+
+துப்பாக்கிச் சனியனுக்கு நெஞ்சு காட்டி நீ ஏற்றுக் கொண்ட அடக்குமுறைகள் எண்ணத் தொலையுமோ?
+
+இன்று உன் வேலை முடிந்து விட்டதாக எண்ணிடாதே! உன் சகோதரர்கள் சிலபேரை அமைச்சர்களாக்கி விடுவதோடு உன் பணி முடிந்துவிடவில்லை! இது மட்டுமே நீ ஏற்றுக்கொண்ட பணியுமல்ல!
+
+அமைச்சர் பதவி ஏற்கும்போது எத்துணை மகிழ்ச்சி எனக்கும் என் நண்பர்களுக்கும் இருந்திருக்குமோ; அதே மகிழ்ச்சி சிறைவாசத்தையும், அடக்குமுறைகளையும் ஏற்கும்போதும் - எங்களுக்கு இருந்ததுண்டு என நீ நம்புவதாலேயே அடைந்த வெற்றியில் இன்பங் காணுகிறாய்.
+
+நாளைக்கு, இந்தப் பதவிகளை உதறி எறிந்து விட்டுத் தமிழகத்தின் உரிமைகளைப் பாதுகாக்கும் புனிதப்போரில் ஈடுபடுவதற்கும் தயார் எனத் தடந்தோள்தட்டிக் கொண்டிருப்பவர்கள்தான் இன்று கோட்டையில் அமர்ந்திருக்கிறார்கள் என்பதை மட்டும் மறந்துவிடாதே!
+
+மாநில சுயாட்சி! மத்திய அரசு அதிகாரங்கள் பரவலாக்கப்பட வேண்டும்! என்பன போன்ற நமது குறிக்கோள் பற்றிப் பேசித் தீர்த்துக்கொள்ளலாம் என்று சில பேர் கூறுகிறார்கள் எனினும்; எனக்கென்னவோ அவ்வளவு சுலபத்தில் அந்த வெற்றி முகட்டில் நீயும் நானும் நடைபோடலாம் என்று நான் கருதிடவில்லை!
+
+உரிமைகளைக் கேட்கவும் பெறவும் நாம் கையாளுகிற முறை; பாராளுமன்ற முறை! அறப்போர் முறை! நம்மை நாமே வருத்திக் கொள்ளும் காந்தீய முறை! வன்முறை தவிர்த்த அண்ணாவின் முறை!
+
+அந்த முறைகள்தான் நமது மாநில சுயாட்சி வெற்றிக்குத் தேவையெனும் காலம் வந்துவிட்டால்; அப்போது நானும் நீயும் சென்னைக் கோட்டையிலா இருந்திட முடியும்?
+
+மீண்டும் ‘பாளையங்கோட்டை’கள் வராது என்பது என்ன நிச்சயம்!
+
+அதற்கும் தயாராகவே நமது பணிகள் இருந்திடல் வேண்டும்!
+
+அதற்கேற்ற வகையில் கழகம் வலுவடைய வேண்டும்!
+
+ஆயிரம் பல்லாயிரம் என்று கிளை அமைப்புக்கள் உருவாகிட வேண்டும்!
+
+மே முதல் வாரம் நெருங்கிக் கொண்டிருக்கிறது. பல லட்சம் உறுப்பினர்கள் கழகத்தில் சேர்ந்தனர் என்ற கணக்கினை நீ, தலைமைக் கழகத்திற்கு அனுப்பிட வேண்டும். அதற்கான ஆயத்தங்களை இப்போதே செய்து கொண்டிருக்க வேண்டும். வேறெதிலும் கவனம் செலுத்தாமல் வீதிக்கு வீதி கழகக் கொடி பறந்திட - ஊருக்கு ஊர் கிளைகள் பெருகிட - ஒன்றிரண்டு பல லட்சமென உறுப்பினர்கள் சேர்ந்திட - உழைத்திடுக தோழனே; உழைத்திடுக!
+
+உன் உள்ள உறுதியும் - நீ அமைக்கும் கிளைக் கழகத்தின் கட்டுக்கோப்பும் - தமிழரின் இன எழுச்சி வரலாற்றில் புரட்சி அத்தியாயமாகப் புதுப்பொலிவு காட்டட்டும்!
+
+இன்றே தொடங்கட்டும் உறுப்பினர் சேர்க்கும் பணி!
+
+அன்புள்ள,
+
+மு. கருணாநிதி
+
+(18-04-1971)
