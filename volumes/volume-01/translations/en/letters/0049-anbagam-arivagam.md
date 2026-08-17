@@ -1,0 +1,175 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0049"
+date: 1972-10-20
+title_ta: "அன்பகம்! அறிவகம்!"
+title_en: "An Abode of Love! An Abode of Wisdom!"
+source_pdf_pages: [206, 207, 208, 209]
+source_printed_pages: [206, 207, 208, 209]
+source_chapter: "../../chapters/0049-anbagam-arivagam.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0049 — An Abode of Love! An Abode of Wisdom!
+
+**Tamil title:** அன்பகம்! அறிவகம்!  
+**Date:** 20 October 1972  
+**Source:** PDF 206–209 / printed 206–209  
+**Canonical Tamil chapter:** [`0049-anbagam-arivagam.md`](../../chapters/0049-anbagam-arivagam.md)
+
+## English Translation
+
+Udanpirappē,
+
+I know you will read this letter with your eyes turned into pools. Could I fail to sense the feelings in your heart revealing themselves as trembling lips and drops of water in your eyes?
+
+How many times, one dearer than my own life, have I watched your moustache quiver! I have seen you strike your shoulders and stand erect.
+
+You know that my heart has cooled with delight whenever you thrust out your chest and announced, through appearance, speech and deeds of courage, that you are a warrior of honour. Whenever I saw you in that form, enemies had attacked you, your leaders and your Kazhagam. They had criticised them without dignity. You then took the form of a striped tiger and roared.
+
+Today, however, the heat in your heart flows as water from your eyes. Yes, as hot water! The cause? Must I search out and name the cause? Must I discover and explain the cause of the event that has turned your eyes into wounds?
+
+The fire rising in your heart appears as a flood in your long eyes.
+
+One such storm shook you and me in 1961.
+
+You cannot have forgotten. It seems this is a trial that comes to us once every ten years.
+
+My dear friend Sampath, who remains a dear friend even today, and my beloved friend, poet Kannadasan: the commotion arose under the leadership of those two.
+
+That quarrel flared against Arignar Anna, the peerless leader of the twentieth century. Poet Kannadasan was used as a piece upon that political chessboard.
+
+Our friend Sampath raised doubts about the Kazhagam's accounts. He described Anna as a dictator. He accused Anna of being a leader who had cast democracy aside. In connection with those charges, an Executive Committee meeting was held in Vellore. The headquarters' income and expenditure accounts were placed before it. The Executive Committee accepted the account details. But our friend Sampath did not stop the dispute there.
+
+A controversy arose over his description of Anna as a dictator. The quarrel grew, though only in words.
+
+Sampath walked out of the Executive Committee. Newspapers published reports claiming that he had been attacked inside it.
+
+Udanpirappē, do you understand something? Demanding accounts and calling the leader a dictator: these two accusations are not new to the Kazhagam. They did not sprout in 1972. Do you now understand that they merely continue an old charge laid against Anna and the Kazhagam in Anna's own time?
+
+At that moment, there was a special meeting in Thanjavur to raise election funds.
+
+It was 13 February 1961. I was Treasurer of the Kazhagam. Anna delivered the special address.
+
+Comrade Thangamuthu chaired the meeting. In his introductory remarks, he made an emotional request:
+
+> “Anna! We regard Kazhagam Treasurer Karunanidhi as our very eye. Some within the Kazhagam cast a stain upon him by saying that he has not maintained the party's accounts properly. Give us an explanation!”
+
+That was Thangamuthu's request.
+
+Anna rose to speak. Yes, he spoke:
+
+> “You comrades of Thanjavur district, who stand foremost in every undertaking, have completed the share of the election fund allotted to your district. You take pride in handing it to Thambi Karunanidhi, Treasurer of the Dravida Munnetra Kazhagam. Seeing it, I too take pride.
+>
+> “The money handed to Treasurer Karunanidhi will be properly entered into income-and-expenditure accounts and safely protected.
+>
+> “Why has it become necessary for me to say this? The friend who spoke before me, greatly distressed, said that somebody was making certain claims about it. I accept responsibility for ensuring that even if there is a difference of one paisa in the accounts, it will be made good, even if the cremation ground must be guarded to earn it. Do not worry about what others say or write.
+>
+> “The distinguished people of Thanjavur, who understand music well, will follow this. When one sings in the upper register, even a slight error in method spoils the pitch.
+>
+> “A discordant note sounds. In the same way, speaking unnecessary matters in a loud voice may sometimes produce discord. Whatever anyone may say or write, our Kazhagam will not perish.
+>
+> “The reason is that it was not built upon a weak foundation. When a procession moves, four people may cough along the way, two may clear their throats and two may sneeze. The procession does not stop because of them.
+>
+> “However loud the clattering sound when a bullock cart runs, no one pays attention. But when a small sound arises in a motor car, people immediately ask what it is. Why? The bullock cart is cheap; the motor car is valuable.
+>
+> “Likewise, no one worries when Congress splits. When a split appears among us, people are disturbed. Ten days ago, even I was disturbed. But I regained clarity because the Kazhagam will not be affected in the slightest.”
+
+I have now reminded you of Anna's Tamil that caressed Thanjavur, of the counsel he gave in 1961. No, no: I have reminded you of the heart he opened and showed us. This speech appeared in the 16 February 1961 issue of *Murasoli*. Is it not fitting now?
+
+The heart-home Anna opened that day was an abode of love for me and for the Kazhagam.
+
+As though he knew that ten years later charges about accounts and dictatorship would again be laid upon us, Anna opened in advance an abode of wisdom.
+
+Beloved Udanpirappē, read Anna's speech not once but twice. You will understand the truth of how, once every ten years, those who yearn to bring us down arise. The heart that answered the slur cast upon me and the abuse cast upon itself is not here today. What am I to do? Treachery is at play!
+
+With affection,
+
+M. K.
+
+(20 October 1972)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 49. அன்பகம்! அறிவகம்!
+
+உடன் பிறப்பே,
+
+கண்களைக் குளமாக்கிக் கொண்டு இந்தக் கடிதத்தைப் படித்திடுவாய் என்று எனக்குத் தெரியும், உன் உள்ளத்து உணர்ச்சிகள், உதடுகளின் படபடப்பாக - விழிகளில் நீர்த்துளிகளாக வெளிப்படுவதை உணர முடியாதவனா நான்!
+
+எத்தனையோ முறை; என் உயிரினும் இனியவனே! உன் மீசைகள் துடித்ததைப் பார்த்திருக்கிறேன். தோள்களைத் தட்டியவாறு நீ நிமிர்ந்து நின்றதைக் கண்டிருக்கிறேன்.
+
+மார்பைப் புடைத்துக்கொண்டு மானமறவன் நீ என்பதைத் தோற்றத்தால் பேச்சால் - வீரச்செயல்களால் அறிவித்த போதெல்லாம் அகம் குளிர்ந்தவன் நான் என்பதை நீ அறியாதவனல்லவே! உன் உருவத்தை அதுபோல நான் கண்டபோது; எதிரிகள் உன்னை - உன் தலைவர்களை - உன் கழகத்தைத் தாக்கியிருப்பார்கள். தரக்குறைவாக விமர்சித்திருப்பார்கள். அதனால் நீ வரி வேங்கைப் புலியென வடிவெடுத்து உறுமினாய்!
+
+இன்றோ; உன் நெஞ்சுக் கொதிப்பு நீராக வழிகிறது கண்களில்! ஆம்; சுடு நீராக! காரணம்! காரணம் கண்டுபிடித்தா சொல்ல வேண்டும்? உன் கண்களைப் புண்களாக்கிய நிகழ்ச்சிக்குக் காரணம் கண்டுபிடித்தா சொல்ல வேண்டும்?
+
+இதயத்தில் எழும் கனல் - உன் நீள் விழிகளில் புனலாகத் தோற்றமளிக்கிறது!
+
+இதுபோல் ஒரு புயல், உன்னையும் என்னையும் ஆட்டிப் படைத்தது; 1961-ஆம் ஆண்டு!
+
+மறந்திருக்க மாட்டாய்! பத்தாண்டுகளுக்கொரு முறை நமக்கு வரும் சோதனை போலும் இது!
+
+என் அருமை நண்பர் சம்பத் - இன்றைக்கும் அருமை நண்பர்தான் - என் அன்பு நண்பர் கவிஞர் கண்ணதாசன் - இருவரின் தலைமையிலே எழுந்தது அமளி!
+
+இருபதாம் நூற்றாண்டின் இணையற்ற தலைவர் அறிஞர் அண்ணா அவர்களை எதிர்த்து மூண்டது அந்தப் பூசல்! அந்த அரசியல் சதுரங்கத்தில் கவிஞர் கண்ணதாசன் காயாகப் பயன்படுத்தப்பட்டார்.
+
+நண்பர் சம்பத், கழகத்தின் வரவு செலவுக் கணக்கில் சந்தேகத்தை எழுப்பினார். அண்ணாவை சர்வாதிகாரி என்று வர்ணித்தார். ஜனநாயகத்தைத் தூக்கி எறிந்துவிட்ட தலைவர் என்று அண்ணா மீது சம்பத் குற்றம் சாட்டினார். அந்தக் குற்றச்சாட்டுகளின் தொடர்பாக வேலூரில் செயற்குழு நடைபெற்றது. தலைமைக் கழகத்தின் கணக்கு வரவு செலவுகள் செயற்குழுவில் வைக்கப்பட்டன. செயற்குழு கணக்கு விபரங்களை ஏற்றுக் கொண்டது. அத்துடன், விவகாரத்தை நிறுத்தவில்லை நண்பர் சம்பத்!
+
+அண்ணாவை சர்வாதிகாரி என்று வர்ணித்து அவர் வெளியிட்ட கருத்து பற்றிய சர்ச்சை எழுந்தது. தகராறு பெரிதாயிற்று! பேச்சளவில்தான்!
+
+சம்பத், செயற்குழுவை விட்டு வெளியேறினார். அவர் செயற்குழுவில் தாக்கப்பட்டதாகவே பத்திரிகைகளில் செய்திகள் வெளியிடப்பட்டன.
+
+உடன் பிறப்பே! உனக்கு ஒன்று புரிகிறதா? கணக்கு கேட்பது - சர்வாதிகாரி என்று கூறுவது இந்த இரண்டு குற்றச்சாட்டுகளும் கழகத்திற்குப் புதிதல்ல! 1972-ஆம் ஆண்டில் முளைத்ததல்ல! அறிஞர் அண்ணா காலத்திலேயே அவர் மீதும், கழகத்தின் மீதும் சுமத்தப்பட்ட பழைய பழியின் தொடர்ச்சிதான் என்பது; இப்போது உனக்குப் புரிகிறதா?
+
+அந்த நேரத்தில் தஞ்சையில் ஒரு சிறப்புக் கூட்டம்! தேர்தல் நிதி திரட்டுவதற்காக நடத்தப்படுகிறது.
+
+1961-பிப்ரவரி 13-ஆம் நாள்! நான் கழகத்தின் பொருளாளர்! அந்த நிகழ்ச்சியில் அண்ணா சிறப்புரையாற்றுகிறார்.
+
+சிறப்புக் கூட்டத்தின் தலைவர் தோழர் தங்கமுத்து! அவர் முன்னுரையில் குறிப்பிடுகிறார் உருக்கமாக!
+
+“அண்ணா அவர்களே! கழகப் பொருளாளர் கருணாநிதியை நாங்கள் கண் என மதிக்கிறோம். அவர் கழகக் கணக்கை சரியாக வைக்கவில்லை என்று சிலர் களங்கம் கற்பிக்கிறார்கள்; கழகத்திற்குள்ளேயே! அதற்கு விளக்கம் தாருங்கள்!”
+
+இது தங்கமுத்துவின் வேண்டுகோள்.
+
+அண்ணா பேச எழுகிறார். ஆம் பேசுகிறார்.
+
+“எந்தச் செயலிலும் முந்தியிருக்கிற தஞ்சை மாவட்டத் தோழர்களாகிய நீங்கள், உங்கள் மாவட்டத்துக்கு ஒதுக்கப்பட்ட தேர்தல் நிதி பங்குத் தொகையைப் பூர்த்தி செய்து அதைத் திராவிட முன்னேற்றக் கழகப் பொருளாளராகிய தம்பி, கருணாநிதியிடத்தில் ஒப்படைத்துப் பெருமிதம் அடைகிறீர்கள். அதைக் கண்டு நானும் பெருமை கொள்கிறேன்.
+
+பொருளாளர் கருணாநிதியிடத்தில் ஒப்படைக்கப்பட்ட பணம், ஒழுங்காகக் கணக்கு வரவு செலவு வைக்கப்பட்டுப் பத்திரமாகப் பாதுகாக்கப்படும்.
+
+இதை நான் சொல்லவேண்டிய அவசியம் ஏன் ஏற்பட்டது? இதைப்பற்றி யாரோ ஏதோ கூறுவதாக - மிக்க வேதனைப்பட்டு எனக்கு முன் பேசிய நண்பர் குறிப்பிட்டார். வரவு செலவில் ஒரு காசு வித்தியாசப்பட்டாலும் அதனைச் சுடலை காத்தாவது ஒப்புவிக்கப்படும் என்பதற்கான பொறுப்பை நான் ஏற்றுக் கொள்கிறேன். மற்றவர்கள் பேசுவதற்கும் எழுதுவதற்கும் கவலைப்படாதீர்கள்.
+
+சங்கீதத்தைப் பற்றி நன்கு தெரிந்த தஞ்சைப் பெருமக்களுக்குப் புரியும். மேல் ஸ்தாயியில் பாடும்போது சிறிது முறை தவறினாலும் ‘சுருதி’ கெடும்.
+
+‘அபசுரம்’ பேசும். அதைப்போல அவசியமில்லாத செய்திகளை உரத்தகுரலில் பேசுவதால் சில நேரம் ‘அபசுரம்’ விளையும். யார் என்ன சொன்னாலும், எதை எழுதினாலும், நமது கழகம் அழியாது.
+
+காரணம் இது பலவீனமான அடிப்படையில் கட்டப்பட்டதல்ல. ஊர்வலம் சென்று கொண்டிருக்கும்போது இடையே நாலுபேர் இருமுவர்! இரண்டுபேர் கனைப்பர்! இருவர் தும்முவர்! அவர்களைப் பொருட்படுத்தி - அதற்காக ஊர்வலம் நின்றுவிடுவதில்லை.
+
+மாட்டு வண்டி ஓடும்போது ‘கட கட’ என்ற சப்தம் எவ்வளவு பெரிதாக எழுந்தாலும் யாரும் கவனிப்பதில்லை. ஆனால் மோட்டார் வண்டி ஓடும்போது ஒரு சிறு சப்தம் கிளம்பினாலும் உடனே அது என்ன என்று கவனிக்கிறார்கள். காரணம் என்ன? மாட்டு வண்டி விலை குறைந்தது. மோட்டார் வண்டி விலை உயர்ந்தது.
+
+அதுபோலக் காங்கிரசில் பிளவென்றால் கவலைப்படுவாரில்லை. நமக்குள் பிளவென்றால் கலங்குகிறார்கள். கடந்த பத்து நாட்களுக்கு முன்பு நான்கூடத்தான் கலங்கிப் போனேன். ஆனால், இதனால் கழகம் எள்ளளவும் பாதிக்கப்படாது என்பதால் தெளிவு பெற்றேன்.”
+
+தஞ்சையில் கொஞ்சிய அண்ணனின் தமிழை 1961-ஆம் ஆண்டு அவர் தந்த அறிவுரையை - இல்லை; இல்லை: அவர் திறந்து காட்டிய நெஞ்சகத்தை உனக்கு இப்போது நினைவூட்டினேன். 16-2-61 முரசொலி இதழில் வெளியான பேச்சு இது! இப்போது பொருத்தமாக இருக்கிறதல்லவா?
+
+அன்று அண்ணன் திறந்து காட்டிய நெஞ்சகம், என் மீதும் கழகத்தின்மீதும் கொண்ட அன்பகம்!
+
+பத்தாண்டுகளுக்குப் பிறகு கணக்கு வழக்கு சர்வாதிகாரம் - என்ற பழிகள் சுமத்தப்படும் என்பதையறிந்து அன்றைக்கே முன்கூட்டித் திறக்கப்பட்ட அண்ணனின் அறிவகம்!
+
+அன்பு உடன்பிறப்பே! அண்ணன் பேச்சை ஒரு முறைக்கு இருமுறை படித்திடு! நம்மை வீழ்த்தத் துடித்திடுவோர் பத்தாண்டுக்கு ஒரு முறை எப்படிக் கிளம்புவர் என்ற உண்மை விளங்கிடும். என்மீது வீசப்பட்ட பழிமொழிக்கும், தன்மீது வீசப்பட்ட இழிமொழிக்கும் பதில் சொன்ன அந்த நெஞ்சகம் இன்று இல்லையே; என் செய்வேன்! வஞ்சகம் விளையாடுகிறதே!
+
+அன்புள்ள,
+
+மு. க.
+
+(20-10-1972)
+
+## Translator's Note
+
+Migrated from the preserved legacy Volume 1 bilingual draft and checked against the fully verified canonical Tamil source layer. The 1961 Sampath–Kannadasan controversy, Thangamuthu's request, Anna's complete quoted reply, the `நெஞ்சகம் / அன்பகம் / அறிவகம்` wordplay and source sign-off are retained. `Udanpirappē` is preserved where the Tamil uses `உடன்பிறப்பே`.
