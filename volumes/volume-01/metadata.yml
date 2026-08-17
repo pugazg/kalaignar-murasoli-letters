@@ -7,7 +7,7 @@ letter_number_from: 1
 letter_number_to: 110
 letter_count: 110
 printed_contents_entry_count: 110
-letter_count_status: "verified from printed contents; canonical letter bodies still being migrated"
+letter_count_status: "verified from printed contents and complete canonical letter bodies"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -22,18 +22,18 @@ legacy_bilingual_record_count: 110
 legacy_translation_audit_passed: true
 volume_specific_batch_size: 10
 volume_specific_batch_rule: "Volume 1 only: regular migration/review iterations use 10 complete consecutive letters; documented final residue may be smaller. User explicitly approved one expanded 20-letter iteration for 0057-0076."
-transcription_page_range: "1-383"
-transcription_status: "in-progress"
-recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
-completed_letter_range: "1-106"
-completed_letter_count: 106
+transcription_page_range: "1-401"
+transcription_status: "first-pass-complete"
+recorded_letter_range: "1-110 (110 canonical source records complete)"
+completed_letter_range: "1-110"
+completed_letter_count: 110
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
 source_printed_pagination_anomalies:
   - "PDF 39 prints page 38; PDF 40 prints page 40. Printed page number 39 is skipped, but text is continuous across the boundary."
-audit_status: "volume-01-ten-letter-batch-0097-0106-complete"
+audit_status: "volume-01-final-residue-0107-0110-complete"
 audit_date: 2026-08-17
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -53,7 +53,7 @@ source_observations:
   - "PDF pages 18-23 contain the printed contents with 110 entries."
   - "Printed contents entry 63 has no date printed in its date column; no date has been inferred here."
   - "Letter 1 begins at PDF page 24 / printed page 23 and closes at PDF page 27 / printed page 26 with sign-off and date."
-  - "Letters 2-96 are visually boundary-verified and canonically migrated through PDF page 344."
+  - "Letters 2-110 are visually boundary-verified and canonically migrated through PDF page 400; PDF 401 is non-letter back cover."
   - "The source visibly skips printed page number 39 between PDF pages 39 and 40, but the text is continuous; no missing content is inferred."
   - "Actual page heading controls over contents variants; letters 8, 12 and 24 demonstrate this rule."
   - "PDF page 95 contains deliberate censored ellipses; they are preserved without reconstruction."
@@ -64,7 +64,7 @@ source_observations:
   - "PDF page 137 prints the unusual punctuation ஜனநாயக உரிமைகளை(!); it is retained."
   - "PDF page 144 contains a substantial scan-visible 1938 anti-Hindi movement passage absent from the legacy reading copy; canonical transcription follows the scan."
   - "PDF page 149 prints எட்டு நாட்களுக்கு முன்பு; the legacy reading copy's ஏழெட்டு form is not substituted."
-  - "PDF page 155 uses decorative diamond list markers and PDF page 158 uses three-dot list markers; the canonical page layer preserves these typographic list structures."
+  - "PDF page 155 uses decorative diamond list markers and PDF page 158 uses three-dot list markers; the canonical page layer preserves the list structure."
   - "Letters 33-35 address Anna and close as Thambi / Mu. Karunanidhi; letter 36 begins Udan Pirappe and closes Anbulla / Mu. Karunanidhi, marking a source-visible change from the earlier Maravan sign-off."
   - "PDF page 164 contains the scan-visible closing sentence இறுதி வெற்றி பெறாமல், என் இனிய நண்பா! நீயும் நானும் தூங்குவோமா என்ன?, fuller than the legacy reading copy; canonical transcription follows the scan."
   - "PDF page 165 prints என் உடன்பிறப்பே! without an internal space; the source form is retained."
@@ -100,7 +100,6 @@ source_observations:
   - "PDF page 340 prints “மாம்பழ மங்கை” in double quotation marks and இதோ...மங்கையே without a space after the ellipsis; these scan forms are retained."
   - "PDF page 342 prints பகுத்தறிவு வாதிகளின் with a space; the legacy joined form is not substituted."
   - "Letter 96 begins on PDF 343 without a salutation after its heading; PDFs 343-344 preserve source no-space hyphenation and bold date/1972 parallel passages."
-  - "PDF page 345 visibly begins letter 97 with the actual heading இன்றே தயாராகு! and salutation உடன்பிறப்பே, confirming the boundary after letter 96; no letter 97 text is committed in the 0087-0096 batch."
   - "PDF pages 345-346 preserve letter 97's compact source hyphenation, including கோட்டை-நமக்குக் குளிர் தருவதும் அல்ல!, and its closing call to prepare for the ideal festival."
   - "PDF pages 347-350 preserve letter 98's Anna/Periyar historical passages, source-bold quotation, compact hyphenation, and the final தூள்-தூள் / தோள் தோள் wordplay."
   - "PDF pages 351-353 preserve letter 99's page-boundary continuations, source compact hyphenation, bold என் கண்ணின் மணியே!, and the 22-09-1974 closure."
@@ -111,6 +110,10 @@ source_observations:
   - "PDF pages 369-373 preserve letter 104's dense source hyphenation, bold Kalki quotations and Assembly-strength paragraph; PDF 373 prints the date 26-10-1974 without parentheses."
   - "PDF pages 374-379 preserve letter 105's bold milk-pot and deer/tortoise/goat passages, decorative ∵ statistical sections, printed I. F. C. / IC. I. C. I. forms, Grey Iron castings, industrial index figures, and the closing ஆடல்ல-முயல் wordplay."
   - "PDF pages 380-383 preserve letter 106's title without a space before (3), three lineated offence phrases, Anna's tree quotation, state-autonomy terminology including சுவாதீனம் / சமஷ்டி / பூச்சாண்டி, and the 03-11-1974 closure."
-  - "Letters 97-106 are visually boundary-verified and canonically migrated through PDF page 383."
-  - "PDF page 384 visibly begins letter 107 with the actual heading வாழ்க-உன் புன்னகை! and salutation உடன்பிறப்பே, confirming the boundary after letter 106; no letter 107 text is committed in the 0097-0106 batch."
+  - "PDF pages 384-387 preserve letter 107's title வாழ்க-உன் புன்னகை!, South Indian Liberal Federation / Self-Respect movement history, the ஆட்சி / மாட்சி wordplay, the long movement-leader list, and the 10-11-1974 closure."
+  - "PDF pages 388-391 preserve letter 108's source-bold constitutional quotations, source spacing in விவாதித்து - ... எடுத்து-கிளர்ச்சிக்கே, the சனநாயக terminology, Hazaribagh / Bihar political references, and the 17-11-1974 closure."
+  - "PDF pages 392-395 preserve letter 109's film analogy, decorative ∵ epithet lists, the opaque printed form நமப்பார்வதி பதேக்கள்! without reconstruction, source-bold final analogy, and the 24-11-1974 closure."
+  - "PDF pages 396-400 preserve letter 110's Malaya / Sambasivam history, the long quoted 1949 கயிற்றில் தொங்கிய கணபதி passage, source lineation, the four-exclamation தமிழகமே!!!! form, and the 01-12-1974 closure."
+  - "PDF page 401 is the colour back cover with Kalaignar portrait, 1924 - 2018, publisher contact block, QR code, GO 2300 and ரூ.300; it contains no letter text."
+  - "All 110 canonical letters are now first-pass complete; the full-volume Tamil structural audit and second visual/textual-fidelity verification remain pending."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."

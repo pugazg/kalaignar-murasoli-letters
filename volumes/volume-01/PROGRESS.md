@@ -18,7 +18,7 @@
 - [x] Sixth regular ten-letter batch: letters 0077–0086 / PDF 289–312
 - [x] Seventh regular ten-letter batch: letters 0087–0096 / PDF 313–344
 - [x] Eighth regular ten-letter batch: letters 0097–0106 / PDF 345–383
-- [ ] Final documented residue: letters 0107–0110 / PDF 384 onward
+- [x] Final documented residue: letters 0107–0110 / PDF 384–400, plus non-letter back cover PDF 401
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
 - [ ] Legacy English record migration and source checking
@@ -28,20 +28,20 @@
 
 ## Current boundary
 
-- Canonical page files: **383 / 401**
+- Canonical page files: **401 / 401**
 - Printed contents entries captured: **110 / 110**
-- Canonically completed letters: **106 / 110**
-- Completed canonical letter range: **0001–0106**
+- Canonically completed letters: **110 / 110**
+- Completed canonical letter range: **0001–0110**
 - Partial canonical letter: **none**
-- Canonical letter coverage: **PDF 024–383**
+- Canonical letter coverage: **PDF 024–400**; PDF 401 is non-letter back cover
 - Current regular Volume 1 batch size: **10 letters**; the completed 0057–0076 iteration was explicitly expanded to 20 letters by the user
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
-- Scan-controlled forms in the latest batch include source compact hyphenation, source-bold/lineated blocks, the decorative `∵` markers in letter 0105, the two-line letter 0103 heading, letter 0104's unparenthesized date, and the `‘கல்கி’யின் கண்ணோட்டம்(3)` title form
-- Latest batch audit: [`BATCH_0097_0106_AUDIT.md`](BATCH_0097_0106_AUDIT.md)
+- Scan-controlled forms in the final residue include letter 0107's ஆட்சி / மாட்சி wordplay, letter 0108's source-bold constitutional quotations and `சனநாயக` terminology, letter 0109's decorative `∵` lists and opaque printed `நமப்பார்வதி பதேக்கள்!`, and letter 0110's long 1949 quotation and four-exclamation `தமிழகமே!!!!` form
+- Latest batch audit: [`BATCH_0107_0110_AUDIT.md`](BATCH_0107_0110_AUDIT.md)
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
 - Canonically migrated/verified English records: **0 / 110**
 
 ## Exact next task
 
-Begin at **PDF 384**, where the scan visibly starts letter **0107 — `வாழ்க-உன் புன்னகை!`**. Process the documented final residue of **four complete consecutive letters, 0107–0110**, through the source ending. Visually verify every page, the final letter closure and any remaining non-letter page(s). Keep the legacy bilingual corpus untouched and do not start English migration until the canonical Tamil layer and required audit gates are complete.
+Run the **full-volume Tamil structural audit** across PDF **001–401** / canonical letters **0001–0110**. Confirm that every PDF page has exactly one canonical page record, all 110 printed contents entries map to canonical chapter records, all letter start/end boundaries and dates/titles are internally consistent, letter 0063 remains undated, the printed-page-39 anomaly is documented without inventing missing text, and PDF 401 is correctly classified as non-letter back cover. Keep the legacy bilingual corpus untouched and do not start English migration until the structural audit and second visual/textual-fidelity gate are complete.

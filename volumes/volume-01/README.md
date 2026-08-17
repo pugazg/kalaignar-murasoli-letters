@@ -20,7 +20,7 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 
 ## Current canonical state
 
-- Canonical PDF coverage: **001–383 / 401**.
+- Canonical PDF coverage: **001–401 / 401 — first-pass complete**.
 - Mandatory first batch: **complete — PDF 001–025**.
 - Interrupted letter 0001 completion: **complete — PDF 026–027**.
 - Initial five-letter batch completed before the Volume 1 override: **0002–0006 / PDF 028–047**.
@@ -33,16 +33,18 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Sixth regular Volume 1 ten-letter batch: **complete — 0077–0086 / PDF 289–312**.
 - Seventh regular Volume 1 ten-letter batch: **complete — 0087–0096 / PDF 313–344**.
 - Eighth regular Volume 1 ten-letter batch: **complete — 0097–0106 / PDF 345–383**.
+- Final documented residue: **complete — 0107–0110 / PDF 384–400**.
+- Back cover / non-letter tail: **complete — PDF 401**.
 - Front matter/preface: PDF **001–017** first-pass reviewed.
 - Printed contents: PDF **018–023**, all **110 printed entries** transcribed.
-- Canonically complete letters: **0001–0106 (106 / 110)**.
+- Canonically complete letters: **0001–0110 (110 / 110)**.
 - Partial canonical letter: **none**.
 - Source pagination note: PDF 039 prints **38**, while PDF 040 prints **40**; text is continuous, so printed number 39 is treated as a source pagination anomaly, not missing content.
 - Actual heading variants are preserved where they differ from contents entries, including letters 0008, 0012 and 0024.
-- Batch-specific source observations for the completed 0097–0106 activity are recorded in [`BATCH_0097_0106_AUDIT.md`](BATCH_0097_0106_AUDIT.md); earlier migration observations remain in [`AUDIT.md`](AUDIT.md).
+- Batch-specific source observations for 0097–0106 are recorded in [`BATCH_0097_0106_AUDIT.md`](BATCH_0097_0106_AUDIT.md), and the final 0107–0110 residue / source ending is recorded in [`BATCH_0107_0110_AUDIT.md`](BATCH_0107_0110_AUDIT.md); earlier migration observations remain in [`AUDIT.md`](AUDIT.md).
 - Letter 0063 has **no date printed in the source**; no date is inferred.
-- PDF 384 visibly begins letter 0107 — `வாழ்க-உன் புன்னகை!` — with salutation `உடன்பிறப்பே,`; it was inspected only to verify the next boundary and no PDF-384 text is committed in this batch.
-- Full-volume Tamil structural audit: **blocked until 401/401 canonical pages exist**.
+- Letters 0107–0110 are complete on PDF **384–400**. Letter 0110 closes on PDF 400 with `(01-12-1974)`; PDF 401 is a non-letter colour back cover / publisher advertisement.
+- Full-volume Tamil structural audit: **ready to begin; 401/401 canonical page files now exist**.
 - Second visual/textual-fidelity verification: **not started**.
 - English migration/alignment: **blocked** until the canonical Tamil volume and required audit gates are complete.
 
@@ -64,4 +66,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Begin at **PDF 384**, where the scan visibly starts letter **0107 — `வாழ்க-உன் புன்னகை!`**. Process the documented final residue of **four complete letters, 0107–0110**, through the end of the volume, visually verifying every source page and final boundary. Keep the legacy bilingual corpus unchanged and do not begin English migration until the canonical Tamil layer and required audit gates are complete.
+Run the **full-volume Tamil structural audit** across canonical PDF pages **001–401** and letters **0001–0110**. Verify continuous canonical page coverage, all 110 printed contents entries against canonical chapter records, every letter start/end boundary, titles, dates, the undated letter 0063, the printed-page-39 pagination anomaly, and the non-letter PDF 401 back cover. Keep the legacy bilingual corpus unchanged. Do not begin English migration until the structural audit and required second visual/textual-fidelity gate are complete.

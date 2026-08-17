@@ -110,6 +110,10 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0104 | ‘கல்கி’யின் கண்ணோட்டம்! | 1974-10-26 | 369–373 | complete |
 | 0105 | ‘கல்கி’யின் கண்ணோட்டம் (2) | 1974-10-27 | 374–379 | complete |
 | 0106 | ‘கல்கி’யின் கண்ணோட்டம்(3) | 1974-11-03 | 380–383 | complete |
+| 0107 | வாழ்க-உன் புன்னகை! | 1974-11-10 | 384–387 | complete |
+| 0108 | வாண வேடிக்கை! | 1974-11-17 | 388–391 | complete |
+| 0109 | அவள் ஒரு தொடர்கதை! | 1974-11-24 | 392–395 | complete |
+| 0110 | கயிற்றில் தொங்கிய கணபதி! | 1974-12-01 | 396–400 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -125,4 +129,4 @@ The source changes address/sign-off form across the volume; source-visible forms
 
 The user explicitly approved an expanded 20-letter scope for the completed **0057–0076 / PDF 236–288** iteration. Letter 0063 has no date printed in the source and is deliberately not assigned one. Scan-controlled divergences and typographic forms in this range are recorded in [`../AUDIT.md`](../AUDIT.md).
 
-The scan confirms that letters 0077–0106 are complete through PDF 383. Batch-specific observations for 0097–0106 are recorded in [`../BATCH_0097_0106_AUDIT.md`](../BATCH_0097_0106_AUDIT.md). PDF 384 begins letter 0107 — `வாழ்க-உன் புன்னகை!` — with salutation `உடன்பிறப்பே,`; no PDF-384 text is part of the completed 0097–0106 batch.
+The scan confirms that letters 0077–0110 are complete through PDF 400. Batch-specific observations for 0097–0106 are recorded in [`../BATCH_0097_0106_AUDIT.md`](../BATCH_0097_0106_AUDIT.md), and the final residue 0107–0110 / source ending is recorded in [`../BATCH_0107_0110_AUDIT.md`](../BATCH_0107_0110_AUDIT.md). PDF 401 is the non-letter colour back cover / publisher advertisement.

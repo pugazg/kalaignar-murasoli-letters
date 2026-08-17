@@ -1,0 +1,39 @@
+---
+volume: 1
+pdf_page: 401
+printed_page: null
+section: "back-cover"
+letter_number: null
+letter_date: null
+letter_title_ta: null
+transcription_status: "first-pass-reviewed"
+source_note: "Colour back cover with Kalaignar portrait and publisher advertisement; no letter text."
+---
+
+# பின் அட்டை
+
+[வண்ணப் புகைப்படம்: கலைஞர் மு. கருணாநிதி புன்னகைக்கும் உருவப்படம்.]
+
+**1924 - 2018**
+
+## நூல் கிடைக்குமிடம்
+
+**கௌரா புத்தக மையம்**  
+9, செ. ஜான் சர்ச் வணிக வளாகம்,  
+ராக்கின்ஸ் சாலை, திருச்சி - 1.  
+`gowraputhagamaiyam@gmail.com`
+
+**கௌரா ஏஜென்சீஸ்**  
+1, சாமி தெரு, திருவல்லிக்கேணி,  
+சென்னை - 5.  
+`gowra09@gmail.com`  
+`www.facebook.com/gowrabookcentre`
+
+**கௌரா பதிப்பகக் குழுமம்**
+
+[QR குறியீடு]
+
+**GO 2300**  
+**ரூ.300**
+
+[அட்டைக் கலைஞர் பெயராகக் கையெழுத்தில் உள்ள குறிப்பு தெளிவாகப் படிக்க இயலவில்லை.]
