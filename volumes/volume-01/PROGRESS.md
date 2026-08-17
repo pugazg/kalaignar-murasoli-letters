@@ -3,25 +3,10 @@
 - [x] Migration audit completed against existing legacy Volume 1 corpus
 - [x] Controlling `Vol1.pdf` verified: 401 PDF pages, 400 printed pages
 - [x] New canonical `volumes/volume-01/` scaffold established
-- [x] Mandatory first batch: PDF 001–025 first-pass reviewed
-- [x] Printed contents PDF 018–023 transcribed: 110 entries
-- [x] Letter 0001 started at PDF 024 and correctly left partial at PDF 025
-- [x] Interrupted letter 0001 completed from PDF 026 through its source closing at PDF 027
-- [x] Initial regular five-letter batch: letters 0002–0006 / PDF 028–047
-- [x] Volume 1 batch override adopted: **10 complete letters per regular iteration**
-- [x] First ten-letter batch: letters 0007–0016 / PDF 048–089
-- [x] Second ten-letter batch: letters 0017–0026 / PDF 090–126
-- [x] Third ten-letter batch: letters 0027–0036 / PDF 127–160
-- [x] Fourth ten-letter batch: letters 0037–0046 / PDF 161–199
-- [x] Fifth ten-letter batch: letters 0047–0056 / PDF 200–235
-- [x] User-approved expanded 20-letter batch: letters 0057–0076 / PDF 236–288
-- [x] Sixth regular ten-letter batch: letters 0077–0086 / PDF 289–312
-- [x] Seventh regular Volume 1 ten-letter batch: letters 0087–0096 / PDF 313–344
-- [x] Eighth regular Volume 1 ten-letter batch: letters 0097–0106 / PDF 345–383
-- [x] Final documented residue: letters 0107–0110 / PDF 384–400, plus non-letter back cover PDF 401
-- [x] Full-volume Tamil structural audit
+- [x] Canonical Tamil page/letter migration complete: **401 / 401 pages; 110 / 110 letters**
+- [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
-- [ ] Legacy English record migration and source checking
+- [ ] Legacy English record migration and source checking — **in progress; 0001–0010 / 110 source-checked**
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
 - [ ] Translation manifest and final release report
@@ -36,19 +21,22 @@
 - Canonical letter coverage: **PDF 024–400**; PDF 401 is non-letter back cover
 - Full-volume Tamil structural audit: **PASS — complete**; report: [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md)
 - Full-volume second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401 complete**; closure report: [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
-- Final range reports: [`translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) and [`translations/en/TEXTUAL_FIDELITY_AUDIT_401.md`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md)
 - Cumulative second-pass corrections: **159 canonical pages / 274 spans**
-- PDF 376–400 required scan-proven corrections on **5 canonical pages / 5 spans**: PDFs **380, 384, 388, 392 and 396**, restoring the scan-bold opening salutations for letters **0106–0110** while preserving exact source forms and punctuation
-- PDF **401** back cover was visually verified and required **no canonical correction**
-- Letters **0001–0110** now have complete second-pass source-page coverage
-- The structural audit confirmed exactly one canonical page record for PDF 001–401 and exactly 110 numbered canonical chapter records, with continuous letter coverage PDF 024–400 and no gap or overlap
+- Letters **0001–0110** have complete second-pass source-page coverage
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
 - Printed-contents wording remains literal where it differs from actual heading pages; letter 0109 contents `அவள் ஒரு தொடற்கதை!` differs from actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`
-- Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
-- Canonically migrated/verified English records: **0 / 110**
-- Canonical English migration is now **unblocked** because both required Tamil gates — structural and full visual/textual fidelity — are complete and PASS
+- Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
+- Canonically migrated English records: **10 / 110**
+- Canonically source-checked English records: **10 / 110**
+- Completed canonical English range: **0001–0010**
+- Bilingual-aligned canonical English records: **0 / 110**
+- Verified canonical English records: **0 / 110**
+- First canonical English source-check report: [`translations/en/SOURCE_CHECK_0001_0010.md`](translations/en/SOURCE_CHECK_0001_0010.md)
+- Letter 0002 was corrected against scan-verified PDF 030 so Kamaraj's Deepavali quotation includes the source-visible `என்பதை இந்த ஆண்டு காண்கிறோம்` before the following sentence
+- Letter 0010 follows scan-verified PDF 063 `ரன்னர்` and therefore uses **Runner Cup**, not the stale legacy `Rainer` reading
+- Letter 0009's embedded Tamil incorporates the second-pass source forms from PDFs 058 and 060–062
 
 ## Exact next task
 
-Begin **legacy English record migration and source checking** for canonical Volume 1. Use the 110 preserved bilingual records under `../volume-1/` only as reusable drafts/evidence; the verified canonical Tamil pages and controlling `Vol1.pdf` remain authoritative. Follow the repository translation workflow and Volume 49/46 release conventions, preserve Kalaignar's thought order, rhetoric and political language, and do not silently normalize source-specific terms or anomalies.
+Migrate and source-check canonical English letters **0011–0020** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.

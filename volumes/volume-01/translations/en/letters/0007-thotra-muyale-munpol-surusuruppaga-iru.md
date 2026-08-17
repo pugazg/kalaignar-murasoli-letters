@@ -1,0 +1,328 @@
+---
+volume: 1
+letter_number: 7
+tamil_title: "தோற்ற முயலே! முன்போல சுறுசுறுப்பாக இரு!"
+english_title: "Defeated Hare! Be as Energetic as Before!"
+date: 1968-10-31
+source_pdf_page_start: 48
+source_pdf_page_end: 53
+source_printed_page_start: 48
+source_printed_page_end: 53
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0007.en.md"
+---
+
+# 7. Defeated Hare! Be as Energetic as Before!
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0007](../../../chapters/0007-thotra-muyale-munpol-surusuruppaga-iru.md)  
+**Source pages:** [PDF 48](../../../pages/page-048.md)–[PDF 53](../../../pages/page-053.md)  
+**Date:** 31 October 1968
+
+Dear friend!
+
+In the Corporation election, the Kazhagam contested 96 places, won 54 and lost 42. The allied parties contested 24 places, won 14 and lost 10. Though the alliance has majority strength, though eight more Adi-Dravidar comrades have been elected and will add to that strength, and though Chennai's Mayor will be one of our people, I know it is hard for you to bear that you lost the opportunity for victory in your own ward.
+
+“Brutus! You too?” Julius Caesar asked in anguish, standing with blood cascading like a waterfall after taking the dagger thrust in his back.
+
+You too had to look at certain people and ask that question.
+
+Ilangumanan, younger brother of Kumanan, announced a reward of a thousand gold pieces to anyone who brought him his elder brother's severed head.
+
+We saw in 1960—and again in this Corporation election—that our Anna had some younger brothers who could have made even Ilangumanan seem a good man.
+
+Their betrayal kept you from victory. I know you will not become dejected by defeat and sit in a corner.
+
+What did our Anna say when he suffered defeat on the soil of Kanchi in 1962?
+
+“I do not consider myself defeated. I regard myself as entering the Legislative Assembly in the form of fifty people.”
+
+You are the younger brother of the man who spoke thus! Yet look at certain former ministers and others whose lifelong dream of office collapsed after losing power in 1967. They lie there crying:
+
+“Alas, it is gone!
+
+Mother, it is gone!
+
+Status is gone!
+
+Luxury is gone!
+
+Office is gone!
+
+Prestige is gone!”
+
+Do you possess a bitter heart like theirs?
+
+No! No! Yours is a heart of resurgence!
+
+Forget grieving over your defeat and think carefully about its causes.
+
+We lost a hundred votes in that street. We failed to bring seventy voters from this street. These are reasons worth discussing, but not reasons to keep discussing forever.
+
+I lost the opportunity for victory by a few votes because of the plot hatched by traitors. That is true. But everyone in town knows that reason. Sit calmly and think deeply about why you could not cross even that betrayal and win.
+
+Did we fail to work properly in the ward from which we had been elected?
+
+Ask your conscience for the answer.
+
+If you say, “I worked like a spinning top and improved the ward,” then ask:
+
+“Did you antagonise the people in the Kazhagam organisation that seated you in office? Did you disregard them? Did they therefore disregard you?”
+
+If they acted that way, good people will recognise that their attempt to punish the Kazhagam for your offence was a grave wrong!
+
+They may belong on that list of wrongdoers. Yet if your own conduct helped that list grow, recognise that your behaviour too weakened the Kazhagam, and take into account that you yourself became one cause of your defeat.
+
+Because you lost, only the connection between you and the office you expected has been severed.
+
+What is office?
+
+An opportunity to serve!
+
+Can that opportunity not be used even without holding office?
+
+Though you lost, thousands in your ward voted for you. Working for them and for the general improvement of your ward is the proper proof of your sense of duty!
+
+Did you see the comrades who lost last time? They completed many times more work in those wards than the victorious Congress councillors who held office.
+
+As a result, this time they have become official councillors.
+
+Keep circling, keep moving, and continue working energetically! Offices will come seeking you and fall at your feet.
+
+You did not join the Kazhagam for office!
+
+You set out with a resolute heart to raise the flag and labour—
+
+to go to prison,
+
+to endure torture,
+
+to face repression,
+
+and to withstand lawlessness.
+
+Were the hardships you suffered few?
+
+Were the cruelties you endured small?
+
+Does the country not know how elections were conducted under Congress rule?
+
+In the settlements—
+
+overnight,
+
+the police would enter;
+
+one, two,
+
+ten, a hundred—
+
+hunting poor and humble people area by area, they would load you and your comrades who worked for the Kazhagam into vans and take you away.
+
+In Chennai alone, were not at least five thousand people imprisoned for a single election?
+
+Was it not then, my friend, that you stood firm and gathered news of victory for us?
+
+What has happened now? A few places we expected were not won, and yours was one of them. Do not forget that in the places we did win, it was you who achieved victory.
+
+However many thousands of reasons those who obstructed your victory may pile up, however many crores of accusations they may place upon you, they must answer for the direct or indirect harm they did to the Kazhagam—not to us, but to their own conscience!
+
+Precious child of the Kazhagam! You stand like a dignified farmer in a field from which the weeds have been removed.
+
+You stand watching the crop you cultivated flourish.
+
+The blood you poured has run through the irrigation channels, and this crop of ideals now sways heavy with radiant grain.
+
+From spraying medicine to keep insects away to standing guard so cattle do not graze upon it—everything is your work!
+
+The linchpin of that work is service to the people. Your Kazhagam is a movement of the poor, the humble and the middle classes. The Raja of Chettinad may look at you and smile with pleasure, but the direction in which his “cheque” travels is the Congress mansion! You do not need that either!
+
+Before the votes were counted, Subramaniam said, “Only after the count can we say how many seats.” Once the result became known, he donned the costume of a prophet and said, “I knew even then that we would get fifty seats.”
+
+Those who won fifty-two out of 120 leap about shouting, “Victory! Victory!” In their arithmetic, that is a majority!
+
+Think how weakly they must have regarded themselves at the beginning to celebrate so greatly on receiving fifty-two!
+
+They considered themselves weak and obtained more than they expected.
+
+We slept for a little while like the hare. Fortunately, we woke before the tortoise passed us!
+
+But in your ward, the tale of the hare and tortoise reached its full ending!
+
+Does that turn the tortoise into a hare?
+
+No. Never!
+
+Hare! Be as energetic as before! Act with vigour!
+
+A heart of service is your property—
+
+a cultured heart is your wealth—
+
+Never forget them. Resolve to carry out your customary Kazhagam work in unity with everyone!
+
+With affection,
+
+Maravan
+
+(31 October 1968)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 7. தோற்ற முயலே! முன்போல சுறுசுறுப்பாக இரு!
+
+அன்பு நண்பா!
+
+மாநகராட்சித் தேர்தலில் 96 இடங்களில் போட்டியிட்டுக் கழகம் 54 இடங்களைப் பெற்றிருக்கிறது; 42 இடங்களை இழந்திருக்கிறது. தோழமைக் கட்சிகள் 24 இடங்களில் போட்டியிட்டு 14 இடங்களைப் பெற்றிருக்கிறது. 10 இடங்களை இழந்திருக்கிறது. பெரும்பான்மை பலம் கூட்டணிக்கு இருக்கிறதென்றாலும்; மேலும் எட்டு ஆதிதிராவிடத் தோழர்கள் தேர்ந்தெடுக்கப்பட்டு பலம் பெருகிடும் என்றாலும்; சென்னை மேயர் நம்மவர்தான் என்றாலும்; நீ உன் வட்டத்தில் வெற்றிக்கான வாய்ப்பை இழந்தது உன்னால் தாங்கிக்கொள்ள முடியாததுதான்.
+
+“புரூடஸ்! நீயுமா?” என்று கட்டாரிக் குத்தை முதுகிலே தாங்கிக்கொண்டு, ரத்த நீர்வீழ்ச்சி போல் நின்ற ஜூலியஸ் சீசர் வேதனையோடு கேட்டான்.
+
+அப்படிச் சிலரைப் பார்த்து நீ கேட்க வேண்டியிருந்தது.
+
+அண்ணன் தலையைக் கொய்து வருபவர்க்கு ஆயிரம் பொன் பரிசு என அறிவித்தான் குமணன் தம்பி இளங்குமணன்.
+
+அவனையேய்கூட நல்லவனாக்கிவிட்ட தம்பிகள் சிலர் நமது அண்ணனுக்கு இருந்திருக்கிறார்கள் என்பதை 1960-ஆம் ஆண்டிலும் கண்டோம்; இப்போது இந்த மாநகராட்சித் தேர்தலிலும் கண்டோம்.
+
+அவர்களின் துரோகத்தால் நீ வெற்றி பெற முடியாமல் போய்விட்டது. நீ, தோல்வியால் துவண்டுபோய் மூலையில் உட்கார்ந்துவிடமாட்டாய் என்பதை நான் அறிவேன்.
+
+காஞ்சி மண்ணில் நமது அண்ணன் தோல்வி கண்ட போது என்ன சொன்னார் 1962 இல்!
+
+“நான் தோற்றதாக எண்ணவில்லை. ஐம்பது பேர் உருவிலே நான் சட்டமன்றத்திற்குச் செல்வதாகவே கருதுகிறேன்”
+
+இப்படிச் சொன்னவருக்குத் தம்பியப்பா நீ! 67இல் ஆட்சிப் பொறுப்பைப் பறிகொடுத்துவிட்டு,
+
+“அய்யோ போச்சே!
+
+அம்மா போச்சே!
+
+அந்தஸ்து போச்சே!
+
+ஆடம்பரம் போச்சே!
+
+பதவி போச்சே!
+
+பவிஷு போச்சே!”
+
+என்று அலறிக் கொண்டு கிடக்கிறார்களே; மாஜி மந்திரிகள் சிலரும்-காலமெல்லாம் பதவியில் இருப்போம் எனக் கனவு கண்டு கவிழ்ந்துவிட்ட பலரும் - அவரைப் போன்ற எரிச்சல் உள்ளமா உனக்கு?
+
+இல்லை! இல்லை! எழுச்சி உள்ளம் படைத்தவன் நீ!
+
+உன் தோல்விக்காகக் கவலைப்படுவதை மறந்துவிட்டுத் தோல்விக்கான காரணங்களைச் சிந்தித்துப்பார்.
+
+அந்த வீதியில் நூறு ஓட்டு போய்விட்டது. இந்த வீதியில் எழுபது ஓட்டுக்களை அழைத்து வராமல் விட்டுவிட்டோம். இவைகள் பேசத் தக்க காரணங்கள் என்றாலும் பேசிக்கொண்டேயிருக்கக்கூடிய காரணங்கள் அல்ல.
+
+துரோகிகள் செய்த சதியால் சில வாக்கு வித்தியாசத்தில் வெற்றிக்கான வாய்ப்பை இழந்தேன். அது உண்மைதான் என்றாலும்-ஊரறியும் அந்தக் காரணத்தை என்றாலும் அந்தத் துரோகத்தையும் கடந்து வெற்றிபெற முடியாமல் போனது ஏன் என்று ஆர அமர சிந்தித்துப்பார்.
+
+நாம் தேர்ந்தெடுக்கப்பட்ட வட்டத்திற்கு சரிவர வேலை செய்யாமல் இருந்துவிட்டோமா?
+
+இந்தக் கேள்விக்கான பதிலை உன் மனச்சாட்சியிடம் கேட்டுக்கொள்.
+
+பம்பரம்போல் பணியாற்றி வட்டத்தைச் செம்மைப்படுத்தியிருக்கிறேனே என்று கூறுவாயானால்-
+
+“உன்னைப் பதவியில் அமர்த்திய கழக அமைப்பில் உள்ளவர்களைப் பகைத்துக் கொண்டாயா? அவர்களை அலட்சியப்படுத்தினாயா? அதனால் அவர்கள் உன்னை அலட்சியப்படுத்திவிட்டார்களா?”
+
+அப்படி அவர்கள் செய்திருந்தால் நீ செய்த குற்றத்திற்கு அவர்கள் கழகத்தைத் தண்டிக்க முனைந்தது பெரும் பாதகம் என்பதை நல்லோர் உணர்வர்!
+
+அவர்கள் அந்தப் பாதகர் பட்டியலில் இடம் பெறுவர் எனினும்; அந்தப் பட்டியல் பெருகிடும் வண்ணம் நீ நடந்து கொண்டிருந்தால்; அந்த உன் போக்கும் கழகத்தின் வலிவைக் குறைத்திடும் என்பதை உணர்ந்து நீயே உன் தோல்விக்கு ஒரு காரணம் ஆகிவிட்டாய் என்பதையும் கணக்கிலெடுத்து சிந்தித்துப்பார்.
+
+தோற்றுவிட்டதால் உனக்கும் நீ எதிர்பார்த்த பதவிக்குமுள்ள தொடர்புதான் அறுந்துவிட்டது.
+
+பதவி என்றால் என்ன?
+
+பணி புரிய ஒரு வாய்ப்பு!
+
+அந்த வாய்ப்பைப் பதவியில் இல்லாமலேயே கூடப் பயன்படுத்திக் கொள்ளலாம் அன்றோ?
+
+நீ தோற்றுவிட்டாலும்; உனக்காக வாக்களித்தவர்கள் உன் வட்டாரத்தில் ஆயிரக்கணக்கில் இருக்கிறார்கள். அவர்களுக்காகவும்-பொதுவாக உன் வட்டத்தின் மேன்மைக்காகவும் பணியாற்றுவதே உன் கடமை உணர்ச்சிக்குத் தக்க சான்று!
+
+சென்ற முறை தோற்றுவிட்ட தோழர்களைப் பார்த்தாயா? வெற்றி பெற்ற காங்கிரஸ்காரர்கள் கவுன்சிலராக இருந்து பணியாற்றியதைவிடப் பன்மடங்கு பணிகளை அந்த வட்டாரத்தில் நிறைவேற்றியிருக்கிறார்கள்.
+
+அதனால் இந்த முறை அதிகாரப்பூர்வமான கவுன்சிலராகிவிட்டார்கள்.
+
+நீ சுழன்று சுழன்று சுறுசுறுப்பாகப் பணியாற்றிக் கொண்டே இரு! பதவிகள் உன்னைத் தேடிவந்து காலடியில் விழும்.
+
+நீ பதவிக்காகக் கழகத்தில் சேர்ந்தவனல்லவே!
+
+சிறை செல்ல,
+
+சித்ரவதைகள் அனுபவிக்க,
+
+அடக்குமுறையை ஏற்க,
+
+அராஜகத்தைத் தாங்கிட,
+
+உறுதி கொண்ட உள்ளத்தோடு கொடி தூக்கி உழைக்கத் தானே புறப்பட்டாய்.
+
+நீ பட்ட பாடுகள் கொஞ்சமா?
+
+நீ ஏற்ற கொடுமைகள் குறைவானதா?
+
+காங்கிரசார் ஆண்டபோது தேர்தல்கள் நடைபெற்ற முறையை நாடு அறியாதா?
+
+குடிசை பகுதியில்-
+
+இரவோடு இரவாகப்
+
+போலீசார் நுழைவார்-
+
+ஒன்று இரண்டு
+
+பத்து நூறு என்று
+
+பகுதிக்குப் பகுதி ஏழை எளியவர்களை வேட்டையாடி கழகத்திற்கு உழைக்கும் உன்னையும் உன் தோழர்களையும் வேனிலே ஏற்றிச் செல்வார்கள்.
+
+சென்னையில் மட்டும் ஒரு தேர்தலுக்கு ஐயாயிரத்துக்குக் குறையாதவர்கள் சிறைப் பிடிக்கப்படுவார்களே!
+
+அப்போதுதானே நண்பா; நீ திடமனதுடன் நின்று வெற்றிச் செய்திகளைத் திரட்டிக் கொடுத்தாய்!
+
+இப்போதுதான் என்ன வந்துவிட்டது. எதிர்பார்த்த சில இடங்கள் கிடைக்கவில்லை, அந்த இடங்களில் உன் இடமும் ஒன்று. கிடைத்த இடங்களில் நீதான் வெற்றி பெற்றிருக்கிறாய் என்பதை மறந்துவிடாதே.
+
+உன் வெற்றிக்குக் குந்தகம் புரிந்தவர்கள் என்னதான் ஆயிரம் காரணங்களை அடுக்கிக் காட்டினாலும்-உன் மீது கோடி கோடிப் பழிகளைச் சுமத்தினாலும்- அவர்கள் கழகத்திற்குச் செய்த நேரிடையான-அல்லது மறைமுகமான பாதகத்திற்குப் பதில் சொல்லித்தான் தீரவேண்டும். நமக்கல்ல; அவர்கள் மனச்சாட்சிக்கு!
+
+கழகக் கண்மணியே! களையெடுக்கப்பட்ட கழனியில் கம்பீரமாக நிற்கும் உழவனைப்போல் நீ நிற்கிறாய்.
+
+நீ விளைத்த பயிர் வளர்ந்தோங்கும் காட்சியினைப் பார்த்தவாறு நிற்கிறாய்.
+
+நீ இறைத்த ரத்தம், வாய்க்கால் வழியோடி இந்த இலட்சியப் பயிர் பூங்கதிர் விட்டுக் குலுங்கி நிற்கிறது.
+
+பூச்சிகள் விழாமல் மருந்து தெளிப்பதிலேயிருந்து-மாடுகள் மேயாமல் காவலிருப்பதிலேயிருந்து-எல்லாமே உன் வேலைதான்!
+
+அந்த வேலைக்கு அச்சாணி; மக்கள் பணி-உன் கழகம் ஏழை எளிய நடுத்தர மக்களின் இயக்கம்-செட்டிநாட்டரசர் உன்னைப் பார்த்து சிரித்து மகிழ்வார். ஆனால் அவர் “செக்” போகும் திக்கு-காங்கிரஸ் மாளிகைக்குத்தான்! அது உனக்குத் தேவையில்லாததுங்கூட!
+
+“வாக்கு எண்ணிய பிறகே-எத்தனை இடம் என்று சொல்ல முடியும்”
+
+என்று முதல் நாள் சொன்ன சுப்பிரமணியம்; முடிவு தெரிந்த பிறகு “நான் அப்போதே நினைத்தேன், ஐம்பது இடம் வருமென்று” என தீர்க்கதரிசி வேடம் போடுகிறார்.
+
+120 இல் ஐம்பத்திரெண்டை வென்றவர்கள் “வெற்றி வெற்றி!” என்று குதிக்கிறார்கள். அவர்கள் கணக்கில் அது பெரும்பான்மை!
+
+ஆரம்பத்தில் எவ்வளவு பலகீனமாகத் தங்களைப்பற்றி எண்ணியிருந்தால் 52 கிடைத்ததும் இப்படி மகிழ்வார்கள் என்பதை நினைத்துப்பார்!
+
+அவர்கள் தங்களைப் பலகீனமாக நினைத்து எதிர்பார்த்ததைவிட அதிகம் பெற்றார்கள்.
+
+நாம் முயலைப் போல் கொஞ்சம் தூங்கிவிட்டோம்-நல்லவேளை; ஆமை நம்மைத் தாண்டிப் போவதற்குள் விழித்துக்கொண்டோம்!
+
+ஆனால் உன் வட்டத்தைப் பொறுத்த வரையில் முயலும் ஆமையும் கதை முழுக் கதையாகவே முடிந்துவிட்டது!
+
+அதனால் ஆமை முயலாகிவிடுமா?-
+
+ஆகாது; ஆகவே ஆகாது!
+
+முயலே! முன்போல சுறுசுறுப்பாக இரு! துடிப்போடு செயலாற்று!
+
+தொண்டுள்ளம் உன் சொத்து-
+
+பண்புள்ளம் உன் செல்வம்-
+
+அதனை மறவாமல் உன் வழக்கமான கழகப் பணியை அனைவருடனும் கூடி ஒற்றுமையாக நிறைவேற்ற உறுதி எடுத்துக்கொள்!
+
+அன்புள்ள
+
+மறவன்
+
+(31-10-1968)
