@@ -2,25 +2,17 @@
 
 ## Status
 
-**BLOCKED pending completion of the canonical Tamil migration and required audit gates.**
+**ACTIVE.** Both prerequisite Tamil gates are complete and PASS: the full-volume structural audit and the full PDF 001–401 second visual/textual-fidelity verification. Canonical English migration began with letters **0001–0010**.
 
-Volume 1 already has 110 legacy bilingual English files under `../volume-1/translations/en/letters/`. They are valuable prior work and must be reused rather than discarded, but they were produced under a different structure and cannot be automatically declared equivalent to the later Volume 46–49 workflow.
+Volume 1 has 110 preserved legacy bilingual English files under `../volume-1/translations/en/letters/`. They are valuable prior work and must be reused rather than discarded, but they are draft/evidence only in the canonical workflow.
 
 ## Authority
 
 1. controlling Volume 1 PDF scan;
-2. visually verified canonical `pages/page-NNN.md` files in this directory;
+2. fully fidelity-verified canonical `pages/page-NNN.md` files;
 3. canonical chapter/contents structure;
 4. legacy bilingual files as migration input;
-5. migrated English records/manifests.
-
-## Gate before English migration
-
-Do not promote or rewrite legacy English records until:
-
-1. all 401 PDF pages have canonical page files;
-2. the full-volume Tamil structural audit passes; and
-3. the relevant canonical Tamil pages have passed the required scan-based textual-fidelity review.
+5. canonical English records.
 
 ## Migration method
 
@@ -32,19 +24,23 @@ For each actual letter record:
 - retain `Udanpirappē` where the source uses `உடன்பிறப்பே`;
 - preserve source anomalies rather than silently correcting them;
 - include the complete audited canonical Tamil under `Original Tamil — மூலத் தமிழ்`;
-- record source/page traceability and translator note;
-- move through explicit migration/source-check/alignment statuses rather than treating legacy audit labels as automatic verification.
+- record source/page traceability and the standard translator note;
+- use `source-checked` after the migration/source comparison, then run bilingual alignment as a separate gate before `verified`.
 
 ## Volume 1 batch rule
 
-For **Volume 1 alone**, after the Tamil gates are open, migrate/review English in **10 actual letters per normal iteration**, with a separate bilingual source-alignment review before promotion to verified status. This Volume 1-specific cadence also applies to the remaining canonical Tamil migration. A documented end-of-volume residue may be smaller.
+For **Volume 1 alone**, migrate/review English in **10 actual letters per normal iteration**. A documented end-of-volume residue may be smaller.
+
+Completed canonical English migration/source-check batch: **0001–0010**.  
+Next batch: **0011–0020**.
 
 ## Final gates
 
-After all 110 records are bilingual-aligned:
+After all 110 records are source-checked:
 
-1. run a volume-level English editorial consistency review;
-2. reconcile titles, dates, source ranges, names/transliterations and translator-note wording;
-3. generate a 110-record translation manifest;
-4. generate the final English release report;
-5. only then mark the canonical Volume 1 English edition released.
+1. run meaning-level bilingual alignment;
+2. run a volume-level English editorial consistency review;
+3. reconcile titles, dates, source ranges, names/transliterations and translator-note wording;
+4. generate a 110-record translation manifest;
+5. generate the final English release report;
+6. only then mark the canonical Volume 1 English edition released.
