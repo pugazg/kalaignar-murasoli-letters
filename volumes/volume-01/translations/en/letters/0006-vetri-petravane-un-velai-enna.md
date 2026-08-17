@@ -1,0 +1,214 @@
+---
+volume: 1
+letter_number: 6
+tamil_title: "வெற்றி பெற்றவனே உன் வேலை என்ன?"
+english_title: "Victor, What Is Your Work Now?"
+date: 1968-10-30
+source_pdf_page_start: 43
+source_pdf_page_end: 47
+source_printed_page_start: 43
+source_printed_page_end: 47
+translation_status: "source-checked"
+translation_method: "thought-preserving, non-literary"
+bilingual_alignment_status: "pending"
+source_textual_fidelity_audit: "full-volume-pass"
+legacy_record: "../../../volume-1/translations/en/letters/m1-l0006.en.md"
+---
+
+# 6. Victor, What Is Your Work Now?
+
+> **Translator’s note**
+>
+> This translation is intended to carry Kalaignar's voice into clear, contemporary English rather than recast the letter as literary or academic prose. It preserves the source's argument, political directness, rhetorical questions, repetition, irony, factual detail, and paragraph order. Names, dates, figures, quotations, and intentional English expressions are retained. Where Tamil idiom cannot be reproduced literally without sounding unnatural, the English follows its sense and rhetorical force without adding claims absent from the source. The original Tamil is reproduced in full below the translation and remains the authoritative text. `Udanpirappē` is retained in Tamil transliteration rather than flattened into “brother,” “sister,” or “comrade.” Literally evoking “one born alongside me,” Kalaignar uses it as a distinctive address of shared identity, equality, affection, and solidarity within the movement.
+
+**Tamil source:** [Letter 0006](../../../chapters/0006-vetri-petravane-un-velai-enna.md)  
+**Source pages:** [PDF 43](../../../pages/page-043.md)–[PDF 47](../../../pages/page-047.md)  
+**Date:** 30 October 1968
+
+Dear friend,
+
+I congratulate you as you revel in the joy of victory. I fold my hands in reverence to everyone responsible for your victory. I offer thanks for the labour of the noble workers who strove to seat you in the Corporation council. They wandered day and night without sleep, treating the task itself as their life, and placed the garland of victory around your neck. How many thorns pierced them while they gathered flowers to weave that garland of triumph? Do not forget, my friend, that they gave their very nerves as the fibre with which it was strung!
+
+The Kazhagam has given you an opportunity to serve through office. Please do not imagine that it has lifted an ornamental crown called status and placed it upon your head! You were elected to labour for the poor and humble. They made you victorious so that you might share the hardships of people without means and serve them.
+
+The Kazhagam workers did not wear themselves away like sandalwood to give you office so that you could parade in glitter, saying, “Look, I have secured a post! Do you see the silk shirt and gleaming veshti that prove it?”
+
+Understand that!
+
+Know that!
+
+How simple Anna is! What a heart of service he possesses! If you call yourself his younger brother, should not that quality of simplicity arise naturally in you?
+
+I say this not because I have concluded that it will not arise, but because I desire that it must.
+
+The opportunity given to you is called a post. It is a tool placed in your hands for serving the people.
+
+In the DMK administration of the Corporation that will be formed with the support of allied parties, you must compete vigorously.
+
+For what, my friend? For what?
+
+For the post of Mayor?
+
+For chairmanship of a committee?
+
+For some other responsibility?
+
+No! No!
+
+That is not what I came to write.
+
+You must compete in public service. Do not rush into the contest that says: let someone else serve, someone else sow, someone else labour, someone else sweat; it is enough if office and status come to us as harvest upon harvest!
+
+You are a municipal councillor. Compete with the councillor of the neighbouring ward in repairing the roads in your own ward that are filled with pits and craters!
+
+Compete with the councillor of the next ward in removing sewage stagnant in the streets!
+
+Compete boldly with others to make your ward shine like a mirror and to provide it with facilities and resources! In this competition, only honour will accumulate for you.
+
+There are some contests you must not enter, my friend:
+
+- Insisting upon and obtaining an office that was not offered.
+- Staining your hands.
+- Thinking of winnowing grain while the wind still blows—making hay while the sun shines for yourself.
+
+Never, even in a dream, think of competing in such ways, my friend. Never even in a dream!
+
+It is with that confidence that the people elected you and those associated with you.
+
+The moment in which you have been elected a Corporation councillor is a golden moment!
+
+For two years, the DMK Government has governed Tamil Nadu. In many parts of the State, and in Chennai as well, it has acted with the lives of the poor and humble in mind.
+
+Look at what the journal *Navamani* itself writes on the twenty-ninth:
+
+“It cannot be said that DMK rule has done no good for poor people. Under the one-measure-of-rice-for-one-rupee scheme, on many occasions the Kazhagam Government supplied even superior, first-grade rice to the poor at one measure for a rupee. The Government arranged to sell nutritious milk to poor people at a low price. It was the DMK Government that built fireproof houses for people who lost their huts in mysterious fires. It provided bus-fare concessions and free travel in government buses for the blind and persons with disabilities.”
+
+Thus, under Anna's leadership, there stands a government for the poor that many people praise. Before it came to office, the Congress Government accepted none of the Corporation's plans. Why? Because the Corporation had a DMK administration! Had the former Government accepted and implemented the plan to bring Cauvery water earlier, voters would not have raised the problem of “water scarcity” when you went seeking votes. After assuming responsibility for the Government, we worked for a year and have now obtained Planning Commission approval for the Cauvery water scheme. We have begun the work of improving the Cooum. The new Government is concerned that the Corporation should function well.
+
+That is why I say: use this golden moment to improve Chennai further! Make it prosperous! Make it exemplary!
+
+Congress members represented old Ward 91—now Wards 111 and 112—and old Ward 98—now Wards 115 and 116—until now. Go and look at those places! The roads have hollows like burial pits, along with many other deficiencies. They had neither the thought nor the time even to state the needs of their wards! Whether Congressmen possess that thought and time or not, you certainly must.
+
+The Corporation must attend to all wards generally. Yet people like you are elected to hasten and organise that work. Be a goad that makes the administration function properly! And remain pure yourself!
+
+Do not treat the Kazhagam workers who laboured for your victory like curry leaves to be discarded after use! They are the linchpin of the Kazhagam. There were a few traitors; they have been removed. Those who remain among them will leave. Congressmen are reportedly searching with nets for those expelled.
+
+The valiant workers who treated the Kazhagam as their life, breath and heart and planted the flag of victory—do not even playfully think of removing them from your heart as long as you live!
+
+Do not fail to meet every day the people who trusted you and voted for you!
+
+They elected you believing you would circle the ward like a bee and ask what facilities they need.
+
+No foot-march is needed merely for an election!
+
+After being elected, a foot-march is needed. There is no harm in going by bicycle either. I know that you will earn the name of a precious child of the Kazhagam who performs duty without expecting anything in return. Even so:
+
+“Friendship is not formed merely for laughter;
+
+it exists to go beyond and rebuke when excess arises.”
+
+As your friend, there is nothing wrong in reminding you of this Tirukkural, is there?
+
+Today I have written to you, the victor. Tomorrow I shall write a letter to the comrade who was defeated.
+
+With affection,
+
+Maravan
+
+(30 October 1968)
+
+## Original Tamil — மூலத் தமிழ்
+
+### 6. வெற்றி பெற்றவனே உன் வேலை என்ன?
+
+அன்பு நண்பா,
+
+வெற்றி பெற்ற மகிழ்ச்சியில் திளைத்திருக்கும் உன்னை வாழ்த்துகிறேன். உன் வெற்றிக்குக் காரணமானவர்களையெல்லாம் கரங் கூப்பித் தொழுகிறேன். உன்னை மாநகராட்சி மன்ற நாற்காலியில் உட்கார வைப்பதற்காகப் பாடுபட்ட உத்தமத் தொண்டர்களின் உழைப்புக்கு நன்றி செலுத்துகிறேன். அவர்கள் இரவு பகல் அலைந்து திரிந்து கண் துஞ்சாது கருமமே உயிராய்க் கொண்டு உன் கழுத்தில் வெற்றி மாலையை சூட்டியிருக்கிறார்கள். அந்த வாகைமாலை தொடுப்பதற்கு அவர்கள் மலர் பறித்த போது குத்திய முட்கள் எத்தனை? மாலை தொடுக்கும் நாராகத் தங்கள் நரம்புகளை அவர்கள் ஈந்திருக்கிறார்கள் என்பதை மறந்துவிடாதே நண்பா!
+
+பதவியின் மூலம் பணி புரியும் வாய்ப்பு ஒன்றைக் கழகம் உனக்கு அளித்திருக்கிறதேயல்லாமல் அந்தஸ்து எனும் அலங்கார மகுடத்தை உன் தலையில் தூக்கி வைத்திருப்பதாகத் தயவுசெய்து எண்ணிக் கொள்ளாதே! நீ, ஏழை எளியவர்களுக்காகப் பாடுபடத் தேர்ந்தெடுக்கப்பட்டிருக்கிறாய். வசதியற்ற மக்களோடு அவர்களது தொல்லையைப் பகிர்ந்து கொண்டு தொண்டாற்றுவதற்காக உன்னை வெற்றி பெறச் செய்திருக்கிறார்கள்.
+
+“எனக்குப் பதவி வந்துவிட்டது பார்த்தாயா? அதற்கு அடையாளம் பட்டுச் சொக்காயும் பளபளப்பான வேட்டியும் கண்டாயா?” என்று மினுக்கித் திரிவதற்கு அல்ல; மேனியைச் சந்தனம் போல் கழகத் தொண்டர்கள் தேய்த்து உனக்குப் பதவி தந்திருப்பது!
+
+அதைப் புரிந்து கொள்!
+
+தெரிந்து கொள்!
+
+அவர் எவ்வளவு எளிமையானவர். எவ்வளவு தொண்டுள்ளம் படைத்தவர். அவருக்குத் தம்பி என்று சொல்லிக் கொள்ள அந்த எளிமை இயல்பு; தானாக வரவேண்டாமா உனக்கு!
+
+வராது என்ற முடிவில் அல்ல; வரவேண்டும் என்ற ஆசையில் கூறுகிறேன்.
+
+உனக்கு வழங்கப்பட்டுள்ள வாய்ப்புக்குப் பதவி என்று பெயர். அது, மக்கட் பணியாற்ற உன் கையில் தரப்பட்டுள்ள கருவி.
+
+தோழமைக் கட்சியின் துணையோடு அமையப் போகும் மாநகராட்சி தி.மு.க. நிர்வாகத்தில் நீ பலமான போட்டி போட வேண்டும்.
+
+எதற்கு; நண்பா! எதற்கு?
+
+மேயர் பதவிக்கா?
+
+கமிட்டித் தலைமைக்கா?
+
+வேறு பொறுப்புக்கா?
+
+அல்ல! அல்ல!
+
+அதுவல்ல நான் எழுத வந்தது.
+
+பொதுப்பணியாற்றுவதில் போட்டிபோட வேண்டும். யாரோ பணியாற்றட்டும்-எவரோ விதைக்கட்டும்-எவரோ உழைக்கட்டும்-எவரோ வியர்வை சிந்தட்டும்-நமக்குப் பதவியும் அந்தஸ்தும் அடுக்கடுக்காய் அறுவடையானால் போதும் என்ற போட்டிக்கு முந்தாதே!
+
+நீ, நகராட்சியின் உறுப்பினர். உன் வட்டத்தில் குண்டு குழிகளாய் இருக்கும் சாலைகளைச் சீர்திருத்த வேண்டிய வேலையில்-பக்கத்து வட்டத்து உறுப்பினரோடு போட்டி போடு!
+
+தெருவில் தேங்கியிருக்கும் கழிவு நீரை அகற்றுவதில்-அடுத்த வட்டத்து உறுப்பினரோடு போட்டி போடு!
+
+உன் வட்டத்தைக் கண்ணாடிபோல் ஆக்க-வசதி வளங்கள் மிக்கதாய் ஆக்க-எதற்கும் துணிந்து மற்றவர்களோடு போட்டி போடு! இந்தப் போட்டியில் உனக்குப் புகழ்தான் குவியும்.
+
+நீ போட்டி போடக் கூடாதன சில உண்டு நண்பா-
+
+- வராத பதவியை வலியுறுத்திப் பெறுதல்.
+- கையைக் கறையாக்கிக் கொள்ளுதல்.
+- காற்றுள்ளபோதே தூற்றிக்கொள்ள எண்ணுதல்.
+
+இது போன்ற வகைகளில்; போட்டியை நீ-கனவிலும் கருதாதே; நண்பா!-கனவிலும் கருதாதே!
+
+அந்த நம்பிக்கையோடுதான் மக்கள், உன்னையும் உன்னைச் சார்ந்தவர்களையும் தேர்ந்தெடுத்திருக்கிறார்கள்.
+
+நீ, மாநகராட்சி மன்ற உறுப்பினராகத் தேர்ந்தெடுக்கப்பட்டுள்ள நேரம் பொன்னான நேரம்!
+
+இரண்டாண்டு காலமாகத் தமிழகத்தில் தி.மு.க. அரசு நடைபெறுகிறது. தமிழகத்தில் பல்வேறு பகுதிகளில் மட்டுமின்றிச் சென்னையிலும் அது ஏழை எளியவர்கள் வாழ்வை மனதில்வைத்துச் செயல்பட்டு வருகிறது.
+
+29ந் தேதி “நவமணி” இதழே எழுதுகிறது பார்!
+
+“ஏழை மக்களுக்குத் தி.மு.க. ஆட்சி, நன்மை செய்யவில்லை என்று சொல்ல முடியாது. ரூபாய்க்கு ஒரு படி அரிசி போடும் திட்டமும் பல நேரங்களில் உயர்ந்த ரக முதல் தர ரக அரிசியையே ஏழை மக்களுக்கு ரூபாய்க்கு ஒருபடி அரிசியாகக் கழக ஆட்சி போட்டது. ஏழை மக்களுக்கு மலிவான விலையில் சத்தான பால் விற்க அரசு ஏற்பாடு செய்தது. மர்மத் தீ விபத்துக்களால் பாதிக்கப்பட்டு குடிசை இழந்த மக்களுக்கு தீப்பிடிக்காத வீடுகளை தி.மு.க. ஆட்சிதான் கட்டித் தந்திருக்கிறது. பஸ் கட்டணச் சலுகை, பார்வை இழந்தோர், அங்கஹீனர்களுக்கு அரசாங்க பஸ்களில் இலவச பஸ் சவாரி போன்றவைகளைச் செய்து கொடுத்தது.”
+
+இப்படிப் பலரும் பாராட்டும் ஏழைகளின் அரசு அண்ணா தலைமையில் அமைந்துள்ளது. அதற்கு முன்பு மாநகராட்சியின் திட்டங்கள் எதையும் காங்கிரஸ் அரசு ஏற்றுக்கொண்டதில்லை. காரணம்; நகராட்சியில் தி.மு.க. நிர்வாகம்! முன்பே காவிரி நீரை கொண்டுவரும் திட்டத்தைப் பழைய அரசு ஏற்றுச் செயல்படுத்தியிருந்தால் நீ, வாக்கு கேட்கப் போகும்போது “தண்ணீர்ப் பஞ்சம்” பற்றிய பிரச்சனையையே வாக்காளர்கள் எழுப்பியிருக்க மாட்டார்கள். நாம் அரசுப் பொறுப்பை ஏற்ற பிறகு ஒரு ஆண்டுகாலமாக முயற்சித்து இப்போது காவிரி நீர்த் திட்டத்திற்கான அனுமதியைத் திட்டக் குழுவிடம் பெற்றிருக்கிறோம். கூவம் சீர்திருத்த வேலையினைத் தொடங்கியிருக்கிறோம். நகராட்சி நல்ல வகையில் இயங்கப் புதிய அரசு அக்கறை கொண்டிருக்கிறது.
+
+அதனால்தான் சொல்கிறேன், இந்தப் பொன்னான நேரத்தைப் பயன்படுத்திக்கொண்டு, சென்னை நகரை மேலும் சீராக்கிடு! செழிப்பாக்கிடு! செம்மையாக்கிடு!
+
+பழைய 91வது வட்டம் (இப்போது 111, 112) பழைய 98வது வட்டம் (இப்போது 115, 116) ஆகிய வட்டங்களில் இது வரையில் காங்கிரசு உறுப்பினர்கள் இருந்தனர். போய்ப்பார் அந்த இடங்களை! புதைக்குழிகள் போன்ற பள்ளங்கள் பாதைகளில்! மற்றும் பல வசதிக் குறைவுகள்! தங்கள் வட்டங்களின் தேவைகளை எடுத்துச் சொல்லவே அவர்களுக்கு நினைப்புமில்லை. நேரமும் இல்லை! அந்த நினைப்பும் நேரமும் காங்கிரசுகாரர்களுக்கு இருக்கிறதோ இல்லையோ உனக்கு நிச்சயமாக இருக்க வேண்டும்.
+
+மாநகராட்சி எல்லா வட்டங்களையும் பொதுவாகக் கவனிக்க வேண்டும் எனினும், அதனைத் துரிதப்படுத்தவும் முறைப்படுத்தவும் தான் உன்னைப் போன்றவர்கள் தேர்ந்தெடுக்கப்படுகிறார்கள். நிர்வாகம் ஒழுங்காகச் செயல்பட நீ தூண்டுகோலாக இரு! அதோடு நீயும் தூய்மையாக இரு!
+
+உன் வெற்றிக்காகப் பாடுபட்ட கழகத்தொண்டர்களைக் கருவேப்பிலையாக்கிவிடாதே! அவர்கள்தான் கழகத்தின் அச்சாணி-சிலர் இருந்தனர் துரோகிகள்! அவர்கள் அகற்றப்பட்டுவிட்டனர். அதில் மிச்சமிருப்போர் போய்விடுவர். விலக்கப்பட்டவர்களைக் காங்கிரசார் வலை கொண்டு தேடுகிறார்களாம்.
+
+கழகத்தை உயிராய் மூச்சாய் இதயமாய் எண்ணிச் செயல்பட்டு வெற்றிக் கொடி நாட்டிய ஆற்றல் மறவர்களை உன் ஆயுள் உள்ள வரையில் நெஞ்சத்திலிருந்து அகற்றிவிட, விளையாட்டாகக்கூட நினைக்காதே!
+
+உன்னை நம்பி வாக்களித்த மக்களை ஒவ்வொரு நாளும் பார்க்கத் தவறாதே!
+
+வட்டத்தை வண்டுபோல் சுற்றிச் சுற்றி என்ன வசதி வேண்டும் எனக் கேட்பாய் என்றுதான் உன்னைத் தேர்ந்தெடுத்திருக்கிறார்கள்.
+
+தேர்தலுக்காகப் பாத யாத்திரை தேவையில்லை!
+
+தேர்ந்தெடுக்கப்பட்ட பிறகு பாத யாத்திரை தேவை. சைக்கிளில் போனாலும் பாதகமில்லை. கைமாறு கருதாமல் கடமையாற்றும் கழகக் கண்மணியென்று நீ பெயர் வாங்குவாய் என்று தெரியும். இருந்தாலும்;
+
+நகுதற் பொருட்டன்று நட்டல்-மிகுதிக்கண்
+
+மேற்சென்று இடித்தற் பொருட்டு;
+
+என்ற குறளை-நண்பன் என்ற முறையில் உனக்கு நினைவுபடுத்துவதில் தவறில்லை அல்லவா?
+
+வெற்றி பெற்ற உனக்கு இன்று எழுதிவிட்டேன்-நாளை; தோற்றுவிட்ட தோழனுக்கு மடல் தீட்டுகிறேன்.
+
+அன்புள்ள,
+
+மறவன்
+
+(30-10-1968)
