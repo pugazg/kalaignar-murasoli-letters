@@ -100,6 +100,16 @@ Canonical chapter files are created only when their source boundaries are visual
 | 0094 | நேரமும் நினைப்பும்! | 1974-08-04 | 335–338 | complete |
 | 0095 | ‘மாம்பழ மங்கை!’ | 1974-08-11 | 339–342 | complete |
 | 0096 | அதே தேதிகள்! | 1974-09-01 | 343–344 | complete |
+| 0097 | இன்றே தயாராகு! | 1974-09-08 | 345–346 | complete |
+| 0098 | உயர்த்திடுவோம் தோள்! | 1974-09-15 | 347–350 | complete |
+| 0099 | வழி மேல் விழி... | 1974-09-22 | 351–353 | complete |
+| 0100 | அழைக்கிறேன் - வா! அன்பே வா! | 1974-09-25 | 354–358 | complete |
+| 0101 | உயிரே! உடன்பிறப்பே! வா! வா! | 1974-09-29 | 359–360 | complete |
+| 0102 | என் காணிக்கை! | 1974-10-06 | 361–364 | complete |
+| 0103 | பார், பார்-இதோ பார்! இந்தியா பார்! | 1974-10-13 | 365–368 | complete |
+| 0104 | ‘கல்கி’யின் கண்ணோட்டம்! | 1974-10-26 | 369–373 | complete |
+| 0105 | ‘கல்கி’யின் கண்ணோட்டம் (2) | 1974-10-27 | 374–379 | complete |
+| 0106 | ‘கல்கி’யின் கண்ணோட்டம்(3) | 1974-11-03 | 380–383 | complete |
 
 The printed contents list all 110 records in [`../contents/index.md`](../contents/index.md), but unverified future letter boundaries are not promoted here merely from the legacy corpus.
 
@@ -115,4 +125,4 @@ The source changes address/sign-off form across the volume; source-visible forms
 
 The user explicitly approved an expanded 20-letter scope for the completed **0057–0076 / PDF 236–288** iteration. Letter 0063 has no date printed in the source and is deliberately not assigned one. Scan-controlled divergences and typographic forms in this range are recorded in [`../AUDIT.md`](../AUDIT.md).
 
-The scan confirms that letters 0077–0096 are complete through PDF 344. PDF 345 begins letter 0097 — `இன்றே தயாராகு!` — with salutation `உடன்பிறப்பே,`; no PDF-345 text is part of the completed 0087–0096 batch.
+The scan confirms that letters 0077–0106 are complete through PDF 383. Batch-specific observations for 0097–0106 are recorded in [`../BATCH_0097_0106_AUDIT.md`](../BATCH_0097_0106_AUDIT.md). PDF 384 begins letter 0107 — `வாழ்க-உன் புன்னகை!` — with salutation `உடன்பிறப்பே,`; no PDF-384 text is part of the completed 0097–0106 batch.

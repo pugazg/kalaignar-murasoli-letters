@@ -17,7 +17,8 @@
 - [x] User-approved expanded 20-letter batch: letters 0057–0076 / PDF 236–288
 - [x] Sixth regular ten-letter batch: letters 0077–0086 / PDF 289–312
 - [x] Seventh regular ten-letter batch: letters 0087–0096 / PDF 313–344
-- [ ] Remaining ten-complete-letter Volume 1 migration iterations
+- [x] Eighth regular ten-letter batch: letters 0097–0106 / PDF 345–383
+- [ ] Final documented residue: letters 0107–0110 / PDF 384 onward
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
 - [ ] Legacy English record migration and source checking
@@ -27,19 +28,20 @@
 
 ## Current boundary
 
-- Canonical page files: **344 / 401**
+- Canonical page files: **383 / 401**
 - Printed contents entries captured: **110 / 110**
-- Canonically completed letters: **96 / 110**
-- Completed canonical letter range: **0001–0096**
+- Canonically completed letters: **106 / 110**
+- Completed canonical letter range: **0001–0106**
 - Partial canonical letter: **none**
-- Canonical letter coverage: **PDF 024–344**
+- Canonical letter coverage: **PDF 024–383**
 - Current regular Volume 1 batch size: **10 letters**; the completed 0057–0076 iteration was explicitly expanded to 20 letters by the user
 - Source-pagination anomaly recorded: printed page number **39** is skipped between PDF 039 and PDF 040, with continuous text
 - Letter 0063 has no printed date and remains undated rather than inferred
-- New scan-controlled divergences are recorded in `AUDIT.md`, including PDF 315 `இது தான்`, PDF 329 `வீழட்டும்` / `துண்டாடப் பட்டது`, PDF 340 double-quoted `“மாம்பழ மங்கை”`, PDF 342 `பகுத்தறிவு வாதிகளின்`, and source no-space hyphenation through PDF 344
+- Scan-controlled forms in the latest batch include source compact hyphenation, source-bold/lineated blocks, the decorative `∵` markers in letter 0105, the two-line letter 0103 heading, letter 0104's unparenthesized date, and the `‘கல்கி’யின் கண்ணோட்டம்(3)` title form
+- Latest batch audit: [`BATCH_0097_0106_AUDIT.md`](BATCH_0097_0106_AUDIT.md)
 - Legacy bilingual records preserved: **110 / 110** under `../volume-1/`
 - Canonically migrated/verified English records: **0 / 110**
 
 ## Exact next task
 
-Begin at **PDF 345**, where the scan visibly starts letter **0097 — `இன்றே தயாராகு!`**. Process exactly **10 complete consecutive letters, 0097–0106**, visually verifying every source page and start/end boundary and stopping before any text belonging to letter 0107. Keep the legacy bilingual corpus untouched and do not start English migration.
+Begin at **PDF 384**, where the scan visibly starts letter **0107 — `வாழ்க-உன் புன்னகை!`**. Process the documented final residue of **four complete consecutive letters, 0107–0110**, through the source ending. Visually verify every page, the final letter closure and any remaining non-letter page(s). Keep the legacy bilingual corpus untouched and do not start English migration until the canonical Tamil layer and required audit gates are complete.

@@ -22,18 +22,18 @@ legacy_bilingual_record_count: 110
 legacy_translation_audit_passed: true
 volume_specific_batch_size: 10
 volume_specific_batch_rule: "Volume 1 only: regular migration/review iterations use 10 complete consecutive letters; documented final residue may be smaller. User explicitly approved one expanded 20-letter iteration for 0057-0076."
-transcription_page_range: "1-344"
+transcription_page_range: "1-383"
 transcription_status: "in-progress"
 recorded_letter_range: "1-110 (printed contents verified; canonical migration in progress)"
-completed_letter_range: "1-96"
-completed_letter_count: 96
+completed_letter_range: "1-106"
+completed_letter_count: 106
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
 source_printed_pagination_anomalies:
   - "PDF 39 prints page 38; PDF 40 prints page 40. Printed page number 39 is skipped, but text is continuous across the boundary."
-audit_status: "volume-01-ten-letter-batch-0087-0096-complete"
+audit_status: "volume-01-ten-letter-batch-0097-0106-complete"
 audit_date: 2026-08-17
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -101,4 +101,16 @@ source_observations:
   - "PDF page 342 prints பகுத்தறிவு வாதிகளின் with a space; the legacy joined form is not substituted."
   - "Letter 96 begins on PDF 343 without a salutation after its heading; PDFs 343-344 preserve source no-space hyphenation and bold date/1972 parallel passages."
   - "PDF page 345 visibly begins letter 97 with the actual heading இன்றே தயாராகு! and salutation உடன்பிறப்பே, confirming the boundary after letter 96; no letter 97 text is committed in the 0087-0096 batch."
+  - "PDF pages 345-346 preserve letter 97's compact source hyphenation, including கோட்டை-நமக்குக் குளிர் தருவதும் அல்ல!, and its closing call to prepare for the ideal festival."
+  - "PDF pages 347-350 preserve letter 98's Anna/Periyar historical passages, source-bold quotation, compact hyphenation, and the final தூள்-தூள் / தோள் தோள் wordplay."
+  - "PDF pages 351-353 preserve letter 99's page-boundary continuations, source compact hyphenation, bold என் கண்ணின் மணியே!, and the 22-09-1974 closure."
+  - "PDF pages 354-358 preserve letter 100's source-bold verse and exhortations, page-boundary word splits, Kalingathupparani lineation, and the 25-09-1974 closure."
+  - "PDF pages 359-360 preserve letter 101's source punctuation, decorative ∵ markers for கடமை / கண்ணியம் / கட்டுப்பாடு, bold slogans, and the 29-09-1974 closure."
+  - "PDF pages 361-364 preserve letter 102's page-boundary continuation, source-bold reassurance, Ravana Kaviyam verse lineation, long bold festival-comparison block, and the final வீணர் அதிர-வீடணர் வீழ exhortation."
+  - "PDF page 365 prints letter 103's heading on two lines and bolds the opening hunger sentence; PDFs 365-368 preserve source-bold newspaper passages and the செங்கற்பட்டு / செங்கை wordplay."
+  - "PDF pages 369-373 preserve letter 104's dense source hyphenation, bold Kalki quotations and Assembly-strength paragraph; PDF 373 prints the date 26-10-1974 without parentheses."
+  - "PDF pages 374-379 preserve letter 105's bold milk-pot and deer/tortoise/goat passages, decorative ∵ statistical sections, printed I. F. C. / IC. I. C. I. forms, Grey Iron castings, industrial index figures, and the closing ஆடல்ல-முயல் wordplay."
+  - "PDF pages 380-383 preserve letter 106's title without a space before (3), three lineated offence phrases, Anna's tree quotation, state-autonomy terminology including சுவாதீனம் / சமஷ்டி / பூச்சாண்டி, and the 03-11-1974 closure."
+  - "Letters 97-106 are visually boundary-verified and canonically migrated through PDF page 383."
+  - "PDF page 384 visibly begins letter 107 with the actual heading வாழ்க-உன் புன்னகை! and salutation உடன்பிறப்பே, confirming the boundary after letter 106; no letter 107 text is committed in the 0097-0106 batch."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."
