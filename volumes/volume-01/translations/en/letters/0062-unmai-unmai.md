@@ -1,0 +1,111 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0062"
+date: 1973-06-24
+title_ta: "உண்மை! உண்மை!!"
+title_en: "Truth! Truth!!"
+source_pdf_pages: [253, 254, 255]
+source_printed_pages: [253, 254, 255]
+source_chapter: "../../chapters/0062-unmai-unmai.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0062 — Truth! Truth!!
+
+**Tamil title:** உண்மை! உண்மை!!  
+**Date:** 24 June 1973  
+**Source:** PDF 253–255 / printed 253–255  
+**Canonical Tamil chapter:** [`0062-unmai-unmai.md`](../../chapters/0062-unmai-unmai.md)
+
+## Translator's Note
+
+This is a satirical attack on sensational journalism. Kalaignar first presents an escalating succession of impossible reports as though they were news, then turns directly to the reader: start a newspaper, print stories like these, and profit from a public willing to believe any fabrication. The repeated title is deliberately ironic. `Udanpirappē` is retained for the political kinship carried by `உடன்பிறப்பே`.
+
+## English Translation
+
+Udanpirappē,
+
+Kennedy, who was shot dead in the United States some years ago, suddenly appeared in Washington, directly before the statue of Abraham Lincoln. The people who saw him stood stunned for a moment. Then, recovering their senses, they surrounded Kennedy, cheered and sang songs of greeting.
+
+Nixon and all the other residents of the White House came running to meet President Kennedy, returned through rebirth. Nixon then took Kennedy in a large, gleaming white car to his mansion.
+
+The two spoke for about an hour about the “Watergate” affair. From time to time during their conversation, they ate masala vadai and murukku.
+
+Just then the telephone rang. Kennedy, who was nearby, picked it up and said, “Hello?” Jacqueline began speaking in a rush: “My beloved! My darling! Are you well? Who can know how my life throbs in separation from you, my beloved? Milk has no taste; fruit has no flavour. Sleep will not come in bed.” Their lovers' conversation lasted half an hour. Both spoke with tears in their eyes.
+
+When Russia's dictator Stalin was asked about Kennedy and Jacqueline beginning their life together again, he gave no reply, leaving newspaper reporters disappointed.
+
+A reporter met King Edward VIII of England and told him of the miracle that had occurred in America. Edward immediately smiled at the reporter and replied, “When I was asked, ‘Do you want Simpson or the throne?’ I said that I wanted the throne. It appears Kennedy does not need America; Jacqueline alone appears enough for him.”
+
+At the end of the Nixon-Kennedy talks, it was decided that both would jointly field and support a Black candidate in the next presidential election.
+
+Lengthy editorials have appeared in Red Chinese newspapers saying that Kissinger may become China's leader after Mao Zedong. Yet they have not mentioned John F. Kennedy even once. Mrs Vijayalakshmi Pandit angrily declared this highly condemnable yesterday during the consecration ceremony of the Taj Mahal in Agra.
+
+Welcoming that view, Master Tara Singh conducted a *kathakalakshepam* on Tiruchi radio this morning.
+
+The report that several very important Indians died in a recent air crash is false. It is said that the aircraft which fell and shattered was not an Indian aircraft, and that the Indian aircraft lost its way and landed in the swimming pool of a park near Rome.
+
+Marshal Tito has invited the Puri Shankaracharya. Accepting the invitation, the Puri Swami intends to undertake his foreign journey in a palanquin.
+
+Udanpirappē! Why are you staring? Why are you bewildered?
+
+Would you like to run a profitable enterprise? Then start a newspaper! If you want that newspaper to sell sensationally, all you need do is print stories like these. Within six months, you will prosper in your trade!
+
+Do not ask, “Will people believe them?” The people of Tamil Nadu will believe any lie.
+
+There is just one thing: even a clever man's lie lasts only eight days! Still, so long as it lasts, there is profit, is there not? That is why this art is now growing so rapidly in our country!
+
+With affection,
+
+M. K.
+
+24 June 1973
+
+## Original Tamil — மூலத் தமிழ்
+
+# 62. உண்மை! உண்மை!!
+
+உடன்பிறப்பே,
+
+அமெரிக்க நாட்டில் சில ஆண்டுகளுக்கு முன்பு சுட்டுக் கொல்லப்பட்ட கென்னடி திடீரென வாஷிங்டன் நகரில் ஆபிரகாம் லிங்கன் சிலைக்கு நேரே தோன்றினார். அவரைக் கண்ட மக்கள் அப்படியே திகைத்துப் போய் ஒருக்கணம் நின்று விட்டனர். பிறகு அந்த மக்கள் சுய நினைவு பெற்று கென்னடியைச் சூழ்ந்து கொண்டு ஆரவாரம் செய்து வாழ்த்து கீதம் இசைத்தனர்.
+
+மறுபிறவி எடுத்து வந்த ஜனாதிபதி கென்னடியை சந்திப்பதற்கு நிக்சன் முதலிய வெள்ளை மாளிகை வாசிகள் அனைவரும் ஓடி வந்தனர். பிறகு, வெள்ளை வண்ணம் மின்னும் ஒரு பெரிய காரில் கென்னடியை நிக்சன் அழைத்துக் கொண்டு தன் மாளிகைக்குச் சென்றார்.
+
+இருவரும், ‘வாட்டர் கேட்’ விவகாரம் பற்றி சுமார் ஒரு மணி நேரம் பேசிக் கொண்டிருந்தனர். பேசின்போது இடையிடையே மசால் வடையும் முறுக்கும் சாப்பிட்டார்கள்.
+
+அப்போது தொலைபேசி மணி அடிக்கவே, அருகே இருந்த கென்னடி எடுத்து “ஹலோ” என்றார். “அத்தான்! மை டார்லிங்! சுகமாயிருக்கிறீர்களா? உங்களைப் பிரிந்து என் உயிர் துடிக்கும் துடிப்பை யார் அறிவார் அத்தான்! பாலும் சுவைக்கவில்லை; பழமும் ருசிக்கவில்லை. படுக்கையில் தூக்கமில்லை” என்று மளமளவென்று பேச ஆரம்பித்தாள் ஜாக்குலின்! அவர்களுடைய காதல் உரையாடல் அரைமணி நேரம் நீடித்தது. இருவரும் கண்கலங்கியவாறு பேசினர்.
+
+கென்னடியும் ஜாக்குலினும் மீண்டும் வாழ்வு தொடங்குவது பற்றி ரஷ்யாவின் சர்வாதிகாரி ஸ்டாலினிடம் கேட்டபோது அவர் பதில் ஏதும் சொல்லாத காரணத்தால் பத்திரிகை நிருபர்கள் ஏமாற்றத்துக்கு ஆளானார்கள்.
+
+இங்கிலாந்து மன்னர் எட்டாவது எட்வர்ட்டைப் பார்த்து ஒரு நிருபர், அமெரிக்காவில் நடந்த அதிசயத்தைத் தெரிவித்தார். உடனே எட்வர்ட், நிருபரைப் பார்த்து சிரித்தவாறு “சிம்சன் வேண்டுமா? சிம்மாசனம் வேண்டுமா? என்று என்னைக் கேட்டபோது - நான் சிம்மாசனம்தான் வேண்டுமென்று சொன்னேன். கென்னடிக்கு அமெரிக்கா தேவையில்லை போலும், ஜாக்குலினே போதும் போலும்” என்று பதில் அளித்தார்.
+
+நிக்சன், கென்னடியின் பேச்சு வார்த்தையின் முடிவில் அடுத்த ஜனாதிபதி தேர்தலுக்கு இருவரும் சேர்ந்து ஒரு நீக்ரோவை நிறுத்தி ஆதரிப்பது என்று முடிவாகியிருக்கிறது.
+
+கிசிங்கர், மாசேதுங்கிற்குப் பிறகு சீனாவின் அதிபராகலாம் என்று செஞ்சீனப் பத்திரிகைகளில் நீண்ட தலையங்கங்கள் எழுதப்பட்டுள்ளன. எனினும், ஜான் எப் கென்னடியைப் பற்றி ஒரு வார்த்தைகூட குறிப்பிடவில்லை. இது மிகவும் கண்டிக்கத் தக்கது என்று திருமதி விஜயலட்சுமி பண்டிட் நேற்று ஆக்ராவில் நடைபெற்ற தாஜ்மகால் கும்பாபிஷேகத்தின் போது ஆவேசமாகக் குறிப்பிட்டார்.
+
+அந்தக் கருத்தை வரவேற்று, மாஸ்டர் தாராசிங் இன்று காலை திருச்சி வானொலியில் ஒரு கதாகாலட்சேபம் நடத்தினார்.
+
+சமீபத்தில் நடைபெற்ற ஒரு விமான விபத்தில் இந்தியாவைச் சேர்ந்த மிக முக்கியமான சிலர் இறந்து விட்டார்கள் என்ற செய்தி தவறானது. விழுந்து நொறுங்கிய விமானம் இந்திய விமானம் அல்ல என்றும் இந்திய விமானம் திசைமாறிப் போய் ரோம் நகருக்கு அருகேயுள்ள ஒரு பூங்காவின் நீச்சல் குளத்தில் இறங்கிவிட்டதாகவும் கூறப்படுகிறது.
+
+பூரி சங்கராச்சாரியாருக்கு மார்ஷல் டிட்டோ அழைப்பு அனுப்பியுள்ளார். அழைப்பை ஏற்றுக்கொண்ட பூரி ஸ்வாமிகள், தனது வெளிநாடு பயணத்தை பல்லக்கிலேயே மேற்கொள்வதாக இருக்கிறார்.
+
+உடன்பிறப்பே! என்ன விழிக்கிறாய்? ஏன் திகைக்கிறாய்?
+
+நீ ஏதாவது லாபகரமான தொழில் நடத்த வேண்டுமா? அப்படியானால் ஒரு பத்திரிகை நடத்தத் தொடங்கு! அந்தப் பத்திரிகை பரபரப்பாக விற்க வேண்டுமானால் இது மாதிரி செய்திகளைப் போட்டால் போதும். ஆறே மாதத்தில் நீ உன் தொழிலில் முன்னேறி விடுவாய்!
+
+“மக்கள் நம்புவார்களா?” என்று கேட்காதே! தமிழ் நாட்டு மக்கள் எந்தப் புளுகையும் நம்புவார்கள்.
+
+ஆனால் ஒன்று; கெட்டிக்காரன் புளுகே எட்டு நாளைக்குத்தான்! இருந்தாலும் வந்த வரையில் லாபம்தானே! அதனால்தான் இப்போது நமது நாட்டில் அந்தக் கலை வேகமாக வளர்கிறது!
+
+அன்புள்ள,
+
+மு. க.
+
+(24-06-1973)
