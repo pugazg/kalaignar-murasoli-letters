@@ -6,7 +6,7 @@
 - [x] Canonical Tamil page/letter migration complete: **401 / 401 pages; 110 / 110 letters**
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
-- [ ] Legacy English record migration and source checking — **in progress; 0001–0080 / 110 source-checked**
+- [ ] Legacy English record migration and source checking — **in progress; 0001–0090 / 110 source-checked**
 - [ ] Bilingual alignment
 - [ ] Volume-level editorial consistency review
 - [ ] Translation manifest and final release report
@@ -27,9 +27,9 @@
 - Letter 0063 has no printed date and remains undated rather than inferred
 - Printed-contents wording remains literal where it differs from actual heading pages; letter 0109 contents `அவள் ஒரு தொடற்கதை!` differs from actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
-- Canonically migrated English records: **80 / 110**
-- Canonically source-checked English records: **80 / 110**
-- Completed canonical English range: **0001–0080**
+- Canonically migrated English records: **90 / 110**
+- Canonically source-checked English records: **90 / 110**
+- Completed canonical English range: **0001–0090**
 - Bilingual-aligned canonical English records: **0 / 110**
 - Verified canonical English records: **0 / 110**
 - Source-check reports:
@@ -41,6 +41,7 @@
   - [`translations/en/SOURCE_CHECK_0051_0060.md`](translations/en/SOURCE_CHECK_0051_0060.md)
   - [`translations/en/SOURCE_CHECK_0061_0070.md`](translations/en/SOURCE_CHECK_0061_0070.md)
   - [`translations/en/SOURCE_CHECK_0071_0080.md`](translations/en/SOURCE_CHECK_0071_0080.md)
+  - [`translations/en/SOURCE_CHECK_0081_0090.md`](translations/en/SOURCE_CHECK_0081_0090.md)
 - Letter 0002 was corrected against scan-verified PDF 030 so Kamaraj's Deepavali quotation includes the source-visible `என்பதை இந்த ஆண்டு காண்கிறோம்` before the following sentence
 - Letter 0010 follows scan-verified PDF 063 `ரன்னர்` and therefore uses **Runner Cup**, not the stale legacy `Rainer` reading
 - Letter 0018 preserves the deliberate censored ellipses on PDF 095 without reconstruction
@@ -77,7 +78,19 @@
 - Letter 0079 retains `பாடி வீடுகள்` as a martial camps metaphor; PDF 294 controls `அறை கூவல்`, `நியாய நெஞ்சும்` and `வலிப்பு நோய் ஆவான்...`
 - Letter 0080 preserves the `கொள்கை மலர்கள்` / victory-garland image for Anna; PDF 297 controls `தன்னலமற்ற-கண்ணயராத`
 - All ten canonical records 0071–0080 have `full_tamil_included: true`; bilingual-alignment and editorial-consistency flags remain `false`
+- Letters 0081–0090 are migrated and source-checked across PDF / printed pages **298–325**
+- Letter 0081 preserves the 8,226-word Sezhiyan–Maran report, Rajamannar Committee sequence and banyan-seed/state-autonomy argument
+- Letter 0082 preserves the Pongal stove/pot metaphor and shield / bow-and-arrow warning; PDF 301 controls `“நல்லவர்”(?)களுக்கும்`
+- Letter 0083 preserves the five campaign headlines, repeated `ஊழல்` rhetoric and cadre-as-`படைக்கருவி` imagery
+- Letter 0084 preserves the budget argument and flour/sweet, rain-cloud, sun and storm-boat metaphors; source `திருவள்ளுவர் ஆலயம்` is rendered directly rather than silently renamed
+- Letter 0085 preserves the full lineated internal-election principles and “all flowers are roses” image
+- Letter 0086 preserves the Chicago/May Day history, labour measures, `சமதர்ம சங்கீதம்` satire and rights/friendship pledge
+- Letter 0087 preserves the railway-strike negotiation argument, Centre/State authority contrast and proposed no-victimisation settlement
+- Letter 0088 preserves the anti-extravagance birthday request, three-fund list, `கழகக் குரல்` and poor-person's-smile sequence
+- Letter 0089 preserves the earthen-lamp, equal-pearls and balance-needle images and the closing `சிந்தாமல் சிதறாமல்`
+- Letter 0090 preserves the birthday-affection / `கட்டுமரம்` sequence, explicit anti-violence position, *அலைஓசை* passage and Kamaraj “cool breeze” satire; PDF 325 controls `காமராசரின்`
+- All ten canonical records 0081–0090 have `full_tamil_included: true`; bilingual-alignment and editorial-consistency flags remain `false`
 
 ## Exact next task
 
-Migrate and source-check canonical English letters **0081–0090** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric, imagery and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.
+Migrate and source-check canonical English letters **0091–0100** as the next Volume 1 ten-letter batch. Use the preserved legacy bilingual records only as reusable drafts/evidence; verified canonical Tamil and the controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric, imagery and political language. Keep bilingual alignment as a separate later gate and do not mark these records `verified` before that review.
