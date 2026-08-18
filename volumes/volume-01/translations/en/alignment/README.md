@@ -21,8 +21,9 @@ Volume 1 uses a **10-letter regular cadence**.
 - **0061–0070** — PASS — 0 corrections
 - **0071–0080** — PASS — 0 corrections
 - **0081–0090** — PASS — 0 corrections
+- **0091–0100** — PASS — 0 corrections
 
-Current totals: **90 / 110 PASS**, completed range **0001–0090**, with **4** cumulative English prose/quotation corrections. Verified: **0 / 110**. Editorially reviewed: **0 / 110**.
+Current totals: **100 / 110 PASS**, completed range **0001–0100**, with **4** cumulative English prose/quotation corrections. Verified: **0 / 110**. Editorially reviewed: **0 / 110**.
 
 Corrections made and not to be reverted:
 
@@ -33,10 +34,10 @@ Corrections made and not to be reverted:
 
 The alignment reports and `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Canonical translation files are not rewritten solely to churn source-check-era frontmatter when no content change is required. Alignment PASS does not promote a record to `verified` or release-ready status.
 
-Completed reports now run through [`ALIGNMENT_0081_0090.md`](ALIGNMENT_0081_0090.md). See [`ALIGNMENT_MANIFEST.csv`](ALIGNMENT_MANIFEST.csv) and [`PROGRESS.md`](PROGRESS.md).
+Completed reports now run through [`ALIGNMENT_0091_0100.md`](ALIGNMENT_0091_0100.md). See [`ALIGNMENT_MANIFEST.csv`](ALIGNMENT_MANIFEST.csv) and [`PROGRESS.md`](PROGRESS.md).
 
 ## Exact next activity
 
-Align canonical English letters **0091–0100**, source PDF / printed pages **326–358**, against their complete canonical Tamil witnesses. Consult `../SOURCE_CHECK_0091_0100.md`. High-value controls include celebration-as-work and supporting-root/seed imagery in 0091; sibling/betrayal and state-autonomy arguments in 0092; Kamaraj, *Navasakthi*, *Dinamani* and Kannadasan material in 0093; police-family lullaby and prohibition satire in 0094; `மாம்பழ மங்கை` in 0095; paired **24 September 1799 / 24 September 1972** dates in 0096; `முப்பெரும் விழா` mobilisation in 0097; `இரட்டைக்குழல் துப்பாக்கி` and thousand-year-crop imagery in 0098; Murasoli Selvam / `ப. உ. ச.` / road-watching close in 0099; and the *Kalingattuparani* sequence and repeated `வா, வா!` summons in 0100.
+Align canonical English letters **0101–0110**, source PDF / printed pages **359–400**, against their complete canonical Tamil witnesses. Consult `../SOURCE_CHECK_0101_0110.md`. High-value controls include the five great slogans in 0101; the N. V. N. emotional passage in 0102; hunger-report sequence in 0103; the *Kalki* arguments in 0104–0106; industrial data and `ஆட்சி / மாட்சி` material in 0107; Jayaprakash satire in 0108; actual PDF-392 title `அவள் ஒரு தொடர்கதை!` and opaque `நமப்பார்வதி பதேக்கள்!` in 0109; and the full 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400 in 0110.
 
 Volume-level editorial consistency, final manifest, release report and release declaration remain blocked until alignment reaches **110 / 110**.

@@ -16,7 +16,7 @@ Active canonical tree: `volumes/volume-01/`. Legacy tree `volumes/volume-1/` rem
 
 ## Active gate — bilingual alignment
 
-Nine regular alignment batches are complete:
+Ten regular alignment batches are complete:
 
 - **0001–0010** — PDF **024–066** — PASS — 0 corrections
 - **0011–0020** — PDF **067–104** — PASS after 1 correction
@@ -27,18 +27,19 @@ Nine regular alignment batches are complete:
 - **0061–0070** — PDF **250–276** — PASS — 0 corrections
 - **0071–0080** — PDF **277–297** — PASS — 0 corrections
 - **0081–0090** — PDF **298–325** — PASS — 0 corrections
+- **0091–0100** — PDF **326–358** — PASS — 0 corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **90 / 110**
-- completed range: **0001–0090**
+- alignment-reviewed and PASS: **100 / 110**
+- completed range: **0001–0100**
 - cumulative alignment-driven English prose/quotation corrections: **4** — 0014, 0043, 0058, 0059
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
 
 Authoritative records are the `translations/en/alignment/ALIGNMENT_*.md` reports, `ALIGNMENT_MANIFEST.csv` and `PROGRESS.md`.
 
-The **0081–0090** batch required no canonical English content correction. Controls reconfirmed include the 8,226-word Rajamannar/state-autonomy report in 0081; Pongal stove/pot and bow/arrow imagery in 0082; campaign and `ஊழல்` rhetoric in 0083; budget and journey imagery in 0084; rose/internal-election imagery in 0085; Chicago/eight-hour-day and labour measures in 0086; railway-strike Centre/State asymmetry in 0087; fiftieth-birthday redirection in 0088; lamp/pearls/balance-needle imagery in 0089; and the `மாமருந்து`, `கட்டுமரம்`, Tamil–Malayali violence, *Alai Osai* and Kamaraj summer-breeze sequence in 0090.
+The **0091–0100** batch required no canonical English content correction. Controls reconfirmed include celebration-as-work and supporting-root/seed imagery; betrayal/state-autonomy/Subba Rao; Kamaraj/*Navasakthi*/*Dinamani*/Kannadasan; police-family lullaby/prohibition satire; `மாம்பழ மங்கை`; the paired 1799/1972 dates; `முப்பெரும் விழா`; `இரட்டைக்குழல் துப்பாக்கி` and thousand-year-crop imagery; Murasoli Selvam/road-watching; and the `முக்கனி`/*Kalingattuparani* / `வா, வா!` sequence.
 
 ## Alignment metadata convention
 
@@ -46,13 +47,13 @@ Dedicated alignment records are authoritative. Canonical translation files are n
 
 ## Exact next activity
 
-Proceed with bilingual alignment for **0091–0100**, source PDF / printed pages **326–358**.
+Proceed with bilingual alignment for **0101–0110**, source PDF / printed pages **359–400**.
 
 For every record compare English directly with the complete canonical Tamil witness; verify coverage, thought order, quotation/paragraph correspondence, names, dates, figures, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity; preserve `Udanpirappē`; and correct only demonstrable correspondence errors.
 
-Create `translations/en/alignment/ALIGNMENT_0091_0100.md`, append 0091–0100 to `ALIGNMENT_MANIFEST.csv`, and advance progress to **100 / 110** only after all ten pass.
+Create `translations/en/alignment/ALIGNMENT_0101_0110.md`, append 0101–0110 to `ALIGNMENT_MANIFEST.csv`, and advance progress to **110 / 110** only after all ten pass.
 
-Consult `translations/en/SOURCE_CHECK_0091_0100.md`: 0091 celebrations/supporting roots and seeds; 0092 betrayal/state-autonomy/Subba Rao; 0093 Kamaraj/*Navasakthi*/*Dinamani*/Kannadasan; 0094 police-family lullaby/prohibition satire; 0095 `மாம்பழ மங்கை`; 0096 **24-09-1799 / 24-09-1972** parallel; 0097 `முப்பெரும் விழா`; 0098 `இரட்டைக்குழல் துப்பாக்கி` and thousand-year crop; 0099 Murasoli Selvam and road-watching close; 0100 travel chronology, *Kalingattuparani* and repeated `வா, வா!`.
+Consult `translations/en/SOURCE_CHECK_0101_0110.md`: five great slogans in 0101; N. V. N. emotional passage in 0102; hunger-report sequence in 0103; *Kalki* arguments in 0104–0106; industrial data and `ஆட்சி / மாட்சி` in 0107; Jayaprakash satire in 0108; actual PDF-392 title `அவள் ஒரு தொடர்கதை!` and opaque `நமப்பார்வதி பதேக்கள்!` in 0109; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400 in 0110.
 
 ## Still blocked
 

@@ -6,7 +6,7 @@
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
 - [x] Legacy English record migration and source checking — **complete; 0001–0110 / 110 source-checked**
-- [ ] Bilingual alignment — **in progress; 0001–0090 / 90 reviewed and PASS**
+- [ ] Bilingual alignment — **in progress; 0001–0100 / 100 reviewed and PASS**
 - [ ] Volume-level editorial consistency review
 - [ ] Translation manifest and final release report
 
@@ -24,17 +24,17 @@
 - Contents/heading variants remain literal, including 0109 contents `அவள் ஒரு தொடற்கதை!` versus actual heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
 - Canonical English records: **110 / 110 source-checked**
-- Bilingual-aligned canonical English records: **90 / 110**
-- Completed bilingual-alignment range: **0001–0090**
+- Bilingual-aligned canonical English records: **100 / 110**
+- Completed bilingual-alignment range: **0001–0100**
 - Alignment-driven English prose/quotation corrections: **4** — 0014, 0043, 0058, 0059
 - Verified canonical English records: **0 / 110**
 - Editorially reviewed canonical English records: **0 / 110**
 
 ## Alignment reports
 
-Reports are complete through [`translations/en/alignment/ALIGNMENT_0081_0090.md`](translations/en/alignment/ALIGNMENT_0081_0090.md). The authoritative record-level ledger is [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv); current boundary is in [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md).
+Reports are complete through [`translations/en/alignment/ALIGNMENT_0091_0100.md`](translations/en/alignment/ALIGNMENT_0091_0100.md). The authoritative record-level ledger is [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv); current boundary is in [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md).
 
-The **0081–0090** batch passed with no English prose/quotation correction. It reconfirmed state-autonomy/Rajamannar material, Pongal imagery, election/cadre rhetoric, budget imagery, internal-election rose imagery, May Day labour history, railway-strike Centre/State asymmetry, birthday-fund redirection, organisational lamp/pearls/balance imagery and the summer/cyclone/Tamil–Malayali violence/Kamaraj sequence.
+The **0091–0100** batch passed with no English prose/quotation correction. It reconfirmed celebration/work and supporting-root imagery, betrayal/state-autonomy/Subba Rao, Kamaraj/*Navasakthi*/*Dinamani*/Kannadasan, the police-family lullaby/prohibition satire, `மாம்பழ மங்கை`, paired 1799/1972 dates, `முப்பெரும் விழா`, `இரட்டைக்குழல் துப்பாக்கி`/thousand-year crop, Murasoli Selvam/road-watching, and the `முக்கனி`/*Kalingattuparani*/`வா, வா!` sequence.
 
 ## High-value source controls retained across migration
 
@@ -46,6 +46,6 @@ The **0081–0090** batch passed with no English prose/quotation correction. It 
 
 ## Exact next task
 
-Continue bilingual alignment with **0091–0100**, source PDF / printed pages **326–358**. Compare English directly with complete canonical Tamil, correct only demonstrable correspondence errors, create `translations/en/alignment/ALIGNMENT_0091_0100.md`, append the manifest, and advance to **100 / 110** only after all ten pass.
+Continue bilingual alignment with **0101–0110**, source PDF / printed pages **359–400**. Compare English directly with complete canonical Tamil, correct only demonstrable correspondence errors, create `translations/en/alignment/ALIGNMENT_0101_0110.md`, append the manifest, and advance to **110 / 110** only after all ten pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.

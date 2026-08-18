@@ -22,7 +22,7 @@ Read the repository processing/transcription/batching/future-work guides, root `
 
 ## Active gate — bilingual alignment
 
-Completed through **0090 / 110**:
+Completed through **0100 / 110**:
 
 - 0001–0010 PASS — 0 corrections
 - 0011–0020 PASS after 1
@@ -33,17 +33,18 @@ Completed through **0090 / 110**:
 - 0061–0070 PASS — 0
 - 0071–0080 PASS — 0
 - 0081–0090 PASS — 0
+- 0091–0100 PASS — 0
 
-Current totals: **90 / 110 PASS**, cumulative corrections **4** (0014, 0043, 0058, 0059), verified **0 / 110**, editorially reviewed **0 / 110**.
+Current totals: **100 / 110 PASS**, cumulative corrections **4** (0014, 0043, 0058, 0059), verified **0 / 110**, editorially reviewed **0 / 110**.
 
-The 0081–0090 batch required no English content correction. It reconfirmed the Rajamannar/state-autonomy report, Pongal metaphor, campaign/corruption rhetoric, budget imagery, internal-election rose imagery, May Day/labour sequence, railway-strike Centre/State asymmetry, birthday redirection, organisational lamp/pearls/balance imagery, and 0090's birthday/cyclone/Tamil–Malayali violence/*Alai Osai*/Kamaraj sequence.
+The 0091–0100 batch required no English content correction. It reconfirmed celebration/work and supporting-root imagery; betrayal/state-autonomy/Subba Rao; Kamaraj/*Navasakthi*/*Dinamani*/Kannadasan; police-family lullaby/prohibition satire; `மாம்பழ மங்கை`; paired 24-09-1799 / 24-09-1972; `முப்பெரும் விழா`; `இரட்டைக்குழல் துப்பாக்கி`/thousand-year crop; Murasoli Selvam/`ப. உ. ச.`/road-watching; and the travel/`முக்கனி`/*Kalingattuparani* / `வா, வா!` sequence.
 
 Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are authoritative. Do not rewrite canonical translation files merely for frontmatter bookkeeping. Alignment PASS does not make a record `verified`.
 
 ## Exact next activity
 
-Align canonical English **0091–0100**, source PDF / printed pages **326–358**, directly against their complete Tamil witnesses. Consult `translations/en/SOURCE_CHECK_0091_0100.md`; correct only demonstrable correspondence errors; create `ALIGNMENT_0091_0100.md`; append the manifest; advance alignment to **100 / 110** only after all ten pass; then move the exact boundary to 0101–0110.
+Align canonical English **0101–0110**, source PDF / printed pages **359–400**, directly against their complete Tamil witnesses. Consult `translations/en/SOURCE_CHECK_0101_0110.md`; correct only demonstrable correspondence errors; create `ALIGNMENT_0101_0110.md`; append the manifest; advance alignment to **110 / 110** only after all ten pass.
 
-Controls: 0091 celebration/work and supporting-root/seed image; 0092 betrayal/state-autonomy/Subba Rao; 0093 Kamaraj/*Navasakthi*/*Dinamani*/Kannadasan; 0094 police-family lullaby/prohibition; 0095 `மாம்பழ மங்கை`; 0096 paired 24-09-1799 / 24-09-1972; 0097 `முப்பெரும் விழா`; 0098 `இரட்டைக்குழல் துப்பாக்கி`/thousand-year crop; 0099 Murasoli Selvam/`ப. உ. ச.`/road-watching; 0100 travel chronology/*Kalingattuparani*/`வா, வா!`.
+Controls: five great slogans in 0101; N. V. N. emotional passage in 0102; hunger-report sequence in 0103; *Kalki* arguments in 0104–0106; industrial data and `ஆட்சி / மாட்சி` in 0107; Jayaprakash satire in 0108; actual PDF-392 title `அவள் ஒரு தொடர்கதை!` and opaque `நமப்பார்வதி பதேக்கள்!` in 0109; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400 in 0110.
 
 Do not begin volume-level editorial consistency, final manifest, release report or final release declaration until bilingual alignment reaches **110 / 110**.

@@ -27,9 +27,9 @@ Regular Volume 1 migration/review iterations use **10 complete consecutive lette
 - Full-volume second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**.
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
 - Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**.
-- Bilingual alignment: **in progress — 0001–0090 / 90 reviewed and PASS**.
+- Bilingual alignment: **in progress — 0001–0100 / 100 reviewed and PASS**.
 - Alignment-driven English prose/quotation corrections: **4**, in 0014, 0043, 0058 and 0059.
-- Alignment batch **0081–0090**: **PASS with no English prose/quotation correction required**.
+- Alignment batch **0091–0100**: **PASS with no English prose/quotation correction required**.
 - Canonical English records remain **source-checked, not verified**. Editorial consistency and release work remain later gates.
 
 ## Source identity
@@ -46,6 +46,6 @@ See [`../volume-1/MIGRATION_AUDIT.md`](../volume-1/MIGRATION_AUDIT.md), [`../vol
 
 ## Exact next task
 
-Continue bilingual alignment with canonical English letters **0091–0100**, source PDF / printed pages **326–358**. Compare each record directly with its complete canonical Tamil witness, correct only demonstrable correspondence errors, create `translations/en/alignment/ALIGNMENT_0091_0100.md`, append the manifest and advance to **100 / 110** only after all ten pass.
+Continue bilingual alignment with canonical English letters **0101–0110**, source PDF / printed pages **359–400**. Compare each record directly with its complete canonical Tamil witness, correct only demonstrable correspondence errors, create `translations/en/alignment/ALIGNMENT_0101_0110.md`, append the manifest and advance to **110 / 110** only after all ten pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.
