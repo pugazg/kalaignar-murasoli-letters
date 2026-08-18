@@ -17,27 +17,44 @@ Only demonstrable correspondence errors are corrected at this gate. Stylistic re
 
 ## Batch cadence
 
-Volume 1 uses the established **10-letter regular cadence** for this review. Alignment begins with **0001–0010**, then proceeds consecutively.
+Volume 1 uses the established **10-letter regular cadence** for this review and proceeds consecutively.
+
+Completed alignment batches:
+
+- **0001–0010** — PASS — 0 English prose corrections
+- **0011–0020** — PASS after 1 English prose correction
+
+Exact next batch: **0021–0030**.
 
 ## Status recording
 
-The alignment reports and `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Because the first batch required **no English prose correction**, its canonical translation files are intentionally not rewritten solely to churn frontmatter metadata. Their existing source-check metadata therefore remains unchanged for now; the dedicated alignment ledger records the completed meaning-level review. A later metadata-synchronisation pass can promote frontmatter consistently after the alignment gate, without conflating content correction with bookkeeping.
+The alignment reports and `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Canonical translation files are not rewritten solely to churn source-check-era frontmatter when no content change is required. Their existing source-check metadata may therefore remain unchanged while the dedicated alignment ledger records the completed meaning-level review.
 
-This does **not** promote any record to `verified` or release-ready status.
+When a demonstrable correspondence error exists, the English prose itself is corrected. Through 0020, one such correction was required in **0014**, where two consecutive Tamil statements had been compressed into one English sentence. The aligned text now preserves the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife.
+
+This bookkeeping convention does **not** promote any record to `verified` or release-ready status.
 
 ## Current status
 
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **10 / 110**
-- Completed alignment range: **0001–0010**
-- English prose corrections required by alignment so far: **0**
+- Alignment-reviewed and PASS: **20 / 110**
+- Completed alignment range: **0001–0020**
+- English prose corrections required by alignment so far: **1**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
 
-Completed report:
+Completed reports:
 
 - [`ALIGNMENT_0001_0010.md`](ALIGNMENT_0001_0010.md)
+- [`ALIGNMENT_0011_0020.md`](ALIGNMENT_0011_0020.md)
 
-Exact next batch: **0011–0020**.
+Tracking records:
 
-Volume-level editorial consistency, final manifest, release report and release declaration remain blocked until bilingual alignment is complete.
+- [`ALIGNMENT_MANIFEST.csv`](ALIGNMENT_MANIFEST.csv)
+- [`PROGRESS.md`](PROGRESS.md)
+
+## Exact next activity
+
+Align canonical English letters **0021–0030** against their complete canonical Tamil witnesses. Correct only demonstrable correspondence errors, create `ALIGNMENT_0021_0030.md`, append record-level results to the manifest, and advance progress to **30 / 110** only after all ten records pass.
+
+Volume-level editorial consistency, final manifest, release report and release declaration remain blocked until bilingual alignment reaches **110 / 110**.
