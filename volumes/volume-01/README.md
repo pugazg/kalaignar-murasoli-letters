@@ -16,7 +16,7 @@ The supplied `Vol1.pdf` is the controlling source for this migration. Existing T
 
 For **Volume 1 alone**, regular migration/review iterations use **10 complete consecutive letters per iteration**. This volume-specific instruction supersedes the repository's normal five-letter cadence for Volume 1 work only. A documented final residue may be smaller.
 
-A previous user-approved iteration used an expanded scope of **20 complete consecutive letters — 0057 through 0076**. That was a one-time exception; regular Volume 1 work has returned to the ten-letter cadence unless separately instructed.
+A previous user-approved iteration used an expanded scope of **20 complete consecutive letters — 0057 through 0076**. That was a one-time exception; regular Volume 1 work returned to the ten-letter cadence afterward.
 
 ## Current canonical state
 
@@ -49,8 +49,8 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
 - Final letter-text range [`376–400`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) required corrections on **5 pages / 5 spans**, restoring the scan-bold opening salutations for letters 0106–0110 on PDFs 380, 384, 388, 392 and 396. The non-letter [`PDF 401`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md) back cover required no canonical correction.
 - Letters **0001–0110** have complete second-pass source-page coverage.
-- Canonical English migration/source check: **0001–0100 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md) and [`translations/en/SOURCE_CHECK_0091_0100.md`](translations/en/SOURCE_CHECK_0091_0100.md).
-- Canonical English records remain **source-checked, not verified**. Bilingual alignment, volume-level editorial consistency review and final release work remain later gates.
+- Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md) and [`translations/en/SOURCE_CHECK_0101_0110.md`](translations/en/SOURCE_CHECK_0101_0110.md).
+- Canonical English records remain **source-checked, not verified**. Bilingual alignment is the next gate; volume-level editorial consistency review and final release work remain later gates.
 
 ## Source identity
 
@@ -70,4 +70,4 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Migrate and source-check canonical English letters **0101–0110** as the final Volume 1 ten-letter source-check batch, spanning PDF **359–400**. Use the 110 preserved bilingual records under `../volume-1/` only as reusable drafts/evidence. The verified canonical Tamil pages and controlling `Vol1.pdf` remain authoritative. Preserve Kalaignar's thought order, rhetoric, political language, metaphors and movement vocabulary; do not silently normalise or infer. Do not begin bilingual alignment until canonical English source checking reaches **110 / 110**.
+Begin the dedicated **bilingual alignment review** across canonical English letters **0001–0110**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and set `quality_controls.bilingual_alignment_checked: true` only for records that pass. Keep `editorial_consistency_checked: false` until the later volume-level editorial-consistency gate. Do not begin the final manifest/release report or declare Volume 1 release-ready before the remaining gates are complete.

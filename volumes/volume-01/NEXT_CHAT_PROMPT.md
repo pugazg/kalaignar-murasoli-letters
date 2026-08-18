@@ -4,7 +4,7 @@ Copy the prompt below into a new window.
 
 ---
 
-Continue the **Kalaignar Murasoli Letters — Volume 1 canonical English migration** directly in:
+Continue the **Kalaignar Murasoli Letters — Volume 1 canonical English review** directly in:
 
 `pugazg/kalaignar-murasoli-letters`
 
@@ -36,9 +36,11 @@ Before making any repository change, read these files completely:
 10. `volumes/volume-01/AUDIT.md`
 11. `volumes/volume-01/metadata.yml`
 12. `volumes/volume-01/chapters/README.md`
-13. existing `volumes/volume-01/translations/en/SOURCE_CHECK_*.md` reports
+13. all `volumes/volume-01/translations/en/SOURCE_CHECK_*.md` reports
+14. `volumes/volume-01/translations/en/README.md`
+15. `volumes/volume-01/translations/en/PROGRESS.md`
 
-Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical status paragraphs. Confirm whether any work beyond the recorded boundary has already been committed; if so, continue it and do not duplicate or overwrite it.
+Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical status paragraphs. If bilingual-alignment work has already been started beyond the recorded boundary, continue it rather than duplicating or overwriting it.
 
 ## COMPLETED WORK — DO NOT RESTART
 
@@ -50,57 +52,46 @@ Tamil Volume 1 is complete:
 - second visual/textual-fidelity verification: **PASS — 401 / 401**
 - legacy bilingual records preserved: **110 / 110**
 
-Do not restart Tamil migration, structural audit or full-volume fidelity verification.
+Canonical English migration/source checking is also complete:
 
-Canonical English source-check migration is complete through **0100 / 110**. The closed ten-letter batch **0091–0100** is documented in `volumes/volume-01/translations/en/SOURCE_CHECK_0091_0100.md`.
+- canonical English records: **110 / 110**
+- source-checked records: **110 / 110**
+- completed canonical range: **0001–0110**
+- final source-check report: `volumes/volume-01/translations/en/SOURCE_CHECK_0101_0110.md`
 
-## EXACT NEXT ACTIVITY
+Do not restart Tamil migration, structural audit, full-volume fidelity verification or English source-check migration.
 
-Migrate and source-check the **final Volume 1 source-check batch, letters 0101–0110**:
+All canonical English records remain `source-checked`, not final/release-ready. They include the full canonical Tamil witness. At source-check closure their later-gate flags remain:
 
-- 0101 — `உயிரே! உடன்பிறப்பே! வா! வா!` — PDF 359–360
-- 0102 — `என் காணிக்கை!` — PDF 361–364
-- 0103 — `பார், பார்-இதோ பார்! இந்தியா பார்!` — PDF 365–368
-- 0104 — `‘கல்கி’யின் கண்ணோட்டம்!` — PDF 369–373
-- 0105 — `‘கல்கி’யின் கண்ணோட்டம் (2)` — PDF 374–379
-- 0106 — `‘கல்கி’யின் கண்ணோட்டம்(3)` — PDF 380–383
-- 0107 — `வாழ்க-உன் புன்னகை!` — PDF 384–387
-- 0108 — `வாண வேடிக்கை!` — PDF 388–391
-- 0109 — `அவள் ஒரு தொடர்கதை!` — PDF 392–395
-- 0110 — `கயிற்றில் தொங்கிய கணபதி!` — PDF 396–400
-
-Use corresponding legacy English records under `volumes/volume-1/translations/en/letters/` only as reusable drafts/evidence. The verified canonical Tamil and controlling scan are authoritative.
-
-For every letter, source-check for omissions, mistranslations, OCR-derived errors, title/date errors, altered metaphors, rhetorical flattening and political-language drift. Preserve Kalaignar's language, thought order, repetition, imagery and movement vocabulary. Retain `Udanpirappē` under the established project convention. Include the full canonical Tamil witness.
-
-At this gate use:
-
-- `translation_status: source-checked`
-- `quality_controls.source_checked: true`
-- `quality_controls.full_tamil_included: true`
 - `quality_controls.bilingual_alignment_checked: false`
 - `quality_controls.editorial_consistency_checked: false`
 
-Do not mark any record `verified` yet.
+## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT
 
-## BATCH CLOSURE AFTER 0110
+Begin the dedicated **bilingual alignment review** across canonical English letters **0001–0110**.
 
-Only after all canonical English records **0101–0110** are confirmed present and source-checked:
+For each canonical record:
 
-1. create `volumes/volume-01/translations/en/SOURCE_CHECK_0101_0110.md`;
-2. update source-check migration to **110 / 110**;
-3. synchronise Volume 1 tracking and root status where current conventions require it;
-4. verify all ten files have `full_tamil_included: true` and later-gate flags remain false;
-5. close the source-check migration gate;
-6. only then identify **bilingual alignment** as the next gate.
+1. compare the English translation directly with the complete `Original Tamil — மூலத் தமிழ்` witness and the canonical chapter/page evidence where necessary;
+2. verify sentence/paragraph correspondence, omissions, additions, quotation boundaries, figures, names, dates, metaphors, rhetorical questions, political terminology and repeated language;
+3. preserve Kalaignar's thought order, rhetorical force, imagery and movement vocabulary;
+4. retain `Udanpirappē` under the established project convention;
+5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
+6. correct only demonstrable English/Tamil correspondence errors;
+7. after a record passes, set `quality_controls.bilingual_alignment_checked: true`;
+8. keep `quality_controls.editorial_consistency_checked: false` until the later volume-level editorial-consistency gate.
 
-## DO NOT START YET
+Do not treat a source-checked record as automatically bilingual-aligned. Record the alignment work according to the established repository workflow and update progress only for records actually checked.
 
-Do not begin, until the final source-check batch is closed:
+## GATES STILL BLOCKED
 
-- bilingual alignment;
+Do not begin yet:
+
 - volume-level editorial consistency review;
-- final translation manifest/release report;
+- final translation manifest;
+- final release report;
 - final release declaration.
 
-Proceed directly with the work; do not merely describe what should be done.
+Those remain later gates after bilingual alignment is complete.
+
+Proceed directly with the bilingual-alignment work; do not merely describe what should be done.
