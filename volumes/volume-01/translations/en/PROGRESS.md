@@ -1,12 +1,12 @@
 # Volume 1 — English Migration Progress
 
 - Legacy bilingual records available: **110 / 110**
-- Canonically migrated English records: **90 / 110**
-- Source-checked under current workflow: **90 / 110**
+- Canonically migrated English records: **100 / 110**
+- Source-checked under current workflow: **100 / 110**
 - Bilingual-aligned under current workflow: **0 / 110**
 - Verified under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
-- Completed canonical English range: **0001–0090**
+- Completed canonical English range: **0001–0100**
 - Tamil structural audit: **PASS — complete**
 - Tamil full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
 - Cumulative scan-proven Tamil corrections: **159 canonical pages / 274 spans**
@@ -20,6 +20,7 @@
   - [`SOURCE_CHECK_0061_0070.md`](SOURCE_CHECK_0061_0070.md)
   - [`SOURCE_CHECK_0071_0080.md`](SOURCE_CHECK_0071_0080.md)
   - [`SOURCE_CHECK_0081_0090.md`](SOURCE_CHECK_0081_0090.md)
+  - [`SOURCE_CHECK_0091_0100.md`](SOURCE_CHECK_0091_0100.md)
 
 ## Canonical English batches completed
 
@@ -71,8 +72,16 @@ It also preserves the Chicago/May Day and `சமதர்ம சங்கீத
 
 Source-specific controls include PDF 301 **`“நல்லவர்”(?)களுக்கும்`**; PDF 303 emphasis on repeated **`ஊழல்`** forms; PDF 307 **`இவைகளைத் தான்`**; PDF 309 the full lineated organisational-principles block and **`மலர்கள் தான்`**; PDFs 310–312 mixed no-space hyphenation; PDF 315 **`இது தான்`**; PDF 318 the lineated `கழகக் குரல்` passage; PDF 321 **`சிந்தாமல் சிதறாமல்`**; and PDF 325 **`காமராசரின்`** plus the lineated closing counter-question.
 
-All canonical English records through 0090 remain `source-checked`; none is promoted to `verified` until the separate bilingual-alignment review is completed.
+### Letters 0091–0100
+
+The tenth regular ten-letter English batch is migrated and source-checked across PDF / printed pages **326–358**. The canonical Tamil for PDF 326–350 and 351–375 had already passed direct page-by-page scan fidelity review, so the migration uses that verified witness rather than reintroducing legacy readings.
+
+The batch preserves the celebrations-as-roots-and-seeds programme in 0091; the sibling/betrayal and state-autonomy argument in 0092; Kamaraj birthday, *Navasakthi*, Katchatheevu and *Dinamani* float passages in 0093; the complete police-family lullaby and prohibition satire in 0094; and the `மாம்பழ மங்கை` rationalist/political analogy in 0095.
+
+It also preserves the paired **24 September 1799 / 24 September 1972** betrayal dates and source-abrupt opening in 0096; the `முப்பெரும் விழா` mobilisation and principle-versus-Fort argument in 0097; Anna's `இரட்டைக்குழல் துப்பாக்கி`, anti-Hindi, Assembly and thousand-year-crop argument in 0098; the Murasoli Selvam / Madurai–Kanchi / road-watching sequence in 0099; and the Dharmapuri–Salem–North Arcot tour, `முக்கனி`, *Kalingattuparani* and repeated Chennai summons in 0100.
+
+All canonical English records through 0100 remain `source-checked`; none is promoted to `verified` until the separate bilingual-alignment review is completed.
 
 ## Exact next task
 
-Migrate and source-check letters **0091–0100** as the next Volume 1 ten-letter English batch. Preserve the legacy bilingual tree unchanged and use it only as draft evidence; verified canonical Tamil and `Vol1.pdf` remain authoritative. Keep bilingual alignment, editorial consistency review and final release work blocked until canonical English source checking reaches **110 / 110**.
+Migrate and source-check letters **0101–0110** as the final Volume 1 ten-letter English source-check batch, spanning PDF **359–400**. Preserve the legacy bilingual tree unchanged and use it only as draft evidence; verified canonical Tamil and `Vol1.pdf` remain authoritative. Keep bilingual alignment, editorial consistency review and final release work blocked until canonical English source checking reaches **110 / 110**.

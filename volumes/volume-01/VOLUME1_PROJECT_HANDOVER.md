@@ -70,43 +70,15 @@ Do not restart Tamil migration, structural audit, or the completed full-volume f
 
 Canonical English migration/source checking is now complete through:
 
-- **0001–0090 / 110**
+- **0001–0100 / 110**
 
-The ten-letter batch **0081–0090** is closed and documented in:
+The ten-letter batch **0091–0100** is closed and documented in:
 
-`volumes/volume-01/translations/en/SOURCE_CHECK_0081_0090.md`
+`volumes/volume-01/translations/en/SOURCE_CHECK_0091_0100.md`
 
-All canonical English records through 0090 are `source-checked`, not `verified`. They include the full canonical Tamil witness. Bilingual alignment and editorial consistency remain later gates.
+All canonical English records through 0100 are `source-checked`, not `verified`. They include the full canonical Tamil witness. Bilingual alignment and editorial consistency remain later gates.
 
-The completed 0081–0090 batch includes:
-
-- 0081 — `தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!` — PDF 298–300
-- 0082 — `பொங்கல் உறுதி!` — PDF 301
-- 0083 — `காண வருகிறேன் உன்னை!` — PDF 302–304
-- 0084 — `‘தொய்வு இல்லை! தொடர்க பயணம்!’` — PDF 305–307
-- 0085 — `“எல்லா மலர்களும் ரோஜா மலர்களே!”` — PDF 308–309
-- 0086 — `மே தின வாழ்த்து!` — PDF 310–312
-- 0087 — `‘நமது நிலை’!` — PDF 313–315
-- 0088 — `என் பிறந்த நாளில்...!` — PDF 316–318
-- 0089 — `“மறவாதே!”` — PDF 319–321
-- 0090 — `கோடையிலே...!` — PDF 322–325
-
-Important semantic/source decisions in the just-closed batch:
-
-- 0081 retains the Rajamannar / Sezhiyan–Maran sequence, 8,226-word report and banyan-seed metaphor for state autonomy.
-- 0082 retains the Pongal stove/pot metaphor and the shield / bow-and-arrow warning; PDF 301 controls `“நல்லவர்”(?)களுக்கும்`.
-- 0083 retains the campaign-headline sequence, repeated `ஊழல்` rhetoric and cadre-as-`படைக்கருவி` martial image.
-- 0084 retains the budget argument and the flour/sweet, rain-cloud, sun and storm-boat images; `திருவள்ளுவர் ஆலயம்` is rendered directly as a Thiruvalluvar shrine.
-- 0085 retains the internal-election principle that the contest is not ideological conflict and every movement flower remains a rose.
-- 0086 retains the Chicago/May Day history, labour measures, `சமதர்ம சங்கீதம்` satire and rights/friendship pledge.
-- 0087 retains the railway-strike negotiation argument, Centre/State authority contrast and proposed no-victimisation settlement.
-- 0088 retains the anti-extravagance birthday request, three funds, `கழகக் குரல்` and poor-person's-smile sequence.
-- 0089 retains the earthen-lamp, equal-pearls, balance-needle and `சிந்தாமல் சிதறாமல்` images.
-- 0090 retains the birthday-affection / `கட்டுமரம்` sequence, explicit anti-violence position, *அலைஓசை* passage and Kamaraj “cool breeze” satire; PDF 325 controls `காமராசரின்`.
-
-## Exact next activity
-
-Continue canonical English migration/source checking with **letters 0091–0100**:
+The completed 0091–0100 batch includes:
 
 - 0091 — `நமது விழாக்கள்!` — PDF 326–327
 - 0092 — `பயணம் தொடரட்டும்!` — PDF 328–329
@@ -119,7 +91,35 @@ Continue canonical English migration/source checking with **letters 0091–0100*
 - 0099 — `வழி மேல் விழி...` — PDF 351–353
 - 0100 — `அழைக்கிறேன் - வா! அன்பே வா!` — PDF 354–358
 
-Use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l00xx.en.md` only as reusable draft/evidence. The verified canonical Tamil pages/chapters and controlling scan remain authoritative.
+Important semantic/source decisions in the just-closed batch:
+
+- 0091 retains the dated celebration programme and the closing `விழுதுகள் / விதைகள்` image: festivals must produce supporting roots and seeds.
+- 0092 retains the sibling/betrayal analogies, quoted violent rhetoric, state-autonomy reversal and Subba Rao's federalism/autonomy statement.
+- 0093 retains the deliberate opening praise of Kamaraj's birthday celebration, the *Navasakthi* / Katchatheevu argument, the `கேலி / கிண்டல் / ஏசல் / ஏளனம் / ஏகடியம்` sequence, both *Dinamani* float quotations and the Kannadasan paragraph.
+- 0094 retains the complete police-family lullaby from *Udhaya Suriyan*, the prohibition argument, rabid-dog metaphor, satirical verse and closing `நேரம் / நினைப்பு` turn.
+- 0095 retains the `மாம்பழ மங்கை` newspaper report, miracle-worker satire, Vadakalai–Thenkalai reference and the political comparison to attractive parties without principles; PDF 342 controls `பகுத்தறிவு வாதிகளின்`.
+- 0096 intentionally begins with source `பட்ட போதும்` and no salutation; it retains the paired betrayal dates **24 September 1799** and **24 September 1972** without reconstruction.
+- 0097 retains the `முப்பெரும் விழா` mobilisation, the contrast between principle and capturing the Fort, and the repeated Chennai summons.
+- 0098 retains Anna's `இரட்டைக்குழல் துப்பாக்கி` formulation, the anti-Hindi / Miran Sahib Street episode, the Assembly defence of Periyar and the thousand-year-crop image.
+- 0099 retains the Murasoli Selvam health-crisis context, Madurai/Kanchi sequence, source initials `ப. உ. ச.` and the road-watching closing invitation.
+- 0100 retains the dense Dharmapuri–Salem–North Arcot tour chronology, `முக்கனி` image, *கலிங்கத்துப் பரணி* verses and repeated `வா, வா!` summons. Canonical source wording remains unchanged rather than being speculatively repaired.
+
+## Exact next activity
+
+Continue canonical English migration/source checking with the **final source-check batch, letters 0101–0110**:
+
+- 0101 — `உயிரே! உடன்பிறப்பே! வா! வா!` — PDF 359–360
+- 0102 — `என் காணிக்கை!` — PDF 361–364
+- 0103 — `பார், பார்-இதோ பார்! இந்தியா பார்!` — PDF 365–368
+- 0104 — `‘கல்கி’யின் கண்ணோட்டம்!` — PDF 369–373
+- 0105 — `‘கல்கி’யின் கண்ணோட்டம் (2)` — PDF 374–379
+- 0106 — `‘கல்கி’யின் கண்ணோட்டம்(3)` — PDF 380–383
+- 0107 — `வாழ்க-உன் புன்னகை!` — PDF 384–387
+- 0108 — `வாண வேடிக்கை!` — PDF 388–391
+- 0109 — `அவள் ஒரு தொடர்கதை!` — PDF 392–395
+- 0110 — `கயிற்றில் தொங்கிய கணபதி!` — PDF 396–400
+
+Use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l01xx.en.md` only as reusable draft/evidence. The verified canonical Tamil pages/chapters and controlling scan remain authoritative.
 
 For each record:
 
@@ -130,7 +130,7 @@ For each record:
 5. use `translation_status: source-checked`, `quality_controls.source_checked: true`, `quality_controls.full_tamil_included: true`;
 6. leave `bilingual_alignment_checked: false` and `editorial_consistency_checked: false`.
 
-After 0091–0100 are complete, create `SOURCE_CHECK_0091_0100.md`, update tracking to **100 / 110**, and identify 0101–0110 as the final source-check batch.
+After 0101–0110 are complete, create `SOURCE_CHECK_0101_0110.md`, update source-check migration to **110 / 110**, and only then open the separate bilingual-alignment gate.
 
 ## Gates still blocked
 
@@ -141,4 +141,4 @@ Do **not** begin yet:
 - final translation manifest/release report;
 - final release declaration.
 
-Those begin only after all **110 / 110** canonical English records have completed the source-check migration gate.
+These remain blocked until all **110 / 110** canonical English records have completed the source-check migration gate.

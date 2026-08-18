@@ -4,7 +4,7 @@ Status: **ACTIVE — canonical English migration/source checking in progress.**
 
 The Tamil structural and full visual/textual-fidelity gates are complete and PASS. The legacy Volume 1 workspace under [`../../../volume-1/translations/en/`](../../../volume-1/translations/en/) contains **110 bilingual records**; those records remain preserved and are reused only as draft evidence.
 
-Canonical migration/source check is complete for letters **0001–0090 (90 / 110)**. These records are `source-checked`, not yet `verified`; bilingual alignment remains a separate gate.
+Canonical migration/source check is complete for letters **0001–0100 (100 / 110)**. These records are `source-checked`, not yet `verified`; bilingual alignment remains a separate gate.
 
 See:
 
@@ -19,6 +19,7 @@ See:
 - [`SOURCE_CHECK_0061_0070.md`](SOURCE_CHECK_0061_0070.md)
 - [`SOURCE_CHECK_0071_0080.md`](SOURCE_CHECK_0071_0080.md)
 - [`SOURCE_CHECK_0081_0090.md`](SOURCE_CHECK_0081_0090.md)
+- [`SOURCE_CHECK_0091_0100.md`](SOURCE_CHECK_0091_0100.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 
-Exact next batch: **0091–0100**.
+Exact next batch: **0101–0110** — the final Volume 1 source-check batch.
