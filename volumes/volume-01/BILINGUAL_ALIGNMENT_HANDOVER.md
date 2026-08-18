@@ -18,34 +18,50 @@ Legacy tree `volumes/volume-1/` remains preserved and must not be rewritten.
 
 ## Active gate — bilingual alignment
 
-The first regular alignment batch is complete:
+Two regular alignment batches are complete:
 
-- letters: **0001–0010**
-- source span: **PDF 024–066**
-- result: **PASS**
-- alignment-reviewed: **10 / 110**
-- English prose corrections required: **0**
-- report: `translations/en/alignment/ALIGNMENT_0001_0010.md`
+- **0001–0010** — PDF **024–066** — PASS — 0 English prose corrections
+- **0011–0020** — PDF **067–104** — PASS after 1 English prose correction
+
+Current gate totals:
+
+- alignment-reviewed and PASS: **20 / 110**
+- completed range: **0001–0020**
+- cumulative alignment-driven English prose corrections: **1**
+- verified: **0 / 110**
+- editorially reviewed: **0 / 110**
+
+Reports:
+
+- `translations/en/alignment/ALIGNMENT_0001_0010.md`
+- `translations/en/alignment/ALIGNMENT_0011_0020.md`
 - ledger: `translations/en/alignment/ALIGNMENT_MANIFEST.csv`
+- progress: `translations/en/alignment/PROGRESS.md`
 
-The review directly compared every English translation with its complete canonical Tamil witness and checked argument sequence, coverage, paragraph/quotation correspondence, names, dates, figures, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity.
+The review directly compares every English translation with its complete canonical Tamil witness and checks argument sequence, coverage, paragraph/quotation correspondence, names, dates, figures, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity.
 
-The first batch reconfirmed two important earlier source controls:
+## Important alignment findings so far
+
+The first batch reconfirmed two earlier source controls:
 
 - 0002 carries the complete Kamaraj Deepavali quotation, including the source-restored clause from PDF 030;
 - 0010 uses **Runner Cup**, following PDF 063 `“ரன்னர்” கோப்பை`, not stale legacy `Rainer`.
 
-No demonstrable correspondence error was found in 0001–0010, so no translation prose was rewritten.
+The second batch required one meaning-level English correction:
+
+- **0014:** the prior English merged Tamil's separate statements on aggressive political swagger and armed violence. The corrected English now preserves the source distinction: slapping one's thighs/twirling one's moustache does not befit politics; raising a gun/drawing a knife is separately condemned as a method even savages should fear to adopt.
+
+The source-check restoration in 0019 remains intact, including Anna's `ரத்தத்தின் ரத்தம் / சதையின் சதை` reply and Morarji Desai's Hindi statement from PDF 099.
 
 ## Alignment metadata convention for this gate
 
-Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. When an alignment batch requires no content change, canonical translation records are not rewritten solely for frontmatter churn. Their existing source-check metadata may therefore remain unchanged while the alignment ledger records `bilingual_alignment_checked=true` for reviewed records.
+Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Canonical translation records are not rewritten solely for frontmatter churn when no content change is required. Their source-check-era alignment metadata may therefore remain unchanged while the ledger records `bilingual_alignment_checked=true` for reviewed records.
 
-This convention is explicit and auditable; it does not promote records to `verified` or release-ready status.
+When a demonstrable correspondence correction is required, the English prose itself is corrected, as in 0014. This convention does not promote any record to `verified` or release-ready status.
 
 ## Exact next activity
 
-Proceed with bilingual alignment for **0011–0020**.
+Proceed with bilingual alignment for **0021–0030**.
 
 For each record:
 
@@ -53,9 +69,9 @@ For each record:
 2. check substantive coverage, sequence, paragraph/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology and attribution;
 3. correct only demonstrable English/Tamil correspondence errors;
 4. preserve `Udanpirappē` and established movement vocabulary;
-5. record PASS/corrections in `translations/en/alignment/ALIGNMENT_0011_0020.md`;
+5. record PASS/corrections in `translations/en/alignment/ALIGNMENT_0021_0030.md`;
 6. append rows to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-7. update `translations/en/alignment/PROGRESS.md` to **20 / 110** only after all ten records pass.
+7. update `translations/en/alignment/PROGRESS.md` to **30 / 110** only after all ten records pass.
 
 ## Still blocked
 
