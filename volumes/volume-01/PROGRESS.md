@@ -5,47 +5,41 @@
 - [x] Canonical Tamil page/letter migration complete: **401 / 401 pages; 110 / 110 letters**
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
-- [x] Legacy English record migration and source checking — **complete; 0001–0110 / 110 source-checked**
-- [x] Bilingual alignment — **complete; 0001–0110 / 110 reviewed and PASS**
-- [x] Volume-level editorial consistency review — **complete; 110 / 110 PASS**
-- [ ] Translation manifest and final English release report
+- [x] Legacy English record migration and source checking — **110 / 110 PASS**
+- [x] Bilingual alignment — **110 / 110 PASS**
+- [x] Volume-level English editorial consistency review — **110 / 110 PASS**
+- [x] Translation manifest and final English release report — **110 / 110 RELEASED**
 
-## Current boundary
+## Final canonical state
 
 - Canonical page files: **401 / 401**
 - Printed contents entries: **110 / 110**
 - Canonically complete letters: **110 / 110** (`0001–0110`)
 - Letter coverage: PDF **024–400**; PDF 401 is non-letter back cover
 - Tamil structural audit: **PASS**
-- Full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
+- Full visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
 - Cumulative scan-proven corrections: **159 canonical pages / 274 spans**
 - Letter 0063 remains undated because no date is printed in the source
 - Printed pagination skips number 39 between PDF 039 and PDF 040 while text remains continuous
 - Contents/heading variants remain literal, including 0109 contents `அவள் ஒரு தொடற்கதை!` versus actual heading `அவள் ஒரு தொடர்கதை!`
 - Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
-- Canonical English records: **110 / 110 source-checked**
-- Bilingual-aligned canonical English records: **110 / 110 — PASS**
-- Editorially reviewed canonical English records: **110 / 110 — PASS**
+- Canonical English records: **110 / 110**
+- Source check: **110 / 110 PASS**
+- Bilingual alignment: **110 / 110 PASS**
 - Alignment-driven English prose/quotation corrections: **4** — 0014, 0043, 0058, 0059
-- Additional English prose/quotation corrections in editorial pass: **0**
-- Verified/release-certified canonical English records: **0 / 110** pending final release gate
+- Volume-level English editorial consistency: **110 / 110 PASS**
+- Final translation manifest: **110 unique rows**
+- Final English release certification: **110 / 110 COMPLETE**
+- New English prose/quotation corrections in editorial/release gates: **0**
+- Canonical Tamil edits in editorial/release gates: **0**
 
-## English QA records
+## Final release artifacts
 
-Bilingual alignment closes in [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv). The completed volume-level English editorial pass is recorded in [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
+- [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
+- [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
+- [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv)
 
-The editorial review found no source-aligned English prose/quotation change requiring a canonical record rewrite. It documented the inherited migration-format variation across 0001–0040, 0041–0060 and 0061–0110 and left source-check-era frontmatter untouched where changing it would be bookkeeping-only churn.
+## Volume 1 closure
 
-## High-value source controls retained
-
-- 0002 complete Kamaraj Deepavali quotation; 0010 **Runner Cup**; 0028 printed date **28-12-1968**; 0036 unexpanded **C. P. C.**; 0048 printed `சென்னை. / 10.10.1972`; 0054 figure **6908**; 0058 date **29-05-1973**; 0063 undated; 0068 scan-controlled Bharathidasan verse; 0070 printed English judicial quotation verbatim.
-- 0076–0080 preserve Sixth Finance Commission structure, Periyar analogies/self-critique, `பாடி வீடுகள்` and `கொள்கை மலர்கள்` imagery.
-- 0081–0090 preserve state-autonomy, Pongal, labour, railway-strike, birthday and organisational imagery.
-- 0091–0100 preserve celebration/work, betrayal/state-autonomy, Kamaraj/*Navasakthi*/*Dinamani*, police-family lullaby, `மாம்பழ மங்கை`, paired 1799/1972 dates, `முப்பெரும் விழா`, `இரட்டைக்குழல் துப்பாக்கி`, Murasoli Selvam and *Kalingattuparani* material.
-- 0101–0110 preserve the five slogans, N. V. N. passage, hunger report, *Kalki* arguments, industrial data, `ஆட்சி / மாட்சி`, Jayaprakash satire, actual 0109 heading/opaque wording and the full 1949 quotation through PDF 400.
-
-## Exact next task
-
-Prepare the **final translation manifest and English release report**. Inventory exactly one canonical English record for each letter **0001–0110**, validate unique letter IDs and file paths, title/date/source-page agreement, complete Tamil appendices, source-check/alignment/editorial completion and all documented anomalies, then synchronize Volume 1/root release status.
-
-Do not modify the legacy `volumes/volume-1/` tree or bulk-rewrite canonical records solely to change source-check-era status fields.
+**Volume 1 is complete through English editorial release within the controlling source.** There is no remaining routine Volume 1 migration, alignment, editorial or release gate. Future changes should occur only when new source evidence or a specifically approved correction requires them.
