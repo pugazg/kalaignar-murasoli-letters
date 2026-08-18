@@ -44,15 +44,15 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Batch-specific source observations for 0097–0106 are recorded in [`BATCH_0097_0106_AUDIT.md`](BATCH_0097_0106_AUDIT.md), and the final 0107–0110 residue / source ending is recorded in [`BATCH_0107_0110_AUDIT.md`](BATCH_0107_0110_AUDIT.md); earlier migration observations remain in [`AUDIT.md`](AUDIT.md).
 - Letter 0063 has **no date printed in the source**; no date is inferred.
 - Letters 0107–0110 are complete on PDF **384–400**. Letter 0110 closes on PDF 400 with `(01-12-1974)`; PDF 401 is a non-letter colour back cover / publisher advertisement.
-- Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md). The audit confirmed 401/401 page records, 110/110 chapter records, continuous letter coverage PDF 024–400, and no structural gaps or overlaps.
+- Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md).
 - Full-volume second visual/textual-fidelity verification: **complete — PASS, PDF 001–401 / 401**. See [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md).
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
-- Final letter-text range [`376–400`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) required corrections on **5 pages / 5 spans**, restoring the scan-bold opening salutations for letters 0106–0110 on PDFs 380, 384, 388, 392 and 396. The non-letter [`PDF 401`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md) back cover required no canonical correction.
+- Final letter-text range [`376–400`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) required corrections on **5 pages / 5 spans**; the non-letter [`PDF 401`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md) required no canonical correction.
 - Letters **0001–0110** have complete second-pass source-page coverage.
-- Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md) and [`translations/en/SOURCE_CHECK_0101_0110.md`](translations/en/SOURCE_CHECK_0101_0110.md).
-- Bilingual alignment: **in progress — 0001–0030 / 30 reviewed and PASS**. See [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`BILINGUAL_ALIGNMENT_HANDOVER.md`](BILINGUAL_ALIGNMENT_HANDOVER.md).
-- Alignment-driven English prose corrections: **1**, in letter 0014. The correction restores the source distinction between political swagger that does not befit politics and the separately stronger condemnation of armed violence.
-- Alignment batch 0021–0030: **PASS with 0 English prose corrections**; key controls include the Tamil Nadu renaming chronology, 0027 anti-retaliation instruction, 0028 source date/figures, 0029 non-causation caveat and 0030 Nijalingappa satire.
+- Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md).
+- Bilingual alignment: **in progress — 0001–0040 / 40 reviewed and PASS**. See [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`BILINGUAL_ALIGNMENT_HANDOVER.md`](BILINGUAL_ALIGNMENT_HANDOVER.md).
+- Alignment-driven English prose corrections: **1**, in letter 0014.
+- Alignment batch 0031–0040: **PASS with 0 English prose corrections**; key controls include the *The Hindu* quotation in 0031, anti-Hindi/medium-of-instruction argument in 0033, **Eleven Lakhs** in 0034, unexpanded **C. P. C.** in 0036, scan title `தூங்குவோமா?` in 0037, membership directive in 0038, General Council/state-autonomy programme in 0039 and P. Kannan quotation/Tirukkural in 0040.
 - Canonical English records remain **source-checked, not verified**. Volume-level editorial consistency review and final release work remain later gates.
 
 ## Source identity
@@ -73,6 +73,6 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Continue the dedicated bilingual-alignment review with canonical English letters **0031–0040**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0031_0040.md`, append record-level results to the alignment manifest, and advance alignment progress to **40 / 110** only after all ten records pass.
+Continue the dedicated bilingual-alignment review with canonical English letters **0041–0050**, source PDF **178–213**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0041_0050.md`, append record-level results to the alignment manifest, and advance alignment progress to **50 / 110** only after all ten records pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.

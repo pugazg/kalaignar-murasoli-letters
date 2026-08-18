@@ -18,16 +18,17 @@ Legacy tree `volumes/volume-1/` remains preserved and must not be rewritten.
 
 ## Active gate — bilingual alignment
 
-Three regular alignment batches are complete:
+Four regular alignment batches are complete:
 
 - **0001–0010** — PDF **024–066** — PASS — 0 English prose corrections
 - **0011–0020** — PDF **067–104** — PASS after 1 English prose correction
 - **0021–0030** — PDF **105–135** — PASS — 0 English prose corrections
+- **0031–0040** — PDF **136–177** — PASS — 0 English prose corrections
 
 Current gate totals:
 
-- alignment-reviewed and PASS: **30 / 110**
-- completed range: **0001–0030**
+- alignment-reviewed and PASS: **40 / 110**
+- completed range: **0001–0040**
 - cumulative alignment-driven English prose corrections: **1**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
@@ -37,10 +38,11 @@ Reports:
 - `translations/en/alignment/ALIGNMENT_0001_0010.md`
 - `translations/en/alignment/ALIGNMENT_0011_0020.md`
 - `translations/en/alignment/ALIGNMENT_0021_0030.md`
+- `translations/en/alignment/ALIGNMENT_0031_0040.md`
 - ledger: `translations/en/alignment/ALIGNMENT_MANIFEST.csv`
 - progress: `translations/en/alignment/PROGRESS.md`
 
-The review directly compares every English translation with its complete canonical Tamil witness and checks argument sequence, coverage, paragraph/quotation correspondence, names, dates, figures, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity.
+The review compares every English translation with its complete canonical Tamil witness and checks argument sequence, coverage, paragraph/quotation correspondence, names, dates, figures, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity.
 
 ## Important alignment findings so far
 
@@ -53,15 +55,20 @@ The second batch required one meaning-level English correction:
 
 - **0014:** the prior English merged Tamil's separate statements on aggressive political swagger and armed violence. The corrected English now preserves the source distinction: slapping one's thighs/twirling one's moustache does not befit politics; raising a gun/drawing a knife is separately condemned as a method even savages should fear to adopt.
 
-The source-check restoration in 0019 remains intact, including Anna's `ரத்தத்தின் ரத்தம் / சதையின் சதை` reply and Morarji Desai's Hindi statement from PDF 099.
+The third batch, **0021–0030**, required no English prose correction. It reconfirmed the Tamil Nadu renaming chronology, anti-retaliation instruction, Venmani source/date controls, non-causation caveat and Nijalingappa/Haryana/Mysore satire.
 
-The third batch required **no English prose correction**. Important controls reconfirmed include:
+The fourth batch, **0031–0040**, also required no English prose correction. Important controls reconfirmed include:
 
-- 0021 — the complete 1960–1967 `தமிழ் நாடு` renaming chronology, legislative quotations, literary examples and closing `நெருஞ்சி முள்` image;
-- 0027 — the explicit ethical turn that wrongdoing is not answered by wrongdoing;
-- 0028 — source figure **43**, **13** arrests, Gopalakrishna Naidu context and the source-printed date **28-12-1968**;
-- 0029 — Kalaignar observes the timing of the two Hindi-news reports but does **not** assert causation with certainty;
-- 0030 — Nijalingappa/Haryana/Mysore reports and the ruined-hall/bats satire remain in source order.
+- 0031 — extended *The Hindu* eyewitness quotation and tiger/goat-disguise satire;
+- 0032 — language-issue chronology and Kamaraj/Subramaniam argument;
+- 0033 — direct address to Anna, anti-Hindi history and medium-of-instruction argument;
+- 0034 — **Eleven Lakhs** memory and Anna's warning that only self-destruction can defeat the movement;
+- 0035 — `கடமை, கண்ணியம், கட்டுப்பாடு`, six-item Anna list and final stay-awake appeal;
+- 0036 — source initials `சி. பி. சி.` / **C. P. C.** retained without speculative expansion;
+- 0037 — scan-supported title `தூங்குவோமா?`, Rajamannar Committee and state-autonomy argument;
+- 0038 — parliamentary/righteous-struggle/Gandhian/Anna methods and final membership-enrolment directive;
+- 0039 — Coimbatore General Council/state-autonomy programme and source imagery;
+- 0040 — P. Kannan chronology, quoted 2 April letter, dramatic works and closing Tirukkural.
 
 ## Alignment metadata convention for this gate
 
@@ -71,7 +78,7 @@ When a demonstrable correspondence correction is required, the English prose its
 
 ## Exact next activity
 
-Proceed with bilingual alignment for **0031–0040**.
+Proceed with bilingual alignment for **0041–0050**, source PDF **178–213**.
 
 For each record:
 
@@ -79,11 +86,11 @@ For each record:
 2. check substantive coverage, sequence, paragraph/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology and attribution;
 3. correct only demonstrable English/Tamil correspondence errors;
 4. preserve `Udanpirappē` and established movement vocabulary;
-5. record PASS/corrections in `translations/en/alignment/ALIGNMENT_0031_0040.md`;
+5. record PASS/corrections in `translations/en/alignment/ALIGNMENT_0041_0050.md`;
 6. append rows to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-7. update `translations/en/alignment/PROGRESS.md` to **40 / 110** only after all ten records pass.
+7. update `translations/en/alignment/PROGRESS.md` to **50 / 110** only after all ten records pass.
 
-Important source controls for the next batch are already documented in `translations/en/SOURCE_CHECK_0031_0040.md`, including `சி. பி. சி.` / `C. P. C.` left unexpanded in 0036, the scan title `தூங்குவோமா?` in 0037, the membership directive in 0038, General Council programme in 0039 and P. Kannan quotation/Tirukkural in 0040.
+Important source controls for the next batch are documented in `translations/en/SOURCE_CHECK_0041_0050.md`, including the Beggars' Rehabilitation Fund appeal in 0041, anti-violence sequence in 0042–0043, Indira Congress accusation list in 0044, Madurai conference material in 0045–0046, `நாடு + அகம் = நாடகம்` in 0047, printed `சென்னை. / 10.10.1972` in 0048, Anna's 1961 reply in 0049 and *Navasakthi* chronology/figures in 0050.
 
 ## Still blocked
 

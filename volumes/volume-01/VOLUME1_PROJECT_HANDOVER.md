@@ -6,13 +6,9 @@
 
 Work on `main`.
 
-Active canonical tree:
+Active canonical tree: `volumes/volume-01/`.
 
-`volumes/volume-01/`
-
-Legacy preserved tree:
-
-`volumes/volume-1/`
+Legacy preserved tree: `volumes/volume-1/`.
 
 The legacy tree contains 110 bilingual records and remains preserved as migration evidence. Do not rewrite it.
 
@@ -59,8 +55,6 @@ Then inspect current GitHub `main`. Repository state is authoritative over stale
 
 ## Completed Tamil gates — do not restart
 
-Volume 1 Tamil work is complete:
-
 - canonical Tamil migration: **401 / 401 PDF pages**
 - letters: **110 / 110** (`0001–0110`)
 - full-volume structural audit: **PASS**
@@ -69,7 +63,7 @@ Volume 1 Tamil work is complete:
 - PDF 401 is a non-letter back cover
 - legacy bilingual records remain **110 / 110** under `volumes/volume-1/`
 
-Do not restart Tamil migration, structural audit, or the completed full-volume fidelity pass.
+Do not restart Tamil migration, structural audit or the completed full-volume fidelity pass.
 
 ## Completed English source-check gate — do not restart
 
@@ -79,18 +73,16 @@ Canonical English migration/source checking is complete:
 - **110 / 110** source-checked
 - each canonical record contains the complete canonical Tamil witness
 - all records remain `source-checked`, not `verified`
-- volume-level editorial consistency and final release work remain later gates
-
-The final source-check batch **0101–0110** is closed in `volumes/volume-01/translations/en/SOURCE_CHECK_0101_0110.md`. Earlier source-check reports remain authoritative evidence for their respective batches.
 
 Important retained source controls include:
 
 - 0002 complete Kamaraj Deepavali quotation from PDF 030;
 - 0010 scan-supported **Runner Cup** (`ரன்னர்`), not stale legacy `Rainer`;
 - 0018 deliberate source censorship preserved without reconstruction;
-- 0019 scan-visible PDF-099 material restored, including Anna's `ரத்தத்தின் ரத்தம் / சதையின் சதை` reply and Morarji Desai's Hindi statement;
+- 0019 PDF-099 material restored, including Anna's `ரத்தத்தின் ரத்தம் / சதையின் சதை` reply and Morarji Desai's Hindi statement;
 - 0028 source-printed date **28-12-1968** retained over conflicting legacy metadata;
-- 0036 `சி. பி. சி.` / `C. P. C.` left unexpanded;
+- 0036 `சி. பி. சி.` / **C. P. C.** left unexpanded;
+- 0037 scan-supported title `தூங்குவோமா?`;
 - 0048 printed `சென்னை. / 10.10.1972` retained without inferred composition date;
 - 0063 left undated because the source prints no date;
 - 0070 printed English judicial quotation retained verbatim;
@@ -99,30 +91,30 @@ Important retained source controls include:
 
 ## Active gate — bilingual alignment
 
-Bilingual alignment is **in progress**.
-
 Completed batches:
 
 - **0001–0010** — PDF **024–066** — PASS — 0 English prose corrections
 - **0011–0020** — PDF **067–104** — PASS after 1 English prose correction
 - **0021–0030** — PDF **105–135** — PASS — 0 English prose corrections
+- **0031–0040** — PDF **136–177** — PASS — 0 English prose corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **30 / 110**
-- completed alignment range: **0001–0030**
+- alignment-reviewed and PASS: **40 / 110**
+- completed alignment range: **0001–0040**
 - cumulative alignment-driven English prose corrections: **1**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
 
 Authoritative alignment records:
 
-- `volumes/volume-01/translations/en/alignment/ALIGNMENT_0001_0010.md`
-- `volumes/volume-01/translations/en/alignment/ALIGNMENT_0011_0020.md`
-- `volumes/volume-01/translations/en/alignment/ALIGNMENT_0021_0030.md`
-- `volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv`
-- `volumes/volume-01/translations/en/alignment/PROGRESS.md`
-- `volumes/volume-01/BILINGUAL_ALIGNMENT_HANDOVER.md`
+- `translations/en/alignment/ALIGNMENT_0001_0010.md`
+- `translations/en/alignment/ALIGNMENT_0011_0020.md`
+- `translations/en/alignment/ALIGNMENT_0021_0030.md`
+- `translations/en/alignment/ALIGNMENT_0031_0040.md`
+- `translations/en/alignment/ALIGNMENT_MANIFEST.csv`
+- `translations/en/alignment/PROGRESS.md`
+- `BILINGUAL_ALIGNMENT_HANDOVER.md`
 
 ### Alignment correction made in 0014
 
@@ -131,24 +123,22 @@ Tamil contains two consecutive but distinct statements:
 1. `முண்டா தட்டுதல்-மீசை முறுக்குதல்-அரசியலுக்கு ஏற்றதல்ல!`
 2. `துப்பாக்கி தூக்குதல்-கத்தி எடுத்தல்-காட்டு மிராண்டிகள் கூட கடைப்பிடிக்க அஞ்ச வேண்டிய அரசியல் முறையாகும்!`
 
-The earlier English compressed both into one sentence and extended the stronger armed-violence condemnation to the preceding swagger imagery. The aligned English now preserves the distinction:
+The aligned English preserves the distinction: political swagger does not befit politics; raising a gun/drawing a knife is separately condemned as a political method even savages should fear to adopt. Do not revert this correction.
 
-- slapping one's thighs / twirling one's moustache — these do not befit politics;
-- raising a gun / drawing a knife — these are separately condemned as political methods even savages should fear to adopt.
+### Fourth alignment batch — 0031–0040
 
-No other demonstrable English/Tamil correspondence correction has been required through 0030.
+All ten records passed with no English prose changes. Controls reconfirmed include:
 
-### Third alignment batch — 0021–0030
-
-All ten records passed without English prose changes. Controls reconfirmed include:
-
-- 0021 — full `தமிழ் நாடு` renaming chronology, Assembly quotations, literary examples and `நெருஞ்சி முள்` close;
-- 0022–0024 — source abrasive language, personal metaphors, Tirukkural and Anna medical-fund argument retained without unsupported softening or expansion;
-- 0025–0026 — Morarji/Hindi propagation and Shah/`ஆகாஷ்வாணி`–`வானொலி` arguments remain in source order;
-- 0027 — wrongdoing is not answered by wrongdoing;
-- 0028 — source figure **43**, **13** arrests, Gopalakrishna Naidu context and printed date **28-12-1968**;
-- 0029 — timing is observed without asserting causation with certainty;
-- 0030 — Nijalingappa/Haryana/Mysore reports and ruined-hall/bats satire remain aligned.
+- 0031 — extended *The Hindu* eyewitness quotation and tiger/goat-disguise satire;
+- 0032 — language-issue chronology and Kamaraj/Subramaniam argument;
+- 0033 — Anna-directed anti-Hindi history and medium-of-instruction argument;
+- 0034 — **Eleven Lakhs** memory and Anna's self-destruction warning;
+- 0035 — `கடமை, கண்ணியம், கட்டுப்பாடு`, six-item Anna list and closing stay-awake appeal;
+- 0036 — source initials **C. P. C.** unexpanded;
+- 0037 — `தூங்குவோமா?`, Rajamannar Committee and state-autonomy argument;
+- 0038 — methods of struggle and final membership-enrolment directive;
+- 0039 — Coimbatore General Council/state-autonomy programme;
+- 0040 — P. Kannan chronology, quoted letter, dramatic works and closing Tirukkural.
 
 ## Alignment bookkeeping convention
 
@@ -158,7 +148,7 @@ This bookkeeping convention does **not** promote aligned records to `verified` o
 
 ## Exact next activity
 
-Proceed with bilingual alignment for canonical English letters **0031–0040**.
+Proceed with bilingual alignment for canonical English letters **0041–0050**, source PDF **178–213**.
 
 For each record:
 
@@ -168,12 +158,12 @@ For each record:
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `translations/en/alignment/ALIGNMENT_0031_0040.md`;
-8. append 0031–0040 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-9. advance alignment progress to **40 / 110** only after all ten records pass;
+7. create `translations/en/alignment/ALIGNMENT_0041_0050.md`;
+8. append 0041–0050 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
+9. advance alignment progress to **50 / 110** only after all ten records pass;
 10. update the alignment handover and continuation prompt to the next exact boundary.
 
-Important source controls for this next batch are documented in `translations/en/SOURCE_CHECK_0031_0040.md`: preserve `சி. பி. சி.` / `C. P. C.` without speculative expansion in 0036, scan title `தூங்குவோமா?` in 0037, the membership directive in 0038, General Council programme in 0039, and P. Kannan quotation/Tirukkural in 0040.
+Consult `translations/en/SOURCE_CHECK_0041_0050.md` for source controls: Beggars' Rehabilitation Fund; anti-violence sequence; Indira Congress resolution list; Madurai conference material; `நாடு + அகம் = நாடகம்`; MGR/1972 Executive Committee episode and **25 of 33**; printed `சென்னை. / 10.10.1972`; Anna's 1961 reply; and *Navasakthi* chronology/figures.
 
 ## Gates still blocked
 

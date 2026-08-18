@@ -72,32 +72,38 @@ Completed alignment batches:
 - **0001–0010** — PASS — 0 English prose corrections
 - **0011–0020** — PASS after 1 English prose correction
 - **0021–0030** — PASS — 0 English prose corrections
+- **0031–0040** — PASS — 0 English prose corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **30 / 110**
-- completed alignment range: **0001–0030**
+- alignment-reviewed and PASS: **40 / 110**
+- completed alignment range: **0001–0040**
 - cumulative alignment-driven English prose corrections: **1**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
 
 Important correction already made:
 
-- **0014** now preserves Tamil's separate statements that aggressive political swagger does not befit politics and that raising a gun/drawing a knife is a separately stronger condemnation. Do not revert or collapse those two statements.
+- **0014** preserves Tamil's separate statements that aggressive political swagger does not befit politics and that raising a gun/drawing a knife is a separately stronger condemnation. Do not revert or collapse those two statements.
 
-Important controls reconfirmed in the 0021–0030 batch:
+Important controls reconfirmed in **0031–0040**:
 
-- 0021 preserves the full Tamil Nadu renaming chronology, legislative quotations, literary examples and closing `நெருஞ்சி முள்` image;
-- 0027 preserves the explicit source position that wrongdoing is not answered by wrongdoing;
-- 0028 preserves **43**, **13 arrests**, Gopalakrishna Naidu context and source-printed date **28-12-1968**;
-- 0029 observes the timing of the two Hindi-news reports but does **not** assert causation with certainty;
-- 0030 preserves the Nijalingappa/Haryana/Mysore sequence and ruined-hall/bats satire.
+- 0031 preserves the extended *The Hindu* eyewitness quotation and tiger/goat-disguise argument;
+- 0032 preserves the language-issue chronology and Kamaraj/Subramaniam argument;
+- 0033 preserves the Anna-directed anti-Hindi history and medium-of-instruction argument;
+- 0034 preserves **Eleven Lakhs** and Anna's self-destruction warning;
+- 0035 preserves `கடமை, கண்ணியம், கட்டுப்பாடு`, the six-item list and closing stay-awake appeal;
+- 0036 retains `சி. பி. சி.` / **C. P. C.** without speculative expansion;
+- 0037 follows scan-supported `தூங்குவோமா?` and preserves the Rajamannar/state-autonomy sequence;
+- 0038 preserves the final membership-enrolment directive;
+- 0039 preserves the Coimbatore General Council/state-autonomy programme;
+- 0040 preserves P. Kannan's quoted letter and Tirukkural material.
 
 Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Do not bulk-rewrite canonical translation records merely to churn source-check-era frontmatter. A canonical record should be rewritten at this gate only when a demonstrable English/Tamil correspondence correction is required.
 
-## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0031–0040
+## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0041–0050
 
-Align canonical English letters **0031–0040** against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
+Align canonical English letters **0041–0050**, source PDF **178–213**, against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
 
 For every record:
 
@@ -107,18 +113,21 @@ For every record:
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0031_0040.md`;
-8. append 0031–0040 to `ALIGNMENT_MANIFEST.csv`;
-9. update alignment progress to **40 / 110** only after all ten records pass;
+7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0041_0050.md`;
+8. append 0041–0050 to `ALIGNMENT_MANIFEST.csv`;
+9. update alignment progress to **50 / 110** only after all ten records pass;
 10. update the bilingual-alignment handover and this continuation prompt to the next exact boundary.
 
-Source controls already documented in `SOURCE_CHECK_0031_0040.md` include:
+Source controls already documented in `SOURCE_CHECK_0041_0050.md` include:
 
-- 0036 — retain `சி. பி. சி.` / `C. P. C.` without speculative expansion;
-- 0037 — follow scan title `தூங்குவோமா?`;
-- 0038 — preserve the membership directive;
-- 0039 — preserve the General Council programme;
-- 0040 — preserve the P. Kannan quotation and Tirukkural material.
+- 0041 — birthday appeal, Anna Trust, artists' aid, Beggars' Rehabilitation Fund, fifty-paise cards and ten-rupee garland condition;
+- 0042–0043 — anti-violence sequence, `வெற்றிச் சிந்து / வெறிச் சிந்து`, July 15 condemnation day and Anna's `கத்தியைத் தீட்டாதே! புத்தியைத் தீட்டு!` injunction;
+- 0044 — Gospel epigraph, complete Indira Congress accusation list, Fernandes passage and `கொக்கென்று நினைத்தாயோ - கொங்கணவா?` close;
+- 0045–0046 — Madurai conference procession, state-autonomy imagery, Race Course chronology and violence surrounding the hundred-flag campaign;
+- 0047 — `நாடு + அகம் = நாடகம்`, *Silappathikaram*, Kamarajar passage and proverb reversal;
+- 0048 — MGR/1972 Executive Committee episode, **25 of 33**, and printed `சென்னை. / 10.10.1972` without inferred composition date;
+- 0049 — Sampath–Kannadasan controversy and Anna's full 1961 reply with `நெஞ்சகம் / அன்பகம் / அறிவகம்` wordplay;
+- 0050 — *Navasakthi* chronology, **₹5.10 lakh / ₹3 lakh / ₹2.10 lakh**, 6 August/8 October contrast and elephant/pit image.
 
 Do not treat a source-checked record as automatically bilingual-aligned. Do not mark any record `verified` at this gate.
 
@@ -133,4 +142,4 @@ Do not begin yet:
 
 Those remain blocked until bilingual alignment reaches **110 / 110**.
 
-Proceed directly with letters **0031–0040**; do not merely describe what should be done.
+Proceed directly with letters **0041–0050**; do not merely describe what should be done.

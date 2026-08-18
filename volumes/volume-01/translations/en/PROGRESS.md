@@ -3,11 +3,11 @@
 - Legacy bilingual records available: **110 / 110**
 - Canonically migrated English records: **110 / 110**
 - Source-checked under current workflow: **110 / 110**
-- Bilingual-aligned under current workflow: **30 / 110**
+- Bilingual-aligned under current workflow: **40 / 110**
 - Verified under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
 - Completed canonical English range: **0001–0110**
-- Completed bilingual-alignment range: **0001–0030**
+- Completed bilingual-alignment range: **0001–0040**
 - Alignment-driven English prose corrections: **1**
 - Tamil structural audit: **PASS — complete**
 - Tamil full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
@@ -63,44 +63,32 @@ Source-checked across PDF / printed pages **277–297**. The batch preserves the
 
 ### Letters 0081–0090
 
-Source-checked across PDF / printed pages **298–325**. The batch preserves the Rajamannar/Sezhiyan–Maran state-autonomy argument, Pongal imagery, campaign/corruption rhetoric, budget metaphors, internal-election principles, May Day history, railway-strike argument, birthday appeal, equal-pearls/balance-needle imagery and Kamaraj satire. Scan-specific forms are documented in `SOURCE_CHECK_0081_0090.md`.
+Source-checked across PDF / printed pages **298–325**. The batch preserves the Rajamannar/Sezhiyan–Maran state-autonomy argument, Pongal imagery, campaign/corruption rhetoric, budget metaphors, internal-election principles, May Day history, railway-strike argument, birthday appeal, equal-pearls/balance-needle imagery and Kamaraj satire.
 
 ### Letters 0091–0100
 
-Source-checked across PDF / printed pages **326–358**. The batch preserves the celebrations-as-roots-and-seeds programme; sibling/betrayal and state-autonomy arguments; Kamaraj/*Navasakthi*/Katchatheevu/*Dinamani* passages; complete police-family lullaby; `மாம்பழ மங்கை`; paired **24 September 1799 / 24 September 1972** dates; `முப்பெரும் விழா`; `இரட்டைக்குழல் துப்பாக்கி`; Murasoli Selvam context; and the Dharmapuri–Salem–North Arcot / `முக்கனி` / *Kalingattuparani* sequence.
+Source-checked across PDF / printed pages **326–358**. The batch preserves the celebrations programme, betrayal/state-autonomy arguments, Kamaraj/*Navasakthi*/*Dinamani* passages, complete police-family lullaby, `மாம்பழ மங்கை`, paired **24 September 1799 / 24 September 1972** dates, `முப்பெரும் விழா`, `இரட்டைக்குழல் துப்பாக்கி`, Murasoli Selvam context, and *Kalingattuparani* sequence.
 
 ### Letters 0101–0110
 
-The final source-check batch is complete across PDF / printed pages **359–400**. The relevant Tamil source pages had already passed direct second-pass visual/textual-fidelity checking; PDF **376–400** is documented as PASS and letter 0110 closes on PDF 400.
-
-The batch preserves:
-
-- 0101 — cadre-as-medicine, peacock/raincloud image, Anna's `கடமை / கண்ணியம் / கட்டுப்பாடு`, five great slogans and `வாழ்க / ஒழிக` contrast;
-- 0102 — ten-mile Chennai procession, N. V. N. betrayal/emotion passage, *Ravana Kaviyam* verse, festival comparison and self-offering;
-- 0103 — all-India hunger-report sequence, non-partisan relief appeal and Chengalpattu / `செங்கை` close;
-- 0104 — *Kalki* response on defamation, memorials, welfare/employment and Assembly strength **138 → 184**;
-- 0105 — many-pots-of-milk analogy, TIDCO/SIPCOT/SIDCO, source `Grey Iron castings`, industry/finance figures, Industrial Production Index **148.1 → 195**, growth index **215.18 → 379.15**, and tortoise/goat/rabbit close;
-- 0106 — Anna's shade-giving-tree counsel, principled realignment versus office-seeking defection and *Kalki*'s 19-3-1967 state-autonomy language;
-- 0107 — movement lineage, `ஆட்சி / மாட்சி`, cadre roll and N. V. N. sacrifice;
-- 0108 — Jayaprakash Narayan constitutional argument, democracy satire, Bihar/Kerala/Tamil Nadu comparison and Deepavali political-fireworks close;
-- 0109 — actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`, Kavitha/DMK allegory and opaque `நமப்பார்வதி பதேக்கள்!` without reconstruction;
-- 0110 — Sambasivam meeting, full 1949 *கயிற்றில் தொங்கிய கணபதி* quotation, flower/fragrance argument, Malaya/Ceylon migration critique, source `தமிழகமே!!!!`, and PDF-400 close `(01-12-1974)`.
+The final source-check batch is complete across PDF / printed pages **359–400**. It preserves the five great slogans, N. V. N. passages, hunger-report sequence, *Kalki* arguments, industrial data, `ஆட்சி / மாட்சி`, Jayaprakash satire, actual PDF-392 title `அவள் ஒரு தொடர்கதை!`, opaque `நமப்பார்வதி பதேக்கள்!`, and the full 1949 *கயிற்றில் தொங்கிய கணபதி* quotation through the PDF-400 close.
 
 All canonical English records **0001–0110** remain `source-checked`; source-check completion alone does not promote them to final/release-ready status. Every record contains the full canonical Tamil witness.
 
 ## Bilingual-alignment gate
 
-Alignment is now complete through **0030 / 110**. The dedicated ledger under [`alignment/`](alignment/) is authoritative for this gate:
+Alignment is now complete through **0040 / 110**. The dedicated ledger under [`alignment/`](alignment/) is authoritative for this gate:
 
 - [`alignment/ALIGNMENT_0001_0010.md`](alignment/ALIGNMENT_0001_0010.md) — PASS, 0 English prose corrections;
 - [`alignment/ALIGNMENT_0011_0020.md`](alignment/ALIGNMENT_0011_0020.md) — PASS after 1 English prose correction;
 - [`alignment/ALIGNMENT_0021_0030.md`](alignment/ALIGNMENT_0021_0030.md) — PASS, 0 English prose corrections;
+- [`alignment/ALIGNMENT_0031_0040.md`](alignment/ALIGNMENT_0031_0040.md) — PASS, 0 English prose corrections;
 - [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv) — record-level alignment ledger;
 - [`alignment/PROGRESS.md`](alignment/PROGRESS.md) — current gate boundary.
 
-The single alignment-driven correction so far is in **0014**, where two consecutive Tamil statements had been compressed into one English sentence. The corrected English restores the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife.
+The single alignment-driven correction remains in **0014**, where the English now preserves Tamil's distinct statements on political swagger and armed violence.
 
-The 0021–0030 batch required no English prose changes. It reconfirmed the complete Tamil Nadu renaming chronology in 0021, abrasive/personal rhetoric in 0022–0024, the Hindi/radio arguments in 0025–0026, the ethical anti-retaliation instruction in 0027, Venmani source/date controls in 0028, the non-causation caveat in 0029 and the Nijalingappa/Haryana/Mysore satire in 0030.
+The **0031–0040** batch required no English prose changes. It reconfirmed the extended *The Hindu* quotation in 0031, language and anti-Hindi sequences in 0032–0033, **Eleven Lakhs** and Anna's warning in 0034, discipline imagery in 0035, unexpanded **C. P. C.** in 0036, scan title `தூங்குவோமா?` in 0037, membership-enrolment directive in 0038, the Coimbatore General Council/state-autonomy programme in 0039, and P. Kannan's quoted letter/Tirukkural in 0040.
 
 Source-check-era frontmatter is not bulk-rewritten merely for bookkeeping; the dedicated alignment ledger records reviewed PASS status. No aligned record is thereby promoted to `verified` or editorially reviewed status.
 
@@ -110,4 +98,4 @@ The canonical English migration/source-check gate is **COMPLETE — 110 / 110**.
 
 ## Exact next task
 
-Continue the dedicated bilingual-alignment review with canonical English letters **0031–0040**. Compare each English translation directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and record PASS/corrections in `alignment/ALIGNMENT_0031_0040.md` plus the manifest. Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.
+Continue bilingual alignment with canonical English letters **0041–0050**, source PDF **178–213**. Compare each English translation directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and record PASS/corrections in `alignment/ALIGNMENT_0041_0050.md` plus the manifest. Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.
