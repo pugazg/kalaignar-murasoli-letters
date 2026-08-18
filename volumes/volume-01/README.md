@@ -27,10 +27,10 @@ Regular Volume 1 migration/review iterations use **10 complete consecutive lette
 - Full-volume second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**.
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
 - Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**.
-- Bilingual alignment: **in progress — 0001–0100 / 100 reviewed and PASS**.
+- Bilingual alignment: **COMPLETE — 0001–0110 / 110 reviewed and PASS**.
 - Alignment-driven English prose/quotation corrections: **4**, in 0014, 0043, 0058 and 0059.
-- Alignment batch **0091–0100**: **PASS with no English prose/quotation correction required**.
-- Canonical English records remain **source-checked, not verified**. Editorial consistency and release work remain later gates.
+- Final alignment batch **0101–0110**: **PASS with no English prose/quotation correction required**.
+- Canonical English records remain **source-checked, not verified**. Volume-level editorial consistency is the next gate; release artifacts remain later.
 
 ## Source identity
 
@@ -46,6 +46,6 @@ See [`../volume-1/MIGRATION_AUDIT.md`](../volume-1/MIGRATION_AUDIT.md), [`../vol
 
 ## Exact next task
 
-Continue bilingual alignment with canonical English letters **0101–0110**, source PDF / printed pages **359–400**. Compare each record directly with its complete canonical Tamil witness, correct only demonstrable correspondence errors, create `translations/en/alignment/ALIGNMENT_0101_0110.md`, append the manifest and advance to **110 / 110** only after all ten pass.
+Proceed with the **volume-level English editorial consistency review** required by `VOLUME_PROCESSING_GUIDE.md` §12 across all 110 canonical English records. Review title/index agreement, translator-note exactness, names, honorifics, places, transliteration, institutions, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and stale status wording. Do not alter political meaning, attribution, uncertainty, figures, quotations, rhetorical force, source status or appended Tamil.
 
-Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.
+Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` when the review passes. Keep the final translation manifest, release report and release declaration blocked until the editorial gate is complete.

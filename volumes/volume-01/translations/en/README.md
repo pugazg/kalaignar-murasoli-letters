@@ -1,14 +1,14 @@
 # Volume 1 — English canonical migration workspace
 
-Status: **SOURCE-CHECK COMPLETE — bilingual alignment in progress through 0100 / 110.**
+Status: **SOURCE-CHECK COMPLETE — BILINGUAL ALIGNMENT COMPLETE 110 / 110 — volume-level editorial consistency is the active next gate.**
 
 Tamil structural and full visual/textual-fidelity gates are complete and PASS. Legacy bilingual records under `../../../volume-1/translations/en/` remain preserved and are draft evidence only.
 
-Canonical migration/source check is complete for **0001–0110 (110 / 110)**. These records remain `source-checked`, not `verified`.
+Canonical migration/source check is complete for **0001–0110 (110 / 110)**. Bilingual alignment is also complete for **0001–0110 (110 / 110 PASS)**. These records remain `source-checked`, not `verified`.
 
-## Bilingual-alignment gate
+## Bilingual-alignment gate — complete
 
-Ten ten-letter batches have passed:
+Eleven ten-letter batches passed:
 
 - 0001–0010 — PASS — 0 corrections
 - 0011–0020 — PASS after 1 correction in 0014
@@ -20,15 +20,20 @@ Ten ten-letter batches have passed:
 - 0071–0080 — PASS — 0
 - 0081–0090 — PASS — 0
 - 0091–0100 — PASS — 0
+- 0101–0110 — PASS — 0
 
-Current alignment total: **100 / 110**, completed range **0001–0100**, cumulative English prose/quotation corrections **4**. The alignment report/manifest workspace under [`alignment/`](alignment/) is authoritative; canonical translation records are not bulk-rewritten solely for source-check-era frontmatter.
+Final alignment total: **110 / 110**, completed range **0001–0110**, cumulative English prose/quotation corrections **4**. The alignment report/manifest workspace under [`alignment/`](alignment/) is authoritative; canonical translation records were not bulk-rewritten solely for source-check-era frontmatter.
 
-Completed alignment reports now run through [`alignment/ALIGNMENT_0091_0100.md`](alignment/ALIGNMENT_0091_0100.md). See [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv), [`alignment/PROGRESS.md`](alignment/PROGRESS.md), and [`GLOSSARY.md`](GLOSSARY.md).
+Completed alignment reports now run through [`alignment/ALIGNMENT_0101_0110.md`](alignment/ALIGNMENT_0101_0110.md). See [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv), [`alignment/PROGRESS.md`](alignment/PROGRESS.md), and [`GLOSSARY.md`](GLOSSARY.md).
 
-The **0091–0100** batch required no English content change. Important controls reconfirmed include celebration-as-work/supporting-root imagery; betrayal/state-autonomy/Subba Rao; Kamaraj/*Navasakthi*/*Dinamani*/Kannadasan; police-family lullaby/prohibition satire; `மாம்பழ மங்கை`; paired 1799/1972 dates; `முப்பெரும் விழா`; `இரட்டைக்குழல் துப்பாக்கி`/thousand-year crop; Murasoli Selvam/road-watching; and the `முக்கனி`/*Kalingattuparani*/`வா, வா!` sequence.
+The final **0101–0110** batch required no English content change. Important controls reconfirmed include the five great slogans; N. V. N.; hunger-report chronology; *Kalki* cultural-welfare, industrial and state-autonomy arguments; `ஆட்சி / மாட்சி`; Jayaprakash satire; actual PDF-392 title `அவள் ஒரு தொடர்கதை!`; opaque `நமப்பார்வதி பதேக்கள்!`; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400.
 
 ## Exact next gate activity
 
-Continue bilingual alignment with **0101–0110**, source PDF / printed pages **359–400**. Compare English/Tamil correspondence record by record, correct only demonstrable correspondence errors, create `alignment/ALIGNMENT_0101_0110.md`, append the manifest, and advance to **110 / 110** only after all ten pass.
+Proceed with the **volume-level English editorial consistency review** required by `VOLUME_PROCESSING_GUIDE.md` §12 across all 110 canonical English records. Review title/index agreement, translator-note exactness and stale wording, names, honorifics, place names, transliteration, institutions, abbreviations, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and status wording.
 
-Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.
+Editorial work must not alter political meaning, argument order, attribution, uncertainty, figures, quotations, rhetorical force, source status or appended Tamil. Correct only demonstrable editorial-consistency issues; do not churn all 110 files merely to normalize frontmatter.
+
+Create [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) when the review passes.
+
+Keep the final translation manifest, release report and release declaration blocked until the editorial-consistency gate is complete.

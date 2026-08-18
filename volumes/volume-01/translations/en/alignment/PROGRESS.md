@@ -2,8 +2,8 @@
 
 - Canonical English records: **110 / 110**
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **100 / 110**
-- Completed alignment range: **0001–0100**
+- Alignment-reviewed and PASS: **110 / 110**
+- Completed alignment range: **0001–0110**
 - Alignment-driven English prose/quotation corrections: **4**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
@@ -20,11 +20,16 @@
 - **0071–0080** — PASS — 0 corrections — [`ALIGNMENT_0071_0080.md`](ALIGNMENT_0071_0080.md)
 - **0081–0090** — PASS — 0 corrections — [`ALIGNMENT_0081_0090.md`](ALIGNMENT_0081_0090.md)
 - **0091–0100** — PASS — 0 corrections — [`ALIGNMENT_0091_0100.md`](ALIGNMENT_0091_0100.md)
+- **0101–0110** — PASS — 0 corrections — [`ALIGNMENT_0101_0110.md`](ALIGNMENT_0101_0110.md)
 
-The 0091–0100 batch reconfirmed celebration-as-work and supporting-root/seed imagery in 0091; betrayal/state-autonomy/Subba Rao in 0092; Kamaraj, *Navasakthi*, *Dinamani* and Kannadasan in 0093; the police-family lullaby and prohibition satire in 0094; `மாம்பழ மங்கை` and rationalist critique in 0095; paired **24 September 1799 / 24 September 1972** dates in 0096; `முப்பெரும் விழா` mobilisation in 0097; `இரட்டைக்குழல் துப்பாக்கி` and thousand-year-crop imagery in 0098; Murasoli Selvam / `ப. உ. ச.` / road-watching in 0099; and the travel chronology, `முக்கனி`, *Kalingattuparani* and `வா, வா!` close in 0100.
+The final **0101–0110** batch reconfirmed the five great slogans and cadre-as-medicine sequence in 0101; N. V. N. and self-offering in 0102; hunger-report chronology and Chengalpattu/`செங்கை` wordplay in 0103; *Kalki* cultural-welfare and Assembly-strength arguments in 0104; the full industrial-finance/statistical sequence in 0105; discipline/state-autonomy and *Kalki*'s 1967 federalist quotation in 0106; the movement-lineage and `ஆட்சி / மாட்சி` distinction in 0107; Jayaprakash/democratic-consistency satire in 0108; the actual 0109 heading and unreconstructed `நமப்பார்வதி பதேக்கள்!`; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400 in 0110.
+
+## Gate closure
+
+The **Volume 1 bilingual-alignment gate is complete — 110 / 110 PASS**. The cumulative four English prose/quotation corrections remain **0014, 0043, 0058 and 0059**. Completion of this gate does not promote records to `verified` or editorially reviewed status.
 
 ## Exact next task
 
-Align canonical English letters **0101–0110** against their complete canonical Tamil witnesses, covering source PDF / printed pages **359–400**. Correct only demonstrable correspondence errors and record the batch result in `ALIGNMENT_0101_0110.md` plus the manifest.
+Proceed with the **volume-level English editorial consistency review** required by `VOLUME_PROCESSING_GUIDE.md` §12. Review all 110 canonical English records together for title/index agreement, translator-note exactness, names, honorifics, places, transliteration, institutions, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and status wording without altering political meaning, attribution, uncertainty, figures, quotations, rhetorical force or appended Tamil.
 
-Do not begin volume-level editorial consistency, final manifest, release report or final release declaration yet.
+Record the result in `../EDITORIAL_CONSISTENCY_REVIEW.md`. Final translation manifest, release report and release declaration remain later gates.

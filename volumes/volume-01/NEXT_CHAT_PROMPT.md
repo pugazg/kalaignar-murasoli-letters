@@ -1,59 +1,45 @@
 # Volume 1 — Next Chat Prompt
 
-Continue the **Kalaignar Murasoli Letters — Volume 1 canonical English bilingual-alignment review** directly in `pugazg/kalaignar-murasoli-letters` on `main`.
+Continue the **Kalaignar Murasoli Letters — Volume 1 canonical English editorial-consistency review** directly in `pugazg/kalaignar-murasoli-letters` on `main`.
 
 Active canonical tree: `volumes/volume-01/`. Legacy preserved tree: `volumes/volume-1/`. The supplied `Vol1.pdf` scan remains the controlling source.
 
 ## MANDATORY STARTUP
 
-Before making repository changes, read the repository processing/transcription/batching/future-work guides, root `PROJECT_HANDOVER.md`, Volume 1 migration/project/alignment handovers, Volume 1 README/PROGRESS/AUDIT/metadata/chapter README, all English `SOURCE_CHECK_*.md` reports, English README/PROGRESS, and all alignment README/PROGRESS/manifest/reports. Then inspect current GitHub `main`; repository state is authoritative over stale SHAs/status prose.
+Before making repository changes, read the repository processing/transcription/batching/future-work guides, root `PROJECT_HANDOVER.md`, Volume 1 migration/project/alignment handovers, Volume 1 README/PROGRESS/AUDIT/metadata/chapter README, all English `SOURCE_CHECK_*.md` reports, English README/PROGRESS/GLOSSARY, and every alignment README/PROGRESS/manifest/report through `ALIGNMENT_0101_0110.md`. Then inspect current GitHub `main`; repository state is authoritative over stale SHAs/status prose.
 
 ## COMPLETED WORK — DO NOT RESTART
 
-Tamil Volume 1: **401/401 PDF pages**, **110/110 letters**, structural audit PASS, full visual/textual-fidelity PASS. Canonical English migration/source checking: **110/110**. Legacy bilingual records: **110/110**, preserved unchanged.
+Tamil Volume 1: **401/401 PDF pages**, **110/110 letters**, structural audit PASS, full visual/textual-fidelity PASS. Canonical English migration/source checking: **110/110**. Bilingual alignment: **110/110 PASS**. Legacy bilingual records: **110/110**, preserved unchanged.
 
-## BILINGUAL ALIGNMENT STATUS
+The full alignment gate completed in eleven ten-letter batches. Cumulative alignment-driven English prose/quotation corrections: **4** — letters **0014, 0043, 0058 and 0059**. The final 0101–0110 batch required no English content correction.
 
-Completed batches:
+Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are authoritative. Canonical translation files were not bulk-rewritten merely to change source-check-era frontmatter. No record is yet promoted to `verified` or editorially reviewed status.
 
-- 0001–0010 PASS — 0 corrections
-- 0011–0020 PASS after 1 correction
-- 0021–0030 PASS — 0
-- 0031–0040 PASS — 0
-- 0041–0050 PASS after 1
-- 0051–0060 PASS after 2
-- 0061–0070 PASS — 0
-- 0071–0080 PASS — 0
-- 0081–0090 PASS — 0
-- 0091–0100 PASS — 0
+## EXACT NEXT ACTIVITY — VOLUME-LEVEL ENGLISH EDITORIAL CONSISTENCY
 
-Current totals: **100/110 PASS**, completed **0001–0100**, cumulative alignment-driven English prose/quotation corrections **4** (0014, 0043, 0058, 0059), verified **0/110**, editorially reviewed **0/110**.
+Run the full-volume English editorial review required by `VOLUME_PROCESSING_GUIDE.md` §12 across **all 110 canonical English records** under `volumes/volume-01/translations/en/letters/`.
 
-Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are authoritative. Do not bulk-rewrite canonical translation records merely to change source-check-era frontmatter. Rewrite a canonical record only for a demonstrable English/Tamil correspondence correction.
+Review the volume as one English work for:
 
-## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0101–0110
+- title/frontmatter/index agreement;
+- translator-note exactness, stale source-check language and internal consistency;
+- names, honorifics, place names and transliteration conventions;
+- institutions, abbreviations and political terminology;
+- spelling, compounds, punctuation and quotation presentation;
+- dates and PDF/printed page ranges;
+- glossary consistency and `Udanpirappē` convention;
+- source anomalies and literal controls, including 0063 undated, 0048 printed `சென்னை. / 10.10.1972`, 0109 contents `அவள் ஒரு தொடற்கதை!` versus actual heading `அவள் ஒரு தொடர்கதை!`, and opaque `நமப்பார்வதி பதேக்கள்!`;
+- status/frontmatter wording that has become stale after alignment completion.
 
-Align canonical English letters **0101–0110**, source PDF / printed pages **359–400**, against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
+Editorial work must **not** alter political meaning, argument order, attribution, uncertainty, figures, quotations, rhetorical force, source-gap/anomaly status or the complete appended Tamil witness.
 
-For each record verify substantive coverage, thought order, paragraph/verse/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity. Preserve Kalaignar's rhetorical force and `Udanpirappē`. Do not modernise, normalise, reconstruct or infer unsupported Tamil. Correct only demonstrable correspondence errors.
+Correct only demonstrable editorial-consistency issues. Do not rewrite all 110 files merely to churn frontmatter. Where no record-level edit is required, leave the canonical file untouched and record the finding in the review report.
 
-Create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0101_0110.md`; append 0101–0110 to `ALIGNMENT_MANIFEST.csv`; update alignment progress to **110/110** only after all ten pass; and then record that the bilingual-alignment gate is complete before beginning any later gate.
-
-Read `SOURCE_CHECK_0101_0110.md`. Important controls:
-
-- **0101** — five great slogans and mobilisation rhetoric;
-- **0102** — N. V. N. emotional passage and source-ordered quotations;
-- **0103** — hunger-report sequence and figures;
-- **0104–0106** — *Kalki* arguments and quoted material;
-- **0107** — industrial data and `ஆட்சி / மாட்சி` rhetoric;
-- **0108** — Jayaprakash satire;
-- **0109** — actual PDF-392 title `அவள் ஒரு தொடர்கதை!`, not the contents variant, and preserve opaque `நமப்பார்வதி பதேக்கள்!` without reconstruction;
-- **0110** — preserve the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400.
-
-Do not mark any record `verified` at this gate.
+Create `volumes/volume-01/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Synchronize `translations/en/README.md`, `translations/en/PROGRESS.md`, Volume 1 README/PROGRESS/project handover/next prompt and root README only after the editorial review is complete.
 
 ## GATES STILL BLOCKED
 
-Do not begin volume-level editorial consistency, final translation manifest, release report or final release declaration until bilingual alignment reaches **110/110**.
+Do not create the final translation manifest, release report or final release declaration until the volume-level editorial consistency review passes.
 
-Proceed directly with letters **0101–0110**; do not merely describe the work.
+Proceed directly with the editorial-consistency review; do not merely describe the work.
