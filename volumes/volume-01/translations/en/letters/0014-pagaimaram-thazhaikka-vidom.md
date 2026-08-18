@@ -71,7 +71,9 @@ Ideas must clash with ideas. One must gain influence in the people's forum throu
 
 If a murderer kills and buries a leader or worker who holds a different view, and then flies his victory flag over their grave, the skeletons buried in that cemetery will spit in his face!
 
-Slapping one's thighs, twirling one's moustache, raising a gun for politics, drawing a knife: these are political methods that even savages should fear to adopt!
+Slapping one's thighs, twirling one's moustache—these do not befit politics!
+
+Raising a gun, drawing a knife—these are political methods that even savages should fear to adopt!
 
 Ideas that incite political violence must disappear. Writings and speeches that cultivate hatred and uproot humanity must be eradicated.
 
