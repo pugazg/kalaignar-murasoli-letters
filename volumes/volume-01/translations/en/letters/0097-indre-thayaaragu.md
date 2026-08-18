@@ -1,0 +1,121 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0097"
+date: 1974-09-08
+title_ta: "இன்றே தயாராகு!"
+title_en: "Prepare Today!"
+source_pdf_pages: [345, 346]
+source_printed_pages: [345, 346]
+source_chapter: "../../chapters/0097-indre-thayaaragu.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0097 — Prepare Today!
+
+**Tamil title:** இன்றே தயாராகு!  
+**Date:** 8 September 1974  
+**Source:** PDF 345–346 / printed 345–346  
+**Canonical Tamil chapter:** [`0097-indre-thayaaragu.md`](../../chapters/0097-indre-thayaaragu.md)
+
+## Translator's Note
+
+This is a mobilisation letter for the DMK's silver-jubilee celebrations, joined with Anna's birthday and a commemoration of Periyar. Kalaignar presents the three as a single `முப்பெரும் விழா`, a grand threefold festival. The movement, he insists, was born for policy and principle, not merely to capture the Fort—Fort St George, the seat of the Tamil Nadu government.
+
+The letter's force lies in its rally cadence: those who hide when struggle comes but leap when money appears may shout; the movement's scars, prisons and sacrifices tell a different history. The closing summons cadres from hamlet, village, town and city to begin work on 15 September and fill Chennai under the movement flag. `Udanpirappē` is retained under the established project convention.
+
+## English Translation
+
+Udanpirappē,
+
+I am delighted to learn that you have resolved to hold a grand threefold celebration: the silver jubilee of the movement; the birthday celebration of our precious Anna; and the celebration of Periyar, who has conquered time.
+
+The silver jubilee is coming for a movement that traitors could not destroy, that stone-hearted betrayers could not extinguish, and that could not be felled by cowards who hide when there is a battlefield, pounce when there is money, and ask, “What is the price of sacrifice?” A festival of valour is coming! A great festival of victory is coming!
+
+Let those who sing their little songs at street corners, search for a hole when struggle comes, and practise their petty, short-lived politics shout until their mouths tear!
+
+You will draw up the plans to make the movement's celebration splendid—to make it the summit of all celebrations!
+
+Was it not our movement that trained in Periyar's camp, stood in Anna's ranks, and now marches with the sacred lamp of both their ideals held in its hands?
+
+The political heritage that belongs to us, the history stretching from the movement's first day, and every scar of sacrifice we bear—each tells a story of revolution!
+
+The blows we suffered, the tortures we endured, and the prison fortresses we entered: amid all this, my Udanpirappē, you know by heart the entire list of those who benefited from the movement while posing as glamorous dolls and wandering about in polished finery!
+
+Our movement was born for principle!
+
+It was not born to capture the Fort!
+
+Nor is the Fort what gives us comfort!
+
+Our programmes for removing the country's ills cannot be carried out within the Fort alone. They must proceed while facing everything—biting cold, summer heat, storm, rain and earthquake!
+
+To beat the drum of awakening and announce in all eight directions that “we are ready for that too”; to proclaim to petty minds, “Look, the army of our Anna has risen”—begin the work from 15 September!
+
+The capital city of Chennai calls: to celebrate Anna, who nurtured Mother Tamil; to raise a statue to our beloved father; and to spread throughout the world the new radiance of our movement, a crop that will endure for a thousand years!
+
+Come, come! O heart filled with strength, come! Come!
+
+Prepare today to conduct the festival of ideals!
+
+From hamlets and villages, small towns, great towns and cities—gather in Chennai, so that poets may set it to music and sing: “Street after street, from house after house, the tiger-hearted Tamils came bearing the movement's flag—long may they live!”
+
+Draw up the plans—today!
+
+With affection,
+
+M. K.
+
+8 September 1974
+
+## Original Tamil — மூலத் தமிழ்
+
+# 97. இன்றே தயாராகு!
+
+**உடன் பிறப்பே,**
+
+கழகத்தின் வெள்ளிவிழா-கண்மணியாம் நம் அண்ணனின் பிறந்த நாள் விழா-காலத்தை வென்ற பெரியார் விழா-ஆம்; முப்பெரும் விழா எடுக்க முனைந்து விட்டாய் என அறிந்து மகிழ்கின்றேன்.
+
+துரோகிகளால் அழிக்க முடியாத கழகத்திற்கு-காட்டிக் கொடுக்கும் கல் நெஞ்சர்களால் ஒழிக்க முடியாத கழகத்திற்கு-களம் என்றால் பதுங்கி, பணம் என்றால் பாய்ந்து பற்றி, ‘தியாகமென்றால் விலை என்ன’ என்று கேட்கும் கோழை மனிதர்களால் சாய்க்க முடியாத கழகத்திற்கு-வெள்ளிவிழா வருகிறது! வீரத் திருவிழா வருகிறது! வெற்றிப் பெருவிழா வருகிறது!
+
+சந்து முனையிலே சிந்து பாடுவோர்-போராட்டம் என்றால் பொந்து தேடுவோர்-‘அந்துமணி’ அரசியல் நடத்துவோர்-வாய் கிழியக் கத்தட்டும்!
+
+நீ வகுத்திடுவாய் திட்டங்களை-கழகத்திற்கு எடுக்கும் விழா சிறப்படைய! எல்லா விழாக்களுக்கும் சிகரமாக அமைய!
+
+பெரியாரின் பாசறையில் பயின்று - அண்ணாவின் அணி வகுப்பில் இருந்து - இன்று அந்த இருவர்தம் இலட்சியத் திருவிளக்கினைக் கையிலேந்தி நடை போடுவது நம் கழகமன்றோ?
+
+நமக்கென இருக்கின்ற அரசியல் பாரம்பரியம்-இயக்கத்தின் தொடக்க நாள் முதலான வரலாறு-நாம் பெற்றுள்ள தியாகத் தழும்புகள் ஒவ்வொன்றும் ஒரு புரட்சிக் கதை சொல்லுமே!
+
+நாம் பட்ட அடிகள்-தாங்கிக் கொண்ட சித்திரவதைகள்-புகுந்த சிறைக் கோட்டங்கள் இவைகளுக்கிடையே, ‘கவர்ச்சிப் பதுமை’களாக இருந்து கழகத்தால் பயன் பெற்றோர்-மேனாமினுக்கிகளாகத் திரிந்தோர் - எல்லாப் பட்டியலுமே - என் உடன் பிறப்பே! உனக்கு மனப்பாடமாயிற்றே!
+
+கொள்கைக்காகப் பிறந்தது நம் கழகம்!
+
+கோட்டையைப் பிடிப்பதற்காகப் பிறந்தது அல்ல
+
+கோட்டை-நமக்குக் குளிர் தருவதும் அல்ல!
+
+நாட்டின் கேட்டைக் களைய நமது வேலைத் திட்டங்கள், கோட்டையில் மட்டுமல்ல; கொட்டும் குளிரில்-கோடையின் வெப்பத்தில்-புயலில்- மழையில்- பூகம்பத்தில் அனைத்தையும் சமாளித்து நடைபெற வேண்டி இருக்கின்றன!
+
+“அதற்கும் நாம் தயாராக இருக்கிறோம்” என்பதை எழுச்சி முரசு கொட்டி எட்டுத் திக்கும் அறிவித்திட-“எழுந்தது பார் எங்கள் அண்ணன் பட்டாளம்” என்று சின்ன மனக்காரர்களுக்குப் பிரகடனப்படுத்திட செப்டம்பர் 15 முதல் செயல் தொடங்கிடு!
+
+சென்னைத் தலைநகர் அழைக்கிறது- அன்னைத் தமிழ் வளர்த்த அண்ணனுக்கு விழா நடத்த! அருமைத் தந்தைக்குச் சிலை எடுக்க! ஆயிரங்காலத்துப் பயிராம்-நம் கழகத்தின் புத்தொளியைப் பாரெங்கும் பரவச் செய்ய!
+
+வா, வா! வலிமை கொண்ட நெஞ்சமே-வா! வா!
+
+இன்றே தயாராகு- இலட்சியத் திருவிழா நடத்த!
+
+பட்டி தொட்டி- சிற்றூர்-பேரூர்-நகரங்கள்! அனைத்திலும், ‘வீதிக்கு வீதி பல வீட்டில் புலித்தமிழர் கழகக் கொடி ஏந்தி வந்தனர்-வாழ்க’ எனப் பண் அமைத்துப் பாவாணர்கள் பாடும் வண்ணம் திரண்டிடுக-சென்னையில்.
+
+திட்டங்கள் தீட்டிடுக- இன்றே!
+
+அன்புள்ள,
+
+மு. க.
+
+(08-09-1974)

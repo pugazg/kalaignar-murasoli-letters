@@ -1,0 +1,150 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0098"
+date: 1974-09-15
+title_ta: "உயர்த்திடுவோம் தோள்!"
+title_en: "Let Us Raise Our Shoulders!"
+source_pdf_pages: [347, 348, 349, 350]
+source_printed_pages: [347, 348, 349, 350]
+source_chapter: "../../chapters/0098-uyarthiduvom-thol.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0098 — Let Us Raise Our Shoulders!
+
+**Tamil title:** உயர்த்திடுவோம் தோள்!  
+**Date:** 15 September 1974  
+**Source:** PDF 347–350 / printed 347–350  
+**Canonical Tamil chapter:** [`0098-uyarthiduvom-thol.md`](../../chapters/0098-uyarthiduvom-thol.md)
+
+## Translator's Note
+
+Written for the DMK's silver jubilee, this letter looks back twenty-five years to Anna's founding judgement. A policy difference had separated many from Periyar's Dravidar Kazhagam, but Anna refused to make the destruction of the parent organisation the new movement's purpose. His formula—the DK and DMK as a “double-barrelled gun”—allowed one organisation to work in the social sphere and the other in electoral politics while retaining important common principles.
+
+Kalaignar illustrates that relationship through joint opposition to Hindi, Anna's defence of Periyar in the Legislative Assembly, and a DMK protest condemning Jawaharlal Nehru's harsh criticism of Periyar and Ma. Po. Sivagnanam, the `Silambuch Selvar`. The agricultural image governing the close is central: the movement is a thousand-year crop that every cadre must protect from the weeds of betrayal, the pests of opportunism and marauding enemies. `Udanpirappē` is retained under the established project convention.
+
+## English Translation
+
+Udanpirappē!
+
+It feels as though it happened only today; yet twenty-five years have rolled past. Our Anna was only forty then. In these times, that is hardly the age of an elderly man. Yet our Anna shone as a treasury of mature experience and as the flame of consummate knowledge.
+
+Otherwise, would he not have gathered the many people who had left the Dravidar Kazhagam because of a policy difference with Periyar and undertaken the task of destroying that very organisation?
+
+Instead, did he not proclaim, “The DK and the DMK are a double-barrelled gun”? That stands as testimony to his political clarity and to his thought for the future Tamil community.
+
+Suppose Anna had taken the hasty, angry and unnecessary decision that the Dravidar Kazhagam and Dravida Munnetra Kazhagam must clash, and that “only after one of the two has been destroyed will we attend to any other work.” We could not today have witnessed the two organisations travelling as allies towards their ideals—one in the social sphere and one in politics. Both might instead have destroyed each other through mutual attack.
+
+Even when attacks from the Dravidar Kazhagam continued, Anna and the Munnetra Kazhagam he created remained extremely cautious. They did not cultivate the habit of retaliating. They gave clear explanations only when necessary and devoted their full attention to proclaiming policy. That is why we can see the two organisations today as “the two eyes of the Tamil community.”
+
+To oppose the Hindi language that came flourishing its ceremonial fan and seeking domination, the Dravidar Kazhagam planned a one-day agitation to erase Hindi lettering at railway stations and post offices.
+
+The Munnetra Kazhagam did not sit by mocking or condemning it. Anna immediately consulted us.
+
+Our brother Mathiazhagan, arguing, “Must we follow every agitation Periyar conducts?” asked rather sharply, “Must the decisions of the DMK be made in Miran Sahib Street?” At the time, Thanthai Periyar lived in a house on Miran Sahib Street in Chennai.
+
+While appreciating Mathi's feeling, Anna explained with great tenderness:
+
+“Did we not all come from there? Opposition to Hindi is a concern common to us. The DMK and the Dravidar Kazhagam have agreement on many policies. If we stand apart on those matters, darkness will descend upon Tamil Nadu's future.”
+
+On the same day, the Dravidar Kazhagam under Periyar and the DMK under Anna conducted the agitation to erase Hindi lettering across the country.
+
+Udanpirappē! The good fortune that came to me in that agitation was this: Periyar and I erased Hindi lettering in Tiruchirappalli. At Tiruchirappalli railway station, Periyar erased the Hindi letters on one signboard and I erased them on another.
+
+Although hostility existed between the two parties, they would not surrender policy. Anna's position was that the two parties must not seek to destroy each other if that policy was to triumph. It is this position that protects today the Dravidian movement with its political and social heritage.
+
+Anna sat in the opposition benches of the Legislative Assembly. Thiru Kamaraj was then Chief Minister. The principal opposition was the Democratic Congress, led by V. K. Ramasamy Mudaliar. He held the first seat in the opposition; next came the deputy leader of the Democratic Congress; and Anna sat third.
+
+Following Periyar's announcement that he would burn the national flag, the Congress government introduced in the Legislative Assembly a stringent law to protect national symbols. Even then, Anna did not abandon Periyar.
+
+“There is no need to introduce such a law in response to Periyar's announcement. Kamaraj, who is close to Periyar, can speak with him and resolve it,” Anna said in the Assembly, pouring down a rain of argument.
+
+Anna was not prepared to aid those who set out saying, “Periyar must be suppressed through this law.”
+
+Those who understood that one part of the DMK's three-pronged agitation was conducted to condemn Pandit Nehru's scathing criticism of Periyar and figures such as Silambuch Selvar praised to the skies the DMK's political culture and its devotion to Tamil.
+
+Across forty years of public life, the profound adherence to principle that Arignar Anna learnt from Periyar; the feeling of duty, dignity and discipline that Anna gave us on that foundation; the politics of swimming against the current that he practised with a heart capable of bearing anything; and the political civility he observed while standing as a ground of patience—these became manure and water, and thus nurtured the Dravida Munnetra Kazhagam as a crop for a thousand years.
+
+We must each assume, in the place of a cultivator, the responsibility of guarding this crop: from harm by the weeds called “betrayal,” from damage by the pests called “opportunists,” and from destruction by the goats and cattle that come grazing as enemies.
+
+It is because we have borne that responsibility year after year that today we celebrate the flame of knowledge Periyar, the political sage Anna, and the movement that is a thousand-year crop—our silver jubilee!
+
+O spear that comes leaping! O sword that gathers and brings passion! While you are here, while Tamil feeling lives in your heart, while Periyar and Anna live in that feeling, our movement's crop will suffer no want and its journey towards its ideals will not be obstructed. With that confidence, I, Navalar and our Treasurer, the Professor, march forward!
+
+“Whoever may try to dam this current will be reduced before us to dust—dust!” Let us raise our shoulders—shoulder to shoulder!
+
+With affection,
+
+M. K.
+
+15 September 1974
+
+## Original Tamil — மூலத் தமிழ்
+
+# 98. உயர்த்திடுவோம் தோள்!
+
+**உடன்பிறப்பே!**
+
+இன்றைக்கு நடந்தது போலிருக்கிறது; ஆனால் இருபத்தைந்து ஆண்டுகள் உருண்டோடி விட்டன. அப்போது நமது அண்ணனுக்கு, அகவை நாற்பதுதான்; அந்த வயது இந்தக் காலத்தில் ஒரு முதியவருக்கு உரியது அல்ல. எனினும் முதிர்ச்சி பெற்ற அனுபவக் களஞ்சியமாக, முழுமை அறிவின் சுடராக, நமது அண்ணன் திகழ்ந்தார்.
+
+இல்லையேல் பெரியாரிடம் ஏற்பட்ட கொள்கை வேறுபாட்டின் காரணமாகத் திராவிடர் கழகத்திலிருந்து பிரிந்த ஏராளமானவர்களைக் கொண்டு, அந்தக் கழகத்தையே ஒழிக்கும் வேலையை அல்லவா மேற்கொண்டிருப்பார்?
+
+அதற்கு மாறாக, ‘தி.க-தி.மு.க. இரண்டு கழகங்களும் இரட்டைக்குழல் துப்பாக்கி’ என்றல்லவா அறிவித்தார்? அதுதான் அவரது அரசியல் தெளிவுக்கும்-எதிர்காலத் தமிழ்ச் சமுதாயத்தைப் பற்றிய சிந்தனைகளுக்கும் எடுத்துக்காட்டாக விளங்குவதாகும்.
+
+திராவிடர் கழகம்-திராவிட முன்னேற்றக் கழகம் ஆகிய இரண்டு அமைப்புக்களும் ஒன்றோடொன்று மோதி ‘இரண்டில் ஒன்றை அழித்து விட்டுத்தான் மறு வேலை பார்ப்பது’ என்று அண்ணா அவசரமானதும்-ஆத்திரமயமானதுமான அவசியமற்ற ஒரு முடிவை எடுத்திருப்பாரேயானால், இன்றைக்கு இரண்டு கழகங்களும், ‘சமுதாயத் துறைக்கு ஒன்று-அரசியலுக்கு ஒன்று’ என்ற வகையில் தோழமை பூண்டு, இலட்சியப் பயணம் புரிகின்ற காட்சியைக் கண்டிருக்க முடியாது. இரண்டுமே ஒன்றையொன்று தாக்கிக் கொண்டு அழிந்திருக்கவும் கூடும்.
+
+திராவிடர் கழகத்தின் தாக்குதல்கள் தொடர்ந்து இருந்த போதிலும் கூட, அண்ணா அவர்களும்-அவர் உருவாக்கிய முன்னேற்றக் கழகமும்-மிக எச்சரிக்கையாக இருந்தது. பதிலுக்குத் தாக்கும் பண்பை வளர்த்துக்கொள்ளாமல்-தேவையான நேரங்களில் மட்டும் தெளிவான விளக்கங்களை அளித்து-கொள்கை முழக்கம் செய்வதில் முழுக்கவனத்தையும் செலுத்தியதால்தான், ‘தமிழ்ச் சமுதாயத்தின் இரு கண்கள்’ என இரு கழகங்களையும் இன்று காண முடிகிறது!
+
+ஆதிக்கம் புரிய, ஆலவட்டம் சுழற்றி வந்த இந்தி மொழியை எதிர்த்துத் திராவிடர் கழகம்-புகைவண்டி நிலையம், அஞ்சல் நிலையம் இவற்றிலுள்ள இந்தி எழுத்துக்களை அழிக்க- ‘ஒரு நாள்’ போராட்டத் திட்டம் வகுத்தது.
+
+முன்னேற்றக் கழகம், அதனைக் கேலி செய்து கொண்டோ அல்லது கண்டனம் செய்து கொண்டோ உட்கார்ந்திருக்கவில்லை; அண்ணாவும் அவசரமாக எங்களைக் கலந்து ஆலோசித்தார்.
+
+‘பெரியார் நடத்துகின்ற போராட்டங்களை எல்லாம் நாமும் பின்பற்ற வேண்டுமா?’ என்ற கருத்தில், நமது சகோதரர் மதியழகன் அவர்கள் ‘தி.மு.கழகத்தின் முடிவுகள், மீரான்சாகிபு தெருவில்தான் எடுக்கப்பட வேண்டுமா?’ என்று சற்றுக் கடுமையாகவே கேட்டார். அப்போது தந்தை பெரியார், மீரான்சாகிபு தெருவில் உள்ள வீட்டில் வாழ்ந்து கொண்டிருந்தார்-சென்னையில்
+
+மதியின் உணர்ச்சியைப் பாராட்டிய அதே நேரத்தில் அண்ணா அவர்கள் மிகுந்த கனிவோடு,
+
+**“நாமெல்லோருமே அங்கிருந்து வந்தவர்கள் தானே;  
+இந்தியை எதிர்ப்பது நமக்குப் பொதுவான விவகாரம்;  
+நமக்கும் திராவிடர் கழகத்துக்கும் ‘கொள்கை  
+உடன்பாடுகள்’ பல உண்டு; அவைகளில் நாம்  
+வேறுபட்டு நின்றால் எதிர்காலம் தமிழ் நாட்டில்  
+இருளடையும்”** என விளக்கம் அளித்தார்கள்.
+
+ஒரே நாளில் இந்தி எழுத்து அழிப்புப் போராட்டத்தைப் பெரியார் தலைமையில் திராவிடர் கழகமும்-அண்ணா தலைமையில் தி. மு. கழகமும் நாடெங்கும் நடத்தின.
+
+உடன்பிறப்பே! அதில் எனக்குக் கிடைத்த நல்வாய்ப்பு, பெரியாரும்-நானும் திருச்சியில் இந்தி எழுத்துக்களை அழித்தோம். திருச்சி புகைவண்டி நிலையத்தில், பெரியார் ஒரு பலகையிலும்-நான் ஒரு பலகையிலும் உள்ள இந்தி எழுத்துக்களை அழித்தோம்.
+
+இரு கட்சிகளுக்குமிடையே பகைமை உணர்ச்சி இருந்த போதிலும், கொள்கையை விட்டுக் கொடுக்காத தன்மையும்- ‘அந்தக் கொள்கை வெற்றி பெற இரு கட்சிகளும் ஒன்றை யொன்று அழிப்பதில் முனையக் கூடாது’ என்று அண்ணா வகுத்த நிலையும்தான்- அரசியல், சமுதாயப் பாரம்பரியமுள்ள திராவிடர் இயக்கத்தை இன்று பாதுகாத்து நிற்கிறது.
+
+அண்ணா, சட்டப் பேரவையில் எதிர்க்கட்சி வரிசையில் அமர்ந்திருக்கிறார்; திரு. காமராஜர் அப்போது முதலமைச்சர்; பிரதான எதிர்க்கட்சி-ஜனநாயகக் காங்கிரசு; அதன் தலைவர் வி. கே. இராமசாமி முதலியார்; அவர்-எதிர்க்கட்சியில் முதல் இடத்தில்; அவருக்கு அடுத்து ஜனநாயகக் காங்கிரசின் துணைத் தலைவர்; மூன்றாவதாக அண்ணா அமர்ந்திருக்கிறார்.
+
+தேசியக் கொடியைப் பெரியார் கொளுத்தப் போவதாக அறிவித்ததையொட்டி, தேசியச் சின்னங்களைப் பாதுகாக்க ஒரு கடுமையான சட்டம் சட்டப் பேரவையில்-காங்கிரசு அரசாங்கத்தினரால் கொண்டு வரப்படுகிறது; அப்போதும் அண்ணா பெரியாரை விட்டுக் கொடுக்கவில்லை-
+
+“பெரியார் அறிவிப்பையொட்டி இப்படி ஒரு சட்டம் கொண்டுவரத் தேவையில்லை; பெரியாரிடம் நெருக்கமாக இருக்கின்ற காமராஜர் அவரோடு பேசியே இதனைத் தீர்த்துக் கொள்ளலாம்” என்று பேரவையில் கருத்து மழை பொழிந்தார்.
+
+“இந்தச் சட்டத்தின் வாயிலாகப் பெரியாரை அடக்கி விட வேண்டும்” என்று முனைந்தவர்களுக்குத் துணைபோக-அண்ணா தயாராக இல்லை!
+
+தி.மு. கழகத்தின் மும்முனைப் போராட்டத்தில் ஒரு போராட்டம்-பண்டித நேரு அவர்கள்-பெரியார், சிலம்புச் செல்வர் போன்றவர்களைச் சுடுசொல் கூறி விமர்சித்ததைக் கண்டிப்பதற்காகத்தான் நடைபெற்றது என்பதை உணர்ந்தவர்கள், தி.மு.கழகத்தின் அரசியல் பண்பாட்டையும்-தமிழ்ப் பற்றையும் வானளாவப் புகழ்ந்துரைத்தனர்!
+
+நாற்பதாண்டு காலப் பொது வாழ்வில்- அறிஞர் அண்ணா, பெரியாரிடத்தில் கற்றுக் கொண்ட ஆழமான கொள்கைப் பிடிப்பும், அதன் அடிப்படையில் அண்ணா நமக்கு வழங்கிய கடமை-கண்ணியம்-கட்டுப்பாடு எனும் உணர்வும், எதையும் தாங்கும் இதயத்துடன் அவர் நிகழ்த்திய எதிர் நீச்சல் அரசியலும் பொறுமையின் நிலைக்களமாய் இருந்து-அவர் கடைப்பிடித்த அரசியல் நாகரிகமும், எருவாக-நீராக-அமைந்துதான் ஆயிரங்காலத்துப் பயிராகத் திராவிட முன்னேற்றக் கழகத்தை வளர்த்திருக்கிறது.
+
+இந்தப் பயிருக்குத் ‘துரோகம்’ எனும் களைகளால் கெடுதி வராமல்- ‘சந்தர்ப்பவாதிகள்’ எனும் பூச்சிகளால் தீமை வராமல்- எதிரிகளாய் மேய வரும் ஆடுமாடுகளால் சேதம் வராமல் பாதுகாக்கும் பொறுப்பை-உழவன் நிலையில் இருந்து-உடன்பிறப்பே! நாம் ஒவ்வொருவரும் ஏற்றுக் கொள்ள வேண்டும்.
+
+ஆண்டாண்டு காலமாக அப்படி ஏற்றுக் கொண்டதால்தான் அறிவுச் சுடர் பெரியாருக்கும் அரசியல் ஞானி அண்ணாவுக்கும் ஆயிரங்காலத்துப் பயிராம் கழகத்துக்கும் இன்று விழா எடுக்கிறோம்-வெள்ளிவிழா!
+
+துள்ளி வரும் வேலே! ஆவேசத்தை அள்ளி வரும் வாளே! நீ இருக்க-உன் நெஞ்சில் தமிழ் உணர்விருக்க-அந்த உணர்வில் பெரியார், அண்ணா உருவிருக்க-நம் இயக்கப் பயிருக்கு ஒரு குறையுமில்லை; இலட்சியப்பயணம் தடைப்படுவதுமில்லை என்ற துணிவோடு நானும்-நாவலரும்-நமது பொருளாளர் பேராசிரியரும் நடைபோடுகிறோம்!
+
+“இதற்கு அணைபோடுவோர் யாராயினும், நம்முன்னே தூள்-தூள்” என்று உயர்த்திடுவோம்-நம் தோள் தோள்!
+
+அன்புள்ள,
+
+மு. க.
+
+(15-09-1974)

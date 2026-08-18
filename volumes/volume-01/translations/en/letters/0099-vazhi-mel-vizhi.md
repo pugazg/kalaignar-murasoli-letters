@@ -1,0 +1,81 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0099"
+date: 1974-09-22
+title_ta: "வழி மேல் விழி..."
+title_en: "Eyes Fixed on the Road..."
+source_pdf_pages: [351, 352, 353]
+source_printed_pages: [351, 352, 353]
+source_chapter: "../../chapters/0099-vazhi-mel-vizhi.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0099 — Eyes Fixed on the Road...
+
+**Tamil title:** வழி மேல் விழி...  
+**Date:** 22 September 1974  
+**Source:** PDF 351–353 / printed 351–353  
+**Canonical Tamil chapter:** [`0099-vazhi-mel-vizhi.md`](../../chapters/0099-vazhi-mel-vizhi.md)
+
+## Translator's Note
+
+The title `வழி மேல் விழி` is an idiom of eager waiting: one's eyes remain fixed on the road for the person expected to arrive. Kalaignar writes amid a family crisis, after Murasoli Selvam's health suddenly became grave, yet describes continuing as far as possible with the threefold Periyar–Anna–DMK celebrations and welfare events. The cadres he goes out to encourage instead steady him; their affection becomes medicine for his wounded mind.
+
+The letter moves through Madurai, Kanchipuram and Chennai before calling families to the capital's 29 September procession. `ப. உ. ச.` is retained as printed initials because the source does not expand the name. `Udanpirappē` is retained under the established project convention.
+
+## English Translation
+
+Udanpirappē,
+
+I gain courage and enthusiasm from seeing your smiling face as you celebrate, in one great threefold festival, Periyar's birthday, the birthday of the Anna whom Periyar gave us, and the birthday of the movement Anna gave us. Even when the health of my dear younger kinsman Selvam suddenly became critical, I performed my duty as far as I could at the threefold celebrations in Madurai and Kanchi, the unveiling of Periyar's statue in Chennai, the welfare event for persons with disabilities, and the Valluvar Kottam event. Only the programmes in South Arcot district had to be postponed. After writing this letter to you, I leave today for Dharmapuri district. On the 20th, 21st and 22nd respectively, I shall take part in programmes in Dharmapuri, Salem and North Arcot districts.
+
+I come running to see your heroic face and your majestic victorious stride, and to hear your proclamation of ideals. I came to Madurai. In the morning, I saw you gathered like bees in a garden of Tamil. There was no limit to the fulfilment I felt at that ceremony honouring poets with purses of gold. In the evening came the function marking Anna's birthday, where medals and purses were presented to members of the police. Even amid that gathering filled with dignitaries, my dear Udanpirappē, were my eyes not searching for you? I saw you. I rejoiced.
+
+It was in the midst of this, in Madurai, that the shocking news of Murasoli Selvam's condition reached me. Your eyes filled with tears. Was I not the one who had to console you? Conscious of that responsibility, I attended the threefold festival organised with great spirit by Madurai City District Secretary Comrade Tiruppathi and Madurai District Secretary, my friend Pon. Muthuramalingam. Oh! What an enormous gathering! What feeling! As Anna observed, the awakening of Madurai demonstrated that amid the strutting filth and brazen tongues, our journey towards our ideals proceeds rapidly and resolutely.
+
+The next day, Chengai District Secretary, my friend Arumugam, came to take me and our friend P. U. S. to Kanchi, where our Anna was born. As he described all the arrangements for the Kanchipuram gathering, I felt I must fly there at once. Ah! The Chengai district movement and the friends of the Kanchi city organisation had transformed the city into a metropolis of the Pallava age. The flood of people swept away my worries. Udanpirappē, your loving eyes turned towards me there gave medicine to the wound in my mind. A flood of joyous honey poured into my ears!
+
+Navalar and our guardians of the movement described the distinction of every town they had visited. Even newspapers bent on blacking it out could not conceal the splendour of the ceremony that raised a statue to Periyar in Chennai!
+
+My Udanpirappē, dearer to me than life, who has become a flame of feeling in response to the movement leadership's appeal: I am setting out to meet you. I know that you are preparing to leave for Chennai with your wife and children on Sunday the 29th—to meet me, to meet our movement's leaders, to see Anna's memorial and Arivalayam, and Ayya's pillar of awakening and statue; to rise in spirit and witness the victory of our ideals.
+
+Apple of my eye!
+
+Rise with the flag in your hand and firm commitment to policy in your heart, and join the Chennai procession. I wait for you with my eyes fixed upon the road!
+
+With affection,
+
+M. K.
+
+22 September 1974
+
+## Original Tamil — மூலத் தமிழ்
+
+# 99. வழி மேல் விழி...
+
+**உடன்பிறப்பே,**
+
+பெரியார் பிறந்த நாளை- பெரியார் தந்த அண்ணன் பிறந்த நாளை-அண்ணன் தந்த கழகம் பிறந்த நாளை முப்பெரு விழாவாகக் கொண்டாடி முறுவலிக்கும் உன் முகம் பார்த்து ஊக்கம் பெறுகிறேன். உற்சாகமடைகிறேன். இளைய மருமகன் இனியவன் செல்வத்தின் உடல்நிலை திடீரெனக் கடுமையாகப் பாதிக்கப்பட்ட நேரத்திலும் முடிந்த அளவு என் கடமையை மதுரை முப்பெருவிழாவிலும், காஞ்சி முப்பெரு விழாவிலும், சென்னை பெரியார் சிலை திறப்பு விழாவிலும், ஊனமுற்றோர் நலவாழ்வு விழாவிலும், வள்ளுவர் கோட்ட விழாவிலும் ஆற்றியுள்ளேன். தென்ஆற்காடு மாவட்ட நிகழ்ச்சிகளைத்தான் ஒத்திவைக்க நேரிட்டு விட்டது. இந்த மடலை உனக்கு எழுதிவிட்டு இன்று தர்மபுரி மாவட்டத்திற்குப் புறப்படுகிறேன். 20, 21, 22 ஆகிய மூன்று நாட்களிலும் முறையே தர்மபுரி, சேலம், வடஆற்காடு மாவட்ட நிகழ்ச்சிகளில் கலந்து கொள்கிறேன்.
+
+உன் வீரத் திருமுகத்தை, வெற்றி கொள் கம்பீர நடையை, இலட்சிய முழக்கத்தைக் கண்டிட, கேட்டிட ஓடோடி வருகிறேன். மதுரை வந்திருந்தேன்; காலையிலே தமிழ்ப் பூங்காவிலே வண்டாக மொய்த்திருந்த உன்னைக் கண்டேன். புலவர்க்குப் பொற்கிழி வழங்கிய அந்த விழாவில் நானடைந்த பூரிப்புக்கு எல்லையே கிடையாது. மாலையிலே அண்ணா பிறந்த நாளையொட்டி காவல் துறையினர்க்குப் பதக்கமும், பண முடிப்பும் வழங்கும் விழா, மேட்டுக்குடியினரும் நிறைந்திருந்த அந்த விழாவில் என் அன்பு உடன்பிறப்பே, என் விழி உன்னையல்லவா தேடிக் கொண்டிருந்தது. உனைக் கண்டேன். உவகை கொண்டேன்.
+
+இதற்கிடையேதான் முரசொலி செல்வத்தின் உடல் நிலை பற்றிய திடுக்கிடும் செய்தி எனக்குக் கிடைத்தது, மதுரையில்! உன் கண்கள் கலங்கின. உனக்கு ஆறுதல் சொல்ல வேண்டியவனாயிற்றே நான்! அந்தப் பொறுப்பை உணர்ந்த காரணத்தால் மதுரை நகர் மாவட்டச் செயலாளர் தோழர் திருப்பதியும், மதுரை மாவட்டச் செயலாளர் நண்பர் பொன். முத்துராமலிங்கமும் எழுச்சியுற ஏற்பாடு செய்திருந்த முப்பெரு விழாவில் கலந்து கொண்டேன். அம்மவோ! எத்துணை பெரிய கூட்டம்! எவ்வளவு உணர்ச்சி! அண்ணா குறிப்பிட்டது போல, நரகல் நடையழகர்கள், நடுங்கா நாக்கழகர்களுக்கு மத்தியிலே நமது இலட்சியப் பயணம் வேகமாக-உறுதியாக நடைபெறுகிறது என்பதற்கு மதுரையின் எழுச்சி ஓர் எடுத்துக்காட்டு.
+
+மறுநாள் நமது அண்ணன் பிறந்த காஞ்சிக்கு என்னையும் நண்பர் ப. உ. ச.வையும் அழைத்துச் செல்ல வந்த செங்கை மாவட்டச் செயலாளர் நண்பர் ஆறுமுகம் அவர்கள், காஞ்சிபுரத்துக் கூட்ட ஏற்பாடுகளையெல்லாம் வர்ணித்தபோது, உடனடியாகக் காஞ்சிக்குப் பறந்து செல்ல வேண்டுமென்றே தோன்றிற்று. அடடா! செங்கை மாவட்டக் கழகமும், காஞ்சி நகரக் கழகத்து நண்பர்களும்-அந்த நகரத்தைப் பல்லவன் காலத்துப் பட்டினம் போலவே உருமாற்றியிருந்தார்கள். மக்கள் வெள்ளம் என் கவலைகளை மறக்க அடித்தது. உடன்பிறப்பே, அங்கு என்னை நோக்கிய உன் அன்பு விழிகள் என் மனப் புண்ணுக்கு மருந்தளித்தன. இன்பத் தேன் வந்து பாய்ந்தது காதினிலே! நாவலரும், நமது கழகக் காவலர்களும் சென்று வந்த ஊர்களின் சிறப்பையெல்லாம் சொன்னார்கள். சென்னையிலே பெரியாருக்குச் சிலை வைத்த விழாவின் சிறப்பை, இருட்டடிப்புச் செய்யும் ஏடுகளால் கூட மறைக்க முடியவில்லையே! கழகத் தலைமையின் வேண்டுகோளை ஏற்று, உணர்ச்சிப் பிழம்பாய் ஆகிவிட்ட என் உயிரினுமினிய உடன்பிறப்பே, உன்னைச் சந்திக்கப் புறப்படுகிறேன். நீ என்னைச் சந்திக்க, நமது கழகத் தலைவர்களைச் சந்திக்க, அண்ணனின் நினைவாலயம், அறிவாலயம், அய்யாவின் எழுச்சித் தூண், சிலை-இவைகளைக் கண்டிட, எழுச்சி பெற்றிட, இலட்சிய வெற்றி கண்டிட வரும் 29-ஆம் நாள் ஞாயிறன்று சென்னைக்குப் புறப்பட மனைவி மக்களுடன் தயாராகிக் கொண்டிருக்கிறாய் என எனக்குத் தெரியும்.
+
+**என் கண்ணின் மணியே!**
+
+கையில் கொடியுடன்-நெஞ்சில் கொள்கை உறுதியுடன் சென்னை ஊர்வலத்தில் கலந்து கொள்ள எழுந்திடு எதிர்பார்த்திருக்கிறேன், வழிமேல் விழிவைத்து!
+
+அன்புள்ள,
+
+மு. க.
+
+(22-09-1974)
