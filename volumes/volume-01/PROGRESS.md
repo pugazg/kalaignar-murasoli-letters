@@ -7,8 +7,8 @@
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
 - [x] Legacy English record migration and source checking — **complete; 0001–0110 / 110 source-checked**
 - [x] Bilingual alignment — **complete; 0001–0110 / 110 reviewed and PASS**
-- [ ] Volume-level editorial consistency review
-- [ ] Translation manifest and final release report
+- [x] Volume-level editorial consistency review — **complete; 110 / 110 PASS**
+- [ ] Translation manifest and final English release report
 
 ## Current boundary
 
@@ -25,18 +25,18 @@
 - Legacy bilingual records preserved unchanged: **110 / 110** under `../volume-1/`
 - Canonical English records: **110 / 110 source-checked**
 - Bilingual-aligned canonical English records: **110 / 110 — PASS**
-- Completed bilingual-alignment range: **0001–0110**
+- Editorially reviewed canonical English records: **110 / 110 — PASS**
 - Alignment-driven English prose/quotation corrections: **4** — 0014, 0043, 0058, 0059
-- Verified canonical English records: **0 / 110**
-- Editorially reviewed canonical English records: **0 / 110**
+- Additional English prose/quotation corrections in editorial pass: **0**
+- Verified/release-certified canonical English records: **0 / 110** pending final release gate
 
-## Alignment reports
+## English QA records
 
-Reports are complete through [`translations/en/alignment/ALIGNMENT_0101_0110.md`](translations/en/alignment/ALIGNMENT_0101_0110.md). The authoritative record-level ledger is [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv); final alignment closure is recorded in [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md).
+Bilingual alignment closes in [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv). The completed volume-level English editorial pass is recorded in [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
 
-The **0101–0110** batch passed with no English prose/quotation correction. It reconfirmed the five great slogans; N. V. N. emotional passage; hunger-report sequence; *Kalki* cultural-welfare, industrial and state-autonomy arguments; the `ஆட்சி / மாட்சி` distinction; Jayaprakash satire; the actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`; opaque `நமப்பார்வதி பதேக்கள்!`; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400.
+The editorial review found no source-aligned English prose/quotation change requiring a canonical record rewrite. It documented the inherited migration-format variation across 0001–0040, 0041–0060 and 0061–0110 and left source-check-era frontmatter untouched where changing it would be bookkeeping-only churn.
 
-## High-value source controls retained across migration
+## High-value source controls retained
 
 - 0002 complete Kamaraj Deepavali quotation; 0010 **Runner Cup**; 0028 printed date **28-12-1968**; 0036 unexpanded **C. P. C.**; 0048 printed `சென்னை. / 10.10.1972`; 0054 figure **6908**; 0058 date **29-05-1973**; 0063 undated; 0068 scan-controlled Bharathidasan verse; 0070 printed English judicial quotation verbatim.
 - 0076–0080 preserve Sixth Finance Commission structure, Periyar analogies/self-critique, `பாடி வீடுகள்` and `கொள்கை மலர்கள்` imagery.
@@ -46,6 +46,6 @@ The **0101–0110** batch passed with no English prose/quotation correction. It 
 
 ## Exact next task
 
-Proceed with the **volume-level English editorial consistency review** required by `VOLUME_PROCESSING_GUIDE.md` §12 across all **110 canonical English records**. Review title/index agreement, translator-note exactness, names, honorifics, places, transliteration, institutions, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and stale status wording without changing political meaning, attribution, uncertainty, figures, quotations, rhetorical force or appended Tamil.
+Prepare the **final translation manifest and English release report**. Inventory exactly one canonical English record for each letter **0001–0110**, validate unique letter IDs and file paths, title/date/source-page agreement, complete Tamil appendices, source-check/alignment/editorial completion and all documented anomalies, then synchronize Volume 1/root release status.
 
-Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` when the review passes. Keep the final translation manifest, release report and release declaration blocked until that editorial gate is complete.
+Do not modify the legacy `volumes/volume-1/` tree or bulk-rewrite canonical records solely to change source-check-era status fields.
