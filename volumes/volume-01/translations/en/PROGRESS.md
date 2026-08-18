@@ -3,10 +3,12 @@
 - Legacy bilingual records available: **110 / 110**
 - Canonically migrated English records: **110 / 110**
 - Source-checked under current workflow: **110 / 110**
-- Bilingual-aligned under current workflow: **0 / 110**
+- Bilingual-aligned under current workflow: **20 / 110**
 - Verified under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
 - Completed canonical English range: **0001–0110**
+- Completed bilingual-alignment range: **0001–0020**
+- Alignment-driven English prose corrections: **1**
 - Tamil structural audit: **PASS — complete**
 - Tamil full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
 - Cumulative scan-proven Tamil corrections: **159 canonical pages / 274 spans**
@@ -84,12 +86,20 @@ The batch preserves:
 - 0109 — actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`, Kavitha/DMK allegory and opaque `நமப்பார்வதி பதேக்கள்!` without reconstruction;
 - 0110 — Sambasivam meeting, full 1949 *கயிற்றில் தொங்கிய கணபதி* quotation, flower/fragrance argument, Malaya/Ceylon migration critique, source `தமிழகமே!!!!`, and PDF-400 close `(01-12-1974)`.
 
-All canonical English records **0001–0110** remain `source-checked`; source-check completion alone does not promote them to final/release-ready status. Every record contains the full canonical Tamil witness. At this boundary:
+All canonical English records **0001–0110** remain `source-checked`; source-check completion alone does not promote them to final/release-ready status. Every record contains the full canonical Tamil witness.
 
-- `quality_controls.source_checked: true`
-- `quality_controls.full_tamil_included: true`
-- `quality_controls.bilingual_alignment_checked: false`
-- `quality_controls.editorial_consistency_checked: false`
+## Bilingual-alignment gate
+
+Alignment is now complete through **0020 / 110**. The dedicated ledger under [`alignment/`](alignment/) is authoritative for this gate:
+
+- [`alignment/ALIGNMENT_0001_0010.md`](alignment/ALIGNMENT_0001_0010.md) — PASS, 0 English prose corrections;
+- [`alignment/ALIGNMENT_0011_0020.md`](alignment/ALIGNMENT_0011_0020.md) — PASS after 1 English prose correction;
+- [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv) — record-level alignment ledger;
+- [`alignment/PROGRESS.md`](alignment/PROGRESS.md) — current gate boundary.
+
+The single alignment-driven correction so far is in **0014**, where two consecutive Tamil statements had been compressed into one English sentence. The corrected English restores the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife.
+
+Source-check-era frontmatter is not bulk-rewritten merely for bookkeeping; the dedicated alignment ledger records reviewed PASS status. No aligned record is thereby promoted to `verified` or editorially reviewed status.
 
 ## Source-check gate closure
 
@@ -97,4 +107,4 @@ The canonical English migration/source-check gate is **COMPLETE — 110 / 110**.
 
 ## Exact next task
 
-Begin the dedicated **bilingual alignment review** across canonical English letters **0001–0110**. Compare each English translation directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and set `quality_controls.bilingual_alignment_checked: true` only after a record passes. Keep the volume-level editorial consistency review, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.
+Continue the dedicated bilingual-alignment review with canonical English letters **0021–0030**. Compare each English translation directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and record PASS/corrections in `alignment/ALIGNMENT_0021_0030.md` plus the manifest. Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.
