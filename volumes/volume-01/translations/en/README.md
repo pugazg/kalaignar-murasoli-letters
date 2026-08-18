@@ -1,39 +1,30 @@
 # Volume 1 — English canonical migration workspace
 
-Status: **SOURCE-CHECK COMPLETE — BILINGUAL ALIGNMENT COMPLETE 110 / 110 — volume-level editorial consistency is the active next gate.**
+Status: **SOURCE-CHECK COMPLETE — BILINGUAL ALIGNMENT COMPLETE — EDITORIAL CONSISTENCY COMPLETE — final manifest/release report is the active next gate.**
 
-Tamil structural and full visual/textual-fidelity gates are complete and PASS. Legacy bilingual records under `../../../volume-1/translations/en/` remain preserved and are draft evidence only.
+Tamil structural and full visual/textual-fidelity gates are complete and PASS. Legacy bilingual records under `../../../volume-1/translations/en/` remain preserved and are draft/provenance evidence only.
 
-Canonical migration/source check is complete for **0001–0110 (110 / 110)**. Bilingual alignment is also complete for **0001–0110 (110 / 110 PASS)**. These records remain `source-checked`, not `verified`.
+Canonical migration/source checking is complete for **0001–0110 (110 / 110)**. Bilingual alignment is complete for **0001–0110 (110 / 110 PASS)**. The volume-level editorial consistency review is complete for **110 / 110** records. These records are not yet final release-certified merely because individual source-check-era frontmatter remains unchanged.
 
-## Bilingual-alignment gate — complete
+## Completed English QA gates
 
-Eleven ten-letter batches passed:
+- Source check: **110 / 110**
+- Bilingual alignment: **110 / 110 PASS**
+- Alignment-driven English prose/quotation corrections: **4** — 0014, 0043, 0058 and 0059
+- Volume-level editorial consistency: **110 / 110 PASS**
+- Additional canonical English prose/quotation corrections in editorial pass: **0**
+- Canonical Tamil edits in editorial pass: **0**
 
-- 0001–0010 — PASS — 0 corrections
-- 0011–0020 — PASS after 1 correction in 0014
-- 0021–0030 — PASS — 0
-- 0031–0040 — PASS — 0
-- 0041–0050 — PASS after 1 correction in 0043
-- 0051–0060 — PASS after 2 corrections in 0058 and 0059
-- 0061–0070 — PASS — 0
-- 0071–0080 — PASS — 0
-- 0081–0090 — PASS — 0
-- 0091–0100 — PASS — 0
-- 0101–0110 — PASS — 0
+See [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv), [`alignment/PROGRESS.md`](alignment/PROGRESS.md), [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md), [`EDITORIAL_REVIEW_HANDOVER.md`](EDITORIAL_REVIEW_HANDOVER.md) and [`GLOSSARY.md`](GLOSSARY.md).
 
-Final alignment total: **110 / 110**, completed range **0001–0110**, cumulative English prose/quotation corrections **4**. The alignment report/manifest workspace under [`alignment/`](alignment/) is authoritative; canonical translation records were not bulk-rewritten solely for source-check-era frontmatter.
+The editorial pass preserves source-sensitive controls including 0063's undated status, 0070's source-printed English judicial quotation, the 0109 contents/heading variant and opaque source wording, and the complete 0110 quotation through PDF 400.
 
-Completed alignment reports now run through [`alignment/ALIGNMENT_0101_0110.md`](alignment/ALIGNMENT_0101_0110.md). See [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv), [`alignment/PROGRESS.md`](alignment/PROGRESS.md), and [`GLOSSARY.md`](GLOSSARY.md).
+### Migration-format note
 
-The final **0101–0110** batch required no English content change. Important controls reconfirmed include the five great slogans; N. V. N.; hunger-report chronology; *Kalki* cultural-welfare, industrial and state-autonomy arguments; `ஆட்சி / மாட்சி`; Jayaprakash satire; actual PDF-392 title `அவள் ஒரு தொடர்கதை!`; opaque `நமப்பார்வதி பதேக்கள்!`; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400.
+The canonical English corpus contains inherited presentation phases. Records 0001–0040 use the early migration schema with the shared standard translator note; 0041–0060 use a compact schema without a record-local translator-note block; 0061–0110 use later letter-specific notes. This format variation is documented in the editorial review and does not alter the completed source-check/alignment results. Canonical files are not bulk-rewritten merely to churn workflow frontmatter or inject new post-alignment explanatory prose.
 
 ## Exact next gate activity
 
-Proceed with the **volume-level English editorial consistency review** required by `VOLUME_PROCESSING_GUIDE.md` §12 across all 110 canonical English records. Review title/index agreement, translator-note exactness and stale wording, names, honorifics, place names, transliteration, institutions, abbreviations, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and status wording.
+Prepare the **final translation manifest and English release report**. The release inventory must contain exactly one record for each letter **0001–0110**, validate unique IDs and file paths, titles, dates, PDF/printed ranges, complete Tamil appendices, the completed QA gates and documented source anomalies, and then synchronize Volume 1/root release status.
 
-Editorial work must not alter political meaning, argument order, attribution, uncertainty, figures, quotations, rhetorical force, source status or appended Tamil. Correct only demonstrable editorial-consistency issues; do not churn all 110 files merely to normalize frontmatter.
-
-Create [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) when the review passes.
-
-Keep the final translation manifest, release report and release declaration blocked until the editorial-consistency gate is complete.
+Do not modify the legacy `volumes/volume-1/` tree. Release certification must be recorded in dedicated release artifacts rather than inferred from stale per-file source-check-era status fields.
