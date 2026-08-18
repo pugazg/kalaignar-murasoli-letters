@@ -2,8 +2,8 @@
 
 - Canonical English records: **110 / 110**
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **60 / 110**
-- Completed alignment range: **0001–0060**
+- Alignment-reviewed and PASS: **70 / 110**
+- Completed alignment range: **0001–0070**
 - Alignment-driven English prose/quotation corrections: **4**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
@@ -44,17 +44,21 @@ Scope: canonical letters **0041–0050**, source PDF / printed pages **178–213
 
 Report: [`ALIGNMENT_0051_0060.md`](ALIGNMENT_0051_0060.md)
 
-Scope: canonical letters **0051–0060**, source PDF / printed pages **214–249**.
+Scope: canonical letters **0051–0060**, source PDF / printed pages **214–249**. Two demonstrable correspondence corrections were made:
 
-All ten records passed direct English ↔ canonical-Tamil alignment. Two demonstrable correspondence corrections were made:
-
-- **0058** — restored the Tamil sequence of the opening lineated worker verse, keeping the source-checked wording but no longer moving the `நிறையுழைப்புத் தோள்கள்` image ahead of the village/canal imagery;
+- **0058** — restored the Tamil sequence of the opening lineated worker verse;
 - **0059** — restored the omitted `அன்புள்ள,` in R. M. Veerappan's inset quotation as **“With affection,”** before `Veerappan.`.
 
-Controls reconfirmed across the batch include the earthen-lamp/Anna quotation in 0051; memorial/state-autonomy/anti-Hindi material in 0052; Dindigul by-election in 0053; source figure **6908** in 0054; `அரிதாரம்` argument in 0055; Assembly figures **166 / 152** and Rajaji precedent in 0056; Rickshaw Fund appeal in 0057; source date **29-05-1973** in 0058; R. M. Veerappan's **22 April 1972** inset letter in 0059; and the 31 May 1973 plane-crash chronology in 0060.
+### 0061–0070 — PASS
+
+Report: [`ALIGNMENT_0061_0070.md`](ALIGNMENT_0061_0070.md)
+
+Scope: canonical letters **0061–0070**, source PDF / printed pages **250–276**. All ten records passed direct English ↔ canonical-Tamil alignment with **no English prose/quotation correction required**.
+
+Controls reconfirmed across the batch include the Kanyakumari/Rajya Sabha correspondence and `என் நெஞ்சும் கல்லாகவில்லை!` in 0061; the complete impossible-news satire in 0062; undated status and registered-letter evidence in 0063; C. Subramaniam irony in 0064; membership/roof-tile/fingernail imagery in 0065; Anna's 15-1-1969 letter and state-autonomy formulation in 0066; grotesque political allegory in 0067; scan-controlled Bharathidasan verse and `கனைக்கும் உரிமை` in 0068; Veera Vanchi/Maniyachi and PDF 274 `இலாக்காக்களில்` in 0069; and the verbatim printed English judicial quotation in 0070.
 
 ## Exact next task
 
-Align canonical English letters **0061–0070** against their complete canonical Tamil witnesses, covering source PDF / printed pages **250–276**. Correct only demonstrable correspondence errors and record the batch result in `ALIGNMENT_0061_0070.md` plus the manifest.
+Align canonical English letters **0071–0080** against their complete canonical Tamil witnesses, covering source PDF / printed pages **277–297**. Correct only demonstrable correspondence errors and record the batch result in `ALIGNMENT_0071_0080.md` plus the manifest.
 
 Do not begin volume-level editorial consistency, final manifest, release report or final release declaration yet.
