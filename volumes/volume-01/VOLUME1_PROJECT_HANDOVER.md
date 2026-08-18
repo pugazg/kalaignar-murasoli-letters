@@ -74,20 +74,7 @@ Canonical English migration/source checking is complete:
 - each canonical record contains the complete canonical Tamil witness
 - all records remain `source-checked`, not `verified`
 
-Important retained source controls include:
-
-- 0002 complete Kamaraj Deepavali quotation from PDF 030;
-- 0010 scan-supported **Runner Cup** (`ரன்னர்`), not stale legacy `Rainer`;
-- 0018 deliberate source censorship preserved without reconstruction;
-- 0019 PDF-099 material restored, including Anna's `ரத்தத்தின் ரத்தம் / சதையின் சதை` reply and Morarji Desai's Hindi statement;
-- 0028 source-printed date **28-12-1968** retained over conflicting legacy metadata;
-- 0036 `சி. பி. சி.` / **C. P. C.** left unexpanded;
-- 0037 scan-supported title `தூங்குவோமா?`;
-- 0048 printed `சென்னை. / 10.10.1972` retained without inferred composition date;
-- 0063 left undated because the source prints no date;
-- 0070 printed English judicial quotation retained verbatim;
-- 0109 actual PDF-392 heading `அவள் ஒரு தொடர்கதை!` controls over the contents variant, and opaque `நமப்பார்வதி பதேக்கள்!` remains unreconstructed;
-- 0110 preserves the full 1949 *கயிற்றில் தொங்கிய கணபதி* quotation and closes on PDF 400 with `(01-12-1974)`.
+Important retained source controls include complete Kamaraj material in 0002; **Runner Cup** in 0010; restored PDF-099 material in 0019; source date **28-12-1968** in 0028; unexpanded **C. P. C.** in 0036; printed `சென்னை. / 10.10.1972` in 0048; source figure **6908** in 0054; undated 0063; verbatim printed English judicial quotation in 0070; actual PDF-392 heading and unreconstructed opaque wording in 0109; and the full 1949 quotation through PDF 400 in 0110.
 
 ## Active gate — bilingual alignment
 
@@ -97,12 +84,13 @@ Completed batches:
 - **0011–0020** — PDF **067–104** — PASS after 1 English prose correction
 - **0021–0030** — PDF **105–135** — PASS — 0 English prose corrections
 - **0031–0040** — PDF **136–177** — PASS — 0 English prose corrections
+- **0041–0050** — PDF **178–213** — PASS after 1 English prose correction
 
 Current totals:
 
-- alignment-reviewed and PASS: **40 / 110**
-- completed alignment range: **0001–0040**
-- cumulative alignment-driven English prose corrections: **1**
+- alignment-reviewed and PASS: **50 / 110**
+- completed alignment range: **0001–0050**
+- cumulative alignment-driven English prose corrections: **2**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
 
@@ -112,43 +100,39 @@ Authoritative alignment records:
 - `translations/en/alignment/ALIGNMENT_0011_0020.md`
 - `translations/en/alignment/ALIGNMENT_0021_0030.md`
 - `translations/en/alignment/ALIGNMENT_0031_0040.md`
+- `translations/en/alignment/ALIGNMENT_0041_0050.md`
 - `translations/en/alignment/ALIGNMENT_MANIFEST.csv`
 - `translations/en/alignment/PROGRESS.md`
 - `BILINGUAL_ALIGNMENT_HANDOVER.md`
 
-### Alignment correction made in 0014
+### Alignment corrections made
 
-Tamil contains two consecutive but distinct statements:
+**0014:** Tamil contains separate statements about political swagger and armed violence. The aligned English preserves that distinction and must not be collapsed again.
 
-1. `முண்டா தட்டுதல்-மீசை முறுக்குதல்-அரசியலுக்கு ஏற்றதல்ல!`
-2. `துப்பாக்கி தூக்குதல்-கத்தி எடுத்தல்-காட்டு மிராண்டிகள் கூட கடைப்பிடிக்க அஞ்ச வேண்டிய அரசியல் முறையாகும்!`
+**0043:** Tamil closing `ஒன்று மட்டும் மறவாதே` means **“Do not forget this one thing.”** The earlier English said **“Forget only this one thing,”** reversing the imperative. The canonical English has been corrected to **“Do not forget this one thing:”**. Do not revert it.
 
-The aligned English preserves the distinction: political swagger does not befit politics; raising a gun/drawing a knife is separately condemned as a political method even savages should fear to adopt. Do not revert this correction.
+### Fifth alignment batch — 0041–0050
 
-### Fourth alignment batch — 0031–0040
+All ten records passed after the single 0043 correction. Important controls reconfirmed include:
 
-All ten records passed with no English prose changes. Controls reconfirmed include:
-
-- 0031 — extended *The Hindu* eyewitness quotation and tiger/goat-disguise satire;
-- 0032 — language-issue chronology and Kamaraj/Subramaniam argument;
-- 0033 — Anna-directed anti-Hindi history and medium-of-instruction argument;
-- 0034 — **Eleven Lakhs** memory and Anna's self-destruction warning;
-- 0035 — `கடமை, கண்ணியம், கட்டுப்பாடு`, six-item Anna list and closing stay-awake appeal;
-- 0036 — source initials **C. P. C.** unexpanded;
-- 0037 — `தூங்குவோமா?`, Rajamannar Committee and state-autonomy argument;
-- 0038 — methods of struggle and final membership-enrolment directive;
-- 0039 — Coimbatore General Council/state-autonomy programme;
-- 0040 — P. Kannan chronology, quoted letter, dramatic works and closing Tirukkural.
+- 0041 — Beggars' Rehabilitation Fund and birthday appeal;
+- 0042–0043 — anti-violence sequence, July 15 and Anna's `கத்தியைத் தீட்டாதே! புத்தியைத் தீட்டு!`;
+- 0044 — Gospel epigraph, complete Indira Congress accusation list, Fernandes and `கொங்கணவா?`;
+- 0045–0046 — Madurai conference and state-autonomy imagery, Race Course chronology and hundred-flag campaign;
+- 0047 — `நாடு + அகம் = நாடகம்`, *Silappathikaram*, health/longevity passage and proverb reversal;
+- 0048 — MGR/1972 Executive Committee episode, **25 of 33**, and printed `சென்னை. / 10.10.1972` without inferred replacement date;
+- 0049 — Anna's full 1961 reply and `நெஞ்சகம் / அன்பகம் / அறிவகம்` wordplay;
+- 0050 — *Navasakthi* chronology, collection figures and elephant-pit image.
 
 ## Alignment bookkeeping convention
 
-Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. When a reviewed record requires no content correction, canonical translation files are not rewritten solely to churn source-check-era frontmatter. When a demonstrable correspondence error exists, the English prose is corrected, as in 0014.
+Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. When a reviewed record requires no content correction, canonical translation files are not rewritten solely to churn source-check-era frontmatter. When a demonstrable correspondence error exists, the English prose is corrected.
 
 This bookkeeping convention does **not** promote aligned records to `verified` or release-ready status.
 
 ## Exact next activity
 
-Proceed with bilingual alignment for canonical English letters **0041–0050**, source PDF **178–213**.
+Proceed with bilingual alignment for canonical English letters **0051–0060**, source PDF / printed pages **214–249**.
 
 For each record:
 
@@ -158,12 +142,12 @@ For each record:
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `translations/en/alignment/ALIGNMENT_0041_0050.md`;
-8. append 0041–0050 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-9. advance alignment progress to **50 / 110** only after all ten records pass;
+7. create `translations/en/alignment/ALIGNMENT_0051_0060.md`;
+8. append 0051–0060 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
+9. advance alignment progress to **60 / 110** only after all ten records pass;
 10. update the alignment handover and continuation prompt to the next exact boundary.
 
-Consult `translations/en/SOURCE_CHECK_0041_0050.md` for source controls: Beggars' Rehabilitation Fund; anti-violence sequence; Indira Congress resolution list; Madurai conference material; `நாடு + அகம் = நாடகம்`; MGR/1972 Executive Committee episode and **25 of 33**; printed `சென்னை. / 10.10.1972`; Anna's 1961 reply; and *Navasakthi* chronology/figures.
+Consult `translations/en/SOURCE_CHECK_0051_0060.md` for source controls: earthen-lamp/Anna quotation in 0051; memorial/state-autonomy/anti-Hindi material in 0052; Dindigul by-election in 0053; source figure **6908** in 0054; `அரிதாரம்` argument in 0055; Assembly figures **166 / 152** and Rajaji precedent in 0056; Rickshaw Fund appeal in 0057; source date **29-05-1973** in 0058; R. M. Veerappan inset letter in 0059; and the 31 May 1973 plane-crash chronology in 0060.
 
 ## Gates still blocked
 

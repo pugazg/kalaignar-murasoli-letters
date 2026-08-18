@@ -7,7 +7,7 @@
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Second visual/textual-fidelity verification — **PASS; PDF 001–401 / 401 complete**
 - [x] Legacy English record migration and source checking — **complete; 0001–0110 / 110 source-checked**
-- [ ] Bilingual alignment — **in progress; 0001–0040 / 40 reviewed and PASS**
+- [ ] Bilingual alignment — **in progress; 0001–0050 / 50 reviewed and PASS**
 - [ ] Volume-level editorial consistency review
 - [ ] Translation manifest and final release report
 
@@ -30,9 +30,9 @@
 - Canonically migrated English records: **110 / 110**
 - Canonically source-checked English records: **110 / 110**
 - Completed canonical English range: **0001–0110**
-- Bilingual-aligned canonical English records: **40 / 110**
-- Completed bilingual-alignment range: **0001–0040**
-- Alignment-driven English prose corrections: **1**
+- Bilingual-aligned canonical English records: **50 / 110**
+- Completed bilingual-alignment range: **0001–0050**
+- Alignment-driven English prose corrections: **2** — letters 0014 and 0043
 - Verified canonical English records: **0 / 110**
 - Editorially reviewed canonical English records: **0 / 110**
 
@@ -56,12 +56,16 @@
 - [`translations/en/alignment/ALIGNMENT_0011_0020.md`](translations/en/alignment/ALIGNMENT_0011_0020.md) — **PASS after 1 English prose correction**
 - [`translations/en/alignment/ALIGNMENT_0021_0030.md`](translations/en/alignment/ALIGNMENT_0021_0030.md) — **PASS**, 0 English prose corrections
 - [`translations/en/alignment/ALIGNMENT_0031_0040.md`](translations/en/alignment/ALIGNMENT_0031_0040.md) — **PASS**, 0 English prose corrections
+- [`translations/en/alignment/ALIGNMENT_0041_0050.md`](translations/en/alignment/ALIGNMENT_0041_0050.md) — **PASS after 1 English prose correction**
 - [`translations/en/alignment/ALIGNMENT_MANIFEST.csv`](translations/en/alignment/ALIGNMENT_MANIFEST.csv) — authoritative record-level alignment ledger
 - [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) — active alignment boundary
 
-The single alignment-driven prose correction so far remains in **0014**. The English now preserves the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife.
+Alignment corrections so far:
 
-The **0031–0040** alignment batch required no English prose correction. Important controls reconfirmed include the 0031 *The Hindu* eyewitness quotation, 0033 anti-Hindi/medium-of-instruction argument, 0034 **Eleven Lakhs** memory, unexpanded **C. P. C.** in 0036, scan-supported `தூங்குவோமா?` in 0037, membership directive in 0038, General Council/state-autonomy programme in 0039, and P. Kannan quotation/Tirukkural in 0040.
+- **0014** — preserves Tamil's separation of political swagger from the separately stronger armed-violence condemnation.
+- **0043** — Tamil `ஒன்று மட்டும் மறவாதே` is now correctly rendered **“Do not forget this one thing:”** rather than the earlier opposite imperative **“Forget only this one thing:”**.
+
+The **0041–0050** alignment batch otherwise required no English prose correction. Controls reconfirmed include the Beggars' Rehabilitation Fund appeal; anti-violence sequence; complete Indira Congress accusation list; Madurai conference material; `நாடு + அகம் = நாடகம்`; printed `சென்னை. / 10.10.1972` and **25 of 33** in 0048; Anna's 1961 reply; and *Navasakthi* chronology/figures.
 
 ## High-value source controls retained across migration
 
@@ -74,9 +78,9 @@ The **0031–0040** alignment batch required no English prose correction. Import
 - Letter 0054 follows source figure **6908**; 0058 follows source date **29-05-1973**.
 - Letter 0063 remains undated; 0068 preserves scan-controlled Bharathidasan verse forms; 0070 reproduces the printed English judicial quotation verbatim.
 - Letters 0076–0080 preserve the Sixth Finance Commission structure, Periyar analogies/self-critique, `பாடி வீடுகள்` martial image and `கொள்கை மலர்கள்` victory-garland image.
-- Letters 0081–0090 preserve state-autonomy, Pongal, labour, railway-strike, birthday and organisational imagery, including scan-specific punctuation and wording documented in `SOURCE_CHECK_0081_0090.md`.
-- Letters 0091–0100 preserve the celebrations programme, betrayal/state-autonomy arguments, Kamaraj/*Navasakthi*/*Dinamani* passages, complete police-family lullaby, `மாம்பழ மங்கை`, paired 1799/1972 dates, `முப்பெரும் விழா`, `இரட்டைக்குழல் துப்பாக்கி`, Murasoli Selvam context, and *Kalingattuparani* sequence.
-- Letters 0101–0110 preserve the five great slogans and `வாழ்க / ஒழிக` contrast; N. V. N. emotional passage; all-India hunger-report sequence; *Kalki* memorial and industrial-data arguments; `ஆட்சி / மாட்சி`; Jayaprakash political-fireworks satire; actual PDF-392 title `அவள் ஒரு தொடர்கதை!`; opaque `நமப்பார்வதி பதேக்கள்!`; and the full 1949 *கயிற்றில் தொங்கிய கணபதி* quotation through the PDF-400 close.
+- Letters 0081–0090 preserve state-autonomy, Pongal, labour, railway-strike, birthday and organisational imagery.
+- Letters 0091–0100 preserve celebrations, betrayal/state-autonomy arguments, Kamaraj/*Navasakthi*/*Dinamani* passages, police-family lullaby, `மாம்பழ மங்கை`, paired 1799/1972 dates, `முப்பெரும் விழா`, `இரட்டைக்குழல் துப்பாக்கி`, Murasoli Selvam context and *Kalingattuparani* sequence.
+- Letters 0101–0110 preserve the five great slogans, N. V. N. emotional passage, hunger-report sequence, *Kalki* arguments, industrial data, `ஆட்சி / மாட்சி`, Jayaprakash satire, actual PDF-392 title `அவள் ஒரு தொடர்கதை!`, opaque `நமப்பார்வதி பதேக்கள்!`, and the full 1949 *கயிற்றில் தொங்கிய கணபதி* quotation through PDF 400.
 
 All canonical English records **0001–0110** contain the full canonical Tamil witness. The dedicated alignment ledger records which records have passed bilingual alignment. No aligned record is thereby promoted to `verified` or editorially reviewed status.
 
@@ -86,6 +90,6 @@ The **canonical English migration/source-check gate is complete at 110 / 110**.
 
 ## Exact next task
 
-Continue the dedicated bilingual-alignment review with canonical English letters **0041–0050**, source PDF **178–213**. Compare English directly with the complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0041_0050.md`, append the record-level results to the alignment manifest, and advance alignment progress to **50 / 110** only after all ten records pass.
+Continue the dedicated bilingual-alignment review with canonical English letters **0051–0060**, source PDF / printed pages **214–249**. Compare English directly with the complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0051_0060.md`, append the record-level results to the alignment manifest, and advance alignment progress to **60 / 110** only after all ten records pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.

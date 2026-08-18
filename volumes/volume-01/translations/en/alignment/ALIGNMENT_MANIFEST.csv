@@ -39,3 +39,13 @@ letter_id,alignment_status,bilingual_alignment_checked,english_prose_correction,
 0038,pass,true,false,ALIGNMENT_0031_0040.md
 0039,pass,true,false,ALIGNMENT_0031_0040.md
 0040,pass,true,false,ALIGNMENT_0031_0040.md
+0041,pass,true,false,ALIGNMENT_0041_0050.md
+0042,pass,true,false,ALIGNMENT_0041_0050.md
+0043,pass,true,true,ALIGNMENT_0041_0050.md
+0044,pass,true,false,ALIGNMENT_0041_0050.md
+0045,pass,true,false,ALIGNMENT_0041_0050.md
+0046,pass,true,false,ALIGNMENT_0041_0050.md
+0047,pass,true,false,ALIGNMENT_0041_0050.md
+0048,pass,true,false,ALIGNMENT_0041_0050.md
+0049,pass,true,false,ALIGNMENT_0041_0050.md
+0050,pass,true,false,ALIGNMENT_0041_0050.md

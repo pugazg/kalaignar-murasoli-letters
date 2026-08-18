@@ -25,25 +25,27 @@ Completed alignment batches:
 - **0011–0020** — PASS after 1 English prose correction
 - **0021–0030** — PASS — 0 English prose corrections
 - **0031–0040** — PASS — 0 English prose corrections
+- **0041–0050** — PASS after 1 English prose correction
 
-Exact next batch: **0041–0050**.
+Exact next batch: **0051–0060**.
 
 ## Status recording
 
 The alignment reports and `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Canonical translation files are not rewritten solely to churn source-check-era frontmatter when no content change is required. Their existing source-check metadata may therefore remain unchanged while the dedicated alignment ledger records the completed meaning-level review.
 
-When a demonstrable correspondence error exists, the English prose itself is corrected. Through 0040, one such correction has been required, in **0014**, where two consecutive Tamil statements had been compressed into one English sentence. The aligned text preserves the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife.
+When a demonstrable correspondence error exists, the English prose itself is corrected. Two such corrections have been required through 0050:
 
-No English prose correction was required in either the 0021–0030 or 0031–0040 batches.
+- **0014** — restored the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife;
+- **0043** — corrected the reversed imperative `Forget only this one thing` to `Do not forget this one thing`, following Tamil `ஒன்று மட்டும் மறவாதே`.
 
 This bookkeeping convention does **not** promote any record to `verified` or release-ready status.
 
 ## Current status
 
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **40 / 110**
-- Completed alignment range: **0001–0040**
-- English prose corrections required by alignment so far: **1**
+- Alignment-reviewed and PASS: **50 / 110**
+- Completed alignment range: **0001–0050**
+- English prose corrections required by alignment so far: **2**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
 
@@ -53,6 +55,7 @@ Completed reports:
 - [`ALIGNMENT_0011_0020.md`](ALIGNMENT_0011_0020.md)
 - [`ALIGNMENT_0021_0030.md`](ALIGNMENT_0021_0030.md)
 - [`ALIGNMENT_0031_0040.md`](ALIGNMENT_0031_0040.md)
+- [`ALIGNMENT_0041_0050.md`](ALIGNMENT_0041_0050.md)
 
 Tracking records:
 
@@ -61,6 +64,6 @@ Tracking records:
 
 ## Exact next activity
 
-Align canonical English letters **0041–0050** against their complete canonical Tamil witnesses, source PDF **178–213**. Correct only demonstrable correspondence errors, create `ALIGNMENT_0041_0050.md`, append record-level results to the manifest, and advance progress to **50 / 110** only after all ten records pass.
+Align canonical English letters **0051–0060** against their complete canonical Tamil witnesses, source PDF / printed pages **214–249**. Correct only demonstrable correspondence errors, create `ALIGNMENT_0051_0060.md`, append record-level results to the manifest, and advance progress to **60 / 110** only after all ten records pass.
 
 Volume-level editorial consistency, final manifest, release report and release declaration remain blocked until bilingual alignment reaches **110 / 110**.

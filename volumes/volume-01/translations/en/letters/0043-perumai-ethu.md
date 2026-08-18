@@ -66,7 +66,7 @@ Warrior of action, my heart longs to see your smiling face once more.
 
 When you are here, when Anna lives in your heart, and when I possess the honour of being your Udanpirappu, what is there for us to fear?
 
-Forget only this one thing: our teaching that violence must be rejected is not advice we offer to somebody else. Our pride lies in understanding it ourselves, walking the righteous path, and then saying the same to others. It is pride for Anna who nurtured us, pride for the government we formed, and pride for the rule we established!
+Do not forget this one thing: our teaching that violence must be rejected is not advice we offer to somebody else. Our pride lies in understanding it ourselves, walking the righteous path, and then saying the same to others. It is pride for Anna who nurtured us, pride for the government we formed, and pride for the rule we established!
 
 With affection,
 
