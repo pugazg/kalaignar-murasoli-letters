@@ -50,7 +50,9 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Final letter-text range [`376–400`](translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md) required corrections on **5 pages / 5 spans**, restoring the scan-bold opening salutations for letters 0106–0110 on PDFs 380, 384, 388, 392 and 396. The non-letter [`PDF 401`](translations/en/TEXTUAL_FIDELITY_AUDIT_401.md) back cover required no canonical correction.
 - Letters **0001–0110** have complete second-pass source-page coverage.
 - Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md) and [`translations/en/SOURCE_CHECK_0101_0110.md`](translations/en/SOURCE_CHECK_0101_0110.md).
-- Canonical English records remain **source-checked, not verified**. Bilingual alignment is the next gate; volume-level editorial consistency review and final release work remain later gates.
+- Bilingual alignment: **in progress — 0001–0020 / 20 reviewed and PASS**. See [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`BILINGUAL_ALIGNMENT_HANDOVER.md`](BILINGUAL_ALIGNMENT_HANDOVER.md).
+- Alignment-driven English prose corrections: **1**, in letter 0014. The correction restores the source distinction between political swagger that does not befit politics and the separately stronger condemnation of armed violence.
+- Canonical English records remain **source-checked, not verified**. Volume-level editorial consistency review and final release work remain later gates.
 
 ## Source identity
 
@@ -70,4 +72,6 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Begin the dedicated **bilingual alignment review** across canonical English letters **0001–0110**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and set `quality_controls.bilingual_alignment_checked: true` only for records that pass. Keep `editorial_consistency_checked: false` until the later volume-level editorial-consistency gate. Do not begin the final manifest/release report or declare Volume 1 release-ready before the remaining gates are complete.
+Continue the dedicated bilingual-alignment review with canonical English letters **0021–0030**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0021_0030.md`, append record-level results to the alignment manifest, and advance alignment progress to **30 / 110** only after all ten records pass.
+
+Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.
