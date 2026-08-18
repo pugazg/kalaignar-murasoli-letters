@@ -8,7 +8,7 @@ Controlling source: `Vol1.pdf`, SHA-256 `02eda7e7bb74d6d611351319ea87bc7761df6e9
 
 ## Mandatory startup in a new window
 
-Read the repository processing/transcription/batching/future-work guides, root `PROJECT_HANDOVER.md`, Volume 1 migration/project/alignment handovers, Volume 1 README/PROGRESS/AUDIT/metadata/chapter README, all English `SOURCE_CHECK_*.md` reports, English README/PROGRESS/GLOSSARY and all alignment README/PROGRESS/manifest/reports through `ALIGNMENT_0101_0110.md`. Then inspect current `main`; repository state is authoritative.
+Read the repository processing/transcription/batching/future-work guides, root `PROJECT_HANDOVER.md`, Volume 1 migration/project/alignment handovers, Volume 1 README/PROGRESS/AUDIT/metadata/chapter README, all English `SOURCE_CHECK_*.md` reports, English README/PROGRESS/GLOSSARY, all alignment reports/manifest, and `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Then inspect current `main`; repository state is authoritative.
 
 ## Completed gates — do not restart
 
@@ -19,28 +19,29 @@ Read the repository processing/transcription/batching/future-work guides, root `
 - canonical English migration/source check: **110 / 110**
 - every canonical English record includes complete canonical Tamil
 - bilingual alignment: **110 / 110 PASS**
+- volume-level English editorial consistency: **110 / 110 PASS**
 - legacy bilingual records: **110 / 110**, preserved unchanged
 
-## Bilingual-alignment closure
+## English QA closure so far
 
-All eleven ten-letter batches are complete. Final totals: **110 / 110 PASS**, cumulative English prose/quotation corrections **4** — 0014, 0043, 0058 and 0059. The final 0101–0110 batch required no English content correction.
+The alignment gate completed in eleven ten-letter batches with **4** cumulative English prose/quotation corrections: **0014, 0043, 0058 and 0059**. The editorial consistency pass required **0** additional canonical English prose/quotation corrections and **0** canonical Tamil edits.
 
-The final batch reconfirmed the five great slogans in 0101; N. V. N. emotional passage and self-offering in 0102; hunger-report sequence in 0103; *Kalki* cultural-welfare, industrial and state-autonomy arguments in 0104–0106; `ஆட்சி / மாட்சி` in 0107; Jayaprakash satire in 0108; actual PDF-392 title `அவள் ஒரு தொடர்கதை!` and opaque `நமப்பார்வதி பதேக்கள்!` in 0109; and the complete 1949 `கயிற்றில் தொங்கிய கணபதி` quotation through PDF 400 in 0110.
+The editorial report is [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md). It documents the inherited presentation phases: 0001–0040 early schema with shared standard note; 0041–0060 compact migration schema without record-local note blocks; 0061–0110 later schema with letter-specific notes. Dedicated gate reports are authoritative; canonical records are not mass-rewritten solely to update historical workflow fields.
 
-Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are authoritative. Canonical translation files were not rewritten merely for frontmatter bookkeeping. Alignment completion does not itself make any record `verified`.
+Important controls that remain untouchable include 0028 printed date 28-12-1968; 0048 printed `சென்னை. / 10.10.1972`; 0063 undated status; 0070 verbatim source-printed English judicial quotation; 0109 contents `அவள் ஒரு தொடற்கதை!` versus actual heading `அவள் ஒரு தொடர்கதை!` plus opaque `நமப்பார்வதி பதேக்கள்!`; and 0110's complete 1949 quotation through PDF 400.
 
-## Active gate — volume-level English editorial consistency
+## Active gate — final release artifacts
 
-Verified: **0 / 110**. Editorially reviewed: **0 / 110**.
+Verified/release-certified records remain **0 / 110** until the dedicated release gate is completed.
 
-The exact next activity is the full-volume editorial review required by `VOLUME_PROCESSING_GUIDE.md` §12. Review all 110 canonical English records as one work for title/index agreement, translator-note exactness and stale wording, names, honorifics, places, transliteration, institutions, abbreviations, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and status wording.
+The exact next activity is to prepare the **final translation manifest and English release report**:
 
-Important source controls that must remain untouched include 0063 undated status, 0048 printed `சென்னை. / 10.10.1972`, 0109 contents `அவள் ஒரு தொடற்கதை!` versus actual heading `அவள் ஒரு தொடர்கதை!`, opaque `நமப்பார்வதி பதேக்கள்!`, the source's historical figures and all appended Tamil witnesses.
+1. inventory exactly one canonical English record per letter **0001–0110**;
+2. validate unique letter IDs and unique canonical file paths;
+3. validate title, date, PDF/printed-page range and source path against the canonical records/chapter register;
+4. verify complete `Original Tamil — மூலத் தமிழ்` appendices;
+5. record source-check **110 / 110**, alignment **110 / 110 PASS**, editorial review **110 / 110 PASS**, and the four alignment corrections;
+6. preserve every source anomaly and the PDF 401 non-letter boundary;
+7. create the final English release report and synchronize Volume 1/root status.
 
-Editorial work must not alter political meaning, argument order, attribution, uncertainty, figures, quotations, rhetorical force, source status or appended Tamil.
-
-Create `volumes/volume-01/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` after the review passes and synchronize the English/Volume/root progress records.
-
-## Still blocked
-
-Do not create the final translation manifest, release report or final release declaration until the volume-level editorial consistency review passes.
+Use [`translations/en/EDITORIAL_RELEASE_CHECKLIST.md`](translations/en/EDITORIAL_RELEASE_CHECKLIST.md) as the release checklist. Do not modify the legacy tree or bulk-rewrite canonical files solely for status nomenclature.
