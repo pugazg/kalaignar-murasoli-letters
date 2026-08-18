@@ -52,22 +52,22 @@ Tamil Volume 1 is complete:
 
 Do not restart Tamil migration, structural audit or full-volume fidelity verification.
 
-Canonical English source-check migration is complete through **0080 / 110**. The closed ten-letter batch **0071–0080** is documented in `volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md`.
+Canonical English source-check migration is complete through **0090 / 110**. The closed ten-letter batch **0081–0090** is documented in `volumes/volume-01/translations/en/SOURCE_CHECK_0081_0090.md`.
 
 ## EXACT NEXT ACTIVITY
 
-Migrate and source-check **letters 0081–0090**:
+Migrate and source-check **letters 0091–0100**:
 
-- 0081 — `தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!` — PDF 298–300
-- 0082 — `பொங்கல் உறுதி!` — PDF 301
-- 0083 — `காண வருகிறேன் உன்னை!` — PDF 302–304
-- 0084 — `‘தொய்வு இல்லை! தொடர்க பயணம்!’` — PDF 305–307
-- 0085 — `“எல்லா மலர்களும் ரோஜா மலர்களே!”` — PDF 308–309
-- 0086 — `மே தின வாழ்த்து!` — PDF 310–312
-- 0087 — `‘நமது நிலை’!` — PDF 313–315
-- 0088 — `என் பிறந்த நாளில்...!` — PDF 316–318
-- 0089 — `“மறவாதே!”` — PDF 319–321
-- 0090 — `கோடையிலே...!` — PDF 322–325
+- 0091 — `நமது விழாக்கள்!` — PDF 326–327
+- 0092 — `பயணம் தொடரட்டும்!` — PDF 328–329
+- 0093 — `பிறந்த நாள் விழாவும் மறந்த சில விவரங்களும்!` — PDF 330–334
+- 0094 — `நேரமும் நினைப்பும்!` — PDF 335–338
+- 0095 — `‘மாம்பழ மங்கை!’` — PDF 339–342
+- 0096 — `அதே தேதிகள்!` — PDF 343–344
+- 0097 — `இன்றே தயாராகு!` — PDF 345–346
+- 0098 — `உயர்த்திடுவோம் தோள்!` — PDF 347–350
+- 0099 — `வழி மேல் விழி...` — PDF 351–353
+- 0100 — `அழைக்கிறேன் - வா! அன்பே வா!` — PDF 354–358
 
 Use corresponding legacy English records under `volumes/volume-1/translations/en/letters/` only as reusable drafts/evidence. The verified canonical Tamil and controlling scan are authoritative.
 
@@ -83,12 +83,12 @@ At this gate use:
 
 Do not mark any record `verified` yet.
 
-## BATCH CLOSURE AFTER 0090
+## BATCH CLOSURE AFTER 0100
 
-Only after all canonical English records **0081–0090** are confirmed present and source-checked:
+Only after all canonical English records **0091–0100** are confirmed present and source-checked:
 
-1. create `volumes/volume-01/translations/en/SOURCE_CHECK_0081_0090.md`;
-2. update progress to **90 / 110** canonical English records/source-checked;
+1. create `volumes/volume-01/translations/en/SOURCE_CHECK_0091_0100.md`;
+2. update progress to **100 / 110** canonical English records/source-checked;
 3. synchronise Volume 1 tracking and root status where current conventions require it;
 4. verify all ten files have `full_tamil_included: true` and later-gate flags remain false;
 5. commit coherent changes directly to `main`.
@@ -97,7 +97,7 @@ Only after all canonical English records **0081–0090** are confirmed present a
 
 Do not begin:
 
-- letters 0091 onward until the 0081–0090 batch is properly closed;
+- letters 0101 onward until the 0091–0100 batch is properly closed;
 - bilingual alignment;
 - volume-level editorial consistency review;
 - final translation manifest/release report;
