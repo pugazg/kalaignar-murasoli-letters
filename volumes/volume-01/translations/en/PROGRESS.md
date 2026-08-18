@@ -1,12 +1,12 @@
 # Volume 1 — English Migration Progress
 
 - Legacy bilingual records available: **110 / 110**
-- Canonically migrated English records: **80 / 110**
-- Source-checked under current workflow: **80 / 110**
+- Canonically migrated English records: **90 / 110**
+- Source-checked under current workflow: **90 / 110**
 - Bilingual-aligned under current workflow: **0 / 110**
 - Verified under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
-- Completed canonical English range: **0001–0080**
+- Completed canonical English range: **0001–0090**
 - Tamil structural audit: **PASS — complete**
 - Tamil full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
 - Cumulative scan-proven Tamil corrections: **159 canonical pages / 274 spans**
@@ -19,6 +19,7 @@
   - [`SOURCE_CHECK_0051_0060.md`](SOURCE_CHECK_0051_0060.md)
   - [`SOURCE_CHECK_0061_0070.md`](SOURCE_CHECK_0061_0070.md)
   - [`SOURCE_CHECK_0071_0080.md`](SOURCE_CHECK_0071_0080.md)
+  - [`SOURCE_CHECK_0081_0090.md`](SOURCE_CHECK_0081_0090.md)
 
 ## Canonical English batches completed
 
@@ -60,8 +61,18 @@ For the second half of the batch, 0076 retains the three-sons / Sixth Finance Co
 
 Scan-controlled source forms carried into the full Tamil witnesses include PDF 294 **`அறை கூவல்`**, **`நியாய நெஞ்சும்`** and **`வலிப்பு நோய் ஆவான்...`**, and PDF 297 **`தன்னலமற்ற-கண்ணயராத`**.
 
-All canonical English records through 0080 remain `source-checked`; none is promoted to `verified` until the separate bilingual-alignment review is completed.
+### Letters 0081–0090
+
+The ninth regular ten-letter English batch is migrated and source-checked across PDF / printed pages **298–325**.
+
+The batch preserves the Rajamannar / Sezhiyan–Maran state-autonomy debate and banyan-seed image in 0081; the Pongal stove/pot and shield/bow imagery in 0082; the campaign headlines, repeated corruption rhetoric and cadre-as-weapon imagery in 0083; the budget, rain-cloud, sun and storm-boat argument in 0084; and the internal-election principle that every flower in the movement's garden remains a rose in 0085.
+
+It also preserves the Chicago/May Day and `சமதர்ம சங்கீதம்` sequence in 0086; the railway-strike, federal authority and no-victimisation settlement argument in 0087; the anti-extravagance birthday appeal and `கழகக் குரல்` sequence in 0088; the earthen-lamp, equal-pearls, balance-needle and `சிந்தாமல் சிதறாமல்` imagery in 0089; and the birthday-affection, `கட்டுமரம்`, anti-violence, *Alai Osai* and Kamaraj “cool breeze” satire in 0090.
+
+Source-specific controls include PDF 301 **`“நல்லவர்”(?)களுக்கும்`**; PDF 303 emphasis on repeated **`ஊழல்`** forms; PDF 307 **`இவைகளைத் தான்`**; PDF 309 the full lineated organisational-principles block and **`மலர்கள் தான்`**; PDFs 310–312 mixed no-space hyphenation; PDF 315 **`இது தான்`**; PDF 318 the lineated `கழகக் குரல்` passage; PDF 321 **`சிந்தாமல் சிதறாமல்`**; and PDF 325 **`காமராசரின்`** plus the lineated closing counter-question.
+
+All canonical English records through 0090 remain `source-checked`; none is promoted to `verified` until the separate bilingual-alignment review is completed.
 
 ## Exact next task
 
-Migrate and source-check letters **0081–0090** as the next Volume 1 ten-letter English batch. Preserve the legacy bilingual tree unchanged and use it only as draft evidence; verified canonical Tamil and `Vol1.pdf` remain authoritative. Keep bilingual alignment, editorial consistency review and final release work blocked until canonical English source checking reaches **110 / 110**.
+Migrate and source-check letters **0091–0100** as the next Volume 1 ten-letter English batch. Preserve the legacy bilingual tree unchanged and use it only as draft evidence; verified canonical Tamil and `Vol1.pdf` remain authoritative. Keep bilingual alignment, editorial consistency review and final release work blocked until canonical English source checking reaches **110 / 110**.
