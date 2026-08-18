@@ -30,10 +30,10 @@ Udanpirappē,
 
 Have you ever heard that Rasputin of Russia shed tears until his eyes grew dim for
 
-> the shoulders of tireless labour
-> that bring forth grain through long ploughing,
-> for the little village and its embanked fields,
-> and the good canal that stores the river's water?
+> the little village and its embanked fields,
+> the good canal that stores the river's water,
+> and the shoulders of tireless labour
+> that bring forth grain through long ploughing?
 
 Have you at least read a story saying that the Tsar took the hands
 

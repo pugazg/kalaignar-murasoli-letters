@@ -78,6 +78,8 @@ M. G. R. was expelled from the Kazhagam in October 1972. Yet Mr Veerappan wrote 
 >
 > “When a Kazhagam comrade beats his chest before opponents and declares that our leader is the reflection of Perarignar Anna, it is not empty speech. It is living truth.
 >
+> “With affection,
+>
 > “Veerappan.”
 
 Udanpirappē! R. M. Veerappan wrote this when Mr Rama Subbaiah was appointed to the Legislative Council. Seven or eight months ago, that I respected workers was a living truth in M. G. R.'s circle. Look at it today: truth has fallen mute, and falsehood has set out to tour the town! Such is the world, my dear fellow.

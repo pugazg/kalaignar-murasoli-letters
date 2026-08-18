@@ -18,7 +18,7 @@ The supplied `Vol1.pdf` scan remains the controlling source for this edition.
 
 ## MANDATORY STARTUP
 
-Before making any repository change, read these files completely:
+Before making any repository change, read completely:
 
 1. `VOLUME_PROCESSING_GUIDE.md`
 2. `TRANSCRIPTION_GUIDE.md`
@@ -70,51 +70,43 @@ Completed alignment batches:
 - **0021–0030** — PASS — 0 English prose corrections
 - **0031–0040** — PASS — 0 English prose corrections
 - **0041–0050** — PASS after 1 English prose correction
+- **0051–0060** — PASS after 2 English prose/quotation corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **50 / 110**
-- completed alignment range: **0001–0050**
-- cumulative alignment-driven English prose corrections: **2**
+- alignment-reviewed and PASS: **60 / 110**
+- completed alignment range: **0001–0060**
+- cumulative alignment-driven English prose/quotation corrections: **4**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
 
-Important corrections already made:
+Corrections already made and not to be reverted:
 
-- **0014** preserves Tamil's separate statements on political swagger and armed violence. Do not collapse them.
-- **0043** now correctly renders Tamil `ஒன்று மட்டும் மறவாதே` as **“Do not forget this one thing:”**. Do not revert it to the earlier opposite wording **“Forget only this one thing:”**.
+- **0014** — preserves Tamil's separate statements on political swagger and armed violence.
+- **0043** — `ஒன்று மட்டும் மறவாதே` is **“Do not forget this one thing:”**, not the opposite imperative.
+- **0058** — opening worker-centred verse restored to Tamil sequence; village/field and canal imagery precede the `நிறையுழைப்புத் தோள்கள்` image.
+- **0059** — R. M. Veerappan's inset letter now restores Tamil `அன்புள்ள,` as **“With affection,”** before `Veerappan.`.
 
 Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Do not bulk-rewrite canonical translation records merely to churn source-check-era frontmatter. Rewrite a canonical record at this gate only when a demonstrable English/Tamil correspondence correction is required.
 
-## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0051–0060
+## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0061–0070
 
-Align canonical English letters **0051–0060**, source PDF / printed pages **214–249**, against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
+Align canonical English letters **0061–0070**, source PDF / printed pages **250–276**, against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
 
 For every record:
 
 1. compare English directly with the complete canonical Tamil witness and canonical chapter/page evidence where necessary;
-2. verify substantive coverage, thought order, paragraph and quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity;
+2. verify substantive coverage, thought order, paragraph/verse/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity;
 3. preserve Kalaignar's thought order, rhetorical force, imagery and movement vocabulary;
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0051_0060.md`;
-8. append 0051–0060 to `ALIGNMENT_MANIFEST.csv`;
-9. update alignment progress to **60 / 110** only after all ten records pass;
+7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0061_0070.md`;
+8. append 0061–0070 to `ALIGNMENT_MANIFEST.csv`;
+9. update alignment progress to **70 / 110** only after all ten records pass;
 10. update the bilingual-alignment handover and this continuation prompt to the next exact boundary.
 
-Source controls already documented in `SOURCE_CHECK_0051_0060.md` include:
-
-- 0051 — earthen-lamp journey metaphor, personal Muthu/mother passage, Anna's extended reform-without-humiliation quotation, Sampath parallel and Nanjil Manoharan line;
-- 0052 — Anna memorial appeal, cadre labour as reply “ink,” state-autonomy and anti-Hindi passages, memorial pledge and Kattabomman/Ettappan warning;
-- 0053 — Dindigul by-election, shifting candidate affiliations, welfare examples, hand-rickshaw and eyesight-programme arguments, rhythmic closing exhortation;
-- 0054 — A. C. George satire, serpent/Garuda anecdote and source-verified figure **6908**;
-- 0055 — post-Dindigul resignation argument, Mujibur Rahman/Awami League comparison, Banka/Kerala examples, Bharathidasan references and `அரிதாரம்` image;
-- 0056 — Assembly figures **166 / 152**, Rajaji/Aruppukkottai precedent and political-civility close;
-- 0057 — fiftieth-birthday Rickshaw Fund appeal and request to substitute contributions for travel/garlands/posters;
-- 0058 — worker-centred verse, deliberately impossible historical comparisons, fan-club/Kazhagam-worker turn and source date **29-05-1973**;
-- 0059 — movement/cadre history, welfare references and inset R. M. Veerappan letter dated **22 April 1972**;
-- 0060 — 31 May 1973 plane-crash account, telephone chronology, Mohan Kumaramangalam/Gurnam Singh/Baladhandayutham memories and source close **02-06-1973**.
+Read `SOURCE_CHECK_0061_0070.md` before the batch. Important source controls include **0063 remaining undated**, scan-controlled Bharathidasan forms in **0068**, PDF 274 `இலாக்காக்களில்` in **0069**, and the printed English judicial quotation in **0070**, which must remain verbatim.
 
 Do not treat a source-checked record as automatically bilingual-aligned. Do not mark any record `verified` at this gate.
 
@@ -129,4 +121,4 @@ Do not begin yet:
 
 Those remain blocked until bilingual alignment reaches **110 / 110**.
 
-Proceed directly with letters **0051–0060**; do not merely describe what should be done.
+Proceed directly with letters **0061–0070**; do not merely describe what should be done.

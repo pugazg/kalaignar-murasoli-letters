@@ -11,7 +11,7 @@ The controlling order remains:
 3. canonical English under `volumes/volume-01/translations/en/letters/`;
 4. alignment reports and tracking records in this directory.
 
-The canonical English migration/source-check gate is already complete at **110 / 110**. Bilingual alignment is a separate meaning-level review. It checks argument sequence, substantive coverage, paragraph and quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and source anomalies.
+The canonical English migration/source-check gate is complete at **110 / 110**. Bilingual alignment is a separate meaning-level review. It checks argument sequence, substantive coverage, paragraph/verse/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and source anomalies.
 
 Only demonstrable correspondence errors are corrected at this gate. Stylistic rewriting is deferred to the later editorial-consistency gate.
 
@@ -26,26 +26,29 @@ Completed alignment batches:
 - **0021–0030** — PASS — 0 English prose corrections
 - **0031–0040** — PASS — 0 English prose corrections
 - **0041–0050** — PASS after 1 English prose correction
+- **0051–0060** — PASS after 2 English prose/quotation corrections
 
-Exact next batch: **0051–0060**.
+Exact next batch: **0061–0070**.
 
 ## Status recording
 
 The alignment reports and `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Canonical translation files are not rewritten solely to churn source-check-era frontmatter when no content change is required. Their existing source-check metadata may therefore remain unchanged while the dedicated alignment ledger records the completed meaning-level review.
 
-When a demonstrable correspondence error exists, the English prose itself is corrected. Two such corrections have been required through 0050:
+When a demonstrable correspondence error exists, the English prose/quotation itself is corrected. Four such corrections have been required through 0060:
 
-- **0014** — restored the source distinction between political swagger that does not befit politics and the separately stronger condemnation of raising a gun or drawing a knife;
-- **0043** — corrected the reversed imperative `Forget only this one thing` to `Do not forget this one thing`, following Tamil `ஒன்று மட்டும் மறவாதே`.
+- **0014** — restored the distinction between political swagger and the separately stronger condemnation of armed violence;
+- **0043** — corrected `Forget only this one thing` to `Do not forget this one thing`, following Tamil `ஒன்று மட்டும் மறவாதே`;
+- **0058** — restored the source sequence of the opening lineated worker verse;
+- **0059** — restored the omitted `அன்புள்ள,` in R. M. Veerappan's inset letter as `With affection,` before the signature.
 
 This bookkeeping convention does **not** promote any record to `verified` or release-ready status.
 
 ## Current status
 
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **50 / 110**
-- Completed alignment range: **0001–0050**
-- English prose corrections required by alignment so far: **2**
+- Alignment-reviewed and PASS: **60 / 110**
+- Completed alignment range: **0001–0060**
+- English prose/quotation corrections required by alignment so far: **4**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
 
@@ -56,6 +59,7 @@ Completed reports:
 - [`ALIGNMENT_0021_0030.md`](ALIGNMENT_0021_0030.md)
 - [`ALIGNMENT_0031_0040.md`](ALIGNMENT_0031_0040.md)
 - [`ALIGNMENT_0041_0050.md`](ALIGNMENT_0041_0050.md)
+- [`ALIGNMENT_0051_0060.md`](ALIGNMENT_0051_0060.md)
 
 Tracking records:
 
@@ -64,6 +68,6 @@ Tracking records:
 
 ## Exact next activity
 
-Align canonical English letters **0051–0060** against their complete canonical Tamil witnesses, source PDF / printed pages **214–249**. Correct only demonstrable correspondence errors, create `ALIGNMENT_0051_0060.md`, append record-level results to the manifest, and advance progress to **60 / 110** only after all ten records pass.
+Align canonical English letters **0061–0070** against their complete canonical Tamil witnesses, source PDF / printed pages **250–276**. Correct only demonstrable correspondence errors, create `ALIGNMENT_0061_0070.md`, append record-level results to the manifest, and advance progress to **70 / 110** only after all ten records pass.
 
 Volume-level editorial consistency, final manifest, release report and release declaration remain blocked until bilingual alignment reaches **110 / 110**.
