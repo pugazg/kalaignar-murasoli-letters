@@ -33,9 +33,9 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
 - Letters **0001–0110** have complete second-pass source-page coverage.
 - Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md).
-- Bilingual alignment: **in progress — 0001–0070 / 70 reviewed and PASS**. See [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`BILINGUAL_ALIGNMENT_HANDOVER.md`](BILINGUAL_ALIGNMENT_HANDOVER.md).
+- Bilingual alignment: **in progress — 0001–0080 / 80 reviewed and PASS**. See [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`BILINGUAL_ALIGNMENT_HANDOVER.md`](BILINGUAL_ALIGNMENT_HANDOVER.md).
 - Alignment-driven English prose/quotation corrections: **4**, in letters **0014, 0043, 0058 and 0059**.
-- Alignment batch **0061–0070**: **PASS with no English prose/quotation correction required**. Source controls including undated 0063, scan-controlled Bharathidasan forms in 0068, PDF 274 `இலாக்காக்களில்` in 0069 and the verbatim printed English judicial quotation in 0070 were reconfirmed.
+- Alignment batch **0071–0080**: **PASS with no English prose/quotation correction required**. Controls including the Time Capsule wordplay, source-ordered Bharathidasan verse, Corporation allegory, closing Kural, fundraising sequence, Sixth Finance Commission structure, Periyar victory/self-critique, `பாடி வீடுகள்` and `கொள்கை மலர்கள்` imagery were reconfirmed.
 - Canonical English records remain **source-checked, not verified**. Volume-level editorial consistency review and final release work remain later gates.
 
 ## Source identity
@@ -56,6 +56,6 @@ The earlier work is intentionally not deleted or silently rewritten. See:
 
 ## Exact next task
 
-Continue the dedicated bilingual-alignment review with canonical English letters **0071–0080**, source PDF / printed pages **277–297**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0071_0080.md`, append record-level results to the alignment manifest, and advance alignment progress to **80 / 110** only after all ten records pass.
+Continue the dedicated bilingual-alignment review with canonical English letters **0081–0090**, source PDF / printed pages **298–325**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0081_0090.md`, append record-level results to the alignment manifest, and advance alignment progress to **90 / 110** only after all ten records pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.

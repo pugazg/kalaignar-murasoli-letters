@@ -18,7 +18,7 @@ Legacy tree `volumes/volume-1/` remains preserved and must not be rewritten.
 
 ## Active gate — bilingual alignment
 
-Seven regular alignment batches are complete:
+Eight regular alignment batches are complete:
 
 - **0001–0010** — PDF **024–066** — PASS — 0 English prose corrections
 - **0011–0020** — PDF **067–104** — PASS after 1 English prose correction
@@ -27,11 +27,12 @@ Seven regular alignment batches are complete:
 - **0041–0050** — PDF **178–213** — PASS after 1 English prose correction
 - **0051–0060** — PDF **214–249** — PASS after 2 English prose/quotation corrections
 - **0061–0070** — PDF **250–276** — PASS — 0 English prose/quotation corrections
+- **0071–0080** — PDF **277–297** — PASS — 0 English prose/quotation corrections
 
 Current gate totals:
 
-- alignment-reviewed and PASS: **70 / 110**
-- completed range: **0001–0070**
+- alignment-reviewed and PASS: **80 / 110**
+- completed range: **0001–0080**
 - cumulative alignment-driven English prose/quotation corrections: **4**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
@@ -45,6 +46,7 @@ Reports:
 - `translations/en/alignment/ALIGNMENT_0041_0050.md`
 - `translations/en/alignment/ALIGNMENT_0051_0060.md`
 - `translations/en/alignment/ALIGNMENT_0061_0070.md`
+- `translations/en/alignment/ALIGNMENT_0071_0080.md`
 - ledger: `translations/en/alignment/ALIGNMENT_MANIFEST.csv`
 - progress: `translations/en/alignment/PROGRESS.md`
 
@@ -57,18 +59,18 @@ The review compares every English translation with its complete canonical Tamil 
 - **0058:** restored the Tamil sequence of the opening worker-centred verse.
 - **0059:** restored the omitted `அன்புள்ள,` in R. M. Veerappan's inset letter as **`With affection,`** before `Veerappan.`.
 
-The **0061–0070** batch required no English prose/quotation correction. Important controls reconfirmed include:
+The **0071–0080** batch required no English prose/quotation correction. Important controls reconfirmed include:
 
-- 0061 — Kanyakumari correspondence, 1972 Rajya Sabha letter, “a thousand salutations,” Gopalapuram political-deity reversal and `என் நெஞ்சும் கல்லாகவில்லை!`;
-- 0062 — complete deliberately impossible satirical-news sequence without factual normalisation;
-- 0063 — Harishchandra/Jambulingam, rattle imagery, registered-letter evidence and **undated source status**;
-- 0064 — C. Subramaniam/prohibition/hereditary-education/Krishnagiri/Woodlands/Cooum sequence;
-- 0065 — membership drive, organisation structure, roof-tile and fingernail analogies, ideals and final name check;
-- 0066 — Anna's **15-1-1969** last letter, 1971 manifesto, state autonomy and closing rights slogan;
-- 0067 — grotesque political allegory, land-ceiling accusation and source `போடுபவர்கள்.-` punctuation;
-- 0068 — scan-controlled Bharathidasan verse forms and **`“கனைக்கும் உரிமை”`**;
-- 0069 — Veera Vanchi/Maniyachi request, paper-shortage joke and PDF 274 `இலாக்காக்களில்`;
-- 0070 — student-history/judicial-inquiry argument and the printed English judicial quotation reproduced verbatim.
+- 0071 — Becosules / B-Complex ingredient list and Time Capsule / `காலக் கருவூலம்` wordplay;
+- 0072 — Bharathidasan's source-ordered 1942 verse, student movement argument and `நீர் இடித்து நீர் விலகாது` close;
+- 0073 — Corporation dissolution, former mayor/councillor arrests and bird/nest/snake/chicks allegory;
+- 0074 — Bhaktavatsalam's statement, openness to criticism and the closing Thirukkural;
+- 0075 — Madurai/Ramanathapuram/Tiruchirappalli/Salem fundraising sequence and repeated second-person declarations;
+- 0076 — three-sons analogy, Sixth Finance Commission structure and force of `தட்டிக் கேட்கும்`;
+- 0077 — Periyar's objective/method distinction, posthumous praise and `வெற்றி அறுவடை` image;
+- 0078 — self-critical caste enumeration, full-length-mirror test and `இல்லை! அவர் வென்றிடவில்லை!`;
+- 0079 — `பாடி வீடுகள்` as military camps, more than one million members as soldiers, plus blood-vessel/convulsive-disease and hand-lamp images;
+- 0080 — office as labour, `தன்னலமற்ற-கண்ணயராத` work and `கொள்கை மலர்கள்` gathered into a victory garland for Anna.
 
 ## Alignment metadata convention
 
@@ -78,7 +80,7 @@ This convention does not promote any record to `verified` or release-ready statu
 
 ## Exact next activity
 
-Proceed with bilingual alignment for **0071–0080**, source PDF / printed pages **277–297**.
+Proceed with bilingual alignment for **0081–0090**, source PDF / printed pages **298–325**.
 
 For each record:
 
@@ -86,11 +88,11 @@ For each record:
 2. check substantive coverage, sequence, paragraph/verse/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology and attribution;
 3. correct only demonstrable English/Tamil correspondence errors;
 4. preserve `Udanpirappē` and established movement vocabulary;
-5. record PASS/corrections in `translations/en/alignment/ALIGNMENT_0071_0080.md`;
+5. record PASS/corrections in `translations/en/alignment/ALIGNMENT_0081_0090.md`;
 6. append rows to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-7. update `translations/en/alignment/PROGRESS.md` to **80 / 110** only after all ten records pass.
+7. update `translations/en/alignment/PROGRESS.md` to **90 / 110** only after all ten records pass.
 
-Consult `translations/en/SOURCE_CHECK_0071_0080.md` before review. Important source controls include the Becosules/Time Capsule wordplay in 0071; Bharathidasan verse in 0072; smile/sigh contrast in 0073; closing Thirukkural in 0074; fundraising and lineated declarations in 0075; Sixth Finance Commission structure in 0076; Periyar victory/self-critique arguments in 0077–0078; `பாடி வீடுகள்` martial imagery in 0079; and `கொள்கை மலர்கள்` victory-garland image in 0080.
+Consult `translations/en/SOURCE_CHECK_0081_0090.md` before review. Important controls include the **8,226-word** Rajamannar/state-autonomy report in 0081; Pongal stove/pot imagery in 0082; campaign-headline and cadre rhetoric in 0083; budget and journey images in 0084; all-flowers-are-roses internal-election image in 0085; Chicago/eight-hour-day and labour measures in 0086; railway-strike Centre/State asymmetry in 0087; birthday-fund redirection in 0088; earthen-lamp/equal-pearls/balance-needle organisational imagery in 0089; and Tamil–Malayali violence/cyclone/Kamaraj material in 0090.
 
 ## Still blocked
 

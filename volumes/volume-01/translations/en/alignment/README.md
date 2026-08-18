@@ -28,29 +28,30 @@ Completed alignment batches:
 - **0041–0050** — PASS after 1 English prose correction
 - **0051–0060** — PASS after 2 English prose/quotation corrections
 - **0061–0070** — PASS — 0 English prose/quotation corrections
+- **0071–0080** — PASS — 0 English prose/quotation corrections
 
-Exact next batch: **0071–0080**.
+Exact next batch: **0081–0090**.
 
 ## Status recording
 
 The alignment reports and `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Canonical translation files are not rewritten solely to churn source-check-era frontmatter when no content change is required. Their existing source-check metadata may therefore remain unchanged while the dedicated alignment ledger records the completed meaning-level review.
 
-When a demonstrable correspondence error exists, the English prose/quotation itself is corrected. Four such corrections have been required through 0070:
+When a demonstrable correspondence error exists, the English prose/quotation itself is corrected. Four such corrections have been required through 0080:
 
 - **0014** — restored the distinction between political swagger and the separately stronger condemnation of armed violence;
 - **0043** — corrected `Forget only this one thing` to `Do not forget this one thing`, following Tamil `ஒன்று மட்டும் மறவாதே`;
 - **0058** — restored the source sequence of the opening lineated worker verse;
 - **0059** — restored the omitted `அன்புள்ள,` in R. M. Veerappan's inset letter as `With affection,` before the signature.
 
-The **0061–0070** batch required no canonical English content change.
+The **0061–0070** and **0071–0080** batches required no canonical English content change.
 
 This bookkeeping convention does **not** promote any record to `verified` or release-ready status.
 
 ## Current status
 
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **70 / 110**
-- Completed alignment range: **0001–0070**
+- Alignment-reviewed and PASS: **80 / 110**
+- Completed alignment range: **0001–0080**
 - English prose/quotation corrections required by alignment so far: **4**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
@@ -64,6 +65,7 @@ Completed reports:
 - [`ALIGNMENT_0041_0050.md`](ALIGNMENT_0041_0050.md)
 - [`ALIGNMENT_0051_0060.md`](ALIGNMENT_0051_0060.md)
 - [`ALIGNMENT_0061_0070.md`](ALIGNMENT_0061_0070.md)
+- [`ALIGNMENT_0071_0080.md`](ALIGNMENT_0071_0080.md)
 
 Tracking records:
 
@@ -72,6 +74,8 @@ Tracking records:
 
 ## Exact next activity
 
-Align canonical English letters **0071–0080** against their complete canonical Tamil witnesses, source PDF / printed pages **277–297**. Correct only demonstrable correspondence errors, create `ALIGNMENT_0071_0080.md`, append record-level results to the manifest, and advance progress to **80 / 110** only after all ten records pass.
+Align canonical English letters **0081–0090** against their complete canonical Tamil witnesses, source PDF / printed pages **298–325**. Correct only demonstrable correspondence errors, create `ALIGNMENT_0081_0090.md`, append record-level results to the manifest, and advance progress to **90 / 110** only after all ten records pass.
+
+Important source controls for the next batch are documented in `../SOURCE_CHECK_0081_0090.md`, including the Rajamannar Committee/state-autonomy structure in 0081; Pongal imagery in 0082; campaign rhetoric in 0083; budget and journey imagery in 0084; internal-election rose imagery in 0085; May Day/labour material in 0086; railway-strike state/centre asymmetry in 0087; birthday redirection in 0088; organisational lamp/pearls/balance imagery in 0089; and the summer/cyclone/Tamil–Malayali violence sequence in 0090.
 
 Volume-level editorial consistency, final manifest, release report and release declaration remain blocked until bilingual alignment reaches **110 / 110**.

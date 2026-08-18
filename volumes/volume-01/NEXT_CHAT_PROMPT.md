@@ -72,11 +72,12 @@ Completed alignment batches:
 - **0041–0050** — PASS after 1 English prose correction
 - **0051–0060** — PASS after 2 English prose/quotation corrections
 - **0061–0070** — PASS — 0 English prose/quotation corrections
+- **0071–0080** — PASS — 0 English prose/quotation corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **70 / 110**
-- completed alignment range: **0001–0070**
+- alignment-reviewed and PASS: **80 / 110**
+- completed alignment range: **0001–0080**
 - cumulative alignment-driven English prose/quotation corrections: **4**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
@@ -86,13 +87,13 @@ Corrections already made and not to be reverted:
 - **0014** — preserves Tamil's separate statements on political swagger and armed violence.
 - **0043** — `ஒன்று மட்டும் மறவாதே` is **“Do not forget this one thing:”**, not the opposite imperative.
 - **0058** — opening worker-centred verse restored to Tamil sequence; village/field and canal imagery precede the `நிறையுழைப்புத் தோள்கள்` image.
-- **0059** — R. M. Veerappan's inset letter now restores Tamil `அன்புள்ள,` as **“With affection,”** before `Veerappan.`.
+- **0059** — R. M. Veerappan's inset letter restores Tamil `அன்புள்ள,` as **“With affection,”** before `Veerappan.`.
 
-The 0061–0070 batch required no English content correction. Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Do not bulk-rewrite canonical translation records merely to churn source-check-era frontmatter. Rewrite a canonical record at this gate only when a demonstrable English/Tamil correspondence correction is required.
+The 0061–0070 and 0071–0080 batches required no English content correction. Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Do not bulk-rewrite canonical translation records merely to churn source-check-era frontmatter. Rewrite a canonical record at this gate only when a demonstrable English/Tamil correspondence correction is required.
 
-## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0071–0080
+## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0081–0090
 
-Align canonical English letters **0071–0080**, source PDF / printed pages **277–297**, against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
+Align canonical English letters **0081–0090**, source PDF / printed pages **298–325**, against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
 
 For every record:
 
@@ -102,23 +103,23 @@ For every record:
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0071_0080.md`;
-8. append 0071–0080 to `ALIGNMENT_MANIFEST.csv`;
-9. update alignment progress to **80 / 110** only after all ten records pass;
+7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0081_0090.md`;
+8. append 0081–0090 to `ALIGNMENT_MANIFEST.csv`;
+9. update alignment progress to **90 / 110** only after all ten records pass;
 10. update the bilingual-alignment handover and this continuation prompt to the next exact boundary.
 
-Read `SOURCE_CHECK_0071_0080.md` before the batch. Important source controls include:
+Read `SOURCE_CHECK_0081_0090.md` before the batch. Important source controls include:
 
-- **0071** — Becosules / B-Complex capsule wordplay and the politically disputed Time Capsule;
-- **0072** — Bharathidasan verse retained in source-controlled sequence;
-- **0073** — the title's smile/sigh juxtaposition and political/emotional movement;
-- **0074** — Bhaktavatsalam statement and closing Thirukkural;
-- **0075** — Madurai/Ramanathapuram/Tiruchirappalli/Salem fundraising sequence and lineated closing declarations;
-- **0076** — three-sons analogy and Sixth Finance Commission argument, with PDF 287–288 controls;
-- **0077** — Periyar mother/child analogy, methods/objective distinction and `வெற்றி அறுவடை` image;
-- **0078** — deliberate self-critique, caste enumeration, full-length-mirror image and `இல்லை! அவர் வென்றிடவில்லை!`;
-- **0079** — `பாடி வீடுகள்` martial image, branches as camps and members as soldiers;
-- **0080** — office as labour and `கொள்கை மலர்கள்` gathered into a victory garland for Anna.
+- **0081** — Rajamannar Committee / Sezhiyan–Maran sequence, **8,226-word** report and `மாநிலத்தில் சுயாட்சி-மத்தியிலே கூட்டாட்சி`;
+- **0082** — Pongal stove/pot image, Anna's heart capable of bearing anything and shield/bow-and-arrow warning;
+- **0083** — five-item campaign-headline sequence, repeated `ஊழல்`, Russia/Hitler comparison and cadre as warrior/`படைக்கருவி`;
+- **0084** — budget/tax-relief/public-ownership/welfare argument and flour/sweet, rain-cloud, sun and storm-boat imagery;
+- **0085** — internal elections, no permanent factionalism, full principles block and “all flowers are roses” close;
+- **0086** — Chicago/eight-hour-day, Periyar/Anna May Day lineage, labour measures, `சமதர்ம சங்கீதம்` satire and rights slogan;
+- **0087** — May 1974 railway strike, George Fernandes arrest, Centre/State negotiation asymmetry, sabotage warning and no-victimisation settlement;
+- **0088** — fiftieth-birthday celebration restraint, three funds, cultural-programme sequence and redirecting affection to the poor/movement;
+- **0089** — earthen-lamp, equal-pearls and balance-needle organisational images, plus `சிந்தாமல் சிதறாமல்`;
+- **0090** — `மாமருந்து`, cyclone/`கட்டுமரம்`, explicit condemnation of Tamil–Malayali violence, *Alai Osai*, Kamaraj comparison and sarcastic cool-breeze close.
 
 Do not treat a source-checked record as automatically bilingual-aligned. Do not mark any record `verified` at this gate.
 
@@ -133,4 +134,4 @@ Do not begin yet:
 
 Those remain blocked until bilingual alignment reaches **110 / 110**.
 
-Proceed directly with letters **0071–0080**; do not merely describe what should be done.
+Proceed directly with letters **0081–0090**; do not merely describe what should be done.

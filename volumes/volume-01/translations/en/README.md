@@ -1,12 +1,12 @@
 # Volume 1 — English canonical migration workspace
 
-Status: **SOURCE-CHECK COMPLETE — bilingual alignment in progress through 0070 / 110.**
+Status: **SOURCE-CHECK COMPLETE — bilingual alignment in progress through 0080 / 110.**
 
 The Tamil structural and full visual/textual-fidelity gates are complete and PASS. The legacy Volume 1 workspace under [`../../../volume-1/translations/en/`](../../../volume-1/translations/en/) contains **110 bilingual records**; those records remain preserved and are reused only as draft evidence.
 
 Canonical migration/source check is complete for letters **0001–0110 (110 / 110)**. These records remain `source-checked`, not yet `verified`.
 
-The dedicated bilingual-alignment gate is now complete through **0001–0070 (70 / 110)**. Seven ten-letter batches have passed:
+The dedicated bilingual-alignment gate is now complete through **0001–0080 (80 / 110)**. Eight ten-letter batches have passed:
 
 - **0001–0010** — PASS, no English prose correction required;
 - **0011–0020** — PASS after one demonstrable English/Tamil correspondence correction in 0014;
@@ -14,7 +14,8 @@ The dedicated bilingual-alignment gate is now complete through **0001–0070 (70
 - **0031–0040** — PASS, no English prose correction required;
 - **0041–0050** — PASS after one demonstrable English/Tamil correspondence correction in 0043;
 - **0051–0060** — PASS after two demonstrable English/Tamil correspondence corrections in 0058 and 0059;
-- **0061–0070** — PASS, no English prose/quotation correction required.
+- **0061–0070** — PASS, no English prose/quotation correction required;
+- **0071–0080** — PASS, no English prose/quotation correction required.
 
 The alignment report/manifest workspace under [`alignment/`](alignment/) is authoritative for alignment progress. Canonical translation records are not bulk-rewritten solely to churn source-check-era frontmatter when no content correction is required.
 
@@ -40,6 +41,7 @@ See:
 - [`alignment/ALIGNMENT_0041_0050.md`](alignment/ALIGNMENT_0041_0050.md)
 - [`alignment/ALIGNMENT_0051_0060.md`](alignment/ALIGNMENT_0051_0060.md)
 - [`alignment/ALIGNMENT_0061_0070.md`](alignment/ALIGNMENT_0061_0070.md)
+- [`alignment/ALIGNMENT_0071_0080.md`](alignment/ALIGNMENT_0071_0080.md)
 - [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv)
 - [`alignment/PROGRESS.md`](alignment/PROGRESS.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
@@ -53,10 +55,10 @@ Four demonstrable English/Tamil correspondence corrections have been required:
 - **0058** — opening worker-centred verse restored to source sequence; village/field and canal imagery again precede the shoulders-of-labour image.
 - **0059** — R. M. Veerappan's inset letter now restores Tamil `அன்புள்ள,` as **“With affection,”** before his signature.
 
-The **0061–0070** batch passed without English prose/quotation changes. Important controls reconfirmed include the Kanyakumari/Rajya Sabha correspondence and stone-heart wordplay in 0061; the deliberately impossible satire sequence in 0062; undated 0063 and its 19-4-71 registered-letter evidence; C. Subramaniam irony in 0064; membership/organisation and roof-tile/fingernail imagery in 0065; Anna's 15-1-1969 letter and state-autonomy formulation in 0066; grotesque political allegory in 0067; scan-controlled Bharathidasan verse and `கனைக்கும் உரிமை` in 0068; Veera Vanchi/Maniyachi and PDF 274 `இலாக்காக்களில்` in 0069; and the verbatim printed English judicial quotation in 0070.
+The **0071–0080** batch passed without English prose/quotation changes. Important controls reconfirmed include the Becosules/Time Capsule wordplay in 0071; Bharathidasan's verse and student appeal in 0072; Corporation dissolution and bird/nest/snake imagery in 0073; Bhaktavatsalam and the closing Kural in 0074; fundraising sequence and repeated cadre address in 0075; three-sons/Sixth Finance Commission structure in 0076; Periyar victory/self-critique in 0077–0078; `பாடி வீடுகள்` martial imagery in 0079; and `கொள்கை மலர்கள்` victory-garland imagery in 0080.
 
 ## Exact next gate activity
 
-Continue bilingual alignment with canonical letters **0071–0080**, source PDF / printed pages **277–297**. Check English/Tamil correspondence record by record, correct only demonstrable correspondence errors, create `alignment/ALIGNMENT_0071_0080.md`, append the record results to `alignment/ALIGNMENT_MANIFEST.csv`, and advance alignment progress to **80 / 110** only after all ten records pass.
+Continue bilingual alignment with canonical letters **0081–0090**, source PDF / printed pages **298–325**. Check English/Tamil correspondence record by record, correct only demonstrable correspondence errors, create `alignment/ALIGNMENT_0081_0090.md`, append the record results to `alignment/ALIGNMENT_MANIFEST.csv`, and advance alignment progress to **90 / 110** only after all ten records pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.

@@ -85,12 +85,15 @@ Completed batches:
 - **0021–0030** — PDF **105–135** — PASS — 0 English prose corrections
 - **0031–0040** — PDF **136–177** — PASS — 0 English prose corrections
 - **0041–0050** — PDF **178–213** — PASS after 1 English prose correction
+- **0051–0060** — PDF **214–249** — PASS after 2 English prose/quotation corrections
+- **0061–0070** — PDF **250–276** — PASS — 0 English prose/quotation corrections
+- **0071–0080** — PDF **277–297** — PASS — 0 English prose/quotation corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **50 / 110**
-- completed alignment range: **0001–0050**
-- cumulative alignment-driven English prose corrections: **2**
+- alignment-reviewed and PASS: **80 / 110**
+- completed alignment range: **0001–0080**
+- cumulative alignment-driven English prose/quotation corrections: **4**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
 
@@ -101,53 +104,46 @@ Authoritative alignment records:
 - `translations/en/alignment/ALIGNMENT_0021_0030.md`
 - `translations/en/alignment/ALIGNMENT_0031_0040.md`
 - `translations/en/alignment/ALIGNMENT_0041_0050.md`
+- `translations/en/alignment/ALIGNMENT_0051_0060.md`
+- `translations/en/alignment/ALIGNMENT_0061_0070.md`
+- `translations/en/alignment/ALIGNMENT_0071_0080.md`
 - `translations/en/alignment/ALIGNMENT_MANIFEST.csv`
 - `translations/en/alignment/PROGRESS.md`
 - `BILINGUAL_ALIGNMENT_HANDOVER.md`
 
-### Alignment corrections made
+### Alignment corrections made — do not revert
 
-**0014:** Tamil contains separate statements about political swagger and armed violence. The aligned English preserves that distinction and must not be collapsed again.
+- **0014:** Tamil contains separate statements about political swagger and armed violence. The aligned English preserves that distinction.
+- **0043:** Tamil `ஒன்று மட்டும் மறவாதே` means **“Do not forget this one thing.”** The canonical English has been corrected from the earlier opposite imperative.
+- **0058:** the opening worker-centred verse has been restored to Tamil source sequence.
+- **0059:** R. M. Veerappan's inset-letter `அன்புள்ள,` is restored as **“With affection,”** before his signature.
 
-**0043:** Tamil closing `ஒன்று மட்டும் மறவாதே` means **“Do not forget this one thing.”** The earlier English said **“Forget only this one thing,”** reversing the imperative. The canonical English has been corrected to **“Do not forget this one thing:”**. Do not revert it.
-
-### Fifth alignment batch — 0041–0050
-
-All ten records passed after the single 0043 correction. Important controls reconfirmed include:
-
-- 0041 — Beggars' Rehabilitation Fund and birthday appeal;
-- 0042–0043 — anti-violence sequence, July 15 and Anna's `கத்தியைத் தீட்டாதே! புத்தியைத் தீட்டு!`;
-- 0044 — Gospel epigraph, complete Indira Congress accusation list, Fernandes and `கொங்கணவா?`;
-- 0045–0046 — Madurai conference and state-autonomy imagery, Race Course chronology and hundred-flag campaign;
-- 0047 — `நாடு + அகம் = நாடகம்`, *Silappathikaram*, health/longevity passage and proverb reversal;
-- 0048 — MGR/1972 Executive Committee episode, **25 of 33**, and printed `சென்னை. / 10.10.1972` without inferred replacement date;
-- 0049 — Anna's full 1961 reply and `நெஞ்சகம் / அன்பகம் / அறிவகம்` wordplay;
-- 0050 — *Navasakthi* chronology, collection figures and elephant-pit image.
+The **0061–0070** and **0071–0080** batches required no English content correction. Do not rewrite their canonical translation files merely to change source-check-era frontmatter.
 
 ## Alignment bookkeeping convention
 
-Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. When a reviewed record requires no content correction, canonical translation files are not rewritten solely to churn source-check-era frontmatter. When a demonstrable correspondence error exists, the English prose is corrected.
+Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. When a reviewed record requires no content correction, canonical translation files are not rewritten solely to churn source-check-era frontmatter. When a demonstrable correspondence error exists, the English prose/quotation itself is corrected.
 
 This bookkeeping convention does **not** promote aligned records to `verified` or release-ready status.
 
 ## Exact next activity
 
-Proceed with bilingual alignment for canonical English letters **0051–0060**, source PDF / printed pages **214–249**.
+Proceed with bilingual alignment for canonical English letters **0081–0090**, source PDF / printed pages **298–325**.
 
 For each record:
 
 1. compare English directly against the complete canonical Tamil witness and canonical chapter/page evidence where needed;
-2. check substantive coverage, thought order, paragraph/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity;
+2. check substantive coverage, thought order, paragraph/verse/quotation correspondence, names, dates, figures, lists, metaphors, rhetorical questions, repetition, political terminology, attribution and closing integrity;
 3. preserve Kalaignar's voice, directness, rhetorical force, imagery and movement vocabulary;
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `translations/en/alignment/ALIGNMENT_0051_0060.md`;
-8. append 0051–0060 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-9. advance alignment progress to **60 / 110** only after all ten records pass;
+7. create `translations/en/alignment/ALIGNMENT_0081_0090.md`;
+8. append 0081–0090 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
+9. advance alignment progress to **90 / 110** only after all ten records pass;
 10. update the alignment handover and continuation prompt to the next exact boundary.
 
-Consult `translations/en/SOURCE_CHECK_0051_0060.md` for source controls: earthen-lamp/Anna quotation in 0051; memorial/state-autonomy/anti-Hindi material in 0052; Dindigul by-election in 0053; source figure **6908** in 0054; `அரிதாரம்` argument in 0055; Assembly figures **166 / 152** and Rajaji precedent in 0056; Rickshaw Fund appeal in 0057; source date **29-05-1973** in 0058; R. M. Veerappan inset letter in 0059; and the 31 May 1973 plane-crash chronology in 0060.
+Consult `translations/en/SOURCE_CHECK_0081_0090.md` for source controls: Rajamannar Committee / **8,226-word** state-autonomy report in 0081; Pongal analogy in 0082; campaign-headline and cadre rhetoric in 0083; budget and journey imagery in 0084; rose/internal-election image in 0085; May Day labour history in 0086; railway-strike Centre/State asymmetry in 0087; birthday-fund redirection in 0088; lamp/pearls/balance-needle imagery in 0089; and Tamil–Malayali violence/cyclone/Kamaraj material in 0090.
 
 ## Gates still blocked
 

@@ -2,8 +2,8 @@
 
 - Canonical English records: **110 / 110**
 - Source-checked: **110 / 110**
-- Alignment-reviewed and PASS: **70 / 110**
-- Completed alignment range: **0001–0070**
+- Alignment-reviewed and PASS: **80 / 110**
+- Completed alignment range: **0001–0080**
 - Alignment-driven English prose/quotation corrections: **4**
 - Verified: **0 / 110**
 - Editorially reviewed: **0 / 110**
@@ -55,10 +55,16 @@ Report: [`ALIGNMENT_0061_0070.md`](ALIGNMENT_0061_0070.md)
 
 Scope: canonical letters **0061–0070**, source PDF / printed pages **250–276**. All ten records passed direct English ↔ canonical-Tamil alignment with **no English prose/quotation correction required**.
 
-Controls reconfirmed across the batch include the Kanyakumari/Rajya Sabha correspondence and `என் நெஞ்சும் கல்லாகவில்லை!` in 0061; the complete impossible-news satire in 0062; undated status and registered-letter evidence in 0063; C. Subramaniam irony in 0064; membership/roof-tile/fingernail imagery in 0065; Anna's 15-1-1969 letter and state-autonomy formulation in 0066; grotesque political allegory in 0067; scan-controlled Bharathidasan verse and `கனைக்கும் உரிமை` in 0068; Veera Vanchi/Maniyachi and PDF 274 `இலாக்காக்களில்` in 0069; and the verbatim printed English judicial quotation in 0070.
+### 0071–0080 — PASS
+
+Report: [`ALIGNMENT_0071_0080.md`](ALIGNMENT_0071_0080.md)
+
+Scope: canonical letters **0071–0080**, source PDF / printed pages **277–297**. All ten records passed direct English ↔ canonical-Tamil alignment with **no English prose/quotation correction required**.
+
+Controls reconfirmed across the batch include the Becosules/Time Capsule wordplay in 0071; source-ordered Bharathidasan verse and student appeal in 0072; Corporation dissolution and bird/nest/snake imagery in 0073; Bhaktavatsalam and the closing Thirukkural in 0074; fundraising sequence and lineated cadre declarations in 0075; the three-sons/Sixth Finance Commission structure in 0076; Periyar's victory and self-critical follow-up in 0077–0078; `பாடி வீடுகள்` as a martial governing image in 0079; and `கொள்கை மலர்கள்` gathered into a victory garland for Anna in 0080.
 
 ## Exact next task
 
-Align canonical English letters **0071–0080** against their complete canonical Tamil witnesses, covering source PDF / printed pages **277–297**. Correct only demonstrable correspondence errors and record the batch result in `ALIGNMENT_0071_0080.md` plus the manifest.
+Align canonical English letters **0081–0090** against their complete canonical Tamil witnesses, covering source PDF / printed pages **298–325**. Correct only demonstrable correspondence errors and record the batch result in `ALIGNMENT_0081_0090.md` plus the manifest.
 
 Do not begin volume-level editorial consistency, final manifest, release report or final release declaration yet.
