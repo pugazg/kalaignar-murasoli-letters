@@ -70,38 +70,15 @@ Do not restart Tamil migration, structural audit, or the completed full-volume f
 
 Canonical English migration/source checking is now complete through:
 
-- **0001–0080 / 110**
+- **0001–0090 / 110**
 
-The ten-letter batch **0071–0080** is closed and documented in:
+The ten-letter batch **0081–0090** is closed and documented in:
 
-`volumes/volume-01/translations/en/SOURCE_CHECK_0071_0080.md`
+`volumes/volume-01/translations/en/SOURCE_CHECK_0081_0090.md`
 
-All canonical English records through 0080 are `source-checked`, not `verified`. They include the full canonical Tamil witness. Bilingual alignment and editorial consistency remain later gates.
+All canonical English records through 0090 are `source-checked`, not `verified`. They include the full canonical Tamil witness. Bilingual alignment and editorial consistency remain later gates.
 
-The completed 0071–0080 batch includes:
-
-- 0071 — `காலக் கருவூலம்!` — PDF 277–278
-- 0072 — `ஒன்று சொல்க!` — PDF 279–280
-- 0073 — `புன்னகையும் பெருமூச்சும்!` — PDF 281–282
-- 0074 — `குறள் மறவோம்!` — PDF 283–284
-- 0075 — `உன் எதிரே!` — PDF 285–286
-- 0076 — `தட்டிக் கேட்கலாமா?` — PDF 287–288
-- 0077 — `பெரியாரின் வெற்றி!` — PDF 289–290
-- 0078 — `நம்மை வென்றாரா?` — PDF 291–292
-- 0079 — `இருபதாயிரம் பாடி வீடுகள்!` — PDF 293–295
-- 0080 — `கொள்கை மலர்கள்` — PDF 296–297
-
-Important semantic/source decisions in the just-closed batch:
-
-- 0076 retains the three-sons analogy and Sixth Finance Commission argument.
-- 0077 retains the mother/child analogy and the distinction between Periyar's objective and method.
-- 0078 retains the self-critical caste turn and the question whether Periyar has truly won over those who profess agreement.
-- 0079 retains `பாடி வீடுகள்` as a martial camps metaphor rather than neutralising it into administrative offices; PDF 294 controls `அறை கூவல்`, `நியாய நெஞ்சும்` and `வலிப்பு நோய் ஆவான்...`.
-- 0080 retains the `கொள்கை மலர்கள்` / victory-garland image for Anna; PDF 297 controls `தன்னலமற்ற-கண்ணயராத`.
-
-## Exact next activity
-
-Continue canonical English migration/source checking with **letters 0081–0090**:
+The completed 0081–0090 batch includes:
 
 - 0081 — `தெள்ளிய ஆலின் சிறு பழத்தொரு விதை!` — PDF 298–300
 - 0082 — `பொங்கல் உறுதி!` — PDF 301
@@ -114,18 +91,46 @@ Continue canonical English migration/source checking with **letters 0081–0090*
 - 0089 — `“மறவாதே!”` — PDF 319–321
 - 0090 — `கோடையிலே...!` — PDF 322–325
 
+Important semantic/source decisions in the just-closed batch:
+
+- 0081 retains the Rajamannar / Sezhiyan–Maran sequence, 8,226-word report and banyan-seed metaphor for state autonomy.
+- 0082 retains the Pongal stove/pot metaphor and the shield / bow-and-arrow warning; PDF 301 controls `“நல்லவர்”(?)களுக்கும்`.
+- 0083 retains the campaign-headline sequence, repeated `ஊழல்` rhetoric and cadre-as-`படைக்கருவி` martial image.
+- 0084 retains the budget argument and the flour/sweet, rain-cloud, sun and storm-boat images; `திருவள்ளுவர் ஆலயம்` is rendered directly as a Thiruvalluvar shrine.
+- 0085 retains the internal-election principle that the contest is not ideological conflict and every movement flower remains a rose.
+- 0086 retains the Chicago/May Day history, labour measures, `சமதர்ம சங்கீதம்` satire and rights/friendship pledge.
+- 0087 retains the railway-strike negotiation argument, Centre/State authority contrast and proposed no-victimisation settlement.
+- 0088 retains the anti-extravagance birthday request, three funds, `கழகக் குரல்` and poor-person's-smile sequence.
+- 0089 retains the earthen-lamp, equal-pearls, balance-needle and `சிந்தாமல் சிதறாமல்` images.
+- 0090 retains the birthday-affection / `கட்டுமரம்` sequence, explicit anti-violence position, *அலைஓசை* passage and Kamaraj “cool breeze” satire; PDF 325 controls `காமராசரின்`.
+
+## Exact next activity
+
+Continue canonical English migration/source checking with **letters 0091–0100**:
+
+- 0091 — `நமது விழாக்கள்!` — PDF 326–327
+- 0092 — `பயணம் தொடரட்டும்!` — PDF 328–329
+- 0093 — `பிறந்த நாள் விழாவும் மறந்த சில விவரங்களும்!` — PDF 330–334
+- 0094 — `நேரமும் நினைப்பும்!` — PDF 335–338
+- 0095 — `‘மாம்பழ மங்கை!’` — PDF 339–342
+- 0096 — `அதே தேதிகள்!` — PDF 343–344
+- 0097 — `இன்றே தயாராகு!` — PDF 345–346
+- 0098 — `உயர்த்திடுவோம் தோள்!` — PDF 347–350
+- 0099 — `வழி மேல் விழி...` — PDF 351–353
+- 0100 — `அழைக்கிறேன் - வா! அன்பே வா!` — PDF 354–358
+
+Use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l00xx.en.md` only as reusable draft/evidence. The verified canonical Tamil pages/chapters and controlling scan remain authoritative.
+
 For each record:
 
-1. treat the verified canonical Tamil pages/chapters and controlling scan as authoritative;
-2. use the corresponding legacy `volumes/volume-1/translations/en/letters/m1-l00xx.en.md` only as reusable draft/evidence;
-3. source-check for omissions, mistranslations, OCR-derived errors, title/date errors, rhetorical flattening, altered metaphors and political-language drift;
-4. preserve Kalaignar's voice, thought order, repetition, metaphors and movement vocabulary;
-5. retain `Udanpirappē` where established by project convention;
-6. include the full canonical Tamil witness;
-7. use `translation_status: source-checked`, `quality_controls.source_checked: true`, `quality_controls.full_tamil_included: true`;
-8. leave `bilingual_alignment_checked: false` and `editorial_consistency_checked: false`.
+1. source-check for omissions, mistranslations, OCR-derived errors, title/date errors, rhetorical flattening, altered metaphors and political-language drift;
+2. preserve Kalaignar's voice, thought order, repetition, metaphors and movement vocabulary;
+3. retain `Udanpirappē` where established by project convention;
+4. include the full canonical Tamil witness;
+5. use `translation_status: source-checked`, `quality_controls.source_checked: true`, `quality_controls.full_tamil_included: true`;
+6. leave `bilingual_alignment_checked: false` and `editorial_consistency_checked: false`.
 
-After 0081–0090 are complete, create `SOURCE_CHECK_0081_0090.md`, update tracking to **90 / 110**, and identify 0091–0100 as the next source-check batch.
+After 0091–0100 are complete, create `SOURCE_CHECK_0091_0100.md`, update tracking to **100 / 110**, and identify 0101–0110 as the final source-check batch.
 
 ## Gates still blocked
 
