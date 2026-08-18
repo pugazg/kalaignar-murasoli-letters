@@ -40,9 +40,10 @@ Before making any repository change, read these files completely:
 14. all `volumes/volume-01/translations/en/SOURCE_CHECK_*.md` reports
 15. `volumes/volume-01/translations/en/README.md`
 16. `volumes/volume-01/translations/en/PROGRESS.md`
-17. `volumes/volume-01/translations/en/alignment/PROGRESS.md`
-18. `volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv`
-19. existing `volumes/volume-01/translations/en/alignment/ALIGNMENT_*.md` reports
+17. `volumes/volume-01/translations/en/alignment/README.md`
+18. `volumes/volume-01/translations/en/alignment/PROGRESS.md`
+19. `volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv`
+20. existing `volumes/volume-01/translations/en/alignment/ALIGNMENT_*.md` reports
 
 Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or historical status paragraphs. If bilingual-alignment work has already been started beyond the recorded boundary, continue it rather than duplicating or overwriting it.
 
@@ -70,11 +71,12 @@ Completed alignment batches:
 
 - **0001–0010** — PASS — 0 English prose corrections
 - **0011–0020** — PASS after 1 English prose correction
+- **0021–0030** — PASS — 0 English prose corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **20 / 110**
-- completed alignment range: **0001–0020**
+- alignment-reviewed and PASS: **30 / 110**
+- completed alignment range: **0001–0030**
 - cumulative alignment-driven English prose corrections: **1**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
@@ -83,11 +85,19 @@ Important correction already made:
 
 - **0014** now preserves Tamil's separate statements that aggressive political swagger does not befit politics and that raising a gun/drawing a knife is a separately stronger condemnation. Do not revert or collapse those two statements.
 
+Important controls reconfirmed in the 0021–0030 batch:
+
+- 0021 preserves the full Tamil Nadu renaming chronology, legislative quotations, literary examples and closing `நெருஞ்சி முள்` image;
+- 0027 preserves the explicit source position that wrongdoing is not answered by wrongdoing;
+- 0028 preserves **43**, **13 arrests**, Gopalakrishna Naidu context and source-printed date **28-12-1968**;
+- 0029 observes the timing of the two Hindi-news reports but does **not** assert causation with certainty;
+- 0030 preserves the Nijalingappa/Haryana/Mysore sequence and ruined-hall/bats satire.
+
 Dedicated alignment reports plus `ALIGNMENT_MANIFEST.csv` are the authoritative gate ledger. Do not bulk-rewrite canonical translation records merely to churn source-check-era frontmatter. A canonical record should be rewritten at this gate only when a demonstrable English/Tamil correspondence correction is required.
 
-## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0021–0030
+## EXACT NEXT ACTIVITY — BILINGUAL ALIGNMENT 0031–0040
 
-Align canonical English letters **0021–0030** against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
+Align canonical English letters **0031–0040** against their complete `Original Tamil — மூலத் தமிழ்` witnesses.
 
 For every record:
 
@@ -97,10 +107,18 @@ For every record:
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0021_0030.md`;
-8. append 0021–0030 to `ALIGNMENT_MANIFEST.csv`;
-9. update alignment progress to **30 / 110** only after all ten records pass;
+7. create `volumes/volume-01/translations/en/alignment/ALIGNMENT_0031_0040.md`;
+8. append 0031–0040 to `ALIGNMENT_MANIFEST.csv`;
+9. update alignment progress to **40 / 110** only after all ten records pass;
 10. update the bilingual-alignment handover and this continuation prompt to the next exact boundary.
+
+Source controls already documented in `SOURCE_CHECK_0031_0040.md` include:
+
+- 0036 — retain `சி. பி. சி.` / `C. P. C.` without speculative expansion;
+- 0037 — follow scan title `தூங்குவோமா?`;
+- 0038 — preserve the membership directive;
+- 0039 — preserve the General Council programme;
+- 0040 — preserve the P. Kannan quotation and Tirukkural material.
 
 Do not treat a source-checked record as automatically bilingual-aligned. Do not mark any record `verified` at this gate.
 
@@ -115,4 +133,4 @@ Do not begin yet:
 
 Those remain blocked until bilingual alignment reaches **110 / 110**.
 
-Proceed directly with letters **0021–0030**; do not merely describe what should be done.
+Proceed directly with letters **0031–0040**; do not merely describe what should be done.

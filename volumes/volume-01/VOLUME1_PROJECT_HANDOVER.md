@@ -50,9 +50,10 @@ Before making any repository change, read completely:
 14. all `volumes/volume-01/translations/en/SOURCE_CHECK_*.md` reports
 15. `volumes/volume-01/translations/en/README.md`
 16. `volumes/volume-01/translations/en/PROGRESS.md`
-17. `volumes/volume-01/translations/en/alignment/PROGRESS.md`
-18. `volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv`
-19. existing `volumes/volume-01/translations/en/alignment/ALIGNMENT_*.md` reports
+17. `volumes/volume-01/translations/en/alignment/README.md`
+18. `volumes/volume-01/translations/en/alignment/PROGRESS.md`
+19. `volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv`
+20. existing `volumes/volume-01/translations/en/alignment/ALIGNMENT_*.md` reports
 
 Then inspect current GitHub `main`. Repository state is authoritative over stale SHAs or older status paragraphs. If bilingual-alignment work exists beyond the recorded boundary, continue it instead of duplicating it.
 
@@ -104,11 +105,12 @@ Completed batches:
 
 - **0001–0010** — PDF **024–066** — PASS — 0 English prose corrections
 - **0011–0020** — PDF **067–104** — PASS after 1 English prose correction
+- **0021–0030** — PDF **105–135** — PASS — 0 English prose corrections
 
 Current totals:
 
-- alignment-reviewed and PASS: **20 / 110**
-- completed alignment range: **0001–0020**
+- alignment-reviewed and PASS: **30 / 110**
+- completed alignment range: **0001–0030**
 - cumulative alignment-driven English prose corrections: **1**
 - verified: **0 / 110**
 - editorially reviewed: **0 / 110**
@@ -117,6 +119,7 @@ Authoritative alignment records:
 
 - `volumes/volume-01/translations/en/alignment/ALIGNMENT_0001_0010.md`
 - `volumes/volume-01/translations/en/alignment/ALIGNMENT_0011_0020.md`
+- `volumes/volume-01/translations/en/alignment/ALIGNMENT_0021_0030.md`
 - `volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv`
 - `volumes/volume-01/translations/en/alignment/PROGRESS.md`
 - `volumes/volume-01/BILINGUAL_ALIGNMENT_HANDOVER.md`
@@ -133,7 +136,19 @@ The earlier English compressed both into one sentence and extended the stronger 
 - slapping one's thighs / twirling one's moustache — these do not befit politics;
 - raising a gun / drawing a knife — these are separately condemned as political methods even savages should fear to adopt.
 
-No other demonstrable English/Tamil correspondence error was found in 0011–0020.
+No other demonstrable English/Tamil correspondence correction has been required through 0030.
+
+### Third alignment batch — 0021–0030
+
+All ten records passed without English prose changes. Controls reconfirmed include:
+
+- 0021 — full `தமிழ் நாடு` renaming chronology, Assembly quotations, literary examples and `நெருஞ்சி முள்` close;
+- 0022–0024 — source abrasive language, personal metaphors, Tirukkural and Anna medical-fund argument retained without unsupported softening or expansion;
+- 0025–0026 — Morarji/Hindi propagation and Shah/`ஆகாஷ்வாணி`–`வானொலி` arguments remain in source order;
+- 0027 — wrongdoing is not answered by wrongdoing;
+- 0028 — source figure **43**, **13** arrests, Gopalakrishna Naidu context and printed date **28-12-1968**;
+- 0029 — timing is observed without asserting causation with certainty;
+- 0030 — Nijalingappa/Haryana/Mysore reports and ruined-hall/bats satire remain aligned.
 
 ## Alignment bookkeeping convention
 
@@ -143,7 +158,7 @@ This bookkeeping convention does **not** promote aligned records to `verified` o
 
 ## Exact next activity
 
-Proceed with bilingual alignment for canonical English letters **0021–0030**.
+Proceed with bilingual alignment for canonical English letters **0031–0040**.
 
 For each record:
 
@@ -153,10 +168,12 @@ For each record:
 4. retain `Udanpirappē` under the established project convention;
 5. do not modernise, normalise, reconstruct or infer unsupported Tamil;
 6. correct only demonstrable English/Tamil correspondence errors;
-7. create `translations/en/alignment/ALIGNMENT_0021_0030.md`;
-8. append 0021–0030 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
-9. advance alignment progress to **30 / 110** only after all ten records pass;
+7. create `translations/en/alignment/ALIGNMENT_0031_0040.md`;
+8. append 0031–0040 to `translations/en/alignment/ALIGNMENT_MANIFEST.csv`;
+9. advance alignment progress to **40 / 110** only after all ten records pass;
 10. update the alignment handover and continuation prompt to the next exact boundary.
+
+Important source controls for this next batch are documented in `translations/en/SOURCE_CHECK_0031_0040.md`: preserve `சி. பி. சி.` / `C. P. C.` without speculative expansion in 0036, scan title `தூங்குவோமா?` in 0037, the membership directive in 0038, General Council programme in 0039, and P. Kannan quotation/Tirukkural in 0040.
 
 ## Gates still blocked
 
