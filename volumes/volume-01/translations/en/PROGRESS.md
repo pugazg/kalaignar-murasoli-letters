@@ -3,11 +3,11 @@
 - Legacy bilingual records available: **110 / 110**
 - Canonically migrated English records: **110 / 110**
 - Source-checked under current workflow: **110 / 110**
-- Bilingual-aligned under current workflow: **60 / 110**
+- Bilingual-aligned under current workflow: **70 / 110**
 - Verified under current workflow: **0 / 110**
 - Editorially reviewed under current workflow: **0 / 110**
 - Completed canonical English range: **0001–0110**
-- Completed bilingual-alignment range: **0001–0060**
+- Completed bilingual-alignment range: **0001–0070**
 - Alignment-driven English prose/quotation corrections: **4**
 - Tamil structural audit: **PASS — complete**
 - Tamil full second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**
@@ -35,7 +35,7 @@ All canonical English records **0001–0110** remain `source-checked`; source-ch
 
 ## Bilingual-alignment gate
 
-Alignment is now complete through **0060 / 110**. The dedicated ledger under [`alignment/`](alignment/) is authoritative:
+Alignment is now complete through **0070 / 110**. The dedicated ledger under [`alignment/`](alignment/) is authoritative:
 
 - [`alignment/ALIGNMENT_0001_0010.md`](alignment/ALIGNMENT_0001_0010.md) — PASS, 0 English prose corrections;
 - [`alignment/ALIGNMENT_0011_0020.md`](alignment/ALIGNMENT_0011_0020.md) — PASS after 1 English prose correction;
@@ -43,6 +43,7 @@ Alignment is now complete through **0060 / 110**. The dedicated ledger under [`a
 - [`alignment/ALIGNMENT_0031_0040.md`](alignment/ALIGNMENT_0031_0040.md) — PASS, 0 English prose corrections;
 - [`alignment/ALIGNMENT_0041_0050.md`](alignment/ALIGNMENT_0041_0050.md) — PASS after 1 English prose correction;
 - [`alignment/ALIGNMENT_0051_0060.md`](alignment/ALIGNMENT_0051_0060.md) — PASS after 2 English prose/quotation corrections;
+- [`alignment/ALIGNMENT_0061_0070.md`](alignment/ALIGNMENT_0061_0070.md) — PASS, 0 English prose/quotation corrections;
 - [`alignment/ALIGNMENT_MANIFEST.csv`](alignment/ALIGNMENT_MANIFEST.csv) — record-level alignment ledger;
 - [`alignment/PROGRESS.md`](alignment/PROGRESS.md) — current gate boundary.
 
@@ -53,7 +54,7 @@ Alignment-driven corrections so far:
 - **0058** — restores the source sequence of the opening worker-centred verse.
 - **0059** — restores R. M. Veerappan's omitted inset-letter `அன்புள்ள,` as **“With affection,”** before his signature.
 
-The **0051–0060** batch otherwise required no English prose changes. It reconfirmed the earthen-lamp/Anna quotation in 0051; Anna memorial/state-autonomy/anti-Hindi material in 0052; Dindigul by-election in 0053; source figure **6908** in 0054; `அரிதாரம்` argument in 0055; **166 / 152** and Rajaji precedent in 0056; Rickshaw Fund appeal in 0057; source date **29-05-1973** in 0058; R. M. Veerappan's **22 April 1972** letter in 0059; and the 31 May 1973 plane-crash sequence in 0060.
+The **0061–0070** batch required no English prose/quotation changes. It reconfirmed the Rajya Sabha/Gopalapuram correspondence in 0061; deliberately impossible satire in 0062; undated 0063 and its registered-letter evidence; C. Subramaniam irony in 0064; membership/organisation imagery in 0065; Anna's 15-1-1969 letter and state-autonomy material in 0066; political allegory in 0067; scan-controlled Bharathidasan verse and `கனைக்கும் உரிமை` in 0068; Veera Vanchi/Maniyachi and PDF 274 `இலாக்காக்களில்` in 0069; and the verbatim printed English judicial quotation in 0070.
 
 Source-check-era frontmatter is not bulk-rewritten merely for bookkeeping; the dedicated alignment ledger records reviewed PASS status. No aligned record is thereby promoted to `verified` or editorially reviewed status.
 
@@ -63,6 +64,6 @@ The canonical English migration/source-check gate is **COMPLETE — 110 / 110**.
 
 ## Exact next task
 
-Continue bilingual alignment with canonical English letters **0061–0070**, source PDF / printed pages **250–276**. Compare each English translation directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and record PASS/corrections in `alignment/ALIGNMENT_0061_0070.md` plus the manifest. Advance alignment progress to **70 / 110** only after all ten records pass.
+Continue bilingual alignment with canonical English letters **0071–0080**, source PDF / printed pages **277–297**. Compare each English translation directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, and record PASS/corrections in `alignment/ALIGNMENT_0071_0080.md` plus the manifest. Advance alignment progress to **80 / 110** only after all ten records pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment is complete.
