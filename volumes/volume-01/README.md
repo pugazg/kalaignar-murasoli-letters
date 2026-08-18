@@ -29,8 +29,12 @@ Regular Volume 1 migration/review iterations use **10 complete consecutive lette
 - Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**.
 - Bilingual alignment: **COMPLETE — 0001–0110 / 110 reviewed and PASS**.
 - Alignment-driven English prose/quotation corrections: **4**, in 0014, 0043, 0058 and 0059.
-- Final alignment batch **0101–0110**: **PASS with no English prose/quotation correction required**.
-- Canonical English records remain **source-checked, not verified**. Volume-level editorial consistency is the next gate; release artifacts remain later.
+- Volume-level English editorial consistency: **COMPLETE — 110 / 110 PASS**.
+- Additional canonical English prose/quotation corrections in editorial pass: **0**.
+- Canonical Tamil edits in editorial pass: **0**.
+- Final translation manifest and release report: **pending — exact next gate**.
+
+The completed editorial review is recorded in [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md). It documents the inherited migration-format variation across 0001–0040, 0041–0060 and 0061–0110 and preserves source-check-era frontmatter where changing it would be bookkeeping-only churn.
 
 ## Source identity
 
@@ -46,6 +50,6 @@ See [`../volume-1/MIGRATION_AUDIT.md`](../volume-1/MIGRATION_AUDIT.md), [`../vol
 
 ## Exact next task
 
-Proceed with the **volume-level English editorial consistency review** required by `VOLUME_PROCESSING_GUIDE.md` §12 across all 110 canonical English records. Review title/index agreement, translator-note exactness, names, honorifics, places, transliteration, institutions, spelling, compounds, punctuation, dates/page ranges, glossary decisions, source anomalies and stale status wording. Do not alter political meaning, attribution, uncertainty, figures, quotations, rhetorical force, source status or appended Tamil.
+Prepare the **final translation manifest and English release report** for all **110 canonical English records**. Verify exactly one manifest row per letter 0001–0110, unique IDs and file paths, title/date/PDF/printed-page agreement, complete Tamil appendices, completed source-check/alignment/editorial gates and documented source anomalies. Then synchronize final Volume 1/root release status.
 
-Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` when the review passes. Keep the final translation manifest, release report and release declaration blocked until the editorial gate is complete.
+Do not bulk-rewrite canonical records merely to normalize historical workflow fields; dedicated gate and release records are authoritative.
