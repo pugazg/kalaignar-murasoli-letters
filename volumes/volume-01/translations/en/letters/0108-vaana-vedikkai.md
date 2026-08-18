@@ -1,0 +1,165 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0108"
+date: 1974-11-17
+title_ta: "வாண வேடிக்கை!"
+title_en: "Political Fireworks!"
+source_pdf_pages: [388, 389, 390, 391]
+source_printed_pages: [388, 389, 390, 391]
+source_chapter: "../../chapters/0108-vaana-vedikkai.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0108 — Political Fireworks!
+
+**Tamil title:** வாண வேடிக்கை!  
+**Date:** 17 November 1974  
+**Source:** PDF 388–391 / printed 388–391  
+**Canonical Tamil chapter:** [`0108-vaana-vedikkai.md`](../../chapters/0108-vaana-vedikkai.md)
+
+## Translator's Note
+
+The title literally evokes a fireworks display, which Kalaignar turns into a metaphor for political spectacle around Jayaprakash Narayan's Bihar movement. He restates his constitutional position that an elected government should ordinarily face judgment at the next election while also insisting that Jayaprakash's grievances deserve direct engagement. His target is political inconsistency: those who agitated to dismiss the DMK now claim to defend democracy, while arguments used for Bihar are contrasted with earlier conduct in Tamil Nadu and Kerala. The Deepavali closing preserves the title's satire.
+
+## English Translation
+
+Udanpirappē,
+
+I have already stated, clearly and on behalf of the movement, our view of the agitation led in Bihar by Jayaprakash Narayan, one of India's most senior leaders.
+
+Some months ago in Bangalore, reporters put several questions to me about the Bihar agitation. I said:
+
+> “A government elected by the people must be allowed to govern for five years. If that government commits errors, they should be placed before the people's forum; one must wait until the next election and change that government through the people's votes. It should not be thought that we hold this view merely because we are now the ruling party in one state. Even when we were in opposition, we conducted agitations only on particular issues; we never conducted an agitation to change the government itself.”
+
+After I announced this view, I was asked, “What would you do if Jayaprakash Narayan came to Tamil Nadu and began an agitation of this kind?” You know my answer:
+
+> “I would discuss directly with him, one of the sacrificial leaders of India, what defects he finds in the Tamil Nadu government. I would act to remove those defects and create a situation in which an agitation was unnecessary.”
+
+That is what I said then, and what I say today.
+
+Here is the amusing part. People who fixed deadlines of “one month, one week, one day, one hour” for toppling our government and conducted their rattling campaigns; people who wandered with petitions to the Governor, the President and the Prime Minister; people who marched upon the homes of legislators with petitions; people who closed shops, threw stones, burnt buses and created disorder at ministers' meetings: these people now propose to conduct an agitation here against Jayaprakash's agitation in Bihar! They call their movement a “Rally to Protect Democracy”!
+
+Like calling a butcher's shop “Vadalur Vallalar Vilas,” or naming a beedi “Vivekananda,” they call this movement a “Democratic Rally”!
+
+Udanpirappē, have you seen how strange these people are? They cannot come to the Assembly and perform their democratic duty toward the people of the constituency that elected them. They come only as far as the outer lobby, occasionally sign the register to draw their salary and avoid losing office, and run away. Today, they burn with eagerness to protect democracy!
+
+Does it not make you want to deliver an elegy: “Alas, democracy! Was this to be your fate?”
+
+Udanpirappē! Jayaprakash spent nine years in prison during the national freedom struggle. While studying at the University of California in the United States, he worked in apple orchards, met his daily expenses from those earnings and lived simply. During the 1942 freedom uprising, he was imprisoned in Hazaribagh Jail. When he escaped, the British government announced a reward of lakhs of rupees for his capture.
+
+History records that a Communist betrayed him at the time.
+
+When Gandhiji asked him to serve as a minister in India's interim government formed in 1945, and when Pandit Nehru asked him in 1948, this man of sacrifice refused.
+
+After the deaths of Nehru and Lal Bahadur Shastri, the office of Prime Minister sought him out. Later, when all parties asked him to stand against Sanjeeva Reddy in the presidential election in place of Giri, he rejected those requests too.
+
+That is the man leading the agitation in Bihar today. And he is met with baton charges and tear gas!
+
+The tongues of those who speak of democracy refuse to rise and say that treating him in this way is wrong!
+
+These are the people who now propose to conduct a nationwide movement to protect democracy!
+
+Here, it is apparently permissible to say, “We shall cut off the Chief Minister's head!” It is permissible to issue a statement saying, “An effigy must be burnt on the Chief Minister's birthday!”
+
+But now, it seems, some dirt has settled under Bihar Chief Minister Ghafoor's toenail. They are going to carry “holy water from Kashi” in procession to wash it! These comic people make one's sides ache with laughter.
+
+Prime Minister Indira Gandhi has declared emphatically, “The Bihar Assembly cannot be dissolved because of Jayaprakash's agitation.”
+
+Had such a declaration been made when the actor and his allied parties agitated for the dissolution of the Tamil Nadu Assembly, we could have praised Madam Indira Gandhi's devotion to democracy.
+
+I am not asking, “The Union government dissolved the Communist government because of Mannath Padmanabhan's agitation in Kerala; why has it not now done the same in Bihar?”
+
+Our question is only this: why did the argument Madam Indira advances for Bihar today not apply to Kerala then?
+
+It was Madam Indira Gandhi herself who went to Kerala, assessed the situation, and recommended to her father, the great Nehru, that the Communist government be dissolved.
+
+Udanpirappē! Have you seen what transformations politics can produce?
+
+From Giri's election to the Krishnagiri election, the leaders of Indira Congress gained victory with DMK support. Now they say they have realised that supporting the DMK in 1971 was a mistake. That is one spectacle!
+
+Those who announced “one agitation every day” here now propose an agitation against the Bihar agitation. That is another spectacle!
+
+Udanpirappē! Even if you set off no fireworks at Deepavali, watch and enjoy these political fireworks!
+
+With affection,
+
+M. K.
+
+17 November 1974
+
+## Original Tamil — மூலத் தமிழ்
+
+# 108. வாண வேடிக்கை!
+
+**உடன்பிறப்பே,**
+
+இந்திய நாட்டு முதுபெரும் தலைவர்களில் ஒருவரான ஜெயப்பிரகாஷ் அவர்கள், பீகார் மாநிலத்தில் தலைமையேற்று நடத்தி வருகின்ற கிளர்ச்சி பற்றி நமது திட்டவட்டமான கருத்தை, ஏற்கெனவே கழகச் சார்பில் நான் எடுத்துக் கூறியிருக்கிறேன்.
+
+பெங்களூரில் சில திங்களுக்கு முன்பு நிருபர்கள் என்னிடத்தில், பீகார் கிளர்ச்சி பற்றிப் பல வினாக்களை எழுப்பினர்.
+
+**“மக்களால் தேர்ந்தெடுக்கப்பட்ட ஓர் அரசு ஐந்தாண்டுக் காலம் ஆட்சி புரிவதற்கு அனுமதிக்கப்பட வேண்டும். அந்த ஆட்சி தவறுகள் செய்தால் அதனை மக்கள் மன்றத்தில் எடுத்துச் சொல்லி...அடுத்த தேர்தல் வரையில் பொறுத்திருந்து மக்களின் வாக்குகளால் அந்த ஆட்சியை மாற்றுவதுதான் முறையாகும். இப்போது நாங்கள் ஆளும் கட்சியாக ஒரு மாநிலத்தில் இருப்பதற்காக இந்தக் கருத்தைக் கொண்டிருப்பதாக எண்ணக் கூடாது. நாங்கள் எதிர்க் கட்சியாக இருந்தபோது கூட சில பிரச்சினைகளின் மீதுதான் கிளர்ச்சிகள் நடத்தினோமே தவிர ஆட்சியை மாற்றுவதற்காக எந்தக் கிளர்ச்சியும் நடத்தவில்லை”**
+
+என்று குறிப்பிட்டேன்.
+
+இந்தக் கருத்தை நான் அறிவித்த பிறகு, ஜெயப்பிரகாஷ் நாராயணன் தமிழ்நாட்டில் வந்து இப்படி ஒரு கிளர்ச்சியைத் தொடங்கினால் என்ன செய்வீர்கள்? என்று என்னிடம் கேட்கப்பட்டது; அதற்கு நான் சொன்ன பதில் உனக்குத் தெரியும்-
+
+**“இந்திய நாட்டுத் தியாகத் தலைவர்களில் ஒருவரான அவர், தமிழ்நாட்டு அரசில் என்ன குறை காணுகிறார் என்பதை அவரிடமே விவாதித்து - அந்தக் குறைகளைப் போக்கத் தக்க நடவடிக்கைகளை எடுத்து-கிளர்ச்சிக்கே தேவையில்லாத ஒரு நிலையை உருவாக்குவேன்”**
+
+என்றுதான் அன்றும் சொன்னேன்-இன்றும் சொல்கிறேன்.
+
+இதில் வேடிக்கை என்னவென்றால், நமது கழக அரசைக் கவிழ்ப்பதற்கு ஒரே மாதம்-ஒரே வாரம்-ஒரே நாள்-ஒரே மணி நேரம் என்றெல்லாம் ‘கெடு’ வைத்து ‘கிடுகிடு’ போராட்டம் நடத்தியவர்கள்-கவர்னரிடம் மகஜர்-ஜனாதிபதியிடம் மகஜர்-பிரதமரிடம் மகஜர்-என்று அலைந்து திரிந்தவர்கள்-சட்டப் பேரவை உறுப்பினர் வீடுகளில் மகஜர் ஊர்வலம் நடத்திப் படை எடுத்தவர்கள்-கடை அடைத்தவர்கள்-கல் வீசியவர்கள்-பேருந்துகளைக் கொளுத்தியவர்கள்-அமைச்சர்களின் கூட்டங்களில் அமளி நடத்தியவர்கள் பீகாரில் நடைபெறும் ஜெயப்பிரகாஷின் போராட்டத்தை எதிர்த்து இங்கே போராட்டம் நடத்தப் போகிறார்களாம்! அந்தப் போராட்ட இயக்கத்திற்குப் பெயர் ‘சனநாயகப் பாதுகாப்புப் பேரணி’யாம்!
+
+‘வடலூர் வள்ளலார் விலாஸ் கசாப்புக் கடை’-‘விவேகானந்தர் பீடி’ என்பது போல், இவர்கள் இயக்கத்திற்கு ‘சனநாயகப் பேரணி’ என்று பெயராம்!
+
+உடன்பிறப்பே-எவ்வளவு விசித்திரமானவர்கள் பார்த்தாயா? தேர்ந்தெடுக்கப்பட்ட தொகுதியின் மக்களுக்கு ஆற்றிட வேண்டிய சனநாயகக் கடமையை, சட்டசபைக்கு வந்து ஆற்றிட இயலாதவர்கள்-சட்டசபை வெளித்தாழ்வாரம் வரையில் வந்து சம்பளத்திற்காகவும் பதவி பறிபோகாமல் இருப்பதற்காகவும் எப்போதாவது கையெழுத்துப் போட்டுவிட்டு ஓடி விடுகிறவர்கள்-இன்றைக்கு, சனநாயகத்தைப் பாதுகாக்கத் துடியாய்த் துடிக்கிறார்கள்!
+
+“அய்யோ சனநாயகமே! உன் தலைவிதி இப்படியா ஆகவேண்டும்?” என்று இரங்கலுரை கூறத் தோன்றுகிறதல்லவா?
+
+உடன்பிறப்பே! தேசிய விடுதலைப் போரின்போது ஒன்பது ஆண்டுகாலம் சிறையில் வாடியவர் ஜெயப்பிரகாஷ்; அமெரிக்க நாட்டுக் கலிபோர்னியா பல்கலைக்கழகத்தில் பயின்றபோதே, ஆப்பிள் தோட்டங்களில் வேலைசெய்து-அதில் கிடைக்கும் வருவாயில் அன்றாடச் செலவுகளைச் செய்துகொண்டு எளிய வாழ்வு வாழ்ந்தவர்; 1942-ஆம் ஆண்டு நாட்டு விடுதலைக் கிளர்ச்சியில், ‘ஹசாரிபாக்’ சிறையில் பூட்டப்பட்டவர்; அங்கிருந்து அவர் தப்பியபோது, அவர் தலைக்கு இலட்சக்கணக்கான ரூபாய்கள் பரிசளிப்பதாக ஆங்கிலேய அரசு அறிவித்தது!
+
+அவரை, அப்போது ஒரு கம்யூனிஸ்டுதான் காட்டிக் கொடுத்ததாக வரலாறு இருக்கிறது!
+
+1945-இல் ஏற்பட்ட இந்திய இடைக்கால அரசில் அமைச்சராகப் பொறுப்பேற்குமாறு காந்தியடிகள் கேட்டுக் கொண்டபோதும்-1948-இல் பண்டித நேரு கேட்டுக்கொண்டபோதும்-அதனை மறுத்துவிட்ட தியாக சீலர்.
+
+நேரு, லால்பகதூர் மறைவுக்குப் பிறகு பிரதமர் பதவி அவரைத் தேடி வந்த போதும்-குடியரசுத் தலைவர் தேர்தலில் சஞ்சீவி ரெட்டியை எதிர்த்து, கிரிக்குப் பதிலாக அவரை நிறுத்துவதற்கு அனைத்துக் கட்சியினரும் வேண்டுகோள் விடுத்த போதும்-அவைகளை நிராகரித்து விட்டவர்!
+
+அவர்தான் இன்று பீகாரில் கிளர்ச்சி நடத்துகிறார். அவர் மீது தடியடிப் பிரயோகம்-கண்ணீர்ப் புகை!
+
+அவர் அப்படி நடத்தப்பட்டது சரியல்ல-என்று கூறிட சனநாயகம் பேசுகிறவர்களின் நா எழ மறுக்கிறது!
+
+இவர்கள்தான் நாடு தழுவிய சனநாயகப் பாதுகாப்பு இயக்கம் நடத்தப் போகிறார்களாம்!
+
+‘இங்குள்ள முதலமைச்சரின் தலையை வெட்டுவோம்’ என்று கூறலாமாம்! ‘முதலமைச்சரின் பிறந்த நாளில் கொடும்பாவி கொளுத்த வேண்டும்’ என்று அறிக்கை விடலாமாம்!
+
+பீகார் முதலமைச்சர் கபூரின் கால்விரல் நகம் அழுக்குப் பட்டு விட்டதாம்! அதைக் கழுவுவதற்கு, ‘காசி தீர்த்தம்’ எடுத்துக் கொண்டு ஊர்வலம் விடப் போகிறார்களாம்! இந்த வேடிக்கை மனிதர்களைக் கண்டால், விலா நோகச் சிரிப்புத்தான் வருகிறது!
+
+“ஜெயப்பிரகாஷின் கிளர்ச்சிக்காக, பீகார் சட்டசபையைக் கலைக்க முடியாது” என்று பிரதமர் இந்திராகாந்தி ஆணித்தரமாக அறிவித்திருக்கிறார்!
+
+இந்த அறிவிப்பு, “தமிழ்நாடு சட்டசபையைக் கலைக்க வேண்டும்” என்று நடிகரும்-அவர்தம் தோழமைக் கட்சியினரும் போராடியபோதும் வந்திருந்தால், அம்மையார் இந்திரா காந்தி அவர்களின் சனநாயகப் பற்றை நாம் பாராட்டியிருக்க முடியும்.
+
+“கேரளத்தில் மன்னத் பத்மனாபன் நடத்திய கிளர்ச்சிக்காகக் கம்யூனிஸ்டு அரசாங்கத்தைக் கலைத்தார்கள் மத்திய அரசினர்! அது போல், இப்போது, பீகாரில் ஏன் கலைக்கவில்லை” என்று நான் கேட்கவில்லை.
+
+“இன்று இந்திரா அம்மையார் பீகாருக்கு எடுத்து வைக்கின்ற வாதம், அன்று கேரளத்திற்கு ஏன் பொருந்தவில்லை” என்பதுதான் நமது சந்தேகம்!
+
+அப்போது கேரளாவுக்குச் சென்று நிலைமையை அறிந்து-‘கம்யூனிஸ்டு அரசைக் கலைக்க வேண்டும்’ என்று தந்தையார் நேரு பெருமகனார் அவர்களிடத்திலே சிபாரிசு செய்தவரே இந்திராகாந்தி அம்மையார்தான்!
+
+உடன்பிறப்பே! அரசியலில் எப்படிப்பட்ட மாற்றங்கள் பார்த்தாயா?
+
+கிரி தேர்தல் முதல் கிருஷ்ணகிரி தேர்தல் வரையில் தி. மு. க.வின் ஆதரவைப் பெற்று வெற்றி கண்ட இந்திரா காங்கிரசின் தலைவர்கள், 1971-இல் தி.மு.க.வை ஆதரித்தது தவறு என்று இப்போது தாங்கள் உணருவதாகப் பேசுகிறார்கள்-அது ஒரு வேடிக்கை!
+
+“ஒரு நாளைக்கு ஒரு போராட்டம்” என்று இங்கே அறிவித்தவர்கள், இன்று பீகார் போராட்டத்தை எதிர்த்து ஒரு போராட்டம் நடத்தப் போவது மற்றொரு வேடிக்கை!
+
+உடன்பிறப்பே! தீபாவளியில் நீ வாண வேடிக்கைகள் நடத்தாவிட்டாலும், இந்த அரசியல் வாண வேடிக்கைகளையாவது கண்டு களித்திடு!
+
+அன்புள்ள,
+
+மு. க.
+
+(17-11-1974)

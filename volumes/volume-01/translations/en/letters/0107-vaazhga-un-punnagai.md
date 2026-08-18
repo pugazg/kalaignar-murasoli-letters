@@ -1,0 +1,189 @@
+---
+record_type: letter_translation
+volume: 1
+letter_id: "0107"
+date: 1974-11-10
+title_ta: "வாழ்க-உன் புன்னகை!"
+title_en: "Long Live Your Smile!"
+source_pdf_pages: [384, 385, 386, 387]
+source_printed_pages: [384, 385, 386, 387]
+source_chapter: "../../chapters/0107-vaazhga-un-punnagai.md"
+translation_status: source-checked
+translation_source: "legacy-volume-1-draft + verified-canonical-tamil"
+quality_controls:
+  source_checked: true
+  full_tamil_included: true
+  bilingual_alignment_checked: false
+  editorial_consistency_checked: false
+---
+
+# 0107 — Long Live Your Smile!
+
+**Tamil title:** வாழ்க-உன் புன்னகை!  
+**Date:** 10 November 1974  
+**Source:** PDF 384–387 / printed 384–387  
+**Canonical Tamil chapter:** [`0107-vaazhga-un-punnagai.md`](../../chapters/0107-vaazhga-un-punnagai.md)
+
+## Translator's Note
+
+Written around N. V. Natarajan's sixty-third birthday, the letter places the DMK's twenty-five years within the longer line of the South Indian Liberal Federation, Self-Respect Movement and Dravidar Kazhagam. Its governing distinction is `ஆட்சி / மாட்சி`: governments come and go, but once a movement loses its dignity or greatness it cannot simply recover it. The close moves from movement history to personal kinship and from tears for departed comrades to the living `Udanpirappē`'s smile.
+
+## English Translation
+
+Udanpirappē,
+
+When we say that our movement is twenty-five years old, the majestic figure of youth in its prime stands before us! That prime is not majestic in appearance alone. It has every mark of youth: a taut and vigorous body, smiling lips, the first stirrings of a young moustache, and restless, eager hands.
+
+Yet thoughtful people in the opposing camp cannot help asking why the youthful beauty of our movement is joined with restraint, a calm outlook and the capacity to endure anything.
+
+Our achievements are concealed! Some run newspapers solely to perform that task. They turn arrows of abuse into writing. Some roam about as masters of speech whose tongues rain barbs upon us.
+
+When slander flies at us, we turn ourselves only into shields that stop it. Paying no heed to degrading words and shafts of irritation, we continue our journey toward our ideals.
+
+What is the reason? There is one fundamental reason. We did not begin a party in order to seize office. Though our movement is only twenty-five years old, we are the messengers of the age of renaissance that arose in Tamil Nadu at the beginning of this century.
+
+No one can deny the light created in this society by the South Indian Liberal Federation, which arose for the oppressed and backward people.
+
+That light may not then have been immense or widespread. But the little spark struck in those days is the original source of the flame we carry in our hands today.
+
+The birth of the Self-Respect Movement gave pride to the bearing of ordinary and middle-class people. Following that social revolution, the South Indian Liberal Federation became the Dravidar Kazhagam, a sword in the struggle for the rights of our people. These are glorious pages in the history of the past.
+
+Therefore, although the Dravida Munnetra Kazhagam is only twenty-five years old, behind it stand nearly three-quarters of a century of feeling, history, sacrifice, struggle, experience, leaders, commanders and cadres. With all this as its background, it possesses the experience and composure normally acquired only with age.
+
+“This is why the movement has received both the majesty of youth and the patience of age,” say those long active in Tamil Nadu politics who still possess honesty. The courageous say it openly; those without such courage say it in private.
+
+In the line that runs through Theagaraya, Nair, Panagal, Periyar and Anna, the first three were oil for the lamp in the poor man's house; Periyar and Anna were themselves the candle-lamp within that house. How many commanders! How many cadres!
+
+Many whose names belong on that roll are no longer with us. At their graves, we string the buds of our tears into wreaths of flowers.
+
+Udanpirappē! When they wore themselves to the bone and laboured without rest, they did not wait in expectation that government or status would come.
+
+Forgetting self-interest and living by the maxim, “My duty is to remain at my work,” they dedicated themselves so that the Tamil people might live with self-respect and rights. Many of them held no office. They did not even think of office. They made no effort to cultivate those in office. Nor did they acquire the habit of carrying letters of recommendation.
+
+The movement's greatness has grown from their labour and tireless capacity for action.
+
+Notice that I underline “the movement's greatness,” not “the movement's government.”
+
+Governments come and go. If greatness departs once, it will not return. It cannot return.
+
+That is why we value the movement's greatness above government!
+
+You know that my head will always bow before the valiant people who worked to preserve it, and before courageous people like you who continue that work.
+
+In the House, I may address the sculptor of thought, Chitrarasu, as “Honourable Chairman of the Legislative Council,” and he may honour me by saying, “Honourable Chief Minister.” But when we are alone, or speak on the telephone, our conversation is simply, “What is it, elder brother?” and “What is it, younger brother?”
+
+Did this elder-brother and younger-brother bond begin today or yesterday? How many years it has endured!
+
+Whether it is he, or N. V. N., who will celebrate his sixty-third birthday on the coming twelfth, have the wild torrents they crossed to defend the principles of this movement been few?
+
+There was Fearless-Hearted Alagiri, whose roar made one wonder whether it was summer thunder or the sound of a human voice; the storm-swift orator Ponnambalanar; the great warrior Mayuram Natarajan; Nagai Mani; S. V. Lingam; Kudanthai Neelamegam; Soundarapandian; Polur Subramaniam; the elder woman of Moovalur; Mother Dharmambal of Madras; Kuthoosi Gurusamy; Mother Kunjitham; and Kanchi Manimozhiyar.
+
+Those who held an honoured place in that great formation include elder brother C. P. C., now Chairman of the Legislative Council, and brother N. V. N., now a minister.
+
+One of them is celebrating his sixty-third birthday. Members of the movement have formed a committee and are conducting the celebration with distinction.
+
+N. V. N. has the distinction of having remained close to Periyar and Perarignar Anna and carried out their commands, however distant the place and however lightly he had to regard the suffering and hardship that confronted him. His strength of mind in bearing Anna's anger, and Anna's directly contrary teasing and mockery, together with his sense of discipline, are among N. V. N.'s possessions.
+
+He created a proud history of sacrifice by going to prison with his wife and child in the struggle against Hindi.
+
+He is a mountain of principle who defied the ban at Kundrathur amid gunfire.
+
+As we celebrate his birthday, my beloved Udanpirappē, can we not think with joy of the time when this movement's sense of ideals was born?
+
+I thought of his birthday celebration.
+
+Thoughts of the history of our ideals surged like waves in my heart.
+
+I do not have the skill to still those waves and give them to you as writing.
+
+For a moment I also remember those who have forgotten this history of ideals, and a veil of tears covers my eyes.
+
+Your loving smile immediately clears it away!
+
+Long live your smile!
+
+With affection,
+
+M. K.
+
+10 November 1974
+
+## Original Tamil — மூலத் தமிழ்
+
+# 107. வாழ்க-உன் புன்னகை!
+
+**உடன்பிறப்பே,**
+
+நமது கழகத்திற்கு வயது இருபத்தைந்து என்கிறபோது, காளைப் பருவத்தின் கம்பீரத் தோற்றம் எதிர்நிற்கிறது! காளைப் பருவம் கம்பீரம் வாய்ந்தது மட்டுமல்ல-முறுக்கேறிய கட்டுடல்-முறுவலிக்கும் இதழ்கள்-துடிக்கும் இளம் மீசைகள்-துருதுருக்கும் கைகள்-ஆகிய அனைத்து இலக்கணங்களும் கொண்டது.
+
+ஆனால், நமது கழகத்தின் வாலிப வனப்போடு, அடக்கம்-அமைதியான நோக்கு-எதையும் தாங்கும் பண்பு-இத்தனையும் சேர்ந்திருப்பதற்கு என்ன காரணம் என்று மாற்று முகாமில் இருக்கின்ற நல்லவர்கள் சிந்திக்காமல் இருப்பதில்லை.
+
+நமது சாதனைகள் மறைக்கப்படுகின்றன! அந்தப் பணியைச் செய்வதற்காகவே சிலர் பத்திரிகைகள் நடத்துகிறார்கள்! ஏசல் கணைகளை எழுத்துக்களாக்குகிறார்கள்! நாராசங்களைப் பொழியும் நாவேந்தர்களாகச் சிலர் நடமாடுகிறார்கள்!
+
+அவதூறுகள் பாயும்போது அதனைத் தடுக்கும் கேடயங்களாக மட்டும் நம்மை மாற்றிக் கொண்டு, இழிமொழிகள்-எரிச்சல் பாணங்கள் பற்றிக் கவலைப்படாமல் நமது இலட்சியப் பயணத்தை நடத்திச் செல்கிறோம்!
+
+இதற்குக் காரணம் என்ன? ஒரு அடிப்படைக் காரணம் இருக்கிறது; நாம், பதவி பிடிக்க வேண்டுமென்று கட்சி தொடங்கவில்லை; நமது கழகத்துக்கு வயது இருபத்தைந்துதான் என்றாலும், இந்த நூற்றாண்டின் தொடக்க காலத்திலேயே தமிழகத்தில் தோன்றிய மறுமலர்ச்சி யுகத்தின் தூதுவர்கள் நாம்!
+
+தாழ்த்தப்பட்ட-பிற்படுத்தப்பட்ட மக்களுக்காகத் தோன்றிய தென்னிந்திய நல உரிமைச் சங்கம், இந்தச் சமுதாயத்திலே உருவாக்கி இருக்கின்ற ஒளியை யாரும் மறுத்திட இயலாது!
+
+அந்த ஒளி மகத்தானதாக-விரிவானதாக இல்லாமல் இருந்திருக்கலாம்; ஆனால், அன்று கிளம்பிய சிறுபொறிதான் இன்று நாம் கையில் ஏந்தியிருக்கிற தீபச் சுடருக்கு முழு முதல் ஆதாரமாகும்.
+
+சுய மரியாதை இயக்கத்தின் தோற்றம், அடித்தள-நடுத்தர மக்களின் நடையிலே ஒரு மிடுக்கினை ஏற்படுத்தியதும், அந்தச் சமுதாயப் புரட்சியைத் தொடர்ந்து தென்னிந்திய நல உரிமைச் சங்கம் திராவிடர் கழகமாக-இன உரிமைப் போர் வாளாக மாறியதும் கடந்த காலத்துச் சரித்திரப் புகழ் ஏடுகளாகும்!
+
+ஆகவே, திராவிட முன்னேற்றக் கழகத்தின் வயது இருபத்தைந்துதான் என்றாலும், ஏறத்தாழ முக்கால் நூற்றாண்டுக் காலத்து உணர்வுகள்-வரலாறுகள்-தியாகங்கள்-போராட்டங்கள்-அனுபவ ஆற்றல்கள்-தலைவர்கள்-தளபதிகள்-தொண்டர்கள்-அனைத்தையும் பின்னணியாகக் கொண்டு வயது முதிர்ச்சியிலே பெற வேண்டிய அனுபவத்தையும் நிதானத்தையும் பெற்றுத் திகழ்கிறது!
+
+**“இளமையின் கம்பீரமும், முதுமையின் பொறுமையும் இந்தக் கழகத்திற்குக் கிடைத்துள்ளதற்கு இதுவே காரணம்”** என்று, தமிழக அரசியலில் நீண்ட நாட்களாக இருப்போர்-அவர்களிலும் வாய்மையுடையோர் ஒப்புக் கொண்டு உரை நிகழ்த்துகின்றனர்-துணிவுடையோர் வெளிப்படையாகவும், அஃதற்றோர் தனியாகவும்!
+
+தியாகர்-நாயர்-பனகல்-பெரியார்-அண்ணா என்றுவரும் வரிசையில், முதல் மூவரும் ஏழையின் வீட்டு விளக்குக்கு எண்ணெய்யாகவும், பெரியாரும், அண்ணாவும் ஏழையின் வீட்டுக்கே மெழுகுவத்தி விளக்காகவும் இருந்தவர்கள்! எத்தனை எத்தனைத் தளபதிகள்-எத்தனை எத்தனைத் தொண்டர்கள்!
+
+அந்தப் பட்டியலில் இடம் பெற்றோர் பலர், இன்றில்லை! அவர்தம் கல்லறைகளில் நமது கண்ணீர் அரும்புகளைத் தொடுத்து மலர் வளையம் வைத்துக் கொண்டிருக்கிறோம்!
+
+உடன்பிறப்பே! அவர்கள் ஓடாகத் தேய்ந்து ஓயாது உழைத்தபோது, “ஆட்சி வரும்-அந்தஸ்து வரும்” என்று எதிர்பார்த்து இருந்தவர்கள் அல்லர்!
+
+“என் கடன் பணி செய்து கிடப்பதே” எனத் தன்னலம் மறந்து தமிழினம் தன்மானத்தோடும் உரிமையோடும் வாழத் தங்களை அர்ப்பணித்துக் கொண்டார்கள்! அவர்கள் பலர் பதவியிலும் இல்லை. பதவியைப் பற்றி நினைக்கவும் இல்லை! பதவியில் இருந்தவர்களோடு பழகிடவும் முயலவில்லை! பரிந்துரைச் சீட்டுக்களைச் சுமந்திடும் பழக்கமும் கொண்டிடவில்லை!
+
+அவர்களின் உழைப்பை-ஓயாத செயல் திறனை உரமாகக் கொண்டு விளைந்திருப்பதே **கழகத்தின் மாட்சி!**
+
+‘கழகத்தின் ஆட்சி’ என்று கூறாமல் ‘கழகத்தின் மாட்சி’ என்று நான் கோடிட்டுக் காட்டுவதைக் கவனம் வைத்துக் கொள்!
+
+ஆட்சி வரும்-போகும்! மாட்சி ஒரு முறை போனால் மீண்டும் வராது! வர முடியாது!
+
+அதனால்தான் நாம் ஆட்சியை விட மாட்சியைப் பெரிதாகக் கருதுகிறோம்!
+
+அதனை நிலைநிறுத்தப் பாடுபட்ட தீரர்களுக்கும்-தொடர்ந்து பாடுபடும் உன்னைப் போன்ற வீரமிக்கவர்களுக்கும்-என்றைக்குமே என் தலை வணங்கும் என்பதை நீ அறிவாய்!
+
+“மாண்புமிகு மேலவைத் தலைவர் அவர்களே” என்று சிந்தனைச் சிற்பி சிற்றரசு அவர்களை அவையில் அழைத்தாலும்-அவரும், “மாண்புமிகு முதலமைச்சர் அவர்களே” என்று எனக்குப் பெருமை அளித்தாலும்-இருவரும் தனியாக இருக்கும் போதும், தொலைபேசியில் பேசும் போதும், “என்ன அண்ணே-என்ன தம்பீ” என்றுதான் உரையாடிக்கொள்கிறோம்.
+
+இந்த அண்ணன்-தம்பி உறவு இன்று நேற்றா-எத்தனை எத்தனை ஆண்டுகளாக!
+
+அவரும் சரி-வரும் 12ஆம் நாள் 63-வது பிறந்தநாளைச் சந்திக்கும் என்.வி.என். அவர்களும் சரி-இந்தக் கழகக் கொள்கைகளைக் காக்கக் கடந்து வந்துள்ள காட்டாறுகள் கொஞ்சமா?
+
+கோடை இடியோ-குரலின் ஒலியோ-என ஐயுறும் வண்ணம் முழங்கிடும் அஞ்சா நெஞ்சன் அழகிரி-புயல் வேகப் பேச்சாளர் பொன்னம்பலனார்-மாவீரன் மாயூரம் நடராசன்-நாகை மணி-எஸ்.வி. லிங்கம்-குடந்தை நீலமேகம்-செளந்தரபாண்டியன்-போளூர் சுப்பிரமணியம்-மூவலூர் மூதாட்டியார்-சென்னை தருமாம்பாள் அம்மையார்-குத்தூசி குருசாமி-குஞ்சிதம் அம்மையார்-காஞ்சி மணிமொழியார்-என்ற பெரியதோர் அணியில் சிறப்பிடம் பெற்றிருந்தவர்கள்தான் இன்று மேலவைத் தலைவராகவும் அமைச்சராகவும் பொறுப்பேற்றுள்ள அண்ணன் சி.பி.சி.யும், சகோதரர் என்.வி.என். அவர்களுமாவார்கள்!
+
+அவர்களில் ஒருவருக்கு 63-வது பிறந்த நாள் விழா நடைபெறுகிறது; கழகத்தினர் குழு அமைத்து அந்த விழாவைச் சீர்பெற நடத்துகின்றனர்!
+
+பெரியாருக்கும்-பேரறிஞர் அண்ணாவுக்கும் அருகே இருந்து-அவர்கள் இட்ட கட்டளைகளை-தொலை தூரமாயினும், துன்ப துயரங்கள் எதிர்ப்பட்டாலும் துச்சமெனக் கருதி நிறைவேற்றிய பெருமை என்.வி.என். அவர்களுக்கு உண்டு. அண்ணாவின் கோபத்தையும், அதற்கு நேர்மாறான கேலி-கிண்டலையும் தாங்கக் கூடிய மன வலிமையும் கட்டுப்பாட்டு உணர்வும் என்.வி.என். பெற்ற சொத்துக்கள் ஆகும்!
+
+இந்தியை எதிர்த்து இல்லத்தரசியுடனும்-குழந்தையுடனும் சிறையேகிய பெருமைமிகு தியாக வரலாறு படைத்தவர் அவர்!
+
+துப்பாக்கிக் குண்டுகளுக்கிடையே குன்றத்தூரில் தடையை மீறிய கொள்கைக் குன்றம் அவர்!
+
+அவருக்குப் பிறந்த நாள் கொண்டாடும் போது, என் அன்பு உடன்பிறப்பே! நமது இயக்கத்தில் இலட்சிய உணர்வுகள் பிறந்த அந்தக் காலத்தையும் எண்ணி மகிழ முடிகிறதல்லவா?
+
+அவர் பிறந்த நாள் விழாவை எண்ணிக்கொண்டேன்.
+
+நமது இலட்சிய வரலாறு பற்றிய சிந்தனைகள் அலை பாய்ந்தன-நெஞ்சத்தில்!
+
+அந்த அலைகளை அடக்கி உனக்கு எழுத்துக்களாகத் தரும் திறமை எனக்கில்லை!
+
+இந்த இலட்சிய வரலாற்றை மறந்துவிட்டவர்களையும் ஒரு கணம் நினைக்கிறேன்-கண்ணில் நீர் திரை போடுகிறது!
+
+அதனை உன் அன்புப் புன்னகை உடனடியாக அகற்றுகிறது!
+
+வாழ்க-உன் புன்னகை!
+
+அன்புள்ள,
+
+மு. க.
+
+(10-11-1974)
