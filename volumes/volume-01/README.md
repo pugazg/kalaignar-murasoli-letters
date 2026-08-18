@@ -8,35 +8,29 @@
 
 ## Migration status
 
-Volume 1 was previously processed by a different workflow under [`../volume-1/`](../volume-1/). That legacy corpus contains 110 bilingual records and audit material. It is preserved unchanged while the canonical later-volume structure and source-checked English records are built here.
-
-The supplied `Vol1.pdf` is the controlling source for this migration. Existing Tamil reading copies and English translations are reusable evidence/drafts, but they do not override the scan or the verified canonical Tamil.
+Volume 1 was previously processed under [`../volume-1/`](../volume-1/). That legacy corpus contains 110 bilingual records and remains preserved unchanged as migration evidence. The supplied `Vol1.pdf` is the controlling source; verified canonical Tamil outranks legacy Tamil/English drafts.
 
 ## Volume 1 batch override
 
-For **Volume 1 alone**, regular migration/review iterations use **10 complete consecutive letters per iteration**. This volume-specific instruction supersedes the repository's normal five-letter cadence for Volume 1 work only. A documented final residue may be smaller.
-
-A previous user-approved iteration used an expanded scope of **20 complete consecutive letters — 0057 through 0076**. That was a one-time exception; regular Volume 1 work returned to the ten-letter cadence afterward.
+Regular Volume 1 migration/review iterations use **10 complete consecutive letters**. A previous user-approved 20-letter iteration for 0057–0076 was a one-time exception.
 
 ## Current canonical state
 
 - Canonical PDF coverage: **001–401 / 401 — complete**.
-- Printed contents: PDF **018–023**, all **110 printed entries** transcribed.
+- Printed contents: **110 / 110** entries.
 - Canonically complete letters: **0001–0110 (110 / 110)**.
-- Partial canonical letter: **none**.
-- Canonical letter coverage: PDF **024–400**; PDF **401** is non-letter back cover / publisher advertisement.
-- Source pagination note: PDF 039 prints **38**, while PDF 040 prints **40**; text is continuous, so printed number 39 is treated as a source pagination anomaly, not missing content.
-- Actual heading variants are preserved where they differ from contents entries, including letters 0008, 0012, 0024 and 0109. For 0109, the contents prints `அவள் ஒரு தொடற்கதை!`, while PDF 392 actually heads the letter `அவள் ஒரு தொடர்கதை!`.
-- Letter 0063 has **no date printed in the source**; no date is inferred.
-- Full-volume Tamil structural audit: **complete — PASS**. See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md).
-- Full-volume second visual/textual-fidelity verification: **complete — PASS, PDF 001–401 / 401**. See [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md).
+- Letter coverage: PDF **024–400**; PDF **401** is a non-letter back cover / publisher advertisement.
+- Printed pagination skips number **39** between PDF 039 and PDF 040 while text remains continuous.
+- Letter 0063 has no printed date and remains undated.
+- Contents/heading variants remain source-literal, including 0109 contents `அவள் ஒரு தொடற்கதை!` versus actual PDF-392 heading `அவள் ஒரு தொடர்கதை!`.
+- Full-volume Tamil structural audit: **PASS**.
+- Full-volume second visual/textual-fidelity verification: **PASS — PDF 001–401 / 401**.
 - Cumulative second-pass corrections: **159 canonical pages / 274 scan-proven spans**.
-- Letters **0001–0110** have complete second-pass source-page coverage.
-- Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**. See [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md).
-- Bilingual alignment: **in progress — 0001–0080 / 80 reviewed and PASS**. See [`translations/en/alignment/PROGRESS.md`](translations/en/alignment/PROGRESS.md) and [`BILINGUAL_ALIGNMENT_HANDOVER.md`](BILINGUAL_ALIGNMENT_HANDOVER.md).
-- Alignment-driven English prose/quotation corrections: **4**, in letters **0014, 0043, 0058 and 0059**.
-- Alignment batch **0071–0080**: **PASS with no English prose/quotation correction required**. Controls including the Time Capsule wordplay, source-ordered Bharathidasan verse, Corporation allegory, closing Kural, fundraising sequence, Sixth Finance Commission structure, Periyar victory/self-critique, `பாடி வீடுகள்` and `கொள்கை மலர்கள்` imagery were reconfirmed.
-- Canonical English records remain **source-checked, not verified**. Volume-level editorial consistency review and final release work remain later gates.
+- Canonical English migration/source check: **0001–0110 / 110 complete and source-checked**.
+- Bilingual alignment: **in progress — 0001–0090 / 90 reviewed and PASS**.
+- Alignment-driven English prose/quotation corrections: **4**, in 0014, 0043, 0058 and 0059.
+- Alignment batch **0081–0090**: **PASS with no English prose/quotation correction required**.
+- Canonical English records remain **source-checked, not verified**. Editorial consistency and release work remain later gates.
 
 ## Source identity
 
@@ -48,14 +42,10 @@ A previous user-approved iteration used an expanded scope of **20 complete conse
 
 ## Legacy provenance
 
-The earlier work is intentionally not deleted or silently rewritten. See:
-
-- [`../volume-1/MIGRATION_AUDIT.md`](../volume-1/MIGRATION_AUDIT.md)
-- [`../volume-1/audits/`](../volume-1/audits/)
-- [`../volume-1/translations/en/`](../volume-1/translations/en/)
+See [`../volume-1/MIGRATION_AUDIT.md`](../volume-1/MIGRATION_AUDIT.md), [`../volume-1/audits/`](../volume-1/audits/) and [`../volume-1/translations/en/`](../volume-1/translations/en/). Do not rewrite the legacy tree.
 
 ## Exact next task
 
-Continue the dedicated bilingual-alignment review with canonical English letters **0081–0090**, source PDF / printed pages **298–325**. Compare each English record directly with its complete canonical Tamil witness, correct only demonstrable correspondence/alignment errors, create `translations/en/alignment/ALIGNMENT_0081_0090.md`, append record-level results to the alignment manifest, and advance alignment progress to **90 / 110** only after all ten records pass.
+Continue bilingual alignment with canonical English letters **0091–0100**, source PDF / printed pages **326–358**. Compare each record directly with its complete canonical Tamil witness, correct only demonstrable correspondence errors, create `translations/en/alignment/ALIGNMENT_0091_0100.md`, append the manifest and advance to **100 / 110** only after all ten pass.
 
 Keep volume-level editorial consistency, final translation manifest, release report and release declaration blocked until bilingual alignment reaches **110 / 110**.
