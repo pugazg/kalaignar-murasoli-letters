@@ -46,14 +46,25 @@ Status: first-pass reviewed
 - Letter 3545: PDF 089–098 / printed 88–97 / closing date 19-03-2011.
 - Letter 3546: PDF 099–103 / printed 98–102 / closing date 19-03-2011.
 - Letter 3547: PDF 104–110 / printed 103–109 / closing date 20-03-2011.
-- Each new page was visually compared with the controlling scan at first-pass level before this iteration was promoted.
-- Running page headers and printed page numbers are not duplicated into canonical body text.
-- Printed English/Latin material such as `ISO 9000-2000`, `ISO 9001:2001`, `Adyar Poonga Trust`, `DBOOT`, `Southern Headworks`, `MLD`, and machinery names is preserved where printed.
 - PDF page 102 contains a visible later library stamp/handwriting over the upper page area; it is excluded from printed source text and documented in the page/chapter notes.
 - PDF page 098 contains the unusual printed form `112.2006-ல்`; it is preserved as printed rather than silently normalized.
 
+### Five-letter iteration — Letters 3548–3552, PDF pages 111–144
+
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 111–144.
+- Letter 3548: PDF 111–118 / printed 110–117 / closing date 21-03-2011.
+- Letter 3549: PDF 119–122 / printed 118–121 / closing date 22-03-2011.
+- Letter 3550: PDF 123–128 / printed 122–127 / closing date 23-03-2011.
+- Letter 3551: PDF 129–141 / printed 128–140 / closing date 28-03-2011.
+- Letter 3552: PDF 142–144 / printed 141–143 / closing date 30-03-2011.
+- Each page in the iteration was checked against the controlling scan for page/letter boundaries and first-pass textual fidelity; OCR was used only as a drafting aid.
+- Running page headers and printed page numbers are not duplicated into canonical body text.
+- Printed English/Latin material is retained where printed, including the Election Commission quotation in Letter 3550.
+
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 111 with Letter 3548.
+The next five-letter iteration begins at PDF page 145 with Letter 3553.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
