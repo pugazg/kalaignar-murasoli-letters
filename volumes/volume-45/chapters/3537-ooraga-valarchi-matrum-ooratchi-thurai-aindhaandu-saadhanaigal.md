@@ -2,11 +2,11 @@
 
 - Letter number: 3537
 - Date: 12-03-2011
-- Status: partial
+- Status: complete
 - PDF page start: 024
-- PDF page end: unresolved
+- PDF page end: 033
 - Printed page start: 23
-- Printed page end: unresolved
+- Printed page end: 32
 
 ## Source title
 
@@ -17,9 +17,22 @@
 
 - [PDF page 024](../pages/page-024.md)
 - [PDF page 025](../pages/page-025.md)
+- [PDF page 026](../pages/page-026.md)
+- [PDF page 027](../pages/page-027.md)
+- [PDF page 028](../pages/page-028.md)
+- [PDF page 029](../pages/page-029.md)
+- [PDF page 030](../pages/page-030.md)
+- [PDF page 031](../pages/page-031.md)
+- [PDF page 032](../pages/page-032.md)
+- [PDF page 033](../pages/page-033.md)
 
-## Boundary note
+## Verified closing
 
-The mandatory first transcription batch ends at PDF page 025 while this letter is still in progress. The next transcription activity must begin at PDF page 026 and continue this same source record until its printed closing, signature, and date are reached.
+PDF page 033 / printed page 32 contains:
 
-No end-page value, closing, signature, or date position is inferred from outside the controlling scan.
+- `(தொடர்ச்சி நாளை)`
+- `அன்புள்ள,`
+- `மு.க.`
+- `12-03-2011`
+
+The source record is complete at PDF page 033. The next actual source letter, 3538, begins at PDF page 034.
