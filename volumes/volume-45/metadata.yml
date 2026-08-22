@@ -1,0 +1,14 @@
+volume: 45
+status: intake
+source:
+  filename: TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf
+  controlling: true
+  pdf_committed: false
+
+transcription:
+  canonical_pages: 0
+  total_pdf_pages: pending
+  first_batch: PDF 001-025
+
+translation:
+  status: blocked
