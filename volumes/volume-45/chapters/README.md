@@ -27,5 +27,10 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3555 — அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!](3555-andraikke-ezhudhiyadhu-indraikkum-porundhugiradhe.md) | 17-4-2011 | complete | 155–159 |
 | [3556 — பார்த்தும் மறந்தாரே “காரத்”!](3556-paarthum-marandhaare-karat.md) | 21-4-2011 | complete | 160–163 |
 | [3557 — பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?](3557-podhu-mannippu-ketka-vendiyavar-yaar.md) | 24-04-2011 | complete | 164–169 |
+| [3558 — திரைப்படத்துறையும் - தி.மு.க.வும்!](3558-thiraippadathuraiyum-dmkavum.md) | 30-04-2011 | complete | 170–175 |
+| [3559 — கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!](3559-kathiyai-theettadhe-puthiyai-theettu.md) | 4-5-2011 | complete | 176–180 |
+| [3560 — மேலோர் பாராட்டு; கீழோர் பழிக்கின்றாரே!](3560-melor-paarattu-kizhor-pazhikkinrare.md) | 5-5-2011 | complete | 181–188 |
+| [3561 — உனக்கும், எனக்கும் - உலகத் தமிழர்க்கும் பொன்னாள்!](3561-unakkum-enakkum-ulaga-thamizharkkum-ponnaal.md) | 7-5-2011 | complete | 189–196 |
+| [3562 — “சில நேரங்களில் சில மனிதர்கள்!”](3562-sila-nerangalil-sila-manithargal.md) | 13-5-2011 | complete | 197–200 |
 
-Exact next activity: begin the next five-letter iteration with Letter 3558 at PDF page 170 / printed page 169.
+Exact next activity: begin the next five-letter iteration with Letter 3563 at PDF page 201 / printed page 200.

@@ -25,7 +25,17 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3555 | அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே! | 17-4-2011 | 154 | 155 | 159 | complete |
 | 3556 | பார்த்தும் மறந்தாரே “காரத்”! | 21-4-2011 | 159 | 160 | 163 | complete |
 | 3557 | பொது மன்னிப்பு கேட்க வேண்டியவர் யார்? | 24-04-2011 | 163 | 164 | 169 | complete |
+| 3558 | திராவிடத் தந்தையும் - தி.மு.க.வும்! | 30-04-2011 | 169 | 170 | 175 | complete |
+| 3559 | சத்துணவைத் திட்டாதே; புத்துணர்ச்சி திட்டம்! | 4-5-2011 | 175 | 176 | 180 | complete |
+| 3560 | மேலோர் பாராட்ட: கீழோர் பழிக்கின்றாரே! | 5-5-2011 | 180 | 181 | 188 | complete |
+| 3561 | உனக்கும், எனக்கும் - உலகத் தமிழர்க்கும் பொன்னாள்! | 7-5-2011 | 188 | 189 | 196 | complete |
+| 3562 | “சில நேரங்களில் சில மனிதர்கள்!” | 13-5-2011 | 196 | 197 | 200 | complete |
 
 ## Current transcription boundary
 
-The fourth normal five-letter iteration covers Letters 3553–3557, PDF pages 145–169. The next actual source record is Letter 3558 at PDF page 170 / printed page 169.
+The fifth normal five-letter iteration covers Letters 3558–3562, PDF pages 170–200. The next actual source record is Letter 3563 at PDF page 201 / printed page 200.
+
+## Source-context discrepancies preserved
+
+- Letter 3558 contents wording (`திராவிடத் தந்தையும் - தி.மு.க.வும்!`) differs from the actual letter-start title (`திரைப்படத்துறையும் - தி.மு.க.வும்!`); both are preserved in their own source contexts.
+- Letter 3559 contents wording (`சத்துணவைத் திட்டாதே; புத்துணர்ச்சி திட்டம்!`) differs from the actual letter-start title (`கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!`); both are preserved without reconciliation.

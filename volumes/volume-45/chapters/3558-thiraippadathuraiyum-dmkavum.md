@@ -1,0 +1,32 @@
+# Letter 3558 — திரைப்படத்துறையும் - தி.மு.க.வும்!
+
+- Letter number: 3558
+- Date: 30-04-2011
+- Status: complete
+- PDF page start: 170
+- PDF page end: 175
+- Printed page start: 169
+- Printed page end: 174
+
+## Source title
+
+திரைப்படத்துறையும் - தி.மு.க.வும்!
+
+## Canonical pages
+
+- [PDF page 170](../pages/page-170.md)
+- [PDF page 171](../pages/page-171.md)
+- [PDF page 172](../pages/page-172.md)
+- [PDF page 173](../pages/page-173.md)
+- [PDF page 174](../pages/page-174.md)
+- [PDF page 175](../pages/page-175.md)
+
+## Source notes
+
+- Contents page wording: `திராவிடத் தந்தையும் - தி.மு.க.வும்!`
+- Actual letter-start title: `திரைப்படத்துறையும் - தி.மு.க.வும்!`
+- The discrepancy is preserved; neither reading is silently reconciled.
+
+## Boundary note
+
+The source record is complete. Its closing, signature and date were verified directly from the controlling scan on PDF page 175.

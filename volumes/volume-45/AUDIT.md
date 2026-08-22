@@ -79,8 +79,24 @@ Status: first-pass reviewed
 - Dates and quoted political statements in Letter 3557 were retained in source position without outside reconciliation.
 - Each page in this iteration received first-pass direct scan comparison; full-volume second visual verification remains pending as a separate gate.
 
+### Five-letter iteration — Letters 3558–3562, PDF pages 170–200
+
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 170–200.
+- Letter 3558: PDF 170–175 / printed 169–174 / closing date 30-04-2011.
+- Letter 3559: PDF 176–180 / printed 175–179 / closing date 4-5-2011.
+- Letter 3560: PDF 181–188 / printed 180–187 / closing date 5-5-2011.
+- Letter 3561: PDF 189–196 / printed 188–195 / closing date 7-5-2011.
+- Letter 3562: PDF 197–200 / printed 196–199 / closing date 13-5-2011.
+- Letter 3558 contents title and actual letter-start title differ; both source readings are retained in their own contexts.
+- Letter 3559 contents title and actual letter-start title differ; both source readings are retained in their own contexts.
+- OCR was used only as a drafting aid. Pages with failed OCR were re-read from the scan; accepted batch boundaries, titles, closings, dates and first-pass body readings were visually checked against the controlling scan.
+- Running page headers and printed page numbers are not duplicated into canonical body text.
+- Printed English/Latin material and quoted source material are retained where printed.
+
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 170 with Letter 3558.
+The next five-letter iteration begins at PDF page 201 with Letter 3563.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
