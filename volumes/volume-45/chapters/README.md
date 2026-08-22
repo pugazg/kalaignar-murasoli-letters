@@ -22,5 +22,10 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3550 — தேவர் திருமகனின் பொன்மொழி என்ன?](3550-thevar-thirumaganin-ponmozhi-enna.md) | 23-03-2011 | complete | 123–128 |
 | [3551 — நாடு வாழ நாம் புரிந்த சாதனைகள்!](3551-naadu-vaazha-naam-purindha-saadhanaigal.md) | 28-03-2011 | complete | 129–141 |
 | [3552 — யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்!](3552-yaaraa-ushaar-padhungi-varugiradhu-pananayagam.md) | 30-03-2011 | complete | 142–144 |
+| [3553 — “குற்றம் பார்க்கின் சுற்றம் இல்லை”!](3553-kutram-paarkin-sutram-illai.md) | 5-4-2011 | complete | 145–149 |
+| [3554 — மதிப்பிற்குரிய மதிப்பெண் என்ன?](3554-madhippirkkuriya-madhippen-enna.md) | 13-4-2011 | complete | 150–154 |
+| [3555 — அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!](3555-andraikke-ezhudhiyadhu-indraikkum-porundhugiradhe.md) | 17-4-2011 | complete | 155–159 |
+| [3556 — பார்த்தும் மறந்தாரே “காரத்”!](3556-paarthum-marandhaare-karat.md) | 21-4-2011 | complete | 160–163 |
+| [3557 — பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?](3557-podhu-mannippu-ketka-vendiyavar-yaar.md) | 24-04-2011 | complete | 164–169 |
 
-Exact next activity: begin the next five-letter iteration with Letter 3553 at PDF page 145 / printed page 144.
+Exact next activity: begin the next five-letter iteration with Letter 3558 at PDF page 170 / printed page 169.

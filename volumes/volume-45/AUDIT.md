@@ -63,8 +63,24 @@ Status: first-pass reviewed
 - Running page headers and printed page numbers are not duplicated into canonical body text.
 - Printed English/Latin material is retained where printed, including the Election Commission quotation in Letter 3550.
 
+### Five-letter iteration — Letters 3553–3557, PDF pages 145–169
+
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 145–169.
+- Letter 3553: PDF 145–149 / printed 144–148 / closing date 5-4-2011.
+- Letter 3554: PDF 150–154 / printed 149–153 / closing date 13-4-2011.
+- Letter 3555: PDF 155–159 / printed 154–158 / closing date 17-4-2011.
+- Letter 3556: PDF 160–163 / printed 159–162 / closing date 21-4-2011.
+- Letter 3557: PDF 164–169 / printed 163–168 / closing date 24-04-2011.
+- Letter 3557's source title is preserved as `பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?`; no sandhi correction was introduced.
+- PDF page 166 was manually transcribed from the scan because OCR quality was insufficient.
+- The scan on PDF page 164 prints `ஆகஸ்ட் 13ஆம் தேதியன்றே` in the 1981 passage; that reading is preserved even though an earlier working note had recorded a different date.
+- Dates and quoted political statements in Letter 3557 were retained in source position without outside reconciliation.
+- Each page in this iteration received first-pass direct scan comparison; full-volume second visual verification remains pending as a separate gate.
+
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 145 with Letter 3553.
+The next five-letter iteration begins at PDF page 170 with Letter 3558.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
