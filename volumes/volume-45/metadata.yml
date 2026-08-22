@@ -1,14 +1,20 @@
 volume: 45
-status: intake
+status: transcription-in-progress
 source:
   filename: TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf
   controlling: true
   pdf_committed: false
 
 transcription:
-  canonical_pages: 0
-  total_pdf_pages: pending
-  first_batch: PDF 001-025
+  canonical_pages: 25
+  canonical_pdf_range: 001-025
+  total_pdf_pages: 150
+  first_batch: complete
+  first_batch_scope: PDF 001-025
+  active_letter: 3537
+  active_letter_status: partial
+  next_pdf_page: 026
 
 translation:
   status: blocked
+  reason: Tamil transcription and required QA gates incomplete
