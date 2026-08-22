@@ -10,7 +10,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3540 | மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள்!(2) | 15-03-2011 | 49 | 050 | 056 | complete |
 | 3541 | நானும் உன்னுடன்தான் என்பதை மறந்துவிடாதே! | 15-03-2011 | 56 | 057 | 060 | complete |
 | 3542 | மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள் (3) | 16-03-2011 | 60 | 061 | 068 | complete |
+| 3543 | நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்! | 17-03-2011 | 68 | 069 | 079 | complete |
+| 3544 | நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்! | 18-03-2011 | 79 | 080 | 088 | complete |
+| 3545 | நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்! | 19-03-2011 | 88 | 089 | 098 | complete |
+| 3546 | கவசங்களையும் கேடயங்களையும் என்றும் பிரித்திடேன்! | 19-03-2011 | 98 | 099 | 103 | complete |
+| 3547 | நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்! | 20-03-2011 | 103 | 104 | 110 | complete |
 
 ## Current transcription boundary
 
-The first normal five-letter iteration after completing Letter 3537 covers Letters 3538–3542, PDF pages 034–068. The next actual source record is Letter 3543 at PDF page 069 / printed page 68.
+The second normal five-letter iteration covers Letters 3543–3547, PDF pages 069–110. The next actual source record is Letter 3548 at PDF page 111 / printed page 110.
