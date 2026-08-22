@@ -9,13 +9,14 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 ## Processing status
 
 - Source verification: complete
-- Tamil canonical page coverage: PDF 001–025 / 150
+- Tamil canonical page coverage: PDF 001–033 / 402
 - First transcription batch: complete
-- Active source record: Letter 3537 — partial
+- Completed source letters: 1
+- Last completed source record: Letter 3537 — PDF 024–033 / printed 23–32
 - English translation: blocked until Tamil transcription and required QA gates pass
 
 ## Current boundary
 
-The mandatory first batch ends exactly at PDF page 025. Letter 3537 begins at PDF page 024 / printed page 23 and continues beyond the batch boundary.
+Letter 3537 has been completed through its actual printed closing on PDF page 033. Letter 3538 begins at PDF page 034.
 
-Exact next activity: begin at PDF page 026 and complete Letter 3537 through its actual source closing before beginning normal five-letter transcription iterations.
+Exact next activity: process the first normal five-letter transcription iteration beginning with Letter 3538 at PDF page 034 and ending at the verified closing of the fifth actual source record in scan order.
