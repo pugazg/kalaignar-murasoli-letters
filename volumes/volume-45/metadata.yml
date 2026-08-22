@@ -6,14 +6,16 @@ source:
   pdf_committed: false
 
 transcription:
-  canonical_pages: 25
-  canonical_pdf_range: 001-025
-  total_pdf_pages: 150
+  canonical_pages: 33
+  canonical_pdf_range: 001-033
+  total_pdf_pages: 402
   first_batch: complete
   first_batch_scope: PDF 001-025
-  active_letter: 3537
-  active_letter_status: partial
-  next_pdf_page: 026
+  completed_letters: 1
+  last_completed_letter: 3537
+  last_completed_letter_pdf_range: 024-033
+  next_letter: 3538
+  next_pdf_page: 034
 
 translation:
   status: blocked
