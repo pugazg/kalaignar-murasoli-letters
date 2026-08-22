@@ -5,23 +5,23 @@
 - Repository intake reviewed
 - Target volume directory initialized
 - Mandatory first transcription batch completed through PDF page 025
-- Canonical page coverage: PDF 001–025
-- Letter 3537 started at PDF page 024 and remains partial at PDF page 025
+- Canonical page coverage extended through PDF page 033
+- Letter 3537 completed from PDF page 024 / printed page 23 through PDF page 033 / printed page 32
 
 ## Current stage
 
-Tamil transcription — immediate continuation after the mandatory first batch.
+Tamil transcription — regular five-letter iterations may now begin.
 
 ## Current verified boundary
 
-- Last completed canonical page: PDF 025
-- Active letter: 3537
-- Letter status: partial
-- Verified letter start: PDF 024 / printed page 23
-- Letter end: unresolved
+- Last completed canonical page: PDF 033
+- Last completed letter: 3537
+- Letter 3537 closing verified on PDF 033 / printed page 32
+- Next actual source letter: 3538
+- Next PDF page: 034
 
 ## Exact next activity
 
-Begin at PDF page 026 and complete Letter 3537 through its actual printed closing/signature/date. Do not begin the normal five-letter batching sequence until Letter 3537 is complete.
+Begin the first normal five-letter iteration with Letter 3538 at PDF page 034 and continue through five complete consecutive actual source letters in scan order. Do not include part of a sixth letter.
 
-After Letter 3537 is completed, update the chapter record from `partial` to `complete`, record its verified PDF/printed end, and identify the next actual source letter and PDF page.
+Update canonical pages, chapter records, contents, metadata, progress and audit together with that iteration.
