@@ -15,7 +15,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3545 | நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்! | 19-03-2011 | 88 | 089 | 098 | complete |
 | 3546 | கவசங்களையும் கேடயங்களையும் என்றும் பிரித்திடேன்! | 19-03-2011 | 98 | 099 | 103 | complete |
 | 3547 | நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்! | 20-03-2011 | 103 | 104 | 110 | complete |
+| 3548 | சமூக நலம் மற்றும் சத்துணவுத் திட்டத்துறை ஐந்தாண்டு சாதனைகள்! | 21-03-2011 | 110 | 111 | 118 | complete |
+| 3549 | வருக! வருக! வரிப்புலி வரிசையே வருக! | 22-03-2011 | 118 | 119 | 122 | complete |
+| 3550 | தேவர் திருமகனின் பொன்மொழி என்ன? | 23-03-2011 | 122 | 123 | 128 | complete |
+| 3551 | நாடு வாழ நாம் புரிந்த சாதனைகள்! | 28-03-2011 | 128 | 129 | 141 | complete |
+| 3552 | யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்! | 30-03-2011 | 141 | 142 | 144 | complete |
 
 ## Current transcription boundary
 
-The second normal five-letter iteration covers Letters 3543–3547, PDF pages 069–110. The next actual source record is Letter 3548 at PDF page 111 / printed page 110.
+The third normal five-letter iteration covers Letters 3548–3552, PDF pages 111–144. The next actual source record is Letter 3553 at PDF page 145 / printed page 144.
