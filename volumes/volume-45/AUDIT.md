@@ -17,24 +17,30 @@ The scan is authoritative. OCR and external sources are not authoritative.
 Status: first-pass reviewed
 
 - Canonical page files present for PDF pages 001–025.
-- Front cover, title/publication/front-matter pages, contents pages, blank/show-through page, and letter pages are represented rather than omitted.
-- PDF page 023 is recorded as blank/show-through rather than transcribing reverse-side bleed-through as source text.
-- Letter 3537 begins at PDF page 024 / printed page 23.
-- PDF page 025 ends inside Letter 3537 and was intentionally marked `partial` at the batch boundary.
+- Letter 3537 begins at PDF page 024 / printed page 23 and continues beyond the first-batch boundary.
 
 ### Immediate continuation — Letter 3537, PDF pages 026–033
 
 Status: first-pass reviewed
 
-- Canonical page files added for PDF pages 026–033.
-- The source was visually checked through the actual closing boundary.
-- Letter 3537 closes at PDF page 033 / printed page 32.
-- Closing material preserved: `(தொடர்ச்சி நாளை)`, `அன்புள்ள,`, `மு.க.`, `12-03-2011`.
-- Chapter status promoted from `partial` to `complete` only after the closing was reached.
-- Next source record verified as Letter 3538 beginning at PDF page 034.
+- Letter 3537 completed at PDF page 033 / printed page 32 with its source closing and date.
+
+### Five-letter iteration — Letters 3538–3542, PDF pages 034–068
+
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 034–068.
+- Letter 3538: PDF 034–041 / printed 33–40 / closing date 13-03-2011.
+- Letter 3539: PDF 042–049 / printed 41–48 / closing date 14-03-2011.
+- Letter 3540: PDF 050–056 / printed 49–55 / closing date 15-03-2011.
+- Letter 3541: PDF 057–060 / printed 56–59 / closing date 15-03-2011.
+- Letter 3542: PDF 061–068 / printed 60–67 / closing date 16-03-2011.
+- Running page headers and printed page numbers are not duplicated into canonical letter body text.
+- Printed English/Latin material, including source acronyms and the World Bank English headline on PDF page 068, is retained in source position.
+- OCR was used only as a drafting aid; scan images controlled accepted first-pass readings and verified letter boundaries.
 
 ## Next QA boundary
 
-The next iteration begins at PDF page 034 with Letter 3538 and should cover five complete consecutive actual source letters.
+The next five-letter iteration begins at PDF page 069 with Letter 3543.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.

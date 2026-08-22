@@ -5,10 +5,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | Letter | Contents title | Date | Printed page | Verified PDF start | Verified PDF end | Status |
 |---|---|---:|---:|---:|---:|---|
 | 3537 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (நேற்றைய தொடர்ச்சி)(2) | 12-03-2011 | 23 | 024 | 033 | complete |
-| 3538 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித்துறை ஐந்தாண்டு சாதனைகள் (3) | 13-03-2011 | 33 | 034 | — | next |
+| 3538 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித்துறை ஐந்தாண்டு சாதனைகள் (3) | 13-03-2011 | 33 | 034 | 041 | complete |
+| 3539 | மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள்!(1) | 14-03-2011 | 41 | 042 | 049 | complete |
+| 3540 | மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள்!(2) | 15-03-2011 | 49 | 050 | 056 | complete |
+| 3541 | நானும் உன்னுடன்தான் என்பதை மறந்துவிடாதே! | 15-03-2011 | 56 | 057 | 060 | complete |
+| 3542 | மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள் (3) | 16-03-2011 | 60 | 061 | 068 | complete |
 
-## Boundary notes
+## Current transcription boundary
 
-PDF pages 018–022 preserve the scanned contents pages. PDF page 023 is a blank/show-through verso. Letter 3537 begins at PDF page 024 and closes at PDF page 033 / printed page 32 with `(தொடர்ச்சி நாளை)`, `அன்புள்ள,`, `மு.க.`, and date `12-03-2011`.
-
-Letter 3538 begins at PDF page 034.
+The first normal five-letter iteration after completing Letter 3537 covers Letters 3538–3542, PDF pages 034–068. The next actual source record is Letter 3543 at PDF page 069 / printed page 68.
