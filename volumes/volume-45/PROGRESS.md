@@ -8,7 +8,8 @@
 - Letter 3537 completed through PDF page 033
 - First normal five-letter iteration completed: Letters 3538–3542
 - Second normal five-letter iteration completed: Letters 3543–3547
-- Canonical page coverage: PDF 001–110
+- Third normal five-letter iteration completed: Letters 3548–3552
+- Canonical page coverage: PDF 001–144
 
 ## Current stage
 
@@ -16,11 +17,11 @@ Tamil transcription — normal five-letter batching.
 
 ## Current verified boundary
 
-- Last completed canonical page: PDF 110 / printed page 109
-- Last completed letter: 3547
-- Completed source records: 11
-- Canonical pages: 110 / 402
+- Last completed canonical page: PDF 144 / printed page 143
+- Last completed letter: 3552
+- Completed source records: 16
+- Canonical pages: 144 / 402
 
 ## Exact next activity
 
-Begin at PDF page 111 / printed page 110 with Letter 3548 and complete five consecutive actual source letters, 3548–3552, stopping at the verified closing of Letter 3552 without including any part of Letter 3553.
+Begin at PDF page 145 / printed page 144 with Letter 3553 and complete five consecutive actual source letters, 3553–3557, stopping at the verified closing of Letter 3557 without including any part of Letter 3558.
