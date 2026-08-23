@@ -30,20 +30,23 @@ OCR, contents pages, another edition, outside historical knowledge, English tran
 
 ## 2. Current active work — Volume 45
 
-Volume 45 is the current active Tamil-transcription workstream.
+Volume 45 is the current active workstream.
 
 - Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
 - Source PDF pages: **402**
 - Visible source date range: **12.03.2011–27.09.2011**
-- Canonical Tamil page coverage: **001–376 / 402**
-- Completed actual source-letter records: **51**
-- Completed source-letter range: **3537–3587**
-- Last completed letter: **3587**
-- Last verified boundary: **PDF 376 / printed page 375**
-- Letter 3587 closing date: **13-9-2011**
-- English translation: **blocked** until Tamil transcription and required Tamil QA gates are complete
+- Canonical Tamil page coverage: **001–402 / 402 — complete**
+- Completed actual source-letter records: **55 / 55**
+- Completed source-letter range: **3537–3591**
+- Last source letter: **3591**
+- Letter 3591 closing boundary: **PDF 401 / printed page 400**
+- Letter 3591 closing date: **27-9-2011**
+- PDF 402: non-letter back cover / portrait / publisher-information matter
+- Full-volume Tamil structural audit: **PASS**
+- Second full-volume visual/textual-fidelity verification: **pending**
+- English translation: **blocked** until the second visual/textual-fidelity gate passes
 
-The mandatory first batch, Letter 3537 continuation, and ten normal five-letter iterations are complete:
+The complete Tamil transcription sequence is now durable:
 
 - PDF 001–025 — mandatory first batch
 - Letter 3537 — continuation completed through PDF 033
@@ -57,34 +60,47 @@ The mandatory first batch, Letter 3537 continuation, and ten normal five-letter 
 - 3573–3577
 - 3578–3582
 - 3583–3587
+- end-of-volume exception batch 3588–3591, followed by PDF 402 end matter
 
-The latest completed batch covers **PDF 345–376 / printed 344–375**. Its verified boundaries are:
+Final end-of-volume boundaries:
 
-- 3583 — PDF 345–351 — `1-9-2011`
-- 3584 — PDF 352–357 — `8-9-2011`
-- 3585 — PDF 358–364 — `10-9-2011`
-- 3586 — PDF 365–369 — `12-9-2011`
-- 3587 — PDF 370–376 — `13-9-2011`
+- 3588 — PDF 377–382 / printed 376–381 — `14-9-2011`
+- 3589 — PDF 383–390 / printed 382–389 — `19-9-2011`
+- 3590 — PDF 391–396 / printed 390–395 — `24-9-2011`
+- 3591 — PDF 397–401 / printed 396–400 — `27-9-2011`
+- PDF 402 — non-letter back cover / portrait / publisher-information page
 
-Important source-fidelity notes from this batch:
+Important source-fidelity notes retained from the completed transcription include:
 
 - PDF 347 was re-read directly from the scan after an inadequate temporary transcription and corrected immediately.
 - Letter 3583 preserves the source-supplied English Colin Gonsalves quotation.
 - Letter 3586 has a contents/actual-start title difference: contents prints `தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; actual PDF 365 prints `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`.
-- Letter 3587 preserves quoted 2006 statements/editorials and the printed acreage figures without normalization.
+- PDF 385 required direct scan transcription because OCR did not produce usable text.
+- PDF 399 OCR garbage at the page top was rejected; the printed `21-3-2002` date inside the quoted earlier letter is preserved.
+- PDF 402 preserves printed publisher/address/price matter; later handwriting near the price is not treated as edition text.
 
-**Exact next activity:** only four source letters remain. Under the documented end-of-volume smaller-batch exception, begin at **PDF 377 / printed page 376** with Letter **3588** and complete actual source records **3588–3591** through the verified closing of 3591. Then transcribe any remaining post-letter/end-matter pages through **PDF 402** before starting the full-volume Tamil structural audit.
+The completed full-volume structural audit confirms:
+
+- canonical PDF records `page-001.md` through `page-402.md` are accounted for;
+- source-letter coverage is continuous from PDF 024 through PDF 401;
+- all **55** actual source records 3537–3591 are complete;
+- chapter ranges are contiguous with no gap/overlap;
+- contents mapping accounts for all 55 records;
+- no canonical Tamil body change was required by the structural gate.
+
+**Exact next activity:** perform the required **second full-volume visual/textual-fidelity verification of PDF pages 001–402 against the controlling Volume 45 scan**, recording page-by-page verification and correcting canonical Tamil only where direct scan comparison proves a discrepancy. Do **not** start English translation until this gate passes.
 
 Authoritative continuation files:
 
 - [`volumes/volume-45/README.md`](volumes/volume-45/README.md)
 - [`volumes/volume-45/PROGRESS.md`](volumes/volume-45/PROGRESS.md)
 - [`volumes/volume-45/AUDIT.md`](volumes/volume-45/AUDIT.md)
+- [`volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md`](volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md)
 - [`volumes/volume-45/metadata.yml`](volumes/volume-45/metadata.yml)
 - [`volumes/volume-45/contents/index.md`](volumes/volume-45/contents/index.md)
 - [`volumes/volume-45/chapters/README.md`](volumes/volume-45/chapters/README.md)
 
-Do not restart Volume 45 from an earlier boundary.
+Do not restart Volume 45 transcription from an earlier boundary.
 
 ---
 
@@ -190,4 +206,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, continue from **PDF 377 / Letter 3588** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. Resume from the **second full-volume visual/textual-fidelity verification of PDF pages 001–402** unless a later committed repository update moves that boundary.
