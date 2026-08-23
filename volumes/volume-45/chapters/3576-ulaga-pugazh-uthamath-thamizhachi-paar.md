@@ -23,9 +23,9 @@
 
 ## Source notes
 
-- Contents PDF page 021 prints `உலகப் புகழ் - உத்தமத் தமிழச்சி, பார்!`.
+- Contents PDF page 021 prints `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`.
 - Actual letter-start on PDF page 284 prints `உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!`.
-- This source-context punctuation difference is preserved; neither form is normalized to the other.
+- This source-context wording difference is preserved; neither form is normalized to the other.
 
 ## Boundary note
 

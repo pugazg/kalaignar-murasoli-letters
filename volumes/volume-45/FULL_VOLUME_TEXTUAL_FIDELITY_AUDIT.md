@@ -59,6 +59,18 @@ Direct second-pass scan comparison completed for printed pages 15–19, covering
 - **PDF 019 — CORRECTED, then PASS.** The source continues the three-column contents table without a repeated printed header. The non-source repeated `எண் / தலைப்பு / ஆண்டு / பக்கம்` header row was removed; the listed titles, dates and printed-page numbers otherwise agree with the scan.
 - **PDF 020 — CORRECTED, then PASS.** The non-source repeated header row was removed. Direct scan comparison corrected five contents titles: 3565 `இன்று நடந்தது...` → **`இன்று நடப்பது; அன்றே நடந்ததுதான்!`**; 3568 `வென்றவர் சொல்லுவதெல்லாம்...` → **`வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?`**; 3569 `வரும்; எதிர்காலத்தை மறக்குதா?` → **`வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?`**; 3570 `...இந்தத் துளி!` → **`நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!`**; and 3572 `“100” காரணங்களால்...` → **`“100” கருணாநிதிகளால் முடியாதுதான்!`**. These corrected contents readings match the corresponding actual letter-start titles, so the earlier discrepancy records for 3565, 3568–3570 and 3572 have been withdrawn.
 
+### PDF 021–025 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 20–24, covering the final contents pages, a blank/show-through verso and the opening two pages of Letter 3537.
+
+- **PDF 021 — CORRECTED, then PASS.** The source continues the three-column contents table without a repeated header; the non-source separate `எண்` column/header was removed. Letter 3579 was corrected from `வறியில்லா...` to scan-printed **`வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?`**. Letter 3581 was corrected from `மந்திரி அறிவுரை...` to scan-printed **`மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!`**. The source contents forms for 3575 (`...!`) and 3576 (`பாரீர்!`) are preserved; they differ from the currently recorded letter-start forms and are documented as source-context differences pending the later sequential re-check of those start pages.
+- **PDF 022 — CORRECTED, then PASS.** The source continues the three-column table without a repeated header. Letter 3586 was corrected from first-pass contents `தமிழக அரசு...` to scan-printed **`கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`**. This matches the actual letter-start title, so the earlier 3586 discrepancy record is withdrawn.
+- **PDF 023 — PASS.** No printed source text belongs to this page. Faint reverse-side/show-through remains correctly excluded.
+- **PDF 024 — CORRECTED, then PASS.** The first paragraph's figure was corrected from `3 லட்சம் ரூபாயாக` to scan-printed **`3 கோடி ரூபாயாக`**. Title, continuation marker, body figures and source-page ending otherwise agree with the scan.
+- **PDF 025 — CORRECTED, then PASS.** Direct scan comparison restored source forms **`2010-2011ஆம் ஆண்டில்`**, **`இத்திட்டத்தின்கீழ்`**, **`அளவுத் தொகை`**, and **`2006ஆம் ஆண்டுக்குப் பின்`**. The printed form `145 சமத்துவ புரங்களை` is preserved unchanged. The final phrase remains split at the physical page boundary and continues on PDF 026.
+
+Second-pass contents re-verification through PDF 022 therefore withdraws the false contents/letter-start discrepancy records for **3579, 3581 and 3586**, in addition to the previously withdrawn 3565, 3568–3570 and 3572 records. Genuine source-context differences currently retained include 3575 contents `...!` versus the first-pass letter-start `....!`, and 3576 contents `பாரீர்!` versus the first-pass letter-start `பார்!`; their letter-start pages will be re-verified again when reached sequentially.
+
 ### Corrections made so far
 
 | PDF page | Before | Scan-supported canonical reading | Status |
@@ -84,14 +96,24 @@ Direct second-pass scan comparison completed for printed pages 15–19, covering
 | 020 | `வரும்; எதிர்காலத்தை மறக்குதா?` | `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?` | corrected |
 | 020 | `நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி!` | `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!` | corrected |
 | 020 | `“100” காரணங்களால் முடியாதுதான்!` | `“100” கருணாநிதிகளால் முடியாதுதான்!` | corrected |
+| 021 | separate `எண்` column/header | source three-column continuation table without repeated header | corrected |
+| 021 | `வறியில்லா பட்ஜெட்...` | `வரியில்லா பட்ஜெட்...` | corrected |
+| 021 | `மந்திரி அறிவுரை; மலர்மாலை...` | `மந்தி அறியுமா; மலர்மாலை...` | corrected |
+| 022 | separate `எண்` column/header | source three-column continuation table without repeated header | corrected |
+| 022 | `தமிழக அரசு கடைப்பிடித்த...` | `கழக அரசு கடைப்பிடித்த...` | corrected |
+| 024 | `3 லட்சம் ரூபாயாக` | `3 கோடி ரூபாயாக` | corrected |
+| 025 | `2010-2011 ஆம் ஆண்டில்` | `2010-2011ஆம் ஆண்டில்` | corrected |
+| 025 | `இத்திட்டத்தின் கீழ்` | `இத்திட்டத்தின்கீழ்` | corrected |
+| 025 | `அளவுக்கு தொகை` | `அளவுத் தொகை` | corrected |
+| 025 | `2006 ஆம் ஆண்டுக்குப் பின்` | `2006ஆம் ஆண்டுக்குப் பின்` | corrected |
 
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–020 / 402**
-- Scan-proven correction pages in this pass: **12 canonical page files / 21 correction spans**
+- Verified in this second pass: **PDF 001–025 / 402**
+- Scan-proven correction pages in this pass: **16 canonical page files / 31 correction spans**
 - Current result: **IN PROGRESS**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 021 / printed page 20**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 026 / printed page 25**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

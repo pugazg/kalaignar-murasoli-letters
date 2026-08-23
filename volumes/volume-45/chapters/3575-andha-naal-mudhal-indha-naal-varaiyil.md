@@ -24,6 +24,12 @@
 - [PDF page 282](../pages/page-282.md)
 - [PDF page 283](../pages/page-283.md)
 
+## Source notes
+
+- Contents PDF page 021 prints `அந்த நாள் முதல் இந்த நாள் வரையில்...!`.
+- The actual letter-start on PDF page 275 is recorded as `அந்த நாள் முதல் இந்த நாள் வரையில்....!`.
+- This punctuation difference is preserved; PDF 275 will be independently re-checked when the sequential second-pass audit reaches that page.
+
 ## Boundary note
 
-The source record is complete. Its opening title and closing/signature/date were verified directly from the controlling scan.
+The source record is complete. Its opening title and closing/signature/date were verified directly from the controlling scan during first-pass processing.

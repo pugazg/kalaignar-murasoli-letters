@@ -18,11 +18,11 @@ transcription:
   next_pdf_page: null
   structural_audit: pass
   second_visual_verification: in-progress
-  second_visual_verified_page_range: 001-020
-  second_visual_verified_pages: 20
-  second_visual_correction_pages: 12
-  second_visual_correction_spans: 21
-  second_visual_next_pdf_page: "021"
+  second_visual_verified_page_range: 001-025
+  second_visual_verified_pages: 25
+  second_visual_correction_pages: 16
+  second_visual_correction_spans: 31
+  second_visual_next_pdf_page: "026"
 
 translation:
   status: blocked

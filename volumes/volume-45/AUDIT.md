@@ -51,14 +51,17 @@ Status: first-pass reviewed
 - PDF pages 208 and 232 were manually transcribed from the scan because OCR returned no usable text.
 - Letter 3567 substantially repeats the 10-6-2011 press-meeting material also appearing in Letter 3565; the repetition is preserved as printed and is not deduplicated.
 
-### Scan-proven contents/title correction pass — PDF pages 018–020 and affected records
+### Scan-proven contents/title correction pass — PDF pages 018–022 and affected records
 Status: corrected after second-pass direct scan re-verification
 
-- PDF 018–020 were re-read directly from the controlling scan during the full-volume second pass.
+- PDF 018–022 were re-read directly from the controlling scan during the full-volume second pass.
 - PDF 018: the source has a three-column `தலைப்பு / ஆண்டு / பக்கம்` table; the non-source separate `எண்` header/column was removed. Entry 3538 was corrected `ஊராட்சித் துறை` → `ஊராட்சித்துறை`; entry 3541 was corrected `நாளும்` → `நானும்`.
-- PDF 019: the source continues the three-column table without a repeated header; the non-source repeated header row was removed.
-- PDF 020: the non-source repeated header row was removed, and contents titles were corrected for 3565, 3568, 3569, 3570 and 3572.
-- Direct scan comparison shows the corrected contents titles for 3565, 3568–3570 and 3572 match their actual letter-start titles. The earlier discrepancy records for those five letters were first-pass transcription errors and are withdrawn from `contents/index.md`, chapter notes and structural documentation.
+- PDF 019–022: the source continues the three-column table without repeated printed headers; non-source repeated/header-column structures were removed.
+- PDF 020: contents titles were corrected for 3565, 3568, 3569, 3570 and 3572.
+- PDF 021: contents titles were corrected for 3579 and 3581. It also confirms source-context forms 3575 `...!` and 3576 `பாரீர்!`.
+- PDF 022: contents title 3586 was corrected `தமிழக அரசு...` → `கழக அரசு...`.
+- Direct scan comparison shows corrected contents titles for 3565, 3568–3570, 3572, 3579, 3581 and 3586 match their actual first-pass letter-start titles; those earlier discrepancy records were transcription errors and are withdrawn.
+- Genuine source-context differences currently retained are 3575 contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` vs first-pass actual start `....!`, and 3576 contents `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!` vs first-pass actual start `... பார்!`. Their letter-start pages will be independently rechecked when reached by the sequential second pass.
 
 ### Five-letter iteration — Letters 3568–3572, PDF pages 236–265
 Status: first-pass reviewed
@@ -84,7 +87,8 @@ Status: first-pass reviewed
 - Letter 3575: PDF 275–283 / printed 274–282 / closing date 30-7-2011.
 - Letter 3576: PDF 284–289 / printed 283–288 / closing date 31-7-2011.
 - Letter 3577: PDF 290–305 / printed 289–304 / closing date 3-8-2011.
-- Letter 3576 has a source-context punctuation difference: contents PDF page 021 prints `உலகப் புகழ் - உத்தமத் தமிழச்சி, பார்!`; actual letter start on PDF page 284 prints `உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!`.
+- Second-pass contents PDF 021 confirms Letter 3575 contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!`; the first-pass actual start is `....!`. This punctuation difference remains documented pending second-pass recheck of PDF 275.
+- Second-pass contents PDF 021 confirms Letter 3576 contents `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the first-pass actual start is `உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!`. This wording difference remains documented pending second-pass recheck of PDF 284.
 - Letter 3577 contains a long printed catalogue of reported crimes/incidents; the repetition/list structure is preserved rather than condensed.
 
 ### Post-batch scan-fidelity correction — PDF pages 281, 283, 304–305
@@ -104,8 +108,7 @@ Status: first-pass reviewed
 - Letter 3581: PDF 328–337 / printed 327–336 / closing date 13-8-2011.
 - Letter 3582: PDF 338–344 / printed 337–343 / closing date 25-08-2011.
 - PDF pages 315, 325 and 335 were transcribed directly from the scan because OCR returned no usable body text.
-- Letter 3579 has a source-context title difference: contents `வறியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?`; actual start `வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?`.
-- Letter 3581 has a source-context title difference: contents `மந்திரி அறிவுரை; மலர்மாலை மணமும் அழகும்!`; actual start `மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!`.
+- Earlier contents/letter-start discrepancy notes for 3579 and 3581 are withdrawn: second-pass direct scan comparison of PDF 021 proves the contents itself prints `வரியில்லா பட்ஜெட்...` and `மந்தி அறியுமா...`, matching the first-pass actual starts.
 - Letter 3580 preserves the printed English police quotation on PDF page 325.
 - Scan comparison corrected OCR artifacts including PDF 339's `1971ஆம் ஆண்டு`, restored the omitted Nakkiran verse on PDF 341, and restored omitted source sentences on PDF 342.
 
@@ -119,7 +122,7 @@ Status: first-pass reviewed
 - Letter 3587: PDF 370–376 / printed 369–375 / closing date 13-9-2011.
 - PDF page 347 was re-read directly from the scan after an inadequate temporary transcription was detected; the scan-supported canonical text replaced it immediately.
 - Letter 3583 preserves the source-supplied English Colin Gonsalves quotation on PDF page 345.
-- Letter 3586 has a source-context title difference: contents prints `தமிழக அரசு...`; actual letter start prints `கழக அரசு...`.
+- The earlier 3586 contents/letter-start discrepancy is withdrawn: second-pass direct scan comparison of PDF 022 proves the contents prints `கழக அரசு...`, matching the actual letter start.
 
 ### End-of-volume smaller batch — Letters 3588–3591, PDF pages 377–401
 Status: first-pass reviewed
@@ -146,19 +149,22 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–020 / 402**
+Status: **IN PROGRESS — verified PDF 001–025 / 402**
 
 - PDF 001–005: verified; PDF 002 and 003 corrected from the scan.
 - PDF 006–010: verified; PDF 008, 009 and 010 corrected from the scan.
 - PDF 011–015: verified; PDF 011, 012 and 013 corrected from the scan; PDF 014–015 passed unchanged.
 - PDF 016–020: verified; PDF 016, 018, 019 and 020 corrected from the scan; PDF 017 passed unchanged.
-- Cumulative second-pass correction pages: 12 canonical page files / 21 correction spans.
+- PDF 021–025: verified; PDF 021, 022, 024 and 025 corrected from the scan; PDF 023 passed unchanged.
+- Cumulative second-pass correction pages: 16 canonical page files / 31 correction spans.
 - PDF 015 source repetition `கலைஞர் கலைஞருக்கான` is preserved as printed.
-- PDF 020 second-pass verification withdrew false contents/letter-start discrepancy records for 3565, 3568–3570 and 3572.
+- PDF 023 show-through remains excluded as non-printed page text.
+- PDF 025 source form `145 சமத்துவ புரங்களை` is preserved as printed.
+- Second-pass contents verification through PDF 022 withdrew false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live page-level second-pass log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 021 / printed page 20** and continue sequentially through PDF 402.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 026 / printed page 25** and continue sequentially through PDF 402.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

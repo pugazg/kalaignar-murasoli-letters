@@ -42,18 +42,18 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3572 | “100” கருணாநிதிகளால் முடியாதுதான்! | 19-7-2011 | 260 | 261 | 265 | complete |
 | 3573 | அல்லல் நீங்கும்; தொல்லை குறையும்! | 21-7-2011 | 265 | 266 | 268 | complete |
 | 3574 | அமைதி வழி - அறவழி - அதுவே அண்ணா வழி! | 28-7-2011 | 268 | 269 | 274 | complete |
-| 3575 | அந்த நாள் முதல் இந்த நாள் வரையில்....! | 30-7-2011 | 274 | 275 | 283 | complete |
-| 3576 | உலகப் புகழ் - உத்தமத் தமிழச்சி, பார்! | 31-7-2011 | 283 | 284 | 289 | complete |
+| 3575 | அந்த நாள் முதல் இந்த நாள் வரையில்...! | 30-7-2011 | 274 | 275 | 283 | complete |
+| 3576 | உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்! | 31-7-2011 | 283 | 284 | 289 | complete |
 | 3577 | மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே! | 3-8-2011 | 289 | 290 | 305 | complete |
 | 3578 | உனக்கொரு நீதி; ஊருக்கொரு நீதியா? | 5-8-2011 | 305 | 306 | 312 | complete |
-| 3579 | வறியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா? | 6-8-2011 | 312 | 313 | 319 | complete |
+| 3579 | வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா? | 6-8-2011 | 312 | 313 | 319 | complete |
 | 3580 | பரவாயில்லை; ஆடும் வரை ஆடட்டும்! | 12-08-2011 | 319 | 320 | 327 | complete |
-| 3581 | மந்திரி அறிவுரை; மலர்மாலை மணமும் அழகும்! | 13-8-2011 | 327 | 328 | 337 | complete |
+| 3581 | மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்! | 13-8-2011 | 327 | 328 | 337 | complete |
 | 3582 | இனிய விழா; நமது இனத்தின் விழா! | 25-08-2011 | 337 | 338 | 344 | complete |
 | 3583 | அதிகாரம் இல்லை? அந்தநாள் ஞாபகம் இல்லையா? | 1-9-2011 | 344 | 345 | 351 | complete |
 | 3584 | அடிநாதமே; அறுக்கப்படுவதா? | 8-9-2011 | 351 | 352 | 357 | complete |
 | 3585 | அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!! | 10-9-2011 | 357 | 358 | 364 | complete |
-| 3586 | தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்! | 12-9-2011 | 364 | 365 | 369 | complete |
+| 3586 | கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்! | 12-9-2011 | 364 | 365 | 369 | complete |
 | 3587 | மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்! | 13-9-2011 | 369 | 370 | 376 | complete |
 | 3588 | கல்வி; கருகிடும் மொட்டாவதா? | 14-9-2011 | 376 | 377 | 382 | complete |
 | 3589 | எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி? | 19-9-2011 | 382 | 383 | 390 | complete |
@@ -64,4 +64,4 @@ The contents wording below is preserved from the controlling scan. Contents entr
 
 Tamil transcription is complete for Volume 45: all 55 actual source records, Letters 3537–3591, are mapped to verified canonical boundaries. Letter 3591 closes at PDF 401 / printed page 400, and PDF 402 is the back cover / publisher matter.
 
-The full-volume Tamil structural audit is PASS. The second visual/textual-fidelity verification is in progress; direct scan comparison through PDF 020 has corrected residual contents-page transcription errors, including false contents/letter-start discrepancy records for 3565, 3568–3570 and 3572.
+The full-volume Tamil structural audit is PASS. The second visual/textual-fidelity verification is in progress; direct scan comparison through PDF 025 has corrected residual contents-page transcription errors. False contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586 have been withdrawn. Genuine source-context differences currently retained include Letter 3575 contents `...!` versus letter-start `....!`, and Letter 3576 contents `பாரீர்!` versus letter-start `பார்!`.

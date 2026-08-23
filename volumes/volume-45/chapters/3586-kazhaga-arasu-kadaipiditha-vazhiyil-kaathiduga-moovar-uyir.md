@@ -20,6 +20,12 @@
 - [PDF page 368](../pages/page-368.md)
 - [PDF page 369](../pages/page-369.md)
 
+## Source notes
+
+- Second-pass direct scan re-verification of contents PDF page 022 confirms `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`.
+- The actual letter start on PDF page 365 has the same title.
+- The earlier contents reading `தமிழக அரசு...` was a transcription error and the false discrepancy record has been withdrawn.
+
 ## Boundary note
 
-The source record is complete. The contents page prints `தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the actual letter start prints `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`. Both source contexts are preserved.
+The source record is complete. Its opening title and closing/signature/date were verified directly from the controlling scan.
