@@ -32,5 +32,10 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3560 — மேலோர் பாராட்டு; கீழோர் பழிக்கின்றாரே!](3560-melor-paarattu-kizhor-pazhikkinrare.md) | 5-5-2011 | complete | 181–188 |
 | [3561 — உனக்கும், எனக்கும் - உலகத் தமிழர்க்கும் பொன்னாள்!](3561-unakkum-enakkum-ulaga-thamizharkkum-ponnaal.md) | 7-5-2011 | complete | 189–196 |
 | [3562 — “சில நேரங்களில் சில மனிதர்கள்!”](3562-sila-nerangalil-sila-manithargal.md) | 13-5-2011 | complete | 197–200 |
+| [3563 — இறுதிப் போரில் நாம் வெல்வது திண்ணம்!](3563-irudhip-poril-naam-velvadhu-thinnam.md) | 22-5-2011 | complete | 201–208 |
+| [3564 — “ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”](3564-eeyathai-paarthu-ilithadhaam-piththalai.md) | 3-6-2011 | complete | 209–217 |
+| [3565 — ஒன்று நடப்பது; அன்றே நடந்ததுதான்!](3565-ondru-nadappadhu-andre-nadandhadhuthaan.md) | 11-6-2011 | complete | 218–222 |
+| [3566 — அதுவே ஓர் ஆறுதல்தான்!](3566-adhuve-or-aarudhaldhaan.md) | 13-6-2011 | complete | 223–230 |
+| [3567 — ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!](3567-edugal-sila-yenguginrana-kodugal-varadha-endru.md) | 14-06-2011 | complete | 231–235 |
 
-Exact next activity: begin the next five-letter iteration with Letter 3563 at PDF page 201 / printed page 200.
+Exact next activity: begin the next five-letter iteration with Letter 3568 at PDF page 236 / printed page 235.

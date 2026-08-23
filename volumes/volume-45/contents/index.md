@@ -30,12 +30,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3560 | மேலோர் பாராட்ட: கீழோர் பழிக்கின்றாரே! | 5-5-2011 | 180 | 181 | 188 | complete |
 | 3561 | உனக்கும், எனக்கும் - உலகத் தமிழர்க்கும் பொன்னாள்! | 7-5-2011 | 188 | 189 | 196 | complete |
 | 3562 | “சில நேரங்களில் சில மனிதர்கள்!” | 13-5-2011 | 196 | 197 | 200 | complete |
+| 3563 | இறுதிப் போரில் நாம் வெல்வது திண்ணம்! | 22-5-2011 | 200 | 201 | 208 | complete |
+| 3564 | “எய்ததைப் பார்த்து இனித்ததும் பித்தனோ!” | 3-6-2011 | 208 | 209 | 217 | complete |
+| 3565 | ஒன்று நடந்தது; அன்றே நடந்ததுதான்! | 11-6-2011 | 217 | 218 | 222 | complete |
+| 3566 | அதுவே ஓர் ஆறுதல்தான்! | 13-6-2011 | 222 | 223 | 230 | complete |
+| 3567 | எங்கள் சில எங்களுக்கு; கொடுகள் வராதா என்ன! | 14-06-2011 | 230 | 231 | 235 | complete |
 
 ## Current transcription boundary
 
-The fifth normal five-letter iteration covers Letters 3558–3562, PDF pages 170–200. The next actual source record is Letter 3563 at PDF page 201 / printed page 200.
-
-## Source-context discrepancies preserved
-
-- Letter 3558 contents wording (`திராவிடத் தந்தையும் - தி.மு.க.வும்!`) differs from the actual letter-start title (`திரைப்படத்துறையும் - தி.மு.க.வும்!`); both are preserved in their own source contexts.
-- Letter 3559 contents wording (`சத்துணவைத் திட்டாதே; புத்துணர்ச்சி திட்டம்!`) differs from the actual letter-start title (`கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!`); both are preserved without reconciliation.
+The sixth normal five-letter iteration covers Letters 3563–3567, PDF pages 201–235. The next actual source record is Letter 3568 at PDF page 236 / printed page 235.

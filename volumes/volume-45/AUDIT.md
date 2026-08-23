@@ -13,90 +13,53 @@ The scan is authoritative. OCR and external sources are not authoritative.
 ## Tamil QA status
 
 ### Batch 001 — PDF pages 001–025
-
 Status: first-pass reviewed
-
-- Canonical page files present for PDF pages 001–025.
-- Letter 3537 begins at PDF page 024 / printed page 23 and continues beyond the first-batch boundary.
 
 ### Immediate continuation — Letter 3537, PDF pages 026–033
-
 Status: first-pass reviewed
-
-- Letter 3537 completed at PDF page 033 / printed page 32 with its source closing and date.
 
 ### Five-letter iteration — Letters 3538–3542, PDF pages 034–068
-
 Status: first-pass reviewed
-
-- Canonical page files present for PDF pages 034–068.
-- Letter 3538: PDF 034–041 / printed 33–40 / closing date 13-03-2011.
-- Letter 3539: PDF 042–049 / printed 41–48 / closing date 14-03-2011.
-- Letter 3540: PDF 050–056 / printed 49–55 / closing date 15-03-2011.
-- Letter 3541: PDF 057–060 / printed 56–59 / closing date 15-03-2011.
-- Letter 3542: PDF 061–068 / printed 60–67 / closing date 16-03-2011.
 
 ### Five-letter iteration — Letters 3543–3547, PDF pages 069–110
-
 Status: first-pass reviewed
 
-- Canonical page files present for PDF pages 069–110.
-- Letter 3543: PDF 069–079 / printed 68–78 / closing date 17-03-2011.
-- Letter 3544: PDF 080–088 / printed 79–87 / closing date 18-03-2011.
-- Letter 3545: PDF 089–098 / printed 88–97 / closing date 19-03-2011.
-- Letter 3546: PDF 099–103 / printed 98–102 / closing date 19-03-2011.
-- Letter 3547: PDF 104–110 / printed 103–109 / closing date 20-03-2011.
-- PDF page 102 contains a visible later library stamp/handwriting over the upper page area; it is excluded from printed source text and documented in the page/chapter notes.
-- PDF page 098 contains the unusual printed form `112.2006-ல்`; it is preserved as printed rather than silently normalized.
+- PDF page 102 contains later library stamp/handwriting; excluded from printed source text.
+- PDF page 098 unusual printed form `112.2006-ல்` preserved.
 
 ### Five-letter iteration — Letters 3548–3552, PDF pages 111–144
-
 Status: first-pass reviewed
-
-- Canonical page files present for PDF pages 111–144.
-- Letter 3548: PDF 111–118 / printed 110–117 / closing date 21-03-2011.
-- Letter 3549: PDF 119–122 / printed 118–121 / closing date 22-03-2011.
-- Letter 3550: PDF 123–128 / printed 122–127 / closing date 23-03-2011.
-- Letter 3551: PDF 129–141 / printed 128–140 / closing date 28-03-2011.
-- Letter 3552: PDF 142–144 / printed 141–143 / closing date 30-03-2011.
-- Each page in the iteration was checked against the controlling scan for page/letter boundaries and first-pass textual fidelity; OCR was used only as a drafting aid.
-- Running page headers and printed page numbers are not duplicated into canonical body text.
-- Printed English/Latin material is retained where printed, including the Election Commission quotation in Letter 3550.
 
 ### Five-letter iteration — Letters 3553–3557, PDF pages 145–169
-
 Status: first-pass reviewed
 
-- Canonical page files present for PDF pages 145–169.
-- Letter 3553: PDF 145–149 / printed 144–148 / closing date 5-4-2011.
-- Letter 3554: PDF 150–154 / printed 149–153 / closing date 13-4-2011.
-- Letter 3555: PDF 155–159 / printed 154–158 / closing date 17-4-2011.
-- Letter 3556: PDF 160–163 / printed 159–162 / closing date 21-4-2011.
-- Letter 3557: PDF 164–169 / printed 163–168 / closing date 24-04-2011.
-- Letter 3557's source title is preserved as `பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?`; no sandhi correction was introduced.
-- PDF page 166 was manually transcribed from the scan because OCR quality was insufficient.
-- The scan on PDF page 164 prints `ஆகஸ்ட் 13ஆம் தேதியன்றே` in the 1981 passage; that reading is preserved even though an earlier working note had recorded a different date.
-- Dates and quoted political statements in Letter 3557 were retained in source position without outside reconciliation.
-- Each page in this iteration received first-pass direct scan comparison; full-volume second visual verification remains pending as a separate gate.
+- PDF page 166 manually transcribed from scan because OCR quality was insufficient.
+- PDF page 164 scan reading `ஆகஸ்ட் 13ஆம் தேதியன்றே` preserved.
 
 ### Five-letter iteration — Letters 3558–3562, PDF pages 170–200
+Status: first-pass reviewed
+
+- Letter 3558 contents title and actual letter-start title differ; both retained.
+- Letter 3559 contents title and actual letter-start title differ; both retained.
+
+### Five-letter iteration — Letters 3563–3567, PDF pages 201–235
 
 Status: first-pass reviewed
 
-- Canonical page files present for PDF pages 170–200.
-- Letter 3558: PDF 170–175 / printed 169–174 / closing date 30-04-2011.
-- Letter 3559: PDF 176–180 / printed 175–179 / closing date 4-5-2011.
-- Letter 3560: PDF 181–188 / printed 180–187 / closing date 5-5-2011.
-- Letter 3561: PDF 189–196 / printed 188–195 / closing date 7-5-2011.
-- Letter 3562: PDF 197–200 / printed 196–199 / closing date 13-5-2011.
-- Letter 3558 contents title and actual letter-start title differ; both source readings are retained in their own contexts.
-- Letter 3559 contents title and actual letter-start title differ; both source readings are retained in their own contexts.
-- OCR was used only as a drafting aid. Pages with failed OCR were re-read from the scan; accepted batch boundaries, titles, closings, dates and first-pass body readings were visually checked against the controlling scan.
+- Canonical page files present for PDF pages 201–235.
+- Letter 3563: PDF 201–208 / printed 200–207 / closing date 22-5-2011.
+- Letter 3564: PDF 209–217 / printed 208–216 / closing date 3-6-2011.
+- Letter 3565: PDF 218–222 / printed 217–221 / closing date 11-6-2011.
+- Letter 3566: PDF 223–230 / printed 222–229 / closing date 13-6-2011.
+- Letter 3567: PDF 231–235 / printed 230–234 / closing date 14-06-2011.
+- PDF pages 208 and 232 were manually transcribed from the scan because OCR returned no usable text.
+- Actual letter-start titles were verified directly from the scan. The contents wording differs from actual starts for Letters 3564, 3565 and 3567; both source-context readings are retained rather than silently reconciled.
+- Letter 3567 substantially repeats the 10-6-2011 press-meeting material also appearing in Letter 3565; the repetition is preserved as printed and is not deduplicated.
 - Running page headers and printed page numbers are not duplicated into canonical body text.
-- Printed English/Latin material and quoted source material are retained where printed.
+- OCR was used only as a drafting aid; source boundaries, titles, closings, dates and first-pass accepted readings were checked against the controlling scan.
 
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 201 with Letter 3563.
+The next five-letter iteration begins at PDF page 236 with Letter 3568.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
