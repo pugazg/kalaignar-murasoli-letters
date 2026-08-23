@@ -9,7 +9,7 @@
 
 ## Source text
 
-3565. ஒன்று நடப்பது; அன்றே நடந்ததுதான்!
+3565. இன்று நடப்பது; அன்றே நடந்ததுதான்!
 
 உடன்பிறப்பே,
 
@@ -45,4 +45,5 @@
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
-- Letter 3565 begins on this page; title was verified directly from the scan.
+- Letter 3565 begins on this page; the scan-proven title reading is `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
+- The earlier `ஒன்று நடப்பது` reading was corrected after direct scan re-verification.

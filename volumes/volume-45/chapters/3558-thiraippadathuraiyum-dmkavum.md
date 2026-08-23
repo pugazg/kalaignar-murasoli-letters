@@ -23,9 +23,8 @@
 
 ## Source notes
 
-- Contents page wording: `திராவிடத் தந்தையும் - தி.மு.க.வும்!`
-- Actual letter-start title: `திரைப்படத்துறையும் - தி.மு.க.வும்!`
-- The discrepancy is preserved; neither reading is silently reconciled.
+- Direct scan re-verification of contents PDF page 019 confirms the contents title is also `திரைப்படத்துறையும் - தி.மு.க.வும்!`.
+- The earlier recorded contents/letter-title discrepancy was caused by an OCR-derived contents transcription error and has been removed.
 
 ## Boundary note
 

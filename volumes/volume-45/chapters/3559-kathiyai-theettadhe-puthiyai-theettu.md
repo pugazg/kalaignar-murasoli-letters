@@ -22,9 +22,8 @@
 
 ## Source notes
 
-- Contents page wording: `சத்துணவைத் திட்டாதே; புத்துணர்ச்சி திட்டம்!`
-- Actual letter-start title: `கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!`
-- The discrepancy is preserved; neither reading is silently reconciled.
+- Direct scan re-verification of contents PDF page 020 confirms the contents title is also `கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!`.
+- The earlier recorded contents/letter-title discrepancy was caused by an OCR-derived contents transcription error and has been removed.
 
 ## Boundary note
 

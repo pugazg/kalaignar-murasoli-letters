@@ -22,9 +22,8 @@
 
 ## Source notes
 
-- Contents-page wording currently transcribed in the canonical contents context: `எங்கள் சில எங்களுக்கு; கொடுகள் வராதா என்ன!`
-- Actual letter-start title: `ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!`
-- Both readings are preserved in their own source contexts; they are not silently reconciled.
+- Direct scan re-verification of contents PDF page 020 confirms the same title, `ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!`.
+- The earlier recorded discrepancy was caused by an OCR-derived contents transcription error and has been removed.
 
 ## Boundary note
 

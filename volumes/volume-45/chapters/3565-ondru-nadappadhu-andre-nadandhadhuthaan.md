@@ -1,4 +1,4 @@
-# Letter 3565 — ஒன்று நடப்பது; அன்றே நடந்ததுதான்!
+# Letter 3565 — இன்று நடப்பது; அன்றே நடந்ததுதான்!
 
 - Letter number: 3565
 - Date: 11-6-2011
@@ -10,7 +10,7 @@
 
 ## Source title
 
-ஒன்று நடப்பது; அன்றே நடந்ததுதான்!
+இன்று நடப்பது; அன்றே நடந்ததுதான்!
 
 ## Canonical pages
 
@@ -22,9 +22,9 @@
 
 ## Source notes
 
-- Contents-page wording currently transcribed in the canonical contents context: `ஒன்று நடந்தது; அன்றே நடந்ததுதான்!`
-- Actual letter-start title: `ஒன்று நடப்பது; அன்றே நடந்ததுதான்!`
-- Both readings are preserved in their own source contexts; they are not silently reconciled.
+- Contents PDF page 020 prints `இன்று நடந்தது; அன்றே நடந்ததுதான்!`.
+- The actual letter-start on PDF page 218 prints `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
+- This genuine source-context discrepancy is preserved; neither reading is normalized to the other.
 
 ## Boundary note
 

@@ -39,9 +39,6 @@ Status: first-pass reviewed
 ### Five-letter iteration — Letters 3558–3562, PDF pages 170–200
 Status: first-pass reviewed
 
-- Letter 3558 contents title and actual letter-start title differ; both retained.
-- Letter 3559 contents title and actual letter-start title differ; both retained.
-
 ### Five-letter iteration — Letters 3563–3567, PDF pages 201–235
 
 Status: first-pass reviewed
@@ -53,10 +50,20 @@ Status: first-pass reviewed
 - Letter 3566: PDF 223–230 / printed 222–229 / closing date 13-6-2011.
 - Letter 3567: PDF 231–235 / printed 230–234 / closing date 14-06-2011.
 - PDF pages 208 and 232 were manually transcribed from the scan because OCR returned no usable text.
-- Actual letter-start titles were verified directly from the scan. The contents wording differs from actual starts for Letters 3564, 3565 and 3567; both source-context readings are retained rather than silently reconciled.
 - Letter 3567 substantially repeats the 10-6-2011 press-meeting material also appearing in Letter 3565; the repetition is preserved as printed and is not deduplicated.
 - Running page headers and printed page numbers are not duplicated into canonical body text.
 - OCR was used only as a drafting aid; source boundaries, titles, closings, dates and first-pass accepted readings were checked against the controlling scan.
+
+### Scan-proven contents/title correction pass — PDF pages 019–020 and affected records
+
+Status: corrected after direct scan re-verification
+
+- Canonical contents pages 019 and 020 were re-read directly from the scan after OCR-derived misreadings were detected.
+- False contents/letter-start discrepancy notes for Letters 3558, 3559, 3564 and 3567 were removed. The scan shows matching titles in those source contexts.
+- Letter 3565 was corrected from the erroneous letter-start reading `ஒன்று நடப்பது; அன்றே நடந்ததுதான்!` to the scan-supported `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
+- Letter 3565 retains one genuine source-context discrepancy: contents PDF page 020 prints `இன்று நடந்தது; அன்றே நடந்ததுதான்!`, while the actual letter start on PDF page 218 prints `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
+- Other scan-proven contents corrections on PDF pages 019–020 were synchronized into `contents/index.md`.
+- These are canonical Tamil corrections supported by fresh direct scan comparison, not modernization or outside reconciliation.
 
 ## Next QA boundary
 

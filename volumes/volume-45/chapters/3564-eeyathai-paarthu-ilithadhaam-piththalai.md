@@ -26,9 +26,8 @@
 
 ## Source notes
 
-- Contents-page wording currently transcribed in the canonical contents context: `“எய்ததைப் பார்த்து இனித்ததும் பித்தனோ!”`
-- Actual letter-start title: `“ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”`
-- Both readings are preserved in their own source contexts; they are not silently reconciled.
+- Direct scan re-verification of contents PDF page 020 confirms the same title, `“ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”`.
+- The earlier recorded discrepancy was caused by an OCR-derived contents transcription error and has been removed.
 
 ## Boundary note
 
