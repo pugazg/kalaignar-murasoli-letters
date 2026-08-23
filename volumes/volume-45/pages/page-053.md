@@ -36,7 +36,7 @@
 பள்ளி ஆகியவை தொடங்கப்பட உள்ளன. விழுப்புரம், திருவாரூர்
 மாவட்ட மருத்துவமனைகள் ஏற்கனவே செயல்பட்டு வந்த
 கட்டடங்களில் செவிலியர் பள்ளி, நகர நல மையம் ஆகியவை
-நடப்பு ஆண்டில் தொடங்கிடவும் நடவடிக்கை கள் எடுக்கப்பட்டு
+நடப்பு ஆண்டில் தொடங்கிடவும் நடவடிக்கைகள் எடுக்கப்பட்டு
 வருகின்றன.
 பல் மருத்துவ வசதி
 கிராமப் பகுதி மக்களுக்குப் பல் தொடர்பான நோய்களுக்குச்
@@ -48,3 +48,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `நடவடிக்கை கள்` → `நடவடிக்கைகள்`.

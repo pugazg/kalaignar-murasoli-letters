@@ -31,7 +31,7 @@
 இலட்சத்து 49 ஆயிரத்து 988 பிரசவங்கள் நிகழ்ந்துள்ளன.
 இந்தியாவிலேயே தமிழ்நாட்டில்தான் ஆரம்ப சுகாதார
 நிலையங்களில் அதிக அளவில் பிரசவங்களும், சிசேரியன் அறுவை
-சிகிச்சையும் நடைபெறுகின்றது. 2009-10 ஆம் ஆண்டில் 2,694
+சிகிச்சையும் நடைபெறுகின்றது. 2009-10ஆம் ஆண்டில் 2,694
 சிசேரியன் அறுவை சிகிச்சைகள் செய்யப்பட்டுள்ளன. 2010-
 11ஆம் ஆண்டில் பிப்ரவரி-2011 வரை 4,363 சிசேரியன் அறுவை
 சிகிச்சைகள் நடந்துள்ளன. இதுவரை கடந்த 5 ஆண்டுகளில்
@@ -50,3 +50,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification restored `2009-10ஆம் ஆண்டில்` before the `2,694` figure. Source-spaced forms including `கணிச மாகக்` and `பிரசவங் களின்` remain preserved.

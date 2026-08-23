@@ -19,7 +19,7 @@
 இத்திட்டம் 06.04.2005ல் தொடங்கப்பட்டது.
 எனினும் 13.5.2006 வரை 4.95 கோடி ரூபாய் மட்டுமே
 செலவிடப்பட்டிருந்தது. ஆனால் இத்திட்டம் 31.10.2009 அன்று
-நிறைவு பெற்றபோது 292.94 கோடி ரூபாய் செலவிடப் பட்டுள்ளது.
+நிறைவு பெற்றபோது 292.94 கோடி ரூபாய் செலவிடப்பட்டுள்ளது.
 இத்திட்டம் மாநிலத்தின் 12 ஊரக கடலோர மாவட்டங்களில் 1602
 குடியிருப்புகள் அடங்கிய 257 கடலோர கிராம ஊராட்சிகளில்
 செயல்படுத்தப்பட்டுள்ளது.
@@ -40,7 +40,7 @@
 ஒவ்வொருவருக்கும் 10,000/-ரூபாய் மான்யமாக அளித்து
 அதன் மூலம் தொடர் வருமானம் தரக்கூடிய ஒரு சுயதொழிலை
 மேற்கொள்ள வழிவகை செய்யப்பட்டுள்ளது. இத்திட்டத்தின் கீழ்
-34, 634 மாற்றுத் திறனாளிகளுக்கு ஏறத்தாழ 34.63 கோடி ரூபாய்
+34,634 மாற்றுத் திறனாளிகளுக்கு ஏறத்தாழ 34.63 கோடி ரூபாய்
 மான்யமாக வழங்கப்பட்டுள்ளது.
 
 கடலோர மாவட்டங்களில் உள்ள சுய உதவிக் குழுக்கள்,
@@ -55,3 +55,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `செலவிடப் பட்டுள்ளது` → `செலவிடப்பட்டுள்ளது` and `34, 634` → `34,634`; the source-spaced `இத்திட்டத்தின் கீழ்` is preserved.

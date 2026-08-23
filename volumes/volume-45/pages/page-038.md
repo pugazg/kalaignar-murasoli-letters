@@ -48,10 +48,11 @@
 
 தொண்டு நிறுவனங்கள் வீடுகள் கட்டிய பகுதிகளில்
 அடிப்படை வசதிகள் ராஜீவ்காந்தி மறுவாழ்வுத் திட்டத்தில்
-57.34 கோடி ரூபாய் மதிப்பீட்டில் மேற்கொள்ளப்பட்டுள் ளன.
+57.34 கோடி ரூபாய் மதிப்பீட்டில் மேற்கொள்ளப்பட்டுள்ளன.
 
 ## Archival notes
 
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected the split `மேற்கொள்ளப்பட்டுள் ளன` → `மேற்கொள்ளப்பட்டுள்ளன`.

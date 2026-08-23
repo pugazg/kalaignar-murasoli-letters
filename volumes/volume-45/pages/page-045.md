@@ -42,7 +42,7 @@
 
 1 இலட்சத்து 60 ஆயிரத்து 903 மாணவ மாணவியர்க்கு
 இலவச கண்ணாடிகள் வழங்கப்பட்டன. 2010-2011 முதல் 6
-மற்றும் 10-ஆம் வகுப்பு வரை படிக்கும் மாணவ மாணவியாாக்கும்
+மற்றும் 10-ஆம் வகுப்பு வரை படிக்கும் மாணவ மாணவியர்க்கும்
 விரிவுபடுத்தப்பட்ட இத்திட்டம் 28.2.2011 வரை 39
 இலட்சத்து 60 ஆயிரத்து 467 மாணவ மாணவியர்களுக்குப்
 பரிசோதனைகள் செய்து, 1 இலட்சத்து 70 ஆயிரத்து 803
@@ -52,3 +52,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `மாணவ மாணவியாாக்கும்` → `மாணவ மாணவியர்க்கும்`.

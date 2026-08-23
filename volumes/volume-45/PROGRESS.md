@@ -20,9 +20,9 @@
 - Canonical page coverage completed: PDF 001–402 / 402
 - Full-volume Tamil structural audit: PASS
 - Second full-volume visual/textual-fidelity verification started
-- Second-pass verified: PDF 001–035
-- Scan-proven second-pass correction pages: PDF 002, 003, 008, 009, 010, 011, 012, 013, 016, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028, 030, 031, 033, 034 and 035
-- PDF 029 and PDF 032 passed second-pass direct scan comparison unchanged
+- Second-pass verified: PDF 001–060
+- Scan-proven second-pass correction pages: PDF 002, 003, 008, 009, 010, 011, 012, 013, 016, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028, 030, 031, 033, 034, 035, 036, 038, 039, 040, 044, 045, 046, 048, 051, 052, 053, 054 and 056
+- PDF 029, 032, 037, 041, 042, 043, 047, 049, 050, 055, 057, 058, 059 and 060 passed second-pass direct scan comparison unchanged
 - Second-pass contents re-verification withdrew false discrepancy records for Letters 3565, 3568, 3569, 3570, 3572, 3579, 3581 and 3586
 - Genuine source-context differences currently retained: Letter 3575 contents `...!` vs first-pass letter-start `....!`; Letter 3576 contents `பாரீர்!` vs first-pass letter-start `பார்!`
 
@@ -35,11 +35,11 @@ Second full-volume visual/textual-fidelity verification **IN PROGRESS**.
 - Canonical PDF coverage: 402 / 402
 - Source letters: 55 / 55, Letters 3537–3591
 - Full-volume structural audit: PASS
-- Second visual/textual-fidelity audit: verified PDF 001–035 / 402
-- Second-pass corrections so far: 24 canonical page files / 57 correction spans
-- Exact next scan page: PDF 036 / printed page 35
+- Second visual/textual-fidelity audit: verified PDF 001–060 / 402
+- Second-pass corrections so far: 37 canonical page files / 75 correction spans
+- Exact next scan page: PDF 061 / printed page 60
 - English translation: blocked until second visual/textual-fidelity audit PASS
 
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity audit at **PDF 036 / printed page 35** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.
+Resume the second full-volume visual/textual-fidelity audit at **PDF 061 / printed page 60** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.

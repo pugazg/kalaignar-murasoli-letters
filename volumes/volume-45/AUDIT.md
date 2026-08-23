@@ -149,7 +149,7 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–035 / 402**
+Status: **IN PROGRESS — verified PDF 001–060 / 402**
 
 - PDF 001–005: verified; PDF 002 and 003 corrected from the scan.
 - PDF 006–010: verified; PDF 008, 009 and 010 corrected from the scan.
@@ -158,7 +158,12 @@ Status: **IN PROGRESS — verified PDF 001–035 / 402**
 - PDF 021–025: verified; PDF 021, 022, 024 and 025 corrected from the scan; PDF 023 passed unchanged.
 - PDF 026–030: verified; PDF 026, 027, 028 and 030 corrected from the scan; PDF 029 passed unchanged.
 - PDF 031–035: verified; PDF 031, 033, 034 and 035 corrected from the scan; PDF 032 passed unchanged.
-- Cumulative second-pass correction pages: 24 canonical page files / 57 correction spans.
+- PDF 036–040: verified; PDF 036, 038, 039 and 040 corrected from the scan; PDF 037 passed unchanged.
+- PDF 041–045: verified; PDF 044 and 045 corrected from the scan; PDF 041–043 passed unchanged.
+- PDF 046–050: verified; PDF 046 and 048 corrected from the scan; PDF 047, 049 and 050 passed unchanged.
+- PDF 051–055: verified; PDF 051, 052, 053 and 054 corrected from the scan; PDF 055 passed unchanged.
+- PDF 056–060: verified; PDF 056 corrected from the scan; PDF 057–060 passed unchanged.
+- Cumulative second-pass correction pages: 37 canonical page files / 75 correction spans.
 - PDF 015 source repetition `கலைஞர் கலைஞருக்கான` is preserved as printed.
 - PDF 023 show-through remains excluded as non-printed page text.
 - PDF 025 source form `145 சமத்துவ புரங்களை` is preserved as printed.
@@ -166,11 +171,17 @@ Status: **IN PROGRESS — verified PDF 001–035 / 402**
 - PDF 030 source form `தோற்று விக்கப்பட்ட` is preserved.
 - PDF 031 and PDF 033 preserve position-specific joined/spaced `சுயஉதவிக்` / `சுய உதவிக்` forms rather than normalizing the page globally.
 - PDF 033 preserves Letter 3537's `(தொடர்ச்சி நாளை)`, closing, signature and `12-03-2011` date.
+- PDF 036 preserves the separately spaced source form `இத்திட்டத்தின் கீழ்` while correcting two unrelated transcription errors.
+- PDF 039 preserves its later source-spaced `இத்திட்டத்தின் கீழ்`; only `O-200` was corrected to source `0-200`.
+- PDF 040 distinguishes source Roman list markers `I.` / `II.` from the separate prose `11 கடலோர மாவட்டங்களில்`.
+- PDF 048 preserves source-spaced forms such as `கணிச மாகக்` and `பிரசவங் களின்` while restoring `2009-10ஆம் ஆண்டில்`.
+- PDF 051 preserves the visibly garbled remainder of its parenthetical source string instead of silently decoding it.
+- PDF 056 preserves Letter 3540's closing and `15-03-2011` date while correcting only the first `நாஸிங் தெரபி` occurrence.
 - Second-pass contents verification through PDF 022 withdrew false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live page-level second-pass log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 036 / printed page 35** and continue sequentially through PDF 402.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 061 / printed page 60** and continue sequentially through PDF 402.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

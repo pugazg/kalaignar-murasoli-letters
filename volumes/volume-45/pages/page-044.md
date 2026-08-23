@@ -9,7 +9,7 @@
 
 ## Source text
 
-108’ அவசர கால மருத்துவ ஊர்தி சேவைத் திட்டம்
+'108' அவசர கால மருத்துவ ஊர்தி சேவைத் திட்டம்
 கிராமப்புற ஏழை மக்களுக்கு அவசர காலங்களில்
 
 உடனடி மருத்துவ வசதி கிடைத்திட வேண்டும் என்பதற்காக
@@ -54,3 +54,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification restored the printed heading punctuation `'108'`.

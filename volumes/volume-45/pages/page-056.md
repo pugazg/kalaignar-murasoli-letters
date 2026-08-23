@@ -17,7 +17,7 @@
 கல்லூரி 90 இலட்சம் ரூபாய்ச் செலவிலும், சென்னை அரசு
 யுனானி மருத்துவக் கல்லூரி 92.50 இலட்சம் ரூபாய்ச் செலவிலும்
 மேம்படுத்தப்பட்டுள்ளது. பாளையங்கோட்டை அரசினர் சித்த
-மருத்துவக் கல்லூரியில் நர்ஸிங் தெரபி ஒரு மருந்தாளுநர் என்ற
+மருத்துவக் கல்லூரியில் நாஸிங் தெரபி ஒரு மருந்தாளுநர் என்ற
 பட்டப் படிப்புக்கு தலா 3 கோடி ரூபாய்ச் செலவிலும், சென்னை
 அறிஞர் அண்ணா அரசினர் இந்திய மருத்துவ மனையில் நாஸிங்
 தெரபி, மருந்தாளுநர் பட்டயப் படிப்புகள் தலா 3 கோடி ரூபாய்ச்
@@ -33,3 +33,4 @@
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
 - This page contains the verified closing boundary for Letter 3540, including the printed date 15-03-2011.
+- Second-pass direct scan verification corrected the first `நர்ஸிங் தெரபி` → scan-printed `நாஸிங் தெரபி`; the later `நாஸிங் தெரபி` was already source-faithful.

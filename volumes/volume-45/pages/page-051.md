@@ -17,8 +17,8 @@
 நிலையங்களுக்கும் தொலைபேசி இணைப்புகளும், கிராம சுகாதார
 செவிலியர்கள் அனைவருக்கும் செல்போன்களும் வழங்கப்
 பட்டு; கிராம மக்கள் அவசர காலங்களில் எளிதில் தொடர்பு
-கொண்டு உரிய சிகிச்சைகள் பெறவும் வகை செய்யப்பட் டுள்ளது.
-காணொலி காட்சி அரங்கு (ஏனைநடி ஊடிகேநசநடேந) மூலமாக
+கொண்டு உரிய சிகிச்சைகள் பெறவும் வகை செய்யப்பட்டுள்ளது.
+காணொலி காட்சி அரங்கு (எனைநடி ஊடிகேநசநடேந) மூலமாக
 நேரடியாக மாவட்ட அலுவலர் களுடன் தொடர்பு கொண்டு துறை
 செயல் பாடுகள் குறித்து ஆய்வு செய்யப்பட்டுள்ளது.
 நடமாடும் மருத்துவக் குழுக்கள்
@@ -48,3 +48,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `செய்யப்பட் டுள்ளது` → `செய்யப்பட்டுள்ளது` and the initial parenthetical form `ஏனைநடி` → `எனைநடி`; the remaining visibly garbled parenthetical source text is preserved without decoding.

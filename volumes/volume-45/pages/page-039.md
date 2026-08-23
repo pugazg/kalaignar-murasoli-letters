@@ -17,7 +17,7 @@
 இணைப்புகள் அமைக்கும் பணிகளும் மேற்கொள்ளப்பட்டு
 அனைத்து பணிகளும் முடிவு பெற்றுள்ளன.
 
-11 கடலோர மாவட்டங்களில் அலை ஏற்றத்திலிருந்து O-200
+11 கடலோர மாவட்டங்களில் அலை ஏற்றத்திலிருந்து 0-200
 மீட்டருக்குள் உள்ள எளிதில் பாதிப்புக்குள்ளாகும் வீடுகள்,
 
 1000 மீட்டருக்குள் உள்ள இந்திரா நினைவு குடியிருப்புத்
@@ -54,3 +54,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `O-200` → `0-200`; the later source-spaced `இத்திட்டத்தின் கீழ்` is preserved.

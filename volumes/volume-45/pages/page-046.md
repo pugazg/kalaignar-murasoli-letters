@@ -22,7 +22,7 @@
 2007-ஆம் ஆண்டு டிசம்பர் மாதத்தில் இருந்தும், பள்ளி
 மாணவர்களுக்காக “பள்ளிச் சிறார் இருதய அறுவை சிகிச்சைத்
 திட்டம்” 3.6.2008 முதற்கொண்டும் செயல்படுத்தப்படுகின்றன.
-இந்த இரண்டு திட்டங்களின்கீ ழும் புகழ்பெற்ற 27 தனியார்
+இந்த இரண்டு திட்டங்களின்கீழும் புகழ்பெற்ற 27 தனியார்
 மருத்துவமனைகளில் ஏழைக் குழந்தைகளுக்கு இலவச இருதய
 அறுவை சிகிச்சைகள் செய்யப்பட்டுள்ளன. இத்திட்டங்களின்
 கீழ், சென்னை எழும்பூர் குழந்தைகள் நல மருத்துவமனையில்
@@ -53,3 +53,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `திட்டங்களின்கீ ழும்` → `திட்டங்களின்கீழும்`.

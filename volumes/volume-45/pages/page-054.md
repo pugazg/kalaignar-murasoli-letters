@@ -20,7 +20,7 @@
 மற்றும் அவசர சிகிச்சைப் பிரிவுகள் இதுவரை நாமக்கல், கடலூர்,
 பத்மநாபபுரம், வாலாஜா பேட்டை, மேலூர், தென்காசி, தாம்பரம்,
 பெரம்பலூர், ஓமலூர் ஆகிய 9 மருத்துவ மனைகளில் விபத்து
-மற்றும் அவரச சிகிச்சை பிரிவுகள் திறக்கப்பட்டு செயல்பட்டு
+மற்றும் அவசர சிகிச்சை பிரிவுகள் திறக்கப்பட்டு செயல்பட்டு
 வருகிறது. கிருஷ்ணகிரி, திண்டுக்கல், கோவில் பட்டி, கரூர்
 மாவட்ட தலைமை மருத்துவமனை கள், வேலூர், கீழ்பாக்கம்
 அரசு மருத்துவக் கல்லூரி மருத்துவ மனைகள், மதுரை இராஜாஜி
@@ -52,3 +52,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `அவரச சிகிச்சை` → `அவசர சிகிச்சை`.

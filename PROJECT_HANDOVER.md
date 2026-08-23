@@ -43,8 +43,8 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–035 verified**
-- Second-pass corrections so far: **24 canonical page files / 57 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–060 verified**
+- Second-pass corrections so far: **37 canonical page files / 75 correction spans**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
@@ -68,16 +68,29 @@ Second-pass corrections so far include:
 - PDF 033 — restored four visibly joined `சுயஉதவிக்` / `சுயஉதவிக்குழுக்கள்` source positions; the closing/signature/date remain unchanged.
 - PDF 034 — corrected `உறுப்பினர்களுக் கிடையே` → `உறுப்பினர்களுக்கிடையே`, restored `உதவிக்குழுக்களுக்கிடையே`, and restored `2008-09 ஆம்` / `2010-11 ஆம்` spacing.
 - PDF 035 — restored source punctuation `எம்.ஆர்.எப்.,`.
+- PDF 036 — corrected `செலவிடப் பட்டுள்ளது` → `செலவிடப்பட்டுள்ளது` and `34, 634` → `34,634`.
+- PDF 038 — corrected `மேற்கொள்ளப்பட்டுள் ளன` → `மேற்கொள்ளப்பட்டுள்ளன`.
+- PDF 039 — corrected `O-200` → source `0-200`.
+- PDF 040 — restored Roman list markers `I.` / `II.` in place of first-pass `1.` / `11.`.
+- PDF 044 — restored heading punctuation `'108'`.
+- PDF 045 — corrected malformed `மாணவ மாணவியாாக்கும்` → `மாணவ மாணவியர்க்கும்`.
+- PDF 046 — corrected `திட்டங்களின்கீ ழும்` → `திட்டங்களின்கீழும்`.
+- PDF 048 — restored source `2009-10ஆம் ஆண்டில்` before the `2,694` figure.
+- PDF 051 — corrected `செய்யப்பட் டுள்ளது` → `செய்யப்பட்டுள்ளது` and `ஏனைநடி` → `எனைநடி`; the remaining garbled parenthetical source text remains preserved.
+- PDF 052 — corrected `திண்டுக் கல்` → `திண்டுக்கல்`, `தரம் உயர்த்தப்பட் டுள்ளது` → `தரம் உயர்த்தப்பட்டுள்ளது`, and `ருபாய்ச்` → `ரூபாய்ச்` in the `150 கோடி` line.
+- PDF 053 — corrected `நடவடிக்கை கள்` → `நடவடிக்கைகள்`.
+- PDF 054 — corrected `அவரச சிகிச்சை` → `அவசர சிகிச்சை`.
+- PDF 056 — corrected the first `நர்ஸிங் தெரபி` → scan-printed `நாஸிங் தெரபி`.
 
 Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
 
-Preserved source anomalies in the verified range include PDF 015's repeated `கலைஞர் கலைஞருக்கான`, PDF 025's `145 சமத்துவ புரங்களை`, PDF 027's `அமைத்தித்து`, the cross-page PDF 027 statement `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` followed by PDF 028's six-district list, and PDF 030's `தோற்று விக்கப்பட்ட`. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 029 and PDF 032 passed second-pass comparison unchanged. Position-specific joined/spaced self-help-group forms on PDF 031 and PDF 033 are preserved rather than normalized globally.
+Preserved source anomalies in the verified range include PDF 015's repeated `கலைஞர் கலைஞருக்கான`, PDF 025's `145 சமத்துவ புரங்களை`, PDF 027's `அமைத்தித்து`, the cross-page PDF 027 statement `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` followed by PDF 028's six-district list, PDF 030's `தோற்று விக்கப்பட்ட`, source-spaced `இத்திட்டத்தின் கீழ்` on PDF 036 and PDF 039, source-spaced forms including `கணிச மாகக்` / `பிரசவங் களின்` on PDF 048, and the visibly garbled remainder of the PDF 051 parenthetical string. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 029, PDF 032, PDF 037, PDF 041–043, PDF 047, PDF 049–050, PDF 055 and PDF 057–060 passed second-pass comparison unchanged. Position-specific joined/spaced forms are preserved rather than normalized globally.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 036 / printed page 35**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 061 / printed page 60**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -196,4 +209,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 035**. Resume at **PDF 036 / printed page 35** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 060**. Resume at **PDF 061 / printed page 60** unless a later committed repository update moves that boundary.

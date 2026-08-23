@@ -91,6 +91,56 @@ Direct second-pass scan comparison completed for printed pages 30–34, completi
 - **PDF 034 — CORRECTED, then PASS.** Corrected `உறுப்பினர்களுக் கிடையே` → **`உறுப்பினர்களுக்கிடையே`**, restored source **`உதவிக்குழுக்களுக்கிடையே`**, and restored the printed year spacing **`2008-09 ஆம் ஆண்டு`** and **`2010-11 ஆம் ஆண்டு`**.
 - **PDF 035 — CORRECTED, then PASS.** Restored the source punctuation **`எம்.ஆர்.எப்.,`**. Figures, company names, `2014 ஆம் ஆண்டுவரை`, and the page-boundary ending `கல்வி மையங்கள்,` otherwise agree with the scan.
 
+### PDF 036–040 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 35–39, continuing Letter 3538.
+
+- **PDF 036 — CORRECTED, then PASS.** Corrected `செலவிடப் பட்டுள்ளது` → **`செலவிடப்பட்டுள்ளது`** and `34, 634` → **`34,634`**. The source-spaced `இத்திட்டத்தின் கீழ்` is preserved.
+- **PDF 037 — PASS.** Direct comparison confirmed the continuation from `“அன்னை தெரசா மகளிர்` through the rural-services paragraphs; no canonical correction was required.
+- **PDF 038 — CORRECTED, then PASS.** Corrected the split `மேற்கொள்ளப்பட்டுள் ளன` → **`மேற்கொள்ளப்பட்டுள்ளன`**.
+- **PDF 039 — CORRECTED, then PASS.** Corrected `O-200` → scan-printed **`0-200`**. The later source-spaced `இத்திட்டத்தின் கீழ்` is preserved.
+- **PDF 040 — CORRECTED, then PASS.** Restored the source Roman list markers **`I.`** and **`II.`** in place of first-pass `1.` / `11.`. The prose `11 கடலோர மாவட்டங்களில்` is a separate source reading and remains unchanged.
+
+### PDF 041–045 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 40–44, completing Letter 3538 and continuing Letter 3539.
+
+- **PDF 041 — PASS.** Letter 3538 continuation, closing material and page-boundary wording agree with the scan.
+- **PDF 042 — PASS.** Letter 3538/3539 boundary material and opening health-policy text agree with the scan.
+- **PDF 043 — PASS.** Health-policy continuation, figures and headings agree with the scan.
+- **PDF 044 — CORRECTED, then PASS.** Restored the source heading punctuation **`'108'`** in place of first-pass `108’`.
+- **PDF 045 — CORRECTED, then PASS.** Corrected malformed first-pass `மாணவ மாணவியாாக்கும்` → scan-printed **`மாணவ மாணவியர்க்கும்`**.
+
+### PDF 046–050 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 45–49, continuing Letter 3539 and beginning Letter 3540.
+
+- **PDF 046 — CORRECTED, then PASS.** Corrected `திட்டங்களின்கீ ழும்` → **`திட்டங்களின்கீழும்`**.
+- **PDF 047 — PASS.** Direct scan comparison confirmed the continuation of the medical-programme discussion and page-boundary transition; no canonical correction was required.
+- **PDF 048 — CORRECTED, then PASS.** Restored scan-printed **`2009-10ஆம் ஆண்டில்`** before the `2,694` figure. Source-spaced forms including `கணிச மாகக்` and `பிரசவங் களின்` remain preserved.
+- **PDF 049 — PASS.** Direct comparison confirmed figures, programme descriptions and page-boundary text; no canonical correction was required.
+- **PDF 050 — PASS.** Letter 3539 closing / Letter 3540 opening sequence and source wording agree with the scan.
+
+### PDF 051–055 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 50–54, continuing Letter 3540.
+
+- **PDF 051 — CORRECTED, then PASS.** Corrected `செய்யப்பட் டுள்ளது` → **`செய்யப்பட்டுள்ளது`** and the initial parenthetical form `ஏனைநடி` → scan-printed **`எனைநடி`**. The remaining visibly garbled parenthetical source text is preserved without decoding.
+- **PDF 052 — CORRECTED, then PASS.** Corrected `திண்டுக் கல்` → **`திண்டுக்கல்`**, `தரம் உயர்த்தப்பட் டுள்ளது` → **`தரம் உயர்த்தப்பட்டுள்ளது`**, and `150 கோடி ருபாய்ச்` → **`150 கோடி ரூபாய்ச்`**.
+- **PDF 053 — CORRECTED, then PASS.** Corrected `நடவடிக்கை கள்` → **`நடவடிக்கைகள்`**.
+- **PDF 054 — CORRECTED, then PASS.** Corrected `அவரச சிகிச்சை` → **`அவசர சிகிச்சை`**.
+- **PDF 055 — PASS.** Direct comparison confirmed the continuation of the public-health / Indian-medicine section and its page-boundary text; no canonical correction was required.
+
+### PDF 056–060 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 55–59, closing Letter 3540 and continuing the next source sequence.
+
+- **PDF 056 — CORRECTED, then PASS.** Corrected the first `நர்ஸிங் தெரபி` → scan-printed **`நாஸிங் தெரபி`**; the later `நாஸிங் தெரபி` was already source-faithful. Letter 3540's `(தொடர்ச்சி நாளை)`, closing and `15-03-2011` date remain intact.
+- **PDF 057 — PASS.** Direct scan comparison confirmed the page body, figures and source page boundary; no canonical correction was required.
+- **PDF 058 — PASS.** Direct scan comparison confirmed source wording and punctuation; no canonical correction was required.
+- **PDF 059 — PASS.** Direct scan comparison confirmed source wording, figures and page-boundary continuation; no canonical correction was required.
+- **PDF 060 — PASS.** Direct scan comparison confirmed source wording and the printed-page ending; no canonical correction was required.
+
 ### Corrections made so far
 
 | PDF page | Before | Scan-supported canonical reading | Status |
@@ -145,14 +195,32 @@ Direct second-pass scan comparison completed for printed pages 30–34, completi
 | 034 | `2008-09ஆம் ஆண்டு` | `2008-09 ஆம் ஆண்டு` | corrected |
 | 034 | `2010-11ஆம் ஆண்டு` | `2010-11 ஆம் ஆண்டு` | corrected |
 | 035 | `எம்.ஆர்.எப்,` | `எம்.ஆர்.எப்.,` | punctuation restored |
+| 036 | `செலவிடப் பட்டுள்ளது` | `செலவிடப்பட்டுள்ளது` | corrected |
+| 036 | `34, 634` | `34,634` | corrected |
+| 038 | `மேற்கொள்ளப்பட்டுள் ளன` | `மேற்கொள்ளப்பட்டுள்ளன` | corrected |
+| 039 | `O-200` | `0-200` | corrected |
+| 040 | `1.` | `I.` | list marker restored |
+| 040 | `11.` | `II.` | list marker restored |
+| 044 | `108’` | `'108'` | punctuation restored |
+| 045 | `மாணவ மாணவியாாக்கும்` | `மாணவ மாணவியர்க்கும்` | corrected |
+| 046 | `திட்டங்களின்கீ ழும்` | `திட்டங்களின்கீழும்` | corrected |
+| 048 | `2009-10 ஆம் ஆண்டில்` | `2009-10ஆம் ஆண்டில்` | corrected |
+| 051 | `செய்யப்பட் டுள்ளது` | `செய்யப்பட்டுள்ளது` | corrected |
+| 051 | `ஏனைநடி` | `எனைநடி` | corrected |
+| 052 | `திண்டுக் கல்` | `திண்டுக்கல்` | corrected |
+| 052 | `தரம் உயர்த்தப்பட் டுள்ளது` | `தரம் உயர்த்தப்பட்டுள்ளது` | corrected |
+| 052 | `150 கோடி ருபாய்ச்` | `150 கோடி ரூபாய்ச்` | corrected |
+| 053 | `நடவடிக்கை கள்` | `நடவடிக்கைகள்` | corrected |
+| 054 | `அவரச சிகிச்சை` | `அவசர சிகிச்சை` | corrected |
+| 056 | `நர்ஸிங் தெரபி` | `நாஸிங் தெரபி` | corrected |
 
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–035 / 402**
-- Scan-proven correction pages in this pass: **24 canonical page files / 57 correction spans**
+- Verified in this second pass: **PDF 001–060 / 402**
+- Scan-proven correction pages in this pass: **37 canonical page files / 75 correction spans**
 - Current result: **IN PROGRESS**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 036 / printed page 35**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 061 / printed page 60**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

@@ -18,12 +18,12 @@
 இத்துறை பின்வரும் கட்டுமானப் பணிகளை மேற்கொள்ள
 திட்டமிட்டுள்ளது. (ETRP-VRCCP)
 
-1. கடல் உயர் அலை ஏற்றத்திலிருந்து 200 மீட்டர் முதல்
+I. கடல் உயர் அலை ஏற்றத்திலிருந்து 200 மீட்டர் முதல்
 1000 மீட்டர் வரையிலுள்ள கடலோரப் பகுதிகளில் உள்ள எளிதில்
 பாதிப்புக்கு உள்ளாகும் எனக் கண்டறியப்பட்ட ஏறத்தாழ 17,000
 வீடுகளை மீளக் கட்டித் தருதல்.
 
-11. அவசர காலத்தில் எளிதாக வெளியேறி தப்பித்து செல்லத்
+II. அவசர காலத்தில் எளிதாக வெளியேறி தப்பித்து செல்லத்
 தேவையான வெளியேறும் சாலைகளை அமைத்தல். மேலும்
 வெளியேறும் சாலைகளில் பாதுகாப்பானப் பகுதியினைச்
 சென்றடைய ஏதுவாக வழிகாட்டுப் பலகைகள் அமைத்துத்
@@ -55,3 +55,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification restored the source Roman list markers `I.` and `II.`; the prose `11 கடலோர மாவட்டங்களில்` remains unchanged.
