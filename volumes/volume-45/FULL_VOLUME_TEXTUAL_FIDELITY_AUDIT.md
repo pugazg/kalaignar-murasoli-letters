@@ -29,20 +29,33 @@ Direct scan comparison completed for the opening cover/title/imprint/dedication/
 - **PDF 004 — PASS.** `அம்மாவுக்கு...` and `கௌரா பதிப்பகக் குழுமம்` agree with the scan; portrait and later stamp are correctly treated as visual/annotation material.
 - **PDF 005 — PASS.** No printed source text; faint show-through from the preceding page is correctly excluded.
 
+### PDF 006–010 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 5–9 of the foreword.
+
+- **PDF 006 — PASS.** Heading, printed body, names and punctuation agree with the scan. Later library stamps/seals remain excluded from edition text.
+- **PDF 007 — PASS.** Foreword continuation, figures `4051`, `11`, `36`, Greek-name/date material and page-boundary continuation agree with the scan.
+- **PDF 008 — CORRECTED, then PASS.** First-pass canonical `எடுத்துச் இயம்பியவர்கள்` differs from the printed scan, which reads **`எடுத்து இயம்பியவர்கள்`**. Canonical page corrected.
+- **PDF 009 — CORRECTED, then PASS.** First-pass canonical `ஏற்பாடித் தொகுத்துச் சொல்லவும்` differs from the printed scan, which reads **`ஏற்றபடி தொகுத்துச் சொல்லவும்`**. Canonical page corrected.
+- **PDF 010 — CORRECTED, then PASS.** First-pass canonical `பேரறுமை` differs from the printed scan, which reads **`பேரருமை`**. Canonical page corrected. The final sentence remains split at the source page boundary.
+
 ### Corrections made so far
 
 | PDF page | Before | Scan-supported canonical reading | Status |
 |---:|---|---|---|
 | 002 | `சீதா பதிப்பகம்` | `சீதை பதிப்பகம்` | corrected |
 | 003 | `சீதா பதிப்பகம்` | `சீதை பதிப்பகம்` | corrected |
+| 008 | `எடுத்துச் இயம்பியவர்கள்` | `எடுத்து இயம்பியவர்கள்` | corrected |
+| 009 | `ஏற்பாடித் தொகுத்துச் சொல்லவும்` | `ஏற்றபடி தொகுத்துச் சொல்லவும்` | corrected |
+| 010 | `பேரறுமை` | `பேரருமை` | corrected |
 
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–005 / 402**
-- Corrections in this pass: **2 canonical page files**
+- Verified in this second pass: **PDF 001–010 / 402**
+- Corrections in this pass: **5 canonical page files**
 - Current result: **IN PROGRESS**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 006 / printed page 5**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 011 / printed page 10**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
