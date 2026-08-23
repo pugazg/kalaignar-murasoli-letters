@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual verification pending
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual verification IN PROGRESS through PDF 010
 
 ## Controlling source
 
@@ -17,17 +17,18 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 - Completed source-letter records: 55
 - Completed source-letter range: 3537–3591
 - Full-volume Tamil structural audit: PASS
-- Second full-volume visual/textual-fidelity verification: pending
+- Second full-volume visual/textual-fidelity verification: IN PROGRESS — PDF 001–010 / 402 verified
+- Second-pass scan-proven correction pages: 5 — PDF 002, 003, 008, 009, 010
 - English translation: blocked until the second Tamil fidelity gate passes
 
 ## End boundary
 
 Letter 3591 closes at PDF page 401 / printed page 400 on `27-9-2011`. PDF page 402 is the back cover / portrait / publisher matter and is preserved as its own canonical page record.
 
-The canonical page layer now covers every PDF page, 001–402, and the chapter/contents layers account for all 55 actual source letters.
+The canonical page layer covers every PDF page, 001–402, and the chapter/contents layers account for all 55 actual source letters.
 
 ## Exact next activity
 
-Perform the required second visual/textual-fidelity verification of canonical pages 001–402 against the controlling scan. This is a separate QA gate from the completed iteration audits and the structural audit. Do not begin English translation until it passes.
+Resume the required second visual/textual-fidelity verification at **PDF 011 / printed page 10** and continue sequential direct comparison against the controlling scan. This is a separate QA gate from the completed iteration audits and structural audit. Do not begin English translation until all 402 pages pass.
 
-See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) for the structural gate result.
+See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) for the structural gate and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the live second-pass log.
