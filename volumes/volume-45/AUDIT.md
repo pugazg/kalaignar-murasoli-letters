@@ -149,22 +149,25 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–025 / 402**
+Status: **IN PROGRESS — verified PDF 001–030 / 402**
 
 - PDF 001–005: verified; PDF 002 and 003 corrected from the scan.
 - PDF 006–010: verified; PDF 008, 009 and 010 corrected from the scan.
 - PDF 011–015: verified; PDF 011, 012 and 013 corrected from the scan; PDF 014–015 passed unchanged.
 - PDF 016–020: verified; PDF 016, 018, 019 and 020 corrected from the scan; PDF 017 passed unchanged.
 - PDF 021–025: verified; PDF 021, 022, 024 and 025 corrected from the scan; PDF 023 passed unchanged.
-- Cumulative second-pass correction pages: 16 canonical page files / 31 correction spans.
+- PDF 026–030: verified; PDF 026, 027, 028 and 030 corrected from the scan; PDF 029 passed unchanged.
+- Cumulative second-pass correction pages: 20 canonical page files / 43 correction spans.
 - PDF 015 source repetition `கலைஞர் கலைஞருக்கான` is preserved as printed.
 - PDF 023 show-through remains excluded as non-printed page text.
 - PDF 025 source form `145 சமத்துவ புரங்களை` is preserved as printed.
+- PDF 027 source form `அமைத்தித்து` is preserved; its `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` statement is preserved alongside PDF 028's six-district enumeration without reconciliation.
+- PDF 030 source form `தோற்று விக்கப்பட்ட` is preserved.
 - Second-pass contents verification through PDF 022 withdrew false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live page-level second-pass log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 026 / printed page 25** and continue sequentially through PDF 402.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 031 / printed page 30** and continue sequentially through PDF 402.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

@@ -20,8 +20,9 @@
 - Canonical page coverage completed: PDF 001–402 / 402
 - Full-volume Tamil structural audit: PASS
 - Second full-volume visual/textual-fidelity verification started
-- Second-pass verified: PDF 001–025
-- Scan-proven second-pass correction pages: PDF 002, 003, 008, 009, 010, 011, 012, 013, 016, 018, 019, 020, 021, 022, 024 and 025
+- Second-pass verified: PDF 001–030
+- Scan-proven second-pass correction pages: PDF 002, 003, 008, 009, 010, 011, 012, 013, 016, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028 and 030
+- PDF 029 passed second-pass direct scan comparison unchanged
 - Second-pass contents re-verification withdrew false discrepancy records for Letters 3565, 3568, 3569, 3570, 3572, 3579, 3581 and 3586
 - Genuine source-context differences currently retained: Letter 3575 contents `...!` vs first-pass letter-start `....!`; Letter 3576 contents `பாரீர்!` vs first-pass letter-start `பார்!`
 
@@ -34,11 +35,11 @@ Second full-volume visual/textual-fidelity verification **IN PROGRESS**.
 - Canonical PDF coverage: 402 / 402
 - Source letters: 55 / 55, Letters 3537–3591
 - Full-volume structural audit: PASS
-- Second visual/textual-fidelity audit: verified PDF 001–025 / 402
-- Second-pass corrections so far: 16 canonical page files / 31 correction spans
-- Exact next scan page: PDF 026 / printed page 25
+- Second visual/textual-fidelity audit: verified PDF 001–030 / 402
+- Second-pass corrections so far: 20 canonical page files / 43 correction spans
+- Exact next scan page: PDF 031 / printed page 30
 - English translation: blocked until second visual/textual-fidelity audit PASS
 
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity audit at **PDF 026 / printed page 25** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.
+Resume the second full-volume visual/textual-fidelity audit at **PDF 031 / printed page 30** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.

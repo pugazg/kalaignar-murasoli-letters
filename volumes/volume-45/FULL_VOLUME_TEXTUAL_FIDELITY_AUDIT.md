@@ -71,6 +71,16 @@ Direct second-pass scan comparison completed for printed pages 20–24, covering
 
 Second-pass contents re-verification through PDF 022 therefore withdraws the false contents/letter-start discrepancy records for **3579, 3581 and 3586**, in addition to the previously withdrawn 3565, 3568–3570 and 3572 records. Genuine source-context differences currently retained include 3575 contents `...!` versus the first-pass letter-start `....!`, and 3576 contents `பாரீர்!` versus the first-pass letter-start `பார்!`; their letter-start pages will be re-verified again when reached sequentially.
 
+### PDF 026–030 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 25–29, continuing Letter 3537.
+
+- **PDF 026 — CORRECTED, then PASS.** Restored scan-printed **`இத்திட்டத்தின்கீழ்`** and **`திட்டத்தின்கீழ்`**, the printed hyphen in **`சாலைகள் -`**, and the source forms **`2008-2009ஆம் ஆண்டு`** and **`2010-2011ஆம் ஆண்டில்`**.
+- **PDF 027 — CORRECTED, then PASS.** Both first-pass `இத்திட்டத்தின் கீழ்` occurrences were restored to scan-printed **`இத்திட்டத்தின்கீழ்`**. The unusual printed form `அமைத்தித்து` is preserved unchanged. The source says `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` at the page end; PDF 028 then enumerates six districts. That cross-page source inconsistency is preserved rather than reconciled.
+- **PDF 028 — CORRECTED, then PASS.** First-pass `செயல்ரீதியாக` was corrected to scan-printed **`செயல் ரீதியாக`**. The six-district list is preserved exactly as printed.
+- **PDF 029 — PASS.** Direct comparison confirmed the printed figures, dates, employment terms, bonus forms and `டிஸ்மிஸ்` wording; no canonical correction was required.
+- **PDF 030 — CORRECTED, then PASS.** Restored scan-printed **`சுயஉதவிக்`** in two source positions, **`திட்டத்தின்கீழ்`**, and **`அனைத்துக் கிராம`**. The printed form `தோற்று விக்கப்பட்ட` remains preserved.
+
 ### Corrections made so far
 
 | PDF page | Before | Scan-supported canonical reading | Status |
@@ -106,14 +116,26 @@ Second-pass contents re-verification through PDF 022 therefore withdraws the fal
 | 025 | `இத்திட்டத்தின் கீழ்` | `இத்திட்டத்தின்கீழ்` | corrected |
 | 025 | `அளவுக்கு தொகை` | `அளவுத் தொகை` | corrected |
 | 025 | `2006 ஆம் ஆண்டுக்குப் பின்` | `2006ஆம் ஆண்டுக்குப் பின்` | corrected |
+| 026 | `இத்திட்டத்தின் கீழ்` | `இத்திட்டத்தின்கீழ்` | corrected |
+| 026 | `திட்டத்தின் கீழ்` | `திட்டத்தின்கீழ்` | corrected |
+| 026 | `சாலைகள்` | `சாலைகள் -` | punctuation restored |
+| 026 | `2008-2009-ஆம் ஆண்டு` | `2008-2009ஆம் ஆண்டு` | corrected |
+| 026 | `2010-2011 ஆம் ஆண்டில்` | `2010-2011ஆம் ஆண்டில்` | corrected |
+| 027 | `இத்திட்டத்தின் கீழ்` (first occurrence) | `இத்திட்டத்தின்கீழ்` | corrected |
+| 027 | `இத்திட்டத்தின் கீழ்` (second occurrence) | `இத்திட்டத்தின்கீழ்` | corrected |
+| 028 | `செயல்ரீதியாக` | `செயல் ரீதியாக` | corrected |
+| 030 | `சுய உதவிக்` (first joined source position) | `சுயஉதவிக்` | corrected |
+| 030 | `திட்டத்தின் கீழ்` | `திட்டத்தின்கீழ்` | corrected |
+| 030 | `சுய உதவிக்` (second joined source position) | `சுயஉதவிக்` | corrected |
+| 030 | `அனைத்து கிராம` | `அனைத்துக் கிராம` | corrected |
 
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–025 / 402**
-- Scan-proven correction pages in this pass: **16 canonical page files / 31 correction spans**
+- Verified in this second pass: **PDF 001–030 / 402**
+- Scan-proven correction pages in this pass: **20 canonical page files / 43 correction spans**
 - Current result: **IN PROGRESS**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 026 / printed page 25**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 031 / printed page 30**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

@@ -43,8 +43,8 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–025 verified**
-- Second-pass corrections so far: **16 canonical page files / 31 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–030 verified**
+- Second-pass corrections so far: **20 canonical page files / 43 correction spans**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
@@ -60,16 +60,20 @@ Second-pass corrections so far include:
 - PDF 022 — corrected contents title for 3586.
 - PDF 024 — `3 லட்சம் ரூபாயாக` → scan-printed `3 கோடி ரூபாயாக`.
 - PDF 025 — restored scan forms `2010-2011ஆம்`, `இத்திட்டத்தின்கீழ்`, `அளவுத் தொகை`, `2006ஆம்`.
+- PDF 026 — restored `இத்திட்டத்தின்கீழ்`, `திட்டத்தின்கீழ்`, `சாலைகள் -`, `2008-2009ஆம்`, `2010-2011ஆம்`.
+- PDF 027 — restored two `இத்திட்டத்தின்கீழ்` forms.
+- PDF 028 — `செயல்ரீதியாக` → scan-printed `செயல் ரீதியாக`.
+- PDF 030 — restored two `சுயஉதவிக்` forms, `திட்டத்தின்கீழ்`, and `அனைத்துக் கிராம`.
 
 Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
 
-PDF 001, 004–007, 014–015, 017 and 023 passed without canonical text correction. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 015's repeated `கலைஞர் கலைஞருக்கான` and PDF 025's `145 சமத்துவ புரங்களை` are preserved as printed.
+Preserved source anomalies in the verified range include PDF 015's repeated `கலைஞர் கலைஞருக்கான`, PDF 025's `145 சமத்துவ புரங்களை`, PDF 027's `அமைத்தித்து`, the cross-page PDF 027 statement `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` followed by PDF 028's six-district list, and PDF 030's `தோற்று விக்கப்பட்ட`. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 029 passed second-pass comparison unchanged.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 026 / printed page 25**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 031 / printed page 30**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -188,4 +192,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 025**. Resume at **PDF 026 / printed page 25** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 030**. Resume at **PDF 031 / printed page 30** unless a later committed repository update moves that boundary.
