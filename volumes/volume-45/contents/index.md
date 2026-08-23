@@ -50,7 +50,14 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3580 | பரவாயில்லை; ஆடும் வரை ஆடட்டும்! | 12-08-2011 | 319 | 320 | 327 | complete |
 | 3581 | மந்திரி அறிவுரை; மலர்மாலை மணமும் அழகும்! | 13-8-2011 | 327 | 328 | 337 | complete |
 | 3582 | இனிய விழா; நமது இனத்தின் விழா! | 25-08-2011 | 337 | 338 | 344 | complete |
+| 3583 | அதிகாரம் இல்லை? அந்தநாள் ஞாபகம் இல்லையா? | 1-9-2011 | 344 | 345 | 351 | complete |
+| 3584 | அடிநாதமே; அறுக்கப்படுவதா? | 8-9-2011 | 351 | 352 | 357 | complete |
+| 3585 | அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!! | 10-9-2011 | 357 | 358 | 364 | complete |
+| 3586 | தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்! | 12-9-2011 | 364 | 365 | 369 | complete |
+| 3587 | மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்! | 13-9-2011 | 369 | 370 | 376 | complete |
 
 ## Current transcription boundary
 
-The ninth normal five-letter iteration covers Letters 3578–3582, PDF pages 306–344. The next actual source record is Letter 3583 at PDF page 345 / printed page 344.
+The tenth normal five-letter iteration covers Letters 3583–3587, PDF pages 345–376. The contents title for 3586 differs from the actual letter-start title: contents prints `தமிழக அரசு...`, while PDF page 365 prints `கழக அரசு...`; both are preserved in their source contexts.
+
+Only four actual source letters remain. The next source record is Letter 3588 at PDF page 377 / printed page 376; complete Letters 3588–3591 under the documented end-of-volume smaller-batch exception, then transcribe any remaining end matter through PDF page 402.
