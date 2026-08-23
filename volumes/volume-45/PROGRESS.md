@@ -20,8 +20,8 @@
 - Canonical page coverage completed: PDF 001–402 / 402
 - Full-volume Tamil structural audit: PASS
 - Second full-volume visual/textual-fidelity verification started
-- Second-pass verified: PDF 001–005
-- Scan-proven second-pass corrections: PDF 002 and 003 publisher spelling `சீதா பதிப்பகம்` → `சீதை பதிப்பகம்`
+- Second-pass verified: PDF 001–010
+- Scan-proven second-pass corrections: PDF 002, 003, 008, 009 and 010
 
 ## Current stage
 
@@ -32,11 +32,11 @@ Second full-volume visual/textual-fidelity verification **IN PROGRESS**.
 - Canonical PDF coverage: 402 / 402
 - Source letters: 55 / 55, Letters 3537–3591
 - Full-volume structural audit: PASS
-- Second visual/textual-fidelity audit: verified PDF 001–005 / 402
-- Second-pass corrections so far: 2 canonical page files
-- Exact next scan page: PDF 006 / printed page 5
+- Second visual/textual-fidelity audit: verified PDF 001–010 / 402
+- Second-pass corrections so far: 5 canonical page files
+- Exact next scan page: PDF 011 / printed page 10
 - English translation: blocked until second visual/textual-fidelity audit PASS
 
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity audit at **PDF 006 / printed page 5** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.
+Resume the second full-volume visual/textual-fidelity audit at **PDF 011 / printed page 10** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.
