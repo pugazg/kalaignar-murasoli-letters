@@ -81,6 +81,16 @@ Direct second-pass scan comparison completed for printed pages 25–29, continui
 - **PDF 029 — PASS.** Direct comparison confirmed the printed figures, dates, employment terms, bonus forms and `டிஸ்மிஸ்` wording; no canonical correction was required.
 - **PDF 030 — CORRECTED, then PASS.** Restored scan-printed **`சுயஉதவிக்`** in two source positions, **`திட்டத்தின்கீழ்`**, and **`அனைத்துக் கிராம`**. The printed form `தோற்று விக்கப்பட்ட` remains preserved.
 
+### PDF 031–035 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 30–34, completing Letter 3537 and beginning Letter 3538.
+
+- **PDF 031 — CORRECTED, then PASS.** Five first-pass spaced `சுய உதவிக்` forms in the first two paragraphs were restored to the visibly joined source form **`சுயஉதவிக்`**. Later differently spaced source positions on the same page remain unchanged rather than globally normalized.
+- **PDF 032 — PASS.** Loan-linkage amounts, the unusual exhibition-sales figures, `அன்னைதெரசா மகளிர்வளாகம்`, and the page's closing training-allowance sentence agree with the scan; no canonical correction was required.
+- **PDF 033 — CORRECTED, then PASS.** Four source positions visibly print joined **`சுயஉதவிக்`** / **`சுயஉதவிக்குழுக்கள்`** forms; those were restored while separately spaced forms elsewhere on the page remain unchanged. Letter 3537's `(தொடர்ச்சி நாளை)`, closing, signature and `12-03-2011` date remain intact.
+- **PDF 034 — CORRECTED, then PASS.** Corrected `உறுப்பினர்களுக் கிடையே` → **`உறுப்பினர்களுக்கிடையே`**, restored source **`உதவிக்குழுக்களுக்கிடையே`**, and restored the printed year spacing **`2008-09 ஆம் ஆண்டு`** and **`2010-11 ஆம் ஆண்டு`**.
+- **PDF 035 — CORRECTED, then PASS.** Restored the source punctuation **`எம்.ஆர்.எப்.,`**. Figures, company names, `2014 ஆம் ஆண்டுவரை`, and the page-boundary ending `கல்வி மையங்கள்,` otherwise agree with the scan.
+
 ### Corrections made so far
 
 | PDF page | Before | Scan-supported canonical reading | Status |
@@ -128,14 +138,21 @@ Direct second-pass scan comparison completed for printed pages 25–29, continui
 | 030 | `திட்டத்தின் கீழ்` | `திட்டத்தின்கீழ்` | corrected |
 | 030 | `சுய உதவிக்` (second joined source position) | `சுயஉதவிக்` | corrected |
 | 030 | `அனைத்து கிராம` | `அனைத்துக் கிராம` | corrected |
+| 031 | `சுய உதவிக்` (five joined source positions) | `சுயஉதவிக்` | corrected — 5 spans |
+| 033 | spaced self-help forms in four joined source positions | `சுயஉதவிக்` / `சுயஉதவிக்குழுக்கள்` | corrected — 4 spans |
+| 034 | `உறுப்பினர்களுக் கிடையே` | `உறுப்பினர்களுக்கிடையே` | corrected |
+| 034 | `உதவிக் குழுக்களுக்கிடையே` | `உதவிக்குழுக்களுக்கிடையே` | corrected |
+| 034 | `2008-09ஆம் ஆண்டு` | `2008-09 ஆம் ஆண்டு` | corrected |
+| 034 | `2010-11ஆம் ஆண்டு` | `2010-11 ஆம் ஆண்டு` | corrected |
+| 035 | `எம்.ஆர்.எப்,` | `எம்.ஆர்.எப்.,` | punctuation restored |
 
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–030 / 402**
-- Scan-proven correction pages in this pass: **20 canonical page files / 43 correction spans**
+- Verified in this second pass: **PDF 001–035 / 402**
+- Scan-proven correction pages in this pass: **24 canonical page files / 57 correction spans**
 - Current result: **IN PROGRESS**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 031 / printed page 30**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 036 / printed page 35**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

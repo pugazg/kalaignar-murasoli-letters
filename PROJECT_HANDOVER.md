@@ -43,8 +43,8 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–030 verified**
-- Second-pass corrections so far: **20 canonical page files / 43 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–035 verified**
+- Second-pass corrections so far: **24 canonical page files / 57 correction spans**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
@@ -64,16 +64,20 @@ Second-pass corrections so far include:
 - PDF 027 — restored two `இத்திட்டத்தின்கீழ்` forms.
 - PDF 028 — `செயல்ரீதியாக` → scan-printed `செயல் ரீதியாக`.
 - PDF 030 — restored two `சுயஉதவிக்` forms, `திட்டத்தின்கீழ்`, and `அனைத்துக் கிராம`.
+- PDF 031 — restored five visibly joined `சுயஉதவிக்` source positions in the first two paragraphs without globally normalizing later differently spaced forms.
+- PDF 033 — restored four visibly joined `சுயஉதவிக்` / `சுயஉதவிக்குழுக்கள்` source positions; the closing/signature/date remain unchanged.
+- PDF 034 — corrected `உறுப்பினர்களுக் கிடையே` → `உறுப்பினர்களுக்கிடையே`, restored `உதவிக்குழுக்களுக்கிடையே`, and restored `2008-09 ஆம்` / `2010-11 ஆம்` spacing.
+- PDF 035 — restored source punctuation `எம்.ஆர்.எப்.,`.
 
 Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
 
-Preserved source anomalies in the verified range include PDF 015's repeated `கலைஞர் கலைஞருக்கான`, PDF 025's `145 சமத்துவ புரங்களை`, PDF 027's `அமைத்தித்து`, the cross-page PDF 027 statement `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` followed by PDF 028's six-district list, and PDF 030's `தோற்று விக்கப்பட்ட`. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 029 passed second-pass comparison unchanged.
+Preserved source anomalies in the verified range include PDF 015's repeated `கலைஞர் கலைஞருக்கான`, PDF 025's `145 சமத்துவ புரங்களை`, PDF 027's `அமைத்தித்து`, the cross-page PDF 027 statement `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` followed by PDF 028's six-district list, and PDF 030's `தோற்று விக்கப்பட்ட`. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 029 and PDF 032 passed second-pass comparison unchanged. Position-specific joined/spaced self-help-group forms on PDF 031 and PDF 033 are preserved rather than normalized globally.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 031 / printed page 30**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 036 / printed page 35**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -192,4 +196,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 030**. Resume at **PDF 031 / printed page 30** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 035**. Resume at **PDF 036 / printed page 35** unless a later committed repository update moves that boundary.

@@ -36,7 +36,7 @@
 இளைஞர்கள் தொழிற் பயிற்சி பெற்று வருகின்றனர்.
 
 இளைஞர்களுக்கு தொழில் பயிற்சி மற்றும் வேலைவாய்ப்பு
-அளித்திட நோக்கியா, பாக்ஸ்கான், எம்.ஆர்.எப், அசோக்
+அளித்திட நோக்கியா, பாக்ஸ்கான், எம்.ஆர்.எப்., அசோக்
 லேலாண்ட், இன்டிமேட் பேஷன்ஸ் போன்ற புகழ்பெற்ற தொழில்
 நிறுவனங்களுடன் இத்திட்டம் தொடர்பு வைத்துள்ளது.
 
@@ -52,3 +52,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification restored the source punctuation `எம்.ஆர்.எப்.,`.
