@@ -39,15 +39,15 @@ Volume 45 is the current active Tamil-transcription workstream.
 - Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
 - Source PDF pages: **402**
 - Visible source date range: **12.03.2011–27.09.2011**
-- Canonical Tamil page coverage: **001–305 / 402**
-- Completed actual source-letter records: **41**
-- Completed source-letter range: **3537–3577**
-- Last completed letter: **3577**
-- Last verified boundary: **PDF 305 / printed page 304**
-- Letter 3577 closing date: **3-8-2011**
+- Canonical Tamil page coverage: **001–344 / 402**
+- Completed actual source-letter records: **46**
+- Completed source-letter range: **3537–3582**
+- Last completed letter: **3582**
+- Last verified boundary: **PDF 344 / printed page 343**
+- Letter 3582 closing date: **25-08-2011**
 - English translation: **blocked** until Tamil transcription and required Tamil QA gates are complete
 
-The mandatory first batch and eight normal five-letter iterations are complete:
+The mandatory first batch and nine normal five-letter iterations are complete:
 
 - PDF 001–025 — mandatory first batch
 - Letter 3537 — continuation completed through PDF 033
@@ -59,10 +59,11 @@ The mandatory first batch and eight normal five-letter iterations are complete:
 - 3563–3567
 - 3568–3572
 - 3573–3577
+- 3578–3582
 
-The latest completed batch required scan-fidelity corrections on pages **281, 283, 304 and 305**; those corrections are documented in the Volume 45 audit and canonical pages.
+The latest completed batch covers PDF pages **306–344**. It preserves the contents/letter-start title differences for Letters **3579** and **3581**, preserves the printed English police quotation in Letter **3580**, and records direct scan transcription for PDF pages **315, 325 and 335** where OCR produced no usable body text. Scan comparison also corrected OCR artifacts on pages **339, 341 and 342**.
 
-**Exact next activity:** begin at **PDF page 306 / printed page 305** with Letter **3578** and complete five consecutive actual source letters **3578–3582**, stopping at the verified closing of Letter 3582 without including any part of Letter 3583.
+**Exact next activity:** begin at **PDF page 345 / printed page 344** with Letter **3583** and complete five consecutive actual source letters **3583–3587**, stopping at the verified closing of Letter 3587 without including any part of Letter 3588.
 
 Authoritative continuation files:
 
@@ -372,4 +373,4 @@ For a completely new target volume, use [`START_NEXT_MURASOLI_VOLUME_PROMPT.md`]
 
 For an already-started volume, use the same prompt but explicitly tell the worker to inspect existing target-volume files and **continue from the recorded boundary rather than restarting**.
 
-For the currently active Volume 45, the repository files in `volumes/volume-45/` are authoritative: continue from **PDF 306 / Letter 3578** unless a later committed batch moves that boundary.
+For the currently active Volume 45, the repository files in `volumes/volume-45/` are authoritative: continue from **PDF 345 / Letter 3583** unless a later committed batch moves that boundary.
