@@ -52,5 +52,10 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3580 — பரவாயில்லை; ஆடும் வரை ஆடட்டும்!](3580-paravayillai-aadum-varai-aadattum.md) | 12-08-2011 | complete | 320–327 |
 | [3581 — மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!](3581-mandhi-ariyuma-malarmalai-manamum-azhagum.md) | 13-8-2011 | complete | 328–337 |
 | [3582 — இனிய விழா; நமது இனத்தின் விழா!](3582-iniya-vizha-namadhu-inathin-vizha.md) | 25-08-2011 | complete | 338–344 |
+| [3583 — அதிகாரம் இல்லை? அந்தநாள் ஞாபகம் இல்லையா?](3583-adhikaaram-illai-andhanaal-nyaabagam-illaiyaa.md) | 1-9-2011 | complete | 345–351 |
+| [3584 — அடிநாதமே; அறுக்கப்படுவதா?](3584-adinaadhame-arukkappaduvadhaa.md) | 8-9-2011 | complete | 352–357 |
+| [3585 — அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!!](3585-aiyyo-paavam-admk-amaichargal.md) | 10-9-2011 | complete | 358–364 |
+| [3586 — கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!](3586-kazhaga-arasu-kadaipiditha-vazhiyil-kaathiduga-moovar-uyir.md) | 12-9-2011 | complete | 365–369 |
+| [3587 — மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!](3587-maamiyaar-udaithathum-marumagal-udaithathum.md) | 13-9-2011 | complete | 370–376 |
 
-Exact next activity: begin the next five-letter iteration with Letter 3583 at PDF page 345 / printed page 344.
+Exact next activity: begin Letter 3588 at PDF page 377 / printed page 376 and, under the end-of-volume smaller-batch exception, complete the four remaining source letters 3588–3591 before processing any remaining end matter through PDF page 402.
