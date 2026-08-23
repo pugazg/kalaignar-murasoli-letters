@@ -24,9 +24,8 @@
 
 ## Source notes
 
-- Contents-page wording: `வரும்; எதிர்காலத்தை மறக்குதா?`
-- Actual letter-start title: `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?`
-- Both source readings are retained in their own contexts and are not silently reconciled.
+- Second-pass direct scan verification of contents PDF page 020 confirms the contents title is `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?`, matching the actual letter-start title.
+- The earlier contents reading `வரும்; எதிர்காலத்தை மறக்குதா?` was a transcription error and has been withdrawn.
 
 ## Boundary note
 

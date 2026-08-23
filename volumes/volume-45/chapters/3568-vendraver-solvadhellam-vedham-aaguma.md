@@ -23,9 +23,8 @@
 
 ## Source notes
 
-- Contents-page wording: `வென்றவர் சொல்லுவதெல்லாம் வேதம் ஆகுமா?`
-- Actual letter-start title: `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?`
-- Both source readings are retained in their own contexts and are not silently reconciled.
+- Second-pass direct scan verification of contents PDF page 020 confirms the contents title is `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?`, matching the actual letter-start title.
+- The earlier contents reading `வென்றவர் சொல்லுவதெல்லாம் வேதம் ஆகுமா?` was a transcription error and has been withdrawn.
 
 ## Boundary note
 

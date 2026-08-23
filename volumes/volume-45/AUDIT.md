@@ -51,12 +51,14 @@ Status: first-pass reviewed
 - PDF pages 208 and 232 were manually transcribed from the scan because OCR returned no usable text.
 - Letter 3567 substantially repeats the 10-6-2011 press-meeting material also appearing in Letter 3565; the repetition is preserved as printed and is not deduplicated.
 
-### Scan-proven contents/title correction pass — PDF pages 019–020 and affected records
-Status: corrected after direct scan re-verification
+### Scan-proven contents/title correction pass — PDF pages 018–020 and affected records
+Status: corrected after second-pass direct scan re-verification
 
-- Canonical contents pages 019 and 020 were re-read directly from the scan after OCR-derived misreadings were detected.
-- False contents/letter-start discrepancy notes for Letters 3558, 3559, 3564 and 3567 were removed.
-- Letter 3565 was corrected to the scan-supported actual start `இன்று நடப்பது; அன்றே நடந்ததுதான்!`; contents PDF page 020 prints `இன்று நடந்தது; அன்றே நடந்ததுதான்!`.
+- PDF 018–020 were re-read directly from the controlling scan during the full-volume second pass.
+- PDF 018: the source has a three-column `தலைப்பு / ஆண்டு / பக்கம்` table; the non-source separate `எண்` header/column was removed. Entry 3538 was corrected `ஊராட்சித் துறை` → `ஊராட்சித்துறை`; entry 3541 was corrected `நாளும்` → `நானும்`.
+- PDF 019: the source continues the three-column table without a repeated header; the non-source repeated header row was removed.
+- PDF 020: the non-source repeated header row was removed, and contents titles were corrected for 3565, 3568, 3569, 3570 and 3572.
+- Direct scan comparison shows the corrected contents titles for 3565, 3568–3570 and 3572 match their actual letter-start titles. The earlier discrepancy records for those five letters were first-pass transcription errors and are withdrawn from `contents/index.md`, chapter notes and structural documentation.
 
 ### Five-letter iteration — Letters 3568–3572, PDF pages 236–265
 Status: first-pass reviewed
@@ -68,10 +70,7 @@ Status: first-pass reviewed
 - Letter 3571: PDF 256–260 / printed 255–259 / closing date 30-6-2011.
 - Letter 3572: PDF 261–265 / printed 260–264 / closing date 19-7-2011.
 - OCR initially returned no usable text on PDF pages 237, 241 and 253; these pages were reprocessed with a different layout mode and checked directly against the scan.
-- Letter 3568 has a source-context title difference: contents `வென்றவர் சொல்லுவதெல்லாம் வேதம் ஆகுமா?`; actual start `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?`.
-- Letter 3569 has a source-context title difference: contents `வரும்; எதிர்காலத்தை மறக்குதா?`; actual start `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?`.
-- Letter 3570 has a source-context title difference: contents `நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி!`; actual start `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!`.
-- Letter 3572 has a source-context title difference: contents `“100” காரணங்களால் முடியாதுதான்!`; actual start `“100” கருணாநிதிகளால் முடியாதுதான்!`.
+- Earlier contents/letter-start discrepancy notes for 3568, 3569, 3570 and 3572 have been withdrawn after the second-pass scan comparison of PDF 020 proved the contents titles match the actual letter-start titles.
 - Printed English in Letter 3568 (`The ceding of this tiny island...`) is retained in source position.
 - Running page headers and printed page numbers are not duplicated into canonical body text.
 - OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
@@ -147,17 +146,19 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–015 / 402**
+Status: **IN PROGRESS — verified PDF 001–020 / 402**
 
 - PDF 001–005: verified; PDF 002 and 003 corrected from the scan.
 - PDF 006–010: verified; PDF 008, 009 and 010 corrected from the scan.
 - PDF 011–015: verified; PDF 011, 012 and 013 corrected from the scan; PDF 014–015 passed unchanged.
-- Cumulative second-pass correction pages: 8 canonical page files / 10 text spans.
+- PDF 016–020: verified; PDF 016, 018, 019 and 020 corrected from the scan; PDF 017 passed unchanged.
+- Cumulative second-pass correction pages: 12 canonical page files / 21 correction spans.
 - PDF 015 source repetition `கலைஞர் கலைஞருக்கான` is preserved as printed.
+- PDF 020 second-pass verification withdrew false contents/letter-start discrepancy records for 3565, 3568–3570 and 3572.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live page-level second-pass log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 016 / printed page 15** and continue sequentially through PDF 402.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 021 / printed page 20** and continue sequentially through PDF 402.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

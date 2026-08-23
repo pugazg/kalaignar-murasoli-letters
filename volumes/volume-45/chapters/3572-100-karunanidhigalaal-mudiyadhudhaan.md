@@ -22,9 +22,8 @@
 
 ## Source notes
 
-- Contents-page wording: `“100” காரணங்களால் முடியாதுதான்!`
-- Actual letter-start title: `“100” கருணாநிதிகளால் முடியாதுதான்!`
-- Both source readings are retained in their own contexts and are not silently reconciled.
+- Second-pass direct scan verification of contents PDF page 020 confirms the contents title is `“100” கருணாநிதிகளால் முடியாதுதான்!`, matching the actual letter-start title.
+- The earlier contents reading `“100” காரணங்களால் முடியாதுதான்!` was a transcription error and has been withdrawn.
 
 ## Boundary note
 

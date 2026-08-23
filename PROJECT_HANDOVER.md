@@ -43,8 +43,8 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–015 verified**
-- Second-pass corrections so far: **8 canonical page files / 10 text spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–020 verified**
+- Second-pass corrections so far: **12 canonical page files / 21 correction spans**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
@@ -59,14 +59,18 @@ Second-pass corrections so far:
 - PDF 011 — `வெளியரவுள்ள` → `வெளிவரவுள்ள`; printed quotation marks around `“மறவன்”` restored.
 - PDF 012 — `சுயேச்சை` / `சுயேச்சைகளாகப்` → scan-printed `சுயேட்சை` / `சுயேட்சைகளாகப்`.
 - PDF 013 — `கசிவவர்` → `கசிபவர்`; `சிற்பத்திற்கு கண் திறப்பு` → `சிற்பத்திற்குக் கண் திறப்பு`.
+- PDF 016 — `கட்டுர் இள. புகழேந்தி` → scan-printed `கடலூர் இள. புகழேந்தி`.
+- PDF 018–020 — contents tables corrected to the source's three-column structure; non-source `எண்` / repeated header text removed.
+- PDF 018 — 3538 `ஊராட்சித் துறை` → `ஊராட்சித்துறை`; 3541 `நாளும்` → `நானும்`.
+- PDF 020 — corrected contents titles for 3565, 3568, 3569, 3570 and 3572. Those scan-supported readings match the actual letter-start titles, so the earlier contents/letter-start discrepancy records for those five letters are withdrawn.
 
-PDF 001, 004–007 and 014–015 passed without canonical text correction. PDF 005 is a no-printed-text page whose faint show-through remains correctly excluded. PDF 015's repeated `கலைஞர் கலைஞருக்கான` is preserved as printed.
+PDF 001, 004–007, 014–015 and 017 passed without canonical text correction. PDF 005 is a no-printed-text page whose faint show-through remains correctly excluded. PDF 015's repeated `கலைஞர் கலைஞருக்கான` is preserved as printed.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 016 / printed page 15**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 021 / printed page 20**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -185,4 +189,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 015**. Resume at **PDF 016 / printed page 15** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 020**. Resume at **PDF 021 / printed page 20** unless a later committed repository update moves that boundary.

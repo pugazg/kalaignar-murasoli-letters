@@ -22,9 +22,8 @@
 
 ## Source notes
 
-- Contents PDF page 020 prints `இன்று நடந்தது; அன்றே நடந்ததுதான்!`.
-- The actual letter-start on PDF page 218 prints `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
-- This genuine source-context discrepancy is preserved; neither reading is normalized to the other.
+- Second-pass direct scan verification of contents PDF page 020 confirms the contents title is also `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
+- The earlier contents reading `இன்று நடந்தது; அன்றே நடந்ததுதான்!` was a transcription error and has been withdrawn.
 
 ## Boundary note
 

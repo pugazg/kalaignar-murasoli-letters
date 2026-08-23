@@ -32,14 +32,14 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3562 | “சில நேரங்களில் சில மனிதர்கள்!” | 13-5-2011 | 196 | 197 | 200 | complete |
 | 3563 | இறுதிப் போரில் நாம் வெல்வது திண்ணம்! | 22-5-2011 | 200 | 201 | 208 | complete |
 | 3564 | “ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!” | 3-6-2011 | 208 | 209 | 217 | complete |
-| 3565 | இன்று நடந்தது; அன்றே நடந்ததுதான்! | 11-6-2011 | 217 | 218 | 222 | complete |
+| 3565 | இன்று நடப்பது; அன்றே நடந்ததுதான்! | 11-6-2011 | 217 | 218 | 222 | complete |
 | 3566 | அதுவே ஓர் ஆறுதல்தான்! | 13-6-2011 | 222 | 223 | 230 | complete |
 | 3567 | ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று! | 14-06-2011 | 230 | 231 | 235 | complete |
-| 3568 | வென்றவர் சொல்லுவதெல்லாம் வேதம் ஆகுமா? | 15-6-2011 | 235 | 236 | 241 | complete |
-| 3569 | வரும்; எதிர்காலத்தை மறக்குதா? | 18-6-2011 | 241 | 242 | 248 | complete |
-| 3570 | நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி! | 19-6-2011 | 248 | 249 | 255 | complete |
+| 3568 | வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா? | 15-6-2011 | 235 | 236 | 241 | complete |
+| 3569 | வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை? | 18-6-2011 | 241 | 242 | 248 | complete |
+| 3570 | நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்! | 19-6-2011 | 248 | 249 | 255 | complete |
 | 3571 | ஒன்று போதுமே; உதாரணம்! | 30-6-2011 | 255 | 256 | 260 | complete |
-| 3572 | “100” காரணங்களால் முடியாதுதான்! | 19-7-2011 | 260 | 261 | 265 | complete |
+| 3572 | “100” கருணாநிதிகளால் முடியாதுதான்! | 19-7-2011 | 260 | 261 | 265 | complete |
 | 3573 | அல்லல் நீங்கும்; தொல்லை குறையும்! | 21-7-2011 | 265 | 266 | 268 | complete |
 | 3574 | அமைதி வழி - அறவழி - அதுவே அண்ணா வழி! | 28-7-2011 | 268 | 269 | 274 | complete |
 | 3575 | அந்த நாள் முதல் இந்த நாள் வரையில்....! | 30-7-2011 | 274 | 275 | 283 | complete |
@@ -64,4 +64,4 @@ The contents wording below is preserved from the controlling scan. Contents entr
 
 Tamil transcription is complete for Volume 45: all 55 actual source records, Letters 3537–3591, are mapped to verified canonical boundaries. Letter 3591 closes at PDF 401 / printed page 400, and PDF 402 is the back cover / publisher matter.
 
-The full-volume Tamil structural audit is PASS. The exact next gate is the second visual/textual-fidelity verification of canonical PDF pages 001–402 against the controlling scan.
+The full-volume Tamil structural audit is PASS. The second visual/textual-fidelity verification is in progress; direct scan comparison through PDF 020 has corrected residual contents-page transcription errors, including false contents/letter-start discrepancy records for 3565, 3568–3570 and 3572.

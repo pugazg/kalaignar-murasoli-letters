@@ -24,9 +24,8 @@
 
 ## Source notes
 
-- Contents-page wording: `நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி!`
-- Actual letter-start title: `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!`
-- Both source readings are retained in their own contexts and are not silently reconciled.
+- Second-pass direct scan verification of contents PDF page 020 confirms the contents title is `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!`, matching the actual letter-start title.
+- The earlier contents reading `நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி!` was a transcription error and has been withdrawn.
 
 ## Boundary note
 
