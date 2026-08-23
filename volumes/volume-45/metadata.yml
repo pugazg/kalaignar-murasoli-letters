@@ -1,5 +1,5 @@
 volume: 45
-status: transcription-in-progress
+status: tamil-structural-audit-pass
 source:
   filename: TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf
   controlling: true
@@ -7,16 +7,18 @@ source:
   total_pdf_pages: 402
 
 transcription:
-  canonical_pages: 376
-  canonical_pdf_range: 001-376
+  canonical_pages: 402
+  canonical_pdf_range: 001-402
   total_pdf_pages: 402
   first_batch: complete
-  completed_letters: 51
-  completed_letter_range: 3537-3587
-  last_completed_letter: 3587
-  next_letter: 3588
-  next_pdf_page: 377
+  completed_letters: 55
+  completed_letter_range: 3537-3591
+  last_completed_letter: 3591
+  next_letter: null
+  next_pdf_page: null
+  structural_audit: pass
+  second_visual_verification: pending
 
 translation:
   status: blocked
-  reason: Tamil transcription and required QA gates incomplete
+  reason: Second full-volume Tamil visual/textual-fidelity verification incomplete

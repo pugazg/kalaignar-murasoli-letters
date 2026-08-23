@@ -57,5 +57,13 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3585 — அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!!](3585-aiyyo-paavam-admk-amaichargal.md) | 10-9-2011 | complete | 358–364 |
 | [3586 — கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!](3586-kazhaga-arasu-kadaipiditha-vazhiyil-kaathiduga-moovar-uyir.md) | 12-9-2011 | complete | 365–369 |
 | [3587 — மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!](3587-maamiyaar-udaithathum-marumagal-udaithathum.md) | 13-9-2011 | complete | 370–376 |
+| [3588 — கல்வி; கருகிடும் மொட்டாவதா?](3588-kalvi-karugidum-mottavadha.md) | 14-9-2011 | complete | 377–382 |
+| [3589 — எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி?](3589-ethanai-kaalamo-indha-ettikkup-potti.md) | 19-9-2011 | complete | 383–390 |
+| [3590 — விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!](3590-viraindhezhuveer-vetrikkani-parithida.md) | 24-9-2011 | complete | 391–396 |
+| [3591 — அடங்காமை ஆறிருள் உய்த்து விடும்!](3591-adangamai-aarirul-uythu-vidum.md) | 27-9-2011 | complete | 397–401 |
 
-Exact next activity: begin Letter 3588 at PDF page 377 / printed page 376 and, under the end-of-volume smaller-batch exception, complete the four remaining source letters 3588–3591 before processing any remaining end matter through PDF page 402.
+## Structural status
+
+All 55 actual source letters, 3537–3591, are complete and mapped continuously across PDF pages 024–401. PDF pages 001–023 are front matter/contents, and PDF 402 is the back cover / publisher matter.
+
+Full-volume Tamil structural audit: **PASS**. Exact next activity: second visual/textual-fidelity verification of canonical pages 001–402 against the controlling scan.

@@ -55,9 +55,13 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3585 | அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!! | 10-9-2011 | 357 | 358 | 364 | complete |
 | 3586 | தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்! | 12-9-2011 | 364 | 365 | 369 | complete |
 | 3587 | மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்! | 13-9-2011 | 369 | 370 | 376 | complete |
+| 3588 | கல்வி; கருகிடும் மொட்டாவதா? | 14-9-2011 | 376 | 377 | 382 | complete |
+| 3589 | எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி? | 19-9-2011 | 382 | 383 | 390 | complete |
+| 3590 | விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட! | 24-9-2011 | 390 | 391 | 396 | complete |
+| 3591 | அடங்காமை ஆறிருள் உய்த்து விடும்! | 27-9-2011 | 396 | 397 | 401 | complete |
 
 ## Current transcription boundary
 
-The tenth normal five-letter iteration covers Letters 3583–3587, PDF pages 345–376. The contents title for 3586 differs from the actual letter-start title: contents prints `தமிழக அரசு...`, while PDF page 365 prints `கழக அரசு...`; both are preserved in their source contexts.
+Tamil transcription is complete for Volume 45: all 55 actual source records, Letters 3537–3591, are mapped to verified canonical boundaries. Letter 3591 closes at PDF 401 / printed page 400, and PDF 402 is the back cover / publisher matter.
 
-Only four actual source letters remain. The next source record is Letter 3588 at PDF page 377 / printed page 376; complete Letters 3588–3591 under the documented end-of-volume smaller-batch exception, then transcribe any remaining end matter through PDF page 402.
+The full-volume Tamil structural audit is PASS. The exact next gate is the second visual/textual-fidelity verification of canonical PDF pages 001–402 against the controlling scan.

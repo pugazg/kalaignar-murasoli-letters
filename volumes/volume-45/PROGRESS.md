@@ -16,19 +16,25 @@
 - Eighth normal five-letter iteration completed: Letters 3573–3577
 - Ninth normal five-letter iteration completed: Letters 3578–3582
 - Tenth normal five-letter iteration completed: Letters 3583–3587
-- Canonical page coverage: PDF 001–376
+- End-of-volume smaller-batch iteration completed: Letters 3588–3591
+- Canonical page coverage completed: PDF 001–402 / 402
+- Full-volume Tamil structural audit: PASS
 
 ## Current stage
 
-Tamil transcription — normal five-letter batching.
+Tamil structural audit PASS — second full-volume visual/textual-fidelity verification pending.
 
 ## Current verified boundary
 
-- Last completed canonical page: PDF 376 / printed page 375
-- Last completed letter: 3587
-- Completed source records: 51
-- Canonical pages: 376 / 402
+- Last canonical PDF page: 402 / 402
+- Last source letter: 3591
+- Letter 3591 closes on PDF 401 / printed page 400 with date 27-9-2011
+- PDF 402 is the back cover / portrait / publisher matter
+- Completed source records: 55
+- Canonical pages: 402 / 402
+- Full-volume structural audit: PASS
+- English translation: blocked
 
 ## Exact next activity
 
-Begin at PDF page 377 / printed page 376 with Letter 3588. Only four source letters remain in Volume 45 (3588–3591), so apply the documented end-of-volume smaller-batch exception: complete all remaining actual source letters through the verified closing of Letter 3591, then finish any post-letter/end-matter PDF pages through page 402 and move to the full-volume Tamil structural audit.
+Run the required second visual/textual-fidelity verification of all 402 canonical PDF-page records against the controlling scan. Keep this gate distinct from the completed batch reviews and structural audit. Do not begin English translation until the second visual verification passes.

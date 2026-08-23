@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription in progress
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual verification pending
 
 ## Controlling source
 
@@ -9,24 +9,25 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 ## Processing status
 
 - Source verification: complete
-- Tamil canonical page coverage: PDF 001–376 / 402
+- Tamil canonical page coverage: PDF 001–402 / 402 — complete
 - Mandatory first transcription batch: complete
 - Letter 3537 immediate continuation: complete
-- First normal five-letter iteration: complete — Letters 3538–3542
-- Second normal five-letter iteration: complete — Letters 3543–3547
-- Third normal five-letter iteration: complete — Letters 3548–3552
-- Fourth normal five-letter iteration: complete — Letters 3553–3557
-- Fifth normal five-letter iteration: complete — Letters 3558–3562
-- Sixth normal five-letter iteration: complete — Letters 3563–3567
-- Seventh normal five-letter iteration: complete — Letters 3568–3572
-- Eighth normal five-letter iteration: complete — Letters 3573–3577
-- Ninth normal five-letter iteration: complete — Letters 3578–3582
-- Tenth normal five-letter iteration: complete — Letters 3583–3587
-- Completed source-letter records: 51
-- English translation: blocked until Tamil transcription and required QA gates pass
+- Normal five-letter iterations: complete through Letters 3583–3587
+- End-of-volume smaller-batch exception: complete — Letters 3588–3591
+- Completed source-letter records: 55
+- Completed source-letter range: 3537–3591
+- Full-volume Tamil structural audit: PASS
+- Second full-volume visual/textual-fidelity verification: pending
+- English translation: blocked until the second Tamil fidelity gate passes
 
-## Current boundary
+## End boundary
 
-Letter 3587 closes at PDF page 376 / printed page 375 on 13-9-2011.
+Letter 3591 closes at PDF page 401 / printed page 400 on `27-9-2011`. PDF page 402 is the back cover / portrait / publisher matter and is preserved as its own canonical page record.
 
-Only four actual source letters remain in this volume: 3588–3591. Under the documented end-of-volume smaller-batch exception, the exact next activity is to begin at PDF page 377 / printed page 376 with Letter 3588 and complete all four remaining source letters through Letter 3591, then transcribe any remaining post-letter/end-matter pages through PDF page 402 before the full-volume Tamil structural audit.
+The canonical page layer now covers every PDF page, 001–402, and the chapter/contents layers account for all 55 actual source letters.
+
+## Exact next activity
+
+Perform the required second visual/textual-fidelity verification of canonical pages 001–402 against the controlling scan. This is a separate QA gate from the completed iteration audits and the structural audit. Do not begin English translation until it passes.
+
+See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) for the structural gate result.
