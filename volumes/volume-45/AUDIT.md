@@ -99,8 +99,25 @@ Status: corrected after direct scan comparison
 - PDF 305: restored omitted incident lines and the full concluding paragraph before the closing of Letter 3577.
 - These are scan-proven canonical Tamil corrections; no modernization or external reconstruction was used.
 
+### Five-letter iteration — Letters 3578–3582, PDF pages 306–344
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 306–344.
+- Letter 3578: PDF 306–312 / printed 305–311 / closing date 5-8-2011.
+- Letter 3579: PDF 313–319 / printed 312–318 / closing date 6-8-2011.
+- Letter 3580: PDF 320–327 / printed 319–326 / closing date 12-08-2011.
+- Letter 3581: PDF 328–337 / printed 327–336 / closing date 13-8-2011.
+- Letter 3582: PDF 338–344 / printed 337–343 / closing date 25-08-2011.
+- PDF pages 315, 325 and 335 were transcribed directly from the scan because OCR returned no usable body text.
+- Letter 3579 has a source-context title difference: contents PDF page 021 records `வறியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?`; actual letter start on PDF page 313 prints `வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?`.
+- Letter 3581 has a source-context title difference: contents PDF page 021 records `மந்திரி அறிவுரை; மலர்மாலை மணமும் அழகும்!`; actual letter start on PDF page 328 prints `மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!`.
+- Letter 3580 preserves the printed English police quotation on PDF page 325.
+- Scan comparison corrected OCR artifacts including PDF 339's `1971ஆம் ஆண்டு`, restored the omitted Nakkiran verse on PDF 341, and restored omitted source sentences on PDF 342.
+- Running page headers and printed page numbers are not duplicated into canonical body text.
+- OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
+
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 306 with Letter 3578.
+The next five-letter iteration begins at PDF page 345 with Letter 3583.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.

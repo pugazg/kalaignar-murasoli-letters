@@ -45,7 +45,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3575 | அந்த நாள் முதல் இந்த நாள் வரையில்....! | 30-7-2011 | 274 | 275 | 283 | complete |
 | 3576 | உலகப் புகழ் - உத்தமத் தமிழச்சி, பார்! | 31-7-2011 | 283 | 284 | 289 | complete |
 | 3577 | மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே! | 3-8-2011 | 289 | 290 | 305 | complete |
+| 3578 | உனக்கொரு நீதி; ஊருக்கொரு நீதியா? | 5-8-2011 | 305 | 306 | 312 | complete |
+| 3579 | வறியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா? | 6-8-2011 | 312 | 313 | 319 | complete |
+| 3580 | பரவாயில்லை; ஆடும் வரை ஆடட்டும்! | 12-08-2011 | 319 | 320 | 327 | complete |
+| 3581 | மந்திரி அறிவுரை; மலர்மாலை மணமும் அழகும்! | 13-8-2011 | 327 | 328 | 337 | complete |
+| 3582 | இனிய விழா; நமது இனத்தின் விழா! | 25-08-2011 | 337 | 338 | 344 | complete |
 
 ## Current transcription boundary
 
-The eighth normal five-letter iteration covers Letters 3573–3577, PDF pages 266–305. The next actual source record is Letter 3578 at PDF page 306 / printed page 305.
+The ninth normal five-letter iteration covers Letters 3578–3582, PDF pages 306–344. The next actual source record is Letter 3583 at PDF page 345 / printed page 344.

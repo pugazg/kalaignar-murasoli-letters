@@ -5,11 +5,12 @@
 - Printed page: 305
 - Page type: Letter
 - Letter: 3578
-- Status: continuation
+- Status: continues
 
 ## Source text
 
 3578. உனக்கொரு நீதி; ஊருக்கொரு நீதியா?
+
 உடன்பிறப்பே,
 
 பழிவாங்கும் பொய் வழக்கு நடவடிக்கைகளில் அ.தி.மு.க.
@@ -45,4 +46,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
-- First-pass visual comparison was performed against the controlling scan for this five-letter iteration.
+- Letter 3578 begins on this page; the title was verified directly from the scan.

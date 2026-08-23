@@ -5,7 +5,7 @@
 - Printed page: 307
 - Page type: Letter
 - Letter: 3578
-- Status: continuation
+- Status: continues
 
 ## Source text
 
@@ -41,14 +41,16 @@
 வெளி வந்துள்ளது.
 
 ஜெயலலிதா ஆட்சியில் வீட்டு வசதி வாரியத்தின் வீட்டு
+
 மனைகளை விருப்புரிமை அடிப்படையிலே பெற்றவர்கள் --
 
 € தலைமைச் செயலாளராக இருந்த திரு. என்.
+
 நாராயணன், ஐ.ஏ.எஸ்.க்கு 1993ஆம் ஆண்டு
+
 4115 சதுர அடி.
 
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
-- First-pass visual comparison was performed against the controlling scan for this five-letter iteration.

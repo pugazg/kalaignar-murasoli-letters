@@ -9,7 +9,7 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 ## Processing status
 
 - Source verification: complete
-- Tamil canonical page coverage: PDF 001–305 / 402
+- Tamil canonical page coverage: PDF 001–344 / 402
 - Mandatory first transcription batch: complete
 - Letter 3537 immediate continuation: complete
 - First normal five-letter iteration: complete — Letters 3538–3542
@@ -20,11 +20,12 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 - Sixth normal five-letter iteration: complete — Letters 3563–3567
 - Seventh normal five-letter iteration: complete — Letters 3568–3572
 - Eighth normal five-letter iteration: complete — Letters 3573–3577
-- Completed source-letter records: 41
+- Ninth normal five-letter iteration: complete — Letters 3578–3582
+- Completed source-letter records: 46
 - English translation: blocked until Tamil transcription and required QA gates pass
 
 ## Current boundary
 
-Letter 3577 closes at PDF page 305 / printed page 304 on 3-8-2011.
+Letter 3582 closes at PDF page 344 / printed page 343 on 25-08-2011.
 
-Exact next activity: begin at PDF page 306 / printed page 305 with Letter 3578 and complete the next five consecutive actual source letters, 3578–3582.
+Exact next activity: begin at PDF page 345 / printed page 344 with Letter 3583 and complete the next five consecutive actual source letters, 3583–3587.

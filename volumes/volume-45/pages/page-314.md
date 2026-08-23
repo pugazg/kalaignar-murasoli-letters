@@ -5,7 +5,7 @@
 - Printed page: 313
 - Page type: Letter
 - Letter: 3579
-- Status: continuation
+- Status: continues
 
 ## Source text
 
@@ -41,7 +41,7 @@ is Rs. 17,261 crore 2011-12 to fill the resource gap” என்று ஜெ�
 “இந்து” நாளிதழ் அந்தச் செய்தியிலேயே, “When the State’s public
 debt was projected to cross Rs. 1 lakh crore at the end of last fiscal,
 the AIADMK, then in the Opposition, had warned that the DMK
-regime was pushing the State into a debt trap” — அதாவது கடந்த
+regime was pushing the State into a debt trap” - அதாவது கடந்த
 நிதியாண்டின் இறுதியில் மாநில அரசின் கடன் அளவு ஒரு லட்சம்
 கோடி ரூபாயைத் தாண்டும் என்று குறிப்பிட்டு, தி.மு.க. ஆட்சி
 மாநிலத்தை கடன் வலையிலே மாட்டி விட்டது என்று அ.தி.மு.க.
@@ -51,5 +51,5 @@ regime was pushing the State into a debt trap” — அதாவது கட�
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
+- Printed English is preserved in source position.
 - Running page header and printed page number are not duplicated into canonical body text.
-- First-pass visual comparison was performed against the controlling scan for this five-letter iteration.

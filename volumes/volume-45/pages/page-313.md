@@ -5,12 +5,13 @@
 - Printed page: 312
 - Page type: Letter
 - Letter: 3579
-- Status: continuation
+- Status: continues
 
 ## Source text
 
 3579. வரியில்லா பட்ஜெட் என்பது
 வடிகட்டிய பொய்யல்லவா?
+
 உடன்பிறப்பே,
 
 ஜெயலலிதா அரசின் நிதியமைச்சர் திரு. பன்னீர்செல்வம்
@@ -30,19 +31,18 @@
 வந்த நிலையில் அவர்களும் ஏமாற்றமடைந்திருப்பார்களென்று
 எண்ணுகின்றேன்.
 
-தமிழக அரசின் கடன் விவரங்கள் பற்றி அரசின் சார்பில்
 பலமுறை ஏற்கனவே விளக்கம் அளித்துள்ளேன். இந்த ஆட்சியினர்
 மீது 1.25 லட்சம் கோடி ரூபாய் கடன் சுமையை தி.மு.கழக அரசு
 ஏற்றி வைத்து விட்டதாகத் திரும்பத் திரும்பச் சொல்வது தவறு.
-31-83-2006 அன்றே, ஜெயலலிதா ஆட்சி புரிந்த ஐந்தாண்டு
+31-3-2006 அன்றே, ஜெயலலிதா ஆட்சி புரிந்த ஐந்தாண்டு
 காலத்திற்கு பிறகு தமிழக அரசின் மொத்தக் கடன் பொறுப்பு 57
 ஆயிரத்து 457 கோடி ரூபாயாகும். இது ஜெயலலிதா, தி.மு. கழக
 அரசின் மீது ஏற்றி வைத்து விட்டுச் சென்ற கடன் சுமை. அந்தக்
 கடன் சுமையைக் குறைக்க தி.மு. கழக அரசு எந்த வரியையும்
-விதிக்க வில்லை. ஆனால் ஜெயலலிதா தான் ஆட்சிக்கு வந்த
+விதிக்கவில்லை. ஆனால் ஜெயலலிதா தான் ஆட்சிக்கு வந்த
 
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
-- First-pass visual comparison was performed against the controlling scan for this five-letter iteration.
+- Letter 3579 begins on this page; the title was verified directly from the scan.

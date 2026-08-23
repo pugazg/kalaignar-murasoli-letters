@@ -23,5 +23,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
-- First-pass visual comparison was performed against the controlling scan for this five-letter iteration.
 - Letter 3578 ends on this page; closing/signature/date `5-8-2011` were verified directly from the scan.

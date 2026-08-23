@@ -5,7 +5,7 @@
 - Printed page: 306
 - Page type: Letter
 - Letter: 3578
-- Status: continuation
+- Status: continues
 
 ## Source text
 
@@ -50,4 +50,3 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
-- First-pass visual comparison was performed against the controlling scan for this five-letter iteration.
