@@ -146,8 +146,18 @@ Status: **PASS**
 - Chapter ranges and contents mappings reconcile with the canonical page layer.
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the gate report.
 
+### Second full-volume visual/textual-fidelity audit
+Status: **IN PROGRESS — verified PDF 001–005 / 402**
+
+- PDF 001: PASS.
+- PDF 002: scan comparison corrected `சீதா பதிப்பகம்` to `சீதை பதிப்பகம்`; PASS after correction.
+- PDF 003: scan comparison corrected Tamil publisher `சீதா பதிப்பகம்` to `சீதை பதிப்பகம்`; PASS after correction.
+- PDF 004: PASS.
+- PDF 005: PASS; faint show-through remains correctly excluded as non-printed page text.
+- See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass log.
+
 ## Next QA boundary
 
-The next required gate is the **second full-volume visual/textual-fidelity verification** of all canonical PDF pages 001–402 against the controlling scan.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 006 / printed page 5** and continue sequentially through PDF 402.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.
