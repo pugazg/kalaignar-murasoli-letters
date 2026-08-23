@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-16
+**Handover date:** 2026-08-23
 
 This document is the current project-level handover for continuing the multi-volume Kalaignar Murasoli Letters archive in a new chat/window or with another worker.
 
@@ -32,7 +32,71 @@ The project is not a modernization or copy-editing exercise. Historical wording,
 
 ---
 
-## 2. Current completed reference volumes
+## 2. Current active work — Volume 45
+
+Volume 45 is the current active Tamil-transcription workstream.
+
+- Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
+- Source PDF pages: **402**
+- Visible source date range: **12.03.2011–27.09.2011**
+- Canonical Tamil page coverage: **001–305 / 402**
+- Completed actual source-letter records: **41**
+- Completed source-letter range: **3537–3577**
+- Last completed letter: **3577**
+- Last verified boundary: **PDF 305 / printed page 304**
+- Letter 3577 closing date: **3-8-2011**
+- English translation: **blocked** until Tamil transcription and required Tamil QA gates are complete
+
+The mandatory first batch and eight normal five-letter iterations are complete:
+
+- PDF 001–025 — mandatory first batch
+- Letter 3537 — continuation completed through PDF 033
+- 3538–3542
+- 3543–3547
+- 3548–3552
+- 3553–3557
+- 3558–3562
+- 3563–3567
+- 3568–3572
+- 3573–3577
+
+The latest completed batch required scan-fidelity corrections on pages **281, 283, 304 and 305**; those corrections are documented in the Volume 45 audit and canonical pages.
+
+**Exact next activity:** begin at **PDF page 306 / printed page 305** with Letter **3578** and complete five consecutive actual source letters **3578–3582**, stopping at the verified closing of Letter 3582 without including any part of Letter 3583.
+
+Authoritative continuation files:
+
+- [`volumes/volume-45/README.md`](volumes/volume-45/README.md)
+- [`volumes/volume-45/PROGRESS.md`](volumes/volume-45/PROGRESS.md)
+- [`volumes/volume-45/AUDIT.md`](volumes/volume-45/AUDIT.md)
+- [`volumes/volume-45/metadata.yml`](volumes/volume-45/metadata.yml)
+- [`volumes/volume-45/contents/index.md`](volumes/volume-45/contents/index.md)
+- [`volumes/volume-45/chapters/README.md`](volumes/volume-45/chapters/README.md)
+
+Do not restart Volume 45 from an earlier batch boundary. Live repository state above is the durable handoff.
+
+---
+
+## 3. Current completed reference volumes
+
+### Volume 01
+
+Volume 01 is fully released.
+
+- Source PDF pages: **401**
+- Canonical Tamil page coverage: **001–401 / 401**
+- Actual source-letter records: **110**
+- Letter range: **0001–0110**
+- Full-volume Tamil structural audit: **PASS**
+- Full 401-page visual/textual-fidelity audit: **PASS**
+- English bilingual records: **110 / 110 final release complete**
+- Bilingual alignment: **PASS**
+- Editorial consistency review: complete
+- Translation manifest: **110 rows**
+- Final English release report: complete
+- Legacy 110 bilingual records remain preserved under `volumes/volume-1/`
+
+Volume 01 used an approved volume-specific batching override during its canonical migration/review work. Do not carry that override into other volumes unless explicitly approved.
 
 ### Volume 46
 
@@ -85,7 +149,7 @@ Its final English release contains **53 / 53** verified bilingual records and a 
 
 ---
 
-## 3. Other repository trees
+## 4. Other repository trees
 
 The repository also contains other volume directories, including legacy/nonuniform trees such as `volume-1` and later-numbered volume directories.
 
@@ -101,7 +165,7 @@ For any target volume:
 
 ---
 
-## 4. Mandatory new-volume startup
+## 5. Mandatory new-volume startup
 
 When a new PDF is attached with an expected volume number:
 
@@ -120,7 +184,7 @@ If the target volume already exists, **continue it rather than creating a duplic
 
 ---
 
-## 5. Tamil transcription handoff rules
+## 6. Tamil transcription handoff rules
 
 The mandatory batching policy is:
 
@@ -138,7 +202,7 @@ At every iteration end, record the exact next PDF page and next letter.
 
 ---
 
-## 6. Distinguish four Tamil QA layers
+## 7. Distinguish four Tamil QA layers
 
 Never merge these into one status:
 
@@ -153,7 +217,7 @@ A scan-proven correction made during later fidelity review must be documented. A
 
 ---
 
-## 7. Source anomalies and source-incomplete records
+## 8. Source anomalies and source-incomplete records
 
 ### Source anomaly
 
@@ -184,7 +248,7 @@ Volume 47 letter 3681 is the reference example.
 
 ---
 
-## 8. English translation handoff rules
+## 9. English translation handoff rules
 
 The English edition is intended to preserve Kalaignar’s voice and thought structure, not merely convey a modern prose summary.
 
@@ -219,7 +283,7 @@ If the source numbering skips or duplicates numbers, batch by actual records in 
 
 ---
 
-## 9. Important Volume 46 translation lessons
+## 10. Important Volume 46 translation lessons
 
 These points should not be lost in future work:
 
@@ -234,7 +298,7 @@ These points should not be lost in future work:
 
 ---
 
-## 10. English release gate
+## 11. English release gate
 
 After all letters are aligned:
 
@@ -253,7 +317,7 @@ Do not mark a volume complete based only on a summary file. Verify the physical 
 
 ---
 
-## 11. Git/concurrency discipline
+## 12. Git/concurrency discipline
 
 The repository is used for direct archival work on `main`.
 
@@ -270,7 +334,7 @@ Rules:
 
 ---
 
-## 12. What “Proceed with next activity” means
+## 13. What “Proceed with next activity” means
 
 When the user says **“Proceed with next activity”** or **“Proceed with next iteration”**:
 
@@ -285,7 +349,7 @@ Ask a question only when a real source ambiguity, missing attachment, repository
 
 ---
 
-## 13. Definition of a clean handoff at any interruption
+## 14. Definition of a clean handoff at any interruption
 
 Before ending a long-running volume session, ensure the repository itself contains enough state for continuation:
 
@@ -302,8 +366,10 @@ Before ending a long-running volume session, ensure the repository itself contai
 
 ---
 
-## 14. Recommended continuation command
+## 15. Recommended continuation command
 
 For a completely new target volume, use [`START_NEXT_MURASOLI_VOLUME_PROMPT.md`](START_NEXT_MURASOLI_VOLUME_PROMPT.md).
 
 For an already-started volume, use the same prompt but explicitly tell the worker to inspect existing target-volume files and **continue from the recorded boundary rather than restarting**.
+
+For the currently active Volume 45, the repository files in `volumes/volume-45/` are authoritative: continue from **PDF 306 / Letter 3578** unless a later committed batch moves that boundary.
