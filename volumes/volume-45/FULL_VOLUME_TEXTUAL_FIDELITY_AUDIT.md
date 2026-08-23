@@ -39,6 +39,16 @@ Direct second-pass scan comparison completed for printed pages 5–9 of the fore
 - **PDF 009 — CORRECTED, then PASS.** First-pass canonical `ஏற்பாடித் தொகுத்துச் சொல்லவும்` differs from the printed scan, which reads **`ஏற்றபடி தொகுத்துச் சொல்லவும்`**. Canonical page corrected.
 - **PDF 010 — CORRECTED, then PASS.** First-pass canonical `பேரறுமை` differs from the printed scan, which reads **`பேரருமை`**. Canonical page corrected. The final sentence remains split at the source page boundary.
 
+### PDF 011–015 — VERIFIED
+
+Direct second-pass scan comparison completed for printed pages 10–14, covering the conclusion of the foreword and the opening publisher's note.
+
+- **PDF 011 — CORRECTED, then PASS.** First-pass canonical `வெளியரவுள்ள` was corrected to scan-printed **`வெளிவரவுள்ள`**. The scan also prints quotation marks around **`“மறவன்”`**; those marks have been restored in the canonical page. The printed ellipsis after `“கலைஞரின் கடிதங்கள்”` is preserved.
+- **PDF 012 — CORRECTED, then PASS.** First-pass canonical used `சுயேச்சை` / `சுயேச்சைகளாகப்`; the scan prints **`சுயேட்சை`** / **`சுயேட்சைகளாகப்`**. Both source spellings are now preserved.
+- **PDF 013 — CORRECTED, then PASS.** First-pass `கசிவவர்` was corrected to scan-printed **`கசிபவர்`**; `சிற்பத்திற்கு கண் திறப்பு` was corrected to scan-printed **`சிற்பத்திற்குக் கண் திறப்பு`**.
+- **PDF 014 — PASS.** Example titles, closing paragraph, `அன்புடன்,`, printed signature facsimile context, `(மு.க. ஸ்டாலின்)` and `14.09.2021` agree with the scan.
+- **PDF 015 — PASS.** Publisher's-note heading and body agree with the scan. The visibly repeated source wording `கலைஞர் கலைஞருக்கான` is preserved as printed rather than silently normalized. The final sentence remains open at the page boundary and continues on PDF 016.
+
 ### Corrections made so far
 
 | PDF page | Before | Scan-supported canonical reading | Status |
@@ -48,14 +58,19 @@ Direct second-pass scan comparison completed for printed pages 5–9 of the fore
 | 008 | `எடுத்துச் இயம்பியவர்கள்` | `எடுத்து இயம்பியவர்கள்` | corrected |
 | 009 | `ஏற்பாடித் தொகுத்துச் சொல்லவும்` | `ஏற்றபடி தொகுத்துச் சொல்லவும்` | corrected |
 | 010 | `பேரறுமை` | `பேரருமை` | corrected |
+| 011 | `வெளியரவுள்ள` | `வெளிவரவுள்ள` | corrected |
+| 011 | `மறவன்` | `“மறவன்”` | punctuation restored |
+| 012 | `சுயேச்சை` / `சுயேச்சைகளாகப்` | `சுயேட்சை` / `சுயேட்சைகளாகப்` | corrected |
+| 013 | `கசிவவர்` | `கசிபவர்` | corrected |
+| 013 | `சிற்பத்திற்கு கண் திறப்பு` | `சிற்பத்திற்குக் கண் திறப்பு` | corrected |
 
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–010 / 402**
-- Corrections in this pass: **5 canonical page files**
+- Verified in this second pass: **PDF 001–015 / 402**
+- Scan-proven correction pages in this pass: **8 canonical page files / 10 text spans**
 - Current result: **IN PROGRESS**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 011 / printed page 10**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 016 / printed page 15**, continue sequentially, record every page as PASS or corrected, and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual verification IN PROGRESS through PDF 010
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual verification IN PROGRESS through PDF 015
 
 ## Controlling source
 
@@ -17,8 +17,8 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 - Completed source-letter records: 55
 - Completed source-letter range: 3537–3591
 - Full-volume Tamil structural audit: PASS
-- Second full-volume visual/textual-fidelity verification: IN PROGRESS — PDF 001–010 / 402 verified
-- Second-pass scan-proven correction pages: 5 — PDF 002, 003, 008, 009, 010
+- Second full-volume visual/textual-fidelity verification: IN PROGRESS — PDF 001–015 / 402 verified
+- Second-pass scan-proven correction pages: 8 — PDF 002, 003, 008, 009, 010, 011, 012, 013
 - English translation: blocked until the second Tamil fidelity gate passes
 
 ## End boundary
@@ -29,6 +29,6 @@ The canonical page layer covers every PDF page, 001–402, and the chapter/conte
 
 ## Exact next activity
 
-Resume the required second visual/textual-fidelity verification at **PDF 011 / printed page 10** and continue sequential direct comparison against the controlling scan. This is a separate QA gate from the completed iteration audits and structural audit. Do not begin English translation until all 402 pages pass.
+Resume the required second visual/textual-fidelity verification at **PDF 016 / printed page 15** and continue sequential direct comparison against the controlling scan. This is a separate QA gate from the completed iteration audits and structural audit. Do not begin English translation until all 402 pages pass.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) for the structural gate and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the live second-pass log.
