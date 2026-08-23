@@ -7,15 +7,15 @@ source:
   total_pdf_pages: 402
 
 transcription:
-  canonical_pages: 235
-  canonical_pdf_range: 001-235
+  canonical_pages: 265
+  canonical_pdf_range: 001-265
   total_pdf_pages: 402
   first_batch: complete
-  completed_letters: 31
-  completed_letter_range: 3537-3567
-  last_completed_letter: 3567
-  next_letter: 3568
-  next_pdf_page: 236
+  completed_letters: 36
+  completed_letter_range: 3537-3572
+  last_completed_letter: 3572
+  next_letter: 3573
+  next_pdf_page: 266
 
 translation:
   status: blocked

@@ -37,5 +37,10 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3565 — இன்று நடப்பது; அன்றே நடந்ததுதான்!](3565-ondru-nadappadhu-andre-nadandhadhuthaan.md) | 11-6-2011 | complete | 218–222 |
 | [3566 — அதுவே ஓர் ஆறுதல்தான்!](3566-adhuve-or-aarudhaldhaan.md) | 13-6-2011 | complete | 223–230 |
 | [3567 — ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!](3567-edugal-sila-yenguginrana-kodugal-varadha-endru.md) | 14-06-2011 | complete | 231–235 |
+| [3568 — வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?](3568-vendraver-solvadhellam-vedham-aaguma.md) | 15-6-2011 | complete | 236–241 |
+| [3569 — வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?](3569-varuma-edhirkaalathil-min-pattrakkurai.md) | 18-6-2011 | complete | 242–248 |
+| [3570 — நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!](3570-nambikkaiyin-oru-thulidhaan-indha-kadidham.md) | 19-6-2011 | complete | 249–255 |
+| [3571 — ஒன்று போதுமே; உதாரணம்!](3571-ondru-podhume-udharanam.md) | 30-6-2011 | complete | 256–260 |
+| [3572 — “100” கருணாநிதிகளால் முடியாதுதான்!](3572-100-karunanidhigalaal-mudiyadhudhaan.md) | 19-7-2011 | complete | 261–265 |
 
-Exact next activity: begin the next five-letter iteration with Letter 3568 at PDF page 236 / printed page 235.
+Exact next activity: begin the next five-letter iteration with Letter 3573 at PDF page 266 / printed page 265.

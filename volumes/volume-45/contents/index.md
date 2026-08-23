@@ -35,7 +35,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3565 | இன்று நடந்தது; அன்றே நடந்ததுதான்! | 11-6-2011 | 217 | 218 | 222 | complete |
 | 3566 | அதுவே ஓர் ஆறுதல்தான்! | 13-6-2011 | 222 | 223 | 230 | complete |
 | 3567 | ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று! | 14-06-2011 | 230 | 231 | 235 | complete |
+| 3568 | வென்றவர் சொல்லுவதெல்லாம் வேதம் ஆகுமா? | 15-6-2011 | 235 | 236 | 241 | complete |
+| 3569 | வரும்; எதிர்காலத்தை மறக்குதா? | 18-6-2011 | 241 | 242 | 248 | complete |
+| 3570 | நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி! | 19-6-2011 | 248 | 249 | 255 | complete |
+| 3571 | ஒன்று போதுமே; உதாரணம்! | 30-6-2011 | 255 | 256 | 260 | complete |
+| 3572 | “100” காரணங்களால் முடியாதுதான்! | 19-7-2011 | 260 | 261 | 265 | complete |
 
 ## Current transcription boundary
 
-The sixth normal five-letter iteration covers Letters 3563–3567, PDF pages 201–235. The next actual source record is Letter 3568 at PDF page 236 / printed page 235.
+The seventh normal five-letter iteration covers Letters 3568–3572, PDF pages 236–265. The next actual source record is Letter 3573 at PDF page 266 / printed page 265.

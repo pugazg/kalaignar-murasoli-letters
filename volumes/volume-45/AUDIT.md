@@ -40,7 +40,6 @@ Status: first-pass reviewed
 Status: first-pass reviewed
 
 ### Five-letter iteration — Letters 3563–3567, PDF pages 201–235
-
 Status: first-pass reviewed
 
 - Canonical page files present for PDF pages 201–235.
@@ -51,22 +50,34 @@ Status: first-pass reviewed
 - Letter 3567: PDF 231–235 / printed 230–234 / closing date 14-06-2011.
 - PDF pages 208 and 232 were manually transcribed from the scan because OCR returned no usable text.
 - Letter 3567 substantially repeats the 10-6-2011 press-meeting material also appearing in Letter 3565; the repetition is preserved as printed and is not deduplicated.
-- Running page headers and printed page numbers are not duplicated into canonical body text.
-- OCR was used only as a drafting aid; source boundaries, titles, closings, dates and first-pass accepted readings were checked against the controlling scan.
 
 ### Scan-proven contents/title correction pass — PDF pages 019–020 and affected records
-
 Status: corrected after direct scan re-verification
 
 - Canonical contents pages 019 and 020 were re-read directly from the scan after OCR-derived misreadings were detected.
-- False contents/letter-start discrepancy notes for Letters 3558, 3559, 3564 and 3567 were removed. The scan shows matching titles in those source contexts.
-- Letter 3565 was corrected from the erroneous letter-start reading `ஒன்று நடப்பது; அன்றே நடந்ததுதான்!` to the scan-supported `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
-- Letter 3565 retains one genuine source-context discrepancy: contents PDF page 020 prints `இன்று நடந்தது; அன்றே நடந்ததுதான்!`, while the actual letter start on PDF page 218 prints `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
-- Other scan-proven contents corrections on PDF pages 019–020 were synchronized into `contents/index.md`.
-- These are canonical Tamil corrections supported by fresh direct scan comparison, not modernization or outside reconciliation.
+- False contents/letter-start discrepancy notes for Letters 3558, 3559, 3564 and 3567 were removed.
+- Letter 3565 was corrected to the scan-supported actual start `இன்று நடப்பது; அன்றே நடந்ததுதான்!`; contents PDF page 020 prints `இன்று நடந்தது; அன்றே நடந்ததுதான்!`.
+
+### Five-letter iteration — Letters 3568–3572, PDF pages 236–265
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 236–265.
+- Letter 3568: PDF 236–241 / printed 235–240 / closing date 15-6-2011.
+- Letter 3569: PDF 242–248 / printed 241–247 / closing date 18-6-2011.
+- Letter 3570: PDF 249–255 / printed 248–254 / closing date 19-6-2011.
+- Letter 3571: PDF 256–260 / printed 255–259 / closing date 30-6-2011.
+- Letter 3572: PDF 261–265 / printed 260–264 / closing date 19-7-2011.
+- OCR initially returned no usable text on PDF pages 237, 241 and 253; these pages were reprocessed with a different layout mode and checked directly against the scan.
+- Letter 3568 has a source-context title difference: contents `வென்றவர் சொல்லுவதெல்லாம் வேதம் ஆகுமா?`; actual start `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?`.
+- Letter 3569 has a source-context title difference: contents `வரும்; எதிர்காலத்தை மறக்குதா?`; actual start `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?`.
+- Letter 3570 has a source-context title difference: contents `நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி!`; actual start `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!`.
+- Letter 3572 has a source-context title difference: contents `“100” காரணங்களால் முடியாதுதான்!`; actual start `“100” கருணாநிதிகளால் முடியாதுதான்!`.
+- Printed English in Letter 3568 (`The ceding of this tiny island...`) is retained in source position.
+- Running page headers and printed page numbers are not duplicated into canonical body text.
+- OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
 
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 236 with Letter 3568.
+The next five-letter iteration begins at PDF page 266 with Letter 3573.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
