@@ -14,7 +14,7 @@
 
 தலைவர் கலைஞர்
 
-சீதா பதிப்பகம்,
+சீதை பதிப்பகம்,
 சென்னை-05. ☎ 97907 06549 / 97907 06548
 
 ## Archival notes
@@ -22,4 +22,5 @@
 - This page is the scanned title page.
 - A later library/ownership stamp is visible over the title-page area; it is treated as an annotation rather than part of the printed edition text.
 - Printed title, volume number, date range, author attribution, publisher name, location, and telephone numbers are preserved from the scan.
-- No OCR normalization or external correction applied.
+- Second full-volume visual/textual-fidelity verification corrected the publisher spelling from `சீதா பதிப்பகம்` to the scan-printed `சீதை பதிப்பகம்`.
+- No external normalization or correction applied.
