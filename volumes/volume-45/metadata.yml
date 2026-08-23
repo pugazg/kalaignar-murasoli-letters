@@ -17,7 +17,11 @@ transcription:
   next_letter: null
   next_pdf_page: null
   structural_audit: pass
-  second_visual_verification: pending
+  second_visual_verification: in-progress
+  second_visual_verified_page_range: 001-010
+  second_visual_verified_pages: 10
+  second_visual_correction_pages: 5
+  second_visual_next_pdf_page: 011
 
 translation:
   status: blocked
