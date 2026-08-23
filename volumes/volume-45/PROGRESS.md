@@ -15,7 +15,8 @@
 - Seventh normal five-letter iteration completed: Letters 3568–3572
 - Eighth normal five-letter iteration completed: Letters 3573–3577
 - Ninth normal five-letter iteration completed: Letters 3578–3582
-- Canonical page coverage: PDF 001–344
+- Tenth normal five-letter iteration completed: Letters 3583–3587
+- Canonical page coverage: PDF 001–376
 
 ## Current stage
 
@@ -23,11 +24,11 @@ Tamil transcription — normal five-letter batching.
 
 ## Current verified boundary
 
-- Last completed canonical page: PDF 344 / printed page 343
-- Last completed letter: 3582
-- Completed source records: 46
-- Canonical pages: 344 / 402
+- Last completed canonical page: PDF 376 / printed page 375
+- Last completed letter: 3587
+- Completed source records: 51
+- Canonical pages: 376 / 402
 
 ## Exact next activity
 
-Begin at PDF page 345 / printed page 344 with Letter 3583 and complete five consecutive actual source letters, 3583–3587, stopping at the verified closing of Letter 3587 without including any part of Letter 3588.
+Begin at PDF page 377 / printed page 376 with Letter 3588. Only four source letters remain in Volume 45 (3588–3591), so apply the documented end-of-volume smaller-batch exception: complete all remaining actual source letters through the verified closing of Letter 3591, then finish any post-letter/end-matter PDF pages through page 402 and move to the full-volume Tamil structural audit.
