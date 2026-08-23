@@ -40,7 +40,12 @@ The contents wording below is preserved from the controlling scan. Contents entr
 | 3570 | நம்பிக்கையின் ஒரு துளிதான் இந்தத் துளி! | 19-6-2011 | 248 | 249 | 255 | complete |
 | 3571 | ஒன்று போதுமே; உதாரணம்! | 30-6-2011 | 255 | 256 | 260 | complete |
 | 3572 | “100” காரணங்களால் முடியாதுதான்! | 19-7-2011 | 260 | 261 | 265 | complete |
+| 3573 | அல்லல் நீங்கும்; தொல்லை குறையும்! | 21-7-2011 | 265 | 266 | 268 | complete |
+| 3574 | அமைதி வழி - அறவழி - அதுவே அண்ணா வழி! | 28-7-2011 | 268 | 269 | 274 | complete |
+| 3575 | அந்த நாள் முதல் இந்த நாள் வரையில்....! | 30-7-2011 | 274 | 275 | 283 | complete |
+| 3576 | உலகப் புகழ் - உத்தமத் தமிழச்சி, பார்! | 31-7-2011 | 283 | 284 | 289 | complete |
+| 3577 | மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே! | 3-8-2011 | 289 | 290 | 305 | complete |
 
 ## Current transcription boundary
 
-The seventh normal five-letter iteration covers Letters 3568–3572, PDF pages 236–265. The next actual source record is Letter 3573 at PDF page 266 / printed page 265.
+The eighth normal five-letter iteration covers Letters 3573–3577, PDF pages 266–305. The next actual source record is Letter 3578 at PDF page 306 / printed page 305.

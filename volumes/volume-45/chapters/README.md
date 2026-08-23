@@ -42,5 +42,10 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3570 — நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!](3570-nambikkaiyin-oru-thulidhaan-indha-kadidham.md) | 19-6-2011 | complete | 249–255 |
 | [3571 — ஒன்று போதுமே; உதாரணம்!](3571-ondru-podhume-udharanam.md) | 30-6-2011 | complete | 256–260 |
 | [3572 — “100” கருணாநிதிகளால் முடியாதுதான்!](3572-100-karunanidhigalaal-mudiyadhudhaan.md) | 19-7-2011 | complete | 261–265 |
+| [3573 — அல்லல் நீங்கும்; தொல்லை குறையும்!](3573-allal-neengum-thollai-kuraiyum.md) | 21-7-2011 | complete | 266–268 |
+| [3574 — அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!](3574-amaidhi-vazhi-aravazhi-adhuve-anna-vazhi.md) | 28-7-2011 | complete | 269–274 |
+| [3575 — அந்த நாள் முதல் இந்த நாள் வரையில்....!](3575-andha-naal-mudhal-indha-naal-varaiyil.md) | 30-7-2011 | complete | 275–283 |
+| [3576 — உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!](3576-ulaga-pugazh-uthamath-thamizhachi-paar.md) | 31-7-2011 | complete | 284–289 |
+| [3577 — மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே!](3577-moondru-maadha-aatchi-pattiyale-moochu-muttugiradhe.md) | 3-8-2011 | complete | 290–305 |
 
-Exact next activity: begin the next five-letter iteration with Letter 3573 at PDF page 266 / printed page 265.
+Exact next activity: begin the next five-letter iteration with Letter 3578 at PDF page 306 / printed page 305.

@@ -76,8 +76,22 @@ Status: first-pass reviewed
 - Running page headers and printed page numbers are not duplicated into canonical body text.
 - OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
 
+### Five-letter iteration — Letters 3573–3577, PDF pages 266–305
+Status: first-pass reviewed
+
+- Canonical page files present for PDF pages 266–305.
+- Letter 3573: PDF 266–268 / printed 265–267 / closing date 21-7-2011.
+- Letter 3574: PDF 269–274 / printed 268–273 / closing date 28-7-2011.
+- Letter 3575: PDF 275–283 / printed 274–282 / closing date 30-7-2011.
+- Letter 3576: PDF 284–289 / printed 283–288 / closing date 31-7-2011.
+- Letter 3577: PDF 290–305 / printed 289–304 / closing date 3-8-2011.
+- Letter 3576 has a source-context punctuation difference: contents PDF page 021 prints `உலகப் புகழ் - உத்தமத் தமிழச்சி, பார்!`; actual letter start on PDF page 284 prints `உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!`.
+- Letter 3577 contains a long printed catalogue of reported crimes/incidents; the repetition/list structure is preserved rather than condensed.
+- Running page headers and printed page numbers are not duplicated into canonical body text.
+- OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
+
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 266 with Letter 3573.
+The next five-letter iteration begins at PDF page 306 with Letter 3578.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
