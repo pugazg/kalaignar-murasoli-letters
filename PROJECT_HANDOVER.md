@@ -43,25 +43,27 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–005 verified**
-- Second-pass corrections so far: **2 canonical page files**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–010 verified**
+- Second-pass corrections so far: **5 canonical page files**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-Second-pass results so far:
+Second-pass corrections so far:
 
-- PDF 001 — PASS.
-- PDF 002 — corrected `சீதா பதிப்பகம்` to scan-printed `சீதை பதிப்பகம்`; PASS after correction.
-- PDF 003 — corrected Tamil publisher `சீதா பதிப்பகம்` to scan-printed `சீதை பதிப்பகம்`; PASS after correction.
-- PDF 004 — PASS.
-- PDF 005 — PASS; faint show-through correctly excluded as non-printed page text.
+- PDF 002 — `சீதா பதிப்பகம்` → scan-printed `சீதை பதிப்பகம்`.
+- PDF 003 — Tamil publisher `சீதா பதிப்பகம்` → scan-printed `சீதை பதிப்பகம்`.
+- PDF 008 — `எடுத்துச் இயம்பியவர்கள்` → scan-printed `எடுத்து இயம்பியவர்கள்`.
+- PDF 009 — `ஏற்பாடித் தொகுத்துச் சொல்லவும்` → scan-printed `ஏற்றபடி தொகுத்துச் சொல்லவும்`.
+- PDF 010 — `பேரறுமை` → scan-printed `பேரருமை`.
+
+PDF 001, 004–007 passed without canonical text correction. PDF 005 is a no-printed-text page whose faint show-through remains correctly excluded.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 006 / printed page 5**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 011 / printed page 10**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -100,31 +102,13 @@ Volumes 48 and 49 are completed English references. Volume 49 remains the princi
 
 ## 4. Mandatory new-volume startup
 
-For a new attached volume:
-
-1. read all controlling root guides and this handover;
-2. inspect the repository for an existing target volume;
-3. verify the volume number from the scan, not the filename alone;
-4. record source filename, page count, hash/size where available, and printed publication data only when source-supported;
-5. inspect contents without assuming they are error-free;
-6. note blank/damaged/rotated/duplicated/missing pages;
-7. use OCR/text layers only as aids;
-8. do not commit the source PDF unless explicitly instructed;
-9. continue existing target-volume work rather than duplicating it.
+For a new attached volume: read all controlling root guides and this handover; inspect the repository for existing work; verify the volume number from the scan; record source metadata only when supported; inspect contents and source anomalies; use OCR/text layers only as aids; do not commit the source PDF unless explicitly instructed; and continue existing target-volume work rather than duplicating it.
 
 ---
 
 ## 5. Tamil transcription rules
 
-- First new-volume transcription commit = **PDF 001–025 exactly**.
-- If PDF 25 interrupts a letter, the next commit starts at PDF 26 and completes that letter first.
-- Default subsequent iteration = **five complete consecutive actual source letters**.
-- Do not include part of a sixth letter.
-- A smaller end-of-volume batch is allowed under the documented exception.
-- One canonical Markdown file per PDF page.
-- Every accepted page/title/boundary/closing/date must ultimately be supported by the scan.
-- Update contents, chapter records/index, metadata, progress, audit and README with each completed iteration.
-- Chapter records link to canonical pages and do not duplicate the full Tamil body.
+First new-volume transcription commit is PDF 001–025 exactly. If PDF 25 interrupts a letter, the next commit starts at PDF 26 and completes that letter first. Default subsequent iteration is five complete consecutive actual source letters. One canonical Markdown file is kept per PDF page, and every accepted page/title/boundary/closing/date must ultimately be supported by the scan. Contents, chapter records/index, metadata, progress, audit and README are maintained with each completed iteration.
 
 ---
 
@@ -141,9 +125,7 @@ English translation remains blocked until the required Tamil gates pass. A later
 
 ## 7. Source anomalies and gaps
 
-If printed text appears wrong or inconsistent, preserve and document it. Do not repair duplicate/skipped numbers, unusual dates, contents/title differences, malformed English, or inconsistent figures using outside knowledge.
-
-If the controlling PDF genuinely omits material, mark the record source-incomplete, preserve surviving text only, do not reconstruct or guess missing continuation/closing/date/signature, and carry the gap consistently through archival and translation records.
+If printed text appears wrong or inconsistent, preserve and document it. Do not repair duplicate/skipped numbers, unusual dates, contents/title differences, malformed English, or inconsistent figures using outside knowledge. If the controlling PDF genuinely omits material, mark the record source-incomplete and do not reconstruct it.
 
 ---
 
@@ -153,20 +135,11 @@ Translate from audited canonical Tamil in clear contemporary English while prese
 
 Default future-volume translation flow: three-letter pilot → bilingual pilot review → lock volume conventions → five actual source records per translation batch → separate bilingual alignment gate → full-volume editorial consistency review → manifest → final release report.
 
-Volume 46 conventions remain the standing reference unless a target-volume translation plan documents a justified exception: retain `Udanpirappē`; standard `அன்புள்ள, மு.க.` → `With affection, M.K.`; preserve lakh/crore; preserve genuinely printed source English; represent both printed English and a separate Tamil rendering when both occur; translate long quotations from audited canonical Tamil.
-
 ---
 
 ## 9. Git/concurrency discipline
 
-- Work on `main` as requested.
-- Never force-push routine work.
-- Recheck `main` before writes when concurrency is possible.
-- Preserve unrelated concurrent changes.
-- Keep iteration scope explicit.
-- Prefer atomic commits for declared batches where technically possible.
-- Remove temporary OCR/render/export/workflow artefacts from the final tree.
-- Verify the resulting repository tree before claiming completion.
+Work on `main` as requested; never force-push routine work; recheck `main` before writes when concurrency is possible; preserve unrelated concurrent changes; keep iteration scope explicit; remove temporary artefacts; and verify the resulting repository tree before claiming completion.
 
 ---
 
@@ -180,4 +153,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 005**. Resume at **PDF 006 / printed page 5** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 010**. Resume at **PDF 011 / printed page 10** unless a later committed repository update moves that boundary.
