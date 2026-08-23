@@ -90,6 +90,15 @@ Status: first-pass reviewed
 - Running page headers and printed page numbers are not duplicated into canonical body text.
 - OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
 
+### Post-batch scan-fidelity correction — PDF pages 281, 283, 304–305
+Status: corrected after direct scan comparison
+
+- PDF 281: removed an OCR-derived running-header fragment, repaired scan-visible spellings, and restored the omitted paragraph ending that continues onto PDF 282.
+- PDF 283: restored omitted source text, the final argument, closing, signature and `30-7-2011` date for Letter 3575.
+- PDF 304: removed the running header from canonical body text and repaired scan-visible wording.
+- PDF 305: restored omitted incident lines and the full concluding paragraph before the closing of Letter 3577.
+- These are scan-proven canonical Tamil corrections; no modernization or external reconstruction was used.
+
 ## Next QA boundary
 
 The next five-letter iteration begins at PDF page 306 with Letter 3578.
