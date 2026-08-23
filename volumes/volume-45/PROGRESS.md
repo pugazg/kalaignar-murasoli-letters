@@ -19,22 +19,24 @@
 - End-of-volume smaller-batch iteration completed: Letters 3588–3591
 - Canonical page coverage completed: PDF 001–402 / 402
 - Full-volume Tamil structural audit: PASS
+- Second full-volume visual/textual-fidelity verification started
+- Second-pass verified: PDF 001–005
+- Scan-proven second-pass corrections: PDF 002 and 003 publisher spelling `சீதா பதிப்பகம்` → `சீதை பதிப்பகம்`
 
 ## Current stage
 
-Tamil structural audit PASS — second full-volume visual/textual-fidelity verification pending.
+Second full-volume visual/textual-fidelity verification **IN PROGRESS**.
 
 ## Current verified boundary
 
-- Last canonical PDF page: 402 / 402
-- Last source letter: 3591
-- Letter 3591 closes on PDF 401 / printed page 400 with date 27-9-2011
-- PDF 402 is the back cover / portrait / publisher matter
-- Completed source records: 55
-- Canonical pages: 402 / 402
+- Canonical PDF coverage: 402 / 402
+- Source letters: 55 / 55, Letters 3537–3591
 - Full-volume structural audit: PASS
-- English translation: blocked
+- Second visual/textual-fidelity audit: verified PDF 001–005 / 402
+- Second-pass corrections so far: 2 canonical page files
+- Exact next scan page: PDF 006 / printed page 5
+- English translation: blocked until second visual/textual-fidelity audit PASS
 
 ## Exact next activity
 
-Run the required second visual/textual-fidelity verification of all 402 canonical PDF-page records against the controlling scan. Keep this gate distinct from the completed batch reviews and structural audit. Do not begin English translation until the second visual verification passes.
+Resume the second full-volume visual/textual-fidelity audit at **PDF 006 / printed page 5** and continue sequential direct scan comparison. Record PASS/corrections in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.
