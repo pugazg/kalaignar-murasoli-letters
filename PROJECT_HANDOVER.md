@@ -22,13 +22,9 @@ If these documents conflict, the mandatory repository processing/batching/transc
 
 The repository preserves Kalaignar’s Murasoli letters as a page-faithful archival corpus and, where completed, as verified bilingual Tamil–English records.
 
-The core archival rule is simple:
-
 > **The source scan controls.**
 
-OCR, contents pages, another edition, outside historical knowledge, English translations and inferred chronology can help identify questions, but none may silently override what is printed in the controlling scan.
-
-The project is not a modernization or copy-editing exercise. Historical wording, source errors, numbering anomalies, punctuation, quoted material, political rhetoric, English text and missing-source conditions are preserved and documented.
+OCR, contents pages, another edition, outside historical knowledge, English translations and inferred chronology may help identify questions, but none may silently override what is printed in the controlling scan. Historical wording, source errors, numbering anomalies, punctuation, quoted material, political rhetoric, English text and missing-source conditions are preserved and documented.
 
 ---
 
@@ -39,15 +35,15 @@ Volume 45 is the current active Tamil-transcription workstream.
 - Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
 - Source PDF pages: **402**
 - Visible source date range: **12.03.2011–27.09.2011**
-- Canonical Tamil page coverage: **001–344 / 402**
-- Completed actual source-letter records: **46**
-- Completed source-letter range: **3537–3582**
-- Last completed letter: **3582**
-- Last verified boundary: **PDF 344 / printed page 343**
-- Letter 3582 closing date: **25-08-2011**
+- Canonical Tamil page coverage: **001–376 / 402**
+- Completed actual source-letter records: **51**
+- Completed source-letter range: **3537–3587**
+- Last completed letter: **3587**
+- Last verified boundary: **PDF 376 / printed page 375**
+- Letter 3587 closing date: **13-9-2011**
 - English translation: **blocked** until Tamil transcription and required Tamil QA gates are complete
 
-The mandatory first batch and nine normal five-letter iterations are complete:
+The mandatory first batch, Letter 3537 continuation, and ten normal five-letter iterations are complete:
 
 - PDF 001–025 — mandatory first batch
 - Letter 3537 — continuation completed through PDF 033
@@ -60,10 +56,24 @@ The mandatory first batch and nine normal five-letter iterations are complete:
 - 3568–3572
 - 3573–3577
 - 3578–3582
+- 3583–3587
 
-The latest completed batch covers PDF pages **306–344**. It preserves the contents/letter-start title differences for Letters **3579** and **3581**, preserves the printed English police quotation in Letter **3580**, and records direct scan transcription for PDF pages **315, 325 and 335** where OCR produced no usable body text. Scan comparison also corrected OCR artifacts on pages **339, 341 and 342**.
+The latest completed batch covers **PDF 345–376 / printed 344–375**. Its verified boundaries are:
 
-**Exact next activity:** begin at **PDF page 345 / printed page 344** with Letter **3583** and complete five consecutive actual source letters **3583–3587**, stopping at the verified closing of Letter 3587 without including any part of Letter 3588.
+- 3583 — PDF 345–351 — `1-9-2011`
+- 3584 — PDF 352–357 — `8-9-2011`
+- 3585 — PDF 358–364 — `10-9-2011`
+- 3586 — PDF 365–369 — `12-9-2011`
+- 3587 — PDF 370–376 — `13-9-2011`
+
+Important source-fidelity notes from this batch:
+
+- PDF 347 was re-read directly from the scan after an inadequate temporary transcription and corrected immediately.
+- Letter 3583 preserves the source-supplied English Colin Gonsalves quotation.
+- Letter 3586 has a contents/actual-start title difference: contents prints `தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; actual PDF 365 prints `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`.
+- Letter 3587 preserves quoted 2006 statements/editorials and the printed acreage figures without normalization.
+
+**Exact next activity:** only four source letters remain. Under the documented end-of-volume smaller-batch exception, begin at **PDF 377 / printed page 376** with Letter **3588** and complete actual source records **3588–3591** through the verified closing of 3591. Then transcribe any remaining post-letter/end-matter pages through **PDF 402** before starting the full-volume Tamil structural audit.
 
 Authoritative continuation files:
 
@@ -74,303 +84,110 @@ Authoritative continuation files:
 - [`volumes/volume-45/contents/index.md`](volumes/volume-45/contents/index.md)
 - [`volumes/volume-45/chapters/README.md`](volumes/volume-45/chapters/README.md)
 
-Do not restart Volume 45 from an earlier batch boundary. Live repository state above is the durable handoff.
+Do not restart Volume 45 from an earlier boundary.
 
 ---
 
-## 3. Current completed reference volumes
+## 3. Completed reference volumes
 
 ### Volume 01
 
-Volume 01 is fully released.
-
-- Source PDF pages: **401**
-- Canonical Tamil page coverage: **001–401 / 401**
-- Actual source-letter records: **110**
-- Letter range: **0001–0110**
-- Full-volume Tamil structural audit: **PASS**
-- Full 401-page visual/textual-fidelity audit: **PASS**
-- English bilingual records: **110 / 110 final release complete**
-- Bilingual alignment: **PASS**
-- Editorial consistency review: complete
-- Translation manifest: **110 rows**
-- Final English release report: complete
-- Legacy 110 bilingual records remain preserved under `volumes/volume-1/`
-
-Volume 01 used an approved volume-specific batching override during its canonical migration/review work. Do not carry that override into other volumes unless explicitly approved.
+Volume 01 is fully released: **401 / 401** canonical pages, **110 / 110** source records, full-volume Tamil structural audit PASS, full 401-page visual/textual-fidelity audit PASS, and **110 / 110** final bilingual release records. Its approved volume-specific batching overrides must not be carried into other volumes without explicit approval.
 
 ### Volume 46
 
-Volume 46 is fully complete through English release.
-
-- Source PDF pages: **402**
-- Canonical Tamil page coverage: **001–402 / 402**
-- Actual source-letter records: **55**
-- Source-letter PDF span: **24–400**
-- English bilingual records: **55 / 55**
-- Bilingual alignment: **55 / 55 verified**
-- Volume-level English editorial review: complete
-- Translation manifest: **55 rows**
-- Editorial English word count recorded in release metadata: **90,510**
-- Final English release report: complete
-
-Volume 46 is especially important as a reference for preserving source anomalies:
-
-- no source letter **3636**;
-- two distinct consecutive source records both numbered **3637**;
-- no source letters **3644–3646**.
-
-Those numbers were **not repaired**. The translation manifest and bilingual records represent the actual source records rather than a normalized sequence.
-
-Volume 46 also established several translation lessons now captured in `FUTURE_VOLUME_WORK_GUIDELINES.md`, including separate treatment of source-supplied English and a following Tamil rendering, preservation of `Udanpirappē`, thought-order fidelity, complete audited Tamil appendices, and a separate bilingual alignment gate.
+Volume 46 is fully complete through English release: **402 / 402** canonical pages, **55 actual source records**, **55 / 55** verified bilingual records, editorial consistency review, 55-row manifest and final release report complete. It remains the key reference for preserving source-number anomalies: no 3636; two distinct records numbered 3637; no 3644–3646.
 
 ### Volume 47
 
-Volume 47’s English workflow is release-ready within the limits of the surviving source.
+Volume 47 is release-ready within the surviving source: **59 / 59** bilingual aligned, final manifest/report complete, with Letter **3681** explicitly source-incomplete because printed page 252 is absent from the sole available PDF. Do not reconstruct that missing page without new source evidence and explicit approval.
 
-Its `translations/en/PROGRESS.md` records:
+### Volumes 48 and 49
 
-- **59 / 59** letter records draft-translated;
-- **59 / 59** bilingual aligned;
-- volume-level English editorial consistency complete;
-- translation manifest/final release report complete;
-- one explicit source-incomplete letter: **3681**, because printed page **252** is absent from the sole available source PDF.
-
-Do not reconstruct that missing page unless new source evidence is supplied and the source-supplement workflow is explicitly approved.
-
-### Volume 48
-
-Volume 48 is an established completed English reference in the repository and may be consulted for current-format conventions.
-
-### Volume 49
-
-Volume 49 remains the principal completed quality reference implementation for structure and English release conventions.
-
-Its final English release contains **53 / 53** verified bilingual records and a 53-row translation manifest. It is a reference implementation only; never copy its volume-specific facts into another volume.
+Volumes 48 and 49 are completed English references. Volume 49 remains the principal structural/quality reference implementation; never copy its volume-specific facts into another volume.
 
 ---
 
-## 4. Other repository trees
+## 4. Mandatory new-volume startup
 
-The repository also contains other volume directories, including legacy/nonuniform trees such as `volume-1` and later-numbered volume directories.
-
-Do **not** infer their processing status or required structure merely from folder existence. Some older/later trees may use a different pipeline or layout.
-
-For any target volume:
-
-1. inspect its actual directory first;
-2. read its own progress/audit/release files;
-3. continue existing work where present;
-4. do not rename released paths merely to make them look like Volume 46/49;
-5. use the current processing guide for new work unless the target already has a documented approved workflow.
-
----
-
-## 5. Mandatory new-volume startup
-
-When a new PDF is attached with an expected volume number:
+For a new attached volume:
 
 1. read all controlling root guides and this handover;
 2. inspect the repository for an existing target volume;
-3. inspect the actual PDF scan before trusting its filename;
-4. confirm the volume number from the scan itself;
-5. record source filename, hash/size/page count where available;
-6. record printed publisher/edition/year only when supported by the scan;
-7. identify provisional contents/date/letter ranges without assuming they are accurate;
-8. note damaged, duplicated, blank, rotated, missing or illegible pages;
-9. check for a text layer but never use it as final authority;
-10. create/continue the target volume without uploading the PDF into the repository unless explicitly instructed.
-
-If the target volume already exists, **continue it rather than creating a duplicate**.
+3. verify the volume number from the scan, not the filename alone;
+4. record source filename, page count, hash/size where available, and printed publication data only when source-supported;
+5. inspect contents without assuming they are error-free;
+6. note blank/damaged/rotated/duplicated/missing pages;
+7. use OCR/text layers only as aids;
+8. do not commit the source PDF unless explicitly instructed;
+9. continue existing target-volume work rather than duplicating it.
 
 ---
 
-## 6. Tamil transcription handoff rules
+## 5. Tamil transcription rules
 
-The mandatory batching policy is:
-
-- first new-volume transcription commit = **PDF 001–025 exactly**;
-- if PDF 25 interrupts a letter, next commit starts at PDF 26 and finishes that letter first;
-- after that, default iteration = **five complete consecutive letters**;
-- one canonical Markdown file per PDF page;
-- do not include part of a sixth letter;
-- every new/corrected page is visually compared with the scan before commit;
-- update contents, chapters, metadata, progress, audit and README together with the batch.
-
-Chapter records link to canonical pages. Do not duplicate the full canonical Tamil body into chapter files.
-
-At every iteration end, record the exact next PDF page and next letter.
+- First new-volume transcription commit = **PDF 001–025 exactly**.
+- If PDF 25 interrupts a letter, the next commit starts at PDF 26 and completes that letter first.
+- Default subsequent iteration = **five complete consecutive actual source letters**.
+- Do not include part of a sixth letter.
+- A smaller end-of-volume batch is allowed under the documented exception.
+- One canonical Markdown file per PDF page.
+- Every accepted page/title/boundary/closing/date must ultimately be supported by the scan.
+- Update contents, chapter records/index, metadata, progress, audit and README with each completed iteration.
+- Chapter records link to canonical pages and do not duplicate the full Tamil body.
 
 ---
 
-## 7. Distinguish four Tamil QA layers
-
-Never merge these into one status:
+## 6. Keep Tamil QA stages distinct
 
 1. iteration/batch audit;
 2. full-volume Tamil structural audit;
 3. second visual verification;
 4. translation textual-fidelity audit.
 
-English translation remains blocked until the required Tamil gates are complete.
-
-A scan-proven correction made during later fidelity review must be documented. An English-review concern does not justify changing canonical Tamil unless the scan proves the Tamil transcription wrong.
+English translation remains blocked until the required Tamil gates pass. A later English concern does not justify changing canonical Tamil unless fresh direct scan comparison proves the Tamil transcription itself is wrong.
 
 ---
 
-## 8. Source anomalies and source-incomplete records
+## 7. Source anomalies and gaps
 
-### Source anomaly
+If printed text appears wrong or inconsistent, preserve and document it. Do not repair duplicate/skipped numbers, unusual dates, contents/title differences, malformed English, or inconsistent figures using outside knowledge.
 
-If printed text exists but seems wrong, preserve it and document it.
-
-Examples include:
-
-- duplicate letter number;
-- skipped printed number;
-- unusual/incorrect-looking printed date;
-- contents title differing from actual letter-start title;
-- malformed printed English;
-- inconsistent figures or claims.
-
-Do not silently reconcile these with outside sources.
-
-### Source-incomplete record
-
-If material is genuinely absent from the sole controlling PDF:
-
-- preserve only surviving text;
-- mark the record `source-incomplete`;
-- do not invent the missing continuation;
-- do not guess a closing/date/signature;
-- carry the gap through metadata, audit, chapter, translation, manifest and release report.
-
-Volume 47 letter 3681 is the reference example.
+If the controlling PDF genuinely omits material, mark the record source-incomplete, preserve surviving text only, do not reconstruct or guess missing continuation/closing/date/signature, and carry the gap consistently through archival and translation records.
 
 ---
 
-## 9. English translation handoff rules
+## 8. English translation/release handoff
 
-The English edition is intended to preserve Kalaignar’s voice and thought structure, not merely convey a modern prose summary.
+Translate from audited canonical Tamil in clear contemporary English while preserving thought order, political force, irony, rhetorical questions, repetition, quotations, names, dates, figures, units, source-supplied English, anomalies and source gaps. Retain the complete available audited Tamil under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
 
-Preserve:
+Default future-volume translation flow: three-letter pilot → bilingual pilot review → lock volume conventions → five actual source records per translation batch → separate bilingual alignment gate → full-volume editorial consistency review → manifest → final release report.
 
-- argument sequence;
-- rhetorical questions;
-- accusation and political force;
-- sarcasm/irony;
-- repetition;
-- quotations and attributed voices;
-- names, figures, dates and units;
-- idiom imagery where possible;
-- source-supplied English;
-- anomalies and source gaps.
-
-Do not silently soften, compress, reorder, explain away or modernize the source.
-
-The bilingual record must include the **complete available audited Tamil** under `Original Tamil — மூலத் தமிழ்`.
-
-For a future volume without an already approved translation plan, use this default approach:
-
-1. three-letter translation pilot;
-2. bilingual review of the pilot;
-3. lock volume-specific conventions;
-4. draft five actual source records per batch;
-5. run a separate bilingual alignment review;
-6. correct English-only issues where required;
-7. promote only after the alignment gate passes.
-
-If the source numbering skips or duplicates numbers, batch by actual records in scan order. Never invent missing numbers.
+Volume 46 conventions remain the standing reference unless a target-volume translation plan documents a justified exception: retain `Udanpirappē`; standard `அன்புள்ள, மு.க.` → `With affection, M.K.`; preserve lakh/crore; preserve genuinely printed source English; represent both printed English and a separate Tamil rendering when both occur; translate long quotations from audited canonical Tamil.
 
 ---
 
-## 10. Important Volume 46 translation lessons
+## 9. Git/concurrency discipline
 
-These points should not be lost in future work:
-
-- `Udanpirappē` is retained as Kalaignar’s characteristic political-familial address rather than flattened into “brother/comrade”.
-- The standard `அன்புள்ள, மு.க.` closing is rendered consistently as `With affection, M.K.` where applicable.
-- Source-supplied English remains verbatim when genuinely printed.
-- If an English passage is printed and followed by a separate Tamil rendering/explanation, **both source passages are represented** in the bilingual record. Do not replace the Tamil passage with a summary of the English.
-- Long quotations are translated from the audited canonical Tamil, not replaced by an outside edition or web version.
-- `lakh`/`crore` and other source/public-language units are preserved under the locked convention unless a later project-wide policy changes them.
-- Post-signature printed material remains part of the archival record.
-- Editorial cleanup happens only after substantive bilingual alignment.
+- Work on `main` as requested.
+- Never force-push routine work.
+- Recheck `main` before writes when concurrency is possible.
+- Preserve unrelated concurrent changes.
+- Keep iteration scope explicit.
+- Prefer atomic commits for declared batches where technically possible.
+- Remove temporary OCR/render/export/workflow artefacts from the final tree.
+- Verify the resulting repository tree before claiming completion.
 
 ---
 
-## 11. English release gate
+## 10. Meaning of “Proceed with next activity”
 
-After all letters are aligned:
-
-1. run a full-volume editorial consistency review;
-2. check stale translator-note wording and stale status fields;
-3. verify title/frontmatter/index agreement;
-4. verify names, transliteration, institutional terms and spelling consistency;
-5. verify all English records retain the complete available Tamil appendix;
-6. build a machine-readable translation manifest;
-7. validate manifest count against actual source records;
-8. create the final English release report;
-9. synchronize metadata, README, progress and root status;
-10. remove temporary workflows/scripts used only for one-time bulk operations.
-
-Do not mark a volume complete based only on a summary file. Verify the physical files and release inventory.
+Inspect the current durable target-volume state, identify the next already-defined gate/batch, execute it directly, and report completed source/page scope, QA result, commit SHA where applicable, current counts/status and exact next activity. Do not ask the user to choose among routine next steps.
 
 ---
 
-## 12. Git/concurrency discipline
+## 11. Clean interruption/handoff rule
 
-The repository is used for direct archival work on `main`.
+At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-Rules:
-
-- never force-push routine work;
-- record/recheck `main` before write operations when concurrent work is possible;
-- preserve changes from other volume workstreams;
-- keep iteration scope explicit;
-- prefer atomic commits for declared batches;
-- use clear commit messages naming volume, stage and range;
-- remove temporary workflow/export/test files after successful use;
-- verify the resulting repository tree after bulk status operations.
-
----
-
-## 13. What “Proceed with next activity” means
-
-When the user says **“Proceed with next activity”** or **“Proceed with next iteration”**:
-
-- inspect the current target volume status;
-- identify the next already-defined gate/batch;
-- execute it directly;
-- do not ask the user to choose among routine next steps;
-- do not stop after each letter when the active plan calls for a multi-letter batch;
-- report what was completed, source/page scope, QA result, commit SHA where applicable, and the exact next activity.
-
-Ask a question only when a real source ambiguity, missing attachment, repository conflict or policy decision prevents safe continuation.
-
----
-
-## 14. Definition of a clean handoff at any interruption
-
-Before ending a long-running volume session, ensure the repository itself contains enough state for continuation:
-
-- exact completed page range;
-- exact completed/partial letter range;
-- source anomalies/gaps discovered so far;
-- current audit status;
-- current translation/alignment/editorial status;
-- exact next PDF page and letter;
-- current applicable conventions;
-- no uncommitted conceptual dependency known only to the chat.
-
-`PROGRESS.md`, `AUDIT.md`, metadata and batch/review reports should carry the durable state. The chat should never be the sole place where critical archival decisions exist.
-
----
-
-## 15. Recommended continuation command
-
-For a completely new target volume, use [`START_NEXT_MURASOLI_VOLUME_PROMPT.md`](START_NEXT_MURASOLI_VOLUME_PROMPT.md).
-
-For an already-started volume, use the same prompt but explicitly tell the worker to inspect existing target-volume files and **continue from the recorded boundary rather than restarting**.
-
-For the currently active Volume 45, the repository files in `volumes/volume-45/` are authoritative: continue from **PDF 345 / Letter 3583** unless a later committed batch moves that boundary.
+For Volume 45, continue from **PDF 377 / Letter 3588** unless a later committed repository update moves that boundary.
