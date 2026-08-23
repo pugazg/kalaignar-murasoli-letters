@@ -43,52 +43,25 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **pending**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–005 verified**
+- Second-pass corrections so far: **2 canonical page files**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
-The complete Tamil transcription sequence is now durable:
+The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-- PDF 001–025 — mandatory first batch
-- Letter 3537 — continuation completed through PDF 033
-- 3538–3542
-- 3543–3547
-- 3548–3552
-- 3553–3557
-- 3558–3562
-- 3563–3567
-- 3568–3572
-- 3573–3577
-- 3578–3582
-- 3583–3587
-- end-of-volume exception batch 3588–3591, followed by PDF 402 end matter
+Second-pass results so far:
 
-Final end-of-volume boundaries:
+- PDF 001 — PASS.
+- PDF 002 — corrected `சீதா பதிப்பகம்` to scan-printed `சீதை பதிப்பகம்`; PASS after correction.
+- PDF 003 — corrected Tamil publisher `சீதா பதிப்பகம்` to scan-printed `சீதை பதிப்பகம்`; PASS after correction.
+- PDF 004 — PASS.
+- PDF 005 — PASS; faint show-through correctly excluded as non-printed page text.
 
-- 3588 — PDF 377–382 / printed 376–381 — `14-9-2011`
-- 3589 — PDF 383–390 / printed 382–389 — `19-9-2011`
-- 3590 — PDF 391–396 / printed 390–395 — `24-9-2011`
-- 3591 — PDF 397–401 / printed 396–400 — `27-9-2011`
-- PDF 402 — non-letter back cover / portrait / publisher-information page
+The live second-pass log is:
 
-Important source-fidelity notes retained from the completed transcription include:
+- [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-- PDF 347 was re-read directly from the scan after an inadequate temporary transcription and corrected immediately.
-- Letter 3583 preserves the source-supplied English Colin Gonsalves quotation.
-- Letter 3586 has a contents/actual-start title difference: contents prints `தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; actual PDF 365 prints `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`.
-- PDF 385 required direct scan transcription because OCR did not produce usable text.
-- PDF 399 OCR garbage at the page top was rejected; the printed `21-3-2002` date inside the quoted earlier letter is preserved.
-- PDF 402 preserves printed publisher/address/price matter; later handwriting near the price is not treated as edition text.
-
-The completed full-volume structural audit confirms:
-
-- canonical PDF records `page-001.md` through `page-402.md` are accounted for;
-- source-letter coverage is continuous from PDF 024 through PDF 401;
-- all **55** actual source records 3537–3591 are complete;
-- chapter ranges are contiguous with no gap/overlap;
-- contents mapping accounts for all 55 records;
-- no canonical Tamil body change was required by the structural gate.
-
-**Exact next activity:** perform the required **second full-volume visual/textual-fidelity verification of PDF pages 001–402 against the controlling Volume 45 scan**, recording page-by-page verification and correcting canonical Tamil only where direct scan comparison proves a discrepancy. Do **not** start English translation until this gate passes.
+**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 006 / printed page 5**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -96,6 +69,7 @@ Authoritative continuation files:
 - [`volumes/volume-45/PROGRESS.md`](volumes/volume-45/PROGRESS.md)
 - [`volumes/volume-45/AUDIT.md`](volumes/volume-45/AUDIT.md)
 - [`volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md`](volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md)
+- [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 - [`volumes/volume-45/metadata.yml`](volumes/volume-45/metadata.yml)
 - [`volumes/volume-45/contents/index.md`](volumes/volume-45/contents/index.md)
 - [`volumes/volume-45/chapters/README.md`](volumes/volume-45/chapters/README.md)
@@ -206,4 +180,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. Resume from the **second full-volume visual/textual-fidelity verification of PDF pages 001–402** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 005**. Resume at **PDF 006 / printed page 5** unless a later committed repository update moves that boundary.
