@@ -54,7 +54,7 @@ CODE : 2300
 பதிப்பு :
 முதல் பதிப்பு - 2022
 வெளியீடு :
-சீதா பதிப்பகம்
+சீதை பதிப்பகம்
 6எ/4, பார்த்தசாரதி சாமி தெரு,
 திருவல்லிக்கேணி,
 சென்னை - 600 005
@@ -90,4 +90,5 @@ ISBN :
 - Publication/imprint page transcribed from the scan.
 - Handwritten accession/catalogue markings visible in the lower middle area are later annotations and are not included in the printed source transcription.
 - Printed Tamil and English parallel publication information is preserved as printed.
-- No OCR normalization or external correction applied.
+- Second full-volume visual/textual-fidelity verification corrected the Tamil publisher spelling from `சீதா பதிப்பகம்` to the scan-printed `சீதை பதிப்பகம்`, matching the printed English `SEETHAI PATHIPPAGAM` without using the English as authority.
+- No external normalization or correction applied.
