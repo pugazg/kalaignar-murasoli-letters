@@ -116,8 +116,24 @@ Status: first-pass reviewed
 - Running page headers and printed page numbers are not duplicated into canonical body text.
 - OCR was used only as a drafting aid; accepted titles, boundaries, closings, dates and first-pass body readings were compared with the controlling scan.
 
+### Five-letter iteration — Letters 3583–3587, PDF pages 345–376
+Status: first-pass reviewed
+
+- Canonical page files are present for PDF pages 345–376.
+- Letter 3583: PDF 345–351 / printed 344–350 / closing date 1-9-2011.
+- Letter 3584: PDF 352–357 / printed 351–356 / closing date 8-9-2011.
+- Letter 3585: PDF 358–364 / printed 357–363 / closing date 10-9-2011.
+- Letter 3586: PDF 365–369 / printed 364–368 / closing date 12-9-2011.
+- Letter 3587: PDF 370–376 / printed 369–375 / closing date 13-9-2011.
+- PDF page 347 was re-read directly from the scan after an inadequate temporary transcription was detected; the scan-supported canonical text replaced it immediately.
+- Letter 3583 preserves the source-supplied English Colin Gonsalves quotation on PDF page 345.
+- Letter 3586 has a source-context title difference: contents PDF page 022 prints `தமிழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the actual letter start on PDF page 365 prints `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`.
+- Letter 3587 preserves the long quoted 2006 statements and editorial passages in their printed source order, including dates, acreage figures and party/newspaper names.
+- Running page headers and printed page numbers are not duplicated into canonical body text.
+- Accepted titles, boundaries, closings, dates and first-pass body readings were compared directly with the controlling scan.
+
 ## Next QA boundary
 
-The next five-letter iteration begins at PDF page 345 with Letter 3583.
+Only four source letters remain. Under the documented end-of-volume smaller-batch exception, begin at PDF page 377 with Letter 3588 and complete actual source records 3588–3591 through the verified closing of 3591. Then transcribe any remaining end matter through PDF page 402 before starting the full-volume Tamil structural audit.
 
 Full-volume structural audit, second visual verification, and translation textual-fidelity audit remain pending and distinct.
