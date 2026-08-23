@@ -15,7 +15,7 @@
 
 அப்பப்பா; அப்படி ஒரு தலைவரை, இன்னொரு முறை வாழ்நாளில் காண முடியுமோ? “இங்கிவரை யாம் பெறவே என்ன தவம் செய்து விட்டோம்!”.
 
-கலைஞர் ஒரு பன்முகங்கொண்ட பேரறுமை. கடித இலக்கியம், அவரது ஒரு முகம், ஒப்பிலாத திருமுகம்!
+கலைஞர் ஒரு பன்முகங்கொண்ட பேரருமை. கடித இலக்கியம், அவரது ஒரு முகம், ஒப்பிலாத திருமுகம்!
 
 1968-ஆம் ஆண்டு அக்டோபர் திங்கள் 22-ஆம் நாள் முதல், 1977-ஆம் ஆண்டு பிப்ரவரி 13-ஆம் நாள் வரையில்
 
@@ -23,4 +23,5 @@
 
 - Printed page number 9 is preserved.
 - Final sentence continues onto PDF page 011; page boundary is preserved.
-- No OCR normalization or external correction applied.
+- Second visual/textual-fidelity pass corrected first-pass `பேரறுமை` to scan-printed `பேரருமை`.
+- No external correction applied.
