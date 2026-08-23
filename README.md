@@ -24,7 +24,7 @@ volumes/
 
 ## தொகுதிகள் 1–48 — முதன்மை செயல்முறை
 
-மீதமுள்ள 48 PDF தொகுதிகளுக்கான source intake, folder structure, page transcription, contents/chapter preservation, Tamil audit, English translation, bilingual alignment, editorial review, manifest, release validation மற்றும் Git hygiene ஆகிய முழு வழிமுறைகளுக்கு:
+தொகுதிகள் 1–48 மற்றும் தற்போது செயல்பாட்டில் உள்ள பழைய தொகுதிகளுக்கான source intake, folder structure, page transcription, contents/chapter preservation, Tamil audit, English translation, bilingual alignment, editorial review, manifest, release validation மற்றும் Git hygiene ஆகிய முழு வழிமுறைகளுக்கு:
 
 - [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
 - [Mandatory Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
@@ -46,17 +46,20 @@ volumes/
 
 **Volume 1-specific override:** Volume 01 canonical migration/review work used **10 complete consecutive letters per regular iteration**. The user explicitly approved one expanded **20-letter** iteration for letters **0057–0076**. Volume 01 is now fully released and no routine gate remains open.
 
-Volume 49 reference implementation ஆகும்; ஆனால் ஒவ்வொரு பழைய தொகுதியின் அச்சு அமைப்பு, கடித எண்ணிக்கை, தேதி, மொழிநடை மற்றும் scan quality தனியாகச் சரிபார்க்கப்பட வேண்டும்.
+Volume 49 reference implementation ஆகும்; Volume 46 source-anomaly மற்றும் bilingual-alignment reference ஆகும். ஆனால் ஒவ்வொரு தொகுதியின் அச்சு அமைப்பு, கடித எண்ணிக்கை, தேதி, மொழிநடை மற்றும் scan quality தனியாகச் சரிபார்க்கப்பட வேண்டும்.
 
 ## தற்போதைய நிலை
 
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | மின்னாக்கப்பட்ட PDF பக்கங்கள் | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---:|---:|---:|
 | 01 | 22.10.1968–01.12.1974 | 401 | **1–401 canonical transcription complete; full-volume Tamil structural audit PASS; full 401-page visual/textual-fidelity audit PASS** | **110 / 110 complete; 0001–0110; printed pagination skips number 39 while text remains continuous** | **110 / 110 FINAL RELEASE COMPLETE; source check PASS; bilingual alignment PASS; editorial consistency PASS; 110-row translation manifest + final release report complete; legacy 110 bilingual records preserved under `volume-1`** |
+| 45 | 12.03.2011–27.09.2011 | 402 | **1–305 canonical; Tamil transcription in progress** | **41 complete; 3537–3577** | **blocked until Tamil transcription and required QA gates complete** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **1–402 complete; structural audit + second visual/textual-fidelity verification complete** | **55 actual source records**; source numbering omits 3636 and 3644–3646 and prints 3637 twice | **55 / 55 verified; editorial review + 55-row manifest + final release report complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **1–401 complete; Tamil structural/fidelity gates complete** | **59 records; 3681 source-incomplete because printed page 252 is absent** | **59 / 59 bilingual-aligned; editorial review + manifest + final release report complete; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | 1–402 | 58 (கடிதங்கள் 3706–3763) | **58 / 58 verified; editorial release complete** |
 | 49 | 01.06.2013–10.10.2013 | 402 | 1–402 | 53 (கடிதங்கள் 3764–3816) | **53 / 53 verified; editorial release complete** |
+
+**Active work — Volume 45:** canonical Tamil is complete through PDF page **305 / printed page 304**, ending with Letter **3577** dated **3-8-2011**. The exact next batch begins at PDF page **306 / printed page 305** with Letter **3578** and covers the next five complete actual source letters **3578–3582**, stopping before any part of Letter 3583. See [Volume 45 README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), and [metadata](volumes/volume-45/metadata.yml).
 
 தொகுதி 01 final release நிலைக்கு [Volume 01 README](volumes/volume-01/README.md), [full-volume structural audit](volumes/volume-01/FULL_VOLUME_STRUCTURAL_AUDIT.md), [full-volume textual-fidelity audit](volumes/volume-01/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md), [English release progress](volumes/volume-01/translations/en/PROGRESS.md), [translation manifest](volumes/volume-01/translations/en/TRANSLATION_MANIFEST.csv), [final release report](volumes/volume-01/translations/en/RELEASE_REPORT.md), [English editorial consistency review](volumes/volume-01/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md), [bilingual alignment progress](volumes/volume-01/translations/en/alignment/PROGRESS.md), [alignment manifest](volumes/volume-01/translations/en/alignment/ALIGNMENT_MANIFEST.csv) மற்றும் [legacy migration audit](volumes/volume-1/MIGRATION_AUDIT.md) பார்க்கவும்.
 
