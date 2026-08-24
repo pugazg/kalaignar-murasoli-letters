@@ -33,7 +33,7 @@
 வழங்கப்பட்டுள்ளது.
 பொதுமக்களுக்கு நன்கு சேவை செய்து வருவதற்காக கிண்டி,
 கிங் நோய் தடுப்பு மருந்து நிலையம் இந்திய வர்த்தக தொழில்
-கூட்டமைப் பின் (FICCI) 2010ஆம் ஆண்டிற்கான விருதினைப்
+கூட்டமைப்பின் (FICCI) 2010ஆம் ஆண்டிற்கான விருதினைப்
 பெற்றுள்ளது.
 48 ஆரம்ப சுகாதார நிலையங்களுக்கு ISO தரச்சான்றிதழ்
 ரூ. 4.86 கோடி செலவில் 48 ஆரம்ப சுகாதார நிலையங்கள்
@@ -48,3 +48,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `கூட்டமைப் பின்` to source-printed `கூட்டமைப்பின்`.

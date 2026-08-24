@@ -13,7 +13,7 @@
 கிராம ஊராட்சிகளில் கிராம சுகாதாரம் மற்றும் குடிநீர் துப்புரவு
 குழுக்களும், 561 நகர பஞ்சாயத்துகளில் 2540 கிராம சுகாதார
 மற்றும் குடிநீர்த் துப்புரவுக் குழுக்களும் அமைக்கப்பட்டு
-சுகாதார நடவடிக்கைகளை மேற்கொள்ள 2001ஆம் ஆண்டு
+சுகாதார நடவடிக்கைகளை மேற்கொள்ள 2007ஆம் ஆண்டு
 முதல் ஒவ்வொரு குழுவிற்கும் ஒவ்வொரு ஆண்டும் 10 ஆயிரம்
 ரூபாய் வீதம் இதுவரை 60 கோடியே 63 இலட்ச ரூபாய் நிதி
 வழங்கப்பட்டுள்ளது.
@@ -27,8 +27,8 @@
 வழங்கப்படுகின்றன.
 போலி மருந்து மற்றும் காலாவதி மருந்து தடுப்பு
 நடவடிக்கைகள்
-மருந்துக் கட்டுப்பாட்டுத் துறை, அண்மையில் 'ரிநர்வ்'
-என்ற போலி மருந்தையும், 'பென்னாட்ரல் காப் பார்முலா
+மருந்துக் கட்டுப்பாட்டுத் துறை, அண்மையில் ‘ரிநர்வ்’
+என்ற போலி மருந்தையும், ‘பென்னாட்ரல் காப் பார்முலா’
 என்ற பெயரால் போலி கலப்பட இருமல் மருந்தையும் திடீர்
 ஆய்வு செய்தபோது, காலாவதியான மருந்துகள் மீண்டும்
 விற்பனைக்கு அனுப்பப்படுவது கண்டுபிடிக்கப்பட்டு; அரசின்
@@ -49,3 +49,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `2001ஆம் ஆண்டு` to source `2007ஆம் ஆண்டு` and restored the printed single quotation marks around `ரிநர்வ்` and `பென்னாட்ரல் காப் பார்முலா`.

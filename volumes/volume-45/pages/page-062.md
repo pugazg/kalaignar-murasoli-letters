@@ -43,7 +43,7 @@
 இலட்ச ரூபாய் நிதியின் துணைகொண்டு அரசு மருத்துவமனைகள்
 மற்றும் ஆரம்ப சுகாதார நிலையங்களைப் பழுது பார்க்கவும்,
 உடனடித் தேவையான கருவிகள், உபகரணங்கள்
-வாங்கிக்கொள்ளவும் வசதி செய்யப்பட்டுள்ள தால், மக்களுக்குத்
+வாங்கிக்கொள்ளவும் வசதி செய்யப்பட்டுள்ளதால், மக்களுக்குத்
 தரமான மருத்துவ சேவையைத் தடையின்றி அளிக்கும்
 வாய்ப்புகள் உருவாக்கப்பட்டுள்ளன. மேலும், தேசிய சுகாதாரத்
 திட்டத்தில் அனைத்து ஆரம்ப சுகாதார நிலையங்களுக்கும்,
@@ -56,3 +56,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification corrected `செய்யப்பட்டுள்ள தால்` to source-printed `செய்யப்பட்டுள்ளதால்`.

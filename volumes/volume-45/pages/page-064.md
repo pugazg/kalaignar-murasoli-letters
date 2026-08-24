@@ -17,12 +17,12 @@
 
 தமிழக அரசு மூளை இறப்பு உறுப்பு தானப் பிரிவு என்னும்
 புதிய பிரிவை அக்டோபர் 2008ஆம் ஆண்டில் தொடங்கி;
-“'மூளைச்சாவு' அடைபவர்களிடம் இருந்து, சட்டப்படி சான்றிதழ்
+‘மூளைச்சாவு’ அடைபவர்களிடம் இருந்து, சட்டப்படி சான்றிதழ்
 பெற்று அவர்களின் சிறுநீரகம், கல்லீரல், இதயம், கண் போன்ற
 உறுப்புகளை எடுத்து, அந்த உறுப்புகள் தேவைப்படும்
 நோயாளிகளுக்கு உடனடியாகப் பொருத்த வழிவகை
 செய்துள்ளது. இதுவரை மூளைச்சாவு ஏற்பட்ட 163 பேரிடமிருந்து
-29 இதயம், 4 நுரையீரல், ,
+29 இதயம், 4 நுரையீரல்,
 
 143 கல்லீரல், 304 சிறுநீரகம், 196 இதய வால்வு, ஆகியவை
 தானமாகப் பெறப்பட்டு, அவற்றை 942 பேருக்கு வெற்றிகர
@@ -46,8 +46,8 @@
 
 ஆரம்ப சுகாதார நிலையங்கள் மற்றும் அரசு
 மருத்துவமனைகளின் பயன்பாட்டை அதிகரிக் கும் வகையில்,
-தனியார் பங்களிப்பை இந்த அரசு ஊக்குவிக்கிறது. “கேடலிஸ்ட்
-டிரஸ்ட்' என்ற தொண்டு நிறுவனத்தின் உதவியுடன், மேடவாக்கம்
+தனியார் பங்களிப்பை இந்த அரசு ஊக்குவிக்கிறது. ‘கேடலிஸ்ட்
+டிரஸ்ட்’ என்ற தொண்டு நிறுவனத்தின் உதவியுடன், மேடவாக்கம்
 ஆரம்ப சுகாதார நிலையம்
 
 ## Archival notes
@@ -55,3 +55,4 @@
 - This canonical page was transcribed from the controlling scan and visually checked at first-pass level.
 - OCR was used only as a drafting aid; running page headers/page numbers were not treated as letter body text.
 - Source wording, figures, English/Latin text, paragraph order, and closing material are preserved without outside-source correction.
+- Second-pass direct scan verification restored the printed single quotation marks around `மூளைச்சாவு` and `கேடலிஸ்ட் டிரஸ்ட்` and removed an extra comma after `4 நுரையீரல்`.

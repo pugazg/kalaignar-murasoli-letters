@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-23
+**Handover date:** 2026-08-24
 
 This document is the current project-level handover for continuing the multi-volume Kalaignar Murasoli Letters archive in a new chat/window or with another worker.
 
@@ -43,54 +43,26 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–060 verified**
-- Second-pass corrections so far: **37 canonical page files / 75 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–085 verified**
+- Second-pass corrections so far: **55 canonical page files / 104 correction spans**
+- User-approved routine second-pass iteration size: **25 consecutive PDF pages**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-Second-pass corrections so far include:
+The latest completed 25-page iteration is **PDF 061–085 / printed pages 60–84**. PDF 061, 066, 068, 070, 079, 080 and 084 passed unchanged. Scan-proven corrections were made on PDF 062, 063, 064, 065, 067, 069, 071, 072, 073, 074, 075, 076, 077, 078, 081, 082, 083 and 085. Important corrections include `2001ஆம் ஆண்டு` → `2007ஆம் ஆண்டு` on PDF 063; source quotation punctuation on PDF 063–064; `பவுண்டேசன்`, `கூட்டமைப்பின்`, `தெரிவித்திட விரும்புகிறேன்`, `தொடங்கியுள்ளன`, `புராதனப்`, source place-name spacing, `பொருளாதார`, `பெற்றுக்கொண்டு`, `வரன்முறைப்படுத்தலாமென`, `ஆர்.புதுப்பட்டி`, `சுயஉதவித் திட்டம்`, `இனாம் - கரூர்`, and source spacing on PDF 085.
 
-- PDF 002–003 — publisher `சீதா` → scan-printed `சீதை`.
-- PDF 008–013 — scan-proven foreword wording/punctuation corrections.
-- PDF 016 — `கட்டுர் இள. புகழேந்தி` → `கடலூர் இள. புகழேந்தி`.
-- PDF 018–022 — contents tables corrected to the source's three-column structure; residual title transcription errors corrected.
-- PDF 020 — corrected contents titles for 3565, 3568, 3569, 3570 and 3572.
-- PDF 021 — corrected contents titles for 3579 and 3581.
-- PDF 022 — corrected contents title for 3586.
-- PDF 024 — `3 லட்சம் ரூபாயாக` → scan-printed `3 கோடி ரூபாயாக`.
-- PDF 025 — restored scan forms `2010-2011ஆம்`, `இத்திட்டத்தின்கீழ்`, `அளவுத் தொகை`, `2006ஆம்`.
-- PDF 026 — restored `இத்திட்டத்தின்கீழ்`, `திட்டத்தின்கீழ்`, `சாலைகள் -`, `2008-2009ஆம்`, `2010-2011ஆம்`.
-- PDF 027 — restored two `இத்திட்டத்தின்கீழ்` forms.
-- PDF 028 — `செயல்ரீதியாக` → scan-printed `செயல் ரீதியாக`.
-- PDF 030 — restored two `சுயஉதவிக்` forms, `திட்டத்தின்கீழ்`, and `அனைத்துக் கிராம`.
-- PDF 031 — restored five visibly joined `சுயஉதவிக்` source positions in the first two paragraphs without globally normalizing later differently spaced forms.
-- PDF 033 — restored four visibly joined `சுயஉதவிக்` / `சுயஉதவிக்குழுக்கள்` source positions; the closing/signature/date remain unchanged.
-- PDF 034 — corrected `உறுப்பினர்களுக் கிடையே` → `உறுப்பினர்களுக்கிடையே`, restored `உதவிக்குழுக்களுக்கிடையே`, and restored `2008-09 ஆம்` / `2010-11 ஆம்` spacing.
-- PDF 035 — restored source punctuation `எம்.ஆர்.எப்.,`.
-- PDF 036 — corrected `செலவிடப் பட்டுள்ளது` → `செலவிடப்பட்டுள்ளது` and `34, 634` → `34,634`.
-- PDF 038 — corrected `மேற்கொள்ளப்பட்டுள் ளன` → `மேற்கொள்ளப்பட்டுள்ளன`.
-- PDF 039 — corrected `O-200` → source `0-200`.
-- PDF 040 — restored Roman list markers `I.` / `II.` in place of first-pass `1.` / `11.`.
-- PDF 044 — restored heading punctuation `'108'`.
-- PDF 045 — corrected malformed `மாணவ மாணவியாாக்கும்` → `மாணவ மாணவியர்க்கும்`.
-- PDF 046 — corrected `திட்டங்களின்கீ ழும்` → `திட்டங்களின்கீழும்`.
-- PDF 048 — restored source `2009-10ஆம் ஆண்டில்` before the `2,694` figure.
-- PDF 051 — corrected `செய்யப்பட் டுள்ளது` → `செய்யப்பட்டுள்ளது` and `ஏனைநடி` → `எனைநடி`; the remaining garbled parenthetical source text remains preserved.
-- PDF 052 — corrected `திண்டுக் கல்` → `திண்டுக்கல்`, `தரம் உயர்த்தப்பட் டுள்ளது` → `தரம் உயர்த்தப்பட்டுள்ளது`, and `ருபாய்ச்` → `ரூபாய்ச்` in the `150 கோடி` line.
-- PDF 053 — corrected `நடவடிக்கை கள்` → `நடவடிக்கைகள்`.
-- PDF 054 — corrected `அவரச சிகிச்சை` → `அவசர சிகிச்சை`.
-- PDF 056 — corrected the first `நர்ஸிங் தெரபி` → scan-printed `நாஸிங் தெரபி`.
+A significant physical page-boundary transcription error was repaired across **PDF 071–072**. PDF 071 now ends with the source's first-level municipality category (`4 கோடி ரூபாய்க்கு மேல் 6 கோடி ரூபாய் வரை வருமானமுள்ள 36 நகராட்சிகள் முதல் நிலை நகராட்சிகள்`), while PDF 072 begins with the lower-category continuation (`என்றும், 4 கோடி ரூபாய்க்குக்கீழ்...`). This keeps the canonical page split faithful to the scan.
+
+Preserved source anomalies include the earlier documented forms plus PDF 075's printed repetition `இடமின்மை மற்றும் மற்றும் பிற காரணங்களால்`, PDF 083's unusual `94 இலட்சம் மக்கள்`, and PDF 085's unfinished sentence continuing on PDF 086. Confirmed English/Latin material such as HIV, ICTC, ART, FICCI, ISO and the World Bank title remains in source position.
 
 Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
-
-Preserved source anomalies in the verified range include PDF 015's repeated `கலைஞர் கலைஞருக்கான`, PDF 025's `145 சமத்துவ புரங்களை`, PDF 027's `அமைத்தித்து`, the cross-page PDF 027 statement `5 பிற்படுத்தப்பட்ட மாவட்டங்களில்` followed by PDF 028's six-district list, PDF 030's `தோற்று விக்கப்பட்ட`, source-spaced `இத்திட்டத்தின் கீழ்` on PDF 036 and PDF 039, source-spaced forms including `கணிச மாகக்` / `பிரசவங் களின்` on PDF 048, and the visibly garbled remainder of the PDF 051 parenthetical string. PDF 005 and PDF 023 are no-printed-text/show-through pages whose bleed-through remains correctly excluded. PDF 029, PDF 032, PDF 037, PDF 041–043, PDF 047, PDF 049–050, PDF 055 and PDF 057–060 passed second-pass comparison unchanged. Position-specific joined/spaced forms are preserved rather than normalized globally.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume the second full-volume visual/textual-fidelity verification at **PDF 061 / printed page 60**, continue sequential direct scan comparison, record PASS/corrections, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume at **PDF 086 / printed page 85** and verify **PDF 086–110** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -155,6 +127,8 @@ For a new attached volume:
 - Update contents, chapter records/index, metadata, progress, audit and README with each completed iteration.
 - Chapter records link to canonical pages and do not duplicate the full Tamil body.
 
+**Volume 45 second-pass override:** the user explicitly approved **25 consecutive PDF pages per visual/textual-fidelity iteration**. This override applies to the current Volume 45 second pass only and does not replace the normal new-volume transcription batching policy.
+
 ---
 
 ## 6. Keep Tamil QA stages distinct
@@ -209,4 +183,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 060**. Resume at **PDF 061 / printed page 60** unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 085**. Resume at **PDF 086 / printed page 85** with the **PDF 086–110** iteration unless a later committed repository update moves that boundary.
