@@ -64,14 +64,46 @@ Direct scan comparison completed for the user-approved 25-page iteration, printe
 
 This iteration contains **18 corrected canonical page files / 29 correction spans** and **7 pages passing unchanged**.
 
+### PDF 086–110 — VERIFIED
+
+Direct scan comparison completed for the next 25-page iteration, printed pages 85–109.
+
+- **PDF 086 — CORRECTED, then PASS.** Corrected heading `பெருநகர அடிப்படை வசதி மேம்பாட்டு நிதித் திட்டம்` to scan-printed **`பெரு நகர அடிப்படை வசதி மேம்பாட்டு நிதித் திட்டம்`**.
+- **PDF 087 — PASS.** Flyover, rail crossing, storm-water-drain text, figures and source-page continuation agree with the scan.
+- **PDF 088 — CORRECTED, then PASS.** Restored malformed but scan-printed **`ஒப்பங்கள்`** in place of first-pass `ஒப்பந்தங்கள்`, and corrected `அழகைத்` to source **`அழுக்கைத்`**. The source form `மணலை ஜலித்து` is preserved unchanged. Letter 3544 closes with `(தொடர்ச்சி நாளை)`, `அன்புள்ள,`, `மு.க.` and `18-3-2011`.
+- **PDF 089 — CORRECTED, then PASS.** Corrected heading `இணை தளம்` to scan-printed **`இணைய தளம்`**.
+- **PDF 090 — PASS.** Education-section headings, student benefits and source wording agree with the scan.
+- **PDF 091 — PASS.** Revenue figures, tax headings and the opening of the parks section agree with the scan.
+- **PDF 092 — CORRECTED, then PASS.** Corrected `அவென்யூ` to scan-printed **`அவின்யூ`** in `அசோக் நகர் முதல் அவின்யூ பூங்கா`, and corrected corrupted `தாவர மானுவங்கி` to **`தாவர மரபணு வங்கி`**. Printed English `Adyar Poonga Trust` remains verbatim.
+- **PDF 093 — PASS.** Water-source figures, place names and physical page ending agree with the scan.
+- **PDF 094 — PASS.** Chembarambakkam and desalination text, dates, figures and printed `(DBOOT)` agree with the scan.
+- **PDF 095 — CORRECTED, then PASS.** Corrected `நடைபெறுவரும்` to source **`நடைபெற்றுவரும்`**, `கழிவு நீரகற்று` to **`கழிவு நீரகற்றும்`**, and the bottom heading `உட்கட்டமைப்புப் பணி` to scan-printed **`உள் கட்டமைப்புப் பணி`**.
+- **PDF 096 — PASS.** IT-corridor water/sewerage material, `MLD` forms, figures and source-page continuation agree with the scan.
+- **PDF 097 — PASS.** Machinery names `Jet Rodding Machines`, `Super Suction Machines`, `Hydraulically Operated Desilting Machines`, benefit figures and page boundary agree with the scan.
+- **PDF 098 — PASS.** The unusual printed form **`112.2006-ல்`** is confirmed and preserved; Letter 3545 closes with `19-03-2011`.
+- **PDF 099 — CORRECTED, then PASS.** Restored the printed title hyphen before `என்றும்`, and corrected first-paragraph `திமுகத்தின் சார்பில்` to scan-printed **`கழகத்தின் சார்பில்`**.
+- **PDF 100 — CORRECTED, then PASS.** Restored **`சூளுரை கூறிவிட்டுச் சென்றபோது`**, corrected the corrupted transition to **`ஒரு உதாரணம் கூறுகிறேன், கேளேன்.`**, and restored the page-ending **`சட்டப் பேரவை`**.
+- **PDF 101 — CORRECTED, then PASS.** Corrected `அமைத்து` → **`அழைத்து`**, `பெருமையாக` → **`பொறுமையாக`**, `துண்டுவிட்டு` → **`தூண்டிவிட்டு`**, `தொடங்கி` → **`தொடங்கிட`**, and `தெரிவிக்காத` → **`தெரிவித்ததாக`**. Also restored the omitted source passage **`அவைகளும் அறிவிக்கப்பட்டுவிட்டன. அதன் பின்னர் கழகத்தின் சார்பில் வேட்பு மனு தாக்கல் செய்தவர்களையெல்லாம்...`** before the page boundary.
+- **PDF 102 — PASS.** Election-manifesto discussion, quoted `கதாநாயகன்` / `கதாநாயகி`, dates and page boundary agree with the scan. A later library stamp/handwriting overlapping the upper area remains excluded from edition text.
+- **PDF 103 — PASS.** Letter 3546 closing text and `19-3-2011` date agree with the scan.
+- **PDF 104 — CORRECTED, then PASS.** Corrected `தமிழ்நாடு அரசு` to scan-printed **`தமிழ்நாடு அரசால்`** in the Hogenakkal project paragraph.
+- **PDF 105 — PASS.** Consecutive water-supply-project entries, figures and page boundary agree with the scan.
+- **PDF 106 — PASS.** Water-supply project figures and semicolon-separated project list agree with the scan.
+- **PDF 107 — CORRECTED, then PASS.** Corrected both first-pass `அரசகோணம்` readings to scan-printed **`அரக்கோணம்`** and corrected `உள்ளகட்டமைப்பு` to source **`உள்கட்டமைப்பு`**.
+- **PDF 108 — CORRECTED, then PASS.** Restored source sandhi **`மயான உதவியாளர்களாகக் காலமுறை`**.
+- **PDF 109 — CORRECTED, then PASS.** Corrected first-pass `கட்டடச்சர்` to scan-printed **`தட்டச்சர்`** in the staffing list.
+- **PDF 110 — PASS.** Letter 3547 conclusion, closing and `20-03-2011` date agree with the scan.
+
+This iteration contains **12 corrected canonical page files / 26 correction spans** and **13 pages passing unchanged**. Confirmed source anomalies such as PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, and later non-edition markings on PDF 102 are preserved or excluded according to source policy rather than normalized.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–085 / 402**
-- Scan-proven correction pages in this pass: **55 canonical page files / 104 correction spans**
+- Verified in this second pass: **PDF 001–110 / 402**
+- Scan-proven correction pages in this pass: **67 canonical page files / 130 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 086 / printed page 85** and verify **PDF 086–110** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 111 / printed page 110** and verify **PDF 111–135** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

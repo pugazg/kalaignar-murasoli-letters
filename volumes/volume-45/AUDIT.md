@@ -50,22 +50,28 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–085 / 402**
+Status: **IN PROGRESS — verified PDF 001–110 / 402**
 
 - PDF 001–060: verified in earlier consecutive batches; cumulative checkpoint at PDF 060 was 37 corrected page files / 75 correction spans.
-- PDF 061–085: verified as the first user-approved 25-page routine second-pass iteration after that checkpoint.
-- PDF 061, 066, 068, 070, 079, 080 and 084 passed unchanged.
-- PDF 062, 063, 064, 065, 067, 069, 071, 072, 073, 074, 075, 076, 077, 078, 081, 082, 083 and 085 were corrected directly from the scan.
-- PDF 071–072 required a significant physical-page-boundary repair: the first-level municipality category belongs at the end of PDF 071 and the lower-category continuation begins PDF 072. The page split now matches the printed source.
+- PDF 061–085: verified as the first user-approved 25-page routine second-pass iteration after that checkpoint; 18 corrected page files / 29 correction spans.
+- PDF 086–110: verified as the next 25-page routine iteration; 12 corrected page files / 26 correction spans.
+- PDF 087, 090, 091, 093, 094, 096, 097, 098, 102, 103, 105, 106 and 110 passed the PDF 086–110 direct scan comparison unchanged.
+- PDF 086, 088, 089, 092, 095, 099, 100, 101, 104, 107, 108 and 109 were corrected directly from the scan.
+- PDF 088 preserves malformed but scan-printed `ஒப்பங்கள்` and scan-printed `மணலை ஜலித்து` rather than normalizing them.
+- PDF 098 source `112.2006-ல்` is confirmed and preserved as printed.
+- PDF 100–101 required substantial scan-proven prose restoration, including the `ஒரு உதாரணம் கூறுகிறேன், கேளேன்.` transition and the omitted `அவைகளும் அறிவிக்கப்பட்டுவிட்டன...` passage.
+- PDF 102 later library stamp/handwriting remains excluded from edition text.
+- PDF 107 restores scan-printed `அரக்கோணம்` in both occurrences and `உள்கட்டமைப்பு`.
+- PDF 071–072 earlier required a significant physical-page-boundary repair: the first-level municipality category belongs at the end of PDF 071 and the lower-category continuation begins PDF 072. The page split matches the printed source.
 - PDF 083 source `94 இலட்சம் மக்கள்` is preserved as printed despite appearing unusual.
-- PDF 085 ends mid-sentence and continues on PDF 086; the boundary is preserved.
+- PDF 085 ends mid-sentence and continues on PDF 086; the boundary remains preserved.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Cumulative second-pass correction pages: **55 canonical page files / 104 correction spans**.
+- Cumulative second-pass correction pages: **67 canonical page files / 130 correction spans**.
 - The routine second-pass iteration size is **25 consecutive PDF pages**, as explicitly approved by the user.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass page log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 086 / printed page 85** and process **PDF 086–110** as the next 25-page iteration.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 111 / printed page 110** and process **PDF 111–135** as the next 25-page iteration.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.
