@@ -50,8 +50,8 @@ Direct scan comparison completed for the user-approved 25-page iteration, printe
 - **PDF 072 — CORRECTED, then PASS.** Restored the omitted opening continuation from PDF 071 beginning `என்றும், 4 கோடி ரூபாய்க்குக்கீழ்...` and corrected heading `உள்ளகட்டமைப்பு மேம்பாடு` to source **`உள்கட்டமைப்பு மேம்பாடு`**.
 - **PDF 073 — CORRECTED, then PASS.** Corrected `தொடர்ந்துள்ளன` to source **`தொடங்கியுள்ளன`**.
 - **PDF 074 — CORRECTED, then PASS.** Corrected `புறாதனப்` to source **`புராதனப்`**; source figures and the page boundary remain unchanged.
-- **PDF 075 — CORRECTED, then PASS.** Restored source-spaced place names including `பூவிருந்த வல்லி` and `நாகர் கோவில்` in the bus-station list. Source repetition `இடமின்மை மற்றும் மற்றும் பிற காரணங்களால்` remains preserved rather than normalized.
-- **PDF 076 — CORRECTED, then PASS.** Restored scan-supported source place-name spacing/form, including `கொமாரப் பாளையம்`; the page-ending continuation remains on PDF 077.
+- **PDF 075 — CORRECTED, then PASS.** Restored the position-specific source spacing `பூவிருந்த வல்லி` in two occurrences and `நாகர் கோவில் (வடசேரி)`; a later `நாகர்கோவில்` remains joined as printed. Source repetition `இடமின்மை மற்றும் மற்றும் பிற காரணங்களால்` remains preserved rather than normalized.
+- **PDF 076 — CORRECTED, then PASS.** Restored source-spaced place name **`கொமாரப் பாளையம்`**; the page-ending continuation remains on PDF 077.
 - **PDF 077 — CORRECTED, then PASS.** Corrected `பொறுளாதார` to source **`பொருளாதார`**. Printed Latin `ISO 9000-2000` and `ISO 9001:2001` remain in source position.
 - **PDF 078 — CORRECTED, then PASS.** Corrected corrupted `பெற்று மனைத்தொண்டு` to source **`பெற்றுக்கொண்டு`** and restored joined **`வரன்முறைப்படுத்தலாமென`**.
 - **PDF 079 — PASS.** Revenue figures, conference-development text, `(தொடர்ச்சி நாளை)`, closing and `17-3-2011` date agree with the scan.
@@ -60,7 +60,7 @@ Direct scan comparison completed for the user-approved 25-page iteration, printe
 - **PDF 082 — CORRECTED, then PASS.** Restored joined source form **`சுயஉதவித் திட்டம்`** in the SJSRY paragraph while preserving the later separately spaced `சுய உதவிக் குழுக்கள்` as printed.
 - **PDF 083 — CORRECTED, then PASS.** Corrected `இனம் - கரூர்` to scan-printed **`இனாம் - கரூர்`**. The unusual source figure **`94 இலட்சம் மக்கள்`** remains unchanged and is not corrected from outside knowledge.
 - **PDF 084 — PASS.** Sewerage-project figures, dates, headings and source wording agree with the scan.
-- **PDF 085 — CORRECTED, then PASS.** Restored source spacing **`திட்டத்தின் கீழ்`** and **`ரூ. 6.08`**. The final sentence remains incomplete at the physical page boundary and continues on PDF 086.
+- **PDF 085 — CORRECTED, then PASS.** Restored source **`திட்டத்தின் கீழ்`** and **`ரூ. 6.08`**, corrected the heading `உட்கட்டமைப்பு` to **`உள்கட்டமைப்பு`**, and restored the final source form **`இத்திட்டத்தில்`**. The final sentence remains incomplete at the physical page boundary and continues on PDF 086.
 
 This iteration contains **18 corrected canonical page files / 29 correction spans** and **7 pages passing unchanged**.
 

@@ -29,4 +29,4 @@
 
 - Page visually compared with the controlling scan.
 - Final sentence continues on PDF page 086.
-- Second-pass direct scan verification restored source spacing `திட்டத்தின் கீழ்` and `ரூ. 6.08`; other figures and page-boundary text remain as printed.
+- Second-pass direct scan verification restored source `திட்டத்தின் கீழ்` and `ரூ. 6.08`, corrected the heading `உட்கட்டமைப்பு` → `உள்கட்டமைப்பு`, and restored the final source form `இத்திட்டத்தில்`; other figures and the page boundary remain as printed.
