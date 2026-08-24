@@ -50,28 +50,31 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–110 / 402**
+Status: **IN PROGRESS — verified PDF 001–135 / 402**
 
 - PDF 001–060: verified in earlier consecutive batches; cumulative checkpoint at PDF 060 was 37 corrected page files / 75 correction spans.
 - PDF 061–085: verified as the first user-approved 25-page routine second-pass iteration after that checkpoint; 18 corrected page files / 29 correction spans.
 - PDF 086–110: verified as the next 25-page routine iteration; 12 corrected page files / 26 correction spans.
-- PDF 087, 090, 091, 093, 094, 096, 097, 098, 102, 103, 105, 106 and 110 passed the PDF 086–110 direct scan comparison unchanged.
-- PDF 086, 088, 089, 092, 095, 099, 100, 101, 104, 107, 108 and 109 were corrected directly from the scan.
-- PDF 088 preserves malformed but scan-printed `ஒப்பங்கள்` and scan-printed `மணலை ஜலித்து` rather than normalizing them.
-- PDF 098 source `112.2006-ல்` is confirmed and preserved as printed.
-- PDF 100–101 required substantial scan-proven prose restoration, including the `ஒரு உதாரணம் கூறுகிறேன், கேளேன்.` transition and the omitted `அவைகளும் அறிவிக்கப்பட்டுவிட்டன...` passage.
-- PDF 102 later library stamp/handwriting remains excluded from edition text.
-- PDF 107 restores scan-printed `அரக்கோணம்` in both occurrences and `உள்கட்டமைப்பு`.
-- PDF 071–072 earlier required a significant physical-page-boundary repair: the first-level municipality category belongs at the end of PDF 071 and the lower-category continuation begins PDF 072. The page split matches the printed source.
-- PDF 083 source `94 இலட்சம் மக்கள்` is preserved as printed despite appearing unusual.
-- PDF 085 ends mid-sentence and continues on PDF 086; the boundary remains preserved.
+- PDF 111–135: verified as the next 25-page routine iteration; 8 corrected page files / 14 correction spans; 17 pages passed unchanged.
+- PDF 111, 113, 114, 115, 118, 119, 120, 122, 123, 124, 125, 126, 128, 129, 132, 133 and 134 passed the PDF 111–135 direct scan comparison unchanged.
+- PDF 112, 116, 117, 121, 127, 130, 131 and 135 were corrected directly from the scan.
+- PDF 112 restores source spacing `8 ஆம் வகுப்பு` and `10 ஆம் வகுப்பு`.
+- PDF 116 preserves the scan-printed dates `31-3-2010`, `19-3-2010`, and `31-3-2010` without historical normalization.
+- PDF 117 restores source `வறுமைக் கோட்டுக்குக்கீழ்`, `முதிர்ந்தோருக்கு`, `ஆண் வாரிசு`, and `ஆண் வாரிசுகள்`. A high-resolution recheck identified three of these after the provisional 11-span batch count, producing the final 14-span iteration total.
+- PDF 121 restores scan-printed `ஓரிரு`.
+- PDF 127 preserves scan-printed `தனிச்சையாக` rather than normalizing it to `தன்னிச்சையாக`.
+- PDF 130 restores the source single quotation marks in `‘தாட்கோ’`.
+- PDF 131 restores source spacing `2005 - 2006இல்`.
+- PDF 135 corrects the scheme title to scan-printed `உயிர்காக்கும் உயர்சிகிச்சைக்கான கலைஞர் காப்பீட்டுத் திட்டம்`.
+- Earlier source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, and the PDF 071–072 physical-page boundary repair.
+- Later library stamp/handwriting on PDF 102 remains excluded from edition text.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Cumulative second-pass correction pages: **67 canonical page files / 130 correction spans**.
+- Cumulative second-pass correction pages: **75 canonical page files / 144 correction spans**.
 - The routine second-pass iteration size is **25 consecutive PDF pages**, as explicitly approved by the user.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass page log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 111 / printed page 110** and process **PDF 111–135** as the next 25-page iteration.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 136 / printed page 135** and process **PDF 136–160** as the next 25-page iteration.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

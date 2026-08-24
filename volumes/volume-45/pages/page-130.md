@@ -21,10 +21,11 @@
 
 கரும்பு விவசாயிகளுக்கு 2005-2006இல் டன் ஒன்றுக்கு வழங்கப்பட்ட விலை ரூ.1014; தற்போது டன் ஒன்றுக்கு ரூ.2000 வழங்கப்படுகிறது.
 
-ஆதிதிராவிட விவசாயிகள் “தாட்கோ” நிறுவனத்தின் மூலம் 31.3.2006 வரை பெற்ற கடன் தொகை வட்டியுட்பட 5 கோடியே 25 இலட்சம் தள்ளுபடி;
+ஆதிதிராவிட விவசாயிகள் ‘தாட்கோ’ நிறுவனத்தின் மூலம் 31.3.2006 வரை பெற்ற கடன் தொகை வட்டியுட்பட 5 கோடியே 25 இலட்சம் தள்ளுபடி;
 
 ## Archival notes
 
 - This page is part of Letter 3551.
 - The controlling scan, not OCR, is authoritative; OCR was used only as a drafting aid for this first-pass transcription.
 - Running headers and printed page numbers are not duplicated into the canonical body text.
+- Second-pass direct scan verification restored the source's single quotation marks in `‘தாட்கோ’`.

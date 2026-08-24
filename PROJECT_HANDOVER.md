@@ -43,16 +43,16 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–110 verified**
-- Second-pass corrections so far: **67 canonical page files / 130 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–135 verified**
+- Second-pass corrections so far: **75 canonical page files / 144 correction spans**
 - User-approved routine second-pass iteration size: **25 consecutive PDF pages**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-The latest completed 25-page iteration is **PDF 086–110 / printed pages 85–109**. PDF 087, 090, 091, 093, 094, 096, 097, 098, 102, 103, 105, 106 and 110 passed unchanged. Scan-proven corrections were made on PDF 086, 088, 089, 092, 095, 099, 100, 101, 104, 107, 108 and 109. Important corrections include source `ஒப்பங்கள்` and `அழுக்கைத்` on PDF 088; `இணைய தளம்` on PDF 089; `அவின்யூ` and `தாவர மரபணு வங்கி` on PDF 092; `நடைபெற்றுவரும்`, `கழிவு நீரகற்றும்`, and `உள் கட்டமைப்புப் பணி` on PDF 095; restoration of substantial scan-proven prose across PDF 099–101; `தமிழ்நாடு அரசால்` on PDF 104; `அரக்கோணம்` and `உள்கட்டமைப்பு` on PDF 107; source sandhi `மயான உதவியாளர்களாகக் காலமுறை` on PDF 108; and `தட்டச்சர்` on PDF 109.
+The latest completed 25-page iteration is **PDF 111–135 / printed pages 110–134**. PDF 111, 113, 114, 115, 118, 119, 120, 122, 123, 124, 125, 126, 128, 129, 132, 133 and 134 passed unchanged. Scan-proven corrections were made on PDF 112, 116, 117, 121, 127, 130, 131 and 135. Important corrections include source spacing `8 ஆம் வகுப்பு` and `10 ஆம் வகுப்பு` on PDF 112; scan-printed dates `31-3-2010`, `19-3-2010`, and `31-3-2010` on PDF 116; `வறுமைக் கோட்டுக்குக்கீழ்`, `முதிர்ந்தோருக்கு`, `ஆண் வாரிசு`, and `ஆண் வாரிசுகள்` on PDF 117; `ஓரிரு` on PDF 121; source anomaly `தனிச்சையாக` on PDF 127; source single quotation marks in `‘தாட்கோ’` on PDF 130; spacing `2005 - 2006இல்` on PDF 131; and `உயிர்காக்கும்` in the insurance-scheme title on PDF 135. A high-resolution source recheck of PDF 117 refined the provisional iteration count from 11 to the final **14 correction spans** by identifying three additional clearly printed source forms.
 
-Confirmed source anomalies and non-edition material remain handled conservatively: PDF 088's malformed `ஒப்பங்கள்` and `மணலை ஜலித்து` are preserved as printed; PDF 098's unusual `112.2006-ல்` is preserved; and later library stamp/handwriting on PDF 102 remains excluded from edition text. Earlier documented source anomalies and the repaired PDF 071–072 physical-page boundary remain unchanged.
+Confirmed source anomalies and non-edition material remain handled conservatively: PDF 088's malformed `ஒப்பங்கள்` and `மணலை ஜலித்து` are preserved as printed; PDF 098's unusual `112.2006-ல்` is preserved; PDF 116's scan-printed March 2010 dates are preserved without outside normalization; PDF 127's `தனிச்சையாக` is preserved as printed; and later library stamp/handwriting on PDF 102 remains excluded from edition text. Earlier documented source anomalies and the repaired PDF 071–072 physical-page boundary remain unchanged.
 
 Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
 
@@ -60,7 +60,7 @@ The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume at **PDF 111 / printed page 110** and verify **PDF 111–135** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume at **PDF 136 / printed page 135** and verify **PDF 136–160** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -181,4 +181,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 110**. Resume at **PDF 111 / printed page 110** with the **PDF 111–135** iteration unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 135**. Resume at **PDF 136 / printed page 135** with the **PDF 136–160** iteration unless a later committed repository update moves that boundary.

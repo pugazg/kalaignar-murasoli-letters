@@ -30,11 +30,11 @@
 திருமண நிதியுதவித் திட்டங்கள்
 
 பெண்கள் அனைவரும் கல்விபெற ஊக்கமளித்திட வேண்டும்
-எனும் நோக்கில் 8ஆம் வகுப்பு வரை படித்த ஏழைப் பெண்களின்
+எனும் நோக்கில் 8 ஆம் வகுப்பு வரை படித்த ஏழைப் பெண்களின்
 திருமணங்களுக்கு 5 ஆயிரம் ரூபாய் நிதியுதவி வழங்கிய
 மூவலூர் இராமாமிர்தம் அம்மையார் நினைவு திருமண நிதியுதவித்
 திட்டம் 1989ஆம் ஆண்டில் கழக ஆட்சியில் அறிமுகப்படுத்தப்
-பட்டது. பின்னர் பெண்கள் அனைவரும் குறைந்தது 10ஆம்
+பட்டது. பின்னர் பெண்கள் அனைவரும் குறைந்தது 10 ஆம்
 வகுப்பு வரையாவது படிக்க வேண்டும் என்பதை வலியுறுத்தி
 இத்திட்ட நிதியுதவி 1996இல் 10 ஆயிரம் ரூபாய் என உயர்த்தி
 வழங்கப்பட்டது. ஆயினும், 2001இல் பொறுப்பேற்ற அ.தி.மு.க.
@@ -53,3 +53,4 @@
 - This page is part of Letter 3548.
 - The controlling scan, not OCR, is authoritative; OCR was used only as a drafting aid for this first-pass transcription.
 - Running headers and printed page numbers are not duplicated into the canonical body text.
+- Second-pass direct scan verification restored source spacing `8 ஆம் வகுப்பு` and `10 ஆம் வகுப்பு`; later number/year forms remain as printed.

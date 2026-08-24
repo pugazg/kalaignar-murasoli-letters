@@ -19,10 +19,11 @@
 
 அரசு ஊழியர்களுக்கு நான்காண்டுகளில் 2 இலட்ச ரூபாய் வரை மருத்துவ உதவி வழங்கும் புதிய “மருத்துவக் காப்பீட்டுத் திட்டம்”;
 
-“உயிரகாக்கும் உயர்சிகிச்சைக்கான கலைஞர் காப்பீட்டுத் திட்டம்” 2009 ஜூலை முதல் நடைமுறை; 1 கோடியே 34 இலட்சம் குடும்பங்கள் பதிவு; இதுவரை 2 இலட்சத்து 55 ஆயிரத்து 744 ஏழை மக்களுக்கு 667 கோடி ரூபாய்ச் செலவில் உயிர்காக்கும் அறுவை சிகிச்சைகள் செய்யப்பட்டுள்ளன;
+“உயிர்காக்கும் உயர்சிகிச்சைக்கான கலைஞர் காப்பீட்டுத் திட்டம்” 2009 ஜூலை முதல் நடைமுறை; 1 கோடியே 34 இலட்சம் குடும்பங்கள் பதிவு; இதுவரை 2 இலட்சத்து 55 ஆயிரத்து 744 ஏழை மக்களுக்கு 667 கோடி ரூபாய்ச் செலவில் உயிர்காக்கும் அறுவை சிகிச்சைகள் செய்யப்பட்டுள்ளன;
 
 ## Archival notes
 
 - This page is part of Letter 3551.
 - The controlling scan, not OCR, is authoritative; OCR was used only as a drafting aid for this first-pass transcription.
 - Running headers and printed page numbers are not duplicated into the canonical body text.
+- Second-pass direct scan verification corrected first-pass `உயிரகாக்கும்` to scan-printed `உயிர்காக்கும்` in the scheme title; the later `உயிர்காக்கும்` remains unchanged.
