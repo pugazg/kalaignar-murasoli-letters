@@ -9,7 +9,7 @@
 
 ## Source text
 
-4 ஆயிரத்து 730 கிலோ மீட்டர் நீளமுள்ள சாலைகள் இருவழித் தடங்களாக அகலப்படுத்தப்பட்டுள்ளன;
+4 ஆயிரத்து 730கிலோ மீட்டர் நீளமுள்ள சாலைகள் இருவழித் தடங்களாக அகலப்படுத்தப்பட்டுள்ளன;
 
 தமிழகத்தில் உள்ள சாலைகளில் 1046 பாலங்கள் மற்றும் 3800 மிகச் சிறுபாலங்கள் 881 கோடி ரூபாய்ச் செலவில் கட்டப்பட்டுள்ளன;
 
@@ -34,3 +34,4 @@
 - This page is part of Letter 3551.
 - The controlling scan, not OCR, is authoritative; OCR was used only as a drafting aid for this first-pass transcription.
 - Running headers and printed page numbers are not duplicated into the canonical body text.
+- Second-pass direct scan verification restored the source-joined form `730கிலோ`; no spacing normalization was applied elsewhere.

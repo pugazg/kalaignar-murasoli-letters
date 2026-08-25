@@ -18,11 +18,11 @@ transcription:
   next_pdf_page: null
   structural_audit: pass
   second_visual_verification: in-progress
-  second_visual_verified_page_range: 001-135
-  second_visual_verified_pages: 135
-  second_visual_correction_pages: 75
-  second_visual_correction_spans: 144
-  second_visual_next_pdf_page: "136"
+  second_visual_verified_page_range: 001-160
+  second_visual_verified_pages: 160
+  second_visual_correction_pages: 83
+  second_visual_correction_spans: 157
+  second_visual_next_pdf_page: "161"
   second_visual_iteration_pages: 25
 
 translation:

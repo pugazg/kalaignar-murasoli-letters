@@ -36,7 +36,7 @@
 
 கேள்விப்படுகிறேன் -
 ஏன் நேரிலும் கண்டு வந்தேன் -
-யாரும் சொல்லாமலே உணர்ந்தும் வந்தேன் -
+யாரும் சொல்லாமலே - உணர்ந்தும் வந்தேன் -
 
 இந்தச் சுற்றுப் பயணம் பல்லாயிரக் கணக்கான வாக்காளப்
 பெருமக்களை - இயக்கங்களின் ஈடற்ற உழைப்பாளிகளைக்
@@ -59,3 +59,4 @@
 
 - This page continues Letter 3553.
 - Canonical text is based on direct scan comparison; OCR was used only as a drafting aid.
+- Second-pass direct scan verification restored the source's internal hyphen in `யாரும் சொல்லாமலே - உணர்ந்தும் வந்தேன் -`.

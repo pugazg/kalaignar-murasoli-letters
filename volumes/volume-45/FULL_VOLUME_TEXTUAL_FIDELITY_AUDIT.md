@@ -86,14 +86,46 @@ Direct scan comparison completed for the next user-approved 25-page iteration, p
 
 This iteration contains **8 corrected canonical page files / 14 correction spans** and **17 pages passing unchanged**.
 
+### PDF 136–160 — VERIFIED
+
+Direct scan comparison completed for the next user-approved 25-page iteration, printed pages 135–159. The eight staged corrections were rechecked directly against the controlling scan before acceptance.
+
+- **PDF 136 — PASS.** Letter 3551 continuation agrees with the scan.
+- **PDF 137 — PASS.** Letter 3551 continuation agrees with the scan.
+- **PDF 138 — CORRECTED, then PASS.** Restored source-joined **`730கிலோ`** rather than normalized `730 கிலோ`.
+- **PDF 139 — CORRECTED, then PASS.** Restored five scan-printed quotation/semicolon boundaries: `“கடல்நீரைக் குடிநீராக்கும் திட்டம்;”`, `“ஒகேனக்கல் கூட்டுக் குடிநீர்த் திட்டம்;”`, `“இராமநாதபுரம் கூட்டுக் குடிநீர்த் திட்டம் நிறைவேற்றம்;”`, `“பறக்கும் சாலைத் திட்டம்;”`, and `“கட்டாய மதமாற்றத் தடைச் சட்டம் ரத்து;”`.
+- **PDF 140 — PASS.** Letter 3551 continuation agrees with the scan.
+- **PDF 141 — PASS.** Letter 3551 conclusion agrees with the scan.
+- **PDF 142 — PASS.** Letter 3552 opening agrees with the scan.
+- **PDF 143 — PASS.** Letter 3552 continuation agrees with the scan.
+- **PDF 144 — PASS.** Letter 3552 conclusion agrees with the scan.
+- **PDF 145 — CORRECTED, then PASS.** Restored scan-printed **`எதிர்கால வளர்ச்சிக் கருதியும்`**.
+- **PDF 146 — CORRECTED, then PASS.** Restored the printed interruption **`யாரும் சொல்லாமலே - உணர்ந்தும் வந்தேன் -`**.
+- **PDF 147 — CORRECTED, then PASS.** Restored scan-joined **`பல்லாயிரக்கணக்கானவர்`** across the physical line wrap.
+- **PDF 148 — PASS.** Letter 3553 continuation agrees with the scan.
+- **PDF 149 — PASS.** Letter 3553 continuation agrees with the scan.
+- **PDF 150 — PASS.** Letter 3553 conclusion agrees with the scan.
+- **PDF 151 — PASS.** Letter 3554 opening agrees with the scan.
+- **PDF 152 — CORRECTED, then PASS.** Restored source-joined **`தொடரலாமென்று`**.
+- **PDF 153 — CORRECTED, then PASS.** Restored both scan-printed **`ஒருசில`** forms rather than separately spacing them.
+- **PDF 154 — CORRECTED, then PASS.** Restored scan-printed **`திறந்து காட்டினார்`**.
+- **PDF 155 — PASS.** Letter 3555 opening agrees with the scan.
+- **PDF 156 — PASS.** Letter 3555 continuation agrees with the scan.
+- **PDF 157 — PASS.** Letter 3555 continuation agrees with the scan.
+- **PDF 158 — PASS.** Letter 3555 continuation agrees with the scan.
+- **PDF 159 — PASS.** Letter 3555 continuation agrees with the scan.
+- **PDF 160 — PASS.** Letter 3555 continuation agrees with the scan.
+
+This iteration contains **8 corrected canonical page files / 13 correction spans** and **17 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–135 / 402**
-- Scan-proven correction pages in this pass: **75 canonical page files / 144 correction spans**
+- Verified in this second pass: **PDF 001–160 / 402**
+- Scan-proven correction pages in this pass: **83 canonical page files / 157 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 136 / printed page 135** and verify **PDF 136–160** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 161 / printed page 160** and verify **PDF 161–185** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
