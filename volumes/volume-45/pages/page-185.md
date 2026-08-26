@@ -9,7 +9,7 @@
 
 ## Source text
 
-இந்த விபரங்களெல்லாம், தமிழ்நாடு, “ரிவர்ஸ் கியரில்
+இந்த விபரங்களெல்லாம், தமிழ்நாடு, ‘ரிவர்ஸ் கியரில்’
 பின்னோக்கிச் செல்வதையா காட்டுகிறது? சமூக, பொருளாதார
 நிலைகளில் வேகமாக முன்னேறி வருவதை அல்லவா
 காட்டுகிறது? இதனை மனசாட்சி உள்ளோர் நிச்சயமாகப் புரிந்து
@@ -51,3 +51,4 @@
 
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source single quotation marks around `‘ரிவர்ஸ் கியரில்’`.

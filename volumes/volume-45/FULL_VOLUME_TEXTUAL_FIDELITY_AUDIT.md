@@ -118,14 +118,46 @@ Direct scan comparison completed for the next user-approved 25-page iteration, p
 
 This iteration contains **8 corrected canonical page files / 13 correction spans** and **17 pages passing unchanged**.
 
+### PDF 161–185 — VERIFIED
+
+Direct scan comparison completed for the next user-approved 25-page iteration, printed pages 160–184.
+
+- **PDF 161 — PASS.** Letter 3556 continuation agrees with the scan, including the source wording around the Communist-party references.
+- **PDF 162 — PASS.** Letter 3556 continuation and the quoted Prakash Karat passage agree with the scan.
+- **PDF 163 — PASS.** Letter 3556 conclusion, closing and `21-4-2011` date agree with the scan.
+- **PDF 164 — PASS.** Letter 3557 title/opening and the scan-printed `ஆகஸ்ட் 13ஆம் தேதியன்றே` agree with the source.
+- **PDF 165 — PASS.** Letter 3557 historical dates, names and `“டெசோ”` passage agree with the scan.
+- **PDF 166 — PASS.** The manually transcribed historical chronology agrees with the scan.
+- **PDF 167 — PASS.** Letter 3557 quoted material, dates and physical page continuation agree with the scan.
+- **PDF 168 — CORRECTED, then PASS.** Restored source spacing **`ராஜ பக்ஷேயின்`**.
+- **PDF 169 — PASS.** Letter 3557 conclusion, closing and `24-04-2011` date agree with the scan.
+- **PDF 170 — CORRECTED, then PASS.** Restored **`‘நக்கீரன்’`**, **`அவர்களுடைய`**, **`உணர்த்தி`**, **`‘பாட்டுக்கு பாட்டெடுப்பேன்’`**, **`அவரையடுத்து`**, **`கலைஞர்கள்`**, **`இசைவாணர்கள்`**, and **`கவிஞர்கள்`**. The scan-printed anomaly **`பொக்கம்`** is preserved rather than normalized.
+- **PDF 171 — CORRECTED, then PASS.** Restored **`தொடர்புகளையும்`**, **`புரிந்தவர்கள்`**, **`தயாரிப்பாளர்`**, **`சொல்லியிருக்கிறார்`**, source spacing **`பெயரை வெளியிட`**, and **`அவர்களுக்குத்`**.
+- **PDF 172 — CORRECTED, then PASS.** Restored **`நித்யா`**, **`ராம்குமார்`**, **`சகோதரர்`**, **`துறையிலே`**, **`ஜித்தன் ரமேஷ்`**, **`கவிஞர்`**, **`இதழ்`**, and **`துர்வாச`**.
+- **PDF 173 — CORRECTED, then PASS.** Restored **`வசூலிக்கப்பட்டுத்தான்`** and **`விழுக்காட்டில்`**.
+- **PDF 174 — CORRECTED, then PASS.** Restored **`குறைக்கப்பட்டுள்ளது`**, **`கட்டணங்கள்`**, both scan-printed **`நேர்ந்தால்`** forms, both **`அவர்களுடைய`** forms, **`தொடர்ந்து`**, and **`உதவியாளர்கள்`**.
+- **PDF 175 — CORRECTED, then PASS.** Restored **`“உளியின் ஓசை”`**, **`மூத்த`**, **`கலைஞர்களுக்கு`**, **`அவர்களுக்கெல்லாம்`**, **`ஒரு சிலர்`**, **`என் அரசியல்`**, and **`ஈர்க்கப்பட்டு`**.
+- **PDF 176 — CORRECTED, then PASS.** Restored **`அதிர்வையும்`**, **`அவர்`**, **`தொடர்ந்து`**, **`மார்ச்`**, the corrupted **`பின்லேடன்`** forms, **`தேர்ச்சி`**, and **`1974ல்`**. The scan-printed **`10ந்தேதியன்று`** remains unchanged.
+- **PDF 177 — CORRECTED, then PASS.** Restored source single quotation marks in **`‘மக்தாப் அல் கடாமத்’`** and all four **`‘அல் கய்தா’`** occurrences, plus **`புகுந்தார்`**, **`குண்டு`**, and **`தகர்த்தெறியப்பட்டது`**. The scan-printed **`முஜா கி தீன்`** remains unchanged.
+- **PDF 178 — CORRECTED, then PASS.** Restored source spacing **`55 ஆவது`**.
+- **PDF 179 — PASS.** Letter 3559 discussion of terrorism and the quoted passage agree with the scan.
+- **PDF 180 — CORRECTED, then PASS.** Restored source single quotation marks in standalone **`‘இஸ்லாம்’`** and **`‘சமாதானம்’`**; the longer sentence remains double-quoted as printed. Letter 3559 closing and `4-5-2011` date agree with the scan.
+- **PDF 181 — CORRECTED, then PASS.** Restored source single quotation marks in **`‘ரிவர்ஸ் கியரில் போகிறது தமிழ்நாடு’`**.
+- **PDF 182 — PASS.** Letter 3560 welfare-scheme material, figures, punctuation and page boundary agree with the scan.
+- **PDF 183 — CORRECTED, then PASS.** Restored source spacing **`சுய உதவிக்`**.
+- **PDF 184 — CORRECTED, then PASS.** Restored source single quotation marks in **`‘மெட்ரோ ரயில் திட்டம்’`**; the later double-quoted legislative-complex title is preserved as printed.
+- **PDF 185 — CORRECTED, then PASS.** Restored source single quotation marks around **`‘ரிவர்ஸ் கியரில்’`**.
+
+This iteration contains **15 corrected canonical page files / 63 correction spans** and **10 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–160 / 402**
-- Scan-proven correction pages in this pass: **83 canonical page files / 157 correction spans**
+- Verified in this second pass: **PDF 001–185 / 402**
+- Scan-proven correction pages in this pass: **98 canonical page files / 220 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 161 / printed page 160** and verify **PDF 161–185** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 186 / printed page 185** and verify **PDF 186–210** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

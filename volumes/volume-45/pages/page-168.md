@@ -15,7 +15,7 @@
 நிறைவேற்றிய ஜெயலலிதாதான் என்னைப் பொது மன்னிப்பு
 கேட்கச் சொல்லுகிறார்.
 
-இலங்கையில் ராஜபக்ஷேயின் சிங்களப் படையினர்
+இலங்கையில் ராஜ பக்ஷேயின் சிங்களப் படையினர்
 அப்பாவித் தமிழர்களைக் கொன்று குவித்தபோது, அதனைக்
 கண்டித்து தமிழகத்தில் ஊர்வலங்களும், பொதுக்கூட்டங்களும்,
 ஆர்ப்பாட்டங்களும் நடைபெற்ற போது, “இலங்கைத்
@@ -52,3 +52,4 @@
 - This page continues Letter 3557.
 - Quoted material and dates are preserved in source position.
 - Canonical text is based on direct scan comparison; OCR was used only as a drafting aid.
+- Second-pass direct scan verification restored source spacing `ராஜ பக்ஷேயின்`.

@@ -10,8 +10,8 @@
 ## Source text
 
 லேபிளை ஒட்ட எத்தனையோ பேர் எத்தனிக்கிறார்கள். அதனை
-நம்மால் ஏற்றுக்கொள்ள முடியாது. “இஸ்லாம்” என்ற சொல்லுக்கு
-மற்றொரு பொருளே “சமாதானம்” என்பதாகும். “இஸ்லாம் ஒரு
+நம்மால் ஏற்றுக்கொள்ள முடியாது. ‘இஸ்லாம்’ என்ற சொல்லுக்கு
+மற்றொரு பொருளே ‘சமாதானம்’ என்பதாகும். “இஸ்லாம் ஒரு
 சமாதான, சகிப்புத் தன்மை கொண்ட மதம் என்றும்; ஒரு முஸ்லிம்,
 இறைவனுடனும், மனிதனுடனும் சமாதானமாக இருத்தல்
 வேண்டும்” என்பதும், முகம்மது தோற்றுவித்த 10 அம்சங்களில்
@@ -38,3 +38,4 @@
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3559 ends on this page; closing/signature/date boundary verified from the scan.
+- Second-pass direct scan verification restored source single quotation marks in `‘இஸ்லாம்’` and `‘சமாதானம்’`.

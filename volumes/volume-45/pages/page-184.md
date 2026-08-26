@@ -20,7 +20,7 @@
 அண்ணா மறுமலர்ச்சித் திட்டம்.
 
 14 ஆயிரத்து 600 கோடி ரூபாய் மதிப்பீட்டில் சென்னையில்
-“மெட்ரோ ரயில் திட்டம்”.
+‘மெட்ரோ ரயில் திட்டம்’.
 
 910 கோடி ரூபாய்ச் செலவில், சென்னை-ஓமந்தூரார் அரசினர்
 தோட்டத்தில் “புதிய சட்டமன்ற- தலைமைச்செயலக வளாகம்”.
@@ -53,3 +53,4 @@
 
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored the source single quotation marks in `‘மெட்ரோ ரயில் திட்டம்’`.

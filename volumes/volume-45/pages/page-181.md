@@ -36,7 +36,7 @@
 விமர்சனம் என்ற பெயரில், ஏடுகளிலும், ஊடகங்களிலும்
 வெளியிட்டு வருகிறார்கள். அவற்றில் ஒன்றுதான், இரண்டு
 நாட்களுக்கு முன்பு தமிழ் நாளேடு ஒன்றில் (தினமலர்-1.5.2011)
-“ரிவர்ஸ் கியரில் போகிறது தமிழ்நாடு” என்ற தலைப்பில் வெளிவந்த
+‘ரிவர்ஸ் கியரில் போகிறது தமிழ்நாடு’ என்ற தலைப்பில் வெளிவந்த
 கட்டுரையாகும். இந்தக் கட்டுரையை எழுதியவர் ஆங்கிலப்
 பத்திரிகை ஒன்றின் ஆசிரியர் என்று குறிப்பிடப்பட்டுள்ளது.
 
@@ -45,3 +45,4 @@
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3560 begins on this page; source title preserved as printed.
+- Second-pass direct scan verification restored the source single quotation marks in `‘ரிவர்ஸ் கியரில் போகிறது தமிழ்நாடு’`.
