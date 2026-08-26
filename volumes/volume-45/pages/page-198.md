@@ -9,7 +9,7 @@
 
 ## Source text
 
-நான் படித்து முடித்த புத்தக அடுக்குகளைப் பிரித்துப்
+- நான் படித்து முடித்த - புத்தக அடுக்குகளைப் பிரித்துப்
 பார்க்கும்போது - அதில் உள்ள ஒரு கடிதத்தைக்கண்டு, வியப்பு
 மேலிட்டவாறு - அதைப் படிக்கத் தொடங்கினேன்.
 அதைத்தான் நீயும் படி என்று உன்னிடம் காட்டுகிறேன்.
@@ -48,3 +48,4 @@
 
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored the printed interruption `- நான் படித்து முடித்த -` at the physical page opening.

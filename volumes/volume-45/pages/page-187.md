@@ -12,8 +12,7 @@
 ஒழிக்கவும், சமூக ஏற்றத்தாழ்வுகளைக் களையவும்,
 செயல்படுத்திவரும் திட்டமான “வாழ்ந்து காட்டுவோம் திட்டம்”
 குறித்து, உலக வங்கியின் முன்னாள் செயலாக்கத் தலைவர்
-திருமதி. மீனா முன்ஷி அவர்கள் அனுப்பியுள்ள கடிதத்தில்,
-“வாழ்ந்து காட்டுவோம் திட்டம்”, 2006ஆம் ஆண்டின் இடைப்
+திருமதி. மீனா முன்ஷி அவர்கள் அனுப்பியுள்ள கடிதத்தில், “‘வாழ்ந்து காட்டுவோம் திட்டம்’, 2006ஆம் ஆண்டின் இடைப்
 பகுதிக்குப் பிறகு வேகமாகச் செயல்படத் தொடங்கி, மிகப் பெரிய
 வெற்றியைப் பெற்றுள்ளது என்றும்; தமிழக அரசு இத்திட்டத்தைத்
 தொடர்ந்து கண்காணித்து, திட்டப் பணியாளர்களுக்கு
@@ -43,3 +42,4 @@
 
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored the source's outer double-quote / inner single-quote structure around `‘வாழ்ந்து காட்டுவோம் திட்டம்’` and its quoted sentence.

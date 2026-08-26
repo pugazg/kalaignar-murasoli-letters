@@ -19,7 +19,7 @@
 
 3.5.2011 அன்றுகூட தமிழகத்தில் மகப்பேறு நலத் திட்டம்
 சிறப்பாகச் செயல்படுகிறது என்று உலக வங்கி பாராட்டியிருப்பதை
-“இந்து” நாளிதழ் “Maternity Health Scheme commended” என்று
+‘இந்து’ நாளிதழ் “Maternity Health Scheme commended” என்று
 தலைப்பிட்டு வெளியிட்டுள்ளது. தமிழக அரசு மகப்பேறு
 நலத் திட்டத்தைச் சிறப்பாக செயல்படுத்தி, குழந்தை இறப்பு
 விகிதத்தைப் பெருமளவுக்குக் குறைத்திருப்பதை உலக வங்கி
@@ -45,3 +45,4 @@
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3560 ends on this page; closing/signature/date boundary verified from the scan.
+- Second-pass direct scan verification restored source single quotation marks in `‘இந்து’`.

@@ -29,7 +29,7 @@
 2006ஆம் ஆண்டு தேர்தல் அறிக்கையில் இலவசக்கலர்
 தொலைக்காட்சிப் பெட்டிகளை வழங்கினீர்கள். தற்போது
 லேப்டாப், கிரைண்டர் போன்றவைகளை தேர்தல் அறிக்கையில்
-இலவசமாக வழங்கப் போவதாக அறிவித்திருக்கிறீர்கள். தோதவில்
+இலவசமாக வழங்கப் போவதாக அறிவித்திருக்கிறீர்கள். தேர்தலில்
 வெற்றி தோல்வியை நிர்ணயிப்பது இலவசச் சலுகைகளை
 அளிப்பதாக வாக்குறுதி கொடுப்பதுதான் என்று கூறப்படுவதைப்
 பற்றி உங்கள் கருத்து என்ன?” என்று கேட்டபோது நான்
@@ -42,3 +42,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Letter 3564 begins on this page; title was verified directly from the scan.
+- Second-pass direct scan verification corrected OCR-corrupted `தேர்தலில்`.

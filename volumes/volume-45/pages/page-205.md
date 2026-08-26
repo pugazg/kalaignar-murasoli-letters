@@ -47,9 +47,10 @@
 நிதியிலே சேர்த்திருக்கிறேன்.
 
 ஈழத் தமிழர் நிவாரணத்திற்காக தமிழக அரசின் சார்பில் நிதி
-திரட்டப்பட்ட போது என்னுடைய சொந்தப் பொறுப்பில் 1௦ லட்சம்
+திரட்டப்பட்ட போது என்னுடைய சொந்தப் பொறுப்பில் 10 லட்சம்
 ரூபாயினை நன்கொடையாக வழங்கியிருக்கிறேன்.
 
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
+- Second-pass direct scan verification corrected the OCR-corrupted figure to scan-printed `10 லட்சம்`.

@@ -50,7 +50,7 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–185 / 402**
+Status: **IN PROGRESS — verified PDF 001–210 / 402**
 
 - PDF 001–060: verified in earlier consecutive batches; cumulative checkpoint at PDF 060 was 37 corrected page files / 75 correction spans.
 - PDF 061–085: verified as the first user-approved 25-page routine second-pass iteration after that checkpoint; 18 corrected page files / 29 correction spans.
@@ -58,27 +58,29 @@ Status: **IN PROGRESS — verified PDF 001–185 / 402**
 - PDF 111–135: verified as the next 25-page routine iteration; 8 corrected page files / 14 correction spans; 17 pages passed unchanged.
 - PDF 136–160: verified as the next 25-page routine iteration; 8 corrected page files / 13 correction spans; 17 pages passed unchanged.
 - PDF 161–185: verified as the next 25-page routine iteration; 15 corrected page files / 63 correction spans; 10 pages passed unchanged.
-- PDF 161, 162, 163, 164, 165, 166, 167, 169, 179 and 182 passed the PDF 161–185 direct scan comparison unchanged.
-- PDF 168, 170, 171, 172, 173, 174, 175, 176, 177, 178, 180, 181, 183, 184 and 185 were corrected directly from the scan.
-- PDF 168 restores source spacing `ராஜ பக்ஷேயின்`.
-- PDF 170 restores `‘நக்கீரன்’`, `அவர்களுடைய`, `உணர்த்தி`, `‘பாட்டுக்கு பாட்டெடுப்பேன்’`, `அவரையடுத்து`, `கலைஞர்கள்`, `இசைவாணர்கள்` and `கவிஞர்கள்`; scan-printed `பொக்கம்` remains preserved.
-- PDF 171–176 repair numerous residual OCR/first-pass corruptions in names and Tamil word forms while preserving source wording, spacing and punctuation; PDF 176's `10ந்தேதியன்று` remains as printed.
-- PDF 177 restores source single quotation marks in `‘மக்தாப் அல் கடாமத்’` and all four `‘அல் கய்தா’` occurrences, plus `புகுந்தார்`, `குண்டு` and `தகர்த்தெறியப்பட்டது`; source `முஜா கி தீன்` remains unchanged.
-- PDF 178 restores source spacing `55 ஆவது`.
-- PDF 180 restores source single quotation marks in standalone `‘இஸ்லாம்’` and `‘சமாதானம்’` while preserving the longer double-quoted sentence.
-- PDF 181 restores the source single quotation marks in `‘ரிவர்ஸ் கியரில் போகிறது தமிழ்நாடு’`.
-- PDF 183 restores source spacing `சுய உதவிக்`.
-- PDF 184 restores source single quotation marks in `‘மெட்ரோ ரயில் திட்டம்’`.
-- PDF 185 restores source single quotation marks around `‘ரிவர்ஸ் கியரில்’`.
-- Earlier source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, and the PDF 071–072 physical-page boundary repair.
+- PDF 186–210: verified as the next 25-page routine iteration; **19 corrected page files / 64 correction spans; 6 pages passed unchanged**.
+- PDF 196, 197, 199, 200, 207 and 208 passed the PDF 186–210 direct scan comparison unchanged.
+- PDF 186–195, 198, 201–206, 209 and 210 were corrected directly from the scan.
+- PDF 186 restores source single quotation marks in the three `‘இந்தியா டுடே’` / `‘இந்தியா டுடே விருது’` references.
+- PDF 187 restores the source outer-double / inner-single quotation structure around `‘வாழ்ந்து காட்டுவோம் திட்டம்’`.
+- PDF 188 restores source single quotation marks in `‘இந்து’`.
+- PDF 189 restores `விதைகளைத் தூவி` and source single quotation marks in `‘ராஷ்டிரபதி பவன்’` and `‘ராஜ உபசாரத்தோடு’`.
+- PDF 190 restores source single quotation marks in `‘செம்மொழி’` and `‘தொல்காப்பியர் விருது’`, source-joined `2005-2006ஆம்` forms, and the printed `2005 - 2006` spacing in the three-year list.
+- PDF 191 restores the omitted name `ஆர்.அரவிந்தன்` and corrects residual first-pass name/quotation corruption from the scan.
+- PDF 192–195 restore scan-printed punctuation, spacing, names and quotation styles in the classical-language/award passages, including `ஒய்.மணி கண்டன்`.
+- PDF 198 restores the source interruption `- நான் படித்து முடித்த -` and scan-printed quoted-letter wording.
+- PDF 201–206 repair substantial residual OCR/first-pass corruption, including `அல்லது`, `ராட்சச பூதமா?`, `தேர்தல் நேரத்தில்`, `தவழ்ந்தும்`, `மாடர்ன் தியேட்டர்ஸ்`, `காட்டூரில்`, `கல்வி வளர்ச்சிக்கு`, `17-9-2009இல்`, `10 லட்சம்`, and `11-1-2007`.
+- PDF 209 restores `தேர்தலில்`.
+- PDF 210 restores `நுகர்வோரைக்`, `தேர்தல் அறிக்கை`, and `அந்தத் தேர்தலில்`.
+- Earlier source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the PDF 071–072 physical-page boundary repair.
 - Later library stamp/handwriting on PDF 102 remains excluded from edition text.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Cumulative second-pass correction pages: **98 canonical page files / 220 correction spans**.
+- Cumulative second-pass correction pages: **117 canonical page files / 284 correction spans**.
 - The routine second-pass iteration size is **25 consecutive PDF pages**, as explicitly approved by the user.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass page log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 186 / printed page 185** and process **PDF 186–210** as the next 25-page iteration.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 211 / printed page 210** and process **PDF 211–235** as the next 25-page iteration.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

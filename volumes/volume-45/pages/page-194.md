@@ -35,8 +35,8 @@
 வேண்டுமென்று 50 ஆண்டுகளுக்கு முன்பே நான் கொண்ட
 நினைவு இன்று செயலாக்கம் பெறுகின்றது. இதையொட்டி
 எனக்கென்று உள்ள சொந்தப் பணத்திலிருந்து ஒரு கோடி
-ரூபாயை - இந்த நிறுவனத்தின் பொறுப்பில் - “கலைஞர்
-கருணாநிதி செம்மொழி அறக்கட்டளை” ஒன்றினை நிறுவிட
+ரூபாயை - இந்த நிறுவனத்தின் பொறுப்பில் - ‘கலைஞர்
+கருணாநிதி செம்மொழி அறக்கட்டளை’ ஒன்றினை நிறுவிட
 வழங்குகின்றேன். இந்த ஒரு கோடி ரூபாயிலிருந்து கிடைக்கும்
 வட்டித் தொகையைக் கொண்டு, தமிழக வரலாற்றுப் பயன்மிக்க
 கல்வெட்டுகளை ஆய்வு செய்பவர்களுக்கு அறக்கட்டளையின்
@@ -51,3 +51,4 @@
 
 - First-pass transcription checked against the controlling scan.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source single quotation marks in `‘கலைஞர் கருணாநிதி செம்மொழி அறக்கட்டளை’` inside the larger quoted speech.
