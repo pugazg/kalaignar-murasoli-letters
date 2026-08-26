@@ -20,7 +20,7 @@
 கழக அமைப்புச் செயலாளர் மூலமாக செய்தியாளர்களுக்கு
 உடனடியாக வழங்கப்பட்டுவிட்டன. கூட்டம் முடிந்து
 புறப்படுகின்ற நேரத்தில் செய்தியாளர்கள் காத்திருக்கிறார்கள்.
-பார்க் கிறீர்களா என்று கேட்டபோது, தீர்மானங்களைக் கொடுத்து
+பார்க்கிறீர்களா என்று கேட்டபோது, தீர்மானங்களைக் கொடுத்து
 விட்டீர்கள் அல்லவா, பிறகு எதற்காக என்று நான் திரும்பக்
 கேட்டேன். பத்திரிகையாளர்கள் உங்களிடம் சில கேள்வி களைக்
 கேட்பதற்காக காத்திருக்கிறார்கள் என்று சொன்னவுடன், நான்
@@ -47,3 +47,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Letter 3565 begins on this page; the scan-proven title reading is `இன்று நடப்பது; அன்றே நடந்ததுதான்!`.
 - The earlier `ஒன்று நடப்பது` reading was corrected after direct scan re-verification.
+- Second-pass direct scan verification restored `பார்க்கிறீர்களா`; source-spaced forms such as `கேள்வி களைக்` remain preserved.

@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-26
+**Handover date:** 2026-08-27
 
 This document is the current project-level handover for continuing the multi-volume Kalaignar Murasoli Letters archive in a new chat/window or with another worker.
 
@@ -43,16 +43,16 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–185 verified**
-- Second-pass corrections so far: **98 canonical page files / 220 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–235 verified**
+- Second-pass corrections so far: **139 canonical page files / 347 correction spans**
 - User-approved routine second-pass iteration size: **25 consecutive PDF pages**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-The latest completed 25-page iteration is **PDF 161–185 / printed pages 160–184**. PDF 161–167, 169, 179 and 182 passed unchanged. Scan-proven corrections were made on PDF 168, 170–178, 180, 181, 183, 184 and 185. This iteration contains **15 corrected page files / 63 correction spans**. Important corrections include source spacing `ராஜ பக்ஷேயின்` on PDF 168; extensive residual first-pass/OCR repairs across PDF 170–177; source single quotation marks in `‘நக்கீரன்’`, `‘பாட்டுக்கு பாட்டெடுப்பேன்’`, `‘மக்தாப் அல் கடாமத்’` and all four `‘அல் கய்தா’` occurrences; source spacing `55 ஆவது` on PDF 178; source single quotation marks on PDF 180, 181, 184 and 185; and `சுய உதவிக்` on PDF 183. Printed anomalies including PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, and PDF 177 `முஜா கி தீன்` remain preserved rather than normalized.
+The latest completed 25-page iteration is **PDF 211–235 / printed pages 210–234**. PDF 214, 220 and 225 passed unchanged. Scan-proven corrections were made on PDF 211–213, 215–219, 221–224 and 226–235. This iteration contains **22 corrected page files / 63 correction spans**. Important corrections include restoration of omitted prose on PDF 213 (`பாலிடெக்னிக்குகளிலும் சேர்ந்த மாணவர்களின் எண்ணிக்கை` and `6.9 இலட்சமாக உயர்ந்தது. கழக அரசு வழங்கி வந்த`); `13வது நிதி ஆணையம்` on PDF 216; preservation of the printed source anomaly `011ஆம் ஆண்டு` on PDF 217; `பத்திரிகாதர்மத்தைக்`, `மனு தர்மம்` and `பத்திரிகா தர்மம்` in the newspaper discussion; source `பிஜு பட்நாயக்`, `ஈ.எம்.எஸ்.` and `ஈ.பி.ஆர்.எல்.எப்.` on PDF 226; `புது டெல்லியிலே`, `பொதுக் கூட்டங்களும்` and `தமிழர்களைக்` on PDF 227; recovery of the damaged Tamilselvan poem on PDF 229; and residual OCR/word-joining repairs through PDF 235. The printed PDF 233 anomaly `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்` and source-specific spaced forms remain preserved rather than normalized.
 
-Confirmed source anomalies and non-edition material remain handled conservatively: PDF 088's malformed `ஒப்பங்கள்` and `மணலை ஜலித்து` are preserved as printed; PDF 098's unusual `112.2006-ல்` is preserved; PDF 116's scan-printed March 2010 dates are preserved without outside normalization; PDF 127's `தனிச்சையாக` is preserved as printed; and later library stamp/handwriting on PDF 102 remains excluded from edition text. Earlier documented source anomalies and the repaired PDF 071–072 physical-page boundary remain unchanged.
+Confirmed source anomalies and non-edition material remain handled conservatively: PDF 088's malformed `ஒப்பங்கள்` and `மணலை ஜலித்து` are preserved as printed; PDF 098's unusual `112.2006-ல்` is preserved; PDF 116's scan-printed March 2010 dates are preserved without outside normalization; PDF 127's `தனிச்சையாக` is preserved as printed; PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, and PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்` remain source-faithful; and later library stamp/handwriting on PDF 102 remains excluded from edition text. Earlier documented source anomalies and the repaired PDF 071–072 physical-page boundary remain unchanged.
 
 Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
 
@@ -60,7 +60,7 @@ The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume at **PDF 186 / printed page 185** and verify **PDF 186–210** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume at **PDF 236 / printed page 235** and verify **PDF 236–260** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -181,4 +181,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 185**. Resume at **PDF 186 / printed page 185** with the **PDF 186–210** iteration unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 235**. Resume at **PDF 236 / printed page 235** with the **PDF 236–260** iteration unless a later committed repository update moves that boundary.

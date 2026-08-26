@@ -39,9 +39,10 @@
 
 தி.மு. கழகம் பொறுப்பிலே இருந்தபோது இலங்கைத்
 தமிழர்களுக்காக அனைத்துக் கட்சிக் கூட்டம், சட்டப்பேரவைக்
-கட்சித் தலைவர்கள் கூட்டம். தமிழ்நாடு சட்டப் பேரவையில்
+கட்சித் தலைவர்கள் கூட்டம், தமிழ்நாடு சட்டப் பேரவையில்
 
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Letter 3566 begins on this page; title was verified directly from the scan.
+- Second-pass direct scan verification restored the comma after `சட்டப்பேரவைக் கட்சித் தலைவர்கள் கூட்டம்`.

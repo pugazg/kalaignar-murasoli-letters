@@ -109,14 +109,46 @@ Direct scan comparison completed for printed pages 185–209.
 
 This iteration contains **19 corrected canonical page files / 64 correction spans** and **6 pages passing unchanged**.
 
+### PDF 211–235 — VERIFIED
+
+Direct scan comparison completed for printed pages 210–234.
+
+- **PDF 211 — CORRECTED, then PASS.** Restored the source semicolon before `“தினமணி”`.
+- **PDF 212 — CORRECTED, then PASS.** Restored `கான்கிரீட்` and the printed `20 ரூபாய்க்கு`.
+- **PDF 213 — CORRECTED, then PASS.** Restored omitted prose `பாலிடெக்னிக்குகளிலும் சேர்ந்த மாணவர்களின் எண்ணிக்கை` and `6.9 இலட்சமாக உயர்ந்தது. கழக அரசு வழங்கி வந்த`, plus `ரூபாய்க்கு` and `எண்ணெய்`.
+- **PDF 214 — PASS.** Letter 3564 continuation and figures agree with the scan.
+- **PDF 215 — CORRECTED, then PASS.** Restored `வரி வருவாய் குறைந்ததும்`.
+- **PDF 216 — CORRECTED, then PASS.** Restored `முதல்`, `ரூபாய்`, `அ.தி.மு.க. ஆட்சியிலிருந்தபோது`, and `13வது நிதி ஆணையம்`; source `ஒகனேக்கல்` remains preserved.
+- **PDF 217 — CORRECTED, then PASS.** Restored the scan-printed anomalous opening `011ஆம் ஆண்டு`; it is intentionally not normalized to `2011ஆம் ஆண்டு`.
+- **PDF 218 — CORRECTED, then PASS.** Restored `பார்க்கிறீர்களா` while preserving source-spaced forms.
+- **PDF 219 — CORRECTED, then PASS.** Restored item marker `7.` and the source punctuation in item 5.
+- **PDF 220 — PASS.** Questions 14–22 and the following prose agree with the scan.
+- **PDF 221 — CORRECTED, then PASS.** Restored `பத்திரிகாதர்மத்தைக்`, `நிதிநிலை`, and `ஆங்காங்கு அமர்ந்து கொண்டு`.
+- **PDF 222 — CORRECTED, then PASS.** Restored `மு.க. அழகிரியும்தான்`, `மனு தர்மம்`, `பத்திரிகா தர்மம்`, `அன்புள்ள`, and the closing date `11-6-2011`.
+- **PDF 223 — CORRECTED, then PASS.** Restored the comma after `சட்டப்பேரவைக் கட்சித் தலைவர்கள் கூட்டம்`.
+- **PDF 224 — CORRECTED, then PASS.** Restored `ராஜினாமா கடிதங்களைத்தானே` and `கீழ்த்தர விமர்சனம்`.
+- **PDF 225 — PASS.** The 1981–1986 historical sequence agrees with the scan.
+- **PDF 226 — CORRECTED, then PASS.** Restored source `பிஜு பட்நாயக்`, `ஈ.எம்.எஸ்.`, and `ஈ.பி.ஆர்.எல்.எப்.`.
+- **PDF 227 — CORRECTED, then PASS.** Removed a stray punctuation residue and restored `புது டெல்லியிலே`, `பொதுக் கூட்டங்களும்`, and `தமிழர்களைக்`.
+- **PDF 228 — CORRECTED, then PASS.** Restored `முன்மொழிந்திருப்பதைப்` and `பிரதமர்`.
+- **PDF 229 — CORRECTED, then PASS.** Recovered damaged poem readings `நெஞ்சம்!`, `இதயமோ;`, `இமயத்தின் வலிமை, வலிமை!`, `படைத் தளபதி!`, and `உளமெலாம்`, and restored `ரகசியத் தொடர்பு`.
+- **PDF 230 — CORRECTED, then PASS.** Restored `ஈழத் தந்தை` and `இவையெல்லாம்`; Letter 3566 closes with scan-verified date `13-6-2011`.
+- **PDF 231 — CORRECTED, then PASS.** Restored `உறுப்பினர்களின்`, `செய்தியாளர்களுக்கு`, `பார்க்கிறீர்களா`, and `தீர்மானங்களைக்`, preserving source-spaced `கேள்வி களைக்` and `செய்தி யாளர்களும்`.
+- **PDF 232 — CORRECTED, then PASS.** Restored source `பா.ஜ.க. வுடன்` and joined `தயாநிதிமாறன்` in item 11; the manually transcribed page otherwise agrees with the scan.
+- **PDF 233 — CORRECTED, then PASS.** Restored `என்ன?` and `கேள்விகளா;`; scan-printed anomalies `பொத்தம்` and `22 1 கேள்விகள்` remain preserved.
+- **PDF 234 — CORRECTED, then PASS.** Restored `பத்திரிகா தர்மத்தைக்`, `செய்தியாளர்களுக்கும்`, `நிதிநிலை`, `பாடுபட்டோமே`, and `அமராமல்`; source-spaced `கேள்வி யையும்`, `நினைத் துப்பார்`, and `என்பதற் காக` remain preserved.
+- **PDF 235 — CORRECTED, then PASS.** Removed a stray OCR parenthesis and restored residual word forms including `மேற்கொண்டிருக்கின்றார்கள்`, `நினைக்குமளவுக்கு`, `மோசமாகியுள்ளதாக`, `குமுறத்`, `சொன்னதையும்`, `“கொழுக் கட்டை”`, `அவர்களின்`, `மனு தர்மம்`, and `பத்திரிகா தர்மம்`; Letter 3567 closes with scan-verified date `14-06-2011`.
+
+This iteration contains **22 corrected canonical page files / 63 correction spans** and **3 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–210 / 402**
-- Scan-proven correction pages in this pass: **117 canonical page files / 284 correction spans**
+- Verified in this second pass: **PDF 001–235 / 402**
+- Scan-proven correction pages in this pass: **139 canonical page files / 347 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 211 / printed page 210** and verify **PDF 211–235** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 236 / printed page 235** and verify **PDF 236–260** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

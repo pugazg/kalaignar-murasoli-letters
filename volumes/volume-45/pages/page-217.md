@@ -9,7 +9,7 @@
 
 ## Source text
 
-௦011ஆம் ஆண்டு மார்ச் 24ஆம் தேதிய நிலவரப்படி,
+011ஆம் ஆண்டு மார்ச் 24ஆம் தேதிய நிலவரப்படி,
 தமிழக அரசின் ரொக்கக் கையிருப்பு 13 ஆயிரத்து 537
 கோடி ரூபாயாகும். இந்திய ரிசர்வ் வங்கியிலிருந்து
 ஒருநாள் கூட தன் கணக்கில் பணம் இல்லாமல்,
@@ -33,3 +33,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Letter 3564 ends on this page; closing/signature/date `3-6-2011` were verified directly from the scan.
+- Second-pass direct scan verification restored the anomalous printed opening `011ஆம் ஆண்டு`; it is intentionally preserved rather than normalized to `2011ஆம் ஆண்டு`.

@@ -28,7 +28,7 @@
 செலவுகளுக்காக மட்டுமே கடன் வாங்கியது என்றும், அதுவும்
 எந்தெந்த திட்டங்களுக்காக எவ்வளவு கடன் யார் யாரிடமிருந்து
 வாங்கப்பட்டுள்ளன என்ற விவரங்களை யெல்லாம் நான்
-விரிவாகவும், விளக்கமாகவும் அப்போது எழுதியதை: “தினமணி”
+விரிவாகவும், விளக்கமாகவும் அப்போது எழுதியதை; “தினமணி”
 போன்ற நாளிதழ்கள் படிக்காமலேயே பொத்தாம் பொதுவில் கழக
 அரசைத் தாக்கி எழுதி யிருந்தது.
 
@@ -51,3 +51,4 @@
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
+- Second-pass direct scan verification corrected the punctuation before `“தினமணி”` from a colon to the source semicolon.
