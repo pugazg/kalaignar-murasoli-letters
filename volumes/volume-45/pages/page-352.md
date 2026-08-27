@@ -19,11 +19,13 @@
 
 வடசென்னை தங்கசாலையில் 25-8-2011 அன்று
 நடைபெற்ற பிரம்மாண்டமான பொதுக் கூட்டத்தில், “நம்முடைய
-கழக முன்னணியினர் “தமிழக சட்டமன்றத்தில் ஜனநாயகம்
-படும் பாடு என்ற தலைப்பிலே கண்டன முழக்கத்தை
-வெளியிட்டிருக்கிறார்கள். “தமிழக சட்டமன்றத்தில் ஜனநாயகம்
+கழக முன்னணியினர் ‘தமிழக சட்டமன்றத்தில் ஜனநாயகம்
+படும்பாடு’ என்ற தலைப்பிலே கண்டன முழக்கத்தை
+வெளியிட்டிருக்கிறார்கள். ‘தமிழக சட்டமன்றத்தில் ஜனநாயகம்
+படும்பாடு’ என்று சொல்லுகின்ற தலைப்பிலேயே ஒரு திருத்தம்
+காண விரும்புகின்றேன். தமிழக சட்டமன்றத்தில் ஜனநாயகம்
 இருந்தால் அல்லவா, அது படும்பாடு பற்றி நாம் பேச முடியும்?
-ஜனநாயகமே இல்லாத ஒரு இடத்தில், எப்படி “அது படும்பாடு”
+ஜனநாயகமே இல்லாத ஒரு இடத்தில், எப்படி ‘அது படும்பாடு’
 என்று நாம் வருத்தப்பட முடியும் என்பதால்தான், தலைப்பிலே ஒரு
 திருத்தத்தை இணைக்க வேண்டும் என்று நான் விரும்புகின்றேன்”
 என்று நான் உரையாற்றினேன்.
@@ -46,3 +48,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3584 begins on this page; source title verified directly from the scan.
+- Second-pass direct scan verification restored the omitted sentence in the quoted speech, the source `படும்பாடு` forms, and the nested single-quotation structure.

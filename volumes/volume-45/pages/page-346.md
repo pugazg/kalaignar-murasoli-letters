@@ -51,3 +51,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored joined `உச்ச நீதிமன்றத்தில்`.

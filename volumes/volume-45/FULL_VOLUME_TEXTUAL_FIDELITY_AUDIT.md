@@ -171,14 +171,46 @@ Direct scan comparison completed for printed pages 310–334.
 
 This iteration contains **9 corrected canonical page files / 15 correction spans** and **16 pages passing unchanged**.
 
+### PDF 336–360 — VERIFIED
+
+Direct scan comparison completed for printed pages 335–359.
+
+- **PDF 336 — PASS.** The tenth-grade textbook-removal discussion agrees with the scan.
+- **PDF 337 — PASS.** Letter 3581 conclusion, closing/signature and `13-8-2011` date agree with the scan.
+- **PDF 338 — PASS.** Letter 3582 title/opening and Tamil New Year discussion agree with the scan.
+- **PDF 339 — PASS.** The Thiruvalluvar-year / Tamil-year discussion agrees with the scan.
+- **PDF 340 — PASS.** The 1939 conference and quoted reactions agree with the scan.
+- **PDF 341 — PASS.** The continuing reactions, Nakkeeran anecdote and Iravatham Mahadevan passage agree with the scan.
+- **PDF 342 — PASS.** The Tamil New Year bill / debate / Mu. Varadarasanar discussion agrees with the scan.
+- **PDF 343 — PASS.** The PMK / K. Veeramani / Jayalalithaa discussion agrees with the scan.
+- **PDF 344 — PASS.** Letter 3582 conclusion, closing/signature and `25-08-2011` date agree with the scan.
+- **PDF 345 — CORRECTED, then PASS.** Restored the missing opening quotation mark in the Tamil rendering of the Colin Gonsalves quotation.
+- **PDF 346 — CORRECTED, then PASS.** Restored joined `உச்ச நீதிமன்றத்தில்`.
+- **PDF 347 — CORRECTED, then PASS.** Restored `நான் தமிழக`, `நீதிமன்றத்தால்`, and `திரைப்பட இயக்குநர்கள்`.
+- **PDF 348 — PASS.** The quoted 2008 statement and Thiyagu introduction agree with the scan.
+- **PDF 349 — PASS.** The Thiyagu account agrees with the scan.
+- **PDF 350 — PASS.** The Kaliyaperumal account agrees with the scan.
+- **PDF 351 — CORRECTED, then PASS.** Restored the source paragraph break before `காலங் கடத்தாமல்`; Letter 3583 closing/signature/date `1-9-2011` remain scan-verified.
+- **PDF 352 — CORRECTED, then PASS.** Restored the omitted sentence in the quoted speech, source `படும்பாடு` forms, and the printed nested single-quotation structure.
+- **PDF 353 — CORRECTED, then PASS.** Restored `ஆட்சிப் பொறுப்பேற்று பத்தொன்பது`, `முதலமைச்சராக`, the comma in `அண்ணா சாலையில், ஓமந்தூரார்`, and `தான்`.
+- **PDF 354 — PASS.** The new Secretariat / Samacheer Kalvi discussion agrees with the scan.
+- **PDF 355 — PASS.** The tax / agricultural welfare-board discussion agrees with the scan.
+- **PDF 356 — CORRECTED, then PASS.** Restored nested single-quotation marks around `தனி ஆண்டு` and `தமிழ் ஆண்டு` and removed a spurious OCR bar after `அறிவித்ததற்கிணங்க,`.
+- **PDF 357 — PASS.** Letter 3584 conclusion, closing/signature and `8-9-2011` date agree with the scan.
+- **PDF 358 — PASS.** Letter 3585 title/opening and Rule 110 discussion agree with the scan.
+- **PDF 359 — PASS.** The policy-note comparison introduction agrees with the scan.
+- **PDF 360 — PASS.** The continuing policy-note comparison agrees with the scan.
+
+This iteration contains **7 corrected canonical page files / 16 correction spans** and **18 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–335 / 402**
-- Scan-proven correction pages in this pass: **211 canonical page files / 576 correction spans**
+- Verified in this second pass: **PDF 001–360 / 402**
+- Scan-proven correction pages in this pass: **218 canonical page files / 592 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 336 / printed page 335** and verify **PDF 336–360** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 361 / printed page 360** and verify **PDF 361–385** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

@@ -36,7 +36,7 @@ exercise her power to stay the death sentence under Article 161 of the
 Constitution .... said one of the three advocates, Colin Gonsalves, who
 appeared before the High Court for the convicts.”
 
-( மரண தண்டனையை ஆயுள் தண்டனையாகக்
+(“மரண தண்டனையை ஆயுள் தண்டனையாகக்
 குறைப்பதற்கான அதிகாரம் முதலமைச்சருக்கு இருக்கிறது,
 அது தொடர்பாக அமைச்சரவையைக் கூட்டி முடிவு எடுப்பதற்கான
 சரியான தருணம் இது ...... அரசியல் சட்டம் 161வது பிரிவின் கீழ்
@@ -47,3 +47,4 @@ appeared before the High Court for the convicts.”
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3583 begins on this page; source title verified directly from the scan.
+- Second-pass direct scan verification restored the missing opening quotation mark in the Tamil rendering of the Colin Gonsalves quotation.

@@ -51,7 +51,7 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–335 / 402**
+Status: **IN PROGRESS — verified PDF 001–360 / 402**
 
 - PDF 001–060: cumulative checkpoint 37 corrected page files / 75 correction spans.
 - PDF 061–085: 18 corrected page files / 29 correction spans.
@@ -64,26 +64,26 @@ Status: **IN PROGRESS — verified PDF 001–335 / 402**
 - PDF 236–260: 23 corrected page files / 73 correction spans.
 - PDF 261–285: 19 corrected page files / 74 correction spans.
 - PDF 286–310: 21 corrected page files / 67 correction spans.
-- PDF 311–335: **9 corrected page files / 15 correction spans; 16 pages passed unchanged**.
-- PDF 312, 314, 316, 318–323, 325, 327–328, 330–331, 333 and 335 passed the PDF 311–335 direct scan comparison unchanged.
-- PDF 311, 313, 315, 317, 324, 326, 329, 332 and 334 were corrected directly from the scan.
-- PDF 311 removes a stray OCR hyphen before `உச்சக் கட்டமாகச்` and restores joined `நடவடிக்கைகளை`.
-- PDF 313 restores the omitted `தமிழக அரசின் கடன் விவரங்கள் பற்றி அரசின் சார்பில்` opening and source spacing `விதிக்க வில்லை`.
-- PDF 315 restores source `தேசிய நகர்ப்புறப் புனரமைப்புத் திட்டம்`.
-- PDF 317 restores the omitted sentence `வீம்புக்காக ஒரு லட்சத்து எண்பதாயிரம் ரூபாய் தரப் போவதாக அறிவித்திருக்கிறார்கள்.`.
-- PDF 324 restores source `எதிர்க்கட்சிகளுக்குத் தனிச்சட்டம்`.
-- PDF 326 restores source spacing `சம்பந்தப் பட்டதால்` and `மனோ பாவம்`.
-- PDF 329 restores `சிந்தாமணியுடனே`, source hyphen spacing in `நம் மொழி - நம் மொழி - அதுவே`, the exclamation in `நம் தமிழ் மொழியாம்!`, and the omitted `இந்த வார்த்தைகளில் மாணவர்கள் படிக்கக் கூடாத -` continuation.
-- PDF 332 restores source `111வது`; PDF 334 restores source `12இல்`.
+- PDF 311–335: 9 corrected page files / 15 correction spans.
+- PDF 336–360: **7 corrected page files / 16 correction spans; 18 pages passed unchanged**.
+- PDF 336–344, 348–350, 354–355 and 357–360 passed the PDF 336–360 direct scan comparison unchanged.
+- PDF 345–347, 351–353 and 356 were corrected directly from the scan.
+- PDF 345 restores the missing opening quotation mark in the Tamil rendering of the Colin Gonsalves quotation.
+- PDF 346 restores joined `உச்ச நீதிமன்றத்தில்`.
+- PDF 347 restores `நான் தமிழக`, `நீதிமன்றத்தால்`, and `திரைப்பட இயக்குநர்கள்`.
+- PDF 351 restores the source paragraph break before `காலங் கடத்தாமல்`.
+- PDF 352 restores an omitted sentence in the quoted speech, source `படும்பாடு` forms, and the printed nested single-quotation structure.
+- PDF 353 restores `ஆட்சிப் பொறுப்பேற்று பத்தொன்பது`, `முதலமைச்சராக`, the comma in `அண்ணா சாலையில், ஓமந்தூரார்`, and `தான்`.
+- PDF 356 restores nested single-quotation marks around `தனி ஆண்டு` and `தமிழ் ஆண்டு` and removes a spurious OCR bar after `அறிவித்ததற்கிணங்க,`.
 - Source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001`.
 - Later library stamp/handwriting on PDF 102 remains excluded from edition text.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Cumulative second-pass correction pages: **211 canonical page files / 576 correction spans**.
+- Cumulative second-pass correction pages: **218 canonical page files / 592 correction spans**.
 - The routine second-pass iteration size is **25 consecutive PDF pages**, as explicitly approved by the user.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass page log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 336 / printed page 335** and process **PDF 336–360** as the next 25-page iteration.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 361 / printed page 360** and process **PDF 361–385** as the next 25-page iteration.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.
