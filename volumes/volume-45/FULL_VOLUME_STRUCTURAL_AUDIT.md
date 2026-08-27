@@ -51,7 +51,7 @@ No outside edition or web text was used to normalize the source.
 
 The canonical source structure did not require a letter-boundary or page-range correction. The audit synchronized the durable status documents from the previous 3587 boundary to the completed Volume 45 state: **402 canonical pages / 55 complete source records / 3537–3591**.
 
-The later second visual/textual-fidelity gate may correct page text or contents wording without changing this structural PASS. Through PDF 235 it has corrected residual contents/body transcription while leaving all letter boundaries and page mappings intact.
+The later second visual/textual-fidelity gate may correct page text or contents wording without changing this structural PASS. Through PDF 260 it has corrected residual contents/body transcription while leaving all letter boundaries and page mappings intact.
 
 ## Gate result
 

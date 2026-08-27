@@ -11,8 +11,8 @@
 
 10-99ந்தேதி திரும்பி வந்தோம்.” இவ்வாறு அவர் கூறியதாக
 அப்போது ஏடுகளிலே பரபரப்பாகச் செய்தி வந்தது. அப்படிப்பட்ட
-குற்றவாளி கிருஷ்ண மூர்த்தியுடன் பத்து நாட்கள் மலேசியா
-சென்று தங்கியிருந்து விட்டு வந்ததாக சொல்லப்பட்டவாதான்
+குற்றவாளி கிருஷ்ணமூர்த்தியுடன் பத்து நாட்கள் மலேசியா
+சென்று தங்கியிருந்து விட்டு வந்ததாக சொல்லப்பட்டவர்தான்
 நீதிபதி தங்கராஜ். அவர்தான் தற்போது தலைமைச் செயலகக்
 கட்டிடத்தைப் பற்றி விசாரிக்கப் போகிறார். நீதியரசர் மலேசியாவில்
 எடுத்துக்கொண்ட புகைப்படங்கள் எல்லாம்கூட அப்போதே
@@ -29,3 +29,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3571 ends on this page; closing/signature/date `30-6-2011` were verified directly from the scan.
+- Second-pass direct scan verification restored joined `கிருஷ்ணமூர்த்தியுடன்` and `சொல்லப்பட்டவர்தான்`.

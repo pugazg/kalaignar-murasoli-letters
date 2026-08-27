@@ -36,7 +36,7 @@
 அதன் உற்பத்தி 2013ஆம் ஆண்டு ஆகஸ்ட் திங்களில்
 தொடங்கும்.
 
-மேட்டூர் அனல் மின் நிலைய்த்தில் - 3 ஆயிரத்து 100 கோடி
+மேட்டூர் அனல் மின் நிலையத்தில் - 3 ஆயிரத்து 100 கோடி
 ரூபாய் மதிப்பீட்டில், 600 மெகாவாட் மின்சாரம் தயாரிக்கக் கூடிய
 ஒரு திட்டம் 2-5-2007இல் தொடங்கப்பட்டது; அதன் உற்பத்தி
 2011ஆம் ஆண்டு ஜூலைத் திங்கள் முதல் இயக்கத்திற்கு வரும்.
@@ -49,3 +49,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3569 begins on this page; title was verified directly from the scan.
+- Second-pass direct scan verification restored `மேட்டூர் அனல் மின் நிலையத்தில்`.

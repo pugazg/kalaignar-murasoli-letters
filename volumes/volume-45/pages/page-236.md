@@ -35,7 +35,7 @@
 முன் மொழிந்த இன்றைய முதல் அமைச்சர் ஜெயலலிதாவும்,
 அந்தத் தீர்மானத்தை ஆதரித்துப் பேசிய எதிர்க்கட்சியினரும்
 தேவையில்லாமல் “கருணாநிதி ஆட்சியில் இலங்கைக்குத் தாரை
-வார்க்கப்பட்ட” என்று ஆரம்பித்து, கச்சத் தீவினை நான்தான்
+வார்க்கப்பட்டது” என்று ஆரம்பித்து, கச்சத் தீவினை நான்தான்
 மத்திய அரசிடம் கூறி இலங்கைக்கு வழங்கும்படி கூறியதைப் போல
 எண்ணிக் கொண்டு என்மீது வசைமாரி பொழிந்திருக்கிறார்கள்.
 வேறு சிலர் தமிழகத்தின் அழிவுக்கே நான்தான் காரணம், காவிரிப்
@@ -46,3 +46,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3568 begins on this page; title was verified directly from the scan.
+- Second-pass direct scan verification restored the quoted source form `தாரை வார்க்கப்பட்டது`.

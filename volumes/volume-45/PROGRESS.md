@@ -20,11 +20,11 @@
 - Canonical page coverage completed: PDF 001–402 / 402
 - Full-volume Tamil structural audit: PASS
 - Second full-volume visual/textual-fidelity verification started
-- Second-pass verified: PDF 001–235
-- Scan-proven second-pass correction pages: PDF 002, 003, 008, 009, 010, 011, 012, 013, 016, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028, 030, 031, 033, 034, 035, 036, 038, 039, 040, 044, 045, 046, 048, 051, 052, 053, 054, 056, 062, 063, 064, 065, 067, 069, 071, 072, 073, 074, 075, 076, 077, 078, 081, 082, 083, 085, 086, 088, 089, 092, 095, 099, 100, 101, 104, 107, 108, 109, 112, 116, 117, 121, 127, 130, 131, 135, 138, 139, 145, 146, 147, 152, 153, 154, 168, 170, 171, 172, 173, 174, 175, 176, 177, 178, 180, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 198, 201, 202, 203, 204, 205, 206, 209, 210, 211, 212, 213, 215, 216, 217, 218, 219, 221, 222, 223, 224, 226, 227, 228, 229, 230, 231, 232, 233, 234 and 235
-- In the PDF 211–235 iteration, PDF 214, 220 and 225 passed direct scan comparison unchanged
-- PDF 211–235 scan-proven corrections were made on PDF 211–213, 215–219, 221–224 and 226–235
-- The PDF 211–235 iteration restored omitted prose on PDF 213, corrected residual OCR corruption throughout the batch, recovered the damaged Tamilselvan poem on PDF 229, preserved the source anomaly `011ஆம் ஆண்டு` on PDF 217 and the printed `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்` on PDF 233, and retained source-specific spacing and punctuation rather than normalizing them
+- Second-pass verified: PDF 001–260
+- Scan-proven second-pass correction pages: PDF 002, 003, 008, 009, 010, 011, 012, 013, 016, 018, 019, 020, 021, 022, 024, 025, 026, 027, 028, 030, 031, 033, 034, 035, 036, 038, 039, 040, 044, 045, 046, 048, 051, 052, 053, 054, 056, 062, 063, 064, 065, 067, 069, 071, 072, 073, 074, 075, 076, 077, 078, 081, 082, 083, 085, 086, 088, 089, 092, 095, 099, 100, 101, 104, 107, 108, 109, 112, 116, 117, 121, 127, 130, 131, 135, 138, 139, 145, 146, 147, 152, 153, 154, 168, 170, 171, 172, 173, 174, 175, 176, 177, 178, 180, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 198, 201, 202, 203, 204, 205, 206, 209, 210, 211, 212, 213, 215, 216, 217, 218, 219, 221, 222, 223, 224, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259 and 260
+- In the PDF 236–260 iteration, PDF 237 and 248 passed direct scan comparison unchanged
+- PDF 236–260 scan-proven corrections were made on PDF 236, 238–247 and 249–260
+- The PDF 236–260 iteration restored residual OCR corruption across the Katchatheevu, electricity, Omandurar complex and inquiry-commission passages; preserved source anomalies such as PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` and PDF 259 `16-10-1999ந்தேதி`; and kept scan-specific punctuation, spacing, English and physical page boundaries without normalization
 - PDF 071–072 physical page boundary repaired from the scan: the first-level municipality classification sentence now ends on PDF 071 exactly where the printed page ends and resumes on PDF 072
 - Second-pass contents re-verification withdrew false discrepancy records for Letters 3565, 3568, 3569, 3570, 3572, 3579, 3581 and 3586
 - Genuine source-context differences currently retained: Letter 3575 contents `...!` vs first-pass letter-start `....!`; Letter 3576 contents `பாரீர்!` vs first-pass letter-start `பார்!`
@@ -40,12 +40,12 @@ The user-approved routine second-pass iteration size is **25 consecutive PDF pag
 - Canonical PDF coverage: 402 / 402
 - Source letters: 55 / 55, Letters 3537–3591
 - Full-volume structural audit: PASS
-- Second visual/textual-fidelity audit: verified PDF 001–235 / 402
-- Second-pass corrections so far: 139 canonical page files / 347 correction spans
-- Exact next scan page: PDF 236 / printed page 235
-- Next routine second-pass iteration: PDF 236–260
+- Second visual/textual-fidelity audit: verified PDF 001–260 / 402
+- Second-pass corrections so far: 162 canonical page files / 420 correction spans
+- Exact next scan page: PDF 261 / printed page 260
+- Next routine second-pass iteration: PDF 261–285
 - English translation: blocked until second visual/textual-fidelity audit PASS
 
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity audit at **PDF 236 / printed page 235** and verify **PDF 236–260** as the next 25-page iteration. Record every page as PASS or corrected in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.
+Resume the second full-volume visual/textual-fidelity audit at **PDF 261 / printed page 260** and verify **PDF 261–285** as the next 25-page iteration. Record every page as PASS or corrected in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation until all 402 pages have passed this gate.

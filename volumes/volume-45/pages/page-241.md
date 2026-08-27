@@ -14,7 +14,6 @@
 அப்போது பிரதமராக இருந்த திரு. நரசிம்மராவ் அவர்களுக்கு ஒரு
 கடிதம் எழுதுகிறார். அதில் “The ceding of this tiny island to the Island
 Nation had been done by the Government of India in the interest of better
-
 bilateral relations” அதாவது, “தீவு நாடான இலங்கைக்கு, இந்தச்
 சின்னஞ்சிறிய தீவினை (கச்சத் தீவை) இந்திய அரசு பிரித்துக்
 கொடுத்தது, இந்தியாவிற்கும் இலங்கைக்கும் இடையிலே
@@ -54,3 +53,4 @@ bilateral relations” அதாவது, “தீவு நாடான இ�
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3568 ends on this page; closing/signature/date `15-6-2011` were verified directly from the scan.
+- Second-pass direct scan verification removed an extra paragraph break inside the printed English quotation so its line sequence follows the scan.

@@ -141,14 +141,46 @@ Direct scan comparison completed for printed pages 210–234.
 
 This iteration contains **22 corrected canonical page files / 63 correction spans** and **3 pages passing unchanged**.
 
+### PDF 236–260 — VERIFIED
+
+Direct scan comparison completed for printed pages 235–259.
+
+- **PDF 236 — CORRECTED, then PASS.** Restored the quoted source form `தாரை வார்க்கப்பட்டது`.
+- **PDF 237 — PASS.** Letter 3568 continuation, quotations and dates agree with the scan.
+- **PDF 238 — CORRECTED, then PASS.** Restored `நான்`, `பல நேரங்களில்`, `உறுப்பினர்கள்`, and `அவையில்`.
+- **PDF 239 — CORRECTED, then PASS.** Restored the second `இண்டர்நேஷனல்`, `எல்லாவற்றையும்`, and `22 பேர்`.
+- **PDF 240 — CORRECTED, then PASS.** Restored both `சேர்க்க` forms, `தேர்ந்தெடுக்கப்பட்ட`, `இல்லை`, and `நான்`.
+- **PDF 241 — CORRECTED, then PASS.** Removed an extra paragraph break inside the printed English quotation; Letter 3568 closing/date `15-6-2011` remain scan-verified.
+- **PDF 242 — CORRECTED, then PASS.** Restored `மேட்டூர் அனல் மின் நிலையத்தில்`.
+- **PDF 243 — CORRECTED, then PASS.** Restored `பி.எச்.ஈ.எல்.`, `பொதுத்துறை சர்க்கரை ஆலைகளிலிருந்து`, `2013-2014இல்`, and `பல்வேறு`.
+- **PDF 244 — CORRECTED, then PASS.** Restored `புரிந்துணர்வு`, `அன்றும்`, `டயர்ஸ்`, and `தொழில் நிறுவனம்`.
+- **PDF 245 — CORRECTED, then PASS.** Restored `தொடங்கப்பட்டிருக்கும்`, `காற்றாலைகள்`, removed a stray OCR glyph, and restored `அனல் மின் நிலையங்கள்`.
+- **PDF 246 — CORRECTED, then PASS.** Restored `ஆட்சிக் காலத்தில்`, `ரூபாய்`, and `செப்டம்பர்`.
+- **PDF 247 — CORRECTED, then PASS.** Restored `பின்னர்`, the source dash before `ஆந்திராவில்`, `கர்நாடக மாநிலத்தில்`, both `28 மில்லியன்` readings, `ஒன்றுக்கு`, `20 மில்லியன்`, and `மின் தடை`.
+- **PDF 248 — PASS.** Letter 3569 conclusion, source wording including `என்னருந் தமிழ் மக்களுக்குக்`, and closing/date `18-6-2011` agree with the scan.
+- **PDF 249 — CORRECTED, then PASS.** Restored `மலர்ந்திடவும்`, `சேர்ந்தவர்களாக`, and `அவர்தம்`.
+- **PDF 250 — CORRECTED, then PASS.** Restored `வளர்ச்சித் துறை`, `அழகு சேர்க்கப்பட்டது`, and `ஓமந்தூரார்`.
+- **PDF 251 — CORRECTED, then PASS.** Restored `பார்வையோடு` and both corrupted `கல்லூரி` readings.
+- **PDF 252 — CORRECTED, then PASS.** Removed a stray running-header OCR line and restored `என்றெல்லாம்`, `நாமக்கல் கவிஞர்`, `காழ்ப்புணர்ச்சியாலும்`, and `திரிபுரா ஆளுநர்`.
+- **PDF 253 — CORRECTED, then PASS.** Restored `சுர்ஜித்சிங் பர்னாலா` and `சட்டமன்ற`.
+- **PDF 254 — CORRECTED, then PASS.** Restored both `இல்லம்` readings, `நான்`, and `விரிசல் உள்ள`.
+- **PDF 255 — CORRECTED, then PASS.** Restored `தனி மனிதர்` and `நிர்வாகச்`; Letter 3570 closing/date `19-6-2011` remain scan-verified.
+- **PDF 256 — CORRECTED, then PASS.** Restored `தலைமைச்`, `செயற்கையாகக்`, `பயன்படுத்தாமல்`, `தரத்தில்`, and `தேவையில்லாத` readings.
+- **PDF 257 — CORRECTED, then PASS.** Restored `ஜூன் மாதம்`.
+- **PDF 258 — CORRECTED, then PASS.** Restored `முறையில்` and `வார இதழ்`.
+- **PDF 259 — CORRECTED, then PASS.** Restored `சேர்ந்த`, `இதை அறிந்த`, and joined `கிருஷ்ணமூர்த்தியை`; the printed `16-10-1999ந்தேதி` remains preserved.
+- **PDF 260 — CORRECTED, then PASS.** Restored joined `கிருஷ்ணமூர்த்தியுடன்` and `சொல்லப்பட்டவர்தான்`; Letter 3571 closing/date `30-6-2011` remain scan-verified.
+
+This iteration contains **23 corrected canonical page files / 73 correction spans** and **2 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–235 / 402**
-- Scan-proven correction pages in this pass: **139 canonical page files / 347 correction spans**
+- Verified in this second pass: **PDF 001–260 / 402**
+- Scan-proven correction pages in this pass: **162 canonical page files / 420 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 236 / printed page 235** and verify **PDF 236–260** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 261 / printed page 260** and verify **PDF 261–285** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

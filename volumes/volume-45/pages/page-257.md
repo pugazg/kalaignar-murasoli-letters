@@ -29,7 +29,7 @@
 தமிழக அரசின் தொழில் துறைக்குச் சொந்தமான தமிழ்நாடு
 சிறு தொழில்கள் கழகத்திற்கு அதாவது டான்சி நிறுவனத்திற்கு
 உரிய வார்ப்படத் தொழிற்சாலை ஒன்று 1985ஆம் ஆண்டு
-மூடப்பட்டது. 1991ஆம் ஆண்டு ஜின் மாதம் தமிழக முதலமைச்
+மூடப்பட்டது. 1991ஆம் ஆண்டு ஜூன் மாதம் தமிழக முதலமைச்
 சரான ஜெயலலிதா, தொழில் துறையையும் தன் பொறுப்பில்
 வைத்துக் கொண்டார். 1991ஆம் ஆண்டு நவம்பர் மாதம் முதல்
 அமைச்சராக இருந்த ஜெயலலிதாவும், அவரது உடன்பிறவாச்
@@ -48,3 +48,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `ஜூன் மாதம்`.
