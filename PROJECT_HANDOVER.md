@@ -43,16 +43,16 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–360 verified**
-- Second-pass corrections so far: **218 canonical page files / 592 correction spans**
-- User-approved routine second-pass iteration size: **25 consecutive PDF pages**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–385 verified**
+- Second-pass corrections so far: **227 canonical page files / 605 correction spans**
+- User-approved routine second-pass iteration size: **25 consecutive PDF pages**; only the final **PDF 386–402** end-of-volume iteration remains
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-The latest completed 25-page iteration is **PDF 336–360 / printed pages 335–359**. PDF 336–344, 348–350, 354–355 and 357–360 passed unchanged. Scan-proven corrections were made on PDF 345–347, 351–353 and 356. This iteration contains **7 corrected page files / 16 correction spans**.
+The latest completed 25-page iteration is **PDF 361–385 / printed pages 360–384**. PDF 361–364, 366–376 and 385 passed unchanged. Scan-proven corrections were made on PDF 365 and 377–384. This iteration contains **9 corrected page files / 13 correction spans**.
 
-Important corrections include restoration of the missing opening quotation mark in the Tamil rendering on PDF 345; `உச்ச நீதிமன்றத்தில்` on PDF 346; `நான் தமிழக`, `நீதிமன்றத்தால்` and `திரைப்பட இயக்குநர்கள்` on PDF 347; the source paragraph break before `காலங் கடத்தாமல்` on PDF 351; restoration on PDF 352 of an omitted quoted-speech sentence, source `படும்பாடு` forms and nested single quotations; four residual spacing/punctuation/word repairs on PDF 353; and restoration on PDF 356 of nested single-quotation marks around `தனி ஆண்டு` / `தமிழ் ஆண்டு` plus removal of a spurious OCR bar.
+Important corrections include restoration of `சந்தித்தபோது` on PDF 365; systematic removal of spurious zero-width OCR characters from PDF 377–384; restoration of `அதன் மூலமாக`, `கல்வியிலேயே` and `தன்மையோடு` on PDF 377; and source spacing `பாரா முகத்தால்` on PDF 382. The zero-width-character cleanup removes OCR contamination only and does not normalize or modernize source language.
 
 Direct scan verification at PDF 284 resolved the earlier Letter 3576 contents/start-title discrepancy in favor of `பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` versus letter-start `அந்த நாள் முதல் இந்த நாள் வரையில்....!`.
 
@@ -62,7 +62,7 @@ The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume at **PDF 361 / printed page 360** and verify **PDF 361–385** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume at **PDF 386 / printed page 385** and verify the final **PDF 386–402** end-of-volume iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -127,7 +127,7 @@ For a new attached volume:
 - Update contents, chapter records/index, metadata, progress, audit and README with each completed iteration.
 - Chapter records link to canonical pages and do not duplicate the full Tamil body.
 
-**Volume 45 second-pass override:** the user explicitly approved **25 consecutive PDF pages per visual/textual-fidelity iteration**. This override applies to the current Volume 45 second pass only and does not replace the normal new-volume transcription batching policy.
+**Volume 45 second-pass override:** the user explicitly approved **25 consecutive PDF pages per visual/textual-fidelity iteration**. This override applies to the current Volume 45 second pass only and does not replace the normal new-volume transcription batching policy. The final end-of-volume iteration is the remaining **17 pages, PDF 386–402**.
 
 ---
 
@@ -183,4 +183,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 360**. Resume at **PDF 361 / printed page 360** with the **PDF 361–385** iteration unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 385**. Resume at **PDF 386 / printed page 385** with the final **PDF 386–402** end-of-volume iteration unless a later committed repository update moves that boundary.

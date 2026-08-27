@@ -203,14 +203,46 @@ Direct scan comparison completed for printed pages 335–359.
 
 This iteration contains **7 corrected canonical page files / 16 correction spans** and **18 pages passing unchanged**.
 
+### PDF 361–385 — VERIFIED
+
+Direct scan comparison completed for printed pages 360–384.
+
+- **PDF 361 — PASS.** The sports-development continuation agrees with the scan.
+- **PDF 362 — PASS.** The sports-infrastructure continuation agrees with the scan.
+- **PDF 363 — PASS.** The sports-facility / World Cup award continuation agrees with the scan.
+- **PDF 364 — PASS.** Letter 3585 conclusion, closing/signature and `10-9-2011` date agree with the scan.
+- **PDF 365 — CORRECTED, then PASS.** Restored scan-printed `சந்தித்தபோது`.
+- **PDF 366 — PASS.** The quoted `நெஞ்சுக்கு நீதி` passage agrees with the scan.
+- **PDF 367 — PASS.** The Rajiv Gandhi / Eelam-war continuation agrees with the scan.
+- **PDF 368 — PASS.** The Nalini / death-sentence discussion agrees with the scan.
+- **PDF 369 — PASS.** Letter 3586 conclusion, closing/signature and `12-9-2011` date agree with the scan.
+- **PDF 370 — PASS.** Letter 3587 title/opening and Thirumazhisai satellite-town discussion agree with the scan.
+- **PDF 371 — PASS.** The policy-note quotation and 2006 satellite-town announcement agree with the scan.
+- **PDF 372 — PASS.** The 2006 announcement conclusion and Jayalalithaa quotation agree with the scan.
+- **PDF 373 — PASS.** The Jayalalithaa quotation and 2-9-2006 response agree with the scan.
+- **PDF 374 — PASS.** The `தமிழ் ஓசை` / `தீக்கதிர்` discussion agrees with the scan.
+- **PDF 375 — PASS.** The Thirumazhisai land figures and 2006 government note agree with the scan.
+- **PDF 376 — PASS.** Letter 3587 conclusion, closing/signature and `13-9-2011` date agree with the scan.
+- **PDF 377 — CORRECTED, then PASS.** Removed spurious zero-width OCR characters and restored `அதன் மூலமாக`, `கல்வியிலேயே`, and `தன்மையோடு`.
+- **PDF 378 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 379 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 380 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 381 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 382 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters and restored source spacing `பாரா முகத்தால்`; Letter 3588 closing/date `14-9-2011` remain scan-verified.
+- **PDF 383 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; Letter 3589 title/opening otherwise agree with the scan.
+- **PDF 384 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 385 — PASS.** The manually transcribed Letter 3589 continuation agrees with the scan.
+
+This iteration contains **9 corrected canonical page files / 13 correction spans** and **16 pages passing unchanged**. The zero-width-character cleanup is scan-proven removal of OCR contamination and is not a modernization or normalization of source language.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–360 / 402**
-- Scan-proven correction pages in this pass: **218 canonical page files / 592 correction spans**
+- Verified in this second pass: **PDF 001–385 / 402**
+- Scan-proven correction pages in this pass: **227 canonical page files / 605 correction spans**
 - Current result: **IN PROGRESS**
-- User-approved routine iteration size: **25 consecutive PDF pages**
+- User-approved routine iteration size: **25 consecutive PDF pages**; final end-of-volume iteration is the remaining **17 pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 361 / printed page 360** and verify **PDF 361–385** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 386 / printed page 385** and verify the final **PDF 386–402** end-of-volume iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
