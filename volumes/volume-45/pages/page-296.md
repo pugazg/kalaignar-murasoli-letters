@@ -25,9 +25,9 @@
 வியாசர்பாடியில் ரேஷன் அரிசியைக் கடத்த முயன்ற இரண்டு
 ஊழியர்கள் கைது.
 
-திருவொற்றியூரில் பட்டதாரி பெண் மாம சாவு.
+திருவொற்றியூரில் பட்டதாரி பெண் மர்ம சாவு.
 
-பொன்னேரி சிறையில் இருந்து விசாரணைக்காக அழைத்துச
+பொன்னேரி சிறையில் இருந்து விசாரணைக்காக அழைத்துச்
 செல்லப்பட்ட கைதி தப்பியோட்டம்
 
 செய்யூர் அருகே கழுத்தை அறுத்து பெண் கொலை.
@@ -61,3 +61,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `மர்ம சாவு` and `அழைத்துச் செல்லப்பட்ட`.

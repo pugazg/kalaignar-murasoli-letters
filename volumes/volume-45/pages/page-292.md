@@ -52,10 +52,11 @@
 பழவந்தாங்கலில் பட்டப் பகலில் பயங்கரம் - ஓட ஓட விரட்டி
 ரவுடி படுகொலை. (தமிழ் முரசு)
 
-சைதாப்பேட்டையில் தீக்குளித்த பெண, குழந்தையுடன்
+சைதாப்பேட்டையில் தீக்குளித்த பெண், குழந்தையுடன்
 பலி. (தமிழ் முரசு)
 
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `பெண்` in the final item.

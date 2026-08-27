@@ -26,12 +26,12 @@
 
 கொருக்குப்பேட்டையில் போலீஸ்காரரைத் தாக்கி 2 பேர்
 கைது.சென்னையில் பட்டப் பகலில் வங்கி பெண் அதிகாரி
-படுகொலை நகைகளுடன் மாம ஆசாமி ஓட்டம்.
+படுகொலை நகைகளுடன் மர்ம ஆசாமி ஓட்டம்.
 
 திருவொற்றியூரில் பட்டப் பகலில் 50 சவரன் நகை, பணம்
 கொள்ளை.
 
-கடலரா பா.ம.க. பிரமுகர் வெட்டிக் கொலை.
+கடலூர் பா.ம.க. பிரமுகர் வெட்டிக் கொலை.
 பட்டினப்பாக்கத்தில் தொழில் அதிபர் வீட்டில் 12 லட்சம்
 தங்க, வைர நகை கொள்ளை.
 
@@ -61,3 +61,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `மர்ம ஆசாமி` and `கடலூர்`.

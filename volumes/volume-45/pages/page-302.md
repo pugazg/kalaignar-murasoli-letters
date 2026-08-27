@@ -13,7 +13,7 @@
 ரூபாய் மோசடி.
 
 எம்.ஜி.ஆர். நகரில் மனைவி உயிரோடு எரித்துக் கொலை.
-சென்னையில் வழிப்பறி கொள்ளையர்கள் 3 போ கைது.
+சென்னையில் வழிப்பறி கொள்ளையர்கள் 3 பேர் கைது.
 
 திருத்துறைப்பூண்டியில் டாக்டர் வீட்டில் 220 பவுன்
 கொள்ளை.
@@ -59,3 +59,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `3 பேர் கைது`.

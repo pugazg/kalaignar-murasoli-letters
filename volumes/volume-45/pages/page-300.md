@@ -35,7 +35,7 @@
 நகையை பறி கொடுத்தார்.
 
 கடற்கரையில் காதல் ஜோடிகளிடம் நகை பறிக்கும்
-வாலிபாகள்.
+வாலிபர்கள்.
 
 தண்டையார்பேட்டையில் மின் பெட்டிக்குள் வாலிபர் சடலம்.
 
@@ -55,9 +55,10 @@
 வங்கி அதிகாரி வீட்டில் புகுந்து மூதாட்டியைக் கட்டிப் போட்டு
 நகை, பணம் கொள்ளை.
 
-சென்னை புறநகரில் வழிப்பறி திருடாகள் 3 பேர் பிடிபட்டனர்.
+சென்னை புறநகரில் வழிப்பறி திருடர்கள் 3 பேர் பிடிபட்டனர்.
 
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `வாலிபர்கள்` and `திருடர்கள்`.

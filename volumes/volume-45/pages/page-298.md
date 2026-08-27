@@ -28,7 +28,7 @@
 பிறந்து 6 நாளே ஆன ஆண் குழந்தை தண்ணீரில் மூழ்கடித்து
 கொடூரக் கொலை.
 
-திண்டிவனத்தில் லாரி மீது கார் மோதி சென்னை பேராசிரியா
+திண்டிவனத்தில் லாரி மீது கார் மோதி சென்னை பேராசிரியர்
 பலி.
 
 தருமபுரி பகுதியில் ஒரே மாதத்தில் 15க்கும் மேற்பட்ட
@@ -41,7 +41,7 @@
 சென்னையில் ஒன்றரை வயது ஆண் குழந்தை கடத்தல் - 50
 ஆயிரம் ரூபாய்க்கு விற்பனை.
 
-சென்னையில் குழந்தையைக் கடத்தி விறபனை.
+சென்னையில் குழந்தையைக் கடத்தி விற்பனை.
 மூதாட்டியிடம் நகை வழிப்பறி
 
 பெண்ணை மிரட்டி நான்கரை லட்சம்ரூபாய் நகை கொள்ளை.
@@ -49,7 +49,11 @@
 
 வேளச்சேரி, ராம்நகரில் 27 சவரன் நகை பறிப்பு.
 
+அதிமுக பிரமுகர் காரில் வைத்திருந்த ஐந்து லட்சம் ரூபாய்
+அபேஸ்.
+
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `பேராசிரியர்`, `விற்பனை`, and the source line omitted at the bottom of the initial draft.

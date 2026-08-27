@@ -14,7 +14,7 @@
 
 அண்ணா நகரில் இளம் வக்கீல் கடத்திக் கொலையா?
 
-5 லட்சம் ரூபாய் கேட்டு சென்னை மாணவி கா்நாடகத்துக்குக்
+5 லட்சம் ரூபாய் கேட்டு சென்னை மாணவி கர்நாடகத்துக்குக்
 கடத்தல்
 
 30 லட்சம் ரூபாய் மதிப்புள்ள அலுமினிய கட்டியுடன் லாரி
@@ -59,3 +59,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `கர்நாடகத்துக்குக்`.

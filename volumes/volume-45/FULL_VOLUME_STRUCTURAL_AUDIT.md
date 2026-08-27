@@ -37,7 +37,7 @@ No outside edition or web text was used to normalize the source.
 - `contents/index.md` accounts for all **55** source records, 3537–3591, in scan order.
 - Contents wording remains a source-context record and is not silently rewritten to match actual letter-start headings.
 - The second visual/textual-fidelity pass through PDF 022 withdrew the earlier contents/heading discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586.
-- Direct scan verification of the Letter 3576 start on PDF 284 resolves the earlier discrepancy in favor of `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`, matching the contents wording.
+- Direct scan verification of the Letter 3576 start on PDF 284 resolved the earlier discrepancy in favor of `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`, matching the contents wording.
 - The genuine source-context difference that remains is Letter 3575 contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` versus letter-start `....!`.
 - The final four contents entries map to the verified boundaries 377–382, 383–390, 391–396 and 397–401 respectively.
 
@@ -52,7 +52,7 @@ No outside edition or web text was used to normalize the source.
 
 The canonical source structure did not require a letter-boundary or page-range correction. The audit synchronized the durable status documents from the previous 3587 boundary to the completed Volume 45 state: **402 canonical pages / 55 complete source records / 3537–3591**.
 
-The later second visual/textual-fidelity gate may correct page text or contents wording without changing this structural PASS. Through PDF 285 it has corrected residual contents/body transcription while leaving all letter boundaries and page mappings intact.
+The later second visual/textual-fidelity gate may correct page text or contents wording without changing this structural PASS. Through PDF 310 it has corrected residual contents/body transcription while leaving all letter boundaries and page mappings intact.
 
 ## Gate result
 

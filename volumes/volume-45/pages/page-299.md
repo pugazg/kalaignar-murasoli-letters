@@ -44,10 +44,10 @@
 
 நாச்சியார் கோவிலில் பட்ட பகலில் நகை கொள்ளை.
 
-கிருஷணகிரியில் வாகன தணிக்கையின் போது லாரி மோதி
+கிருஷ்ணகிரியில் வாகன தணிக்கையின் போது லாரி மோதி
 எஸ்.ஐ. பலி.
 
-சேலம் அருகே கழுத்தை நெரித்து தநதை படுகொலை.
+சேலம் அருகே கழுத்தை நெரித்து தந்தை படுகொலை.
 
 திருவண்ணாமலையில் மனைவி எரித்துக் கொலை
 
@@ -55,3 +55,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `கிருஷ்ணகிரியில்` and `தந்தை`.

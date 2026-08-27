@@ -107,14 +107,46 @@ Direct scan comparison completed for printed pages 260–284.
 
 This iteration contains **19 corrected canonical page files / 74 correction spans** and **6 pages passing unchanged**.
 
+### PDF 286–310 — VERIFIED
+
+Direct scan comparison completed for printed pages 285–309.
+
+- **PDF 286 — CORRECTED, then PASS.** Residual scan-proven OCR/text differences in the Letter 3576 continuation were repaired.
+- **PDF 287 — CORRECTED, then PASS.** Residual name/word corruption in the Hillary Clinton / Sri Lanka passage was repaired from the scan.
+- **PDF 288 — CORRECTED, then PASS.** Residual OCR corruption in the UN-award discussion was repaired from the scan.
+- **PDF 289 — CORRECTED, then PASS.** Residual OCR corruption in the Letter 3576 conclusion was repaired; closing/signature/date remain source-faithful.
+- **PDF 290 — CORRECTED, then PASS.** Scan-proven OCR errors in the opening crime-list items were repaired; the unusual printed `18-5-2001` date remains preserved exactly.
+- **PDF 291 — CORRECTED, then PASS.** Restored the omitted `சென்னையில் திரையரங்கு உரிமையாளர்` text and repaired scan-visible date/word corruption.
+- **PDF 292 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 293 — CORRECTED, then PASS.** Restored omitted physical-page text and repaired scan-visible OCR corruption.
+- **PDF 294 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 295 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 296 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 297 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 298 — CORRECTED, then PASS.** Restored omitted physical-page text and repaired scan-visible OCR corruption.
+- **PDF 299 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 300 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 301 — PASS.** Direct comparison found no canonical correction required.
+- **PDF 302 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 303 — CORRECTED, then PASS.** Scan-proven OCR/word corruption in the crime-list sequence was repaired.
+- **PDF 304 — PASS.** Direct comparison found no canonical correction required.
+- **PDF 305 — PASS.** Letter 3577 conclusion and closing/signature/date agree with the scan.
+- **PDF 306 — PASS.** Letter 3578 title/opening and body agree with the scan.
+- **PDF 307 — CORRECTED, then PASS.** Residual word/spacing corruption in the housing-board discussion was repaired from the scan.
+- **PDF 308 — CORRECTED, then PASS.** Restored scan-visible bullet/list forms, word forms and figures in the housing-allotment material.
+- **PDF 309 — CORRECTED, then PASS.** Restored scan-visible bullet/list forms, names and figures in the housing-allotment material.
+- **PDF 310 — CORRECTED, then PASS.** Restored scan-visible bullet/list forms, names, figures and residual word corruption in the housing-allotment continuation.
+
+This iteration contains **21 corrected canonical page files / 67 correction spans** and **4 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–285 / 402**
-- Scan-proven correction pages in this pass: **181 canonical page files / 494 correction spans**
+- Verified in this second pass: **PDF 001–310 / 402**
+- Scan-proven correction pages in this pass: **202 canonical page files / 561 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 286 / printed page 285** and verify **PDF 286–310** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 311 / printed page 310** and verify **PDF 311–335** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

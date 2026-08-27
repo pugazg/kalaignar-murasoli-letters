@@ -15,7 +15,7 @@
 மதுரையில் பட்டப் பகலில் பெண் கழுத்து நெரித்து கொலை;
 
 தங்க நகைகள் கொள்ளை.
-ரேஷன் அரிசி கடத்தல் - 523 போ கைது.
+ரேஷன் அரிசி கடத்தல் - 523 பேர் கைது.
 
 லாரி டிரைவரை கொலை செய்து ரயில்வே டிராக்கில் வீசிய
 கொடூரம்.
@@ -56,3 +56,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `523 பேர் கைது`.
