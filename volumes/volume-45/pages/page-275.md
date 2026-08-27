@@ -23,7 +23,7 @@
 உதாரணமாக காஞ்சி சங்கராச்சாரியார்கள் எந்தக் கட்சியையும்
 சேராதவர்கள். அவர்களே நீதி மன்றத்தில் “தங்கள் மீது அ.தி.மு.க.
 ஆட்சியினரால் 2004ஆம் ஆண்டு போடப்பட்ட பொய் வழக்கு”
-என்று சில நாட்களுக்கு முன்னால் தெரிவித்திருக்கிறாரகள் . அந்த
+என்று சில நாட்களுக்கு முன்னால் தெரிவித்திருக்கிறார்கள். அந்த
 வழக்கு கூட - செங்கற்பட்டு நீதி மன்றத்திலே விசாரணையை
 நடத்துவதற்குப் பதிலாக பாண்டிச்சேரி நீதிமன்றத்திலே
 நடத்தப்பட வேண்டுமென்று உச்சநீதிமன்றமே மாற்றியதாகும்.
@@ -47,4 +47,5 @@ Taking into consideration the entire facts and circumstances of
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
-- Letter 3575 begins on this page; title was verified directly from the scan.
+- Letter 3575 begins on this page; title was verified directly from the scan; its four-dot letter-start form remains distinct from the contents-context `...!` form.
+- Second-pass direct scan verification restored `தெரிவித்திருக்கிறார்கள்.`.

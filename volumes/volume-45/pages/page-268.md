@@ -22,7 +22,6 @@
 இதுதான் இன்றைய தமிழ்நாட்டு நிலை.
 இந்த நிலை மாற்ற நெருப்பின் பொறிகளே!
 நீங்கள்தான் தேவையென்று திராவிட இன இளைஞர்களை
-
 அன்று தட்டி எழுப்பிய பெரியாரும், அண்ணாவும் இதோ ஒன்றாக
 ஓரணியில் நின்று உங்களை அழைக்கின்றார்கள்!
 அறப்போர் குறித்து ஆயிரம் சாதனைகளைப் படைத்த
@@ -41,3 +40,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3573 ends on this page; closing/signature/date `21-7-2011` were verified directly from the scan.
+- Second-pass direct scan verification repaired OCR-derived paragraph breaks inside two continuous printed sentences.

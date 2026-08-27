@@ -43,7 +43,7 @@
 சம உரிமை தரப்பட வேண்டும் - என்றெல்லாம் பேசப்படுகின்ற
 இந்தக் காலக் கட்டத்தில் கல்வியிலும் சமத்துவம் நிலைநாட்டப்
 பட வேண்டுமென்பதுதான் தி.மு. கழகத்தின், ஏன் தமிழகத்திலே
-உள்ள பெரும்பாலான கல்வியாளர்களின்
+உள்ள பெரும்பாலான கல்வியாளர்களின் நிலை. அதனை
 நடை முறைக்குக் கொண்டுவர வேண்டுமென்பதற்காகத்தான்,
 எடுத்த எடுப்பிலேயே தான்தோன்றித்தனமாக அதனை
 அறிவித்துவிடாமல், அதற்காக வல்லுநர்கள் குழு, கல்வியாளர்கள்
@@ -52,3 +52,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored the omitted source phrase `நிலை. அதனை`.

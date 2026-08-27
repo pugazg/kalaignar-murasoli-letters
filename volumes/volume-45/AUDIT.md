@@ -36,7 +36,8 @@ Status: corrected during second-pass direct scan re-verification.
 
 - Source three-column contents structure restored.
 - False contents/letter-start discrepancy records withdrawn for 3565, 3568–3570, 3572, 3579, 3581 and 3586.
-- Genuine source-context differences retained pending their later start-page checks: 3575 contents `...!` vs first-pass start `....!`; 3576 contents `பாரீர்!` vs first-pass start `பார்!`.
+- Direct scan verification at PDF 284 resolves Letter 3576 in favor of the source start-title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`.
+- Genuine source-context difference retained: Letter 3575 contents `...!` vs letter-start `....!`.
 
 ### Full-volume Tamil structural audit
 Status: **PASS**
@@ -50,7 +51,7 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–260 / 402**
+Status: **IN PROGRESS — verified PDF 001–285 / 402**
 
 - PDF 001–060: verified in earlier consecutive batches; cumulative checkpoint at PDF 060 was 37 corrected page files / 75 correction spans.
 - PDF 061–085: 18 corrected page files / 29 correction spans.
@@ -60,41 +61,39 @@ Status: **IN PROGRESS — verified PDF 001–260 / 402**
 - PDF 161–185: 15 corrected page files / 63 correction spans; 10 pages passed unchanged.
 - PDF 186–210: 19 corrected page files / 64 correction spans; 6 pages passed unchanged.
 - PDF 211–235: 22 corrected page files / 63 correction spans; 3 pages passed unchanged.
-- PDF 236–260: **23 corrected page files / 73 correction spans; 2 pages passed unchanged**.
-- PDF 237 and 248 passed the PDF 236–260 direct scan comparison unchanged.
-- PDF 236, 238–247 and 249–260 were corrected directly from the scan.
-- PDF 236 restores quoted `தாரை வார்க்கப்பட்டது`.
-- PDF 238 restores `நான்`, `பல நேரங்களில்`, `உறுப்பினர்கள்`, and `அவையில்`.
-- PDF 239 restores the second `இண்டர்நேஷனல்`, `எல்லாவற்றையும்`, and `22 பேர்`.
-- PDF 240 restores both `சேர்க்க` forms, `தேர்ந்தெடுக்கப்பட்ட`, `இல்லை`, and `நான்`.
-- PDF 241 removes an extra paragraph break inside the printed English quotation.
-- PDF 242 restores `மேட்டூர் அனல் மின் நிலையத்தில்`.
-- PDF 243 restores `பி.எச்.ஈ.எல்.`, `பொதுத்துறை சர்க்கரை ஆலைகளிலிருந்து`, `2013-2014இல்`, and `பல்வேறு`.
-- PDF 244 restores `புரிந்துணர்வு`, `அன்றும்`, `டயர்ஸ்`, and `தொழில் நிறுவனம்`.
-- PDF 245 restores `தொடங்கப்பட்டிருக்கும்`, `காற்றாலைகள்`, removes a stray OCR glyph, and restores `அனல் மின் நிலையங்கள்`.
-- PDF 246 restores `ஆட்சிக் காலத்தில்`, `ரூபாய்`, and `செப்டம்பர்`.
-- PDF 247 restores `பின்னர்`, source dash punctuation, `கர்நாடக மாநிலத்தில்`, both `28 மில்லியன்` readings, `ஒன்றுக்கு`, `20 மில்லியன்`, and `மின் தடை`.
-- PDF 249 restores `மலர்ந்திடவும்`, `சேர்ந்தவர்களாக`, and `அவர்தம்`.
-- PDF 250 restores `வளர்ச்சித் துறை`, `அழகு சேர்க்கப்பட்டது`, and `ஓமந்தூரார்`.
-- PDF 251 restores `பார்வையோடு` and the corrupted `கல்லூரி` readings.
-- PDF 252 removes a stray running-header OCR line and restores `என்றெல்லாம்`, `நாமக்கல் கவிஞர்`, `காழ்ப்புணர்ச்சியாலும்`, and `திரிபுரா ஆளுநர்`.
-- PDF 253 restores `சுர்ஜித்சிங் பர்னாலா` and `சட்டமன்ற`.
-- PDF 254 restores both `இல்லம்` readings, `நான்`, and `விரிசல் உள்ள`.
-- PDF 255 restores `தனி மனிதர்` and `நிர்வாகச்`.
-- PDF 256 restores `தலைமைச்`, `செயற்கையாகக்`, `பயன்படுத்தாமல்`, `தரத்தில்`, and `தேவையில்லாத` readings.
-- PDF 257 restores `ஜூன் மாதம்`.
-- PDF 258 restores `முறையில்` and `வார இதழ்`.
-- PDF 259 restores `சேர்ந்த`, `இதை அறிந்த`, and joined `கிருஷ்ணமூர்த்தியை`; source `16-10-1999ந்தேதி` remains preserved.
-- PDF 260 restores joined `கிருஷ்ணமூர்த்தியுடன்` and `சொல்லப்பட்டவர்தான்`.
+- PDF 236–260: 23 corrected page files / 73 correction spans; 2 pages passed unchanged.
+- PDF 261–285: **19 corrected page files / 74 correction spans; 6 pages passed unchanged**.
+- PDF 270, 273, 274, 277, 281 and 283 passed the PDF 261–285 direct scan comparison unchanged.
+- PDF 261–269, 271–272, 275–276, 278–280, 282 and 284–285 were corrected directly from the scan.
+- PDF 261 restores `தோழர்`, `“அலர்ஜி”யோடுதான்`, `பொதுத் தேர்தலுக்கு`, `ஆனால்`, and removes a stray OCR residue after `உடன்பிறப்பே,`.
+- PDF 262 restores `பதில்`, `விமர்சனங்கள்`, and `கடன் சுமையை`.
+- PDF 263 restores `வரி உயர்வு` and `தோழர்கள்`.
+- PDF 264 restores `தெளிவு பெறலாம்`.
+- PDF 265 restores `கல்வி` and `ஆய்ந்து`.
+- PDF 266 repairs OCR-derived paragraph breaks inside continuous printed sentences.
+- PDF 267 restores two substantial omitted passages, including the source sequence after `சவுக்கடி`, the `மாகாளி` / `பத்திரகாளி` passage, and the physical page-end continuation through `நொறுங்கிப் போவது`.
+- PDF 268 repairs two OCR-derived paragraph breaks inside continuous printed sentences.
+- PDF 269 restores the complete printed paragraph describing the 8.9.2006 Dr. S. Muthukumaran committee, its report and the government's subsequent consideration.
+- PDF 271 restores the omitted source phrase `நிலை. அதனை`.
+- PDF 272 repairs an OCR-derived paragraph break inside the quoted judicial discussion.
+- PDF 275 restores `தெரிவித்திருக்கிறார்கள்.` while preserving the scan-verified four-dot letter-start title `....!`.
+- PDF 276 restores the printed English `xxxx”` ending and `செய்திகள்`, `வழக்கறிஞர்களுக்கும்`, `சான்றிதழுக்குச்`, `மறுப்பார்களா`, and `கையகப்படுத்துவது`.
+- PDF 278 restores `நடவடிக்கைகள்தானா?`, `அவர்களுடைய`, `எ.வ. வேலு`, `ஆளுநர்`, and both `கவர்னர்` readings.
+- PDF 279 restores `தாக்கப்பட்டவர்` and two substantial omitted passages: the Arcot Veerasamy / Thirupporur Parasuraman sequence and the Thamaraikani paragraph.
+- PDF 280 restores `நடவடிக்கையை`, `அவர்களைத்தான்`, and `நான்`.
+- PDF 282 restores `தொடர்ந்து`, `தொடர்ச்சியாகத்தான்`, `அவருடைய`, `தலைவர்`, `யார்`, `தெரியாமல்`, and `நகர்`.
+- PDF 284 restores the source title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`, resolves the earlier 3576 discrepancy, and repairs `ஓ. பன்னீர்செல்வம்`, `பொருளாதாரத் தடை`, `தமிழர்கள்`, `ஓய்வறியா`, `கே.ஏ. செங்கோட்டையன்`, `அமைச்சர்களே`, `நியூயார்க்கில்`, `அப்போதெல்லாம்`, and source question-mark spacing.
+- PDF 285 restores `டாக்டர்`, `தமிழர்களை யெல்லாம்`, `அவர்தான்`, `முதலமைச்சர்`, `எதிர்த்து`, and the omitted physical page-end text through `கோவை தமிழ்ச் செம்மொழி மாநாட்டுக்கு நியூயார்க் தமிழ்ச்`.
+- The preceding PDF 236–260 iteration restored Katchatheevu, electricity, Omandurar/head-secretariat and inquiry-commission/TANSI passages; PDF 237 and 248 passed unchanged.
 - Source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`.
 - Later library stamp/handwriting on PDF 102 remains excluded from edition text.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Cumulative second-pass correction pages: **162 canonical page files / 420 correction spans**.
+- Cumulative second-pass correction pages: **181 canonical page files / 494 correction spans**.
 - The routine second-pass iteration size is **25 consecutive PDF pages**, as explicitly approved by the user.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass page log.
 
 ## Next QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 261 / printed page 260** and process **PDF 261–285** as the next 25-page iteration.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 286 / printed page 285** and process **PDF 286–310** as the next 25-page iteration.
 
 English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.

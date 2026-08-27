@@ -29,7 +29,7 @@
 கோடியாக இருந்தது. இது 31-3-2011இல் ரூபாய் 1,01,541
 கோடியாக அதிகரிக்கும் என மதிப்பிடப்பட்டுள்ளது” என்று
 சொல்லப்பட்டிருப்பதை தா.பாண்டியன் இப்போதாவது எழுத்துக்
-கூட்டியாவது படித்துப் பார்த்து தெளிவ பெறலாம். எனவே 98
+கூட்டியாவது படித்துப் பார்த்து தெளிவு பெறலாம். எனவே 98
 ஆயிரம் கோடி கடன் இருப்பதாக தி.மு. கழக அரசில் யாரும்
 தவறாகக் கூறி விடவில்லை. 10-2-2011 அன்று இடைக்கால நிதி
 நிலை அறிக்கை மீதான விவாதத்திற்குப் பதில் கூறும்போது கூட,
@@ -51,3 +51,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored `தெளிவு பெறலாம்`.

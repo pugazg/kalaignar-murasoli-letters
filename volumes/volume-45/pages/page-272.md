@@ -29,7 +29,6 @@
 நிலையில், மேலும் பெரும் தொகையைச் செலவிடுவது
 அவசியம்தானா? இவை பற்றியெல்லாம் அட்வகேட் ஜெனரல்
 அரசுக்கு தக்க ஆலோசனைகளை வழங்க வேண்டும்” என்று
-
 தெரிவித்திருக்கிறார்கள்.
 
 இந்தத் தீர்ப்பை எதிர்த்து உச்சநீதிமன்றத்தில் தமிழக அரசு
@@ -51,3 +50,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification repaired an OCR-derived paragraph break inside the quoted judicial discussion.

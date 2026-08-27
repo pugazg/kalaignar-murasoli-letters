@@ -16,12 +16,10 @@
 என்று “மனோகரா” படத்தில் ஒரு உரையாடல் கேட்டிருப்பாய்!
 
 அதைத் தொடர்ந்து வருகின்ற வசந்த சேனையின்
-
 அட்டகாசங்களையும் பார்த்திருப்பாய்!
 
 எதுவுமே அறியாமல் அவள் மடிதான் தனக்குச் சொக்கலோக
 மெத்தை என்று கூறிக் கொண்டு சொக்கிக் கிடக்கும் புருஷோத்தம
-
 மன்னனையும் கண்டிருப்பாய்!
 
 இப்படி அந்தக் கதையில் வரும் பாத்திரங்கள் - மனோகரனாலும்
@@ -31,10 +29,8 @@
 
 இது நாடகத்தில் - திரைக் காவியத்தில் படமாக மட்டுமல்ல;
 பாடமாகவும் உன் நெஞ்சில் பதிய வைக்கப்பட்ட பம்மல்
-
 சம்பந்தனார் எழுதிய பழைய சரித்திரத்தின் ஒரு புதிய பொன்னேடு!
 அந்த ஏடு - இதோ மீண்டும் திரும்புகிறது என்பதற்கு
-
 அடையாளமாக தமிழகத்தில் “கள்ளி”யாகப் படர்ந்துள்ள
 புதிய அரசு - “பழைய கள், புதிய மொந்தை” என்ற பழமொழிக்கேற்ப, தன்னுடைய அராஜக ஆட்டத்தை இதோ மீண்டும்
 தொடர்ந்திருக்கின்றது.
@@ -48,3 +44,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3573 begins on this page; title was verified directly from the scan.
+- Second-pass direct scan verification repaired OCR-derived paragraph breaks inside continuous printed sentences.

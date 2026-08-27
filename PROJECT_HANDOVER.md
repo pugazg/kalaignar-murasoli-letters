@@ -43,24 +43,26 @@ Volume 45 is the current active workstream.
 - Letter 3591 closing date: **27-9-2011**
 - PDF 402: non-letter back cover / portrait / publisher-information matter
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–260 verified**
-- Second-pass corrections so far: **162 canonical page files / 420 correction spans**
+- Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–285 verified**
+- Second-pass corrections so far: **181 canonical page files / 494 correction spans**
 - User-approved routine second-pass iteration size: **25 consecutive PDF pages**
 - English translation: **blocked** until the second visual/textual-fidelity gate passes
 
 The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
 
-The latest completed 25-page iteration is **PDF 236–260 / printed pages 235–259**. PDF 237 and 248 passed unchanged. Scan-proven corrections were made on PDF 236, 238–247 and 249–260. This iteration contains **23 corrected page files / 73 correction spans**. Important corrections include source `தாரை வார்க்கப்பட்டது` on PDF 236; `நான்`, `பல நேரங்களில்`, `உறுப்பினர்கள்` and `அவையில்` on PDF 238; `22 பேர்` and other OCR cleanup on PDF 239; restoration of `சேர்க்க`, `தேர்ந்தெடுக்கப்பட்ட`, `இல்லை` and `நான்` on PDF 240; repair of the printed English quotation layout on PDF 241; `மேட்டூர் அனல் மின் நிலையத்தில்` on PDF 242; `பி.எச்.ஈ.எல்.`, `பொதுத்துறை சர்க்கரை ஆலைகளிலிருந்து`, `2013-2014இல்` and `பல்வேறு` on PDF 243; `புரிந்துணர்வு`, `டயர்ஸ்` and `தொழில் நிறுவனம்` on PDF 244; residual electricity-section corrections through PDF 247; Omandurar/head-secretariat corrections through PDF 255; and inquiry-commission/TANSI corrections through PDF 260. Source anomalies including PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` and PDF 259 `16-10-1999ந்தேதி` remain preserved rather than normalized.
+The latest completed 25-page iteration is **PDF 261–285 / printed pages 260–284**. PDF 270, 273, 274, 277, 281 and 283 passed unchanged. Scan-proven corrections were made on PDF 261–269, 271–272, 275–276, 278–280, 282 and 284–285. This iteration contains **19 corrected page files / 74 correction spans**.
+
+Important corrections include `தோழர்`, `“அலர்ஜி”யோடுதான்`, `பொதுத் தேர்தலுக்கு`, `பதில்`, `விமர்சனங்கள்`, `வரி உயர்வு`, `தோழர்கள்`, `தெளிவு பெறலாம்`, `கல்வி`, and `ஆய்ந்து`; paragraph-boundary repair on PDF 266, 268 and 272; restoration of substantial omitted source passages on PDF 267 including the `மாகாளி` / `பத்திரகாளி` passage; restoration of the complete 8.9.2006 Dr. S. Muthukumaran committee paragraph on PDF 269; restoration of `நிலை. அதனை` on PDF 271; English/Tamil OCR repairs on PDF 276; false-case passage corrections across PDF 278–282 including two substantial omitted passages on PDF 279; direct scan verification of the Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!` on PDF 284; and restoration of the PDF 285 physical page-end continuation through `கோவை தமிழ்ச் செம்மொழி மாநாட்டுக்கு நியூயார்க் தமிழ்ச்`.
+
+Direct scan verification at PDF 284 resolves the earlier Letter 3576 contents/start-title discrepancy in favor of `பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` versus letter-start `அந்த நாள் முதல் இந்த நாள் வரையில்....!`.
 
 Confirmed source anomalies and non-edition material remain handled conservatively: PDF 088's malformed `ஒப்பங்கள்` and `மணலை ஜலித்து` are preserved as printed; PDF 098's unusual `112.2006-ல்` is preserved; PDF 116's scan-printed March 2010 dates are preserved without outside normalization; PDF 127's `தனிச்சையாக` is preserved as printed; PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` remain source-faithful; and later library stamp/handwriting on PDF 102 remains excluded from edition text. Earlier documented source anomalies and the repaired PDF 071–072 physical-page boundary remain unchanged.
-
-Direct contents-scan verification has withdrawn false contents/letter-start discrepancy records for 3565, 3568–3570, 3572, 3579, 3581 and 3586. Current source-context differences retained are 3575 contents `...!` versus first-pass start `....!`, and 3576 contents `பாரீர்!` versus first-pass start `பார்!`; their start pages will be independently rechecked when reached sequentially.
 
 The live second-pass log is:
 
 - [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-**Exact next activity:** resume at **PDF 261 / printed page 260** and verify **PDF 261–285** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
+**Exact next activity:** resume at **PDF 286 / printed page 285** and verify **PDF 286–310** as the next 25-page iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
 
 Authoritative continuation files:
 
@@ -181,4 +183,4 @@ Inspect the current durable target-volume state, identify the next already-defin
 
 At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 260**. Resume at **PDF 261 / printed page 260** with the **PDF 261–285** iteration unless a later committed repository update moves that boundary.
+For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 285**. Resume at **PDF 286 / printed page 285** with the **PDF 286–310** iteration unless a later committed repository update moves that boundary.

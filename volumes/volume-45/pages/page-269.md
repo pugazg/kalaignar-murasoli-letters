@@ -31,8 +31,19 @@
 வந்தவுடன் சமச்சீர் கல்வித் திட்டத்தை தனது முதல் சட்டமன்றக்
 கூட்டத் தொடரிலேயே சட்டம் இயற்றி அறிவித்து விடவில்லை.
 
+சமச்சீர் கல்வித் திட்டம் பற்றி அரசுக்கு பரிந்துரைகளைத்
+தருவதற்காக 8.9.2006 அன்று பாரதிதாசன் பல்கலைக்கழக
+முன்னாள் துணைவேந்தர் முனைவர் எஸ். முத்துக்குமரன் அவர்கள்
+தலைமையில் கல்வியாளர்களைக் கொண்ட ஒரு குழுவினை
+தமிழக அரசு அமைத்தது. அந்தக் குழு இதைப் பற்றி நன்கு
+ஆய்வு செய்து தனது ஆய்வறிக்கையை அரசின் பரிசீலனைக்காக
+அளித்தது. அவ்வாறு அந்தக் குழு பரிந்துரைகளை அளித்தவுடன்
+தமிழக அரசு அப்படியே அவற்றை ஏற்றுக் கொண்டு சமச்சீர்
+கல்வித் திட்டத்திற்காக சட்டம் கொண்டு வந்து விடவில்லை.
+
 ## Archival notes
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3574 begins on this page; title was verified directly from the scan.
+- Second-pass direct scan verification restored the complete printed paragraph describing the 8.9.2006 Dr. S. Muthukumaran committee and its report.

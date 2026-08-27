@@ -15,8 +15,8 @@
 நடவடிக்கைகளும் திருப்திகரமாக இருக்கின்றனவா?” என்று
 கேட்டிருக்கிறார்கள். தி.மு. கழக ஆட்சியில் பல குழுக்களை
 நியமித்து, பல மாநிலங்களுக்குச் சென்று அங்கெல்லாம் சமச்சீர்
-கலவி எவ்வாறு நடைமுறைப்படுத்தப்படுகிறது என்றெல்லாம்
-ஆயந்து; மூன்றாண்டுகள் பல்வேறு கட்டக் கலந்தாலோசனைகள்
+கல்வி எவ்வாறு நடைமுறைப்படுத்தப்படுகிறது என்றெல்லாம்
+ஆய்ந்து; மூன்றாண்டுகள் பல்வேறு கட்டக் கலந்தாலோசனைகள்
 முடிந்து; அதன் பிறகும் அவசரம் காட்டாமல் படிப்படியாக
 நடைமுறைப்படுத்தலாம் என்று முதல் ஆண்டில் 2 வகுப்பு
 களுக்கு மட்டுமே சமச்சீர் கல்வி கொண்டு வரப்பட்டது. ஆனால்
@@ -46,3 +46,4 @@
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
 - Letter 3572 ends on this page; closing/signature/date `19-7-2011` were verified directly from the scan.
+- Second-pass direct scan verification restored `கல்வி` and `ஆய்ந்து`.
