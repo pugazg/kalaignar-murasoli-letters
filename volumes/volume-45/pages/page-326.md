@@ -17,8 +17,8 @@
 பின்வரும் விரும்பத்தகாத விளைவுகளை ஏற்படுத்தி விடும்.
 
 • நிலம் தொடர்பான பெரும்பாலான பிரச்சினைகள்
-“சிவில் தாவா” சம்பந்தப்பட்டதால்; அவற்றில்
-தொடர்ந்து ஆர்வம் காட்டும் மனோபாவம் காவல்
+“சிவில் தாவா” சம்பந்தப் பட்டதால்; அவற்றில்
+தொடர்ந்து ஆர்வம் காட்டும் மனோ பாவம் காவல்
 துறையில் வளர்ந்துவிடும்.
 
 • அதன் காரணமாக “கட்டப்பஞ்சாயத்துகள்”
@@ -55,3 +55,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source spacing `சம்பந்தப் பட்டதால்` and `மனோ பாவம்`.

@@ -29,7 +29,7 @@
 உதாரணத்திற்குச் சொல்ல வேண்டுமென்றால், மத்திய
 அரசின் திட்டங்களான தேசிய வேளாண் வளர்ச்சித் திட்டம்,
 தேசிய தோட்டக்கலை இயக்கம், தேசிய மீன் வளர்ச்சிக் கழக
-நிதித் திட்டம், ஜவகர்லால் நேரு தேசிய நகர்ப்புற புனரமைப்புத்
+நிதித் திட்டம், ஜவகர்லால் நேரு தேசிய நகர்ப்புறப் புனரமைப்புத்
 திட்டம், ராஜீவ் வீட்டு வசதித் திட்டம், அனைவருக்கும் கல்வித்
 திட்டம், தேசிய இடைநிலைக் கல்வித் திட்டம், தேசிய ஊரக
 சுகாதார நலத் திட்டம், சொர்ண ஜெயந்தி வேலை வாய்ப்புத்
@@ -52,3 +52,4 @@
 
 - Text is transcribed directly from the controlling scan after OCR returned no usable body text.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source `தேசிய நகர்ப்புறப் புனரமைப்புத் திட்டம்`.

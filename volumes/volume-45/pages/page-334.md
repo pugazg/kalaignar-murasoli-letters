@@ -12,7 +12,7 @@
 தரமான சிகிச்சை பெற்று வருகின்றனர்” என்பதை ஸ்டிக்கர் ஒட்டி
 மறைக்கவேண்டுமாம்!
 
-பக்கம் 12 இல் மூன்றாவது வரியில் உள்ள “அனைத்துக்
+பக்கம் 12இல் மூன்றாவது வரியில் உள்ள “அனைத்துக்
 கிராம அண்ணா மறுமலர்ச்சித் திட்டம்” என்ற வார்த்தைகளை
 நிரந்தர மார்க்கர் பேனா வைத்து அழிக்க வேண்டுமாம்! பக்கம்
 17இல் “அனைத்துக் கிராம அண்ணா மறுமலர்ச்சித் திட்டம்”,
@@ -52,3 +52,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source `12இல்` without an internal space.

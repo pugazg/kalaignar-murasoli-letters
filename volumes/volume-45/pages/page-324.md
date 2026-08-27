@@ -25,7 +25,7 @@
 இலட்சியத்துக்குச் சாவு மணி அடிப்பதற்குச் சமமாகும். இந்தியத்
 தண்டனைச் சட்டம் அனைவருக்கும் பொதுவானதுதானே?
 
-ஆளுங் கட்சிக்குத் தனிச் சட்டம், எதிர்க்கட்சிகளுக்கு
+ஆளுங் கட்சிக்குத் தனிச் சட்டம், எதிர்க்கட்சிகளுக்குத்
 தனிச்சட்டம் என்று; “வருண பேதங்கள்” மாதிரி இதிலும்
 வேறுபாடுகள் உண்டா?
 
@@ -52,3 +52,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source `எதிர்க்கட்சிகளுக்குத் தனிச்சட்டம்`.

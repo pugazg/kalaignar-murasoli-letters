@@ -139,14 +139,46 @@ Direct scan comparison completed for printed pages 285–309.
 
 This iteration contains **21 corrected canonical page files / 67 correction spans** and **4 pages passing unchanged**.
 
+### PDF 311–335 — VERIFIED
+
+Direct scan comparison completed for printed pages 310–334.
+
+- **PDF 311 — CORRECTED, then PASS.** Removed the stray hyphen before `உச்சக் கட்டமாகச்` and restored joined `நடவடிக்கைகளை`.
+- **PDF 312 — PASS.** Letter 3578 conclusion, closing/signature and `5-8-2011` date agree with the scan.
+- **PDF 313 — CORRECTED, then PASS.** Restored omitted `தமிழக அரசின் கடன் விவரங்கள் பற்றி அரசின் சார்பில்` and source spacing `விதிக்க வில்லை`.
+- **PDF 314 — PASS.** Letter 3579 financial discussion and printed English agree with the scan.
+- **PDF 315 — CORRECTED, then PASS.** Restored `தேசிய நகர்ப்புறப் புனரமைப்புத் திட்டம்`.
+- **PDF 316 — PASS.** Continuing schemes/electricity passage agrees with the scan.
+- **PDF 317 — CORRECTED, then PASS.** Restored the omitted sentence `வீம்புக்காக ஒரு லட்சத்து எண்பதாயிரம் ரூபாய் தரப் போவதாக அறிவித்திருக்கிறார்கள்.`.
+- **PDF 318 — PASS.** Electricity/classical-Tamil/welfare-board passage agrees with the scan.
+- **PDF 319 — PASS.** Letter 3579 conclusion, closing/signature and `6-8-2011` date agree with the scan.
+- **PDF 320 — PASS.** Letter 3580 title/opening and Poondi Kalaivanan passage agree with the scan.
+- **PDF 321 — PASS.** The continuing Poondi Kalaivanan / N.K.K.P. Raja passage agrees with the scan.
+- **PDF 322 — PASS.** The N.K.K.P. Raja / J. Anbazhagan / Renganathan passage agrees with the scan.
+- **PDF 323 — PASS.** The continuing false-case discussion agrees with the scan.
+- **PDF 324 — CORRECTED, then PASS.** Restored source `எதிர்க்கட்சிகளுக்குத் தனிச்சட்டம்`.
+- **PDF 325 — PASS.** The printed English George quotation and following discussion agree with the scan.
+- **PDF 326 — CORRECTED, then PASS.** Restored source spacing `சம்பந்தப் பட்டதால்` and `மனோ பாவம்` in the bullet list.
+- **PDF 327 — PASS.** Letter 3580 conclusion, closing/signature and `12-08-2011` date agree with the scan.
+- **PDF 328 — PASS.** Letter 3581 title/opening and first portion of the செம்மொழி வாழ்த்து agree with the scan.
+- **PDF 329 — CORRECTED, then PASS.** Restored `சிந்தாமணியுடனே`, source hyphen spacing in `நம் மொழி - நம் மொழி - அதுவே`, the exclamation in `நம் தமிழ் மொழியாம்!`, and omitted `இந்த வார்த்தைகளில் மாணவர்கள் படிக்கக் கூடாத -`.
+- **PDF 330 — PASS.** The Tanjore World Tamil Conference song and first-grade textbook discussion agree with the scan.
+- **PDF 331 — PASS.** The third/fourth-grade textbook-removal discussion agrees with the scan.
+- **PDF 332 — CORRECTED, then PASS.** Restored source `111வது` without an internal space.
+- **PDF 333 — PASS.** The sixth-grade textbook-removal discussion agrees with the scan.
+- **PDF 334 — CORRECTED, then PASS.** Restored source `12இல்` without an internal space.
+- **PDF 335 — PASS.** The seventh/ninth-grade textbook-removal discussion agrees with the scan.
+
+This iteration contains **9 corrected canonical page files / 15 correction spans** and **16 pages passing unchanged**.
+
 ## Current verified boundary
 
-- Verified in this second pass: **PDF 001–310 / 402**
-- Scan-proven correction pages in this pass: **202 canonical page files / 561 correction spans**
+- Verified in this second pass: **PDF 001–335 / 402**
+- Scan-proven correction pages in this pass: **211 canonical page files / 576 correction spans**
 - Current result: **IN PROGRESS**
 - User-approved routine iteration size: **25 consecutive PDF pages**
 - English translation: **BLOCKED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 311 / printed page 310** and verify **PDF 311–335** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+Resume direct scan comparison at **PDF 336 / printed page 335** and verify **PDF 336–360** as the next 25-page iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.

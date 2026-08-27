@@ -24,7 +24,7 @@
 பற்றியோ பெருமையாகக் கூறுவதாக இருக்கிறதா என்பதை தமிழ்
 மக்கள்தான் கூற வேண்டும்!
 
-4-வது வகுப்பு சமூக அறிவியல் புத்தகத்தில் 111 வது
+4-வது வகுப்பு சமூக அறிவியல் புத்தகத்தில் 111வது
 பக்கத்தில் சென்னை சங்கமம் பற்றிய பகுதி ஸ்டிக்கர் ஒட்டி
 மறைக்கப்பட வேண்டும். அதாவது நாட்டுப்புறக் கலைகள்
 மக்களுக்கு புத்துணர்ச்சி அளித்து கலை உணர்ச்சிக்கு விருந்தளிக்
@@ -50,3 +50,4 @@
 
 - Text is transcribed from the controlling scan; OCR was used only as a drafting aid where usable.
 - Running page header and printed page number are not duplicated into canonical body text.
+- Second-pass direct scan verification restored source `111வது` without an internal space.
