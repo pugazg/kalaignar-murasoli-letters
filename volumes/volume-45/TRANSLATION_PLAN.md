@@ -13,7 +13,7 @@ Both Tamil gates are complete and durable for Volume 45:
 - full-volume Tamil structural audit: **PASS**;
 - second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**.
 
-The historical second-pass correction tally is **243 canonical page files / 623 correction spans**. During Letter 3560 translation/source-check, a residual omission on already-corrected PDF 187 was exposed and directly repaired from the scan, adding one post-audit correction span. The combined canonical correction tally is therefore **243 unique page files / 624 scan-proven spans**. See [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+The historical second-pass correction tally is **243 canonical page files / 623 correction spans**. During Letter 3560 translation/source-check, a residual omission on already-corrected PDF 187 was exposed and directly repaired from the scan, adding one post-audit correction span. The combined canonical correction tally therefore remains **243 unique page files / 624 scan-proven spans**. See [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
 Translation batches use the audited canonical Tamil. If translation work exposes a possible Tamil discrepancy, stop on that point and re-check the scan before changing either layer.
 
@@ -48,8 +48,9 @@ The Tamil section is never a summary or selected extract.
 7. **Retain Indian public-language units** — `lakh` and `crore` are retained.
 8. **Do not silently repair source anomalies** — the Tamil remains source-exact; English may use a minimal note where an anomaly affects comprehension.
 9. **Translation-discovered Tamil discrepancy rule** — a broken source transition, omitted phrase or suspect reading triggers targeted direct scan comparison before Tamil or English is changed; record every scan-proven post-audit correction durably.
-10. **Minimal notes** — explanatory notes are added only when needed for an institutional term, source anomaly, ambiguity or untranslatable expression.
-11. **Traceability** — every translation links to its chapter record and canonical Tamil PDF range.
+10. **Preserve deliberate source repetition** — repeated material in separate letters is translated where it appears and is not deduplicated.
+11. **Minimal notes** — explanatory notes are added only when needed for an institutional term, source anomaly, ambiguity or untranslatable expression.
+12. **Traceability** — every translation links to its chapter record and canonical Tamil PDF range.
 
 ## Recurrent terms
 
@@ -71,6 +72,7 @@ volumes/volume-45/
     DRAFT_SOURCE_CHECK_3550_3554.md
     DRAFT_SOURCE_CHECK_3555_3559.md
     DRAFT_SOURCE_CHECK_3560_3564.md
+    DRAFT_SOURCE_CHECK_3565_3569.md
     letters/
       3537-....md
       ...
@@ -93,12 +95,13 @@ Completed normal drafting iterations:
 - **3550–3554 / PDF 123–154** — **5 / 5 source-checked; PASS**.
 - **3555–3559 / PDF 155–180** — **5 / 5 source-checked; PASS**.
 - **3560–3564 / PDF 181–217** — **5 / 5 source-checked; PASS**; one scan-proven Tamil correction on PDF 187.
+- **3565–3569 / PDF 218–248** — **5 / 5 source-checked; PASS**; no Tamil canonical change.
 
-Current cumulative drafting state: **3537–3564 / 28 of 55 source-checked**, audited canonical PDF **024–217**.
+Current cumulative drafting state: **3537–3569 / 33 of 55 source-checked**, audited canonical PDF **024–248**.
 
-**Exact next drafting batch: Letters 3565–3569 / PDF 218–248.**
+**Exact next drafting batch: Letters 3570–3574 / PDF 249–274.**
 
-Each drafting batch receives source-completeness/canonical-page coverage, paragraph/heading coverage, names/dates/figures/units, quotation/rhetorical-question, title/closing, glossary and progress/handover checks.
+Each drafting batch receives source-completeness/canonical-page coverage, paragraph/heading coverage, names/dates/figures/units, quotation/rhetorical-question, title/closing, source-anomaly, glossary and progress/handover checks.
 
 ### Phase 3 — Bilingual alignment QA
 
@@ -119,4 +122,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability have passed editorial review;
 - `verified` — final bilingual alignment is complete.
 
-Letters **3537–3564** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters **3537–3569** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.

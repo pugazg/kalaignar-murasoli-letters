@@ -37,7 +37,7 @@ While drafting Letter 3560, canonical PDF 187 ended in the middle of the Wall St
 
 PDF 187 was already among the 243 pages corrected during the historical second pass, so the unique page count stays 243; the additional scan-proven correction raises the combined span total to 624. See `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`. Do not retroactively fold this event into the historical `623` second-pass tally.
 
-### English translation — durable through 3564
+### English translation — durable through 3569
 
 Reference workflow:
 
@@ -68,6 +68,7 @@ Locked English conventions:
 - **3550–3554 / PDF 123–154** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 - **3555–3559 / PDF 155–180** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 - **3560–3564 / PDF 181–217** — **5 / 5 source-checked; PASS** — Tamil changes **1 page / 1 scan-proven span (PDF 187)**
+- **3565–3569 / PDF 218–248** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 
 Source-check reports:
 
@@ -76,37 +77,40 @@ Source-check reports:
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`
 
 Current cumulative English state:
 
-- Draft-translated: **28 / 55 — 3537–3564**
-- Source-checked: **28 / 55 — 3537–3564**
+- Draft-translated: **33 / 55 — 3537–3569**
+- Source-checked: **33 / 55 — 3537–3569**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Cumulative translated canonical source: **PDF 024–217**
+- Cumulative translated canonical source: **PDF 024–248**
 
-Source-specific material deliberately preserved during 3560–3564 includes:
+Source-specific material deliberately preserved during 3565–3569 includes:
 
-- Letter 3560: complete welfare/achievement figures; Manmohan Singh, Pranab Mukherjee, CNN-IBN, India Today, World Bank, Supreme Court, Wall Street Journal, Oxford Analytica and The Hindu assessments; scan-restored PDF 187 passage; source `பி.எஸ்.சவ்யான்` handled conservatively;
-- Letter 3561: complete Classical Tamil award list and recipients; Parithimar Kalaignar, Robert Caldwell, R.P. Sethupillai and George L. Hart quotations translated from the audited Tamil rather than outside editions; Classical Tamil institute/trust/library history;
-- Letter 3562: full Pazha. Nedumaran Cuddalore-prison letter, `Tolkappiya Poonga`, Tolkappiyam/commentary references, repeated `Pallandu`, and sender/date in source position;
-- Letter 3563: complete autobiography, film-income, donations, trusts, Sun Television/Dayalu/Kanimozhi figures, Ram Jethmalani passage, `தர்ப்பைப் புல்`, and `சுயபுராணம்` → `சுயமரியாதைப் புதினம்` turn;
-- Letter 3564: complete freebies/debt argument, exact borrowing/capital figures, source `ஒகனேக்கல்`, and PDF 217 anomalous `011ஆம் ஆண்டு` explicitly preserved rather than repaired.
+- Letter 3565: all 22 printed questions selected from the stated 31, the argument about Congress–DMK rupture, journalist welfare, Dinamani/Dinamalar article claims, `கொழுக் கட்டை` advertising image and Manu Dharma / Press Dharma irony;
+- Letter 3566: the full 1956–2009 Sri Lankan-Tamil chronology, June 1990 participant list, Tamilselvan condolence poem and Chandrahassan quotation;
+- Letter 3567: deliberate repetition of the 10-6-2011 press material and directly scan-verified PDF 233 anomaly `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, exposed in English rather than silently repaired;
+- Letter 3568: complete Katchatheevu chronology, missing-fisher figures, rights clauses, and PDF 241's printed English sentence retained verbatim before separately translating the source's Tamil rendering;
+- Letter 3569: all project/capacity/cost/commissioning/industry/shortage figures, source-derived `Grothling`, the differing Udangudi estimates **₹8,362 crore / ₹8,700 crore**, and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` preserved in Tamil without silent normalization.
 
-The twenty-eight completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
+The thirty-three completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
 
 ### Exact next activity
 
-Translate **Letters 3565–3569 / PDF 218–248** as the next normal five-complete-letter drafting iteration.
+Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-complete-letter drafting iteration.
 
 Verified next source boundaries:
 
-- 3565 — `இன்று நடப்பது; அன்றே நடந்ததுதான்!` — PDF **218–222**, date **11-6-2011**
-- 3566 — `அதுவே ஓர் ஆறுதல்தான்!` — PDF **223–230**, date **13-6-2011**
-- 3567 — `ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!` — PDF **231–235**, date **14-06-2011**
-- 3568 — `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?` — PDF **236–241**, date **15-6-2011**
-- 3569 — `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?` — PDF **242–248**, date **18-6-2011**
+- 3570 — `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!` — PDF **249–255**, date **19-6-2011**
+- 3571 — `ஒன்று போதுமே; உதாரணம்!` — PDF **256–260**, date **30-6-2011**
+- 3572 — `“100” கருணாநிதிகளால் முடியாதுதான்!` — PDF **261–265**, date **19-7-2011**
+- 3573 — `அல்லல் நீங்கும்; தொல்லை குறையும்!` — PDF **266–268**, date **21-7-2011**
+- 3574 — `அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!` — PDF **269–274**, date **28-7-2011**
+
+Combined next source range: **PDF 249–274 / 26 canonical pages**.
 
 For each letter:
 
@@ -142,6 +146,7 @@ Do **not** mark drafting records final `verified`; bilingual alignment remains a
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`
 
 ## 4. Completed reference volumes
 
@@ -166,7 +171,7 @@ Keep stages distinct:
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 
-For Volume 45, English drafting/source-check is complete through Letter **3564** only.
+For Volume 45, English drafting/source-check is complete through Letter **3569** only.
 
 ## 6. Git/concurrency discipline
 
@@ -187,4 +192,4 @@ Inspect live durable state, identify the next already-defined batch/gate, execut
 
 ## 8. Clean interruption rule
 
-The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3564 / 28 of 55 source-checked**, with exact next drafting batch **3565–3569 / PDF 218–248**.
+The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3569 / 33 of 55 source-checked**, with exact next drafting batch **3570–3574 / PDF 249–274**.

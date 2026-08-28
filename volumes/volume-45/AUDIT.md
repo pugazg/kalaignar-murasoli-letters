@@ -101,14 +101,18 @@ PDF 187 was already one of the 243 unique page files corrected during the histor
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
+- Translation batch 3565–3569 exposed **no additional Tamil canonical correction**.
 
 ## English QA boundary
 
 - Pilot **3537–3539 / PDF 024–049**: PASS / style locked.
-- Normal batches through **3560–3564 / PDF 181–217**: source-checked.
-- Current English total: **28 / 55 — Letters 3537–3564**.
+- Normal batches through **3565–3569 / PDF 218–248**: source-checked.
+- Current English total: **33 / 55 — Letters 3537–3569**.
+- Cumulative translated source coverage: **PDF 024–248**.
 - Bilingual alignment: **0 / 55**; not yet begun.
+
+The 3565–3569 source check explicitly preserves the deliberate Letter 3565/3567 repetition, PDF 233 malformed `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, the full Sri Lankan-Tamil and Katchatheevu chronologies, Letter 3568's source-printed English sentence, Letter 3569's two different Udangudi cost figures, and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`.
 
 ## Exact next activity
 
-Translate **Letters 3565–3569 / PDF 218–248** as the next normal five-letter drafting/source-check batch. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
+Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-letter drafting/source-check batch. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.

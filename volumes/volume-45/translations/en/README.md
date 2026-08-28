@@ -18,7 +18,7 @@ Translation is made from the scan-verified canonical Tamil. The controlling scan
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Five normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559** and **3560–3564**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Six normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564** and **3565–3569**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -50,8 +50,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3562](letters/3562-some-people-at-certain-times.md) | “Some People at Certain Times!” | 13 May 2011 | 197–200 | source-checked |
 | [3563](letters/3563-we-are-certain-to-win-the-final-battle.md) | We Are Certain to Win the Final Battle! | 22 May 2011 | 201–208 | source-checked |
 | [3564](letters/3564-brass-it-seems-sneered-at-lead.md) | “Brass, It Seems, Sneered at Lead!” | 3 June 2011 | 209–217 | source-checked |
+| [3565](letters/3565-what-happens-today-happened-then-too.md) | What Is Happening Today Is What Happened Then! | 11 June 2011 | 218–222 | source-checked |
+| [3566](letters/3566-that-itself-is-a-consolation.md) | That Itself Is a Consolation! | 13 June 2011 | 223–230 | source-checked |
+| [3567](letters/3567-some-newspapers-long-for-dividing-lines-to-appear.md) | Some Newspapers Yearn: Won't Dividing Lines Appear? | 14 June 2011 | 231–235 | source-checked |
+| [3568](letters/3568-is-everything-the-victor-says-scripture.md) | Is Everything the Victor Says Scripture? | 15 June 2011 | 236–241 | source-checked |
+| [3569](letters/3569-will-there-be-a-power-shortage-in-the-future.md) | Will There Be a Power Shortage in the Future? | 18 June 2011 | 242–248 | source-checked |
 
-Current coverage: **28 / 55 letters source-checked**, audited canonical PDF **024–217**.
+Current coverage: **33 / 55 letters source-checked**, audited canonical PDF **024–248**.
 
 Batch records:
 
@@ -61,6 +66,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md) — third normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md) — fourth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) — fifth normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md) — sixth normal drafting batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -73,8 +79,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The twenty-eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The thirty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3565–3569 / PDF 218–248** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, and if translation reveals a possible Tamil discontinuity, re-check the controlling scan before changing either layer. Keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3570–3574 / PDF 249–274** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, and if translation reveals a possible Tamil discontinuity, re-check the controlling scan before changing either layer. Keep bilingual alignment separate.

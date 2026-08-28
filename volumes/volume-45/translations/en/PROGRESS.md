@@ -12,9 +12,10 @@
 - [x] Third normal drafting batch **3550–3554** translated and source-checked
 - [x] Fourth normal drafting batch **3555–3559** translated and source-checked
 - [x] Fifth normal drafting batch **3560–3564** translated and source-checked
+- [x] Sixth normal drafting batch **3565–3569** translated and source-checked
 - [x] Translation-discovered PDF 187 Tamil omission directly rechecked against scan and repaired
 - [ ] Main translation drafting
-  - [ ] **3565–3569** — exact next five-letter batch
+  - [ ] **3570–3574** — exact next five-letter batch
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
@@ -23,8 +24,8 @@
 
 - Total source letters: **55**
 - Letter range: **3537–3591**
-- Draft-translated: **28 / 55** — 3537–3564
-- Source-checked: **28 / 55** — 3537–3564
+- Draft-translated: **33 / 55** — 3537–3569
+- Source-checked: **33 / 55** — 3537–3569
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
@@ -94,26 +95,35 @@
 - Result: **PASS — 5 / 5 source-checked**
 - Tamil canonical changes during batch: **1 page / 1 scan-proven span — PDF 187**
 
-See [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) and [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+### Sixth normal drafting batch
 
-Cumulative translated canonical source coverage is PDF **024–217**.
+- 3565 — PDF **218–222**
+- 3566 — PDF **223–230**
+- 3567 — PDF **231–235**
+- 3568 — PDF **236–241**
+- 3569 — PDF **242–248**
+- Batch combined: PDF **218–248**, 31 pages
+- Result: **PASS — 5 / 5 source-checked**
+- Tamil canonical changes during batch: **0**
+
+See [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md). Cumulative translated canonical source coverage is PDF **024–248**.
 
 ## Tamil correction accounting
 
-The completed second full-volume direct-scan fidelity audit remains historically recorded as **243 corrected canonical page files / 623 correction spans**. Letter 3560 source-check exposed one residual omission on PDF 187; direct scan comparison restored the omitted physical-page tail. PDF 187 was already among the 243 corrected pages, so the unique corrected-page count remains **243**, while the combined scan-proven correction-span total is now **624**.
+The completed second full-volume direct-scan fidelity audit remains historically recorded as **243 corrected canonical page files / 623 correction spans**. Letter 3560 source-check exposed one residual omission on PDF 187; direct scan comparison restored the omitted physical-page tail. PDF 187 was already among the 243 corrected pages, so the unique corrected-page count remains **243**, while the combined scan-proven correction-span total remains **624**. The 3565–3569 batch required no new Tamil correction.
 
-## Source-specific points preserved in 3560–3564
+## Source-specific points preserved in 3565–3569
 
-- Letter 3560 retains all achievement/assessment figures, the quoted institutional assessments, and the scan-restored Wall Street Journal / Oxford Analytica passage on PDF 187.
-- Letter 3561 retains the full Classical Tamil awards/history sequence and translates the source's long historical quotations without substituting outside editions.
-- Letter 3562 retains the complete Pazha. Nedumaran Cuddalore-prison letter, `Tolkappiya Poonga`, commentary references and repeated `Pallandu` blessing.
-- Letter 3563 retains the complete autobiographical, film-income, donation, trust and shareholding chronology, including source amounts and `தர்ப்பைப் புல்` imagery.
-- Letter 3564 retains the complete free-scheme/debt argument, source `ஒகனேக்கல்`, and anomalous PDF 217 `011ஆம் ஆண்டு` without silent correction.
+- Letters 3565 and 3567 retain the complete printed press-question sequences; Letter 3567's repeated 10-6-2011 material is not deduplicated.
+- Letter 3567 explicitly preserves PDF 233's malformed `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்` rather than silently repairing it.
+- Letter 3566 retains the complete Sri Lankan-Tamil chronology, June 1990 participant list, Tamilselvan condolence poem and Chandrahassan quotation.
+- Letter 3568 retains the complete Katchatheevu chronology, year-by-year missing-fisher figures and PDF 241's source-printed English sentence followed by the source's Tamil rendering.
+- Letter 3569 retains every source power-project/industry/shortage figure, the two different Udangudi estimates, source-derived `Grothling`, and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` without Tamil normalization.
 
 ## QA status
 
-The twenty-eight completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
+The thirty-three completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
 
 ## Exact next activity
 
-Translate **Letters 3565–3569 / PDF 218–248** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and trigger direct scan re-verification if any possible Tamil discrepancy appears.
+Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and trigger direct scan re-verification if any possible Tamil discrepancy appears.
