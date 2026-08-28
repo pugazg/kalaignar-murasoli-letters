@@ -41,6 +41,7 @@ Completed alignment batches:
 - **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
+- **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
 
 Reports:
 
@@ -49,13 +50,14 @@ Reports:
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
 
-The fifth batch made two English-only semantic corrections: Letter 3560's overdraft sentence now preserves the source causation, and Letter 3561 no longer adds unsupported `ancient` to `மண்ணுலகின் முதன்மை மொழி`. Canonical Tamil did not change.
+The sixth batch made two English-only semantic corrections: Letter 3563 now renders `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` as **“charted an authoritarian ‘path’”**, and Letter 3564's overdraft sentence now preserves the source causal relation already established in Letter 3560. PDF 217 `011ஆம் ஆண்டு` remains source-faithful. Canonical Tamil did not change.
 
 The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
 
-Current cumulative alignment: **25 / 55 — 3537–3561 / PDF 024–196**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+Current cumulative alignment: **30 / 55 — 3537–3566 / PDF 024–230**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` exactly in canonical Tamil. Do not begin the later volume-level editorial consistency review.

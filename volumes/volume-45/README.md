@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 25 / 55.
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 30 / 55.
 
 ## Controlling source
 
@@ -29,15 +29,14 @@ Direct scan verification resolved Letter 3576 to `உலகப் புகழ�
 - Alignment batch 3 **3547–3551 / PDF 104–141** — **PASS / 5 of 5 aligned**
 - Alignment batch 4 **3552–3556 / PDF 142–163** — **PASS / 5 of 5 aligned**
 - Alignment batch 5 **3557–3561 / PDF 164–196** — **PASS / 5 of 5 aligned**
-- English corrections during fifth alignment batch: **2**
-- Tamil canonical changes during fifth alignment batch: **0**
-- Bilingual-aligned: **25 / 55 — 3537–3561 / PDF 024–196**
+- Alignment batch 6 **3562–3566 / PDF 197–230** — **PASS / 5 of 5 aligned**
+- English corrections during sixth alignment batch: **2**
+- Tamil canonical changes during sixth alignment batch: **0**
+- Bilingual-aligned: **30 / 55 — 3537–3566 / PDF 024–230**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-The fifth meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, quotations, rhetoric and closings. Letter 3560 required an English-only correction to the Pranab Mukherjee overdraft sentence so the source causation is preserved. Letter 3561 required removal of the unsupported word `ancient` from the rendering of `மண்ணுலகின் முதன்மை மொழி`; the aligned wording is **“the world's foremost language.”** Canonical Tamil remained unchanged.
-
-Established source forms PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration remain preserved.
+The sixth meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, quotations, rhetoric and closings. Letter 3563 required an English-only contextual correction from **“dictatorial ‘song’”** to **“charted an authoritarian ‘path’”** for `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட`. Letter 3564 required the same English-only overdraft causal correction already established in Letter 3560. Canonical Tamil remained unchanged, including PDF 217 `011ஆம் ஆண்டு`.
 
 English controls:
 
@@ -52,9 +51,10 @@ English controls:
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
 
 ## Exact next activity
 
-Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. Re-check the controlling scan before changing Tamil if any new possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter bilingual-alignment batch. Preserve the established source anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`. Re-check the controlling scan before changing Tamil if any new possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.

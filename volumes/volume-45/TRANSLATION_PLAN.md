@@ -81,16 +81,17 @@ Completed:
 - **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
+- **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
 
-Current cumulative alignment: **25 / 55 — 3537–3561 / PDF 024–196**.
+Current cumulative alignment: **30 / 55 — 3537–3566 / PDF 024–230**.
 
-The fifth batch's corrections were English-only. In Letter 3560, the Pranab Mukherjee overdraft sentence now preserves the source's causal relation: the State had not **had to obtain** an overdraft even for one day because of having no money in its account. In Letter 3561, unsupported `ancient` was removed from the rendering of `மண்ணுலகின் முதன்மை மொழி`, which now reads **“the world's foremost language.”** Canonical Tamil remained unchanged.
+The sixth batch's corrections were English-only. Letter 3563 now renders `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` contextually as **“charted an authoritarian ‘path’”**, replacing the earlier misleading **“dictatorial ‘song’.”** Letter 3564's overdraft quotation now preserves the same source causal relation already established in Letter 3560. PDF 217 `011ஆம் ஆண்டு` remains unchanged. Canonical Tamil did not change.
 
 Exact next alignment batch:
 
-- **3562–3566 / PDF 197–230** — five complete letters / 34 canonical pages.
+- **3567–3571 / PDF 231–260** — five complete letters / 30 canonical pages.
 
-Preserve PDF 217 `011ஆம் ஆண்டு` exactly. Compare every English record directly against its authoritative audited Tamil, letter by letter and page by page. Correct any omission, addition, semantic drift, figure/date/name error, quotation loss, paragraph-order change or rhetorical-force distortion before marking a letter bilingual-aligned.
+Preserve established source anomalies within that range, especially PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`. Compare every English record directly against its authoritative audited Tamil, letter by letter and page by page. Correct any omission, addition, semantic drift, figure/date/name error, quotation loss, paragraph-order change or rhetorical-force distortion before marking a letter bilingual-aligned.
 
 Alignment remains distinct from later editorial and release gates. `source-checked` is retained as the drafting status; `bilingual_alignment_status: aligned` records completion of this gate.
 
@@ -110,8 +111,8 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability passed editorial review;
 - `verified` — final release verification complete.
 
-All **55 / 55** letters are source-checked. **25 / 55** are bilingual-aligned. None has yet passed the later volume-level editorial/release `verified` gate.
+All **55 / 55** letters are source-checked. **30 / 55** are bilingual-aligned. None has yet passed the later volume-level editorial/release `verified` gate.
 
 ## Exact next activity
 
-Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch. If any new possible Tamil defect appears, re-check the controlling scan before changing either layer. Keep the later editorial consistency review separate.
+Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter bilingual-alignment batch. If any new possible Tamil defect appears, re-check the controlling scan before changing either layer. Keep the later editorial consistency review separate.

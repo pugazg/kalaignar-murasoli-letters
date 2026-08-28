@@ -45,7 +45,7 @@ PDF 187 was already one of the historical 243 corrected pages, so the historical
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3591 and alignment batches 3537–3561 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3591 and alignment batches 3537–3566 exposed **no additional Tamil canonical correction**.
 
 ## English drafting QA boundary
 
@@ -66,15 +66,16 @@ Completed alignment batches:
 - **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
+- **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
 
-Current cumulative alignment: **25 / 55 — Letters 3537–3561 / PDF 024–196**.
+Current cumulative alignment: **30 / 55 — Letters 3537–3566 / PDF 024–230**.
 
-The fifth batch made two English-only semantic corrections. Letter 3560's Pranab Mukherjee overdraft sentence now preserves the source causation: Tamil Nadu had not **had to obtain** an overdraft even for a day because of having no money in its account. Letter 3561's opening no longer adds unsupported `ancient` to `மண்ணுலகின் முதன்மை மொழி`; it now reads **“the world's foremost language.”** Canonical Tamil did not change.
+The sixth batch made two English-only semantic corrections. Letter 3563 now renders `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` contextually as **“charted an authoritarian ‘path’”**, replacing the misleading earlier “dictatorial ‘song’.” Letter 3564's Pranab Mukherjee overdraft sentence now preserves the source's causal relation, matching the correction already established in Letter 3560. PDF 217 `011ஆம் ஆண்டு` remains unchanged in canonical Tamil and explicit in English.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**.
-- Bilingual-aligned: **25 / 55**.
+- Bilingual-aligned: **30 / 55**.
 - Editorially reviewed: **0 / 55**.
 - Final verified for release: **0 / 55**.
 
@@ -85,7 +86,8 @@ Durable alignment reports:
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`
+- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`
 
 ## Exact next activity
 
-Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` exactly in canonical Tamil. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

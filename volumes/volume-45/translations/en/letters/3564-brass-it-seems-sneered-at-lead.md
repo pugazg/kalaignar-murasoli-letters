@@ -11,7 +11,8 @@ source_printed_page_end: 216
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md"
 ---
 
 # 3564. “Brass, It Seems, Sneered at Lead!”
@@ -94,7 +95,7 @@ Speaking in Chennai on **9.4.2011**, Union Finance Minister **Pranab Mukherjee**
 >
 > “Tamil Nadu is among the few States in India that satisfactorily maintain fiscal discipline and stability.
 >
-> “As of **24 March ‘011’** [source as printed], the Tamil Nadu government's cash balance was **₹13,537 crore**. The Tamil Nadu government has not taken an overdraft from the Reserve Bank of India even for a single day because there was no money in its account. Many States, however, have taken overdrafts.”
+> “As of **24 March ‘011’** [source as printed], the Tamil Nadu government's cash balance was **₹13,537 crore**. The Tamil Nadu government has not had to obtain an overdraft from the Reserve Bank of India even for a single day because of having no money in its account. Many States, however, have taken overdrafts.”
 
 If one takes note of this statement too, one can understand both that the DMK government did not borrow beyond proper limits and that it did not borrow money in order to implement all its free schemes.
 

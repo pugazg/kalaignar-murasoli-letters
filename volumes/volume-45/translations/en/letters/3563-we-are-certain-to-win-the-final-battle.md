@@ -11,7 +11,8 @@ source_printed_page_end: 207
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md"
 ---
 
 # 3563. We Are Certain to Win the Final Battle!
@@ -30,7 +31,7 @@ Whenever the occasion arose, I have told you many times—and through you, told 
 
 You may regard what I am about to write now as the preface to the next volume; or you may regard it as a **cry of the mind** that has arisen in between. In the present situation, I must remind you of these things.
 
-This is a period in which our DMK, which I regard as dearer than life itself, has suffered a major defeat and lost power. What caused that loss? Was it the number of seats given to alliance parties? Or the constituencies they insisted on taking? Was it the Election Commission—the Brahma-rakshasa-like monster that devised a dictatorial “song” for Tamil Nadu alone, using its own `ஜபர்தஸ்து` measures and anti-democratic actions as whips? I do not wish to enter into all those questions.
+This is a period in which our DMK, which I regard as dearer than life itself, has suffered a major defeat and lost power. What caused that loss? Was it the number of seats given to alliance parties? Or the constituencies they insisted on taking? Was it the Election Commission—the Brahma-rakshasa-like monster that charted an authoritarian **“path”** for Tamil Nadu alone, using its own `ஜபர்தஸ்து` measures and anti-democratic actions as whips? I do not wish to enter into all those questions.
 
 But those who, during the election, spread propaganda that **“Karunanidhi's family is a family that has increased its influence of power, earned a thousand crore, ten thousand crore, a lakh crore, and tied it all up in sacks”**—in India or in Tamil Nadu—continue that propaganda even now through newspapers and other media, like a drizzle that continues even after the rain has stopped.
 

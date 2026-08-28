@@ -14,7 +14,8 @@
   - [x] **3547–3551 / PDF 104–141** — PASS — 5/5 aligned, English corrections 0, Tamil changes 0
   - [x] **3552–3556 / PDF 142–163** — PASS — 5/5 aligned, English corrections 1, Tamil changes 0
   - [x] **3557–3561 / PDF 164–196** — PASS — 5/5 aligned, English corrections 2, Tamil changes 0
-  - [ ] **3562–3566 / PDF 197–230** — exact next alignment batch
+  - [x] **3562–3566 / PDF 197–230** — PASS — 5/5 aligned, English corrections 2, Tamil changes 0
+  - [ ] **3567–3571 / PDF 231–260** — exact next alignment batch
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
 
@@ -24,11 +25,11 @@
 - Letter range: **3537–3591**
 - Draft-translated: **55 / 55** — 3537–3591
 - Source-checked: **55 / 55** — 3537–3591
-- Bilingual-aligned: **25 / 55** — 3537–3561
+- Bilingual-aligned: **30 / 55** — 3537–3566
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
 - Cumulative translated canonical source coverage: PDF **024–401**
-- Cumulative bilingual-aligned canonical source coverage: PDF **024–196**
+- Cumulative bilingual-aligned canonical source coverage: PDF **024–230**
 
 ## Drafting batches
 
@@ -58,33 +59,34 @@ Current source-check record: [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CH
 | Alignment 3 | 3547–3551 | 104–141 | PASS — 5/5 aligned | 0 | 0 |
 | Alignment 4 | 3552–3556 | 142–163 | PASS — 5/5 aligned | 1 | 0 |
 | Alignment 5 | 3557–3561 | 164–196 | PASS — 5/5 aligned | 2 | 0 |
+| Alignment 6 | 3562–3566 | 197–230 | PASS — 5/5 aligned | 2 | 0 |
 
-Current alignment record: [`BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md).
+Current alignment record: [`BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md).
 
 ## Tamil correction accounting
 
-The historical completed second full-volume direct-scan fidelity audit remains **243 corrected canonical page files / 623 correction spans**. Translation of Letter 3560 exposed one residual omission on already-corrected PDF 187; direct scan comparison restored its omitted physical-page tail. The combined scan-proven tally remains **243 unique corrected pages / 624 spans**. No additional Tamil correction was required during drafting batches 3565–3591 or alignment batches 3537–3561.
+The historical completed second full-volume direct-scan fidelity audit remains **243 corrected canonical page files / 623 correction spans**. Translation of Letter 3560 exposed one residual omission on already-corrected PDF 187; direct scan comparison restored its omitted physical-page tail. The combined scan-proven tally remains **243 unique corrected pages / 624 spans**. No additional Tamil correction was required during drafting batches 3565–3591 or alignment batches 3537–3566.
 
-## Alignment 3557–3561 — source-specific points
+## Alignment 3562–3566 — source-specific points
 
-- **3557:** the full Sri Lankan-Tamil chronology, counts, dates, Assembly resolution and quoted political statements align as source voice.
-- **3558:** film-industry examples, tax rates, dates, fees and the closing `இலட்சியம்` / `இலட்சங்கள்` wordplay align; PDF 170 `பொக்கம்` remains preserved.
-- **3559:** source biographical claims, terrorism classifications and Islam/peace argument align; PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and `111 மாடிகள்` remain source-faithful.
-- **3560:** one English-only correction fixes the Pranab Mukherjee overdraft sentence's causal meaning; the scan-proven PDF 187 restoration remains intact.
-- **3561:** one English-only correction removes unsupported `ancient` from `மண்ணுலகின் முதன்மை மொழி`; the event date `6.5.2011` and letter date `7-5-2011` remain distinct as printed.
+- **3562:** Kalaignar's broken-friendship framing and the complete Pazha. Nedumaran prison letter align without correction.
+- **3563:** one English-only correction changes the misleading **“dictatorial ‘song’”** to **“charted an authoritarian ‘path’”** for contextual `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட`; all monetary, film, trust, Kanimozhi and Self-Respect material otherwise aligns.
+- **3564:** one English-only correction fixes the overdraft quotation's causal relation, matching the established Letter 3560 treatment; PDF 217 `011ஆம் ஆண்டு` remains source-faithful.
+- **3565:** all reproduced questions 1–22 from the stated 31, press-ethics discussion, Dinamani/Dinamalar passages and `கொழுக் கட்டை` / Manu Dharma / Press Dharma close align.
+- **3566:** the full Sri Lankan-Tamil chronology, quotations, Tamilselvan poem and Chandrahassan passage align as source voice without external reconciliation.
 
 ## QA status
 
-All fifty-five English records remain **source-checked drafts**. Twenty-five records, **3537–3561**, have additionally passed the distinct bilingual meaning-level alignment gate. They are not yet editorially reviewed or final `verified` release records.
+All fifty-five English records remain **source-checked drafts**. Thirty records, **3537–3566**, have additionally passed the distinct bilingual meaning-level alignment gate. They are not yet editorially reviewed or final `verified` release records.
 
 ## Exact next activity
 
-Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch:
+Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter bilingual-alignment batch:
 
-- 3562 — PDF 197–200
-- 3563 — PDF 201–208
-- 3564 — PDF 209–217
-- 3565 — PDF 218–222
-- 3566 — PDF 223–230
+- 3567 — PDF 231–235
+- 3568 — PDF 236–241
+- 3569 — PDF 242–248
+- 3570 — PDF 249–255
+- 3571 — PDF 256–260
 
-Combined range: **34 canonical pages**. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. Compare each English record directly against authoritative audited Tamil, correct only demonstrated English omission/addition/semantic drift, and re-check the controlling scan before changing Tamil if a new possible Tamil defect appears. Keep the later volume-level English editorial consistency review separate.
+Combined range: **30 canonical pages**. Preserve source anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`. Compare each English record directly against authoritative audited Tamil, correct only demonstrated English omission/addition/semantic drift, and re-check the controlling scan before changing Tamil if a new possible Tamil defect appears. Keep the later volume-level English editorial consistency review separate.

@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3562–3566
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3567–3571
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -36,9 +36,9 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - all bilingual alignment reports through `BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`
+   - every completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` through `BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm cumulative alignment closure: **3537–3561 / PDF 024–196 — 25 / 55 aligned**.
+6. Confirm cumulative alignment closure: **3537–3566 / PDF 024–230 — 30 / 55 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -59,7 +59,7 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **25 / 55 — 3537–3561 / PDF 024–196**
+- Bilingual-aligned: **30 / 55 — 3537–3566 / PDF 024–230**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
@@ -70,13 +70,12 @@ Alignment batch results:
 - **3547–3551 / PDF 104–141** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
 - **3557–3561 / PDF 164–196** — PASS — 5 / 5; English corrections 2; Tamil changes 0.
+- **3562–3566 / PDF 197–230** — PASS — 5 / 5; English corrections 2; Tamil changes 0.
 
-Fifth-batch English-only corrections:
+The sixth-batch English-only corrections were:
 
-1. **Letter 3560:** the Pranab Mukherjee overdraft sentence now states that the Tamil Nadu government had not **had to obtain** an overdraft even for a day because of having no money in its account; the previous wording inverted the causal sense.
-2. **Letter 3561:** unsupported `ancient` was removed from `மண்ணுலகின் முதன்மை மொழி`; the aligned English is **“the world's foremost language.”**
-
-Established source forms remain preserved: PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration.
+- Letter 3563: `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` is now contextually **“charted an authoritarian ‘path’”**, replacing misleading **“dictatorial ‘song’.”**
+- Letter 3564: the Pranab Mukherjee overdraft sentence now preserves the same source causal relation established in Letter 3560. PDF 217 `011ஆம் ஆண்டு` remains source-printed.
 
 ## SOURCE AUTHORITY
 
@@ -104,17 +103,21 @@ For each bilingual record:
 
 Align five complete consecutive letters:
 
-- **3562** — `“சில நேரங்களில் சில மனிதர்கள்!”` — PDF **197–200** — 13-5-2011
-- **3563** — `இறுதிப் போரில் நாம் வெல்வது திண்ணம்!` — PDF **201–208** — 22-5-2011
-- **3564** — `“ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”` — PDF **209–217** — 3-6-2011
-- **3565** — `இன்று நடப்பது; அன்றே நடந்ததுதான்!` — PDF **218–222** — 11-6-2011
-- **3566** — `அதுவே ஓர் ஆறுதல்தான்!` — PDF **223–230** — 13-6-2011
+- **3567** — `ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!` — PDF **231–235** — 14-06-2011
+- **3568** — `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?` — PDF **236–241** — 15-6-2011
+- **3569** — `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?` — PDF **242–248** — 18-6-2011
+- **3570** — `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!` — PDF **249–255** — 19-6-2011
+- **3571** — `ஒன்று போதுமே; உதாரணம்!` — PDF **256–260** — 30-6-2011
 
-Combined next alignment range: **PDF 197–230 / 34 canonical pages**.
+Combined next alignment range: **PDF 231–260 / 30 canonical pages**.
 
-**Source caution:** PDF 217 contains the scan-preserved anomaly `011ஆம் ஆண்டு`. Do not silently normalise it to an expected year form.
+Established source cautions in this range:
 
-Create a durable alignment report for **3562–3566**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
+- PDF **233** preserves `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்` exactly.
+- PDF **248** preserves `என்னருந் தமிழ் மக்களுக்குக்` exactly.
+- PDF **259** preserves `16-10-1999ந்தேதி` exactly.
+
+Create a durable alignment report for **3567–3571**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 
