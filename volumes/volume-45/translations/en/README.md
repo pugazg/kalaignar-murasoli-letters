@@ -14,19 +14,19 @@ The English is **not a literary rewriting**. It follows the audited canonical Ta
 - Translation-discovered targeted correction: **PDF 187 / 1 additional scan-proven span**
 - Combined canonical correction tally: **243 unique page files / 624 spans**
 
-Translation is made from the scan-verified canonical Tamil. The controlling scan remains the ultimate textual authority if a translation/alignment check exposes a possible Tamil discrepancy. The PDF 187 correction discovered during Letter 3560 drafting is recorded in [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+Translation and alignment are made from the scan-verified canonical Tamil. The controlling scan remains the ultimate textual authority if a translation/alignment check exposes a possible Tamil discrepancy. The PDF 187 correction discovered during Letter 3560 drafting is recorded in [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
-## Translation status
+## Translation and alignment status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Ten normal five-letter drafting batches and the final two-letter **3590–3591** batch are complete and source-checked.
+Main drafting is complete: all **55 / 55** letters are source-checked. The first bilingual meaning-level alignment batch, **3537–3541 / PDF 024–060**, has passed **5 / 5** with **0 English corrections** and **0 Tamil canonical changes**.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
-| [3537](letters/3537-rural-development-and-panchayat-raj-five-year-achievements-2.md) | Five-Year Achievements of the Rural Development and Panchayat Raj Department! (Continuation from Yesterday)(2) | 12 March 2011 | 024–033 | source-checked |
-| [3538](letters/3538-rural-development-and-panchayat-raj-five-year-achievements-3.md) | Five-Year Achievements of the Rural Development and Panchayat Raj Department (3) | 13 March 2011 | 034–041 | source-checked |
-| [3539](letters/3539-health-and-family-welfare-five-year-achievements-1.md) | Five-Year Achievements of the Health and Family Welfare Department! (1) | 14 March 2011 | 042–049 | source-checked |
-| [3540](letters/3540-health-and-family-welfare-five-year-achievements-2.md) | Five-Year Achievements of the Health and Family Welfare Department! (2) | 15 March 2011 | 050–056 | source-checked |
-| [3541](letters/3541-do-not-forget-that-i-too-am-with-you.md) | Do Not Forget That I Too Am With You! | 15 March 2011 | 057–060 | source-checked |
+| [3537](letters/3537-rural-development-and-panchayat-raj-five-year-achievements-2.md) | Five-Year Achievements of the Rural Development and Panchayat Raj Department! (Continuation from Yesterday)(2) | 12 March 2011 | 024–033 | source-checked + aligned |
+| [3538](letters/3538-rural-development-and-panchayat-raj-five-year-achievements-3.md) | Five-Year Achievements of the Rural Development and Panchayat Raj Department (3) | 13 March 2011 | 034–041 | source-checked + aligned |
+| [3539](letters/3539-health-and-family-welfare-five-year-achievements-1.md) | Five-Year Achievements of the Health and Family Welfare Department! (1) | 14 March 2011 | 042–049 | source-checked + aligned |
+| [3540](letters/3540-health-and-family-welfare-five-year-achievements-2.md) | Five-Year Achievements of the Health and Family Welfare Department! (2) | 15 March 2011 | 050–056 | source-checked + aligned |
+| [3541](letters/3541-do-not-forget-that-i-too-am-with-you.md) | Do Not Forget That I Too Am With You! | 15 March 2011 | 057–060 | source-checked + aligned |
 | [3542](letters/3542-health-and-family-welfare-five-year-achievements-3.md) | Five-Year Achievements of the Health and Family Welfare Department (3) | 16 March 2011 | 061–068 | source-checked |
 | [3543](letters/3543-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 17 March 2011 | 069–079 | source-checked |
 | [3544](letters/3544-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 18 March 2011 | 080–088 | source-checked |
@@ -78,7 +78,7 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
 | [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
 
-Current coverage: **55 / 55 letters source-checked**, audited canonical PDF **024–401**.
+Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **5 / 55, Letters 3537–3541 / PDF 024–060**.
 
 Batch records:
 
@@ -94,6 +94,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3580_3584.md`](DRAFT_SOURCE_CHECK_3580_3584.md)
 - [`DRAFT_SOURCE_CHECK_3585_3589.md`](DRAFT_SOURCE_CHECK_3585_3589.md)
 - [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CHECK_3590_3591.md) — final drafting batch
+- [`BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md) — first alignment batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -106,8 +107,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-All fifty-five completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a distinct QA gate.
+All fifty-five English records are `source-checked`. Letters **3537–3541** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
 
 ## Exact next activity
 
-Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch. Mark only directly compared and passed records `bilingual-aligned`; create a durable alignment report and keep the later volume-level editorial consistency review separate.
+Align **Letters 3542–3546 / PDF 061–103** as the second five-complete-letter alignment batch. Preserve Letter 3545's unusual printed `112.2006-ல்` on PDF 098 and the later library stamp/handwriting exclusion on Letter 3546 / PDF 102. If alignment exposes a possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level editorial consistency review separate.

@@ -52,16 +52,29 @@ PDF 187 was already one of the historical 243 corrected pages, so the historical
 - Pilot **3537–3539 / PDF 024–049**: PASS / style locked.
 - Ten normal batches through **3585–3589 / PDF 358–390**: PASS / source-checked.
 - Final batch **3590–3591 / PDF 391–401**: PASS / 2 of 2 source-checked.
-- Current English total: **55 / 55 — Letters 3537–3591**.
+- Current English source-check total: **55 / 55 — Letters 3537–3591**.
 - Cumulative translated source coverage: **PDF 024–401**.
-- Bilingual alignment: **0 / 55**; not yet begun.
 
-The final source check preserves Letter 3590's complete local-body election timetable, constituency-classification and nomination dispute, State Election Commission and *Dina Thanthi* material, false-case/re-arrest allegations, election-expense warning, media-bias argument and mobilisation close. Letter 3591 preserves the complete K.P.P. Samy arrest narrative, quoted Samy statement and police-transfer report, the full quoted **21-3-2002** Bala letter, M.K. Balan/Jayakumar/Jothi Krishnan comparisons, Madras High Court/Justice C.P. Selvam passage and the closing Valluvar Kural argument. No Tamil canonical change was required in 3590–3591.
+English main drafting is **COMPLETE — 55 / 55 source-checked**.
 
-## Main drafting closure
+## Bilingual alignment QA boundary
 
-English main drafting is **COMPLETE — 55 / 55 source-checked**. These remain drafts for the purposes of final bilingual verification.
+First alignment batch completed:
+
+- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**.
+- English semantic corrections required/applied: **0**.
+- Tamil canonical corrections required: **0**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`.
+
+The first batch directly checked complete Tamil↔English coverage including titles, salutations, paragraph order, claims, quotations, dates, figures, units, rhetorical force and closings. Existing documented source anomalies in Letters 3539–3540 were retained without external normalisation.
+
+Current English QA totals:
+
+- Source-checked: **55 / 55**.
+- Bilingual-aligned: **5 / 55**.
+- Editorially reviewed: **0 / 55**.
+- Final verified for release: **0 / 55**.
 
 ## Exact next activity
 
-Begin the separate **full bilingual-alignment QA gate** across all 55 letters. Compare each English record directly against authoritative audited Tamil and correct any omission, addition, semantic drift, figure/date/name error, quotation loss or rhetorical-force distortion before marking it bilingual-aligned. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3545's unusual printed `112.2006-ல்` on PDF 098 and the existing exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. If alignment exposes any possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

@@ -4,7 +4,7 @@
 
 Create a clear, faithful English translation of Volume 45 that preserves Kalaignar's thought order, political judgement, evidence, irony, direct address, repetition, rhetorical questions and emotional emphasis without turning the letters into literary or academic rewrites.
 
-The audited canonical Tamil is the immediate translation source. The controlling scan remains the ultimate textual authority.
+The audited canonical Tamil is the immediate translation/alignment source. The controlling scan remains the ultimate textual authority.
 
 ## Tamil QA prerequisite
 
@@ -15,7 +15,7 @@ Both Tamil gates are complete and durable:
 
 Historical second-pass correction tally: **243 canonical page files / 623 correction spans**. Letter 3560 translation/source-check exposed one residual omission on already-corrected PDF 187, directly repaired from the scan. Combined canonical tally: **243 unique page files / 624 scan-proven spans**. See [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
-If translation exposes a possible Tamil discrepancy, stop at that point and re-check the controlling scan before changing either layer.
+If translation or alignment exposes a possible Tamil discrepancy, stop at that point and re-check the controlling scan before changing either layer.
 
 ## Mandatory translator’s note and bilingual order
 
@@ -41,7 +41,7 @@ The Tamil section is never a summary or selected extract.
 6. Preserve names, institutions, dates, figures and units; do not correct them from outside knowledge.
 7. Retain `lakh` and `crore`.
 8. Do not silently repair source anomalies.
-9. A translation-discovered Tamil discrepancy requires targeted scan comparison before either layer changes.
+9. A translation- or alignment-discovered Tamil discrepancy requires targeted scan comparison before either layer changes.
 10. Preserve deliberate source repetition.
 11. Add only minimal explanatory notes.
 12. Keep every translation traceable to its chapter and canonical pages.
@@ -72,15 +72,28 @@ Completed drafting iterations:
 
 Main drafting state: **3537–3591 / 55 of 55 source-checked**, audited canonical PDF **024–401**.
 
-### Phase 3 — Bilingual alignment QA — NEXT
+### Phase 3 — Bilingual alignment QA — IN PROGRESS
+
+Alignment batch 1 is complete:
+
+- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**
+- English semantic corrections required: **0**
+- Tamil canonical corrections required: **0**
+- Durable report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+
+Current cumulative alignment: **5 / 55**.
+
+Exact next alignment batch:
+
+- **3542–3546 / PDF 061–103** — five complete letters / 43 canonical pages.
 
 Compare every English record directly against its authoritative audited Tamil, letter by letter and page by page. Correct any omission, addition, semantic drift, figure/date/name error, quotation loss, paragraph-order change or rhetorical-force distortion before marking a letter bilingual-aligned.
 
-Alignment is a distinct QA gate. Do not treat `source-checked` as final verification.
+Alignment remains distinct from later editorial and release gates. `source-checked` is retained as the drafting status; `bilingual_alignment_status: aligned` records completion of this gate.
 
 ### Phase 4 — English editorial consistency review
 
-Perform a separate volume-level consistency pass only after bilingual alignment.
+Perform a separate volume-level consistency pass only after bilingual alignment is complete across all 55 letters.
 
 ### Phase 5 — Volume release
 
@@ -90,12 +103,12 @@ Prepare the complete English index, translation manifest, editorial review and f
 
 - `draft-translated` — complete English draft exists;
 - `source-checked` — English has been checked for coverage against all audited canonical Tamil pages for that letter;
-- `bilingual-aligned` — direct Tamil↔English meaning/alignment QA complete;
+- `bilingual-aligned` / `bilingual_alignment_status: aligned` — direct Tamil↔English meaning/alignment QA complete;
 - `reviewed` — English meaning, tone and readability passed editorial review;
 - `verified` — final release verification complete.
 
-Letters **3537–3591** are currently **source-checked** drafts. None is yet final bilingual-alignment/release `verified`.
+All **55 / 55** letters are source-checked. **5 / 55** are bilingual-aligned. None has yet passed the later volume-level editorial/release `verified` gate.
 
 ## Exact next activity
 
-Begin the full bilingual-alignment QA gate across all **55 letters**. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3545's printed anomaly `112.2006-ல்` on PDF 098 and the exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. If any possible Tamil defect appears, re-check the controlling scan before changing either layer. Keep the later editorial consistency review separate.

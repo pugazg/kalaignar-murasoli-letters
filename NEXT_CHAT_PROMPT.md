@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3537–3541
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3542–3546
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -36,8 +36,9 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`
+   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
+6. Confirm first alignment batch closure: **3537–3541 / PDF 024–060 — PASS — 5 / 5 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -58,9 +59,16 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **0 / 55**
+- Bilingual-aligned: **5 / 55 — 3537–3541**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
+
+First alignment batch result:
+
+- **3537–3541 / PDF 024–060 / 37 canonical pages**
+- **PASS — 5 / 5 aligned**
+- English semantic corrections: **0**
+- Tamil canonical corrections: **0**
 
 ## SOURCE AUTHORITY
 
@@ -84,20 +92,25 @@ For each bilingual record:
 8. after a letter passes direct Tamil↔English comparison, change its `bilingual_alignment_status` from `pending` to `aligned` while retaining its drafting/source-check history;
 9. record the alignment batch in a durable QA report and update progress/metadata/handover controls.
 
-## EXACT FIRST ALIGNMENT BATCH
+## EXACT NEXT ALIGNMENT BATCH
 
 Align five complete consecutive letters:
 
-- **3537** — PDF **024–033**
-- **3538** — PDF **034–041**
-- **3539** — PDF **042–049**
-- **3540** — PDF **050–056**
-- **3541** — PDF **057–060**
+- **3542** — `மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள் (3)` — PDF **061–068** — 16-03-2011
+- **3543** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **069–079** — 17-03-2011
+- **3544** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **080–088** — 18-03-2011
+- **3545** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **089–098** — 19-03-2011
+- **3546** — `கவசங்களையும் கேடயங்களையும் என்றும் பிரித்திடேன்!` — PDF **099–103** — 19-03-2011
 
-Combined first alignment range: **PDF 024–060 / 37 canonical pages**.
+Combined next alignment range: **PDF 061–103 / 43 canonical pages**.
 
-Create a durable alignment report for **3537–3541**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact next alignment batch from live chapter boundaries.
+Source-specific cautions:
+
+- Letter 3545 / PDF 098 preserves the unusual printed `112.2006-ல்`; do not silently correct it.
+- Letter 3546 / PDF 102 contains later library stamp/handwriting already excluded from canonical edition text; do not reintroduce it.
+
+Create a durable alignment report for **3542–3546**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact next alignment batch from live chapter boundaries.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 
-When I say **“Proceed with next activity”**, execute this first bilingual-alignment batch directly without asking me to choose a routine next step.
+When I say **“Proceed with next activity”**, execute this bilingual-alignment batch directly without asking me to choose a routine next step.

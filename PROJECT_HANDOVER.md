@@ -12,7 +12,7 @@ Read this together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATC
 
 For English work, the audited canonical Tamil is the immediate translation/alignment source. Any alignment check that exposes a possible Tamil discrepancy must trigger targeted direct scan re-verification before either Tamil or English is changed.
 
-## 2. Current active work — Volume 45 English translation
+## 2. Current active work — Volume 45 English bilingual alignment
 
 ### Tamil archival boundary — complete
 
@@ -54,33 +54,50 @@ Drafting record:
 - Ten normal five-letter batches through **3585–3589 / PDF 358–390** — PASS
 - Final batch **3590–3591 / PDF 391–401** — PASS — Tamil changes 0
 
-Current cumulative English state:
+Current cumulative English drafting state:
 
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated canonical source: **PDF 024–401**
-- Bilingual-aligned: **0 / 55**
+
+### Bilingual alignment — IN PROGRESS
+
+First alignment batch completed:
+
+- **3537** — PDF 024–033
+- **3538** — PDF 034–041
+- **3539** — PDF 042–049
+- **3540** — PDF 050–056
+- **3541** — PDF 057–060
+
+Combined range: **PDF 024–060 / 37 canonical pages**.
+
+Result: **PASS — 5 / 5 aligned**.
+
+- English semantic corrections required/applied: **0**
+- Tamil canonical corrections required: **0**
+- Durable report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
+- The aligned letter records retain `translation_status: source-checked` and now carry `bilingual_alignment_status: aligned` plus the batch-report link.
+- Existing source-specific anomalies in Letters 3539–3540 remained preserved; no outside reconstruction was introduced.
+
+Current English QA totals:
+
+- Source-checked: **55 / 55**
+- Bilingual-aligned: **5 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-Latest source-check: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`.
+### Exact next activity — bilingual-alignment batch 3542–3546
 
-The final drafting batch preserves:
+Align five complete consecutive letters:
 
-- **3590:** complete local-body election timetable, withheld constituency-category and nomination dispute, State Election Commission response, *Dina Thanthi* passage, candidate-selection appeal, false-case/re-arrest argument, election-expense warning, media-bias argument and mobilisation close.
-- **3591:** complete K.P.P. Samy arrest narrative, quoted Samy statement, Tiruvottiyur police-transfer report, full quoted **21-3-2002** Bala letter, M.K. Balan/Jayakumar/Jothi Krishnan comparisons, Madras High Court/Justice C.P. Selvam passage and closing Valluvar Kural argument.
+- **3542** — `மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள் (3)` — PDF **061–068** — 16-03-2011
+- **3543** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **069–079** — 17-03-2011
+- **3544** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **080–088** — 18-03-2011
+- **3545** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **089–098** — 19-03-2011
+- **3546** — `கவசங்களையும் கேடயங்களையும் என்றும் பிரித்திடேன்!` — PDF **099–103** — 19-03-2011
 
-All fifty-five English records are **source-checked drafts**, not final `verified` bilingual records.
-
-### Exact next activity — first bilingual-alignment batch
-
-Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch:
-
-- 3537 — PDF 024–033
-- 3538 — PDF 034–041
-- 3539 — PDF 042–049
-- 3540 — PDF 050–056
-- 3541 — PDF 057–060
+Combined next range: **PDF 061–103 / 43 canonical pages**.
 
 For every letter:
 
@@ -89,8 +106,13 @@ For every letter:
 3. check title, paragraph order, names, dates, figures, units, quotations, rhetorical questions, repetition and closing;
 4. correct any omission, addition, semantic drift or factual distortion in English;
 5. if alignment exposes a possible Tamil defect, stop and re-check the controlling scan before changing either layer;
-6. change passed records from `bilingual_alignment_status: pending` to `aligned` while retaining their source-checked drafting history;
-7. create a durable alignment report for 3537–3541 and update cumulative alignment counts and exact next batch.
+6. mark passed records `bilingual_alignment_status: aligned` while retaining their source-checked drafting history;
+7. create a durable alignment report and update cumulative alignment counts and exact next batch.
+
+Source-specific cautions for the next batch:
+
+- Letter 3545 / PDF 098 preserves the unusual printed form `112.2006-ல்`; do not silently correct it.
+- Letter 3546 / PDF 102 contains later library stamp/handwriting already excluded from canonical edition text; do not reintroduce it.
 
 Do **not** merge the later volume-level English editorial consistency review into bilingual alignment.
 
@@ -103,7 +125,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **NEXT, first batch 3537–3541 / PDF 024–060**;
+6. bilingual alignment — **IN PROGRESS; 5 / 55 aligned; next 3542–3546 / PDF 061–103**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 

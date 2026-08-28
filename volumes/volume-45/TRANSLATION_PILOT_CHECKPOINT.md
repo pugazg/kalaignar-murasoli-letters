@@ -14,7 +14,7 @@ The pilot was translated only from the scan-audited canonical Tamil. No Tamil ca
 
 Each record contains source metadata, the locked translator’s note, complete English translation, necessary letter-specific notes, and the complete audited Tamil under **Original Tamil — மூலத் தமிழ்**.
 
-The pilot handed off to the main drafting cadence. Ten normal five-letter batches and one final two-letter batch are now complete and source-checked:
+The pilot handed off to the main drafting cadence. Ten normal five-letter batches and one final two-letter batch are complete and source-checked:
 
 - **3540–3544 / PDF 050–088** — [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
 - **3545–3549 / PDF 089–122** — [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md)
@@ -32,8 +32,19 @@ The fifth batch exposed one residual Tamil omission on PDF 187. It was directly 
 
 Current cumulative English drafting boundary: **3537–3591 / 55 of 55 source-checked**, PDF **024–401**.
 
-The separate bilingual-alignment/release gate has **not** begun. Completed records remain `source-checked`, not final `verified` records.
+## Bilingual alignment gate — begun
+
+The first direct Tamil↔English alignment batch is complete:
+
+- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**
+- English semantic corrections: **0**
+- Tamil canonical corrections: **0**
+- Report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+
+The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
+
+Current cumulative alignment: **5 / 55**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Begin the distinct **full bilingual-alignment QA gate** across all 55 English records, comparing each directly against authoritative audited Tamil. Keep the later volume-level editorial consistency review separate.
+Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3545's printed `112.2006-ல்` and the source-layer exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. Do not begin the later volume-level editorial consistency review.

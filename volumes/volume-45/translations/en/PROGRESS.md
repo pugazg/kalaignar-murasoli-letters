@@ -9,7 +9,8 @@
 - [x] Translation-discovered PDF 187 Tamil omission directly rechecked against scan and repaired
 - [x] Main translation drafting — **55 / 55 source-checked**
 - [ ] Full bilingual alignment review
-  - [ ] **3537–3541 / PDF 024–060** — exact first alignment batch
+  - [x] **3537–3541 / PDF 024–060** — PASS — 5/5 aligned, English corrections 0, Tamil changes 0
+  - [ ] **3542–3546 / PDF 061–103** — exact next alignment batch
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
 
@@ -19,10 +20,11 @@
 - Letter range: **3537–3591**
 - Draft-translated: **55 / 55** — 3537–3591
 - Source-checked: **55 / 55** — 3537–3591
-- Bilingual-aligned: **0 / 55**
+- Bilingual-aligned: **5 / 55** — 3537–3541
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
 - Cumulative translated canonical source coverage: PDF **024–401**
+- Cumulative bilingual-aligned canonical source coverage: PDF **024–060**
 
 ## Drafting batches
 
@@ -43,19 +45,38 @@
 
 Current source-check record: [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CHECK_3590_3591.md).
 
+## Bilingual alignment batches
+
+| Batch | Letters | PDF range | Result | English corrections | Tamil changes |
+|---|---:|---:|---|---:|---:|
+| Alignment 1 | 3537–3541 | 024–060 | PASS — 5/5 aligned | 0 | 0 |
+
+Current alignment record: [`BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md).
+
 ## Tamil correction accounting
 
-The historical completed second full-volume direct-scan fidelity audit remains **243 corrected canonical page files / 623 correction spans**. Translation of Letter 3560 exposed one residual omission on already-corrected PDF 187; direct scan comparison restored its omitted physical-page tail. The combined scan-proven tally remains **243 unique corrected pages / 624 spans**. No additional Tamil correction was required during batches 3565–3591.
+The historical completed second full-volume direct-scan fidelity audit remains **243 corrected canonical page files / 623 correction spans**. Translation of Letter 3560 exposed one residual omission on already-corrected PDF 187; direct scan comparison restored its omitted physical-page tail. The combined scan-proven tally remains **243 unique corrected pages / 624 spans**. No additional Tamil correction was required during drafting batches 3565–3591 or alignment batch 3537–3541.
 
-## Final drafting batch — source-specific points
+## Alignment 3537–3541 — source-specific points
 
-- **3590:** complete local-body election timetable, withheld constituency-category argument, nomination-form and State Election Commission material, *Dina Thanthi* passage, candidate-selection appeal, false-case/re-arrest argument, election-expense warning, media-bias argument and closing mobilisation call.
-- **3591:** complete K.P.P. Samy arrest narrative, quoted Samy statement, Tiruvottiyur police-transfer report, 2001 comparison, full quoted **21-3-2002** Bala letter passage, M.K. Balan/Jayakumar/Jothi Krishnan discussion, Madras High Court/Justice C.P. Selvam passage and closing Valluvar Kural argument.
+- **3537:** complete MGNREGS, Samathuvapuram, housing, roads, constituency-development, staffing, People's Welfare Worker and self-help-group figures align; PDF 032's dense exhibition wording remains unreconciled externally.
+- **3538:** complete Vazhnthu Kattuvom, TEAP, disability/coastal livelihood, Rajiv Gandhi rehabilitation/reconstruction and ETRP-VRCCP sequence aligns.
+- **3539:** complete health-scheme and PHC sequence aligns; anomalous `21 இலட்சத்து 75 நபர்கள்` remains represented as **21 lakh and 75 people**.
+- **3540:** PDF 051 garble `எனைநடி ஊடிகேநசநடேந`, PDF 055 `32.06 மாணவர்கள்`, and PDF 056 `நாஸிங் தெரபி` remain deliberately preserved/represented rather than externally repaired.
+- **3541:** interview/alliance/candidate/manifesto/campaign chronology and the personal closing appeal align without semantic correction.
 
 ## QA status
 
-All fifty-five English records are **source-checked drafts**, not final `verified` records. Main drafting is complete. The separate bilingual-alignment gate has not begun.
+All fifty-five English records remain **source-checked drafts**. Five records, **3537–3541**, have additionally passed the distinct bilingual meaning-level alignment gate. They are `bilingual-aligned`, but they are not yet editorially reviewed or final `verified` release records.
 
 ## Exact next activity
 
-Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch. Compare each English record directly against authoritative audited Tamil, correct omission/addition/semantic drift, mark passed records `bilingual-aligned`, create a durable alignment report, and keep the later volume-level English editorial consistency review separate.
+Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch:
+
+- 3542 — PDF 061–068
+- 3543 — PDF 069–079
+- 3544 — PDF 080–088
+- 3545 — PDF 089–098
+- 3546 — PDF 099–103
+
+Combined range: **43 canonical pages**. Preserve Letter 3545's unusual printed `112.2006-ல்` on PDF 098 and the later library stamp/handwriting exclusion on Letter 3546 / PDF 102. Compare each English record directly against authoritative audited Tamil, correct only demonstrated English omission/addition/semantic drift, and re-check the controlling scan before changing Tamil if a possible Tamil defect appears. Keep the later volume-level editorial consistency review separate.
