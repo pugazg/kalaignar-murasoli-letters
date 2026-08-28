@@ -49,33 +49,30 @@ Completed batches:
 
 1. **3537–3541 / PDF 024–060 / 37 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`.
 2. **3542–3546 / PDF 061–103 / 43 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`.
+3. **3547–3551 / PDF 104–141 / 38 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`.
 
-Second-batch correction: Letter 3545 / PDF 091 prints `தொழில் வரி உரிமம்` and continues with `தொழில்வரி`. The earlier English **Trade licences** wording was corrected to **Profession-tax licences** / **profession-tax revenue**. This is an English-only correction. Canonical Tamil did not change.
+The second batch's English-only correction was in Letter 3545: source `தொழில் வரி உரிமம்` / `தொழில்வரி` is represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil did not change.
 
-Source cautions retained during the second batch:
-
-- Letter 3545 / PDF 098 preserves `112.2006-ல்` exactly.
-- Letter 3546 / PDF 102 later library stamp/handwriting remains excluded from canonical edition text.
-- Letter 3544 source forms `94 இலட்சம் மக்கள்` and `ஒப்பங்கள்` remain unreconciled externally.
+The third batch required no English or Tamil correction. Source-specific cautions remained preserved, including Letter 3548's PDF 114 `4 கோடியே 58 ஆயிரம் ரூபாய்`, Letter 3550's source-supplied English Election Commission sentence, and Letter 3551's PDF 139 **20 acres / ₹8 crore** Semmozhi Park figures without cross-letter reconciliation.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**
-- Bilingual-aligned: **10 / 55 — 3537–3546 / PDF 024–103**
+- Bilingual-aligned: **15 / 55 — 3537–3551 / PDF 024–141**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — bilingual-alignment batch 3547–3551
+### Exact next activity — bilingual-alignment batch 3552–3556
 
 Align five complete consecutive letters:
 
-- **3547** — PDF **104–110**
-- **3548** — PDF **111–118**
-- **3549** — PDF **119–122**
-- **3550** — PDF **123–128**
-- **3551** — PDF **129–141**
+- **3552** — `யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்!` — PDF **142–144** — 30-03-2011
+- **3553** — `“குற்றம் பார்க்கின் சுற்றம் இல்லை”!` — PDF **145–149** — 05-04-2011
+- **3554** — `மதிப்பிற்குரிய மதிப்பெண் என்ன?` — PDF **150–154** — 13-04-2011
+- **3555** — `அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!` — PDF **155–159** — 17-04-2011
+- **3556** — `பார்த்தும் மறந்தாரே “காரத்”!` — PDF **160–163** — 21-04-2011
 
-Combined next range: **PDF 104–141 / 38 canonical pages**.
+Combined next range: **PDF 142–163 / 22 canonical pages**.
 
 For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
 
@@ -90,7 +87,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 10 / 55 aligned; next 3547–3551 / PDF 104–141**;
+6. bilingual alignment — **IN PROGRESS; 15 / 55 aligned; next 3552–3556 / PDF 142–163**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 

@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 10 / 55.
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 15 / 55.
 
 ## Controlling source
 
@@ -26,13 +26,14 @@ Direct scan verification resolved Letter 3576 to `உலகப் புகழ�
 - Cumulative translated canonical source: **PDF 024–401**
 - Alignment batch 1 **3537–3541 / PDF 024–060** — **PASS / 5 of 5 aligned**
 - Alignment batch 2 **3542–3546 / PDF 061–103** — **PASS / 5 of 5 aligned**
-- English corrections during second alignment batch: **1**
-- Tamil canonical changes during second alignment batch: **0**
-- Bilingual-aligned: **10 / 55 — 3537–3546 / PDF 024–103**
+- Alignment batch 3 **3547–3551 / PDF 104–141** — **PASS / 5 of 5 aligned**
+- English corrections during third alignment batch: **0**
+- Tamil canonical changes during third alignment batch: **0**
+- Bilingual-aligned: **15 / 55 — 3537–3551 / PDF 024–141**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-The second meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, lists, rhetoric, closings and documented source anomalies. Letter 3545 required one English-only correction: the audited `தொழில் வரி உரிமம்` / `தொழில்வரி` passage is now rendered **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. PDF 098 `112.2006-ல்` remains preserved and PDF 102's later library stamp/handwriting remains excluded from canonical edition text.
+The third meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, lists, rhetoric, closings and documented source-specific forms. No English semantic correction and no Tamil canonical correction was required. Letter 3551's PDF 139 source-specific **20 acres / ₹8 crore** Semmozhi Park figures remain preserved without cross-letter reconciliation.
 
 English controls:
 
@@ -44,9 +45,10 @@ English controls:
 - [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
 
 ## Exact next activity
 
-Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter bilingual-alignment batch. Re-check the controlling scan before changing Tamil if any possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3552–3556 / PDF 142–163** as the next five-complete-letter bilingual-alignment batch. Re-check the controlling scan before changing Tamil if any possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.

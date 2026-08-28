@@ -11,7 +11,8 @@ source_printed_page_end: 140
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md"
 ---
 
 # 3551. Achievements We Accomplished So the Country May Prosper!
@@ -378,7 +379,7 @@ The text below is reproduced in full from the audited canonical Tamil page files
 
 சுய உதவிக் குழு உறுப்பினர்களாகிய 56,748 இளைஞர்களுக்குத் தொழிற்பயிற்சிகள் வழங்கப்பட்டுள்ளன.
 
-2,549 கோடி ரூபாய் செலவில் 12 ஆயிரத்து 618 கிராம ஊராட்சிகளில் அனைத்துக் கிராம அண்ணா மறுமலர்ச்சித் திட்டத்தின்கீழ் அடிப்படைக் கட்டமைப்பு மேம்பாட்டுப் பணிகள்;
+2,549 கோடி ரூபாய்ச் செலவில் 12 ஆயிரத்து 618 கிராம ஊராட்சிகளில் அனைத்துக் கிராம அண்ணா மறுமலர்ச்சித் திட்டத்தின்கீழ் அடிப்படைக் கட்டமைப்பு மேம்பாட்டுப் பணிகள்;
 
 அதேபோல, அனைத்துப் பேரூராட்சி அண்ணா மறுமலர்ச்சித் திட்டத்தின்கீழ் 280 கோடி ரூபாய்ச் செலவில் 561 பேரூராட்சிகளில் கட்டமைப்புப் பணிகள்;
 

@@ -38,18 +38,18 @@ Completed alignment batches:
 
 - **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
-
-Second-batch English correction: Letter 3545's audited `தொழில் வரி உரிமம்` / `தொழில்வரி` passage is now represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil did not change.
+- **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 
 Reports:
 
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
 
 The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
 
-Current cumulative alignment: **10 / 55 — 3537–3546 / PDF 024–103**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+Current cumulative alignment: **15 / 55 — 3537–3551 / PDF 024–141**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter bilingual-alignment batch. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3552–3556 / PDF 142–163** as the next five-complete-letter bilingual-alignment batch. Do not begin the later volume-level editorial consistency review.
