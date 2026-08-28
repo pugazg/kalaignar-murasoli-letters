@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3572–3576
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3577–3581
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -36,9 +36,9 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - all bilingual alignment reports through `BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`
+   - every completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` through `BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm cumulative alignment closure: **3537–3571 / PDF 024–260 — 35 / 55 aligned**.
+6. Confirm cumulative alignment closure: **3537–3576 / PDF 024–289 — 40 / 55 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -59,25 +59,18 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **35 / 55 — 3537–3571 / PDF 024–260**
+- Bilingual-aligned: **40 / 55 — 3537–3576 / PDF 024–289**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-Alignment batch results:
+Latest alignment batch:
 
-- **3537–3541 / PDF 024–060** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
-- **3542–3546 / PDF 061–103** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
-- **3547–3551 / PDF 104–141** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
-- **3552–3556 / PDF 142–163** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
-- **3557–3561 / PDF 164–196** — PASS — 5 / 5; English corrections 2; Tamil changes 0.
-- **3562–3566 / PDF 197–230** — PASS — 5 / 5; English corrections 2; Tamil changes 0.
-- **3567–3571 / PDF 231–260** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
-
-Seventh-batch English-only correction:
-
-- **Letter 3571:** source `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` is now represented as **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”** rather than the softer “such an accused person.”
-
-Established source forms remain preserved, including PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, the Letter 3575 contents/start punctuation difference, and the scan-proven Letter 3576 `பாரீர்!` title.
+- **3572–3576 / PDF 261–289** — **PASS — 5 / 5**; English corrections **2**; Tamil changes **0**.
+- Letter 3573: PDF 268 `இனி தொலைவாய்` is now **“Now, be gone!”** instead of “Your time is now ending!”.
+- Letter 3576: `போர்க் குற்றங்களை அடுத்து` is now **“following the war crimes”**, removing unsupported “war-crime allegations”.
+- Letter 3575's genuine contents `...!` versus letter-start `....!` distinction remains preserved.
+- Letter 3576 remains scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`.
+- PDF 276 source-supplied Supreme Court English, including `xxx` / `xxxx”`, remains verbatim.
 
 ## SOURCE AUTHORITY
 
@@ -105,21 +98,19 @@ For each bilingual record:
 
 Align five complete consecutive letters:
 
-- **3572** — `“100” கருணாநிதிகளால் முடியாதுதான்!` — PDF **261–265** — 19-7-2011
-- **3573** — `அல்லல் நீங்கும்; தொல்லை குறையும்!` — PDF **266–268** — 21-7-2011
-- **3574** — `அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!` — PDF **269–274** — 28-7-2011
-- **3575** — `அந்த நாள் முதல் இந்த நாள் வரையில்....!` — PDF **275–283** — 30-7-2011
-- **3576** — `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!` — PDF **284–289** — 31-7-2011
+- **3577** — `மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே!` — PDF **290–305** — 3-8-2011
+- **3578** — `உனக்கொரு நீதி; ஊருக்கொரு நீதியா?` — PDF **306–312** — 5-8-2011
+- **3579** — `வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?` — PDF **313–319** — 6-8-2011
+- **3580** — `பரவாயில்லை; ஆடும் வரை ஆடட்டும்!` — PDF **320–327** — 12-08-2011
+- **3581** — `மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!` — PDF **328–337** — 13-8-2011
 
-Combined next alignment range: **PDF 261–289 / 29 canonical pages**.
+Combined next alignment range: **PDF 290–337 / 48 canonical pages**.
 
-**Source cautions:**
+Established source caution in this range:
 
-- Letter 3575 has a genuine source-context title difference: contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` versus actual letter-start `அந்த நாள் முதல் இந்த நாள் வரையில்....!`. Preserve each in its own source context.
-- Letter 3576 is scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the former stale `பார்!` reading is withdrawn.
-- PDF 276 contains source-supplied English `xxxx”`; preserve it exactly if encountered in alignment.
+- PDF **290** preserves `18-5-2001` exactly. Do not silently reconcile that date with chronology or outside knowledge.
 
-Create a durable alignment report for **3572–3576**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
+Create a durable alignment report for **3577–3581**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 

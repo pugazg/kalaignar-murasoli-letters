@@ -15,7 +15,6 @@ Status: **PASS**
 - Back cover / publisher matter: PDF 402.
 - No partial source letter remains.
 - Chapter ranges and contents mappings reconcile with the canonical page layer.
-- See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
 Status: **PASS — verified PDF 001–402 / 402**
@@ -33,8 +32,6 @@ Status: **CORRECTED, then PASS — 2026-08-28**
 
 During English drafting/source-check of Letter 3560, the canonical PDF 187→188 transition exposed an omitted physical-page tail. Direct scan comparison restored the omitted end of the Wall Street Journal quotation and the beginning of the Oxford Analytica / `India Deconstructed` passage through `என்ற ஒரு ஆய்வை`.
 
-`pages/page-187.md` was corrected from the scan before Letter 3560 was marked source-checked. No wording was reconstructed from outside knowledge. The complete correction is documented in `translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`.
-
 PDF 187 was already one of the historical 243 corrected pages, so the historical tally remains **243 / 623**. This targeted repair adds **1 scan-proven correction span**, making the combined canonical correction tally **243 unique corrected page files / 624 spans**.
 
 ## Current Tamil QA boundary
@@ -45,7 +42,7 @@ PDF 187 was already one of the historical 243 corrected pages, so the historical
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3591 and alignment batches 3537–3571 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3591 and alignment batches 3537–3576 exposed **no additional Tamil canonical correction**.
 
 ## English drafting QA boundary
 
@@ -61,35 +58,28 @@ English main drafting is **COMPLETE — 55 / 55 source-checked**.
 
 Completed alignment batches:
 
-- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
-- **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
-- **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
-- **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
-- **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
-- **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
-- **3567–3571 / PDF 231–260** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
+- **3537–3541 / PDF 024–060** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
+- **3547–3551 / PDF 104–141** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
+- **3552–3556 / PDF 142–163** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
+- **3557–3561 / PDF 164–196** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.
+- **3562–3566 / PDF 197–230** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.
+- **3567–3571 / PDF 231–260** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
+- **3572–3576 / PDF 261–289** — **PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.**
 
-Current cumulative alignment: **35 / 55 — Letters 3537–3571 / PDF 024–260**.
+Current cumulative alignment: **40 / 55 — Letters 3537–3576 / PDF 024–289**.
 
-The seventh batch made one English-only source-characterisation correction. Letter 3571 now preserves the force of `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` as **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”**, replacing the softer “such an accused person.” Canonical Tamil did not change. Established anomalies PDF 233, PDF 248 and PDF 259 remain source-faithful.
+The eighth batch made two English-only corrections. Letter 3573 now renders PDF 268 `இனி தொலைவாய்` as **“Now, be gone!”** rather than “Your time is now ending!”. Letter 3576 now follows `போர்க் குற்றங்களை அடுத்து` as **“following the war crimes”**, removing the unsupported qualification “war-crime allegations”. Canonical Tamil did not change.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**.
-- Bilingual-aligned: **35 / 55**.
+- Bilingual-aligned: **40 / 55**.
 - Editorially reviewed: **0 / 55**.
 - Final verified for release: **0 / 55**.
 
-Durable alignment reports:
-
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`
-- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`
+Latest durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`.
 
 ## Exact next activity
 
-Align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3575's genuine source-context title difference—contents `...!` versus actual letter-start `....!`—and the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; stale `பார்!` remains withdrawn. Preserve source-supplied English such as PDF 276 `xxxx”` exactly. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 290 `18-5-2001` exactly in canonical Tamil and English source handling. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

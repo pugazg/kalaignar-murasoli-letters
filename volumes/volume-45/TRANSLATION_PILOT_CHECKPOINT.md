@@ -6,60 +6,31 @@
 
 The pilot was translated only from the scan-audited canonical Tamil. No Tamil canonical file changed during the English pilot.
 
-## Completed pilot bilingual records
+## Drafting closure
 
-- 3537 — `translations/en/letters/3537-rural-development-and-panchayat-raj-five-year-achievements-2.md`
-- 3538 — `translations/en/letters/3538-rural-development-and-panchayat-raj-five-year-achievements-3.md`
-- 3539 — `translations/en/letters/3539-health-and-family-welfare-five-year-achievements-1.md`
-
-Each record contains source metadata, the locked translator’s note, complete English translation, necessary letter-specific notes, and the complete audited Tamil under **Original Tamil — மூலத் தமிழ்**.
-
-The pilot handed off to the main drafting cadence. Ten normal five-letter batches and one final two-letter batch are complete and source-checked:
-
-- **3540–3544 / PDF 050–088** — [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
-- **3545–3549 / PDF 089–122** — [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md)
-- **3550–3554 / PDF 123–154** — [`translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`](translations/en/DRAFT_SOURCE_CHECK_3550_3554.md)
-- **3555–3559 / PDF 155–180** — [`translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`](translations/en/DRAFT_SOURCE_CHECK_3555_3559.md)
-- **3560–3564 / PDF 181–217** — [`translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`](translations/en/DRAFT_SOURCE_CHECK_3560_3564.md)
-- **3565–3569 / PDF 218–248** — [`translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`](translations/en/DRAFT_SOURCE_CHECK_3565_3569.md)
-- **3570–3574 / PDF 249–274** — [`translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`](translations/en/DRAFT_SOURCE_CHECK_3570_3574.md)
-- **3575–3579 / PDF 275–319** — [`translations/en/DRAFT_SOURCE_CHECK_3575_3579.md`](translations/en/DRAFT_SOURCE_CHECK_3575_3579.md)
-- **3580–3584 / PDF 320–357** — [`translations/en/DRAFT_SOURCE_CHECK_3580_3584.md`](translations/en/DRAFT_SOURCE_CHECK_3580_3584.md)
-- **3585–3589 / PDF 358–390** — [`translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`](translations/en/DRAFT_SOURCE_CHECK_3585_3589.md)
-- **3590–3591 / PDF 391–401** — [`translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`](translations/en/DRAFT_SOURCE_CHECK_3590_3591.md)
-
-The fifth drafting batch exposed one residual Tamil omission on PDF 187. It was directly rechecked against the controlling scan and repaired before source-check closure; the event is documented in [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md). Batches 3565–3591 exposed no new Tamil canonical discrepancy requiring correction.
-
-Current cumulative English drafting boundary: **3537–3591 / 55 of 55 source-checked**, PDF **024–401**.
+The pilot handed off to ten normal drafting batches and one final two-letter batch. Main drafting is now **COMPLETE — 55 / 55 source-checked, Letters 3537–3591 / PDF 024–401**. Letter 3560 source-check exposed one residual Tamil omission on PDF 187; it was directly rechecked against the controlling scan and repaired. Later drafting batches exposed no new Tamil canonical discrepancy.
 
 ## Bilingual alignment gate — in progress
 
 Completed alignment batches:
 
-- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
-- **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
-- **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
-- **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
-- **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
-- **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
-- **3567–3571 / PDF 231–260** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
+- **3537–3541 / PDF 024–060** — PASS; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — PASS; English corrections 1; Tamil changes 0.
+- **3547–3551 / PDF 104–141** — PASS; English corrections 0; Tamil changes 0.
+- **3552–3556 / PDF 142–163** — PASS; English corrections 1; Tamil changes 0.
+- **3557–3561 / PDF 164–196** — PASS; English corrections 2; Tamil changes 0.
+- **3562–3566 / PDF 197–230** — PASS; English corrections 2; Tamil changes 0.
+- **3567–3571 / PDF 231–260** — PASS; English corrections 1; Tamil changes 0.
+- **3572–3576 / PDF 261–289** — **PASS; English corrections 2; Tamil changes 0.**
 
-Reports:
+Latest report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md).
 
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md)
+The eighth batch made two English-only corrections: Letter 3573 now preserves PDF 268 `இனி தொலைவாய்` as **“Now, be gone!”**; Letter 3576 now follows `போர்க் குற்றங்களை அடுத்து` as **“following the war crimes”**, removing the unsupported “war-crime allegations” qualification. Canonical Tamil did not change.
 
-The seventh batch made one English-only source-characterisation correction in Letter 3571: source `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` is now represented as **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”** rather than the softer “such an accused person.” Canonical Tamil did not change.
+The aligned records retain `translation_status: source-checked` and use `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
 
-The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
-
-Current cumulative alignment: **35 / 55 — 3537–3571 / PDF 024–260**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+Current cumulative alignment: **40 / 55 — 3537–3576 / PDF 024–289**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3575's genuine contents `...!` versus actual letter-start `....!` title difference and the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; stale `பார்!` remains withdrawn. Preserve source-supplied English such as PDF 276 `xxxx”` exactly. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 290 `18-5-2001` exactly. Do not begin the later volume-level editorial consistency review.

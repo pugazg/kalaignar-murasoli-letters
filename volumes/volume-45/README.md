@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 35 / 55.
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 40 / 55.
 
 ## Controlling source
 
@@ -24,20 +24,20 @@ Direct scan verification resolved Letter 3576 to `உலகப் புகழ�
 
 - Main drafting/source-check: **55 / 55 — COMPLETE**
 - Cumulative translated canonical source: **PDF 024–401**
-- Alignment batch 1 **3537–3541 / PDF 024–060** — **PASS / 5 of 5 aligned**
-- Alignment batch 2 **3542–3546 / PDF 061–103** — **PASS / 5 of 5 aligned**
-- Alignment batch 3 **3547–3551 / PDF 104–141** — **PASS / 5 of 5 aligned**
-- Alignment batch 4 **3552–3556 / PDF 142–163** — **PASS / 5 of 5 aligned**
-- Alignment batch 5 **3557–3561 / PDF 164–196** — **PASS / 5 of 5 aligned**
-- Alignment batch 6 **3562–3566 / PDF 197–230** — **PASS / 5 of 5 aligned**
-- Alignment batch 7 **3567–3571 / PDF 231–260** — **PASS / 5 of 5 aligned**
-- English corrections during seventh alignment batch: **1**
-- Tamil canonical changes during seventh alignment batch: **0**
-- Bilingual-aligned: **35 / 55 — 3537–3571 / PDF 024–260**
+- Alignment batches 1–7 through **3567–3571 / PDF 231–260** — PASS
+- Alignment batch 8 **3572–3576 / PDF 261–289** — **PASS / 5 of 5 aligned**
+- English corrections during eighth alignment batch: **2**
+- Tamil canonical changes during eighth alignment batch: **0**
+- Bilingual-aligned: **40 / 55 — 3537–3576 / PDF 024–289**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-The seventh meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, quotations, rhetoric and closings. Letter 3571 required one English-only source-characterisation correction: `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` is now represented as **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”** rather than the softer “such an accused person.” Canonical Tamil remained unchanged. Established anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` remain preserved.
+The eighth meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, quotations, rhetoric and closings. Two English-only corrections were required:
+
+1. **Letter 3573:** PDF 268 `இனி தொலைவாய்` is now rendered directly as **“Now, be gone!”**, replacing the softer **“Your time is now ending!”**.
+2. **Letter 3576:** source `போர்க் குற்றங்களை அடுத்து` is now represented as **“following the war crimes”**, removing the unsupported qualification **“war-crime allegations.”**
+
+Canonical Tamil remained unchanged. Letter 3575's genuine three-dot/four-dot contents/start distinction remains intact; Letter 3576 retains the scan-proven `பாரீர்!` title; PDF 276 source-supplied English remains verbatim.
 
 English controls:
 
@@ -47,16 +47,18 @@ English controls:
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md)
 
 ## Exact next activity
 
-Align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter bilingual-alignment batch. Preserve the genuine Letter 3575 source-context title difference—contents `...!` versus actual letter-start `....!`—and the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the stale `பார்!` reading remains withdrawn. Re-check the controlling scan before changing Tamil if any new possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter bilingual-alignment batch:
+
+- 3577 — PDF 290–305
+- 3578 — PDF 306–312
+- 3579 — PDF 313–319
+- 3580 — PDF 320–327
+- 3581 — PDF 328–337
+
+Combined range: **48 canonical pages**. Preserve the established PDF 290 source anomaly `18-5-2001` exactly. Re-check the controlling scan before changing Tamil if any new possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.

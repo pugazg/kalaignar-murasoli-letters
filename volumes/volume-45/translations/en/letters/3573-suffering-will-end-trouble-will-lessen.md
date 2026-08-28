@@ -11,7 +11,8 @@ source_printed_page_end: 267
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md"
 ---
 
 # 3573. Suffering Will End; Trouble Will Lessen!
@@ -65,7 +66,7 @@ Declaring that it will accomplish whatever it thinks of, announcing schemes exac
 
 > “Where is the opposition comrade? Where is his family? Where can they go without being caught in my treacherous net?”
 
-Drawing a curtain of falsehood, darkening the eyes of those who live on this earth, how much longer does it think it can deceive the people here? That cry is heard wherever one turns! From all eight directions comes the cry: **“Your time is now ending!”**
+Drawing a curtain of falsehood, darkening the eyes of those who live on this earth, how much longer does it think it can deceive the people here? That cry is heard wherever one turns! From all eight directions comes the cry: **“Now, be gone!”**
 
 This is the condition of Tamil Nadu today.
 

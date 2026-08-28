@@ -18,7 +18,7 @@ Translation and alignment are made from the scan-verified canonical Tamil. The c
 
 ## Translation and alignment status
 
-Main drafting is complete: all **55 / 55** letters are source-checked. Seven bilingual meaning-level alignment batches, through **3567–3571 / PDF 231–260**, have passed. Current cumulative alignment is **35 / 55 — 3537–3571 / PDF 024–260**. The seventh batch required **1 English-only correction** and **0 Tamil canonical changes**.
+Main drafting is complete: all **55 / 55** letters are source-checked. Eight bilingual meaning-level alignment batches, through **3572–3576 / PDF 261–289**, have passed. Current cumulative alignment is **40 / 55 — 3537–3576 / PDF 024–289**. The eighth batch required **2 English-only corrections** and **0 Tamil canonical changes**.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -57,11 +57,11 @@ Main drafting is complete: all **55 / 55** letters are source-checked. Seven bil
 | [3569](letters/3569-will-there-be-a-power-shortage-in-the-future.md) | Will There Be a Power Shortage in the Future? | 18 June 2011 | 242–248 | source-checked + aligned |
 | [3570](letters/3570-this-letter-is-but-a-drop-of-hope.md) | This Letter Is but a Drop of Hope! | 19 June 2011 | 249–255 | source-checked + aligned |
 | [3571](letters/3571-one-example-is-enough.md) | One Example Is Enough! | 30 June 2011 | 256–260 | source-checked + aligned |
-| [3572](letters/3572-even-100-karunanidhis-could-not-do-it.md) | “Even 100 Karunanidhis Could Not Do It!” | 19 July 2011 | 261–265 | source-checked |
-| [3573](letters/3573-suffering-will-end-trouble-will-lessen.md) | Suffering Will End; Trouble Will Lessen! | 21 July 2011 | 266–268 | source-checked |
-| [3574](letters/3574-the-path-of-peace-the-righteous-path-that-is-annas-path.md) | The Path of Peace—the Righteous Path—That Is Anna's Path! | 28 July 2011 | 269–274 | source-checked |
-| [3575](letters/3575-from-that-day-to-this-day.md) | From That Day to This Day....! | 30 July 2011 | 275–283 | source-checked |
-| [3576](letters/3576-behold-the-world-famous-noble-tamil-woman.md) | Behold the World-Famous Noble Tamil Woman! | 31 July 2011 | 284–289 | source-checked |
+| [3572](letters/3572-even-100-karunanidhis-could-not-do-it.md) | “Even 100 Karunanidhis Could Not Do It!” | 19 July 2011 | 261–265 | source-checked + aligned |
+| [3573](letters/3573-suffering-will-end-trouble-will-lessen.md) | Suffering Will End; Trouble Will Lessen! | 21 July 2011 | 266–268 | source-checked + aligned |
+| [3574](letters/3574-the-path-of-peace-the-righteous-path-that-is-annas-path.md) | The Path of Peace—the Righteous Path—That Is Anna's Path! | 28 July 2011 | 269–274 | source-checked + aligned |
+| [3575](letters/3575-from-that-day-to-this-day.md) | From That Day to This Day....! | 30 July 2011 | 275–283 | source-checked + aligned |
+| [3576](letters/3576-behold-the-world-famous-noble-tamil-woman.md) | Behold the World-Famous Noble Tamil Woman! | 31 July 2011 | 284–289 | source-checked + aligned |
 | [3577](letters/3577-the-list-from-three-months-of-rule-leaves-one-breathless.md) | The List from Just Three Months of Rule Leaves One Breathless! | 3 August 2011 | 290–305 | source-checked |
 | [3578](letters/3578-one-rule-for-you-another-for-the-rest.md) | One Rule for You; Another for Everyone Else? | 5 August 2011 | 306–312 | source-checked |
 | [3579](letters/3579-is-a-tax-free-budget-not-a-distilled-falsehood.md) | Is a Tax-Free Budget Not a Distilled Falsehood? | 6 August 2011 | 313–319 | source-checked |
@@ -78,33 +78,22 @@ Main drafting is complete: all **55 / 55** letters are source-checked. Seven bil
 | [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
 | [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
 
-Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **35 / 55, Letters 3537–3571 / PDF 024–260**.
+Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **40 / 55, Letters 3537–3576 / PDF 024–289**.
 
 ## Batch records
 
-Draft/source-check reports remain in this directory. Bilingual alignment reports completed so far:
-
-- [`BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
-- [`BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
-- [`BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
-- [`BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
-- [`BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
-- [`BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
-- [`BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`](BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md)
-- [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
-
-See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
+Draft/source-check reports remain in this directory. Bilingual alignment reports completed so far include the latest [`BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`](BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md). See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
 
 ## Standard bilingual layout
 
-Every letter contains source/translation metadata, the standard translator’s note, canonical source links and date, complete English translation, only necessary letter-specific notes, and the complete audited Tamil under **Original Tamil — மூலத் தமிழ்**.
+Every letter contains source/translation metadata, the standard translator's note, canonical source links and date, complete English translation, only necessary letter-specific notes, and the complete audited Tamil under **Original Tamil — மூலத் தமிழ்**.
 
 `Udanpirappē` is retained as Kalaignar's distinctive address. The standard closing is **With affection, M.K.**
 
 ## QA boundary
 
-All fifty-five English records are `source-checked`. Letters **3537–3571** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
+All fifty-five English records are `source-checked`. Letters **3537–3576** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
 
 ## Exact next activity
 
-Align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter alignment batch. Preserve Letter 3575's genuine contents `...!` versus actual letter-start `....!` title difference, the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`, and source-supplied English such as PDF 276 `xxxx”`. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter alignment batch. Preserve PDF 290 `18-5-2001` exactly. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

@@ -11,7 +11,8 @@ source_printed_page_end: 288
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md"
 ---
 
 # 3576. Behold the World-Famous Noble Tamil Woman!
@@ -46,7 +47,7 @@ It is this Prakash M. Swamy, who caused that report, who now says that J.'s cour
 
 Some others are practically saying that because Jayalalithaa passed a resolution in the Assembly, America has already imposed economic sanctions on Sri Lanka, and they are offering praise. A poster for an evening paper two days ago printed: “America imposes economic sanctions on Sri Lanka—success for Jayalalithaa's efforts.” This is an example of the “Bhagiratha effort” some people here are making to turn such an enormous, deliberately created falsehood into truth and deceive the public. Seeing reports like these, even friend Thirumavalavan, in a statement he issued, appears to have welcomed it, thinking perhaps it might be true. As soon as I saw that, I inquired with some Sri Lankan Tamils living in India, and they said America had so far made no such announcement.
 
-The U.S. Congressional foreign-affairs committee has voted to limit American assistance to the Sri Lankan government in the wake of war-crime allegations. Even this action will not come into effect immediately. The committee's recommendation concerning suspension of aid to Sri Lanka in the financial year beginning in October 2012 must be placed before both houses of the American legislature—the Senate and Congress—and will take effect only after resolutions are passed there. This proposal has been under discussion among committee members for several weeks. It has no connection whatever with the U.S. Secretary of State's visit to India. A U.S. Secretary of State would discuss matters concerning other countries only with the Government of India, not with a State Government in India.
+The U.S. Congressional foreign-affairs committee has voted to limit American assistance to the Sri Lankan government following the war crimes. Even this action will not come into effect immediately. The committee's recommendation concerning suspension of aid to Sri Lanka in the financial year beginning in October 2012 must be placed before both houses of the American legislature—the Senate and Congress—and will take effect only after resolutions are passed there. This proposal has been under discussion among committee members for several weeks. It has no connection whatever with the U.S. Secretary of State's visit to India. A U.S. Secretary of State would discuss matters concerning other countries only with the Government of India, not with a State Government in India.
 
 The official website of the U.S. State Department carried details of Hillary Clinton's India visit and her speeches. It listed only three events—the Anna Centenary Library, the Working Women's organisation, and the meeting at the Taj Hotel—and the details of what she said there. Even when a U.S. Assistant Secretary of State spoke to reporters about the meeting, he said only: “They talked about Sri Lanka, and I think they both agreed that we have concerns about the situation in Sri Lanka.” Even the Tamil Nadu Government's press release about the meeting says only that Jayalalithaa stated that internally displaced Tamils had still not been resettled after the war, and that Hillary said a new programme was being developed.
 
