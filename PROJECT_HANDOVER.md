@@ -47,35 +47,39 @@ Current drafting state:
 
 Completed batches:
 
-1. **3537–3541 / PDF 024–060 / 37 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`.
-2. **3542–3546 / PDF 061–103 / 43 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`.
-3. **3547–3551 / PDF 104–141 / 38 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`.
-4. **3552–3556 / PDF 142–163 / 22 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`.
+1. **3537–3541 / PDF 024–060 / 37 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
+2. **3542–3546 / PDF 061–103 / 43 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
+3. **3547–3551 / PDF 104–141 / 38 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
+4. **3552–3556 / PDF 142–163 / 22 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
+5. **3557–3561 / PDF 164–196 / 33 pages** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`.
 
-The fourth batch's English-only correction is in Letter 3554. Source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள் என்று ஒவ்வொருவரும் கூறியபோது` reports words people addressed to Kalaignar. The earlier English could point `you` at the letter's reader; the aligned record now makes the relation explicit as **“when one person after another spoke to me of the schemes ‘you implemented,’ I gave myself marks.”** Canonical Tamil did not change.
+Fifth-batch English-only corrections:
 
-Source-specific cautions retained in the fourth batch include Letter 3552's unusual title form `யாரா`, Letter 3555's joined source date forms in the reproduced earlier letter, and Letter 3556's political criticism retained strictly as source voice.
+- **Letter 3560:** the Pranab Mukherjee overdraft sentence now preserves the source causal relation: the Tamil Nadu government had not **had to obtain** an overdraft from the Reserve Bank even for one day because of having no money in its account. The previous wording wrongly implied that having no money was why an overdraft was not taken.
+- **Letter 3561:** unsupported `ancient` was removed from the opening rendering of `மண்ணுலகின் முதன்மை மொழி`; the aligned English is **“the world's foremost language.”**
+
+No Tamil canonical file changed during the fifth alignment batch. Established source forms PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-restored PDF 187 passage remain preserved.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**
-- Bilingual-aligned: **20 / 55 — 3537–3556 / PDF 024–163**
+- Bilingual-aligned: **25 / 55 — 3537–3561 / PDF 024–196**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — bilingual-alignment batch 3557–3561
+### Exact next activity — bilingual-alignment batch 3562–3566
 
 Align five complete consecutive letters:
 
-- **3557** — PDF **164–169**
-- **3558** — PDF **170–175**
-- **3559** — PDF **176–180**
-- **3560** — PDF **181–188**
-- **3561** — PDF **189–196**
+- **3562** — `“சில நேரங்களில் சில மனிதர்கள்!”` — PDF **197–200** — 13-5-2011
+- **3563** — `இறுதிப் போரில் நாம் வெல்வது திண்ணம்!` — PDF **201–208** — 22-5-2011
+- **3564** — `“ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”` — PDF **209–217** — 3-6-2011
+- **3565** — `இன்று நடப்பது; அன்றே நடந்ததுதான்!` — PDF **218–222** — 11-6-2011
+- **3566** — `அதுவே ஓர் ஆறுதல்தான்!` — PDF **223–230** — 13-6-2011
 
-Combined next range: **PDF 164–196 / 33 canonical pages**.
+Combined next range: **PDF 197–230 / 34 canonical pages**.
 
-Established source cautions within that range include PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration already documented in `TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`. Preserve those forms/corrections exactly.
+Established source caution: PDF **217** preserves `011ஆம் ஆண்டு` exactly. Do not silently normalise it.
 
 For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any new Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
 
@@ -90,7 +94,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 20 / 55 aligned; next 3557–3561 / PDF 164–196**;
+6. bilingual alignment — **IN PROGRESS; 25 / 55 aligned; next 3562–3566 / PDF 197–230**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 

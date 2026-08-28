@@ -11,7 +11,8 @@ source_printed_page_end: 187
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md"
 ---
 
 # 3560. Those Above Praise; Those Below Revile!
@@ -64,7 +65,7 @@ What Union Finance Minister **Pranab Mukherjee** explained about Tamil Nadu's fi
 
 > “The Thirteenth Finance Commission, in its recently submitted report, has recommended that no State should borrow more than **3 to 3.5 per cent** of its Gross State Domestic Product in 2011-12. The Tamil Nadu government's level of borrowing is much lower than the recommended level.
 >
-> “Tamil Nadu is among the few States in India that are satisfactorily maintaining fiscal discipline and stability. As of **24 March 2011**, the Tamil Nadu government's cash balance was **₹13,537 crore**. The Tamil Nadu government has not taken an overdraft from the Reserve Bank of India even for a single day because there was no money in its account. Many States, however, have taken overdrafts.”
+> “Tamil Nadu is among the few States in India that are satisfactorily maintaining fiscal discipline and stability. As of **24 March 2011**, the Tamil Nadu government's cash balance was **₹13,537 crore**. The Tamil Nadu government has not had to obtain an overdraft from the Reserve Bank of India even for a single day because of having no money in its account. Many States, however, have taken overdrafts.”
 
 The leading news organisation **CNN-IBN**, since 2008, has evaluated all States through appropriate judges on the basis of growth, law and order, infrastructure and various other factors, selected the best States, and presented them with **“Diamond State Awards.”** In **2010**, Tamil Nadu received the special award for **best large State in India**, as well as Diamond State Awards in three categories—citizen security, drinking water and sanitation, and women's development.
 

@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3557–3561
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3562–3566
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -36,12 +36,9 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
-   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
-   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`
-   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`
+   - all bilingual alignment reports through `BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm cumulative alignment closure: **3537–3556 / PDF 024–163 — 20 / 55 aligned**.
+6. Confirm cumulative alignment closure: **3537–3561 / PDF 024–196 — 25 / 55 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -62,7 +59,7 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **20 / 55 — 3537–3556 / PDF 024–163**
+- Bilingual-aligned: **25 / 55 — 3537–3561 / PDF 024–196**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
@@ -72,8 +69,14 @@ Alignment batch results:
 - **3542–3546 / PDF 061–103** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
 - **3547–3551 / PDF 104–141** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
+- **3557–3561 / PDF 164–196** — PASS — 5 / 5; English corrections 2; Tamil changes 0.
 
-The fourth-batch English-only correction was in Letter 3554. Source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள் என்று ஒவ்வொருவரும் கூறியபோது` reports words addressed by people to Kalaignar. The aligned English explicitly reads **“when one person after another spoke to me of the schemes ‘you implemented,’ I gave myself marks.”** Canonical Tamil is unchanged.
+Fifth-batch English-only corrections:
+
+1. **Letter 3560:** the Pranab Mukherjee overdraft sentence now states that the Tamil Nadu government had not **had to obtain** an overdraft even for a day because of having no money in its account; the previous wording inverted the causal sense.
+2. **Letter 3561:** unsupported `ancient` was removed from `மண்ணுலகின் முதன்மை மொழி`; the aligned English is **“the world's foremost language.”**
+
+Established source forms remain preserved: PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration.
 
 ## SOURCE AUTHORITY
 
@@ -101,22 +104,17 @@ For each bilingual record:
 
 Align five complete consecutive letters:
 
-- **3557** — PDF **164–169**
-- **3558** — PDF **170–175**
-- **3559** — PDF **176–180**
-- **3560** — PDF **181–188**
-- **3561** — PDF **189–196**
+- **3562** — `“சில நேரங்களில் சில மனிதர்கள்!”` — PDF **197–200** — 13-5-2011
+- **3563** — `இறுதிப் போரில் நாம் வெல்வது திண்ணம்!` — PDF **201–208** — 22-5-2011
+- **3564** — `“ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”` — PDF **209–217** — 3-6-2011
+- **3565** — `இன்று நடப்பது; அன்றே நடந்ததுதான்!` — PDF **218–222** — 11-6-2011
+- **3566** — `அதுவே ஓர் ஆறுதல்தான்!` — PDF **223–230** — 13-6-2011
 
-Combined next alignment range: **PDF 164–196 / 33 canonical pages**.
+Combined next alignment range: **PDF 197–230 / 34 canonical pages**.
 
-Established source cautions in this range:
+**Source caution:** PDF 217 contains the scan-preserved anomaly `011ஆம் ஆண்டு`. Do not silently normalise it to an expected year form.
 
-- PDF **170** preserves `பொக்கம்` exactly.
-- PDF **176** preserves `10ந்தேதியன்று` exactly.
-- PDF **177** preserves `முஜா கி தீன்` exactly.
-- PDF **187** contains the scan-proven post-audit restoration discovered during Letter 3560 drafting; preserve the repaired canonical text and its documented boundary into PDF 188.
-
-Create a durable alignment report for **3557–3561**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
+Create a durable alignment report for **3562–3566**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 

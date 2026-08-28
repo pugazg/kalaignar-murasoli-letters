@@ -45,7 +45,7 @@ PDF 187 was already one of the historical 243 corrected pages, so the historical
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3591 and alignment batches 3537–3556 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3591 and alignment batches 3537–3561 exposed **no additional Tamil canonical correction**.
 
 ## English drafting QA boundary
 
@@ -65,15 +65,16 @@ Completed alignment batches:
 - **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
+- **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
 
-Current cumulative alignment: **20 / 55 — Letters 3537–3556 / PDF 024–163**.
+Current cumulative alignment: **25 / 55 — Letters 3537–3561 / PDF 024–196**.
 
-The fourth batch's English-only correction was in Letter 3554. Source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள் என்று ஒவ்வொருவரும் கூறியபோது` reports words addressed by people to Kalaignar. The earlier English could read as if the letter's Udanpirappē had implemented the schemes; the aligned English now makes the speech relation explicit as **“when one person after another spoke to me of the schemes ‘you implemented,’ I gave myself marks.”** Canonical Tamil is unchanged.
+The fifth batch made two English-only semantic corrections. Letter 3560's Pranab Mukherjee overdraft sentence now preserves the source causation: Tamil Nadu had not **had to obtain** an overdraft even for a day because of having no money in its account. Letter 3561's opening no longer adds unsupported `ancient` to `மண்ணுலகின் முதன்மை மொழி`; it now reads **“the world's foremost language.”** Canonical Tamil did not change.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**.
-- Bilingual-aligned: **20 / 55**.
+- Bilingual-aligned: **25 / 55**.
 - Editorially reviewed: **0 / 55**.
 - Final verified for release: **0 / 55**.
 
@@ -83,7 +84,8 @@ Durable alignment reports:
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`
+- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`
 
 ## Exact next activity
 
-Align **Letters 3557–3561 / PDF 164–196** as the next five-complete-letter bilingual-alignment batch. Preserve established source forms including PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

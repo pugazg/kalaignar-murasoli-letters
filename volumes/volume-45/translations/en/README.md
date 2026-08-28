@@ -18,7 +18,7 @@ Translation and alignment are made from the scan-verified canonical Tamil. The c
 
 ## Translation and alignment status
 
-Main drafting is complete: all **55 / 55** letters are source-checked. Four bilingual meaning-level alignment batches, **3537–3541 / PDF 024–060**, **3542–3546 / PDF 061–103**, **3547–3551 / PDF 104–141**, and **3552–3556 / PDF 142–163**, have passed. Current cumulative alignment is **20 / 55 — 3537–3556 / PDF 024–163**. The fourth batch required **1 English-only correction** and **0 Tamil canonical changes**.
+Main drafting is complete: all **55 / 55** letters are source-checked. Five bilingual meaning-level alignment batches, through **3557–3561 / PDF 164–196**, have passed. Current cumulative alignment is **25 / 55 — 3537–3561 / PDF 024–196**. The fifth batch required **2 English-only corrections** and **0 Tamil canonical changes**.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -42,11 +42,11 @@ Main drafting is complete: all **55 / 55** letters are source-checked. Four bili
 | [3554](letters/3554-what-is-the-mark-worthy-of-respect.md) | What Is the Mark Worthy of Respect? | 13 April 2011 | 150–154 | source-checked + aligned |
 | [3555](letters/3555-written-that-very-day-it-still-applies-today.md) | Written That Very Day; It Still Applies Today! | 17 April 2011 | 155–159 | source-checked + aligned |
 | [3556](letters/3556-karat-saw-it-yet-he-forgot.md) | Karat Saw It, Yet He Forgot! | 21 April 2011 | 160–163 | source-checked + aligned |
-| [3557](letters/3557-who-should-seek-public-forgiveness.md) | Who Should Seek Public Forgiveness? | 24 April 2011 | 164–169 | source-checked |
-| [3558](letters/3558-the-film-industry-and-the-dmk.md) | The Film Industry and the DMK! | 30 April 2011 | 170–175 | source-checked |
-| [3559](letters/3559-do-not-sharpen-the-knife-sharpen-the-intellect.md) | Do Not Sharpen the Knife; Sharpen the Intellect! | 4 May 2011 | 176–180 | source-checked |
-| [3560](letters/3560-those-above-praise-those-below-revile.md) | Those Above Praise; Those Below Revile! | 5 May 2011 | 181–188 | source-checked |
-| [3561](letters/3561-a-golden-day-for-you-for-me-and-for-tamils-across-the-world.md) | A Golden Day for You, for Me—and for Tamils Across the World! | 7 May 2011 | 189–196 | source-checked |
+| [3557](letters/3557-who-should-seek-public-forgiveness.md) | Who Should Seek Public Forgiveness? | 24 April 2011 | 164–169 | source-checked + aligned |
+| [3558](letters/3558-the-film-industry-and-the-dmk.md) | The Film Industry and the DMK! | 30 April 2011 | 170–175 | source-checked + aligned |
+| [3559](letters/3559-do-not-sharpen-the-knife-sharpen-the-intellect.md) | Do Not Sharpen the Knife; Sharpen the Intellect! | 4 May 2011 | 176–180 | source-checked + aligned |
+| [3560](letters/3560-those-above-praise-those-below-revile.md) | Those Above Praise; Those Below Revile! | 5 May 2011 | 181–188 | source-checked + aligned |
+| [3561](letters/3561-a-golden-day-for-you-for-me-and-for-tamils-across-the-world.md) | A Golden Day for You, for Me—and for Tamils Across the World! | 7 May 2011 | 189–196 | source-checked + aligned |
 | [3562](letters/3562-some-people-at-certain-times.md) | “Some People at Certain Times!” | 13 May 2011 | 197–200 | source-checked |
 | [3563](letters/3563-we-are-certain-to-win-the-final-battle.md) | We Are Certain to Win the Final Battle! | 22 May 2011 | 201–208 | source-checked |
 | [3564](letters/3564-brass-it-seems-sneered-at-lead.md) | “Brass, It Seems, Sneered at Lead!” | 3 June 2011 | 209–217 | source-checked |
@@ -78,26 +78,17 @@ Main drafting is complete: all **55 / 55** letters are source-checked. Four bili
 | [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
 | [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
 
-Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **20 / 55, Letters 3537–3556 / PDF 024–163**.
+Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **25 / 55, Letters 3537–3561 / PDF 024–196**.
 
-Batch records:
+## Batch records
 
-- [`PILOT_REVIEW_3537_3539.md`](PILOT_REVIEW_3537_3539.md) — pilot / style lock
-- [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md)
-- [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md)
-- [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md)
-- [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md)
-- [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md)
-- [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md)
-- [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md)
-- [`DRAFT_SOURCE_CHECK_3575_3579.md`](DRAFT_SOURCE_CHECK_3575_3579.md)
-- [`DRAFT_SOURCE_CHECK_3580_3584.md`](DRAFT_SOURCE_CHECK_3580_3584.md)
-- [`DRAFT_SOURCE_CHECK_3585_3589.md`](DRAFT_SOURCE_CHECK_3585_3589.md)
-- [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CHECK_3590_3591.md) — final drafting batch
-- [`BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md) — first alignment batch
-- [`BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md) — second alignment batch
-- [`BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md) — third alignment batch
-- [`BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md) — fourth alignment batch
+Draft/source-check reports remain in this directory. Bilingual alignment reports completed so far:
+
+- [`BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -110,8 +101,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-All fifty-five English records are `source-checked`. Letters **3537–3556** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
+All fifty-five English records are `source-checked`. Letters **3537–3561** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
 
 ## Exact next activity
 
-Align **Letters 3557–3561 / PDF 164–196** as the next five-complete-letter alignment batch. Preserve the established source forms PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level editorial consistency review separate.
+Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter alignment batch. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level editorial consistency review separate.

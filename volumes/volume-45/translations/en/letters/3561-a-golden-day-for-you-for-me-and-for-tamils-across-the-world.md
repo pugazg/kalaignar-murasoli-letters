@@ -11,7 +11,8 @@ source_printed_page_end: 195
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md"
 ---
 
 # 3561. A Golden Day for You, for Me—and for Tamils Across the World!
@@ -28,7 +29,7 @@ bilingual_alignment_status: "pending"
 
 At this moment, when my younger daughter Kanimozhi has been produced before the Delhi court, I am writing this letter to you.
 
-Tamil—the language that rolled on the red tongues of poets and set out sometimes like a storm and sometimes like a flower-scented breeze; the sweet Tamil that echoed in the palaces of the three crowned kings, the Cheras, Cholas and Pandyas; the Tamil nurtured by the Sangams and made to sound like a conch; the Tamil that scattered seeds from Venkadam to Kumari and raised wondrous trees; the Tamil that crossed mountains and seas and moved through the world as an ancient, foremost language; the Tamil whose fragrance, once confined to mansions, was carried by Arignar Anna into every mud hut and spread rays of light like a lamp set upon a hill; the Tamil that excels other languages in **letter, word and meaning**—today, **6.5.2011**, enters with grandeur and **“royal honours”** into the Indian President's residence in Delhi, the **Rashtrapati Bhavan**.
+Tamil—the language that rolled on the red tongues of poets and set out sometimes like a storm and sometimes like a flower-scented breeze; the sweet Tamil that echoed in the palaces of the three crowned kings, the Cheras, Cholas and Pandyas; the Tamil nurtured by the Sangams and made to sound like a conch; the Tamil that scattered seeds from Venkadam to Kumari and raised wondrous trees; the Tamil that crossed mountains and seas and moved through the world as the world's foremost language; the Tamil whose fragrance, once confined to mansions, was carried by Arignar Anna into every mud hut and spread rays of light like a lamp set upon a hill; the Tamil that excels other languages in **letter, word and meaning**—today, **6.5.2011**, enters with grandeur and **“royal honours”** into the Indian President's residence in Delhi, the **Rashtrapati Bhavan**.
 
 Yes. The Tamil scholars selected to receive the Classical Tamil awards presented by the **Central Institute of Classical Tamil** in Chennai on behalf of the Union Government have been invited to Delhi.
 

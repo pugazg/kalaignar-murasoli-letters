@@ -28,7 +28,7 @@ The pilot handed off to the main drafting cadence. Ten normal five-letter batche
 - **3585–3589 / PDF 358–390** — [`translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`](translations/en/DRAFT_SOURCE_CHECK_3585_3589.md)
 - **3590–3591 / PDF 391–401** — [`translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`](translations/en/DRAFT_SOURCE_CHECK_3590_3591.md)
 
-The fifth batch exposed one residual Tamil omission on PDF 187. It was directly rechecked against the controlling scan and repaired before source-check closure; the event is documented in [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md). Batches 3565–3591 exposed no new Tamil canonical discrepancy requiring correction.
+The fifth drafting batch exposed one residual Tamil omission on PDF 187. It was directly rechecked against the controlling scan and repaired before source-check closure; the event is documented in [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md). Batches 3565–3591 exposed no new Tamil canonical discrepancy requiring correction.
 
 Current cumulative English drafting boundary: **3537–3591 / 55 of 55 source-checked**, PDF **024–401**.
 
@@ -40,6 +40,7 @@ Completed alignment batches:
 - **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
+- **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
 
 Reports:
 
@@ -47,13 +48,14 @@ Reports:
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
 
-The fourth batch's English-only correction is in Letter 3554: `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள்` is now represented as reported words addressed to Kalaignar—**“the schemes ‘you implemented’”**—rather than allowing the English `you` to point to the letter's reader. Canonical Tamil did not change.
+The fifth batch made two English-only semantic corrections: Letter 3560's overdraft sentence now preserves the source causation, and Letter 3561 no longer adds unsupported `ancient` to `மண்ணுலகின் முதன்மை மொழி`. Canonical Tamil did not change.
 
 The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
 
-Current cumulative alignment: **20 / 55 — 3537–3556 / PDF 024–163**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+Current cumulative alignment: **25 / 55 — 3537–3561 / PDF 024–196**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3557–3561 / PDF 164–196** as the next five-complete-letter bilingual-alignment batch. Preserve the established source forms PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3562–3566 / PDF 197–230** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 217 `011ஆம் ஆண்டு` exactly. Do not begin the later volume-level editorial consistency review.
