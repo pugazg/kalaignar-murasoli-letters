@@ -101,18 +101,18 @@ PDF 187 was already one of the 243 unique page files corrected during the histor
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3569, 3570–3574 and 3575–3579 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3569, 3570–3574, 3575–3579 and 3580–3584 exposed **no additional Tamil canonical correction**.
 
 ## English QA boundary
 
 - Pilot **3537–3539 / PDF 024–049**: PASS / style locked.
-- Normal batches through **3575–3579 / PDF 275–319**: source-checked.
-- Current English total: **43 / 55 — Letters 3537–3579**.
-- Cumulative translated source coverage: **PDF 024–319**.
+- Normal batches through **3580–3584 / PDF 320–357**: source-checked.
+- Current English total: **48 / 55 — Letters 3537–3584**.
+- Cumulative translated source coverage: **PDF 024–357**.
 - Bilingual alignment: **0 / 55**; not yet begun.
 
-The 3575–3579 source check preserves the genuine Letter 3575 contents/start punctuation difference; Letter 3576's scan-proven `பாரீர்!` title; PDF 290's source `18-5-2001`; the full 16-page Letter 3577 law-and-order catalogue; Letter 3578's Housing Board/Jaffer Sait figures and allottee lists; and Letter 3579's complete tax, borrowing, scheme and welfare-board figures plus source-printed English passages.
+The 3580–3584 source check preserves the complete Letter 3580 false-case/land-grab sequence and the source-printed ADGP George English statement; Letter 3581's complete `செம்மொழி வாழ்த்து` and textbook deletion catalogue; Letter 3582's Thai/Chithirai Tamil New Year chronology and source-attributed scholarly/political statements; Letter 3583's Article 161/death-sentence chronology, source-printed Colin Gonsalves passage, Thiagu and Kaliyaperumal accounts; and Letter 3584's Assembly-democracy, Omandurar, Samacheer, agricultural-welfare and Tamil New Year repeal arguments.
 
 ## Exact next activity
 
-Translate **Letters 3580–3584 / PDF 320–357** as the next normal five-letter drafting/source-check batch. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
+Translate **Letters 3585–3589 / PDF 358–390** as the next normal five-letter drafting/source-check batch. Letter 3586's scan-proven title is `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the earlier `தமிழக அரசு...` reading is withdrawn. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.

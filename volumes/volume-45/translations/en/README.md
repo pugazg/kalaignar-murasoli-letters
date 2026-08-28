@@ -18,7 +18,7 @@ Translation is made from the scan-verified canonical Tamil. The controlling scan
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Eight normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574** and **3575–3579**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Nine normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574**, **3575–3579** and **3580–3584**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -65,8 +65,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3577](letters/3577-the-list-from-three-months-of-rule-leaves-one-breathless.md) | The List from Just Three Months of Rule Leaves One Breathless! | 3 August 2011 | 290–305 | source-checked |
 | [3578](letters/3578-one-rule-for-you-another-for-the-rest.md) | One Rule for You; Another for Everyone Else? | 5 August 2011 | 306–312 | source-checked |
 | [3579](letters/3579-is-a-tax-free-budget-not-a-distilled-falsehood.md) | Is a Tax-Free Budget Not a Distilled Falsehood? | 6 August 2011 | 313–319 | source-checked |
+| [3580](letters/3580-never-mind-let-them-dance-as-long-as-they-can.md) | Never Mind; Let Them Dance as Long as They Can! | 12 August 2011 | 320–327 | source-checked |
+| [3581](letters/3581-can-a-monkey-know-the-fragrance-and-beauty-of-a-flower-garland.md) | Can a Monkey Know the Fragrance and Beauty of a Flower Garland! | 13 August 2011 | 328–337 | source-checked |
+| [3582](letters/3582-a-sweet-festival-a-festival-of-our-people.md) | A Sweet Festival; a Festival of Our People! | 25 August 2011 | 338–344 | source-checked |
+| [3583](letters/3583-no-authority-dont-you-remember-that-day.md) | No Authority? Don't You Remember That Day? | 1 September 2011 | 345–351 | source-checked |
+| [3584](letters/3584-is-the-very-foundation-being-cut-away.md) | Is the Very Foundation Being Cut Away? | 8 September 2011 | 352–357 | source-checked |
 
-Current coverage: **43 / 55 letters source-checked**, audited canonical PDF **024–319**.
+Current coverage: **48 / 55 letters source-checked**, audited canonical PDF **024–357**.
 
 Batch records:
 
@@ -79,6 +84,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md) — sixth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md) — seventh normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3575_3579.md`](DRAFT_SOURCE_CHECK_3575_3579.md) — eighth normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3580_3584.md`](DRAFT_SOURCE_CHECK_3580_3584.md) — ninth normal drafting batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -91,8 +97,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The forty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The forty-eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3580–3584 / PDF 320–357** as one drafting iteration. Use the locked style, source-check each complete draft, preserve source anomalies and complete Tamil appendices, re-check the controlling scan if translation exposes any Tamil discrepancy, and keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3585–3589 / PDF 358–390** as one drafting iteration. Use the locked style, source-check each complete draft, preserve source anomalies and complete Tamil appendices, retain Letter 3586's scan-proven `கழக அரசு...` title, re-check the controlling scan if translation exposes any Tamil discrepancy, and keep bilingual alignment separate.

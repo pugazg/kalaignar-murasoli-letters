@@ -33,7 +33,7 @@ Letter 3576 is scan-proven as `உலகப் புகழ் உத்தம�
 
 During Letter 3560 source-check, the canonical PDF 187→188 transition exposed an omitted physical-page tail. Direct scan comparison restored the end of the Wall Street Journal quotation and the beginning of the Oxford Analytica / `India Deconstructed` passage through `என்ற ஒரு ஆய்வை`. PDF 187 was already one of the historical 243 corrected pages, so the historical tally remains **243 / 623** while the combined tally is **243 / 624**. See `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`.
 
-### English translation — durable through 3579
+### English translation — durable through 3584
 
 Locked conventions:
 
@@ -44,6 +44,7 @@ Locked conventions:
 - preserve political directness, irony, questions, repetition, quotations, names, dates and figures;
 - retain `lakh` / `crore`;
 - retain **Samacheer Kalvi** where the established scheme name recurs;
+- preserve each source claim concerning **Tamil New Year / first day of Thai / Chithirai** without outside reconciliation;
 - no external historical correction of source facts or anomalies;
 - complete audited Tamil reproduced under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
 
@@ -61,39 +62,42 @@ Normal drafting batches:
 - **3565–3569 / PDF 218–248** — PASS — Tamil changes 0
 - **3570–3574 / PDF 249–274** — PASS — Tamil changes 0
 - **3575–3579 / PDF 275–319** — PASS — Tamil changes 0
+- **3580–3584 / PDF 320–357** — PASS — Tamil changes 0
 
 Current cumulative English state:
 
-- Draft-translated: **43 / 55 — 3537–3579**
-- Source-checked: **43 / 55 — 3537–3579**
-- Cumulative translated canonical source: **PDF 024–319**
+- Draft-translated: **48 / 55 — 3537–3584**
+- Source-checked: **48 / 55 — 3537–3584**
+- Cumulative translated canonical source: **PDF 024–357**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-Latest source-check: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3575_3579.md`.
+Latest source-check: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3580_3584.md`.
 
-Source-specific conditions deliberately preserved in 3575–3579 include:
+Source-specific conditions deliberately preserved in 3580–3584 include:
 
-- Letter 3575's contents `...!` / actual-start `....!` distinction, source-printed Supreme Court English passage and full false-case/retaliation chronology;
-- Letter 3576's `பாரீர்!` title, advertising/Prakash M. Swamy/Hillary Clinton narrative, congressional-committee versus claimed-sanctions distinction, and earlier UN-award episode;
-- Letter 3577's entire 16-page crime/law-and-order catalogue, source `18-5-2001`, and both the opening “three months” and closing “two months” formulations;
-- Letter 3578's complete Jaffer Sait/Housing Board discretionary-allotment history, beneficiary categories, allottee lists, `Market Rate` / `Joint Venture`, suspension and Mandapam arguments;
-- Letter 3579's debt/tax/borrowing figures, source-printed *The Hindu* English passages, scheme lists, colour-TV/housing/power/Classical-Tamil/welfare-board figures.
+- **3580:** *Dinamani* false-case argument; Poondi Kalaivanan/N.K.K.P. Raja/J. Anbazhagan and other examples; source-printed ADGP George English statement; all seven `நில அபகரிப்பு` warning bullets.
+- **3581:** complete `செம்மொழி வாழ்த்து`, Thanjavur World Tamil Conference praise-song excerpts, and every cited textbook deletion/sticker/marker example across Standards 1–10.
+- **3582:** Omandurar/Samacheer/Tamil New Year reversals; 1921 and 1939 scholar/conference history; attributed scholarly statements; Nakkiran–Kuyakkondan story; 2008 bill chronology; `45 முழுப்பக்க விளம்பரங்கள்` figure.
+- **3583:** Article 161 and death-sentence chronology; source-printed Colin Gonsalves English passage; 2008 Jayalalithaa statement; Thiagu and Pulavar Kaliyaperumal/Chozhanambiyar accounts.
+- **3584:** Assembly-democracy argument; Omandurar and Samacheer chronology; approximately ₹4,000 crore tax discussion; agricultural-labourer welfare-law dates/member/benefit figures; Tamil New Year repeal; Speaker/tradition close.
 
-The forty-three English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
+The forty-eight English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
 
 ### Exact next activity
 
-Translate **Letters 3580–3584 / PDF 320–357** as the next normal five-complete-letter drafting iteration:
+Translate **Letters 3585–3589 / PDF 358–390** as the next normal five-complete-letter drafting iteration:
 
-- 3580 — `பரவாயில்லை; ஆடும் வரை ஆடட்டும்!` — PDF **320–327**, date **12-08-2011**
-- 3581 — `மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!` — PDF **328–337**, date **13-8-2011**
-- 3582 — `இனிய விழா; நமது இனத்தின் விழா!` — PDF **338–344**, date **25-08-2011**
-- 3583 — `அதிகாரம் இல்லை? அந்தநாள் ஞாபகம் இல்லையா?` — PDF **345–351**, date **1-9-2011**
-- 3584 — `அடிநாதமே; அறுக்கப்படுவதா?` — PDF **352–357**, date **8-9-2011**
+- 3585 — `அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!!` — PDF **358–364**, date **10-9-2011**
+- 3586 — `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!` — PDF **365–369**, date **12-9-2011**
+- 3587 — `மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!` — PDF **370–376**, date **13-9-2011**
+- 3588 — `கல்வி; கருகிடும் மொட்டாவதா?` — PDF **377–382**, date **14-9-2011**
+- 3589 — `எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி?` — PDF **383–390**, date **19-9-2011**
 
-Combined next source range: **PDF 320–357 / 38 canonical pages**.
+Combined next source range: **PDF 358–390 / 33 canonical pages**.
+
+For Letter 3586, the controlling scan confirms the title begins `கழக அரசு`; the former control-layer `தமிழக அரசு...` reading was erroneous and must not return.
 
 For each letter, read the complete chapter boundary and every audited canonical page; translate every substantive item; reproduce the full Tamil appendix; source-check the draft; re-check the controlling scan before changing either layer if a possible Tamil discrepancy appears; and update controls/handover afterward.
 
@@ -110,7 +114,7 @@ Keep stages distinct:
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 
-For Volume 45, English drafting/source-check is complete through Letter **3579** only.
+For Volume 45, English drafting/source-check is complete through Letter **3584** only.
 
 ## 4. Git/concurrency discipline
 

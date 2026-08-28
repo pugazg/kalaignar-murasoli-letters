@@ -56,6 +56,7 @@ This glossary carries forward the approved Volume 49 / Volume 47 translation tre
 | செம்மொழித் தமிழாய்வு மத்திய நிறுவனம் | **Central Institute of Classical Tamil** | Volume 45 locked | Institutional treatment used in letter 3551. |
 | அண்ணா நூற்றாண்டு நினைவு நூலகம் | **Anna Centenary Memorial Library** | Volume 45 locked | Named public institution in letter 3551. |
 | சமச்சீர் கல்வி | **Samacheer Kalvi (uniform school education)** | Volume 45 locked | Proper Tamil scheme name retained; concise English identification on first contextual use. Introduced as a recurring term in Letters 3572 and 3574. |
+| தமிழ்ப் புத்தாண்டு / தை முதல் நாள் | **Tamil New Year / first day of Thai** | Volume 45 source-specific | Recurs across Letters 3581, 3582 and 3584. Preserve each source claim about Thai or Chithirai; do not reconcile calendar positions from outside knowledge. |
 
 ## Style rule
 

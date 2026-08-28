@@ -46,7 +46,7 @@ The Tamil section is never a summary or selected extract.
 11. Add only minimal explanatory notes.
 12. Keep every translation traceable to its chapter and canonical pages.
 
-Working terminology is maintained in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md). Core locked forms include `Udanpirappē`, `With affection, M.K.`, DMK / AIADMK, `lakh` / `crore`, and **Samacheer Kalvi** where the scheme recurs.
+Working terminology is maintained in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md). Core locked forms include `Udanpirappē`, `With affection, M.K.`, DMK / AIADMK, `lakh` / `crore`, **Samacheer Kalvi**, and the source-specific **Tamil New Year / first day of Thai** treatment where those terms recur.
 
 ## Workflow status
 
@@ -68,10 +68,11 @@ Completed normal drafting iterations:
 - **3565–3569 / PDF 218–248** — PASS; Tamil changes 0
 - **3570–3574 / PDF 249–274** — PASS; Tamil changes 0
 - **3575–3579 / PDF 275–319** — PASS; Tamil changes 0
+- **3580–3584 / PDF 320–357** — PASS; Tamil changes 0
 
-Current cumulative drafting state: **3537–3579 / 43 of 55 source-checked**, audited canonical PDF **024–319**.
+Current cumulative drafting state: **3537–3584 / 48 of 55 source-checked**, audited canonical PDF **024–357**.
 
-**Exact next drafting batch: Letters 3580–3584 / PDF 320–357.**
+**Exact next drafting batch: Letters 3585–3589 / PDF 358–390.**
 
 Each batch receives source-completeness, paragraph/heading, names/dates/figures/units, quotations/rhetorical questions, title/closing, source-anomaly, glossary and progress/handover checks.
 
@@ -94,4 +95,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability passed editorial review;
 - `verified` — final bilingual alignment complete.
 
-Letters **3537–3579** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters **3537–3584** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
