@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-28
+**Handover date:** 2026-08-29
 
 Read this together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`. If documents conflict, the controlling processing/batching/transcription guides take precedence.
 
@@ -52,35 +52,35 @@ Completed batches:
 3. **3547–3551 / PDF 104–141 / 38 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
 4. **3552–3556 / PDF 142–163 / 22 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
 5. **3557–3561 / PDF 164–196 / 33 pages** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.
-6. **3562–3566 / PDF 197–230 / 34 pages** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`.
+6. **3562–3566 / PDF 197–230 / 34 pages** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.
+7. **3567–3571 / PDF 231–260 / 30 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`.
 
-Sixth-batch English-only corrections:
+Seventh-batch English-only correction:
 
-- **Letter 3563:** source `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` is now represented contextually as **“charted an authoritarian ‘path’”**, replacing the earlier misleading **“dictatorial ‘song’.”** Canonical Tamil is unchanged.
-- **Letter 3564:** the Pranab Mukherjee overdraft sentence now preserves the source causal relation already established in Letter 3560: the State had not **had to obtain** an overdraft from the Reserve Bank even for a day because of having no money in its account. PDF 217 `011ஆம் ஆண்டு` remains preserved as printed.
+- **Letter 3571:** source `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` is now represented as **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”** rather than the softer “such an accused person.” Canonical Tamil is unchanged.
 
-No Tamil canonical file changed during the sixth alignment batch.
+No Tamil canonical file changed during the seventh alignment batch. Established anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` remain preserved.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**
-- Bilingual-aligned: **30 / 55 — 3537–3566 / PDF 024–230**
+- Bilingual-aligned: **35 / 55 — 3537–3571 / PDF 024–260**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — bilingual-alignment batch 3567–3571
+### Exact next activity — bilingual-alignment batch 3572–3576
 
 Align five complete consecutive letters:
 
-- **3567** — `ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!` — PDF **231–235** — 14-06-2011
-- **3568** — `வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?` — PDF **236–241** — 15-6-2011
-- **3569** — `வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?` — PDF **242–248** — 18-6-2011
-- **3570** — `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!` — PDF **249–255** — 19-6-2011
-- **3571** — `ஒன்று போதுமே; உதாரணம்!` — PDF **256–260** — 30-6-2011
+- **3572** — `“100” கருணாநிதிகளால் முடியாதுதான்!` — PDF **261–265** — 19-7-2011
+- **3573** — `அல்லல் நீங்கும்; தொல்லை குறையும்!` — PDF **266–268** — 21-7-2011
+- **3574** — `அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!` — PDF **269–274** — 28-7-2011
+- **3575** — `அந்த நாள் முதல் இந்த நாள் வரையில்....!` — PDF **275–283** — 30-7-2011
+- **3576** — `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!` — PDF **284–289** — 31-7-2011
 
-Combined next range: **PDF 231–260 / 30 canonical pages**.
+Combined next range: **PDF 261–289 / 29 canonical pages**.
 
-Established source cautions within that range include PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`. Preserve those forms exactly in canonical Tamil.
+Established source cautions: Letter 3575 has a genuine source-context title difference—contents `...!` versus actual letter-start `....!`; Letter 3576 is scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`, with former `பார்!` withdrawn. Preserve source-supplied English such as PDF 276 `xxxx”` exactly where it occurs.
 
 For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any new Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
 
@@ -95,7 +95,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 30 / 55 aligned; next 3567–3571 / PDF 231–260**;
+6. bilingual alignment — **IN PROGRESS; 35 / 55 aligned; next 3572–3576 / PDF 261–289**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 

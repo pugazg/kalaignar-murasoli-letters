@@ -42,6 +42,7 @@ Completed alignment batches:
 - **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
 - **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**; English corrections 2; Tamil changes 0.
+- **3567–3571 / PDF 231–260** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 
 Reports:
 
@@ -51,13 +52,14 @@ Reports:
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3557_3561.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md)
 
-The sixth batch made two English-only semantic corrections: Letter 3563 now renders `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` as **“charted an authoritarian ‘path’”**, and Letter 3564's overdraft sentence now preserves the source causal relation already established in Letter 3560. PDF 217 `011ஆம் ஆண்டு` remains source-faithful. Canonical Tamil did not change.
+The seventh batch made one English-only source-characterisation correction in Letter 3571: source `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` is now represented as **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”** rather than the softer “such an accused person.” Canonical Tamil did not change.
 
 The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
 
-Current cumulative alignment: **30 / 55 — 3537–3566 / PDF 024–230**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+Current cumulative alignment: **35 / 55 — 3537–3571 / PDF 024–260**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` exactly in canonical Tamil. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3575's genuine contents `...!` versus actual letter-start `....!` title difference and the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; stale `பார்!` remains withdrawn. Preserve source-supplied English such as PDF 276 `xxxx”` exactly. Do not begin the later volume-level editorial consistency review.

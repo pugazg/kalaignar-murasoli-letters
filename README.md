@@ -25,7 +25,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 30 / 55 bilingual-aligned; alignment in progress** |
+| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 35 / 55 bilingual-aligned; alignment in progress** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
@@ -35,7 +35,7 @@
 
 Volume 45 Tamil archival work is complete: **402 / 402 canonical PDF pages**, **55 / 55 source letters, 3537–3591**, structural audit **PASS**, second direct visual/textual-fidelity audit **PASS**. The historical second-pass tally is **243 corrected canonical page files / 623 correction spans**. Letter 3560 English source-check exposed one residual omission on already-corrected PDF 187; it was directly repaired from the scan, leaving **243 unique corrected pages / 624 combined scan-proven spans**.
 
-English main drafting is complete at **55 / 55 source-checked**. Six bilingual alignment batches are now complete:
+English main drafting is complete at **55 / 55 source-checked**. Seven bilingual alignment batches are now complete:
 
 - **3537–3541 / PDF 024–060** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
 - **3542–3546 / PDF 061–103** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
@@ -43,11 +43,12 @@ English main drafting is complete at **55 / 55 source-checked**. Six bilingual a
 - **3552–3556 / PDF 142–163** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
 - **3557–3561 / PDF 164–196** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.
 - **3562–3566 / PDF 197–230** — PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.
+- **3567–3571 / PDF 231–260** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
 
-The sixth batch made two English-only corrections: Letter 3563 now renders `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` as **“charted an authoritarian ‘path’”** rather than the misleading **“dictatorial ‘song’”**; Letter 3564's Pranab Mukherjee overdraft sentence now preserves the source's causal relation, matching the established Letter 3560 treatment. PDF 217 `011ஆம் ஆண்டு` remains unchanged. Canonical Tamil is unchanged throughout the batch.
+The seventh batch made one English-only correction in Letter 3571. The Tamil `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` had been softened as “such an accused person”; the aligned English now preserves the source characterisation with explicit attribution: **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”** Canonical Tamil is unchanged. The established anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` remain preserved.
 
-Current English QA totals: **55 / 55 source-checked**, **30 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
+Current English QA totals: **55 / 55 source-checked**, **35 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
 
-**Exact next activity:** align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter alignment batch. Preserve source anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`. Keep the later volume-level English editorial consistency review separate.
+**Exact next activity:** align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter alignment batch. Preserve Letter 3575's genuine contents `...!` versus actual letter-start `....!` difference and the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. Keep the later volume-level English editorial consistency review separate.
 
-Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [latest alignment review](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [latest alignment review](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).

@@ -11,7 +11,8 @@ source_printed_page_end: 259
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md"
 ---
 
 # 3571. One Example Is Enough!
@@ -60,7 +61,7 @@ The source recounts Krishnamoorthy as having told the police:
 
 > “I run a real-estate business and a video shop. Because I was involved in real estate, I became acquainted with many people, including political-party figures, judges and police officers. I also have a friend in Malaysia. On **16-10-1999**, I, High Court Justice Thangaraj, advocate Selvaraj and retired Police Superintendent Selvarathinam travelled to Malaysia on an Air India flight. We stayed for ten days at a star hotel arranged by businessman Jayapal and returned on **26-10-99**.”
 
-At that time, newspapers prominently reported that he had said this. Justice Thangaraj was thus reported as having travelled to Malaysia and stayed there for ten days with Krishnamoorthy, described in the source as such an accused person. He is now going to investigate the Secretariat building. Photographs taken by the judge in Malaysia were also published at that time.
+At that time, newspapers prominently reported that he had said this. Justice Thangaraj was thus reported as having travelled to Malaysia and stayed there for ten days with Krishnamoorthy, whom the source describes as **“such a criminal.”** He is now going to investigate the Secretariat building. Photographs taken by the judge in Malaysia were also published at that time.
 
 Is this one example not enough to show how suitable a person the AIADMK government has searched out and appointed as chairman of the Commission of Inquiry?
 

@@ -26,45 +26,45 @@ Completed:
 - [x] Alignment batch 4 **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**
 - [x] Alignment batch 5 **3557–3561 / PDF 164–196** — **PASS — 5 / 5 aligned**
 - [x] Alignment batch 6 **3562–3566 / PDF 197–230** — **PASS — 5 / 5 aligned**
-- [x] Alignment batch 6 English corrections: **2**
-- [x] Alignment batch 6 Tamil canonical changes: **0**
+- [x] Alignment batch 7 **3567–3571 / PDF 231–260** — **PASS — 5 / 5 aligned**
+- [x] Alignment batch 7 English corrections: **1**
+- [x] Alignment batch 7 Tamil canonical changes: **0**
 
 ### English counts
 
 - Total source letters: **55**
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
-- Bilingual-aligned: **30 / 55 — 3537–3566**
+- Bilingual-aligned: **35 / 55 — 3537–3571**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
 - Cumulative translated canonical source coverage: PDF **024–401**
-- Cumulative bilingual-aligned canonical source coverage: PDF **024–230**
+- Cumulative bilingual-aligned canonical source coverage: PDF **024–260**
 
 ### Current English QA boundary
 
-Latest alignment review: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3562_3566.md)
+Latest alignment review: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3567_3571.md)
 
-The sixth alignment batch directly compared complete audited Tamil and English for five letters. Two English-only corrections were made:
+The seventh alignment batch directly compared complete audited Tamil and English for five letters. One English-only correction was made:
 
-1. **Letter 3563:** source `சர்வாதிகார “பாட்டை” வகுத்துக் கொண்ட` is now rendered contextually as the Election Commission having **charted an authoritarian “path”**, replacing the earlier misleading **“dictatorial ‘song’”**. The Tamil source form is unchanged.
-2. **Letter 3564:** the Pranab Mukherjee overdraft sentence now preserves the same source causation already established in Letter 3560: the State had not **had to obtain** an overdraft even for a day because of having no money in its account. PDF 217 `011ஆம் ஆண்டு` remains explicitly source-printed.
+- **Letter 3571:** Tamil `அப்படிப்பட்ட குற்றவாளி கிருஷ்ணமூர்த்தியுடன்` had been softened as “such an accused person.” The aligned English now preserves the source characterisation with attribution: **“Krishnamoorthy, whom the source describes as ‘such a criminal.’”**
 
-Canonical Tamil remained unchanged throughout the batch.
+Canonical Tamil remained unchanged. Established anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி` remain preserved.
 
 ## Current stage
 
-**Bilingual alignment — IN PROGRESS, 30 / 55 aligned.**
+**Bilingual alignment — IN PROGRESS, 35 / 55 aligned.**
 
 The aligned files remain `source-checked` translations with a separate `bilingual_alignment_status: aligned`. They are not yet volume-level editorially reviewed or final release `verified` records.
 
 ## Exact next activity
 
-Align **Letters 3567–3571 / PDF 231–260** as the next five-complete-letter batch:
+Align **Letters 3572–3576 / PDF 261–289** as the next five-complete-letter batch:
 
-- 3567 — PDF 231–235
-- 3568 — PDF 236–241
-- 3569 — PDF 242–248
-- 3570 — PDF 249–255
-- 3571 — PDF 256–260
+- 3572 — PDF 261–265
+- 3573 — PDF 266–268
+- 3574 — PDF 269–274
+- 3575 — PDF 275–283
+- 3576 — PDF 284–289
 
-Combined range: **30 canonical pages**. Preserve source anomalies PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, and PDF 259 `16-10-1999ந்தேதி`. Re-check the controlling scan before changing Tamil if alignment exposes any new possible Tamil defect. Keep the later volume-level English editorial consistency review separate.
+Combined range: **29 canonical pages**. Preserve the genuine Letter 3575 contents `...!` versus actual letter-start `....!` title difference and the scan-proven Letter 3576 title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the former stale `பார்!` reading remains withdrawn. Preserve source-supplied English such as PDF 276 `xxxx”` exactly where it occurs. Re-check the controlling scan before changing Tamil if alignment exposes any new possible Tamil defect. Keep the later volume-level English editorial consistency review separate.
