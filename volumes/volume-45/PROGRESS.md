@@ -23,32 +23,35 @@ Completed:
 - [x] Alignment batch 1 **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**
 - [x] Alignment batch 2 **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**
 - [x] Alignment batch 3 **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**
-- [x] Alignment batch 3 English corrections: **0**
-- [x] Alignment batch 3 Tamil canonical changes: **0**
+- [x] Alignment batch 4 **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**
+- [x] Alignment batch 4 English corrections: **1**
+- [x] Alignment batch 4 Tamil canonical changes: **0**
 
 ### English counts
 
 - Total source letters: **55**
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
-- Bilingual-aligned: **15 / 55 — 3537–3551**
+- Bilingual-aligned: **20 / 55 — 3537–3556**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
 - Cumulative translated canonical source coverage: PDF **024–401**
-- Cumulative bilingual-aligned canonical source coverage: PDF **024–141**
+- Cumulative bilingual-aligned canonical source coverage: PDF **024–163**
 
 ### Current English QA boundary
 
-Latest alignment review: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md)
+Latest alignment review: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md)
 
-The third alignment batch directly compared complete audited Tamil and English for five letters. No English semantic correction and no Tamil canonical correction was required. Letter 3551's PDF 139 source-specific **20 acres / ₹8 crore** Semmozhi Park figures remain preserved without cross-letter reconciliation.
+The fourth alignment batch directly compared complete audited Tamil and English for five letters. One English-only semantic/addressee correction was made in Letter 3554: the source closing phrase `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள்` is now explicitly represented as words people addressed to Kalaignar—**“the schemes ‘you implemented’”**—rather than as a second-person statement to the letter's reader. Tamil remained unchanged.
+
+Other source-specific forms in the batch remain preserved, including Letter 3552's unusual title form `யாரா`, Letter 3555's joined date forms inside the quoted earlier letter, and Letter 3556's source-attributed political criticism.
 
 ## Current stage
 
-**Bilingual alignment — IN PROGRESS, 15 / 55 aligned.**
+**Bilingual alignment — IN PROGRESS, 20 / 55 aligned.**
 
 The aligned files remain `source-checked` translations with a separate `bilingual_alignment_status: aligned`. They are not yet volume-level editorially reviewed or final release `verified` records.
 
 ## Exact next activity
 
-Align **Letters 3552–3556 / PDF 142–163** as the next five-complete-letter batch. Re-check the controlling scan before changing Tamil if alignment exposes any possible Tamil defect. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3557–3561 / PDF 164–196** as the next five-complete-letter batch. Preserve the established source forms PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration. Re-check the controlling scan before changing Tamil if alignment exposes any new possible Tamil defect. Keep the later volume-level English editorial consistency review separate.

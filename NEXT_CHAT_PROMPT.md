@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3552–3556
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3557–3561
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -39,8 +39,9 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
    - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
    - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`
+   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm cumulative alignment closure: **3537–3551 / PDF 024–141 — 15 / 55 aligned**.
+6. Confirm cumulative alignment closure: **3537–3556 / PDF 024–163 — 20 / 55 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -61,7 +62,7 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **15 / 55 — 3537–3551 / PDF 024–141**
+- Bilingual-aligned: **20 / 55 — 3537–3556 / PDF 024–163**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
@@ -70,8 +71,9 @@ Alignment batch results:
 - **3537–3541 / PDF 024–060** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
 - **3542–3546 / PDF 061–103** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
 - **3547–3551 / PDF 104–141** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
+- **3552–3556 / PDF 142–163** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
 
-The third batch required no English or Tamil correction. Letter 3551's PDF 139 source-specific **20 acres / ₹8 crore** Semmozhi Park figures remain preserved without cross-letter reconciliation.
+The fourth-batch English-only correction was in Letter 3554. Source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள் என்று ஒவ்வொருவரும் கூறியபோது` reports words addressed by people to Kalaignar. The aligned English explicitly reads **“when one person after another spoke to me of the schemes ‘you implemented,’ I gave myself marks.”** Canonical Tamil is unchanged.
 
 ## SOURCE AUTHORITY
 
@@ -99,15 +101,22 @@ For each bilingual record:
 
 Align five complete consecutive letters:
 
-- **3552** — `யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்!` — PDF **142–144** — 30-03-2011
-- **3553** — `“குற்றம் பார்க்கின் சுற்றம் இல்லை”!` — PDF **145–149** — 05-04-2011
-- **3554** — `மதிப்பிற்குரிய மதிப்பெண் என்ன?` — PDF **150–154** — 13-04-2011
-- **3555** — `அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!` — PDF **155–159** — 17-04-2011
-- **3556** — `பார்த்தும் மறந்தாரே “காரத்”!` — PDF **160–163** — 21-04-2011
+- **3557** — PDF **164–169**
+- **3558** — PDF **170–175**
+- **3559** — PDF **176–180**
+- **3560** — PDF **181–188**
+- **3561** — PDF **189–196**
 
-Combined next alignment range: **PDF 142–163 / 22 canonical pages**.
+Combined next alignment range: **PDF 164–196 / 33 canonical pages**.
 
-Create a durable alignment report for **3552–3556**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
+Established source cautions in this range:
+
+- PDF **170** preserves `பொக்கம்` exactly.
+- PDF **176** preserves `10ந்தேதியன்று` exactly.
+- PDF **177** preserves `முஜா கி தீன்` exactly.
+- PDF **187** contains the scan-proven post-audit restoration discovered during Letter 3560 drafting; preserve the repaired canonical text and its documented boundary into PDF 188.
+
+Create a durable alignment report for **3557–3561**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 

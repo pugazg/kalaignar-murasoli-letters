@@ -45,7 +45,7 @@ PDF 187 was already one of the historical 243 corrected pages, so the historical
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3591 and alignment batches 3537–3551 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3591 and alignment batches 3537–3556 exposed **no additional Tamil canonical correction**.
 
 ## English drafting QA boundary
 
@@ -64,17 +64,16 @@ Completed alignment batches:
 - **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
 - **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 - **3547–3551 / PDF 104–141** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
+- **3552–3556 / PDF 142–163** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 
-Current cumulative alignment: **15 / 55 — Letters 3537–3551 / PDF 024–141**.
+Current cumulative alignment: **20 / 55 — Letters 3537–3556 / PDF 024–163**.
 
-The second batch's only English semantic correction was in Letter 3545: source `தொழில் வரி உரிமம்` / `தொழில்வரி` is represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier **Trade licences** wording. The Tamil source was not changed.
-
-The third batch required no English or Tamil correction. Letter 3551's PDF 139 **20 acres / ₹8 crore** Semmozhi Park figures remain source-faithful without reconciliation to another letter.
+The fourth batch's English-only correction was in Letter 3554. Source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள் என்று ஒவ்வொருவரும் கூறியபோது` reports words addressed by people to Kalaignar. The earlier English could read as if the letter's Udanpirappē had implemented the schemes; the aligned English now makes the speech relation explicit as **“when one person after another spoke to me of the schemes ‘you implemented,’ I gave myself marks.”** Canonical Tamil is unchanged.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**.
-- Bilingual-aligned: **15 / 55**.
+- Bilingual-aligned: **20 / 55**.
 - Editorially reviewed: **0 / 55**.
 - Final verified for release: **0 / 55**.
 
@@ -83,7 +82,8 @@ Durable alignment reports:
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
 - `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`
+- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`
 
 ## Exact next activity
 
-Align **Letters 3552–3556 / PDF 142–163** as the next five-complete-letter bilingual-alignment batch. If alignment exposes any possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3557–3561 / PDF 164–196** as the next five-complete-letter bilingual-alignment batch. Preserve established source forms including PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration. If alignment exposes any new possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

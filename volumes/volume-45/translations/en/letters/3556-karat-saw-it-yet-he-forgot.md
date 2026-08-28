@@ -11,7 +11,8 @@ source_printed_page_end: 162
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md"
 ---
 
 # 3556. Karat Saw It, Yet He Forgot!

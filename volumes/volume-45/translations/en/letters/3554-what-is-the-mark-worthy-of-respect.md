@@ -11,7 +11,8 @@ source_printed_page_end: 153
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md"
 ---
 
 # 3554. What Is the Mark Worthy of Respect?
@@ -68,7 +69,7 @@ In the election manifesto we announced that we would provide one kilogram of ric
 
 When I stayed for ten minutes at Koradacheri, the town Congress Committee president, Mr S.M.V. Natarasan, came to meet me and thanked me. When I asked what the thanks were for, he opened his shirt and showed me. He had undergone surgery under the Kalaignar Insurance Scheme and had come with bandages on his chest. **“Ayya, if you had not announced this scheme, I would not be alive today,”** he said.
 
-In this way, in every town, when one person after another spoke of schemes you had implemented, I gave myself marks. But today is the day on which **you** must give the marks, is it not? Where have you set out for? To give the marks? Thank you, thank you.
+In this way, in every town, when one person after another spoke to me of the schemes **“you implemented,”** I gave myself marks. But today is the day on which **you** must give the marks, is it not? Where have you set out for? To give the marks? Thank you, thank you.
 
 **With affection,**  
 **M.K.**  
@@ -79,6 +80,7 @@ In this way, in every town, when one person after another spoke of schemes you h
 1. The title preserves the source's wordplay between `மதிப்பு` (value/respect) and `மதிப்பெண்` (mark/score); the English therefore retains the repeated idea of “mark”.
 2. PDF 151 uses the source distance form `பத்துகல்`; the English keeps `ten kal` rather than silently converting it to a modern distance unit.
 3. PDF 152 refers to the campaign vehicle as `தள்ளு வண்டி`; the English retains this conservatively as `thallu-vandi` because the audited text alone does not establish a more precise vehicle type.
+4. In the closing paragraph, source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள்` is represented as the words people addressed to Kalaignar—**“you implemented”**—rather than as a second-person statement to the letter's reader.
 
 ## Original Tamil — மூலத் தமிழ்
 

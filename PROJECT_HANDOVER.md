@@ -50,31 +50,34 @@ Completed batches:
 1. **3537–3541 / PDF 024–060 / 37 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`.
 2. **3542–3546 / PDF 061–103 / 43 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`.
 3. **3547–3551 / PDF 104–141 / 38 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3547_3551.md`.
+4. **3552–3556 / PDF 142–163 / 22 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3552_3556.md`.
 
-The second batch's English-only correction was in Letter 3545: source `தொழில் வரி உரிமம்` / `தொழில்வரி` is represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil did not change.
+The fourth batch's English-only correction is in Letter 3554. Source `உங்களால் நிறைவேற்றப்பட்ட திட்டங்கள் என்று ஒவ்வொருவரும் கூறியபோது` reports words people addressed to Kalaignar. The earlier English could point `you` at the letter's reader; the aligned record now makes the relation explicit as **“when one person after another spoke to me of the schemes ‘you implemented,’ I gave myself marks.”** Canonical Tamil did not change.
 
-The third batch required no English or Tamil correction. Source-specific cautions remained preserved, including Letter 3548's PDF 114 `4 கோடியே 58 ஆயிரம் ரூபாய்`, Letter 3550's source-supplied English Election Commission sentence, and Letter 3551's PDF 139 **20 acres / ₹8 crore** Semmozhi Park figures without cross-letter reconciliation.
+Source-specific cautions retained in the fourth batch include Letter 3552's unusual title form `யாரா`, Letter 3555's joined source date forms in the reproduced earlier letter, and Letter 3556's political criticism retained strictly as source voice.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**
-- Bilingual-aligned: **15 / 55 — 3537–3551 / PDF 024–141**
+- Bilingual-aligned: **20 / 55 — 3537–3556 / PDF 024–163**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — bilingual-alignment batch 3552–3556
+### Exact next activity — bilingual-alignment batch 3557–3561
 
 Align five complete consecutive letters:
 
-- **3552** — `யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்!` — PDF **142–144** — 30-03-2011
-- **3553** — `“குற்றம் பார்க்கின் சுற்றம் இல்லை”!` — PDF **145–149** — 05-04-2011
-- **3554** — `மதிப்பிற்குரிய மதிப்பெண் என்ன?` — PDF **150–154** — 13-04-2011
-- **3555** — `அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!` — PDF **155–159** — 17-04-2011
-- **3556** — `பார்த்தும் மறந்தாரே “காரத்”!` — PDF **160–163** — 21-04-2011
+- **3557** — PDF **164–169**
+- **3558** — PDF **170–175**
+- **3559** — PDF **176–180**
+- **3560** — PDF **181–188**
+- **3561** — PDF **189–196**
 
-Combined next range: **PDF 142–163 / 22 canonical pages**.
+Combined next range: **PDF 164–196 / 33 canonical pages**.
 
-For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
+Established source cautions within that range include PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, and the scan-proven PDF 187 restoration already documented in `TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`. Preserve those forms/corrections exactly.
+
+For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any new Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
 
 Do **not** merge the later volume-level English editorial consistency review into bilingual alignment.
 
@@ -87,7 +90,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 15 / 55 aligned; next 3552–3556 / PDF 142–163**;
+6. bilingual alignment — **IN PROGRESS; 20 / 55 aligned; next 3557–3561 / PDF 164–196**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 
