@@ -32,19 +32,24 @@ The fifth batch exposed one residual Tamil omission on PDF 187. It was directly 
 
 Current cumulative English drafting boundary: **3537–3591 / 55 of 55 source-checked**, PDF **024–401**.
 
-## Bilingual alignment gate — begun
+## Bilingual alignment gate — in progress
 
-The first direct Tamil↔English alignment batch is complete:
+Completed alignment batches:
 
-- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**
-- English semantic corrections: **0**
-- Tamil canonical corrections: **0**
-- Report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
+
+Second-batch English correction: Letter 3545's audited `தொழில் வரி உரிமம்` / `தொழில்வரி` passage is now represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil did not change.
+
+Reports:
+
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
 
 The aligned records retain `translation_status: source-checked` and add `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
 
-Current cumulative alignment: **5 / 55**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+Current cumulative alignment: **10 / 55 — 3537–3546 / PDF 024–103**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3545's printed `112.2006-ல்` and the source-layer exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter bilingual-alignment batch. Do not begin the later volume-level editorial consistency review.

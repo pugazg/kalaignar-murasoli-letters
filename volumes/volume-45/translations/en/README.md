@@ -18,7 +18,7 @@ Translation and alignment are made from the scan-verified canonical Tamil. The c
 
 ## Translation and alignment status
 
-Main drafting is complete: all **55 / 55** letters are source-checked. The first bilingual meaning-level alignment batch, **3537–3541 / PDF 024–060**, has passed **5 / 5** with **0 English corrections** and **0 Tamil canonical changes**.
+Main drafting is complete: all **55 / 55** letters are source-checked. Two bilingual meaning-level alignment batches, **3537–3541 / PDF 024–060** and **3542–3546 / PDF 061–103**, have passed. Current cumulative alignment is **10 / 55 — 3537–3546 / PDF 024–103**. The second batch required **one English-only semantic correction** in Letter 3545 and **0 Tamil canonical changes**.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -27,11 +27,11 @@ Main drafting is complete: all **55 / 55** letters are source-checked. The first
 | [3539](letters/3539-health-and-family-welfare-five-year-achievements-1.md) | Five-Year Achievements of the Health and Family Welfare Department! (1) | 14 March 2011 | 042–049 | source-checked + aligned |
 | [3540](letters/3540-health-and-family-welfare-five-year-achievements-2.md) | Five-Year Achievements of the Health and Family Welfare Department! (2) | 15 March 2011 | 050–056 | source-checked + aligned |
 | [3541](letters/3541-do-not-forget-that-i-too-am-with-you.md) | Do Not Forget That I Too Am With You! | 15 March 2011 | 057–060 | source-checked + aligned |
-| [3542](letters/3542-health-and-family-welfare-five-year-achievements-3.md) | Five-Year Achievements of the Health and Family Welfare Department (3) | 16 March 2011 | 061–068 | source-checked |
-| [3543](letters/3543-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 17 March 2011 | 069–079 | source-checked |
-| [3544](letters/3544-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 18 March 2011 | 080–088 | source-checked |
-| [3545](letters/3545-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 19 March 2011 | 089–098 | source-checked |
-| [3546](letters/3546-armour-and-shields-i-will-never-separate-them.md) | I Will Never Separate the Armour and Shields! | 19 March 2011 | 099–103 | source-checked |
+| [3542](letters/3542-health-and-family-welfare-five-year-achievements-3.md) | Five-Year Achievements of the Health and Family Welfare Department (3) | 16 March 2011 | 061–068 | source-checked + aligned |
+| [3543](letters/3543-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 17 March 2011 | 069–079 | source-checked + aligned |
+| [3544](letters/3544-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 18 March 2011 | 080–088 | source-checked + aligned |
+| [3545](letters/3545-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 19 March 2011 | 089–098 | source-checked + aligned |
+| [3546](letters/3546-armour-and-shields-i-will-never-separate-them.md) | I Will Never Separate the Armour and Shields! | 19 March 2011 | 099–103 | source-checked + aligned |
 | [3547](letters/3547-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 20 March 2011 | 104–110 | source-checked |
 | [3548](letters/3548-social-welfare-and-nutritious-meal-programme-department-five-year-achievements.md) | Five-Year Achievements of the Social Welfare and Nutritious Meal Programme Department! | 21 March 2011 | 111–118 | source-checked |
 | [3549](letters/3549-come-come-o-ranks-of-striped-tigers-come.md) | Come! Come! O Ranks of Striped Tigers, Come! | 22 March 2011 | 119–122 | source-checked |
@@ -78,7 +78,7 @@ Main drafting is complete: all **55 / 55** letters are source-checked. The first
 | [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
 | [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
 
-Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **5 / 55, Letters 3537–3541 / PDF 024–060**.
+Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **10 / 55, Letters 3537–3546 / PDF 024–103**.
 
 Batch records:
 
@@ -95,6 +95,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3585_3589.md`](DRAFT_SOURCE_CHECK_3585_3589.md)
 - [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CHECK_3590_3591.md) — final drafting batch
 - [`BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md) — first alignment batch
+- [`BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md) — second alignment batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -107,8 +108,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-All fifty-five English records are `source-checked`. Letters **3537–3541** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
+All fifty-five English records are `source-checked`. Letters **3537–3546** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
 
 ## Exact next activity
 
-Align **Letters 3542–3546 / PDF 061–103** as the second five-complete-letter alignment batch. Preserve Letter 3545's unusual printed `112.2006-ல்` on PDF 098 and the later library stamp/handwriting exclusion on Letter 3546 / PDF 102. If alignment exposes a possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level editorial consistency review separate.
+Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter alignment batch. If alignment exposes a possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level editorial consistency review separate.

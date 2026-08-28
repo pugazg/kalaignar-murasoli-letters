@@ -42,9 +42,9 @@ translation:
   source_checked_letters: 55
   translated_letter_range: 3537-3591
   translated_pdf_range: 024-401
-  bilingual_aligned_letters: 5
-  bilingual_aligned_letter_range: 3537-3541
-  bilingual_aligned_pdf_range: 024-060
+  bilingual_aligned_letters: 10
+  bilingual_aligned_letter_range: 3537-3546
+  bilingual_aligned_pdf_range: 024-103
   editorially_reviewed_letters: 0
   verified_letters: 0
   pilot_range: 3537-3539
@@ -61,18 +61,18 @@ translation:
   tamil_change_spans_during_last_drafting_batch: 0
   main_drafting_complete: true
   alignment_status: in-progress
-  completed_alignment_batches: 1
-  last_alignment_batch: 3537-3541
-  last_alignment_pdf_range: 024-060
+  completed_alignment_batches: 2
+  last_alignment_batch: 3542-3546
+  last_alignment_pdf_range: 061-103
   last_alignment_batch_status: pass
-  english_corrections_during_last_alignment_batch: 0
+  english_corrections_during_last_alignment_batch: 1
   tamil_changes_during_last_alignment_batch: 0
-  alignment_review: translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md
+  alignment_review: translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md
   next_letter: null
   next_batch: null
   next_gate: bilingual-alignment
-  next_alignment_batch: 3542-3546
-  next_alignment_pdf_range: 061-103
+  next_alignment_batch: 3547-3551
+  next_alignment_pdf_range: 104-141
   alignment_batch_letters: 5
   normal_drafting_batch_letters: 5
   final_drafting_batch_letters: 2

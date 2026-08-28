@@ -74,18 +74,18 @@ Main drafting state: **3537–3591 / 55 of 55 source-checked**, audited canonica
 
 ### Phase 3 — Bilingual alignment QA — IN PROGRESS
 
-Alignment batch 1 is complete:
+Completed:
 
-- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**
-- English semantic corrections required: **0**
-- Tamil canonical corrections required: **0**
-- Durable report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 
-Current cumulative alignment: **5 / 55**.
+Current cumulative alignment: **10 / 55 — 3537–3546 / PDF 024–103**.
+
+The only correction in the second alignment batch was English-only: Letter 3545's source `தொழில் வரி உரிமம்` / `தொழில்வரி` is now represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil remained unchanged.
 
 Exact next alignment batch:
 
-- **3542–3546 / PDF 061–103** — five complete letters / 43 canonical pages.
+- **3547–3551 / PDF 104–141** — five complete letters / 38 canonical pages.
 
 Compare every English record directly against its authoritative audited Tamil, letter by letter and page by page. Correct any omission, addition, semantic drift, figure/date/name error, quotation loss, paragraph-order change or rhetorical-force distortion before marking a letter bilingual-aligned.
 
@@ -107,8 +107,8 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability passed editorial review;
 - `verified` — final release verification complete.
 
-All **55 / 55** letters are source-checked. **5 / 55** are bilingual-aligned. None has yet passed the later volume-level editorial/release `verified` gate.
+All **55 / 55** letters are source-checked. **10 / 55** are bilingual-aligned. None has yet passed the later volume-level editorial/release `verified` gate.
 
 ## Exact next activity
 
-Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3545's printed anomaly `112.2006-ல்` on PDF 098 and the exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. If any possible Tamil defect appears, re-check the controlling scan before changing either layer. Keep the later editorial consistency review separate.
+Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter bilingual-alignment batch. If any possible Tamil defect appears, re-check the controlling scan before changing either layer. Keep the later editorial consistency review separate.

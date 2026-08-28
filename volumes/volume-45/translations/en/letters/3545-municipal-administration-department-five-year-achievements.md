@@ -11,7 +11,8 @@ source_printed_page_end: 97
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md"
 ---
 
 # 3545. Five-Year Achievements of the Municipal Administration Department!
@@ -66,9 +67,9 @@ Property-tax collection by the Chennai Corporation, which stood at ₹231 crore 
 
 Profession-tax collection was ₹63.82 crore in 2006–07, ₹75 crore in 2007–08, ₹89.91 crore in 2008–09 and ₹126.21 crore in 2009–10. In the current financial year, ₹113.91 crore has been collected through profession tax.
 
-### Trade licences
+### Profession-tax licences
 
-The procedure for issuing trade licences has been simplified. Revenue that stood at ₹3.22 crore in 2006–07 has risen gradually and ₹5.41 crore has been collected in the current financial year up to today. An SMS service has been introduced to enable people to learn details such as the amount of property tax paid and arrears, along with a system for collecting property tax through mobile devices.
+The procedure for issuing profession-tax licences has been simplified. Profession-tax revenue that stood at ₹3.22 crore in 2006–07 has risen gradually and ₹5.41 crore has been collected in the current financial year up to today. An SMS service has been introduced to enable people to learn details such as the amount of property tax paid and arrears, along with a system for collecting property tax through mobile devices.
 
 ### Parks
 
@@ -167,6 +168,7 @@ The scheme was completed in two years—one year ahead of the scheduled period�
 1. On PDF 089, the source phrase about scanning the remaining old registers ends without a finite completion before the next heading. The English preserves that incompleteness rather than supplying missing wording.
 2. PDF 098 prints `112.2006-ல்`. The English does not infer or substitute a conventional date from outside the source.
 3. Source-supplied English expressions such as `(DBOOT)`, `(Southern Headworks)`, `Jet Rodding Machines`, `Super Suction Machines`, `Hydraulically Operated Desilting Machines`, `MLD` and `TMC` are retained.
+4. During bilingual alignment, the earlier heading **Trade licences** and wording **trade licences** were corrected to **Profession-tax licences** because the audited source prints `தொழில் வரி உரிமம்` and continues with `தொழில்வரி`; this is an English-only correction and does not alter the Tamil source.
 
 ## Original Tamil — மூலத் தமிழ்
 

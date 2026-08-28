@@ -59,22 +59,27 @@ English main drafting is **COMPLETE — 55 / 55 source-checked**.
 
 ## Bilingual alignment QA boundary
 
-First alignment batch completed:
+Completed alignment batches:
 
-- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**.
-- English semantic corrections required/applied: **0**.
-- Tamil canonical corrections required: **0**.
-- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`.
+- **3537–3541 / PDF 024–060** — **PASS — 5 / 5 aligned**; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — **PASS — 5 / 5 aligned**; English corrections 1; Tamil changes 0.
 
-The first batch directly checked complete Tamil↔English coverage including titles, salutations, paragraph order, claims, quotations, dates, figures, units, rhetorical force and closings. Existing documented source anomalies in Letters 3539–3540 were retained without external normalisation.
+Current cumulative alignment: **10 / 55 — Letters 3537–3546 / PDF 024–103**.
+
+The second batch's only English semantic correction was in Letter 3545: source `தொழில் வரி உரிமம்` / `தொழில்வரி` is now represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier **Trade licences** wording. The Tamil source was not changed. PDF 098 `112.2006-ல்` remains preserved, and later library stamp/handwriting on PDF 102 remains excluded from edition text.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**.
-- Bilingual-aligned: **5 / 55**.
+- Bilingual-aligned: **10 / 55**.
 - Editorially reviewed: **0 / 55**.
 - Final verified for release: **0 / 55**.
 
+Durable alignment reports:
+
+- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
+- `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
+
 ## Exact next activity
 
-Align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3545's unusual printed `112.2006-ல்` on PDF 098 and the existing exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. If alignment exposes any possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter bilingual-alignment batch. If alignment exposes any possible Tamil defect, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.

@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 5 / 55.
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 10 / 55.
 
 ## Controlling source
 
@@ -24,14 +24,15 @@ Direct scan verification resolved Letter 3576 to `உலகப் புகழ�
 
 - Main drafting/source-check: **55 / 55 — COMPLETE**
 - Cumulative translated canonical source: **PDF 024–401**
-- First bilingual-alignment batch **3537–3541 / PDF 024–060** — **PASS / 5 of 5 aligned**
-- English corrections during first alignment batch: **0**
-- Tamil canonical changes during first alignment batch: **0**
-- Bilingual-aligned: **5 / 55 — 3537–3541**
+- Alignment batch 1 **3537–3541 / PDF 024–060** — **PASS / 5 of 5 aligned**
+- Alignment batch 2 **3542–3546 / PDF 061–103** — **PASS / 5 of 5 aligned**
+- English corrections during second alignment batch: **1**
+- Tamil canonical changes during second alignment batch: **0**
+- Bilingual-aligned: **10 / 55 — 3537–3546 / PDF 024–103**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-The first meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, lists, rhetoric, closings and documented source anomalies. In particular, Letter 3539's `21 இலட்சத்து 75 நபர்கள்` and Letter 3540's PDF 051/055/056 anomalies remain represented rather than silently normalised. No English semantic correction and no Tamil canonical correction was required.
+The second meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, lists, rhetoric, closings and documented source anomalies. Letter 3545 required one English-only correction: the audited `தொழில் வரி உரிமம்` / `தொழில்வரி` passage is now rendered **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. PDF 098 `112.2006-ல்` remains preserved and PDF 102's later library stamp/handwriting remains excluded from canonical edition text.
 
 English controls:
 
@@ -41,11 +42,11 @@ English controls:
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md)
-- [`translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`](translations/en/DRAFT_SOURCE_CHECK_3590_3591.md)
 - [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md)
 
 ## Exact next activity
 
-Align **Letters 3542–3546 / PDF 061–103** as the second five-complete-letter bilingual-alignment batch. Preserve Letter 3545's unusual printed `112.2006-ல்` on PDF 098 and the later library stamp/handwriting exclusion on Letter 3546 / PDF 102. Re-check the controlling scan before changing Tamil if any possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter bilingual-alignment batch. Re-check the controlling scan before changing Tamil if any possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.

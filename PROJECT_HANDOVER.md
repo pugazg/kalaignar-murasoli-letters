@@ -35,26 +35,9 @@ During Letter 3560 source-check, the canonical PDF 187→188 transition exposed 
 
 ### English main drafting — COMPLETE
 
-Locked conventions:
+Locked conventions include `Udanpirappē`, `With affection, M.K.`, clear contemporary thought-preserving non-literary English, no summarising substantive source material, preservation of political force/irony/questions/repetition/quotations/names/dates/figures, `lakh` / `crore`, established **Samacheer Kalvi**, source-specific Tamil New Year / Thai / Chithirai claims without outside reconciliation, and complete audited Tamil under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
 
-- `உடன்பிறப்பே` → **Udanpirappē**;
-- `அன்புள்ள, மு.க.` → **With affection, M.K.**;
-- clear contemporary, thought-preserving, non-literary English;
-- no summarising of substantive source material;
-- preserve political directness, irony, questions, repetition, quotations, names, dates and figures;
-- retain `lakh` / `crore`;
-- retain **Samacheer Kalvi** where the established scheme name recurs;
-- preserve each source claim concerning **Tamil New Year / first day of Thai / Chithirai** without outside reconciliation;
-- no external historical correction of source facts or anomalies;
-- complete audited Tamil reproduced under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
-
-Drafting record:
-
-- Pilot **3537–3539 / PDF 024–049** — PASS / STYLE LOCKED
-- Ten normal five-letter batches through **3585–3589 / PDF 358–390** — PASS
-- Final batch **3590–3591 / PDF 391–401** — PASS — Tamil changes 0
-
-Current cumulative English drafting state:
+Current drafting state:
 
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
@@ -62,57 +45,39 @@ Current cumulative English drafting state:
 
 ### Bilingual alignment — IN PROGRESS
 
-First alignment batch completed:
+Completed batches:
 
-- **3537** — PDF 024–033
-- **3538** — PDF 034–041
-- **3539** — PDF 042–049
-- **3540** — PDF 050–056
-- **3541** — PDF 057–060
+1. **3537–3541 / PDF 024–060 / 37 pages** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`.
+2. **3542–3546 / PDF 061–103 / 43 pages** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0. Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`.
 
-Combined range: **PDF 024–060 / 37 canonical pages**.
+Second-batch correction: Letter 3545 / PDF 091 prints `தொழில் வரி உரிமம்` and continues with `தொழில்வரி`. The earlier English **Trade licences** wording was corrected to **Profession-tax licences** / **profession-tax revenue**. This is an English-only correction. Canonical Tamil did not change.
 
-Result: **PASS — 5 / 5 aligned**.
+Source cautions retained during the second batch:
 
-- English semantic corrections required/applied: **0**
-- Tamil canonical corrections required: **0**
-- Durable report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
-- The aligned letter records retain `translation_status: source-checked` and now carry `bilingual_alignment_status: aligned` plus the batch-report link.
-- Existing source-specific anomalies in Letters 3539–3540 remained preserved; no outside reconstruction was introduced.
+- Letter 3545 / PDF 098 preserves `112.2006-ல்` exactly.
+- Letter 3546 / PDF 102 later library stamp/handwriting remains excluded from canonical edition text.
+- Letter 3544 source forms `94 இலட்சம் மக்கள்` and `ஒப்பங்கள்` remain unreconciled externally.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**
-- Bilingual-aligned: **5 / 55**
+- Bilingual-aligned: **10 / 55 — 3537–3546 / PDF 024–103**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — bilingual-alignment batch 3542–3546
+### Exact next activity — bilingual-alignment batch 3547–3551
 
 Align five complete consecutive letters:
 
-- **3542** — `மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள் (3)` — PDF **061–068** — 16-03-2011
-- **3543** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **069–079** — 17-03-2011
-- **3544** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **080–088** — 18-03-2011
-- **3545** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **089–098** — 19-03-2011
-- **3546** — `கவசங்களையும் கேடயங்களையும் என்றும் பிரித்திடேன்!` — PDF **099–103** — 19-03-2011
+- **3547** — PDF **104–110**
+- **3548** — PDF **111–118**
+- **3549** — PDF **119–122**
+- **3550** — PDF **123–128**
+- **3551** — PDF **129–141**
 
-Combined next range: **PDF 061–103 / 43 canonical pages**.
+Combined next range: **PDF 104–141 / 38 canonical pages**.
 
-For every letter:
-
-1. read the authoritative audited Tamil pages and the English bilingual record completely;
-2. compare English against Tamil paragraph by paragraph and claim by claim;
-3. check title, paragraph order, names, dates, figures, units, quotations, rhetorical questions, repetition and closing;
-4. correct any omission, addition, semantic drift or factual distortion in English;
-5. if alignment exposes a possible Tamil defect, stop and re-check the controlling scan before changing either layer;
-6. mark passed records `bilingual_alignment_status: aligned` while retaining their source-checked drafting history;
-7. create a durable alignment report and update cumulative alignment counts and exact next batch.
-
-Source-specific cautions for the next batch:
-
-- Letter 3545 / PDF 098 preserves the unusual printed form `112.2006-ல்`; do not silently correct it.
-- Letter 3546 / PDF 102 contains later library stamp/handwriting already excluded from canonical edition text; do not reintroduce it.
+For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
 
 Do **not** merge the later volume-level English editorial consistency review into bilingual alignment.
 
@@ -125,7 +90,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 5 / 55 aligned; next 3542–3546 / PDF 061–103**;
+6. bilingual alignment — **IN PROGRESS; 10 / 55 aligned; next 3547–3551 / PDF 104–141**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 

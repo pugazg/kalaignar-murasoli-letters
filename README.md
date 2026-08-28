@@ -25,7 +25,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 5 / 55 bilingual-aligned; alignment in progress** |
+| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 10 / 55 bilingual-aligned; alignment in progress** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
@@ -35,12 +35,15 @@
 
 Volume 45 Tamil archival work is complete: **402 / 402 canonical PDF pages**, **55 / 55 source letters, 3537–3591**, structural audit **PASS**, second direct visual/textual-fidelity audit **PASS**. The historical second-pass tally is **243 corrected canonical page files / 623 correction spans**. Letter 3560 English source-check exposed one residual omission on already-corrected PDF 187; it was directly repaired from the scan, leaving **243 unique corrected pages / 624 combined scan-proven spans**.
 
-The pilot **3537–3539 / PDF 024–049** passed and locked the English style. Ten normal drafting batches plus the final **3590–3591 / PDF 391–401** iteration are complete and source-checked. Current English drafting total: **55 / 55 source-checked**.
+English main drafting is complete at **55 / 55 source-checked**. Two bilingual alignment batches are now complete:
 
-The first bilingual-alignment batch **3537–3541 / PDF 024–060** is now complete: **PASS — 5 / 5 aligned**, with **0 English semantic corrections** and **0 Tamil canonical corrections**. The records retain their source-checked drafting status and separately record `bilingual_alignment_status: aligned`. Editorial review and final release verification have not begun.
+- **3537–3541 / PDF 024–060** — PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.
 
-Current English QA totals: **55 / 55 source-checked**, **5 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
+Letter 3545 required the only second-batch English correction: source `தொழில் வரி உரிமம்` / `தொழில்வரி` is now rendered **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil is unchanged; PDF 098 `112.2006-ல்` remains preserved and PDF 102's later library stamp/handwriting remains excluded from edition text.
 
-**Exact next activity:** align **Letters 3542–3546 / PDF 061–103** as the next five-complete-letter alignment batch. Preserve Letter 3545's source anomaly `112.2006-ல்` and the source-layer exclusion of later library stamp/handwriting on Letter 3546 / PDF 102. Keep the later volume-level English editorial consistency review separate.
+Current English QA totals: **55 / 55 source-checked**, **10 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
 
-Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [alignment review 3537–3541](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+**Exact next activity:** align **Letters 3547–3551 / PDF 104–141** as the next five-complete-letter alignment batch. Keep the later volume-level English editorial consistency review separate.
+
+Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [alignment review 3537–3541](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md), [alignment review 3542–3546](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).

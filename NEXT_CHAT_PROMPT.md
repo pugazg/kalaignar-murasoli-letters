@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3542–3546
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3547–3551
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -37,8 +37,9 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
    - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3537_3541.md`
+   - `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3542_3546.md`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm first alignment batch closure: **3537–3541 / PDF 024–060 — PASS — 5 / 5 aligned**.
+6. Confirm cumulative alignment closure: **3537–3546 / PDF 024–103 — 10 / 55 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -59,16 +60,16 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **5 / 55 — 3537–3541**
+- Bilingual-aligned: **10 / 55 — 3537–3546 / PDF 024–103**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-First alignment batch result:
+Alignment batch results:
 
-- **3537–3541 / PDF 024–060 / 37 canonical pages**
-- **PASS — 5 / 5 aligned**
-- English semantic corrections: **0**
-- Tamil canonical corrections: **0**
+- **3537–3541 / PDF 024–060** — PASS — 5 / 5; English corrections 0; Tamil changes 0.
+- **3542–3546 / PDF 061–103** — PASS — 5 / 5; English corrections 1; Tamil changes 0.
+
+The second-batch English-only correction was in Letter 3545: source `தொழில் வரி உரிமம்` / `தொழில்வரி` is now represented as **Profession-tax licences** / **profession-tax revenue**, replacing the earlier broader **Trade licences** wording. Canonical Tamil is unchanged.
 
 ## SOURCE AUTHORITY
 
@@ -96,20 +97,15 @@ For each bilingual record:
 
 Align five complete consecutive letters:
 
-- **3542** — `மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறையின் ஐந்தாண்டு சாதனைகள் (3)` — PDF **061–068** — 16-03-2011
-- **3543** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **069–079** — 17-03-2011
-- **3544** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **080–088** — 18-03-2011
-- **3545** — `நகராட்சி நிர்வாகத் துறையின் ஐந்தாண்டு சாதனைகள்!` — PDF **089–098** — 19-03-2011
-- **3546** — `கவசங்களையும் கேடயங்களையும் என்றும் பிரித்திடேன்!` — PDF **099–103** — 19-03-2011
+- **3547** — PDF **104–110**
+- **3548** — PDF **111–118**
+- **3549** — PDF **119–122**
+- **3550** — PDF **123–128**
+- **3551** — PDF **129–141**
 
-Combined next alignment range: **PDF 061–103 / 43 canonical pages**.
+Combined next alignment range: **PDF 104–141 / 38 canonical pages**.
 
-Source-specific cautions:
-
-- Letter 3545 / PDF 098 preserves the unusual printed `112.2006-ல்`; do not silently correct it.
-- Letter 3546 / PDF 102 contains later library stamp/handwriting already excluded from canonical edition text; do not reintroduce it.
-
-Create a durable alignment report for **3542–3546**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact next alignment batch from live chapter boundaries.
+Create a durable alignment report for **3547–3551**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 
