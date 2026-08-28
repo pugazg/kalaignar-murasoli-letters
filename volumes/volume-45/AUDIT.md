@@ -101,18 +101,18 @@ PDF 187 was already one of the 243 unique page files corrected during the histor
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3569 and 3570–3574 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3569, 3570–3574 and 3575–3579 exposed **no additional Tamil canonical correction**.
 
 ## English QA boundary
 
 - Pilot **3537–3539 / PDF 024–049**: PASS / style locked.
-- Normal batches through **3570–3574 / PDF 249–274**: source-checked.
-- Current English total: **38 / 55 — Letters 3537–3574**.
-- Cumulative translated source coverage: **PDF 024–274**.
+- Normal batches through **3575–3579 / PDF 275–319**: source-checked.
+- Current English total: **43 / 55 — Letters 3537–3579**.
+- Cumulative translated source coverage: **PDF 024–319**.
 - Bilingual alignment: **0 / 55**; not yet begun.
 
-The 3570–3574 source check explicitly preserves the Omandurar Secretariat figures and political argument; Letter 3571's TANSI/inquiry narrative, source `12.462 சதுர மீட்டர்` and split `26-` / `10-99ந்தேதி` page boundary; Letter 3572's attributed tax/debt/Samacheer statements and `100 Karunanidhis` reversal; Letter 3573's Manohara and Mahakali/Bhadrakali imagery; and Letter 3574's full Samacheer Kalvi chronology with the source-printed English High Court sentence represented separately from the source's Tamil rendering.
+The 3575–3579 source check preserves the genuine Letter 3575 contents/start punctuation difference; Letter 3576's scan-proven `பாரீர்!` title; PDF 290's source `18-5-2001`; the full 16-page Letter 3577 law-and-order catalogue; Letter 3578's Housing Board/Jaffer Sait figures and allottee lists; and Letter 3579's complete tax, borrowing, scheme and welfare-board figures plus source-printed English passages.
 
 ## Exact next activity
 
-Translate **Letters 3575–3579 / PDF 275–319** as the next normal five-letter drafting/source-check batch. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` start title. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
+Translate **Letters 3580–3584 / PDF 320–357** as the next normal five-letter drafting/source-check batch. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
