@@ -11,8 +11,10 @@
 - [x] Second normal drafting batch **3545–3549** translated and source-checked
 - [x] Third normal drafting batch **3550–3554** translated and source-checked
 - [x] Fourth normal drafting batch **3555–3559** translated and source-checked
+- [x] Fifth normal drafting batch **3560–3564** translated and source-checked
+- [x] Translation-discovered PDF 187 Tamil omission directly rechecked against scan and repaired
 - [ ] Main translation drafting
-  - [ ] **3560–3564** — exact next five-letter batch
+  - [ ] **3565–3569** — exact next five-letter batch
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
@@ -21,8 +23,8 @@
 
 - Total source letters: **55**
 - Letter range: **3537–3591**
-- Draft-translated: **23 / 55** — 3537–3559
-- Source-checked: **23 / 55** — 3537–3559
+- Draft-translated: **28 / 55** — 3537–3564
+- Source-checked: **28 / 55** — 3537–3564
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
@@ -81,22 +83,37 @@
 - Result: **PASS — 5 / 5 source-checked**
 - Tamil canonical changes during batch: **0**
 
-See [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md).
+### Fifth normal drafting batch
 
-Cumulative translated canonical source coverage is PDF **024–180**. All those pages had already passed the durable full-volume direct-scan fidelity gate before English drafting.
+- 3560 — PDF **181–188**
+- 3561 — PDF **189–196**
+- 3562 — PDF **197–200**
+- 3563 — PDF **201–208**
+- 3564 — PDF **209–217**
+- Batch combined: PDF **181–217**, 37 pages
+- Result: **PASS — 5 / 5 source-checked**
+- Tamil canonical changes during batch: **1 page / 1 scan-proven span — PDF 187**
 
-## Source-specific points preserved in 3555–3559
+See [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) and [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
-- Letter 3555 retains the full 3-3-2011 earlier-letter quotation, Election Commission chronology and source-specific date forms without rewriting the quoted past text as present narration.
-- Letter 3556 retains the full Karat/Theekkathir argument, Communist-ideology framing, Brinda Karat response and the `குடுமி பிடி சண்டை` rhetorical image.
-- Letter 3557 retains the entire 1956–2009 Sri Lankan-Tamil chronology, source title without added sandhi, PDF 164 `ஆகஸ்ட் 13ஆம் தேதியன்றே` and the manually transcribed PDF 166 text.
-- Letter 3558 retains source `பொக்கம்`, all film-industry tax/fee figures and the closing `இலட்சியம்` / `இலட்சங்கள்` wordplay.
-- Letter 3559 retains source biographical claims and unusual forms such as `10ந்தேதியன்று`, `முஜா கி தீன்` and `111 மாடிகள்`, and preserves the letter's explicit rejection of the label `இஸ்லாமிய பயங்கரவாதம்`.
+Cumulative translated canonical source coverage is PDF **024–217**.
+
+## Tamil correction accounting
+
+The completed second full-volume direct-scan fidelity audit remains historically recorded as **243 corrected canonical page files / 623 correction spans**. Letter 3560 source-check exposed one residual omission on PDF 187; direct scan comparison restored the omitted physical-page tail. PDF 187 was already among the 243 corrected pages, so the unique corrected-page count remains **243**, while the combined scan-proven correction-span total is now **624**.
+
+## Source-specific points preserved in 3560–3564
+
+- Letter 3560 retains all achievement/assessment figures, the quoted institutional assessments, and the scan-restored Wall Street Journal / Oxford Analytica passage on PDF 187.
+- Letter 3561 retains the full Classical Tamil awards/history sequence and translates the source's long historical quotations without substituting outside editions.
+- Letter 3562 retains the complete Pazha. Nedumaran Cuddalore-prison letter, `Tolkappiya Poonga`, commentary references and repeated `Pallandu` blessing.
+- Letter 3563 retains the complete autobiographical, film-income, donation, trust and shareholding chronology, including source amounts and `தர்ப்பைப் புல்` imagery.
+- Letter 3564 retains the complete free-scheme/debt argument, source `ஒகனேக்கல்`, and anomalous PDF 217 `011ஆம் ஆண்டு` without silent correction.
 
 ## QA status
 
-The twenty-three completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
+The twenty-eight completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
 
 ## Exact next activity
 
-Translate **Letters 3560–3564 / PDF 181–217** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and update the glossary only for genuinely new recurring terms.
+Translate **Letters 3565–3569 / PDF 218–248** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and trigger direct scan re-verification if any possible Tamil discrepancy appears.

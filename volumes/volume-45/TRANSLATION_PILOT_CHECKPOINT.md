@@ -4,7 +4,7 @@
 **Canonical source range:** PDF **024–049**  
 **Pilot result:** **PASS — 3 / 3 source-checked; style locked**
 
-The pilot was translated only from the already scan-audited canonical Tamil. No Tamil canonical file changed during the English pilot.
+The pilot was translated only from the scan-audited canonical Tamil. No Tamil canonical file changed during the English pilot.
 
 ## Completed pilot bilingual records
 
@@ -14,17 +14,20 @@ The pilot was translated only from the already scan-audited canonical Tamil. No 
 
 Each record contains source metadata, the locked translator’s note, complete English translation, necessary letter-specific notes, and the complete audited Tamil under **Original Tamil — மூலத் தமிழ்**.
 
-The pilot handed off to the normal five-letter drafting cadence. Four normal batches have since been completed and source-checked:
+The pilot handed off to the normal five-letter drafting cadence. Five normal batches have now been completed and source-checked:
 
-- **3540–3544 / PDF 050–088** — see [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
-- **3545–3549 / PDF 089–122** — see [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md)
-- **3550–3554 / PDF 123–154** — see [`translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`](translations/en/DRAFT_SOURCE_CHECK_3550_3554.md)
-- **3555–3559 / PDF 155–180** — see [`translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`](translations/en/DRAFT_SOURCE_CHECK_3555_3559.md)
+- **3540–3544 / PDF 050–088** — [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
+- **3545–3549 / PDF 089–122** — [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md)
+- **3550–3554 / PDF 123–154** — [`translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`](translations/en/DRAFT_SOURCE_CHECK_3550_3554.md)
+- **3555–3559 / PDF 155–180** — [`translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`](translations/en/DRAFT_SOURCE_CHECK_3555_3559.md)
+- **3560–3564 / PDF 181–217** — [`translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`](translations/en/DRAFT_SOURCE_CHECK_3560_3564.md)
 
-Current cumulative English drafting boundary: **3537–3559 / 23 of 55 source-checked**.
+The fifth batch exposed one residual Tamil omission on PDF 187. It was directly rechecked against the controlling scan and repaired before source-check closure; the event is documented in [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+
+Current cumulative English drafting boundary: **3537–3564 / 28 of 55 source-checked**, PDF **024–217**.
 
 The separate bilingual-alignment/release gate has **not** begun. Completed records remain `source-checked`, not final `verified` records.
 
 ## Current exact next activity
 
-Translate **Letters 3560–3564 / PDF 181–217** as the next normal five-letter English drafting batch using the locked pilot style.
+Translate **Letters 3565–3569 / PDF 218–248** as the next normal five-letter English drafting batch using the locked pilot style. If translation exposes a possible Tamil discrepancy, re-check the controlling scan before changing either layer.

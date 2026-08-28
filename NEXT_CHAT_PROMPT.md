@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 English Translation Batch 3560–3564
+# Next Chat Prompt — Volume 45 English Translation Batch 3565–3569
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -35,12 +35,14 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/README.md`
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
+   - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
    - `volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
-5. Inspect completed bilingual records 3537–3559, especially the immediately preceding 3555–3559 batch, before drafting the next batch.
+   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`
+5. Inspect completed bilingual records 3537–3564, especially the immediately preceding 3560–3564 batch, before drafting the next batch.
 6. Confirm the live durable boundary before doing work.
 
 ## CURRENT DURABLE VOLUME 45 STATE
@@ -52,7 +54,9 @@ Tamil archival layer:
 - Source letters: **55 / 55, 3537–3591 complete**
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Second-pass corrections: **243 canonical page files / 623 correction spans**
+- Historical second-pass corrections: **243 canonical page files / 623 correction spans**
+- Translation-discovered targeted correction: **PDF 187 / 1 additional scan-proven span**
+- Combined canonical correction tally: **243 unique page files / 624 spans**
 
 English layer:
 
@@ -61,24 +65,36 @@ English layer:
 - Second normal drafting batch: **3545–3549 / PDF 089–122 — PASS / source-checked**
 - Third normal drafting batch: **3550–3554 / PDF 123–154 — PASS / source-checked**
 - Fourth normal drafting batch: **3555–3559 / PDF 155–180 — PASS / source-checked**
-- Draft-translated: **23 / 55 — 3537–3559**
-- Source-checked: **23 / 55 — 3537–3559**
+- Fifth normal drafting batch: **3560–3564 / PDF 181–217 — PASS / source-checked**
+- Draft-translated: **28 / 55 — 3537–3564**
+- Source-checked: **28 / 55 — 3537–3564**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during 3555–3559: **0**
-- Exact next letter: **3560**
-- Exact next drafting batch: **3560–3564**
+- Tamil canonical changes during 3560–3564: **1 page / 1 scan-proven span — PDF 187**
+- Exact next letter: **3565**
+- Exact next drafting batch: **3565–3569**
+
+## TRANSLATION-DISCOVERED TAMIL CORRECTION TO REMEMBER
+
+Letter 3560 source-check exposed a residual omission on PDF 187. The canonical page ended in the Wall Street Journal passage, while PDF 188 began in the following Oxford Analytica sentence. The controlling scan was re-rendered and directly compared. PDF 187 was corrected to restore:
+
+- the rest of the Wall Street Journal quotation concerning infrastructure and single-window approvals; and
+- the Oxford Analytica / `India Deconstructed` lead-in through the physical page ending `என்ற ஒரு ஆய்வை`.
+
+This is documented in `TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`. It does **not** alter the historical second-pass tally of 243/623; the combined canonical tally after the targeted repair is 243 unique pages / 624 spans.
+
+This establishes an important operational rule: if English drafting exposes a broken Tamil transition or suspect reading, **stop on that point and re-check the controlling scan directly before changing Tamil or English**.
 
 ## NEXT BATCH SOURCE BOUNDARIES
 
-- **3560 — மேலோர் பாராட்டு; கீழோர் பழிக்கின்றாரே!** — PDF **181–188**, date **5-5-2011**
-- **3561 — உனக்கும், எனக்கும் - உலகத் தமிழர்க்கும் பொன்னாள்!** — PDF **189–196**, date **7-5-2011**
-- **3562 — “சில நேரங்களில் சில மனிதர்கள்!”** — PDF **197–200**, date **13-5-2011**
-- **3563 — இறுதிப் போரில் நாம் வெல்வது திண்ணம்!** — PDF **201–208**, date **22-5-2011**
-- **3564 — “ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”** — PDF **209–217**, date **3-6-2011**
+- **3565 — இன்று நடப்பது; அன்றே நடந்ததுதான்!** — PDF **218–222**, date **11-6-2011**
+- **3566 — அதுவே ஓர் ஆறுதல்தான்!** — PDF **223–230**, date **13-6-2011**
+- **3567 — ஏடுகள் சில ஏங்குகின்றன; கோடுகள் வராதா என்று!** — PDF **231–235**, date **14-06-2011**
+- **3568 — வென்றவர் சொல்வதெல்லாம் வேதம் ஆகுமா?** — PDF **236–241**, date **15-6-2011**
+- **3569 — வருமா; எதிர்காலத்தில் மின் பற்றாக்குறை?** — PDF **242–248**, date **18-6-2011**
 
-Combined next-batch source range: **PDF 181–217**.
+Combined next-batch source range: **PDF 218–248**.
 
 ## SOURCE / TRANSLATION AUTHORITY
 
@@ -86,9 +102,7 @@ The audited canonical Tamil is the immediate translation source. The controlling
 
 Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quoted material, English/Latin material and source boundaries.
 
-If translation reveals a possible Tamil discrepancy, stop on that point and re-check the controlling scan before changing either layer.
-
-The completed 3555–3559 batch deliberately preserved source-specific material including Letter 3555's earlier-letter quotation/election chronology, Letter 3556's Karat/Theekkathir argument and `குடுமி பிடி சண்டை`, Letter 3557's exact title/date forms and full chronology, Letter 3558's `பொக்கம்` and `இலட்சியம்` / `இலட்சங்கள்`, and Letter 3559's printed `முஜா கி தீன்`, `111 மாடிகள்` and rejection of `இஸ்லாமிய பயங்கரவாதம்`. Treat this as the model: do not silently “fix” unusual source text during English drafting.
+If translation reveals a possible Tamil discrepancy, re-check the controlling scan before changing either layer and record every scan-proven post-audit correction durably.
 
 ## LOCKED TRANSLATION STYLE
 
@@ -110,7 +124,7 @@ Completed drafting files are `source-checked`, not final bilingual-alignment `ve
 
 ## EXACT NEXT ACTIVITY
 
-Complete **Letters 3560–3564 in one five-complete-letter drafting iteration**.
+Complete **Letters 3565–3569 in one five-complete-letter drafting iteration**.
 
 For each letter:
 
@@ -120,15 +134,16 @@ For each letter:
 4. create one bilingual Markdown record under `volumes/volume-45/translations/en/letters/` using the locked structure;
 5. append the complete audited Tamil in physical page order under `Original Tamil — மூலத் தமிழ்`;
 6. source-check English against the full audited canonical Tamil before marking `source-checked`;
-7. update glossary only for new recurring terms;
-8. create/update a durable drafting source-check record for the batch;
-9. update translation progress, Volume 45 progress/metadata/README, root README, project handover and this next-chat prompt;
-10. recheck live `main` before final mutation;
-11. make the declared five-letter batch/control update atomic where technically possible;
-12. compare intended parent→new commit, fast-forward without force and verify live `main` afterward.
+7. if a broken transition or suspected Tamil discrepancy appears, render and inspect the controlling scan before changing either layer, update the canonical page only if scan-proven, and append the correction log;
+8. update glossary only for new recurring terms;
+9. create a durable drafting source-check record for the batch;
+10. update translation progress, Volume 45 progress/metadata/README/AUDIT as applicable, root README, project handover and this next-chat prompt;
+11. recheck live `main` before final mutation;
+12. make the declared five-letter batch/control update atomic where technically possible;
+13. compare intended parent→new commit, fast-forward without force and verify live `main` afterward.
 
 ## IMPORTANT
 
-Do not re-run completed pilot or 3540–3559 work unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
+Do not re-run completed pilot or 3540–3564 work unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
 
 When I say **“Proceed with next activity”**, execute the next already-defined batch directly without asking me to choose a routine next step.

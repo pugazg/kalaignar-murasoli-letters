@@ -10,12 +10,15 @@ The English is **not a literary rewriting**. It follows the audited canonical Ta
 - Source letters: **55 / 55, 3537–3591**
 - Full-volume Tamil structural audit: **PASS**
 - Second visual/textual-fidelity audit: **PASS — PDF 001–402 / 402**
+- Historical second-pass corrections: **243 page files / 623 spans**
+- Translation-discovered targeted correction: **PDF 187 / 1 additional scan-proven span**
+- Combined canonical correction tally: **243 unique page files / 624 spans**
 
-Translation is made from the already scan-verified canonical Tamil. The controlling scan remains the ultimate textual authority if a later translation check exposes a possible Tamil discrepancy.
+Translation is made from the scan-verified canonical Tamil. The controlling scan remains the ultimate textual authority if a translation check exposes a possible Tamil discrepancy. The PDF 187 correction discovered during Letter 3560 drafting is recorded in [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Four normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554** and **3555–3559**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Five normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559** and **3560–3564**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -42,8 +45,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3557](letters/3557-who-should-seek-public-forgiveness.md) | Who Should Seek Public Forgiveness? | 24 April 2011 | 164–169 | source-checked |
 | [3558](letters/3558-the-film-industry-and-the-dmk.md) | The Film Industry and the DMK! | 30 April 2011 | 170–175 | source-checked |
 | [3559](letters/3559-do-not-sharpen-the-knife-sharpen-the-intellect.md) | Do Not Sharpen the Knife; Sharpen the Intellect! | 4 May 2011 | 176–180 | source-checked |
+| [3560](letters/3560-those-above-praise-those-below-revile.md) | Those Above Praise; Those Below Revile! | 5 May 2011 | 181–188 | source-checked |
+| [3561](letters/3561-a-golden-day-for-you-for-me-and-for-tamils-across-the-world.md) | A Golden Day for You, for Me—and for Tamils Across the World! | 7 May 2011 | 189–196 | source-checked |
+| [3562](letters/3562-some-people-at-certain-times.md) | “Some People at Certain Times!” | 13 May 2011 | 197–200 | source-checked |
+| [3563](letters/3563-we-are-certain-to-win-the-final-battle.md) | We Are Certain to Win the Final Battle! | 22 May 2011 | 201–208 | source-checked |
+| [3564](letters/3564-brass-it-seems-sneered-at-lead.md) | “Brass, It Seems, Sneered at Lead!” | 3 June 2011 | 209–217 | source-checked |
 
-Current coverage: **23 / 55 letters source-checked**, audited canonical PDF **024–180**.
+Current coverage: **28 / 55 letters source-checked**, audited canonical PDF **024–217**.
 
 Batch records:
 
@@ -52,6 +60,8 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md) — second normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md) — third normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md) — fourth normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) — fifth normal drafting batch
+- [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
 
@@ -63,8 +73,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The twenty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The twenty-eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3560–3564 / PDF 181–217** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, update the glossary only where genuinely needed, and keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3565–3569 / PDF 218–248** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, and if translation reveals a possible Tamil discontinuity, re-check the controlling scan before changing either layer. Keep bilingual alignment separate.

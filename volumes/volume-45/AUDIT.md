@@ -76,17 +76,39 @@ Status: **PASS — verified PDF 001–402 / 402**
 - Source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001`.
 - Later library stamp/handwriting on PDF 102 remains excluded from edition text.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Final cumulative second-pass result: **243 corrected canonical page files / 623 correction spans**.
+- Historical cumulative second-pass result: **243 corrected canonical page files / 623 correction spans**.
 - See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the completed second-pass page log.
 
-## Final Tamil QA boundary
+### Translation-discovered targeted scan correction — PDF 187
+Status: **CORRECTED, then PASS — 2026-08-28**
+
+During English drafting/source-check of Letter 3560, the canonical transition from PDF 187 to PDF 188 proved syntactically discontinuous: page 187 ended during the Wall Street Journal passage after `நிலங்கள், சாலைகள்`, while page 188 began `நடத்தியது.` in the Oxford Analytica passage.
+
+The controlling PDF page 187 was re-rendered and directly compared. The scan proved that the canonical page had omitted the physical-page tail containing:
+
+- the continuation and close of the Wall Street Journal quotation about basic infrastructure and single-window government approvals; and
+- the beginning of the Oxford Analytica / `India Deconstructed` passage through the page-ending words `என்ற ஒரு ஆய்வை`.
+
+`pages/page-187.md` was corrected from the scan before Letter 3560 was marked source-checked. No wording was reconstructed from outside knowledge. The complete correction is documented in `translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`.
+
+PDF 187 was already one of the 243 unique page files corrected during the historical second pass, so the unique corrected-page count remains **243**. This targeted repair adds **1 scan-proven correction span**, making the combined canonical correction tally **243 unique corrected page files / 624 spans**, while the historical second-pass tally remains **243 / 623**.
+
+## Current Tamil QA boundary
 
 - Canonical page coverage: **402 / 402**.
 - Source-letter coverage: **55 / 55**, Letters 3537–3591.
 - Full-volume Tamil structural audit: **PASS**.
-- Second full-volume visual/textual-fidelity audit: **PASS**.
-- English translation is now unblocked by the Tamil QA gates but has not yet begun for Volume 45.
+- Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
+- Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
+- Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
+
+## English QA boundary
+
+- Pilot **3537–3539 / PDF 024–049**: PASS / style locked.
+- Normal batches through **3560–3564 / PDF 181–217**: source-checked.
+- Current English total: **28 / 55 — Letters 3537–3564**.
+- Bilingual alignment: **0 / 55**; not yet begun.
 
 ## Exact next activity
 
-Verify this final Tamil fidelity checkpoint on live `main`. Only after that verification, inspect the current Volume 47 and Volume 49 translation plans/reference implementation and initialize the Volume 45 English translation workspace and pilot. Translation textual-fidelity review remains a later, distinct gate.
+Translate **Letters 3565–3569 / PDF 218–248** as the next normal five-letter drafting/source-check batch. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
