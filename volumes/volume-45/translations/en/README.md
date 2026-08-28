@@ -18,7 +18,7 @@ Translation is made from the scan-verified canonical Tamil. The controlling scan
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Seven normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569** and **3570–3574**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Eight normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574** and **3575–3579**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -60,8 +60,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3572](letters/3572-even-100-karunanidhis-could-not-do-it.md) | “Even 100 Karunanidhis Could Not Do It!” | 19 July 2011 | 261–265 | source-checked |
 | [3573](letters/3573-suffering-will-end-trouble-will-lessen.md) | Suffering Will End; Trouble Will Lessen! | 21 July 2011 | 266–268 | source-checked |
 | [3574](letters/3574-the-path-of-peace-the-righteous-path-that-is-annas-path.md) | The Path of Peace—the Righteous Path—That Is Anna's Path! | 28 July 2011 | 269–274 | source-checked |
+| [3575](letters/3575-from-that-day-to-this-day.md) | From That Day to This Day....! | 30 July 2011 | 275–283 | source-checked |
+| [3576](letters/3576-behold-the-world-famous-noble-tamil-woman.md) | Behold the World-Famous Noble Tamil Woman! | 31 July 2011 | 284–289 | source-checked |
+| [3577](letters/3577-the-list-from-three-months-of-rule-leaves-one-breathless.md) | The List from Just Three Months of Rule Leaves One Breathless! | 3 August 2011 | 290–305 | source-checked |
+| [3578](letters/3578-one-rule-for-you-another-for-the-rest.md) | One Rule for You; Another for Everyone Else? | 5 August 2011 | 306–312 | source-checked |
+| [3579](letters/3579-is-a-tax-free-budget-not-a-distilled-falsehood.md) | Is a Tax-Free Budget Not a Distilled Falsehood? | 6 August 2011 | 313–319 | source-checked |
 
-Current coverage: **38 / 55 letters source-checked**, audited canonical PDF **024–274**.
+Current coverage: **43 / 55 letters source-checked**, audited canonical PDF **024–319**.
 
 Batch records:
 
@@ -73,6 +78,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) — fifth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md) — sixth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md) — seventh normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3575_3579.md`](DRAFT_SOURCE_CHECK_3575_3579.md) — eighth normal drafting batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -85,8 +91,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The thirty-eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The forty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3575–3579 / PDF 275–319** as one drafting iteration. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` title, use the locked style, source-check each complete draft, and keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3580–3584 / PDF 320–357** as one drafting iteration. Use the locked style, source-check each complete draft, preserve source anomalies and complete Tamil appendices, re-check the controlling scan if translation exposes any Tamil discrepancy, and keep bilingual alignment separate.
