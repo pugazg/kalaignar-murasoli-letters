@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 English Translation Startup
+# Next Chat Prompt — Volume 45 English Translation Batch 3540–3544
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,7 +6,7 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
-Active work: **Volume 45 English translation initialization after completed Tamil QA gates**.
+Active work: **Volume 45 English translation drafting**.
 
 Use the GitHub connector and work directly on `main`.
 
@@ -14,7 +14,7 @@ Use the GitHub connector and work directly on `main`.
 
 Before making any repository change:
 
-1. Fetch live `main` and treat live GitHub state as authoritative over any SHA/count in this prompt.
+1. Fetch live `main` and treat it as authoritative over every SHA/count in this prompt.
 2. Read completely:
    - `VOLUME_PROCESSING_GUIDE.md`
    - `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
@@ -22,73 +22,95 @@ Before making any repository change:
    - `FUTURE_VOLUME_WORK_GUIDELINES.md`
    - `PROJECT_HANDOVER.md`
    - this `NEXT_CHAT_PROMPT.md`
-3. Then read completely:
+3. Read the active Volume 45 controls:
    - `volumes/volume-45/README.md`
    - `volumes/volume-45/PROGRESS.md`
    - `volumes/volume-45/AUDIT.md`
    - `volumes/volume-45/metadata.yml`
-   - `volumes/volume-45/contents/index.md`
-   - `volumes/volume-45/chapters/README.md`
    - `volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md`
    - `volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
-4. Inspect completely the live English translation plans/reference implementations for **Volume 47 and Volume 49**, including their translation workspace/progress/glossary/review files as applicable.
-5. Confirm the live durable Volume 45 Tamil boundary before doing any translation work.
+4. Read the English controls completely:
+   - `volumes/volume-45/TRANSLATION_PLAN.md`
+   - `volumes/volume-45/TRANSLATION_PILOT_CHECKPOINT.md`
+   - `volumes/volume-45/translations/en/README.md`
+   - `volumes/volume-45/translations/en/PROGRESS.md`
+   - `volumes/volume-45/translations/en/GLOSSARY.md`
+   - `volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md`
+5. Inspect the three completed pilot bilingual records 3537–3539 before drafting the next batch.
+6. Confirm the live durable boundary before doing work.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
+Tamil archival layer:
+
 - Source PDF pages: **402**
-- Canonical Tamil transcription: **001–402 / 402 complete**
+- Canonical Tamil: **001–402 / 402 complete**
 - Source letters: **55 / 55, 3537–3591 complete**
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- Scan-proven second-pass corrections: **243 canonical page files / 623 correction spans**
-- Final fidelity iteration: **PDF 386–402**
-- Final iteration result: **16 corrected canonical page files / 18 correction spans; PDF 402 passed unchanged**
-- Letter 3591 closes at **PDF 401 / printed page 400 / `27-9-2011`**
-- PDF 402 is back cover / publisher matter
-- English translation: **UNBLOCKED BY TAMIL QA; NOT STARTED**
+- Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
+- Second-pass corrections: **243 canonical page files / 623 correction spans**
 
-The final PDF 386–402 direct-scan iteration removed systematic spurious zero-width OCR characters from PDF 386–401, restored source spacing `பொறியியல் தொழில் நுட்பவியல்` on PDF 388, restored source punctuation `காரணம், அவர்கள்` on PDF 389, and verified PDF 402 unchanged.
+English layer:
 
-The earlier Letter 3576 control-layer `பார்!` reading has been withdrawn. Direct scan verification establishes `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `...!` versus letter-start `....!`.
+- Translation plan/workspace: established
+- Initial pilot: **3537–3539**
+- Pilot canonical source: **PDF 024–049**
+- Draft-translated: **3 / 55**
+- Source-checked: **3 / 55**
+- Bilingual-aligned: **0 / 55**
+- Editorially reviewed: **0 / 55**
+- Final verified English: **0 / 55**
+- Pilot review: **PASS — STYLE LOCKED**
+- Tamil canonical changes during pilot: **0**
+- Exact next letter: **3540**
+- Exact next drafting batch: **3540–3544**
 
-## SOURCE AUTHORITY — NON-NEGOTIABLE
+## SOURCE / TRANSLATION AUTHORITY
 
-**The audited canonical Tamil derived from the controlling scan is the translation source.**
+The audited canonical Tamil is the immediate translation source. The controlling scan remains ultimate textual authority.
 
-Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quotations, English/Latin material and gaps. If translation requires explanatory handling, keep the source reading intact and document rather than silently repair it.
+Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quoted material, English/Latin material and source boundaries.
+
+If translation reveals a possible Tamil discrepancy, stop on that point and re-check the controlling scan before changing either layer.
+
+## LOCKED TRANSLATION STYLE
+
+Use the Volume 45 plan and pilot exactly:
+
+- clear contemporary, thought-preserving, non-literary English;
+- do not summarize substantive content;
+- preserve argument order, political force, irony, repetition and rhetorical questions;
+- preserve names, dates, figures, units, quotations and attribution;
+- retain `Udanpirappē`;
+- close with `With affection, M.K.` where the source closes that way;
+- retain `lakh` and `crore`;
+- use the locked standard translator’s note;
+- use glossary treatments where the same source terms recur;
+- add minimal explanatory notes only where genuinely necessary;
+- reproduce **complete audited Tamil** under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
+
+Pilot files are `source-checked`, not final bilingual-alignment `verified` records. Keep alignment as a later distinct QA stage.
 
 ## EXACT NEXT ACTIVITY
 
-1. Verify that the final Tamil fidelity checkpoint is present on live `main`.
-2. Inspect the live Volume 47 and Volume 49 translation plans/reference implementation.
-3. Determine the controlling translation structure, naming, pilot size, glossary/progress/review expectations and bilingual-record format from repository policy/reference files.
-4. Initialize the Volume 45 English translation workspace without copying volume-specific facts from another volume.
-5. Run the repository-defined initial translation pilot for Volume 45.
-6. Translate only from the audited canonical Tamil and preserve complete audited Tamil under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
-7. Update Volume 45 translation progress/control files and project handover state after the pilot.
-8. Make the translation initialization/pilot durable on `main` and verify live GitHub afterward.
+Complete **Letters 3540–3544 in one five-complete-letter drafting iteration**.
 
-Do not invent a new translation convention when the repository already defines one. If Volume 45 has no translation plan yet, derive it from the controlling root policy plus the current Volume 47/49 reference plans, preserving Volume 45-specific source facts and anomalies.
+For each letter:
 
-## TRANSLATION QUALITY RULES
+1. read its complete chapter record and exact canonical PDF range;
+2. read every canonical Tamil page in that range completely;
+3. translate every substantive heading, paragraph, list, quotation, figure and rhetorical question;
+4. create one bilingual Markdown record under `volumes/volume-45/translations/en/letters/` using the locked pilot structure;
+5. append the complete audited Tamil in physical page order under `Original Tamil — மூலத் தமிழ்`;
+6. source-check English against the full audited canonical Tamil before marking `source-checked`;
+7. update glossary only for new recurring terms;
+8. update translation progress, Volume 45 progress/metadata/README, root README, project handover and this next-chat prompt;
+9. recheck live `main` before the final mutation;
+10. make the declared five-letter batch/control update atomic where technically possible;
+11. compare the intended parent→new commit, fast-forward without force and verify live `main` afterward.
 
-The English should be clear contemporary prose while preserving:
+## IMPORTANT
 
-- Kalaignar’s thought order and argumentative sequence;
-- political force, irony and rhetorical questions;
-- repetition where rhetorically meaningful;
-- quotations and quoted-source distinctions;
-- names, dates, figures, units and source-supplied English;
-- source anomalies and genuine source gaps without silent correction;
-- physical/source record boundaries established by the audited Tamil layer.
+Do not re-run the completed three-letter pilot unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
 
-Translation textual-fidelity review, bilingual alignment, editorial consistency and release validation remain later distinct gates and must not be collapsed into the first pilot unless repository policy explicitly says so.
-
-## IMPORTANT CONTINUATION BEHAVIOR
-
-When I say **“Proceed with next activity”**, do not ask me to choose a routine next step. Inspect live durable state and execute the next already-defined activity directly.
-
-Do not restart Volume 45 Tamil transcription or re-audit completed Tamil ranges unless direct source evidence requires a specific correction.
-
-If interrupted, update repository handover state so the chat is never the sole record of progress.
+When I say **“Proceed with next activity”**, execute the next already-defined batch directly without asking me to choose a routine next step.
