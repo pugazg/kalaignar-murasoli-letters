@@ -3,13 +3,13 @@
 **Audit started:** 2026-08-23  
 **Controlling source:** `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`  
 **Required scope:** PDF pages **001–402**  
-**Current status:** **IN PROGRESS**
+**Current status:** **PASS — 402 / 402 verified**
 
 ## Authority and method
 
 The controlling scan is authoritative. Every canonical page is compared directly with the corresponding scan page. OCR, earlier transcription drafts, contents wording, other editions and external sources are non-authoritative aids only. Canonical Tamil changes only when direct scan comparison proves that the repository differs from the printed source. Printed anomalies, unusual spacing, punctuation, figures, English/Latin material and physical page boundaries are preserved; later stamps, handwriting, accession marks and show-through are not silently incorporated as edition text.
 
-This second full-volume visual/textual-fidelity gate is distinct from the completed first-pass iteration review and full-volume structural audit. English translation remains blocked until this gate passes for all 402 PDF pages. Individual canonical page files retain page-specific archival notes for scan-proven corrections; this document records the durable batch-level verification history and current boundary.
+This second full-volume visual/textual-fidelity gate is distinct from the completed first-pass iteration review and full-volume structural audit. The gate is now complete for all 402 PDF pages. Individual canonical page files retain page-specific archival notes for scan-proven corrections; this document records the durable batch-level verification history and final boundary.
 
 ## Verification log
 
@@ -235,14 +235,40 @@ Direct scan comparison completed for printed pages 360–384.
 
 This iteration contains **9 corrected canonical page files / 13 correction spans** and **16 pages passing unchanged**. The zero-width-character cleanup is scan-proven removal of OCR contamination and is not a modernization or normalization of source language.
 
-## Current verified boundary
+### PDF 386–402 — VERIFIED — FINAL ITERATION
 
-- Verified in this second pass: **PDF 001–385 / 402**
-- Scan-proven correction pages in this pass: **227 canonical page files / 605 correction spans**
-- Current result: **IN PROGRESS**
-- User-approved routine iteration size: **25 consecutive PDF pages**; final end-of-volume iteration is the remaining **17 pages**
-- English translation: **BLOCKED**
+Direct visual comparison completed for printed pages 385–400 and the back cover.
+
+- **PDF 386 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 387 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 388 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters and restored source spacing `பொறியியல் தொழில் நுட்பவியல்`.
+- **PDF 389 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters and restored source punctuation `காரணம், அவர்கள்`.
+- **PDF 390 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; Letter 3589 closing/signature/date `19-9-2011` remain scan-verified.
+- **PDF 391 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; Letter 3590 title/opening otherwise agree with the scan.
+- **PDF 392 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 393 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 394 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 395 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 396 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; Letter 3590 closing/signature/date `24-9-2011` remain scan-verified.
+- **PDF 397 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; Letter 3591 title/opening otherwise agree with the scan.
+- **PDF 398 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; visible source wording otherwise agrees with the scan.
+- **PDF 399 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; the printed `21-3-2002` date in the quoted earlier letter remains preserved.
+- **PDF 400 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; unusual source wording and punctuation remain preserved rather than normalized.
+- **PDF 401 — CORRECTED, then PASS.** Removed systematic spurious zero-width OCR characters; Letter 3591 closing/signature/date `27-9-2011` remain scan-verified.
+- **PDF 402 — PASS.** Back-cover portrait, publisher/address/price matter and QR-code presence agree with the canonical record; later handwritten annotation remains excluded from edition text.
+
+This final iteration contains **16 corrected canonical page files / 18 correction spans** and **1 page passing unchanged**. The page-wide zero-width cleanup on each affected page counts as one correction span; PDF 388 and PDF 389 each contain one additional scan-proven correction.
+
+## Final verified boundary
+
+- Verified in this second pass: **PDF 001–402 / 402**
+- Scan-proven correction pages in this pass: **243 canonical page files / 623 correction spans**
+- Final result: **PASS**
+- Full-volume Tamil structural audit: **PASS**
+- Remaining genuine contents/start source-context difference: Letter 3575 contents `...!` versus letter-start `....!`
+- Letter 3576 control-layer records are synchronized to the scan-proven `பாரீர்!` start title; no Letter 3576 contents/start discrepancy remains
+- English translation: **UNBLOCKED BY TAMIL QA, NOT STARTED**
 
 ## Exact next activity
 
-Resume direct scan comparison at **PDF 386 / printed page 385** and verify the final **PDF 386–402** end-of-volume iteration. Record every page as PASS or corrected and do not declare this gate complete until all **402** PDF pages have been re-verified against the controlling scan.
+First verify that this final fidelity checkpoint is present on live `main`. Only after that live-GitHub verification, inspect the current Volume 47 and Volume 49 translation plans/reference implementation and initialize the Volume 45 English translation workspace and pilot under the controlling repository policy. No English translation work belongs in this Tamil fidelity checkpoint.

@@ -6,7 +6,7 @@
 
 ## Authority and scope
 
-This audit checks the internal structure of the completed first-pass Tamil transcription. The Volume 45 scan remains the controlling source. This is a structural gate only; it does **not** replace the required second visual/textual-fidelity comparison of every canonical page against the scan.
+This audit checks the internal structure of the completed first-pass Tamil transcription. The Volume 45 scan remains the controlling source. This structural gate is distinct from the second visual/textual-fidelity comparison, which has now also been completed and passed for all 402 PDF pages.
 
 No outside edition or web text was used to normalize the source.
 
@@ -31,6 +31,7 @@ No outside edition or web text was used to normalize the source.
   - 3590 — PDF 391–396 / printed 390–395 / `24-9-2011`;
   - 3591 — PDF 397–401 / printed 396–400 / `27-9-2011`.
 - Chapter records link canonical page records rather than duplicating full Tamil bodies.
+- The Letter 3576 chapter/control title is synchronized to the scan-proven start heading `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`.
 
 ## Contents-layer checks
 
@@ -47,21 +48,22 @@ No outside edition or web text was used to normalize the source.
 - PDF 399 OCR garbage at the page top was rejected; the printed `21-3-2002` date inside the quoted earlier letter is preserved.
 - PDF 402 preserves printed back-cover publisher/address/price material; later handwritten marking near the price is not treated as edition text.
 - Running headers and printed page numbers are not duplicated into canonical body text.
+- The final PDF 386–402 second-fidelity iteration changed no letter boundary, page mapping, date, or record count.
 
 ## Structural corrections made by this gate
 
 The canonical source structure did not require a letter-boundary or page-range correction. The audit synchronized the durable status documents from the previous 3587 boundary to the completed Volume 45 state: **402 canonical pages / 55 complete source records / 3537–3591**.
 
-The later second visual/textual-fidelity gate may correct page text or contents wording without changing this structural PASS. Through PDF 385 it has corrected residual contents/body transcription while leaving all letter boundaries and page mappings intact.
+The completed second visual/textual-fidelity gate corrected residual page text and control wording without changing this structural PASS. Its final cumulative result is **243 corrected canonical page files / 623 correction spans**, with all **402 / 402** PDF pages directly re-verified against the controlling scan.
 
 ## Gate result
 
 **PASS.** The full-volume Tamil structural audit is complete for Volume 45.
 
-Still blocked / pending:
+The second full-volume visual/textual-fidelity gate is also **PASS**. English translation is therefore no longer blocked by Tamil QA, but no Volume 45 English translation work is included in this final Tamil fidelity checkpoint.
 
-- second full-volume visual/textual-fidelity verification of PDF pages 001–402 against the controlling scan;
-- English translation pilot and bilingual workflow;
+Remaining later workflow:
+
+- initialize the Volume 45 English translation plan/workspace after live-main verification of the final Tamil checkpoint;
+- English pilot and source-check/bilingual workflow;
 - final English editorial/release gates.
-
-English translation must not begin until the second visual/textual-fidelity gate passes.

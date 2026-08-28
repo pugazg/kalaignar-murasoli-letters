@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Final Tamil Fidelity Gate
+# Next Chat Prompt — Volume 45 English Translation Startup
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,11 +6,7 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
-Active work: **Volume 45 second full-volume visual/textual-fidelity verification**.
-
-The controlling source PDF for Volume 45 must be attached in the new chat:
-
-`TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
+Active work: **Volume 45 English translation initialization after completed Tamil QA gates**.
 
 Use the GitHub connector and work directly on `main`.
 
@@ -35,13 +31,8 @@ Before making any repository change:
    - `volumes/volume-45/chapters/README.md`
    - `volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md`
    - `volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
-4. Confirm the live durable boundary before doing any work.
-
-At the time this prompt was written, live `main` after the completed PDF 361–385 batch was:
-
-`c429c45dd96297e2bc6a21d002b91723e4c70f04`
-
-The subsequent handover/prompt documentation commits may have advanced `main`; therefore **never reset to this SHA**. It is only the last Volume-45 fidelity-batch checkpoint identifier.
+4. Inspect completely the live English translation plans/reference implementations for **Volume 47 and Volume 49**, including their translation workspace/progress/glossary/review files as applicable.
+5. Confirm the live durable Volume 45 Tamil boundary before doing any translation work.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -49,79 +40,55 @@ The subsequent handover/prompt documentation commits may have advanced `main`; t
 - Canonical Tamil transcription: **001–402 / 402 complete**
 - Source letters: **55 / 55, 3537–3591 complete**
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **PDF 001–385 / 402 complete**
-- Scan-proven second-pass corrections: **227 canonical page files / 605 correction spans**
-- Latest completed fidelity batch: **PDF 361–385**
-- That batch: **9 corrected pages / 13 spans**
-- English translation: **BLOCKED**
-- Exact next page: **PDF 386 / printed page 385**
-- Exact remaining second-pass scope: **PDF 386–402**, 17 pages
+- Second direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
+- Scan-proven second-pass corrections: **243 canonical page files / 623 correction spans**
+- Final fidelity iteration: **PDF 386–402**
+- Final iteration result: **16 corrected canonical page files / 18 correction spans; PDF 402 passed unchanged**
+- Letter 3591 closes at **PDF 401 / printed page 400 / `27-9-2011`**
+- PDF 402 is back cover / publisher matter
+- English translation: **UNBLOCKED BY TAMIL QA; NOT STARTED**
+
+The final PDF 386–402 direct-scan iteration removed systematic spurious zero-width OCR characters from PDF 386–401, restored source spacing `பொறியியல் தொழில் நுட்பவியல்` on PDF 388, restored source punctuation `காரணம், அவர்கள்` on PDF 389, and verified PDF 402 unchanged.
+
+The earlier Letter 3576 control-layer `பார்!` reading has been withdrawn. Direct scan verification establishes `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `...!` versus letter-start `....!`.
 
 ## SOURCE AUTHORITY — NON-NEGOTIABLE
 
-**The scan is the highest textual authority.**
+**The audited canonical Tamil derived from the controlling scan is the translation source.**
 
-For PDF 386–402:
-
-- render and visually inspect the scan pages;
-- compare each canonical Markdown page directly against its scan page;
-- OCR, embedded PDF text or extraction may only help navigation/candidate detection and must never decide a reading;
-- do not normalize spelling, punctuation, spacing, dates, figures, repetitions, anomalies, English text or physical page boundaries;
-- preserve genuine source errors/anomalies exactly as printed and document them;
-- exclude later stamps, handwriting and show-through;
-- do not use another edition, historical knowledge or expected wording to override the scan.
+Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quotations, English/Latin material and gaps. If translation requires explanatory handling, keep the source reading intact and document rather than silently repair it.
 
 ## EXACT NEXT ACTIVITY
 
-Complete **PDF 386–402 in one end-of-volume iteration**.
+1. Verify that the final Tamil fidelity checkpoint is present on live `main`.
+2. Inspect the live Volume 47 and Volume 49 translation plans/reference implementation.
+3. Determine the controlling translation structure, naming, pilot size, glossary/progress/review expectations and bilingual-record format from repository policy/reference files.
+4. Initialize the Volume 45 English translation workspace without copying volume-specific facts from another volume.
+5. Run the repository-defined initial translation pilot for Volume 45.
+6. Translate only from the audited canonical Tamil and preserve complete audited Tamil under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
+7. Update Volume 45 translation progress/control files and project handover state after the pilot.
+8. Make the translation initialization/pilot durable on `main` and verify live GitHub afterward.
 
-For every page, record either:
+Do not invent a new translation convention when the repository already defines one. If Volume 45 has no translation plan yet, derive it from the controlling root policy plus the current Volume 47/49 reference plans, preserving Volume 45-specific source facts and anomalies.
 
-- **PASS unchanged**, or
-- exact scan-proven correction(s).
+## TRANSLATION QUALITY RULES
 
-Correct canonical page files only where direct visual comparison proves a discrepancy. Preserve archival notes in the established repository style.
+The English should be clear contemporary prose while preserving:
 
-After page 402:
+- Kalaignar’s thought order and argumentative sequence;
+- political force, irony and rhetorical questions;
+- repetition where rhetorically meaningful;
+- quotations and quoted-source distinctions;
+- names, dates, figures, units and source-supplied English;
+- source anomalies and genuine source gaps without silent correction;
+- physical/source record boundaries established by the audited Tamil layer.
 
-1. reconcile the exact number of corrected page files and correction spans for PDF 386–402;
-2. update the cumulative Volume 45 second-pass totals;
-3. update all applicable Volume 45 controls:
-   - `PROGRESS.md`
-   - `metadata.yml`
-   - Volume 45 `README.md`
-   - `AUDIT.md`
-   - `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
-   - `FULL_VOLUME_STRUCTURAL_AUDIT.md`
-4. update root `README.md`, `PROJECT_HANDOVER.md` and `NEXT_CHAT_PROMPT.md` so the repository itself carries the final state;
-5. recheck live `main` immediately before mutation;
-6. make the PDF 386–402 corrections/control updates as one atomic batch commit where technically possible;
-7. compare the intended parent→new commit and ensure only intended files changed;
-8. fast-forward `main` without force;
-9. fetch live `main` afterward and verify the exact commit/tree.
-
-Suggested fidelity commit message:
-
-`Verify Volume 45 second fidelity PDF 386-402`
-
-## FINAL TAMIL GATE
-
-Only after **all 402 / 402 pages** have been directly verified and the final corrections/audit state is durable on live `main` may you mark:
-
-`second full-volume visual/textual-fidelity verification: PASS`
-
-Do not declare PASS merely because the scan inspection was performed locally; the corrections and audit state must be committed and verified on GitHub.
-
-## ENGLISH TRANSLATION
-
-English remains **BLOCKED during the PDF 386–402 work**.
-
-Once the final Tamil gate is durably PASS, inspect the live repository’s translation plan/reference implementation and proceed with the next already-defined translation activity. Do not invent conventions that conflict with repository documentation. Completed Volume 46/49 work can be used as reference, but Volume 45 source facts and anomalies must remain source-specific.
+Translation textual-fidelity review, bilingual alignment, editorial consistency and release validation remain later distinct gates and must not be collapsed into the first pilot unless repository policy explicitly says so.
 
 ## IMPORTANT CONTINUATION BEHAVIOR
 
 When I say **“Proceed with next activity”**, do not ask me to choose a routine next step. Inspect live durable state and execute the next already-defined activity directly.
 
-Do not restart earlier Volume 45 transcription or re-audit already durable ranges unless direct scan evidence requires a specific correction.
+Do not restart Volume 45 Tamil transcription or re-audit completed Tamil ranges unless direct source evidence requires a specific correction.
 
 If interrupted, update repository handover state so the chat is never the sole record of progress.

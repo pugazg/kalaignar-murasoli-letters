@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual verification IN PROGRESS through PDF 385
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402
 
 ## Controlling source
 
@@ -17,11 +17,10 @@ The controlling source is the Volume 45 scan recorded in `metadata.yml`. The sca
 - Completed source-letter records: 55
 - Completed source-letter range: 3537–3591
 - Full-volume Tamil structural audit: PASS
-- Second full-volume visual/textual-fidelity verification: IN PROGRESS — PDF 001–385 / 402 verified
-- Second-pass scan-proven correction pages: 227
-- Second-pass correction spans: 605
-- User-approved routine second-pass iteration size: 25 consecutive PDF pages; final end-of-volume iteration is PDF 386–402
-- English translation: blocked until the second Tamil fidelity gate passes
+- Second full-volume visual/textual-fidelity verification: PASS — PDF 001–402 / 402 verified
+- Second-pass scan-proven correction pages: 243
+- Second-pass correction spans: 623
+- English translation: unblocked by the Tamil gates, but not started for Volume 45
 
 ## End boundary
 
@@ -31,12 +30,12 @@ The canonical page layer covers every PDF page, 001–402, and the chapter/conte
 
 Second-pass direct scan verification of contents PDF 018–022 corrected residual first-pass table/title errors and withdrew false contents/letter-start discrepancy records for Letters 3565, 3568–3570, 3572, 3579, 3581 and 3586. Direct verification of PDF 284 resolved the earlier Letter 3576 contents/start-title discrepancy in favor of `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The remaining genuine source-context difference is Letter 3575 contents `...!` versus letter-start `....!`.
 
-Second-pass verification now extends through PDF 385. In the 25-page PDF 361–385 iteration, scan-proven corrections were made on PDF 365 and 377–384; PDF 361–364, 366–376 and 385 passed unchanged. This iteration contains **9 corrected canonical page files / 13 correction spans**. Important repairs include `சந்தித்தபோது` on PDF 365; systematic removal of spurious zero-width OCR characters from PDF 377–384; restoration of `அதன் மூலமாக`, `கல்வியிலேயே` and `தன்மையோடு` on PDF 377; and preservation of the scan spacing `பாரா முகத்தால்` on PDF 382.
+The final PDF 386–402 end-of-volume fidelity iteration visually compared all 17 pages against the controlling scan. PDF 386–401 required removal of systematic spurious zero-width OCR characters. PDF 388 additionally restored source spacing `பொறியியல் தொழில் நுட்பவியல்`; PDF 389 restored source punctuation `காரணம், அவர்கள்`. PDF 402 passed unchanged. The final iteration therefore contains **16 corrected canonical page files / 18 correction spans** and **1 page passing unchanged**.
 
-The immediately preceding PDF 336–360 iteration corrected PDF 345–347, 351–353 and 356. Earlier printed anomalies including PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001` remain preserved rather than normalized.
+The full second visual/textual-fidelity gate is now complete for **402 / 402** PDF pages, with cumulative scan-proven corrections on **243 canonical page files / 623 correction spans**. Earlier printed anomalies including PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001` remain preserved rather than normalized.
 
 ## Exact next activity
 
-Resume the required second visual/textual-fidelity verification at **PDF 386 / printed page 385** and process the final **PDF 386–402** end-of-volume iteration. This is a separate QA gate from the completed iteration audits and structural audit. Do not begin English translation until all 402 pages pass.
+After this Tamil fidelity checkpoint is verified on live `main`, inspect the current Volume 47 / Volume 49 English translation plans and reference implementation, then initialize the Volume 45 English translation workspace and pilot according to the controlling repository policy. Do not skip the live-main verification boundary.
 
-See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) for the structural gate and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the live second-pass log.
+See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) for the structural gate and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed second-pass log.

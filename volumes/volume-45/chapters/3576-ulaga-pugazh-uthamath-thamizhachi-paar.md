@@ -1,4 +1,4 @@
-# Letter 3576 — உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!
+# Letter 3576 — உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!
 
 - Letter number: 3576
 - Date: 31-7-2011
@@ -10,7 +10,7 @@
 
 ## Source title
 
-உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!
+உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!
 
 ## Canonical pages
 
@@ -24,8 +24,8 @@
 ## Source notes
 
 - Contents PDF page 021 prints `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`.
-- Actual letter-start on PDF page 284 prints `உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!`.
-- This source-context wording difference is preserved; neither form is normalized to the other.
+- Direct scan re-verification of the actual letter start on PDF page 284 also establishes `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`.
+- The earlier control-layer `பார்!` reading was a transcription error and has been withdrawn; no contents/start discrepancy remains for Letter 3576.
 
 ## Boundary note
 

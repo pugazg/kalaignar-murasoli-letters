@@ -45,7 +45,7 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 | [3573 — அல்லல் நீங்கும்; தொல்லை குறையும்!](3573-allal-neengum-thollai-kuraiyum.md) | 21-7-2011 | complete | 266–268 |
 | [3574 — அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!](3574-amaidhi-vazhi-aravazhi-adhuve-anna-vazhi.md) | 28-7-2011 | complete | 269–274 |
 | [3575 — அந்த நாள் முதல் இந்த நாள் வரையில்....!](3575-andha-naal-mudhal-indha-naal-varaiyil.md) | 30-7-2011 | complete | 275–283 |
-| [3576 — உலகப் புகழ் உத்தமத் தமிழச்சி, பார்!](3576-ulaga-pugazh-uthamath-thamizhachi-paar.md) | 31-7-2011 | complete | 284–289 |
+| [3576 — உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!](3576-ulaga-pugazh-uthamath-thamizhachi-paar.md) | 31-7-2011 | complete | 284–289 |
 | [3577 — மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே!](3577-moondru-maadha-aatchi-pattiyale-moochu-muttugiradhe.md) | 3-8-2011 | complete | 290–305 |
 | [3578 — உனக்கொரு நீதி; ஊருக்கொரு நீதியா?](3578-unakkoru-neethi-oorukkoru-neethiya.md) | 5-8-2011 | complete | 306–312 |
 | [3579 — வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?](3579-variilla-budget-vadigattiya-poyyallava.md) | 6-8-2011 | complete | 313–319 |
@@ -66,4 +66,4 @@ Chapter records link to canonical page files and do not duplicate the full Tamil
 
 All 55 actual source letters, 3537–3591, are complete and mapped continuously across PDF pages 024–401. PDF pages 001–023 are front matter/contents, and PDF 402 is the back cover / publisher matter.
 
-Full-volume Tamil structural audit: **PASS**. Exact next activity: second visual/textual-fidelity verification of canonical pages 001–402 against the controlling scan.
+Full-volume Tamil structural audit: **PASS**. Second full-volume direct visual/textual-fidelity audit: **PASS — PDF 001–402 / 402**. Letter 3576 is synchronized to the scan-proven `பாரீர்!` start title; the remaining genuine contents/start punctuation difference is Letter 3575. English translation is now unblocked by the Tamil QA gates but has not yet started for Volume 45.

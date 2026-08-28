@@ -51,7 +51,7 @@ Status: **PASS**
 - See `FULL_VOLUME_STRUCTURAL_AUDIT.md` for the structural gate report.
 
 ### Second full-volume visual/textual-fidelity audit
-Status: **IN PROGRESS — verified PDF 001–385 / 402**
+Status: **PASS — verified PDF 001–402 / 402**
 
 - PDF 001–060: cumulative checkpoint 37 corrected page files / 75 correction spans.
 - PDF 061–085: 18 corrected page files / 29 correction spans.
@@ -66,22 +66,27 @@ Status: **IN PROGRESS — verified PDF 001–385 / 402**
 - PDF 286–310: 21 corrected page files / 67 correction spans.
 - PDF 311–335: 9 corrected page files / 15 correction spans.
 - PDF 336–360: 7 corrected page files / 16 correction spans.
-- PDF 361–385: **9 corrected page files / 13 correction spans; 16 pages passed unchanged**.
-- PDF 361–364, 366–376 and 385 passed the PDF 361–385 direct scan comparison unchanged.
-- PDF 365 and 377–384 were corrected directly from the scan.
-- PDF 365 restores `சந்தித்தபோது`.
-- PDF 377–384 remove systematic spurious zero-width OCR characters from the canonical text; this is a source-fidelity cleanup, not language normalization.
-- PDF 377 additionally restores `அதன் மூலமாக`, `கல்வியிலேயே`, and `தன்மையோடு`.
-- PDF 382 additionally restores source spacing `பாரா முகத்தால்`.
+- PDF 361–385: 9 corrected page files / 13 correction spans; 16 pages passed unchanged.
+- PDF 386–402: **16 corrected page files / 18 correction spans; 1 page passed unchanged**.
+- PDF 386–401 had systematic spurious zero-width OCR characters removed. This is source-fidelity cleanup, not language normalization.
+- PDF 388 additionally restores source spacing `பொறியியல் தொழில் நுட்பவியல்`.
+- PDF 389 additionally restores source punctuation `காரணம், அவர்கள்`.
+- PDF 402 back cover / publisher matter passed unchanged.
+- Direct scan verification at PDF 284 resolved the earlier Letter 3576 title record to `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; stale control-layer `பார்!` wording is withdrawn.
 - Source anomalies remain preserved, including PDF 088 `ஒப்பங்கள்`, PDF 098 `112.2006-ல்`, PDF 083 `94 இலட்சம் மக்கள்`, PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001`.
 - Later library stamp/handwriting on PDF 102 remains excluded from edition text.
 - Source-specific punctuation, English/Latin material, joined/spaced forms, repetitions and anomalies are not globally normalized.
-- Cumulative second-pass correction pages: **227 canonical page files / 605 correction spans**.
-- The routine second-pass iteration size is **25 consecutive PDF pages**, as explicitly approved by the user. The final end-of-volume iteration is the remaining **PDF 386–402 (17 pages)**.
-- See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the live second-pass page log.
+- Final cumulative second-pass result: **243 corrected canonical page files / 623 correction spans**.
+- See `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` for the completed second-pass page log.
 
-## Next QA boundary
+## Final Tamil QA boundary
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 386 / printed page 385** and process the final **PDF 386–402** end-of-volume iteration.
+- Canonical page coverage: **402 / 402**.
+- Source-letter coverage: **55 / 55**, Letters 3537–3591.
+- Full-volume Tamil structural audit: **PASS**.
+- Second full-volume visual/textual-fidelity audit: **PASS**.
+- English translation is now unblocked by the Tamil QA gates but has not yet begun for Volume 45.
 
-English translation remains blocked until that second visual verification passes. Translation textual-fidelity review remains a later, distinct gate.
+## Exact next activity
+
+Verify this final Tamil fidelity checkpoint on live `main`. Only after that verification, inspect the current Volume 47 and Volume 49 translation plans/reference implementation and initialize the Volume 45 English translation workspace and pilot. Translation textual-fidelity review remains a later, distinct gate.

@@ -1,5 +1,5 @@
 volume: 45
-status: tamil-structural-audit-pass
+status: tamil-fidelity-audit-pass
 source:
   filename: TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf
   controlling: true
@@ -17,14 +17,17 @@ transcription:
   next_letter: null
   next_pdf_page: null
   structural_audit: pass
-  second_visual_verification: in-progress
-  second_visual_verified_page_range: 001-385
-  second_visual_verified_pages: 385
-  second_visual_correction_pages: 227
-  second_visual_correction_spans: 605
-  second_visual_next_pdf_page: "386"
+  second_visual_verification: pass
+  second_visual_verified_page_range: 001-402
+  second_visual_verified_pages: 402
+  second_visual_correction_pages: 243
+  second_visual_correction_spans: 623
+  second_visual_next_pdf_page: null
   second_visual_iteration_pages: 25
+  second_visual_final_iteration_range: 386-402
+  second_visual_final_iteration_correction_pages: 16
+  second_visual_final_iteration_correction_spans: 18
 
 translation:
-  status: blocked
-  reason: Second full-volume Tamil visual/textual-fidelity verification incomplete
+  status: ready
+  reason: Full-volume Tamil structural and second visual/textual-fidelity gates are PASS; English translation has not yet started
