@@ -9,8 +9,9 @@
 - [x] Pilot style review complete — **PASS / STYLE LOCKED**
 - [x] First normal drafting batch **3540–3544** translated and source-checked
 - [x] Second normal drafting batch **3545–3549** translated and source-checked
+- [x] Third normal drafting batch **3550–3554** translated and source-checked
 - [ ] Main translation drafting
-  - [ ] **3550–3554** — exact next five-letter batch
+  - [ ] **3555–3559** — exact next five-letter batch
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
@@ -19,8 +20,8 @@
 
 - Total source letters: **55**
 - Letter range: **3537–3591**
-- Draft-translated: **13 / 55** — 3537–3549
-- Source-checked: **13 / 55** — 3537–3549
+- Draft-translated: **18 / 55** — 3537–3554
+- Source-checked: **18 / 55** — 3537–3554
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
@@ -46,8 +47,6 @@
 - Result: **PASS — 5 / 5 source-checked**
 - Tamil canonical changes during batch: **0**
 
-See [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md).
-
 ### Second normal drafting batch
 
 - 3545 — PDF **089–098**
@@ -59,22 +58,33 @@ See [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md).
 - Result: **PASS — 5 / 5 source-checked**
 - Tamil canonical changes during batch: **0**
 
-See [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md).
+### Third normal drafting batch
 
-Cumulative translated canonical source coverage is PDF **024–122**. All those pages had already passed the durable full-volume direct-scan fidelity gate before English drafting.
+- 3550 — PDF **123–128**
+- 3551 — PDF **129–141**
+- 3552 — PDF **142–144**
+- 3553 — PDF **145–149**
+- 3554 — PDF **150–154**
+- Batch combined: PDF **123–154**, 32 pages
+- Result: **PASS — 5 / 5 source-checked**
+- Tamil canonical changes during batch: **0**
 
-## Source-specific points preserved in 3545–3549
+See [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md).
 
-- Letter 3545 preserves PDF 089's unfinished scanning phrase and PDF 098 `112.2006-ல்`, together with source-supplied DBOOT/MLD/TMC/machinery English.
-- Letter 3546 preserves the scan-printed title dash, the `கதாநாயகன்` / `கதாநாயகி` manifesto wordplay and excludes later library annotation on PDF 102.
-- Letter 3547 retains all water-scheme costs, beneficiary/local-body counts and employment/regularisation figures without outside reconciliation.
-- Letter 3548 retains the historical proper name `தமிழ்நாடு அரவாணிகள் நல வாரியம்`, PDF 114 `4 கோடியே 58 ஆயிரம் ரூபாய்`, and scan-verified PDF 116 dates.
-- Letter 3549 preserves its full political/rhetorical sequence, verse-like lines and source metaphors without adding outside identification.
+Cumulative translated canonical source coverage is PDF **024–154**. All those pages had already passed the durable full-volume direct-scan fidelity gate before English drafting.
+
+## Source-specific points preserved in 3550–3554
+
+- Letter 3550 retains the printed English Election Commission sentence verbatim, the source form `தனிச்சையாக` in Tamil, and the final Thevar Thirumagan proverb without outside identification.
+- Letter 3551 retains every achievement-list figure and preserves PDF 139's source-specific Semmozhi Park figure **20 acres / ₹8 crore** despite a different figure in an earlier letter.
+- Letter 3552 retains unusual title form `யாரா` as **Yārā** and preserves the `பணநாயகம்` / `ஜனநாயகம்` contrast as **money-rule / democracy**.
+- Letter 3553 retains the complete sea/wave/foam, silk, World Cup/cricket and closing-proverb sequence without compression.
+- Letter 3554 retains `பத்துகல்` conservatively as **ten kal** and `தள்ளு வண்டி` as **thallu-vandi**, without outside unit or vehicle reconstruction.
 
 ## QA status
 
-The thirteen completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
+The eighteen completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
 
 ## Exact next activity
 
-Translate **Letters 3550–3554 / PDF 123–154** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and update the glossary only for genuinely new recurring terms.
+Translate **Letters 3555–3559 / PDF 155–180** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and update the glossary only for genuinely new recurring terms.

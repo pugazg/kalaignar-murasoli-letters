@@ -22,7 +22,7 @@ This glossary carries forward the approved Volume 49 / Volume 47 translation tre
 | ஆரம்ப சுகாதார நிலையம் | **Primary Health Centre (PHC)** | Volume 45 locked | Full form on first use; PHC may follow. |
 | சென்னைப் பெருநகர் குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் | **Chennai Metropolitan Water Supply and Sewerage Board** | Volume 45 locked | Institutional treatment used in letters 3545 and 3547. |
 | தமிழ்நாடு குடிநீர் வடிகால் வாரியம் | **Tamil Nadu Water Supply and Drainage Board** | Volume 45 locked | Institutional treatment used in letters 3545 and 3547. |
-| கூட்டுக் குடிநீர்த் திட்டம் | **combined water-supply scheme** | Volume 45 locked | Recurring municipal/TWAD project term in letters 3545 and 3547. |
+| கூட்டுக் குடிநீர்த் திட்டம் | **combined water-supply scheme** | Volume 45 locked | Recurring municipal/TWAD project term in letters 3545, 3547 and 3551. |
 | அரவாணிகள் / திருநங்கைகள் | **transgender people / transgender women**; proper board name **Tamil Nadu Aravanis Welfare Board** retained | Volume 45 source-specific | The historical source itself uses both forms; explanatory English is respectful while the printed Board name remains source-faithful. |
 | மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டம் | **Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)** | Volume 45 locked | Full form on first use; scheme thereafter where clear. |
 | சமத்துவபுரம் | **Samathuvapuram** | Volume 45 locked | Scheme/community name retained in transliteration; source purpose is explained in context. |
@@ -50,7 +50,11 @@ This glossary carries forward the approved Volume 49 / Volume 47 translation tre
 | பாதாள சாக்கடைத் திட்டம் | **underground sewerage scheme** | Volume 45 locked | Used consistently for municipal/town-panchayat sewerage projects. |
 | சுவர்ண ஜெயந்தி சகாரி ரோஜ்கார் யோஜனா | **Swarna Jayanti Sahari Rozgar Yojana** | Volume 45 source-specific | Conservative transliteration of the audited source form; do not replace it from outside programme documentation. |
 | உலகத் தமிழ்ச் செம்மொழி மாநாடு | **World Classical Tamil Conference** | carried forward | Event treatment used for the 2010 Coimbatore conference. |
-| செம்மொழிப் பூங்கா | **Semmozhi Park** | Volume 45 locked | Named park retained in transliteration. |
+| செம்மொழிப் பூங்கா | **Semmozhi Park** | Volume 45 locked | Named park retained in transliteration; source-specific figures must remain letter-specific. |
+| உழவர் சந்தை | **Uzhavar Sandhai (farmers’ market)** | Volume 45 locked | Tamil scheme/market identity retained with concise English identification; introduced in letter 3551. |
+| கலைஞர் வீடு வழங்கும் திட்டம் | **Kalaignar Housing Scheme** | Volume 45 locked | Housing-scheme treatment introduced in letter 3551. |
+| செம்மொழித் தமிழாய்வு மத்திய நிறுவனம் | **Central Institute of Classical Tamil** | Volume 45 locked | Institutional treatment used in letter 3551. |
+| அண்ணா நூற்றாண்டு நினைவு நூலகம் | **Anna Centenary Memorial Library** | Volume 45 locked | Named public institution in letter 3551. |
 
 ## Style rule
 

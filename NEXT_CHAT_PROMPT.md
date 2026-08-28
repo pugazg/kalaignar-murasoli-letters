@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 English Translation Batch 3550–3554
+# Next Chat Prompt — Volume 45 English Translation Batch 3555–3559
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -38,7 +38,8 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
-5. Inspect completed bilingual records 3537–3549, especially the immediately preceding 3545–3549 batch, before drafting the next batch.
+   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
+5. Inspect completed bilingual records 3537–3554, especially the immediately preceding 3550–3554 batch, before drafting the next batch.
 6. Confirm the live durable boundary before doing work.
 
 ## CURRENT DURABLE VOLUME 45 STATE
@@ -57,24 +58,25 @@ English layer:
 - Pilot: **3537–3539 / PDF 024–049 — PASS / STYLE LOCKED**
 - First normal drafting batch: **3540–3544 / PDF 050–088 — PASS / source-checked**
 - Second normal drafting batch: **3545–3549 / PDF 089–122 — PASS / source-checked**
-- Draft-translated: **13 / 55 — 3537–3549**
-- Source-checked: **13 / 55 — 3537–3549**
+- Third normal drafting batch: **3550–3554 / PDF 123–154 — PASS / source-checked**
+- Draft-translated: **18 / 55 — 3537–3554**
+- Source-checked: **18 / 55 — 3537–3554**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during 3545–3549: **0**
-- Exact next letter: **3550**
-- Exact next drafting batch: **3550–3554**
+- Tamil canonical changes during 3550–3554: **0**
+- Exact next letter: **3555**
+- Exact next drafting batch: **3555–3559**
 
 ## NEXT BATCH SOURCE BOUNDARIES
 
-- **3550 — தேவர் திருமகனின் பொன்மொழி என்ன?** — PDF **123–128**, printed **122–127**, date **23-03-2011**
-- **3551 — நாடு வாழ நாம் புரிந்த சாதனைகள்!** — PDF **129–141**, printed **128–140**, date **28-03-2011**
-- **3552 — யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்!** — PDF **142–144**, printed **141–143**, date **30-03-2011**
-- **3553 — “குற்றம் பார்க்கின் சுற்றம் இல்லை”!** — PDF **145–149**, printed **144–148**, date **5-4-2011**
-- **3554 — மதிப்பிற்குரிய மதிப்பெண் என்ன?** — PDF **150–154**, printed **149–153**, date **13-4-2011**
+- **3555 — அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!** — PDF **155–159**, date **17-4-2011**
+- **3556 — பார்த்தும் மறந்தாரே “காரத்”!** — PDF **160–163**, date **21-4-2011**
+- **3557 — பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?** — PDF **164–169**, date **24-04-2011**
+- **3558 — திரைப்படத்துறையும் - தி.மு.க.வும்!** — PDF **170–175**, date **30-04-2011**
+- **3559 — கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!** — PDF **176–180**, date **4-5-2011**
 
-Combined next-batch source range: **PDF 123–154**.
+Combined next-batch source range: **PDF 155–180**.
 
 ## SOURCE / TRANSLATION AUTHORITY
 
@@ -84,7 +86,7 @@ Do not use outside knowledge, another edition, expected modern wording or histor
 
 If translation reveals a possible Tamil discrepancy, stop on that point and re-check the controlling scan before changing either layer.
 
-The completed 3545–3549 batch deliberately preserved source-specific material including PDF 089's unfinished scanning phrase, PDF 098 `112.2006-ல்`, the Letter 3546 title dash and “hero/heroine” wordplay, Letter 3547's exact water/employment figures, Letter 3548's historical Welfare Board name / PDF 114 amount / PDF 116 dates, and Letter 3549's complete metaphor-and-verse sequence. Treat this as the model: do not silently “fix” unusual source text during English drafting.
+The completed 3550–3554 batch deliberately preserved source-specific material including Letter 3550's printed English and proverb attribution, Letter 3551's source-exact figures including PDF 139 Semmozhi Park **20 acres / ₹8 crore**, Letter 3552's `யாரா` / `பணநாயகம்`, Letter 3553's full World Cup/cricket metaphor sequence, and Letter 3554's `பத்துகல்` / `தள்ளு வண்டி` without outside reconstruction. Treat this as the model: do not silently “fix” unusual source text during English drafting.
 
 ## LOCKED TRANSLATION STYLE
 
@@ -97,16 +99,16 @@ Use the Volume 45 plan exactly:
 - retain `Udanpirappē`;
 - close with `With affection, M.K.` where the source closes that way;
 - retain `lakh` and `crore`;
-- use the locked standard translator’s note verbatim;
+- use the locked standard translator’s note;
 - use glossary treatments where the same source terms recur;
 - add minimal explanatory notes only where genuinely necessary;
 - reproduce **complete audited Tamil** under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
 
-Completed files are `source-checked`, not final bilingual-alignment `verified` records. Keep alignment as a later distinct QA stage.
+Completed drafting files are `source-checked`, not final bilingual-alignment `verified` records. Keep alignment as a later distinct QA stage.
 
 ## EXACT NEXT ACTIVITY
 
-Complete **Letters 3550–3554 in one five-complete-letter drafting iteration**.
+Complete **Letters 3555–3559 in one five-complete-letter drafting iteration**.
 
 For each letter:
 
@@ -117,14 +119,14 @@ For each letter:
 5. append the complete audited Tamil in physical page order under `Original Tamil — மூலத் தமிழ்`;
 6. source-check English against the full audited canonical Tamil before marking `source-checked`;
 7. update glossary only for new recurring terms;
-8. create a `DRAFT_SOURCE_CHECK_3550_3554.md` batch QA record;
+8. create/update a durable drafting source-check record for the batch;
 9. update translation progress, Volume 45 progress/metadata/README, root README, project handover and this next-chat prompt;
-10. recheck live `main` before the final mutation;
+10. recheck live `main` before final mutation;
 11. make the declared five-letter batch/control update atomic where technically possible;
-12. compare the intended parent→new commit, fast-forward without force and verify live `main` afterward.
+12. compare intended parent→new commit, fast-forward without force and verify live `main` afterward.
 
 ## IMPORTANT
 
-Do not re-run completed batches unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
+Do not re-run completed pilot or 3540–3554 work unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
 
 When I say **“Proceed with next activity”**, execute the next already-defined batch directly without asking me to choose a routine next step.

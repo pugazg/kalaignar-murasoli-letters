@@ -27,13 +27,11 @@ For English work, the audited canonical Tamil is the immediate translation sourc
 - Second full-volume direct visual/textual-fidelity verification: **PASS — 402 / 402**
 - Final cumulative second-pass corrections: **243 canonical page files / 623 correction spans**
 
-The final fidelity batch was PDF 386–402: 16 corrected page files / 18 spans; PDF 402 passed unchanged. The earlier Letter 3576 `பார்!` control-layer reading was withdrawn; direct scan verification establishes `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `...!` versus start `....!`.
+The earlier Letter 3576 `பார்!` control-layer reading was withdrawn; direct scan verification establishes `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `...!` versus start `....!`. Confirmed printed anomalies documented in the Tamil audits must remain source-exact.
 
-Confirmed printed anomalies documented in the Tamil audits must remain source-exact. Do not normalize them from outside knowledge.
+### English translation — durable through 3554
 
-### English translation — durable through 3549
-
-Reference workflow before startup:
+Reference workflow:
 
 - Volume 49 translation plan and bilingual implementation — principal reference;
 - Volume 47 translation/alignment/release practice — supporting reference.
@@ -52,59 +50,51 @@ Locked English conventions:
 
 #### Pilot
 
-- Letters: **3537–3539**
-- Canonical source: **PDF 024–049**
-- Result: **3 / 3 source-checked; PASS — STYLE LOCKED**
-- Tamil canonical changes during pilot: **0**
+- **3537–3539 / PDF 024–049** — **3 / 3 source-checked; PASS — STYLE LOCKED**
+- Tamil canonical changes: **0**
 
-#### First normal drafting batch
+#### Normal drafting batches
 
-- Letters: **3540–3544**
-- Canonical source: **PDF 050–088**
-- Result: **5 / 5 translated and source-checked — PASS**
-- Tamil canonical changes during batch: **0**
-- Source-check report: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
+- **3540–3544 / PDF 050–088** — **5 / 5 source-checked; PASS** — Tamil changes **0**
+- **3545–3549 / PDF 089–122** — **5 / 5 source-checked; PASS** — Tamil changes **0**
+- **3550–3554 / PDF 123–154** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 
-#### Second normal drafting batch
+Source-check reports:
 
-- Letters: **3545–3549**
-- Canonical source: **PDF 089–122**
-- Result: **5 / 5 translated and source-checked — PASS**
-- Tamil canonical changes during batch: **0**
-- Source-check report: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
 
 Current cumulative English state:
 
-- Draft-translated: **13 / 55 — 3537–3549**
-- Source-checked: **13 / 55 — 3537–3549**
+- Draft-translated: **18 / 55 — 3537–3554**
+- Source-checked: **18 / 55 — 3537–3554**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Cumulative translated canonical source: **PDF 024–122**
+- Cumulative translated canonical source: **PDF 024–154**
 
-Source-specific material deliberately preserved during 3545–3549 includes:
+Source-specific material deliberately preserved during 3550–3554 includes:
 
-- PDF 089 unfinished phrase about scanning remaining old registers;
-- PDF 098 `112.2006-ல்`, without inferred date repair;
-- source-supplied `(DBOOT)`, `(Southern Headworks)`, MLD/TMC and sewer-maintenance English in Letter 3545;
-- Letter 3546 scan-printed title dash, armour/shield rhetoric, and manifesto `கதாநாயகன்` / `கதாநாயகி` wordplay; later library stamp/handwriting on PDF 102 remains excluded;
-- Letter 3547 water-scheme costs, local-body/beneficiary counts and employment/regularisation figures;
-- Letter 3548 historical proper name `தமிழ்நாடு அரவாணிகள் நல வாரியம்`, PDF 114 `4 கோடியே 58 ஆயிரம் ரூபாய்`, and scan-verified PDF 116 dates;
-- Letter 3549 Indrajit/dove/web/chaff/army/Himalaya/gooseberry-sack/red-blood/Tamil-breath imagery and verse-like source form without outside identification.
+- Letter 3550: the printed English Election Commission sentence verbatim, source form `தனிச்சையாக` in Tamil, and the final proverb attributed only as `தேவர் திருமகன்` without outside identification;
+- Letter 3551: every achievement-list figure, including source-internal count patterns; PDF 139's Semmozhi Park **20 acres / ₹8 crore** is preserved even though an earlier letter prints different figures; `TAHDCO`, `TESMA` and `ESMA` are not externally expanded;
+- Letter 3552: unusual source-title form `யாரா` retained as `Yārā`; `பணநாயகம்` / `ஜனநாயகம்` preserved as money-rule / democracy; source allegations remain attributed as source claims;
+- Letter 3553: full sea/wave/foam, silk, World Cup/cricket, Vallalar/Anna and proverb sequences retained without compression;
+- Letter 3554: `பத்துகல்` retained conservatively as `ten kal`, `தள்ளு வண்டி` as `thallu-vandi`, with no outside unit or vehicle reconstruction.
 
-The thirteen completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
+The eighteen completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
 
 ### Exact next activity
 
-Translate **Letters 3550–3554 / PDF 123–154** as the next normal five-complete-letter drafting iteration.
+Translate **Letters 3555–3559 / PDF 155–180** as the next normal five-complete-letter drafting iteration.
 
 Verified next source boundaries:
 
-- 3550 — `தேவர் திருமகனின் பொன்மொழி என்ன?` — PDF **123–128**, date **23-03-2011**
-- 3551 — `நாடு வாழ நாம் புரிந்த சாதனைகள்!` — PDF **129–141**, date **28-03-2011**
-- 3552 — `யாரா உஷார்! பதுங்கி வருகிறது பணநாயகம்!` — PDF **142–144**, date **30-03-2011**
-- 3553 — `“குற்றம் பார்க்கின் சுற்றம் இல்லை”!` — PDF **145–149**, date **5-4-2011**
-- 3554 — `மதிப்பிற்குரிய மதிப்பெண் என்ன?` — PDF **150–154**, date **13-4-2011**
+- 3555 — `அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!` — PDF **155–159**, date **17-4-2011**
+- 3556 — `பார்த்தும் மறந்தாரே “காரத்”!` — PDF **160–163**, date **21-4-2011**
+- 3557 — `பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?` — PDF **164–169**, date **24-04-2011**
+- 3558 — `திரைப்படத்துறையும் - தி.மு.க.வும்!` — PDF **170–175**, date **30-04-2011**
+- 3559 — `கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!` — PDF **176–180**, date **4-5-2011**
 
 For each letter:
 
@@ -135,12 +125,13 @@ Do **not** mark drafting records final `verified`; bilingual alignment remains a
 - `volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
 
 ## 4. Completed reference volumes
 
-- **Volume 01:** fully released; 401 / 401 pages, 110 / 110 letters, Tamil gates PASS, 110 / 110 final bilingual release.
-- **Volume 46:** complete through English release; 55 actual source records; preserves numbering anomalies including missing 3636 and 3644–3646 and duplicated 3637.
-- **Volume 47:** 59 / 59 English release-ready within surviving source; Letter 3681 remains source-incomplete because printed page 252 is absent.
+- **Volume 01:** 401 / 401 pages, 110 / 110 letters, final bilingual release complete.
+- **Volume 46:** complete through English release; 55 actual source records; preserves numbering anomalies.
+- **Volume 47:** 59 / 59 English release-ready within surviving source; Letter 3681 remains source-incomplete.
 - **Volume 48:** completed English release reference.
 - **Volume 49:** principal structural/translation quality reference; 53 / 53 verified and released.
 
@@ -158,7 +149,7 @@ Keep stages distinct:
 6. volume-level English editorial consistency review;
 7. release manifest/report.
 
-For Volume 45, Tamil stages are complete. English drafting/source-check is complete through Letter 3549 only.
+For Volume 45, Tamil stages are complete. English drafting/source-check is complete through Letter **3554** only.
 
 ## 6. Git/concurrency discipline
 
@@ -171,7 +162,7 @@ For Volume 45, Tamil stages are complete. English drafting/source-check is compl
 - Remove temporary render/OCR/export artifacts from repository trees.
 - Compare intended parent→new commit and fetch live `main` afterward.
 
-The initial English startup/pilot landed incrementally through connector writes. During the 3540–3544 batch, Letter 3540 also landed as a separate connector content commit before the remaining batch tree was assembled. Do not rewrite or force-push that history; continue forward and preserve it.
+The initial English startup/pilot landed incrementally through connector writes. During 3540–3544, Letter 3540 also landed separately before the remaining batch tree was assembled. Do not rewrite or force-push that history; continue forward and preserve it.
 
 ## 7. Meaning of “Proceed with next activity”
 
@@ -179,4 +170,4 @@ Inspect live durable state, identify the next already-defined batch/gate, execut
 
 ## 8. Clean interruption rule
 
-The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3549 / 13 of 55 source-checked**, with exact next drafting batch **3550–3554 / PDF 123–154**.
+The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3554 / 18 of 55 source-checked**, with exact next drafting batch **3555–3559 / PDF 155–180**.
