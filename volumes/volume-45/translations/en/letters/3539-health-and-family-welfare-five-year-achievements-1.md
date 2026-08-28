@@ -62,7 +62,7 @@ The scheme, abandoned by the subsequent AIADMK government, was restarted on 30 D
 
 Under the Kannoli Kappom Scheme, students studying in Classes 6 to 8 in 14,801 government and government-aided schools have benefited. Under the scheme, 30,04,749 students were given eye examinations by appropriate medical specialists using medical equipment, and free spectacles were provided to 1,60,903 students found to have defective vision.
 
-From 2010–11, the scheme was extended to students studying from Classes 6 to 10. Up to 28 February 2011, 39,60,467 students had been examined; among them, eye defects were identified and spectacles were provided to 1,02,779 students.
+From 2010–11, the scheme was extended to students studying from Classes 6 to 10. Up to 28 February 2011, 39,60,467 students had been examined; eye defects were identified in 1,70,803 students, and spectacles were provided to 1,02,779 of them.
 
 ### Heart Protection Scheme for Young Children and Schoolchildren
 
