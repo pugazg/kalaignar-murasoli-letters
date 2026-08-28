@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Final English Drafting Batch 3590–3591
+# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3537–3541
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,7 +6,7 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
-Active work: **Volume 45 English translation drafting**.
+Active work: **Volume 45 English bilingual-alignment QA**.
 
 Use the GitHub connector and work directly on `main`.
 
@@ -36,9 +36,8 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`
-5. Inspect completed bilingual records through 3589, especially 3585–3589, before drafting the final two letters.
-6. Confirm the live durable boundary before doing work.
+   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`
+5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -55,85 +54,50 @@ Tamil archival layer:
 
 English layer:
 
-- Pilot **3537–3539 / PDF 024–049** — **PASS / STYLE LOCKED**
-- Normal drafting batches through **3585–3589 / PDF 358–390** — **PASS / source-checked**
-- Draft-translated: **53 / 55 — 3537–3589**
-- Source-checked: **53 / 55 — 3537–3589**
-- Cumulative translated source: **PDF 024–390**
+- Main drafting: **COMPLETE**
+- Draft-translated: **55 / 55 — 3537–3591**
+- Source-checked: **55 / 55 — 3537–3591**
+- Cumulative translated source: **PDF 024–401**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during 3585–3589: **0**
-- Exact next letter: **3590**
-- Exact final drafting batch: **3590–3591**
 
 ## SOURCE AUTHORITY
 
-The audited canonical Tamil is the immediate translation source. The controlling scan remains ultimate textual authority.
+The audited canonical Tamil is the immediate alignment authority. The controlling scan remains ultimate textual authority.
 
 Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quoted material, English/Latin material and physical source boundaries.
 
-If translation reveals a possible Tamil discrepancy, re-check the controlling scan before changing either layer and record every scan-proven post-audit correction durably.
+If alignment reveals a possible Tamil discrepancy, re-check the controlling scan before changing either layer and record every scan-proven post-audit correction durably.
 
-The one translation-discovered correction so far is PDF 187 during Letter 3560. It does not change the historical second-pass tally of **243 / 623**; the combined canonical tally remains **243 unique pages / 624 spans**.
+## ALIGNMENT RULES
 
-## LOCKED TRANSLATION STYLE
+For each bilingual record:
 
-- clear contemporary, thought-preserving, non-literary English;
-- do not summarize substantive content;
-- preserve argument order, political force, irony, repetition and rhetorical questions;
-- preserve names, dates, figures, units, quotations and attribution;
-- retain `Udanpirappē`;
-- close with `With affection, M.K.` where the source does;
-- retain `lakh` and `crore`;
-- retain **Samacheer Kalvi** as the established scheme name when it recurs;
-- preserve each source claim concerning **Tamil New Year / first day of Thai / Chithirai** without outside reconciliation;
-- use the locked standard translator’s note;
-- use glossary treatments where the same source terms recur;
-- add minimal explanatory notes only where genuinely necessary;
-- reproduce **complete audited Tamil** under `Original Tamil — மூலத் தமிழ்` in every bilingual record;
-- never deduplicate repeated material simply because it appeared elsewhere.
+1. read the complete audited Tamil source pages and the complete English record;
+2. compare title, salutation, paragraph order, every substantive claim, list item, quotation, name, date, figure, unit, rhetorical question, repetition and closing;
+3. correct English omissions, additions, mistranslations or semantic drift;
+4. preserve source anomalies rather than silently normalising them;
+5. preserve the locked `Udanpirappē`, `With affection, M.K.`, `lakh` / `crore`, Samacheer Kalvi and other glossary conventions unless the source requires otherwise;
+6. do not perform stylistic rewriting merely because another English phrasing sounds smoother;
+7. do not begin the separate volume-level English editorial consistency review;
+8. after a letter passes direct Tamil↔English comparison, change its `bilingual_alignment_status` from `pending` to `aligned` while retaining its drafting/source-check history;
+9. record the alignment batch in a durable QA report and update progress/metadata/handover controls.
 
-Completed drafting files are `source-checked`, not final bilingual-alignment `verified` records. Keep alignment as a later distinct QA stage.
+## EXACT FIRST ALIGNMENT BATCH
 
-## IMMEDIATELY PRECEDING BATCH — SOURCE-SPECIFIC POINTS
+Align five complete consecutive letters:
 
-The completed 3585–3589 batch preserves:
+- **3537** — PDF **024–033**
+- **3538** — PDF **034–041**
+- **3539** — PDF **042–049**
+- **3540** — PDF **050–056**
+- **3541** — PDF **057–060**
 
-- **3585:** Rule 110 / ministerial-announcement argument, unchanged policy-note language and figures, and complete sports-infrastructure / award inventory;
-- **3586:** scan-proven title beginning `கழக அரசு`, complete Rajiv Gandhi / *Nenjukku Neethi* passage, Eelam-war narrative, Nalini commutation and the appeal for Santhan, Perarivalan and Murugan;
-- **3587:** complete Thirumazhisai history and figures; source-internal `1-9-2006` / `31-8-2006` date variation preserved without harmonisation;
-- **3588:** Samacheer Kalvi delays, textbook distribution, Muthukumaran Committee and teacher-recruitment/transfer figures;
-- **3589:** welfare/free-scheme continuity and closure arguments plus Omandurar, Classical-Tamil, Metro/Monorail, housing, Council, university, marriage-scheme and Tamil New Year material.
+Combined first alignment range: **PDF 024–060 / 37 canonical pages**.
 
-Do not retroactively normalize any of these source conditions.
+Create a durable alignment report for **3537–3541**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact next alignment batch from live chapter boundaries.
 
-## FINAL DRAFTING SOURCE BOUNDARIES
+Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes; prefer one atomic Git-data commit; compare parent→new commit; fast-forward `main` with `force:false`; then verify live `main`.
 
-- **3590 — விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!** — PDF **391–396**, date **24-9-2011**
-- **3591 — அடங்காமை ஆறிருள் உய்த்து விடும்!** — PDF **397–401**, date **27-9-2011**
-
-Combined final source range: **PDF 391–401 / 11 canonical pages**.
-
-## EXACT NEXT ACTIVITY
-
-Complete **Letters 3590–3591 in one final main-drafting iteration**.
-
-For each letter:
-
-1. read its complete chapter record and exact canonical PDF range;
-2. read every canonical Tamil page in that range completely;
-3. translate every substantive heading, paragraph, list, quotation, figure and rhetorical question;
-4. create one bilingual Markdown record under `volumes/volume-45/translations/en/letters/` using the locked structure;
-5. append the complete audited Tamil in physical page order under `Original Tamil — மூலத் தமிழ்`;
-6. source-check English against the full audited canonical Tamil before marking `source-checked`;
-7. if a broken transition or suspected Tamil discrepancy appears, inspect the controlling scan before changing either layer and append any scan-proven correction to the correction log;
-8. update glossary only for new recurring terms;
-9. create a durable drafting source-check record for **3590–3591**;
-10. update translation progress, Volume 45 progress/metadata/README/AUDIT, root README, project handover and this next-chat prompt;
-11. immediately before Git mutation re-fetch live `main`; preserve unrelated concurrent changes;
-12. prefer one atomic Git-data commit, compare parent→new commit, fast-forward `main` with `force:false`, then verify live `main`.
-
-After 3590–3591 are source-checked, main drafting is **55 / 55 complete**. Stop at that durable boundary. The next activity after that is the separate **full bilingual-alignment QA** across all 55 letters; do not merge alignment into this final drafting batch.
-
-When I say **“Proceed with next activity”**, execute the next already-defined batch directly without asking me to choose a routine next step.
+When I say **“Proceed with next activity”**, execute this first bilingual-alignment batch directly without asking me to choose a routine next step.

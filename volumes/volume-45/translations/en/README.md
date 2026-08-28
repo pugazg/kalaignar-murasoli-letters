@@ -14,11 +14,11 @@ The English is **not a literary rewriting**. It follows the audited canonical Ta
 - Translation-discovered targeted correction: **PDF 187 / 1 additional scan-proven span**
 - Combined canonical correction tally: **243 unique page files / 624 spans**
 
-Translation is made from the scan-verified canonical Tamil. The controlling scan remains the ultimate textual authority if a translation check exposes a possible Tamil discrepancy. The PDF 187 correction discovered during Letter 3560 drafting is recorded in [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+Translation is made from the scan-verified canonical Tamil. The controlling scan remains the ultimate textual authority if a translation/alignment check exposes a possible Tamil discrepancy. The PDF 187 correction discovered during Letter 3560 drafting is recorded in [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Ten normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574**, **3575–3579**, **3580–3584** and **3585–3589**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Ten normal five-letter drafting batches and the final two-letter **3590–3591** batch are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -75,22 +75,25 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3587](letters/3587-what-the-mother-in-law-broke-what-the-daughter-in-law-broke.md) | What the Mother-in-Law Broke; What the Daughter-in-Law Broke! | 13 September 2011 | 370–376 | source-checked |
 | [3588](letters/3588-education-must-it-be-a-bud-left-to-wither.md) | Education—Must It Be a Bud Left to Wither? | 14 September 2011 | 377–382 | source-checked |
 | [3589](letters/3589-how-long-will-this-one-upmanship-continue.md) | How Long Will This One-Upmanship Continue? | 19 September 2011 | 383–390 | source-checked |
+| [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
+| [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
 
-Current coverage: **53 / 55 letters source-checked**, audited canonical PDF **024–390**.
+Current coverage: **55 / 55 letters source-checked**, audited canonical PDF **024–401**.
 
 Batch records:
 
 - [`PILOT_REVIEW_3537_3539.md`](PILOT_REVIEW_3537_3539.md) — pilot / style lock
-- [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md) — first normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md) — second normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md) — third normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md) — fourth normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) — fifth normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md) — sixth normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md) — seventh normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3575_3579.md`](DRAFT_SOURCE_CHECK_3575_3579.md) — eighth normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3580_3584.md`](DRAFT_SOURCE_CHECK_3580_3584.md) — ninth normal drafting batch
-- [`DRAFT_SOURCE_CHECK_3585_3589.md`](DRAFT_SOURCE_CHECK_3585_3589.md) — tenth normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md)
+- [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md)
+- [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md)
+- [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md)
+- [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md)
+- [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md)
+- [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md)
+- [`DRAFT_SOURCE_CHECK_3575_3579.md`](DRAFT_SOURCE_CHECK_3575_3579.md)
+- [`DRAFT_SOURCE_CHECK_3580_3584.md`](DRAFT_SOURCE_CHECK_3580_3584.md)
+- [`DRAFT_SOURCE_CHECK_3585_3589.md`](DRAFT_SOURCE_CHECK_3585_3589.md)
+- [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CHECK_3590_3591.md) — final drafting batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -103,13 +106,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The fifty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+All fifty-five completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a distinct QA gate.
 
 ## Exact next activity
 
-Translate the final two source letters **3590–3591 / PDF 391–401** as one final main-drafting iteration:
-
-- 3590 — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF 391–396 — 24 September 2011
-- 3591 — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF 397–401 — 27 September 2011
-
-Source-check both complete drafts and preserve full Tamil appendices. After that, main drafting will be 55/55 complete; keep the subsequent bilingual-alignment gate separate.
+Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch. Mark only directly compared and passed records `bilingual-aligned`; create a durable alignment report and keep the later volume-level editorial consistency review separate.

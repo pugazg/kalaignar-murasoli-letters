@@ -10,7 +10,7 @@ Read this together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATC
 
 **The controlling source scan controls Tamil readings.** OCR, contents pages, another edition, outside historical knowledge, translations and inferred chronology may assist navigation but may not silently override the source. Historical wording, source errors, numbering anomalies, punctuation, quoted material, English text and physical boundaries are preserved and documented.
 
-For English work, the audited canonical Tamil is the immediate translation source. A translation-exposed discontinuity must trigger targeted direct scan re-verification before either Tamil or English is changed.
+For English work, the audited canonical Tamil is the immediate translation/alignment source. Any alignment check that exposes a possible Tamil discrepancy must trigger targeted direct scan re-verification before either Tamil or English is changed.
 
 ## 2. Current active work — Volume 45 English translation
 
@@ -33,7 +33,7 @@ Letter 3576 is scan-proven as `உலகப் புகழ் உத்தம�
 
 During Letter 3560 source-check, the canonical PDF 187→188 transition exposed an omitted physical-page tail. Direct scan comparison restored the end of the Wall Street Journal quotation and the beginning of the Oxford Analytica / `India Deconstructed` passage through `என்ற ஒரு ஆய்வை`. PDF 187 was already one of the historical 243 corrected pages, so the historical tally remains **243 / 623** while the combined tally is **243 / 624**. See `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`.
 
-### English translation — durable through 3589
+### English main drafting — COMPLETE
 
 Locked conventions:
 
@@ -48,56 +48,51 @@ Locked conventions:
 - no external historical correction of source facts or anomalies;
 - complete audited Tamil reproduced under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
 
-Pilot:
+Drafting record:
 
-- **3537–3539 / PDF 024–049** — PASS / STYLE LOCKED
-
-Completed normal drafting batches:
-
-- **3540–3544 / PDF 050–088** — PASS — Tamil changes 0
-- **3545–3549 / PDF 089–122** — PASS — Tamil changes 0
-- **3550–3554 / PDF 123–154** — PASS — Tamil changes 0
-- **3555–3559 / PDF 155–180** — PASS — Tamil changes 0
-- **3560–3564 / PDF 181–217** — PASS — PDF 187 / 1 scan-proven Tamil correction span
-- **3565–3569 / PDF 218–248** — PASS — Tamil changes 0
-- **3570–3574 / PDF 249–274** — PASS — Tamil changes 0
-- **3575–3579 / PDF 275–319** — PASS — Tamil changes 0
-- **3580–3584 / PDF 320–357** — PASS — Tamil changes 0
-- **3585–3589 / PDF 358–390** — PASS — Tamil changes 0
+- Pilot **3537–3539 / PDF 024–049** — PASS / STYLE LOCKED
+- Ten normal five-letter batches through **3585–3589 / PDF 358–390** — PASS
+- Final batch **3590–3591 / PDF 391–401** — PASS — Tamil changes 0
 
 Current cumulative English state:
 
-- Draft-translated: **53 / 55 — 3537–3589**
-- Source-checked: **53 / 55 — 3537–3589**
-- Cumulative translated canonical source: **PDF 024–390**
+- Draft-translated: **55 / 55 — 3537–3591**
+- Source-checked: **55 / 55 — 3537–3591**
+- Cumulative translated canonical source: **PDF 024–401**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-Latest source-check: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`.
+Latest source-check: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`.
 
-Source-specific conditions deliberately preserved in 3585–3589 include:
+The final drafting batch preserves:
 
-- **3585:** complete Rule 110 / ministerial-announcement argument; unchanged policy-note language and figures; complete sports-infrastructure and award inventory.
-- **3586:** scan-proven `கழக அரசு...` title; complete 1989 Rajiv Gandhi / *Nenjukku Neethi* passage; Eelam-war narrative; Nalini commutation and appeal for Santhan, Perarivalan and Murugan.
-- **3587:** complete Thirumazhisai 311-acre history, earlier 2006 satellite-town proposal and opposition material; the source's own `1-9-2006` / `31-8-2006` internal date variation is preserved rather than harmonised.
-- **3588:** Samacheer Kalvi delays; textbook distribution; Muthukumaran Committee, teacher recruitment and transfer figures.
-- **3589:** welfare/free-scheme continuity and closure arguments; Omandurar, Classical-Tamil, Metro/Monorail, housing, Legislative Council, universities, marriage schemes, Tamil New Year and Salem hospital material.
+- **3590:** complete local-body election timetable, withheld constituency-category and nomination dispute, State Election Commission response, *Dina Thanthi* passage, candidate-selection appeal, false-case/re-arrest argument, election-expense warning, media-bias argument and mobilisation close.
+- **3591:** complete K.P.P. Samy arrest narrative, quoted Samy statement, Tiruvottiyur police-transfer report, full quoted **21-3-2002** Bala letter, M.K. Balan/Jayakumar/Jothi Krishnan comparisons, Madras High Court/Justice C.P. Selvam passage and closing Valluvar Kural argument.
 
-The fifty-three English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during the final drafting batch.
+All fifty-five English records are **source-checked drafts**, not final `verified` bilingual records.
 
-### Exact next activity
+### Exact next activity — first bilingual-alignment batch
 
-Translate the remaining two source letters as the final main-drafting iteration:
+Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch:
 
-- **3590 — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF 391–396 — date 24-9-2011**
-- **3591 — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF 397–401 — date 27-9-2011**
+- 3537 — PDF 024–033
+- 3538 — PDF 034–041
+- 3539 — PDF 042–049
+- 3540 — PDF 050–056
+- 3541 — PDF 057–060
 
-Combined remaining source range: **PDF 391–401 / 11 canonical pages**.
+For every letter:
 
-For each letter, read the complete chapter boundary and every audited canonical page; translate every substantive item; reproduce the full Tamil appendix; source-check the draft; re-check the controlling scan before changing either layer if a possible Tamil discrepancy appears; and update controls/handover afterward.
+1. read the authoritative audited Tamil pages and the English bilingual record completely;
+2. compare English against Tamil paragraph by paragraph and claim by claim;
+3. check title, paragraph order, names, dates, figures, units, quotations, rhetorical questions, repetition and closing;
+4. correct any omission, addition, semantic drift or factual distortion in English;
+5. if alignment exposes a possible Tamil defect, stop and re-check the controlling scan before changing either layer;
+6. change passed records from `bilingual_alignment_status: pending` to `aligned` while retaining their source-checked drafting history;
+7. create a durable alignment report for 3537–3541 and update cumulative alignment counts and exact next batch.
 
-After both letters are source-checked, main English drafting is complete at **55 / 55**. Stop at that durable drafting-complete boundary and leave full bilingual alignment as the next distinct QA gate.
+Do **not** merge the later volume-level English editorial consistency review into bilingual alignment.
 
 ## 3. QA separation
 
@@ -106,13 +101,11 @@ Keep stages distinct:
 1. Tamil batch/iteration audit;
 2. full-volume Tamil structural audit;
 3. second full-volume direct visual/textual-fidelity verification;
-4. targeted scan correction if translation exposes a residual Tamil discrepancy;
-5. English drafting/source check;
-6. bilingual alignment;
+4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
+5. English drafting/source check — **COMPLETE**;
+6. bilingual alignment — **NEXT, first batch 3537–3541 / PDF 024–060**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
-
-For Volume 45, English drafting/source-check is complete through Letter **3589** only.
 
 ## 4. Git/concurrency discipline
 
@@ -120,8 +113,8 @@ For Volume 45, English drafting/source-check is complete through Letter **3589**
 - Never force-push routine work.
 - Recheck live `main` immediately before mutation.
 - Preserve unrelated concurrent changes.
-- Keep declared batch scope explicit.
-- Prefer atomic commits for normal batches where technically possible.
+- Keep declared batch/gate scope explicit.
+- Prefer atomic commits where technically possible.
 - Do not rewrite earlier incremental connector history.
 - Remove temporary artifacts from repository trees.
 - Verify live `main` after completed work.

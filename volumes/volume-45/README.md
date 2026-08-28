@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English translation in progress through source-checked Letter 3589.
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment pending.
 
 ## Controlling source
 
@@ -24,15 +24,16 @@ Direct scan verification resolved Letter 3576 to `உலகப் புகழ�
 
 - Pilot **3537–3539 / PDF 024–049** — **PASS / STYLE LOCKED**
 - Ten normal drafting batches through **3585–3589 / PDF 358–390** — **PASS / source-checked**
-- Draft-translated: **53 / 55 — 3537–3589**
-- Source-checked: **53 / 55 — 3537–3589**
-- Cumulative translated canonical source: **PDF 024–390**
+- Final drafting batch **3590–3591 / PDF 391–401** — **PASS / source-checked**
+- Draft-translated: **55 / 55 — 3537–3591**
+- Source-checked: **55 / 55 — 3537–3591**
+- Cumulative translated canonical source: **PDF 024–401**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during **3585–3589**: **0**
+- Tamil canonical changes during **3590–3591**: **0**
 
-The 3585–3589 source check preserves the complete Rule 110/sports-policy argument; the scan-proven Letter 3586 title and Rajiv Gandhi/Eelam/death-sentence material; Letter 3587's Thirumazhisai history and source-internal 2006 date variation; Letter 3588's Samacheer, textbook and teacher figures; and Letter 3589's complete welfare-scheme and institutional-reversal catalogue.
+The final drafting batch preserves Letter 3590's full local-body election and nomination/classification dispute, State Election Commission material, false-case/re-arrest and mobilisation arguments; and Letter 3591's K.P.P. Samy narrative, full quoted 2002 Bala letter, missing-person comparisons, Madras High Court/Justice C.P. Selvam passage and closing Valluvar Kural argument.
 
 English controls:
 
@@ -42,12 +43,10 @@ English controls:
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md)
-- [`translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`](translations/en/DRAFT_SOURCE_CHECK_3585_3589.md)
+- [`translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`](translations/en/DRAFT_SOURCE_CHECK_3590_3591.md)
 
 ## Exact next activity
 
-Translate the two remaining source letters **3590–3591 / PDF 391–401** as the final main-drafting iteration. Use the locked style, translate only from audited canonical Tamil, reproduce the full Tamil source in each bilingual file, source-check both complete drafts, and re-check the controlling scan before changing either layer if a possible Tamil discrepancy appears.
-
-After both letters are source-checked, main translation drafting will be complete at 55/55. Keep the subsequent full bilingual-alignment gate as a separate stage.
+Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch. Compare each English record directly against authoritative audited Tamil, correct omission/addition/semantic drift, mark passed records `bilingual-aligned`, create a durable alignment report, and keep the later volume-level English editorial consistency review separate.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.

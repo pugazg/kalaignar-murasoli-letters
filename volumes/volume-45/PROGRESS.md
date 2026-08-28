@@ -14,43 +14,39 @@
 
 Detailed Tamil correction history remains in [`AUDIT.md`](AUDIT.md), [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md), and [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
 
-## English translation — active
+## English translation — main drafting complete
 
 Completed:
 
 - [x] Pilot **3537–3539 / PDF 024–049** translated and source-checked — **STYLE LOCKED**
 - [x] Ten normal five-letter batches through **3585–3589 / PDF 358–390** translated and source-checked
-- [x] Complete audited Tamil embedded in all fifty-three bilingual records
-- [x] Draft source-check report recorded for **3585–3589 / PDF 358–390**
-- [x] No fresh Tamil canonical correction required during **3585–3589**
+- [x] Final two-letter batch **3590–3591 / PDF 391–401** translated and source-checked
+- [x] Complete audited Tamil embedded in all fifty-five bilingual records
+- [x] Draft source-check report recorded for **3590–3591 / PDF 391–401**
+- [x] No fresh Tamil canonical correction required during **3590–3591**
 
 ### English counts
 
 - Total source letters: **55**
-- Draft-translated: **53 / 55 — 3537–3589**
-- Source-checked: **53 / 55 — 3537–3589**
+- Draft-translated: **55 / 55 — 3537–3591**
+- Source-checked: **55 / 55 — 3537–3591**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
-- Cumulative translated canonical source coverage: PDF **024–390**
+- Cumulative translated canonical source coverage: PDF **024–401**
 
 ### Current English QA boundary
 
-Latest source-check: [`translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`](translations/en/DRAFT_SOURCE_CHECK_3585_3589.md)
+Latest source-check: [`translations/en/DRAFT_SOURCE_CHECK_3590_3591.md`](translations/en/DRAFT_SOURCE_CHECK_3590_3591.md)
 
-Source-specific material preserved in the tenth normal batch includes Letter 3585's complete Rule 110 / sports-policy and facilities inventory; Letter 3586's scan-proven `கழக அரசு...` title, Rajiv Gandhi / *Nenjukku Neethi* material and death-sentence appeal; Letter 3587's complete Thirumazhisai history, figures and internal 2006 date variation; Letter 3588's Samacheer / textbook / teacher-recruitment figures; and Letter 3589's welfare-scheme, Omandurar, Classical-Tamil, transport, housing, Council, university and Tamil New Year arguments.
+The final drafting batch preserves Letter 3590's complete local-body election timetable, nomination/constituency-classification dispute, State Election Commission material, *Dina Thanthi* passage, false-case/re-arrest argument and mobilisation close; and Letter 3591's K.P.P. Samy arrest narrative, complete quoted 2002 Bala passage, missing-person comparisons, Madras High Court/Justice C.P. Selvam passage and Valluvar closing.
 
 ## Current stage
 
-**English main drafting — complete through Letter 3589.**
+**English main drafting — COMPLETE at 55 / 55 source-checked.**
 
-The fifty-three completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
+All completed files are `source-checked`, not final bilingual-alignment `verified` records.
 
 ## Exact next activity
 
-Translate the final two source letters as one final main-drafting iteration:
-
-- **3590 — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF 391–396 — 24-9-2011**
-- **3591 — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF 397–401 — 27-9-2011**
-
-Combined remaining drafting range: **PDF 391–401 / 11 canonical pages**. Source-check both complete drafts and keep the later full bilingual-alignment gate separate.
+Begin bilingual alignment with **Letters 3537–3541 / PDF 024–060** as the first five-complete-letter alignment batch. Compare each English record directly against authoritative audited Tamil, correct omission/addition/semantic drift, mark passed records `bilingual-aligned`, create a durable alignment report, and keep the later volume-level English editorial consistency review separate.

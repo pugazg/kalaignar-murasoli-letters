@@ -54,9 +54,7 @@ Working terminology is maintained in [`translations/en/GLOSSARY.md`](translation
 
 - **3537–3539 / PDF 024–049** — **3 / 3 source-checked; PASS — STYLE LOCKED**.
 
-### Phase 2 — Main translation — IN PROGRESS
-
-Normal cadence: **five complete consecutive source letters per drafting iteration**. The final iteration contains the two remaining source letters.
+### Phase 2 — Main translation drafting — COMPLETE
 
 Completed drafting iterations:
 
@@ -70,16 +68,15 @@ Completed drafting iterations:
 - **3575–3579 / PDF 275–319** — PASS; Tamil changes 0
 - **3580–3584 / PDF 320–357** — PASS; Tamil changes 0
 - **3585–3589 / PDF 358–390** — PASS; Tamil changes 0
+- **3590–3591 / PDF 391–401** — PASS; Tamil changes 0
 
-Current cumulative drafting state: **3537–3589 / 53 of 55 source-checked**, audited canonical PDF **024–390**.
+Main drafting state: **3537–3591 / 55 of 55 source-checked**, audited canonical PDF **024–401**.
 
-**Exact next drafting batch: Letters 3590–3591 / PDF 391–401.**
+### Phase 3 — Bilingual alignment QA — NEXT
 
-Each batch receives source-completeness, paragraph/heading, names/dates/figures/units, quotations/rhetorical questions, title/closing, source-anomaly, glossary and progress/handover checks.
+Compare every English record directly against its authoritative audited Tamil, letter by letter and page by page. Correct any omission, addition, semantic drift, figure/date/name error, quotation loss, paragraph-order change or rhetorical-force distortion before marking a letter bilingual-aligned.
 
-### Phase 3 — Bilingual alignment QA
-
-After draft translation is complete, compare each English record directly against authoritative audited Tamil. Correct omission, addition or semantic drift before marking a letter verified.
+Alignment is a distinct QA gate. Do not treat `source-checked` as final verification.
 
 ### Phase 4 — English editorial consistency review
 
@@ -93,7 +90,12 @@ Prepare the complete English index, translation manifest, editorial review and f
 
 - `draft-translated` — complete English draft exists;
 - `source-checked` — English has been checked for coverage against all audited canonical Tamil pages for that letter;
+- `bilingual-aligned` — direct Tamil↔English meaning/alignment QA complete;
 - `reviewed` — English meaning, tone and readability passed editorial review;
-- `verified` — final bilingual alignment complete.
+- `verified` — final release verification complete.
 
-Letters **3537–3589** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters **3537–3591** are currently **source-checked** drafts. None is yet final bilingual-alignment/release `verified`.
+
+## Exact next activity
+
+Begin the full bilingual-alignment QA gate across all **55 letters**. Keep the later volume-level English editorial consistency review separate.
