@@ -72,6 +72,7 @@ volumes/volume-45/
     GLOSSARY.md
     PILOT_REVIEW_3537_3539.md
     DRAFT_SOURCE_CHECK_3540_3544.md
+    DRAFT_SOURCE_CHECK_3545_3549.md
     letters/
       3537-....md
       ...
@@ -92,10 +93,11 @@ Post-pilot drafting cadence: **five complete consecutive source letters per norm
 Completed normal drafting iterations:
 
 - **3540–3544 / PDF 050–088** — **5 / 5 source-checked; PASS**. See [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md).
+- **3545–3549 / PDF 089–122** — **5 / 5 source-checked; PASS**. See [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md).
 
-Current cumulative drafting state: **3537–3544 / 8 of 55 source-checked**.
+Current cumulative drafting state: **3537–3549 / 13 of 55 source-checked**, audited canonical PDF **024–122**.
 
-**Exact next drafting batch: Letters 3545–3549 / PDF 089–122.**
+**Exact next drafting batch: Letters 3550–3554 / PDF 123–154.**
 
 Each drafting batch receives:
 
@@ -126,4 +128,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability have passed editorial review;
 - `verified` — final bilingual alignment is complete.
 
-Letters 3537–3544 are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters 3537–3549 are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.

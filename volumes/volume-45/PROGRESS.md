@@ -22,33 +22,35 @@ Completed:
 - [x] Pilot **3537–3539 / PDF 024–049** translated and source-checked
 - [x] Pilot review PASS; style **LOCKED**
 - [x] First normal drafting batch **3540–3544 / PDF 050–088** translated and source-checked
-- [x] Complete audited Tamil embedded in all eight bilingual records
-- [x] Draft source-check report for 3540–3544 recorded
-- [x] No Tamil canonical correction required during the 3540–3544 English batch
+- [x] Second normal drafting batch **3545–3549 / PDF 089–122** translated and source-checked
+- [x] Complete audited Tamil embedded in all thirteen bilingual records
+- [x] Draft source-check reports for 3540–3544 and 3545–3549 recorded
+- [x] No Tamil canonical correction required during either normal English drafting batch
 
 ### English counts
 
 - Total source letters: **55**
-- Draft-translated: **8 / 55 — 3537–3544**
-- Source-checked: **8 / 55 — 3537–3544**
+- Draft-translated: **13 / 55 — 3537–3549**
+- Source-checked: **13 / 55 — 3537–3549**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
-- Cumulative translated canonical source coverage: PDF **024–088**
+- Cumulative translated canonical source coverage: PDF **024–122**
 
 ### Current English QA boundary
 
 Pilot review: [`translations/en/PILOT_REVIEW_3537_3539.md`](translations/en/PILOT_REVIEW_3537_3539.md)  
-First normal drafting-batch source check: [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
+First normal drafting-batch source check: [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)  
+Second normal drafting-batch source check: [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md)
 
-Source-specific readings preserved in the first normal batch include PDF 051 `எனைநடி ஊடிகேநசநடேந`, PDF 055 `32.06 மாணவர்கள்`, PDF 056 `நாஸிங் தெரபி`, Letter 3543 `தாம்புரி`, and Letter 3544 `94 இலட்சம் மக்கள்` / `ஒப்பங்கள்`.
+Source-specific material preserved in the second normal batch includes PDF 089's unfinished scanning phrase, PDF 098 `112.2006-ல்`, the scan-printed Letter 3546 title dash and manifesto wordplay, Letter 3547 water/employment figures, Letter 3548's historical Welfare Board name and unusual PDF 114 amount, and Letter 3549's complete metaphor/verse sequence.
 
 ## Current stage
 
-**English main drafting — complete through Letter 3544.**
+**English main drafting — complete through Letter 3549.**
 
-The eight completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
+The thirteen completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
 
 ## Exact next activity
 
-Translate **Letters 3545–3549** as the next five-complete-letter drafting iteration. Use the locked pilot conventions, translate only from audited canonical Tamil, preserve complete source coverage and the full Tamil appendix in every bilingual file, source-check each draft, update glossary/progress/handover controls, and do not collapse drafting into the later bilingual-alignment gate.
+Translate **Letters 3550–3554 / PDF 123–154** as the next five-complete-letter drafting iteration. Use the locked pilot conventions, translate only from audited canonical Tamil, preserve complete source coverage and the full Tamil appendix in every bilingual file, source-check each draft, update glossary/progress/handover controls, and do not collapse drafting into the later bilingual-alignment gate.

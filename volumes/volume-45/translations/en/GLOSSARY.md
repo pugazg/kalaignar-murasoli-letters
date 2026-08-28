@@ -16,9 +16,14 @@ This glossary carries forward the approved Volume 49 / Volume 47 translation tre
 | பேராசிரியர் | **Perasiriyar** when used as the established personal honorific | carried forward | Do not flatten the established personal honorific merely to “Professor”. |
 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை | **Rural Development and Panchayat Raj Department** | Volume 45 locked | Department treatment used in letters 3537–3538. |
 | மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறை | **Health and Family Welfare Department** | Volume 45 locked | Department treatment used from letter 3539. |
-| நகராட்சி நிர்வாகத் துறை | **Municipal Administration Department** | Volume 45 locked | Department treatment introduced in letters 3543–3544. |
+| நகராட்சி நிர்வாகத் துறை | **Municipal Administration Department** | Volume 45 locked | Department treatment used from letters 3543–3547. |
+| சமூக நலம் மற்றும் சத்துணவுத் திட்டத்துறை | **Social Welfare and Nutritious Meal Programme Department** | Volume 45 locked | Department treatment introduced in letter 3548. |
 | பேரூராட்சி | **Town Panchayat** | Volume 45 locked | Administrative local-body category; capitalised when referring to the formal category/body. |
 | ஆரம்ப சுகாதார நிலையம் | **Primary Health Centre (PHC)** | Volume 45 locked | Full form on first use; PHC may follow. |
+| சென்னைப் பெருநகர் குடிநீர் வழங்கல் மற்றும் கழிவுநீரகற்று வாரியம் | **Chennai Metropolitan Water Supply and Sewerage Board** | Volume 45 locked | Institutional treatment used in letters 3545 and 3547. |
+| தமிழ்நாடு குடிநீர் வடிகால் வாரியம் | **Tamil Nadu Water Supply and Drainage Board** | Volume 45 locked | Institutional treatment used in letters 3545 and 3547. |
+| கூட்டுக் குடிநீர்த் திட்டம் | **combined water-supply scheme** | Volume 45 locked | Recurring municipal/TWAD project term in letters 3545 and 3547. |
+| அரவாணிகள் / திருநங்கைகள் | **transgender people / transgender women**; proper board name **Tamil Nadu Aravanis Welfare Board** retained | Volume 45 source-specific | The historical source itself uses both forms; explanatory English is respectful while the printed Board name remains source-faithful. |
 | மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டம் | **Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)** | Volume 45 locked | Full form on first use; scheme thereafter where clear. |
 | சமத்துவபுரம் | **Samathuvapuram** | Volume 45 locked | Scheme/community name retained in transliteration; source purpose is explained in context. |
 | நமக்கு நாமே திட்டம் | **Namakku Naame Scheme** | Volume 45 locked | Proper scheme name retained. |
@@ -40,7 +45,7 @@ This glossary carries forward the approved Volume 49 / Volume 47 translation tre
 | ஒருங்கிணைந்த ஆற்றுப்படுத்துதல் மற்றும் பரிசோதனை மையம் (ICTC) | **Integrated Counselling and Testing Centre (ICTC)** | Volume 45 locked | HIV-service institutional term introduced in letter 3542. |
 | கூட்டு மருத்துவ சிகிச்சை மையம் (ART) | **antiretroviral-therapy (ART) centre** | Volume 45 locked | Source acronym retained; readable English treatment used in letter 3542. |
 | குண்டர் சட்டம் | **Goondas Act** | carried forward | Established Tamil Nadu legal/political usage retained. |
-| ஜவஹர்லால் நேரு தேசிய நகர்ப்புற புனரமைப்புத் திட்டம் | **Jawaharlal Nehru National Urban Renewal Scheme** | Volume 45 locked | Source-derived rendering used in letters 3543–3544; no outside programme title is substituted. |
+| ஜவஹர்லால் நேரு தேசிய நகர்ப்புற புனரமைப்புத் திட்டம் | **Jawaharlal Nehru National Urban Renewal Scheme** | Volume 45 locked | Source-derived rendering used in letters 3543–3545; no outside programme title is substituted. |
 | சிறிய மற்றும் நடுத்தர நகரங்களுக்கான நகர்ப்புற உட்கட்டமைப்பு மேம்பாட்டுத் திட்டம் | **Urban Infrastructure Development Scheme for Small and Medium Towns** | Volume 45 locked | Descriptive rendering following the source wording. |
 | பாதாள சாக்கடைத் திட்டம் | **underground sewerage scheme** | Volume 45 locked | Used consistently for municipal/town-panchayat sewerage projects. |
 | சுவர்ண ஜெயந்தி சகாரி ரோஜ்கார் யோஜனா | **Swarna Jayanti Sahari Rozgar Yojana** | Volume 45 source-specific | Conservative transliteration of the audited source form; do not replace it from outside programme documentation. |

@@ -15,7 +15,7 @@ Translation is made from the already scan-verified canonical Tamil. The controll
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. The first normal five-letter drafting batch **3540–3544** is also complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Two normal five-letter drafting batches, **3540–3544** and **3545–3549**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -27,12 +27,21 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3542](letters/3542-health-and-family-welfare-five-year-achievements-3.md) | Five-Year Achievements of the Health and Family Welfare Department (3) | 16 March 2011 | 061–068 | source-checked |
 | [3543](letters/3543-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 17 March 2011 | 069–079 | source-checked |
 | [3544](letters/3544-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 18 March 2011 | 080–088 | source-checked |
+| [3545](letters/3545-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 19 March 2011 | 089–098 | source-checked |
+| [3546](letters/3546-armour-and-shields-i-will-never-separate-them.md) | I Will Never Separate the Armour and Shields! | 19 March 2011 | 099–103 | source-checked |
+| [3547](letters/3547-municipal-administration-department-five-year-achievements.md) | Five-Year Achievements of the Municipal Administration Department! | 20 March 2011 | 104–110 | source-checked |
+| [3548](letters/3548-social-welfare-and-nutritious-meal-programme-department-five-year-achievements.md) | Five-Year Achievements of the Social Welfare and Nutritious Meal Programme Department! | 21 March 2011 | 111–118 | source-checked |
+| [3549](letters/3549-come-come-o-ranks-of-striped-tigers-come.md) | Come! Come! O Ranks of Striped Tigers, Come! | 22 March 2011 | 119–122 | source-checked |
 
-Current coverage: **8 / 55 letters source-checked**, audited canonical PDF **024–088**.
+Current coverage: **13 / 55 letters source-checked**, audited canonical PDF **024–122**.
 
-Batch 3540–3544 source-check record: [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md).
+Batch records:
 
-See also [`PILOT_REVIEW_3537_3539.md`](PILOT_REVIEW_3537_3539.md), [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
+- [`PILOT_REVIEW_3537_3539.md`](PILOT_REVIEW_3537_3539.md) — pilot / style lock
+- [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md) — first normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md) — second normal drafting batch
+
+See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
 
 ## Standard bilingual layout
 
@@ -50,8 +59,8 @@ Every letter contains:
 
 ## QA boundary
 
-The eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The thirteen completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3545–3549** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, update the glossary only where genuinely needed, and keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3550–3554 / PDF 123–154** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, update the glossary only where genuinely needed, and keep bilingual alignment separate.
