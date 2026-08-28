@@ -13,9 +13,10 @@
 - [x] Fourth normal drafting batch **3555–3559** translated and source-checked
 - [x] Fifth normal drafting batch **3560–3564** translated and source-checked
 - [x] Sixth normal drafting batch **3565–3569** translated and source-checked
+- [x] Seventh normal drafting batch **3570–3574** translated and source-checked
 - [x] Translation-discovered PDF 187 Tamil omission directly rechecked against scan and repaired
 - [ ] Main translation drafting
-  - [ ] **3570–3574** — exact next five-letter batch
+  - [ ] **3575–3579** — exact next five-letter batch
 - [ ] Full bilingual alignment review
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
@@ -24,8 +25,8 @@
 
 - Total source letters: **55**
 - Letter range: **3537–3591**
-- Draft-translated: **33 / 55** — 3537–3569
-- Source-checked: **33 / 55** — 3537–3569
+- Draft-translated: **38 / 55** — 3537–3574
+- Source-checked: **38 / 55** — 3537–3574
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
@@ -106,24 +107,35 @@
 - Result: **PASS — 5 / 5 source-checked**
 - Tamil canonical changes during batch: **0**
 
-See [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md). Cumulative translated canonical source coverage is PDF **024–248**.
+### Seventh normal drafting batch
+
+- 3570 — PDF **249–255**
+- 3571 — PDF **256–260**
+- 3572 — PDF **261–265**
+- 3573 — PDF **266–268**
+- 3574 — PDF **269–274**
+- Batch combined: PDF **249–274**, 26 pages
+- Result: **PASS — 5 / 5 source-checked**
+- Tamil canonical changes during batch: **0**
+
+See [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md). Cumulative translated canonical source coverage is PDF **024–274**.
 
 ## Tamil correction accounting
 
-The completed second full-volume direct-scan fidelity audit remains historically recorded as **243 corrected canonical page files / 623 correction spans**. Letter 3560 source-check exposed one residual omission on PDF 187; direct scan comparison restored the omitted physical-page tail. PDF 187 was already among the 243 corrected pages, so the unique corrected-page count remains **243**, while the combined scan-proven correction-span total remains **624**. The 3565–3569 batch required no new Tamil correction.
+The completed second full-volume direct-scan fidelity audit remains historically recorded as **243 corrected canonical page files / 623 correction spans**. Letter 3560 source-check exposed one residual omission on PDF 187; direct scan comparison restored the omitted physical-page tail. PDF 187 was already among the 243 corrected pages, so the unique corrected-page count remains **243**, while the combined scan-proven correction-span total remains **624**. The 3565–3569 and 3570–3574 batches required no new Tamil correction.
 
-## Source-specific points preserved in 3565–3569
+## Source-specific points preserved in 3570–3574
 
-- Letters 3565 and 3567 retain the complete printed press-question sequences; Letter 3567's repeated 10-6-2011 material is not deduplicated.
-- Letter 3567 explicitly preserves PDF 233's malformed `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்` rather than silently repairing it.
-- Letter 3566 retains the complete Sri Lankan-Tamil chronology, June 1990 participant list, Tamilselvan condolence poem and Chandrahassan quotation.
-- Letter 3568 retains the complete Katchatheevu chronology, year-by-year missing-fisher figures and PDF 241's source-printed English sentence followed by the source's Tamil rendering.
-- Letter 3569 retains every source power-project/industry/shortage figure, the two different Udangudi estimates, source-derived `Grothling`, and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` without Tamil normalization.
+- Letter 3570 retains all Omandurar Assembly–Secretariat dimensions, costs, institutional spaces, the earlier Kotturpuram/Queen Mary's College arguments, seven Cabinet meetings, visitor/praise sequence, flyover/Tamil Nadu House comparisons and closing administrative argument.
+- Letter 3571 retains the inquiry-commission/TANSI narrative, every property/valuation/registration figure, the source's `12.462 சதுர மீட்டர்`, the Kalki quotation, the Velusamy–Krishnamoorthy account and the PDF 259–260 split return date.
+- Letter 3572 retains D. Pandian's attributed interviews, the ₹4,200 crore tax debate, all debt figures/ratios, Samacheer Kalvi discussion and the `100 Karunanidhis` ironic reversal.
+- Letter 3573 retains the Manohara dramatic frame, `பழைய கள், புதிய மொந்தை`, repression/Mahakali/Bhadrakali imagery and the Periyar–Anna mobilisation close.
+- Letter 3574 retains the full Samacheer Kalvi committee/litigation chronology, all textbook counts/costs, the PDF 273 printed English judgment sentence followed separately by the source's Tamil rendering, and the 29-7-2011 student-boycott appeal.
 
 ## QA status
 
-The thirty-three completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
+The thirty-eight completed English records are **source-checked drafts**, not final `verified` records. The separate bilingual-alignment gate has not begun.
 
 ## Exact next activity
 
-Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-letter Volume 45 English drafting batch. Use the locked conventions, reproduce complete audited Tamil in every bilingual record, source-check each English draft against the complete canonical Tamil source range, and trigger direct scan re-verification if any possible Tamil discrepancy appears.
+Translate **Letters 3575–3579 / PDF 275–319** as the next normal five-letter Volume 45 English drafting batch. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` start title, reproduce complete audited Tamil in every bilingual record, source-check each English draft, and trigger direct scan re-verification if any possible Tamil discrepancy appears.

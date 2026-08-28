@@ -37,7 +37,7 @@ While drafting Letter 3560, canonical PDF 187 ended in the middle of the Wall St
 
 PDF 187 was already among the 243 pages corrected during the historical second pass, so the unique page count stays 243; the additional scan-proven correction raises the combined span total to 624. See `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`. Do not retroactively fold this event into the historical `623` second-pass tally.
 
-### English translation — durable through 3569
+### English translation — durable through 3574
 
 Reference workflow:
 
@@ -52,6 +52,7 @@ Locked English conventions:
 - no summarising of substantive source material;
 - preserve political directness, irony, questions, repetition, quotations, names, dates and figures;
 - `lakh` / `crore` retained;
+- `சமச்சீர் கல்வி` → **Samacheer Kalvi (uniform school education)** on first contextual identification, thereafter **Samacheer Kalvi**;
 - no external historical correction of source facts or anomalies;
 - complete audited Tamil reproduced under `Original Tamil — மூலத் தமிழ்` in every bilingual record;
 - minimal explanatory notes only where needed.
@@ -69,6 +70,7 @@ Locked English conventions:
 - **3555–3559 / PDF 155–180** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 - **3560–3564 / PDF 181–217** — **5 / 5 source-checked; PASS** — Tamil changes **1 page / 1 scan-proven span (PDF 187)**
 - **3565–3569 / PDF 218–248** — **5 / 5 source-checked; PASS** — Tamil changes **0**
+- **3570–3574 / PDF 249–274** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 
 Source-check reports:
 
@@ -78,39 +80,47 @@ Source-check reports:
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`
 
 Current cumulative English state:
 
-- Draft-translated: **33 / 55 — 3537–3569**
-- Source-checked: **33 / 55 — 3537–3569**
+- Draft-translated: **38 / 55 — 3537–3574**
+- Source-checked: **38 / 55 — 3537–3574**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Cumulative translated canonical source: **PDF 024–248**
+- Cumulative translated canonical source: **PDF 024–274**
 
-Source-specific material deliberately preserved during 3565–3569 includes:
+Source-specific material deliberately preserved during 3570–3574 includes:
 
-- Letter 3565: all 22 printed questions selected from the stated 31, the argument about Congress–DMK rupture, journalist welfare, Dinamani/Dinamalar article claims, `கொழுக் கட்டை` advertising image and Manu Dharma / Press Dharma irony;
-- Letter 3566: the full 1956–2009 Sri Lankan-Tamil chronology, June 1990 participant list, Tamilselvan condolence poem and Chandrahassan quotation;
-- Letter 3567: deliberate repetition of the 10-6-2011 press material and directly scan-verified PDF 233 anomaly `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, exposed in English rather than silently repaired;
-- Letter 3568: complete Katchatheevu chronology, missing-fisher figures, rights clauses, and PDF 241's printed English sentence retained verbatim before separately translating the source's Tamil rendering;
-- Letter 3569: all project/capacity/cost/commissioning/industry/shortage figures, source-derived `Grothling`, the differing Udangudi estimates **₹8,362 crore / ₹8,700 crore**, and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` preserved in Tamil without silent normalization.
+- Letter 3570: Omandurar Ramasamy Reddiar memorial framing; the full Assembly–Secretariat / Block A office inventory; **86,450 square metres**, dome/building dimensions; Public Plaza; all construction-cost figures; prior Kotturpuram / Queen Mary's College proposals; Namakkal Kavignar Maligai crack/leak argument; seven Cabinet meetings; Tripura Governor, Dhoni/Raina/Ashwin and other visitors; Pavendhar library removal; flyover and Delhi Tamil Nadu House comparisons;
+- Letter 3571: inquiry-commission criticism and complete TANSI/Jaya Publications source narrative; source figure `12.462 சதுர மீட்டர்` retained rather than silently corrected; all valuation/registration amounts; Kalki quotation; Velusamy–S.K. Krishnamoorthy narrative; physical PDF259→260 split `26-` / `10-99ந்தேதி` preserved in Tamil while English joins the readable date as `26-10-99`;
+- Letter 3572: D. Pandian/Janasakthi/Thuglak sequence; **₹4,200 crore** tax argument; all debt figures and **22.29% → 19.58%** comparison; Samacheer Kalvi interview; `100 Karunanidhis` / one Jayalalithaa line and `தகர டப்பா` irony;
+- Letter 3573: Manohara/Vasanthasena/Purushothaman/Padmavathi frame; `பழைய கள், புதிய மொந்தை`; prison/exile, whip, isolation, Mahakali/Bhadrakali and blood-sacrifice imagery retained as the source's political rhetoric; Periyar/Anna mobilisation close;
+- Letter 3574: complete Samacheer Kalvi 2006–2011 committee/legislation/litigation chronology; 61 lakh / 84 lakh textbooks and ₹200 crore figure; named judges; PDF273 printed English High Court sentence reproduced verbatim and the source's separate Tamil rendering represented separately; August 2 direction and **29-7-2011** student-boycott appeal.
 
-The thirty-three completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
+The thirty-eight completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
 
 ### Exact next activity
 
-Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-complete-letter drafting iteration.
+Translate **Letters 3575–3579 / PDF 275–319** as the next normal five-complete-letter drafting iteration.
 
 Verified next source boundaries:
 
-- 3570 — `நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!` — PDF **249–255**, date **19-6-2011**
-- 3571 — `ஒன்று போதுமே; உதாரணம்!` — PDF **256–260**, date **30-6-2011**
-- 3572 — `“100” கருணாநிதிகளால் முடியாதுதான்!` — PDF **261–265**, date **19-7-2011**
-- 3573 — `அல்லல் நீங்கும்; தொல்லை குறையும்!` — PDF **266–268**, date **21-7-2011**
-- 3574 — `அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!` — PDF **269–274**, date **28-7-2011**
+- 3575 — `அந்த நாள் முதல் இந்த நாள் வரையில்....!` — PDF **275–283**, date **30-7-2011**
+- 3576 — `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!` — PDF **284–289**, date **31-7-2011**
+- 3577 — `மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே!` — PDF **290–305**, date **3-8-2011**
+- 3578 — `உனக்கொரு நீதி; ஊருக்கொரு நீதியா?` — PDF **306–312**, date **5-8-2011**
+- 3579 — `வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?` — PDF **313–319**, date **6-8-2011**
 
-Combined next source range: **PDF 249–274 / 26 canonical pages**.
+Combined next source range: **PDF 275–319 / 45 canonical pages**.
+
+Special controls for the next batch:
+
+- Letter 3575 contents title uses `...!` while the actual letter-start title uses `....!`; preserve each source context exactly.
+- Letter 3576 actual start title is scan-proven `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; do not revive the withdrawn `பார்!` reading.
+- PDF 290 has the preserved source date `18-5-2001`; do not silently normalize it if encountered in Letter 3577.
+- if any new discontinuity or suspect Tamil reading appears, re-check the controlling scan before changing either layer.
 
 For each letter:
 
@@ -147,6 +157,7 @@ Do **not** mark drafting records final `verified`; bilingual alignment remains a
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`
 
 ## 4. Completed reference volumes
 
@@ -171,7 +182,7 @@ Keep stages distinct:
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 
-For Volume 45, English drafting/source-check is complete through Letter **3569** only.
+For Volume 45, English drafting/source-check is complete through Letter **3574** only.
 
 ## 6. Git/concurrency discipline
 
@@ -192,4 +203,4 @@ Inspect live durable state, identify the next already-defined batch/gate, execut
 
 ## 8. Clean interruption rule
 
-The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3569 / 33 of 55 source-checked**, with exact next drafting batch **3570–3574 / PDF 249–274**.
+The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3574 / 38 of 55 source-checked**, with exact next drafting batch **3575–3579 / PDF 275–319**.

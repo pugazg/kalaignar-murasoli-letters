@@ -18,7 +18,7 @@ Translation is made from the scan-verified canonical Tamil. The controlling scan
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Six normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564** and **3565–3569**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Seven normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569** and **3570–3574**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -55,8 +55,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3567](letters/3567-some-newspapers-long-for-dividing-lines-to-appear.md) | Some Newspapers Yearn: Won't Dividing Lines Appear? | 14 June 2011 | 231–235 | source-checked |
 | [3568](letters/3568-is-everything-the-victor-says-scripture.md) | Is Everything the Victor Says Scripture? | 15 June 2011 | 236–241 | source-checked |
 | [3569](letters/3569-will-there-be-a-power-shortage-in-the-future.md) | Will There Be a Power Shortage in the Future? | 18 June 2011 | 242–248 | source-checked |
+| [3570](letters/3570-this-letter-is-but-a-drop-of-hope.md) | This Letter Is but a Drop of Hope! | 19 June 2011 | 249–255 | source-checked |
+| [3571](letters/3571-one-example-is-enough.md) | One Example Is Enough! | 30 June 2011 | 256–260 | source-checked |
+| [3572](letters/3572-even-100-karunanidhis-could-not-do-it.md) | “Even 100 Karunanidhis Could Not Do It!” | 19 July 2011 | 261–265 | source-checked |
+| [3573](letters/3573-suffering-will-end-trouble-will-lessen.md) | Suffering Will End; Trouble Will Lessen! | 21 July 2011 | 266–268 | source-checked |
+| [3574](letters/3574-the-path-of-peace-the-righteous-path-that-is-annas-path.md) | The Path of Peace—the Righteous Path—That Is Anna's Path! | 28 July 2011 | 269–274 | source-checked |
 
-Current coverage: **33 / 55 letters source-checked**, audited canonical PDF **024–248**.
+Current coverage: **38 / 55 letters source-checked**, audited canonical PDF **024–274**.
 
 Batch records:
 
@@ -67,6 +72,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md) — fourth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3560_3564.md`](DRAFT_SOURCE_CHECK_3560_3564.md) — fifth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3565_3569.md`](DRAFT_SOURCE_CHECK_3565_3569.md) — sixth normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md) — seventh normal drafting batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -79,8 +85,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The thirty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The thirty-eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3570–3574 / PDF 249–274** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, and if translation reveals a possible Tamil discontinuity, re-check the controlling scan before changing either layer. Keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3575–3579 / PDF 275–319** as one drafting iteration. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` title, use the locked style, source-check each complete draft, and keep bilingual alignment separate.

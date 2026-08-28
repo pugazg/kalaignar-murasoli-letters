@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 English Translation Batch 3570–3574
+# Next Chat Prompt — Volume 45 English Translation Batch 3575–3579
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -43,7 +43,8 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`
    - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`
-5. Inspect completed bilingual records 3537–3569, especially the immediately preceding 3565–3569 batch, before drafting the next batch.
+   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`
+5. Inspect completed bilingual records 3537–3574, especially the immediately preceding 3570–3574 batch, before drafting the next batch.
 6. Confirm the live durable boundary before doing work.
 
 ## CURRENT DURABLE VOLUME 45 STATE
@@ -62,16 +63,16 @@ Tamil archival layer:
 English layer:
 
 - Pilot: **3537–3539 / PDF 024–049 — PASS / STYLE LOCKED**
-- Normal drafting batches through **3565–3569 / PDF 218–248 — PASS / source-checked**
-- Draft-translated: **33 / 55 — 3537–3569**
-- Source-checked: **33 / 55 — 3537–3569**
-- Cumulative translated source: **PDF 024–248**
+- Normal drafting batches through **3570–3574 / PDF 249–274 — PASS / source-checked**
+- Draft-translated: **38 / 55 — 3537–3574**
+- Source-checked: **38 / 55 — 3537–3574**
+- Cumulative translated source: **PDF 024–274**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during 3565–3569: **0**
-- Exact next letter: **3570**
-- Exact next drafting batch: **3570–3574**
+- Tamil canonical changes during 3570–3574: **0**
+- Exact next letter: **3575**
+- Exact next drafting batch: **3575–3579**
 
 ## TRANSLATION-DISCOVERED TAMIL CORRECTION TO REMEMBER
 
@@ -86,25 +87,31 @@ Operational rule: if English drafting exposes a broken Tamil transition or suspe
 
 ## IMMEDIATELY PRECEDING BATCH — SOURCE-SPECIFIC POINTS
 
-The completed 3565–3569 batch deliberately preserves:
+The completed 3570–3574 batch deliberately preserves:
 
-- Letter 3565's complete selected 1–22 press-question sequence from the stated 31, Congress–DMK rupture argument, Dinamani/Dinamalar claims, `கொழுக் கட்டை` advertising image and Manu Dharma / Press Dharma irony;
-- Letter 3566's complete 1956–2009 Sri Lankan-Tamil chronology, June 1990 participant list, Tamilselvan condolence poem and Chandrahassan quotation;
-- Letter 3567's deliberate repetition of the 10-6-2011 material and PDF 233 malformed `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, which is exposed in English rather than silently normalised;
-- Letter 3568's complete Katchatheevu chronology, missing-fisher figures and PDF 241 printed English sentence followed separately by the source's Tamil rendering;
-- Letter 3569's full electricity-project/industry/shortage figures, the two different Udangudi estimates **₹8,362 crore / ₹8,700 crore**, source-derived `Grothling`, and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`.
+- Letter 3570's Omandurar Ramasamy Reddiar framing, complete Assembly–Secretariat / Block A description, all building dimensions and costs, earlier Kotturpuram / Queen Mary's College Secretariat proposals, Namakkal Kavignar Maligai argument, visitor/praise sequence, flyover/Tamil Nadu House comparisons and closing administrative argument;
+- Letter 3571's inquiry-commission/TANSI source narrative, all land/building/valuation/registration figures, source `12.462 சதுர மீட்டர்`, Kalki quotation, Velusamy–Krishnamoorthy narrative, and the PDF 259→260 split return date retained physically in Tamil;
+- Letter 3572's D. Pandian/Janasakthi/Thuglak material, ₹4,200 crore tax discussion, all debt figures/ratios, Samacheer Kalvi interview and `100 Karunanidhis` / `தகர டப்பா` irony;
+- Letter 3573's Manohara/Vasanthasena/Purushothaman dramatic frame, `பழைய கள், புதிய மொந்தை`, and the source's intense Mahakali/Bhadrakali political imagery;
+- Letter 3574's full Samacheer Kalvi committee/law/litigation chronology, textbook counts and costs, PDF 273 source-printed English High Court sentence followed separately by the source's Tamil rendering, and the 29-7-2011 student-boycott appeal.
 
-Do not retroactively normalise any of these source conditions.
+Do not retroactively normalize any of these source conditions.
 
 ## NEXT BATCH SOURCE BOUNDARIES
 
-- **3570 — நம்பிக்கையின் ஒரு துளிதான் இந்தக் கடிதம்!** — PDF **249–255**, date **19-6-2011**
-- **3571 — ஒன்று போதுமே; உதாரணம்!** — PDF **256–260**, date **30-6-2011**
-- **3572 — “100” கருணாநிதிகளால் முடியாதுதான்!** — PDF **261–265**, date **19-7-2011**
-- **3573 — அல்லல் நீங்கும்; தொல்லை குறையும்!** — PDF **266–268**, date **21-7-2011**
-- **3574 — அமைதி வழி - அறவழி - அதுவே அண்ணா வழி!** — PDF **269–274**, date **28-7-2011**
+- **3575 — அந்த நாள் முதல் இந்த நாள் வரையில்....!** — PDF **275–283**, date **30-7-2011**
+- **3576 — உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!** — PDF **284–289**, date **31-7-2011**
+- **3577 — மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே!** — PDF **290–305**, date **3-8-2011**
+- **3578 — உனக்கொரு நீதி; ஊருக்கொரு நீதியா?** — PDF **306–312**, date **5-8-2011**
+- **3579 — வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?** — PDF **313–319**, date **6-8-2011**
 
-Combined next-batch source range: **PDF 249–274 / 26 canonical pages**.
+Combined next-batch source range: **PDF 275–319 / 45 canonical pages**.
+
+### Mandatory source-context controls for this batch
+
+- **Letter 3575:** contents title is `அந்த நாள் முதல் இந்த நாள் வரையில்...!`, while the actual letter-start title is `அந்த நாள் முதல் இந்த நாள் வரையில்....!`. This is a genuine source-context punctuation difference. Preserve each form in its own context; do not force them to match.
+- **Letter 3576:** direct scan verification establishes the actual start title `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The earlier `பார்!` control-layer reading is withdrawn and must not reappear.
+- **Letter 3577 / PDF 290:** source anomaly `18-5-2001` is already documented as scan-preserved; do not silently change it from outside chronology.
 
 ## SOURCE / TRANSLATION AUTHORITY
 
@@ -125,6 +132,7 @@ Use the Volume 45 plan exactly:
 - retain `Udanpirappē`;
 - close with `With affection, M.K.` where the source closes that way;
 - retain `lakh` and `crore`;
+- retain **Samacheer Kalvi** as the established scheme name when it recurs;
 - use the locked standard translator’s note;
 - use glossary treatments where the same source terms recur;
 - add minimal explanatory notes only where genuinely necessary;
@@ -135,7 +143,7 @@ Completed drafting files are `source-checked`, not final bilingual-alignment `ve
 
 ## EXACT NEXT ACTIVITY
 
-Complete **Letters 3570–3574 in one five-complete-letter drafting iteration**.
+Complete **Letters 3575–3579 in one five-complete-letter drafting iteration**.
 
 For each letter:
 
@@ -155,6 +163,6 @@ For each letter:
 
 ## IMPORTANT
 
-Do not re-run completed pilot or 3540–3569 work unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
+Do not re-run completed pilot or 3540–3574 work unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
 
 When I say **“Proceed with next activity”**, execute the next already-defined batch directly without asking me to choose a routine next step.

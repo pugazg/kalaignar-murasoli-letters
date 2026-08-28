@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English translation in progress through source-checked Letter 3569
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English translation in progress through source-checked Letter 3574
 
 ## Controlling source
 
@@ -36,17 +36,18 @@ English translation began only after the 402-page Tamil fidelity checkpoint was 
 - Fourth normal drafting batch: **3555–3559 / PDF 155–180** — **PASS / 5 of 5 source-checked**
 - Fifth normal drafting batch: **3560–3564 / PDF 181–217** — **PASS / 5 of 5 source-checked**
 - Sixth normal drafting batch: **3565–3569 / PDF 218–248** — **PASS / 5 of 5 source-checked**
-- Total draft-translated: **33 / 55 — 3537–3569**
-- Total source-checked: **33 / 55 — 3537–3569**
-- Cumulative translated canonical source coverage: **PDF 024–248**
+- Seventh normal drafting batch: **3570–3574 / PDF 249–274** — **PASS / 5 of 5 source-checked**
+- Total draft-translated: **38 / 55 — 3537–3574**
+- Total source-checked: **38 / 55 — 3537–3574**
+- Cumulative translated canonical source coverage: **PDF 024–274**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during the 3565–3569 drafting batch: **0**
+- Tamil canonical changes during the 3570–3574 drafting batch: **0**
 
 Every completed bilingual record contains source metadata, the locked translator’s note, complete English translation, necessary source-specific notes, and the complete audited Tamil under `Original Tamil — மூலத் தமிழ்`.
 
-The 3565–3569 source check preserves source-specific material without outside normalisation: Letters 3565 and 3567 retain the complete press-question sequence and source repetition; Letter 3567 exposes PDF 233's malformed `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`; Letter 3566 retains the full Sri Lankan-Tamil chronology and Tamilselvan poem; Letter 3568 preserves the Katchatheevu chronology and the printed English sentence on PDF 241; and Letter 3569 retains all power-project figures, the two different Udangudi estimates and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`.
+The 3570–3574 source check preserves source-specific material without outside normalisation: Letter 3570's Omandurar Assembly–Secretariat dimensions, costs and administrative argument; Letter 3571's inquiry/TANSI narrative, source `12.462 சதுர மீட்டர்` and split return date; Letter 3572's D. Pandian tax/debt/Samacheer sequence and `100 Karunanidhis` irony; Letter 3573's Manohara and Mahakali/Bhadrakali rhetoric; and Letter 3574's complete Samacheer Kalvi committee/litigation chronology, printed English judgment sentence and student-boycott appeal.
 
 English controls:
 
@@ -63,9 +64,10 @@ English controls:
 - [`translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`](translations/en/DRAFT_SOURCE_CHECK_3555_3559.md)
 - [`translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`](translations/en/DRAFT_SOURCE_CHECK_3560_3564.md)
 - [`translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`](translations/en/DRAFT_SOURCE_CHECK_3565_3569.md)
+- [`translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`](translations/en/DRAFT_SOURCE_CHECK_3570_3574.md)
 
 ## Exact next activity
 
-Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-complete-letter English drafting iteration. Use the locked style, translate only from audited canonical Tamil, source-check every letter for complete coverage, preserve full Tamil in every bilingual record, update the glossary only for genuinely new recurring terms, and keep final bilingual alignment as a later distinct QA gate. If translation exposes another possible Tamil discrepancy, re-check the controlling scan before changing either layer.
+Translate **Letters 3575–3579 / PDF 275–319** as the next normal five-complete-letter English drafting iteration. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` start title; use the locked style, translate only from audited canonical Tamil, source-check every letter for complete coverage, preserve full Tamil in every bilingual record, and keep final bilingual alignment as a later distinct QA gate. If translation exposes another possible Tamil discrepancy, re-check the controlling scan before changing either layer.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.

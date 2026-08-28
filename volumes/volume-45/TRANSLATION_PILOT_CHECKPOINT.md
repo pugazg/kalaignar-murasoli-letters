@@ -14,7 +14,7 @@ The pilot was translated only from the scan-audited canonical Tamil. No Tamil ca
 
 Each record contains source metadata, the locked translator’s note, complete English translation, necessary letter-specific notes, and the complete audited Tamil under **Original Tamil — மூலத் தமிழ்**.
 
-The pilot handed off to the normal five-letter drafting cadence. Six normal batches have now been completed and source-checked:
+The pilot handed off to the normal five-letter drafting cadence. Seven normal batches have now been completed and source-checked:
 
 - **3540–3544 / PDF 050–088** — [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
 - **3545–3549 / PDF 089–122** — [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/en/DRAFT_SOURCE_CHECK_3545_3549.md)
@@ -22,13 +22,14 @@ The pilot handed off to the normal five-letter drafting cadence. Six normal batc
 - **3555–3559 / PDF 155–180** — [`translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`](translations/en/DRAFT_SOURCE_CHECK_3555_3559.md)
 - **3560–3564 / PDF 181–217** — [`translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`](translations/en/DRAFT_SOURCE_CHECK_3560_3564.md)
 - **3565–3569 / PDF 218–248** — [`translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`](translations/en/DRAFT_SOURCE_CHECK_3565_3569.md)
+- **3570–3574 / PDF 249–274** — [`translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`](translations/en/DRAFT_SOURCE_CHECK_3570_3574.md)
 
-The fifth batch exposed one residual Tamil omission on PDF 187. It was directly rechecked against the controlling scan and repaired before source-check closure; the event is documented in [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md). The sixth batch exposed no new Tamil canonical discrepancy requiring correction.
+The fifth batch exposed one residual Tamil omission on PDF 187. It was directly rechecked against the controlling scan and repaired before source-check closure; the event is documented in [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md). The sixth and seventh batches exposed no new Tamil canonical discrepancy requiring correction.
 
-Current cumulative English drafting boundary: **3537–3569 / 33 of 55 source-checked**, PDF **024–248**.
+Current cumulative English drafting boundary: **3537–3574 / 38 of 55 source-checked**, PDF **024–274**.
 
 The separate bilingual-alignment/release gate has **not** begun. Completed records remain `source-checked`, not final `verified` records.
 
 ## Current exact next activity
 
-Translate **Letters 3570–3574 / PDF 249–274** as the next normal five-letter English drafting batch using the locked pilot style. If translation exposes a possible Tamil discrepancy, re-check the controlling scan before changing either layer.
+Translate **Letters 3575–3579 / PDF 275–319** as the next normal five-letter English drafting batch using the locked pilot style. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` start title. If translation exposes a possible Tamil discrepancy, re-check the controlling scan before changing either layer.

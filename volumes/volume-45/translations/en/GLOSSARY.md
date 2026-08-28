@@ -55,6 +55,7 @@ This glossary carries forward the approved Volume 49 / Volume 47 translation tre
 | கலைஞர் வீடு வழங்கும் திட்டம் | **Kalaignar Housing Scheme** | Volume 45 locked | Housing-scheme treatment introduced in letter 3551. |
 | செம்மொழித் தமிழாய்வு மத்திய நிறுவனம் | **Central Institute of Classical Tamil** | Volume 45 locked | Institutional treatment used in letter 3551. |
 | அண்ணா நூற்றாண்டு நினைவு நூலகம் | **Anna Centenary Memorial Library** | Volume 45 locked | Named public institution in letter 3551. |
+| சமச்சீர் கல்வி | **Samacheer Kalvi (uniform school education)** | Volume 45 locked | Proper Tamil scheme name retained; concise English identification on first contextual use. Introduced as a recurring term in Letters 3572 and 3574. |
 
 ## Style rule
 

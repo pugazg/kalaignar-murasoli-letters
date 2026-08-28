@@ -29,20 +29,21 @@ Completed:
 - [x] Fourth normal drafting batch **3555–3559 / PDF 155–180** translated and source-checked
 - [x] Fifth normal drafting batch **3560–3564 / PDF 181–217** translated and source-checked
 - [x] Sixth normal drafting batch **3565–3569 / PDF 218–248** translated and source-checked
-- [x] Complete audited Tamil embedded in all thirty-three bilingual records
-- [x] Draft source-check reports recorded for all six normal drafting batches
+- [x] Seventh normal drafting batch **3570–3574 / PDF 249–274** translated and source-checked
+- [x] Complete audited Tamil embedded in all thirty-eight bilingual records
+- [x] Draft source-check reports recorded for all seven normal drafting batches
 - [x] Translation-discovered PDF 187 Tamil omission rechecked against scan and repaired before Letter 3560 source-check closure
-- [x] No fresh Tamil canonical correction required during 3565–3569
+- [x] No fresh Tamil canonical correction required during 3570–3574
 
 ### English counts
 
 - Total source letters: **55**
-- Draft-translated: **33 / 55 — 3537–3569**
-- Source-checked: **33 / 55 — 3537–3569**
+- Draft-translated: **38 / 55 — 3537–3574**
+- Source-checked: **38 / 55 — 3537–3574**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
-- Cumulative translated canonical source coverage: PDF **024–248**
+- Cumulative translated canonical source coverage: PDF **024–274**
 
 ### Current English QA boundary
 
@@ -52,16 +53,17 @@ Second batch: [`translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`](translations/e
 Third batch: [`translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`](translations/en/DRAFT_SOURCE_CHECK_3550_3554.md)  
 Fourth batch: [`translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`](translations/en/DRAFT_SOURCE_CHECK_3555_3559.md)  
 Fifth batch: [`translations/en/DRAFT_SOURCE_CHECK_3560_3564.md`](translations/en/DRAFT_SOURCE_CHECK_3560_3564.md)  
-Sixth batch: [`translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`](translations/en/DRAFT_SOURCE_CHECK_3565_3569.md)
+Sixth batch: [`translations/en/DRAFT_SOURCE_CHECK_3565_3569.md`](translations/en/DRAFT_SOURCE_CHECK_3565_3569.md)  
+Seventh batch: [`translations/en/DRAFT_SOURCE_CHECK_3570_3574.md`](translations/en/DRAFT_SOURCE_CHECK_3570_3574.md)
 
-Source-specific material preserved in the sixth normal batch includes the full 1–22 press-question sequences and deliberate Letter 3565/3567 repetition; PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`; Letter 3566's complete Sri Lankan-Tamil chronology, participant list and Tamilselvan poem; Letter 3568's Katchatheevu chronology and printed English quotation; and Letter 3569's complete power-project/industry/shortage figures, differing Udangudi estimates and PDF 248 `என்னருந் தமிழ் மக்களுக்குக்` anomaly.
+Source-specific material preserved in the seventh normal batch includes Letter 3570's Omandurar Assembly–Secretariat dimensions/costs and administrative argument; Letter 3571's inquiry/TANSI narrative, source `12.462 சதுர மீட்டர்` and PDF-boundary-split return date; Letter 3572's D. Pandian tax/debt/Samacheer sequence and `100 Karunanidhis` irony; Letter 3573's Manohara and Mahakali/Bhadrakali political imagery; and Letter 3574's complete Samacheer Kalvi committee/litigation chronology, source-printed English judgment sentence and student-boycott appeal.
 
 ## Current stage
 
-**English main drafting — complete through Letter 3569.**
+**English main drafting — complete through Letter 3574.**
 
-The thirty-three completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
+The thirty-eight completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
 
 ## Exact next activity
 
-Translate **Letters 3570–3574 / PDF 249–274** as the next five-complete-letter drafting iteration. Use the locked pilot conventions, translate only from audited canonical Tamil, preserve complete source coverage and the full Tamil appendix in every bilingual file, source-check each draft, and if a source discontinuity or discrepancy appears, re-check the controlling scan before changing Tamil or English. Do not collapse drafting into the later bilingual-alignment gate.
+Translate **Letters 3575–3579 / PDF 275–319** as the next five-complete-letter drafting iteration. Preserve Letter 3575's genuine contents/start punctuation difference and Letter 3576's scan-proven `பாரீர்!` start title. Use the locked pilot conventions, translate only from audited canonical Tamil, preserve complete source coverage and the full Tamil appendix in every bilingual file, source-check each draft, and if a source discontinuity or discrepancy appears, re-check the controlling scan before changing Tamil or English. Do not collapse drafting into the later bilingual-alignment gate.

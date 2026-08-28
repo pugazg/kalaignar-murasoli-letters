@@ -54,7 +54,7 @@ The Tamil section is never a summary or selected extract.
 
 ## Recurrent terms
 
-The working terminology is maintained in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md). Core locked forms include `Udanpirappē`, `With affection, M.K.`, DMK / AIADMK, and `lakh` / `crore`. A glossary entry never overrides wording or an anomaly visible in the audited source.
+The working terminology is maintained in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md). Core locked forms include `Udanpirappē`, `With affection, M.K.`, DMK / AIADMK, `lakh` / `crore`, and `Samacheer Kalvi` where the uniform-school-education scheme recurs. A glossary entry never overrides wording or an anomaly visible in the audited source.
 
 ## File structure
 
@@ -73,6 +73,7 @@ volumes/volume-45/
     DRAFT_SOURCE_CHECK_3555_3559.md
     DRAFT_SOURCE_CHECK_3560_3564.md
     DRAFT_SOURCE_CHECK_3565_3569.md
+    DRAFT_SOURCE_CHECK_3570_3574.md
     letters/
       3537-....md
       ...
@@ -96,10 +97,11 @@ Completed normal drafting iterations:
 - **3555–3559 / PDF 155–180** — **5 / 5 source-checked; PASS**.
 - **3560–3564 / PDF 181–217** — **5 / 5 source-checked; PASS**; one scan-proven Tamil correction on PDF 187.
 - **3565–3569 / PDF 218–248** — **5 / 5 source-checked; PASS**; no Tamil canonical change.
+- **3570–3574 / PDF 249–274** — **5 / 5 source-checked; PASS**; no Tamil canonical change.
 
-Current cumulative drafting state: **3537–3569 / 33 of 55 source-checked**, audited canonical PDF **024–248**.
+Current cumulative drafting state: **3537–3574 / 38 of 55 source-checked**, audited canonical PDF **024–274**.
 
-**Exact next drafting batch: Letters 3570–3574 / PDF 249–274.**
+**Exact next drafting batch: Letters 3575–3579 / PDF 275–319.**
 
 Each drafting batch receives source-completeness/canonical-page coverage, paragraph/heading coverage, names/dates/figures/units, quotation/rhetorical-question, title/closing, source-anomaly, glossary and progress/handover checks.
 
@@ -122,4 +124,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability have passed editorial review;
 - `verified` — final bilingual alignment is complete.
 
-Letters **3537–3569** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters **3537–3574** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.

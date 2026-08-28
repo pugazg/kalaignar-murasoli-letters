@@ -38,10 +38,10 @@ translation:
   status: in-progress
   plan: TRANSLATION_PLAN.md
   total_letters: 55
-  translated_letters: 33
-  source_checked_letters: 33
-  translated_letter_range: 3537-3569
-  translated_pdf_range: 024-248
+  translated_letters: 38
+  source_checked_letters: 38
+  translated_letter_range: 3537-3574
+  translated_pdf_range: 024-274
   bilingual_aligned_letters: 0
   editorially_reviewed_letters: 0
   verified_letters: 0
@@ -50,13 +50,13 @@ translation:
   pilot_status: pass
   style_lock: locked
   tamil_changes_during_pilot: 0
-  completed_drafting_batches: 6
-  last_drafting_batch: 3565-3569
-  last_drafting_batch_pdf_range: 218-248
+  completed_drafting_batches: 7
+  last_drafting_batch: 3570-3574
+  last_drafting_batch_pdf_range: 249-274
   last_drafting_batch_status: source-checked
   tamil_changes_during_last_drafting_batch: 0
   tamil_change_pages_during_last_drafting_batch: 0
   tamil_change_spans_during_last_drafting_batch: 0
-  next_letter: 3570
-  next_batch: 3570-3574
+  next_letter: 3575
+  next_batch: 3575-3579
   normal_drafting_batch_letters: 5
