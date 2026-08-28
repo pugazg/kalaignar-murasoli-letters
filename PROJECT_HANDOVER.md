@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-27
+**Handover date:** 2026-08-28
 
 This document is the current project-level handover for continuing the multi-volume Kalaignar Murasoli Letters archive in a new chat/window or with another worker.
 
@@ -12,7 +12,7 @@ It should be read together with:
 2. [`VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
 3. [`TRANSCRIPTION_GUIDE.md`](TRANSCRIPTION_GUIDE.md)
 4. [`FUTURE_VOLUME_WORK_GUIDELINES.md`](FUTURE_VOLUME_WORK_GUIDELINES.md)
-5. [`START_NEXT_MURASOLI_VOLUME_PROMPT.md`](START_NEXT_MURASOLI_VOLUME_PROMPT.md)
+5. [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md)
 
 If these documents conflict, the mandatory repository processing/batching/transcription guides take precedence.
 
@@ -45,24 +45,52 @@ Volume 45 is the current active workstream.
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume visual/textual-fidelity verification: **IN PROGRESS — PDF 001–385 verified**
 - Second-pass corrections so far: **227 canonical page files / 605 correction spans**
-- User-approved routine second-pass iteration size: **25 consecutive PDF pages**; only the final **PDF 386–402** end-of-volume iteration remains
-- English translation: **blocked** until the second visual/textual-fidelity gate passes
+- User-approved routine second-pass iteration size: **25 consecutive PDF pages**; only final **PDF 386–402** remains
+- English translation: **BLOCKED** until the second visual/textual-fidelity gate passes
 
-The complete Tamil transcription sequence is durable, and the structural audit has passed. The current work is the independent second direct scan comparison of every canonical page.
+### Latest durable checkpoint
 
-The latest completed 25-page iteration is **PDF 361–385 / printed pages 360–384**. PDF 361–364, 366–376 and 385 passed unchanged. Scan-proven corrections were made on PDF 365 and 377–384. This iteration contains **9 corrected page files / 13 correction spans**.
+Live `main` at handover creation is:
 
-Important corrections include restoration of `சந்தித்தபோது` on PDF 365; systematic removal of spurious zero-width OCR characters from PDF 377–384; restoration of `அதன் மூலமாக`, `கல்வியிலேயே` and `தன்மையோடு` on PDF 377; and source spacing `பாரா முகத்தால்` on PDF 382. The zero-width-character cleanup removes OCR contamination only and does not normalize or modernize source language.
+`c429c45dd96297e2bc6a21d002b91723e4c70f04`
 
-Direct scan verification at PDF 284 resolved the earlier Letter 3576 contents/start-title discrepancy in favor of `பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` versus letter-start `அந்த நாள் முதல் இந்த நாள் வரையில்....!`.
+Commit message:
 
-Confirmed source anomalies and non-edition material remain handled conservatively: PDF 088's malformed `ஒப்பங்கள்` and `மணலை ஜலித்து` are preserved as printed; PDF 098's unusual `112.2006-ல்` is preserved; PDF 116's scan-printed March 2010 dates are preserved without outside normalization; PDF 127's `தனிச்சையாக` is preserved as printed; PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001` remain source-faithful; and later library stamp/handwriting on PDF 102 remains excluded from edition text. Earlier documented source anomalies and the repaired PDF 071–072 physical-page boundary remain unchanged.
+`Verify Volume 45 second fidelity PDF 361-385`
 
-The live second-pass log is:
+Treat live GitHub state as authoritative if `main` has advanced after this handover was written.
 
-- [`volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
+The latest completed iteration is **PDF 361–385 / printed pages 360–384**. PDF 361–364, 366–376 and 385 passed unchanged. Scan-proven corrections were made on PDF 365 and 377–384: **9 corrected page files / 13 correction spans**.
 
-**Exact next activity:** resume at **PDF 386 / printed page 385** and verify the final **PDF 386–402** end-of-volume iteration. Continue sequential direct scan comparison, record PASS/corrections, preserve source anomalies and page boundaries, and do **not** start English translation until all **402** pages have passed this gate.
+Important corrections include restoration of `சந்தித்தபோது` on PDF 365; removal of spurious zero-width OCR contamination from PDF 377–384; restoration of `அதன் மூலமாக`, `கல்வியிலேயே` and `தன்மையோடு` on PDF 377; and source spacing `பாரா முகத்தால்` on PDF 382. Zero-width cleanup removes transcription/OCR contamination only and must not be treated as normalization of source language.
+
+Confirmed source anomalies and non-edition material remain handled conservatively. Examples already documented in the repository include PDF 088 `ஒப்பங்கள்` / `மணலை ஜலித்து`, PDF 098 `112.2006-ல்`, scan-printed March 2010 dates on PDF 116, PDF 127 `தனிச்சையாக`, PDF 170 `பொக்கம்`, PDF 176 `10ந்தேதியன்று`, PDF 177 `முஜா கி தீன்`, PDF 217 `011ஆம் ஆண்டு`, PDF 233 `பொத்தம் 31 கேள்விகளில் 22 1 கேள்விகள்`, PDF 248 `என்னருந் தமிழ் மக்களுக்குக்`, PDF 259 `16-10-1999ந்தேதி`, and PDF 290 `18-5-2001`. Later library stamp/handwriting on PDF 102 remains excluded from edition text. Do not normalize these from outside knowledge.
+
+Direct scan verification at PDF 284 resolved the Letter 3576 contents/start-title question in favor of `பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `அந்த நாள் முதல் இந்த நாள் வரையில்...!` versus letter-start `அந்த நாள் முதல் இந்த நாள் வரையில்....!`.
+
+### Exact next activity
+
+Resume at **PDF 386 / printed page 385** and complete the final **PDF 386–402** end-of-volume second-pass iteration in one go.
+
+For each page:
+
+1. visually compare the canonical Markdown against the controlling scan;
+2. treat the rendered scan as textual authority;
+3. use OCR/text extraction only for navigation or candidate detection, never to decide a reading;
+4. preserve spelling, punctuation, spacing, figures, English text, source anomalies and physical page boundaries exactly as printed;
+5. exclude later stamps/handwriting/show-through;
+6. record PASS or scan-proven corrections;
+7. update corrected canonical page files only where the scan proves a discrepancy.
+
+After PDF 402:
+
+- reconcile corrected-page and correction-span counts;
+- update `PROGRESS.md`, `metadata.yml`, Volume 45 `README.md`, `AUDIT.md`, `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `FULL_VOLUME_STRUCTURAL_AUDIT.md`, root `README.md`, this handover, and `NEXT_CHAT_PROMPT.md` as appropriate;
+- make the final batch atomic where technically possible;
+- verify the resulting live `main` commit/tree before claiming completion;
+- only after all **402 / 402** pages pass may the second Tamil visual/textual-fidelity gate be marked **PASS**.
+
+**Do not begin English translation merely because PDF 386–402 has been inspected. First make the 402-page gate durable in GitHub and verify it.** After that, use the repository’s translation plan/reference conventions to determine the next translation activity.
 
 Authoritative continuation files:
 
@@ -75,7 +103,7 @@ Authoritative continuation files:
 - [`volumes/volume-45/contents/index.md`](volumes/volume-45/contents/index.md)
 - [`volumes/volume-45/chapters/README.md`](volumes/volume-45/chapters/README.md)
 
-Do not restart Volume 45 transcription from an earlier boundary.
+Do not restart Volume 45 transcription or re-run already durable second-pass ranges without scan evidence requiring a correction.
 
 ---
 
@@ -99,88 +127,75 @@ Volumes 48 and 49 are completed English references. Volume 49 remains the princi
 
 ---
 
-## 4. Mandatory new-volume startup
+## 4. Mandatory startup / source rules
 
-For a new attached volume:
+Before changing repository state in a fresh chat:
 
-1. read all controlling root guides and this handover;
-2. inspect the repository for an existing target volume;
-3. verify the volume number from the scan, not the filename alone;
-4. record source filename, page count, hash/size where available, and printed publication data only when source-supported;
-5. inspect contents without assuming they are error-free;
-6. note blank/damaged/rotated/duplicated/missing pages;
-7. use OCR/text layers only as aids;
-8. do not commit the source PDF unless explicitly instructed;
-9. continue existing target-volume work rather than duplicating it.
+1. fetch live `main` and treat it as authoritative;
+2. read the controlling root guides completely;
+3. read this handover and `NEXT_CHAT_PROMPT.md` completely;
+4. read the active Volume 45 continuation/audit files listed above;
+5. inspect the attached controlling PDF/rendered pages directly;
+6. never infer an unseen source reading from OCR or outside knowledge.
 
----
-
-## 5. Tamil transcription rules
-
-- First new-volume transcription commit = **PDF 001–025 exactly**.
-- If PDF 25 interrupts a letter, the next commit starts at PDF 26 and completes that letter first.
-- Default subsequent iteration = **five complete consecutive actual source letters**.
-- Do not include part of a sixth letter.
-- A smaller end-of-volume batch is allowed under the documented exception.
-- One canonical Markdown file per PDF page.
-- Every accepted page/title/boundary/closing/date must ultimately be supported by the scan.
-- Update contents, chapter records/index, metadata, progress, audit and README with each completed iteration.
-- Chapter records link to canonical pages and do not duplicate the full Tamil body.
-
-**Volume 45 second-pass override:** the user explicitly approved **25 consecutive PDF pages per visual/textual-fidelity iteration**. This override applies to the current Volume 45 second pass only and does not replace the normal new-volume transcription batching policy. The final end-of-volume iteration is the remaining **17 pages, PDF 386–402**.
+The scan is the highest authority. Do not silently normalize spelling, punctuation, spacing, dates, figures, repetitions, anomalies, English text or physical page boundaries.
 
 ---
 
-## 6. Keep Tamil QA stages distinct
+## 5. Tamil transcription / QA rules
+
+For ordinary new-volume transcription, follow `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`. Volume 45 is no longer in initial transcription: canonical transcription and structural audit are complete.
+
+**Volume 45 second-pass override:** the user approved **25 consecutive PDF pages per visual/textual-fidelity iteration**. The only remaining second-pass scope is the documented end-of-volume exception: **17 pages, PDF 386–402**.
+
+Keep QA stages distinct:
 
 1. iteration/batch audit;
 2. full-volume Tamil structural audit;
-3. second visual verification;
-4. translation textual-fidelity audit.
+3. second full-volume direct visual/textual-fidelity verification;
+4. translation textual-fidelity/alignment audit.
 
-English translation remains blocked until the required Tamil gates pass. A later English concern does not justify changing canonical Tamil unless fresh direct scan comparison proves the Tamil transcription itself is wrong.
+English remains blocked until stage 3 is durably PASS.
 
 ---
 
-## 7. Source anomalies and gaps
+## 6. Source anomalies and gaps
 
-If printed text appears wrong or inconsistent, preserve and document it. Do not repair duplicate/skipped numbers, unusual dates, contents/title differences, malformed English, or inconsistent figures using outside knowledge.
+If printed text appears wrong or inconsistent, preserve and document it. Do not repair duplicate/skipped numbers, unusual dates, contents/title differences, malformed English or inconsistent figures using outside knowledge.
 
 If the controlling PDF genuinely omits material, mark the record source-incomplete, preserve surviving text only, do not reconstruct or guess missing continuation/closing/date/signature, and carry the gap consistently through archival and translation records.
 
 ---
 
-## 8. English translation/release handoff
+## 7. English translation/release handoff
 
-Translate from audited canonical Tamil in clear contemporary English while preserving thought order, political force, irony, rhetorical questions, repetition, quotations, names, dates, figures, units, source-supplied English, anomalies and source gaps. Retain the complete available audited Tamil under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
+Once the second Tamil gate is durably PASS, translate from audited canonical Tamil in clear contemporary English while preserving thought order, political force, irony, rhetorical questions, repetition, quotations, names, dates, figures, units, source-supplied English, anomalies and source gaps. Retain complete audited Tamil under `Original Tamil — மூலத் தமிழ்` in every bilingual record.
 
-Default future-volume translation flow: three-letter pilot → bilingual pilot review → lock volume conventions → five actual source records per translation batch → separate bilingual alignment gate → full-volume editorial consistency review → manifest → final release report.
-
-Volume 46 conventions remain the standing reference unless a target-volume translation plan documents a justified exception: retain `Udanpirappē`; standard `அன்புள்ள, மு.க.` → `With affection, M.K.`; preserve lakh/crore; preserve genuinely printed source English; represent both printed English and a separate Tamil rendering when both occur; translate long quotations from audited canonical Tamil.
+Use completed reference volumes and any Volume 45 translation plan already in the live repository. Do not invent a new translation convention when a documented repository convention exists.
 
 ---
 
-## 9. Git/concurrency discipline
+## 8. Git/concurrency discipline
 
 - Work on `main` as requested.
 - Never force-push routine work.
-- Recheck `main` before writes when concurrency is possible.
+- Recheck live `main` immediately before mutation.
 - Preserve unrelated concurrent changes.
 - Keep iteration scope explicit.
-- Prefer atomic commits for declared batches where technically possible.
-- Remove temporary OCR/render/export/workflow artefacts from the final tree.
-- Verify the resulting repository tree before claiming completion.
+- Prefer one atomic commit for the declared final batch where technically possible.
+- Remove temporary OCR/render/export/workflow artifacts from the final repository tree.
+- Compare/verify the resulting tree before moving `main` and fetch live `main` afterward.
 
 ---
 
-## 10. Meaning of “Proceed with next activity”
+## 9. Meaning of “Proceed with next activity”
 
-Inspect the current durable target-volume state, identify the next already-defined gate/batch, execute it directly, and report completed source/page scope, QA result, commit SHA where applicable, current counts/status and exact next activity. Do not ask the user to choose among routine next steps.
+Inspect current durable state, identify the next already-defined gate/batch, execute it directly, and report completed scope, QA result, commit SHA, current counts/status and exact next activity. Do not ask the user to choose among routine next steps.
 
 ---
 
-## 11. Clean interruption/handoff rule
+## 10. Clean interruption/handoff rule
 
-At any interruption, the repository itself must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next PDF page/letter. The chat must never be the sole place where critical archival state exists.
+The repository must contain the exact completed page/letter range, anomalies/gaps, audit state, translation state and next activity. The chat must never be the sole place where critical archival state exists.
 
-For Volume 45, transcription and the full-volume structural audit are complete. The second full-volume visual/textual-fidelity audit is verified through **PDF 385**. Resume at **PDF 386 / printed page 385** with the final **PDF 386–402** end-of-volume iteration unless a later committed repository update moves that boundary.
+At this handover boundary, the second Volume 45 visual/textual-fidelity audit is durable through **PDF 385 / 402**. The exact next source page is **PDF 386 / printed page 385**, and the exact remaining second-pass scope is **PDF 386–402**.
