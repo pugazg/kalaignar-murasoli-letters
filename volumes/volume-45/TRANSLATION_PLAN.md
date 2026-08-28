@@ -65,6 +65,7 @@ volumes/volume-45/
     DRAFT_SOURCE_CHECK_3540_3544.md
     DRAFT_SOURCE_CHECK_3545_3549.md
     DRAFT_SOURCE_CHECK_3550_3554.md
+    DRAFT_SOURCE_CHECK_3555_3559.md
     letters/
       3537-....md
       ...
@@ -85,10 +86,11 @@ Completed normal drafting iterations:
 - **3540–3544 / PDF 050–088** — **5 / 5 source-checked; PASS**.
 - **3545–3549 / PDF 089–122** — **5 / 5 source-checked; PASS**.
 - **3550–3554 / PDF 123–154** — **5 / 5 source-checked; PASS**.
+- **3555–3559 / PDF 155–180** — **5 / 5 source-checked; PASS**.
 
-Current cumulative drafting state: **3537–3554 / 18 of 55 source-checked**, audited canonical PDF **024–154**.
+Current cumulative drafting state: **3537–3559 / 23 of 55 source-checked**, audited canonical PDF **024–180**.
 
-**Exact next drafting batch: Letters 3555–3559 / PDF 155–180.**
+**Exact next drafting batch: Letters 3560–3564 / PDF 181–217.**
 
 Each drafting batch receives source-completeness/canonical-page coverage, paragraph/heading coverage, names/dates/figures/units, quotation/rhetorical-question, title/closing, glossary and progress/handover checks.
 
@@ -111,4 +113,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability have passed editorial review;
 - `verified` — final bilingual alignment is complete.
 
-Letters **3537–3554** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters **3537–3559** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.

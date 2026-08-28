@@ -29,7 +29,7 @@ For English work, the audited canonical Tamil is the immediate translation sourc
 
 The earlier Letter 3576 `பார்!` control-layer reading was withdrawn; direct scan verification establishes `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. The genuine Letter 3575 source-context difference remains: contents `...!` versus start `....!`. Confirmed printed anomalies documented in the Tamil audits must remain source-exact.
 
-### English translation — durable through 3554
+### English translation — durable through 3559
 
 Reference workflow:
 
@@ -58,43 +58,45 @@ Locked English conventions:
 - **3540–3544 / PDF 050–088** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 - **3545–3549 / PDF 089–122** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 - **3550–3554 / PDF 123–154** — **5 / 5 source-checked; PASS** — Tamil changes **0**
+- **3555–3559 / PDF 155–180** — **5 / 5 source-checked; PASS** — Tamil changes **0**
 
 Source-check reports:
 
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
 
 Current cumulative English state:
 
-- Draft-translated: **18 / 55 — 3537–3554**
-- Source-checked: **18 / 55 — 3537–3554**
+- Draft-translated: **23 / 55 — 3537–3559**
+- Source-checked: **23 / 55 — 3537–3559**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Cumulative translated canonical source: **PDF 024–154**
+- Cumulative translated canonical source: **PDF 024–180**
 
-Source-specific material deliberately preserved during 3550–3554 includes:
+Source-specific material deliberately preserved during 3555–3559 includes:
 
-- Letter 3550: the printed English Election Commission sentence verbatim, source form `தனிச்சையாக` in Tamil, and the final proverb attributed only as `தேவர் திருமகன்` without outside identification;
-- Letter 3551: every achievement-list figure, including source-internal count patterns; PDF 139's Semmozhi Park **20 acres / ₹8 crore** is preserved even though an earlier letter prints different figures; `TAHDCO`, `TESMA` and `ESMA` are not externally expanded;
-- Letter 3552: unusual source-title form `யாரா` retained as `Yārā`; `பணநாயகம்` / `ஜனநாயகம்` preserved as money-rule / democracy; source allegations remain attributed as source claims;
-- Letter 3553: full sea/wave/foam, silk, World Cup/cricket, Vallalar/Anna and proverb sequences retained without compression;
-- Letter 3554: `பத்துகல்` retained conservatively as `ten kal`, `தள்ளு வண்டி` as `thallu-vandi`, with no outside unit or vehicle reconstruction.
+- Letter 3555: the full earlier 3-3-2011 quotation, **42/17-day** campaign timing, April/May election-counting chronology, Caesar's-wife question and source date forms including `13ந்தேதியே` / `17ந்தேதியன்று`;
+- Letter 3556: caste/varna-ashrama opening, Periyar/Anna/Self-Respect framing, Communist-ideology passage, full Theekkathir quotation, `குடுமி பிடி சண்டை`, Brinda Karat response and E.M.S. Namboodiripad quotation;
+- Letter 3557: full 1956–2009 Sri Lankan-Tamil chronology, exact source title without added sandhi, `ஆகஸ்ட் 13ஆம் தேதியன்றே`, and scan-controlled manually transcribed PDF 166;
+- Letter 3558: source `பொக்கம்`, complete family/film-industry comparisons, tax/fee/concession figures, Paiyanur **96 acres**, and `இலட்சியம்` / `இலட்சங்கள்` wordplay;
+- Letter 3559: source-specific Osama bin Laden biographical claims, `10ந்தேதியன்று`, `முஜா கி தீன்`, `111 மாடிகள்`, terrorism classifications, and the explicit rejection of the `இஸ்லாமிய பயங்கரவாதம்` label before Anna's closing maxim.
 
-The eighteen completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
+The twenty-three completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
 
 ### Exact next activity
 
-Translate **Letters 3555–3559 / PDF 155–180** as the next normal five-complete-letter drafting iteration.
+Translate **Letters 3560–3564 / PDF 181–217** as the next normal five-complete-letter drafting iteration.
 
 Verified next source boundaries:
 
-- 3555 — `அன்றைக்கே எழுதியது; இன்றைக்கும் பொருந்துகிறதே!` — PDF **155–159**, date **17-4-2011**
-- 3556 — `பார்த்தும் மறந்தாரே “காரத்”!` — PDF **160–163**, date **21-4-2011**
-- 3557 — `பொது மன்னிப்பு கேட்க வேண்டியவர் யார்?` — PDF **164–169**, date **24-04-2011**
-- 3558 — `திரைப்படத்துறையும் - தி.மு.க.வும்!` — PDF **170–175**, date **30-04-2011**
-- 3559 — `கத்தியைத் தீட்டாதே; புத்தியைத் தீட்டு!` — PDF **176–180**, date **4-5-2011**
+- 3560 — `மேலோர் பாராட்டு; கீழோர் பழிக்கின்றாரே!` — PDF **181–188**, date **5-5-2011**
+- 3561 — `உனக்கும், எனக்கும் - உலகத் தமிழர்க்கும் பொன்னாள்!` — PDF **189–196**, date **7-5-2011**
+- 3562 — `“சில நேரங்களில் சில மனிதர்கள்!”` — PDF **197–200**, date **13-5-2011**
+- 3563 — `இறுதிப் போரில் நாம் வெல்வது திண்ணம்!` — PDF **201–208**, date **22-5-2011**
+- 3564 — `“ஈயத்தைப் பார்த்து இளித்ததாம் பித்தளை!”` — PDF **209–217**, date **3-6-2011**
 
 For each letter:
 
@@ -126,6 +128,7 @@ Do **not** mark drafting records final `verified`; bilingual alignment remains a
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3545_3549.md`
 - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3550_3554.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3555_3559.md`
 
 ## 4. Completed reference volumes
 
@@ -149,7 +152,7 @@ Keep stages distinct:
 6. volume-level English editorial consistency review;
 7. release manifest/report.
 
-For Volume 45, Tamil stages are complete. English drafting/source-check is complete through Letter **3554** only.
+For Volume 45, Tamil stages are complete. English drafting/source-check is complete through Letter **3559** only.
 
 ## 6. Git/concurrency discipline
 
@@ -170,4 +173,4 @@ Inspect live durable state, identify the next already-defined batch/gate, execut
 
 ## 8. Clean interruption rule
 
-The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3554 / 18 of 55 source-checked**, with exact next drafting batch **3555–3559 / PDF 155–180**.
+The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3559 / 23 of 55 source-checked**, with exact next drafting batch **3560–3564 / PDF 181–217**.

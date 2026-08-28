@@ -15,7 +15,7 @@ Translation is made from the already scan-verified canonical Tamil. The controll
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Three normal five-letter drafting batches, **3540–3544**, **3545–3549** and **3550–3554**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Four normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554** and **3555–3559**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -37,8 +37,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3552](letters/3552-yaaraa-stay-alert-money-rule-is-creeping-in.md) | Yārā—Stay Alert! Money-Rule Is Creeping In! | 30 March 2011 | 142–144 | source-checked |
 | [3553](letters/3553-if-one-looks-for-faults-there-will-be-no-circle-of-kin.md) | If One Looks for Faults, There Will Be No Circle of Kin! | 5 April 2011 | 145–149 | source-checked |
 | [3554](letters/3554-what-is-the-mark-worthy-of-respect.md) | What Is the Mark Worthy of Respect? | 13 April 2011 | 150–154 | source-checked |
+| [3555](letters/3555-written-that-very-day-it-still-applies-today.md) | Written That Very Day; It Still Applies Today! | 17 April 2011 | 155–159 | source-checked |
+| [3556](letters/3556-karat-saw-it-yet-he-forgot.md) | Karat Saw It, Yet He Forgot! | 21 April 2011 | 160–163 | source-checked |
+| [3557](letters/3557-who-should-seek-public-forgiveness.md) | Who Should Seek Public Forgiveness? | 24 April 2011 | 164–169 | source-checked |
+| [3558](letters/3558-the-film-industry-and-the-dmk.md) | The Film Industry and the DMK! | 30 April 2011 | 170–175 | source-checked |
+| [3559](letters/3559-do-not-sharpen-the-knife-sharpen-the-intellect.md) | Do Not Sharpen the Knife; Sharpen the Intellect! | 4 May 2011 | 176–180 | source-checked |
 
-Current coverage: **18 / 55 letters source-checked**, audited canonical PDF **024–154**.
+Current coverage: **23 / 55 letters source-checked**, audited canonical PDF **024–180**.
 
 Batch records:
 
@@ -46,6 +51,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3540_3544.md`](DRAFT_SOURCE_CHECK_3540_3544.md) — first normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3545_3549.md`](DRAFT_SOURCE_CHECK_3545_3549.md) — second normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3550_3554.md`](DRAFT_SOURCE_CHECK_3550_3554.md) — third normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3555_3559.md`](DRAFT_SOURCE_CHECK_3555_3559.md) — fourth normal drafting batch
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
 
@@ -57,8 +63,8 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The eighteen completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The twenty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3555–3559 / PDF 155–180** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, update the glossary only where genuinely needed, and keep bilingual alignment separate.
+Translate the next five complete consecutive source letters **3560–3564 / PDF 181–217** as one drafting iteration. Use the locked style, translate only from the audited canonical Tamil, source-check each complete draft, update the glossary only where genuinely needed, and keep bilingual alignment separate.
