@@ -19,33 +19,38 @@ Detailed Tamil correction history remains in [`AUDIT.md`](AUDIT.md), [`FULL_VOLU
 Completed:
 
 - [x] Pilot **3537–3539 / PDF 024–049** translated and source-checked — **STYLE LOCKED**
-- [x] Normal batches **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574**, **3575–3579**, **3580–3584** translated and source-checked
-- [x] Complete audited Tamil embedded in all forty-eight bilingual records
-- [x] Draft source-check report recorded for **3580–3584 / PDF 320–357**
-- [x] No fresh Tamil canonical correction required during **3580–3584**
+- [x] Ten normal five-letter batches through **3585–3589 / PDF 358–390** translated and source-checked
+- [x] Complete audited Tamil embedded in all fifty-three bilingual records
+- [x] Draft source-check report recorded for **3585–3589 / PDF 358–390**
+- [x] No fresh Tamil canonical correction required during **3585–3589**
 
 ### English counts
 
 - Total source letters: **55**
-- Draft-translated: **48 / 55 — 3537–3584**
-- Source-checked: **48 / 55 — 3537–3584**
+- Draft-translated: **53 / 55 — 3537–3589**
+- Source-checked: **53 / 55 — 3537–3589**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
-- Cumulative translated canonical source coverage: PDF **024–357**
+- Cumulative translated canonical source coverage: PDF **024–390**
 
 ### Current English QA boundary
 
-Latest source-check: [`translations/en/DRAFT_SOURCE_CHECK_3580_3584.md`](translations/en/DRAFT_SOURCE_CHECK_3580_3584.md)
+Latest source-check: [`translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`](translations/en/DRAFT_SOURCE_CHECK_3585_3589.md)
 
-Source-specific material preserved in the ninth normal batch includes Letter 3580's complete false-case/land-grab argument and source-printed ADGP George English statement; Letter 3581's full `செம்மொழி வாழ்த்து` and every textbook deletion/sticker example; Letter 3582's Thai/Chithirai Tamil New Year history and 2008 legislative material; Letter 3583's Article 161/death-sentence chronology, Colin Gonsalves passage, Thiagu and Kaliyaperumal accounts; and Letter 3584's democracy/Assembly, Omandurar, Samacheer, tax, agricultural-welfare and Tamil New Year repeal arguments.
+Source-specific material preserved in the tenth normal batch includes Letter 3585's complete Rule 110 / sports-policy and facilities inventory; Letter 3586's scan-proven `கழக அரசு...` title, Rajiv Gandhi / *Nenjukku Neethi* material and death-sentence appeal; Letter 3587's complete Thirumazhisai history, figures and internal 2006 date variation; Letter 3588's Samacheer / textbook / teacher-recruitment figures; and Letter 3589's welfare-scheme, Omandurar, Classical-Tamil, transport, housing, Council, university and Tamil New Year arguments.
 
 ## Current stage
 
-**English main drafting — complete through Letter 3584.**
+**English main drafting — complete through Letter 3589.**
 
-The forty-eight completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
+The fifty-three completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
 
 ## Exact next activity
 
-Translate **Letters 3585–3589 / PDF 358–390** as the next five-complete-letter drafting iteration. Use the locked pilot conventions, preserve complete source coverage and full Tamil appendices, source-check every draft, retain Letter 3586's scan-proven `கழக அரசு...` title, and if a source discontinuity or discrepancy appears, re-check the controlling scan before changing Tamil or English. Do not collapse drafting into the later bilingual-alignment gate.
+Translate the final two source letters as one final main-drafting iteration:
+
+- **3590 — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF 391–396 — 24-9-2011**
+- **3591 — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF 397–401 — 27-9-2011**
+
+Combined remaining drafting range: **PDF 391–401 / 11 canonical pages**. Source-check both complete drafts and keep the later full bilingual-alignment gate separate.

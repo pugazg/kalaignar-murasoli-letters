@@ -56,9 +56,9 @@ Working terminology is maintained in [`translations/en/GLOSSARY.md`](translation
 
 ### Phase 2 — Main translation — IN PROGRESS
 
-Normal cadence: **five complete consecutive source letters per drafting iteration**.
+Normal cadence: **five complete consecutive source letters per drafting iteration**. The final iteration contains the two remaining source letters.
 
-Completed normal drafting iterations:
+Completed drafting iterations:
 
 - **3540–3544 / PDF 050–088** — PASS
 - **3545–3549 / PDF 089–122** — PASS
@@ -69,10 +69,11 @@ Completed normal drafting iterations:
 - **3570–3574 / PDF 249–274** — PASS; Tamil changes 0
 - **3575–3579 / PDF 275–319** — PASS; Tamil changes 0
 - **3580–3584 / PDF 320–357** — PASS; Tamil changes 0
+- **3585–3589 / PDF 358–390** — PASS; Tamil changes 0
 
-Current cumulative drafting state: **3537–3584 / 48 of 55 source-checked**, audited canonical PDF **024–357**.
+Current cumulative drafting state: **3537–3589 / 53 of 55 source-checked**, audited canonical PDF **024–390**.
 
-**Exact next drafting batch: Letters 3585–3589 / PDF 358–390.**
+**Exact next drafting batch: Letters 3590–3591 / PDF 391–401.**
 
 Each batch receives source-completeness, paragraph/heading, names/dates/figures/units, quotations/rhetorical questions, title/closing, source-anomaly, glossary and progress/handover checks.
 
@@ -95,4 +96,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability passed editorial review;
 - `verified` — final bilingual alignment complete.
 
-Letters **3537–3584** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters **3537–3589** are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.

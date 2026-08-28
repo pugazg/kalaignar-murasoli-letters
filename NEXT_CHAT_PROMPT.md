@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 English Translation Batch 3585–3589
+# Next Chat Prompt — Volume 45 Final English Drafting Batch 3590–3591
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -36,8 +36,8 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3580_3584.md`
-5. Inspect completed bilingual records through 3584, especially 3580–3584, before drafting the next batch.
+   - `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3585_3589.md`
+5. Inspect completed bilingual records through 3589, especially 3585–3589, before drafting the final two letters.
 6. Confirm the live durable boundary before doing work.
 
 ## CURRENT DURABLE VOLUME 45 STATE
@@ -56,16 +56,16 @@ Tamil archival layer:
 English layer:
 
 - Pilot **3537–3539 / PDF 024–049** — **PASS / STYLE LOCKED**
-- Normal drafting batches through **3580–3584 / PDF 320–357** — **PASS / source-checked**
-- Draft-translated: **48 / 55 — 3537–3584**
-- Source-checked: **48 / 55 — 3537–3584**
-- Cumulative translated source: **PDF 024–357**
+- Normal drafting batches through **3585–3589 / PDF 358–390** — **PASS / source-checked**
+- Draft-translated: **53 / 55 — 3537–3589**
+- Source-checked: **53 / 55 — 3537–3589**
+- Cumulative translated source: **PDF 024–390**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
-- Tamil canonical changes during 3580–3584: **0**
-- Exact next letter: **3585**
-- Exact next drafting batch: **3585–3589**
+- Tamil canonical changes during 3585–3589: **0**
+- Exact next letter: **3590**
+- Exact final drafting batch: **3590–3591**
 
 ## SOURCE AUTHORITY
 
@@ -98,37 +98,26 @@ Completed drafting files are `source-checked`, not final bilingual-alignment `ve
 
 ## IMMEDIATELY PRECEDING BATCH — SOURCE-SPECIFIC POINTS
 
-The completed 3580–3584 batch preserves:
+The completed 3585–3589 batch preserves:
 
-- **3580:** the complete false-case / land-grab policing argument, all named examples, the source-printed ADGP George English statement and all seven warning bullets;
-- **3581:** the complete `செம்மொழி வாழ்த்து`, Thanjavur World Tamil Conference praise-song excerpts, and every cited textbook deletion/sticker/marker example across Standards 1–10;
-- **3582:** Omandurar/Samacheer/Tamil New Year reversals, 1921 and 1939 scholar/conference history, attributed statements, Nakkiran–Kuyakkondan story, 2008 bill chronology and the **45 full-page advertisements** figure;
-- **3583:** Article 161/death-sentence chronology, the source-printed Colin Gonsalves English passage, the 2008 Jayalalithaa statement, and Thiagu / Pulavar Kaliyaperumal accounts;
-- **3584:** Assembly-democracy argument, Omandurar and Samacheer chronology, approximately ₹4,000 crore tax discussion, agricultural-welfare-law figures, Tamil New Year repeal and Speaker/tradition close.
+- **3585:** Rule 110 / ministerial-announcement argument, unchanged policy-note language and figures, and complete sports-infrastructure / award inventory;
+- **3586:** scan-proven title beginning `கழக அரசு`, complete Rajiv Gandhi / *Nenjukku Neethi* passage, Eelam-war narrative, Nalini commutation and the appeal for Santhan, Perarivalan and Murugan;
+- **3587:** complete Thirumazhisai history and figures; source-internal `1-9-2006` / `31-8-2006` date variation preserved without harmonisation;
+- **3588:** Samacheer Kalvi delays, textbook distribution, Muthukumaran Committee and teacher-recruitment/transfer figures;
+- **3589:** welfare/free-scheme continuity and closure arguments plus Omandurar, Classical-Tamil, Metro/Monorail, housing, Council, university, marriage-scheme and Tamil New Year material.
 
 Do not retroactively normalize any of these source conditions.
 
-## NEXT BATCH SOURCE BOUNDARIES
+## FINAL DRAFTING SOURCE BOUNDARIES
 
-- **3585 — அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!!** — PDF **358–364**, date **10-9-2011**
-- **3586 — கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!** — PDF **365–369**, date **12-9-2011**
-- **3587 — மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!** — PDF **370–376**, date **13-9-2011**
-- **3588 — கல்வி; கருகிடும் மொட்டாவதா?** — PDF **377–382**, date **14-9-2011**
-- **3589 — எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி?** — PDF **383–390**, date **19-9-2011**
+- **3590 — விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!** — PDF **391–396**, date **24-9-2011**
+- **3591 — அடங்காமை ஆறிருள் உய்த்து விடும்!** — PDF **397–401**, date **27-9-2011**
 
-Combined next-batch source range: **PDF 358–390 / 33 canonical pages**.
-
-### Critical title control for Letter 3586
-
-Direct second-pass scan re-verification established the contents and actual letter-start title as:
-
-`கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`
-
-The earlier control-layer reading beginning `தமிழக அரசு...` was a transcription error and is withdrawn. It must not reappear in the English record, source-check report, indexes or controls.
+Combined final source range: **PDF 391–401 / 11 canonical pages**.
 
 ## EXACT NEXT ACTIVITY
 
-Complete **Letters 3585–3589 in one five-complete-letter drafting iteration**.
+Complete **Letters 3590–3591 in one final main-drafting iteration**.
 
 For each letter:
 
@@ -140,13 +129,11 @@ For each letter:
 6. source-check English against the full audited canonical Tamil before marking `source-checked`;
 7. if a broken transition or suspected Tamil discrepancy appears, inspect the controlling scan before changing either layer and append any scan-proven correction to the correction log;
 8. update glossary only for new recurring terms;
-9. create a durable drafting source-check record for the batch;
+9. create a durable drafting source-check record for **3590–3591**;
 10. update translation progress, Volume 45 progress/metadata/README/AUDIT, root README, project handover and this next-chat prompt;
 11. immediately before Git mutation re-fetch live `main`; preserve unrelated concurrent changes;
 12. prefer one atomic Git-data commit, compare parent→new commit, fast-forward `main` with `force:false`, then verify live `main`.
 
-## IMPORTANT
-
-Do not re-run completed 3537–3584 drafting unless a specific source-backed correction is needed. Do not begin the later full bilingual-alignment gate during this drafting batch.
+After 3590–3591 are source-checked, main drafting is **55 / 55 complete**. Stop at that durable boundary. The next activity after that is the separate **full bilingual-alignment QA** across all 55 letters; do not merge alignment into this final drafting batch.
 
 When I say **“Proceed with next activity”**, execute the next already-defined batch directly without asking me to choose a routine next step.

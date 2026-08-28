@@ -18,7 +18,7 @@ Translation is made from the scan-verified canonical Tamil. The controlling scan
 
 ## Translation status
 
-The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Nine normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574**, **3575–3579** and **3580–3584**, are complete and source-checked.
+The three-letter pilot **3537–3539** passed and locked the Volume 45 translation style. Ten normal five-letter drafting batches, **3540–3544**, **3545–3549**, **3550–3554**, **3555–3559**, **3560–3564**, **3565–3569**, **3570–3574**, **3575–3579**, **3580–3584** and **3585–3589**, are complete and source-checked.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -70,8 +70,13 @@ The three-letter pilot **3537–3539** passed and locked the Volume 45 translati
 | [3582](letters/3582-a-sweet-festival-a-festival-of-our-people.md) | A Sweet Festival; a Festival of Our People! | 25 August 2011 | 338–344 | source-checked |
 | [3583](letters/3583-no-authority-dont-you-remember-that-day.md) | No Authority? Don't You Remember That Day? | 1 September 2011 | 345–351 | source-checked |
 | [3584](letters/3584-is-the-very-foundation-being-cut-away.md) | Is the Very Foundation Being Cut Away? | 8 September 2011 | 352–357 | source-checked |
+| [3585](letters/3585-alas-poor-aiadmk-ministers.md) | Alas! Poor AIADMK Ministers!! | 10 September 2011 | 358–364 | source-checked |
+| [3586](letters/3586-save-the-three-lives-by-following-the-path-the-dmk-government-followed.md) | Save the Three Lives by Following the Path the DMK Government Followed! | 12 September 2011 | 365–369 | source-checked |
+| [3587](letters/3587-what-the-mother-in-law-broke-what-the-daughter-in-law-broke.md) | What the Mother-in-Law Broke; What the Daughter-in-Law Broke! | 13 September 2011 | 370–376 | source-checked |
+| [3588](letters/3588-education-must-it-be-a-bud-left-to-wither.md) | Education—Must It Be a Bud Left to Wither? | 14 September 2011 | 377–382 | source-checked |
+| [3589](letters/3589-how-long-will-this-one-upmanship-continue.md) | How Long Will This One-Upmanship Continue? | 19 September 2011 | 383–390 | source-checked |
 
-Current coverage: **48 / 55 letters source-checked**, audited canonical PDF **024–357**.
+Current coverage: **53 / 55 letters source-checked**, audited canonical PDF **024–390**.
 
 Batch records:
 
@@ -85,6 +90,7 @@ Batch records:
 - [`DRAFT_SOURCE_CHECK_3570_3574.md`](DRAFT_SOURCE_CHECK_3570_3574.md) — seventh normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3575_3579.md`](DRAFT_SOURCE_CHECK_3575_3579.md) — eighth normal drafting batch
 - [`DRAFT_SOURCE_CHECK_3580_3584.md`](DRAFT_SOURCE_CHECK_3580_3584.md) — ninth normal drafting batch
+- [`DRAFT_SOURCE_CHECK_3585_3589.md`](DRAFT_SOURCE_CHECK_3585_3589.md) — tenth normal drafting batch
 - [`TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md) — targeted scan corrections exposed during translation
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
@@ -97,8 +103,13 @@ Every letter contains source/translation metadata, the standard translator’s n
 
 ## QA boundary
 
-The forty-eight completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
+The fifty-three completed English records are `source-checked` drafts. **Bilingual alignment has not yet begun** and remains a later distinct QA gate.
 
 ## Exact next activity
 
-Translate the next five complete consecutive source letters **3585–3589 / PDF 358–390** as one drafting iteration. Use the locked style, source-check each complete draft, preserve source anomalies and complete Tamil appendices, retain Letter 3586's scan-proven `கழக அரசு...` title, re-check the controlling scan if translation exposes any Tamil discrepancy, and keep bilingual alignment separate.
+Translate the final two source letters **3590–3591 / PDF 391–401** as one final main-drafting iteration:
+
+- 3590 — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF 391–396 — 24 September 2011
+- 3591 — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF 397–401 — 27 September 2011
+
+Source-check both complete drafts and preserve full Tamil appendices. After that, main drafting will be 55/55 complete; keep the subsequent bilingual-alignment gate separate.

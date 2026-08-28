@@ -82,12 +82,7 @@ Status: **PASS — verified PDF 001–402 / 402**
 ### Translation-discovered targeted scan correction — PDF 187
 Status: **CORRECTED, then PASS — 2026-08-28**
 
-During English drafting/source-check of Letter 3560, the canonical transition from PDF 187 to PDF 188 proved syntactically discontinuous: page 187 ended during the Wall Street Journal passage after `நிலங்கள், சாலைகள்`, while page 188 began `நடத்தியது.` in the Oxford Analytica passage.
-
-The controlling PDF page 187 was re-rendered and directly compared. The scan proved that the canonical page had omitted the physical-page tail containing:
-
-- the continuation and close of the Wall Street Journal quotation about basic infrastructure and single-window government approvals; and
-- the beginning of the Oxford Analytica / `India Deconstructed` passage through the page-ending words `என்ற ஒரு ஆய்வை`.
+During English drafting/source-check of Letter 3560, the canonical transition from PDF 187 to PDF 188 proved syntactically discontinuous. Direct scan comparison restored the omitted physical-page tail containing the close of the Wall Street Journal quotation and the beginning of the Oxford Analytica / `India Deconstructed` passage through `என்ற ஒரு ஆய்வை`.
 
 `pages/page-187.md` was corrected from the scan before Letter 3560 was marked source-checked. No wording was reconstructed from outside knowledge. The complete correction is documented in `translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`.
 
@@ -101,18 +96,18 @@ PDF 187 was already one of the 243 unique page files corrected during the histor
 - Historical second full-volume visual/textual-fidelity audit: **PASS — 243 corrected page files / 623 spans**.
 - Translation-discovered post-audit correction: **PDF 187 / 1 additional span**.
 - Combined canonical scan-proven correction tally: **243 unique page files / 624 spans**.
-- Translation batches 3565–3569, 3570–3574, 3575–3579 and 3580–3584 exposed **no additional Tamil canonical correction**.
+- Translation batches 3565–3589 exposed **no additional Tamil canonical correction**.
 
 ## English QA boundary
 
 - Pilot **3537–3539 / PDF 024–049**: PASS / style locked.
-- Normal batches through **3580–3584 / PDF 320–357**: source-checked.
-- Current English total: **48 / 55 — Letters 3537–3584**.
-- Cumulative translated source coverage: **PDF 024–357**.
+- Normal batches through **3585–3589 / PDF 358–390**: source-checked.
+- Current English total: **53 / 55 — Letters 3537–3589**.
+- Cumulative translated source coverage: **PDF 024–390**.
 - Bilingual alignment: **0 / 55**; not yet begun.
 
-The 3580–3584 source check preserves the complete Letter 3580 false-case/land-grab sequence and the source-printed ADGP George English statement; Letter 3581's complete `செம்மொழி வாழ்த்து` and textbook deletion catalogue; Letter 3582's Thai/Chithirai Tamil New Year chronology and source-attributed scholarly/political statements; Letter 3583's Article 161/death-sentence chronology, source-printed Colin Gonsalves passage, Thiagu and Kaliyaperumal accounts; and Letter 3584's Assembly-democracy, Omandurar, Samacheer, agricultural-welfare and Tamil New Year repeal arguments.
+The 3585–3589 source check preserves Letter 3585's complete Rule 110 / sports-policy and facilities inventory; Letter 3586's scan-proven `கழக அரசு...` title, Rajiv Gandhi / *Nenjukku Neethi* material and death-sentence appeal; Letter 3587's complete Thirumazhisai history, figures and source-internal `1-9-2006` / `31-8-2006` date variation; Letter 3588's Samacheer, textbook and teacher-recruitment figures; and Letter 3589's welfare-scheme, Omandurar, Classical-Tamil, Metro/Monorail, housing, Council, university and Tamil New Year arguments. No Tamil canonical change was required in this batch.
 
 ## Exact next activity
 
-Translate **Letters 3585–3589 / PDF 358–390** as the next normal five-letter drafting/source-check batch. Letter 3586's scan-proven title is `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the earlier `தமிழக அரசு...` reading is withdrawn. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
+Translate the final two source letters **3590–3591 / PDF 391–401** as one final main-drafting/source-check iteration. Source-check both complete drafts before declaring main drafting 55/55 complete. Continue to treat any translation-exposed Tamil discontinuity as a trigger for targeted direct scan re-verification before changing either layer. Do not begin the separate bilingual-alignment gate during drafting.
