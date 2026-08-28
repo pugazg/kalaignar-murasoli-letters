@@ -16,42 +16,39 @@ Detailed Tamil correction history remains in [`AUDIT.md`](AUDIT.md) and [`FULL_V
 
 ## English translation — active
 
-Completed startup work:
+Completed:
 
-- [x] Final Tamil checkpoint verified on live `main` before English work began
-- [x] Volume 47 and Volume 49 translation plans/reference implementation inspected
-- [x] Volume 45 [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md) established
-- [x] English workspace, glossary and progress controls established
-- [x] Three-letter pilot **3537–3539** translated
-- [x] Pilot source-checked against audited canonical Tamil
-- [x] Complete audited Tamil embedded in all three bilingual pilot records
+- [x] Translation plan/workspace established after Tamil gates passed
+- [x] Pilot **3537–3539 / PDF 024–049** translated and source-checked
 - [x] Pilot review PASS; style **LOCKED**
-- [x] No Tamil canonical correction required during the pilot
+- [x] First normal drafting batch **3540–3544 / PDF 050–088** translated and source-checked
+- [x] Complete audited Tamil embedded in all eight bilingual records
+- [x] Draft source-check report for 3540–3544 recorded
+- [x] No Tamil canonical correction required during the 3540–3544 English batch
 
 ### English counts
 
 - Total source letters: **55**
-- Draft-translated: **3 / 55** — 3537–3539
-- Source-checked: **3 / 55** — 3537–3539
+- Draft-translated: **8 / 55 — 3537–3544**
+- Source-checked: **8 / 55 — 3537–3544**
 - Bilingual-aligned: **0 / 55**
 - Editorially reviewed: **0 / 55**
 - Final verified English records: **0 / 55**
-- Pilot source range: PDF **024–049**
+- Cumulative translated canonical source coverage: PDF **024–088**
 
-### Pilot records
+### Current English QA boundary
 
-- [`3537`](translations/en/letters/3537-rural-development-and-panchayat-raj-five-year-achievements-2.md)
-- [`3538`](translations/en/letters/3538-rural-development-and-panchayat-raj-five-year-achievements-3.md)
-- [`3539`](translations/en/letters/3539-health-and-family-welfare-five-year-achievements-1.md)
+Pilot review: [`translations/en/PILOT_REVIEW_3537_3539.md`](translations/en/PILOT_REVIEW_3537_3539.md)  
+First normal drafting-batch source check: [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md)
 
-See [`translations/en/PILOT_REVIEW_3537_3539.md`](translations/en/PILOT_REVIEW_3537_3539.md) and [`TRANSLATION_PILOT_CHECKPOINT.md`](TRANSLATION_PILOT_CHECKPOINT.md).
+Source-specific readings preserved in the first normal batch include PDF 051 `எனைநடி ஊடிகேநசநடேந`, PDF 055 `32.06 மாணவர்கள்`, PDF 056 `நாஸிங் தெரபி`, Letter 3543 `தாம்புரி`, and Letter 3544 `94 இலட்சம் மக்கள்` / `ஒப்பங்கள்`.
 
 ## Current stage
 
-**English main drafting — ready for first normal five-letter batch.**
+**English main drafting — complete through Letter 3544.**
 
-The pilot files are `source-checked`, not yet final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
+The eight completed files are `source-checked`, not final bilingual-alignment `verified` records. Bilingual alignment remains a later distinct QA stage.
 
 ## Exact next activity
 
-Translate **Letters 3540–3544** as one five-complete-letter drafting iteration. Use the locked pilot conventions, translate only from audited canonical Tamil, preserve complete source coverage and full Tamil in each bilingual file, source-check each draft, update glossary/progress/handover controls, and do not collapse drafting into the later bilingual-alignment gate.
+Translate **Letters 3545–3549** as the next five-complete-letter drafting iteration. Use the locked pilot conventions, translate only from audited canonical Tamil, preserve complete source coverage and the full Tamil appendix in every bilingual file, source-check each draft, update glossary/progress/handover controls, and do not collapse drafting into the later bilingual-alignment gate.

@@ -4,11 +4,9 @@
 **Primary branch:** `main`  
 **Handover date:** 2026-08-28
 
-This document is the current project-level handover. Read it together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`. If documents conflict, the controlling processing/batching/transcription guides take precedence.
+Read this together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`. If documents conflict, the controlling processing/batching/transcription guides take precedence.
 
 ## 1. Source authority
-
-The repository preserves Kalaignar’s Murasoli letters as a page-faithful archival corpus and, where completed, verified bilingual Tamil–English records.
 
 **The controlling source scan controls Tamil readings.** OCR, contents pages, another edition, outside historical knowledge, translations and inferred chronology may assist navigation but may not silently override the source. Historical wording, source errors, numbering anomalies, punctuation, quoted material, English text and physical boundaries are preserved and documented.
 
@@ -33,79 +31,94 @@ The final fidelity batch was PDF 386–402: 16 corrected page files / 18 spans; 
 
 Confirmed printed anomalies documented in the Tamil audits must remain source-exact. Do not normalize them from outside knowledge.
 
-### English translation startup — completed pilot
+### English translation — durable through 3544
 
-English translation began only after the complete Tamil fidelity checkpoint was verified on live `main`.
-
-Reference workflow inspected before startup:
+Reference workflow before startup:
 
 - Volume 49 translation plan and bilingual implementation — principal reference;
-- Volume 47 translation plan, glossary, alignment and completed release controls — supporting reference.
+- Volume 47 translation/alignment/release practice — supporting reference.
 
-Volume 45 now has:
+Locked English conventions:
 
-- `volumes/volume-45/TRANSLATION_PLAN.md`
-- `volumes/volume-45/translations/en/README.md`
-- `volumes/volume-45/translations/en/PROGRESS.md`
-- `volumes/volume-45/translations/en/GLOSSARY.md`
-- `volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md`
-- `volumes/volume-45/TRANSLATION_PILOT_CHECKPOINT.md`
-
-Pilot status:
-
-- Pilot letters: **3537–3539**
-- Audited canonical pilot source: **PDF 024–049**
-- Draft-translated: **3 / 55**
-- Source-checked: **3 / 55**
-- Bilingual-aligned: **0 / 55**
-- Editorially reviewed: **0 / 55**
-- Final verified English: **0 / 55**
-- Tamil canonical changes during pilot: **0**
-- Pilot review: **PASS — STYLE LOCKED**
-
-Pilot bilingual records:
-
-1. `translations/en/letters/3537-rural-development-and-panchayat-raj-five-year-achievements-2.md`
-2. `translations/en/letters/3538-rural-development-and-panchayat-raj-five-year-achievements-3.md`
-3. `translations/en/letters/3539-health-and-family-welfare-five-year-achievements-1.md`
-
-Each contains source metadata, the locked standard translator’s note, complete English translation, minimal necessary notes, and complete audited Tamil under `Original Tamil — மூலத் தமிழ்`.
-
-A source-coverage correction was made during review of Letter 3539 English so that the scan-audited `1,70,803` eye-defect figure and `1,02,779` spectacles figure are both represented. This changed English only; Tamil remained untouched.
-
-### Locked English conventions
-
-- `உடன்பிறப்பே` → **Udanpirappē**.
-- `அன்புள்ள, மு.க.` → **With affection, M.K.**
+- `உடன்பிறப்பே` → **Udanpirappē**;
+- `அன்புள்ள, மு.க.` → **With affection, M.K.**;
 - clear contemporary, thought-preserving, non-literary English;
 - no summarising of substantive source material;
 - preserve political directness, irony, questions, repetition, quotations, names, dates and figures;
 - `lakh` / `crore` retained;
-- no external historical correction of source facts/anomalies;
-- complete audited Tamil reproduced in every bilingual record;
-- minimal explanatory notes only where needed;
-- pilot style is now locked.
+- no external historical correction of source facts or anomalies;
+- complete audited Tamil reproduced under `Original Tamil — மூலத் தமிழ்` in every bilingual record;
+- minimal explanatory notes only where needed.
 
-Normal post-pilot drafting cadence for Volume 45: **five complete consecutive letters per drafting iteration**.
+#### Pilot
+
+- Letters: **3537–3539**
+- Canonical source: **PDF 024–049**
+- Result: **3 / 3 source-checked; PASS — STYLE LOCKED**
+- Tamil canonical changes during pilot: **0**
+
+#### First normal drafting batch
+
+- Letters: **3540–3544**
+- Canonical source: **PDF 050–088**
+- Result: **5 / 5 translated and source-checked — PASS**
+- Tamil canonical changes during batch: **0**
+- Source-check report: `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
+
+Current cumulative English state:
+
+- Draft-translated: **8 / 55 — 3537–3544**
+- Source-checked: **8 / 55 — 3537–3544**
+- Bilingual-aligned: **0 / 55**
+- Editorially reviewed: **0 / 55**
+- Final verified English: **0 / 55**
+- Cumulative translated canonical source: **PDF 024–088**
+
+Source-specific readings preserved during 3540–3544 include:
+
+- PDF 051 `எனைநடி ஊடிகேநசநடேந` — visibly garbled parenthetical, not decoded from expectation;
+- PDF 055 `32.06 மாணவர்கள்` — preserved without supplying a missing unit;
+- PDF 056 `நாஸிங் தெரபி` — retained without external correction;
+- Letter 3542 source-specific drug forms and the printed World Bank English headline;
+- Letter 3543 `தாம்புரி` and position-specific place-name spacing;
+- Letter 3544 `94 இலட்சம் மக்கள்` and scan-proven `ஒப்பங்கள்`.
+
+The eight completed English records are **source-checked drafts**, not final `verified` bilingual records. Do not begin or imply bilingual alignment during drafting batches.
 
 ### Exact next activity
 
-Translate **Letters 3540–3544** as one five-complete-letter drafting iteration.
+Translate **Letters 3545–3549** as the next normal five-complete-letter drafting iteration.
 
 For each letter:
 
 1. read the complete chapter boundary and every audited canonical Tamil page;
 2. translate every substantive heading, paragraph, list, quotation, figure and rhetorical question;
 3. use the locked Volume 45 translator’s note and glossary conventions;
-4. reproduce the complete audited Tamil under `Original Tamil — மூலத் தமிழ்`;
+4. reproduce complete audited Tamil under `Original Tamil — மூலத் தமிழ்`;
 5. source-check the complete English against the full canonical Tamil range;
 6. update glossary only for genuinely new recurring terms;
-7. update English progress, Volume 45 controls, handover and next-chat boundary;
+7. update English progress, Volume 45 controls, root README, handover and next-chat boundary;
 8. make the batch durable on `main` and verify live GitHub.
 
 Do **not** mark drafting records final `verified`; bilingual alignment remains a later separate QA gate.
 
-## 3. Completed reference volumes
+## 3. Authoritative Volume 45 controls
+
+- `volumes/volume-45/README.md`
+- `volumes/volume-45/PROGRESS.md`
+- `volumes/volume-45/AUDIT.md`
+- `volumes/volume-45/metadata.yml`
+- `volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md`
+- `volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
+- `volumes/volume-45/TRANSLATION_PLAN.md`
+- `volumes/volume-45/TRANSLATION_PILOT_CHECKPOINT.md`
+- `volumes/volume-45/translations/en/README.md`
+- `volumes/volume-45/translations/en/PROGRESS.md`
+- `volumes/volume-45/translations/en/GLOSSARY.md`
+- `volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md`
+- `volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`
+
+## 4. Completed reference volumes
 
 - **Volume 01:** fully released; 401 / 401 pages, 110 / 110 letters, Tamil gates PASS, 110 / 110 final bilingual release.
 - **Volume 46:** complete through English release; 55 actual source records; preserves numbering anomalies including missing 3636 and 3644–3646 and duplicated 3637.
@@ -115,7 +128,7 @@ Do **not** mark drafting records final `verified`; bilingual alignment remains a
 
 Never copy volume-specific facts from a reference volume into Volume 45.
 
-## 4. QA separation
+## 5. QA separation
 
 Keep stages distinct:
 
@@ -127,25 +140,25 @@ Keep stages distinct:
 6. volume-level English editorial consistency review;
 7. release manifest/report.
 
-For Volume 45, Tamil stages are complete; English stage 4 has completed the pilot only.
+For Volume 45, Tamil stages are complete. English drafting/source-check is complete through Letter 3544 only.
 
-## 5. Git/concurrency discipline
+## 6. Git/concurrency discipline
 
 - Work on `main` as requested.
 - Never force-push routine work.
-- Recheck live `main` immediately before mutation.
+- Recheck live `main` immediately before final mutation.
 - Preserve unrelated concurrent changes.
 - Keep declared batch scope explicit.
 - Prefer atomic commits for normal defined batches where technically possible.
 - Remove temporary render/OCR/export artifacts from repository trees.
 - Compare intended parent→new commit and fetch live `main` afterward.
 
-The English initialization/pilot was written incrementally through connector content writes and therefore exists as a short sequence of commits rather than one atomic startup commit. Do not rewrite or force-push that history; continue forward from live `main`.
+The initial English startup/pilot landed incrementally through connector writes. During the 3540–3544 batch, Letter 3540 also landed as a separate connector content commit before the remaining batch tree was assembled. Do not rewrite or force-push that history; continue forward and preserve it.
 
-## 6. Meaning of “Proceed with next activity”
+## 7. Meaning of “Proceed with next activity”
 
 Inspect live durable state, identify the next already-defined batch/gate, execute it directly, and report completed scope, QA result, live commit SHA, counts/status and exact next activity. Do not ask the user to choose among routine next steps.
 
-## 7. Clean interruption rule
+## 8. Clean interruption rule
 
-The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3539 / 3 of 55 source-checked**, style locked, with exact next drafting batch **3540–3544**.
+The repository, not the chat, must carry the durable completed range, QA state and exact next activity. At this handover boundary, Volume 45 English is complete through **Letters 3537–3544 / 8 of 55 source-checked**, with exact next drafting batch **3545–3549**.

@@ -50,17 +50,16 @@ The Tamil section is never a summary or selected extract.
 
 ## Recurrent terms locked for Volume 45
 
-- `உடன்பிறப்பே` → **Udanpirappē**.
-- `அன்புள்ள, மு.க.` → **With affection, M.K.**
-- `திராவிட முன்னேற்றக் கழகம் / தி.மு.க.` → **Dravida Munnetra Kazhagam (DMK)** / **DMK**.
-- `அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம் / அ.தி.மு.க.` → **All India Anna Dravida Munnetra Kazhagam (AIADMK)** / **AIADMK**.
-- `கழகம்` → **the DMK** or **the movement**, according to context.
-- `லட்சம்` / `கோடி` → **lakh** / **crore**.
-- `ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை` → **Rural Development and Panchayat Raj Department**.
-- `மக்கள் நல்வாழ்வு மற்றும் குடும்ப நலத்துறை` → **Health and Family Welfare Department**.
-- Scheme names that function as proper names may be retained in transliteration on first use with a concise English identification where useful.
+The working terminology is maintained in [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md). Core locked forms include:
 
-The working glossary is maintained at [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md).
+- `உடன்பிறப்பே` → **Udanpirappē**;
+- `அன்புள்ள, மு.க.` → **With affection, M.K.**;
+- `திராவிட முன்னேற்றக் கழகம் / தி.மு.க.` → **Dravida Munnetra Kazhagam (DMK)** / **DMK**;
+- `அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம் / அ.தி.மு.க.` → **All India Anna Dravida Munnetra Kazhagam (AIADMK)** / **AIADMK**;
+- `கழகம்` → **the DMK** or **the movement**, according to context;
+- `லட்சம்` / `கோடி` → **lakh** / **crore**.
+
+Source-specific terminology is added to the glossary only when recurrence or consistency makes it useful. A glossary entry never overrides the wording or anomaly visible in the audited source.
 
 ## File structure
 
@@ -72,38 +71,33 @@ volumes/volume-45/
     PROGRESS.md
     GLOSSARY.md
     PILOT_REVIEW_3537_3539.md
+    DRAFT_SOURCE_CHECK_3540_3544.md
     letters/
-      3537-rural-development-and-panchayat-raj-five-year-achievements-2.md
-      3538-rural-development-and-panchayat-raj-five-year-achievements-3.md
-      3539-health-and-family-welfare-five-year-achievements-1.md
+      3537-....md
       ...
 ```
 
 ## Workflow
 
-### Phase 1 — Pilot and style lock
+### Phase 1 — Pilot and style lock — COMPLETE
 
-Pilot letters: **3537–3539**, covering audited canonical PDF **024–049**.
+Pilot letters: **3537–3539**, audited canonical PDF **024–049**.
 
-The pilot tests:
+Result: **3 / 3 source-checked; PASS — STYLE LOCKED**. See [`translations/en/PILOT_REVIEW_3537_3539.md`](translations/en/PILOT_REVIEW_3537_3539.md).
 
-- title treatment, including numbered/continuation titles;
-- `Udanpirappē` and the `With affection, M.K.` closing;
-- government-department and scheme terminology;
-- dense statistics, lists and monetary figures;
-- source headings and parenthetical continuation markers;
-- minimal explanatory notes;
-- full-Tamil reproduction in every bilingual file.
+### Phase 2 — Main translation — IN PROGRESS
 
-The pilot is complete in the same initialization checkpoint as this plan. Its review is recorded in [`translations/en/PILOT_REVIEW_3537_3539.md`](translations/en/PILOT_REVIEW_3537_3539.md). The style is therefore **LOCKED** for the main drafting phase, subject only to source-specific glossary additions or scan-proven corrections.
+Post-pilot drafting cadence: **five complete consecutive source letters per normal drafting iteration**, one bilingual Markdown file per letter.
 
-### Phase 2 — Main translation
+Completed normal drafting iterations:
 
-After the three-letter pilot, translate **five complete consecutive letters per atomic drafting iteration**, keeping one bilingual Markdown file per letter.
+- **3540–3544 / PDF 050–088** — **5 / 5 source-checked; PASS**. See [`translations/en/DRAFT_SOURCE_CHECK_3540_3544.md`](translations/en/DRAFT_SOURCE_CHECK_3540_3544.md).
 
-The exact next drafting batch is **Letters 3540–3544**.
+Current cumulative drafting state: **3537–3544 / 8 of 55 source-checked**.
 
-Each batch receives:
+**Exact next drafting batch: Letters 3545–3549 / PDF 089–122.**
+
+Each drafting batch receives:
 
 - source-completeness / canonical-page coverage check;
 - paragraph and heading coverage check;
@@ -132,4 +126,4 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability have passed editorial review;
 - `verified` — final bilingual alignment is complete.
 
-The initial pilot letters 3537–3539 are committed as **source-checked** drafts. They are not yet final bilingual-alignment/release records.
+Letters 3537–3544 are currently **source-checked** drafts. They are not yet final bilingual-alignment/release records.

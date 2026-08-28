@@ -51,7 +51,7 @@ Volume 49 principal English/reference implementation; Volume 46 source-anomaly/b
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; 243 correction pages / 623 spans** | **55 / 55; 3537–3591** | **IN PROGRESS — pilot 3537–3539 source-checked (3 / 55), style locked; next 3540–3544** |
+| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; 243 correction pages / 623 spans** | **55 / 55; 3537–3591** | **IN PROGRESS — 3537–3544 source-checked (8 / 55); next 3545–3549** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
@@ -61,13 +61,13 @@ Volume 49 principal English/reference implementation; Volume 46 source-anomaly/b
 
 Volume 45 Tamil archival work is complete: **402 / 402 canonical PDF pages**, **55 / 55 source letters, 3537–3591**, structural audit **PASS**, second direct visual/textual-fidelity audit **PASS**, with **243 corrected canonical page files / 623 correction spans**. Letter 3591 closes at PDF 401 / printed page 400 on `27-9-2011`; PDF 402 is back-cover/publisher matter. The Letter 3576 control-layer `பார்!` reading was withdrawn in favor of scan-proven `பாரீர்!`; the genuine Letter 3575 contents/start punctuation difference remains.
 
-English translation began only after that full Tamil gate was durably verified. The repository now contains a Volume 45 [Translation Plan](volumes/volume-45/TRANSLATION_PLAN.md), English [README](volumes/volume-45/translations/en/README.md), [Progress](volumes/volume-45/translations/en/PROGRESS.md), [Glossary](volumes/volume-45/translations/en/GLOSSARY.md), and [Pilot Review](volumes/volume-45/translations/en/PILOT_REVIEW_3537_3539.md).
+English translation began only after the full Tamil gate was durably verified. The pilot **3537–3539 / PDF 024–049** passed and locked the style. The first normal drafting batch **3540–3544 / PDF 050–088** is complete and source-checked. Current English total: **8 / 55 draft-translated and source-checked**, **0 / 55 bilingual-aligned**, **0 / 55 final verified**. No Tamil canonical correction was required during the 3540–3544 drafting batch.
 
-The initial three-letter pilot **3537–3539** covers audited canonical PDF **024–049**. All three bilingual records are complete and `source-checked`, each retaining the complete audited Tamil beneath the English. Pilot review result: **PASS — STYLE LOCKED**. No Tamil canonical correction was required during the English pilot. Final bilingual alignment has not yet begun.
+The batch source-check record preserves unusual source readings rather than repairing them from outside knowledge, including PDF 051 `எனைநடி ஊடிகேநசநடேந`, PDF 055 `32.06 மாணவர்கள்`, PDF 056 `நாஸிங் தெரபி`, Letter 3543 `தாம்புரி`, and Letter 3544 `94 இலட்சம் மக்கள்` / `ஒப்பங்கள்`.
 
-**Exact next activity:** translate **Letters 3540–3544** as the first normal five-complete-letter English drafting batch, then source-check the drafts against their full audited canonical Tamil. Keep final bilingual alignment as a later distinct QA gate.
+**Exact next activity:** translate **Letters 3545–3549** as the next normal five-complete-letter English drafting batch, source-check each draft against its full audited canonical Tamil, and keep bilingual alignment as a later distinct QA gate.
 
-Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [structural audit](volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md), [textual-fidelity audit](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md).
+Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [structural audit](volumes/volume-45/FULL_VOLUME_STRUCTURAL_AUDIT.md), [textual-fidelity audit](volumes/volume-45/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), and [3540–3544 source check](volumes/volume-45/translations/en/DRAFT_SOURCE_CHECK_3540_3544.md).
 
 தொகுதி 01 final release நிலைக்கு [Volume 01 README](volumes/volume-01/README.md) மற்றும் அதன் English release controls பார்க்கவும்.
 
