@@ -1,6 +1,6 @@
 # Kalaignar Murasoli Letters — Volume 45
 
-Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 40 / 55.
+Status: Tamil transcription complete; full-volume structural audit PASS; second visual/textual-fidelity verification PASS for PDF 001–402; English main drafting complete at 55 / 55 source-checked letters; bilingual alignment in progress at 45 / 55.
 
 ## Controlling source
 
@@ -24,20 +24,19 @@ Direct scan verification resolved Letter 3576 to `உலகப் புகழ�
 
 - Main drafting/source-check: **55 / 55 — COMPLETE**
 - Cumulative translated canonical source: **PDF 024–401**
-- Alignment batches 1–7 through **3567–3571 / PDF 231–260** — PASS
-- Alignment batch 8 **3572–3576 / PDF 261–289** — **PASS / 5 of 5 aligned**
-- English corrections during eighth alignment batch: **2**
-- Tamil canonical changes during eighth alignment batch: **0**
-- Bilingual-aligned: **40 / 55 — 3537–3576 / PDF 024–289**
+- Alignment batches 1–8 through **3572–3576 / PDF 261–289** — PASS
+- Alignment batch 9 **3577–3581 / PDF 290–337** — **PASS / 5 of 5 aligned**
+- English corrections during ninth alignment batch: **0**
+- Tamil canonical changes during ninth alignment batch: **0**
+- Bilingual-aligned: **45 / 55 — 3537–3581 / PDF 024–337**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-The eighth meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, figures, dates, quotations, rhetoric and closings. Two English-only corrections were required:
+The ninth meaning-level alignment batch directly checked titles, argument sequence, complete substantive coverage, exhaustive lists, figures, dates, quotations, source-supplied English, rhetoric and closings. No English correction was required and canonical Tamil remained unchanged.
 
-1. **Letter 3573:** PDF 268 `இனி தொலைவாய்` is now rendered directly as **“Now, be gone!”**, replacing the softer **“Your time is now ending!”**.
-2. **Letter 3576:** source `போர்க் குற்றங்களை அடுத்து` is now represented as **“following the war crimes”**, removing the unsupported qualification **“war-crime allegations.”**
+Source-specific points preserved during this batch include PDF 290 `18-5-2001`; Letter 3577's own opening “three months” versus closing “two months” formulations; the complete Housing Board allotment lists in 3578; both *The Hindu* English passages in 3579; Additional Director George's source English in 3580; and the complete *Semmozhi Vazhthu* plus textbook-removal catalogue in 3581.
 
-Canonical Tamil remained unchanged. Letter 3575's genuine three-dot/four-dot contents/start distinction remains intact; Letter 3576 retains the scan-proven `பாரீர்!` title; PDF 276 source-supplied English remains verbatim.
+The durable batch review is [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md). A compact machine-readable batch status is recorded under [`translations/en/alignment-status/3577-3581.yml`](translations/en/alignment-status/3577-3581.yml).
 
 English controls:
 
@@ -47,18 +46,18 @@ English controls:
 - [`translations/en/PROGRESS.md`](translations/en/PROGRESS.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`](translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md)
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md)
 
 ## Exact next activity
 
-Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter bilingual-alignment batch:
+Align **Letters 3582–3586 / PDF 338–369** as the next five-complete-letter bilingual-alignment batch:
 
-- 3577 — PDF 290–305
-- 3578 — PDF 306–312
-- 3579 — PDF 313–319
-- 3580 — PDF 320–327
-- 3581 — PDF 328–337
+- 3582 — PDF 338–344
+- 3583 — PDF 345–351
+- 3584 — PDF 352–357
+- 3585 — PDF 358–364
+- 3586 — PDF 365–369
 
-Combined range: **48 canonical pages**. Preserve the established PDF 290 source anomaly `18-5-2001` exactly. Re-check the controlling scan before changing Tamil if any new possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
+Combined range: **32 canonical pages**. Preserve Letter 3582's source-specific Thai/Chithirai/Tamil-New-Year claims without outside reconciliation; preserve source-supplied English exactly where printed; and retain Letter 3586's scan-proven `கழக அரசு...` title. Re-check the controlling scan before changing Tamil if any new possible canonical defect is exposed. Keep the later volume-level English editorial consistency review separate.
 
 See [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) for the completed Tamil gates.
