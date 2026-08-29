@@ -238,3 +238,67 @@ Every canonical page in PDF 075–104 was directly compared against the controll
 ## Exact next activity
 
 Start at **PDF 105 / printed page 104** and complete the next regular five-letter iteration: Letters **3495–3499**, each through its actual scan-verified closing.
+
+---
+
+## Gate 5 — third regular five-letter batch 3495–3499 / PDF 105–139 — PASS
+
+**Date:** 2026-08-29
+
+### Scope
+
+- Canonical pages created: **35 — page-105.md through page-139.md**
+- Physical PDF scope transcribed in this activity: **105–139 exactly**
+- Complete consecutive letters: **3495, 3496, 3497, 3498, 3499**
+- Verified ranges:
+  - 3495 — PDF **105–111** / printed **104–110**
+  - 3496 — PDF **112–117** / printed **111–116**
+  - 3497 — PDF **118–124** / printed **117–123**
+  - 3498 — PDF **125–132** / printed **124–131**
+  - 3499 — PDF **133–139** / printed **132–138**
+- Verified closing dates: **2-9-2010; 3-9-2010; 4-9-2010; 7-9-2010; 18-9-2010**
+- PDF 140 transcribed: **no**
+- PDF 140 inspected for boundary only: **yes — begins Letter 3500 / printed page 139**
+
+### Visual verification
+
+Every canonical page in PDF 105–139 was directly compared against the controlling scan during this iteration. The pass checked actual letter starts and endings, printed page numbers, titles, salutations, closings, dates, figures, quotation marks, names, unusual spacing, paragraph/page continuations and the source's deliberately retained awkward forms. OCR was used only as a navigation/drafting aid and did not override the scan.
+
+### Preserved source conditions and anomalies
+
+- Letter 3495 closes on PDF 111 with `அன்புள்ள,` / `மு.க.` / `2-9-2010`.
+- PDF 106 preserves `முற்று கையிடுவோம்`; PDF 107 preserves the printed `அமர்த்தப்பட்டது.` sentence form and `திருச்சி கூட்டத் திலே`; PDF 110 preserves `பலிக்க வேண்டு மென்பதற்காகத் தான்`.
+- Letter 3496 closes on PDF 117 with `அன்புள்ள,` / `மு.க.` / `3-9-2010`.
+- PDF 114 preserves the printed official phrase `மாற்றுத் திறனாளிகளுக்கான துயர் உறுவோர் நிவாரண நிதி` without repair.
+- PDF 117 preserves `“டெண்டர்”களே`.
+- Letter 3497 closes on PDF 124 with `அன்புள்ள,` / `மு.க.` / `4-9-2010`.
+- PDF 123 preserves the note marker `குறிப்பு:-` and the quoted answer; no editorial rewriting was substituted.
+- Letter 3498 closes on PDF 132 with the visibly printed date `7-9-2010`.
+- The long Anna quotation preserves the unusual scan forms `திருஇடத்தவர்கள்` and `திருஇடத்தினர்` on PDF 126.
+- PDF 128 retains the scan-visible sentence ending `அறிவித்தார்.` after the handloom-cloth quotation.
+- Letter 3499 closes on PDF 139 with `அன்புள்ள,` / `மு.க.` / `18-9-2010`.
+- PDF 133 preserves the quoted scheme-name form `“கலைஞர் மருத்துவ காப்பீட்டுத் திட்ட”த்தை`.
+- PDF 136 preserves the printed in-patient figure `79,13,344` rather than mathematically or editorially repairing it.
+- PDF 137 preserves the awkward source phrase `ஒரு புரிந்துணர்ந்து ஒப்பந்தம்` and the printed figures `ரூ.469`, `ரூ.722`, `ரூ.74`, `ரூ.796`, and `ரூ.515`.
+- PDF 140 / printed page 139 visibly begins Letter 3500; no PDF 140 text was promoted into this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-139.md**
+- New page range: **105–139** with printed-page metadata **104–138**
+- Five chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3499 and boundary-only start of 3500
+- No U+FFFD replacement characters in new pages/control records
+- No unintended zero-width/BOM residue in new pages/control records
+- PDF 140 canonical page intentionally absent
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+## Exact next activity
+
+Start at **PDF 140 / printed page 139** and complete the next regular five-letter iteration: Letters **3500–3504**, each through its actual scan-verified closing.

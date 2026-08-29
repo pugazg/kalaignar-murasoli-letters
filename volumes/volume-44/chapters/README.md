@@ -15,7 +15,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3492 | [எல்லாம் காலத்தின் கோலம்தான்!](3492-ellaam-kaalathin-kolamthaan.md) | 088–093 | 87–92 | complete |
 | 3493 | [முதலில் புரியாத எடுகொளாவது; இனி புரிந்து கொள்ளுமா?](3493-mudhalil-puriyaatha-edukolaavathu-ini-purindhu-kollumaa.md) | 094–098 | 93–97 | complete |
 | 3494 | [நியாயம் தானா? நீங்களே சொல்லுங்கள்!](3494-niyaayam-thaanaa-neengale-sollungal.md) | 099–104 | 98–103 | complete |
+| 3495 | [பதுங்கிக் கொள்ள இருக்கவே இருக்கிறது கொடநாடு!](3495-pathungik-kolla-irukkave-irukkirathu-kodanaadu.md) | 105–111 | 104–110 | complete |
+| 3496 | [ஒத்துழைத்திட முன் வருவீர்!](3496-oththuzhaiththida-mun-varuveer.md) | 112–117 | 111–116 | complete |
+| 3497 | [வன்முறைக்கு வக்காலத்து வாய்மை ஆகுமா?](3497-vanmuraikku-vakkaalaththu-vaaimai-aagumaa.md) | 118–124 | 117–123 | complete |
+| 3498 | [அன்பில் சிலையாகி; அழைக்கின்றார்!](3498-anbil-silaiyaagi-azhaikkinraar.md) | 125–132 | 124–131 | complete |
+| 3499 | [மலையேறி நிற்போரல்ல நாம்!](3499-malaiyeri-nirporalla-naam.md) | 133–139 | 132–138 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **104 / printed page 103**, covering eleven completed letters **3484–3494**. PDF **105 / printed page 104** was inspected only to establish the next boundary and visibly begins Letter **3495**.
+Canonical Tamil is complete through PDF **139 / printed page 138**, covering sixteen completed letters **3484–3499**. PDF **140 / printed page 139** was inspected only to establish the next boundary and visibly begins Letter **3500**.
