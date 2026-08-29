@@ -18,7 +18,9 @@ Translation and alignment are made from the scan-verified canonical Tamil. The c
 
 ## Translation and alignment status
 
-Main drafting is complete: all **55 / 55** letters are source-checked. Eight bilingual meaning-level alignment batches, through **3572–3576 / PDF 261–289**, have passed. Current cumulative alignment is **40 / 55 — 3537–3576 / PDF 024–289**. The eighth batch required **2 English-only corrections** and **0 Tamil canonical changes**.
+Main drafting is complete: all **55 / 55** letters are source-checked. Nine bilingual meaning-level alignment batches, through **3577–3581 / PDF 290–337**, have passed. Current cumulative alignment is **45 / 55 — 3537–3581 / PDF 024–337**. The ninth batch required **0 English corrections** and **0 Tamil canonical changes**.
+
+For the ninth batch, detailed closure is recorded in [`BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`](BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md), with compact machine-readable status in [`alignment-status/3577-3581.yml`](alignment-status/3577-3581.yml). The large bilingual bodies retain their source-check drafting metadata; the report/sidecar records the separate alignment gate.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -62,11 +64,11 @@ Main drafting is complete: all **55 / 55** letters are source-checked. Eight bil
 | [3574](letters/3574-the-path-of-peace-the-righteous-path-that-is-annas-path.md) | The Path of Peace—the Righteous Path—That Is Anna's Path! | 28 July 2011 | 269–274 | source-checked + aligned |
 | [3575](letters/3575-from-that-day-to-this-day.md) | From That Day to This Day....! | 30 July 2011 | 275–283 | source-checked + aligned |
 | [3576](letters/3576-behold-the-world-famous-noble-tamil-woman.md) | Behold the World-Famous Noble Tamil Woman! | 31 July 2011 | 284–289 | source-checked + aligned |
-| [3577](letters/3577-the-list-from-three-months-of-rule-leaves-one-breathless.md) | The List from Just Three Months of Rule Leaves One Breathless! | 3 August 2011 | 290–305 | source-checked |
-| [3578](letters/3578-one-rule-for-you-another-for-the-rest.md) | One Rule for You; Another for Everyone Else? | 5 August 2011 | 306–312 | source-checked |
-| [3579](letters/3579-is-a-tax-free-budget-not-a-distilled-falsehood.md) | Is a Tax-Free Budget Not a Distilled Falsehood? | 6 August 2011 | 313–319 | source-checked |
-| [3580](letters/3580-never-mind-let-them-dance-as-long-as-they-can.md) | Never Mind; Let Them Dance as Long as They Can! | 12 August 2011 | 320–327 | source-checked |
-| [3581](letters/3581-can-a-monkey-know-the-fragrance-and-beauty-of-a-flower-garland.md) | Can a Monkey Know the Fragrance and Beauty of a Flower Garland! | 13 August 2011 | 328–337 | source-checked |
+| [3577](letters/3577-the-list-from-three-months-of-rule-leaves-one-breathless.md) | The List from Just Three Months of Rule Leaves One Breathless! | 3 August 2011 | 290–305 | source-checked; alignment PASS via batch record |
+| [3578](letters/3578-one-rule-for-you-another-for-the-rest.md) | One Rule for You; Another for Everyone Else? | 5 August 2011 | 306–312 | source-checked; alignment PASS via batch record |
+| [3579](letters/3579-is-a-tax-free-budget-not-a-distilled-falsehood.md) | Is a Tax-Free Budget Not a Distilled Falsehood? | 6 August 2011 | 313–319 | source-checked; alignment PASS via batch record |
+| [3580](letters/3580-never-mind-let-them-dance-as-long-as-they-can.md) | Never Mind; Let Them Dance as Long as They Can! | 12 August 2011 | 320–327 | source-checked; alignment PASS via batch record |
+| [3581](letters/3581-can-a-monkey-know-the-fragrance-and-beauty-of-a-flower-garland.md) | Can a Monkey Know the Fragrance and Beauty of a Flower Garland! | 13 August 2011 | 328–337 | source-checked; alignment PASS via batch record |
 | [3582](letters/3582-a-sweet-festival-a-festival-of-our-people.md) | A Sweet Festival; a Festival of Our People! | 25 August 2011 | 338–344 | source-checked |
 | [3583](letters/3583-no-authority-dont-you-remember-that-day.md) | No Authority? Don't You Remember That Day? | 1 September 2011 | 345–351 | source-checked |
 | [3584](letters/3584-is-the-very-foundation-being-cut-away.md) | Is the Very Foundation Being Cut Away? | 8 September 2011 | 352–357 | source-checked |
@@ -78,11 +80,13 @@ Main drafting is complete: all **55 / 55** letters are source-checked. Eight bil
 | [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
 | [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
 
-Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **40 / 55, Letters 3537–3576 / PDF 024–289**.
+Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **45 / 55, Letters 3537–3581 / PDF 024–337**.
 
 ## Batch records
 
-Draft/source-check reports remain in this directory. Bilingual alignment reports completed so far include the latest [`BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`](BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md). See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
+Draft/source-check reports remain in this directory. The latest bilingual alignment report is [`BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`](BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md). Machine-readable batch alignment status is maintained under [`alignment-status/`](alignment-status/README.md).
+
+See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
 
 ## Standard bilingual layout
 
@@ -92,8 +96,8 @@ Every letter contains source/translation metadata, the standard translator's not
 
 ## QA boundary
 
-All fifty-five English records are `source-checked`. Letters **3537–3576** have additionally passed direct bilingual meaning-level alignment and are marked `bilingual_alignment_status: aligned`. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
+All fifty-five English records are `source-checked`. Letters **3537–3581** have additionally passed direct bilingual meaning-level alignment. For 3577–3581, that separate gate is recorded in the batch report and sidecar while the large bilingual bodies retain source-check drafting metadata. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
 
 ## Exact next activity
 
-Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter alignment batch. Preserve PDF 290 `18-5-2001` exactly. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
+Align **Letters 3582–3586 / PDF 338–369** as the next five-complete-letter alignment batch. Preserve Letter 3582's source-specific Thai/Chithirai/Tamil-New-Year claims without outside reconciliation, source-supplied English exactly where printed, and Letter 3586's scan-proven title beginning `கழக அரசு`. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Keep the later volume-level English editorial consistency review separate.
