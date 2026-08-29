@@ -2,31 +2,31 @@
 
 ## Durable boundary
 
-**Mandatory first Tamil transcription batch PDF 001–025 is complete and visually first-pass reviewed.**
+**Letter 3484 is complete through PDF 029 after the mandatory first-batch immediate continuation.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Scan-confirmed volume: **44**
 - PDF pages: **400**
-- Canonical page files: **25 / 400**
+- Canonical page files: **29 / 400 — PDF 001–029**
 - Exact printed contents transcription: **PDF 018–022 complete**
 - Source inventory from contents: **53 records, 3484–3536**
-- Completed letters: **0**
-- Partial letter: **3484**
+- Completed letters: **1 — 3484**
+- Partial letter: **none**
 - Translation: **blocked pending Tamil gates**
 
-## Completed activity — first transcription batch
+## Completed activity — Letter 3484 immediate continuation
 
-- Created canonical `pages/page-001.md` through `page-025.md`, including covers, publication matter, dedication, blank pages, foreword, publisher's note, contents, and letter pages.
-- Visually compared all 25 pages directly with the controlling scan before promotion.
-- Transcribed the printed contents on PDF 018–022 while preserving mixed date formats, punctuation and unusual source wording.
-- Created Letter 3484 as a `partial` chapter record because PDF 025 interrupts the letter.
-- Preserved source English on PDF 024 verbatim.
-- Preserved the PDF 025 anomalous printed valuation `1 17 லட்சத்து 54 ஆயிரத்து 868 ரூபாய்` without guessing a missing unit.
-- PDF 026 was deliberately excluded from this batch.
+- Began exactly at PDF 026, continuing the interrupted Letter 3484 from the mandatory first batch.
+- Created and visually verified canonical `page-026.md` through `page-029.md`.
+- Verified the closing on PDF 029 / printed page 28: `அன்புள்ள,` / `மு.க.` / `18-07-2010`.
+- Promoted Letter 3484 from `partial` to `complete`; its verified range is PDF **024–029**, printed pages **23–28**.
+- Inspected PDF 030 / printed page 29 only to establish the next boundary; Letter 3485 begins there and was not transcribed in this commit.
+- Preserved source-specific forms including PDF 027 `கூறி யிருக்கிறார்` and PDF 029 `ஏழையெளிய` / `நிறைவேற்ற வில்லை` without normalization.
 
 ## QA state
 
 - First-batch iteration audit: **PASS — PDF 001–025**
+- Letter 3484 immediate-continuation audit: **PASS — PDF 026–029**
 - Full-volume Tamil structural audit: **blocked until transcription complete**
 - Second visual verification: **pending**
 - Translation textual-fidelity audit: **blocked**
@@ -34,6 +34,4 @@
 
 ## Exact next activity
 
-Begin at **PDF 026** and finish the interrupted Letter **3484** through its verified closing/date page. Update its chapter record from `partial` to `complete`, synchronize contents/metadata/progress/audit/README, and identify the exact next PDF page and Letter 3485.
-
-Do not begin the normal five-complete-letter iterations until Letter 3484 has first been completed in this immediate-continuation commit.
+Begin the first regular **five-complete-letter** transcription iteration at **PDF 030 / printed page 29**, which scan-verifiably begins Letter **3485**. Complete five consecutive source letters **3485–3489** through the actual scan-verified closing of Letter 3489, without relying on contents page numbers as boundary authority. Update all synchronized control files and commit the five-letter iteration atomically.

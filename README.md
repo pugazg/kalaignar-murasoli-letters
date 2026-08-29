@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **25 / 400; mandatory first batch 001–025 PASS; 3484 partial** | **0 / 53; 3484 partial** | **blocked pending Tamil gates** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **29 / 400; first batch 001–025 PASS + 3484 continuation 026–029 PASS** | **1 / 53 — 3484 complete** | **blocked pending Tamil gates** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -32,9 +32,9 @@
 
 ## Volume 44 — active
 
-Volume 44 has completed its mandatory first Tamil transcription batch **PDF 001–025**. All 25 physical pages have canonical Markdown files and have received the iteration's direct visual comparison. Printed contents PDF 018–022 are transcribed, preserving the source's 53-record inventory **3484–3536**.
+Volume 44 has canonical Tamil through **PDF 029**. Letter **3484** is scan-verified complete across PDF **024–029 / printed pages 23–28**, with closing `அன்புள்ள,` / `மு.க.` / `18-07-2010` on PDF 029.
 
-Letter **3484** begins at PDF 024 and remains intentionally `partial` at PDF 025. The exact next activity is to start at **PDF 026** and finish 3484 through its verified closing/date page. Normal five-letter batches begin only after that immediate continuation is complete.
+PDF **030 / printed page 29** visibly begins Letter **3485** but is not yet canonically transcribed. The exact next activity is the first normal five-complete-letter iteration, **3485–3489**, beginning at PDF 030 and ending only at the scan-verified closing of 3489.
 
 ## Volume 45 — released
 

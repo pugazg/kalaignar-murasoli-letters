@@ -20,27 +20,28 @@
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
-| Canonical Tamil pages | **25 / 400 — PDF 001–025** |
+| Canonical Tamil pages | **29 / 400 — PDF 001–029** |
 | Printed contents transcription | **complete — PDF 018–022** |
-| Completed letters | **0 / 53** |
-| Partial letter | **3484 — PDF 024–025; continues at 026** |
-| First-batch iteration audit | **PASS** |
+| Completed letters | **1 / 53 — 3484** |
+| Partial letter | **none** |
+| First-batch iteration audit | **PASS — PDF 001–025** |
+| Letter 3484 immediate-continuation audit | **PASS — PDF 026–029** |
 | Full-volume Tamil structural audit | blocked |
 | Second visual verification | pending |
 | English translation | blocked |
 | Bilingual alignment | blocked |
 | English release | blocked |
 
-## First transcription batch
+## Current durable boundary
 
-The mandatory first batch has been completed **exactly through PDF 025**. Canonical page files exist for every physical page from the front cover through the first two pages of Letter 3484.
+The mandatory first batch is complete through PDF 025 and its required immediate continuation has now completed Letter **3484** through PDF **029 / printed page 28**. The verified closing is `அன்புள்ள,` / `மு.க.` / `18-07-2010`.
 
-The scan-controlled contents pages retain their printed mixed date formats, punctuation and source wording. Letter-start transcription on PDF 024 is kept separately from the contents wording even where they currently agree.
+Source-specific readings and spacing in the continuation were retained without normalization, including PDF 027 `கூறி யிருக்கிறார்` and PDF 029 `ஏழையெளிய` / `நிறைவேற்ற வில்லை`.
 
-A visible source anomaly on PDF 025 — `1 17 லட்சத்து 54 ஆயிரத்து 868 ரூபாய்` — is preserved exactly rather than repaired from context or outside knowledge.
+PDF **030 / printed page 29** visibly begins Letter **3485**. It was inspected only to establish the boundary and has not yet been added as a canonical page.
 
 ## Exact next activity
 
-Begin at **PDF 026** and finish Letter **3484** through its verified closing/date page. That immediate-continuation commit must promote 3484 from `partial` to `complete` and identify the exact start of Letter 3485. Only after that may the normal five-complete-letter transcription iterations begin.
+Begin at **PDF 030** and perform the first regular **five complete consecutive letters** iteration: Letters **3485–3489**. Verify every page against the controlling scan and stop only after the actual closing of Letter 3489 is established. Contents page numbers remain navigation aids, not boundary authority.
 
 English translation remains blocked until the required Tamil gates are complete.

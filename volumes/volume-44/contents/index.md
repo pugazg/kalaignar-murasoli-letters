@@ -4,8 +4,8 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 | Letter | Contents title | Date | Printed page | Verified PDF start | Verified PDF end | Status |
 |---|---|---:|---:|---:|---:|---|
-| 3484 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (3) | 18-07-2010 | 23 | 024 | — | partial |
-| 3485 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (4) | 19-7-2010 | 29 | — | — | pending |
+| 3484 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (3) | 18-07-2010 | 23 | 024 | 029 | complete |
+| 3485 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (4) | 19-7-2010 | 29 | 030 | — | pending |
 | 3486 | தேன் துளிகள்; தேனருவியாகட்டும்! | 22-7-2010 | 37 | — | — | pending |
 | 3487 | தேன் துளிகள்; தேனருவியாகட்டும்! (2) | 23-7-2010 | 45 | — | — | pending |
 | 3488 | இட ஒதுக்கீடும்; இரட்டை வேடமும்! (3) | 25-7-2010 | 57 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. The exact closing/date of Letter 3484 remains pending until its continuation is completed from PDF 026 onward.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letter 3484 is scan-verified complete at PDF 029 / printed page 28; PDF 030 / printed page 29 begins Letter 3485.

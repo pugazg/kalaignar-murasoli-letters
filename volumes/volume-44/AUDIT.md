@@ -74,6 +74,47 @@ Every new canonical page in PDF 001–025 was directly compared with the control
 
 **PASS.** This is an iteration/batch audit only. It is not the full-volume structural audit, second visual verification, or translation textual-fidelity audit.
 
+---
+
+## Gate 2 — Letter 3484 immediate continuation PDF 026–029 — PASS
+
+**Date:** 2026-08-29
+
+### Scope
+
+- Canonical pages created: **4 — page-026.md through page-029.md**
+- Physical PDF scope transcribed in this activity: **026–029 exactly**
+- Letter completed: **3484**
+- Verified letter range: **PDF 024–029 / printed pages 23–28**
+- Verified closing date: **18-07-2010**
+- PDF 030 transcribed: **no**
+- PDF 030 inspected for boundary only: **yes — begins Letter 3485 / printed page 29**
+
+### Visual verification
+
+Every new canonical page in PDF 026–029 was directly compared with the controlling scan. The pass checked the continuation from PDF 025, printed page numbers, figures, punctuation, source-specific spacing, paragraph and physical-page boundaries, and the closing/signature/date on PDF 029.
+
+### Preserved source conditions
+
+- PDF 026 retains the printed comma in `27 லட்சத்து, 8 ஆயிரத்து 720 ரூபாய்` and the source's mixed `லட்சத்து` / `இலட்சத்து` forms.
+- PDF 027 retains the source-printed spacing `கூறி யிருக்கிறார்` and ends physically at `கடந்த`.
+- PDF 028 retains punctuation/forms including `தவிர, -`, `அ.இ.அ.தி. மு.க.`, `ரூ.569.54`, `ரூ.58.66`, `ரூ.628.20`, `14.07.2010`, and `1,45,054`; it ends physically at `நான்காண்டுகளுக்கு`.
+- PDF 029 retains `ஏழையெளிய`, `பயன்பெறும்`, and `நிறைவேற்ற வில்லை` exactly as printed.
+- PDF 029 contains the verified closing `அன்புள்ள,` / `மு.க.` / `18-07-2010`.
+- PDF 030 visibly begins Letter 3485; no text from it was promoted to a canonical page file in this activity.
+
+### Structural checks
+
+- `pages/page-001.md` through `pages/page-029.md`: present after commit
+- Letter 3484 chapter record: promoted to `complete`
+- `contents/index.md`: Letter 3484 end set to PDF 029; Letter 3485 verified start set to PDF 030
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status and handover files: synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** Letter 3484 is complete. This remains a first-pass transcription/iteration audit and is not the later full-volume structural audit or second visual/textual-fidelity verification.
+
 ## Exact next activity
 
-Start at PDF **026** and finish Letter **3484** through its verified closing/date page before beginning regular five-complete-letter iterations.
+Start at **PDF 030 / printed page 29** and complete the first regular five-letter iteration: Letters **3485–3489**, each through its actual scan-verified closing. Commit only after all five consecutive letters are complete and synchronized.

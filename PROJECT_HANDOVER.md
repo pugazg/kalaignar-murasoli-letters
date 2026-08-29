@@ -22,17 +22,18 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–025 / 400**
-- First-batch iteration audit: **PASS**
-- Completed letters: **0**
-- Partial letter: **3484**
+- Canonical Tamil pages: **001–029 / 400**
+- First-batch iteration audit: **PASS — PDF 001–025**
+- Letter 3484 immediate continuation: **PASS — PDF 026–029**
+- Completed letters: **1 — 3484**
+- Partial letter: **none**
 - English: **blocked**
 
-PDF 024 begins Letter 3484 at printed page 23. PDF 025 continues the same letter and preserves a printed anomalous valuation `1 17 லட்சத்து 54 ஆயிரத்து 868 ரூபாய்` without reconstruction.
+Letter 3484 begins on PDF 024 / printed page 23 and is scan-verified complete on PDF 029 / printed page 28, where the closing reads `அன்புள்ள,` / `மு.க.` / `18-07-2010`. Source-specific spacing and forms in the continuation remain unnormalized. PDF 030 / printed page 29 visibly begins Letter 3485 but has not yet been canonically transcribed.
 
 ### Exact next activity
 
-Begin at **PDF 026** and finish Letter **3484** through its verified closing/date page. Update the chapter record from `partial` to `complete`, synchronize control files, and record the exact next PDF page/Letter 3485. Do not begin regular five-complete-letter iterations until this immediate continuation is complete.
+Start at **PDF 030** and execute the first regular five-complete-letter transcription iteration: Letters **3485–3489**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 
