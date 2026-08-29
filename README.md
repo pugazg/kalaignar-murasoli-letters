@@ -6,7 +6,7 @@
 - உள்ளடக்க அட்டவணை தனியாகப் பாதுகாக்கப்படும்.
 - ஒவ்வொரு கடிதத்திற்கும் `chapters/` கட்டமைப்பு பதிவு இருக்கும்.
 - அச்சுப் பிழைகள், source anomalies, punctuation, figures மற்றும் physical boundaries அமைதியாகத் திருத்தப்படாது.
-- English bilingual records source-audited canonical Tamil-இலிருந்து உருவாக்கப்படும்; translation/alignment source-ஐ outside knowledge கொண்டு silently correct செய்யக் கூடாது.
+- English bilingual records source-audited canonical Tamil-இலிருந்து உருவாக்கப்படும்; translation/QA source-ஐ outside knowledge கொண்டு silently correct செய்யக் கூடாது.
 
 ## தொகுதிகள் 1–48 — முதன்மை செயல்முறை
 
@@ -25,7 +25,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 55 / 55 bilingual-aligned; editorial consistency review next** |
+| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 55 / 55 bilingual-aligned; 55 / 55 editorially reviewed; release packaging next** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
@@ -35,12 +35,12 @@
 
 Volume 45 Tamil archival work is complete: **402 / 402 canonical PDF pages**, **55 / 55 source letters, 3537–3591**, structural audit **PASS**, second direct visual/textual-fidelity audit **PASS**. The historical second-pass tally is **243 corrected canonical page files / 623 correction spans**. Letter 3560 English source-check exposed one residual omission on already-corrected PDF 187; it was directly repaired from the scan, leaving **243 unique corrected pages / 624 combined scan-proven spans**.
 
-English main drafting is complete at **55 / 55 source-checked**. All eleven bilingual alignment batches are now complete through **3587–3591 / PDF 370–401**, bringing cumulative alignment to **55 / 55 — 3537–3591 / PDF 024–401**. The final batch passed **5 / 5**, with **1 English-only correction**, **0 Tamil changes**, and **0 new scan re-checks**.
+English main drafting is complete at **55 / 55 source-checked**. All eleven bilingual alignment batches are complete, bringing cumulative alignment to **55 / 55 — 3537–3591 / PDF 024–401**.
 
-During the final batch, Letter 3589's engineering-university paragraph was corrected to remove the unprinted distancing hedge “in the source's argument” and to render the direct Tamil `நாசமாக்கி அழித்திடும்` as **“will destroy.”** Canonical Tamil remains unchanged. Earlier alignment-triggered direct scan re-check of Letter 3583 continues to preserve the physical PDF 348→349 source `வாக்க` / `எதிரிகளை` with the conservative English **“enemies.”**
+The separate **Volume 45 English editorial consistency review has now passed at 55 / 55**. It found **0 bilingual letter-body editorial corrections, 0 Tamil changes and 0 new scan re-checks**. The review is recorded in [`volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
 
-Current English QA totals: **55 / 55 source-checked**, **55 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
+Current English QA totals: **55 / 55 source-checked**, **55 / 55 bilingual-aligned**, **55 / 55 editorially reviewed**, **0 / 55 final verified**.
 
-**Exact next activity:** perform the separate **Volume 45 volume-level English editorial consistency review across all 55 bilingual records**. Release manifest/final-report work remains blocked until that gate passes.
+**Exact next activity:** prepare and validate the **Volume 45 English translation manifest and final English release report**, reconcile exactly 55 source-letter records, perform final release verification, and synchronize release controls.
 
-Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [latest alignment review](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md), [alignment status sidecars](volumes/volume-45/translations/en/alignment-status/README.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [editorial consistency review](volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md), [latest alignment review](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md), [alignment status sidecars](volumes/volume-45/translations/en/alignment-status/README.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).

@@ -2,7 +2,7 @@
 
 ## Source
 
-The scan is authoritative. OCR, outside sources, another edition and historical expectation are not authoritative. The audited canonical Tamil is the immediate source for English translation/alignment; the scan remains ultimate authority if English review exposes a possible Tamil discrepancy.
+The scan is authoritative. OCR, outside sources, another edition and historical expectation are not authoritative. The audited canonical Tamil is the immediate source for English translation/QA; the scan remains ultimate authority if English review exposes a possible Tamil discrepancy.
 
 ## Tamil QA status
 
@@ -37,21 +37,7 @@ PDF 187 was already one of the historical 243 corrected pages, so the historical
 ### Alignment-triggered scan re-check — PDF 348→349
 Status: **SCAN CONFIRMED; NO TAMIL CHANGE — 2026-08-29**
 
-During bilingual alignment of Letter 3583, the English phrase “class enemies” raised a possible source-normalization issue. The canonical Tamil is split physically across PDF 348→349 as `வாக்க` / `எதிரிகளை`. A direct re-render and scan inspection confirmed that the printed page really ends with `வாக்க` and the following page begins `எதிரிகளை`.
-
-The canonical Tamil therefore remains unchanged. The English was corrected conservatively from **“the policy of eliminating class enemies”** to **“a policy of eliminating enemies”**, avoiding a silent normalization to the unprinted `வர்க்க எதிரிகளை`. This event does not change the Tamil correction counts.
-
-## Current Tamil QA boundary
-
-- Canonical page coverage: **402 / 402**.
-- Source-letter coverage: **55 / 55 — 3537–3591**.
-- Full-volume Tamil structural audit: **PASS**.
-- Second full-volume visual/textual-fidelity audit: **PASS**.
-- Historical second-pass correction tally: **243 pages / 623 spans**.
-- Translation-discovered post-audit correction: **PDF 187 / 1 span**.
-- Combined canonical scan-proven correction tally: **243 unique pages / 624 spans**.
-- Alignment re-check PDF 348→349: **source form confirmed; no Tamil correction**.
-- Drafting batches 3565–3591 and all alignment batches 3537–3591 exposed **no additional Tamil canonical correction** beyond the already recorded PDF 187 event.
+During bilingual alignment of Letter 3583, the English phrase “class enemies” raised a possible source-normalization issue. The canonical Tamil is split physically across PDF 348→349 as `வாக்க` / `எதிரிகளை`. Direct scan inspection confirmed that printed form. Canonical Tamil remained unchanged; the English was corrected conservatively to **“a policy of eliminating enemies.”**
 
 ## English drafting QA boundary
 
@@ -61,7 +47,7 @@ The canonical Tamil therefore remains unchanged. The English was corrected conse
 
 ## Bilingual alignment QA boundary
 
-Completed alignment batches:
+All eleven alignment batches passed:
 
 - **3537–3541 / PDF 024–060** — PASS — English corrections 0; Tamil changes 0.
 - **3542–3546 / PDF 061–103** — PASS — English corrections 1; Tamil changes 0.
@@ -73,27 +59,42 @@ Completed alignment batches:
 - **3572–3576 / PDF 261–289** — PASS — English corrections 2; Tamil changes 0.
 - **3577–3581 / PDF 290–337** — PASS — English corrections 0; Tamil changes 0.
 - **3582–3586 / PDF 338–369** — PASS — English corrections 1; Tamil changes 0.
-- **3587–3591 / PDF 370–401** — **PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.**
+- **3587–3591 / PDF 370–401** — PASS — English corrections 1; Tamil changes 0.
 
 Current cumulative alignment: **55 / 55 — Letters 3537–3591 / PDF 024–401 — COMPLETE**.
 
-The final batch directly compared all five complete bilingual records against their complete audited Tamil. Letter 3589 required one English-only correction: the unprinted distancing hedge “in the source's argument” was removed, and the direct Tamil `நாசமாக்கி அழித்திடும்` is represented as **“will destroy”** in the engineering-university paragraph. The canonical Tamil was clear and already scan-audited, so no new targeted scan re-check or Tamil change was required.
+The large bilingual letter bodies retain their drafting-layer `translation_status: source-checked`; later sidecar-tracked files may also retain implementation-level pending alignment front matter. Detailed alignment reports and sidecars are the durable alignment authority.
 
-Letters 3587, 3588, 3590 and 3591 passed without English correction. Letter 3587's source-specific successive `1-9-2006` / `31-8-2006` formulations remain preserved rather than externally reconciled.
+## Volume-level English editorial consistency review
 
-Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`.
+Status: **PASS — 55 / 55 — 2026-08-29**
 
-Machine-readable alignment closure: `translations/en/alignment-status/3587-3591.yml`. The large bilingual letter bodies retain their drafting-layer `translation_status: source-checked` and pending alignment front-matter convention; the report and sidecar record the separate completed meaning-level alignment gate. This does not imply editorial review or final release verification.
+Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 
-Current English QA totals:
+The review treated all 55 bilingual records as one English corpus. It checked title/front-matter/index agreement, dates and source-page ranges, translator-note wording, names/honorifics, places/transliteration, institutional/legal/political terminology, glossary decisions, `lakh` / `crore`, spelling/compounds, punctuation and quotations, source-supplied English, source-anomaly handling, stale control-layer wording and the durable record of complete `Original Tamil — மூலத் தமிழ்` appendices.
 
-- Source-checked: **55 / 55**.
+Result:
+
+- Editorially reviewed: **55 / 55**.
+- Bilingual letter-body editorial corrections: **0**.
+- Canonical Tamil corrections: **0**.
+- New direct scan re-checks: **0**.
+- Final verified for release: **0 / 55**.
+
+The pass deliberately did not bulk-rewrite large bilingual records solely to duplicate central QA status. No possible Tamil defect was exposed.
+
+## Current QA boundary
+
+- Canonical page coverage: **402 / 402**.
+- Source-letter coverage: **55 / 55 — 3537–3591**.
+- Full-volume Tamil structural audit: **PASS**.
+- Second full-volume visual/textual-fidelity audit: **PASS**.
+- Combined scan-proven correction tally: **243 unique pages / 624 spans**.
+- Source-checked English: **55 / 55**.
 - Bilingual-aligned: **55 / 55**.
-- Editorially reviewed: **0 / 55**.
+- Editorially reviewed: **55 / 55**.
 - Final verified for release: **0 / 55**.
 
 ## Exact next activity
 
-Perform the **Volume 45 volume-level English editorial consistency review** across all **55 bilingual records**. Check title/front-matter/index agreement, translator-note status wording, names and honorifics, places and transliteration, institutional/legal terminology, spelling and compounds, punctuation, dates and page ranges, glossary decisions, stale drafting/pending control fields, source-anomaly labels and complete appended Tamil.
-
-The editorial pass must not alter political meaning, attribution, uncertainty, figures, quotations, rhetorical force or canonical Tamil unless a fresh direct scan check proves a Tamil defect. The translation manifest and final English release report remain blocked until this editorial gate passes.
+Prepare and validate the **Volume 45 English translation manifest and final English release report**. Reconcile exactly **55 source-letter records, 3537–3591**, perform final release verification and synchronize release controls. Do not mark the English release complete until that gate passes.
