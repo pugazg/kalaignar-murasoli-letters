@@ -27,7 +27,7 @@ For English work, the audited canonical Tamil is the immediate translation/align
 - Translation-discovered targeted correction: **PDF 187 / 1 additional scan-proven span**
 - Combined canonical correction tally: **243 unique corrected page files / 624 spans**
 
-Letter 3576 is scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the earlier `பார்!` control-layer reading is withdrawn. Letter 3575 retains a genuine source-context punctuation difference: contents `...!` versus letter-start `....!`. Letter 3586 is scan-proven as `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the former `தமிழக அரசு...` reading is withdrawn.
+Letter 3576 is scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the earlier `பார்!` reading is withdrawn. Letter 3575 retains a genuine source-context punctuation difference: contents `...!` versus letter-start `....!`. Letter 3586 is scan-proven as `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the former `தமிழக அரசு...` reading is withdrawn.
 
 ### Translation-discovered PDF 187 correction
 
@@ -45,40 +45,50 @@ Current drafting state:
 
 ### Bilingual alignment — IN PROGRESS
 
-Eight batches are complete. Latest:
+Nine batches are complete. Latest:
 
-- **3572–3576 / PDF 261–289 / 29 pages** — **PASS — 5 / 5 aligned; English corrections 2; Tamil changes 0.**
-- Report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`.
+- **3577–3581 / PDF 290–337 / 48 pages** — **PASS — 5 / 5 aligned; English corrections 0; Tamil changes 0.**
+- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`.
+- Machine-readable batch status: `volumes/volume-45/translations/en/alignment-status/3577-3581.yml`.
 
-Eighth-batch English-only corrections:
+Ninth-batch source-specific results:
 
-- **Letter 3573:** source PDF 268 `இனி தொலைவாய்` is now represented as **“Now, be gone!”**, replacing the softer “Your time is now ending!”. Canonical Tamil is unchanged.
-- **Letter 3576:** source `போர்க் குற்றங்களை அடுத்து` is now represented as **“following the war crimes”**, removing the unsupported added qualification “war-crime allegations”. Canonical Tamil is unchanged.
+- **3577:** exhaustive law-and-order catalogue aligns; PDF 290 `18-5-2001` is preserved exactly; the source's own opening “three months” and closing “two months” formulations remain distinct.
+- **3578:** Jaffer Sait / Housing Board discretionary-quota history, allottee lists, measurements, joint venture, same-plot family sequence, suspension/Mandapam order and fasting-period argument align without correction.
+- **3579:** all debt, borrowing, revenue, welfare, housing and power figures align; the two source-supplied *The Hindu* English passages remain verbatim.
+- **3580:** false-case examples, judicial observations, land-grab argument, George IPS source English/Tamil layers and seven listed policing consequences align without correction.
+- **3581:** complete `செம்மொழி வாழ்த்து`, Thanjavur conference contrast and detailed textbook-removal catalogue align without correction; Thai/Tamil-New-Year wording remains source-specific.
 
-Letter 3575's genuine contents `...!` versus letter-start `....!` difference remains preserved. Letter 3576 remains scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`. PDF 276 source-supplied Supreme Court English, including `xxx` and `xxxx”`, remains verbatim.
+No Tamil canonical file changed during the ninth batch.
+
+The large bilingual bodies for 3577–3581 retain their `translation_status: source-checked` drafting metadata. Their separate bilingual-alignment closure is recorded durably by the detailed report and machine-readable sidecar. Do not mistake that implementation detail for a missing QA gate.
 
 Current English QA totals:
 
 - Source-checked: **55 / 55**
-- Bilingual-aligned: **40 / 55 — 3537–3576 / PDF 024–289**
+- Bilingual-aligned: **45 / 55 — 3537–3581 / PDF 024–337**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — bilingual-alignment batch 3577–3581
+### Exact next activity — bilingual-alignment batch 3582–3586
 
 Align five complete consecutive letters:
 
-- **3577** — `மூன்று மாத ஆட்சிப் பட்டியலே மூச்சு முட்டுகிறதே!` — PDF **290–305** — 3-8-2011
-- **3578** — `உனக்கொரு நீதி; ஊருக்கொரு நீதியா?` — PDF **306–312** — 5-8-2011
-- **3579** — `வரியில்லா பட்ஜெட் என்பது வடிகட்டிய பொய்யல்லவா?` — PDF **313–319** — 6-8-2011
-- **3580** — `பரவாயில்லை; ஆடும் வரை ஆடட்டும்!` — PDF **320–327** — 12-08-2011
-- **3581** — `மந்தி அறியுமா; மலர்மாலை மணமும் அழகும்!` — PDF **328–337** — 13-8-2011
+- **3582** — `இனிய விழா; நமது இனத்தின் விழா!` — PDF **338–344** — 25-8-2011
+- **3583** — `அதிகாரம் இல்லை? அந்தநாள் ஞாபகம் இல்லையா?` — PDF **345–351** — 1-9-2011
+- **3584** — `அடிநாதமே; அறுக்கப்படுவதா?` — PDF **352–357** — 8-9-2011
+- **3585** — `அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!!` — PDF **358–364** — 10-9-2011
+- **3586** — `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!` — PDF **365–369** — 12-9-2011
 
-Combined next range: **PDF 290–337 / 48 canonical pages**.
+Combined next range: **PDF 338–369 / 32 canonical pages**.
 
-Established caution: PDF **290** preserves `18-5-2001` exactly. Do not silently reconcile it with chronology or outside knowledge.
+Source cautions:
 
-For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any new Tamil defect is suspected, re-check the controlling scan before changing either layer; mark passed records `bilingual_alignment_status: aligned`; create a durable batch report and update controls.
+- Preserve Letter 3582's source-specific Thai / Chithirai / Tamil-New-Year claims without outside reconciliation.
+- Preserve source-supplied English exactly wherever printed.
+- Letter 3586 is scan-proven as beginning `கழக அரசு`; stale `தமிழக அரசு...` remains withdrawn.
+
+For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any new Tamil defect is suspected, re-check the controlling scan before changing either layer; create a durable batch report and machine-readable alignment status; update all controls.
 
 Do **not** merge the later volume-level English editorial consistency review into bilingual alignment.
 
@@ -91,7 +101,7 @@ Keep stages distinct:
 3. second full-volume direct visual/textual-fidelity verification;
 4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 40 / 55 aligned; next 3577–3581 / PDF 290–337**;
+6. bilingual alignment — **IN PROGRESS; 45 / 55 aligned; next 3582–3586 / PDF 338–369**;
 7. volume-level English editorial consistency review;
 8. release manifest/report.
 
@@ -103,7 +113,7 @@ Keep stages distinct:
 - Preserve unrelated concurrent changes.
 - Keep declared batch/gate scope explicit.
 - Prefer atomic commits where technically possible.
-- Do not rewrite earlier incremental connector history.
+- If connector limitations cause an incremental publication sequence, do not rewrite history merely to make it atomic; make the durable boundary internally consistent before stopping.
 - Remove temporary artifacts from repository trees.
 - Verify live `main` after completed work.
 
