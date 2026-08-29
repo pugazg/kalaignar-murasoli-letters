@@ -8,7 +8,7 @@ The pilot was translated only from the scan-audited canonical Tamil. No Tamil ca
 
 ## Drafting closure
 
-The pilot handed off to ten normal drafting batches and one final two-letter batch. Main drafting is now **COMPLETE — 55 / 55 source-checked, Letters 3537–3591 / PDF 024–401**. Letter 3560 source-check exposed one residual Tamil omission on PDF 187; it was directly rechecked against the controlling scan and repaired. Later drafting batches exposed no new Tamil canonical discrepancy.
+The pilot handed off to the complete main drafting run. Main drafting is now **COMPLETE — 55 / 55 source-checked, Letters 3537–3591 / PDF 024–401**. Letter 3560 source-check exposed one residual Tamil omission on PDF 187; it was directly rechecked against the controlling scan and repaired. Later drafting batches exposed no new Tamil canonical discrepancy.
 
 ## Bilingual alignment gate — in progress
 
@@ -21,16 +21,19 @@ Completed alignment batches:
 - **3557–3561 / PDF 164–196** — PASS; English corrections 2; Tamil changes 0.
 - **3562–3566 / PDF 197–230** — PASS; English corrections 2; Tamil changes 0.
 - **3567–3571 / PDF 231–260** — PASS; English corrections 1; Tamil changes 0.
-- **3572–3576 / PDF 261–289** — **PASS; English corrections 2; Tamil changes 0.**
+- **3572–3576 / PDF 261–289** — PASS; English corrections 2; Tamil changes 0.
+- **3577–3581 / PDF 290–337** — **PASS; English corrections 0; Tamil changes 0.**
 
-Latest report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md).
+Latest report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md).
 
-The eighth batch made two English-only corrections: Letter 3573 now preserves PDF 268 `இனி தொலைவாய்` as **“Now, be gone!”**; Letter 3576 now follows `போர்க் குற்றங்களை அடுத்து` as **“following the war crimes”**, removing the unsupported “war-crime allegations” qualification. Canonical Tamil did not change.
+Machine-readable ninth-batch status: [`translations/en/alignment-status/3577-3581.yml`](translations/en/alignment-status/3577-3581.yml).
 
-The aligned records retain `translation_status: source-checked` and use `bilingual_alignment_status: aligned`; the later editorial and final release gates remain separate.
+The ninth batch preserved PDF 290 `18-5-2001` exactly, retained Letter 3577's distinct opening “three months” and closing “two months” wording, and found no English or Tamil correction necessary across Letters 3577–3581.
 
-Current cumulative alignment: **40 / 55 — 3537–3576 / PDF 024–289**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
+The large bilingual records retain their drafting status `translation_status: source-checked`; the detailed alignment report and sidecar durably record the separate bilingual meaning-level gate. The later editorial and final release gates remain separate.
+
+Current cumulative alignment: **45 / 55 — 3537–3581 / PDF 024–337**. Editorially reviewed: **0 / 55**. Final verified: **0 / 55**.
 
 ## Current exact next activity
 
-Align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter bilingual-alignment batch. Preserve PDF 290 `18-5-2001` exactly. Do not begin the later volume-level editorial consistency review.
+Align **Letters 3582–3586 / PDF 338–369** as the next five-complete-letter bilingual-alignment batch. Preserve Letter 3582's source-specific Thai/Chithirai/Tamil-New-Year claims without outside reconciliation, preserve source-supplied English exactly where printed, and preserve Letter 3586's scan-proven title beginning `கழக அரசு`. Do not begin the later volume-level editorial consistency review.
