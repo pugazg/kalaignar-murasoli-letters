@@ -1,0 +1,45 @@
+volume: 44
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 44"
+author: "கலைஞர்"
+date_from: 2010-07-18
+date_to: 2011-03-11
+letter_number_from: 3484
+letter_number_to: 3536
+letter_count: 53
+letter_inventory_status: "provisional-from-printed-contents"
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+pdf_pages: 400
+source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf"
+source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
+source_size_bytes: 202106488
+searchable_text_layer: false
+transcription_page_range: null
+transcription_status: "not-started"
+recorded_letter_range: null
+completed_letter_range: null
+completed_letter_count: 0
+partial_letter: null
+source_incomplete_letters: []
+source_incomplete_letter_count: 0
+source_missing_printed_pages: []
+audit_status: "source-intake-complete"
+audit_date: 2026-08-29
+second_visual_verification: "pending"
+second_visual_verified_page_range: null
+textual_fidelity_audit_reports: []
+translation_status: "blocked-pending-tamil-gates"
+translated_letter_range: null
+translated_letter_count: 0
+bilingual_alignment_status: "not-started"
+english_release_status: "not-started"
+source_observations:
+  - "Volume number 44 is printed on the front cover and title page."
+  - "Front cover/title page print the date span 18.07.2010–11.03.2011."
+  - "Printed contents on PDF 018–022 provisionally enumerate 53 records, 3484–3536; contents do not control later letter-boundary or title verification."
+  - "PDF 005 and PDF 023 are visually blank/verso pages with bleed-through."
+  - "No usable searchable text layer was found; OCR/text extraction is not authoritative."
+  - "All 400 PDF pages reported rotation 0 during intake inspection; no exact duplicate-page raster signal was detected."
+  - "PDF 024 begins letter 3484 at printed page 23; PDF 025 continues that letter, so the first mandatory transcription batch must end with letter 3484 partial."

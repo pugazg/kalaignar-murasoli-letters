@@ -23,11 +23,18 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **source intake complete; transcription 0 / 400; first batch 001–025 pending** | **0 / 53 provisional; 3484–3536 from contents** | **blocked pending Tamil gates** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
 | 49 | 01.06.2013–10.10.2013 | 402 | **complete** | **53** | **53 / 53 verified; editorial release complete** |
+
+## Volume 44 — active
+
+Volume 44 has passed source intake only. The attached scan confirms **400 PDF pages**, Volume **44**, date span **18.07.2010–11.03.2011**, and a provisional printed-contents inventory of **53 records (3484–3536)**.
+
+The exact next activity is the mandatory first Tamil transcription commit covering **PDF 001–025 only**. PDF 025 is inside letter 3484, so that letter must remain `partial` at the end of the first batch.
 
 ## Volume 45 — released
 
@@ -41,5 +48,3 @@ Release artifacts:
 - [Editorial consistency review](volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
 
 Manifest validation: **55 records; no duplicate letter numbers; no duplicate English paths; no missing English records; no source-incomplete records**.
-
-No Volume 45 gate remains pending. The next archival activity requires the controlling source PDF for the next supplied volume and should follow `START_NEXT_MURASOLI_VOLUME_PROMPT.md`.

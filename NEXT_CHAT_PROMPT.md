@@ -1,4 +1,4 @@
-# Next Chat Prompt — Continue Murasoli Letters with the Next Source Volume
+# Next Chat Prompt — Continue Murasoli Letters Volume 44
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,42 +6,39 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
+Attach the controlling source PDF again when starting a fresh chat:
+
+`TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
+
 ## Durable boundary
 
-**Volume 45 is complete and locked at the routine-processing level.**
+**Volume 44 source intake is complete; Tamil transcription has not started.**
 
-- Tamil canonical pages: **402 / 402**
-- Source letters: **55 / 55 — 3537–3591**
-- Full structural audit: **PASS**
-- Second visual/textual-fidelity verification: **PASS**
-- English source-check: **55 / 55**
-- Bilingual alignment: **55 / 55**
-- Editorial consistency: **55 / 55 PASS**
-- Final release verification: **55 / 55 PASS**
-- Manifest: `volumes/volume-45/translations/en/TRANSLATION_MANIFEST.csv`
-- Release report: `volumes/volume-45/translations/en/RELEASE_REPORT.md`
+- Scan-confirmed volume: **44**
+- PDF pages: **400**
+- Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
+- Date span printed on cover/title: **18.07.2010–11.03.2011**
+- Printed contents: PDF **018–022**
+- Provisional source inventory: **53 records, 3484–3536**
+- Canonical pages: **0 / 400**
+- Completed letters: **0**
+- English translation: **blocked**
 
-Do not reopen Volume 45 unless a demonstrated source defect or explicit new task requires it.
+PDF 024 begins letter 3484 at printed page 23, and PDF 025 continues that letter.
 
-## Next activity
+## Exact next activity
 
-Use the **next supplied Murasoli Letters controlling source PDF** and begin or continue that volume under the standard workflow. At the current boundary `volumes/volume-44/` is not present; do not create it, infer that it is necessarily the supplied volume, or populate any source facts until the scan itself confirms the volume number.
+Execute the mandatory first transcription batch **PDF pages 001–025 exactly**:
 
-Before making any repository change:
+1. create `volumes/volume-44/pages/page-001.md` through `page-025.md`;
+2. visually compare every new page with the controlling scan;
+3. preserve covers, publisher matter, foreword/publisher text, contents, blanks and letter text without silent normalization;
+4. transcribe printed contents PDF 018–022 exactly into the canonical page files and update `contents/index.md`;
+5. create/update the 3484 chapter record as `partial`;
+6. update `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, volume `README.md`, and any applicable root status;
+7. stop exactly at PDF 025 — do not include PDF 026;
+8. commit the batch atomically with message `Transcribe Volume 44 PDF pages 001-025`.
 
-1. Fetch live `main` and treat it as authoritative.
-2. Read completely:
-   - `VOLUME_PROCESSING_GUIDE.md`
-   - `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-   - `TRANSCRIPTION_GUIDE.md`
-   - `FUTURE_VOLUME_WORK_GUIDELINES.md`
-   - `PROJECT_HANDOVER.md`
-   - `START_NEXT_MURASOLI_VOLUME_PROMPT.md`
-3. Inspect the repository for any existing work matching the supplied volume/source.
-4. Inspect the controlling scan itself and verify the volume number before creating metadata or files.
-5. If the volume is new, follow the mandatory source-intake workflow and make the first transcription commit **exactly PDF pages 001–025**.
-6. If work already exists, continue from its durable repository boundary instead of restarting or duplicating it.
+After that commit, the next activity is to begin at PDF 026 and finish letter 3484 before regular five-complete-letter transcription iterations.
 
-The source scan is the highest textual authority. Never silently modernize, normalize, repair or reconstruct printed Tamil from OCR, another edition or outside knowledge.
-
-When I say **“Proceed with next activity”**, execute the next clearly defined batch/gate for the active supplied volume directly. If no new controlling PDF has been supplied, report that the completed Volume 45 boundary is durable and that the next source scan is required before a new-volume intake can safely begin.
+Before changing anything, fetch live `main`, read the controlling guides and target-volume durable files, and preserve any concurrent unrelated changes. The scan is the highest textual authority; OCR and contents are aids only.

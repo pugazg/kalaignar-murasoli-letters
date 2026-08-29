@@ -10,57 +10,41 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
+## Volume 44 — ACTIVE
+
+Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
+
+Source intake is complete:
+
+- Scan-confirmed volume: **44**
+- PDF pages: **400**
+- SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
+- Source size: **202,106,488 bytes**
+- Printed publisher: **சீதை பதிப்பகம்**
+- Printed edition/year: **1st Edition — 2022**
+- Cover/title date span: **18.07.2010–11.03.2011**
+- Printed contents: PDF **018–022**
+- Provisional contents inventory: **53 records, 3484–3536**
+- Canonical Tamil: **0 / 400**
+- English: **blocked**
+
+PDF 024 begins letter 3484 at printed page 23. PDF 025 continues the same letter. Therefore the next activity is the mandatory first transcription commit **PDF 001–025 exactly**, ending with letter 3484 `partial`. PDF 026 must not be included in that first commit.
+
+The following commit must begin at PDF 026 and finish letter 3484 before normal five-complete-letter iterations begin.
+
 ## Volume 45 — COMPLETE
 
 Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
-
-Tamil archival state:
 
 - PDF pages: **402**
 - Canonical Tamil: **001–402 / 402**
 - Source letters: **55 / 55 — 3537–3591**
 - Structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Historical second-pass corrections: **243 page files / 623 spans**
-- Translation-discovered correction: **PDF 187 / 1 additional scan-proven span**
-- Combined correction tally: **243 unique page files / 624 spans**
-
-English state:
-
-- Source-checked: **55 / 55**
-- Bilingual-aligned: **55 / 55**
-- Editorially reviewed: **55 / 55**
-- Final verified: **55 / 55**
-- Translated canonical source: **PDF 024–401**
+- English source-checked/aligned/editorially reviewed/final verified: **55 / 55**
 - Source-incomplete records: **0**
 
-Release artifacts:
-
-- `volumes/volume-45/translations/en/TRANSLATION_MANIFEST.csv`
-- `volumes/volume-45/translations/en/RELEASE_REPORT.md`
-- `volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
-
-Manifest validation passed with **55 rows, 0 duplicate letter numbers, 0 duplicate English paths, 0 missing English records and 0 source-incomplete records**. Every released bilingual record is covered by source-check, alignment and editorial QA and retains complete audited Tamil.
-
-No substantive English or canonical Tamil change was required during final release packaging. The scan-proven source conditions already documented for Letters 3575, 3576, 3583, 3586, 3587 and PDF 187 remain unchanged.
-
-## QA separation for Volume 45
-
-1. Tamil transcription — COMPLETE
-2. Full-volume structural audit — PASS
-3. Second visual/textual-fidelity verification — PASS
-4. English drafting/source-check — COMPLETE 55 / 55
-5. Bilingual alignment — COMPLETE 55 / 55
-6. Volume-level editorial consistency review — PASS 55 / 55
-7. Manifest/final release verification — PASS 55 / 55
-
-**Volume 45 has no pending gate.**
-
-## Next project activity
-
-Do not continue routine Volume 45 processing. The next archival activity is intake/continuation of the **next supplied Murasoli Letters volume** using its attached controlling PDF and `START_NEXT_MURASOLI_VOLUME_PROMPT.md`.
-
-At this durable boundary, `volumes/volume-44/` does not exist on `main`; do not create it or assume its source facts without its controlling scan. When the next source PDF is supplied, verify the volume number from the scan itself and follow the mandatory new-volume intake/transcription workflow.
+Release artifacts remain under `volumes/volume-45/translations/en/`.
 
 ## Git discipline
 
