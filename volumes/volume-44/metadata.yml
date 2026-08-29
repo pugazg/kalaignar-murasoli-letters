@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள�
 source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
 source_size_bytes: 202106488
 searchable_text_layer: false
-transcription_page_range: "1-139"
+transcription_page_range: "1-165"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3484-3499"
-completed_letter_range: "3484-3499"
-completed_letter_count: 16
+recorded_letter_range: "3484-3504"
+completed_letter_range: "3484-3504"
+completed_letter_count: 21
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-3495-3499-pass"
+audit_status: "batch-3500-3504-pass"
 audit_date: 2026-08-29
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -55,4 +55,7 @@ source_observations:
   - "Letters 3495–3499 are scan-verified complete across PDF 105–139 / printed pages 104–138."
   - "Verified closing dates: 3495 2-9-2010; 3496 3-9-2010; 3497 4-9-2010; 3498 7-9-2010; 3499 18-9-2010."
   - "The batch preserves source-specific forms including PDF 114 'துயர் உறுவோர்', PDF 117 '“டெண்டர்”களே', PDF 126 'திருஇடத்தவர்கள்' / 'திருஇடத்தினர்', PDF 136 '79,13,344', and PDF 137 'ஒரு புரிந்துணர்ந்து ஒப்பந்தம்'."
-  - "PDF 140 / printed page 139 begins letter 3500 and was inspected only to establish the next boundary; it is not yet canonically transcribed."
+  - "Letters 3500–3504 are scan-verified complete across PDF 140–165 / printed pages 139–164."
+  - "Verified closing dates: 3500 19-9-2010; 3501 20-09-2010; 3502 4-10-2010; 3503 6-10-2010; 3504 13-10-2010."
+  - "The batch preserves source-specific forms including PDF 142 'சேருவார் தோஷம்தானே?', PDF 157 '17 இலட்சத்து 28 ஆயிரம் ஆண்டுகள்', PDF 159 'என்பதையாரும்' / 'குறைகளைக்களைந்து', PDF 161 '713 பேருந்துகள் ஓடவில்லை', and PDF 163 'பணியாற்றியகளைப்புடன்'."
+  - "PDF 166 / printed page 165 begins letter 3505 and was inspected only to establish the next boundary; it is not yet canonically transcribed."

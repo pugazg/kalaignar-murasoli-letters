@@ -22,21 +22,22 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–139 / 400**
+- Canonical Tamil pages: **001–165 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
 - First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
 - Second regular five-letter batch: **PASS — 3490–3494 / PDF 075–104**
 - Third regular five-letter batch: **PASS — 3495–3499 / PDF 105–139**
-- Completed letters: **16 — 3484–3499**
+- Fourth regular five-letter batch: **PASS — 3500–3504 / PDF 140–165**
+- Completed letters: **21 — 3484–3504**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3495 PDF 105–111, 3496 PDF 112–117, 3497 PDF 118–124, 3498 PDF 125–132, and 3499 PDF 133–139. The scan-printed closings are 2-9-2010, 3-9-2010, 4-9-2010, 7-9-2010 and 18-9-2010. Source-specific anomalies and unusual wording remain unnormalized. PDF 140 / printed page 139 visibly begins Letter 3500 but is not yet canonical.
+The latest batch boundaries are 3500 PDF 140–147, 3501 PDF 148–153, 3502 PDF 154–158, 3503 PDF 159–162, and 3504 PDF 163–165. The scan-printed closings are 19-9-2010, 20-09-2010, 4-10-2010, 6-10-2010 and 13-10-2010. Source-specific anomalies and unusual wording remain unnormalized. PDF 166 / printed page 165 visibly begins Letter 3505 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 140** and execute the next regular five-complete-letter transcription iteration: Letters **3500–3504**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 166** and execute the next regular five-complete-letter transcription iteration: Letters **3505–3509**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

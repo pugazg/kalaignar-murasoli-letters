@@ -20,12 +20,12 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3497 | வன்முறைக்கு வக்காலத்து வாய்மை ஆகுமா? | 4-9-2010 | 117 | 118 | 124 | complete |
 | 3498 | அன்பில் சிலையாகி; அழைக்கின்றார்! | 7-9-2010 | 124 | 125 | 132 | complete |
 | 3499 | மலையேறி நிற்போரல்ல நாம்! | 18-9-2010 | 132 | 133 | 139 | complete |
-| 3500 | எதிர்க்கட்சியாக இருங்கள்; எதிரிக்கட்சியாக அல்ல! | 19-9-2010 | 139 | 140 | — | pending |
-| 3501 | நிந்தனை விடுத்து; சிந்தனை செய் மனமே! | 20-09-2010 | 147 | — | — | pending |
-| 3502 | இரு விழாக்கள்; ஒரு ஒப்பீடு! | 4-10-2010 | 153 | — | — | pending |
-| 3503 | அமளியும் - வன்முறையும் ஜனநாயகமா? | 6-10-2010 | 158 | — | — | pending |
-| 3504 | மத்திய அரசாணைக்கும் இப்படியொரு மறுப்பா? | 13-10-2010 | 162 | — | — | pending |
-| 3505 | “வாழ்க வசவாளர்” என்ற வாசகத்தை மறக்கலாமா? | 17-10-2010 | 165 | — | — | pending |
+| 3500 | எதிர்க்கட்சியாக இருங்கள்; எதிரிக்கட்சியாக அல்ல! | 19-9-2010 | 139 | 140 | 147 | complete |
+| 3501 | நிந்தனை விடுத்து; சிந்தனை செய் மனமே! | 20-09-2010 | 147 | 148 | 153 | complete |
+| 3502 | இரு விழாக்கள்; ஒரு ஒப்பீடு! | 4-10-2010 | 153 | 154 | 158 | complete |
+| 3503 | அமளியும் - வன்முறையும் ஜனநாயகமா? | 6-10-2010 | 158 | 159 | 162 | complete |
+| 3504 | மத்திய அரசாணைக்கும் இப்படியொரு மறுப்பா? | 13-10-2010 | 162 | 163 | 165 | complete |
+| 3505 | “வாழ்க வசவாளர்” என்ற வாசகத்தை மறக்கலாமா? | 17-10-2010 | 165 | 166 | — | pending |
 | 3506 | தாய்த் தமிழகத்தின் ஏக்கம் - என்று தணியுமோ? | 19-10-2010 | 169 | — | — | pending |
 | 3507 | தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா? | 24-10-2010 | 175 | — | — | pending |
 | 3508 | குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக! | 27-10-2010 | 179 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3499 are scan-verified complete through PDF 139 / printed page 138. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. PDF 140 / printed page 139 was inspected for boundary only and begins Letter 3500; its body is not yet canonically transcribed.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3504 are scan-verified complete through PDF 165 / printed page 164. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. PDF 166 / printed page 165 was inspected for boundary only and begins Letter 3505; its body is not yet canonically transcribed.

@@ -20,7 +20,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3497 | [வன்முறைக்கு வக்காலத்து வாய்மை ஆகுமா?](3497-vanmuraikku-vakkaalaththu-vaaimai-aagumaa.md) | 118–124 | 117–123 | complete |
 | 3498 | [அன்பில் சிலையாகி; அழைக்கின்றார்!](3498-anbil-silaiyaagi-azhaikkinraar.md) | 125–132 | 124–131 | complete |
 | 3499 | [மலையேறி நிற்போரல்ல நாம்!](3499-malaiyeri-nirporalla-naam.md) | 133–139 | 132–138 | complete |
+| 3500 | [எதிர்க்கட்சியாக இருங்கள்; எதிரிக்கட்சியாக அல்ல!](3500-ethirkkatchiyaaga-irungal-ethirikkatchiyaaga-alla.md) | 140–147 | 139–146 | complete |
+| 3501 | [நிந்தனை விடுத்து; சிந்தனை செய் மனமே!](3501-ninthanai-viduththu-sinthanai-sei-maname.md) | 148–153 | 147–152 | complete |
+| 3502 | [இரு விழாக்கள்; ஒரு ஒப்பீடு!](3502-iru-vizhaakkal-oru-oppidu.md) | 154–158 | 153–157 | complete |
+| 3503 | [அமளியும் - வன்முறையும் ஜனநாயகமா?](3503-amaliyum-vanmuraiyum-jananayagama.md) | 159–162 | 158–161 | complete |
+| 3504 | [மத்திய அரசாணைக்கும் இப்படியொரு மறுப்பா?](3504-maththiya-arasaanaikkum-ippadiyoru-maruppaa.md) | 163–165 | 162–164 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **139 / printed page 138**, covering sixteen completed letters **3484–3499**. PDF **140 / printed page 139** was inspected only to establish the next boundary and visibly begins Letter **3500**.
+Canonical Tamil is complete through PDF **165 / printed page 164**, covering twenty-one completed letters **3484–3504**. PDF **166 / printed page 165** was inspected only to establish the next boundary and visibly begins Letter **3505**.
