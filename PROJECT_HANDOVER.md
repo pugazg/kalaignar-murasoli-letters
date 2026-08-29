@@ -22,18 +22,19 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–029 / 400**
+- Canonical Tamil pages: **001–074 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
-- Completed letters: **1 — 3484**
+- First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
+- Completed letters: **6 — 3484–3489**
 - Partial letter: **none**
 - English: **blocked**
 
-Letter 3484 begins on PDF 024 / printed page 23 and is scan-verified complete on PDF 029 / printed page 28, where the closing reads `அன்புள்ள,` / `மு.க.` / `18-07-2010`. Source-specific spacing and forms in the continuation remain unnormalized. PDF 030 / printed page 29 visibly begins Letter 3485 but has not yet been canonically transcribed.
+Letter 3484 is complete across PDF 024–029. The first regular five-letter batch is also complete: 3485 PDF 030–037, 3486 PDF 038–045, 3487 PDF 046–057, 3488 PDF 058–066, and 3489 PDF 067–074. The batch preserves scan-printed anomalies and source-specific spacing without normalization. PDF 075 / printed page 74 visibly begins Letter 3490 but has not yet been canonically transcribed.
 
 ### Exact next activity
 
-Start at **PDF 030** and execute the first regular five-complete-letter transcription iteration: Letters **3485–3489**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 075** and execute the next regular five-complete-letter transcription iteration: Letters **3490–3494**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

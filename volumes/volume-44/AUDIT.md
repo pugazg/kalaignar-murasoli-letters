@@ -118,3 +118,64 @@ Every new canonical page in PDF 026–029 was directly compared with the control
 ## Exact next activity
 
 Start at **PDF 030 / printed page 29** and complete the first regular five-letter iteration: Letters **3485–3489**, each through its actual scan-verified closing. Commit only after all five consecutive letters are complete and synchronized.
+
+---
+
+## Gate 3 — first regular five-letter batch 3485–3489 / PDF 030–074 — PASS
+
+**Date:** 2026-08-29
+
+### Scope
+
+- Canonical pages created: **45 — page-030.md through page-074.md**
+- Physical PDF scope transcribed in this activity: **030–074 exactly**
+- Complete consecutive letters: **3485, 3486, 3487, 3488, 3489**
+- Verified ranges:
+  - 3485 — PDF **030–037** / printed **29–36**
+  - 3486 — PDF **038–045** / printed **37–44**
+  - 3487 — PDF **046–057** / printed **45–56**
+  - 3488 — PDF **058–066** / printed **57–65**
+  - 3489 — PDF **067–074** / printed **66–73**
+- Verified closing dates: **19-7-2010; 22-7-2010; 23-7-2010; 25-7-2010; 26-07-2010**
+- PDF 075 transcribed: **no**
+- PDF 075 inspected for boundary only: **yes — begins Letter 3490 / printed page 74**
+
+### Visual verification
+
+Every canonical page in PDF 030–074 was directly compared against the controlling scan during this iteration. The pass checked actual letter starts and endings, printed page numbers, titles, salutations, closings, dates, figures, English text, quotation marks, unusual spacing, paragraph boundaries and physical-page continuations. Contents page numbers were used only as navigation aids and did not determine actual source boundaries.
+
+### Preserved source conditions and anomalies
+
+- Letter 3485 closes on PDF 037 with `அன்புள்ள,` / `மு.க.` / `19-7-2010`.
+- Letter 3486 closes on PDF 045 with printed `(தொடரும்)` followed by `அன்புள்ள,` / `மு.க.` / `22-7-2010`.
+- Letter 3487 closes on PDF 057 with printed `(முற்றும்)` followed by `அன்புள்ள,` / `மு.க.` / `23-7-2010`.
+- PDF 048 retains the visibly printed unusual quotation/word form `வேண்டு”மென்று`; it is not silently repaired.
+- Letter 3488 closes on PDF 066 with `அன்புள்ள,` / `மு.க.` / `25-7-2010`; source forms such as `இலங்கைப் பிரச்சினையில்தான்` are preserved as printed.
+- Letter 3489 begins on PDF 067 with title `வாய்மையை எதிர்த்து வஞ்சகம் ஜெயிக்காது!` and closes on PDF 074 with `அன்புள்ள,` / `மு.க.` / `26-07-2010`.
+- PDF 067 and PDF 068 preserve left-facing closing quotation marks printed after `வேண்டும்` / `திட்டம்` rather than silently normalizing quote direction.
+- PDF 069 preserves the printed line-break/anomaly `மருத்துவமனை` followed by `”யில்`; the stray quotation mark is not removed.
+- PDF 070 preserves `உணவும் அருந்தாமல். சிரமப்பட்டார்.`, the source form `லைப்ஃலைன்`, and the joined `ரூ. 17,500/-அனுமதி`.
+- PDF 071 preserves source-specific paragraph separation after `அறுவை சிகிச்சையின்` and the unpunctuated ending `இல்லம் திரும்பினார்` in that case note.
+- PDF 072 preserves forms including `தர்மபுரிமாவட்டம்`, `மருத்துவ மனையிலே`, `பெற்றதை யொட்டி`, and the unusual printed `என்றும்,` before the quoted statement.
+- PDF 073 preserves `அரசு அலுவலர் களுக்கான`, `எம்.ஆர்.கே.பன்னீர்செல்வம்`, and `சிலர் சென்னை` exactly as visually read.
+- PDF 074 preserves `பொருட்படுத்தாததற்குக்`, `பட்டினக்கரை`, `ஏழையெளிய`, and `நடை போடுவோம்` without normalization.
+- PDF 075 / printed page 74 visibly begins Letter 3490; no PDF 075 text was promoted into this batch.
+- A corrective direct-scan reconciliation was completed before commit; among the restored source forms are PDF 030 `அவைகளை யெல்லாம்`, PDF 032 `வழக்கு நடைபெற்றுக் கொண்டிருக்கின்றது`, PDF 035 `செய்யப்பட்ட தென்றால்`, PDF 039 `நீக்கி விட வேண்டுமாம்`, PDF 048 `வழங்கப் பட வேண்டுமென்ற`, PDF 055 `திருத்தப்படவேண்டும்.......`, PDF 066 `மூடிடுக வாயை`, and PDF 074 `பொருட்படுத்தாததற்குக்`.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-074.md**
+- No U+FFFD replacement characters in new pages
+- No unintended zero-width/BOM residue in new pages
+- Five new chapter records present and linked to their complete canonical page ranges
+- `contents/index.md` synchronized through Letter 3489 and boundary-only start of 3490
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+## Exact next activity
+
+Start at **PDF 075 / printed page 74** and complete the next regular five-letter iteration: Letters **3490–3494**, each through its actual scan-verified closing.

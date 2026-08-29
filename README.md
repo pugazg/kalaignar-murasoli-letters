@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **29 / 400; first batch 001–025 PASS + 3484 continuation 026–029 PASS** | **1 / 53 — 3484 complete** | **blocked pending Tamil gates** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **74 / 400; 3484 complete + first five-letter batch 3485–3489 PASS** | **6 / 53 — 3484–3489 complete** | **blocked pending Tamil gates** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -32,9 +32,9 @@
 
 ## Volume 44 — active
 
-Volume 44 has canonical Tamil through **PDF 029**. Letter **3484** is scan-verified complete across PDF **024–029 / printed pages 23–28**, with closing `அன்புள்ள,` / `மு.க.` / `18-07-2010` on PDF 029.
+Volume 44 has canonical Tamil through **PDF 074 / printed page 73**. Six source letters **3484–3489** are scan-verified complete. The first regular five-complete-letter iteration, **3485–3489 / PDF 030–074**, has passed its iteration-level visual/textual audit.
 
-PDF **030 / printed page 29** visibly begins Letter **3485** but is not yet canonically transcribed. The exact next activity is the first normal five-complete-letter iteration, **3485–3489**, beginning at PDF 030 and ending only at the scan-verified closing of 3489.
+PDF **075 / printed page 74** visibly begins Letter **3490** but has not yet been canonically transcribed. The exact next activity is the next five-complete-letter iteration, **3490–3494**, beginning at PDF 075 and ending only at the scan-verified closing of 3494.
 
 ## Volume 45 — released
 

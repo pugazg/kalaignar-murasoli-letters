@@ -20,12 +20,13 @@
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
-| Canonical Tamil pages | **29 / 400 — PDF 001–029** |
+| Canonical Tamil pages | **74 / 400 — PDF 001–074** |
 | Printed contents transcription | **complete — PDF 018–022** |
-| Completed letters | **1 / 53 — 3484** |
+| Completed letters | **6 / 53 — 3484–3489** |
 | Partial letter | **none** |
 | First-batch iteration audit | **PASS — PDF 001–025** |
 | Letter 3484 immediate-continuation audit | **PASS — PDF 026–029** |
+| First regular five-letter batch audit | **PASS — 3485–3489 / PDF 030–074** |
 | Full-volume Tamil structural audit | blocked |
 | Second visual verification | pending |
 | English translation | blocked |
@@ -34,14 +35,14 @@
 
 ## Current durable boundary
 
-The mandatory first batch is complete through PDF 025 and its required immediate continuation has now completed Letter **3484** through PDF **029 / printed page 28**. The verified closing is `அன்புள்ள,` / `மு.க.` / `18-07-2010`.
+Canonical Tamil is now complete through **PDF 074 / printed page 73**, with six complete source letters **3484–3489**. The first normal five-complete-letter batch has passed its iteration-level visual/textual audit.
 
-Source-specific readings and spacing in the continuation were retained without normalization, including PDF 027 `கூறி யிருக்கிறார்` and PDF 029 `ஏழையெளிய` / `நிறைவேற்ற வில்லை`.
+Verified ranges for the completed batch are 3485 PDF 030–037, 3486 PDF 038–045, 3487 PDF 046–057, 3488 PDF 058–066, and 3489 PDF 067–074. Printed spellings, punctuation, figures, unusual spacing and source anomalies were preserved rather than silently regularized.
 
-PDF **030 / printed page 29** visibly begins Letter **3485**. It was inspected only to establish the boundary and has not yet been added as a canonical page.
+PDF **075 / printed page 74** visibly begins Letter **3490**. It was inspected only to establish the next boundary and is not yet a canonical page.
 
 ## Exact next activity
 
-Begin at **PDF 030** and perform the first regular **five complete consecutive letters** iteration: Letters **3485–3489**. Verify every page against the controlling scan and stop only after the actual closing of Letter 3489 is established. Contents page numbers remain navigation aids, not boundary authority.
+Begin at **PDF 075** and perform the next regular **five complete consecutive letters** iteration: Letters **3490–3494**. Verify every physical page against the controlling scan and stop only after the actual closing of Letter 3494 is established. Contents page numbers remain navigation aids, not boundary authority.
 
 English translation remains blocked until the required Tamil gates are complete.

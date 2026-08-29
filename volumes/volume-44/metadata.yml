@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள�
 source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
 source_size_bytes: 202106488
 searchable_text_layer: false
-transcription_page_range: "1-29"
+transcription_page_range: "1-74"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3484"
-completed_letter_range: "3484"
-completed_letter_count: 1
+recorded_letter_range: "3484-3489"
+completed_letter_range: "3484-3489"
+completed_letter_count: 6
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "letter-3484-immediate-continuation-pass"
+audit_status: "batch-3485-3489-pass"
 audit_date: 2026-08-29
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -45,4 +45,7 @@ source_observations:
   - "PDF 024 begins letter 3484 at printed page 23; PDF 029 / printed page 28 contains its closing, signature and date 18-07-2010."
   - "PDF 025 prints the anomalous valuation form '1 17 லட்சத்து 54 ஆயிரத்து 868 ரூபாய்'; it is preserved without reconstruction."
   - "PDF 027 prints the spaced form 'கூறி யிருக்கிறார்'; PDF 029 prints 'ஏழையெளிய' and 'நிறைவேற்ற வில்லை'; these are preserved without normalization."
-  - "PDF 030 / printed page 29 begins letter 3485 and was inspected only to establish the next boundary; it is not yet canonically transcribed."
+  - "Letters 3485–3489 are scan-verified complete across PDF 030–074 / printed pages 29–73."
+  - "Verified closing dates: 3485 19-7-2010; 3486 22-7-2010; 3487 23-7-2010; 3488 25-7-2010; 3489 26-07-2010."
+  - "The batch preserves source-specific punctuation and spacing, including PDF 048 'வேண்டு”மென்று', PDF 069 'மருத்துவமனை' followed by printed '”யில்', PDF 070 'ரூ. 17,500/-அனுமதி', and PDF 073 'அரசு அலுவலர் களுக்கான'."
+  - "PDF 075 / printed page 74 begins letter 3490 and was inspected only to establish the next boundary; it is not yet canonically transcribed."

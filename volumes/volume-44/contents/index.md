@@ -5,12 +5,12 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | Letter | Contents title | Date | Printed page | Verified PDF start | Verified PDF end | Status |
 |---|---|---:|---:|---:|---:|---|
 | 3484 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (3) | 18-07-2010 | 23 | 024 | 029 | complete |
-| 3485 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (4) | 19-7-2010 | 29 | 030 | — | pending |
-| 3486 | தேன் துளிகள்; தேனருவியாகட்டும்! | 22-7-2010 | 37 | — | — | pending |
-| 3487 | தேன் துளிகள்; தேனருவியாகட்டும்! (2) | 23-7-2010 | 45 | — | — | pending |
-| 3488 | இட ஒதுக்கீடும்; இரட்டை வேடமும்! (3) | 25-7-2010 | 57 | — | — | pending |
-| 3489 | வாய்மையை எதிர்த்து வஞ்சகம் ஜெயிக்காது! | 26-07-2010 | 66 | — | — | pending |
-| 3490 | இருப்பதையும் இழக்காமல் இட ஒதுக்கீடு அமைந்திட....! | 30-7-2010 | 74 | — | — | pending |
+| 3485 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (4) | 19-7-2010 | 29 | 030 | 037 | complete |
+| 3486 | தேன் துளிகள்; தேனருவியாகட்டும்! | 22-7-2010 | 37 | 038 | 045 | complete |
+| 3487 | தேன் துளிகள்; தேனருவியாகட்டும்! (2) | 23-7-2010 | 45 | 046 | 057 | complete |
+| 3488 | இட ஒதுக்கீடும்; இரட்டை வேடமும்! (3) | 25-7-2010 | 57 | 058 | 066 | complete |
+| 3489 | வாய்மையை எதிர்த்து வஞ்சகம் ஜெயிக்காது! | 26-07-2010 | 66 | 067 | 074 | complete |
+| 3490 | இருப்பதையும் இழக்காமல் இட ஒதுக்கீடு அமைந்திட....! | 30-7-2010 | 74 | 075 | — | pending |
 | 3491 | எதிரொலிக்கிற அந்தக் கூச்சல்! | 11-8-2010 | 79 | — | — | pending |
 | 3492 | எல்லாம் காலத்தின் கோலம்தான்! | 18-8-2010 | 87 | — | — | pending |
 | 3493 | முதலில் புரியாத எடுகொளாவது; இனி புரிந்து கொள்ளுமா? | 20-8-2010 | 93 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letter 3484 is scan-verified complete at PDF 029 / printed page 28; PDF 030 / printed page 29 begins Letter 3485.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3489 are scan-verified complete through PDF 074 / printed page 73. PDF 075 / printed page 74 was inspected for boundary only and begins Letter 3490; its actual title and body remain to be canonically transcribed in the next iteration.
