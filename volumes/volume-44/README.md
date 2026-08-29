@@ -20,9 +20,9 @@
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
-| Canonical Tamil pages | **165 / 400 — PDF 001–165** |
+| Canonical Tamil pages | **192 / 400 — PDF 001–192** |
 | Printed contents transcription | **complete — PDF 018–022** |
-| Completed letters | **21 / 53 — 3484–3504** |
+| Completed letters | **26 / 53 — 3484–3509** |
 | Partial letter | **none** |
 | First-batch iteration audit | **PASS — PDF 001–025** |
 | Letter 3484 immediate-continuation audit | **PASS — PDF 026–029** |
@@ -30,6 +30,7 @@
 | Second regular five-letter batch audit | **PASS — 3490–3494 / PDF 075–104** |
 | Third regular five-letter batch audit | **PASS — 3495–3499 / PDF 105–139** |
 | Fourth regular five-letter batch audit | **PASS — 3500–3504 / PDF 140–165** |
+| Fifth regular five-letter batch audit | **PASS — 3505–3509 / PDF 166–192** |
 | Full-volume Tamil structural audit | blocked |
 | Second visual verification | pending |
 | English translation | blocked |
@@ -38,14 +39,14 @@
 
 ## Current durable boundary
 
-Canonical Tamil is now complete through **PDF 165 / printed page 164**, with twenty-one complete source letters **3484–3504**. The fourth normal five-complete-letter batch, **3500–3504 / PDF 140–165**, has passed its iteration-level visual/textual audit.
+Canonical Tamil is now complete through **PDF 192 / printed page 191**, with twenty-six complete source letters **3484–3509**. The fifth normal five-complete-letter batch, **3505–3509 / PDF 166–192**, has passed its iteration-level visual/textual audit.
 
-Verified ranges for the latest batch are 3500 PDF 140–147, 3501 PDF 148–153, 3502 PDF 154–158, 3503 PDF 159–162, and 3504 PDF 163–165. Printed spellings, punctuation, figures, unusual spacing and source anomalies were preserved rather than silently regularized.
+Verified ranges for the latest batch are 3505 PDF 166–169, 3506 PDF 170–175, 3507 PDF 176–179, 3508 PDF 180–186, and 3509 PDF 187–192. Printed spellings, punctuation, figures, unusual spacing and source anomalies were preserved rather than silently regularized.
 
-PDF **166 / printed page 165** visibly begins Letter **3505**. It was inspected only to establish the next boundary and is not yet a canonical page.
+PDF **193 / printed page 192** visibly begins Letter **3510**. It was inspected only to establish the next boundary and is not yet a canonical page.
 
 ## Exact next activity
 
-Begin at **PDF 166** and perform the next regular **five complete consecutive letters** iteration: Letters **3505–3509**. Verify every physical page against the controlling scan and stop only after the actual closing of Letter 3509 is established. Contents page numbers remain navigation aids, not boundary authority.
+Begin at **PDF 193** and perform the next regular **five complete consecutive letters** iteration: Letters **3510–3514**. Verify every physical page against the controlling scan and stop only after the actual closing of Letter 3514 is established. Contents page numbers remain navigation aids, not boundary authority.
 
 English translation remains blocked until the required Tamil gates are complete.

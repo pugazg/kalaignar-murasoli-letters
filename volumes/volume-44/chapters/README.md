@@ -25,7 +25,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3502 | [இரு விழாக்கள்; ஒரு ஒப்பீடு!](3502-iru-vizhaakkal-oru-oppidu.md) | 154–158 | 153–157 | complete |
 | 3503 | [அமளியும் - வன்முறையும் ஜனநாயகமா?](3503-amaliyum-vanmuraiyum-jananayagama.md) | 159–162 | 158–161 | complete |
 | 3504 | [மத்திய அரசாணைக்கும் இப்படியொரு மறுப்பா?](3504-maththiya-arasaanaikkum-ippadiyoru-maruppaa.md) | 163–165 | 162–164 | complete |
+| 3505 | [“வாழ்க வசவாளர்” என்ற வாசகத்தை மறக்கலாமா?](3505-vaazhga-vasavaalar-entra-vaasagaththai-marakkalaamaa.md) | 166–169 | 165–168 | complete |
+| 3506 | [தாய்த் தமிழகத்தின் ஏக்கம் - என்று தணியுமோ?](3506-thaaith-thamizhagaththin-ekkam-endru-thaniyumo.md) | 170–175 | 169–174 | complete |
+| 3507 | [தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா?](3507-therthal-theerppukkuk-koottame-alavukolaa.md) | 176–179 | 175–178 | complete |
+| 3508 | [குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக!](3508-kudisaigal-kopurangalaaga-manveedugal-maaligaigalaaga.md) | 180–186 | 179–185 | complete |
+| 3509 | [அம்மையார் வாக்கும் போக்கும்; அன்றும்-இன்றும்!](3509-ammaiyaar-vaakkum-pokkum-anrum-inrum.md) | 187–192 | 186–191 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **165 / printed page 164**, covering twenty-one completed letters **3484–3504**. PDF **166 / printed page 165** was inspected only to establish the next boundary and visibly begins Letter **3505**.
+Canonical Tamil is complete through PDF **192 / printed page 191**, covering twenty-six completed letters **3484–3509**. PDF **193 / printed page 192** was inspected only to establish the next boundary and visibly begins Letter **3510**.

@@ -22,22 +22,23 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–165 / 400**
+- Canonical Tamil pages: **001–192 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
 - First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
 - Second regular five-letter batch: **PASS — 3490–3494 / PDF 075–104**
 - Third regular five-letter batch: **PASS — 3495–3499 / PDF 105–139**
 - Fourth regular five-letter batch: **PASS — 3500–3504 / PDF 140–165**
-- Completed letters: **21 — 3484–3504**
+- Fifth regular five-letter batch: **PASS — 3505–3509 / PDF 166–192**
+- Completed letters: **26 — 3484–3509**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3500 PDF 140–147, 3501 PDF 148–153, 3502 PDF 154–158, 3503 PDF 159–162, and 3504 PDF 163–165. The scan-printed closings are 19-9-2010, 20-09-2010, 4-10-2010, 6-10-2010 and 13-10-2010. Source-specific anomalies and unusual wording remain unnormalized. PDF 166 / printed page 165 visibly begins Letter 3505 but is not yet canonical.
+The latest batch boundaries are 3505 PDF 166–169, 3506 PDF 170–175, 3507 PDF 176–179, 3508 PDF 180–186, and 3509 PDF 187–192. The scan-printed closings are 17-10-2010, 19-10-2010, 24-10-2010, 27-10-2010 and 1-11-2010. Source-specific anomalies and unusual wording remain unnormalized. PDF 193 / printed page 192 visibly begins Letter 3510 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 166** and execute the next regular five-complete-letter transcription iteration: Letters **3505–3509**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 193** and execute the next regular five-complete-letter transcription iteration: Letters **3510–3514**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

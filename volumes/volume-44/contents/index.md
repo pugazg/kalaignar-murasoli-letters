@@ -25,12 +25,12 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3502 | இரு விழாக்கள்; ஒரு ஒப்பீடு! | 4-10-2010 | 153 | 154 | 158 | complete |
 | 3503 | அமளியும் - வன்முறையும் ஜனநாயகமா? | 6-10-2010 | 158 | 159 | 162 | complete |
 | 3504 | மத்திய அரசாணைக்கும் இப்படியொரு மறுப்பா? | 13-10-2010 | 162 | 163 | 165 | complete |
-| 3505 | “வாழ்க வசவாளர்” என்ற வாசகத்தை மறக்கலாமா? | 17-10-2010 | 165 | 166 | — | pending |
-| 3506 | தாய்த் தமிழகத்தின் ஏக்கம் - என்று தணியுமோ? | 19-10-2010 | 169 | — | — | pending |
-| 3507 | தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா? | 24-10-2010 | 175 | — | — | pending |
-| 3508 | குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக! | 27-10-2010 | 179 | — | — | pending |
-| 3509 | அம்மையார் வாக்கும் போக்கும்; அன்றும்-இன்றும்! | 1-11-2010 | 186 | — | — | pending |
-| 3510 | காலம்தான் பதில் சொல்லும்! | 3-11-2010 | 192 | — | — | pending |
+| 3505 | “வாழ்க வசவாளர்” என்ற வாசகத்தை மறக்கலாமா? | 17-10-2010 | 165 | 166 | 169 | complete |
+| 3506 | தாய்த் தமிழகத்தின் ஏக்கம் - என்று தணியுமோ? | 19-10-2010 | 169 | 170 | 175 | complete |
+| 3507 | தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா? | 24-10-2010 | 175 | 176 | 179 | complete |
+| 3508 | குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக! | 27-10-2010 | 179 | 180 | 186 | complete |
+| 3509 | அம்மையார் வாக்கும் போக்கும்; அன்றும்-இன்றும்! | 1-11-2010 | 186 | 187 | 192 | complete |
+| 3510 | காலம்தான் பதில் சொல்லும்! | 3-11-2010 | 192 | 193 | — | pending |
 | 3511 | நடுநிலையாளர்க்கு; கெடுமதி கூடாது! | 4-11-2010 | 198 | — | — | pending |
 | 3512 | துரோகத்தின் முகத்திரையைக் கிழிப்போம்! | 14-11-2010 | 206 | — | — | pending |
 | 3513 | மனு தாமதத்திற்கு மறு பிறவி கிடையாது! | 17-11-2010 | 213 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3504 are scan-verified complete through PDF 165 / printed page 164. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. PDF 166 / printed page 165 was inspected for boundary only and begins Letter 3505; its body is not yet canonically transcribed.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3509 are scan-verified complete through PDF 192 / printed page 191. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. PDF 193 / printed page 192 was inspected for boundary only and begins Letter 3510; its body is not yet canonically transcribed.
