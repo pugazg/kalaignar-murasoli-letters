@@ -179,3 +179,62 @@ Every canonical page in PDF 030–074 was directly compared against the controll
 ## Exact next activity
 
 Start at **PDF 075 / printed page 74** and complete the next regular five-letter iteration: Letters **3490–3494**, each through its actual scan-verified closing.
+
+---
+
+## Gate 4 — second regular five-letter batch 3490–3494 / PDF 075–104 — PASS
+
+**Date:** 2026-08-29
+
+### Scope
+
+- Canonical pages created: **30 — page-075.md through page-104.md**
+- Physical PDF scope transcribed in this activity: **075–104 exactly**
+- Complete consecutive letters: **3490, 3491, 3492, 3493, 3494**
+- Verified ranges:
+  - 3490 — PDF **075–079** / printed **74–78**
+  - 3491 — PDF **080–087** / printed **79–86**
+  - 3492 — PDF **088–093** / printed **87–92**
+  - 3493 — PDF **094–098** / printed **93–97**
+  - 3494 — PDF **099–104** / printed **98–103**
+- Verified closing dates: **30-7-2010; 11-8-2010; 18-8-2010; 20-8-2010; 31-08-2010**
+- PDF 105 transcribed: **no**
+- PDF 105 inspected for boundary only: **yes — begins Letter 3495 / printed page 104**
+
+### Visual verification
+
+Every canonical page in PDF 075–104 was directly compared against the controlling scan during this iteration. The pass checked actual letter starts and endings, printed page numbers, titles, salutations, closings, dates, figures, English text, quotation marks, names, unusual spacing, bullet structure, paragraph boundaries and physical-page continuations. Contents page numbers were treated only as navigation aids.
+
+### Preserved source conditions and anomalies
+
+- Letter 3490 actual title on PDF 075 prints `இருப்பதையும் இழக்காமல் இட ஒதுக்கீடு அமைந்திட...!`; the printed contents entry independently preserves `அமைந்திட....!`.
+- Letter 3490 closes on PDF 079 with `அன்புள்ள,` / `மு.க.` / `30-7-2010`.
+- Letter 3491 closes on PDF 087 with `அன்புள்ள,` / `மு.க.` / `11-8-2010`.
+- PDF 087 preserves the scan-printed sequence `சூனியக்காரி! சூழ்ச்சிக்காரி! சண்டாளி!`.
+- Letter 3492 preserves the English Supreme Court quotation on PDF 088 and the English continuation spanning PDFs 089–090; no translation or silent normalization was substituted.
+- Letter 3492 closes on PDF 093 with `அன்புள்ள,` / `மு.க.` / `18-8-2010`.
+- Letter 3493 closes on PDF 098 with `அன்புள்ள,` / `மு.க.` / `20-8-2010`.
+- Letter 3494 closes on PDF 104 with `அன்புள்ள,` / `மு.க.` / `31-08-2010`.
+- PDF 102 retains the printed bullet-list structure and source wording.
+- PDF 105 / printed page 104 visibly begins Letter 3495; no PDF 105 text was promoted into this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-104.md**
+- New page range: **075–104** with printed-page metadata **74–103**
+- Five chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3494 and boundary-only start of 3495
+- No U+FFFD replacement characters in new pages/control records
+- No unintended zero-width/BOM residue in new pages/control records
+- PDF 105 canonical page intentionally absent
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+## Exact next activity
+
+Start at **PDF 105 / printed page 104** and complete the next regular five-letter iteration: Letters **3495–3499**, each through its actual scan-verified closing.

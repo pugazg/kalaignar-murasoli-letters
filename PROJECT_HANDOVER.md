@@ -22,19 +22,20 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–074 / 400**
+- Canonical Tamil pages: **001–104 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
 - First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
-- Completed letters: **6 — 3484–3489**
+- Second regular five-letter batch: **PASS — 3490–3494 / PDF 075–104**
+- Completed letters: **11 — 3484–3494**
 - Partial letter: **none**
 - English: **blocked**
 
-Letter 3484 is complete across PDF 024–029. The first regular five-letter batch is also complete: 3485 PDF 030–037, 3486 PDF 038–045, 3487 PDF 046–057, 3488 PDF 058–066, and 3489 PDF 067–074. The batch preserves scan-printed anomalies and source-specific spacing without normalization. PDF 075 / printed page 74 visibly begins Letter 3490 but has not yet been canonically transcribed.
+Letters 3484–3494 are complete through PDF 104. The second regular five-letter batch is complete: 3490 PDF 075–079, 3491 PDF 080–087, 3492 PDF 088–093, 3493 PDF 094–098, and 3494 PDF 099–104. The archive preserves scan-printed anomalies, source English, physical boundaries and source-specific spacing without normalization. PDF 105 / printed page 104 visibly begins Letter 3495 but has not yet been canonically transcribed.
 
 ### Exact next activity
 
-Start at **PDF 075** and execute the next regular five-complete-letter transcription iteration: Letters **3490–3494**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 105** and execute the next regular five-complete-letter transcription iteration: Letters **3495–3499**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

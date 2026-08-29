@@ -10,12 +10,12 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3487 | தேன் துளிகள்; தேனருவியாகட்டும்! (2) | 23-7-2010 | 45 | 046 | 057 | complete |
 | 3488 | இட ஒதுக்கீடும்; இரட்டை வேடமும்! (3) | 25-7-2010 | 57 | 058 | 066 | complete |
 | 3489 | வாய்மையை எதிர்த்து வஞ்சகம் ஜெயிக்காது! | 26-07-2010 | 66 | 067 | 074 | complete |
-| 3490 | இருப்பதையும் இழக்காமல் இட ஒதுக்கீடு அமைந்திட....! | 30-7-2010 | 74 | 075 | — | pending |
-| 3491 | எதிரொலிக்கிற அந்தக் கூச்சல்! | 11-8-2010 | 79 | — | — | pending |
-| 3492 | எல்லாம் காலத்தின் கோலம்தான்! | 18-8-2010 | 87 | — | — | pending |
-| 3493 | முதலில் புரியாத எடுகொளாவது; இனி புரிந்து கொள்ளுமா? | 20-8-2010 | 93 | — | — | pending |
-| 3494 | நியாயம் தானா? நீங்களே சொல்லுங்கள்! | 31-08-2010 | 98 | — | — | pending |
-| 3495 | பதுங்கிக் கொள்ள இருக்கவே இருக்கிறது கொடநாடு! | 2-9-2010 | 104 | — | — | pending |
+| 3490 | இருப்பதையும் இழக்காமல் இட ஒதுக்கீடு அமைந்திட....! | 30-7-2010 | 74 | 075 | 079 | complete |
+| 3491 | எதிரொலிக்கிற அந்தக் கூச்சல்! | 11-8-2010 | 79 | 080 | 087 | complete |
+| 3492 | எல்லாம் காலத்தின் கோலம்தான்! | 18-8-2010 | 87 | 088 | 093 | complete |
+| 3493 | முதலில் புரியாத எடுகொளாவது; இனி புரிந்து கொள்ளுமா? | 20-8-2010 | 93 | 094 | 098 | complete |
+| 3494 | நியாயம் தானா? நீங்களே சொல்லுங்கள்! | 31-08-2010 | 98 | 099 | 104 | complete |
+| 3495 | பதுங்கிக் கொள்ள இருக்கவே இருக்கிறது கொடநாடு! | 2-9-2010 | 104 | 105 | — | pending |
 | 3496 | ஒத்துழைத்திட முன் வருவீர்! | 3-9-2010 | 111 | — | — | pending |
 | 3497 | வன்முறைக்கு வக்காலத்து வாய்மை ஆகுமா? | 4-9-2010 | 117 | — | — | pending |
 | 3498 | அன்பில் சிலையாகி; அழைக்கின்றார்! | 7-9-2010 | 124 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3489 are scan-verified complete through PDF 074 / printed page 73. PDF 075 / printed page 74 was inspected for boundary only and begins Letter 3490; its actual title and body remain to be canonically transcribed in the next iteration.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3494 are scan-verified complete through PDF 104 / printed page 103. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. PDF 105 / printed page 104 was inspected for boundary only and begins Letter 3495; its body is not yet canonically transcribed.
