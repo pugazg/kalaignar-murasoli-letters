@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Final Bilingual Alignment Batch 3587–3591
+# Next Chat Prompt — Volume 45 English Editorial Consistency Review
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,7 +6,7 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
-Active work: **Volume 45 English bilingual-alignment QA**.
+Active work: **Volume 45 volume-level English editorial consistency review**.
 
 Use the GitHub connector and work directly on `main`.
 
@@ -22,7 +22,7 @@ Before making any repository change:
    - `FUTURE_VOLUME_WORK_GUIDELINES.md`
    - `PROJECT_HANDOVER.md`
    - this `NEXT_CHAT_PROMPT.md`
-3. Read the active Volume 45 controls:
+3. Read the active Volume 45 controls completely:
    - `volumes/volume-45/README.md`
    - `volumes/volume-45/PROGRESS.md`
    - `volumes/volume-45/AUDIT.md`
@@ -36,11 +36,14 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - every completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` through `BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`
+   - every completed `BILINGUAL_ALIGNMENT_REVIEW_*.md`, including `BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`
    - `volumes/volume-45/translations/en/alignment-status/README.md`
-   - `volumes/volume-45/translations/en/alignment-status/3582-3586.yml`
-5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm cumulative alignment closure: **3537–3586 / PDF 024–369 — 50 / 55 aligned**.
+   - `volumes/volume-45/translations/en/alignment-status/3587-3591.yml`
+5. Read Volume 46's completed editorial reference completely before designing or recording the Volume 45 editorial pass:
+   - `volumes/volume-46/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
+   Use it as a workflow/quality reference only; do not copy Volume 46-specific facts into Volume 45.
+6. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
+7. Confirm cumulative bilingual-alignment closure: **55 / 55 — 3537–3591 / PDF 024–401**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -61,59 +64,56 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **50 / 55 — 3537–3586 / PDF 024–369**
+- Bilingual-aligned: **55 / 55 — 3537–3591 / PDF 024–401 — COMPLETE**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-Latest alignment batch:
+Final alignment batch:
 
-- **3582–3586 / PDF 338–369** — **PASS — 5 / 5**; English corrections **1**; Tamil changes **0**.
-- Letter 3582's Thai / Chithirai / Tamil-New-Year claims remain source-specific and unreconciled externally.
-- Letter 3583 triggered a direct scan re-check across PDF 348→349. The printed sequence is `வாக்க` / `எதிரிகளை`. Canonical Tamil is unchanged. The English was corrected from “the policy of eliminating class enemies” to the conservative “a policy of eliminating enemies,” avoiding a silent normalization to unprinted `வர்க்க எதிரிகளை`.
-- Letter 3586 remains scan-proven as `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the former stale `தமிழக அரசு...` reading remains withdrawn.
-- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`.
-- Machine-readable status: `volumes/volume-45/translations/en/alignment-status/3582-3586.yml`.
+- **3587–3591 / PDF 370–401** — **PASS — 5 / 5**; English corrections **1**; Tamil changes **0**; new scan re-checks **0**.
+- **3587:** 311-acre Thirumazhisai / Rule 110 / policy-note / 2006 satellite-town sequence aligns; successive source `1-9-2006` / `31-8-2006` formulations remain preserved.
+- **3588:** Samacheer Kalvi, school-day, examination, teacher-ratio, recruitment and counselling sequences align without correction.
+- **3589:** one English-only correction removed the unprinted hedge “in the source's argument” and restored direct `நாசமாக்கி அழித்திடும்` as **“will destroy”** in the engineering-university paragraph. Canonical Tamil is unchanged.
+- **3590:** local-election and campaign sequence aligns without correction.
+- **3591:** K.P.P. Samy / M.K. Balan / High Court / Valluvar sequence aligns without correction.
+- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`.
+- Machine-readable status: `volumes/volume-45/translations/en/alignment-status/3587-3591.yml`.
 
-Implementation note: the bilingual bodies retain their drafting metadata as `translation_status: source-checked`; the separate bilingual-alignment closure is recorded by the detailed review and machine-readable sidecar. Do not treat that as an unperformed QA gate, and do not rewrite huge files merely to duplicate status unless a demonstrated English correction requires an edit.
+Implementation note: the bilingual bodies retain their drafting-layer `translation_status: source-checked` and pending alignment front-matter convention. The separate bilingual-alignment closure is recorded by the detailed reports and machine-readable sidecars. Do not treat that implementation detail as an unperformed alignment gate, and do not rewrite all large bilingual bodies merely to duplicate the already-durable alignment status.
 
 ## SOURCE AUTHORITY
 
-The audited canonical Tamil is the immediate alignment authority. The controlling scan remains ultimate textual authority.
+The audited canonical Tamil remains the immediate English-QA authority. The controlling scan remains ultimate textual authority.
 
-Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quoted material, English/Latin material and physical source boundaries.
+Do not use outside knowledge, another edition, expected modern wording or historical reconstruction to alter source facts. Preserve source-specific anomalies, dates, figures, repetitions, quotations, source-supplied English/Latin material and physical source boundaries.
 
-If alignment reveals a possible Tamil discrepancy, re-check the controlling scan before changing either layer and record every scan-proven post-audit correction durably.
+If editorial review reveals a possible Tamil discrepancy, re-check the controlling scan before changing either layer and record every scan-proven post-audit correction durably.
 
-## ALIGNMENT RULES
+## EXACT NEXT ACTIVITY — VOLUME-LEVEL ENGLISH EDITORIAL CONSISTENCY REVIEW
 
-For each bilingual record:
+Review **all 55 bilingual records, Letters 3537–3591**, as one English volume. This is a consistency/editorial QA gate after source-check and bilingual alignment; it is not a new translation pass and must not become free stylistic rewriting.
 
-1. read the complete audited Tamil source pages and the complete English record;
-2. compare title, salutation, paragraph order, every substantive claim, list item, quotation, name, date, figure, unit, rhetorical question, repetition and closing;
-3. correct English omissions, additions, mistranslations or semantic drift;
-4. preserve source anomalies rather than silently normalising them;
-5. preserve locked `Udanpirappē`, `With affection, M.K.`, `lakh` / `crore`, Samacheer Kalvi and other glossary conventions unless the source requires otherwise;
-6. do not perform stylistic rewriting merely because another English phrasing sounds smoother;
-7. do not begin the separate volume-level English editorial consistency review inside this alignment iteration;
-8. record the completed gate in a durable alignment report and machine-readable status record;
-9. update progress/metadata/handover controls and, after the final alignment closes at 55 / 55, set **volume-level English editorial consistency review** as the next gate.
+Check systematically:
 
-## EXACT FINAL ALIGNMENT BATCH
+1. English title consistency between YAML, H1, English README/index and source record.
+2. Date, source PDF range and printed-page metadata agreement.
+3. Standard translator's note wording and removal/correction of any stale drafting-status language in control layers.
+4. Names, initials, honorifics, place names and transliteration consistency.
+5. Institutional, administrative, constitutional, legal, political and scheme terminology.
+6. Locked conventions including `Udanpirappē`, `With affection, M.K.`, `lakh`, `crore`, **Samacheer Kalvi** and established glossary decisions.
+7. British/Indian English spelling, compounds, capitalisation and punctuation where consistency can be improved without changing source meaning.
+8. Quotation marks, quoted voices, source-supplied English and attribution.
+9. Repetition, rhetorical questions, irony, accusation and political intensity — these must not be softened or rewritten away.
+10. Stale `pending`, draft or pre-alignment wording in volume/control metadata; distinguish implementation-level letter front matter from actual QA closure before changing large files.
+11. Every bilingual record must retain a complete `Original Tamil — மூலத் தமிழ்` appendix in canonical physical-page order.
+12. Source anomalies and source-specific claims must remain explicit and unreconciled with outside knowledge.
 
-Align five complete consecutive letters:
+Correct only demonstrated editorial-consistency defects. Do not revise passages merely because another English wording sounds smoother. Do not change canonical Tamil unless a fresh direct scan check proves a Tamil defect.
 
-- **3587** — `மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!` — PDF **370–376** — 13-9-2011
-- **3588** — `கல்வி; கருகிடும் மொட்டாவதா?` — PDF **377–382** — 14-9-2011
-- **3589** — `எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி?` — PDF **383–390** — 19-9-2011
-- **3590** — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF **391–396** — 24-9-2011
-- **3591** — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF **397–401** — 27-9-2011
+Create `volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` with the complete review scope, checks performed, exact English/control corrections, Tamil/scan events if any, and PASS/FAIL result. Update `README.md`, `PROGRESS.md`, metadata, volume controls, project handover and next-chat prompt consistently.
 
-Combined final alignment range: **PDF 370–401 / 32 canonical pages**.
-
-Preserve every source anomaly, source-supplied English, date, figure, punctuation form, quotation and physical page boundary exactly. Compare each English record directly against authoritative audited Tamil. Re-check the controlling scan before changing Tamil if any possible canonical defect appears.
-
-Create a durable alignment report for **3587–3591**, record any English corrections and scan-triggered Tamil corrections separately, create/update the machine-readable alignment status, update the cumulative bilingual-aligned count to **55 / 55** only after all five records pass, and then set the **volume-level English editorial consistency review** as the exact next gate. Do not execute that editorial review in the same iteration.
+If the editorial consistency review passes across all **55 / 55** records, set **translation manifest and final English release report** as the exact next activity. Do **not** execute release packaging in the same routine activity.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes. Prefer one atomic Git-data commit where technically possible. If connector limitations force an incremental sequence, preserve history, synchronize every durable control before stopping, compare the prior durable boundary to final live `main`, and verify live `main` afterward. Never force-push routine work.
 
-When I say **“Proceed with next activity”**, execute this final bilingual-alignment batch directly without asking me to choose a routine next step.
+When I say **“Proceed with next activity”**, execute this complete Volume 45 editorial consistency review directly without asking me to choose a routine next step.
