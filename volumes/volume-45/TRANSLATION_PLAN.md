@@ -45,28 +45,29 @@ Completed:
 - **3562–3566 / PDF 197–230** — PASS; English corrections 2; Tamil changes 0.
 - **3567–3571 / PDF 231–260** — PASS; English corrections 1; Tamil changes 0.
 - **3572–3576 / PDF 261–289** — PASS; English corrections 2; Tamil changes 0.
-- **3577–3581 / PDF 290–337** — **PASS; English corrections 0; Tamil changes 0.**
+- **3577–3581 / PDF 290–337** — PASS; English corrections 0; Tamil changes 0.
+- **3582–3586 / PDF 338–369** — **PASS; English corrections 1; Tamil changes 0.**
 
-Current cumulative alignment: **45 / 55 — 3537–3581 / PDF 024–337**.
+Current cumulative alignment: **50 / 55 — 3537–3586 / PDF 024–369**.
 
-The ninth batch preserved the source-specific PDF 290 `18-5-2001`, Letter 3577's distinct “three months”/“two months” formulations, Letter 3579's source-supplied *The Hindu* English, Letter 3580's source-supplied George IPS quotation, and Letter 3581's full `செம்மொழி வாழ்த்து` and textbook-removal catalogue. No English or Tamil correction was needed.
+The tenth batch preserved Letter 3582's source-specific Thai / Chithirai / Tamil-New-Year claims and Letter 3586's scan-proven `கழக அரசு...` title. Letter 3583 triggered a direct scan re-check: the physical PDF 348→349 source reads `வாக்க` / `எதிரிகளை`. Canonical Tamil was confirmed and left unchanged. The earlier English “class enemies” silently supplied an unprinted normalization, so the aligned English now conservatively says **“enemies.”**
 
-Durable ninth-batch records:
+Durable tenth-batch records:
 
-- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md)
-- [`translations/en/alignment-status/3577-3581.yml`](translations/en/alignment-status/3577-3581.yml)
+- [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md)
+- [`translations/en/alignment-status/3582-3586.yml`](translations/en/alignment-status/3582-3586.yml)
 
-The sidecar records the separate alignment gate without changing the large bilingual bodies' `translation_status: source-checked`. Alignment remains distinct from later editorial and release gates.
+The sidecar records the separate alignment gate without changing the bilingual bodies' `translation_status: source-checked`. Alignment remains distinct from later editorial and release gates.
 
-Exact next alignment batch:
+Exact final alignment batch:
 
-- **3582–3586 / PDF 338–369** — five complete letters / **32 canonical pages**.
+- **3587–3591 / PDF 370–401** — five complete letters / **32 canonical pages**.
 
-Preserve Letter 3582's source-specific Thai/Chithirai/Tamil-New-Year claims without outside reconciliation. Preserve source-supplied English exactly where printed. Preserve Letter 3586's scan-proven title `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; stale `தமிழக அரசு...` remains withdrawn. Compare every English record directly against its authoritative audited Tamil and correct only demonstrated English omissions/additions/semantic drift. Re-check the scan before any Tamil change.
+Preserve all source anomalies, dates, figures, source-supplied English, punctuation and physical page boundaries. Compare every English record directly against its authoritative audited Tamil and correct only demonstrated English omissions/additions/semantic drift. Re-check the scan before any Tamil change.
 
 ### Phase 4 — English editorial consistency review
 
-Perform a separate volume-level consistency pass only after bilingual alignment is complete across all 55 letters.
+Perform a separate volume-level consistency pass only after bilingual alignment is complete across all 55 letters. After the final 3587–3591 alignment batch passes and the **55 / 55** boundary is durably recorded, this becomes the exact next gate.
 
 ### Phase 5 — Volume release
 
@@ -80,8 +81,8 @@ Prepare the complete English index, translation manifest, editorial review and f
 - `reviewed` — English meaning, tone and readability passed editorial review;
 - `verified` — final release verification complete.
 
-All **55 / 55** letters are source-checked. **45 / 55** have passed bilingual alignment. None has yet passed the later volume-level editorial/release `verified` gate.
+All **55 / 55** letters are source-checked. **50 / 55** have passed bilingual alignment. None has yet passed the later volume-level editorial/release `verified` gate.
 
 ## Exact next activity
 
-Align **Letters 3582–3586 / PDF 338–369** as the next five-complete-letter bilingual-alignment batch. If any new possible Tamil defect appears, re-check the controlling scan before changing either layer. Keep the later editorial consistency review separate.
+Complete the **final bilingual-alignment batch, Letters 3587–3591 / PDF 370–401**. If any possible Tamil defect appears, re-check the controlling scan before changing either layer. Do not begin the later editorial consistency review in the same alignment iteration.
