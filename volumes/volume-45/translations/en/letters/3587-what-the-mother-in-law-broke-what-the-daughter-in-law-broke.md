@@ -8,11 +8,10 @@ source_pdf_page_start: 370
 source_pdf_page_end: 376
 source_printed_page_start: 369
 source_printed_page_end: 375
-translation_status: "reviewed"
+translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "aligned"
-bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md"
+bilingual_alignment_status: "pending"
 ---
 
 # 3587. What the Mother-in-Law Broke; What the Daughter-in-Law Broke!
