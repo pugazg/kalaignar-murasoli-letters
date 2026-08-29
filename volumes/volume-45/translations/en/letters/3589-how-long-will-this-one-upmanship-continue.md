@@ -64,7 +64,7 @@ Another scheme the AIADMK Government closed was the Legislative Council. Perarig
 
 Similarly, when Rajaraja's thousandth-anniversary celebration was conducted with great distinction at Thanjavur, I named the System of Rice Intensification cultivation method “Rajarajan 1000.” Was it not I who gave it that name? Therefore that name too has now been changed.
 
-Under the DMK Government, twelve new Government engineering colleges were started with the aim of having Government engineering colleges in all districts. As the number of Government engineering colleges in Tamil Nadu increased, the administrative workload of Anna University of Technology in Chennai also increased. With the additional objective that research in engineering technology should be decentralised, five new Anna Universities of Technology were established at Tiruchi, Coimbatore, Tirunelveli, Madurai and Chennai. But with the harmful intention of changing everything done by the DMK Government, the present Government has introduced and passed a Bill in the Assembly to return Chennai Anna University to its previous structure. This is an AIADMK Government effort that will, in the source's argument, damage students' future, the quality of higher education and the necessity of research.
+Under the DMK Government, twelve new Government engineering colleges were started with the aim of having Government engineering colleges in all districts. As the number of Government engineering colleges in Tamil Nadu increased, the administrative workload of Anna University of Technology in Chennai also increased. With the additional objective that research in engineering technology should be decentralised, five new Anna Universities of Technology were established at Tiruchi, Coimbatore, Tirunelveli, Madurai and Chennai. But with the harmful intention of changing everything done by the DMK Government, the present Government has introduced and passed a Bill in the Assembly to return Chennai Anna University to its previous structure. This is an AIADMK Government effort that will destroy students' future, the quality of higher education and the necessity of research.
 
 Jayalalithaa announced in the Assembly, as usual under Rule 110, that a satellite town would be established at Thirumazhisai. I have already written in detail about that scheme, the earlier efforts under the DMK Government to establish a satellite town, and the indecent statement Jayalalithaa issued against it at that time. After reading what I wrote, they called the department's officials and asked whether everything I had written was true. Having found out, they simply left the matter without giving any reply.
 
@@ -317,7 +317,6 @@ They file false cases in every possible way. If a court grants bail in one case,
 
 தமிழக அரசின் சார்பாக ஐந்து வகையான திருமண உதவித்
 திட்டங்கள் செயல்படுத்தப்பட்டு வருகின்றன. மூவலூர்
-
 <!-- Source PDF page 389 -->
 
 ராமாமிர்தம் அம்மையார் நினைவு திருமண உதவித் திட்டம்,
