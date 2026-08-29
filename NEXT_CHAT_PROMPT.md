@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 45 Bilingual Alignment Batch 3582–3586
+# Next Chat Prompt — Volume 45 Final Bilingual Alignment Batch 3587–3591
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -36,11 +36,11 @@ Before making any repository change:
    - `volumes/volume-45/translations/en/PROGRESS.md`
    - `volumes/volume-45/translations/en/GLOSSARY.md`
    - `volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md`
-   - every completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` through `BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`
+   - every completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` through `BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`
    - `volumes/volume-45/translations/en/alignment-status/README.md`
-   - `volumes/volume-45/translations/en/alignment-status/3577-3581.yml`
+   - `volumes/volume-45/translations/en/alignment-status/3582-3586.yml`
 5. Confirm live main-drafting closure: **55 / 55 source-checked, PDF 024–401**.
-6. Confirm cumulative alignment closure: **3537–3581 / PDF 024–337 — 45 / 55 aligned**.
+6. Confirm cumulative alignment closure: **3537–3586 / PDF 024–369 — 50 / 55 aligned**.
 
 ## CURRENT DURABLE VOLUME 45 STATE
 
@@ -61,22 +61,20 @@ English layer:
 - Draft-translated: **55 / 55 — 3537–3591**
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated source: **PDF 024–401**
-- Bilingual-aligned: **45 / 55 — 3537–3581 / PDF 024–337**
+- Bilingual-aligned: **50 / 55 — 3537–3586 / PDF 024–369**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
 Latest alignment batch:
 
-- **3577–3581 / PDF 290–337** — **PASS — 5 / 5**; English corrections **0**; Tamil changes **0**.
-- PDF 290 `18-5-2001` remains preserved exactly.
-- Letter 3577's source itself uses the opening “three months” framing and the closing “two months” formulation; both are retained.
-- Letter 3579's source-supplied *The Hindu* English passages remain verbatim.
-- Letter 3580's source-supplied George IPS English quotation remains represented along with the source's Tamil rendering.
-- Letter 3581's complete `செம்மொழி வாழ்த்து` and textbook-removal catalogue remain intact.
-- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md`.
-- Machine-readable status: `volumes/volume-45/translations/en/alignment-status/3577-3581.yml`.
+- **3582–3586 / PDF 338–369** — **PASS — 5 / 5**; English corrections **1**; Tamil changes **0**.
+- Letter 3582's Thai / Chithirai / Tamil-New-Year claims remain source-specific and unreconciled externally.
+- Letter 3583 triggered a direct scan re-check across PDF 348→349. The printed sequence is `வாக்க` / `எதிரிகளை`. Canonical Tamil is unchanged. The English was corrected from “the policy of eliminating class enemies” to the conservative “a policy of eliminating enemies,” avoiding a silent normalization to unprinted `வர்க்க எதிரிகளை`.
+- Letter 3586 remains scan-proven as `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the former stale `தமிழக அரசு...` reading remains withdrawn.
+- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`.
+- Machine-readable status: `volumes/volume-45/translations/en/alignment-status/3582-3586.yml`.
 
-Implementation note: the large bilingual bodies for 3577–3581 retain their drafting metadata as `translation_status: source-checked`; the separate bilingual-alignment closure is recorded by the detailed review and machine-readable sidecar. Do not treat that as an unperformed QA gate, and do not rewrite those huge files merely to duplicate status unless there is a clear repository-wide reason to migrate the metadata convention safely.
+Implementation note: the bilingual bodies retain their drafting metadata as `translation_status: source-checked`; the separate bilingual-alignment closure is recorded by the detailed review and machine-readable sidecar. Do not treat that as an unperformed QA gate, and do not rewrite huge files merely to duplicate status unless a demonstrated English correction requires an edit.
 
 ## SOURCE AUTHORITY
 
@@ -96,30 +94,26 @@ For each bilingual record:
 4. preserve source anomalies rather than silently normalising them;
 5. preserve locked `Udanpirappē`, `With affection, M.K.`, `lakh` / `crore`, Samacheer Kalvi and other glossary conventions unless the source requires otherwise;
 6. do not perform stylistic rewriting merely because another English phrasing sounds smoother;
-7. do not begin the separate volume-level English editorial consistency review;
+7. do not begin the separate volume-level English editorial consistency review inside this alignment iteration;
 8. record the completed gate in a durable alignment report and machine-readable status record;
-9. update progress/metadata/handover controls and set the exact following batch.
+9. update progress/metadata/handover controls and, after the final alignment closes at 55 / 55, set **volume-level English editorial consistency review** as the next gate.
 
-## EXACT NEXT ALIGNMENT BATCH
+## EXACT FINAL ALIGNMENT BATCH
 
 Align five complete consecutive letters:
 
-- **3582** — `இனிய விழா; நமது இனத்தின் விழா!` — PDF **338–344** — 25-8-2011
-- **3583** — `அதிகாரம் இல்லை? அந்தநாள் ஞாபகம் இல்லையா?` — PDF **345–351** — 1-9-2011
-- **3584** — `அடிநாதமே; அறுக்கப்படுவதா?` — PDF **352–357** — 8-9-2011
-- **3585** — `அய்யோ பாவம்! அ.தி.மு.க. அமைச்சர்கள்!!` — PDF **358–364** — 10-9-2011
-- **3586** — `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!` — PDF **365–369** — 12-9-2011
+- **3587** — `மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!` — PDF **370–376** — 13-9-2011
+- **3588** — `கல்வி; கருகிடும் மொட்டாவதா?` — PDF **377–382** — 14-9-2011
+- **3589** — `எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி?` — PDF **383–390** — 19-9-2011
+- **3590** — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF **391–396** — 24-9-2011
+- **3591** — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF **397–401** — 27-9-2011
 
-Combined next alignment range: **PDF 338–369 / 32 canonical pages**.
+Combined final alignment range: **PDF 370–401 / 32 canonical pages**.
 
-Established source cautions in this range:
+Preserve every source anomaly, source-supplied English, date, figure, punctuation form, quotation and physical page boundary exactly. Compare each English record directly against authoritative audited Tamil. Re-check the controlling scan before changing Tamil if any possible canonical defect appears.
 
-- Letter **3582** contains source-specific Thai / Chithirai / Tamil-New-Year claims. Preserve them exactly in their own source framing; do not reconcile them with outside historical or calendrical knowledge.
-- Preserve source-supplied English exactly wherever printed.
-- Letter **3586** is scan-proven as `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the former stale `தமிழக அரசு...` reading remains withdrawn.
-
-Create a durable alignment report for **3582–3586**, record any English corrections and any scan-triggered Tamil corrections separately, update the cumulative bilingual-aligned count, and set the exact following alignment batch from live chapter boundaries.
+Create a durable alignment report for **3587–3591**, record any English corrections and scan-triggered Tamil corrections separately, create/update the machine-readable alignment status, update the cumulative bilingual-aligned count to **55 / 55** only after all five records pass, and then set the **volume-level English editorial consistency review** as the exact next gate. Do not execute that editorial review in the same iteration.
 
 Immediately before Git mutation, re-fetch live `main`; preserve unrelated concurrent changes. Prefer one atomic Git-data commit where technically possible. If connector limitations force an incremental sequence, preserve history, synchronize every durable control before stopping, compare the prior durable boundary to final live `main`, and verify live `main` afterward. Never force-push routine work.
 
-When I say **“Proceed with next activity”**, execute this bilingual-alignment batch directly without asking me to choose a routine next step.
+When I say **“Proceed with next activity”**, execute this final bilingual-alignment batch directly without asking me to choose a routine next step.
