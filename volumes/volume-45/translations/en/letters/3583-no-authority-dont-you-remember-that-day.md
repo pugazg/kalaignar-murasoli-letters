@@ -52,7 +52,7 @@ Though Jayalalithaa has passed a resolution in the Assembly, one is led to think
 
 Comrade Thiagu, in particular, was one of the comrades of a Left movement who received a death sentence and was later saved. I will give what he said as it is in substance:
 
-“It was a time when we were deeply involved in the work of a Left movement. The party to which we belonged had adopted the policy of eliminating class enemies. In accordance with a party decision, Muthu Thangappa of the Orathanadu area was murdered in 1970. Comrades Rengasamy Lenin, Gurumoorthy and I were arrested and lodged in Tiruchi Central Prison. The Sessions Court tried our case and in 1972 sentenced all three of us to death. We appealed to the Madras High Court, but the High Court too confirmed our death sentences.
+“It was a time when we were deeply involved in the work of a Left movement. The party to which we belonged had adopted a policy of eliminating enemies. In accordance with a party decision, Muthu Thangappa of the Orathanadu area was murdered in 1970. Comrades Rengasamy Lenin, Gurumoorthy and I were arrested and lodged in Tiruchi Central Prison. The Sessions Court tried our case and in 1972 sentenced all three of us to death. We appealed to the Madras High Court, but the High Court too confirmed our death sentences.
 
 “Kalaignar was then Chief Minister of Tamil Nadu. We petitioned the Governor to reduce the death sentences confirmed by the High Court. The Governor sought the Tamil Nadu Government's view. Kalaignar convened his Cabinet, discussed my mercy petition, decided that the punishment could be reduced to life imprisonment and recommended that to the Governor. On that recommendation, the Governor cancelled our death sentences and reduced them to life imprisonment. Thus we, who had been about to kiss the noose, were saved.
 
@@ -74,6 +74,10 @@ Instead of clinging to what someone has told her—that she has no authority und
 
 **With affection, M.K.**  
 1-9-2011
+
+## Source-specific note
+
+Across the physical PDF 348→349 boundary, the printed Tamil reads `வாக்க` / `எதிரிகளை`, i.e. `வாக்க எதிரிகளை`. A direct scan re-check during bilingual alignment confirmed that printed form. The aligned English therefore renders the phrase conservatively as “eliminating enemies” and does not silently normalize the Tamil to `வர்க்க எதிரிகளை`. Canonical Tamil is unchanged.
 
 ## Original Tamil — மூலத் தமிழ்
 
