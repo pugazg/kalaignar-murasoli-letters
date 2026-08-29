@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள�
 source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
 source_size_bytes: 202106488
 searchable_text_layer: false
-transcription_page_range: "1-192"
+transcription_page_range: "1-229"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3484-3509"
-completed_letter_range: "3484-3509"
-completed_letter_count: 26
+recorded_letter_range: "3484-3514"
+completed_letter_range: "3484-3514"
+completed_letter_count: 31
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-3505-3509-pass"
+audit_status: "batch-3510-3514-pass"
 audit_date: 2026-08-29
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -46,4 +46,9 @@ source_observations:
   - "Letters 3505–3509 are scan-verified complete across PDF 166–192 / printed pages 165–191."
   - "Verified closing dates: 3505 17-10-2010; 3506 19-10-2010; 3507 24-10-2010; 3508 27-10-2010; 3509 1-11-2010."
   - "The batch preserves source-specific forms including 3505 'வாழ்க வசவாளர்கள்!', 3508 'கழிபேருவகையினையும்', joined 'வீடுவழங்கும் திட்டத்தின்' forms, and 3509 'மத்திய அரசம்' / 'எதிர் மறை' without silent correction."
-  - "PDF 193 / printed page 192 begins Letter 3510 and was inspected only to establish the next boundary; it is not yet canonically transcribed."
+  - "Letters 3510–3514 are scan-verified complete across PDF 193–229 / printed pages 192–228."
+  - "Verified closing dates: 3510 3-11-2010; 3511 4-11-2010; 3512 14-11-2010; 3513 17-11-2010; 3514 30-11-2010."
+  - "The printed contents title for 3513 reads 'மனு தாமதத்திற்கு மறு பிறவி கிடையாது!' while the actual letter-start title on PDF 214 reads 'மனு தர்மத்திற்கு மறு பிறவி கிடையாது!'; both readings are preserved separately."
+  - "Letter 3512 preserves the source English quotations and technical references without translation or normalization; Letter 3513 preserves its source English quotations and the post-closing distribution instruction on PDF 222."
+  - "Letter 3514 preserves printed vote figures, bonus figures, benefit lists and source-specific spacing without silent correction."
+  - "PDF 230 / printed page 229 begins Letter 3515 and was inspected only to establish the next boundary; it is not yet canonically transcribed."

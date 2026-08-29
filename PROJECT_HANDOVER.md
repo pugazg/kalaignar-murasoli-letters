@@ -22,7 +22,7 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–192 / 400**
+- Canonical Tamil pages: **001–229 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
 - First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
@@ -30,15 +30,16 @@ Current durable state:
 - Third regular five-letter batch: **PASS — 3495–3499 / PDF 105–139**
 - Fourth regular five-letter batch: **PASS — 3500–3504 / PDF 140–165**
 - Fifth regular five-letter batch: **PASS — 3505–3509 / PDF 166–192**
-- Completed letters: **26 — 3484–3509**
+- Sixth regular five-letter batch: **PASS — 3510–3514 / PDF 193–229**
+- Completed letters: **31 — 3484–3514**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3505 PDF 166–169, 3506 PDF 170–175, 3507 PDF 176–179, 3508 PDF 180–186, and 3509 PDF 187–192. The scan-printed closings are 17-10-2010, 19-10-2010, 24-10-2010, 27-10-2010 and 1-11-2010. Source-specific anomalies and unusual wording remain unnormalized. PDF 193 / printed page 192 visibly begins Letter 3510 but is not yet canonical.
+The latest batch boundaries are 3510 PDF 193–198, 3511 PDF 199–206, 3512 PDF 207–213, 3513 PDF 214–222, and 3514 PDF 223–229. The scan-printed closings are 3-11-2010, 4-11-2010, 14-11-2010, 17-11-2010 and 30-11-2010. Source-specific anomalies, English passages and unusual wording remain unnormalized. The printed contents title for 3513 is `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, but the actual letter-start title is `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; both source readings are preserved. PDF 222 retains the post-closing distribution instruction. PDF 230 / printed page 229 visibly begins Letter 3515 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 193** and execute the next regular five-complete-letter transcription iteration: Letters **3510–3514**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 230** and execute the next regular five-complete-letter transcription iteration: Letters **3515–3519**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

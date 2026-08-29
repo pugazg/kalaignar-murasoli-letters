@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **192 / 400; batches through 3505–3509 PASS** | **26 / 53 — 3484–3509 complete** | **blocked pending Tamil gates** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **229 / 400; batches through 3510–3514 PASS** | **31 / 53 — 3484–3514 complete** | **blocked pending Tamil gates** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -32,9 +32,9 @@
 
 ## Volume 44 — active
 
-Volume 44 has canonical Tamil through **PDF 192 / printed page 191**. Twenty-six source letters **3484–3509** are scan-verified complete. The fifth regular five-complete-letter iteration, **3505–3509 / PDF 166–192**, has passed its iteration-level visual/textual audit.
+Volume 44 has canonical Tamil through **PDF 229 / printed page 228**. Thirty-one source letters **3484–3514** are scan-verified complete. The sixth regular five-complete-letter iteration, **3510–3514 / PDF 193–229**, has passed its iteration-level visual/textual audit. The actual Letter 3513 title reads `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`, distinct from the printed-contents wording `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`; both are preserved.
 
-PDF **193 / printed page 192** visibly begins Letter **3510** but has not yet been canonically transcribed. The exact next activity is the next five-complete-letter iteration, **3510–3514**, beginning at PDF 193 and ending only at the scan-verified closing of 3514.
+PDF **230 / printed page 229** visibly begins Letter **3515** but has not yet been canonically transcribed. The exact next activity is the next five-complete-letter iteration, **3515–3519**, beginning at PDF 230 and ending only at the scan-verified closing of 3519.
 
 ## Volume 45 — released
 

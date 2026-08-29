@@ -30,7 +30,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3507 | [தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா?](3507-therthal-theerppukkuk-koottame-alavukolaa.md) | 176–179 | 175–178 | complete |
 | 3508 | [குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக!](3508-kudisaigal-kopurangalaaga-manveedugal-maaligaigalaaga.md) | 180–186 | 179–185 | complete |
 | 3509 | [அம்மையார் வாக்கும் போக்கும்; அன்றும்-இன்றும்!](3509-ammaiyaar-vaakkum-pokkum-anrum-inrum.md) | 187–192 | 186–191 | complete |
+| 3510 | [காலம்தான் பதில் சொல்லும்!](3510-kaalamthaan-pathil-sollum.md) | 193–198 | 192–197 | complete |
+| 3511 | [நடுநிலையாளர்க்கு; கெடுமதி கூடாது!](3511-nadunilaiyaalarkku-kedumathi-koodaathu.md) | 199–206 | 198–205 | complete |
+| 3512 | [துரோகத்தின் முகத்திரையைக் கிழிப்போம்!](3512-thurogaththin-mugaththiraiyai-kizhippom.md) | 207–213 | 206–212 | complete |
+| 3513 | [மனு தர்மத்திற்கு மறு பிறவி கிடையாது!](3513-manu-dharmaththirku-maru-piravi-kidaiyaathu.md) | 214–222 | 213–221 | complete |
+| 3514 | [வரப்போகும் வெற்றிக்கு வெள்ளோட்டம்!](3514-varappogum-vetrikku-vellottam.md) | 223–229 | 222–228 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **192 / printed page 191**, covering twenty-six completed letters **3484–3509**. PDF **193 / printed page 192** was inspected only to establish the next boundary and visibly begins Letter **3510**.
+Canonical Tamil is complete through PDF **229 / printed page 228**, covering thirty-one completed letters **3484–3514**. PDF **230 / printed page 229** was inspected only to establish the next boundary and visibly begins Letter **3515**.

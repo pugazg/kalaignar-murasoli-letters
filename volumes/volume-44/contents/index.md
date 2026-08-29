@@ -30,12 +30,12 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3507 | தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா? | 24-10-2010 | 175 | 176 | 179 | complete |
 | 3508 | குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக! | 27-10-2010 | 179 | 180 | 186 | complete |
 | 3509 | அம்மையார் வாக்கும் போக்கும்; அன்றும்-இன்றும்! | 1-11-2010 | 186 | 187 | 192 | complete |
-| 3510 | காலம்தான் பதில் சொல்லும்! | 3-11-2010 | 192 | 193 | — | pending |
-| 3511 | நடுநிலையாளர்க்கு; கெடுமதி கூடாது! | 4-11-2010 | 198 | — | — | pending |
-| 3512 | துரோகத்தின் முகத்திரையைக் கிழிப்போம்! | 14-11-2010 | 206 | — | — | pending |
-| 3513 | மனு தாமதத்திற்கு மறு பிறவி கிடையாது! | 17-11-2010 | 213 | — | — | pending |
-| 3514 | வரப்போகும் வெற்றிக்கு வெள்ளோட்டம்! | 30-11-2010 | 222 | — | — | pending |
-| 3515 | கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண! | 2-12-2010 | 229 | — | — | pending |
+| 3510 | காலம்தான் பதில் சொல்லும்! | 3-11-2010 | 192 | 193 | 198 | complete |
+| 3511 | நடுநிலையாளர்க்கு; கெடுமதி கூடாது! | 4-11-2010 | 198 | 199 | 206 | complete |
+| 3512 | துரோகத்தின் முகத்திரையைக் கிழிப்போம்! | 14-11-2010 | 206 | 207 | 213 | complete |
+| 3513 | மனு தாமதத்திற்கு மறு பிறவி கிடையாது! | 17-11-2010 | 213 | 214 | 222 | complete |
+| 3514 | வரப்போகும் வெற்றிக்கு வெள்ளோட்டம்! | 30-11-2010 | 222 | 223 | 229 | complete |
+| 3515 | கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண! | 2-12-2010 | 229 | 230 | — | pending |
 | 3516 | ஒய்யாரக் கொண்டையாம்; தாழம்பூவாம்...! | 10-12-2010 | 239 | — | — | pending |
 | 3517 | என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு? | 12-12-2010 | 245 | — | — | pending |
 | 3518 | வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்! | 19-12-2010 | 251 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3509 are scan-verified complete through PDF 192 / printed page 191. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. PDF 193 / printed page 192 was inspected for boundary only and begins Letter 3510; its body is not yet canonically transcribed.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3514 are scan-verified complete through PDF 229 / printed page 228. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately. PDF 230 / printed page 229 was inspected for boundary only and begins Letter 3515; its body is not yet canonically transcribed.
