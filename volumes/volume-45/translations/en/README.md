@@ -18,11 +18,11 @@ Translation and alignment are made from the scan-verified canonical Tamil. The c
 
 ## Translation and alignment status
 
-Main drafting is complete: all **55 / 55** letters are source-checked. Ten bilingual meaning-level alignment batches, through **3582–3586 / PDF 338–369**, have passed. Current cumulative alignment is **50 / 55 — 3537–3586 / PDF 024–369**. The tenth batch required **1 English-only correction** and **0 Tamil canonical changes**.
+Main drafting is complete: all **55 / 55** letters are source-checked. All eleven bilingual meaning-level alignment batches, through **3587–3591 / PDF 370–401**, have passed. Current cumulative alignment is **55 / 55 — 3537–3591 / PDF 024–401**. The final batch required **1 English-only correction**, **0 Tamil canonical changes**, and **0 new scan re-checks**.
 
-For the tenth batch, detailed closure is recorded in [`BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`](BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md), with compact machine-readable status in [`alignment-status/3582-3586.yml`](alignment-status/3582-3586.yml). The bilingual bodies retain their source-check drafting metadata; the report/sidecar records the separate alignment gate.
+Final-batch closure is recorded in [`BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`](BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md), with compact machine-readable status in [`alignment-status/3587-3591.yml`](alignment-status/3587-3591.yml). The bilingual bodies retain their source-check drafting metadata; the report/sidecar records the separate alignment gate.
 
-During Letter 3583 alignment, direct scan re-check confirmed the physical PDF 348→349 source `வாக்க` / `எதிரிகளை`. The earlier English “class enemies” silently supplied an unprinted normalization, so the aligned English now uses the conservative **“enemies.”** Canonical Tamil remains unchanged. Letter 3582's Thai/Chithirai/Tamil-New-Year claims and Letter 3586's scan-proven `கழக அரசு...` title remain source-specific.
+During Letter 3589 alignment, the unprinted distancing hedge “in the source's argument” was removed and the direct Tamil `நாசமாக்கி அழித்திடும்` is now represented as **“will destroy”** in the engineering-university paragraph. Canonical Tamil remains unchanged. Earlier Letter 3583 alignment directly rechecked and confirmed the physical PDF 348→349 source `வாக்க` / `எதிரிகளை`; its conservative English **“enemies”** remains. Letter 3587's successive source `1-9-2006` / `31-8-2006` formulations remain preserved rather than externally harmonised.
 
 | Letter | English title | Date | Source PDF | Status |
 |---:|---|---|---:|---|
@@ -76,17 +76,17 @@ During Letter 3583 alignment, direct scan re-check confirmed the physical PDF 34
 | [3584](letters/3584-is-the-very-foundation-being-cut-away.md) | Is the Very Foundation Being Cut Away? | 8 September 2011 | 352–357 | source-checked; alignment PASS via batch record |
 | [3585](letters/3585-alas-poor-aiadmk-ministers.md) | Alas! Poor AIADMK Ministers!! | 10 September 2011 | 358–364 | source-checked; alignment PASS via batch record |
 | [3586](letters/3586-save-the-three-lives-by-following-the-path-the-dmk-government-followed.md) | Save the Three Lives by Following the Path the DMK Government Followed! | 12 September 2011 | 365–369 | source-checked; alignment PASS via batch record |
-| [3587](letters/3587-what-the-mother-in-law-broke-what-the-daughter-in-law-broke.md) | What the Mother-in-Law Broke; What the Daughter-in-Law Broke! | 13 September 2011 | 370–376 | source-checked |
-| [3588](letters/3588-education-must-it-be-a-bud-left-to-wither.md) | Education—Must It Be a Bud Left to Wither? | 14 September 2011 | 377–382 | source-checked |
-| [3589](letters/3589-how-long-will-this-one-upmanship-continue.md) | How Long Will This One-Upmanship Continue? | 19 September 2011 | 383–390 | source-checked |
-| [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked |
-| [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked |
+| [3587](letters/3587-what-the-mother-in-law-broke-what-the-daughter-in-law-broke.md) | What the Mother-in-Law Broke; What the Daughter-in-Law Broke! | 13 September 2011 | 370–376 | source-checked; alignment PASS via batch record |
+| [3588](letters/3588-education-must-it-be-a-bud-left-to-wither.md) | Education—Must It Be a Bud Left to Wither? | 14 September 2011 | 377–382 | source-checked; alignment PASS via batch record |
+| [3589](letters/3589-how-long-will-this-one-upmanship-continue.md) | How Long Will This One-Upmanship Continue? | 19 September 2011 | 383–390 | source-checked; alignment PASS via batch record |
+| [3590](letters/3590-rise-swiftly-pluck-the-fruit-of-victory.md) | Rise Swiftly; Pluck the Fruit of Victory! | 24 September 2011 | 391–396 | source-checked; alignment PASS via batch record |
+| [3591](letters/3591-lack-of-restraint-will-cast-one-into-deep-darkness.md) | Lack of Restraint Will Cast One into Deep Darkness! | 27 September 2011 | 397–401 | source-checked; alignment PASS via batch record |
 
-Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **50 / 55, Letters 3537–3586 / PDF 024–369**.
+Current drafting coverage: **55 / 55 source-checked**, audited canonical PDF **024–401**. Current bilingual alignment: **55 / 55, Letters 3537–3591 / PDF 024–401 — COMPLETE**.
 
 ## Batch records
 
-Draft/source-check reports remain in this directory. The latest bilingual alignment report is [`BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`](BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md). Machine-readable batch alignment status is maintained under [`alignment-status/`](alignment-status/README.md).
+Draft/source-check reports remain in this directory. The latest bilingual alignment report is [`BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`](BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md). Machine-readable batch alignment status is maintained under [`alignment-status/`](alignment-status/README.md), with final-batch closure in [`alignment-status/3587-3591.yml`](alignment-status/3587-3591.yml).
 
 See also [`PROGRESS.md`](PROGRESS.md), [`GLOSSARY.md`](GLOSSARY.md), and the volume-level [`TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md).
 
@@ -98,8 +98,8 @@ Every letter contains source/translation metadata, the standard translator's not
 
 ## QA boundary
 
-All fifty-five English records are `source-checked`. Letters **3537–3586** have additionally passed direct bilingual meaning-level alignment. For the sidecar-tracked batches, that separate gate is recorded in the batch report and sidecar while the bilingual bodies retain source-check drafting metadata. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
+All fifty-five English records are `source-checked`, and all **3537–3591** have additionally passed direct bilingual meaning-level alignment. For the sidecar-tracked batches, that separate gate is recorded in the batch report and sidecar while the bilingual bodies retain source-check drafting metadata. Alignment does **not** mean final release verification: volume-level English editorial consistency review and final release verification remain later distinct gates.
 
 ## Exact next activity
 
-Complete the **final bilingual-alignment batch, Letters 3587–3591 / PDF 370–401**. Preserve every source anomaly, source-supplied English, date, figure, punctuation form and physical page boundary. If alignment exposes a new possible Tamil discrepancy, re-check the controlling scan before changing either layer. Do not begin the volume-level editorial consistency review until the final five records pass and alignment reaches **55 / 55**.
+Perform the **Volume 45 volume-level English editorial consistency review across all 55 bilingual records**. Check title/front-matter/index agreement, translator-note status wording, names and honorifics, places and transliteration, institutional/legal terminology, spelling and compounds, punctuation, dates and page ranges, glossary decisions, stale drafting/pending control fields, source-anomaly labels and complete appended Tamil. Do not alter political meaning, attribution, uncertainty, figures, quotations, rhetorical force or canonical Tamil unless a fresh direct scan check proves a Tamil defect. The translation manifest and final English release report remain blocked until this editorial gate passes.
