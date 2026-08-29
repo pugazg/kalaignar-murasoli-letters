@@ -10,9 +10,9 @@ Read this together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATC
 
 **The controlling source scan controls Tamil readings.** OCR, contents pages, another edition, outside historical knowledge, translations and inferred chronology may assist navigation but may not silently override the source. Historical wording, source errors, numbering anomalies, punctuation, quoted material, English text and physical boundaries are preserved and documented.
 
-For English work, the audited canonical Tamil is the immediate translation/alignment source. Any alignment check that exposes a possible Tamil discrepancy must trigger targeted direct scan re-verification before either Tamil or English is changed.
+For English work, the audited canonical Tamil is the immediate translation/alignment source. Any English QA check that exposes a possible Tamil discrepancy must trigger targeted direct scan re-verification before either Tamil or English is changed.
 
-## 2. Current active work — Volume 45 English bilingual alignment
+## 2. Current active work — Volume 45 English editorial consistency
 
 ### Tamil archival boundary — complete
 
@@ -47,48 +47,52 @@ Current drafting state:
 - Source-checked: **55 / 55 — 3537–3591**
 - Cumulative translated canonical source: **PDF 024–401**
 
-### Bilingual alignment — IN PROGRESS
+### Bilingual alignment — COMPLETE
 
-Ten batches are complete. Latest:
+All eleven batches are complete. Final batch:
 
-- **3582–3586 / PDF 338–369 / 32 pages** — **PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0.**
-- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`.
-- Machine-readable batch status: `volumes/volume-45/translations/en/alignment-status/3582-3586.yml`.
+- **3587–3591 / PDF 370–401 / 32 pages** — **PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0; new scan re-checks 0.**
+- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`.
+- Machine-readable batch status: `volumes/volume-45/translations/en/alignment-status/3587-3591.yml`.
 
-Tenth-batch source-specific results:
+Final-batch source-specific results:
 
-- **3582:** Thai / Chithirai / Tamil-New-Year claims, quoted scholarly statements, bill chronology and closing position align without outside reconciliation.
-- **3583:** Article 161, mercy-petition chronology, source-supplied English and Thiagu/Kaliyaperumal material align after one English-only correction; direct scan confirmed `வாக்க` / `எதிரிகளை` across PDF 348→349.
-- **3584:** democracy, Omandurar, Samacheer Kalvi, tax, agricultural-welfare and Tamil-New-Year-law sequences align without correction.
-- **3585:** Rule 110, policy-note copying and complete sports-development catalogue align without correction.
-- **3586:** the scan-proven `கழக அரசு...` title, Rajiv Gandhi / *Nenjukku Neethi* material, Eelam narrative and death-sentence commutation argument align without correction.
+- **3587:** the 311-acre Thirumazhisai / Rule 110 / policy-note / 2006 satellite-town sequence aligns; the source's successive `1-9-2006` / `31-8-2006` formulations remain preserved rather than externally harmonised.
+- **3588:** Samacheer Kalvi, school-day, textbook, examination, teacher-ratio, recruitment and counselling sequences align without correction.
+- **3589:** one English-only correction removed the unprinted distancing hedge “in the source's argument” and restored the direct force of `நாசமாக்கி அழித்திடும்` as **“will destroy”** in the engineering-university paragraph. Canonical Tamil is unchanged.
+- **3590:** local-body election, nomination, constituency-category, campaign, false-case, election-expense and media arguments align without correction.
+- **3591:** K.P.P. Samy, M.K. Balan, police-transfer, High Court and Valluvar-Kural sequences align without correction.
 
-No Tamil canonical file changed during the tenth alignment batch.
-
-The large bilingual bodies retain their `translation_status: source-checked` drafting metadata. Their separate bilingual-alignment closure is recorded durably by the detailed report and machine-readable sidecar. Do not mistake that implementation detail for a missing QA gate.
+The large bilingual bodies retain their drafting-layer `translation_status: source-checked` and pending alignment front-matter convention. Their separate bilingual-alignment closure is recorded durably by the detailed reports and machine-readable sidecars. Do not mistake that implementation detail for a missing QA gate.
 
 Current English QA totals:
 
-- Source-checked: **55 / 55**
-- Bilingual-aligned: **50 / 55 — 3537–3586 / PDF 024–369**
+- Source-checked: **55 / 55 — 3537–3591 / PDF 024–401**
+- Bilingual-aligned: **55 / 55 — 3537–3591 / PDF 024–401**
 - Editorially reviewed: **0 / 55**
 - Final verified English: **0 / 55**
 
-### Exact next activity — final bilingual-alignment batch 3587–3591
+### Exact next activity — volume-level English editorial consistency review
 
-Align five complete consecutive letters:
+Perform the separate **Volume 45 English editorial consistency review across all 55 bilingual records**.
 
-- **3587** — `மாமியார் உடைத்ததும்; மருமகள் உடைத்ததும்!` — PDF **370–376** — 13-9-2011
-- **3588** — `கல்வி; கருகிடும் மொட்டாவதா?` — PDF **377–382** — 14-9-2011
-- **3589** — `எத்தனை காலமோ; இந்த ஏட்டிக்குப் போட்டி?` — PDF **383–390** — 19-9-2011
-- **3590** — `விரைந்தெழுவீர்; வெற்றிக்கனி பறித்திட!` — PDF **391–396** — 24-9-2011
-- **3591** — `அடங்காமை ஆறிருள் உய்த்து விடும்!` — PDF **397–401** — 27-9-2011
+Review the volume as one English work for:
 
-Combined final alignment range: **PDF 370–401 / 32 canonical pages**.
+- English title / YAML / index agreement;
+- translator-note wording and any stale drafting-status language;
+- names, honorifics, places and transliteration;
+- institutional, legal and political terminology;
+- British/Indian English spelling and compounds where applicable;
+- punctuation and quotation consistency;
+- dates and PDF/printed-page ranges;
+- glossary decisions and avoidable variants;
+- source-anomaly and source-specific labels;
+- stale `pending` / drafting fields in control layers;
+- preservation and completeness of every `Original Tamil — மூலத் தமிழ்` appendix.
 
-For every letter: read the complete authoritative audited Tamil and complete English record; compare title, salutation, paragraph order, substantive claims, lists, quotations, names, dates, figures, units, rhetoric, repetition and closing; correct only demonstrated English omission/addition/semantic drift; if any new Tamil defect is suspected, re-check the controlling scan before changing either layer; create a durable batch report and machine-readable alignment status; update all controls.
+The editorial review may correct demonstrated English consistency defects but must **not** alter political meaning, attribution, uncertainty, figures, quotations, rhetorical force, source-specific anomalies or canonical Tamil. If a possible Tamil transcription defect appears, re-check the controlling scan directly before changing either layer.
 
-Do **not** begin the volume-level English editorial consistency review inside the final alignment iteration. After the final five letters pass and the **55 / 55 bilingual-aligned** boundary is durably recorded, editorial consistency becomes the next gate.
+Create/update `volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` (or the established repository-equivalent durable editorial report), update all controls, and only after this gate passes make the translation manifest / final release report the next activity. Do **not** combine the editorial review and release packaging into one routine step.
 
 ## 3. QA separation
 
@@ -97,10 +101,10 @@ Keep stages distinct:
 1. Tamil batch/iteration audit;
 2. full-volume Tamil structural audit;
 3. second full-volume direct visual/textual-fidelity verification;
-4. targeted scan correction if translation/alignment exposes a residual Tamil discrepancy;
+4. targeted scan correction if English QA exposes a residual Tamil discrepancy;
 5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **IN PROGRESS; 50 / 55 aligned; final batch 3587–3591 / PDF 370–401 next**;
-7. volume-level English editorial consistency review;
+6. bilingual alignment — **COMPLETE; 55 / 55 aligned**;
+7. volume-level English editorial consistency review — **NEXT**;
 8. release manifest/report.
 
 ## 4. Git/concurrency discipline
