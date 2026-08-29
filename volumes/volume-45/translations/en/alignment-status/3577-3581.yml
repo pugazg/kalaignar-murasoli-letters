@@ -1,0 +1,22 @@
+volume: 45
+alignment_batch: 3577-3581
+source_pdf_range: 290-337
+status: pass
+letters:
+  - letter: 3577
+    status: aligned
+  - letter: 3578
+    status: aligned
+  - letter: 3579
+    status: aligned
+  - letter: 3580
+    status: aligned
+  - letter: 3581
+    status: aligned
+english_corrections: 0
+tamil_canonical_corrections: 0
+review: ../BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md
+note: >-
+  This sidecar records the completed bilingual-alignment gate for this batch.
+  The canonical bilingual letter bodies remain source-checked records; this
+  sidecar is the machine-readable alignment status for the batch.
