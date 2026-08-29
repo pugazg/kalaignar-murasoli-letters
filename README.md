@@ -25,7 +25,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 40 / 55 bilingual-aligned; alignment in progress** |
+| 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural PASS; second visual/textual-fidelity PASS; historical 243 pages / 623 spans; combined post-translation tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 source-checked; 45 / 55 bilingual-aligned; alignment in progress** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
@@ -35,15 +35,12 @@
 
 Volume 45 Tamil archival work is complete: **402 / 402 canonical PDF pages**, **55 / 55 source letters, 3537–3591**, structural audit **PASS**, second direct visual/textual-fidelity audit **PASS**. The historical second-pass tally is **243 corrected canonical page files / 623 correction spans**. Letter 3560 English source-check exposed one residual omission on already-corrected PDF 187; it was directly repaired from the scan, leaving **243 unique corrected pages / 624 combined scan-proven spans**.
 
-English main drafting is complete at **55 / 55 source-checked**. Eight bilingual alignment batches are complete through **3572–3576 / PDF 261–289**. The eighth batch passed **5 / 5**, with **2 English-only corrections** and **0 Tamil changes**:
+English main drafting is complete at **55 / 55 source-checked**. Nine bilingual alignment batches are complete through **3577–3581 / PDF 290–337**. The ninth batch passed **5 / 5**, with **0 English corrections** and **0 Tamil changes**.
 
-- Letter 3573 now preserves PDF 268 `இனி தொலைவாய்` as the direct **“Now, be gone!”**, replacing the softer “Your time is now ending!”
-- Letter 3576 removes the added qualification **“war-crime allegations”** and follows source `போர்க் குற்றங்களை அடுத்து` as **“following the war crimes.”**
+The exhaustive law-and-order catalogue in Letter 3577 retains PDF 290 `18-5-2001` exactly as printed, including the source's own opening “three months” versus closing “two months” framing. Letter 3578's Housing Board/Jaffer Sait material, Letter 3579's budget figures and source-supplied *The Hindu* English, Letter 3580's land-grab/policing argument and source English, and Letter 3581's complete *Semmozhi Vazhthu* and textbook-removal catalogue all passed direct meaning-level comparison without correction.
 
-The genuine Letter 3575 contents `...!` versus actual letter-start `....!` difference remains preserved. Letter 3576 remains scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; stale `பார்!` remains withdrawn. PDF 276 source-supplied English remains verbatim.
+Current English QA totals: **55 / 55 source-checked**, **45 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
 
-Current English QA totals: **55 / 55 source-checked**, **40 / 55 bilingual-aligned**, **0 / 55 editorially reviewed**, **0 / 55 final verified**.
+**Exact next activity:** align **Letters 3582–3586 / PDF 338–369** as the next five-complete-letter alignment batch. Preserve Letter 3582's source-specific Thai/Chithirai/Tamil-New-Year claims without outside reconciliation and the scan-proven Letter 3586 title `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; stale `தமிழக அரசு...` remains withdrawn. Keep the later volume-level English editorial consistency review separate.
 
-**Exact next activity:** align **Letters 3577–3581 / PDF 290–337** as the next five-complete-letter alignment batch. Preserve PDF 290 `18-5-2001` exactly as the audited source prints it. Keep the later volume-level English editorial consistency review separate.
-
-Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [latest alignment review](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3572_3576.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
+Volume 45 controls: [README](volumes/volume-45/README.md), [PROGRESS](volumes/volume-45/PROGRESS.md), [AUDIT](volumes/volume-45/AUDIT.md), [metadata](volumes/volume-45/metadata.yml), [translation plan](volumes/volume-45/TRANSLATION_PLAN.md), [English progress](volumes/volume-45/translations/en/PROGRESS.md), [latest alignment review](volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3577_3581.md), [alignment status sidecars](volumes/volume-45/translations/en/alignment-status/README.md), and [translation-discovered Tamil corrections](volumes/volume-45/translations/en/TRANSLATION_DISCOVERED_TAMIL_CORRECTIONS.md).
