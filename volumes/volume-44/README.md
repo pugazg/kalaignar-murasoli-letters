@@ -6,41 +6,41 @@
 **பதிப்பகம்:** சீதை பதிப்பகம்  
 **கட்டுப்பாட்டு மூல PDF:** `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
-## Source intake
-
-Volume 44 has been verified directly from the attached scan and initialized under the current repository workflow.
+## Source identity
 
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
 - Source size: **202,106,488 bytes**
-- Searchable text layer: **none usable**; text extraction yields page separators only
-- Rotation: **0° on all 400 pages** during intake inspection
-- Exact duplicate-page raster signal: **none detected** during intake inspection
+- Searchable text layer: **none usable**
 - Printed contents: PDF **018–022**
-- Contents-visible provisional source-record span: **3484–3536** (**53 records**), dated **18.07.2010–11.03.2011**
-- PDF **005** and PDF **023** are visually blank/verso pages with bleed-through rather than source body text.
-- PDF **024** begins source letter **3484** at printed page **23**.
-- PDF **025** continues letter **3484**, so the mandatory first transcription batch will stop with that letter marked `partial`.
+- Printed-contents inventory: **53 records, 3484–3536**
 
-The contents are an index aid only. Exact titles, dates, page boundaries and every accepted Tamil reading remain subject to direct scan verification during canonical transcription.
+## Current Tamil archival state
 
-## Current status
-
-| Gate | Status |
+| Gate / area | Status |
 |---|---|
-| Source intake | **PASS / complete** |
-| Canonical Tamil pages | **0 / 400** |
-| Exact contents transcription | pending |
-| Completed chapter records | **0** |
-| Iteration audit | not started |
+| Source intake | **PASS** |
+| Canonical Tamil pages | **25 / 400 — PDF 001–025** |
+| Printed contents transcription | **complete — PDF 018–022** |
+| Completed letters | **0 / 53** |
+| Partial letter | **3484 — PDF 024–025; continues at 026** |
+| First-batch iteration audit | **PASS** |
 | Full-volume Tamil structural audit | blocked |
-| Second visual verification | blocked |
+| Second visual verification | pending |
 | English translation | blocked |
 | Bilingual alignment | blocked |
 | English release | blocked |
 
-## Mandatory next activity
+## First transcription batch
 
-Create and visually verify **exactly PDF pages 001–025** as `pages/page-001.md` through `pages/page-025.md`, update all applicable control files in the same atomic commit, and stop at PDF 025. Letter **3484** must be recorded as `partial`; do **not** include PDF 026 in that commit.
+The mandatory first batch has been completed **exactly through PDF 025**. Canonical page files exist for every physical page from the front cover through the first two pages of Letter 3484.
 
-After that, the following commit must begin at PDF 026 and finish letter 3484 before regular five-complete-letter iterations begin.
+The scan-controlled contents pages retain their printed mixed date formats, punctuation and source wording. Letter-start transcription on PDF 024 is kept separately from the contents wording even where they currently agree.
+
+A visible source anomaly on PDF 025 — `1 17 லட்சத்து 54 ஆயிரத்து 868 ரூபாய்` — is preserved exactly rather than repaired from context or outside knowledge.
+
+## Exact next activity
+
+Begin at **PDF 026** and finish Letter **3484** through its verified closing/date page. That immediate-continuation commit must promote 3484 from `partial` to `complete` and identify the exact start of Letter 3485. Only after that may the normal five-complete-letter transcription iterations begin.
+
+English translation remains blocked until the required Tamil gates are complete.

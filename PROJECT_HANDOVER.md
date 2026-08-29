@@ -14,23 +14,25 @@ The controlling scan controls Tamil readings. Audited canonical Tamil is the imm
 
 Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
-Source intake is complete:
+Current durable state:
 
 - Scan-confirmed volume: **44**
 - PDF pages: **400**
-- SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
-- Source size: **202,106,488 bytes**
-- Printed publisher: **சீதை பதிப்பகம்**
-- Printed edition/year: **1st Edition — 2022**
-- Cover/title date span: **18.07.2010–11.03.2011**
-- Printed contents: PDF **018–022**
-- Provisional contents inventory: **53 records, 3484–3536**
-- Canonical Tamil: **0 / 400**
+- Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
+- Date span: **18.07.2010–11.03.2011**
+- Printed contents: **PDF 018–022 — transcribed**
+- Source inventory from contents: **53 records, 3484–3536**
+- Canonical Tamil pages: **001–025 / 400**
+- First-batch iteration audit: **PASS**
+- Completed letters: **0**
+- Partial letter: **3484**
 - English: **blocked**
 
-PDF 024 begins letter 3484 at printed page 23. PDF 025 continues the same letter. Therefore the next activity is the mandatory first transcription commit **PDF 001–025 exactly**, ending with letter 3484 `partial`. PDF 026 must not be included in that first commit.
+PDF 024 begins Letter 3484 at printed page 23. PDF 025 continues the same letter and preserves a printed anomalous valuation `1 17 லட்சத்து 54 ஆயிரத்து 868 ரூபாய்` without reconstruction.
 
-The following commit must begin at PDF 026 and finish letter 3484 before normal five-complete-letter iterations begin.
+### Exact next activity
+
+Begin at **PDF 026** and finish Letter **3484** through its verified closing/date page. Update the chapter record from `partial` to `complete`, synchronize control files, and record the exact next PDF page/Letter 3485. Do not begin regular five-complete-letter iterations until this immediate continuation is complete.
 
 ## Volume 45 — COMPLETE
 
