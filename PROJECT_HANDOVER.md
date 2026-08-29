@@ -4,107 +4,64 @@
 **Primary branch:** `main`  
 **Handover date:** 2026-08-29
 
-Read this together with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`. If documents conflict, the controlling processing/batching/transcription guides take precedence.
+Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
-## 1. Source authority
+## Source authority
 
-**The controlling source scan controls Tamil readings.** OCR, contents pages, another edition, outside historical knowledge, translations and inferred chronology may assist navigation but may not silently override the source. Historical wording, source errors, numbering anomalies, punctuation, quoted material, English text and physical boundaries are preserved and documented.
+The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
-For English work, the audited canonical Tamil is the immediate QA source. Any English QA check that exposes a possible Tamil discrepancy must trigger targeted direct scan re-verification before either Tamil or English is changed.
+## Volume 45 — COMPLETE
 
-## 2. Current active work — Volume 45 final English release packaging
+Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
 
-### Tamil archival boundary — complete
+Tamil archival state:
 
-- Controlling source: `TVA_BOK_0065831_கலைஞரின்_கடிதங்கள்_தொகுதி_45.pdf`
-- Source PDF pages: **402**
-- Source date range: **12.03.2011–27.09.2011**
-- Canonical Tamil: **001–402 / 402 complete**
+- PDF pages: **402**
+- Canonical Tamil: **001–402 / 402**
 - Source letters: **55 / 55 — 3537–3591**
-- Full-volume Tamil structural audit: **PASS**
-- Second full-volume direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Historical second-pass correction tally: **243 canonical page files / 623 correction spans**
-- Translation-discovered targeted correction: **PDF 187 / 1 additional scan-proven span**
-- Combined canonical correction tally: **243 unique corrected page files / 624 spans**
+- Structural audit: **PASS**
+- Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
+- Historical second-pass corrections: **243 page files / 623 spans**
+- Translation-discovered correction: **PDF 187 / 1 additional scan-proven span**
+- Combined correction tally: **243 unique page files / 624 spans**
 
-Letter 3576 is scan-proven as `உலகப் புகழ் உத்தமத் தமிழச்சி, பாரீர்!`; the earlier `பார்!` reading is withdrawn. Letter 3575 retains a genuine source-context punctuation difference: contents `...!` versus letter-start `....!`. Letter 3586 is scan-proven as `கழக அரசு கடைப்பிடித்த வழியில் காத்திடுக மூவர் உயிர்!`; the former `தமிழக அரசு...` reading is withdrawn.
+English state:
 
-During Letter 3560 source-check, direct scan comparison restored an omitted physical-page tail on PDF 187. During Letter 3583 alignment, direct scan re-check confirmed PDF 348→349 as `வாக்க` / `எதிரிகளை`; canonical Tamil remained unchanged and English was corrected conservatively to “enemies.”
-
-### English drafting — COMPLETE
-
-- Draft-translated: **55 / 55 — 3537–3591**
-- Source-checked: **55 / 55 — 3537–3591**
-- Cumulative translated canonical source: **PDF 024–401**
-
-Locked conventions include `Udanpirappē`, `With affection, M.K.`, `lakh` / `crore`, **Samacheer Kalvi**, thought-preserving non-literary English, preservation of political force/irony/questions/repetition/quotations/names/dates/figures and complete audited Tamil under `Original Tamil — மூலத் தமிழ்`.
-
-### Bilingual alignment — COMPLETE
-
-All eleven batches passed. Final batch:
-
-- **3587–3591 / PDF 370–401** — **PASS — 5 / 5 aligned; English corrections 1; Tamil changes 0; new scan re-checks 0.**
-- Detailed report: `volumes/volume-45/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`.
-- Machine-readable batch status: `volumes/volume-45/translations/en/alignment-status/3587-3591.yml`.
-
-Cumulative bilingual alignment: **55 / 55 — 3537–3591 / PDF 024–401**.
-
-### Volume-level English editorial consistency — COMPLETE
-
-Durable report: `volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
-
-Result: **PASS — 55 / 55 editorially reviewed**.
-
-The review treated all 55 bilingual records as one English corpus and checked title/front-matter/index agreement, dates/page ranges, translator-note wording, names/honorifics, places/transliteration, institutional/legal/political terminology, glossary decisions, `lakh` / `crore`, spelling/compounds, punctuation/quotation treatment, source-supplied English, source-anomaly handling, stale control-layer wording and the durable record of complete appended Tamil.
-
-Editorial pass results:
-
-- Bilingual letter-body corrections: **0**
-- Tamil canonical changes: **0**
-- New scan re-checks: **0**
+- Source-checked: **55 / 55**
+- Bilingual-aligned: **55 / 55**
 - Editorially reviewed: **55 / 55**
-- Final verified English: **0 / 55**
+- Final verified: **55 / 55**
+- Translated canonical source: **PDF 024–401**
+- Source-incomplete records: **0**
 
-The bilingual bodies intentionally retain their drafting-layer `translation_status: source-checked`; later sidecar-tracked records may retain implementation-level pending alignment front matter. The detailed reports/sidecars are the durable alignment authority, so the editorial pass did not bulk-rewrite large bilingual files simply to duplicate QA state.
+Release artifacts:
 
-### Exact next activity — translation manifest and final English release report
+- `volumes/volume-45/translations/en/TRANSLATION_MANIFEST.csv`
+- `volumes/volume-45/translations/en/RELEASE_REPORT.md`
+- `volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
 
-Prepare and validate the Volume 45 English release package:
+Manifest validation passed with **55 rows, 0 duplicate letter numbers, 0 duplicate English paths, 0 missing English records and 0 source-incomplete records**. Every released bilingual record is covered by source-check, alignment and editorial QA and retains complete audited Tamil.
 
-1. create the machine-readable translation manifest with exactly **55 source-letter records, 3537–3591**;
-2. verify one unique record per letter number and one valid English file path per record;
-3. reconcile title, date, source PDF range and release status against the English index and durable QA records;
-4. ensure every record is source-checked, bilingual-aligned and editorially reviewed before final verification;
-5. create the final English release report;
-6. promote final verified count only after manifest/report validation succeeds;
-7. update volume metadata, README/progress/audit, English README/progress, root README, handover and next-chat prompt consistently.
+No substantive English or canonical Tamil change was required during final release packaging. The scan-proven source conditions already documented for Letters 3575, 3576, 3583, 3586, 3587 and PDF 187 remain unchanged.
 
-Do **not** describe Volume 45 English as final-release complete until the manifest count reconciles to 55 and final release verification passes.
+## QA separation for Volume 45
 
-## 3. QA separation
+1. Tamil transcription — COMPLETE
+2. Full-volume structural audit — PASS
+3. Second visual/textual-fidelity verification — PASS
+4. English drafting/source-check — COMPLETE 55 / 55
+5. Bilingual alignment — COMPLETE 55 / 55
+6. Volume-level editorial consistency review — PASS 55 / 55
+7. Manifest/final release verification — PASS 55 / 55
 
-Keep stages distinct:
+**Volume 45 has no pending gate.**
 
-1. Tamil batch/iteration audit;
-2. full-volume Tamil structural audit;
-3. second full-volume direct visual/textual-fidelity verification;
-4. targeted scan correction if English QA exposes a residual Tamil discrepancy;
-5. English drafting/source check — **COMPLETE**;
-6. bilingual alignment — **COMPLETE; 55 / 55 aligned**;
-7. volume-level English editorial consistency review — **COMPLETE; 55 / 55 reviewed**;
-8. release manifest/report — **NEXT**.
+## Next project activity
 
-## 4. Git/concurrency discipline
+Do not continue routine Volume 45 processing. The next archival activity is intake/continuation of the **next supplied Murasoli Letters volume** using its attached controlling PDF and `START_NEXT_MURASOLI_VOLUME_PROMPT.md`.
 
-- Work on `main` as requested.
-- Never force-push routine work.
-- Recheck live `main` immediately before mutation.
-- Preserve unrelated concurrent changes.
-- Keep declared batch/gate scope explicit.
-- Prefer one atomic Git-data commit where technically possible.
-- Remove temporary branches/artifacts after integration.
-- Verify live `main` after completed work.
+At this durable boundary, `volumes/volume-44/` does not exist on `main`; do not create it or assume its source facts without its controlling scan. When the next source PDF is supplied, verify the volume number from the scan itself and follow the mandatory new-volume intake/transcription workflow.
 
-## 5. Meaning of “Proceed with next activity”
+## Git discipline
 
-Inspect live durable state, identify the next already-defined gate, execute it directly, and report completed scope, QA result, live commit SHA/state, counts and exact next activity. Do not ask the user to choose among routine next steps.
+Work on `main` when requested, never force-push routine work, recheck live `main` immediately before mutation, preserve concurrent changes, prefer one atomic Git-data commit, and verify final changed-file scope afterward.

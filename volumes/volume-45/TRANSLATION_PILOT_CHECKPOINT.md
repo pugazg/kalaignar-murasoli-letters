@@ -4,36 +4,28 @@
 **Canonical source range:** PDF **024–049**  
 **Pilot result:** **PASS — 3 / 3 source-checked; style locked**
 
-The pilot was translated only from the scan-audited canonical Tamil. No Tamil canonical file changed during the English pilot.
+The pilot was translated only from scan-audited canonical Tamil. No Tamil canonical file changed during the pilot.
 
-## Drafting closure
+## Full drafting and QA closure
 
-The pilot handed off to the complete main drafting run. Main drafting is **COMPLETE — 55 / 55 source-checked, Letters 3537–3591 / PDF 024–401**. Letter 3560 source-check exposed one residual Tamil omission on PDF 187; it was directly rechecked against the controlling scan and repaired. Later drafting batches exposed no new Tamil canonical discrepancy.
+The pilot handed off to a completed full-volume English workflow:
 
-## Bilingual alignment gate — complete
+- Main drafting/source-check: **55 / 55 — 3537–3591 / PDF 024–401 — COMPLETE**
+- Bilingual alignment: **55 / 55 — COMPLETE**
+- Volume-level editorial consistency review: **55 / 55 — PASS**
+- Translation manifest reconciliation: **55 / 55 — PASS**
+- Final English release verification: **55 / 55 — PASS**
 
-All eleven alignment batches passed through **3587–3591 / PDF 370–401**. Cumulative alignment is **55 / 55 — 3537–3591 / PDF 024–401**.
+Letter 3560 source-check exposed one residual Tamil omission on PDF 187; direct scan comparison repaired it. The combined Tamil scan-proven correction tally is **243 unique corrected pages / 624 spans**. No later release-stage Tamil correction was required.
 
-Latest alignment report: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md).
+Release artifacts:
 
-Machine-readable final-batch status: [`translations/en/alignment-status/3587-3591.yml`](translations/en/alignment-status/3587-3591.yml).
+- [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
+- [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
 
-The final batch required one English-only correction in Letter 3589: the unprinted distancing hedge “in the source's argument” was removed and the direct Tamil `நாசமாக்கி அழித்திடும்` is now represented as **“will destroy”**. Canonical Tamil remained unchanged and no new targeted scan re-check was required.
+The bilingual bodies retain their established drafting-layer status fields where applicable; the completed alignment, editorial and release gates are recorded in their durable reports and manifest rather than by bulk rewriting every letter body.
 
-## Editorial consistency gate — complete
+## Final state
 
-The separate volume-level English editorial consistency review has passed across **55 / 55** records.
-
-Durable review: [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
-
-The pass checked title/front-matter/index agreement, dates/page ranges, translator-note wording, names/honorifics, places/transliteration, institutional/legal/political terminology, spelling/compounds, quotation treatment, glossary decisions, source anomalies, status wording and the durable record of complete appended Tamil.
-
-Editorial corrections to bilingual letter bodies: **0**. Tamil changes: **0**. New scan re-checks: **0**.
-
-The bilingual records retain their drafting-layer `translation_status: source-checked`; later sidecar-tracked records may retain implementation-level pending alignment front matter. The detailed reports/sidecars remain the durable QA authority, so the editorial pass did not bulk-rewrite large files just to duplicate state.
-
-Current English QA totals: **55 / 55 source-checked**, **55 / 55 bilingual-aligned**, **55 / 55 editorially reviewed**, **0 / 55 final verified**.
-
-## Current exact next activity
-
-Prepare and validate the **Volume 45 English translation manifest and final English release report**, reconcile exactly **55 source-letter records, 3537–3591**, perform final release verification and synchronize release controls. Do not mark the English release complete until that final gate passes.
+**Volume 45 English final release is complete.** No Volume 45 translation or QA gate remains pending.
