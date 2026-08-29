@@ -1,0 +1,9 @@
+volume: 45
+planned_alignment_batch: 3582-3586
+source_pdf_range: 338-369
+canonical_pages: 32
+status: next
+cautions:
+  - Preserve Letter 3582 source-specific Thai/Chithirai/Tamil-New-Year claims without outside reconciliation.
+  - Preserve source-supplied English exactly where printed.
+  - Preserve Letter 3586 scan-proven title beginning `கழக அரசு`; stale `தமிழக அரசு...` is withdrawn.
