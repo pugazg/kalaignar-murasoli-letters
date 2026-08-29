@@ -6,7 +6,7 @@
 - [x] Pilot **3537–3539** source-checked — PASS / STYLE LOCKED
 - [x] Main translation drafting — **55 / 55 source-checked**
 - [x] Translation-discovered PDF 187 Tamil omission directly rechecked against scan and repaired
-- [ ] Full bilingual alignment review
+- [x] Full bilingual alignment review — **55 / 55 aligned**
   - [x] **3537–3541 / PDF 024–060** — PASS — 5/5 aligned, English corrections 0, Tamil changes 0
   - [x] **3542–3546 / PDF 061–103** — PASS — 5/5 aligned, English corrections 1, Tamil changes 0
   - [x] **3547–3551 / PDF 104–141** — PASS — 5/5 aligned, English corrections 0, Tamil changes 0
@@ -17,7 +17,7 @@
   - [x] **3572–3576 / PDF 261–289** — PASS — 5/5 aligned, English corrections 2, Tamil changes 0
   - [x] **3577–3581 / PDF 290–337** — PASS — 5/5 aligned, English corrections 0, Tamil changes 0
   - [x] **3582–3586 / PDF 338–369** — PASS — 5/5 aligned, English corrections 1, Tamil changes 0
-  - [ ] **3587–3591 / PDF 370–401** — final alignment batch
+  - [x] **3587–3591 / PDF 370–401** — PASS — 5/5 aligned, English corrections 1, Tamil changes 0
 - [ ] Volume-level English editorial consistency review
 - [ ] Translation manifest and final English release report
 
@@ -27,11 +27,11 @@
 - Letter range: **3537–3591**
 - Draft-translated: **55 / 55** — 3537–3591
 - Source-checked: **55 / 55** — 3537–3591
-- Bilingual-aligned: **50 / 55** — 3537–3586
+- Bilingual-aligned: **55 / 55** — 3537–3591
 - Editorially reviewed: **0 / 55**
 - Verified for final English release: **0 / 55**
 - Cumulative translated canonical source coverage: PDF **024–401**
-- Cumulative bilingual-aligned canonical source coverage: PDF **024–369**
+- Cumulative bilingual-aligned canonical source coverage: PDF **024–401**
 
 ## Drafting batches
 
@@ -66,33 +66,26 @@ Current source-check record: [`DRAFT_SOURCE_CHECK_3590_3591.md`](DRAFT_SOURCE_CH
 | Alignment 8 | 3572–3576 | 261–289 | PASS — 5/5 aligned | 2 | 0 |
 | Alignment 9 | 3577–3581 | 290–337 | PASS — 5/5 aligned | 0 | 0 |
 | Alignment 10 | 3582–3586 | 338–369 | PASS — 5/5 aligned | 1 | 0 |
+| Alignment 11 | 3587–3591 | 370–401 | PASS — 5/5 aligned | 1 | 0 |
 
-Current alignment record: [`BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md`](BILINGUAL_ALIGNMENT_REVIEW_3582_3586.md). Batch-level machine-readable status: [`alignment-status/3582-3586.yml`](alignment-status/3582-3586.yml).
+Current alignment record: [`BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md`](BILINGUAL_ALIGNMENT_REVIEW_3587_3591.md). Batch-level machine-readable status: [`alignment-status/3587-3591.yml`](alignment-status/3587-3591.yml).
 
 ## Tamil correction accounting
 
-The historical completed second full-volume direct-scan fidelity audit remains **243 corrected canonical page files / 623 correction spans**. Translation of Letter 3560 exposed one residual omission on already-corrected PDF 187; direct scan comparison restored its omitted physical-page tail. The combined scan-proven tally remains **243 unique corrected pages / 624 spans**. No additional Tamil canonical correction was required during drafting batches 3565–3591 or alignment batches 3537–3586.
+The historical completed second full-volume direct-scan fidelity audit remains **243 corrected canonical page files / 623 correction spans**. Translation of Letter 3560 exposed one residual omission on already-corrected PDF 187; direct scan comparison restored its omitted physical-page tail. The combined scan-proven tally remains **243 unique corrected pages / 624 spans**. No additional Tamil canonical correction was required during drafting batches 3565–3591 or any of the eleven bilingual-alignment batches through 3591.
 
-## Alignment 3582–3586 — source-specific points
+## Final alignment 3587–3591 — source-specific points
 
-- **3582:** the complete Thai / Chithirai / Tamil-New-Year argument, named scholarly statements, legal chronology, 45-advertisement comparison and closing position align without outside reconciliation.
-- **3583:** direct scan re-check of the physical PDF 348→349 split confirmed printed `வாக்க` / `எதிரிகளை`. The earlier English “class enemies” silently supplied an unprinted normalization; it is now conservatively **“enemies.”** Canonical Tamil is unchanged.
-- **3584:** the democracy, Omandurar, Samacheer Kalvi, tax, agricultural-welfare and Tamil-New-Year-law sequences align without correction.
-- **3585:** the Rule 110 argument, copied policy-note figures and complete sports-development catalogue align without correction.
-- **3586:** the scan-proven `கழக அரசு...` title, Rajiv Gandhi / *Nenjukku Neethi* passage, Eelam narrative and death-sentence commutation argument align without correction.
+- **3587:** the Thirumazhisai satellite-town argument aligns, including 311 acres, the Rule 110 / policy-note sequence, land-acquisition figures and the source's successive `1-9-2006` / `31-8-2006` date formulations.
+- **3588:** the Samacheer Kalvi, school-day, textbook, examination, teacher-ratio, recruitment and counselling sequences align without correction.
+- **3589:** one English-only correction removed the unprinted distancing hedge “in the source's argument” and restored the direct force of `நாசமாக்கி அழித்திடும்` as **“will destroy”** in the engineering-university paragraph. Canonical Tamil is unchanged.
+- **3590:** the local-body election, nomination, constituency-category, campaign, false-case, election-expense and media arguments align without correction.
+- **3591:** the K.P.P. Samy, M.K. Balan, police-transfer, High Court and Valluvar-Kural sequences align without correction.
 
 ## QA status
 
-All fifty-five English records remain **source-checked drafts**. Fifty records, **3537–3586**, have additionally passed the distinct bilingual meaning-level alignment gate. They are not yet editorially reviewed or final `verified` release records.
+All fifty-five English records are **source-checked**, and all fifty-five, **3537–3591 / PDF 024–401**, have additionally passed the distinct bilingual meaning-level alignment gate. They are not yet editorially reviewed or final `verified` release records.
 
 ## Exact next activity
 
-Complete the **final bilingual-alignment batch, Letters 3587–3591 / PDF 370–401**:
-
-- 3587 — PDF 370–376
-- 3588 — PDF 377–382
-- 3589 — PDF 383–390
-- 3590 — PDF 391–396
-- 3591 — PDF 397–401
-
-Combined range: **32 canonical pages**. Preserve all source anomalies, source-supplied English, dates and figures exactly. Re-check the controlling scan before changing Tamil if alignment exposes any possible canonical defect. Do not begin the later volume-level English editorial consistency review until the final five records pass alignment and the **55 / 55** alignment boundary is durably recorded.
+Perform the **Volume 45 volume-level English editorial consistency review** across all **55 bilingual records**. Check title/front-matter/index agreement, translator-note status wording, names, honorifics, places and transliteration, institutional/legal terminology, spelling and compounds, punctuation, dates and page ranges, glossary decisions, stale drafting/pending control fields, source-anomaly labels and complete appended Tamil. Do not alter political meaning, attribution, uncertainty, figures, quotations, rhetorical force or canonical Tamil unless a fresh direct scan check proves a Tamil defect. The translation manifest and final English release report remain blocked until this editorial gate passes.
