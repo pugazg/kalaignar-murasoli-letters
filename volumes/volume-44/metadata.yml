@@ -33,10 +33,11 @@ second_visual_verified_pages: 400
 second_visual_correction_pages: 13
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "ready-for-pilot"
-translated_letter_range: null
-translated_letter_count: 0
-bilingual_alignment_status: "not-started"
+translation_status: "pilot-draft-complete-pending-alignment"
+translated_letter_range: "3484-3486"
+translated_letter_count: 3
+translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
+bilingual_alignment_status: "pilot-review-pending"
 english_release_status: "not-started"
 source_observations:
   - "Volume number 44 is printed on the front cover and title page."
@@ -50,6 +51,8 @@ source_observations:
   - "The second full-volume visual/textual-fidelity verification passed on 2026-08-30 for PDF 001–400."
   - "Second-pass scan comparison restored page-scale omitted/truncated source bodies on PDFs 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065; no letter boundary, title or date changed."
   - "PDF 060 preserves the printed English quotation beginning 'If the AIADMK Government in Tamil Nadu finds itself isolated today...' without translation or normalization."
+  - "The three-record English pilot for Letters 3484–3486 / PDF 024–045 has been drafted from the audited canonical Tamil; each record includes the complete audited Tamil appendix."
+  - "Pilot bilingual source-alignment and Volume 44 convention locking are pending; no regular five-record translation batch has started."
   - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
   - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."

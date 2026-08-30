@@ -15,19 +15,20 @@
 - Printed contents: PDF **018–022**
 - Printed-contents inventory: **53 records, 3484–3536**
 
-## Current Tamil archival state
+## Current archival state
 
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
 | Canonical Tamil pages | **400 / 400 — PDF 001–400** |
-| Completed letters | **53 / 53 — 3484–3536** |
+| Completed Tamil letters | **53 / 53 — 3484–3536** |
 | Partial/source-incomplete letters | **none** |
 | First-pass source transcription | **complete** |
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
-| English translation | **ready for pilot; not started** |
-| Bilingual alignment | not started |
+| English pilot drafting | **3 / 53 — 3484–3486 complete** |
+| Pilot bilingual alignment / convention lock | **pending** |
+| Regular English batches | blocked pending pilot review |
 | English release | not started |
 
 ## Durable Tamil state
@@ -44,6 +45,10 @@ Final source boundaries remain:
 
 PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` followed by the normal closing.
 
+## English pilot
+
+The approved three-source-record pilot is now drafted for **Letters 3484–3486 / PDF 024–045** under [`translations/en/`](translations/en/README.md). Each record contains a complete English draft plus the complete audited Tamil appendix. No pilot record is yet marked bilingual-aligned or release-ready.
+
 ## Exact next activity
 
-Begin the approved **three-source-record English translation pilot — Letters 3484–3486**, using the audited canonical Tamil for PDF **024–045**. English drafting itself has not begun yet.
+Perform the separate **pilot source-alignment and convention-lock review — Letters 3484–3486**. Do not begin 3487–3491 until that review passes.

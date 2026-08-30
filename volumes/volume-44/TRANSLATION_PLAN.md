@@ -1,18 +1,16 @@
 # Volume 44 — English Translation Plan
 
-**Status:** ready for pilot — all required Tamil archival gates are complete; English drafting has not started.
+**Status:** three-record pilot drafting complete; pilot source-alignment and convention lock pending.
 
-English translation is now permitted because:
+English translation was unlocked after all required Tamil gates passed. The first approved drafting activity is now complete:
 
-1. all 400 Volume 44 PDF pages have canonical Tamil files;
-2. the full-volume Tamil structural audit has passed; and
-3. the second full-volume scan-based visual/textual-fidelity verification has passed for PDF 001–400.
+- **3484** — PDF 024–029;
+- **3485** — PDF 030–037;
+- **3486** — PDF 038–045.
 
-## Planned pilot
+The bilingual pilot records are under `translations/en/letters/`, and all three reproduce the complete audited Tamil source beneath the English draft.
 
-Begin with a representative **three-actual-source-record pilot: Letters 3484–3486 / PDF 024–045**. Complete the bilingual records, then perform a separate source-alignment review and document/lock Volume 44 translation conventions before proceeding in default batches of **five actual source records**.
-
-## Baseline translation policy
+## Baseline pilot policy
 
 - Preserve Kalaignar’s thought and argument order, political directness, irony, accusation, repetition and rhetorical questions.
 - Retain `Udanpirappē` for the standard characteristic salutation when supported by the source.
@@ -23,4 +21,17 @@ Begin with a representative **three-actual-source-record pilot: Letters 3484–3
 - Every bilingual record must include the complete available audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
 - The audited canonical Tamil is the immediate translation source; OCR, contents wording and outside knowledge may not silently override it.
 
-No Volume 44 translation convention is considered pilot-locked yet.
+These remain **pilot baselines**, not yet locked Volume 44 conventions.
+
+## Exact next activity — pilot review
+
+Perform a separate source-alignment/convention-lock review for **3484–3486 only**:
+
+1. reconcile every English paragraph against the complete audited Tamil in PDF 024–045;
+2. verify quotations, names, dates, figures, lists, source English, rhetorical questions and closings;
+3. fix any omission, undertranslation, mistranslation or metadata mismatch found;
+4. document and lock the Volume 44 conventions, including treatment of `Udanpirappē`, closings, `lakh`/`crore`, party/government terminology, political idiom, quotations and source anomalies;
+5. if a Tamil reading itself becomes doubtful, consult the controlling scan; do not silently change audited Tamil without scan proof and a separate correction record;
+6. record the review durably, then stop.
+
+Only after that pilot review passes may the default regular batches of **five actual source records** begin. Do **not** start 3487–3491 in the pilot-review activity itself.
