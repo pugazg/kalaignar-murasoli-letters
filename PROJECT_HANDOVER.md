@@ -32,7 +32,8 @@ Current durable state:
 - Regular English batch 4: **PASS — 3502–3506 / PDF 154–175**
 - Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
 - Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
-- English source-checked: **33 / 53 — 3484–3516 / PDF 024–245**
+- Regular English batch 7: **PASS — 3517–3521 / PDF 246–277**
+- English source-checked: **38 / 53 — 3484–3521 / PDF 024–277**
 - Tamil changes during regular English batches: **0**
 - Volume 44 translation conventions: **LOCKED**
 - Final bilingual alignment: **not started**
@@ -55,19 +56,20 @@ Durable English QA records:
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3502_3506.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3507_3511.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3512_3516.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3517_3521.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All thirty-three English records through 3516 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
+All thirty-eight English records through 3521 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
 
-Regular batch 6 retained the full Mullai Periyar technical/judicial chronology and printed English in 3512; CAG/spectrum/TANSI passages, figures, Bharati material and Manu Dharma rhetoric in 3513; the transport-union election, wage/bonus, recruitment and promotion figures in 3514; the autobiographical income, property, donation, trust and bank-balance account in 3515; and the house-site allotment list, Nero repetition, flood-relief and spectrum arguments in 3516. Historical, legal, engineering, financial and political assertions remain source-framed and unreconciled with outside material. No canonical Tamil changed. Glossary additions include **Mullai Periyar Dam**, **Manu Dharma**, and **Labour Progressive Federation (LPF)**.
+Regular batch 7 retained the Housing Board/audit chronology and source figures in 3517; the 1942 memories and Professor Anbazhagan tribute in 3518; TANSI/income-tax/disproportionate-assets judicial material and exact asset lists in 3519; the 2009 Union Cabinet chronology, spectrum/tape arguments, Arun Shourie source English and land-distribution figures in 3520; and the repeated audit/TANSI material plus campaign-brigade call in 3521. Historical, legal, financial and political assertions remain source-framed and unreconciled with outside material. No canonical Tamil changed. The audited PDF 269 sequence `பேசிப் ஓ ஓ ஓதி.மு.க. ஆளாகியிருக்கிறது` is explicitly surfaced as internally opaque rather than silently repaired. No new recurring locked glossary term was required in this batch.
 
 Final Tamil source boundaries remain 3535 PDF 381–390, 3536 PDF 391–399, and PDF 400 non-letter material. Letter 3536 preserves `(தொடர்ச்சி நாளை)` before the normal closing; no Letter 3537 exists.
 
 ### Exact next activity
 
-Translate and source-check the next regular five-record English batch **Letters 3517–3521**.
+Translate and source-check the next regular five-record English batch **Letters 3522–3526**.
 
 - Use the complete audited canonical Tamil for every source record.
 - Apply the locked Volume 44 conventions in `translations/en/PILOT_REVIEW_3484_3486.md` and `translations/en/GLOSSARY.md`.
@@ -78,7 +80,7 @@ Translate and source-check the next regular five-record English batch **Letters 
 - Source-check each completed English record against its full Tamil source before marking the batch complete.
 - If a Tamil reading becomes doubtful, consult the controlling scan and record only scan-proven Tamil corrections; do not use OCR, contents wording or outside knowledge to silently repair it.
 - Update the manifest/progress/index/control files and add glossary entries only for genuinely new recurring terminology.
-- Stop after **3521**. **Do not start Letter 3522 in the same activity.**
+- Stop after **3526**. **Do not start Letter 3527 in the same activity.**
 - Keep final bilingual alignment, editorial review and release verification as later separate QA gates.
 
 ## Volume 45 — COMPLETE

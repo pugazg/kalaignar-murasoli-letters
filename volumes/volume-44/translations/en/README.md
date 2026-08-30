@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 33 / 53 records, Letters 3484–3516.**
+**SOURCE-CHECKED — 38 / 53 records, Letters 3484–3521.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -15,8 +15,9 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Regular batch 4: **3502–3506 — 5 / 5 translated and source-checked**
 - Regular batch 5: **3507–3511 — 5 / 5 translated and source-checked**
 - Regular batch 6: **3512–3516 — 5 / 5 translated and source-checked**
-- Batch reports: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md), [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md), [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md), [`BATCH_SOURCE_CHECK_3502_3506.md`](BATCH_SOURCE_CHECK_3502_3506.md), [`BATCH_SOURCE_CHECK_3507_3511.md`](BATCH_SOURCE_CHECK_3507_3511.md), [`BATCH_SOURCE_CHECK_3512_3516.md`](BATCH_SOURCE_CHECK_3512_3516.md)
-- Total translated/source-checked: **33 / 53 — PDF 024–245**
+- Regular batch 7: **3517–3521 — 5 / 5 translated and source-checked**
+- Batch 7 report: [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
+- Total translated/source-checked: **38 / 53 — PDF 024–277**
 - Canonical Tamil changes during regular batches: **0**
 - Final bilingual alignment: **not started**
 - Volume-level English editorial review: **not started**
@@ -63,6 +64,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3514](letters/3514-a-trial-run-for-the-victory-to-come.md) | A Trial Run for the Victory to Come! | 30 November 2010 | 223–229 | source-checked |
 | [3515](letters/3515-i-show-the-accounts-let-those-with-eyes-see.md) | I Show the Accounts; Let Those with Eyes See! | 2 December 2010 | 230–239 | source-checked |
 | [3516](letters/3516-an-elegant-hair-bun-a-fragrant-screw-pine-flower.md) | An Elegant Hair-Bun, a Fragrant Screw-Pine Flower...! | 10 December 2010 | 240–245 | source-checked |
+| [3517](letters/3517-what-is-it-that-irritates-these-few-newspapers-so-much.md) | What Is It That Irritates These Few Newspapers So Much? | 12 December 2010 | 246–251 | source-checked |
+| [3518](letters/3518-two-years-younger-in-age-i-bow-to-him.md) | Two Years Younger in Age; I Bow to Him! | 19 December 2010 | 252–256 | source-checked |
+| [3519](letters/3519-o-paragon-of-virtue-can-you-speak-of-corruption.md) | O Paragon of Virtue! Can You Speak of Corruption? | 20 December 2010 | 257–264 | source-checked |
+| [3520](letters/3520-rise-quickly-to-continue-the-work-everywhere-let-the-drum-of-victory-resound.md) | Rise Quickly to Continue the Work Everywhere; Let the Drum of Victory Resound! | 21 December 2010 | 265–270 | source-checked |
+| [3521](letters/3521-let-our-campaign-brigade-set-out.md) | Let Our Campaign Brigade Set Out! | 22 December 2010 | 271–277 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -92,9 +98,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BATCH_SOURCE_CHECK_3502_3506.md`](BATCH_SOURCE_CHECK_3502_3506.md)
 - [`BATCH_SOURCE_CHECK_3507_3511.md`](BATCH_SOURCE_CHECK_3507_3511.md)
 - [`BATCH_SOURCE_CHECK_3512_3516.md`](BATCH_SOURCE_CHECK_3512_3516.md)
+- [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch: **Letters 3517–3521**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3521**. Do **not** begin 3522 in the same activity.
+Translate and source-check the next normal five-record batch: **Letters 3522–3526**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3526**. Do **not** begin 3527 in the same activity.

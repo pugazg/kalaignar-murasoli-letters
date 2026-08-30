@@ -1,6 +1,6 @@
 # Volume 44 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3484–3486; extended only with recurring/source-supported terms confirmed through regular batch 6, Letters 3512–3516.
+**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through regular batch 7, Letters 3517–3521. Batch 7 required no new recurring locked term.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 batches but may not override a different meaning supported by a later source passage.
 
@@ -67,7 +67,9 @@ Printed English that functions as source wording is preserved rather than silent
 - `(Hutless villages)` in Letter 3508;
 - `Blown out of proportions`, `(Organized crime syndicates)` and `(Organized Crime Intelligence Unit)` in Letter 3511;
 - the Mullai Periyar expert/Supreme Court/environment passages in Letter 3512, including `safe for raising the reservoir water level to 142 ft.`, `Retrofitted`, `Dead Storage` and the printed 152-foot wildlife passage;
-- the Letter 3513 English CAG/spectrum/TANSI passages, including `Any loss ascertained while attempting to value the spectrum can only be ‘presumptive’..........`.
+- the Letter 3513 English CAG/spectrum/TANSI passages, including `Any loss ascertained while attempting to value the spectrum can only be ‘presumptive’..........`;
+- the Letter 3519 judicial passage beginning `Further, criminal law is meant to deal with criminals ordinarily` and the printed `(Hostile)` / `(Daily Basis)` forms;
+- the Letter 3520 Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`.
 
 ## Political and rhetorical language
 

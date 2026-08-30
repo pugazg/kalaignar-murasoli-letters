@@ -33,7 +33,8 @@
 | Regular English batch 4 | **PASS — 3502–3506** |
 | Regular English batch 5 | **PASS — 3507–3511** |
 | Regular English batch 6 | **PASS — 3512–3516** |
-| English source-checked | **33 / 53 — 3484–3516 / PDF 024–245** |
+| Regular English batch 7 | **PASS — 3517–3521** |
+| English source-checked | **38 / 53 — 3484–3521 / PDF 024–277** |
 | Final bilingual alignment | not started |
 | English editorial review | not started |
 | English release | not started |
@@ -54,9 +55,9 @@ PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` follo
 
 ## English translation
 
-The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–6 — **3487–3516 / PDF 046–245** — have also been translated and source-checked. Total English source-check coverage is therefore **33 / 53 records — 3484–3516**.
+The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–7 — **3487–3521 / PDF 046–277** — have also been translated and source-checked. Total English source-check coverage is therefore **38 / 53 records — 3484–3521**.
 
-All six regular batches required **0 Tamil changes**. Batch 6 preserves the Mullai Periyar technical and judicial chronology in 3512; CAG/spectrum/TANSI source English, figures and Manu Dharma rhetoric in 3513; transport-union election and employment/benefit figures in 3514; the autobiographical property, income, donation and bank-balance account in 3515; and the land-allotment, flood-relief and spectrum arguments in 3516. New glossary treatments include **Mullai Periyar Dam**, **Manu Dharma**, and **Labour Progressive Federation (LPF)**. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+All seven regular batches required **0 Tamil changes**. Batch 7 preserves the Housing Board/audit argument and source figures in 3517; the Professor Anbazhagan tribute and 1942 memories in 3518; TANSI/income-tax/assets/judicial material in 3519; 2009 Cabinet, spectrum, tape and land-distribution arguments in 3520; and audit/TANSI plus campaign-brigade material in 3521. The internally opaque PDF 269 sequence is surfaced explicitly in English rather than repaired from inference. Batch 7 required no new recurring glossary entry. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
 
 Durable English records:
 
@@ -68,9 +69,10 @@ Durable English records:
 - [Batch 3502–3506 source check](translations/en/BATCH_SOURCE_CHECK_3502_3506.md)
 - [Batch 3507–3511 source check](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
 - [Batch 3512–3516 source check](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
+- [Batch 3517–3521 source check](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch **3517–3521** under the locked Volume 44 conventions. Stop after 3521; do not begin Letter 3522 in the same activity.
+Translate and source-check the next normal five-record batch **3522–3526** under the locked Volume 44 conventions. Stop after 3526; do not begin Letter 3527 in the same activity.
