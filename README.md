@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **pilot drafted 3 / 53 — 3484–3486; alignment/convention-lock pending** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **3 / 53 source-checked — 3484–3486; pilot review PASS; conventions locked; next 3487–3491** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -36,7 +36,9 @@ Volume 44 has canonical Tamil for **PDF 001–400 / 400** and all **53 source re
 
 The fidelity pass restored page-scale omissions/truncations on **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**. The repairs changed source bodies only; record boundaries, titles and dates remain unchanged.
 
-English pilot drafting is now complete for **3484–3486 / PDF 024–045**. Each bilingual draft contains the complete audited Tamil appendix. The exact next activity is the separate pilot **source-alignment/convention-lock review**; regular five-record drafting remains blocked until that review passes.
+English pilot drafting and the separate pilot source-review/convention-lock checkpoint are now complete for **3484–3486 / PDF 024–045**. The review made **5 English-only alignment corrections across 3484–3485**, required **0 Tamil changes**, and locked the Volume 44 translation conventions. Final bilingual alignment remains a later separate QA gate.
+
+The exact next activity is the first regular five-record English batch **3487–3491**, with each record drafted and source-checked against its complete audited canonical Tamil. Do not begin 3492 in the same activity.
 
 ## Volume 45 — released
 

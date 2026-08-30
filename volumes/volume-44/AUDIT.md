@@ -65,10 +65,22 @@ Targeted checks also confirmed that other short canonical files such as PDFs 087
 
 **PASS.** The required Tamil source gates for Volume 44 are complete.
 
-## English pilot checkpoint
+## English pilot checkpoint — REVIEW PASS
 
-The approved English pilot drafting is now complete for **Letters 3484–3486 / PDF 024–045**. This is a translation checkpoint, not a new Tamil audit gate. The three bilingual drafts have **not** yet passed the separate pilot source-alignment/convention-lock review and are not release-ready.
+The approved English pilot for **Letters 3484–3486 / PDF 024–045** has completed both drafting and its separate source-review/convention-lock checkpoint.
+
+**Detailed record:** [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md)
+
+- Pilot drafted: **3 / 3**.
+- Pilot source-checked: **3 / 3 PASS**.
+- English corrections during review: **5 spans across Letters 3484–3485**.
+- Letter 3486 corrections: **0**.
+- Tamil changes during pilot review: **0**.
+- Volume 44 translation conventions: **LOCKED**.
+- Final bilingual alignment: **not started; later separate QA gate**.
+
+The pilot review is an English QA checkpoint, not an additional Tamil audit gate. It did not alter the canonical Tamil or the Tamil Gate 15 PASS.
 
 ## Exact next activity
 
-Perform the separate **pilot source-alignment and convention-lock review — Letters 3484–3486**, then stop. Do not begin the regular five-record batch 3487–3491 in the same review activity.
+Translate and source-check the first regular five-record English batch **3487–3491**, then stop. Do not begin Letter 3492 in the same activity. Final bilingual alignment/release verification remain later separate gates.

@@ -1,37 +1,43 @@
 # Volume 44 — English Translation Plan
 
-**Status:** three-record pilot drafting complete; pilot source-alignment and convention lock pending.
+**Status:** pilot drafting and pilot source review complete; Volume 44 conventions locked; regular five-record batches unlocked.
 
-English translation was unlocked after all required Tamil gates passed. The first approved drafting activity is now complete:
+All required Tamil gates passed before English work began. The approved pilot is now complete through its separate source-review checkpoint:
 
-- **3484** — PDF 024–029;
-- **3485** — PDF 030–037;
-- **3486** — PDF 038–045.
+- **3484** — PDF 024–029 — source-checked;
+- **3485** — PDF 030–037 — source-checked;
+- **3486** — PDF 038–045 — source-checked.
 
-The bilingual pilot records are under `translations/en/letters/`, and all three reproduce the complete audited Tamil source beneath the English draft.
+The durable pilot review is [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md), and the locked terminology/convention summary is [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md).
 
-## Baseline pilot policy
+The pilot review made **5 English-only corrections across Letters 3484–3485**, required **0 Tamil changes**, and found no correction requirement in Letter 3486. Final bilingual alignment remains a later separate QA gate.
+
+## Locked Volume 44 policy
 
 - Preserve Kalaignar’s thought and argument order, political directness, irony, accusation, repetition and rhetorical questions.
 - Retain `Udanpirappē` for the standard characteristic salutation when supported by the source.
 - Use `With affection, M.K.` where the source has the standard `அன்புள்ள, மு.க.` closing.
 - Retain public-language units such as `lakh` and `crore`.
-- Preserve genuinely printed source English verbatim.
+- Use source-supported party/government, reservation and legal terminology consistently with the locked glossary.
+- Preserve genuinely printed source English verbatim where it functions as source wording.
 - Preserve source anomalies and source gaps rather than repairing them.
+- Keep figures, dates, lists, statutory references, quotations and continuation markers in source order.
 - Every bilingual record must include the complete available audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
 - The audited canonical Tamil is the immediate translation source; OCR, contents wording and outside knowledge may not silently override it.
 
-These remain **pilot baselines**, not yet locked Volume 44 conventions.
+## Regular drafting sequence
 
-## Exact next activity — pilot review
+Proceed in default batches of **five actual source records**. Each batch must:
 
-Perform a separate source-alignment/convention-lock review for **3484–3486 only**:
+1. use the complete audited canonical Tamil for every record;
+2. draft the English under the locked Volume 44 conventions;
+3. source-check every completed record against its full Tamil source before recording the batch as complete;
+4. update `translations/en/TRANSLATION_MANIFEST.csv`, `PROGRESS.md`, the English index and relevant control files;
+5. add to the glossary only when a genuinely new recurring term or source-supported distinction appears; and
+6. keep final bilingual alignment, volume-level editorial review and final release verification as later separate QA gates.
 
-1. reconcile every English paragraph against the complete audited Tamil in PDF 024–045;
-2. verify quotations, names, dates, figures, lists, source English, rhetorical questions and closings;
-3. fix any omission, undertranslation, mistranslation or metadata mismatch found;
-4. document and lock the Volume 44 conventions, including treatment of `Udanpirappē`, closings, `lakh`/`crore`, party/government terminology, political idiom, quotations and source anomalies;
-5. if a Tamil reading itself becomes doubtful, consult the controlling scan; do not silently change audited Tamil without scan proof and a separate correction record;
-6. record the review durably, then stop.
+If a Tamil reading itself becomes doubtful during translation, consult the controlling scan and record any scan-proven Tamil correction separately; do not silently repair the source from OCR, contents wording or outside knowledge.
 
-Only after that pilot review passes may the default regular batches of **five actual source records** begin. Do **not** start 3487–3491 in the pilot-review activity itself.
+## Exact next activity
+
+Translate and source-check **Letters 3487–3491** as the first regular five-record batch. Stop after 3491; do **not** begin Letter 3492 in the same activity.

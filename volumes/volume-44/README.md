@@ -27,8 +27,10 @@
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
 | English pilot drafting | **3 / 53 — 3484–3486 complete** |
-| Pilot bilingual alignment / convention lock | **pending** |
-| Regular English batches | blocked pending pilot review |
+| Pilot source review / convention lock | **PASS — 3 / 3; style locked** |
+| English source-checked | **3 / 53 — 3484–3486** |
+| Regular English batches | **unlocked; exact next 3487–3491** |
+| Final bilingual alignment | not started |
 | English release | not started |
 
 ## Durable Tamil state
@@ -47,8 +49,17 @@ PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` follo
 
 ## English pilot
 
-The approved three-source-record pilot is now drafted for **Letters 3484–3486 / PDF 024–045** under [`translations/en/`](translations/en/README.md). Each record contains a complete English draft plus the complete audited Tamil appendix. No pilot record is yet marked bilingual-aligned or release-ready.
+The approved three-source-record pilot for **Letters 3484–3486 / PDF 024–045** has now passed its separate source-review/convention-lock checkpoint. The review made **5 English-only corrections across Letters 3484–3485**, required **0 Tamil changes**, and found Letter 3486 aligned without correction.
+
+Durable records:
+
+- [English index](translations/en/README.md)
+- [Pilot review](translations/en/PILOT_REVIEW_3484_3486.md)
+- [Locked glossary](translations/en/GLOSSARY.md)
+- [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
+
+The pilot records are source-checked but have **not** yet passed the later final bilingual-alignment/editorial/release gates.
 
 ## Exact next activity
 
-Perform the separate **pilot source-alignment and convention-lock review — Letters 3484–3486**. Do not begin 3487–3491 until that review passes.
+Translate and source-check the first normal five-record batch **3487–3491** under the locked Volume 44 conventions. Stop after 3491; do not begin Letter 3492 in the same activity.

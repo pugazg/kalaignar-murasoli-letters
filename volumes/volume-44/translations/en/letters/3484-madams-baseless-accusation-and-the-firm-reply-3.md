@@ -32,7 +32,7 @@ A case has been going on against Jayalalithaa for seven years over the charge th
 
 The Income Tax Department itself filed a case against Jayalalithaa for not filing her income-tax return for 1993–94. In that case, while Jayalalithaa was still Chief Minister, Supreme Court Justices B. N. Agrawal and A. K. Mathur criticised her on 24-2-2006 in these words: “You (Jayalalithaa) are making a mockery of the Judicial Process. How long you can drag the proceedings?” Can Jayalalithaa herself forget this? Is it not Jayalalithaa, who drew this criticism, who is the fountainhead of corruption!
 
-When Jayalalithaa was Chief Minister, she was accused of buying the government-owned TANSI land at a low price. She went so far as to say that the signature in the land document was not even hers, in an attempt to escape the case. Supreme Court Justices S. Rajendra Babu and P. V. Reddi said that the land should be handed back to the government and that Jayalalithaa should look into her conscience and seek atonement. From this alone, would not the town and the world know who the fountainhead of corruption is!
+When Jayalalithaa was Chief Minister, she was accused of buying the government-owned TANSI land at a low price. Supreme Court Justices S. Rajendra Babu and P. V. Reddi observed that the land should be handed back to the government, that Jayalalithaa had gone so far as to say the signature in the land document was not even hers in an attempt to escape the case, and that she should look into her conscience and seek atonement. From this alone, would not the town and the world know who the fountainhead of corruption is!
 
 Some years ago, all the newspapers published a list of the articles found when Jayalalithaa's house was searched, together with their values. According to that list:
 
@@ -70,7 +70,7 @@ In recent times, the number of people waiting at government hospitals for operat
 
 Even in this matter, Jayalalithaa has repeated an allegation she had already made once before — that responsibility for the scheme had supposedly been handed to some company favoured by me — despite a detailed rebuttal having already been issued.
 
-Under government rules, open tenders were invited to implement the scheme, and Star Health and Allied Insurance was selected. It was not handed arbitrarily to someone of our choosing.
+Under government rules, open tenders were invited to implement the scheme, and Star Health and Allied Insurance was selected. It was not arbitrarily awarded to anyone.
 
 This company operates under the regulations of the Insurance Regulatory Authority of India. To implement this insurance scheme, only ₹569.54 crore has been paid to the insurance company as premium and ₹58.66 crore as service tax, making a total of ₹628.20 crore. Yet the AIADMK General Secretary declared in Coimbatore, in a filtered falsehood intended to mislead the public, that ₹2,000 crore of government money had been paid.
 
