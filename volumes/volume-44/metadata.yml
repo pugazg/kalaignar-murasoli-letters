@@ -34,10 +34,10 @@ second_visual_correction_pages: 13
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "regular-batches-in-progress"
-translated_letter_range: "3484-3511"
-translated_letter_count: 28
-source_checked_letter_range: "3484-3511"
-source_checked_letter_count: 28
+translated_letter_range: "3484-3516"
+translated_letter_count: 33
+source_checked_letter_range: "3484-3516"
+source_checked_letter_count: 33
 translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
 pilot_review_status: "pass"
 pilot_review_report: "translations/en/PILOT_REVIEW_3484_3486.md"
@@ -63,6 +63,10 @@ regular_batch_5_status: "pass"
 regular_batch_5_letter_range: "3507-3511"
 regular_batch_5_pdf_range: "176-206"
 regular_batch_5_report: "translations/en/BATCH_SOURCE_CHECK_3507_3511.md"
+regular_batch_6_status: "pass"
+regular_batch_6_letter_range: "3512-3516"
+regular_batch_6_pdf_range: "207-245"
+regular_batch_6_report: "translations/en/BATCH_SOURCE_CHECK_3512_3516.md"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -86,7 +90,9 @@ source_observations:
   - "The fourth regular five-record English batch 3502–3506 / PDF 154–175 passed source check on 2026-08-30 with 0 Tamil changes."
   - "The fifth regular five-record English batch 3507–3511 / PDF 176–206 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3507_3511.md is the durable batch record."
   - "Batch 5 preserves the election/crowd argument in 3507, housing-scheme chronology and construction figures in 3508, Cauvery chronology in 3509, source-framed political/legal allegations in 3510, and law-and-order statistics/media criticism in 3511."
-  - "English translation/source-check coverage is now 28 of 53 records, Letters 3484–3511 / PDF 024–206. The exact next batch is 3512–3516; Letter 3517 has not been started."
+  - "The sixth regular five-record English batch 3512–3516 / PDF 207–245 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3512_3516.md is the durable batch record."
+  - "Batch 6 preserves the Mullai Periyar technical/judicial chronology in 3512, CAG/spectrum/TANSI source English and Manu Dharma rhetoric in 3513, transport-union election and benefit figures in 3514, autobiographical property/donation/bank-balance claims in 3515, and land-allotment/flood/spectrum arguments in 3516."
+  - "English translation/source-check coverage is now 33 of 53 records, Letters 3484–3516 / PDF 024–245. The exact next batch is 3517–3521; Letter 3522 has not been started."
   - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
   - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."

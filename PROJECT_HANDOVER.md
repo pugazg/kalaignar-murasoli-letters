@@ -31,7 +31,8 @@ Current durable state:
 - Regular English batch 3: **PASS — 3497–3501 / PDF 118–153**
 - Regular English batch 4: **PASS — 3502–3506 / PDF 154–175**
 - Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
-- English source-checked: **28 / 53 — 3484–3511 / PDF 024–206**
+- Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
+- English source-checked: **33 / 53 — 3484–3516 / PDF 024–245**
 - Tamil changes during regular English batches: **0**
 - Volume 44 translation conventions: **LOCKED**
 - Final bilingual alignment: **not started**
@@ -53,19 +54,20 @@ Durable English QA records:
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3497_3501.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3502_3506.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3507_3511.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3512_3516.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All twenty-eight English records through 3511 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
+All thirty-three English records through 3516 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
 
-Regular batch 5 retained the crowd/election argument in 3507, the housing-scheme chronology and construction figures in 3508, the Cauvery institutional chronology and correspondence dates in 3509, source-framed political/legal allegations in 3510, and crime statistics plus media criticism in 3511. Historical, legal, political and crime assertions remain source-framed and unreconciled with outside material. No canonical Tamil changed. Glossary additions include **Kalaignar Housing Scheme**, **Cauvery Tribunal**, and **Cauvery River Water Authority**.
+Regular batch 6 retained the full Mullai Periyar technical/judicial chronology and printed English in 3512; CAG/spectrum/TANSI passages, figures, Bharati material and Manu Dharma rhetoric in 3513; the transport-union election, wage/bonus, recruitment and promotion figures in 3514; the autobiographical income, property, donation, trust and bank-balance account in 3515; and the house-site allotment list, Nero repetition, flood-relief and spectrum arguments in 3516. Historical, legal, engineering, financial and political assertions remain source-framed and unreconciled with outside material. No canonical Tamil changed. Glossary additions include **Mullai Periyar Dam**, **Manu Dharma**, and **Labour Progressive Federation (LPF)**.
 
 Final Tamil source boundaries remain 3535 PDF 381–390, 3536 PDF 391–399, and PDF 400 non-letter material. Letter 3536 preserves `(தொடர்ச்சி நாளை)` before the normal closing; no Letter 3537 exists.
 
 ### Exact next activity
 
-Translate and source-check the next regular five-record English batch **Letters 3512–3516**.
+Translate and source-check the next regular five-record English batch **Letters 3517–3521**.
 
 - Use the complete audited canonical Tamil for every source record.
 - Apply the locked Volume 44 conventions in `translations/en/PILOT_REVIEW_3484_3486.md` and `translations/en/GLOSSARY.md`.
@@ -76,7 +78,7 @@ Translate and source-check the next regular five-record English batch **Letters 
 - Source-check each completed English record against its full Tamil source before marking the batch complete.
 - If a Tamil reading becomes doubtful, consult the controlling scan and record only scan-proven Tamil corrections; do not use OCR, contents wording or outside knowledge to silently repair it.
 - Update the manifest/progress/index/control files and add glossary entries only for genuinely new recurring terminology.
-- Stop after **3516**. **Do not start Letter 3517 in the same activity.**
+- Stop after **3521**. **Do not start Letter 3522 in the same activity.**
 - Keep final bilingual alignment, editorial review and release verification as later separate QA gates.
 
 ## Volume 45 — COMPLETE

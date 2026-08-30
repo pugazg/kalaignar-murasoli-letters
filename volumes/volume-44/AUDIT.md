@@ -58,35 +58,37 @@ The English pilot **3484–3486 / PDF 024–045** completed its separate source-
 
 Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md).
 
-### Regular batches 1–4 — PASS
+### Regular batches 1–5 — PASS
 
 - batch 1 **3487–3491 / PDF 046–087** — 5 / 5 PASS;
 - batch 2 **3492–3496 / PDF 088–117** — 5 / 5 PASS;
 - batch 3 **3497–3501 / PDF 118–153** — 5 / 5 PASS;
 - batch 4 **3502–3506 / PDF 154–175** — 5 / 5 PASS;
-- cumulative after batch 4: **23 / 53 — 3484–3506**;
+- batch 5 **3507–3511 / PDF 176–206** — 5 / 5 PASS;
+- cumulative after batch 5: **28 / 53 — 3484–3511**;
 - canonical Tamil changes: **0**.
 
 Detailed records are preserved in the corresponding `translations/en/BATCH_SOURCE_CHECK_*.md` files.
 
-### Regular batch 5 — PASS
+### Regular batch 6 — PASS
 
-The fifth regular five-record English batch **3507–3511 / PDF 176–206** has been translated and source-checked.
+The sixth regular five-record English batch **3512–3516 / PDF 207–245** has been translated and source-checked.
 
 - batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage: **28 / 53 — 3484–3511 / PDF 024–206**;
+- cumulative English source-check coverage: **33 / 53 — 3484–3516 / PDF 024–245**;
 - canonical Tamil changes during this batch: **0**;
 - new scan-level Tamil corrections: **0**;
 - source boundary/title/date changes: **0**;
-- source-framed historical, legal, political and crime-statistics assertions were not reconciled from outside material;
-- new recurring glossary treatments: **Kalaignar Housing Scheme**, **Cauvery Tribunal**, **Cauvery River Water Authority**;
-- source English in 3511, including `Blown out of proportions`, `(Organized crime syndicates)` and `(Organized Crime Intelligence Unit)`, is retained;
+- source-framed engineering, judicial, historical, financial and political assertions were not reconciled from outside material;
+- new recurring glossary treatments: **Mullai Periyar Dam**, **Manu Dharma**, **Labour Progressive Federation (LPF)**;
+- printed English in Letters 3512–3513 is retained where it functions as source wording;
+- Letter 3513 preserves the post-closing distribution instruction on PDF 222;
 - final bilingual alignment: **not started; later separate QA gate**.
 
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3507_3511.md`](translations/en/BATCH_SOURCE_CHECK_3507_3511.md).
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3512_3516.md`](translations/en/BATCH_SOURCE_CHECK_3512_3516.md).
 
 English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record English batch **3512–3516**, then stop. Do not begin Letter 3517 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.
+Translate and source-check the next regular five-record English batch **3517–3521**, then stop. Do not begin Letter 3522 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.

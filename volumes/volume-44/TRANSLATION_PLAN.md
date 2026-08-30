@@ -1,6 +1,6 @@
 # Volume 44 — English Translation Plan
 
-**Status:** pilot source review complete and conventions locked; regular five-record batches in progress; 28 / 53 records source-checked through Letter 3511.
+**Status:** pilot source review complete and conventions locked; regular five-record batches in progress; 33 / 53 records source-checked through Letter 3516.
 
 All required Tamil gates passed before English work began. English work has now completed:
 
@@ -9,7 +9,8 @@ All required Tamil gates passed before English work began. English work has now 
 - regular batch 2 **3492–3496 / PDF 088–117** — translated and source-checked, 5 / 5 PASS;
 - regular batch 3 **3497–3501 / PDF 118–153** — translated and source-checked, 5 / 5 PASS;
 - regular batch 4 **3502–3506 / PDF 154–175** — translated and source-checked, 5 / 5 PASS;
-- regular batch 5 **3507–3511 / PDF 176–206** — translated and source-checked, 5 / 5 PASS.
+- regular batch 5 **3507–3511 / PDF 176–206** — translated and source-checked, 5 / 5 PASS;
+- regular batch 6 **3512–3516 / PDF 207–245** — translated and source-checked, 5 / 5 PASS.
 
 Durable QA records:
 
@@ -19,10 +20,11 @@ Durable QA records:
 - [`translations/en/BATCH_SOURCE_CHECK_3497_3501.md`](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3502_3506.md`](translations/en/BATCH_SOURCE_CHECK_3502_3506.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3507_3511.md`](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3512_3516.md`](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
-The five regular batches required **0 Tamil changes**. Final bilingual alignment remains a later separate QA gate.
+The six regular batches required **0 Tamil changes**. Final bilingual alignment remains a later separate QA gate.
 
 ## Locked Volume 44 policy
 
@@ -53,4 +55,4 @@ If a Tamil reading itself becomes doubtful during translation, consult the contr
 
 ## Exact next activity
 
-Translate and source-check **Letters 3512–3516** as the next regular five-record batch. Stop after 3516; do **not** begin Letter 3517 in the same activity.
+Translate and source-check **Letters 3517–3521** as the next regular five-record batch. Stop after 3521; do **not** begin Letter 3522 in the same activity.

@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check coverage is now 28 / 53 records through Letter 3511.**
+**All required Tamil archival gates are complete. English translation/source-check coverage is now 33 / 53 records through Letter 3516.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -19,26 +19,29 @@
 - Regular English batch 3: **PASS — 3497–3501 / PDF 118–153**
 - Regular English batch 4: **PASS — 3502–3506 / PDF 154–175**
 - Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
-- English drafted/source-checked: **28 / 53 — 3484–3511 / PDF 024–206**
+- Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
+- English drafted/source-checked: **33 / 53 — 3484–3516 / PDF 024–245**
 - Tamil changes during regular English batches: **0**
 - Translation conventions: **LOCKED; glossary extended only for recurring/source-supported terms**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English final release: **not started**
 
-## Completed activity — fifth regular English batch
+## Completed activity — sixth regular English batch
 
 The next five source records were translated from and source-checked against their complete audited canonical Tamil:
 
-1. **3507 — தேர்தல் தீர்ப்புக்குக் கூட்டமே; அளவுகோலா?** — PDF 176–179 — PASS;
-2. **3508 — குடிசைகள்; கோபுரங்களாக - மண்வீடுகள்; மாளிகைகளாக!** — PDF 180–186 — PASS;
-3. **3509 — அம்மையார் வாக்கும் போக்கும்; அன்றும்-இன்றும்!** — PDF 187–192 — PASS;
-4. **3510 — காலம்தான் பதில் சொல்லும்!** — PDF 193–198 — PASS;
-5. **3511 — நடுநிலையாளர்க்கு; கெடுமதி கூடாது!** — PDF 199–206 — PASS.
+1. **3512 — துரோகத்தின் முகத்திரையைக் கிழிப்போம்!** — PDF 207–213 — PASS;
+2. **3513 — மனு தர்மத்திற்கு மறு பிறவி கிடையாது!** — PDF 214–222 — PASS;
+3. **3514 — வரப்போகும் வெற்றிக்கு வெள்ளோட்டம்!** — PDF 223–229 — PASS;
+4. **3515 — கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண!** — PDF 230–239 — PASS;
+5. **3516 — ஒய்யாரக் கொண்டையாம்; தாழம்பூவாம்...!** — PDF 240–245 — PASS.
 
-Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers. Batch 5 preserves the election/crowd argument and 1971/1962 examples in 3507; housing-scheme chronology, beneficiary figures and construction specifications in 3508; the full Cauvery chronology and correspondence dates in 3509; source-framed political/legal allegations and rhetorical images in 3510; and law-and-order statistics, printed English and *Dinamani* criticism in 3511.
+Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers. Letter 3513 also preserves the printed post-closing distribution instruction on PDF 222.
 
-No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. New recurring/source-supported glossary treatments are **Kalaignar Housing Scheme**, **Cauvery Tribunal**, and **Cauvery River Water Authority**. Printed source English in 3511 remains preserved.
+Batch 6 preserves the complete Mullai Periyar technical/judicial chronology and source English in 3512; the CAG/spectrum/TANSI passages, figures and Manu Dharma rhetoric in 3513; the transport-union election, turnout, wage/bonus, recruitment and promotion figures in 3514; the full autobiographical income/property/donation/bank-balance account in 3515; and the house-site allotment list, parallel Nero quotations, flood-relief sequence and spectrum figure in 3516. Historical, legal, engineering, financial and political assertions remain source-framed rather than reconciled from outside material.
+
+No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. New recurring/source-supported glossary treatments are **Mullai Periyar Dam**, **Manu Dharma**, and **Labour Progressive Federation (LPF)**.
 
 Durable English QA records now include:
 
@@ -48,6 +51,7 @@ Durable English QA records now include:
 - [`translations/en/BATCH_SOURCE_CHECK_3497_3501.md`](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3502_3506.md`](translations/en/BATCH_SOURCE_CHECK_3502_3506.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3507_3511.md`](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3512_3516.md`](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
@@ -59,12 +63,12 @@ Source-check PASS does **not** imply final bilingual alignment, editorial review
 - Tamil first-pass transcription / batch audits: **PASS**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
-- English source-checked: **28 / 53 — 3484–3511**
-- Regular English batches 1–5: **PASS**
+- English source-checked: **33 / 53 — 3484–3516**
+- Regular English batches 1–6: **PASS**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record batch: **Letters 3512–3516**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3516. Do **not** begin 3517 in the same activity.
+Translate and source-check the next regular five-record batch: **Letters 3517–3521**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3521. Do **not** begin 3522 in the same activity.
