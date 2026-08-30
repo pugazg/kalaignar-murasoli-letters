@@ -35,7 +35,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3512 | [துரோகத்தின் முகத்திரையைக் கிழிப்போம்!](3512-thurogaththin-mugaththiraiyai-kizhippom.md) | 207–213 | 206–212 | complete |
 | 3513 | [மனு தர்மத்திற்கு மறு பிறவி கிடையாது!](3513-manu-dharmaththirku-maru-piravi-kidaiyaathu.md) | 214–222 | 213–221 | complete |
 | 3514 | [வரப்போகும் வெற்றிக்கு வெள்ளோட்டம்!](3514-varappogum-vetrikku-vellottam.md) | 223–229 | 222–228 | complete |
+| 3515 | [கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண!](3515-kanakku-kaattugiren-kannudaiyor-kaan.md) | 230–239 | 229–238 | complete |
+| 3516 | [ஒய்யாரக் கொண்டையாம்; தாழம்பூவாம்...!](3516-oyyaarak-kondaiyaam-thaazhampoovaam.md) | 240–245 | 239–244 | complete |
+| 3517 | [என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு?](3517-ennathaan-erichchalo-inthach-sila-edugalukku.md) | 246–251 | 245–250 | complete |
+| 3518 | [வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்!](3518-vayathil-eeraandu-ilaiyon-vanangugiren.md) | 252–256 | 251–255 | complete |
+| 3519 | [உத்தமிகாள்! நீவிர் ஊழல் பற்றிப் பேசலாமா?](3519-uththamigaal-neevir-oozhal-patrip-pesalaamaa.md) | 257–264 | 256–263 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **229 / printed page 228**, covering thirty-one completed letters **3484–3514**. PDF **230 / printed page 229** was inspected only to establish the next boundary and visibly begins Letter **3515**.
+Canonical Tamil is complete through PDF **264 / printed page 263**, covering thirty-six completed letters **3484–3519**. PDF **265 / printed page 264** was inspected only to establish the next boundary and visibly begins Letter **3520**.

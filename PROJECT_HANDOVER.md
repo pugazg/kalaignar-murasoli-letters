@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-29
+**Handover date:** 2026-08-30
 
 Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
@@ -22,7 +22,7 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–229 / 400**
+- Canonical Tamil pages: **001–264 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
 - First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
@@ -31,15 +31,16 @@ Current durable state:
 - Fourth regular five-letter batch: **PASS — 3500–3504 / PDF 140–165**
 - Fifth regular five-letter batch: **PASS — 3505–3509 / PDF 166–192**
 - Sixth regular five-letter batch: **PASS — 3510–3514 / PDF 193–229**
-- Completed letters: **31 — 3484–3514**
+- Seventh regular five-letter batch: **PASS — 3515–3519 / PDF 230–264**
+- Completed letters: **36 — 3484–3519**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3510 PDF 193–198, 3511 PDF 199–206, 3512 PDF 207–213, 3513 PDF 214–222, and 3514 PDF 223–229. The scan-printed closings are 3-11-2010, 4-11-2010, 14-11-2010, 17-11-2010 and 30-11-2010. Source-specific anomalies, English passages and unusual wording remain unnormalized. The printed contents title for 3513 is `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, but the actual letter-start title is `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; both source readings are preserved. PDF 222 retains the post-closing distribution instruction. PDF 230 / printed page 229 visibly begins Letter 3515 but is not yet canonical.
+The latest batch boundaries are 3515 PDF 230–239, 3516 PDF 240–245, 3517 PDF 246–251, 3518 PDF 252–256, and 3519 PDF 257–264. The scan-printed closings are 2-12-2010, 10-12-2010, 12-12-2010, 19-12-2010 and 20-12-2010. Source-specific wording, punctuation, figures, English passages and physical page splits remain unnormalized. Letter 3517 preserves the printed English headline `Tamil Nadu Housing Board loses Rs. 5.17 Crore`. Letter 3519 preserves its extended English Supreme Court passage across the physical PDF 258/259 boundary. PDF 265 / printed page 264 visibly begins Letter 3520 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 230** and execute the next regular five-complete-letter transcription iteration: Letters **3515–3519**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 265** and execute the next regular five-complete-letter transcription iteration: Letters **3520–3524**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

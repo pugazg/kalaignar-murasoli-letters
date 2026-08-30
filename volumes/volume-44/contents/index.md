@@ -35,12 +35,12 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3512 | துரோகத்தின் முகத்திரையைக் கிழிப்போம்! | 14-11-2010 | 206 | 207 | 213 | complete |
 | 3513 | மனு தாமதத்திற்கு மறு பிறவி கிடையாது! | 17-11-2010 | 213 | 214 | 222 | complete |
 | 3514 | வரப்போகும் வெற்றிக்கு வெள்ளோட்டம்! | 30-11-2010 | 222 | 223 | 229 | complete |
-| 3515 | கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண! | 2-12-2010 | 229 | 230 | — | pending |
-| 3516 | ஒய்யாரக் கொண்டையாம்; தாழம்பூவாம்...! | 10-12-2010 | 239 | — | — | pending |
-| 3517 | என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு? | 12-12-2010 | 245 | — | — | pending |
-| 3518 | வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்! | 19-12-2010 | 251 | — | — | pending |
-| 3519 | உத்தமிகாள்! நீவிர் ஊழல் பற்றிப் பேசலாமா? | 20-12-2010 | 256 | — | — | pending |
-| 3520 | பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்! | 21-12-2010 | 264 | — | — | pending |
+| 3515 | கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண! | 2-12-2010 | 229 | 230 | 239 | complete |
+| 3516 | ஒய்யாரக் கொண்டையாம்; தாழம்பூவாம்...! | 10-12-2010 | 239 | 240 | 245 | complete |
+| 3517 | என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு? | 12-12-2010 | 245 | 246 | 251 | complete |
+| 3518 | வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்! | 19-12-2010 | 251 | 252 | 256 | complete |
+| 3519 | உத்தமிகாள்! நீவிர் ஊழல் பற்றிப் பேசலாமா? | 20-12-2010 | 256 | 257 | 264 | complete |
+| 3520 | பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்! | 21-12-2010 | 264 | 265 | — | pending |
 | 3521 | புறப்படட்டும், நமது பிரச்சாரப் படை! | 22-12-2010 | 270 | — | — | pending |
 | 3522 | வேலை வாய்ப்பு; அன்றும் இன்றும்! | 23-12-2010 | 277 | — | — | pending |
 | 3523 | எப்போதுதான் முடியுமோ? | 29-12-2010 | 283 | — | — | pending |
@@ -60,4 +60,4 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3514 are scan-verified complete through PDF 229 / printed page 228. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately. PDF 230 / printed page 229 was inspected for boundary only and begins Letter 3515; its body is not yet canonically transcribed.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3519 are scan-verified complete through PDF 264 / printed page 263. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately. PDF 265 / printed page 264 was inspected for boundary only and begins Letter 3520; its body is not yet canonically transcribed.

@@ -14,7 +14,8 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 | 5 | Letters 3495–3499 — PDF 105–139 | PASS |
 | 6 | Letters 3500–3504 — PDF 140–165 | PASS |
 | 7 | Letters 3505–3509 — PDF 166–192 | PASS |
-| 8 | Letters 3510–3514 — PDF 193–229 | **PASS** |
+| 8 | Letters 3510–3514 — PDF 193–229 | PASS |
+| 9 | Letters 3515–3519 — PDF 230–264 | **PASS** |
 
 ---
 
@@ -85,6 +86,58 @@ Every canonical page in PDF 193–229 was directly compared against the controll
 
 **PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
 
+---
+
+## Gate 9 — seventh regular five-letter batch 3515–3519 / PDF 230–264 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **35 — page-230.md through page-264.md**
+- Physical PDF scope transcribed: **230–264 exactly**
+- Complete consecutive letters: **3515, 3516, 3517, 3518, 3519**
+- Verified ranges:
+  - 3515 — PDF **230–239** / printed **229–238**
+  - 3516 — PDF **240–245** / printed **239–244**
+  - 3517 — PDF **246–251** / printed **245–250**
+  - 3518 — PDF **252–256** / printed **251–255**
+  - 3519 — PDF **257–264** / printed **256–263**
+- Verified closing dates: **2-12-2010; 10-12-2010; 12-12-2010; 19-12-2010; 20-12-2010**
+- PDF 265 transcribed: **no**
+- PDF 265 inspected for boundary only: **yes — begins Letter 3520 / printed page 264**
+
+### Visual/textual verification
+
+Every canonical page in PDF 230–264 was directly compared against the controlling scan. Letter starts/endings, printed page numbers, titles, salutations, closings, dates, figures, quotations, English passages, unusual spelling/spacing and page continuations were checked. Enlarged rechecks resolved difficult readings before promotion, including PDF 244 `அழுகை கொண்டு`, PDF 254 the printed poetic line ending `அன்பழகன் என்றோரழர் என்னல் எனக்குப் பெருமையதே`, PDF 258 `ஆடிட்டரும்`, and PDF 259 `ஏழாண்டு காலமாக`.
+
+### Preserved source conditions and anomalies
+
+- Letter 3515 preserves printed financial figures, dates, quoted forms, `“வாக்சால்” (Vauxhall) 4983`, names and source-specific spacing without normalization.
+- Letter 3516 preserves the two repeated “ரோம் நகரம்...” statements, names, plot sizes and printed wording without editorial harmonization.
+- Letter 3517 preserves the source English headline `Tamil Nadu Housing Board loses Rs. 5.17 Crore`, monetary figures and the source’s housing-board argument sequence exactly.
+- Letter 3518 preserves its source-specific biographical wording and quoted poetic/critical appreciations, including the visually rechecked PDF 254 poetic passage.
+- Letter 3519 preserves the source English Supreme Court passage exactly across the physical PDF 258/259 split: PDF 258 ends `gentlemen’s agreement. Good` and PDF 259 begins `ethical behaviour...`. Its later English legal phrase `You (Jayalalitha) are making a mockery of the Judicial Process. How long you can drag the proceedings?`, lists, figures and parenthetical English terms are retained.
+- PDF 265 / printed page 264 visibly begins Letter 3520 `பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்!`; no PDF 265 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-264.md**
+- New page range: **230–264** with printed-page metadata **229–263**
+- Five new chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3519 and boundary-only start of 3520
+- No U+FFFD replacement characters in new pages/control records
+- No unintended zero-width/BOM residue in new pages/control records
+- No duplicate canonical source bodies in the new batch
+- PDF 265 canonical page intentionally absent
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
 ## Exact next activity
 
-Start at **PDF 230 / printed page 229** and complete the next regular five-letter iteration: Letters **3515–3519**, each through its actual scan-verified closing.
+Start at **PDF 265 / printed page 264** and complete the next regular five-letter iteration: Letters **3520–3524**, each through its actual scan-verified closing.
