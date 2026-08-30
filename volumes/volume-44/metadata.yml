@@ -34,10 +34,10 @@ second_visual_correction_pages: 13
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "regular-batches-in-progress"
-translated_letter_range: "3484-3521"
-translated_letter_count: 38
-source_checked_letter_range: "3484-3521"
-source_checked_letter_count: 38
+translated_letter_range: "3484-3526"
+translated_letter_count: 43
+source_checked_letter_range: "3484-3526"
+source_checked_letter_count: 43
 translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
 pilot_review_status: "pass"
 pilot_review_report: "translations/en/PILOT_REVIEW_3484_3486.md"
@@ -71,6 +71,10 @@ regular_batch_7_status: "pass"
 regular_batch_7_letter_range: "3517-3521"
 regular_batch_7_pdf_range: "246-277"
 regular_batch_7_report: "translations/en/BATCH_SOURCE_CHECK_3517_3521.md"
+regular_batch_8_status: "pass"
+regular_batch_8_letter_range: "3522-3526"
+regular_batch_8_pdf_range: "278-311"
+regular_batch_8_report: "translations/en/BATCH_SOURCE_CHECK_3522_3526.md"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -94,10 +98,10 @@ source_observations:
   - "The fourth regular five-record English batch 3502–3506 / PDF 154–175 passed source check on 2026-08-30 with 0 Tamil changes."
   - "The fifth regular five-record English batch 3507–3511 / PDF 176–206 passed source check on 2026-08-30 with 0 Tamil changes."
   - "The sixth regular five-record English batch 3512–3516 / PDF 207–245 passed source check on 2026-08-30 with 0 Tamil changes."
-  - "The seventh regular five-record English batch 3517–3521 / PDF 246–277 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3517_3521.md is the durable batch record."
-  - "Batch 7 preserves the Housing Board/audit argument in 3517, the Anbazhagan birthday tribute in 3518, source-framed TANSI/income-tax/assets/judicial material in 3519, Cabinet/spectrum/tape/land-distribution arguments in 3520, and the audit/TANSI/campaign-brigade argument in 3521."
-  - "PDF 269 contains the audited internally opaque sequence 'பேசிப் ஓ ஓ ஓதி.மு.க. ஆளாகியிருக்கிறது'; the English record surfaces the uncertainty rather than inventing a repair."
-  - "English translation/source-check coverage is now 38 of 53 records, Letters 3484–3521 / PDF 024–277. The exact next batch is 3522–3526; Letter 3527 has not been started."
+  - "The seventh regular five-record English batch 3517–3521 / PDF 246–277 passed source check on 2026-08-30 with 0 Tamil changes."
+  - "The eighth regular five-record English batch 3522–3526 / PDF 278–311 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3522_3526.md is the durable batch record."
+  - "Batch 8 preserves the 45,987/47,200 teacher-count discrepancy in 3522; source-attributed clean-government, arrest and dismissal material in 3523; exact Public Department English and the audited 'this 2005 election' wording in 3524; Panagal Raja/Justice Party autobiographical-historical material in 3525; and all seven India Today allegation/official-response pairs in 3526, including the Theni explanation's recorded Giri/Pandi encroachments and recovery action."
+  - "English translation/source-check coverage is now 43 of 53 records, Letters 3484–3526 / PDF 024–311. The exact next batch is 3527–3531; Letter 3532 has not been started."
   - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
   - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."

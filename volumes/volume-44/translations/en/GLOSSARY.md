@@ -1,6 +1,6 @@
 # Volume 44 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through regular batch 7, Letters 3517–3521. Batch 7 required no new recurring locked term.
+**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through regular batch 8, Letters 3522–3526.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 batches but may not override a different meaning supported by a later source passage.
 
@@ -30,6 +30,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `அங்கன்வாடி` | **Anganwadi** | Retain the institutional/public term rather than replacing it with an outside administrative label. |
 | `சிறப்புக் கால முறை ஊதியம்` | **special time-scale pay** | Administrative pay term in the Nutritious Meal/Anganwadi employee context. |
 | `அகவிலைப்படி` | **Dearness Allowance** | Employment/pay context. |
+| `பணி நியமனத் தடையாணை` | **recruitment-ban order** | Employment/recruitment-policy context; preserve the source’s political attribution rather than converting it into an outside legal label. |
 | `மாற்றுத் திறனாளிகள்` | **differently abled persons** | Preserve the source’s 2010-era nomenclature, especially where it explicitly contrasts this term with `ஊனமுற்றோர்`; do not silently modernise the source terminology. |
 | `அரவாணிகள்` | **Aravanis** | Preserve the source’s period-specific community designation; do not silently substitute a later preferred label. |
 | `சமத்துவபுரம்` | **Samathuvapuram** | Retain scheme identity rather than flattening it. |
@@ -40,6 +41,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `பன்மாநில நதிநீர்த் தாவாச்சட்டம்` | **Inter-State River Water Disputes Act** | Retain printed section references such as 5(3) and 6(1). |
 | `காவிரி நடுவர் மன்றம்` | **Cauvery Tribunal** | Keep distinct from the Cauvery River Water Authority and from any management committee; preserve interim/final-award framing from the source. |
 | `காவிரி நதிநீர் ஆணையம்` | **Cauvery River Water Authority** | Institutional treatment used in Letter 3509; do not conflate with the Tribunal. |
+| `கட்டாய மத மாற்றத் தடைச் சட்டம்` | **law prohibiting forcible religious conversion / Prohibition of Forcible Conversion of Religion Act** | Use the formal title where the source’s legal/file context supports it; retain exact printed English in quoted ordinance/repeal passages. |
 | `தொழிலாளர் முன்னேற்றச் சங்கம்` | **Labour Progressive Federation (LPF)** | Recurring DMK-affiliated transport/trade-union name; retain the institutional identity. |
 | `மனு தர்மம்` | **Manu Dharma** | Retain the source’s named ideological/social-order term; do not flatten it into a generic modern label. |
 | `டாஸ்மாக்` | **TASMAC** | Institutional name; retain without expanding unless the source itself expands it. |
@@ -69,7 +71,9 @@ Printed English that functions as source wording is preserved rather than silent
 - the Mullai Periyar expert/Supreme Court/environment passages in Letter 3512, including `safe for raising the reservoir water level to 142 ft.`, `Retrofitted`, `Dead Storage` and the printed 152-foot wildlife passage;
 - the Letter 3513 English CAG/spectrum/TANSI passages, including `Any loss ascertained while attempting to value the spectrum can only be ‘presumptive’..........`;
 - the Letter 3519 judicial passage beginning `Further, criminal law is meant to deal with criminals ordinarily` and the printed `(Hostile)` / `(Daily Basis)` forms;
-- the Letter 3520 Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`.
+- the Letter 3520 Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`;
+- the Letter 3523 headings `Lawless in TamilNadu` and `Time ripe for Regime Change`;
+- the Letter 3524 Public Department passages beginning `This file relates to introducing a Bill in the ensuing Session...` and `As per the Provisions of Clause 2 of Article 213 of the Constitution...`.
 
 ## Political and rhetorical language
 

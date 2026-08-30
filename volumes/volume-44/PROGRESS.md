@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check coverage is now 38 / 53 records through Letter 3521.**
+**All required Tamil archival gates are complete. English translation/source-check coverage is now 43 / 53 records through Letter 3526.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -21,30 +21,29 @@
 - Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
 - Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
 - Regular English batch 7: **PASS — 3517–3521 / PDF 246–277**
-- English drafted/source-checked: **38 / 53 — 3484–3521 / PDF 024–277**
+- Regular English batch 8: **PASS — 3522–3526 / PDF 278–311**
+- English drafted/source-checked: **43 / 53 — 3484–3526 / PDF 024–311**
 - Tamil changes during regular English batches: **0**
-- Translation conventions: **LOCKED; batch 7 required no new recurring glossary entry**
+- Translation conventions: **LOCKED; glossary reviewed through batch 8**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English final release: **not started**
 
-## Completed activity — seventh regular English batch
+## Completed activity — eighth regular English batch
 
 The next five source records were translated from and source-checked against their complete audited canonical Tamil:
 
-1. **3517 — என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு?** — PDF 246–251 — PASS;
-2. **3518 — வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்!** — PDF 252–256 — PASS;
-3. **3519 — உத்தமிகாள்! நீவிர் ஊழல் பற்றிப் பேசலாமா?** — PDF 257–264 — PASS;
-4. **3520 — பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்!** — PDF 265–270 — PASS;
-5. **3521 — புறப்படட்டும், நமது பிரச்சாரப் படை!** — PDF 271–277 — PASS.
+1. **3522 — வேலை வாய்ப்பு; அன்றும் இன்றும்!** — PDF 278–283 — PASS;
+2. **3523 — எப்போதுதான் முடியுமோ?** — PDF 284–290 — PASS;
+3. **3524 — அய்யோ! தாங்க முடியவில்லையே அம்மையாரின் புளுகு!** — PDF 291–298 — PASS;
+4. **3525 — படித்திடுவீர்; பனகல் அரசர் வரலாறு!** — PDF 299–301 — PASS;
+5. **3526 — நஞ்சைக் கக்கிடுவோர்; நெஞ்சைத் தொட்டுச் சொல்வாரா?** — PDF 302–311 — PASS.
 
 Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers.
 
-Batch 7 preserves the Housing Board audit/refund argument and source numerical discrepancy in 3517; the 1942 memories and Professor Anbazhagan birthday tribute in 3518; the TANSI/income-tax/disproportionate-assets judicial material and exact asset lists in 3519; the 2009 Union Cabinet chronology, spectrum/tape arguments, Arun Shourie source English and land-distribution figures in 3520; and the repeated CAG/TANSI material plus final campaign-brigade call in 3521. Historical, legal, financial and political assertions remain source-framed rather than reconciled from outside material.
+Batch 8 preserves the full employment/recruitment and unemployment-assistance figures in 3522, including the source’s **45,987 / 47,200** teacher-count discrepancy; the source-attributed court, arrest, dismissal, legislation and newspaper material in 3523; the forcible-conversion-law chronology, exact Public Department English passages and audited **“this 2005 election”** wording in 3524; the autobiographical Panagal Raja/Justice Party history and source-era Periyar quotation in 3525; and all seven *India Today* allegation/official-response pairs in 3526. The Theni explanation in 3526 is not flattened into a denial: the recorded Giri and Pandi encroachments, assignee sale and recovery action are retained.
 
-The audited PDF 269 sequence `பேசிப் ஓ ஓ ஓதி.மு.க. ஆளாகியிருக்கிறது` remains internally opaque; the English explicitly surfaces that uncertainty and does not invent a repair.
-
-No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. No new recurring locked glossary term was required in batch 7; source-English examples were synchronized through the batch.
+No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. New recurring/source-supported glossary treatments are **recruitment-ban order** and **law prohibiting forcible religious conversion / Prohibition of Forcible Conversion of Religion Act**.
 
 Durable English QA records now include:
 
@@ -56,6 +55,7 @@ Durable English QA records now include:
 - [`translations/en/BATCH_SOURCE_CHECK_3507_3511.md`](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3512_3516.md`](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3517_3521.md`](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3522_3526.md`](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
@@ -67,12 +67,12 @@ Source-check PASS does **not** imply final bilingual alignment, editorial review
 - Tamil first-pass transcription / batch audits: **PASS**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
-- English source-checked: **38 / 53 — 3484–3521**
-- Regular English batches 1–7: **PASS**
+- English source-checked: **43 / 53 — 3484–3526**
+- Regular English batches 1–8: **PASS**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record batch: **Letters 3522–3526**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3526. Do **not** begin 3527 in the same activity.
+Translate and source-check the next regular five-record batch: **Letters 3527–3531**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3531. Do **not** begin 3532 in the same activity.

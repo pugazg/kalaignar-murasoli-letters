@@ -58,7 +58,7 @@ The English pilot **3484–3486 / PDF 024–045** completed its separate source-
 
 Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md).
 
-### Regular batches 1–6 — PASS
+### Regular batches 1–7 — PASS
 
 - batch 1 **3487–3491 / PDF 046–087** — 5 / 5 PASS;
 - batch 2 **3492–3496 / PDF 088–117** — 5 / 5 PASS;
@@ -66,30 +66,32 @@ Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/P
 - batch 4 **3502–3506 / PDF 154–175** — 5 / 5 PASS;
 - batch 5 **3507–3511 / PDF 176–206** — 5 / 5 PASS;
 - batch 6 **3512–3516 / PDF 207–245** — 5 / 5 PASS;
-- cumulative after batch 6: **33 / 53 — 3484–3516**;
+- batch 7 **3517–3521 / PDF 246–277** — 5 / 5 PASS;
+- cumulative after batch 7: **38 / 53 — 3484–3521**;
 - canonical Tamil changes: **0**.
 
 Detailed records are preserved in the corresponding `translations/en/BATCH_SOURCE_CHECK_*.md` files.
 
-### Regular batch 7 — PASS
+### Regular batch 8 — PASS
 
-The seventh regular five-record English batch **3517–3521 / PDF 246–277** has been translated and source-checked.
+The eighth regular five-record English batch **3522–3526 / PDF 278–311** has been translated and source-checked.
 
 - batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage: **38 / 53 — 3484–3521 / PDF 024–277**;
+- cumulative English source-check coverage: **43 / 53 — 3484–3526 / PDF 024–311**;
 - canonical Tamil changes during this batch: **0**;
 - new scan-level Tamil corrections: **0**;
 - source boundary/title/date changes: **0**;
-- source-framed historical, judicial, financial and political assertions were not reconciled from outside material;
-- no new recurring locked glossary term was required;
-- source English in Letters 3517, 3519, 3520 and 3521 is retained where it functions as source wording;
-- the internally opaque PDF 269 sequence is surfaced in the English record rather than silently repaired;
+- Letter 3522 preserves all employment figures and the printed **45,987 / 47,200** teacher-count discrepancy;
+- Letter 3523 preserves source-attributed court/editorial/arrest/dismissal material and the printed headings `Lawless in TamilNadu` / `Time ripe for Regime Change`;
+- Letter 3524 preserves exact Public Department English, Article 213 material and the audited “this 2005 election” wording without silent repair;
+- Letter 3525 preserves the autobiographical Panagal Raja / Justice Party material and historically loaded Periyar quotation as source-era content;
+- Letter 3526 preserves all seven allegation/official-response blocks, including the Theni explanation’s recorded Giri/Pandi encroachments, assignee sale and recovery action rather than flattening the record into a blanket denial;
 - final bilingual alignment: **not started; later separate QA gate**.
 
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3517_3521.md`](translations/en/BATCH_SOURCE_CHECK_3517_3521.md).
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3522_3526.md`](translations/en/BATCH_SOURCE_CHECK_3522_3526.md).
 
 English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record English batch **3522–3526**, then stop. Do not begin Letter 3527 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.
+Translate and source-check the next regular five-record English batch **3527–3531**, then stop. Do not begin Letter 3532 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.

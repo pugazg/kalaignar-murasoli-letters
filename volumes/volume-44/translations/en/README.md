@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 38 / 53 records, Letters 3484–3521.**
+**SOURCE-CHECKED — 43 / 53 records, Letters 3484–3526.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -16,8 +16,9 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Regular batch 5: **3507–3511 — 5 / 5 translated and source-checked**
 - Regular batch 6: **3512–3516 — 5 / 5 translated and source-checked**
 - Regular batch 7: **3517–3521 — 5 / 5 translated and source-checked**
-- Batch 7 report: [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
-- Total translated/source-checked: **38 / 53 — PDF 024–277**
+- Regular batch 8: **3522–3526 — 5 / 5 translated and source-checked**
+- Batch 8 report: [`BATCH_SOURCE_CHECK_3522_3526.md`](BATCH_SOURCE_CHECK_3522_3526.md)
+- Total translated/source-checked: **43 / 53 — PDF 024–311**
 - Canonical Tamil changes during regular batches: **0**
 - Final bilingual alignment: **not started**
 - Volume-level English editorial review: **not started**
@@ -69,6 +70,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3519](letters/3519-o-paragon-of-virtue-can-you-speak-of-corruption.md) | O Paragon of Virtue! Can You Speak of Corruption? | 20 December 2010 | 257–264 | source-checked |
 | [3520](letters/3520-rise-quickly-to-continue-the-work-everywhere-let-the-drum-of-victory-resound.md) | Rise Quickly to Continue the Work Everywhere; Let the Drum of Victory Resound! | 21 December 2010 | 265–270 | source-checked |
 | [3521](letters/3521-let-our-campaign-brigade-set-out.md) | Let Our Campaign Brigade Set Out! | 22 December 2010 | 271–277 | source-checked |
+| [3522](letters/3522-employment-opportunities-then-and-now.md) | Employment Opportunities: Then and Now! | 23 December 2010 | 278–283 | source-checked |
+| [3523](letters/3523-when-will-it-ever-end.md) | When Will It Ever End? | 29 December 2010 | 284–290 | source-checked |
+| [3524](letters/3524-oh-madams-falsehood-is-unbearable.md) | Oh! Madam's Falsehood Is Unbearable! | 31 December 2010 | 291–298 | source-checked |
+| [3525](letters/3525-read-the-history-of-the-raja-of-panagal.md) | Read the History of the Raja of Panagal! | 7 January 2011 | 299–301 | source-checked |
+| [3526](letters/3526-will-those-who-spew-poison-speak-with-a-hand-on-their-heart.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? | 12 January 2011 | 302–311 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -99,9 +105,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BATCH_SOURCE_CHECK_3507_3511.md`](BATCH_SOURCE_CHECK_3507_3511.md)
 - [`BATCH_SOURCE_CHECK_3512_3516.md`](BATCH_SOURCE_CHECK_3512_3516.md)
 - [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
+- [`BATCH_SOURCE_CHECK_3522_3526.md`](BATCH_SOURCE_CHECK_3522_3526.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch: **Letters 3522–3526**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3526**. Do **not** begin 3527 in the same activity.
+Translate and source-check the next normal five-record batch: **Letters 3527–3531**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3531**. Do **not** begin 3532 in the same activity.

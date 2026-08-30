@@ -34,7 +34,8 @@
 | Regular English batch 5 | **PASS — 3507–3511** |
 | Regular English batch 6 | **PASS — 3512–3516** |
 | Regular English batch 7 | **PASS — 3517–3521** |
-| English source-checked | **38 / 53 — 3484–3521 / PDF 024–277** |
+| Regular English batch 8 | **PASS — 3522–3526** |
+| English source-checked | **43 / 53 — 3484–3526 / PDF 024–311** |
 | Final bilingual alignment | not started |
 | English editorial review | not started |
 | English release | not started |
@@ -55,9 +56,9 @@ PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` follo
 
 ## English translation
 
-The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–7 — **3487–3521 / PDF 046–277** — have also been translated and source-checked. Total English source-check coverage is therefore **38 / 53 records — 3484–3521**.
+The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–8 — **3487–3526 / PDF 046–311** — have also been translated and source-checked. Total English source-check coverage is therefore **43 / 53 records — 3484–3526**.
 
-All seven regular batches required **0 Tamil changes**. Batch 7 preserves the Housing Board/audit argument and source figures in 3517; the Professor Anbazhagan tribute and 1942 memories in 3518; TANSI/income-tax/assets/judicial material in 3519; 2009 Cabinet, spectrum, tape and land-distribution arguments in 3520; and audit/TANSI plus campaign-brigade material in 3521. The internally opaque PDF 269 sequence is surfaced explicitly in English rather than repaired from inference. Batch 7 required no new recurring glossary entry. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+All eight regular batches required **0 Tamil changes**. Batch 8 preserves employment and recruitment figures in 3522, including the **45,987 / 47,200** source discrepancy; source-attributed “clean government” political/judicial material in 3523; exact Public Department English and the audited **“this 2005 election”** wording in 3524; Panagal Raja / Justice Party history and the source-era Periyar quotation in 3525; and all seven *India Today* allegation/official-response pairs in 3526, including the Theni collector explanation’s recorded encroachments and recovery action. New glossary treatments cover the recruitment-ban order and the law prohibiting forcible religious conversion. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
 
 Durable English records:
 
@@ -70,9 +71,10 @@ Durable English records:
 - [Batch 3507–3511 source check](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
 - [Batch 3512–3516 source check](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [Batch 3517–3521 source check](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
+- [Batch 3522–3526 source check](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch **3522–3526** under the locked Volume 44 conventions. Stop after 3526; do not begin Letter 3527 in the same activity.
+Translate and source-check the next normal five-record batch **3527–3531** under the locked Volume 44 conventions. Stop after 3531; do not begin Letter 3532 in the same activity.

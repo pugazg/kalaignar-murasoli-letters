@@ -1,6 +1,6 @@
 # Volume 44 — English Translation Plan
 
-**Status:** pilot source review complete and conventions locked; regular five-record batches in progress; 38 / 53 records source-checked through Letter 3521.
+**Status:** pilot source review complete and conventions locked; regular five-record batches in progress; 43 / 53 records source-checked through Letter 3526.
 
 All required Tamil gates passed before English work began. English work has now completed:
 
@@ -11,7 +11,8 @@ All required Tamil gates passed before English work began. English work has now 
 - regular batch 4 **3502–3506 / PDF 154–175** — translated and source-checked, 5 / 5 PASS;
 - regular batch 5 **3507–3511 / PDF 176–206** — translated and source-checked, 5 / 5 PASS;
 - regular batch 6 **3512–3516 / PDF 207–245** — translated and source-checked, 5 / 5 PASS;
-- regular batch 7 **3517–3521 / PDF 246–277** — translated and source-checked, 5 / 5 PASS.
+- regular batch 7 **3517–3521 / PDF 246–277** — translated and source-checked, 5 / 5 PASS;
+- regular batch 8 **3522–3526 / PDF 278–311** — translated and source-checked, 5 / 5 PASS.
 
 Durable QA records:
 
@@ -23,10 +24,11 @@ Durable QA records:
 - [`translations/en/BATCH_SOURCE_CHECK_3507_3511.md`](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3512_3516.md`](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3517_3521.md`](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3522_3526.md`](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
-The seven regular batches required **0 Tamil changes**. Batch 7 required no new recurring locked glossary entry. Final bilingual alignment remains a later separate QA gate.
+The eight regular batches required **0 Tamil changes**. Final bilingual alignment remains a later separate QA gate.
 
 ## Locked Volume 44 policy
 
@@ -57,4 +59,4 @@ If a Tamil reading itself becomes doubtful during translation, consult the contr
 
 ## Exact next activity
 
-Translate and source-check **Letters 3522–3526** as the next regular five-record batch. Stop after 3526; do **not** begin Letter 3527 in the same activity.
+Translate and source-check **Letters 3527–3531** as the next regular five-record batch. Stop after 3531; do **not** begin Letter 3532 in the same activity.
