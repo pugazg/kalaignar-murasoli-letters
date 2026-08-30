@@ -58,40 +58,33 @@ The English pilot **3484–3486 / PDF 024–045** completed its separate source-
 
 Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md).
 
-### Regular batches 1–7 — PASS
+### Regular batches 1–9 — PASS
 
-- batch 1 **3487–3491 / PDF 046–087** — 5 / 5 PASS;
-- batch 2 **3492–3496 / PDF 088–117** — 5 / 5 PASS;
-- batch 3 **3497–3501 / PDF 118–153** — 5 / 5 PASS;
-- batch 4 **3502–3506 / PDF 154–175** — 5 / 5 PASS;
-- batch 5 **3507–3511 / PDF 176–206** — 5 / 5 PASS;
-- batch 6 **3512–3516 / PDF 207–245** — 5 / 5 PASS;
-- batch 7 **3517–3521 / PDF 246–277** — 5 / 5 PASS;
-- cumulative after batch 7: **38 / 53 — 3484–3521**;
-- canonical Tamil changes: **0**.
+Regular five-record batches **3487–3531 / PDF 046–349** all passed source check. Cumulative after batch 9: **48 / 53 — 3484–3531**. Canonical Tamil changes across these regular batches: **0**.
 
 Detailed records are preserved in the corresponding `translations/en/BATCH_SOURCE_CHECK_*.md` files.
 
-### Regular batch 8 — PASS
+### Regular batch 10 — PASS — main source-check drafting complete
 
-The eighth regular five-record English batch **3522–3526 / PDF 278–311** has been translated and source-checked.
+The tenth and final regular five-record English batch **3532–3536 / PDF 350–399** has been translated and source-checked.
 
 - batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage: **43 / 53 — 3484–3526 / PDF 024–311**;
+- cumulative English source-check coverage: **53 / 53 — 3484–3536 / PDF 024–399**;
 - canonical Tamil changes during this batch: **0**;
 - new scan-level Tamil corrections: **0**;
 - source boundary/title/date changes: **0**;
-- Letter 3522 preserves all employment figures and the printed **45,987 / 47,200** teacher-count discrepancy;
-- Letter 3523 preserves source-attributed court/editorial/arrest/dismissal material and the printed headings `Lawless in TamilNadu` / `Time ripe for Regime Change`;
-- Letter 3524 preserves exact Public Department English, Article 213 material and the audited “this 2005 election” wording without silent repair;
-- Letter 3525 preserves the autobiographical Panagal Raja / Justice Party material and historically loaded Periyar quotation as source-era content;
-- Letter 3526 preserves all seven allegation/official-response blocks, including the Theni explanation’s recorded Giri/Pandi encroachments, assignee sale and recovery action rather than flattening the record into a blanket denial;
-- final bilingual alignment: **not started; later separate QA gate**.
+- Letter 3532 preserves all agriculture/botanical/mechanisation/sugar/university figures, including the unusual printed **₹37 crore 391 lakh** allocation;
+- Letter 3533 preserves complete higher-education admissions/fees/Tamil-medium material and source English `(Internet with broadband facilities)`, `(Lateral Entry)` and `(Shift System)`;
+- Letter 3534 preserves the school-education inventory, including **45,987**, **55,053**, and the printed non-reconciled **₹1 crore 16 lakh 24 thousand** total for the 200-school upgrade item;
+- Letter 3535 preserves the Uniform System of School Education, `“O” level`, the public-library inventory and Anna Centenary Library specifications;
+- Letter 3536 preserves the non-reconciling local-body representative total **1,07,716**, `(Invertors)`, `2007-09`, the opaque `வருவாய்க்குமுள்ள` passage, all devolution/housing/village-development figures and `(தொடர்ச்சி நாளை)` before the normal closing;
+- PDF 400 remains non-letter material and is not translated as a source record;
+- final bilingual alignment: **not started; next separate QA gate**.
 
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3522_3526.md`](translations/en/BATCH_SOURCE_CHECK_3522_3526.md).
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3532_3536.md`](translations/en/BATCH_SOURCE_CHECK_3532_3536.md).
 
 English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record English batch **3527–3531**, then stop. Do not begin Letter 3532 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.
+Begin bilingual meaning-level alignment in five-record batches. First align **Letters 3484–3488 / PDF 024–066** using the complete audited Tamil and the locked Volume 44 glossary. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`, mark only those five records/manifest rows aligned, apply only English corrections required by the comparison, and re-check the controlling scan before any possible Tamil correction. Stop after 3488; do not begin 3489, editorial review or final release verification in the same activity.

@@ -33,11 +33,11 @@ second_visual_verified_pages: 400
 second_visual_correction_pages: 13
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "regular-batches-in-progress"
-translated_letter_range: "3484-3531"
-translated_letter_count: 48
-source_checked_letter_range: "3484-3531"
-source_checked_letter_count: 48
+translation_status: "source-check-complete"
+translated_letter_range: "3484-3536"
+translated_letter_count: 53
+source_checked_letter_range: "3484-3536"
+source_checked_letter_count: 53
 translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
 pilot_review_status: "pass"
 pilot_review_report: "translations/en/PILOT_REVIEW_3484_3486.md"
@@ -79,7 +79,12 @@ regular_batch_9_status: "pass"
 regular_batch_9_letter_range: "3527-3531"
 regular_batch_9_pdf_range: "312-349"
 regular_batch_9_report: "translations/en/BATCH_SOURCE_CHECK_3527_3531.md"
+regular_batch_10_status: "pass"
+regular_batch_10_letter_range: "3532-3536"
+regular_batch_10_pdf_range: "350-399"
+regular_batch_10_report: "translations/en/BATCH_SOURCE_CHECK_3532_3536.md"
 bilingual_alignment_status: "not-started"
+bilingual_alignment_next_range: "3484-3488"
 english_release_status: "not-started"
 source_observations:
   - "Volume number 44 is printed on the front cover and title page."
@@ -93,10 +98,10 @@ source_observations:
   - "The second full-volume visual/textual-fidelity verification passed on 2026-08-30 for PDF 001–400."
   - "Second-pass scan comparison restored page-scale omitted/truncated source bodies on PDFs 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065; no letter boundary, title or date changed."
   - "The pilot source-review/convention-lock gate passed on 2026-08-30 with 5 English-only alignment corrections across Letters 3484–3485, 0 Tamil changes, and no correction requirement in Letter 3486."
-  - "Regular English batches 1 through 8, Letters 3487–3526 / PDF 046–311, passed source check with 0 Tamil changes."
-  - "The ninth regular five-record English batch 3527–3531 / PDF 312–349 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3527_3531.md is the durable batch record."
-  - "Batch 9 preserves the media-advertising/ration-card/commando explanations in 3527; all competing spectrum figures, source English and policy arguments in 3528; government-employee/road-worker/pay material in 3529; Election Commission timing and campaign instructions in 3530; and the full agriculture-achievement inventory with continuation marker in 3531."
-  - "English translation/source-check coverage is now 48 of 53 records, Letters 3484–3531 / PDF 024–349. The exact next batch is the final five records 3532–3536 / PDF 350–399."
+  - "Regular English batches 1 through 9, Letters 3487–3531 / PDF 046–349, passed source check with 0 Tamil changes."
+  - "The final regular five-record English batch 3532–3536 / PDF 350–399 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3532_3536.md is the durable batch record."
+  - "Batch 10 preserves the anomalous 37 crore 391 lakh agriculture allocation in 3532; all higher-education figures and printed English in 3533; the non-reconciled 200-school total and full school-education inventory in 3534; the school/public-library inventory and O level wording in 3535; and the non-reconciling local-body representative total, Invertors, 2007-09, opaque வருவாய்க்குமுள்ள passage, housing and village-development figures in 3536."
+  - "English translation/source-check coverage is complete: 53 of 53 records, Letters 3484–3536 / PDF 024–399. The exact next gate is bilingual alignment, beginning with Letters 3484–3488 / PDF 024–066."
   - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
   - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."

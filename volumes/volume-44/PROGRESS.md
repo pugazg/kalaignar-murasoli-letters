@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check coverage is now 48 / 53 records through Letter 3531.**
+**All required Tamil archival gates are complete. English translation/source-check is now complete for all 53 records; bilingual alignment is the next separate gate.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -14,39 +14,31 @@
 - Second full-volume visual/textual-fidelity verification: **PASS — 400 / 400**
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English pilot source review / convention lock: **PASS — 3484–3486**
-- Regular English batch 1: **PASS — 3487–3491 / PDF 046–087**
-- Regular English batch 2: **PASS — 3492–3496 / PDF 088–117**
-- Regular English batch 3: **PASS — 3497–3501 / PDF 118–153**
-- Regular English batch 4: **PASS — 3502–3506 / PDF 154–175**
-- Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
-- Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
-- Regular English batch 7: **PASS — 3517–3521 / PDF 246–277**
-- Regular English batch 8: **PASS — 3522–3526 / PDF 278–311**
-- Regular English batch 9: **PASS — 3527–3531 / PDF 312–349**
-- English drafted/source-checked: **48 / 53 — 3484–3531 / PDF 024–349**
+- Regular English batches 1–10: **PASS — 3487–3536 / PDF 046–399**
+- English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Tamil changes during regular English batches: **0**
-- Translation conventions: **LOCKED; glossary reviewed through batch 9**
-- Final bilingual alignment: **not started**
+- Translation conventions: **LOCKED; glossary reviewed through final batch 10**
+- Final bilingual alignment: **not started — exact next 3484–3488**
 - English editorial review: **not started**
 - English final release: **not started**
 
-## Completed activity — ninth regular English batch
+## Completed activity — tenth and final regular English batch
 
-The next five source records were translated from and source-checked against their complete audited canonical Tamil:
+The final five source records were translated from and source-checked against their complete audited canonical Tamil:
 
-1. **3527 — நஞ்சைக் கக்கிடுவோர்; நெஞ்சைத் தொட்டுச் சொல்வாரா? (2)** — PDF 312–317 — PASS;
-2. **3528 — அரசியல் ஆக்க விரும்புவோர்க்கு விளக்கம்!** — PDF 318–325 — PASS;
-3. **3529 — அரசு அலுவலர்களும் அம்மையார் ஜெயலலிதாவும்!** — PDF 326–331 — PASS;
-4. **3530 — ஆணையத்தின் ஆணை பிறந்து விட்டது!** — PDF 332–337 — PASS;
-5. **3531 — விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது!** — PDF 338–349 — PASS.
+1. **3532 — விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது!** — PDF 350–359 — PASS;
+2. **3533 — கமழும் கல்வி நீரோடை!** — PDF 360–369 — PASS;
+3. **3534 — கமழும் கல்வி நீரோடை - 2** — PDF 370–380 — PASS;
+4. **3535 — கமழும் கல்வி நீரோடை - 3** — PDF 381–390 — PASS;
+5. **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF 391–399 — PASS.
 
 Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers.
 
-Batch 9 preserves the media-advertising, 108-service, ration-card and women’s-commando explanations in 3527; all competing spectrum-loss figures, source English, welfare comparisons, PAC/JPC and telecommunications-policy arguments in 3528; government-employee/road-worker negotiations, pay figures and ESMA/TESMA material in 3529; Election Commission timing, Legislative Council questions, alliance/candidate instructions and campaign imagery in 3530; and the complete agriculture-achievement inventory in 3531, including all loan, beneficiary, price, subsidy, acreage, production, seed/fertiliser and Rajarajan 1000 figures.
+Batch 10 preserves the complete agriculture continuation in 3532, including the printed **₹37 crore 391 lakh** allocation without arithmetic normalisation; the full higher-education admissions/fee/Tamil-medium inventory and printed English in 3533; the school-education teacher/infrastructure/inclusive-education inventory in 3534, including the printed **₹1 crore 16 lakh 24 thousand** total for 200 schools at ₹58 lakh 12 thousand each; the Uniform System of School Education and complete public-library/Anna Centenary Library inventory in 3535; and the full local-body/devolution/housing/village-development account in 3536, including the non-reconciling **1,07,716** representative total, `(Invertors)`, `2007-09`, the opaque `வருவாய்க்குமுள்ள` wording and the printed continuation marker.
 
-PDF 349 prints `(தொடர்ச்சி - நாளை)` and then the normal closing `அன்புள்ள, / மு.க. / 4-03-2011`; the English therefore preserves **(To be continued tomorrow)** while Letter 3531 remains a complete source record.
+PDF 399 prints `(தொடர்ச்சி நாளை)` and then the normal closing `அன்புள்ள, / மு.க. / 11-3-2011`; the English therefore preserves **(To be continued tomorrow)** while Letter 3536 remains a complete source record. PDF 400 is non-letter back-cover / portrait / publisher material and is not translated as a letter.
 
-No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. New recurring/source-supported glossary treatments are **Public Accounts Committee (PAC)**, **Joint Parliamentary Committee (JPC)**, **Uzhavar Sandhai (Farmers’ Market)** and **Rajarajan 1000**.
+No audited Tamil reading required alteration, so **0 canonical Tamil files changed** in the final batch and **0 canonical Tamil changes** were required across all regular English batches.
 
 Durable English QA records now include:
 
@@ -60,6 +52,7 @@ Durable English QA records now include:
 - [`translations/en/BATCH_SOURCE_CHECK_3517_3521.md`](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3522_3526.md`](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3527_3531.md`](translations/en/BATCH_SOURCE_CHECK_3527_3531.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3532_3536.md`](translations/en/BATCH_SOURCE_CHECK_3532_3536.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
@@ -71,12 +64,12 @@ Source-check PASS does **not** imply final bilingual alignment, editorial review
 - Tamil first-pass transcription / batch audits: **PASS**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
-- English source-checked: **48 / 53 — 3484–3531**
-- Regular English batches 1–9: **PASS**
-- Final bilingual alignment: **not started**
+- English source-checked: **53 / 53 — 3484–3536**
+- Main translation drafting/source-check: **COMPLETE**
+- Final bilingual alignment: **0 / 53 — not started**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Translate and source-check the final regular five-record batch: **Letters 3532–3536 / PDF 350–399**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3536. Do **not** begin final bilingual alignment, editorial review or release verification in the same activity.
+Begin **bilingual meaning-level alignment** with **Letters 3484–3488 / PDF 024–066** as the first five-record alignment batch. Follow the proven Volume 45 alignment method: compare each complete English record against its complete audited Tamil source, check complete coverage/order/figures/names/dates/quotations/rhetoric/anomalies, apply only English alignment corrections that are required, and do not alter canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Add `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`, update the five records/manifest/control files, and stop after 3488. Do not begin 3489, editorial consistency review or release verification in the same activity.

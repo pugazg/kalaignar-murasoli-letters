@@ -26,18 +26,11 @@ Current durable state:
 - Second full-volume visual/textual-fidelity verification: **PASS — 400 / 400**
 - Fidelity corrections: **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English pilot source review / convention lock: **PASS — 3484–3486**
-- Regular English batch 1: **PASS — 3487–3491 / PDF 046–087**
-- Regular English batch 2: **PASS — 3492–3496 / PDF 088–117**
-- Regular English batch 3: **PASS — 3497–3501 / PDF 118–153**
-- Regular English batch 4: **PASS — 3502–3506 / PDF 154–175**
-- Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
-- Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
-- Regular English batch 7: **PASS — 3517–3521 / PDF 246–277**
-- Regular English batch 8: **PASS — 3522–3526 / PDF 278–311**
-- English source-checked: **43 / 53 — 3484–3526 / PDF 024–311**
+- Regular English batches 1–10: **PASS — 3487–3536 / PDF 046–399**
+- English source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Tamil changes during regular English batches: **0**
 - Volume 44 translation conventions: **LOCKED**
-- Final bilingual alignment: **not started**
+- Final bilingual alignment: **not started — next 3484–3488**
 - English editorial review: **not started**
 - English release: **not started**
 
@@ -59,31 +52,30 @@ Durable English QA records:
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3512_3516.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3517_3521.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3522_3526.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3527_3531.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3532_3536.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All forty-three English records through 3526 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
+All fifty-three English records 3484–3536 contain the complete audited Tamil appendix and are source-checked. Source-check PASS does **not** imply final bilingual alignment, editorial review or release readiness.
 
-Regular batch 8 retained the full employment/recruitment and assistance figures in 3522, including the **45,987 / 47,200** teacher-count discrepancy; source-attributed court/editorial/arrest/dismissal material in 3523; exact Public Department English, Article 213 argument and the audited **“this 2005 election”** wording in 3524; Panagal Raja / Justice Party autobiographical history and source-era Periyar language in 3525; and all seven *India Today* allegations plus district-official explanations in 3526. The Theni explanation explicitly records Giri/Pandi encroachments, an assignee sale and recovery action; the English preserves those findings rather than converting the whole passage into a blanket denial. No canonical Tamil changed. Glossary additions are **recruitment-ban order** and **law prohibiting forcible religious conversion / Prohibition of Forcible Conversion of Religion Act**.
-
-Final Tamil source boundaries remain 3535 PDF 381–390, 3536 PDF 391–399, and PDF 400 non-letter material. Letter 3536 preserves `(தொடர்ச்சி நாளை)` before the normal closing; no Letter 3537 exists.
+Final regular batch 10 **3532–3536 / PDF 350–399** passed source check with **0 Tamil changes**. The final batch deliberately preserves the scan-controlled source anomalies rather than repairing them from arithmetic or outside knowledge: the 3532 amount `37 கோடியே 391 இலட்சம் ரூபாய்`; the 3534 printed `₹1 crore 16 lakh 24 thousand` total for 200 schools at ₹58 lakh 12 thousand each; and in 3536 the component representative counts plus printed **1,07,716** total, `(Invertors)`, `2007-09`, the internally opaque `வருவாய்க்குமுள்ள` passage, and `(தொடர்ச்சி நாளை)` followed by the normal closing. PDF 400 is non-letter material and no Letter 3537 is invented.
 
 ### Exact next activity
 
-Translate and source-check the next regular five-record English batch **Letters 3527–3531**.
+Begin **Phase 3 — bilingual meaning-level alignment** with **Letters 3484–3488 / PDF 024–066** as one five-record batch.
 
-- Use the complete audited canonical Tamil for every source record.
-- Apply the locked Volume 44 conventions in `translations/en/PILOT_REVIEW_3484_3486.md` and `translations/en/GLOSSARY.md`.
-- Read all completed regular-batch reports before drafting the next batch.
-- Preserve source thought/argument order, accusation, irony, repetition, rhetorical questions, figures, names, dates, quotations, source English, continuation/conclusion markers and source anomalies.
-- Keep historical/legal/political claims source-framed unless the source itself supports more; do not use outside knowledge to silently reconcile them.
-- Include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` in every bilingual record.
-- Source-check each completed English record against its full Tamil source before marking the batch complete.
-- If a Tamil reading becomes doubtful, consult the controlling scan and record only scan-proven Tamil corrections; do not use OCR, contents wording or outside knowledge to silently repair it.
-- Update the manifest/progress/index/control files and add glossary entries only for genuinely new recurring terminology.
-- Stop after **3531**. **Do not start Letter 3532 in the same activity.**
-- Keep final bilingual alignment, editorial review and release verification as later separate QA gates.
+- Use each complete audited canonical Tamil source as the immediate alignment authority.
+- Follow the method established in Volume 45 bilingual-alignment reviews.
+- Check title, salutation, closing/date, continuation markers, paragraph/argument sequence, complete substantive coverage, names, institutions, dates, figures, percentages, monetary amounts, units, lists, quotations, rhetoric, repetition, source English and documented source anomalies.
+- Apply only English corrections required by meaning-level comparison.
+- Do not alter canonical Tamil unless alignment exposes a suspected Tamil defect and the controlling scan proves a correction.
+- Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`.
+- Mark those five records and corresponding manifest rows `bilingual_alignment_status: aligned` while retaining `translation_status: source-checked`.
+- Update English/Volume/root progress and handover controls.
+- Stop after **3488**. **Do not begin 3489 in the same activity.**
+- Keep volume-level English editorial consistency review and final release verification as later separate gates.
 
 ## Volume 45 — COMPLETE
 

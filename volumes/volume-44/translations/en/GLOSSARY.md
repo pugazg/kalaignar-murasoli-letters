@@ -1,8 +1,8 @@
 # Volume 44 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through regular batch 9, Letters 3527–3531.
+**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through final regular batch 10, Letters 3532–3536.
 
-The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 batches but may not override a different meaning supported by a later source passage.
+The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 QA but may not override a different meaning supported by a source passage.
 
 | Source / category | Locked English treatment | Notes |
 |---|---|---|
@@ -53,6 +53,10 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `சகோதரயுத்தம்` | **fratricidal war** | Preserve the source’s repeated moral framing of intra-Tamil armed conflict in Letter 3506. |
 | `உழவர் சந்தை` | **Uzhavar Sandhai (Farmers’ Market)** | Preserve the Tamil scheme identity; English gloss may accompany first use. |
 | `இராஜராஜன் 1000` | **Rajarajan 1000** | Preserve the named paddy-technology/scheme identity and its source figures. |
+| `ஐந்திணை மரபணுப் பூங்கா` | **Ainthinai Genetic Gardens** | Preserve the five landscape identities and the printed `(Genetic Gardens)` wording in Letter 3532. |
+| `சமச்சீர் கல்வி` / `சமச்சீர் பள்ளிக்கல்வி` | **Uniform System of School Education** | Preserve the source's statutory/institutional phrasing; do not substitute later political shorthand unless the source uses it. |
+| `அண்ணா நூற்றாண்டு நூலகம்` | **Anna Centenary Library** | Preserve the named institution and its source specifications/costs. |
+| `அனைத்துக் கிராம அண்ணா மறுமலர்ச்சித் திட்டம்` | **All-Village Anna Renaissance Scheme** | Preserve scheme identity and source figures without outside reconciliation. |
 | `(தொடரும்)` | **(To be continued)** | Keep as an explicit continuation marker. |
 | `(தொடர்ச்சி நாளை)` / `(தொடர்ச்சி - நாளை)` | **(To be continued tomorrow)** | Keep the “tomorrow” distinction and tolerate the source hyphenated variant without normalising Tamil. |
 | `(முற்றும்)` | **(Concluded)** | Distinguish the end of a serial sequence from a continuation marker. |
@@ -78,7 +82,11 @@ Printed English that functions as source wording is preserved rather than silent
 - the Letter 3520 Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`;
 - the Letter 3523 headings `Lawless in TamilNadu` and `Time ripe for Regime Change`;
 - the Letter 3524 Public Department passages beginning `This file relates to introducing a Bill in the ensuing Session...` and `As per the Provisions of Clause 2 of Article 213 of the Constitution...`;
-- Letter 3528’s `(Social Benefit)`, `(It can be debated)`, `(Revenue per User)` and the Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`.
+- Letter 3528’s `(Social Benefit)`, `(It can be debated)`, `(Revenue per User)` and the Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`;
+- Letter 3532’s `(Genetic Gardens)`;
+- Letter 3533’s `(Internet with broadband facilities)`, `(Lateral Entry)` and `(Shift System)`;
+- Letter 3535’s `“O” level`;
+- Letter 3536’s `(Invertors)`.
 
 ## Political and rhetorical language
 
@@ -90,4 +98,4 @@ Printed English that functions as source wording is preserved rather than silent
 - When the source itself marks a period-specific official, political or community naming choice, preserve that naming choice rather than silently substituting a modern preferred label.
 - When an audited Tamil passage is internally opaque, surface the uncertainty and avoid inventing a repair from outside knowledge.
 
-These conventions were locked in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md). Later entries are added only when a regular batch introduces a genuinely recurring term or a source-supported distinction not already covered.
+These conventions were locked in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md). Later entries were added only when a regular batch introduced a genuinely recurring term or a source-supported distinction not already covered. Main translation/source-check drafting is now complete; this glossary remains the alignment/editing reference for later Volume 44 QA gates.

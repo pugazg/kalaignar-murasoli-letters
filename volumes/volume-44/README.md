@@ -27,16 +27,9 @@
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
 | English pilot review / convention lock | **PASS — 3484–3486** |
-| Regular English batch 1 | **PASS — 3487–3491** |
-| Regular English batch 2 | **PASS — 3492–3496** |
-| Regular English batch 3 | **PASS — 3497–3501** |
-| Regular English batch 4 | **PASS — 3502–3506** |
-| Regular English batch 5 | **PASS — 3507–3511** |
-| Regular English batch 6 | **PASS — 3512–3516** |
-| Regular English batch 7 | **PASS — 3517–3521** |
-| Regular English batch 8 | **PASS — 3522–3526** |
-| English source-checked | **43 / 53 — 3484–3526 / PDF 024–311** |
-| Final bilingual alignment | not started |
+| Regular English batches 1–10 | **PASS — 3487–3536** |
+| English source-checked | **53 / 53 — 3484–3536 / PDF 024–399** |
+| Final bilingual alignment | **not started — next 3484–3488** |
 | English editorial review | not started |
 | English release | not started |
 
@@ -52,13 +45,13 @@ Final source boundaries remain:
 - **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF **391–399** / printed **390–398** — `11-3-2011`.
 - **PDF 400** — canonical non-letter back-cover / portrait / publisher-contact-price material; no Letter 3537.
 
-PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` followed by the normal closing.
+PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this Volume 44 source.
 
 ## English translation
 
-The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–8 — **3487–3526 / PDF 046–311** — have also been translated and source-checked. Total English source-check coverage is therefore **43 / 53 records — 3484–3526**.
+The pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. All ten regular batches **3487–3536 / PDF 046–399** have now been translated and source-checked. Total English source-check coverage is **53 / 53 records — 3484–3536**.
 
-All eight regular batches required **0 Tamil changes**. Batch 8 preserves employment and recruitment figures in 3522, including the **45,987 / 47,200** source discrepancy; source-attributed “clean government” political/judicial material in 3523; exact Public Department English and the audited **“this 2005 election”** wording in 3524; Panagal Raja / Justice Party history and the source-era Periyar quotation in 3525; and all seven *India Today* allegation/official-response pairs in 3526, including the Theni collector explanation’s recorded encroachments and recovery action. New glossary treatments cover the recruitment-ban order and the law prohibiting forcible religious conversion. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+All regular batches required **0 Tamil changes**. The final batch preserves the complete agriculture, higher-education, school-education, public-library and rural-development inventories without outside reconciliation. It explicitly retains source anomalies including **₹37 crore 391 lakh** in 3532, the printed **₹1 crore 16 lakh 24 thousand** total for the 3534 school-upgrade item, the non-reconciling **1,07,716** representative total in 3536, `(Invertors)`, `2007-09`, and the opaque `வருவாய்க்குமுள்ள` passage. Every bilingual record includes the complete audited Tamil appendix.
 
 Durable English records:
 
@@ -72,9 +65,13 @@ Durable English records:
 - [Batch 3512–3516 source check](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [Batch 3517–3521 source check](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
 - [Batch 3522–3526 source check](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
+- [Batch 3527–3531 source check](translations/en/BATCH_SOURCE_CHECK_3527_3531.md)
+- [Batch 3532–3536 source check](translations/en/BATCH_SOURCE_CHECK_3532_3536.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
+Source-check completion does not collapse later QA gates. Final bilingual alignment, volume-level English editorial consistency and final release verification remain separate.
+
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch **3527–3531** under the locked Volume 44 conventions. Stop after 3531; do not begin Letter 3532 in the same activity.
+Begin bilingual meaning-level alignment with **Letters 3484–3488 / PDF 024–066** as the first five-record alignment batch. Follow the proven Volume 45 method: compare each complete English record against its complete audited Tamil source, apply only English corrections required for alignment, re-check the controlling scan before any possible Tamil change, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`, update status/control files, and stop after 3488. Do not begin 3489, editorial review or release verification in the same activity.

@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **43 / 53 source-checked — 3484–3526 / PDF 024–311; next 3527–3531** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 source-checked — 3484–3536 / PDF 024–399; next bilingual alignment 3484–3488** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -36,9 +36,11 @@ Volume 44 has canonical Tamil for **PDF 001–400 / 400** and all **53 source re
 
 The fidelity pass restored page-scale omissions/truncations on **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065**. The repairs changed source bodies only; record boundaries, titles and dates remain unchanged.
 
-English source-check coverage is now **43 / 53 records — Letters 3484–3526 / PDF 024–311**. The pilot **3484–3486** passed its separate source-review/convention-lock checkpoint; regular batches **3487–3491**, **3492–3496**, **3497–3501**, **3502–3506**, **3507–3511**, **3512–3516**, **3517–3521** and **3522–3526** all passed source check with **0 Tamil changes**. Batch 8 preserves source numerical discrepancies, source-attributed political/judicial/legal material, exact printed English, period-specific historical wording and the complete allegation/official-response structure of Letter 3526 without outside reconciliation. Final bilingual alignment remains a later separate QA gate.
+English drafting/source-check is now **complete: 53 / 53 records — Letters 3484–3536 / PDF 024–399**. The pilot **3484–3486** passed its separate source-review/convention-lock checkpoint, and all ten regular batches **3487–3536** passed source check with **0 Tamil changes**.
 
-The exact next activity is the next regular five-record English batch **3527–3531**. Each record must be drafted and source-checked against its complete audited canonical Tamil. Do not begin 3532 in the same activity.
+The final batch **3532–3536 / PDF 350–399** preserves the full agriculture, higher-education, school-education, public-library and rural-development inventories and their source anomalies without outside reconciliation. These include the printed **₹37 crore 391 lakh** amount in 3532, the non-reconciled **₹1 crore 16 lakh 24 thousand** total in 3534, and in 3536 the non-reconciling **1,07,716** representative total, `(Invertors)`, `2007-09`, the opaque `வருவாய்க்குமுள்ள` wording and `(தொடர்ச்சி நாளை)` before the normal closing. PDF 400 remains non-letter material.
+
+Main translation drafting/source-check is therefore complete. **Final bilingual alignment has not started.** The exact next activity is the first five-record bilingual meaning-level alignment batch **3484–3488 / PDF 024–066**, following the proven Volume 45 alignment method. Stop after 3488; do not begin 3489 or the later editorial/release gates in the same activity.
 
 ## Volume 45 — released
 

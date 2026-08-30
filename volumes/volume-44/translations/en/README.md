@@ -4,30 +4,22 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 48 / 53 records, Letters 3484–3531.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. MAIN DRAFTING/SOURCE-CHECK PHASE COMPLETE.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - Volume 44 translation conventions: **LOCKED** — [`GLOSSARY.md`](GLOSSARY.md)
-- Regular batch 1: **3487–3491 — 5 / 5 translated and source-checked**
-- Regular batch 2: **3492–3496 — 5 / 5 translated and source-checked**
-- Regular batch 3: **3497–3501 — 5 / 5 translated and source-checked**
-- Regular batch 4: **3502–3506 — 5 / 5 translated and source-checked**
-- Regular batch 5: **3507–3511 — 5 / 5 translated and source-checked**
-- Regular batch 6: **3512–3516 — 5 / 5 translated and source-checked**
-- Regular batch 7: **3517–3521 — 5 / 5 translated and source-checked**
-- Regular batch 8: **3522–3526 — 5 / 5 translated and source-checked**
-- Regular batch 9: **3527–3531 — 5 / 5 translated and source-checked**
-- Batch 9 report: [`BATCH_SOURCE_CHECK_3527_3531.md`](BATCH_SOURCE_CHECK_3527_3531.md)
-- Total translated/source-checked: **48 / 53 — PDF 024–349**
+- Regular batches 1–10: **PASS — 3487–3536 / 50 of 50 translated and source-checked**
+- Final batch 10: **3532–3536 — 5 / 5 PASS** — [`BATCH_SOURCE_CHECK_3532_3536.md`](BATCH_SOURCE_CHECK_3532_3536.md)
+- Total translated/source-checked: **53 / 53 — PDF 024–399**
 - Canonical Tamil changes during regular batches: **0**
-- Final bilingual alignment: **not started**
+- Final bilingual alignment: **not started — exact next batch 3484–3488**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
 - Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
-The audited canonical Tamil is the immediate translation source; the controlling scan remains the ultimate Tamil authority. Source-check status does **not** mean final bilingual alignment or release approval.
+The audited canonical Tamil is the immediate translation/alignment source; the controlling scan remains the ultimate Tamil authority. Source-check status does **not** mean final bilingual alignment or release approval.
 
 ## English letter index
 
@@ -81,6 +73,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3529](letters/3529-government-employees-and-madam-jayalalithaa.md) | Government Employees and Madam Jayalalithaa! | 27 February 2011 | 326–331 | source-checked |
 | [3530](letters/3530-the-commissions-order-has-been-issued.md) | The Commission's Order Has Been Issued! | 3 March 2011 | 332–337 | source-checked |
 | [3531](letters/3531-the-harvest-was-abundant-the-farmers-tears-disappeared.md) | The Harvest Was Abundant; the Farmer's Tears Disappeared! | 4 March 2011 | 338–349 | source-checked |
+| [3532](letters/3532-the-harvest-was-abundant-the-farmers-tears-disappeared.md) | The Harvest Was Abundant; the Farmer's Tears Disappeared! | 5 March 2011 | 350–359 | source-checked |
+| [3533](letters/3533-a-fragrant-stream-of-education.md) | A Fragrant Stream of Education! | 6 March 2011 | 360–369 | source-checked |
+| [3534](letters/3534-a-fragrant-stream-of-education-2.md) | A Fragrant Stream of Education - 2 | 9 March 2011 | 370–380 | source-checked |
+| [3535](letters/3535-a-fragrant-stream-of-education-3.md) | A Fragrant Stream of Education - 3 | 10 March 2011 | 381–390 | source-checked |
+| [3536](letters/3536-five-year-achievements-of-the-rural-development-and-panchayat-raj-department-1.md) | Five-Year Achievements of the Rural Development and Panchayat Raj Department! (1) | 11 March 2011 | 391–399 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -94,7 +91,7 @@ Every bilingual record reproduces the complete audited Tamil under `## Original 
 - use source-supported party/government, reservation, employment and period-specific terminology consistently;
 - preserve genuinely printed source English and source anomalies;
 - surface internally opaque audited wording rather than silently repairing it;
-- keep historical, legal and political claims source-framed where the letter itself is the only authority;
+- keep historical, legal and political claims source-framed where the letter itself is the authority;
 - keep figures, dates, lists, statutory references and quotations in source order; and
 - reproduce the complete audited Tamil in every bilingual record.
 
@@ -113,9 +110,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
 - [`BATCH_SOURCE_CHECK_3522_3526.md`](BATCH_SOURCE_CHECK_3522_3526.md)
 - [`BATCH_SOURCE_CHECK_3527_3531.md`](BATCH_SOURCE_CHECK_3527_3531.md)
+- [`BATCH_SOURCE_CHECK_3532_3536.md`](BATCH_SOURCE_CHECK_3532_3536.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the final normal five-record batch: **Letters 3532–3536 / PDF 350–399**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3536**. Do **not** begin final bilingual alignment, editorial review or release verification in the same activity.
+Begin bilingual meaning-level alignment with **Letters 3484–3488 / PDF 024–066** as the first five-record alignment batch. Follow the alignment method proven in Volume 45: compare each complete English record against its complete audited Tamil source, correct only English alignment defects, keep Tamil canonical text unchanged unless a scan re-check proves a defect, add `BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`, update status/control files, and stop after 3488. Do not begin 3489, editorial review or final release verification in the same activity.
