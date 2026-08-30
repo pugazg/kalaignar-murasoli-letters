@@ -23,8 +23,6 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 | 14 | Full-volume Tamil structural audit — PDF 001–400 / records 3484–3536 | PASS |
 | 15 | Second full-volume visual/textual-fidelity verification — PDF 001–400 | **PASS** |
 
----
-
 ## Gate 13 — final source-completion iteration — PASS
 
 - Canonical source coverage: **400 / 400**.
@@ -33,15 +31,11 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 - PDF 400: non-letter back-cover / portrait / publisher material.
 - No partial/source-incomplete record remains; no Letter 3537 exists.
 
----
-
 ## Gate 14 — full-volume Tamil structural audit — PASS
 
 **Detailed record:** [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md)
 
-The structural gate reconciled exactly 400 physical-page records, exactly 53 source/chapter records 3484–3536, continuous letter-bearing coverage PDF 024–399, correct non-letter handling and control-file/link hygiene. It did not claim character-level fidelity.
-
----
+The structural gate reconciled exactly 400 physical-page records, exactly 53 source/chapter records 3484–3536, continuous letter-bearing coverage PDF 024–399, correct non-letter handling and control-file/link hygiene.
 
 ## Gate 15 — second full-volume visual/textual-fidelity verification — PASS
 
@@ -50,14 +44,9 @@ The structural gate reconciled exactly 400 physical-page records, exactly 53 sou
 
 - Directly reviewed: **PDF 001–400 / 400**.
 - Corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**.
-- Defect class: **page-scale omission/truncation / summary substitution** in first-pass canonical bodies.
 - Letter boundaries changed: **0**.
 - Titles/dates/chapter ranges changed: **0**.
 - Final source inventory: **53 / 53 complete — 3484–3536**.
-
-The corrected pages were rebuilt from the controlling scan. The pass preserves source-specific wording, punctuation, spacing, figures, quotations, English material and physical-page boundaries. OCR was only a drafting/discrepancy aid.
-
-### Gate result
 
 **PASS.** The required Tamil source gates for Volume 44 are complete.
 
@@ -65,53 +54,37 @@ The corrected pages were rebuilt from the controlling scan. The pass preserves s
 
 ### Pilot review — PASS
 
-The English pilot **3484–3486 / PDF 024–045** completed its separate source-review/convention-lock checkpoint.
-
-- source-checked: **3 / 3**;
-- English corrections during pilot review: **5 spans across 3484–3485**;
-- Tamil changes: **0**;
-- conventions: **LOCKED**.
+The English pilot **3484–3486 / PDF 024–045** completed its separate source-review/convention-lock checkpoint: **3 / 3 source-checked**, five English-only corrections, **0 Tamil changes**, conventions **LOCKED**.
 
 Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md).
 
-### Regular batch 1 — PASS
+### Regular batches 1–3 — PASS
 
-The first regular five-record English batch **3487–3491 / PDF 046–087** was translated and source-checked.
+- batch 1 **3487–3491 / PDF 046–087** — 5 / 5 PASS;
+- batch 2 **3492–3496 / PDF 088–117** — 5 / 5 PASS;
+- batch 3 **3497–3501 / PDF 118–153** — 5 / 5 PASS;
+- cumulative after batch 3: **18 / 53 — 3484–3501**;
+- canonical Tamil changes: **0**.
 
-- batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage after batch: **8 / 53 — 3484–3491**;
-- canonical Tamil changes during batch: **0**.
+Detailed records are preserved in the corresponding `translations/en/BATCH_SOURCE_CHECK_*.md` files.
 
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3487_3491.md`](translations/en/BATCH_SOURCE_CHECK_3487_3491.md).
+### Regular batch 4 — PASS
 
-### Regular batch 2 — PASS
-
-The second regular five-record English batch **3492–3496 / PDF 088–117** was translated and source-checked.
-
-- batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage after batch: **13 / 53 — 3484–3496 / PDF 024–117**;
-- canonical Tamil changes during batch: **0**;
-- source boundary/title/date changes: **0**;
-- the scan-audited source form `எடுகொளாவது` in 3493 and other source-specific anomalies were handled conservatively in English without altering canonical Tamil.
-
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3492_3496.md`](translations/en/BATCH_SOURCE_CHECK_3492_3496.md).
-
-### Regular batch 3 — PASS
-
-The third regular five-record English batch **3497–3501 / PDF 118–153** has been translated and source-checked.
+The fourth regular five-record English batch **3502–3506 / PDF 154–175** has been translated and source-checked.
 
 - batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage: **18 / 53 — 3484–3501 / PDF 024–153**;
+- cumulative English source-check coverage: **23 / 53 — 3484–3506 / PDF 024–175**;
 - canonical Tamil changes during this batch: **0**;
+- new scan-level Tamil corrections: **0**;
 - source boundary/title/date changes: **0**;
-- the internally opaque audited phrase on PDF 125 in Letter 3498 was explicitly surfaced in the English instead of being silently repaired from outside knowledge;
-- source-era `அரவாணிகள்` terminology in Letter 3500 is retained as **Aravanis** and recorded in the glossary;
+- source-framed historical, legal and political assertions were not reconciled from outside material;
+- `சகோதரயுத்தம்` is locked as **fratricidal war** for the repeated source usage in Letter 3506;
 - final bilingual alignment: **not started; later separate QA gate**.
 
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3497_3501.md`](translations/en/BATCH_SOURCE_CHECK_3497_3501.md).
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3502_3506.md`](translations/en/BATCH_SOURCE_CHECK_3502_3506.md).
 
 English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record English batch **3502–3506**, then stop. Do not begin Letter 3507 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.
+Translate and source-check the next regular five-record English batch **3507–3511**, then stop. Do not begin Letter 3512 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.

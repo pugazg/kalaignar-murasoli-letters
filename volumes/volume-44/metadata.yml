@@ -34,10 +34,10 @@ second_visual_correction_pages: 13
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "regular-batches-in-progress"
-translated_letter_range: "3484-3501"
-translated_letter_count: 18
-source_checked_letter_range: "3484-3501"
-source_checked_letter_count: 18
+translated_letter_range: "3484-3506"
+translated_letter_count: 23
+source_checked_letter_range: "3484-3506"
+source_checked_letter_count: 23
 translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
 pilot_review_status: "pass"
 pilot_review_report: "translations/en/PILOT_REVIEW_3484_3486.md"
@@ -55,6 +55,10 @@ regular_batch_3_status: "pass"
 regular_batch_3_letter_range: "3497-3501"
 regular_batch_3_pdf_range: "118-153"
 regular_batch_3_report: "translations/en/BATCH_SOURCE_CHECK_3497_3501.md"
+regular_batch_4_status: "pass"
+regular_batch_4_letter_range: "3502-3506"
+regular_batch_4_pdf_range: "154-175"
+regular_batch_4_report: "translations/en/BATCH_SOURCE_CHECK_3502_3506.md"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -72,11 +76,12 @@ source_observations:
   - "The three-record English pilot for Letters 3484–3486 / PDF 024–045 was drafted and source-checked against the complete audited canonical Tamil; each record includes the complete audited Tamil appendix."
   - "The pilot source-review/convention-lock gate passed on 2026-08-30 with 5 English-only alignment corrections across Letters 3484–3485, 0 Tamil changes, and no correction requirement in Letter 3486."
   - "Volume 44 translation conventions are locked in translations/en/PILOT_REVIEW_3484_3486.md and translations/en/GLOSSARY.md; final bilingual alignment remains a later separate QA gate."
-  - "The first regular five-record English batch 3487–3491 / PDF 046–087 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3487_3491.md is the durable batch record."
-  - "The second regular five-record English batch 3492–3496 / PDF 088–117 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3492_3496.md is the durable batch record."
-  - "The third regular five-record English batch 3497–3501 / PDF 118–153 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3497_3501.md is the durable batch record."
-  - "Letter 3498 contains an internally opaque audited phrase on PDF 125; English surfaces that uncertainty and does not silently repair the canonical Tamil from outside knowledge."
-  - "English translation/source-check coverage is now 18 of 53 records, Letters 3484–3501 / PDF 024–153. The exact next batch is 3502–3506; Letter 3507 has not been started."
+  - "The first regular five-record English batch 3487–3491 / PDF 046–087 passed source check on 2026-08-30 with 0 Tamil changes."
+  - "The second regular five-record English batch 3492–3496 / PDF 088–117 passed source check on 2026-08-30 with 0 Tamil changes."
+  - "The third regular five-record English batch 3497–3501 / PDF 118–153 passed source check on 2026-08-30 with 0 Tamil changes."
+  - "The fourth regular five-record English batch 3502–3506 / PDF 154–175 passed source check on 2026-08-30 with 0 Tamil changes; translations/en/BATCH_SOURCE_CHECK_3502_3506.md is the durable batch record."
+  - "Batch 4 preserves source-framed historical, legal and political material without outside reconciliation, including the Ayodhya passage in 3502, transport figures in 3503, the driver-education order in 3504, Madurai/CBI allegations in 3505 and the Sri Lankan Tamil chronology in 3506."
+  - "English translation/source-check coverage is now 23 of 53 records, Letters 3484–3506 / PDF 024–175. The exact next batch is 3507–3511; Letter 3512 has not been started."
   - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
   - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."

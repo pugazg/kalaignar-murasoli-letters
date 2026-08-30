@@ -1,6 +1,6 @@
 # Volume 44 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3484–3486; extended only with recurring/source-supported terms confirmed through regular batch 3, Letters 3497–3501.
+**Status:** pilot-locked after source review of Letters 3484–3486; extended only with recurring/source-supported terms confirmed through regular batch 4, Letters 3502–3506.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 batches but may not override a different meaning supported by a later source passage.
 
@@ -40,6 +40,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `மக்கள் நலப் பணியாளர்கள்` | **People’s Welfare Workers** | Employment-history context in Letter 3491. |
 | `எஸ்மா` | **ESMA** | Preserve source acronym in the government-employees context. |
 | `டெஸ்மா` | **TESMA** | Preserve source acronym in the Tamil Nadu emergency-law context. |
+| `சகோதரயுத்தம்` | **fratricidal war** | Preserve the source’s repeated moral framing of intra-Tamil armed conflict in Letter 3506. |
 | `(தொடரும்)` | **(To be continued)** | Keep as an explicit continuation marker. |
 | `(தொடர்ச்சி நாளை)` | **(To be continued tomorrow)** | Keep the “tomorrow” distinction where printed. |
 | `(முற்றும்)` | **(Concluded)** | Distinguish the end of a serial sequence from a continuation marker. |

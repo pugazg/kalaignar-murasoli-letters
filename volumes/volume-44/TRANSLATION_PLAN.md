@@ -1,13 +1,14 @@
 # Volume 44 — English Translation Plan
 
-**Status:** pilot source review complete and conventions locked; regular five-record batches in progress; 18 / 53 records source-checked through Letter 3501.
+**Status:** pilot source review complete and conventions locked; regular five-record batches in progress; 23 / 53 records source-checked through Letter 3506.
 
 All required Tamil gates passed before English work began. English work has now completed:
 
 - pilot **3484–3486 / PDF 024–045** — source-check PASS and conventions locked;
 - regular batch 1 **3487–3491 / PDF 046–087** — translated and source-checked, 5 / 5 PASS;
 - regular batch 2 **3492–3496 / PDF 088–117** — translated and source-checked, 5 / 5 PASS;
-- regular batch 3 **3497–3501 / PDF 118–153** — translated and source-checked, 5 / 5 PASS.
+- regular batch 3 **3497–3501 / PDF 118–153** — translated and source-checked, 5 / 5 PASS;
+- regular batch 4 **3502–3506 / PDF 154–175** — translated and source-checked, 5 / 5 PASS.
 
 Durable QA records:
 
@@ -15,10 +16,11 @@ Durable QA records:
 - [`translations/en/BATCH_SOURCE_CHECK_3487_3491.md`](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3492_3496.md`](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3497_3501.md`](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3502_3506.md`](translations/en/BATCH_SOURCE_CHECK_3502_3506.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
-The three regular batches required **0 Tamil changes**. Letter 3498 contains an internally opaque audited phrase; the English surfaces that uncertainty instead of repairing the Tamil by guess. Final bilingual alignment remains a later separate QA gate.
+The four regular batches required **0 Tamil changes**. Final bilingual alignment remains a later separate QA gate.
 
 ## Locked Volume 44 policy
 
@@ -29,6 +31,7 @@ The three regular batches required **0 Tamil changes**. Letter 3498 contains an 
 - Use source-supported party/government, reservation, legal, employment and period-specific social/community terminology consistently with the locked glossary.
 - Preserve genuinely printed source English verbatim where it functions as source wording.
 - Preserve source anomalies and source gaps rather than repairing them; explicitly surface internally opaque audited text when necessary.
+- Keep historical, legal and political claims source-framed and do not silently reconcile them from outside knowledge.
 - Keep figures, dates, lists, statutory references, quotations and continuation/conclusion markers in source order.
 - Every bilingual record must include the complete available audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
 - The audited canonical Tamil is the immediate translation source; OCR, contents wording and outside knowledge may not silently override it.
@@ -48,4 +51,4 @@ If a Tamil reading itself becomes doubtful during translation, consult the contr
 
 ## Exact next activity
 
-Translate and source-check **Letters 3502–3506** as the next regular five-record batch. Stop after 3506; do **not** begin Letter 3507 in the same activity.
+Translate and source-check **Letters 3507–3511** as the next regular five-record batch. Stop after 3511; do **not** begin Letter 3512 in the same activity.
