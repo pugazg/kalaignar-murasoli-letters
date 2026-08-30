@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check coverage is now 8 / 53 records through Letter 3491.**
+**All required Tamil archival gates are complete. English translation/source-check coverage is now 13 / 53 records through Letter 3496.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -14,29 +14,34 @@
 - Second full-volume visual/textual-fidelity verification: **PASS — 400 / 400**
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English pilot source review / convention lock: **PASS — 3484–3486**
-- First regular English batch: **PASS — 3487–3491 / PDF 046–087**
-- English drafted/source-checked: **8 / 53 — 3484–3491 / PDF 024–087**
-- Tamil changes during first regular English batch: **0**
-- Translation conventions: **LOCKED; glossary extended only for recurring terms**
+- Regular English batch 1: **PASS — 3487–3491 / PDF 046–087**
+- Regular English batch 2: **PASS — 3492–3496 / PDF 088–117**
+- English drafted/source-checked: **13 / 53 — 3484–3496 / PDF 024–117**
+- Tamil changes during regular English batches: **0**
+- Translation conventions: **LOCKED; glossary extended only for recurring/source-supported terms**
 - Final bilingual alignment: **not started**
+- English editorial review: **not started**
 - English final release: **not started**
 
-## Completed activity — first regular English batch
+## Completed activity — second regular English batch
 
-The first regular five-record batch was translated from and source-checked against the complete audited canonical Tamil:
+The next five source records were translated from and source-checked against their complete audited canonical Tamil:
 
-1. **3487 — தேன் துளிகள்; தேனருவியாகட்டும்! (2)** — PDF 046–057 — PASS;
-2. **3488 — இட ஒதுக்கீடும்; இரட்டை வேடமும்! (3)** — PDF 058–066 — PASS;
-3. **3489 — வாய்மையை எதிர்த்து வஞ்சகம் ஜெயிக்காது!** — PDF 067–074 — PASS;
-4. **3490 — இருப்பதையும் இழக்காமல் இட ஒதுக்கீடு அமைந்திட...!** — PDF 075–079 — PASS;
-5. **3491 — எதிரொலிக்கிற அந்தக் கூச்சல்!** — PDF 080–087 — PASS.
+1. **3492 — எல்லாம் காலத்தின் கோலம்தான்!** — PDF 088–093 — PASS;
+2. **3493 — முதலில் புரியாத எடுகொளாவது; இனி புரிந்து கொள்ளுமா?** — PDF 094–098 — PASS;
+3. **3494 — நியாயம் தானா? நீங்களே சொல்லுங்கள்!** — PDF 099–104 — PASS;
+4. **3495 — பதுங்கிக் கொள்ள இருக்கவே இருக்கிறது கொடநாடு!** — PDF 105–111 — PASS;
+5. **3496 — ஒத்துழைத்திட முன் வருவீர்!** — PDF 112–117 — PASS.
 
-Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers. The batch retained quotations, statistics, legal and reservation terminology, source English, political rhetoric and source anomalies in source order. No audited Tamil reading became doubtful, so **0 canonical Tamil files changed**.
+Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers. The batch retained printed English, caste-census and reservation terminology, the medical-entrance-examination chronology, employee-benefit lists, political rhetoric, quoted worker statements, disability-era terminology, figures and source anomalies in source order.
+
+No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. The scan-audited but opaque `எடுகொளாவது` form in Letter 3493 and other source-specific anomalies were handled conservatively in English rather than silently repaired.
 
 Durable English QA records now include:
 
 - [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3487_3491.md`](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3492_3496.md`](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
@@ -48,12 +53,13 @@ Source-check PASS does **not** imply final bilingual alignment, editorial review
 - Tamil first-pass transcription / batch audits: **PASS**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
-- English source-checked: **8 / 53 — 3484–3491**
+- English source-checked: **13 / 53 — 3484–3496**
 - Regular English batch 1: **PASS — 3487–3491**
+- Regular English batch 2: **PASS — 3492–3496**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record batch: **Letters 3492–3496**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3496. Do **not** begin 3497 in the same activity.
+Translate and source-check the next regular five-record batch: **Letters 3497–3501**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3501. Do **not** begin 3502 in the same activity.

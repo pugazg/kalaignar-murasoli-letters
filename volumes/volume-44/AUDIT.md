@@ -76,18 +76,29 @@ Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/P
 
 ### Regular batch 1 — PASS
 
-The first regular five-record English batch **3487–3491 / PDF 046–087** has been translated and source-checked.
+The first regular five-record English batch **3487–3491 / PDF 046–087** was translated and source-checked.
 
 - batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage: **8 / 53 — 3484–3491**;
-- canonical Tamil changes during this batch: **0**;
-- source boundary/title/date changes: **0**;
-- final bilingual alignment: **not started; later separate QA gate**.
+- cumulative English source-check coverage after batch: **8 / 53 — 3484–3491**;
+- canonical Tamil changes during batch: **0**.
 
 Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3487_3491.md`](translations/en/BATCH_SOURCE_CHECK_3487_3491.md).
+
+### Regular batch 2 — PASS
+
+The second regular five-record English batch **3492–3496 / PDF 088–117** has been translated and source-checked.
+
+- batch records: **5 / 5 PASS**;
+- cumulative English source-check coverage: **13 / 53 — 3484–3496 / PDF 024–117**;
+- canonical Tamil changes during this batch: **0**;
+- source boundary/title/date changes: **0**;
+- the scan-audited source form `எடுகொளாவது` in 3493 and other source-specific anomalies were handled conservatively in English without altering canonical Tamil;
+- final bilingual alignment: **not started; later separate QA gate**.
+
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3492_3496.md`](translations/en/BATCH_SOURCE_CHECK_3492_3496.md).
 
 English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record English batch **3492–3496**, then stop. Do not begin Letter 3497 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.
+Translate and source-check the next regular five-record English batch **3497–3501**, then stop. Do not begin Letter 3502 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.

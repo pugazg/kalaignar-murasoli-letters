@@ -28,7 +28,8 @@
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
 | English pilot review / convention lock | **PASS — 3484–3486** |
 | Regular English batch 1 | **PASS — 3487–3491** |
-| English source-checked | **8 / 53 — 3484–3491 / PDF 024–087** |
+| Regular English batch 2 | **PASS — 3492–3496** |
+| English source-checked | **13 / 53 — 3484–3496 / PDF 024–117** |
 | Final bilingual alignment | not started |
 | English editorial review | not started |
 | English release | not started |
@@ -49,18 +50,19 @@ PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` follo
 
 ## English translation
 
-The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. The first regular batch **3487–3491 / PDF 046–087** has now also been translated and source-checked. Total English source-check coverage is therefore **8 / 53 records — 3484–3491**.
+The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batch 1 **3487–3491 / PDF 046–087** and regular batch 2 **3492–3496 / PDF 088–117** have now also been translated and source-checked. Total English source-check coverage is therefore **13 / 53 records — 3484–3496**.
 
-The first regular batch required **0 Tamil changes**. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+Both regular batches required **0 Tamil changes**. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
 
 Durable English records:
 
 - [English index](translations/en/README.md)
 - [Pilot review](translations/en/PILOT_REVIEW_3484_3486.md)
 - [Batch 3487–3491 source check](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
+- [Batch 3492–3496 source check](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch **3492–3496** under the locked Volume 44 conventions. Stop after 3496; do not begin Letter 3497 in the same activity.
+Translate and source-check the next normal five-record batch **3497–3501** under the locked Volume 44 conventions. Stop after 3501; do not begin Letter 3502 in the same activity.

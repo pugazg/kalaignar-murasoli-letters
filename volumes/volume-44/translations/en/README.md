@@ -4,15 +4,16 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 8 / 53 records, Letters 3484–3491.**
+**SOURCE-CHECKED — 13 / 53 records, Letters 3484–3496.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - Volume 44 translation conventions: **LOCKED** — [`GLOSSARY.md`](GLOSSARY.md)
-- First regular five-record batch: **3487–3491 — 5 / 5 translated and source-checked**
-- Regular-batch report: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
-- Total translated/source-checked: **8 / 53 — PDF 024–087**
-- Canonical Tamil changes during English work: **0 in this regular batch**
+- Regular batch 1: **3487–3491 — 5 / 5 translated and source-checked**
+- Regular batch 2: **3492–3496 — 5 / 5 translated and source-checked**
+- Batch reports: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md), [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
+- Total translated/source-checked: **13 / 53 — PDF 024–117**
+- Canonical Tamil changes during regular batches: **0**
 - Final bilingual alignment: **not started**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
@@ -33,6 +34,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3489](letters/3489-deceit-will-not-prevail-against-truth.md) | Deceit Will Not Prevail Against Truth! | 26 July 2010 | 067–074 | source-checked |
 | [3490](letters/3490-let-reservation-be-secured-without-losing-what-we-have.md) | Let Reservation Be Secured Without Losing What We Have...! | 30 July 2010 | 075–079 | source-checked |
 | [3491](letters/3491-that-shout-that-echoes-back.md) | That Shout That Echoes Back! | 11 August 2010 | 080–087 | source-checked |
+| [3492](letters/3492-all-this-is-the-play-of-time.md) | All This Is the Play of Time! | 18 August 2010 | 088–093 | source-checked |
+| [3493](letters/3493-will-the-one-that-did-not-understand-at-first-understand-now.md) | Will the One That Did Not Understand at First Understand Now? | 20 August 2010 | 094–098 | source-checked |
+| [3494](letters/3494-is-it-fair-you-tell-me.md) | Is It Fair? You Tell Me! | 31 August 2010 | 099–104 | source-checked |
+| [3495](letters/3495-kodanadu-is-always-there-to-hide-away-in.md) | Kodanadu Is Always There to Hide Away In! | 2 September 2010 | 105–111 | source-checked |
+| [3496](letters/3496-come-forward-to-cooperate.md) | Come Forward to Cooperate! | 3 September 2010 | 112–117 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -43,7 +49,7 @@ Every bilingual record reproduces the complete audited Tamil under `## Original 
 - retain `Udanpirappē` for the characteristic salutation;
 - use `With affection, M.K.` for the standard closing;
 - retain `lakh` and `crore` as Indian public-language units;
-- use source-supported party/government and reservation terminology consistently;
+- use source-supported party/government, reservation, employment and disability-era terminology consistently;
 - preserve genuinely printed source English and source anomalies;
 - retain image-bearing political idioms where practical rather than neutralizing them;
 - keep figures, dates, lists, statutory references and quotations in source order; and
@@ -56,9 +62,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`PROGRESS.md`](PROGRESS.md)
 - [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
+- [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch: **Letters 3492–3496**. Apply the locked conventions and the current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3496**. Do **not** begin 3497 in the same activity.
+Translate and source-check the next normal five-record batch: **Letters 3497–3501**. Apply the locked conventions and the current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3501**. Do **not** begin 3502 in the same activity.

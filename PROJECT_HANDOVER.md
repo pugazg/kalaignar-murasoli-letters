@@ -26,9 +26,10 @@ Current durable state:
 - Second full-volume visual/textual-fidelity verification: **PASS — 400 / 400**
 - Fidelity corrections: **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English pilot source review / convention lock: **PASS — 3484–3486**
-- First regular English batch: **PASS — 3487–3491 / PDF 046–087**
-- English source-checked: **8 / 53 — 3484–3491 / PDF 024–087**
-- Tamil changes during first regular English batch: **0**
+- Regular English batch 1: **PASS — 3487–3491 / PDF 046–087**
+- Regular English batch 2: **PASS — 3492–3496 / PDF 088–117**
+- English source-checked: **13 / 53 — 3484–3496 / PDF 024–117**
+- Tamil changes during regular English batches: **0**
 - Volume 44 translation conventions: **LOCKED**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
@@ -45,26 +46,32 @@ Durable English QA records:
 
 - `volumes/volume-44/translations/en/PILOT_REVIEW_3484_3486.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3487_3491.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3492_3496.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-The pilot review made five English-only alignment corrections across 3484–3485 and required no Tamil change. The first regular batch translated and source-checked 3487–3491 against PDF 046–087 and likewise required **0 Tamil changes**. All eight English records through 3491 contain the complete audited Tamil appendix. They are source-checked but have **not** passed the later final bilingual-alignment/editorial/release gates.
+The pilot review made five English-only alignment corrections across 3484–3485 and required no Tamil change. Regular batch 1 translated/source-checked 3487–3491 against PDF 046–087; regular batch 2 translated/source-checked 3492–3496 against PDF 088–117. Both regular batches required **0 Tamil changes**. All thirteen English records through 3496 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
+
+Batch 2 preserved the full printed English caste-census material in 3492, handled the scan-audited `எடுகொளாவது` form in 3493 conservatively without changing Tamil, retained the complete Nutritious Meal/Anganwadi benefit and quoted-worker passages in 3494–3495, and preserved the source’s own `மாற்றுத் திறனாளிகள்` nomenclature in 3496.
 
 Final Tamil source boundaries remain 3535 PDF 381–390, 3536 PDF 391–399, and PDF 400 non-letter material. Letter 3536 preserves `(தொடர்ச்சி நாளை)` before the normal closing; no Letter 3537 exists.
 
 ### Exact next activity
 
-Translate and source-check the next regular five-record English batch **Letters 3492–3496**.
+Translate and source-check the next regular five-record English batch **Letters 3497–3501**.
 
 - Use the complete audited canonical Tamil for every source record.
 - Apply the locked Volume 44 conventions in `translations/en/PILOT_REVIEW_3484_3486.md` and `translations/en/GLOSSARY.md`.
-- Preserve source thought/argument order, accusation, irony, repetition, rhetorical questions, figures, names, dates, quotations, source English, continuation markers and source anomalies.
+- Read both completed regular-batch reports before drafting the next batch:
+  - `translations/en/BATCH_SOURCE_CHECK_3487_3491.md`
+  - `translations/en/BATCH_SOURCE_CHECK_3492_3496.md`
+- Preserve source thought/argument order, accusation, irony, repetition, rhetorical questions, figures, names, dates, quotations, source English, continuation/conclusion markers and source anomalies.
 - Include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` in every bilingual record.
 - Source-check each completed English record against its full Tamil source before marking the batch complete.
 - If a Tamil reading becomes doubtful, consult the controlling scan and record only scan-proven Tamil corrections; do not use OCR, contents wording or outside knowledge to silently repair it.
 - Update the manifest/progress/index/control files and add glossary entries only for genuinely new recurring terminology.
-- Stop after **3496**. **Do not start Letter 3497 in the same activity.**
+- Stop after **3501**. **Do not start Letter 3502 in the same activity.**
 - Keep final bilingual alignment, editorial review and release verification as later separate QA gates.
 
 ## Volume 45 — COMPLETE
