@@ -12,7 +12,7 @@ Attach the controlling source PDF again when starting a fresh chat:
 
 ## Durable boundary
 
-**Volume 44 is canonically transcribed through PDF 298; Letters 3484–3524 are complete.**
+**Volume 44 is canonically transcribed through PDF 331; Letters 3484–3529 are complete.**
 
 - Scan-confirmed volume: **44**
 - PDF pages: **400**
@@ -20,33 +20,33 @@ Attach the controlling source PDF again when starting a fresh chat:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents PDF 018–022: **transcribed**
 - Source inventory: **53 records, 3484–3536**
-- Canonical pages: **298 / 400 — PDF 001–298**
-- Completed letters: **41 — 3484–3524**
+- Canonical pages: **331 / 400 — PDF 001–331**
+- Completed letters: **46 — 3484–3529**
 - Partial letter: **none**
 - English translation: **blocked**
 
 The latest regular five-letter batch is complete and iteration-audited PASS:
 
-- 3520 — PDF 265–270 / printed 264–269 — 21-12-2010
-- 3521 — PDF 271–277 / printed 270–276 — 22-12-2010
-- 3522 — PDF 278–283 / printed 277–282 — 23-12-2010
-- 3523 — PDF 284–290 / printed 283–289 — 29-12-2010
-- 3524 — PDF 291–298 / printed 290–297 — 31-12-2010
+- 3525 — PDF 299–301 / printed 298–300 — 7-1-2011
+- 3526 — PDF 302–311 / printed 301–310 — 12-1-2011
+- 3527 — PDF 312–317 / printed 311–316 — 13-1-2011
+- 3528 — PDF 318–325 / printed 317–324 — 26-1-2011
+- 3529 — PDF 326–331 / printed 325–330 — 27-02-2011
 
-Preserve all scan-printed anomalies, source English and source-specific spacing. This batch retains the 3520 Arun Shourie English quotation and unusual printed `ஓ ஓ ஓதி.மு.க.` form; 3521 CAG/TANSI English passages; 3523 `Lawless in TamilNadu` / `Time ripe for Regime Change`; and 3524 Public Department legal quotation with `Art.213 (2) (a)`.
+Preserve all scan-printed anomalies, source English and source-specific spacing. This batch includes detailed land-survey figures and administrative explanations, source English `presumptive`, `Social Benefit`, `(Revenue per User)`, the Arun Shourie quotation, and government-employee terminology including `ஜேக்டோ-ஜியோ`, `எஸ்மா`, and `டெஸ்மா`.
 
-PDF **299 / printed page 298** was inspected for boundary only and visibly begins Letter **3525 — படித்திடுவீர்; பனகல் அரசர் வரலாறு!**. No PDF 299 text has yet been promoted to the canonical archive.
+PDF **332 / printed page 331** was inspected for boundary only and visibly begins Letter **3530 — ஆணையத்தின் ஆணை பிறந்து விட்டது!**. No PDF 332 text has yet been promoted to the canonical archive.
 
 ## Exact next activity
 
-Execute the next normal five-complete-letter iteration, **3525–3529**:
+Execute the next normal five-complete-letter iteration, **3530–3534**:
 
-1. start at **PDF 299 / printed page 298**, which begins Letter **3525**;
-2. transcribe and directly visually verify every physical page needed to complete five consecutive source letters **3525, 3526, 3527, 3528, 3529**;
+1. start at **PDF 332 / printed page 331**, which begins Letter **3530**;
+2. transcribe and directly visually verify every physical page needed to complete five consecutive source letters **3530, 3531, 3532, 3533, 3534**;
 3. establish each closing/signature/date from the controlling scan; contents page numbers are navigation aids only;
-4. do not stop at an arbitrary page count and do not include Letter 3530 merely to pad a boundary;
+4. do not stop at an arbitrary page count and do not include Letter 3535 merely to pad a boundary;
 5. create/update the five chapter records and synchronize `contents/index.md`, `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, volume `README.md`, root `README.md`, `PROJECT_HANDOVER.md`, and this prompt;
 6. preserve all printed spelling, punctuation, spacing, dates, figures, English text, anomalies and physical page boundaries without silent normalization;
-7. commit the five-letter batch atomically using the policy-form message `Transcribe Volume 44 letters 3525-3529 — PDF pages 299-XXX`.
+7. commit the five-letter batch atomically using the policy-form message `Transcribe Volume 44 letters 3530-3534 — PDF pages 332-XXX`.
 
 Before changing anything, fetch live `main`, treat it as authoritative, preserve concurrent unrelated changes, and use the controlling scan as the highest textual authority.

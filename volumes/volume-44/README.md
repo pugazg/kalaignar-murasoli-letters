@@ -20,9 +20,9 @@
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
-| Canonical Tamil pages | **298 / 400 — PDF 001–298** |
+| Canonical Tamil pages | **331 / 400 — PDF 001–331** |
 | Printed contents transcription | **complete — PDF 018–022** |
-| Completed letters | **41 / 53 — 3484–3524** |
+| Completed letters | **46 / 53 — 3484–3529** |
 | Partial letter | **none** |
 | First-batch iteration audit | **PASS — PDF 001–025** |
 | Letter 3484 immediate-continuation audit | **PASS — PDF 026–029** |
@@ -34,6 +34,7 @@
 | Sixth regular five-letter batch audit | **PASS — 3510–3514 / PDF 193–229** |
 | Seventh regular five-letter batch audit | **PASS — 3515–3519 / PDF 230–264** |
 | Eighth regular five-letter batch audit | **PASS — 3520–3524 / PDF 265–298** |
+| Ninth regular five-letter batch audit | **PASS — 3525–3529 / PDF 299–331** |
 | Full-volume Tamil structural audit | blocked |
 | Second visual verification | pending |
 | English translation | blocked |
@@ -42,14 +43,14 @@
 
 ## Current durable boundary
 
-Canonical Tamil is now complete through **PDF 298 / printed page 297**, with forty-one complete source letters **3484–3524**. The eighth normal five-complete-letter batch, **3520–3524 / PDF 265–298**, has passed its iteration-level visual/textual audit.
+Canonical Tamil is now complete through **PDF 331 / printed page 330**, with forty-six complete source letters **3484–3529**. The ninth normal five-complete-letter batch, **3525–3529 / PDF 299–331**, has passed its iteration-level visual/textual audit.
 
-Verified ranges are 3520 PDF 265–270, 3521 PDF 271–277, 3522 PDF 278–283, 3523 PDF 284–290, and 3524 PDF 291–298. Source English, figures, printed anomalies and physical page boundaries were preserved.
+Verified ranges are 3525 PDF 299–301, 3526 PDF 302–311, 3527 PDF 312–317, 3528 PDF 318–325, and 3529 PDF 326–331. Source English, figures, printed anomalies and physical page boundaries were preserved.
 
-PDF **299 / printed page 298** visibly begins Letter **3525 — படித்திடுவீர்; பனகல் அரசர் வரலாறு!**. It was inspected only to establish the next boundary and is not yet a canonical page.
+PDF **332 / printed page 331** visibly begins Letter **3530 — ஆணையத்தின் ஆணை பிறந்து விட்டது!**. It was inspected only to establish the next boundary and is not yet a canonical page.
 
 ## Exact next activity
 
-Begin at **PDF 299** and perform the next regular **five complete consecutive letters** iteration: Letters **3525–3529**. Verify every physical page against the controlling scan and stop only after the actual closing of Letter 3529 is established. Contents page numbers remain navigation aids, not boundary authority.
+Begin at **PDF 332** and perform the next regular **five complete consecutive letters** iteration: Letters **3530–3534**. Verify every physical page against the controlling scan and stop only after the actual closing of Letter 3534 is established. Contents page numbers remain navigation aids, not boundary authority.
 
 English translation remains blocked until the required Tamil gates are complete.

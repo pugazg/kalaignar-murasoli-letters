@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **298 / 400; batches through 3520–3524 PASS** | **41 / 53 — 3484–3524 complete** | **blocked pending Tamil gates** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **331 / 400; batches through 3525–3529 PASS** | **46 / 53 — 3484–3529 complete** | **blocked pending Tamil gates** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -32,9 +32,9 @@
 
 ## Volume 44 — active
 
-Volume 44 has canonical Tamil through **PDF 298 / printed page 297**. Forty-one source letters **3484–3524** are scan-verified complete. The eighth regular five-complete-letter iteration, **3520–3524 / PDF 265–298**, has passed its iteration-level visual/textual audit. Source English, figures, source-specific spellings and physical page boundaries were preserved.
+Volume 44 has canonical Tamil through **PDF 331 / printed page 330**. Forty-six source letters **3484–3529** are scan-verified complete. The ninth regular five-complete-letter iteration, **3525–3529 / PDF 299–331**, has passed its iteration-level visual/textual audit. Source English, figures, source-specific spellings and physical page boundaries were preserved.
 
-PDF **299 / printed page 298** visibly begins Letter **3525** but has not yet been canonically transcribed. The exact next activity is the next five-complete-letter iteration, **3525–3529**, beginning at PDF 299 and ending only at the scan-verified closing of 3529.
+PDF **332 / printed page 331** visibly begins Letter **3530** but has not yet been canonically transcribed. The exact next activity is the next five-complete-letter iteration, **3530–3534**, beginning at PDF 332 and ending only at the scan-verified closing of 3534.
 
 ## Volume 45 — released
 

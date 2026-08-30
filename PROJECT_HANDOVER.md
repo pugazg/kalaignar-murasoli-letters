@@ -22,26 +22,19 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–298 / 400**
+- Canonical Tamil pages: **001–331 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
-- First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
-- Second regular five-letter batch: **PASS — 3490–3494 / PDF 075–104**
-- Third regular five-letter batch: **PASS — 3495–3499 / PDF 105–139**
-- Fourth regular five-letter batch: **PASS — 3500–3504 / PDF 140–165**
-- Fifth regular five-letter batch: **PASS — 3505–3509 / PDF 166–192**
-- Sixth regular five-letter batch: **PASS — 3510–3514 / PDF 193–229**
-- Seventh regular five-letter batch: **PASS — 3515–3519 / PDF 230–264**
-- Eighth regular five-letter batch: **PASS — 3520–3524 / PDF 265–298**
-- Completed letters: **41 — 3484–3524**
+- Regular five-letter batches through **3525–3529 / PDF 299–331: PASS**
+- Completed letters: **46 — 3484–3529**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3520 PDF 265–270, 3521 PDF 271–277, 3522 PDF 278–283, 3523 PDF 284–290, and 3524 PDF 291–298. The scan-printed closings are 21-12-2010, 22-12-2010, 23-12-2010, 29-12-2010 and 31-12-2010. Source-specific wording, punctuation, figures, English passages and physical page boundaries remain unnormalized. PDF 299 / printed page 298 visibly begins Letter 3525 but is not yet canonical.
+The latest batch boundaries are 3525 PDF 299–301, 3526 PDF 302–311, 3527 PDF 312–317, 3528 PDF 318–325, and 3529 PDF 326–331. The scan-printed closings are 7-1-2011, 12-1-2011, 13-1-2011, 26-1-2011 and 27-02-2011. Source-specific wording, punctuation, figures, English passages and physical page boundaries remain unnormalized. PDF 332 / printed page 331 visibly begins Letter 3530 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 299** and execute the next regular five-complete-letter transcription iteration: Letters **3525–3529**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 332** and execute the next regular five-complete-letter transcription iteration: Letters **3530–3534**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 
