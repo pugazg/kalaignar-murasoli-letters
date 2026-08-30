@@ -55,9 +55,11 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3532 | விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது! | 05-03-2011 | 349 | 350 | 359 | complete |
 | 3533 | கமழும் கல்வி நீரோடை! | 06.03-2011 | 359 | 360 | 369 | complete |
 | 3534 | கமழும் கல்வி நீரோடை - 2 | 09-03-2011 | 369 | 370 | 380 | complete |
-| 3535 | கமழும் கல்வி நீரோடை - 3 | 10-03-2011 | 380 | — | — | pending |
-| 3536 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1) | 11-3-2011 | 390 | — | — | pending |
+| 3535 | கமழும் கல்வி நீரோடை - 3 | 10-03-2011 | 380 | 381 | 390 | complete |
+| 3536 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1) | 11-3-2011 | 390 | 391 | 399 | complete |
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3534 are scan-verified complete through PDF 380 / printed page 379. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately. PDF 381 / printed page 380 was inspected for boundary only and begins Letter 3535; its body is not yet canonically transcribed.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. All **53** contents records are now represented exactly once by scan-verified chapter ranges. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately.
+
+Letters 3535 and 3536 are scan-verified complete at PDF 390 and 399 respectively. PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing; therefore Letter 3536 is complete within this source. PDF 400 is non-letter back-cover / portrait / publisher material and does not create Letter 3537.

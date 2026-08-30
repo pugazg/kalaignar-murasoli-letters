@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **380 / 400; batches through 3530–3534 PASS** | **51 / 53 — 3484–3534 complete** | **blocked pending Tamil gates** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; source-completion PASS; structural audit pending** | **53 / 53 — 3484–3536 complete** | **blocked pending Tamil gates** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -32,9 +32,9 @@
 
 ## Volume 44 — active
 
-Volume 44 has canonical Tamil through **PDF 380 / printed page 379**. Fifty-one source letters **3484–3534** are scan-verified complete. The tenth regular five-complete-letter iteration, **3530–3534 / PDF 332–380**, has passed its iteration-level visual/textual audit. Source English, figures, source-specific spellings, list markers and physical page boundaries were preserved.
+Volume 44 now has canonical Tamil for **PDF 001–400 / 400** and all **53 source records 3484–3536** are complete. The final source-completion iteration, **3535–3536 / PDF 381–400**, has passed its iteration-level visual/textual audit. PDF 400 is canonical non-letter back-cover / portrait / publisher material and no Letter 3537 was invented.
 
-PDF **381 / printed page 380** visibly begins Letter **3535 — கமழும் கல்வி நீரோடை - 3** but has not yet been canonically transcribed. The exact next activity is the final source-completion iteration, **3535–3536**, followed by the full-volume Tamil structural audit.
+Letter 3536 preserves the printed `(தொடர்ச்சி நாளை)` before its normal `அன்புள்ள, / மு.க. / 11-3-2011` closing, so it is complete within Volume 44. The exact next activity is the **full-volume Tamil structural audit**. The second full visual/textual-fidelity verification and English translation remain blocked until that audit passes.
 
 ## Volume 45 — released
 

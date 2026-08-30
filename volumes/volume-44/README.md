@@ -20,15 +20,16 @@
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
-| Canonical Tamil pages | **380 / 400 — PDF 001–380** |
+| Canonical Tamil pages | **400 / 400 — PDF 001–400** |
 | Printed contents transcription | **complete — PDF 018–022** |
-| Completed letters | **51 / 53 — 3484–3534** |
+| Completed letters | **53 / 53 — 3484–3536** |
 | Partial letter | **none** |
+| Source-incomplete letter | **none** |
 | First-batch iteration audit | **PASS — PDF 001–025** |
 | Letter 3484 immediate-continuation audit | **PASS — PDF 026–029** |
-| Regular five-letter batches through 3525–3529 | **PASS — through PDF 331** |
-| Tenth regular five-letter batch audit | **PASS — 3530–3534 / PDF 332–380** |
-| Full-volume Tamil structural audit | blocked |
+| Regular five-letter batches through 3530–3534 | **PASS — through PDF 380** |
+| Final source-completion iteration | **PASS — 3535–3536 / PDF 381–400** |
+| Full-volume Tamil structural audit | **pending** |
 | Second visual verification | pending |
 | English translation | blocked |
 | Bilingual alignment | blocked |
@@ -36,14 +37,16 @@
 
 ## Current durable boundary
 
-Canonical Tamil is now complete through **PDF 380 / printed page 379**, with fifty-one complete source letters **3484–3534**. The tenth normal five-complete-letter batch, **3530–3534 / PDF 332–380**, has passed its iteration-level visual/textual audit.
+Tamil first-pass source transcription is complete for **all 400 physical PDF pages**. All **53 source records, 3484–3536**, are scan-verified complete; no partial or source-incomplete letter remains.
 
-Verified ranges are 3530 PDF 332–337, 3531 PDF 338–349, 3532 PDF 350–359, 3533 PDF 360–369, and 3534 PDF 370–380. Scan-printed source anomalies, English text, figures, quotations, list markers and physical page boundaries were preserved.
+The final source-completion iteration established:
 
-PDF **381 / printed page 380** visibly begins Letter **3535 — கமழும் கல்வி நீரோடை - 3**. It was inspected only to establish the next boundary and is not yet a canonical page.
+- **3535 — கமழும் கல்வி நீரோடை - 3** — PDF **381–390** / printed **380–389** — `10-03-2011`.
+- **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF **391–399** / printed **390–398** — `11-3-2011`.
+- **PDF 400** — back-cover / portrait / publisher-contact-price material; canonical non-letter page; no Letter 3537.
+
+PDF 399 prints `(தொடர்ச்சி நாளை)` and then the normal closing `அன்புள்ள, / மு.க. / 11-3-2011`; therefore Letter 3536 is complete within this source. Source-specific forms including `‘சமத்துவப் பெருவிழா’`, `(Invertors)`, `2007-09`, `வருவாய்க்குமுள்ள`, `12 ஆயிரத்து 618` and `பெருமையைப் பெரும் வகையில்` are preserved without normalization.
 
 ## Exact next activity
 
-Complete the **two remaining source records 3535–3536**, beginning at PDF 381. Verify every physical page directly against the controlling scan and establish the true closing/source completeness of both records. Once the source transcription is complete, proceed to the full-volume Tamil structural audit.
-
-English translation remains blocked until the required Tamil gates are complete.
+Run the **full-volume Tamil structural audit — Volume 44**. The audit must reconcile the physical page inventory, all 53 source records, chapter coverage, control files, internal links and repository hygiene. Do not begin the second visual/textual-fidelity verification or English translation until the structural audit passes.

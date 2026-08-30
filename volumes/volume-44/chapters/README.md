@@ -1,6 +1,6 @@
 # Volume 44 — Chapter Register
 
-Printed contents enumerate **53 source records, 3484–3536**. Actual source boundaries remain scan-controlled.
+Printed contents enumerate **53 source records, 3484–3536**. Actual source boundaries are now scan-verified for all 53 records.
 
 | Letter | Title | PDF pages | Printed pages | Status |
 |---:|---|---|---|---|
@@ -55,7 +55,11 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3532 | [விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது!](3532-vilaichchal-nirainthathu-vivasaayi-kanneer-marainthathu.md) | 350–359 | 349–358 | complete |
 | 3533 | [கமழும் கல்வி நீரோடை!](3533-kamazhum-kalvi-neerodai.md) | 360–369 | 359–368 | complete |
 | 3534 | [கமழும் கல்வி நீரோடை - 2](3534-kamazhum-kalvi-neerodai-2.md) | 370–380 | 369–379 | complete |
+| 3535 | [கமழும் கல்வி நீரோடை - 3](3535-kamazhum-kalvi-neerodai-3.md) | 381–390 | 380–389 | complete |
+| 3536 | [ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)](3536-ooraga-valarchchi-matrum-ooratchith-thurai-aindhaandu-saathanaigal-1.md) | 391–399 | 390–398 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **380 / printed page 379**, covering fifty-one completed letters **3484–3534**. PDF **381 / printed page 380** was inspected only to establish the next boundary and visibly begins Letter **3535**.
+Canonical Tamil source transcription is complete through PDF **400 / 400**. All **53** source records **3484–3536** are complete; no partial or source-incomplete letter remains. PDF 400 is non-letter back-cover / portrait / publisher material and is represented canonically without creating a Letter 3537.
+
+The exact next activity is the **full-volume Tamil structural audit — Volume 44**. The second visual/textual-fidelity verification and English translation remain blocked until that structural audit passes.

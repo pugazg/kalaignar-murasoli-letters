@@ -6,7 +6,7 @@ date_to: 2011-03-11
 letter_number_from: 3484
 letter_number_to: 3536
 letter_count: 53
-letter_inventory_status: "printed-contents-transcribed; boundaries-provisional"
+letter_inventory_status: "printed-contents-transcribed; all-boundaries-scan-verified"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள�
 source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
 source_size_bytes: 202106488
 searchable_text_layer: false
-transcription_page_range: "1-380"
-transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3484-3534"
-completed_letter_range: "3484-3534"
-completed_letter_count: 51
+transcription_page_range: "1-400"
+transcription_status: "first-pass-complete"
+recorded_letter_range: "3484-3536"
+completed_letter_range: "3484-3536"
+completed_letter_count: 53
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-3530-3534-pass"
+audit_status: "source-completion-3535-3536-pass; full-volume-structural-audit-pending"
 audit_date: 2026-08-30
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -50,4 +50,8 @@ source_observations:
   - "Letter 3532 preserves the printed internally unusual figure '37 கோடியே 391 இலட்சம் ரூபாய்' and the source's agricultural, horticultural, sugar-sector and staffing figures without arithmetic or editorial normalization."
   - "Letter 3533 preserves the printed Valluvar quotation, source English '(Internet with broadband facilities)', '(Lateral Entry)' and '(Shift System)', education figures and list markers."
   - "Letter 3534 preserves the Naladiyar quotation, 11,307 teacher-post figure, source form '18299' for the school count, '3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்' compound-wall figure, disability-program figures '90 ஆயிரத்து 543' and '75 ஆயிரத்து 174', the '1144' school / '73 இலட்சம்' figure, and the internally inconsistent printed model-school statement without silent correction."
-  - "PDF 381 / printed page 380 begins Letter 3535 and was inspected only to establish the next boundary; it is not yet canonically transcribed."
+  - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
+  - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
+  - "Letter 3536 preserves its exact title, '‘சமத்துவப் பெருவிழா’', '(Invertors)', source-specific '2007-09', 'வருவாய்க்குமுள்ள', '12 ஆயிரத்து 618', 'பெருமையைப் பெரும் வகையில்', all printed list markers, figures and English text."
+  - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."
+  - "PDF 400 is represented as non-letter back-cover / portrait / publisher-contact-price material; later handwritten/non-printed marks are excluded and no Letter 3537 is invented."

@@ -1,0 +1,289 @@
+# Volume 44 — Audit Log
+
+Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_GATES_0_5.md`](AUDIT_HISTORY_GATES_0_5.md). This file continues the live audit from the current transcription boundary; no prior audit evidence was discarded.
+
+## Gate summary
+
+| Gate | Scope | Result |
+|---|---|---|
+| 0 | Source intake | PASS |
+| 1 | Mandatory first batch — PDF 001–025 | PASS |
+| 2 | Letter 3484 continuation — PDF 026–029 | PASS |
+| 3 | Letters 3485–3489 — PDF 030–074 | PASS |
+| 4 | Letters 3490–3494 — PDF 075–104 | PASS |
+| 5 | Letters 3495–3499 — PDF 105–139 | PASS |
+| 6 | Letters 3500–3504 — PDF 140–165 | PASS |
+| 7 | Letters 3505–3509 — PDF 166–192 | PASS |
+| 8 | Letters 3510–3514 — PDF 193–229 | PASS |
+| 9 | Letters 3515–3519 — PDF 230–264 | PASS |
+| 10 | Letters 3520–3524 — PDF 265–298 | PASS |
+| 11 | Letters 3525–3529 — PDF 299–331 | PASS |
+| 12 | Letters 3530–3534 — PDF 332–380 | **PASS** |
+
+---
+
+## Gate 6 — fourth regular five-letter batch 3500–3504 / PDF 140–165 — PASS
+
+**Date:** 2026-08-29
+
+The verified ranges are 3500 PDF 140–147, 3501 PDF 148–153, 3502 PDF 154–158, 3503 PDF 159–162 and 3504 PDF 163–165. The iteration-level visual/textual audit passed; detailed source anomalies remain preserved in the canonical pages and prior live audit state.
+
+---
+
+## Gate 7 — fifth regular five-letter batch 3505–3509 / PDF 166–192 — PASS
+
+**Date:** 2026-08-29
+
+The verified ranges are 3505 PDF 166–169, 3506 PDF 170–175, 3507 PDF 176–179, 3508 PDF 180–186 and 3509 PDF 187–192. The iteration-level visual/textual audit passed; detailed source anomalies remain preserved in the canonical pages.
+
+---
+
+## Gate 8 — sixth regular five-letter batch 3510–3514 / PDF 193–229 — PASS
+
+**Date:** 2026-08-29
+
+### Scope
+
+- Canonical pages created: **37 — page-193.md through page-229.md**
+- Physical PDF scope transcribed: **193–229 exactly**
+- Complete consecutive letters: **3510, 3511, 3512, 3513, 3514**
+- Verified ranges:
+  - 3510 — PDF **193–198** / printed **192–197**
+  - 3511 — PDF **199–206** / printed **198–205**
+  - 3512 — PDF **207–213** / printed **206–212**
+  - 3513 — PDF **214–222** / printed **213–221**
+  - 3514 — PDF **223–229** / printed **222–228**
+- Verified closing dates: **3-11-2010; 4-11-2010; 14-11-2010; 17-11-2010; 30-11-2010**
+- PDF 230 transcribed: **no**
+- PDF 230 inspected for boundary only: **yes — begins Letter 3515 / printed page 229**
+
+### Visual/textual verification
+
+Every canonical page in PDF 193–229 was directly compared against the controlling scan. Letter starts/endings, printed page numbers, titles, salutations, closings, dates, figures, English passages, quotations, unusual spacing and physical page continuations were checked. Draft/OCR text was not allowed to override the scan. Targeted enlarged rechecks corrected draft readings before promotion, including PDF 194 `குளுகுளு`, PDF 196 `தூங்கிக்`, PDF 207 `சமீபகால`, PDF 213 the physical split `தமிழ` / `கத்தின்`, and PDF 222 `சூத்திரனுக்கொரு நீதி`.
+
+### Preserved source conditions and anomalies
+
+- Letter 3510 preserves source-specific rhetorical punctuation, names, figures and printed word/page splits; it closes on PDF 198 with `3-11-2010`.
+- Letter 3511 preserves statistical figures, English `Blown out of proportions`, organization labels, source punctuation and the printed final form `கூடா தல்லவா?` without normalization.
+- Letter 3512 preserves source English technical quotations, `I.S.I`, `IISc`, `Retrofitted`, `Dead Storage`, names and printed spellings without editorial repair.
+- Letter 3513 has a documented source-title divergence: the printed contents say `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while PDF 214 actually prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`. Both are preserved separately. Source English quotations and monetary/statistical figures are retained as printed.
+- PDF 222 preserves the printed Bharati quotation, closing `அன்புள்ள,` / `மு.க.` / `17-11-2010`, and the parenthetical distribution instruction printed after that closing.
+- Letter 3514 preserves vote counts, percentages, bonus/benefit figures, bullet-list structure, political abbreviations and source-specific spacing without silent normalization.
+- PDF 230 / printed page 229 visibly begins Letter 3515 `கணக்கு காட்டுகிறேன்; கண்ணுடையோர் காண!`; no PDF 230 text is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-229.md**
+- New page range: **193–229** with printed-page metadata **192–228**
+- Five new chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3514 and boundary-only start of 3515
+- No U+FFFD replacement characters in new pages/control records
+- No unintended zero-width/BOM residue in new pages/control records
+- No duplicate canonical source bodies in the new batch
+- PDF 230 canonical page intentionally absent
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+---
+
+## Gate 9 — seventh regular five-letter batch 3515–3519 / PDF 230–264 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **35 — page-230.md through page-264.md**
+- Physical PDF scope transcribed: **230–264 exactly**
+- Complete consecutive letters: **3515, 3516, 3517, 3518, 3519**
+- Verified ranges:
+  - 3515 — PDF **230–239** / printed **229–238**
+  - 3516 — PDF **240–245** / printed **239–244**
+  - 3517 — PDF **246–251** / printed **245–250**
+  - 3518 — PDF **252–256** / printed **251–255**
+  - 3519 — PDF **257–264** / printed **256–263**
+- Verified closing dates: **2-12-2010; 10-12-2010; 12-12-2010; 19-12-2010; 20-12-2010**
+- PDF 265 transcribed: **no**
+- PDF 265 inspected for boundary only: **yes — begins Letter 3520 / printed page 264**
+
+### Visual/textual verification
+
+Every canonical page in PDF 230–264 was directly compared against the controlling scan. Letter starts/endings, printed page numbers, titles, salutations, closings, dates, figures, quotations, English passages, unusual spelling/spacing and page continuations were checked. Enlarged rechecks resolved difficult readings before promotion, including PDF 244 `அழுகை கொண்டு`, PDF 254 the printed poetic line ending `அன்பழகன் என்றோரழர் என்னல் எனக்குப் பெருமையதே`, PDF 258 `ஆடிட்டரும்`, and PDF 259 `ஏழாண்டு காலமாக`.
+
+### Preserved source conditions and anomalies
+
+- Letter 3515 preserves printed financial figures, dates, quoted forms, `“வாக்சால்” (Vauxhall) 4983`, names and source-specific spacing without normalization.
+- Letter 3516 preserves the two repeated “ரோம் நகரம்...” statements, names, plot sizes and printed wording without editorial harmonization.
+- Letter 3517 preserves the source English headline `Tamil Nadu Housing Board loses Rs. 5.17 Crore`, monetary figures and the source’s housing-board argument sequence exactly.
+- Letter 3518 preserves its source-specific biographical wording and quoted poetic/critical appreciations, including the visually rechecked PDF 254 poetic passage.
+- Letter 3519 preserves the source English Supreme Court passage exactly across the physical PDF 258/259 split: PDF 258 ends `gentlemen’s agreement. Good` and PDF 259 begins `ethical behaviour...`. Its later English legal phrase `You (Jayalalitha) are making a mockery of the Judicial Process. How long you can drag the proceedings?`, lists, figures and parenthetical English terms are retained.
+- PDF 265 / printed page 264 visibly begins Letter 3520 `பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்!`; no PDF 265 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-264.md**
+- New page range: **230–264** with printed-page metadata **229–263**
+- Five new chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3519 and boundary-only start of 3520
+- No U+FFFD replacement characters in new pages/control records
+- No unintended zero-width/BOM residue in new pages/control records
+- No duplicate canonical source bodies in the new batch
+- PDF 265 canonical page intentionally absent
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+---
+
+## Gate 10 — eighth regular five-letter batch 3520–3524 / PDF 265–298 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **34 — page-265.md through page-298.md**
+- Complete consecutive letters: **3520–3524**
+- Verified ranges: 3520 **265–270**, 3521 **271–277**, 3522 **278–283**, 3523 **284–290**, 3524 **291–298**
+- Verified closing dates: **21-12-2010; 22-12-2010; 23-12-2010; 29-12-2010; 31-12-2010**
+- PDF 299 transcribed: **no**; boundary-inspected: **yes — begins Letter 3525 / printed page 298**
+
+### Visual/textual verification
+
+Every canonical page in PDF 265–298 was directly compared against the controlling scan. Titles, salutations, closings, dates, figures, English passages, quotations, unusual spellings/spacing and physical page continuations were checked. OCR was used only as a drafting aid and scan readings controlled corrections.
+
+### Preserved source conditions and anomalies
+
+- Letter 3520 preserves the Arun Shourie English quotation, financial figures, political abbreviations and the visibly printed unusual quoted form `ஓ ஓ ஓதி.மு.க.`.
+- Letter 3521 preserves the CAG/TANSI English passages, including the TANSI land-sale comparison and monetary figures, without translation or normalization.
+- Letter 3522 preserves the employment statistics and source-specific wording, including the visibly printed `இவர்களை அன்னியில்` on PDF 280.
+- Letter 3523 preserves the English headings `Lawless in TamilNadu` and `Time ripe for Regime Change`, dates, quoted editorials and source punctuation.
+- Letter 3524 preserves the Public Department English legal passage, `Art.213 (2) (a)`, dates, quotations and source argument order.
+- PDF 299 / printed page 298 visibly begins Letter 3525 `படித்திடுவீர்; பனகல் அரசர் வரலாறு!`; no PDF 299 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-298.md**
+- Five new chapter records cover every new page exactly once; no partial letter remains
+- Contents, chapter register, metadata, progress, volume/root status, handover and continuation prompt synchronized
+- No U+FFFD replacement characters or unintended zero-width/BOM residue in new records
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the regular five-complete-letter iteration audit, not the later full-volume structural audit, second visual verification or translation textual-fidelity audit.
+
+---
+
+## Gate 11 — ninth regular five-letter batch 3525–3529 / PDF 299–331 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **33 — page-299.md through page-331.md**
+- Physical PDF scope transcribed: **299–331 exactly**
+- Complete consecutive letters: **3525, 3526, 3527, 3528, 3529**
+- Verified ranges:
+  - 3525 — PDF **299–301** / printed **298–300**
+  - 3526 — PDF **302–311** / printed **301–310**
+  - 3527 — PDF **312–317** / printed **311–316**
+  - 3528 — PDF **318–325** / printed **317–324**
+  - 3529 — PDF **326–331** / printed **325–330**
+- Verified closing dates: **7-1-2011; 12-1-2011; 13-1-2011; 26-1-2011; 27-02-2011**
+- PDF 332 transcribed: **no**
+- PDF 332 inspected for boundary only: **yes — begins Letter 3530 / printed page 331**
+
+### Visual/textual verification
+
+Every canonical page in PDF 299–331 was directly compared against the controlling scan. Letter starts/endings, printed page numbers, titles, salutations, closings, dates, figures, source English, quotations, administrative terminology, unusual spelling/spacing and physical page continuations were checked. Enlarged rechecks were used for difficult scan readings; no draft or OCR reading was permitted to override the image.
+
+### Preserved source conditions and anomalies
+
+- Letter 3525 preserves the Panagal Arasar biographical wording, source quotation structure, names, dates and printed figures without silent normalization.
+- Letter 3526 preserves the detailed land-survey numbers, administrative explanations, place/person names and source-specific spellings as printed.
+- Letter 3527 preserves the media-report quotations, `108` ambulance references, printed `பேக்ஸ்` form and the women-commando clarification without editorial repair.
+- Letter 3528 preserves the source English terms `presumptive`, `Social Benefit`, `(Revenue per User)`, the Arun Shourie English quotation and all printed spectrum figures.
+- Letter 3529 preserves the government-employee history and terminology including `ஜேக்டோ-ஜியோ`, `எஸ்மா`, `டெஸ்மா`, dates and monetary figures without normalization.
+- PDF 332 / printed page 331 visibly begins Letter 3530 `ஆணையத்தின் ஆணை பிறந்து விட்டது!`; no PDF 332 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-331.md**
+- New page range: **299–331** with printed-page metadata **298–330**
+- Five new chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3529 and boundary-only start of 3530
+- No U+FFFD replacement characters in new pages/control records
+- No unintended zero-width/BOM residue in new pages/control records
+- PDF 332 canonical page intentionally absent
+- `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root status, handover and continuation prompt synchronized
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+---
+
+## Gate 12 — tenth regular five-letter batch 3530–3534 / PDF 332–380 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **49 — page-332.md through page-380.md**
+- Physical PDF scope transcribed: **332–380 exactly**
+- Complete consecutive letters: **3530, 3531, 3532, 3533, 3534**
+- Verified ranges:
+  - 3530 — PDF **332–337** / printed **331–336**
+  - 3531 — PDF **338–349** / printed **337–348**
+  - 3532 — PDF **350–359** / printed **349–358**
+  - 3533 — PDF **360–369** / printed **359–368**
+  - 3534 — PDF **370–380** / printed **369–379**
+- Verified closing dates: **3-3-2011; 4-03-2011; 05-03-2011; 06.03-2011; 09-03-2011**
+- PDF 381 transcribed: **no**
+- PDF 381 inspected for boundary only: **yes — begins Letter 3535 / printed page 380**
+
+### Visual/textual verification
+
+Every physical page in PDF 332–380 was directly compared with the controlling scan before promotion. Letter starts, source titles, salutations, paragraph/list structure, figures, quoted material, English parentheticals, closings, dates and physical page boundaries were checked. OCR remained a navigation/drafting aid only. Targeted scan rechecks corrected draft readings before promotion, including PDF 334 `ஏப்ரல் 13-ந்தேதியே` and the source spacings `கடைசி யிலோ`, `நாடாளு மன்றத்திலும்`, `குறிக்கப்பட வில்லை`, `உச்ச நீதி மன்றத்திலே`; PDF 339 `சுழன்றும்ஏர்ப்` and the closing quotation in `தள்ளுபடி செய்வோம்”`; PDF 341 `4 ஆயிரத்து 137 கோடியே 34 இலட்சம்`; PDF 348 `“இராஜராஜன் 1000”`; PDF 364/368 source list markers; PDF 365 the semicolon before `கலந்தாய்வு`; PDF 371 `நடைமுறைப்படுத்தியது` and `-என`; PDF 373 source count `18299`; PDF 374 `3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்`; and PDF 380 closing `09-03-2011`.
+
+### Preserved source conditions and anomalies
+
+- Letter 3530 preserves the election-schedule wording and source-specific spacing/forms, including `கடைசி யிலோ`, `நாடாளு மன்றத்திலும்`, `குறிக்கப்பட வில்லை`, `உச்ச நீதி மன்றத்திலே`, `திராவிட முன்னேற்றக்கழகத்துக் காளைகளை`, and `நிரல் படுத்திச்` without silent normalization.
+- Letter 3531 preserves the printed Tirukkural lines, including `சுழன்றும்ஏர்ப்`, all agricultural figures, source `மைய அரசு`, list structure, and the scan quotation `“இராஜராஜன் 1000”`. The visually verified 2001–2006 agriculture allocation is `4 ஆயிரத்து 137 கோடியே 34 இலட்சம் ரூபாய்`.
+- Letter 3532 preserves the internally unusual printed figure `37 கோடியே 391 இலட்சம் ரூபாய்`, horticultural and agricultural facility figures, `‘தொழிற் கொள்கை 2007’`, sugar-sector statistics, institution names and staffing figures without arithmetic or editorial repair.
+- Letter 3533 preserves the Valluvar quotation, source English `(Internet with broadband facilities)`, `(Lateral Entry)` and `(Shift System)`, education figures and source list markers. It closes with the scan-printed mixed date form `06.03-2011`.
+- Letter 3534 preserves the Naladiyar quotation, the `11,307` teacher-post figure, source form `18299` for the school count, `3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்` of compound wall, disability-program figures `90 ஆயிரத்து 543` and `75 ஆயிரத்து 174`, `1144` schools / `73 இலட்சம்`, and the internally inconsistent model-school statement (`44` educationally backward unions but `18` model schools / `54 கோடி`) exactly as printed.
+- PDF 381 / printed page 380 visibly begins Letter 3535 `கமழும் கல்வி நீரோடை - 3`; no PDF 381 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-380.md**
+- New page range: **332–380** with printed-page metadata **331–379**
+- Five new chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3534 and boundary-only start of 3535
+- `chapters/README.md` synchronized through Letter 3534
+- `metadata.yml`, `PROGRESS.md`, volume/root README, handover and continuation prompt synchronized
+- No U+FFFD replacement characters in new pages/control records
+- No BOM or unintended zero-width characters in new pages/control records
+- No duplicate page numbers or duplicate chapter coverage in the new batch
+- PDF 381 canonical page intentionally absent
+- Translation remains blocked pending completion of the remaining Tamil gates
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
+## Exact next activity
+
+Start at **PDF 381 / printed page 380** and complete the final two source records **3535–3536** through their actual scan-verified endings. If the source itself ends incomplete, record that condition rather than inventing text. After the source transcription is complete, run the full-volume Tamil structural audit.
