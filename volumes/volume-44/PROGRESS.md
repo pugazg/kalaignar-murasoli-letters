@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check coverage is now 43 / 53 records through Letter 3526.**
+**All required Tamil archival gates are complete. English translation/source-check coverage is now 48 / 53 records through Letter 3531.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -22,28 +22,31 @@
 - Regular English batch 6: **PASS — 3512–3516 / PDF 207–245**
 - Regular English batch 7: **PASS — 3517–3521 / PDF 246–277**
 - Regular English batch 8: **PASS — 3522–3526 / PDF 278–311**
-- English drafted/source-checked: **43 / 53 — 3484–3526 / PDF 024–311**
+- Regular English batch 9: **PASS — 3527–3531 / PDF 312–349**
+- English drafted/source-checked: **48 / 53 — 3484–3531 / PDF 024–349**
 - Tamil changes during regular English batches: **0**
-- Translation conventions: **LOCKED; glossary reviewed through batch 8**
+- Translation conventions: **LOCKED; glossary reviewed through batch 9**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English final release: **not started**
 
-## Completed activity — eighth regular English batch
+## Completed activity — ninth regular English batch
 
 The next five source records were translated from and source-checked against their complete audited canonical Tamil:
 
-1. **3522 — வேலை வாய்ப்பு; அன்றும் இன்றும்!** — PDF 278–283 — PASS;
-2. **3523 — எப்போதுதான் முடியுமோ?** — PDF 284–290 — PASS;
-3. **3524 — அய்யோ! தாங்க முடியவில்லையே அம்மையாரின் புளுகு!** — PDF 291–298 — PASS;
-4. **3525 — படித்திடுவீர்; பனகல் அரசர் வரலாறு!** — PDF 299–301 — PASS;
-5. **3526 — நஞ்சைக் கக்கிடுவோர்; நெஞ்சைத் தொட்டுச் சொல்வாரா?** — PDF 302–311 — PASS.
+1. **3527 — நஞ்சைக் கக்கிடுவோர்; நெஞ்சைத் தொட்டுச் சொல்வாரா? (2)** — PDF 312–317 — PASS;
+2. **3528 — அரசியல் ஆக்க விரும்புவோர்க்கு விளக்கம்!** — PDF 318–325 — PASS;
+3. **3529 — அரசு அலுவலர்களும் அம்மையார் ஜெயலலிதாவும்!** — PDF 326–331 — PASS;
+4. **3530 — ஆணையத்தின் ஆணை பிறந்து விட்டது!** — PDF 332–337 — PASS;
+5. **3531 — விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது!** — PDF 338–349 — PASS.
 
 Each bilingual record includes the complete audited Tamil appendix with physical PDF-page markers.
 
-Batch 8 preserves the full employment/recruitment and unemployment-assistance figures in 3522, including the source’s **45,987 / 47,200** teacher-count discrepancy; the source-attributed court, arrest, dismissal, legislation and newspaper material in 3523; the forcible-conversion-law chronology, exact Public Department English passages and audited **“this 2005 election”** wording in 3524; the autobiographical Panagal Raja/Justice Party history and source-era Periyar quotation in 3525; and all seven *India Today* allegation/official-response pairs in 3526. The Theni explanation in 3526 is not flattened into a denial: the recorded Giri and Pandi encroachments, assignee sale and recovery action are retained.
+Batch 9 preserves the media-advertising, 108-service, ration-card and women’s-commando explanations in 3527; all competing spectrum-loss figures, source English, welfare comparisons, PAC/JPC and telecommunications-policy arguments in 3528; government-employee/road-worker negotiations, pay figures and ESMA/TESMA material in 3529; Election Commission timing, Legislative Council questions, alliance/candidate instructions and campaign imagery in 3530; and the complete agriculture-achievement inventory in 3531, including all loan, beneficiary, price, subsidy, acreage, production, seed/fertiliser and Rajarajan 1000 figures.
 
-No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. New recurring/source-supported glossary treatments are **recruitment-ban order** and **law prohibiting forcible religious conversion / Prohibition of Forcible Conversion of Religion Act**.
+PDF 349 prints `(தொடர்ச்சி - நாளை)` and then the normal closing `அன்புள்ள, / மு.க. / 4-03-2011`; the English therefore preserves **(To be continued tomorrow)** while Letter 3531 remains a complete source record.
+
+No audited Tamil reading required alteration, so **0 canonical Tamil files changed**. New recurring/source-supported glossary treatments are **Public Accounts Committee (PAC)**, **Joint Parliamentary Committee (JPC)**, **Uzhavar Sandhai (Farmers’ Market)** and **Rajarajan 1000**.
 
 Durable English QA records now include:
 
@@ -56,6 +59,7 @@ Durable English QA records now include:
 - [`translations/en/BATCH_SOURCE_CHECK_3512_3516.md`](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3517_3521.md`](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
 - [`translations/en/BATCH_SOURCE_CHECK_3522_3526.md`](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
+- [`translations/en/BATCH_SOURCE_CHECK_3527_3531.md`](translations/en/BATCH_SOURCE_CHECK_3527_3531.md)
 - [`translations/en/GLOSSARY.md`](translations/en/GLOSSARY.md)
 - [`translations/en/TRANSLATION_MANIFEST.csv`](translations/en/TRANSLATION_MANIFEST.csv)
 
@@ -67,12 +71,12 @@ Source-check PASS does **not** imply final bilingual alignment, editorial review
 - Tamil first-pass transcription / batch audits: **PASS**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
-- English source-checked: **43 / 53 — 3484–3526**
-- Regular English batches 1–8: **PASS**
+- English source-checked: **48 / 53 — 3484–3531**
+- Regular English batches 1–9: **PASS**
 - Final bilingual alignment: **not started**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record batch: **Letters 3527–3531**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3531. Do **not** begin 3532 in the same activity.
+Translate and source-check the final regular five-record batch: **Letters 3532–3536 / PDF 350–399**. Apply the locked Volume 44 conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter 3536. Do **not** begin final bilingual alignment, editorial review or release verification in the same activity.

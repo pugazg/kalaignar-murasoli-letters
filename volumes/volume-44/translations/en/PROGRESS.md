@@ -13,7 +13,8 @@
 - [x] Regular five-record batch 6 — **3512–3516 / 5 of 5 translated and source-checked**
 - [x] Regular five-record batch 7 — **3517–3521 / 5 of 5 translated and source-checked**
 - [x] Regular five-record batch 8 — **3522–3526 / 5 of 5 translated and source-checked**
-- [ ] Regular five-record batch 9 — **exact next: 3527–3531**
+- [x] Regular five-record batch 9 — **3527–3531 / 5 of 5 translated and source-checked**
+- [ ] Final regular five-record batch 10 — **exact next: 3532–3536**
 - [ ] Full bilingual alignment
 - [ ] Volume-level English editorial consistency review
 - [ ] Final English release verification
@@ -22,9 +23,9 @@
 
 - Total source letters: **53**
 - Letter range: **3484–3536**
-- Drafted: **43 / 53 — 3484–3526**
-- Source-checked: **43 / 53 — 3484–3526**
-- Drafted/source-checked PDF span: **024–311**
+- Drafted: **48 / 53 — 3484–3531**
+- Source-checked: **48 / 53 — 3484–3531**
+- Drafted/source-checked PDF span: **024–349**
 - Pilot review corrections: **5 English spans across 2 records**
 - Regular batch 1 source-check: **5 / 5 PASS — 3487–3491**
 - Regular batch 2 source-check: **5 / 5 PASS — 3492–3496**
@@ -34,8 +35,9 @@
 - Regular batch 6 source-check: **5 / 5 PASS — 3512–3516**
 - Regular batch 7 source-check: **5 / 5 PASS — 3517–3521**
 - Regular batch 8 source-check: **5 / 5 PASS — 3522–3526**
+- Regular batch 9 source-check: **5 / 5 PASS — 3527–3531**
 - Tamil changes during regular English batches: **0**
-- Translation conventions: **LOCKED; glossary reviewed through batch 8**
+- Translation conventions: **LOCKED; glossary reviewed through batch 9**
 - Final bilingual-aligned: **0 / 53**
 - Final verified: **0 / 53**
 - Source-incomplete records: **0**
@@ -50,9 +52,10 @@ Batch reports:
 - [`BATCH_SOURCE_CHECK_3512_3516.md`](BATCH_SOURCE_CHECK_3512_3516.md)
 - [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
 - [`BATCH_SOURCE_CHECK_3522_3526.md`](BATCH_SOURCE_CHECK_3522_3526.md)
+- [`BATCH_SOURCE_CHECK_3527_3531.md`](BATCH_SOURCE_CHECK_3527_3531.md)
 
 Every translated record includes the complete audited Tamil appendix. Source-check PASS does **not** mean final bilingual alignment or release approval; those remain later separate QA gates.
 
 ## Exact next activity
 
-Translate and source-check **Letters 3527–3531** as the next normal five-record batch. Apply the locked Volume 44 conventions and current glossary, use the complete audited canonical Tamil for each source record, and stop after 3531. Do not begin Letter 3532 in the same activity.
+Translate and source-check **Letters 3532–3536 / PDF 350–399** as the final regular five-record batch. Apply the locked Volume 44 conventions and current glossary, use the complete audited canonical Tamil for each source record, and stop after 3536. Do not begin final bilingual alignment, editorial review or release verification in the same activity.

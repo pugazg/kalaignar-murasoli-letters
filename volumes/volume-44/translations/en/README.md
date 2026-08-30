@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 43 / 53 records, Letters 3484–3526.**
+**SOURCE-CHECKED — 48 / 53 records, Letters 3484–3531.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -17,8 +17,9 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Regular batch 6: **3512–3516 — 5 / 5 translated and source-checked**
 - Regular batch 7: **3517–3521 — 5 / 5 translated and source-checked**
 - Regular batch 8: **3522–3526 — 5 / 5 translated and source-checked**
-- Batch 8 report: [`BATCH_SOURCE_CHECK_3522_3526.md`](BATCH_SOURCE_CHECK_3522_3526.md)
-- Total translated/source-checked: **43 / 53 — PDF 024–311**
+- Regular batch 9: **3527–3531 — 5 / 5 translated and source-checked**
+- Batch 9 report: [`BATCH_SOURCE_CHECK_3527_3531.md`](BATCH_SOURCE_CHECK_3527_3531.md)
+- Total translated/source-checked: **48 / 53 — PDF 024–349**
 - Canonical Tamil changes during regular batches: **0**
 - Final bilingual alignment: **not started**
 - Volume-level English editorial review: **not started**
@@ -75,6 +76,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3524](letters/3524-oh-madams-falsehood-is-unbearable.md) | Oh! Madam's Falsehood Is Unbearable! | 31 December 2010 | 291–298 | source-checked |
 | [3525](letters/3525-read-the-history-of-the-raja-of-panagal.md) | Read the History of the Raja of Panagal! | 7 January 2011 | 299–301 | source-checked |
 | [3526](letters/3526-will-those-who-spew-poison-speak-with-a-hand-on-their-heart.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? | 12 January 2011 | 302–311 | source-checked |
+| [3527](letters/3527-will-those-who-spew-poison-speak-with-a-hand-on-their-heart-2.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? (2) | 13 January 2011 | 312–317 | source-checked |
+| [3528](letters/3528-an-explanation-for-those-who-wish-to-politicise-it.md) | An Explanation for Those Who Wish to Politicise It! | 26 January 2011 | 318–325 | source-checked |
+| [3529](letters/3529-government-employees-and-madam-jayalalithaa.md) | Government Employees and Madam Jayalalithaa! | 27 February 2011 | 326–331 | source-checked |
+| [3530](letters/3530-the-commissions-order-has-been-issued.md) | The Commission's Order Has Been Issued! | 3 March 2011 | 332–337 | source-checked |
+| [3531](letters/3531-the-harvest-was-abundant-the-farmers-tears-disappeared.md) | The Harvest Was Abundant; the Farmer's Tears Disappeared! | 4 March 2011 | 338–349 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -106,9 +112,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BATCH_SOURCE_CHECK_3512_3516.md`](BATCH_SOURCE_CHECK_3512_3516.md)
 - [`BATCH_SOURCE_CHECK_3517_3521.md`](BATCH_SOURCE_CHECK_3517_3521.md)
 - [`BATCH_SOURCE_CHECK_3522_3526.md`](BATCH_SOURCE_CHECK_3522_3526.md)
+- [`BATCH_SOURCE_CHECK_3527_3531.md`](BATCH_SOURCE_CHECK_3527_3531.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch: **Letters 3527–3531**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3531**. Do **not** begin 3532 in the same activity.
+Translate and source-check the final normal five-record batch: **Letters 3532–3536 / PDF 350–399**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3536**. Do **not** begin final bilingual alignment, editorial review or release verification in the same activity.

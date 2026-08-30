@@ -1,6 +1,6 @@
 # Volume 44 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through regular batch 8, Letters 3522–3526.
+**Status:** pilot-locked after source review of Letters 3484–3486; reviewed through regular batch 9, Letters 3527–3531.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 batches but may not override a different meaning supported by a later source passage.
 
@@ -41,6 +41,8 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `பன்மாநில நதிநீர்த் தாவாச்சட்டம்` | **Inter-State River Water Disputes Act** | Retain printed section references such as 5(3) and 6(1). |
 | `காவிரி நடுவர் மன்றம்` | **Cauvery Tribunal** | Keep distinct from the Cauvery River Water Authority and from any management committee; preserve interim/final-award framing from the source. |
 | `காவிரி நதிநீர் ஆணையம்` | **Cauvery River Water Authority** | Institutional treatment used in Letter 3509; do not conflate with the Tribunal. |
+| `பொதுக் கணக்குக் குழு` / `பொதுக்கணக்குக் குழு` | **Public Accounts Committee (PAC)** | Parliamentary audit-scrutiny context; keep distinct from a Joint Parliamentary Committee. |
+| `நாடாளுமன்றக் கூட்டுக் குழு` | **Joint Parliamentary Committee (JPC)** | Parliamentary inquiry context; preserve the source’s PAC/JPC contrast. |
 | `கட்டாய மத மாற்றத் தடைச் சட்டம்` | **law prohibiting forcible religious conversion / Prohibition of Forcible Conversion of Religion Act** | Use the formal title where the source’s legal/file context supports it; retain exact printed English in quoted ordinance/repeal passages. |
 | `தொழிலாளர் முன்னேற்றச் சங்கம்` | **Labour Progressive Federation (LPF)** | Recurring DMK-affiliated transport/trade-union name; retain the institutional identity. |
 | `மனு தர்மம்` | **Manu Dharma** | Retain the source’s named ideological/social-order term; do not flatten it into a generic modern label. |
@@ -49,8 +51,10 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `எஸ்மா` | **ESMA** | Preserve source acronym in the government-employees context. |
 | `டெஸ்மா` | **TESMA** | Preserve source acronym in the Tamil Nadu emergency-law context. |
 | `சகோதரயுத்தம்` | **fratricidal war** | Preserve the source’s repeated moral framing of intra-Tamil armed conflict in Letter 3506. |
+| `உழவர் சந்தை` | **Uzhavar Sandhai (Farmers’ Market)** | Preserve the Tamil scheme identity; English gloss may accompany first use. |
+| `இராஜராஜன் 1000` | **Rajarajan 1000** | Preserve the named paddy-technology/scheme identity and its source figures. |
 | `(தொடரும்)` | **(To be continued)** | Keep as an explicit continuation marker. |
-| `(தொடர்ச்சி நாளை)` | **(To be continued tomorrow)** | Keep the “tomorrow” distinction where printed. |
+| `(தொடர்ச்சி நாளை)` / `(தொடர்ச்சி - நாளை)` | **(To be continued tomorrow)** | Keep the “tomorrow” distinction and tolerate the source hyphenated variant without normalising Tamil. |
 | `(முற்றும்)` | **(Concluded)** | Distinguish the end of a serial sequence from a continuation marker. |
 
 ## Source-English policy
@@ -73,7 +77,8 @@ Printed English that functions as source wording is preserved rather than silent
 - the Letter 3519 judicial passage beginning `Further, criminal law is meant to deal with criminals ordinarily` and the printed `(Hostile)` / `(Daily Basis)` forms;
 - the Letter 3520 Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`;
 - the Letter 3523 headings `Lawless in TamilNadu` and `Time ripe for Regime Change`;
-- the Letter 3524 Public Department passages beginning `This file relates to introducing a Bill in the ensuing Session...` and `As per the Provisions of Clause 2 of Article 213 of the Constitution...`.
+- the Letter 3524 Public Department passages beginning `This file relates to introducing a Bill in the ensuing Session...` and `As per the Provisions of Clause 2 of Article 213 of the Constitution...`;
+- Letter 3528’s `(Social Benefit)`, `(It can be debated)`, `(Revenue per User)` and the Arun Shourie passage beginning `Arun Shourie, Former Union Minister for Communications advised the media not to run after the “hypothetical figure of loss...`.
 
 ## Political and rhetorical language
 
