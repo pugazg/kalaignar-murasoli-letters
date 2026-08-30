@@ -29,7 +29,8 @@
 | English pilot review / convention lock | **PASS — 3484–3486** |
 | Regular English batch 1 | **PASS — 3487–3491** |
 | Regular English batch 2 | **PASS — 3492–3496** |
-| English source-checked | **13 / 53 — 3484–3496 / PDF 024–117** |
+| Regular English batch 3 | **PASS — 3497–3501** |
+| English source-checked | **18 / 53 — 3484–3501 / PDF 024–153** |
 | Final bilingual alignment | not started |
 | English editorial review | not started |
 | English release | not started |
@@ -50,9 +51,9 @@ PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` follo
 
 ## English translation
 
-The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batch 1 **3487–3491 / PDF 046–087** and regular batch 2 **3492–3496 / PDF 088–117** have now also been translated and source-checked. Total English source-check coverage is therefore **13 / 53 records — 3484–3496**.
+The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batch 1 **3487–3491 / PDF 046–087**, regular batch 2 **3492–3496 / PDF 088–117**, and regular batch 3 **3497–3501 / PDF 118–153** have also been translated and source-checked. Total English source-check coverage is therefore **18 / 53 records — 3484–3501**.
 
-Both regular batches required **0 Tamil changes**. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+All three regular batches required **0 Tamil changes**. In batch 3 the internally opaque audited phrase on PDF 125 in Letter 3498 was surfaced in English rather than silently repaired. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
 
 Durable English records:
 
@@ -60,9 +61,10 @@ Durable English records:
 - [Pilot review](translations/en/PILOT_REVIEW_3484_3486.md)
 - [Batch 3487–3491 source check](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
 - [Batch 3492–3496 source check](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
+- [Batch 3497–3501 source check](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch **3497–3501** under the locked Volume 44 conventions. Stop after 3501; do not begin Letter 3502 in the same activity.
+Translate and source-check the next normal five-record batch **3502–3506** under the locked Volume 44 conventions. Stop after 3506; do not begin Letter 3507 in the same activity.

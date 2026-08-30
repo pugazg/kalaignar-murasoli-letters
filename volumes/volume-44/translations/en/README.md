@@ -4,15 +4,16 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 13 / 53 records, Letters 3484–3496.**
+**SOURCE-CHECKED — 18 / 53 records, Letters 3484–3501.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - Volume 44 translation conventions: **LOCKED** — [`GLOSSARY.md`](GLOSSARY.md)
 - Regular batch 1: **3487–3491 — 5 / 5 translated and source-checked**
 - Regular batch 2: **3492–3496 — 5 / 5 translated and source-checked**
-- Batch reports: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md), [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
-- Total translated/source-checked: **13 / 53 — PDF 024–117**
+- Regular batch 3: **3497–3501 — 5 / 5 translated and source-checked**
+- Batch reports: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md), [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md), [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
+- Total translated/source-checked: **18 / 53 — PDF 024–153**
 - Canonical Tamil changes during regular batches: **0**
 - Final bilingual alignment: **not started**
 - Volume-level English editorial review: **not started**
@@ -39,6 +40,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3494](letters/3494-is-it-fair-you-tell-me.md) | Is It Fair? You Tell Me! | 31 August 2010 | 099–104 | source-checked |
 | [3495](letters/3495-kodanadu-is-always-there-to-hide-away-in.md) | Kodanadu Is Always There to Hide Away In! | 2 September 2010 | 105–111 | source-checked |
 | [3496](letters/3496-come-forward-to-cooperate.md) | Come Forward to Cooperate! | 3 September 2010 | 112–117 | source-checked |
+| [3497](letters/3497-can-advocacy-of-violence-be-truth.md) | Can Advocacy of Violence Be Truth? | 4 September 2010 | 118–124 | source-checked |
+| [3498](letters/3498-anbil-immortalised-in-stone-calls-us.md) | Anbil, Immortalised in Stone, Calls Us! | 7 September 2010 | 125–132 | source-checked |
+| [3499](letters/3499-we-are-not-those-who-stand-aloof-on-a-mountaintop.md) | We Are Not Those Who Stand Aloof on a Mountaintop! | 18 September 2010 | 133–139 | source-checked |
+| [3500](letters/3500-be-an-opposition-party-not-an-enemy-party.md) | Be an Opposition Party, Not an Enemy Party! | 19 September 2010 | 140–147 | source-checked |
+| [3501](letters/3501-cast-aside-censure-reflect-o-mind.md) | Cast Aside Censure; Reflect, O Mind! | 20 September 2010 | 148–153 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -49,8 +55,9 @@ Every bilingual record reproduces the complete audited Tamil under `## Original 
 - retain `Udanpirappē` for the characteristic salutation;
 - use `With affection, M.K.` for the standard closing;
 - retain `lakh` and `crore` as Indian public-language units;
-- use source-supported party/government, reservation, employment and disability-era terminology consistently;
+- use source-supported party/government, reservation, employment, disability-era and community-era terminology consistently;
 - preserve genuinely printed source English and source anomalies;
+- surface internally opaque audited wording rather than silently repairing it;
 - retain image-bearing political idioms where practical rather than neutralizing them;
 - keep figures, dates, lists, statutory references and quotations in source order; and
 - reproduce the complete audited Tamil in every bilingual record.
@@ -63,9 +70,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
+- [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch: **Letters 3497–3501**. Apply the locked conventions and the current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3501**. Do **not** begin 3502 in the same activity.
+Translate and source-check the next normal five-record batch: **Letters 3502–3506**. Apply the locked conventions and the current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3506**. Do **not** begin 3507 in the same activity.
