@@ -48,8 +48,6 @@ The structural gate reconciled exactly 400 physical-page records, exactly 53 sou
 **Date:** 2026-08-30  
 **Detailed record:** [`FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md)
 
-### Scope and result
-
 - Directly reviewed: **PDF 001–400 / 400**.
 - Corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**.
 - Defect class: **page-scale omission/truncation / summary substitution** in first-pass canonical bodies.
@@ -57,30 +55,39 @@ The structural gate reconciled exactly 400 physical-page records, exactly 53 sou
 - Titles/dates/chapter ranges changed: **0**.
 - Final source inventory: **53 / 53 complete — 3484–3536**.
 
-The corrected pages were rebuilt from the controlling scan. The pass preserves source-specific wording, punctuation, spacing, figures, quotations, English material and physical-page boundaries. OCR was only a drafting/discrepancy aid. Corrected files were checked for replacement characters, BOM and unintended zero-width residue.
-
-Targeted checks also confirmed that other short canonical files such as PDFs 087, 093, 111, 147, 158, 165, 169, 198, 222, 298, 337, 349, 359 and 390 are genuine short source pages rather than the same truncation defect.
+The corrected pages were rebuilt from the controlling scan. The pass preserves source-specific wording, punctuation, spacing, figures, quotations, English material and physical-page boundaries. OCR was only a drafting/discrepancy aid.
 
 ### Gate result
 
 **PASS.** The required Tamil source gates for Volume 44 are complete.
 
-## English pilot checkpoint — REVIEW PASS
+## English translation checkpoints
 
-The approved English pilot for **Letters 3484–3486 / PDF 024–045** has completed both drafting and its separate source-review/convention-lock checkpoint.
+### Pilot review — PASS
 
-**Detailed record:** [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md)
+The English pilot **3484–3486 / PDF 024–045** completed its separate source-review/convention-lock checkpoint.
 
-- Pilot drafted: **3 / 3**.
-- Pilot source-checked: **3 / 3 PASS**.
-- English corrections during review: **5 spans across Letters 3484–3485**.
-- Letter 3486 corrections: **0**.
-- Tamil changes during pilot review: **0**.
-- Volume 44 translation conventions: **LOCKED**.
-- Final bilingual alignment: **not started; later separate QA gate**.
+- source-checked: **3 / 3**;
+- English corrections during pilot review: **5 spans across 3484–3485**;
+- Tamil changes: **0**;
+- conventions: **LOCKED**.
 
-The pilot review is an English QA checkpoint, not an additional Tamil audit gate. It did not alter the canonical Tamil or the Tamil Gate 15 PASS.
+Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md).
+
+### Regular batch 1 — PASS
+
+The first regular five-record English batch **3487–3491 / PDF 046–087** has been translated and source-checked.
+
+- batch records: **5 / 5 PASS**;
+- cumulative English source-check coverage: **8 / 53 — 3484–3491**;
+- canonical Tamil changes during this batch: **0**;
+- source boundary/title/date changes: **0**;
+- final bilingual alignment: **not started; later separate QA gate**.
+
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3487_3491.md`](translations/en/BATCH_SOURCE_CHECK_3487_3491.md).
+
+English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the first regular five-record English batch **3487–3491**, then stop. Do not begin Letter 3492 in the same activity. Final bilingual alignment/release verification remain later separate gates.
+Translate and source-check the next regular five-record English batch **3492–3496**, then stop. Do not begin Letter 3497 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.

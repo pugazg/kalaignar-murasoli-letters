@@ -25,14 +25,13 @@ Current durable state:
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume visual/textual-fidelity verification: **PASS — 400 / 400**
 - Fidelity corrections: **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
-- English pilot drafting: **COMPLETE — 3 / 53, Letters 3484–3486 / PDF 024–045**
-- Pilot source-review / convention lock: **PASS — 3 / 3**
-- English source-checked: **3 / 53 — 3484–3486**
-- Pilot review corrections: **5 English spans across Letters 3484–3485**
-- Tamil changes during pilot review: **0**
+- English pilot source review / convention lock: **PASS — 3484–3486**
+- First regular English batch: **PASS — 3487–3491 / PDF 046–087**
+- English source-checked: **8 / 53 — 3484–3491 / PDF 024–087**
+- Tamil changes during first regular English batch: **0**
 - Volume 44 translation conventions: **LOCKED**
-- Regular English batches: **unlocked; exact next 3487–3491**
 - Final bilingual alignment: **not started**
+- English editorial review: **not started**
 - English release: **not started**
 
 The second Tamil fidelity gate found page-scale first-pass omissions/truncations concentrated in early reservation-history material. The thirteen affected page bodies were restored directly from the controlling scan. The repair did **not** change letter boundaries, dates, titles, contents/chapter ranges, the 53-record inventory or the structural PASS.
@@ -42,20 +41,21 @@ Durable Tamil audit records:
 - `volumes/volume-44/FULL_VOLUME_STRUCTURAL_AUDIT.md`
 - `volumes/volume-44/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
 
-Durable English pilot records:
+Durable English QA records:
 
 - `volumes/volume-44/translations/en/PILOT_REVIEW_3484_3486.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3487_3491.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
-- pilot bilingual files under `volumes/volume-44/translations/en/letters/`
+- bilingual files under `volumes/volume-44/translations/en/letters/`
 
-The pilot review corrected two English alignment defects in Letter 3484 and three in Letter 3485; Letter 3486 required no correction. No audited Tamil reading became doubtful, so no canonical Tamil file was changed. The three pilot records are source-checked but have **not** passed the later final bilingual-alignment/editorial/release gates.
+The pilot review made five English-only alignment corrections across 3484–3485 and required no Tamil change. The first regular batch translated and source-checked 3487–3491 against PDF 046–087 and likewise required **0 Tamil changes**. All eight English records through 3491 contain the complete audited Tamil appendix. They are source-checked but have **not** passed the later final bilingual-alignment/editorial/release gates.
 
 Final Tamil source boundaries remain 3535 PDF 381–390, 3536 PDF 391–399, and PDF 400 non-letter material. Letter 3536 preserves `(தொடர்ச்சி நாளை)` before the normal closing; no Letter 3537 exists.
 
 ### Exact next activity
 
-Translate and source-check the first regular five-record English batch **Letters 3487–3491**.
+Translate and source-check the next regular five-record English batch **Letters 3492–3496**.
 
 - Use the complete audited canonical Tamil for every source record.
 - Apply the locked Volume 44 conventions in `translations/en/PILOT_REVIEW_3484_3486.md` and `translations/en/GLOSSARY.md`.
@@ -64,7 +64,7 @@ Translate and source-check the first regular five-record English batch **Letters
 - Source-check each completed English record against its full Tamil source before marking the batch complete.
 - If a Tamil reading becomes doubtful, consult the controlling scan and record only scan-proven Tamil corrections; do not use OCR, contents wording or outside knowledge to silently repair it.
 - Update the manifest/progress/index/control files and add glossary entries only for genuinely new recurring terminology.
-- Stop after **3491**. **Do not start Letter 3492 in the same activity.**
+- Stop after **3496**. **Do not start Letter 3497 in the same activity.**
 - Keep final bilingual alignment, editorial review and release verification as later separate QA gates.
 
 ## Volume 45 — COMPLETE

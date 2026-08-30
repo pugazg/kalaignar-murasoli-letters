@@ -2,34 +2,39 @@
 
 This directory contains the thought-preserving English translation of Kalaignar's Murasoli letters in Volume 44.
 
-## Pilot status
+## Current status
 
-**PILOT SOURCE REVIEW PASS — 3 / 53 records source-checked; Volume 44 conventions locked.**
+**SOURCE-CHECKED — 8 / 53 records, Letters 3484–3491.**
 
-- Drafted: **3 / 53 — Letters 3484–3486**
-- Source-checked: **3 / 53 — Letters 3484–3486**
-- Pilot source span: **PDF 024–045**
+- Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - Volume 44 translation conventions: **LOCKED** — [`GLOSSARY.md`](GLOSSARY.md)
-- English corrections during pilot review: **5 spans across 2 records**
-- Tamil changes during pilot review: **0**
+- First regular five-record batch: **3487–3491 — 5 / 5 translated and source-checked**
+- Regular-batch report: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
+- Total translated/source-checked: **8 / 53 — PDF 024–087**
+- Canonical Tamil changes during English work: **0 in this regular batch**
 - Final bilingual alignment: **not started**
-- Regular five-record translation batches: **unlocked; exact next 3487–3491**
+- Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
 - Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
-The audited canonical Tamil is the immediate translation source; the controlling scan remains the ultimate Tamil authority. Pilot source-check PASS does not mean final bilingual alignment or release approval.
+The audited canonical Tamil is the immediate translation source; the controlling scan remains the ultimate Tamil authority. Source-check status does **not** mean final bilingual alignment or release approval.
 
-## Pilot letter index
+## English letter index
 
 | Letter | English title | Date | Source PDF | Source-check status |
 |---:|---|---|---:|---|
 | [3484](letters/3484-madams-baseless-accusation-and-the-firm-reply-3.md) | Madam's Baseless Accusation and the Firm Reply! (3) | 18 July 2010 | 024–029 | source-checked |
 | [3485](letters/3485-madams-baseless-accusation-and-the-firm-reply-4.md) | Madam's Baseless Accusation and the Firm Reply! (4) | 19 July 2010 | 030–037 | source-checked |
 | [3486](letters/3486-may-drops-of-honey-become-a-cascade-of-honey.md) | May Drops of Honey Become a Cascade of Honey! | 22 July 2010 | 038–045 | source-checked |
+| [3487](letters/3487-may-drops-of-honey-become-a-cascade-of-honey-2.md) | May Drops of Honey Become a Cascade of Honey! (2) | 23 July 2010 | 046–057 | source-checked |
+| [3488](letters/3488-reservation-and-the-double-role-3.md) | Reservation and the Double Role! (3) | 25 July 2010 | 058–066 | source-checked |
+| [3489](letters/3489-deceit-will-not-prevail-against-truth.md) | Deceit Will Not Prevail Against Truth! | 26 July 2010 | 067–074 | source-checked |
+| [3490](letters/3490-let-reservation-be-secured-without-losing-what-we-have.md) | Let Reservation Be Secured Without Losing What We Have...! | 30 July 2010 | 075–079 | source-checked |
+| [3491](letters/3491-that-shout-that-echoes-back.md) | That Shout That Echoes Back! | 11 August 2010 | 080–087 | source-checked |
 
-Each bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
+Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
 ## Locked Volume 44 translation policy
 
@@ -50,9 +55,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 - [`PROGRESS.md`](PROGRESS.md)
 - [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
+- [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the first normal five-record batch: **Letters 3487–3491**. Apply the locked conventions, use each record's complete audited canonical Tamil as the immediate source, update the glossary only for genuinely new recurring terms, and stop after Letter 3491. Do **not** begin 3492 in the same activity.
+Translate and source-check the next normal five-record batch: **Letters 3492–3496**. Apply the locked conventions and the current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3496**. Do **not** begin 3497 in the same activity.

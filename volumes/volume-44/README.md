@@ -26,11 +26,11 @@
 | First-pass source transcription | **complete** |
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
-| English pilot drafting | **3 / 53 — 3484–3486 complete** |
-| Pilot source review / convention lock | **PASS — 3 / 3; style locked** |
-| English source-checked | **3 / 53 — 3484–3486** |
-| Regular English batches | **unlocked; exact next 3487–3491** |
+| English pilot review / convention lock | **PASS — 3484–3486** |
+| Regular English batch 1 | **PASS — 3487–3491** |
+| English source-checked | **8 / 53 — 3484–3491 / PDF 024–087** |
 | Final bilingual alignment | not started |
+| English editorial review | not started |
 | English release | not started |
 
 ## Durable Tamil state
@@ -47,19 +47,20 @@ Final source boundaries remain:
 
 PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` followed by the normal closing.
 
-## English pilot
+## English translation
 
-The approved three-source-record pilot for **Letters 3484–3486 / PDF 024–045** has now passed its separate source-review/convention-lock checkpoint. The review made **5 English-only corrections across Letters 3484–3485**, required **0 Tamil changes**, and found Letter 3486 aligned without correction.
+The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. The first regular batch **3487–3491 / PDF 046–087** has now also been translated and source-checked. Total English source-check coverage is therefore **8 / 53 records — 3484–3491**.
 
-Durable records:
+The first regular batch required **0 Tamil changes**. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+
+Durable English records:
 
 - [English index](translations/en/README.md)
 - [Pilot review](translations/en/PILOT_REVIEW_3484_3486.md)
+- [Batch 3487–3491 source check](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
-The pilot records are source-checked but have **not** yet passed the later final bilingual-alignment/editorial/release gates.
-
 ## Exact next activity
 
-Translate and source-check the first normal five-record batch **3487–3491** under the locked Volume 44 conventions. Stop after 3491; do not begin Letter 3492 in the same activity.
+Translate and source-check the next normal five-record batch **3492–3496** under the locked Volume 44 conventions. Stop after 3496; do not begin Letter 3497 in the same activity.
