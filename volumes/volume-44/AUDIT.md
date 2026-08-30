@@ -1,6 +1,6 @@
 # Volume 44 — Audit Log
 
-Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_GATES_0_5.md`](AUDIT_HISTORY_GATES_0_5.md). Detailed live-audit history for Gates 6–12 is preserved verbatim in [`AUDIT_HISTORY_GATES_6_12.md`](AUDIT_HISTORY_GATES_6_12.md). This file records the current source-completion gate and the next required full-volume audit.
+Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_GATES_0_5.md`](AUDIT_HISTORY_GATES_0_5.md). Detailed live-audit history for Gates 6–12 is preserved verbatim in [`AUDIT_HISTORY_GATES_6_12.md`](AUDIT_HISTORY_GATES_6_12.md). The final source-completion gate and full-volume structural gate are summarized here.
 
 ## Gate summary
 
@@ -19,8 +19,8 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 | 10 | Letters 3520–3524 — PDF 265–298 | PASS |
 | 11 | Letters 3525–3529 — PDF 299–331 | PASS |
 | 12 | Letters 3530–3534 — PDF 332–380 | PASS |
-| 13 | Final source completion — Letters 3535–3536 / PDF 381–400 | **PASS** |
-| 14 | Full-volume Tamil structural audit | **PENDING** |
+| 13 | Final source completion — Letters 3535–3536 / PDF 381–400 | PASS |
+| 14 | Full-volume Tamil structural audit — PDF 001–400 / records 3484–3536 | **PASS** |
 
 ---
 
@@ -28,68 +28,59 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 
 **Date:** 2026-08-30
 
-### Scope
+- Canonical pages created: **20 — page-381.md through page-400.md**.
+- Letter 3535: PDF **381–390** / printed **380–389** / closes `10-03-2011`.
+- Letter 3536: PDF **391–399** / printed **390–398** / closes `11-3-2011`.
+- PDF 400: canonical non-letter back-cover / portrait / publisher-contact-price material.
+- PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source.
+- No partial/source-incomplete record remains and no Letter 3537 was created.
 
-- Canonical pages created: **20 — page-381.md through page-400.md**
-- Physical PDF scope transcribed: **381–400 exactly**
-- Complete source records: **3535, 3536**
-- Verified ranges:
-  - 3535 — PDF **381–390** / printed **380–389**
-  - 3536 — PDF **391–399** / printed **390–398**
-- Verified closing dates: **10-03-2011; 11-3-2011**
-- PDF 400: **canonical non-letter back-cover / portrait / publisher-contact-price material**
-- Letter 3537: **not created**
+The final source-completion iteration directly visually verified PDF 381–400 and preserved source-specific wording, punctuation, figures, English strings, list markers and physical page boundaries without normalization.
 
-### Direct visual/textual verification
+---
 
-Every remaining physical source page PDF 381–400 was directly compared with the controlling scan before promotion. Letter starts, titles, salutations, headings, paragraph/list structure, figures, quoted material, English parentheticals, closings, dates and the physical page boundaries were checked. The scan remained the highest authority; no OCR reading or outside knowledge was allowed to override it.
+## Gate 14 — full-volume Tamil structural audit — PASS
 
-Specific scan-checked forms preserved in this final source-completion iteration include:
+**Date:** 2026-08-30  
+**Detailed record:** [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md)
 
-- Letter 3535 title `கமழும் கல்வி நீரோடை - 3` and closing `10-03-2011`;
-- Letter 3536 title `ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)`;
-- `‘சமத்துவப் பெருவிழா’`;
-- source English `(Invertors)`;
-- source-specific `2007-09`;
-- source-specific `வருவாய்க்குமுள்ள`;
-- `12 ஆயிரத்து 618`;
-- `பெருமையைப் பெரும் வகையில்`;
-- all printed list markers, dates, figures, English strings and page-boundary continuations;
-- PDF 400 publisher/contact/price text while excluding later handwritten/non-printed marks.
+### Physical-page result
 
-### Source-completeness interpretation
+- Canonical page tree: exactly **page-001.md through page-400.md**.
+- No missing or out-of-range physical page record.
+- PDFs **001–023** are non-letter front matter / contents / blank-verso material.
+- Letter-bearing coverage is PDF **024–399**.
+- PDF **400** remains non-letter back-cover / portrait / publisher material.
 
-PDF 399 / printed page 398 prints:
+### Source/chapter result
 
-- `(தொடர்ச்சி நாளை)`
-- followed by `அன்புள்ள,`
-- `மு.க.`
-- `11-3-2011`
+- Contents records: **53 — 3484–3536**, each once.
+- Chapter records: **53 — 3484–3536**, each once.
+- All records: **complete**.
+- Chapter ranges cover PDF **024–399** continuously with zero gaps and zero overlaps.
+- Contents and chapter verified PDF ranges/statuses reconcile for all 53 records.
 
-Therefore Letter 3536 is **complete within the Volume 44 source**. The continuation notice is preserved verbatim and is not reclassified as a permanent source gap. There is no partial letter and no source-incomplete letter.
+### Cross-file and hygiene result
 
-### Structural/local checks for this iteration
+- `contents/index.md`, `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, volume/root README, handover and continuation prompt reconcile to **400 / 400 pages; 53 / 53 complete source records; 3484–3536; no partial/source-incomplete record**.
+- Existing documented contents/letter-start title differences remain preserved in their separate source contexts.
+- No U+FFFD repository search hit; final-batch/control validation found no BOM, ZWSP or ZWNJ residue.
+- Per-batch audit evidence plus the full-tree reconciliation found no duplicate chapter record/body structure or unexpected temporary Volume 44 files.
+- Audit-history links are valid.
 
-- Canonical physical page inventory after this iteration: **page-001.md through page-400.md**
-- New page range: **381–400**; no page number outside the source was introduced
-- Letter 3535 chapter covers PDF 381–390 exactly
-- Letter 3536 chapter covers PDF 391–399 exactly
-- PDF 400 is represented as non-letter material
-- Contents rows 3535 and 3536 synchronized to verified starts/ends and complete status
-- Chapter register synchronized through 3536
-- Metadata, progress, volume/root README, handover and continuation prompt synchronized
-- No partial/source-incomplete letter remains
-- No accidental Letter 3537
-- No U+FFFD replacement characters in the staged final-batch records
-- No BOM, ZWSP or ZWNJ in the staged final-batch/control records
-- No English translation work started
+### Source-policy result
+
+- No source normalization or reconstruction was performed.
+- `(தொடர்ச்சி நாளை)` remains preserved in Letter 3536.
+- PDF 400 remains non-letter material; no Letter 3537 exists.
+- No deterministic Tamil body, boundary, title, date or page-range correction was required by this structural gate.
 
 ### Gate result
 
-**PASS.** Tamil first-pass source transcription is now complete for all **400 / 400** physical pages and all **53 / 53** source records **3484–3536**.
+**PASS.** The full-volume Tamil structural audit is complete for Volume 44.
 
-This Gate 13 PASS is the final source-completion/iteration gate. It is **not** the full-volume Tamil structural audit, the second full visual/textual-fidelity verification, or the translation textual-fidelity audit.
+This does **not** imply the second visual/textual-fidelity verification has passed. English remains blocked pending the remaining Tamil fidelity gate.
 
 ## Exact next activity
 
-Run **Gate 14 — FULL-VOLUME TAMIL STRUCTURAL AUDIT — VOLUME 44**. Verify the complete physical page inventory, exact 53-record source inventory, chapter/page coverage, cross-file synchronization, links, Markdown/front-matter structure, Unicode/repository hygiene, PDF 400 non-letter handling and preservation of `(தொடர்ச்சி நாளை)` in Letter 3536. Fix only deterministic structural defects. Defer any text requiring fresh visual judgment to the later second visual/textual-fidelity verification. Do not begin English translation.
+Perform the **second full-volume visual/textual-fidelity verification — Volume 44**, directly comparing all 400 canonical physical pages with the controlling scan and recording scan-proven corrections. Do not begin English translation until the required Tamil fidelity gate permits it.

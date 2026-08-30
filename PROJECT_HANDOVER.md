@@ -21,30 +21,29 @@ Current durable state:
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
-- Source inventory from contents: **53 records, 3484–3536**
+- Source inventory: **53 records, 3484–3536**
 - Canonical Tamil pages: **001–400 / 400**
-- First-batch iteration audit: **PASS — PDF 001–025**
-- Letter 3484 immediate continuation: **PASS — PDF 026–029**
-- Regular five-letter batches through **3530–3534 / PDF 332–380: PASS**
-- Final source-completion iteration **3535–3536 / PDF 381–400: PASS**
 - Completed letters: **53 / 53 — 3484–3536**
 - Partial letter: **none**
 - Source-incomplete letter: **none**
-- Full-volume Tamil structural audit: **pending**
+- Final source-completion iteration **3535–3536 / PDF 381–400: PASS**
+- Full-volume Tamil structural audit: **PASS**
 - Second visual/textual-fidelity verification: **pending**
-- English: **blocked**
+- English: **blocked pending Tamil fidelity gate**
 
-Final source boundaries:
+The structural audit reconciled exactly `page-001.md` through `page-400.md`, exactly 53 contents/chapter records 3484–3536, and continuous letter-bearing chapter coverage PDF 024–399 without gaps or overlaps. PDFs 001–023 remain front matter/contents/blank-verso material, and PDF 400 remains canonical non-letter back-cover / portrait / publisher material. No deterministic canonical Tamil body, letter boundary, title, date or page-range correction was required by the structural audit.
+
+Final source boundaries remain:
 
 - 3535 — `கமழும் கல்வி நீரோடை - 3` — PDF **381–390** / printed **380–389** — closes `10-03-2011`.
 - 3536 — `ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)` — PDF **391–399** / printed **390–398** — closes `11-3-2011`.
 - PDF 400 — back-cover / portrait / publisher-contact-price material; non-letter canonical page.
 
-Important final-source conditions: Letter 3536 preserves `‘சமத்துவப் பெருவிழா’`, `(Invertors)`, source-specific `2007-09`, `வருவாய்க்குமுள்ள`, `12 ஆயிரத்து 618`, `பெருமையைப் பெரும் வகையில்`, all printed list markers, figures and English text. PDF 399 prints `(தொடர்ச்சி நாளை)` but then prints the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing, so Letter 3536 is complete within Volume 44. PDF 400 excludes later handwritten/non-printed marks and does not create Letter 3537.
+Letter 3536 preserves `(தொடர்ச்சி நாளை)` followed by the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing; it remains complete within Volume 44. PDF 400 does not create Letter 3537.
 
 ### Exact next activity
 
-Run the **FULL-VOLUME TAMIL STRUCTURAL AUDIT — VOLUME 44**. Verify one canonical file for every PDF page 001–400, exact 53-record source inventory, chapter/page coverage with no gaps or overlaps, cross-file synchronization, internal links, Unicode/repository hygiene, preservation of PDF 400 as non-letter material and preservation of `(தொடர்ச்சி நாளை)` in Letter 3536. Fix only deterministic structural defects. If a textual reading requires visual judgment, defer it to the later second visual/textual-fidelity verification. After a PASS structural audit, stop; do not begin second visual verification or English in the same activity.
+Perform the **SECOND FULL-VOLUME VISUAL/TEXTUAL-FIDELITY VERIFICATION — VOLUME 44**. Directly compare all 400 canonical physical-page records with the controlling scan, preserving physical page boundaries and all source anomalies. Record every scan-proven correction in the appropriate fidelity audit record and synchronize status/control files. Do not begin English translation until the required Tamil fidelity gate permits it.
 
 ## Volume 45 — COMPLETE
 

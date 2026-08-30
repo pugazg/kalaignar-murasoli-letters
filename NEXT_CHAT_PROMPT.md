@@ -12,7 +12,7 @@ Attach the controlling source PDF again when starting a fresh chat:
 
 ## Durable boundary
 
-**Volume 44 first-pass source transcription is complete: PDF 001–400 / 400; all 53 source records 3484–3536 are complete.**
+**Volume 44 first-pass source transcription and full-volume Tamil structural audit are complete.**
 
 - Scan-confirmed volume: **44**
 - PDF pages: **400**
@@ -25,32 +25,31 @@ Attach the controlling source PDF again when starting a fresh chat:
 - Partial letter: **none**
 - Source-incomplete letter: **none**
 - Final source-completion iteration: **PASS — 3535–3536 / PDF 381–400**
-- Full-volume Tamil structural audit: **pending**
+- Full-volume Tamil structural audit: **PASS**
 - Second visual/textual-fidelity verification: **pending**
-- English translation: **blocked**
+- English translation: **blocked pending Tamil fidelity gate**
 
-Final source boundaries:
+Structural-audit result:
 
-- 3535 — `கமழும் கல்வி நீரோடை - 3` — PDF 381–390 / printed 380–389 — `10-03-2011`.
-- 3536 — `ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)` — PDF 391–399 / printed 390–398 — `11-3-2011`.
-- PDF 400 — back-cover / portrait / publisher-contact-price material; non-letter canonical page.
+- exactly `page-001.md` through `page-400.md` exist in the page tree;
+- exactly 53 contents/chapter records, 3484–3536, are represented once each;
+- chapter coverage is continuous across letter-bearing PDF 024–399, with no gaps or overlaps;
+- PDFs 001–023 remain front matter / contents / blank-verso material;
+- PDF 400 remains non-letter back-cover / portrait / publisher material;
+- `(தொடர்ச்சி நாளை)` remains preserved in Letter 3536 before the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing;
+- no Letter 3537 exists;
+- no deterministic canonical text, boundary, title, date or page-range correction was required by the structural audit.
 
-Preserve all scan-printed anomalies, source English, figures, list markers and source-specific spacing. In the final batch this includes `‘சமத்துவப் பெருவிழா’`, `(Invertors)`, source-specific `2007-09`, `வருவாய்க்குமுள்ள`, `12 ஆயிரத்து 618`, and `பெருமையைப் பெரும் வகையில்`. PDF 399 prints `(தொடர்ச்சி நாளை)` and then the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing; Letter 3536 is complete within the source. PDF 400 contains no Letter 3537.
+The durable audit record is `volumes/volume-44/FULL_VOLUME_STRUCTURAL_AUDIT.md`.
 
 ## Exact next activity
 
-Execute the **FULL-VOLUME TAMIL STRUCTURAL AUDIT — VOLUME 44** only.
+Execute the **SECOND FULL-VOLUME VISUAL/TEXTUAL-FIDELITY VERIFICATION — VOLUME 44**.
 
-Audit:
+Directly compare every canonical physical-page record **PDF 001–400** with the controlling scan. The scan is the highest textual authority. Verify titles, headings, salutations/closings, paragraph and list structure, punctuation, spelling, spacing, names, dates, figures, quotations, English text, anomalies, non-letter pages and physical page boundaries. Record scan-proven corrections in an appropriate fidelity audit record and synchronize the volume/control status files.
 
-1. exactly `page-001.md` through `page-400.md`, no missing/duplicate physical pages;
-2. exactly 53 source records, 3484–3536, each represented once;
-3. contents/chapter/date/page-range synchronization;
-4. chapter coverage with no unintended gaps/overlaps/duplicate bodies;
-5. correct front matter, contents and PDF 400 non-letter handling;
-6. broken links, malformed Markdown, replacement characters, BOM/zero-width characters, obvious structural OCR debris, unexpected files;
-7. source-policy integrity, including preservation of `(தொடர்ச்சி நாளை)` and no invented Letter 3537.
+Do not silently normalize any printed source form. Do not use OCR, contents wording, outside knowledge or another edition to override the scan. If a reading is genuinely unclear, record the uncertainty rather than guessing.
 
-Fix only deterministic structural defects. Do not guess at any textual reading that requires visual judgment; flag such matters for the later second visual/textual-fidelity audit. Synchronize the audit/status/control files and commit the structural-audit changes atomically on `main`. After a PASS, stop. Do not begin the second visual verification or English translation in the same activity.
+English translation remains blocked until this required Tamil fidelity gate permits it.
 
 Before changing anything, fetch live `main`, treat it as authoritative, and preserve concurrent unrelated work.

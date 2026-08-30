@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**Tamil first-pass source transcription is complete through PDF 400 / 400. Letters 3484–3536 are complete.**
+**Tamil first-pass source transcription is complete through PDF 400 / 400, all 53 source records 3484–3536 are complete, and the full-volume Tamil structural audit has passed.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Scan-confirmed volume: **44**
@@ -13,30 +13,37 @@
 - Completed letters: **53 / 53 — 3484–3536**
 - Partial letter: **none**
 - Source-incomplete letter: **none**
-- Translation: **blocked pending Tamil gates**
+- Full-volume Tamil structural audit: **PASS**
+- Translation: **blocked pending remaining Tamil fidelity gate**
 
-## Completed activity — final source-completion iteration
+## Completed activity — full-volume Tamil structural audit
 
-- Directly visually verified and canonically represented every remaining physical source page from PDF **381 through 400**.
-- Completed the final two source records:
-  - **3535 — கமழும் கல்வி நீரோடை - 3** — PDF **381–390** / printed **380–389** — closes `10-03-2011`.
-  - **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF **391–399** / printed **390–398** — closes `11-3-2011`.
-- PDF **400** is canonically represented as non-letter back-cover / portrait / publisher-contact-price material.
-- PDF 399 preserves `(தொடர்ச்சி நாளை)` before the normal closing; this does **not** make Letter 3536 source-incomplete.
-- Source spelling, punctuation, spacing, dates, figures, quotations, English text, list markers, anomalies and physical page boundaries were preserved without silent normalization.
-- Later handwritten/non-printed marks on PDF 400 were excluded from canonical source text.
+The full Volume 44 canonical structure was reconciled after source completion:
+
+- physical page inventory is exactly `page-001.md` through `page-400.md`;
+- the page tree has no missing or out-of-range page record;
+- `contents/index.md` and `chapters/README.md` each contain exactly **53** records, **3484–3536**, once each;
+- chapter coverage is continuous across all letter-bearing pages **PDF 024–399**, with no gap or overlap;
+- PDFs **001–023** remain front matter / contents / blank-verso material;
+- PDF **400** remains non-letter back-cover / portrait / publisher-contact-price material;
+- no accidental Letter 3537 exists;
+- the printed `(தொடர்ச்சி நாளை)` remains preserved in Letter 3536 before its normal `11-3-2011` closing;
+- status/control records reconcile to 400 / 400 pages and 53 / 53 complete source records;
+- no deterministic canonical-text, letter-boundary, title, date or page-range correction was required by the structural gate.
+
+The durable audit record is [`FULL_VOLUME_STRUCTURAL_AUDIT.md`](FULL_VOLUME_STRUCTURAL_AUDIT.md).
 
 ## QA state
 
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate-continuation audit: **PASS — PDF 026–029**
-- Regular five-letter batch audits: **PASS — 3485–3489 / PDF 030–074; 3490–3494 / 075–104; 3495–3499 / 105–139; 3500–3504 / 140–165; 3505–3509 / 166–192; 3510–3514 / 193–229; 3515–3519 / 230–264; 3520–3524 / 265–298; 3525–3529 / 299–331; 3530–3534 / 332–380**
+- Regular five-letter batch audits: **PASS — through 3530–3534 / PDF 332–380**
 - Final source-completion iteration: **PASS — 3535–3536 / PDF 381–400**
-- Full-volume Tamil structural audit: **pending — exact next activity**
-- Second visual verification: **pending**
+- Full-volume Tamil structural audit: **PASS — PDF 001–400 / 53 records**
+- Second full-volume visual/textual-fidelity verification: **pending — exact next activity**
 - Translation textual-fidelity audit: **blocked**
 - English translation: **blocked**
 
 ## Exact next activity
 
-Run the **FULL-VOLUME TAMIL STRUCTURAL AUDIT — VOLUME 44** across all canonical files and control records. Verify exactly `page-001.md` through `page-400.md`, all 53 source records, chapter/page coverage, contents/chapter/metadata synchronization, internal links, Unicode/repository hygiene, non-letter handling for PDF 400 and preservation of `(தொடர்ச்சி நாளை)` in Letter 3536. Do not begin the second visual/textual-fidelity pass or English translation until the structural audit passes.
+Perform the **second full-volume visual/textual-fidelity verification — Volume 44** against the controlling scan, covering all 400 physical canonical pages and recording scan-proven corrections. This is a separate fidelity gate; do not infer that the structural PASS proves character-level textual fidelity. English translation remains blocked until the required Tamil fidelity gate permits it.

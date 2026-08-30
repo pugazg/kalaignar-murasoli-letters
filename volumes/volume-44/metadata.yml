@@ -25,7 +25,7 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-completion-3535-3536-pass; full-volume-structural-audit-pending"
+audit_status: "full-volume-structural-audit-pass"
 audit_date: 2026-08-30
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -55,3 +55,4 @@ source_observations:
   - "Letter 3536 preserves its exact title, '‘சமத்துவப் பெருவிழா’', '(Invertors)', source-specific '2007-09', 'வருவாய்க்குமுள்ள', '12 ஆயிரத்து 618', 'பெருமையைப் பெரும் வகையில்', all printed list markers, figures and English text."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."
   - "PDF 400 is represented as non-letter back-cover / portrait / publisher-contact-price material; later handwritten/non-printed marks are excluded and no Letter 3537 is invented."
+  - "The full-volume Tamil structural audit passed on 2026-08-30: page-001.md through page-400.md and all 53 source records 3484–3536 reconcile without gaps, overlaps or source-incomplete records."
