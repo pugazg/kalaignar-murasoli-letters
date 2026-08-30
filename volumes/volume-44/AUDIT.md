@@ -15,7 +15,8 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 | 6 | Letters 3500–3504 — PDF 140–165 | PASS |
 | 7 | Letters 3505–3509 — PDF 166–192 | PASS |
 | 8 | Letters 3510–3514 — PDF 193–229 | PASS |
-| 9 | Letters 3515–3519 — PDF 230–264 | **PASS** |
+| 9 | Letters 3515–3519 — PDF 230–264 | PASS |
+| 10 | Letters 3520–3524 — PDF 265–298 | **PASS** |
 
 ---
 
@@ -138,6 +139,45 @@ Every canonical page in PDF 230–264 was directly compared against the controll
 
 **PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
 
+---
+
+## Gate 10 — eighth regular five-letter batch 3520–3524 / PDF 265–298 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **34 — page-265.md through page-298.md**
+- Complete consecutive letters: **3520–3524**
+- Verified ranges: 3520 **265–270**, 3521 **271–277**, 3522 **278–283**, 3523 **284–290**, 3524 **291–298**
+- Verified closing dates: **21-12-2010; 22-12-2010; 23-12-2010; 29-12-2010; 31-12-2010**
+- PDF 299 transcribed: **no**; boundary-inspected: **yes — begins Letter 3525 / printed page 298**
+
+### Visual/textual verification
+
+Every canonical page in PDF 265–298 was directly compared against the controlling scan. Titles, salutations, closings, dates, figures, English passages, quotations, unusual spellings/spacing and physical page continuations were checked. OCR was used only as a drafting aid and scan readings controlled corrections.
+
+### Preserved source conditions and anomalies
+
+- Letter 3520 preserves the Arun Shourie English quotation, financial figures, political abbreviations and the visibly printed unusual quoted form `ஓ ஓ ஓதி.மு.க.`.
+- Letter 3521 preserves the CAG/TANSI English passages, including the TANSI land-sale comparison and monetary figures, without translation or normalization.
+- Letter 3522 preserves the employment statistics and source-specific wording, including the visibly printed `இவர்களை அன்னியில்` on PDF 280.
+- Letter 3523 preserves the English headings `Lawless in TamilNadu` and `Time ripe for Regime Change`, dates, quoted editorials and source punctuation.
+- Letter 3524 preserves the Public Department English legal passage, `Art.213 (2) (a)`, dates, quotations and source argument order.
+- PDF 299 / printed page 298 visibly begins Letter 3525 `படித்திடுவீர்; பனகல் அரசர் வரலாறு!`; no PDF 299 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-298.md**
+- Five new chapter records cover every new page exactly once; no partial letter remains
+- Contents, chapter register, metadata, progress, volume/root status, handover and continuation prompt synchronized
+- No U+FFFD replacement characters or unintended zero-width/BOM residue in new records
+- Translation remains blocked
+
+### Gate result
+
+**PASS.** This is the regular five-complete-letter iteration audit, not the later full-volume structural audit, second visual verification or translation textual-fidelity audit.
+
 ## Exact next activity
 
-Start at **PDF 265 / printed page 264** and complete the next regular five-letter iteration: Letters **3520–3524**, each through its actual scan-verified closing.
+Start at **PDF 299 / printed page 298** and complete the next regular five-letter iteration: Letters **3525–3529**, each through its actual scan-verified closing.

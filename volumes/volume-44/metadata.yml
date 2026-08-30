@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள�
 source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
 source_size_bytes: 202106488
 searchable_text_layer: false
-transcription_page_range: "1-264"
+transcription_page_range: "1-298"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3484-3519"
-completed_letter_range: "3484-3519"
-completed_letter_count: 36
+recorded_letter_range: "3484-3524"
+completed_letter_range: "3484-3524"
+completed_letter_count: 41
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-3515-3519-pass"
+audit_status: "batch-3520-3524-pass"
 audit_date: 2026-08-30
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -56,4 +56,9 @@ source_observations:
   - "The latest batch preserves source-specific wording and forms without silent correction, including 3515 'வாக்சால்' (Vauxhall) and unusual printed spacing/forms, 3516 political-name and wording forms, and 3518 its printed poetic quotation."
   - "Letter 3517 preserves the source English headline 'Tamil Nadu Housing Board loses Rs. 5.17 Crore' and all printed figures."
   - "Letter 3519 preserves the long source English Supreme Court passage exactly across the physical PDF 258/259 page split, including 'gentlemen’s agreement. Good' at the end of PDF 258 and 'ethical behaviour...' at the start of PDF 259."
-  - "PDF 265 / printed page 264 begins Letter 3520 and was inspected only to establish the next boundary; it is not yet canonically transcribed."
+  - "Letters 3520–3524 are scan-verified complete across PDF 265–298 / printed pages 264–297."
+  - "Verified closing dates: 3520 21-12-2010; 3521 22-12-2010; 3522 23-12-2010; 3523 29-12-2010; 3524 31-12-2010."
+  - "Letter 3520 preserves the printed Arun Shourie English quotation, financial figures and the source-specific quoted form 'ஓ ஓ ஓதி.மு.க.' without silent normalization."
+  - "Letter 3521 preserves the long source CAG/TANSI English passages and all printed monetary figures; Letter 3523 preserves the English newspaper headings 'Lawless in TamilNadu' and 'Time ripe for Regime Change'."
+  - "Letter 3524 preserves the source Public Department English legal quotation, Article 213 reference and source-specific legal/political wording without editorial repair."
+  - "PDF 299 / printed page 298 begins Letter 3525 and was inspected only to establish the next boundary; it is not yet canonically transcribed."

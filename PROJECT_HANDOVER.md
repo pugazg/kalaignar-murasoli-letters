@@ -22,7 +22,7 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–264 / 400**
+- Canonical Tamil pages: **001–298 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
 - First regular five-letter batch: **PASS — 3485–3489 / PDF 030–074**
@@ -32,15 +32,16 @@ Current durable state:
 - Fifth regular five-letter batch: **PASS — 3505–3509 / PDF 166–192**
 - Sixth regular five-letter batch: **PASS — 3510–3514 / PDF 193–229**
 - Seventh regular five-letter batch: **PASS — 3515–3519 / PDF 230–264**
-- Completed letters: **36 — 3484–3519**
+- Eighth regular five-letter batch: **PASS — 3520–3524 / PDF 265–298**
+- Completed letters: **41 — 3484–3524**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3515 PDF 230–239, 3516 PDF 240–245, 3517 PDF 246–251, 3518 PDF 252–256, and 3519 PDF 257–264. The scan-printed closings are 2-12-2010, 10-12-2010, 12-12-2010, 19-12-2010 and 20-12-2010. Source-specific wording, punctuation, figures, English passages and physical page splits remain unnormalized. Letter 3517 preserves the printed English headline `Tamil Nadu Housing Board loses Rs. 5.17 Crore`. Letter 3519 preserves its extended English Supreme Court passage across the physical PDF 258/259 boundary. PDF 265 / printed page 264 visibly begins Letter 3520 but is not yet canonical.
+The latest batch boundaries are 3520 PDF 265–270, 3521 PDF 271–277, 3522 PDF 278–283, 3523 PDF 284–290, and 3524 PDF 291–298. The scan-printed closings are 21-12-2010, 22-12-2010, 23-12-2010, 29-12-2010 and 31-12-2010. Source-specific wording, punctuation, figures, English passages and physical page boundaries remain unnormalized. PDF 299 / printed page 298 visibly begins Letter 3525 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 265** and execute the next regular five-complete-letter transcription iteration: Letters **3520–3524**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 299** and execute the next regular five-complete-letter transcription iteration: Letters **3525–3529**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
 
 ## Volume 45 — COMPLETE
 

@@ -40,7 +40,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3517 | [என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு?](3517-ennathaan-erichchalo-inthach-sila-edugalukku.md) | 246–251 | 245–250 | complete |
 | 3518 | [வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்!](3518-vayathil-eeraandu-ilaiyon-vanangugiren.md) | 252–256 | 251–255 | complete |
 | 3519 | [உத்தமிகாள்! நீவிர் ஊழல் பற்றிப் பேசலாமா?](3519-uththamigaal-neevir-oozhal-patrip-pesalaamaa.md) | 257–264 | 256–263 | complete |
+| 3520 | [பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்!](3520-pattithotti-engum-panikalaith-thodarnthida-vetri-murasu-kottida-virainthezhveer.md) | 265–270 | 264–269 | complete |
+| 3521 | [புறப்படட்டும், நமது பிரச்சாரப் படை!](3521-purappadattum-namathu-prachaarap-padai.md) | 271–277 | 270–276 | complete |
+| 3522 | [வேலை வாய்ப்பு; அன்றும் இன்றும்!](3522-velai-vaaippu-anrum-inrum.md) | 278–283 | 277–282 | complete |
+| 3523 | [எப்போதுதான் முடியுமோ?](3523-eppothuthaan-mudiyumo.md) | 284–290 | 283–289 | complete |
+| 3524 | [அய்யோ! தாங்க முடியவில்லையே அம்மையாரின் புளுகு!](3524-aiyyo-thaanga-mudiyavillaiye-ammaiyaarin-pulugu.md) | 291–298 | 290–297 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **264 / printed page 263**, covering thirty-six completed letters **3484–3519**. PDF **265 / printed page 264** was inspected only to establish the next boundary and visibly begins Letter **3520**.
+Canonical Tamil is complete through PDF **298 / printed page 297**, covering forty-one completed letters **3484–3524**. PDF **299 / printed page 298** was inspected only to establish the next boundary and visibly begins Letter **3525**.
