@@ -12,44 +12,30 @@ Attach the controlling source PDF again when starting a fresh chat:
 
 ## Durable boundary
 
-**Volume 44 first-pass source transcription and full-volume Tamil structural audit are complete.**
+**Volume 44 Tamil archival preparation is complete through both required full-volume gates.**
 
-- Scan-confirmed volume: **44**
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
-- Date span: **18.07.2010–11.03.2011**
-- Printed contents PDF 018–022: **transcribed**
 - Source inventory: **53 records, 3484–3536**
 - Canonical pages: **400 / 400 — PDF 001–400**
 - Completed letters: **53 / 53 — 3484–3536**
-- Partial letter: **none**
-- Source-incomplete letter: **none**
-- Final source-completion iteration: **PASS — 3535–3536 / PDF 381–400**
+- Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
-- Second visual/textual-fidelity verification: **pending**
-- English translation: **blocked pending Tamil fidelity gate**
+- Second full-volume visual/textual-fidelity verification: **PASS — 400 / 400**
+- Second-pass corrections: **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
+- English translation: **ready for pilot; not started**
 
-Structural-audit result:
-
-- exactly `page-001.md` through `page-400.md` exist in the page tree;
-- exactly 53 contents/chapter records, 3484–3536, are represented once each;
-- chapter coverage is continuous across letter-bearing PDF 024–399, with no gaps or overlaps;
-- PDFs 001–023 remain front matter / contents / blank-verso material;
-- PDF 400 remains non-letter back-cover / portrait / publisher material;
-- `(தொடர்ச்சி நாளை)` remains preserved in Letter 3536 before the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing;
-- no Letter 3537 exists;
-- no deterministic canonical text, boundary, title, date or page-range correction was required by the structural audit.
-
-The durable audit record is `volumes/volume-44/FULL_VOLUME_STRUCTURAL_AUDIT.md`.
+The fidelity repair restored page-scale omitted/truncated source bodies in early reservation-history material. No letter boundary, title, date or chapter range changed. The durable report is `volumes/volume-44/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Execute the **SECOND FULL-VOLUME VISUAL/TEXTUAL-FIDELITY VERIFICATION — VOLUME 44**.
+Execute the planned **three-actual-source-record English translation pilot — Letters 3484, 3485 and 3486**.
 
-Directly compare every canonical physical-page record **PDF 001–400** with the controlling scan. The scan is the highest textual authority. Verify titles, headings, salutations/closings, paragraph and list structure, punctuation, spelling, spacing, names, dates, figures, quotations, English text, anomalies, non-letter pages and physical page boundaries. Record scan-proven corrections in an appropriate fidelity audit record and synchronize the volume/control status files.
-
-Do not silently normalize any printed source form. Do not use OCR, contents wording, outside knowledge or another edition to override the scan. If a reading is genuinely unclear, record the uncertainty rather than guessing.
-
-English translation remains blocked until this required Tamil fidelity gate permits it.
+1. Use the audited canonical Tamil as the immediate source: Letter 3484 PDF **024–029**, Letter 3485 PDF **030–037**, Letter 3486 PDF **038–045**.
+2. Preserve thought/argument order, irony, accusation, repetition, rhetorical questions, figures, source English and source anomalies.
+3. Use `Udanpirappē` for the characteristic salutation where applicable and `With affection, M.K.` for the standard closing.
+4. Include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` in every pilot bilingual record.
+5. Do not use OCR, contents wording or outside knowledge to silently alter the audited Tamil.
+6. Complete only the three pilot records in this activity. Then stop for the separate pilot source-alignment/convention-lock review before regular five-record batches.
 
 Before changing anything, fetch live `main`, treat it as authoritative, and preserve concurrent unrelated work.

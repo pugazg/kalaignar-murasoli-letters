@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; full-volume structural audit PASS; second visual/textual-fidelity pending** | **53 / 53 — 3484–3536 complete** | **blocked pending Tamil fidelity gate** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **ready for 3484–3486 pilot; not started** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -32,9 +32,11 @@
 
 ## Volume 44 — active
 
-Volume 44 has canonical Tamil for **PDF 001–400 / 400** and all **53 source records 3484–3536** are complete. The **full-volume Tamil structural audit is PASS**: exactly 400 physical page records are present; the 53 chapter/content records reconcile without gaps or overlaps; PDF 400 remains non-letter material; and no Letter 3537 exists.
+Volume 44 has canonical Tamil for **PDF 001–400 / 400** and all **53 source records 3484–3536** are complete. Both required full-volume Tamil gates are now **PASS**: structural audit and second direct visual/textual-fidelity verification.
 
-Letter 3536 continues to preserve the printed `(தொடர்ச்சி நாளை)` before its normal `அன்புள்ள, / மு.க. / 11-3-2011` closing, so it is complete within Volume 44. The exact next activity is the **second full-volume visual/textual-fidelity verification**. English translation remains blocked pending that Tamil fidelity gate.
+The fidelity pass restored page-scale omissions/truncations on **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**. The repairs changed source bodies only; record boundaries, titles and dates remain unchanged.
+
+English has **not** started. The exact next activity is the planned three-record pilot **3484–3486 / PDF 024–045**, followed by the separate pilot alignment/convention-lock review.
 
 ## Volume 45 — released
 

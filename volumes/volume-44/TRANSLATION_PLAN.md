@@ -1,16 +1,16 @@
 # Volume 44 — English Translation Plan
 
-**Status:** blocked — Tamil archival gates are incomplete.
+**Status:** ready for pilot — all required Tamil archival gates are complete; English drafting has not started.
 
-English translation must not begin merely because transcription batches exist. It is unlocked only after:
+English translation is now permitted because:
 
-1. all available Volume 44 PDF pages have canonical Tamil files;
-2. the full-volume Tamil structural audit passes; and
-3. the relevant source pages pass scan-based textual-fidelity verification.
+1. all 400 Volume 44 PDF pages have canonical Tamil files;
+2. the full-volume Tamil structural audit has passed; and
+3. the second full-volume scan-based visual/textual-fidelity verification has passed for PDF 001–400.
 
-## Planned pilot after Tamil gates
+## Planned pilot
 
-If no later approved Volume 44-specific plan supersedes this file, begin with a representative **three-actual-source-record pilot**, perform bilingual source-alignment review, document and lock Volume 44 conventions, then proceed in default batches of **five actual source records** with a separate alignment gate after each batch.
+Begin with a representative **three-actual-source-record pilot: Letters 3484–3486 / PDF 024–045**. Complete the bilingual records, then perform a separate source-alignment review and document/lock Volume 44 translation conventions before proceeding in default batches of **five actual source records**.
 
 ## Baseline translation policy
 
@@ -21,5 +21,6 @@ If no later approved Volume 44-specific plan supersedes this file, begin with a 
 - Preserve genuinely printed source English verbatim.
 - Preserve source anomalies and source gaps rather than repairing them.
 - Every bilingual record must include the complete available audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
+- The audited canonical Tamil is the immediate translation source; OCR, contents wording and outside knowledge may not silently override it.
 
 No Volume 44 translation convention is considered pilot-locked yet.

@@ -21,31 +21,29 @@
 |---|---|
 | Source intake | **PASS** |
 | Canonical Tamil pages | **400 / 400 — PDF 001–400** |
-| Printed contents transcription | **complete — PDF 018–022** |
 | Completed letters | **53 / 53 — 3484–3536** |
-| Partial letter | **none** |
-| Source-incomplete letter | **none** |
+| Partial/source-incomplete letters | **none** |
 | First-pass source transcription | **complete** |
 | Full-volume Tamil structural audit | **PASS** |
-| Second visual/textual-fidelity verification | **pending** |
-| English translation | **blocked** |
-| Bilingual alignment | blocked |
-| English release | blocked |
+| Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
+| English translation | **ready for pilot; not started** |
+| Bilingual alignment | not started |
+| English release | not started |
 
 ## Durable Tamil state
 
-Tamil first-pass source transcription is complete for **all 400 physical PDF pages**. All **53 source records, 3484–3536**, are complete; no partial or source-incomplete letter remains.
+All available Volume 44 source pages and records have passed the required Tamil gates. The [full-volume structural audit](FULL_VOLUME_STRUCTURAL_AUDIT.md) is **PASS**, and the [second full-volume visual/textual-fidelity audit](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) is **PASS**.
 
-The final source records are:
+The second pass restored complete scan-controlled page bodies on PDFs **040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065**. These were page-scale first-pass omissions/truncations; no letter boundary, title, date or chapter range changed.
+
+Final source boundaries remain:
 
 - **3535 — கமழும் கல்வி நீரோடை - 3** — PDF **381–390** / printed **380–389** — `10-03-2011`.
 - **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF **391–399** / printed **390–398** — `11-3-2011`.
-- **PDF 400** — back-cover / portrait / publisher-contact-price material; canonical non-letter page; no Letter 3537.
+- **PDF 400** — canonical non-letter back-cover / portrait / publisher-contact-price material; no Letter 3537.
 
-PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal `அன்புள்ள, / மு.க. / 11-3-2011` closing, so Letter 3536 is complete within this source.
-
-The [full-volume Tamil structural audit](FULL_VOLUME_STRUCTURAL_AUDIT.md) is **PASS**. It reconciled exactly `page-001.md` through `page-400.md`, all 53 contents/chapter records, continuous letter-bearing coverage PDF 024–399, control-file synchronization and PDF 400 non-letter handling. No deterministic Tamil body or boundary correction was required by the structural gate.
+PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` followed by the normal closing.
 
 ## Exact next activity
 
-Perform the **second full-volume visual/textual-fidelity verification — Volume 44**, directly comparing all 400 canonical physical-page records with the controlling scan. English translation remains blocked until the required Tamil fidelity gate permits it.
+Begin the approved **three-source-record English translation pilot — Letters 3484–3486**, using the audited canonical Tamil for PDF **024–045**. English drafting itself has not begun yet.

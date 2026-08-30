@@ -25,12 +25,15 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass"
+audit_status: "second-full-volume-visual-textual-fidelity-pass"
 audit_date: 2026-08-30
-second_visual_verification: "pending"
-second_visual_verified_page_range: null
-textual_fidelity_audit_reports: []
-translation_status: "blocked-pending-tamil-gates"
+second_visual_verification: "pass"
+second_visual_verified_page_range: "1-400"
+second_visual_verified_pages: 400
+second_visual_correction_pages: 13
+textual_fidelity_audit_reports:
+  - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
+translation_status: "ready-for-pilot"
 translated_letter_range: null
 translated_letter_count: 0
 bilingual_alignment_status: "not-started"
@@ -42,17 +45,12 @@ source_observations:
   - "PDF 005 and PDF 023 are visually blank/verso pages with bleed-through."
   - "No usable searchable text layer was found; OCR/text extraction is not authoritative."
   - "All 400 PDF pages reported rotation 0 during intake inspection; no exact duplicate-page raster signal was detected."
-  - "Letters 3484–3529 are scan-verified complete through PDF 331 / printed page 330; their prior batch anomalies remain preserved in canonical pages and audit records."
-  - "Letters 3530–3534 are scan-verified complete across PDF 332–380 / printed pages 331–379."
-  - "Verified closing dates: 3530 3-3-2011; 3531 4-03-2011; 3532 05-03-2011; 3533 06.03-2011; 3534 09-03-2011."
-  - "Letter 3530 preserves source-specific election-schedule wording and spacing, including 'கடைசி யிலோ', 'நாடாளு மன்றத்திலும்', 'குறிக்கப்பட வில்லை', 'உச்ச நீதி மன்றத்திலே', 'திராவிட முன்னேற்றக்கழகத்துக் காளைகளை' and 'நிரல் படுத்திச்'."
-  - "Letter 3531 preserves the printed Tirukkural lines, agricultural figures, 'மைய அரசு' wording, bullet structure and the scan-printed quotation '“இராஜராஜன் 1000”'."
-  - "Letter 3532 preserves the printed internally unusual figure '37 கோடியே 391 இலட்சம் ரூபாய்' and the source's agricultural, horticultural, sugar-sector and staffing figures without arithmetic or editorial normalization."
-  - "Letter 3533 preserves the printed Valluvar quotation, source English '(Internet with broadband facilities)', '(Lateral Entry)' and '(Shift System)', education figures and list markers."
-  - "Letter 3534 preserves the Naladiyar quotation, 11,307 teacher-post figure, source form '18299' for the school count, '3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்' compound-wall figure, disability-program figures '90 ஆயிரத்து 543' and '75 ஆயிரத்து 174', the '1144' school / '73 இலட்சம்' figure, and the internally inconsistent printed model-school statement without silent correction."
+  - "Letters 3484–3536 are complete; no partial or source-incomplete record remains."
+  - "The full-volume Tamil structural audit passed on 2026-08-30: page-001.md through page-400.md and all 53 source records 3484–3536 reconcile without gaps, overlaps or source-incomplete records."
+  - "The second full-volume visual/textual-fidelity verification passed on 2026-08-30 for PDF 001–400."
+  - "Second-pass scan comparison restored page-scale omitted/truncated source bodies on PDFs 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065; no letter boundary, title or date changed."
+  - "PDF 060 preserves the printed English quotation beginning 'If the AIADMK Government in Tamil Nadu finds itself isolated today...' without translation or normalization."
   - "Letter 3535 is scan-verified complete across PDF 381–390 / printed pages 380–389 and closes 10-03-2011."
   - "Letter 3536 is scan-verified complete across PDF 391–399 / printed pages 390–398 and closes 11-3-2011."
-  - "Letter 3536 preserves its exact title, '‘சமத்துவப் பெருவிழா’', '(Invertors)', source-specific '2007-09', 'வருவாய்க்குமுள்ள', '12 ஆயிரத்து 618', 'பெருமையைப் பெரும் வகையில்', all printed list markers, figures and English text."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' but subsequently prints the normal 'அன்புள்ள, / மு.க. / 11-3-2011' closing; Letter 3536 is therefore complete within this Volume 44 source."
   - "PDF 400 is represented as non-letter back-cover / portrait / publisher-contact-price material; later handwritten/non-printed marks are excluded and no Letter 3537 is invented."
-  - "The full-volume Tamil structural audit passed on 2026-08-30: page-001.md through page-400.md and all 53 source records 3484–3536 reconcile without gaps, overlaps or source-incomplete records."
