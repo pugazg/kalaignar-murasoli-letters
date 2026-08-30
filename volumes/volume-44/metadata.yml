@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065830_கலைஞரின்_கடிதங்கள�
 source_sha256: "573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d"
 source_size_bytes: 202106488
 searchable_text_layer: false
-transcription_page_range: "1-331"
+transcription_page_range: "1-380"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3484-3529"
-completed_letter_range: "3484-3529"
-completed_letter_count: 46
+recorded_letter_range: "3484-3534"
+completed_letter_range: "3484-3534"
+completed_letter_count: 51
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-3525-3529-pass"
+audit_status: "batch-3530-3534-pass"
 audit_date: 2026-08-30
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -38,31 +38,16 @@ english_release_status: "not-started"
 source_observations:
   - "Volume number 44 is printed on the front cover and title page."
   - "Front cover/title page print the date span 18.07.2010–11.03.2011."
-  - "Printed contents PDF 018–022 have now been visually transcribed and enumerate 53 records, 3484–3536; contents do not control later letter-boundary or title verification."
+  - "Printed contents PDF 018–022 have been visually transcribed and enumerate 53 records, 3484–3536; contents do not control later letter-boundary or title verification."
   - "PDF 005 and PDF 023 are visually blank/verso pages with bleed-through."
   - "No usable searchable text layer was found; OCR/text extraction is not authoritative."
   - "All 400 PDF pages reported rotation 0 during intake inspection; no exact duplicate-page raster signal was detected."
-  - "Letters 3484–3504 are scan-verified complete through PDF 165 / printed page 164; earlier batch anomalies remain preserved in their canonical page files and audit records."
-  - "Letters 3505–3509 are scan-verified complete across PDF 166–192 / printed pages 165–191."
-  - "Verified closing dates: 3505 17-10-2010; 3506 19-10-2010; 3507 24-10-2010; 3508 27-10-2010; 3509 1-11-2010."
-  - "The batch preserves source-specific forms including 3505 'வாழ்க வசவாளர்கள்!', 3508 'கழிபேருவகையினையும்', joined 'வீடுவழங்கும் திட்டத்தின்' forms, and 3509 'மத்திய அரசம்' / 'எதிர் மறை' without silent correction."
-  - "Letters 3510–3514 are scan-verified complete across PDF 193–229 / printed pages 192–228."
-  - "Verified closing dates: 3510 3-11-2010; 3511 4-11-2010; 3512 14-11-2010; 3513 17-11-2010; 3514 30-11-2010."
-  - "The printed contents title for 3513 reads 'மனு தாமதத்திற்கு மறு பிறவி கிடையாது!' while the actual letter-start title on PDF 214 reads 'மனு தர்மத்திற்கு மறு பிறவி கிடையாது!'; both readings are preserved separately."
-  - "Letter 3512 preserves the source English quotations and technical references without translation or normalization; Letter 3513 preserves its source English quotations and the post-closing distribution instruction on PDF 222."
-  - "Letter 3514 preserves printed vote figures, bonus figures, benefit lists and source-specific spacing without silent correction."
-  - "Letters 3515–3519 are scan-verified complete across PDF 230–264 / printed pages 229–263."
-  - "Verified closing dates: 3515 2-12-2010; 3516 10-12-2010; 3517 12-12-2010; 3518 19-12-2010; 3519 20-12-2010."
-  - "The latest batch preserves source-specific wording and forms without silent correction, including 3515 'வாக்சால்' (Vauxhall) and unusual printed spacing/forms, 3516 political-name and wording forms, and 3518 its printed poetic quotation."
-  - "Letter 3517 preserves the source English headline 'Tamil Nadu Housing Board loses Rs. 5.17 Crore' and all printed figures."
-  - "Letter 3519 preserves the long source English Supreme Court passage exactly across the physical PDF 258/259 page split, including 'gentlemen’s agreement. Good' at the end of PDF 258 and 'ethical behaviour...' at the start of PDF 259."
-  - "Letters 3520–3524 are scan-verified complete across PDF 265–298 / printed pages 264–297."
-  - "Verified closing dates: 3520 21-12-2010; 3521 22-12-2010; 3522 23-12-2010; 3523 29-12-2010; 3524 31-12-2010."
-  - "Letters 3525–3529 are scan-verified complete across PDF 299–331 / printed pages 298–330."
-  - "Verified closing dates: 3525 7-1-2011; 3526 12-1-2011; 3527 13-1-2011; 3528 26-1-2011; 3529 27-02-2011."
-  - "Letter 3525 preserves the Panagal Arasar biographical/source quotation wording and printed figures without normalization."
-  - "Letter 3526 preserves the detailed land-survey numbers, administrative explanations and source-specific spellings exactly as visually checked."
-  - "Letter 3527 preserves the media-report quotations, 108 ambulance references, 'பேக்ஸ்' form and women-commando clarification."
-  - "Letter 3528 preserves the source English terms 'presumptive', 'Social Benefit', '(Revenue per User)' and the Arun Shourie English quotation, together with all printed spectrum figures."
-  - "Letter 3529 preserves the government-employee history, 'ஜேக்டோ-ஜியோ', 'எஸ்மா', 'டெஸ்மா', dates and monetary figures without editorial repair."
-  - "PDF 332 / printed page 331 begins Letter 3530 and was inspected only to establish the next boundary; it is not yet canonically transcribed."
+  - "Letters 3484–3529 are scan-verified complete through PDF 331 / printed page 330; their prior batch anomalies remain preserved in canonical pages and audit records."
+  - "Letters 3530–3534 are scan-verified complete across PDF 332–380 / printed pages 331–379."
+  - "Verified closing dates: 3530 3-3-2011; 3531 4-03-2011; 3532 05-03-2011; 3533 06.03-2011; 3534 09-03-2011."
+  - "Letter 3530 preserves source-specific election-schedule wording and spacing, including 'கடைசி யிலோ', 'நாடாளு மன்றத்திலும்', 'குறிக்கப்பட வில்லை', 'உச்ச நீதி மன்றத்திலே', 'திராவிட முன்னேற்றக்கழகத்துக் காளைகளை' and 'நிரல் படுத்திச்'."
+  - "Letter 3531 preserves the printed Tirukkural lines, agricultural figures, 'மைய அரசு' wording, bullet structure and the scan-printed quotation '“இராஜராஜன் 1000”'."
+  - "Letter 3532 preserves the printed internally unusual figure '37 கோடியே 391 இலட்சம் ரூபாய்' and the source's agricultural, horticultural, sugar-sector and staffing figures without arithmetic or editorial normalization."
+  - "Letter 3533 preserves the printed Valluvar quotation, source English '(Internet with broadband facilities)', '(Lateral Entry)' and '(Shift System)', education figures and list markers."
+  - "Letter 3534 preserves the Naladiyar quotation, 11,307 teacher-post figure, source form '18299' for the school count, '3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்' compound-wall figure, disability-program figures '90 ஆயிரத்து 543' and '75 ஆயிரத்து 174', the '1144' school / '73 இலட்சம்' figure, and the internally inconsistent printed model-school statement without silent correction."
+  - "PDF 381 / printed page 380 begins Letter 3535 and was inspected only to establish the next boundary; it is not yet canonically transcribed."

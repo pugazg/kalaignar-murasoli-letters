@@ -22,19 +22,19 @@ Current durable state:
 - Date span: **18.07.2010–11.03.2011**
 - Printed contents: **PDF 018–022 — transcribed**
 - Source inventory from contents: **53 records, 3484–3536**
-- Canonical Tamil pages: **001–331 / 400**
+- Canonical Tamil pages: **001–380 / 400**
 - First-batch iteration audit: **PASS — PDF 001–025**
 - Letter 3484 immediate continuation: **PASS — PDF 026–029**
-- Regular five-letter batches through **3525–3529 / PDF 299–331: PASS**
-- Completed letters: **46 — 3484–3529**
+- Regular five-letter batches through **3530–3534 / PDF 332–380: PASS**
+- Completed letters: **51 — 3484–3534**
 - Partial letter: **none**
 - English: **blocked**
 
-The latest batch boundaries are 3525 PDF 299–301, 3526 PDF 302–311, 3527 PDF 312–317, 3528 PDF 318–325, and 3529 PDF 326–331. The scan-printed closings are 7-1-2011, 12-1-2011, 13-1-2011, 26-1-2011 and 27-02-2011. Source-specific wording, punctuation, figures, English passages and physical page boundaries remain unnormalized. PDF 332 / printed page 331 visibly begins Letter 3530 but is not yet canonical.
+The latest batch boundaries are 3530 PDF 332–337, 3531 PDF 338–349, 3532 PDF 350–359, 3533 PDF 360–369, and 3534 PDF 370–380. The scan-printed closings are 3-3-2011, 4-03-2011, 05-03-2011, 06.03-2011 and 09-03-2011. Source-specific wording, punctuation, figures, quotations, English passages, list markers and physical page boundaries remain unnormalized. PDF 381 / printed page 380 visibly begins Letter 3535 but is not yet canonical.
 
 ### Exact next activity
 
-Start at **PDF 332** and execute the next regular five-complete-letter transcription iteration: Letters **3530–3534**. Verify every physical page against the controlling scan, establish each actual closing directly from the source, synchronize all control files, and commit the five consecutive complete letters atomically.
+Start at **PDF 381** and execute the final source-completion transcription iteration: Letters **3535–3536**. Verify every remaining physical page against the controlling scan, establish both source closings (or document any source-incomplete ending if the scan proves one), synchronize all control files, and then run the full-volume Tamil structural audit. Do not invent a five-letter batch beyond the 53-record source inventory.
 
 ## Volume 45 — COMPLETE
 

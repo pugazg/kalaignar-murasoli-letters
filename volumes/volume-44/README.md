@@ -20,21 +20,14 @@
 | Gate / area | Status |
 |---|---|
 | Source intake | **PASS** |
-| Canonical Tamil pages | **331 / 400 — PDF 001–331** |
+| Canonical Tamil pages | **380 / 400 — PDF 001–380** |
 | Printed contents transcription | **complete — PDF 018–022** |
-| Completed letters | **46 / 53 — 3484–3529** |
+| Completed letters | **51 / 53 — 3484–3534** |
 | Partial letter | **none** |
 | First-batch iteration audit | **PASS — PDF 001–025** |
 | Letter 3484 immediate-continuation audit | **PASS — PDF 026–029** |
-| First regular five-letter batch audit | **PASS — 3485–3489 / PDF 030–074** |
-| Second regular five-letter batch audit | **PASS — 3490–3494 / PDF 075–104** |
-| Third regular five-letter batch audit | **PASS — 3495–3499 / PDF 105–139** |
-| Fourth regular five-letter batch audit | **PASS — 3500–3504 / PDF 140–165** |
-| Fifth regular five-letter batch audit | **PASS — 3505–3509 / PDF 166–192** |
-| Sixth regular five-letter batch audit | **PASS — 3510–3514 / PDF 193–229** |
-| Seventh regular five-letter batch audit | **PASS — 3515–3519 / PDF 230–264** |
-| Eighth regular five-letter batch audit | **PASS — 3520–3524 / PDF 265–298** |
-| Ninth regular five-letter batch audit | **PASS — 3525–3529 / PDF 299–331** |
+| Regular five-letter batches through 3525–3529 | **PASS — through PDF 331** |
+| Tenth regular five-letter batch audit | **PASS — 3530–3534 / PDF 332–380** |
 | Full-volume Tamil structural audit | blocked |
 | Second visual verification | pending |
 | English translation | blocked |
@@ -43,14 +36,14 @@
 
 ## Current durable boundary
 
-Canonical Tamil is now complete through **PDF 331 / printed page 330**, with forty-six complete source letters **3484–3529**. The ninth normal five-complete-letter batch, **3525–3529 / PDF 299–331**, has passed its iteration-level visual/textual audit.
+Canonical Tamil is now complete through **PDF 380 / printed page 379**, with fifty-one complete source letters **3484–3534**. The tenth normal five-complete-letter batch, **3530–3534 / PDF 332–380**, has passed its iteration-level visual/textual audit.
 
-Verified ranges are 3525 PDF 299–301, 3526 PDF 302–311, 3527 PDF 312–317, 3528 PDF 318–325, and 3529 PDF 326–331. Source English, figures, printed anomalies and physical page boundaries were preserved.
+Verified ranges are 3530 PDF 332–337, 3531 PDF 338–349, 3532 PDF 350–359, 3533 PDF 360–369, and 3534 PDF 370–380. Scan-printed source anomalies, English text, figures, quotations, list markers and physical page boundaries were preserved.
 
-PDF **332 / printed page 331** visibly begins Letter **3530 — ஆணையத்தின் ஆணை பிறந்து விட்டது!**. It was inspected only to establish the next boundary and is not yet a canonical page.
+PDF **381 / printed page 380** visibly begins Letter **3535 — கமழும் கல்வி நீரோடை - 3**. It was inspected only to establish the next boundary and is not yet a canonical page.
 
 ## Exact next activity
 
-Begin at **PDF 332** and perform the next regular **five complete consecutive letters** iteration: Letters **3530–3534**. Verify every physical page against the controlling scan and stop only after the actual closing of Letter 3534 is established. Contents page numbers remain navigation aids, not boundary authority.
+Complete the **two remaining source records 3535–3536**, beginning at PDF 381. Verify every physical page directly against the controlling scan and establish the true closing/source completeness of both records. Once the source transcription is complete, proceed to the full-volume Tamil structural audit.
 
 English translation remains blocked until the required Tamil gates are complete.

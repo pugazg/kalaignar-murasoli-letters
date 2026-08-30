@@ -50,14 +50,14 @@ The contents wording below is preserved from controlling PDF pages **018–022**
 | 3527 | நஞ்சைக் கக்கிடுவோர்; நெஞ்சைத் தொட்டுச் சொல்வாரா? (2) | 13-1-2011 | 311 | 312 | 317 | complete |
 | 3528 | அரசியல் ஆக்க விரும்புவோர்க்கு விளக்கம்! | 26-1-2011 | 317 | 318 | 325 | complete |
 | 3529 | அரசு அலுவலர்களும் அம்மையார் ஜெயலலிதாவும்! | 27-02-2011 | 325 | 326 | 331 | complete |
-| 3530 | ஆணையத்தின் ஆணை பிறந்து விட்டது! | 3-3-2011 | 331 | 332 | — | pending |
-| 3531 | விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது! | 4-03-2011 | 337 | — | — | pending |
-| 3532 | விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது! | 05-03-2011 | 349 | — | — | pending |
-| 3533 | கமழும் கல்வி நீரோடை! | 06.03-2011 | 359 | — | — | pending |
-| 3534 | கமழும் கல்வி நீரோடை - 2 | 09-03-2011 | 369 | — | — | pending |
+| 3530 | ஆணையத்தின் ஆணை பிறந்து விட்டது! | 3-3-2011 | 331 | 332 | 337 | complete |
+| 3531 | விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது! | 4-03-2011 | 337 | 338 | 349 | complete |
+| 3532 | விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது! | 05-03-2011 | 349 | 350 | 359 | complete |
+| 3533 | கமழும் கல்வி நீரோடை! | 06.03-2011 | 359 | 360 | 369 | complete |
+| 3534 | கமழும் கல்வி நீரோடை - 2 | 09-03-2011 | 369 | 370 | 380 | complete |
 | 3535 | கமழும் கல்வி நீரோடை - 3 | 10-03-2011 | 380 | — | — | pending |
 | 3536 | ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1) | 11-3-2011 | 390 | — | — | pending |
 
 ## Source-note policy
 
-The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3529 are scan-verified complete through PDF 331 / printed page 330. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately. PDF 332 / printed page 331 was inspected for boundary only and begins Letter 3530; its body is not yet canonically transcribed.
+The mixed date forms and unusual printed wording are deliberate archival preservation. They are not silently normalized. Letters 3484–3534 are scan-verified complete through PDF 380 / printed page 379. The actual Letter 3490 start title prints `அமைந்திட...!` while the contents row prints `அமைந்திட....!`; both source forms are intentionally retained. The contents row for Letter 3513 prints `மனு தாமதத்திற்கு மறு பிறவி கிடையாது!`, while the actual letter-start title on PDF 214 prints `மனு தர்மத்திற்கு மறு பிறவி கிடையாது!`; these distinct source readings are preserved separately. PDF 381 / printed page 380 was inspected for boundary only and begins Letter 3535; its body is not yet canonically transcribed.

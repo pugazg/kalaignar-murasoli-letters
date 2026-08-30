@@ -17,7 +17,8 @@ Detailed audit history for Gates 0–5 is preserved verbatim in [`AUDIT_HISTORY_
 | 8 | Letters 3510–3514 — PDF 193–229 | PASS |
 | 9 | Letters 3515–3519 — PDF 230–264 | PASS |
 | 10 | Letters 3520–3524 — PDF 265–298 | PASS |
-| 11 | Letters 3525–3529 — PDF 299–331 | **PASS** |
+| 11 | Letters 3525–3529 — PDF 299–331 | PASS |
+| 12 | Letters 3530–3534 — PDF 332–380 | **PASS** |
 
 ---
 
@@ -140,7 +141,6 @@ Every canonical page in PDF 230–264 was directly compared against the controll
 
 **PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
 
-
 ---
 
 ## Gate 10 — eighth regular five-letter batch 3520–3524 / PDF 265–298 — PASS
@@ -231,6 +231,59 @@ Every canonical page in PDF 299–331 was directly compared against the controll
 
 **PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
 
+---
+
+## Gate 12 — tenth regular five-letter batch 3530–3534 / PDF 332–380 — PASS
+
+**Date:** 2026-08-30
+
+### Scope
+
+- Canonical pages created: **49 — page-332.md through page-380.md**
+- Physical PDF scope transcribed: **332–380 exactly**
+- Complete consecutive letters: **3530, 3531, 3532, 3533, 3534**
+- Verified ranges:
+  - 3530 — PDF **332–337** / printed **331–336**
+  - 3531 — PDF **338–349** / printed **337–348**
+  - 3532 — PDF **350–359** / printed **349–358**
+  - 3533 — PDF **360–369** / printed **359–368**
+  - 3534 — PDF **370–380** / printed **369–379**
+- Verified closing dates: **3-3-2011; 4-03-2011; 05-03-2011; 06.03-2011; 09-03-2011**
+- PDF 381 transcribed: **no**
+- PDF 381 inspected for boundary only: **yes — begins Letter 3535 / printed page 380**
+
+### Visual/textual verification
+
+Every physical page in PDF 332–380 was directly compared with the controlling scan before promotion. Letter starts, source titles, salutations, paragraph/list structure, figures, quoted material, English parentheticals, closings, dates and physical page boundaries were checked. OCR remained a navigation/drafting aid only. Targeted scan rechecks corrected draft readings before promotion, including PDF 334 `ஏப்ரல் 13-ந்தேதியே` and the source spacings `கடைசி யிலோ`, `நாடாளு மன்றத்திலும்`, `குறிக்கப்பட வில்லை`, `உச்ச நீதி மன்றத்திலே`; PDF 339 `சுழன்றும்ஏர்ப்` and the closing quotation in `தள்ளுபடி செய்வோம்”`; PDF 341 `4 ஆயிரத்து 137 கோடியே 34 இலட்சம்`; PDF 348 `“இராஜராஜன் 1000”`; PDF 364/368 source list markers; PDF 365 the semicolon before `கலந்தாய்வு`; PDF 371 `நடைமுறைப்படுத்தியது` and `-என`; PDF 373 source count `18299`; PDF 374 `3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்`; and PDF 380 closing `09-03-2011`.
+
+### Preserved source conditions and anomalies
+
+- Letter 3530 preserves the election-schedule wording and source-specific spacing/forms, including `கடைசி யிலோ`, `நாடாளு மன்றத்திலும்`, `குறிக்கப்பட வில்லை`, `உச்ச நீதி மன்றத்திலே`, `திராவிட முன்னேற்றக்கழகத்துக் காளைகளை`, and `நிரல் படுத்திச்` without silent normalization.
+- Letter 3531 preserves the printed Tirukkural lines, including `சுழன்றும்ஏர்ப்`, all agricultural figures, source `மைய அரசு`, list structure, and the scan quotation `“இராஜராஜன் 1000”`. The visually verified 2001–2006 agriculture allocation is `4 ஆயிரத்து 137 கோடியே 34 இலட்சம் ரூபாய்`.
+- Letter 3532 preserves the internally unusual printed figure `37 கோடியே 391 இலட்சம் ரூபாய்`, horticultural and agricultural facility figures, `‘தொழிற் கொள்கை 2007’`, sugar-sector statistics, institution names and staffing figures without arithmetic or editorial repair.
+- Letter 3533 preserves the Valluvar quotation, source English `(Internet with broadband facilities)`, `(Lateral Entry)` and `(Shift System)`, education figures and source list markers. It closes with the scan-printed mixed date form `06.03-2011`.
+- Letter 3534 preserves the Naladiyar quotation, the `11,307` teacher-post figure, source form `18299` for the school count, `3 இலட்சத்து 35 ஆயிரத்து 37 மீட்டர்` of compound wall, disability-program figures `90 ஆயிரத்து 543` and `75 ஆயிரத்து 174`, `1144` schools / `73 இலட்சம்`, and the internally inconsistent model-school statement (`44` educationally backward unions but `18` model schools / `54 கோடி`) exactly as printed.
+- PDF 381 / printed page 380 visibly begins Letter 3535 `கமழும் கல்வி நீரோடை - 3`; no PDF 381 body is canonical in this batch.
+
+### Structural checks
+
+- Continuous canonical pages after commit: **page-001.md through page-380.md**
+- New page range: **332–380** with printed-page metadata **331–379**
+- Five new chapter records cover every new page exactly once
+- All five records close within the batch; no partial letter remains
+- `contents/index.md` synchronized through Letter 3534 and boundary-only start of 3535
+- `chapters/README.md` synchronized through Letter 3534
+- `metadata.yml`, `PROGRESS.md`, volume/root README, handover and continuation prompt synchronized
+- No U+FFFD replacement characters in new pages/control records
+- No BOM or unintended zero-width characters in new pages/control records
+- No duplicate page numbers or duplicate chapter coverage in the new batch
+- PDF 381 canonical page intentionally absent
+- Translation remains blocked pending completion of the remaining Tamil gates
+
+### Gate result
+
+**PASS.** This is the required regular five-complete-letter iteration audit. It is not the later full-volume structural audit, second direct visual/textual-fidelity verification, or translation textual-fidelity audit.
+
 ## Exact next activity
 
-Start at **PDF 332 / printed page 331** and complete the next regular five-letter iteration: Letters **3530–3534**, each through its actual scan-verified closing.
+Start at **PDF 381 / printed page 380** and complete the final two source records **3535–3536** through their actual scan-verified endings. If the source itself ends incomplete, record that condition rather than inventing text. After the source transcription is complete, run the full-volume Tamil structural audit.

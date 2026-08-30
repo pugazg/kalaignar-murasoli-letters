@@ -40,7 +40,6 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3517 | [என்னதான் எரிச்சலோ; இந்தச் சில ஏடுகளுக்கு?](3517-ennathaan-erichchalo-inthach-sila-edugalukku.md) | 246–251 | 245–250 | complete |
 | 3518 | [வயதில் ஈராண்டு இளையோன்; வணங்குகிறேன்!](3518-vayathil-eeraandu-ilaiyon-vanangugiren.md) | 252–256 | 251–255 | complete |
 | 3519 | [உத்தமிகாள்! நீவிர் ஊழல் பற்றிப் பேசலாமா?](3519-uththamigaal-neevir-oozhal-patrip-pesalaamaa.md) | 257–264 | 256–263 | complete |
-
 | 3520 | [பட்டிதொட்டி எங்கும் பணிகளைத் தொடர்ந்திட; வெற்றி முரசு கொட்டிட விரைந்தெழுவீர்!](3520-pattithotti-engum-panikalaith-thodarnthida-vetri-murasu-kottida-virainthezhveer.md) | 265–270 | 264–269 | complete |
 | 3521 | [புறப்படட்டும், நமது பிரச்சாரப் படை!](3521-purappadattum-namathu-prachaarap-padai.md) | 271–277 | 270–276 | complete |
 | 3522 | [வேலை வாய்ப்பு; அன்றும் இன்றும்!](3522-velai-vaaippu-anrum-inrum.md) | 278–283 | 277–282 | complete |
@@ -51,7 +50,12 @@ Printed contents enumerate **53 source records, 3484–3536**. Actual source bou
 | 3527 | [நஞ்சைக் கக்கிடுவோர்; நெஞ்சைத் தொட்டுச் சொல்வாரா? (2)](3527-nanjaik-kakkiduvor-nenjaith-thottuch-solvaaraa-2.md) | 312–317 | 311–316 | complete |
 | 3528 | [அரசியல் ஆக்க விரும்புவோர்க்கு விளக்கம்!](3528-arasiyal-aakka-virumbuvorkku-vilakkam.md) | 318–325 | 317–324 | complete |
 | 3529 | [அரசு அலுவலர்களும் அம்மையார் ஜெயலலிதாவும்!](3529-arasu-aluvalargalum-ammaiyaar-jayalalithaavum.md) | 326–331 | 325–330 | complete |
+| 3530 | [ஆணையத்தின் ஆணை பிறந்து விட்டது!](3530-aanaiyaththin-aanai-piranthu-vittathu.md) | 332–337 | 331–336 | complete |
+| 3531 | [விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது!](3531-vilaichchal-nirainthathu-vivasaayi-kanneer-marainthathu.md) | 338–349 | 337–348 | complete |
+| 3532 | [விளைச்சல் நிறைந்தது; விவசாயி கண்ணீர் மறைந்தது!](3532-vilaichchal-nirainthathu-vivasaayi-kanneer-marainthathu.md) | 350–359 | 349–358 | complete |
+| 3533 | [கமழும் கல்வி நீரோடை!](3533-kamazhum-kalvi-neerodai.md) | 360–369 | 359–368 | complete |
+| 3534 | [கமழும் கல்வி நீரோடை - 2](3534-kamazhum-kalvi-neerodai-2.md) | 370–380 | 369–379 | complete |
 
 ## Current boundary
 
-Canonical Tamil is complete through PDF **331 / printed page 330**, covering forty-six completed letters **3484–3529**. PDF **332 / printed page 331** was inspected only to establish the next boundary and visibly begins Letter **3530**.
+Canonical Tamil is complete through PDF **380 / printed page 379**, covering fifty-one completed letters **3484–3534**. PDF **381 / printed page 380** was inspected only to establish the next boundary and visibly begins Letter **3535**.
