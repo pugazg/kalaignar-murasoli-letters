@@ -1,6 +1,6 @@
 # Volume 44 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3484–3486; extended only with recurring/source-supported terms confirmed through regular batch 4, Letters 3502–3506.
+**Status:** pilot-locked after source review of Letters 3484–3486; extended only with recurring/source-supported terms confirmed through regular batch 5, Letters 3507–3511.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 44 batches but may not override a different meaning supported by a later source passage.
 
@@ -34,8 +34,11 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `அரவாணிகள்` | **Aravanis** | Preserve the source’s period-specific community designation; do not silently substitute a later preferred label. |
 | `சமத்துவபுரம்` | **Samathuvapuram** | Retain scheme identity rather than flattening it. |
 | `கலைஞர் காப்பீட்டுத் திட்டம்` | **Kalaignar Insurance Scheme** | Preserve source figures and scheme claims without outside reconciliation. |
+| `கலைஞர் வீடுவழங்கும் திட்டம்` | **Kalaignar Housing Scheme** | Preserve scheme identity, source specifications and beneficiary figures without outside reconciliation. |
 | `குண்டர் சட்டம்` | **Goondas Act** | Pilot usage. |
 | `பன்மாநில நதிநீர்த் தாவாச்சட்டம்` | **Inter-State River Water Disputes Act** | Retain printed section references such as 5(3) and 6(1). |
+| `காவிரி நடுவர் மன்றம்` | **Cauvery Tribunal** | Keep distinct from the Cauvery River Water Authority and from any management committee; preserve interim/final-award framing from the source. |
+| `காவிரி நதிநீர் ஆணையம்` | **Cauvery River Water Authority** | Institutional treatment used in Letter 3509; do not conflate with the Tribunal. |
 | `டாஸ்மாக்` | **TASMAC** | Institutional name; retain without expanding unless the source itself expands it. |
 | `மக்கள் நலப் பணியாளர்கள்` | **People’s Welfare Workers** | Employment-history context in Letter 3491. |
 | `எஸ்மா` | **ESMA** | Preserve source acronym in the government-employees context. |
@@ -58,6 +61,8 @@ Printed English that functions as source wording is preserved rather than silent
 - `(Caste-Based Census)`
 - the 3492 source-English passage beginning `I firmly believe that caste-based census will certainly go a long way...`, including its printed hyphenation anomalies.
 - `(Supplementary Facility)` in Letter 3499.
+- `(Hutless villages)` in Letter 3508.
+- `Blown out of proportions`, `(Organized crime syndicates)` and `(Organized Crime Intelligence Unit)` in Letter 3511.
 
 ## Political and rhetorical language
 

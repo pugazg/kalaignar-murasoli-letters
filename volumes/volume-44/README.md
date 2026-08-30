@@ -31,7 +31,8 @@
 | Regular English batch 2 | **PASS — 3492–3496** |
 | Regular English batch 3 | **PASS — 3497–3501** |
 | Regular English batch 4 | **PASS — 3502–3506** |
-| English source-checked | **23 / 53 — 3484–3506 / PDF 024–175** |
+| Regular English batch 5 | **PASS — 3507–3511** |
+| English source-checked | **28 / 53 — 3484–3511 / PDF 024–206** |
 | Final bilingual alignment | not started |
 | English editorial review | not started |
 | English release | not started |
@@ -52,9 +53,9 @@ PDF 399 continues to preserve `(தொடர்ச்சி நாளை)` follo
 
 ## English translation
 
-The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–4 — **3487–3506 / PDF 046–175** — have also been translated and source-checked. Total English source-check coverage is therefore **23 / 53 records — 3484–3506**.
+The three-record pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. Regular batches 1–5 — **3487–3511 / PDF 046–206** — have also been translated and source-checked. Total English source-check coverage is therefore **28 / 53 records — 3484–3511**.
 
-All four regular batches required **0 Tamil changes**. Batch 4 preserves source-framed historical/legal/political material without outside reconciliation and adds `சகோதரயுத்தம்` → **fratricidal war** to the locked glossary. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
+All five regular batches required **0 Tamil changes**. Batch 5 preserves the election/crowd argument in 3507, housing-scheme chronology and figures in 3508, Cauvery chronology in 3509, source-framed political/legal allegations in 3510, and law-and-order statistics and *Dinamani* criticism in 3511. New glossary treatments include **Kalaignar Housing Scheme**, **Cauvery Tribunal**, and **Cauvery River Water Authority**. Every bilingual record includes the complete audited Tamil appendix, and final bilingual alignment remains a later separate QA gate.
 
 Durable English records:
 
@@ -64,9 +65,10 @@ Durable English records:
 - [Batch 3492–3496 source check](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
 - [Batch 3497–3501 source check](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
 - [Batch 3502–3506 source check](translations/en/BATCH_SOURCE_CHECK_3502_3506.md)
+- [Batch 3507–3511 source check](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch **3507–3511** under the locked Volume 44 conventions. Stop after 3511; do not begin Letter 3512 in the same activity.
+Translate and source-check the next normal five-record batch **3512–3516** under the locked Volume 44 conventions. Stop after 3516; do not begin Letter 3517 in the same activity.

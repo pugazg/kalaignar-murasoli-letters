@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 23 / 53 records, Letters 3484–3506.**
+**SOURCE-CHECKED — 28 / 53 records, Letters 3484–3511.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -13,8 +13,9 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Regular batch 2: **3492–3496 — 5 / 5 translated and source-checked**
 - Regular batch 3: **3497–3501 — 5 / 5 translated and source-checked**
 - Regular batch 4: **3502–3506 — 5 / 5 translated and source-checked**
-- Batch reports: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md), [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md), [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md), [`BATCH_SOURCE_CHECK_3502_3506.md`](BATCH_SOURCE_CHECK_3502_3506.md)
-- Total translated/source-checked: **23 / 53 — PDF 024–175**
+- Regular batch 5: **3507–3511 — 5 / 5 translated and source-checked**
+- Batch reports: [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md), [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md), [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md), [`BATCH_SOURCE_CHECK_3502_3506.md`](BATCH_SOURCE_CHECK_3502_3506.md), [`BATCH_SOURCE_CHECK_3507_3511.md`](BATCH_SOURCE_CHECK_3507_3511.md)
+- Total translated/source-checked: **28 / 53 — PDF 024–206**
 - Canonical Tamil changes during regular batches: **0**
 - Final bilingual alignment: **not started**
 - Volume-level English editorial review: **not started**
@@ -51,6 +52,11 @@ The audited canonical Tamil is the immediate translation source; the controlling
 | [3504](letters/3504-even-a-union-government-order-met-with-such-refusal.md) | Even a Union Government Order Met with Such Refusal? | 13 October 2010 | 163–165 | source-checked |
 | [3505](letters/3505-can-we-forget-the-saying-long-live-the-reviler.md) | Can We Forget the Saying “Long Live the Reviler”? | 17 October 2010 | 166–169 | source-checked |
 | [3506](letters/3506-when-will-mother-tamil-nadus-yearning-be-soothed.md) | When Will Mother Tamil Nadu’s Yearning Be Soothed? | 19 October 2010 | 170–175 | source-checked |
+| [3507](letters/3507-is-a-crowd-the-yardstick-for-an-election-verdict.md) | Is a Crowd the Yardstick for an Election Verdict? | 24 October 2010 | 176–179 | source-checked |
+| [3508](letters/3508-huts-into-towers-mud-houses-into-mansions.md) | Huts into Towers; Mud Houses into Mansions! | 27 October 2010 | 180–186 | source-checked |
+| [3509](letters/3509-madams-words-and-course-then-and-now.md) | Madam’s Words and Course: Then and Now! | 1 November 2010 | 187–192 | source-checked |
+| [3510](letters/3510-time-alone-will-answer.md) | Time Alone Will Answer! | 3 November 2010 | 193–198 | source-checked |
+| [3511](letters/3511-let-no-ill-judgment-befall-the-neutral.md) | Let No Ill Judgment Befall the Neutral! | 4 November 2010 | 199–206 | source-checked |
 
 Every bilingual record reproduces the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers.
 
@@ -78,9 +84,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
 - [`BATCH_SOURCE_CHECK_3502_3506.md`](BATCH_SOURCE_CHECK_3502_3506.md)
+- [`BATCH_SOURCE_CHECK_3507_3511.md`](BATCH_SOURCE_CHECK_3507_3511.md)
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
 ## Exact next activity
 
-Translate and source-check the next normal five-record batch: **Letters 3507–3511**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3511**. Do **not** begin 3512 in the same activity.
+Translate and source-check the next normal five-record batch: **Letters 3512–3516**. Apply the locked conventions and current glossary, use each record's complete audited canonical Tamil as the immediate source, and stop after Letter **3516**. Do **not** begin 3517 in the same activity.

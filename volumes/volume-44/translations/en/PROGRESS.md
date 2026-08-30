@@ -9,7 +9,8 @@
 - [x] Regular five-record batch 2 — **3492–3496 / 5 of 5 translated and source-checked**
 - [x] Regular five-record batch 3 — **3497–3501 / 5 of 5 translated and source-checked**
 - [x] Regular five-record batch 4 — **3502–3506 / 5 of 5 translated and source-checked**
-- [ ] Regular five-record batch 5 — **exact next: 3507–3511**
+- [x] Regular five-record batch 5 — **3507–3511 / 5 of 5 translated and source-checked**
+- [ ] Regular five-record batch 6 — **exact next: 3512–3516**
 - [ ] Full bilingual alignment
 - [ ] Volume-level English editorial consistency review
 - [ ] Final English release verification
@@ -18,14 +19,15 @@
 
 - Total source letters: **53**
 - Letter range: **3484–3536**
-- Drafted: **23 / 53 — 3484–3506**
-- Source-checked: **23 / 53 — 3484–3506**
-- Drafted/source-checked PDF span: **024–175**
+- Drafted: **28 / 53 — 3484–3511**
+- Source-checked: **28 / 53 — 3484–3511**
+- Drafted/source-checked PDF span: **024–206**
 - Pilot review corrections: **5 English spans across 2 records**
 - Regular batch 1 source-check: **5 / 5 PASS — 3487–3491**
 - Regular batch 2 source-check: **5 / 5 PASS — 3492–3496**
 - Regular batch 3 source-check: **5 / 5 PASS — 3497–3501**
 - Regular batch 4 source-check: **5 / 5 PASS — 3502–3506**
+- Regular batch 5 source-check: **5 / 5 PASS — 3507–3511**
 - Tamil changes during regular English batches: **0**
 - Translation conventions: **LOCKED; glossary extended only for recurring/source-supported terms**
 - Final bilingual-aligned: **0 / 53**
@@ -38,9 +40,10 @@ Batch reports:
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
 - [`BATCH_SOURCE_CHECK_3502_3506.md`](BATCH_SOURCE_CHECK_3502_3506.md)
+- [`BATCH_SOURCE_CHECK_3507_3511.md`](BATCH_SOURCE_CHECK_3507_3511.md)
 
 Every translated record includes the complete audited Tamil appendix. Source-check PASS does **not** mean final bilingual alignment or release approval; those remain later separate QA gates.
 
 ## Exact next activity
 
-Translate and source-check **Letters 3507–3511** as the next normal five-record batch. Apply the locked Volume 44 conventions and current glossary, use the complete audited canonical Tamil for each source record, and stop after 3511. Do not begin Letter 3512 in the same activity.
+Translate and source-check **Letters 3512–3516** as the next normal five-record batch. Apply the locked Volume 44 conventions and current glossary, use the complete audited canonical Tamil for each source record, and stop after 3516. Do not begin Letter 3517 in the same activity.

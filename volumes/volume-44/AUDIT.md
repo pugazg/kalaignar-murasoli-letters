@@ -58,33 +58,35 @@ The English pilot **3484–3486 / PDF 024–045** completed its separate source-
 
 Detailed record: [`translations/en/PILOT_REVIEW_3484_3486.md`](translations/en/PILOT_REVIEW_3484_3486.md).
 
-### Regular batches 1–3 — PASS
+### Regular batches 1–4 — PASS
 
 - batch 1 **3487–3491 / PDF 046–087** — 5 / 5 PASS;
 - batch 2 **3492–3496 / PDF 088–117** — 5 / 5 PASS;
 - batch 3 **3497–3501 / PDF 118–153** — 5 / 5 PASS;
-- cumulative after batch 3: **18 / 53 — 3484–3501**;
+- batch 4 **3502–3506 / PDF 154–175** — 5 / 5 PASS;
+- cumulative after batch 4: **23 / 53 — 3484–3506**;
 - canonical Tamil changes: **0**.
 
 Detailed records are preserved in the corresponding `translations/en/BATCH_SOURCE_CHECK_*.md` files.
 
-### Regular batch 4 — PASS
+### Regular batch 5 — PASS
 
-The fourth regular five-record English batch **3502–3506 / PDF 154–175** has been translated and source-checked.
+The fifth regular five-record English batch **3507–3511 / PDF 176–206** has been translated and source-checked.
 
 - batch records: **5 / 5 PASS**;
-- cumulative English source-check coverage: **23 / 53 — 3484–3506 / PDF 024–175**;
+- cumulative English source-check coverage: **28 / 53 — 3484–3511 / PDF 024–206**;
 - canonical Tamil changes during this batch: **0**;
 - new scan-level Tamil corrections: **0**;
 - source boundary/title/date changes: **0**;
-- source-framed historical, legal and political assertions were not reconciled from outside material;
-- `சகோதரயுத்தம்` is locked as **fratricidal war** for the repeated source usage in Letter 3506;
+- source-framed historical, legal, political and crime-statistics assertions were not reconciled from outside material;
+- new recurring glossary treatments: **Kalaignar Housing Scheme**, **Cauvery Tribunal**, **Cauvery River Water Authority**;
+- source English in 3511, including `Blown out of proportions`, `(Organized crime syndicates)` and `(Organized Crime Intelligence Unit)`, is retained;
 - final bilingual alignment: **not started; later separate QA gate**.
 
-Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3502_3506.md`](translations/en/BATCH_SOURCE_CHECK_3502_3506.md).
+Detailed record: [`translations/en/BATCH_SOURCE_CHECK_3507_3511.md`](translations/en/BATCH_SOURCE_CHECK_3507_3511.md).
 
 English source-check checkpoints do not alter or supersede Tamil Gate 15 and do not imply final bilingual alignment, editorial review or release readiness.
 
 ## Exact next activity
 
-Translate and source-check the next regular five-record English batch **3507–3511**, then stop. Do not begin Letter 3512 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.
+Translate and source-check the next regular five-record English batch **3512–3516**, then stop. Do not begin Letter 3517 in the same activity. Final bilingual alignment/editorial/release verification remain later separate gates.

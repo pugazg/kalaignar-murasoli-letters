@@ -30,7 +30,8 @@ Current durable state:
 - Regular English batch 2: **PASS — 3492–3496 / PDF 088–117**
 - Regular English batch 3: **PASS — 3497–3501 / PDF 118–153**
 - Regular English batch 4: **PASS — 3502–3506 / PDF 154–175**
-- English source-checked: **23 / 53 — 3484–3506 / PDF 024–175**
+- Regular English batch 5: **PASS — 3507–3511 / PDF 176–206**
+- English source-checked: **28 / 53 — 3484–3511 / PDF 024–206**
 - Tamil changes during regular English batches: **0**
 - Volume 44 translation conventions: **LOCKED**
 - Final bilingual alignment: **not started**
@@ -51,19 +52,20 @@ Durable English QA records:
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3492_3496.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3497_3501.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3502_3506.md`
+- `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3507_3511.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All twenty-three English records through 3506 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
+All twenty-eight English records through 3511 contain the complete audited Tamil appendix and are source-checked, but they have **not** passed the later final bilingual-alignment/editorial/release gates.
 
-Regular batch 4 retained the Nagercoil/Thanjavur/Ayodhya comparison in 3502, the bus/union/police narrative and printed transport figures in 3503, the driver-education-order argument in 3504, the Madurai poster/CBI/non-violence sequence in 3505, and the Sri Lankan Tamil chronology and attributed material in 3506. Historical, legal and political claims remain source-framed and unreconciled with outside material. No canonical Tamil changed.
+Regular batch 5 retained the crowd/election argument in 3507, the housing-scheme chronology and construction figures in 3508, the Cauvery institutional chronology and correspondence dates in 3509, source-framed political/legal allegations in 3510, and crime statistics plus media criticism in 3511. Historical, legal, political and crime assertions remain source-framed and unreconciled with outside material. No canonical Tamil changed. Glossary additions include **Kalaignar Housing Scheme**, **Cauvery Tribunal**, and **Cauvery River Water Authority**.
 
 Final Tamil source boundaries remain 3535 PDF 381–390, 3536 PDF 391–399, and PDF 400 non-letter material. Letter 3536 preserves `(தொடர்ச்சி நாளை)` before the normal closing; no Letter 3537 exists.
 
 ### Exact next activity
 
-Translate and source-check the next regular five-record English batch **Letters 3507–3511**.
+Translate and source-check the next regular five-record English batch **Letters 3512–3516**.
 
 - Use the complete audited canonical Tamil for every source record.
 - Apply the locked Volume 44 conventions in `translations/en/PILOT_REVIEW_3484_3486.md` and `translations/en/GLOSSARY.md`.
@@ -74,7 +76,7 @@ Translate and source-check the next regular five-record English batch **Letters 
 - Source-check each completed English record against its full Tamil source before marking the batch complete.
 - If a Tamil reading becomes doubtful, consult the controlling scan and record only scan-proven Tamil corrections; do not use OCR, contents wording or outside knowledge to silently repair it.
 - Update the manifest/progress/index/control files and add glossary entries only for genuinely new recurring terminology.
-- Stop after **3511**. **Do not start Letter 3512 in the same activity.**
+- Stop after **3516**. **Do not start Letter 3517 in the same activity.**
 - Keep final bilingual alignment, editorial review and release verification as later separate QA gates.
 
 ## Volume 45 — COMPLETE
