@@ -1,6 +1,6 @@
 # Volume 44 — English Translation Plan
 
-**Status:** main translation drafting/source-check complete — **53 / 53 records source-checked, Letters 3484–3536 / PDF 024–399**. Bilingual alignment is in progress and durably synchronized through **3528**.
+**Status:** main translation drafting/source-check complete — **53 / 53 records source-checked, Letters 3484–3536 / PDF 024–399**. Bilingual meaning-level alignment is also **COMPLETE — 53 / 53**.
 
 ## Completed translation/source-check phase
 
@@ -24,32 +24,39 @@ Durable source-check reports and the locked glossary remain under `translations/
 - Every bilingual record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
 - Audited canonical Tamil is the immediate English-QA authority; the controlling scan is ultimate if a Tamil defect is suspected.
 
-## Phase 3 — bilingual alignment
+## Phase 3 — bilingual alignment — COMPLETE
 
-Each five-record alignment batch must:
+Each alignment batch compared the complete English record against the complete audited Tamil source and appendix, checking title, salutation, closing/date, paragraph/argument sequence, substantive coverage, figures/units, names/institutions, quotations, printed source English, rhetoric, repetition, continuation/conclusion markers and documented anomalies.
 
-1. compare each complete English record against its complete audited Tamil source and reproduced Tamil appendix;
-2. check title, salutation, closing/date, paragraph/argument sequence, substantive coverage, figures/units, names/institutions, quotations, printed source English, rhetoric, repetition, continuation/conclusion markers and documented anomalies;
-3. apply only English corrections required for meaning-level alignment;
-4. change canonical Tamil only if a suspected defect is rechecked against the controlling scan and proven;
-5. create a durable `BILINGUAL_ALIGNMENT_REVIEW_<start>_<end>.md` report;
-6. mark reviewed records and manifest rows aligned while retaining `translation_status: source-checked`; and
-7. keep volume-level English editorial consistency review and final release verification separate.
+Completed batches:
 
-### Completed alignment batches
+- **3484–3488 / PDF 024–066** — PASS — 1 punctuation-only English correction; 0 Tamil changes.
+- **3489–3493 / PDF 067–098** — PASS — 0 English corrections; 0 Tamil changes.
+- **3494–3498 / PDF 099–132** — PASS — 0 English corrections; 0 Tamil changes.
+- **3499–3503 / PDF 133–162** — PASS — 1 English meaning-level clarification; 0 Tamil changes.
+- **3504–3508 / PDF 163–186** — PASS — 0 English corrections; 0 Tamil changes.
+- **3509–3513 / PDF 187–222** — PASS — 0 English corrections; 0 Tamil changes.
+- **3514–3518 / PDF 223–256** — PASS — 1 English meaning-level coverage restoration; 0 Tamil changes.
+- **3519–3523 / PDF 257–290** — PASS — 5 English alignment corrections across 3519 and 3523; 0 Tamil changes.
+- **3524–3528 / PDF 291–325** — PASS — 1 English meaning-level/source-anomaly restoration; 0 Tamil changes.
+- **3529–3533 / PDF 326–369** — PASS — 0 English corrections; 0 Tamil changes.
+- **3534–3536 / PDF 370–399** — PASS — 0 English corrections; 0 Tamil changes.
 
-- **3484–3488 / PDF 024–066** — PASS — 5/5 synchronized; one punctuation-only English correction in 3487 / PDF 051; 0 Tamil changes.
-- **3489–3493 / PDF 067–098** — PASS — 5/5 synchronized; 0 English corrections; 0 Tamil changes.
-- **3494–3498 / PDF 099–132** — PASS — 5/5 synchronized; 0 English corrections; 0 Tamil changes.
-- **3499–3503 / PDF 133–162** — PASS — 5/5 synchronized; one English meaning-level clarification in 3499 / PDF 134–135; 0 Tamil changes.
-- **3504–3508 / PDF 163–186** — PASS — 5/5 synchronized; 0 English corrections; 0 Tamil changes.
-- **3509–3513 / PDF 187–222** — PASS — 5/5 synchronized; 0 English corrections; 0 Tamil changes.
-- **3514–3518 / PDF 223–256** — PASS — 5/5 synchronized; one English meaning-level coverage restoration in 3515 / PDF 231; 0 Tamil changes.
-- **3519–3523 / PDF 257–290** — PASS — 5/5 synchronized; 5 English alignment corrections across 3519 and 3523; 0 Tamil changes.
-- **3524–3528 / PDF 291–325** — PASS — 5/5 synchronized; one English meaning-level/source-anomaly restoration in 3524 / PDF 295; 0 Tamil changes.
+Cumulative bilingual alignment: **53 / 53 — 3484–3536 / PDF 024–399**. Canonical Tamil changes across the complete alignment phase: **0**.
 
-Cumulative bilingual alignment: **45 / 53 — 3484–3528 / PDF 024–325**.
+## Phase 4 — English editorial consistency review — NEXT
 
-## Exact next activity
+Review all 53 aligned records for consistency of titles, transliteration, recurring terminology, capitalization, institutional names, punctuation conventions, translator/source-check notes, headings, dates, and continuation/conclusion treatments.
 
-Align **Letters 3529–3533 / PDF 326–369** as the tenth five-record bilingual-alignment batch. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3529_3533.md`, update the five English records/manifest/progress and relevant Volume/root controls, and stop after Letter 3533. Do **not** begin 3534, editorial review or final release verification in the same activity.
+Editorial review must not:
+
+- alter source meaning or political framing;
+- silently reconcile source anomalies, figures or chronology;
+- replace source-supported terminology with outside knowledge; or
+- change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven.
+
+Create the durable editorial-review artifact and update manifest/control status only after the full 53-record editorial gate is complete.
+
+## Later gate
+
+Final release verification remains separate and **must not begin until editorial consistency review is complete**.
