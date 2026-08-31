@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065828_கலைஞரின்_கடிதங்கள�
 source_sha256: "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35"
 source_size_bytes: 229557034
 searchable_text_layer: false
-transcription_page_range: "1-23"
+transcription_page_range: "1-32"
 transcription_status: "in-progress"
-recorded_letter_range: null
-completed_letter_range: null
-completed_letter_count: 0
+recorded_letter_range: "3428"
+completed_letter_range: "3428"
+completed_letter_count: 1
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-001-023-pass"
+audit_status: "through-letter-3428-pass"
 audit_date: 2026-08-31
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -43,4 +43,5 @@ source_observations:
   - "The printed contents leave the date cell for Letter 3467 blank; this is preserved without inference."
   - "No usable searchable text layer was found; OCR/text extraction is not authoritative."
   - "User explicitly approved the first transcription iteration as PDF 001–023, isolating front matter/contents before Letter 3428."
-  - "Letter 3428 begins at PDF 024 / printed page 23 and is the exact next transcription activity."
+  - "Letter 3428 is scan-verified complete at PDF 024–032 / printed pages 23–31; source date 1-11-2009."
+  - "Letter 3429 begins at PDF 033 / printed page 32 and is the exact next source record."

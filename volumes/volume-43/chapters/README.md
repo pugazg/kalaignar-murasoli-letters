@@ -4,7 +4,7 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 
 | எண் | தலைப்பு | தேதி | அச்சுப் பக்கம் | நிலை |
 |---:|---|---|---:|---|
-| 3428 | காக்கும் கரங்களுமன்றோ? | 1-11-2009 | 23 | pending transcription |
+| [3428](3428-kaakkum-karangalumandro.md) | காக்கும் கரங்களுமன்றோ? | 1-11-2009 | 23 | complete (first-pass-reviewed) |
 | 3429 | இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்! | 4-11-2009 | 32 | pending transcription |
 | 3430 | கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ! | 6-11-2009 | 39 | pending transcription |
 | 3431 | இதில் எது கையாலாகாத்தனம்? | 10-11-2009 | 48 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-**Exact next record:** 3428 — `காக்கும் கரங்களுமன்றோ?` — begins PDF 024 / printed page 23.
+**Exact next record:** 3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — begins PDF 033 / printed page 32.

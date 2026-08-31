@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **23 / 402 — PDF 001–023 first-pass reviewed; contents registered** | **0 / 56 — 3428–3483** | **blocked pending Tamil gates** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **32 / 402 — PDF 001–032 first-pass reviewed** | **1 / 56 — 3428 complete** | **blocked pending Tamil gates** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -38,9 +38,11 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Publication details state **400 printed pages**; the source PDF has **402 physical PDF pages**.
 - Date span: **01.11.2009–17.07.2010**.
 - Printed contents PDF **018–022** enumerate **56 records, 3428–3483**.
-- Canonical coverage: **PDF 001–023 / 402**.
-- The first iteration deliberately stops before the first letter under a user-approved batching exception.
-- Exact next activity: **Letter 3428 — `காக்கும் கரங்களுமன்றோ?` — begins PDF 024 / printed page 23**.
+- Canonical coverage: **PDF 001–032 / 402**.
+- Completed letters: **1 / 56 — 3428**.
+- Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is complete at **PDF 024–032 / printed pages 23–31**, with closing/date verified on PDF 032.
+- The user-approved PDF 001–023 intake exception remains preserved as its own completed iteration.
+- Exact next activity: normal five-record batch **3429–3433**, beginning with Letter 3429 at **PDF 033 / printed page 32**.
 
 English translation remains blocked until Tamil transcription and mandatory audit gates are complete.
 
@@ -65,7 +67,7 @@ PDF 400 is non-letter back-cover / portrait / publisher material; no Letter 3537
 
 ## Volume 45 — released
 
-Volume 45 is complete through all Tamil and English release gates. Tamil canonical coverage is **402 / 402**, source-letter coverage is **55 / 55 — 3537–3591**, and English is **55 / 55 source-checked, bilingual-aligned, editorially reviewed and final verified**.
+Volume 45 is complete through all Tamil and English gates. Tamil canonical coverage is **402 / 402**, source-letter coverage is **55 / 55 — 3537–3591**, and English is **55 / 55 source-checked, bilingual-aligned, editorially reviewed and final verified**.
 
 Release artifacts:
 

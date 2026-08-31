@@ -27,11 +27,13 @@ Volume 43 is now the active archival volume.
 - Source inventory: **56 records, 3428–3483**
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
-- Canonical Tamil pages: **PDF 001–023 / 402**
-- Completed Tamil letters: **0 / 56**
+- Canonical Tamil pages: **PDF 001–032 / 402**
+- Completed Tamil letters: **1 / 56 — 3428**
 - English translation: **blocked pending Tamil gates**
 
 The first Volume 43 transcription iteration is a user-approved batching exception: **PDF 001–023 only**, ending immediately before the first letter. Do not extend or repeat that completed first batch.
+
+The separate first-letter iteration is also complete: **3428 — `காக்கும் கரங்களுமன்றோ?` — PDF 024–032 / printed pages 23–31 — source date 1-11-2009**. PDF 032 contains the verified closing `அன்புள்ள, மு.க.` and date; PDF 033 begins Letter 3429.
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
@@ -62,6 +64,6 @@ PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the n
 
 ## Exact next activity
 
-Transcribe **Letter 3428 — `காக்கும் கரங்களுமன்றோ?`**, starting **PDF 024 / printed page 23**, through its scan-verified closing/date page. Create the Letter 3428 chapter record and synchronize contents/chapter index/metadata/progress/audit/README. Stop before Letter 3429. Do not start English translation.
+Transcribe the next **five complete Volume 43 source records, Letters 3429–3433**, starting with **Letter 3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — PDF 033 / printed page 32**. Determine all five ending boundaries directly from the scan, synchronize page/chapter/contents/metadata/progress/audit/README controls, and stop before Letter 3434. Do not start English translation.
 
 Before any mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.

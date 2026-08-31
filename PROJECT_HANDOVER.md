@@ -27,17 +27,19 @@ Current durable state:
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
 - Source inventory: **56 records, 3428–3483**
-- Canonical Tamil pages: **PDF 001–023 / 402**
-- Completed letters: **0 / 56**
+- Canonical Tamil pages: **PDF 001–032 / 402**
+- Completed letters: **1 / 56 — 3428**
 - Translation: **blocked pending Tamil gates**
 
 The user explicitly approved a batching exception for the first Volume 43 iteration: **PDF 001–023 only**, ending immediately before the first letter. This exception is recorded in `volumes/volume-43/AUDIT.md` and `PROGRESS.md`; do not retroactively extend that first batch to PDF 025.
+
+The user then directed the first source letter as its own separate iteration. Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is scan-verified complete at **PDF 024–032 / printed pages 23–31**, with closing `அன்புள்ள, மு.க.` and date `1-11-2009` on PDF 032. PDF 033 begins Letter 3429.
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
 ### Exact next activity
 
-Process **Letter 3428 — `காக்கும் கரங்களுமன்றோ?`**, beginning **PDF 024 / printed page 23**. Visually transcribe every page through its verified closing/date page, create/update its chapter and structural records, and stop before Letter 3429. Do not begin English translation.
+Resume the normal post-exception Tamil transcription workflow with the next **five complete source records, Letters 3429–3433**, beginning **PDF 033 / printed page 32** with Letter 3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!`. Verify every actual closing/date boundary from the scan and stop before Letter 3434. Do not begin English translation.
 
 ## Volume 44 — COMPLETE
 

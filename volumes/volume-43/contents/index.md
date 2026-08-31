@@ -67,3 +67,12 @@ transcription_status: first-pass-reviewed
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 |
 
 > மூல அச்சில் 3467-ஆம் பதிவின் தேதி இடம் வெற்றாக உள்ளது; அது அப்படியே பாதுகாக்கப்பட்டுள்ளது.
+
+## Scan-verified letter boundaries
+
+| எண் | PDF பக்கங்கள் | அச்சுப் பக்கங்கள் | நிலை |
+|---:|---:|---:|---|
+| [3428](../chapters/3428-kaakkum-karangalumandro.md) | 024–032 | 23–31 | complete (first-pass-reviewed) |
+
+**அடுத்த scan boundary:** 3429 — PDF 033 / அச்சுப் பக்கம் 32.
+
