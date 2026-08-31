@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 5 / 53 aligned.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 10 / 53 aligned.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -13,9 +13,12 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Total translated/source-checked: **53 / 53 — PDF 024–399**
 - Canonical Tamil changes during regular batches: **0**
 - Bilingual alignment batch 1: **PASS — 3484–3488 / PDF 024–066 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`](BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md)
-- Alignment corrections: **1 English punctuation-only correction — Letter 3487 / PDF 051**
-- Canonical Tamil changes during alignment batch 1: **0**
-- Cumulative bilingual alignment: **5 / 53 — next 3489–3493 / PDF 067–098**
+- Batch 1 corrections: **1 English punctuation-only correction — Letter 3487 / PDF 051**
+- Bilingual alignment batch 2: **PASS — 3489–3493 / PDF 067–098 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md)
+- Batch 2 English corrections: **0**
+- Canonical Tamil changes during alignment batches 1–2: **0**
+- Cumulative bilingual alignment: **10 / 53 — 3484–3493 / PDF 024–098**
+- Exact next alignment batch: **3494–3498 / PDF 099–132**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
@@ -32,11 +35,11 @@ The audited canonical Tamil is the immediate translation/alignment source; the c
 | [3486](letters/3486-may-drops-of-honey-become-a-cascade-of-honey.md) | May Drops of Honey Become a Cascade of Honey! | 22 July 2010 | 038–045 | source-checked | aligned |
 | [3487](letters/3487-may-drops-of-honey-become-a-cascade-of-honey-2.md) | May Drops of Honey Become a Cascade of Honey! (2) | 23 July 2010 | 046–057 | source-checked | aligned |
 | [3488](letters/3488-reservation-and-the-double-role-3.md) | Reservation and the Double Role! (3) | 25 July 2010 | 058–066 | source-checked | aligned |
-| [3489](letters/3489-deceit-will-not-prevail-against-truth.md) | Deceit Will Not Prevail Against Truth! | 26 July 2010 | 067–074 | source-checked | pending |
-| [3490](letters/3490-let-reservation-be-secured-without-losing-what-we-have.md) | Let Reservation Be Secured Without Losing What We Have...! | 30 July 2010 | 075–079 | source-checked | pending |
-| [3491](letters/3491-that-shout-that-echoes-back.md) | That Shout That Echoes Back! | 11 August 2010 | 080–087 | source-checked | pending |
-| [3492](letters/3492-all-this-is-the-play-of-time.md) | All This Is the Play of Time! | 18 August 2010 | 088–093 | source-checked | pending |
-| [3493](letters/3493-will-the-one-that-did-not-understand-at-first-understand-now.md) | Will the One That Did Not Understand at First Understand Now? | 20 August 2010 | 094–098 | source-checked | pending |
+| [3489](letters/3489-deceit-will-not-prevail-against-truth.md) | Deceit Will Not Prevail Against Truth! | 26 July 2010 | 067–074 | source-checked | aligned |
+| [3490](letters/3490-let-reservation-be-secured-without-losing-what-we-have.md) | Let Reservation Be Secured Without Losing What We Have...! | 30 July 2010 | 075–079 | source-checked | aligned |
+| [3491](letters/3491-that-shout-that-echoes-back.md) | That Shout That Echoes Back! | 11 August 2010 | 080–087 | source-checked | aligned |
+| [3492](letters/3492-all-this-is-the-play-of-time.md) | All This Is the Play of Time! | 18 August 2010 | 088–093 | source-checked | aligned |
+| [3493](letters/3493-will-the-one-that-did-not-understand-at-first-understand-now.md) | Will the One That Did Not Understand at First Understand Now? | 20 August 2010 | 094–098 | source-checked | aligned |
 | [3494](letters/3494-is-it-fair-you-tell-me.md) | Is It Fair? You Tell Me! | 31 August 2010 | 099–104 | source-checked | pending |
 | [3495](letters/3495-kodanadu-is-always-there-to-hide-away-in.md) | Kodanadu Is Always There to Hide Away In! | 2 September 2010 | 105–111 | source-checked | pending |
 | [3496](letters/3496-come-forward-to-cooperate.md) | Come Forward to Cooperate! | 3 September 2010 | 112–117 | source-checked | pending |
@@ -102,8 +105,10 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 ## QA records
 
 - [`PROGRESS.md`](PROGRESS.md)
+- [`PROGRESS_ALIGNMENT_CHECKPOINT.md`](PROGRESS_ALIGNMENT_CHECKPOINT.md)
 - [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`](BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
@@ -119,4 +124,4 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 ## Exact next activity
 
-Align **Letters 3489–3493 / PDF 067–098** as the second five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`, update the five records/manifest/control files, and stop after Letter 3493. Do not begin 3494, editorial review or final release verification in the same activity.
+Align **Letters 3494–3498 / PDF 099–132** as the third five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`, update the five records/manifest/control files, and stop after Letter 3498. Do not begin 3499, editorial review or final release verification in the same activity.

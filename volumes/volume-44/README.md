@@ -13,7 +13,7 @@
 - Source size: **202,106,488 bytes**
 - Searchable text layer: **none usable**
 - Printed contents: PDF **018–022**
-- Printed-contents inventory: **53 records, 3484–3536**
+- Source inventory: **53 records, 3484–3536**
 
 ## Current archival state
 
@@ -23,58 +23,43 @@
 | Canonical Tamil pages | **400 / 400 — PDF 001–400** |
 | Completed Tamil letters | **53 / 53 — 3484–3536** |
 | Partial/source-incomplete letters | **none** |
-| First-pass source transcription | **complete** |
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
-| English pilot review / convention lock | **PASS — 3484–3486** |
-| Regular English batches 1–10 | **PASS — 3487–3536** |
-| English source-checked | **53 / 53 — 3484–3536 / PDF 024–399** |
-| Bilingual alignment | **5 / 53 — 3484–3488 / PDF 024–066; next 3489–3493** |
+| English source-check | **53 / 53 — 3484–3536 / PDF 024–399** |
+| Bilingual alignment | **10 / 53 — 3484–3493 / PDF 024–098** |
 | English editorial review | not started |
 | English release | not started |
 
 ## Durable Tamil state
 
-All available Volume 44 source pages and records have passed the required Tamil gates. The [full-volume structural audit](FULL_VOLUME_STRUCTURAL_AUDIT.md) is **PASS**, and the [second full-volume visual/textual-fidelity audit](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) is **PASS**.
-
-The second pass restored complete scan-controlled page bodies on PDFs **040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065**. These were page-scale first-pass omissions/truncations; no letter boundary, title, date or chapter range changed.
+The [full-volume structural audit](FULL_VOLUME_STRUCTURAL_AUDIT.md) and [second full-volume visual/textual-fidelity audit](FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md) are both **PASS**. The second pass restored scan-controlled page bodies on PDFs **040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065** without changing letter boundaries, titles, dates or chapter ranges.
 
 Final source boundaries remain:
 
-- **3535 — கமழும் கல்வி நீரோடை - 3** — PDF **381–390** / printed **380–389** — `10-03-2011`.
-- **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF **391–399** / printed **390–398** — `11-3-2011`.
-- **PDF 400** — canonical non-letter back-cover / portrait / publisher-contact-price material; no Letter 3537.
+- **3535 — கமழும் கல்வி நீரோடை - 3** — PDF **381–390** / `10-03-2011`.
+- **3536 — ஊரக வளர்ச்சி மற்றும் ஊராட்சித் துறை ஐந்தாண்டு சாதனைகள்! (1)** — PDF **391–399** / `11-3-2011`.
+- **PDF 400** — non-letter back-cover / portrait / publisher material; no Letter 3537.
 
-PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this Volume 44 source.
+PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source.
 
-## English translation and alignment
+## English translation and QA
 
-The pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. All ten regular batches **3487–3536 / PDF 046–399** are translated and source-checked. Total English source-check coverage is **53 / 53 records — 3484–3536**.
+All **53 / 53** English records are drafted and source-checked and contain complete audited Tamil appendices. Translation conventions are locked in the pilot review and glossary.
 
-The first bilingual meaning-level alignment batch **3484–3488 / PDF 024–066** is **PASS and synchronized**. The comparison required one English punctuation-only correction in Letter 3487 / PDF 051: the English now preserves the audited Tamil question mark in the reported M. Nagaraj passage as `reservation should not be extended indefinitely?`. Canonical Tamil changes during this alignment batch: **0**.
+Bilingual meaning-level alignment is now synchronized through **Letter 3493**:
 
-All regular batches required **0 Tamil changes**. The final batch preserves the complete agriculture, higher-education, school-education, public-library and rural-development inventories without outside reconciliation. Every bilingual record includes the complete audited Tamil appendix.
+- [Alignment 3484–3488](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md) — **PASS**, one English punctuation-only correction in 3487 / PDF 051, 0 Tamil changes.
+- [Alignment 3489–3493](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md) — **PASS**, 0 English corrections, 0 Tamil changes.
 
-Durable English records:
+Cumulative aligned coverage is **10 / 53 — 3484–3493 / PDF 024–098**. Alignment does not collapse the later editorial-consistency and final-release gates.
 
-- [English index](translations/en/README.md)
-- [Pilot review](translations/en/PILOT_REVIEW_3484_3486.md)
-- [Alignment review 3484–3488](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md)
-- [Batch 3487–3491 source check](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
-- [Batch 3492–3496 source check](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
-- [Batch 3497–3501 source check](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
-- [Batch 3502–3506 source check](translations/en/BATCH_SOURCE_CHECK_3502_3506.md)
-- [Batch 3507–3511 source check](translations/en/BATCH_SOURCE_CHECK_3507_3511.md)
-- [Batch 3512–3516 source check](translations/en/BATCH_SOURCE_CHECK_3512_3516.md)
-- [Batch 3517–3521 source check](translations/en/BATCH_SOURCE_CHECK_3517_3521.md)
-- [Batch 3522–3526 source check](translations/en/BATCH_SOURCE_CHECK_3522_3526.md)
-- [Batch 3527–3531 source check](translations/en/BATCH_SOURCE_CHECK_3527_3531.md)
-- [Batch 3532–3536 source check](translations/en/BATCH_SOURCE_CHECK_3532_3536.md)
+Durable English controls:
+
+- [English progress](translations/en/PROGRESS.md)
+- [Alignment checkpoint](translations/en/PROGRESS_ALIGNMENT_CHECKPOINT.md)
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
-Source-check and bilingual-alignment completion do not collapse later QA gates. Volume-level English editorial consistency and final release verification remain separate.
-
 ## Exact next activity
 
-Align **Letters 3489–3493 / PDF 067–098** as the second five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required for alignment, re-check the controlling scan before any possible Tamil change, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`, update status/control files, and stop after 3493. Do not begin 3494, editorial review or release verification in the same activity.
+Align **Letters 3494–3498 / PDF 099–132** as the next five-record bilingual meaning-level batch. Use complete audited Tamil as immediate authority; apply only English corrections required by comparison; re-check the controlling scan before any possible Tamil change; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`; mark those five records/manifest rows aligned; update controls; and stop after 3498. Do not begin 3499, editorial review or release verification in the same activity.
