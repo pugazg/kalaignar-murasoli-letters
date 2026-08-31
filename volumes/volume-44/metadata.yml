@@ -33,7 +33,7 @@ second_visual_verified_pages: 400
 second_visual_correction_pages: 13
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "source-check-complete"
+translation_status: "final-release-complete"
 translated_letter_range: "3484-3536"
 translated_letter_count: 53
 source_checked_letter_range: "3484-3536"
@@ -138,7 +138,12 @@ english_editorial_reviewed_letter_count: 53
 english_editorial_review_report: "translations/en/EDITORIAL_CONSISTENCY_REVIEW.md"
 english_editorial_review_substantive_corrections: 0
 english_editorial_review_tamil_changes: 0
-english_release_status: "not-started"
+english_release_status: "complete"
+english_final_verified_letter_range: "3484-3536"
+english_final_verified_letter_count: 53
+english_release_report: "translations/en/RELEASE_REPORT.md"
+english_release_body_corrections: 0
+english_release_tamil_changes: 0
 source_observations:
   - "Volume number 44 is printed on the front cover and title page."
   - "Front cover/title page print the date span 18.07.2010–11.03.2011."
@@ -152,6 +157,8 @@ source_observations:
   - "Bilingual alignment is complete: 53 of 53 records, Letters 3484–3536 / PDF 024–399."
   - "Canonical Tamil changes across all English alignment batches are 0."
   - "The separate English editorial consistency review passed for all 53 records with 0 substantive English translation corrections and 0 Tamil changes."
+  - "The final English release verification passed for all 53 records; manifest validation found 53 unique letter numbers and 53 unique English paths with no duplicates, missing English records or source-incomplete rows."
+  - "No English body edit, Tamil correction or new scan re-check was required during final release verification."
   - "Letter 3535 is complete across PDF 381–390 and closes 10-03-2011."
   - "Letter 3536 is complete across PDF 391–399 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' followed by the normal closing; Letter 3536 is complete within Volume 44."

@@ -23,22 +23,29 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 source-checked + aligned + editorially reviewed; final release verification next** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
 | 49 | 01.06.2013–10.10.2013 | 402 | **complete** | **53** | **53 / 53 verified; editorial release complete** |
 
-## Volume 44 — active
+## Volume 44 — released
 
 Volume 44 has canonical Tamil for **PDF 001–400 / 400** and all **53 source records 3484–3536** are complete. Both required full-volume Tamil gates are **PASS**: structural audit and second direct visual/textual-fidelity verification.
 
 The fidelity pass restored page-scale omissions/truncations on **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065**. The repairs changed source bodies only; record boundaries, titles and dates remain unchanged.
 
-English drafting/source-check is **complete: 53 / 53 records — Letters 3484–3536 / PDF 024–399**. Bilingual meaning-level alignment is also **COMPLETE — 53 / 53**, with **0 canonical Tamil changes** across all eleven alignment batches.
+English drafting/source-check is **complete: 53 / 53 records — Letters 3484–3536 / PDF 024–399**. Bilingual meaning-level alignment is **COMPLETE — 53 / 53**, with **0 canonical Tamil changes** across all eleven alignment batches.
 
-The separate Volume 44 English editorial consistency review is now **PASS — 53 / 53**. It required **0 substantive English translation corrections and 0 Tamil changes**. The exact next gate is final English release verification and release-report/manifest validation.
+The separate Volume 44 English editorial consistency review is **PASS — 53 / 53** and required **0 substantive English translation corrections and 0 Tamil changes**. Final English release verification is also **PASS — 53 / 53**. Manifest reconciliation found **53 unique letter numbers and 53 unique English paths, with 0 duplicates, 0 missing English records and 0 source-incomplete records**.
+
+Release artifacts:
+
+- [English index](volumes/volume-44/translations/en/README.md)
+- [Translation manifest](volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv)
+- [Editorial consistency review](volumes/volume-44/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
+- [Final release report](volumes/volume-44/translations/en/RELEASE_REPORT.md)
 
 PDF 400 is non-letter back-cover / portrait / publisher material; no Letter 3537 is created.
 

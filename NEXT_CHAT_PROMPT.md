@@ -1,4 +1,4 @@
-# Next Chat Prompt — Continue Murasoli Letters Volume 44
+# Next Chat Prompt — Continue Murasoli Letters
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,40 +6,17 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
-Controlling source PDF:
-
-`TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
-
 ## Live-main rule for a fresh chat
 
-**Fetch live `main` first and treat it as authoritative.** The last confirmed live HEAD immediately before the editorial-consistency mutation was:
+**Fetch live `main` first and treat it as authoritative.** If `main` has advanced beyond any checkpoint copied into a prompt, preserve the newer durable state and continue from it. Do not reset or overwrite later completed work.
 
-`19dbb9624d6cf11818864b4ff266dac211013ecf` — `Complete Volume 44 bilingual alignment`
+Before changing anything, read the repository processing guides, `PROJECT_HANDOVER.md`, this `NEXT_CHAT_PROMPT.md`, and the controls for the active source/volume.
 
-If `main` has advanced beyond that commit, preserve the newer durable state and continue from it. Do not reset or overwrite later completed work because this prompt records an older checkpoint.
+## Volume 44 durable boundary
 
-Before changing anything, read completely:
+Volume 44 is **complete through all Tamil archival and English release gates**.
 
-1. `VOLUME_PROCESSING_GUIDE.md`
-2. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-3. `TRANSCRIPTION_GUIDE.md`
-4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
-5. `PROJECT_HANDOVER.md`
-6. this `NEXT_CHAT_PROMPT.md`
-7. `volumes/volume-44/README.md`
-8. `volumes/volume-44/PROGRESS.md`
-9. `volumes/volume-44/TRANSLATION_PLAN.md`
-10. `volumes/volume-44/metadata.yml`
-11. `volumes/volume-44/translations/en/README.md`
-12. `volumes/volume-44/translations/en/PROGRESS.md`
-13. `volumes/volume-44/translations/en/GLOSSARY.md`
-14. `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
-15. `volumes/volume-44/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
-
-## Durable boundary
-
-Volume 44 Tamil archival work is complete through both required full-volume gates. English translation/source-check, bilingual meaning-level alignment and the separate volume-level editorial consistency review are complete for all source records.
-
+- Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
 - Source inventory: **53 records, 3484–3536**
@@ -52,24 +29,16 @@ Volume 44 Tamil archival work is complete through both required full-volume gate
 - Bilingual alignment: **COMPLETE — 53 / 53 — 3484–3536 / PDF 024–399**
 - Canonical Tamil changes across all alignment batches: **0**
 - English editorial consistency review: **PASS — 53 / 53**
-- Editorial-pass substantive English corrections: **0**
-- Editorial-pass Tamil changes: **0**
-- English final release verification: **not started**
+- English final release verification: **PASS — 53 / 53**
+- Final release manifest: **53 rows; 53 unique letter numbers; 53 unique English paths; 0 duplicates; 0 missing English records; 0 source-incomplete rows**
+- English/Tamil body changes during final release verification: **0**
+
+Final release report: `volumes/volume-44/translations/en/RELEASE_REPORT.md`.
 
 PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing, so Letter 3536 is complete in this source. PDF 400 is non-letter back-cover / portrait / publisher material. Do not invent Letter 3537.
 
 ## Exact next activity
 
-Perform the separate **Volume 44 final English release verification**.
+There is **no further Volume 44 QA or release gate pending**. Derive the next activity from live `main` and the next source/volume explicitly supplied by the user. Do not reopen or repeat Volume 44 release work unless a concrete defect is reported or a new audit is explicitly requested.
 
-- Reconcile `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv` to exactly **53 source-letter records, 3484–3536**.
-- Validate unique letter numbers and unique English paths, confirm no missing English records and no source-incomplete records.
-- Confirm every record is source-checked, bilingual aligned and editorially reviewed before release promotion.
-- Verify the final source boundary at PDF 399 and the non-letter status of PDF 400.
-- Use the completed-volume release precedent (for example Volume 45) for release-report structure and control promotion.
-- Create the final English release report and update final-release status only after all checks pass.
-- Synchronize English/Volume/root controls, project handover and this prompt.
-
-Do not mark Volume 44 English final-release complete until the final verification passes.
-
-Before mutation, recheck live `main`, preserve concurrent work, prefer one validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
+Before any future mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.

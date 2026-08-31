@@ -28,7 +28,7 @@
 | English source-check | **53 / 53 — 3484–3536 / PDF 024–399** |
 | Bilingual alignment | **COMPLETE — 53 / 53 — 3484–3536 / PDF 024–399** |
 | English editorial review | **PASS — 53 / 53** |
-| English final release verification | not started |
+| English final release verification | **PASS — 53 / 53 — FINAL RELEASE COMPLETE** |
 
 ## Durable Tamil state
 
@@ -48,7 +48,9 @@ All **53 / 53** English records are drafted, source-checked and bilingual-aligne
 
 Eleven bilingual-alignment reports cover the complete record range **3484–3536 / PDF 024–399**. Across those batches, canonical Tamil changes were **0**.
 
-The separate [English editorial consistency review](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) is now **PASS — 53 / 53**. It reviewed the corpus-level consistency of titles/front matter/index, dates and source ranges, transliteration, recurring terminology, capitalization, institutional names, punctuation/quotation treatment, translator/source-check notes, source-supplied English, documented anomalies, headings and continuation/conclusion treatments. It required **0 substantive English translation corrections and 0 Tamil changes**.
+The separate [English editorial consistency review](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md) is **PASS — 53 / 53**. It required **0 substantive English translation corrections and 0 Tamil changes**.
+
+The separate [final English release verification](translations/en/RELEASE_REPORT.md) is also **PASS — 53 / 53**. Manifest reconciliation confirmed exactly **53 rows, 53 unique letter numbers, 53 unique English paths, 0 duplicate letter numbers, 0 duplicate paths, 0 missing English records and 0 source-incomplete records**. All 53 rows are source-checked, aligned, reviewed and final-release verified. No English or Tamil body change was required during release verification.
 
 Durable English controls:
 
@@ -57,9 +59,6 @@ Durable English controls:
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 - [Editorial consistency review](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
+- [Final release report](translations/en/RELEASE_REPORT.md)
 
-Editorial PASS does not collapse the later final-release gate.
-
-## Exact next activity
-
-Perform the separate **Volume 44 final English release verification**. Reconcile the manifest to exactly **53 source records, 3484–3536**, validate unique letter numbers and English paths, confirm source-check/alignment/editorial completion for every record, verify the final PDF 399/400 boundary, create the final release report and update release controls. Do not mark Volume 44 English final-release complete until that gate passes.
+No further Volume 44 English QA or release gate remains pending.

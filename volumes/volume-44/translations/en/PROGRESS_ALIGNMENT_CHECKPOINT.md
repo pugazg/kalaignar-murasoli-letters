@@ -28,10 +28,13 @@
 - Editorial consistency review: **PASS — 53 / 53**
 - Editorial-pass substantive English corrections: **0**
 - Editorial-pass canonical Tamil changes: **0**
-- Final release verification: **not started**
+- Final release verification: **PASS — 53 / 53**
+- Release-verification English body corrections: **0**
+- Release-verification canonical Tamil changes: **0**
 
-Bilingual meaning-level alignment and the separate English editorial-consistency gate are complete for every Volume 44 source record. PDF 400 is non-letter material and no Letter 3537 exists in this source.
+All required English QA and release gates are complete for every Volume 44 source record. PDF 400 is non-letter material and no Letter 3537 exists in this source.
 
-Editorial report: [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md).
+Editorial report: [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md).  
+Final release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
 
-Exact next activity: perform the separate **Volume 44 final English release verification**, including final manifest/path/status validation and release-report creation. Do not mark the release complete until that gate passes.
+No further Volume 44 English QA or release gate remains pending.

@@ -6,7 +6,7 @@
 - [x] English drafting/source-check complete — **53 / 53 — 3484–3536 / PDF 024–399**
 - [x] Bilingual alignment complete — **53 / 53 — 3484–3536 / PDF 024–399**
 - [x] Volume-level English editorial consistency review — **PASS — 53 / 53**
-- [ ] Final English release verification
+- [x] Final English release verification — **PASS — 53 / 53**
 
 ## Current counts
 
@@ -16,9 +16,11 @@
 - Translation conventions: **LOCKED**
 - Bilingual-aligned: **53 / 53 — 3484–3536 / PDF 024–399**
 - Editorially reviewed: **53 / 53 — PASS**
+- Final verified: **53 / 53 — PASS**
 - Editorial-review substantive English corrections: **0**
 - Editorial-review canonical Tamil changes: **0**
-- Final verified: **0 / 53**
+- Release-verification English body corrections: **0**
+- Release-verification canonical Tamil changes: **0**
 - Source-incomplete records: **0**
 
 ## Alignment correction record
@@ -42,10 +44,13 @@
 - all ten `BATCH_SOURCE_CHECK_*.md` reports
 - all eleven `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports
 - [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md) — **PASS — 53 / 53**
+- [`RELEASE_REPORT.md`](RELEASE_REPORT.md) — **PASS — FINAL RELEASE COMPLETE**
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
-Every translated record includes the complete audited Tamil appendix. Editorial PASS does **not** imply final release approval.
+## Final release validation
+
+The manifest contains exactly **53 rows, Letters 3484–3536**, with **53 unique letter numbers, 53 unique English paths, 0 duplicate numbers, 0 duplicate paths, 0 missing English records and 0 source-incomplete records**. Every row is source-checked, aligned, reviewed and final-release verified.
 
 ## Final source boundary
 
@@ -53,6 +58,4 @@ Every translated record includes the complete audited Tamil appendix. Editorial 
 - PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing/date.
 - PDF 400 is non-letter back-cover / portrait / publisher material; no Letter 3537 exists in Volume 44.
 
-## Exact next activity
-
-Perform the separate **Volume 44 final English release verification**. Reconcile the manifest to exactly 53 source records, validate unique letter numbers and English paths, confirm source-check/alignment/editorial status for every record, verify the PDF 399/400 boundary, create the final English release report and synchronize release controls. Do not mark the volume final-release complete until that gate passes.
+No further Volume 44 English QA or release gate remains pending.

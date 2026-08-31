@@ -8,21 +8,17 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 ## Fresh-chat rule
 
-On a new chat, **fetch live `main` before relying on any checkpoint in this document**. The last confirmed live HEAD immediately before the Volume 44 editorial-consistency mutation represented by this handover was:
-
-`19dbb9624d6cf11818864b4ff266dac211013ecf` — `Complete Volume 44 bilingual alignment`
-
-If live `main` is newer, preserve the newer state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
+On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
 ## Source authority
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
-## Volume 44 — ACTIVE
+## Volume 44 — COMPLETE
 
 Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
-Current durable state after the editorial gate represented by this handover:
+Final durable state:
 
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -40,28 +36,17 @@ Current durable state after the editorial gate represented by this handover:
 - English editorial consistency review: **PASS — 53 / 53**
 - Editorial-pass substantive English translation corrections: **0**
 - Editorial-pass canonical Tamil changes: **0**
-- English final release verification: **not started**
+- English final release verification: **PASS — 53 / 53**
+- Release-verification English body corrections: **0**
+- Release-verification canonical Tamil changes: **0**
 
-Durable English QA records include `PILOT_REVIEW_3484_3486.md`, all `BATCH_SOURCE_CHECK_*.md` reports, all eleven `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports, `EDITORIAL_CONSISTENCY_REVIEW.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, and the bilingual records under `translations/en/letters/`.
+Durable English QA/release records include `PILOT_REVIEW_3484_3486.md`, all `BATCH_SOURCE_CHECK_*.md` reports, all eleven `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports, `EDITORIAL_CONSISTENCY_REVIEW.md`, `RELEASE_REPORT.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, and the bilingual records under `translations/en/letters/`.
 
-The editorial review treated all 53 aligned records as one corpus and checked title/front-matter/index agreement, dates and source ranges, transliteration, recurring terminology, capitalization, institutions/schemes, punctuation/quotation conventions, translator/source-check notes, source-supplied English, documented anomalies, headings and continuation/conclusion treatment. No body edit or Tamil correction was required; manifest editorial status is now `reviewed` for all 53 records.
+Final release manifest validation passed with exactly **53 rows, 53 unique letter numbers and 53 unique English paths**, with **0 duplicate letter numbers, 0 duplicate English paths, 0 missing English records and 0 source-incomplete records**. Every row is source-checked, aligned, editorially reviewed and final-release verified.
 
 Final source boundaries remain Letter 3535 PDF 381–390 and Letter 3536 PDF 391–399. PDF 399 prints `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source. PDF 400 is non-letter material; no Letter 3537 is invented.
 
-### Exact next activity
-
-Perform the separate **Volume 44 final English release verification**.
-
-1. Reconfirm live `main` first and preserve any newer durable work.
-2. Read the current Volume 44 English README, `PROGRESS.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, `EDITORIAL_CONSISTENCY_REVIEW.md`, and relevant release precedent from a completed volume such as Volume 45.
-3. Reconcile the manifest to exactly **53 source-letter records, 3484–3536**.
-4. Validate no duplicate letter numbers, no duplicate English paths, no missing English records and no source-incomplete records.
-5. Confirm every row is `source-checked`, bilingual aligned and editorially `reviewed` before release promotion.
-6. Verify the final source boundary: Letter 3536 ends at PDF 399; PDF 400 is non-letter material and no Letter 3537 exists in Volume 44.
-7. Create the final English release report and promote final-release status only after all checks pass.
-8. Synchronize manifest, English/Volume/root controls and handover/prompt state.
-
-Do not describe Volume 44 English as final-release complete until that gate passes.
+No further Volume 44 English QA or release gate remains pending. Do not reopen Volume 44 release work unless a concrete defect is reported or a new audit is explicitly requested.
 
 ## Volume 45 — COMPLETE
 

@@ -1,6 +1,6 @@
 # Volume 44 — English Translation Plan
 
-**Status:** main translation drafting/source-check complete — **53 / 53 records source-checked, Letters 3484–3536 / PDF 024–399**. Bilingual meaning-level alignment is **COMPLETE — 53 / 53**. The separate English editorial consistency review is **PASS — 53 / 53**.
+**Status:** all required English translation and QA phases are complete for **53 / 53 records, Letters 3484–3536 / PDF 024–399**, including final release verification.
 
 ## Completed translation/source-check phase
 
@@ -30,24 +30,14 @@ Eleven alignment batches cover **53 / 53 — 3484–3536 / PDF 024–399**. The 
 
 ## Phase 4 — English editorial consistency review — COMPLETE
 
-The separate volume-level editorial pass reviewed all **53 / 53** aligned records as one English corpus for:
-
-- title/front-matter/index agreement;
-- transliteration and recurring terminology;
-- capitalization and institutional/scheme naming;
-- punctuation and quotation conventions;
-- translator/source-check notes and headings;
-- dates and source-page ranges;
-- continuation/conclusion treatments;
-- source-supplied English and documented anomalies; and
-- stale control-layer status language.
+The separate volume-level editorial pass reviewed all **53 / 53** aligned records as one English corpus for title/front-matter/index agreement, transliteration and recurring terminology, capitalization and institutional/scheme naming, punctuation/quotation conventions, translator/source-check notes and headings, dates/source-page ranges, continuation/conclusion treatments, source-supplied English, documented anomalies and stale control-layer status language.
 
 Result: **PASS — 53 / 53**. Substantive English translation corrections: **0**. Canonical Tamil changes: **0**. Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 
-The editorial pass intentionally did not bulk-rewrite aligned bilingual bodies merely to duplicate QA state. Manifest/control status is the durable editorial gate record.
+## Phase 5 — final English release verification — COMPLETE
 
-## Phase 5 — final English release verification — NEXT
+The final release gate reconciled `translations/en/TRANSLATION_MANIFEST.csv` to exactly **53 source records, 3484–3536**, validated **53 unique letter numbers and 53 unique English paths**, confirmed **0 duplicate numbers, 0 duplicate paths, 0 missing English records and 0 source-incomplete records**, verified every row as source-checked/aligned/reviewed/final-verified, and reconfirmed the PDF 399/400 boundary.
 
-Reconcile `translations/en/TRANSLATION_MANIFEST.csv` to exactly **53 source records, 3484–3536**, validate unique letter numbers and English paths, confirm source-check/alignment/editorial completion for every record, verify source boundaries through PDF 399 and the non-letter status of PDF 400, create the final English release report, and synchronize release controls.
+Result: **PASS — ENGLISH FINAL RELEASE COMPLETE**. No English body edit, Tamil correction or new scan re-check was required. Durable report: `translations/en/RELEASE_REPORT.md`.
 
-Do not describe Volume 44 English as final-release complete until this final gate passes.
+No further Volume 44 English translation, QA or release phase remains pending.

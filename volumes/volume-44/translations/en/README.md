@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED 53 / 53. BILINGUAL ALIGNMENT COMPLETE 53 / 53. EDITORIAL CONSISTENCY REVIEW PASS 53 / 53. FINAL RELEASE VERIFICATION NEXT.**
+**SOURCE-CHECKED 53 / 53. BILINGUAL ALIGNMENT COMPLETE 53 / 53. EDITORIAL CONSISTENCY REVIEW PASS 53 / 53. FINAL RELEASE COMPLETE 53 / 53.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -15,11 +15,13 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Editorial consistency review: **PASS — 53 / 53** — [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md)
 - Editorial-pass substantive English corrections: **0**
 - Editorial-pass canonical Tamil changes: **0**
-- Final English release verification: **not started**
+- Final English release verification: **PASS — 53 / 53** — [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
+- Release-verification English body corrections: **0**
+- Release-verification canonical Tamil changes: **0**
 - Source-incomplete records: **0**
 - Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 
-The audited canonical Tamil is the immediate English-QA source; the controlling scan remains the ultimate Tamil authority. Editorial status does **not** mean final release approval.
+The audited canonical Tamil is the immediate English-QA source; the controlling scan remains the ultimate Tamil authority. All required English QA and release gates are now complete.
 
 ## Bilingual alignment reports
 
@@ -39,7 +41,13 @@ The audited canonical Tamil is the immediate English-QA source; the controlling 
 
 The separate volume-level editorial gate reviewed the 53 aligned records as one English corpus. It checked title/front-matter/index agreement, dates and PDF ranges, locked transliteration, recurring terminology, capitalization, institutions and schemes, legal/political terminology, Indian public-language quantities, punctuation/quotation treatment, translator/source-check notes, source-supplied English, documented anomalies, headings and continuation/conclusion treatment.
 
-Result: **PASS — 53 / 53**. No bilingual letter body required an editorial correction; this gate promotes the manifest/control layer to `reviewed` while preserving all previously aligned bodies and the complete audited Tamil appendices.
+Result: **PASS — 53 / 53**. No bilingual letter body required an editorial correction.
+
+## Final release verification
+
+The release gate reconciled the manifest to exactly **53 source-letter records, 3484–3536**, validated **53 unique letter numbers and 53 unique English paths**, found **0 duplicate numbers, 0 duplicate paths, 0 missing English records and 0 source-incomplete records**, and confirmed every row is source-checked, aligned, editorially reviewed and final-release verified.
+
+Result: **PASS — ENGLISH FINAL RELEASE COMPLETE**. No English or Tamil body change was required during release verification.
 
 ## Record inventory
 
@@ -73,9 +81,8 @@ PDF 399 contains `(தொடர்ச்சி நாளை)` followed by the no
 - [`GLOSSARY.md`](GLOSSARY.md)
 - [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv)
 - [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md)
+- [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 - all source-check reports `BATCH_SOURCE_CHECK_*.md`
 - all alignment reports `BILINGUAL_ALIGNMENT_REVIEW_*.md`
 
-## Exact next activity
-
-Perform the separate **Volume 44 final English release verification**: validate the 53-record manifest and unique paths, confirm all source-check/alignment/editorial states, verify the final PDF boundary and create the release report. Do not mark final release complete until that verification passes.
+No further Volume 44 English QA or release gate remains pending.

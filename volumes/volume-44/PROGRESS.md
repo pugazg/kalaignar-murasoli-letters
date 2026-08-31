@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates, English translation/source-check, bilingual meaning-level alignment and the separate English editorial consistency review are complete for all 53 records.**
+**All required Tamil archival gates and all English translation, alignment, editorial and final-release gates are complete for all 53 records.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -17,9 +17,8 @@
 - Translation conventions: **LOCKED**
 - Bilingual alignment: **COMPLETE — 53 / 53 — 3484–3536 / PDF 024–399**
 - English editorial consistency review: **PASS — 53 / 53**
-- Editorial-pass substantive English corrections: **0**
-- Editorial-pass canonical Tamil changes: **0**
-- English final release verification: **not started**
+- English final release verification: **PASS — 53 / 53**
+- Editorial/release canonical Tamil changes: **0**
 
 ## English source-check phase — COMPLETE
 
@@ -34,6 +33,12 @@ Eleven alignment batches cover **3484–3536 / PDF 024–399**. Their durable re
 The separate volume-level review treated all 53 aligned records as one English corpus and checked title/front-matter/index agreement, dates and ranges, transliteration, recurring terminology, capitalization, institutional names, punctuation and quotation conventions, translator/source-check notes, source-supplied English, source anomalies, headings and continuation/conclusion treatments.
 
 Result: **PASS — 53 / 53**. No bilingual body required an editorial translation correction and no Tamil defect was exposed. The durable report is [`translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`](translations/en/EDITORIAL_CONSISTENCY_REVIEW.md).
+
+## Final English release verification — COMPLETE
+
+The release gate reconciled the manifest to exactly **53 records, 3484–3536**, confirmed **53 unique letter numbers and 53 unique English paths**, and found **0 duplicate numbers, 0 duplicate paths, 0 missing English records and 0 source-incomplete records**. Every row is source-checked, aligned, editorially reviewed and final-release verified.
+
+Result: **PASS — ENGLISH FINAL RELEASE COMPLETE**. No English body edit, Tamil correction or new scan re-check was required. Durable report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md).
 
 ## Final source boundary
 
@@ -51,8 +56,6 @@ Result: **PASS — 53 / 53**. No bilingual body required an editorial translatio
 - English source-checked: **53 / 53**
 - Bilingual-aligned: **53 / 53**
 - English editorial review: **PASS — 53 / 53**
-- English final release: **not started**
+- English final release: **PASS — 53 / 53 — COMPLETE**
 
-## Exact next activity
-
-Perform the separate **Volume 44 final English release verification**. Reconcile the translation manifest to exactly 53 source records, validate unique letter numbers and English paths, confirm every record is source-checked/aligned/editorially reviewed, verify the PDF 399/400 boundary, create the final release report and synchronize release controls. Do not mark final release complete until that gate passes.
+No further Volume 44 QA or release activity remains pending.
