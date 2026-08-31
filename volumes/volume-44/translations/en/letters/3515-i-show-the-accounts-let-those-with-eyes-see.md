@@ -11,7 +11,7 @@ source_printed_page_end: 238
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3515. I Show the Accounts; Let Those with Eyes See!
@@ -31,6 +31,8 @@ Beginning with Tamil Nadu’s Leader of the Opposition, Jayalalithaa, down to gr
 As far as I am concerned, I consider it my duty to give an explanation to those who accuse me about my assets and to those who believe those accusations. However much they write disparagingly about my family, the family into which I was born had at least enough means that, even when I was a child, thieves came into the house to steal and I could be taken to Tiruvarur and enrolled in high school.
 
 By the time I was eighteen, I had started the weekly *Murasoli*. I had already begun trying to write plays and was participating in Dravidar Kazhagam propaganda meetings. In 1949 I was employed as a writer at Modern Theatres in Salem. Even then I was earning a monthly salary of ₹500. On 17 September that same year, when Perarignar Anna founded the DMK at Robinson Park amid pouring rain, I took part in that meeting.
+
+When I came for that meeting, I stayed at the Virudhunagar Nadar Lodge.
 
 When my play *Manthiri Kumari* was made into a film by Modern Theatres, our family life began in Salem. Kalaivanar N. S. Krishnan, who came to Salem at that time, met me and asked me to write the screenplay and dialogue for his film *Manamagal*. I agreed and, even in those days, received ₹10,000 as payment. Likewise, when I wrote dialogue for *Iruvar Ullam* and that film ran beyond one hundred days, its producer, dear friend L. V. Prasad, came to my home and, in addition to the first ₹10,000 already paid, gave me another ₹10,000.
 

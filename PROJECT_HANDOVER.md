@@ -8,9 +8,9 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 ## Fresh-chat rule
 
-On a new chat, **fetch live `main` before relying on any checkpoint in this document**. Last confirmed live HEAD immediately before the Volume 44 batch-6 alignment mutation represented by this handover:
+On a new chat, **fetch live `main` before relying on any checkpoint in this document**. Last confirmed live HEAD immediately before the Volume 44 batch-7 alignment mutation represented by this handover:
 
-`fe67769e0bcd573d5387c42ec9b823a80857090b` — `Synchronize Volume 44 alignment letters 3504-3508`
+`530b46f850ef9d40632a498d8ce0aa51accf611a` — `Synchronize Volume 44 alignment letters 3509-3513`
 
 If live `main` is newer, preserve the newer state and derive the next activity from the current repository controls. Never regress a completed alignment batch because an older prompt or handover names an earlier boundary.
 
@@ -43,8 +43,9 @@ Current durable state represented by this handover:
 - Bilingual alignment batch 4: **3499–3503 / PDF 133–162 — PASS; one English meaning-level clarification in 3499 / PDF 134–135; 0 Tamil changes**
 - Bilingual alignment batch 5: **3504–3508 / PDF 163–186 — PASS; 0 English corrections; 0 Tamil changes**
 - Bilingual alignment batch 6: **3509–3513 / PDF 187–222 — PASS; 0 English corrections; 0 Tamil changes**
-- Cumulative bilingual alignment: **30 / 53 — 3484–3513 / PDF 024–222**
-- Exact next alignment batch: **3514–3518 / PDF 223–256**
+- Bilingual alignment batch 7: **3514–3518 / PDF 223–256 — PASS; one English meaning-level coverage restoration in 3515 / PDF 231; 0 Tamil changes**
+- Cumulative bilingual alignment: **35 / 53 — 3484–3518 / PDF 024–256**
+- Exact next alignment batch: **3519–3523 / PDF 257–290**
 - English editorial review: **not started**
 - English release: **not started**
 
@@ -62,14 +63,15 @@ Durable English QA records include:
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`
+- `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3487_3491.md` through `BATCH_SOURCE_CHECK_3532_3536.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All fifty-three English records contain the complete audited Tamil appendix and are source-checked. Records 3484–3513 are additionally bilingual-aligned. Source-check/alignment PASS does **not** imply editorial review or release readiness.
+All fifty-three English records contain the complete audited Tamil appendix and are source-checked. Records 3484–3518 are additionally bilingual-aligned. Source-check/alignment PASS does **not** imply editorial review or release readiness.
 
-Batch 4 required one English-only meaning-level correction in Letter 3499: the ambulance distribution reads `one each for 385 community development blocks`, matching the audited Tamil `385 சமுதாய அபிவிருத்தி வட்டங்களுக்கு ஒன்று வீதம்`. Batches 5 and 6 required no English correction and no Tamil change.
+Batch 4 required one English-only meaning-level correction in Letter 3499: the ambulance distribution reads `one each for 385 community development blocks`, matching the audited Tamil `385 சமுதாய அபிவிருத்தி வட்டங்களுக்கு ஒன்று வீதம்`. Batches 5 and 6 required no English correction and no Tamil change. Batch 7 restored one omitted autobiographical sentence in Letter 3515 / PDF 231: `When I came for that meeting, I stayed at the Virudhunagar Nadar Lodge.` No Tamil change was required.
 
 Final source boundaries remain Letter 3535 PDF 381–390, Letter 3536 PDF 391–399, with PDF 400 non-letter material. PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source.
 
@@ -90,15 +92,15 @@ A review draft alone is not a completed alignment gate. Editorial consistency re
 
 ### Exact next activity at this handoff
 
-Begin the seventh five-record bilingual meaning-level alignment batch: **Letters 3514–3518 / PDF 223–256**.
+Begin the eighth five-record bilingual meaning-level alignment batch: **Letters 3519–3523 / PDF 257–290**.
 
-- **3514** — PDF **223–229**
-- **3515** — PDF **230–239**
-- **3516** — PDF **240–245**
-- **3517** — PDF **246–251**
-- **3518** — PDF **252–256**
+- **3519** — PDF **257–264**
+- **3520** — PDF **265–270**
+- **3521** — PDF **271–277**
+- **3522** — PDF **278–283**
+- **3523** — PDF **284–290**
 
-Use complete audited canonical Tamil as immediate alignment authority. Check full meaning/coverage, order, figures, names, dates, quotations, printed English, rhetoric and documented anomalies. Apply only English corrections required by alignment. Do not change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`, mark those five records and manifest rows aligned, synchronize controls, and stop after **3518**. Do not begin 3519, editorial review or release verification in the same activity.
+Use complete audited canonical Tamil as immediate alignment authority. Check full meaning/coverage, order, figures, names, dates, quotations, printed English, rhetoric and documented anomalies. Apply only English corrections required by alignment. Do not change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`, mark those five records and manifest rows aligned, synchronize controls, and stop after **3523**. Do not begin 3524, editorial review or release verification in the same activity.
 
 ## Volume 45 — COMPLETE
 

@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3513.**
+**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3518.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -15,7 +15,7 @@
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Translation conventions: **LOCKED**
-- Bilingual alignment: **30 / 53 — 3484–3513 / PDF 024–222**
+- Bilingual alignment: **35 / 53 — 3484–3518 / PDF 024–256**
 - English editorial review: **not started**
 - English final release: **not started**
 
@@ -94,6 +94,19 @@ The batch preserves the full Cauvery institutional chronology and dated correspo
 
 Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md).
 
+### Batch 7 — 3514–3518 / PDF 223–256 — PASS
+
+- 5 / 5 aligned and synchronized.
+- English corrections: **1 meaning-level coverage restoration — Letter 3515 / PDF 231**.
+- Restored the omitted autobiographical sentence `When I came for that meeting, I stayed at the Virudhunagar Nadar Lodge.` matching the audited Tamil `அந்தக் கூட்டத்திற்கு வந்த போது விருதுநகர் நாடார் லாட்ஜில்தான் தங்கினேன்.`
+- Canonical Tamil changes: **0**.
+- New scan-level Tamil corrections: **0**.
+- Boundary/title/date changes: **0**.
+
+The batch preserves the complete transport-union election and employee-benefit figures in 3514; the autobiographical income/property/trust/donation history and bank balances in 3515; house-site/Nero/flood/JPC/spectrum material in 3516; Housing Board audit/pricing/refund figures and source-distinct ₹3.46/₹3.47 crore amounts in 3517; and the full 1942 Anbazhagan/Tamil Students’ Forum history, movement praise, scholarly assessments and birthday close in 3518.
+
+Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md).
+
 ## QA state
 
 - Source intake: **PASS**
@@ -101,10 +114,10 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`](tra
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
 - English source-checked: **53 / 53**
-- Bilingual-aligned: **30 / 53 — 3484–3513**
+- Bilingual-aligned: **35 / 53 — 3484–3518**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Align **Letters 3514–3518 / PDF 223–256** as the seventh five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`, update the five records/manifest/control files, and stop after 3518. Do not begin 3519, editorial review or release verification in the same activity.
+Align **Letters 3519–3523 / PDF 257–290** as the eighth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`, update the five records/manifest/control files, and stop after 3523. Do not begin 3524, editorial review or release verification in the same activity.
