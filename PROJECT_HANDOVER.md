@@ -8,9 +8,9 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 ## Fresh-chat rule
 
-On a new chat, **fetch live `main` before relying on any checkpoint in this document**. Last confirmed live HEAD when this handover was prepared:
+On a new chat, **fetch live `main` before relying on any checkpoint in this document**. Last confirmed live HEAD immediately before the Volume 44 batch-3 alignment mutation represented by this handover:
 
-`4fef3e9adb7b139f02c847653d283267421d3a10` — `Synchronize Volume 44 alignment letters 3489-3493`
+`f6d77f1d337c12ac15ef513de9ad0d25d23e24e5` — `Refresh Volume 44 continuation handoff`
 
 If live `main` is newer, preserve the newer state and derive the next activity from the current repository controls. Never regress a completed alignment batch because an older prompt or handover names an earlier boundary.
 
@@ -24,7 +24,7 @@ The controlling scan controls Tamil readings. Audited canonical Tamil is the imm
 
 Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
-Current durable state at the checkpoint above:
+Current durable state represented by this handover:
 
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -39,8 +39,9 @@ Current durable state at the checkpoint above:
 - Volume 44 translation conventions: **LOCKED**
 - Bilingual alignment batch 1: **3484–3488 / PDF 024–066 — PASS; one English punctuation-only correction in 3487 / PDF 051; 0 Tamil changes**
 - Bilingual alignment batch 2: **3489–3493 / PDF 067–098 — PASS; 0 English corrections; 0 Tamil changes**
-- Cumulative bilingual alignment: **10 / 53 — 3484–3493 / PDF 024–098**
-- Exact next alignment batch: **3494–3498 / PDF 099–132**
+- Bilingual alignment batch 3: **3494–3498 / PDF 099–132 — PASS; 0 English corrections; 0 Tamil changes**
+- Cumulative bilingual alignment: **15 / 53 — 3484–3498 / PDF 024–132**
+- Exact next alignment batch: **3499–3503 / PDF 133–162**
 - English editorial review: **not started**
 - English release: **not started**
 
@@ -54,12 +55,13 @@ Durable English QA records include:
 - `volumes/volume-44/translations/en/PILOT_REVIEW_3484_3486.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`
+- `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3487_3491.md` through `BATCH_SOURCE_CHECK_3532_3536.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All fifty-three English records contain the complete audited Tamil appendix and are source-checked. Records 3484–3493 are additionally bilingual-aligned. Source-check/alignment PASS does **not** imply editorial review or release readiness.
+All fifty-three English records contain the complete audited Tamil appendix and are source-checked. Records 3484–3498 are additionally bilingual-aligned. Source-check/alignment PASS does **not** imply editorial review or release readiness.
 
 Final source boundaries remain Letter 3535 PDF 381–390, Letter 3536 PDF 391–399, with PDF 400 non-letter material. PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source.
 
@@ -80,15 +82,15 @@ A review draft alone is not a completed alignment gate. Editorial consistency re
 
 ### Exact next activity at this handoff
 
-Begin the third five-record bilingual meaning-level alignment batch: **Letters 3494–3498 / PDF 099–132**.
+Begin the fourth five-record bilingual meaning-level alignment batch: **Letters 3499–3503 / PDF 133–162**.
 
-- **3494** — PDF **099–104**
-- **3495** — PDF **105–111**
-- **3496** — PDF **112–117**
-- **3497** — PDF **118–124**
-- **3498** — PDF **125–132**
+- **3499** — PDF **133–139**
+- **3500** — PDF **140–147**
+- **3501** — PDF **148–153**
+- **3502** — PDF **154–158**
+- **3503** — PDF **159–162**
 
-Use complete audited canonical Tamil as immediate alignment authority. Check full meaning/coverage, order, figures, names, dates, quotations, printed English, rhetoric and documented anomalies. Apply only English corrections required by alignment. Do not change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`, mark those five records and manifest rows aligned, synchronize controls, and stop after **3498**. Do not begin 3499, editorial review or release verification in the same activity.
+Use complete audited canonical Tamil as immediate alignment authority. Check full meaning/coverage, order, figures, names, dates, quotations, printed English, rhetoric and documented anomalies. Apply only English corrections required by alignment. Do not change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`, mark those five records and manifest rows aligned, synchronize controls, and stop after **3503**. Do not begin 3504, editorial review or release verification in the same activity.
 
 ## Volume 45 — COMPLETE
 

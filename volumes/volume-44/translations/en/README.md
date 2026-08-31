@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 10 / 53 aligned.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 15 / 53 aligned.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -16,9 +16,11 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Batch 1 corrections: **1 English punctuation-only correction — Letter 3487 / PDF 051**
 - Bilingual alignment batch 2: **PASS — 3489–3493 / PDF 067–098 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md)
 - Batch 2 English corrections: **0**
-- Canonical Tamil changes during alignment batches 1–2: **0**
-- Cumulative bilingual alignment: **10 / 53 — 3484–3493 / PDF 024–098**
-- Exact next alignment batch: **3494–3498 / PDF 099–132**
+- Bilingual alignment batch 3: **PASS — 3494–3498 / PDF 099–132 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md)
+- Batch 3 English corrections: **0**
+- Canonical Tamil changes during alignment batches 1–3: **0**
+- Cumulative bilingual alignment: **15 / 53 — 3484–3498 / PDF 024–132**
+- Exact next alignment batch: **3499–3503 / PDF 133–162**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
@@ -40,11 +42,11 @@ The audited canonical Tamil is the immediate translation/alignment source; the c
 | [3491](letters/3491-that-shout-that-echoes-back.md) | That Shout That Echoes Back! | 11 August 2010 | 080–087 | source-checked | aligned |
 | [3492](letters/3492-all-this-is-the-play-of-time.md) | All This Is the Play of Time! | 18 August 2010 | 088–093 | source-checked | aligned |
 | [3493](letters/3493-will-the-one-that-did-not-understand-at-first-understand-now.md) | Will the One That Did Not Understand at First Understand Now? | 20 August 2010 | 094–098 | source-checked | aligned |
-| [3494](letters/3494-is-it-fair-you-tell-me.md) | Is It Fair? You Tell Me! | 31 August 2010 | 099–104 | source-checked | pending |
-| [3495](letters/3495-kodanadu-is-always-there-to-hide-away-in.md) | Kodanadu Is Always There to Hide Away In! | 2 September 2010 | 105–111 | source-checked | pending |
-| [3496](letters/3496-come-forward-to-cooperate.md) | Come Forward to Cooperate! | 3 September 2010 | 112–117 | source-checked | pending |
-| [3497](letters/3497-can-advocacy-of-violence-be-truth.md) | Can Advocacy of Violence Be Truth? | 4 September 2010 | 118–124 | source-checked | pending |
-| [3498](letters/3498-anbil-immortalised-in-stone-calls-us.md) | Anbil, Immortalised in Stone, Calls Us! | 7 September 2010 | 125–132 | source-checked | pending |
+| [3494](letters/3494-is-it-fair-you-tell-me.md) | Is It Fair? You Tell Me! | 31 August 2010 | 099–104 | source-checked | aligned |
+| [3495](letters/3495-kodanadu-is-always-there-to-hide-away-in.md) | Kodanadu Is Always There to Hide Away In! | 2 September 2010 | 105–111 | source-checked | aligned |
+| [3496](letters/3496-come-forward-to-cooperate.md) | Come Forward to Cooperate! | 3 September 2010 | 112–117 | source-checked | aligned |
+| [3497](letters/3497-can-advocacy-of-violence-be-truth.md) | Can Advocacy of Violence Be Truth? | 4 September 2010 | 118–124 | source-checked | aligned |
+| [3498](letters/3498-anbil-immortalised-in-stone-calls-us.md) | Anbil, Immortalised in Stone, Calls Us! | 7 September 2010 | 125–132 | source-checked | aligned |
 | [3499](letters/3499-we-are-not-those-who-stand-aloof-on-a-mountaintop.md) | We Are Not Those Who Stand Aloof on a Mountaintop! | 18 September 2010 | 133–139 | source-checked | pending |
 | [3500](letters/3500-be-an-opposition-party-not-an-enemy-party.md) | Be an Opposition Party, Not an Enemy Party! | 19 September 2010 | 140–147 | source-checked | pending |
 | [3501](letters/3501-cast-aside-censure-reflect-o-mind.md) | Cast Aside Censure; Reflect, O Mind! | 20 September 2010 | 148–153 | source-checked | pending |
@@ -109,6 +111,7 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`](BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
@@ -124,4 +127,4 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 ## Exact next activity
 
-Align **Letters 3494–3498 / PDF 099–132** as the third five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`, update the five records/manifest/control files, and stop after Letter 3498. Do not begin 3499, editorial review or final release verification in the same activity.
+Align **Letters 3499–3503 / PDF 133–162** as the fourth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`, update the five records/manifest/control files, and stop after Letter 3503. Do not begin 3504, editorial review or final release verification in the same activity.

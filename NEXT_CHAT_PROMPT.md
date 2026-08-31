@@ -12,9 +12,9 @@ Controlling source PDF:
 
 ## Live-main rule for a fresh chat
 
-**Fetch live `main` first and treat it as authoritative.** The last confirmed live HEAD when this handoff was prepared was:
+**Fetch live `main` first and treat it as authoritative.** The last confirmed live HEAD immediately before the third alignment-batch commit was prepared was:
 
-`4fef3e9adb7b139f02c847653d283267421d3a10` — `Synchronize Volume 44 alignment letters 3489-3493`
+`f6d77f1d337c12ac15ef513de9ad0d25d23e24e5` — `Refresh Volume 44 continuation handoff`
 
 If `main` has advanced beyond that commit, preserve the newer durable state and continue from it. Do not reset, overwrite or repeat later completed work merely because this prompt records an older checkpoint.
 
@@ -40,7 +40,7 @@ For the next batch, also read the source-check reports covering the target lette
 
 ## Durable boundary
 
-**Volume 44 Tamil archival preparation is complete through both required full-volume gates. English translation/source-check is complete for all 53 source records. Bilingual alignment is durably synchronized through Letter 3493.**
+**Volume 44 Tamil archival preparation is complete through both required full-volume gates. English translation/source-check is complete for all 53 source records. Bilingual alignment is durably synchronized through Letter 3498.**
 
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -57,8 +57,10 @@ For the next batch, also read the source-check reports covering the target lette
 - Batch 1 correction: **1 English punctuation-only correction — 3487 / PDF 051**
 - Bilingual alignment batch 2: **3489–3493 / PDF 067–098 — PASS — 5 / 5**
 - Batch 2 English corrections: **0**
-- Cumulative bilingual alignment: **10 / 53 — 3484–3493 / PDF 024–098**
-- Canonical Tamil changes during alignment batches 1–2: **0**
+- Bilingual alignment batch 3: **3494–3498 / PDF 099–132 — PASS — 5 / 5**
+- Batch 3 English corrections: **0**
+- Cumulative bilingual alignment: **15 / 53 — 3484–3498 / PDF 024–132**
+- Canonical Tamil changes during alignment batches 1–3: **0**
 - English editorial review: **not started**
 - English release: **not started**
 
@@ -66,8 +68,9 @@ Durable alignment reports:
 
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`
+- `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`
 
-All 53 English records exist under `volumes/volume-44/translations/en/letters/` and contain complete audited Tamil appendices. Records 3484–3493 are bilingual-aligned. Alignment PASS does **not** imply editorial or release readiness.
+All 53 English records exist under `volumes/volume-44/translations/en/letters/` and contain complete audited Tamil appendices. Records 3484–3498 are bilingual-aligned. Alignment PASS does **not** imply editorial or release readiness.
 
 Preserve all source anomalies already documented during later QA. PDF 400 remains non-letter material and no Letter 3537 is to be invented.
 
@@ -79,17 +82,17 @@ If a meaning-level comparison exposes a possible Tamil defect, stop treating the
 
 ## Exact next activity
 
-Execute the third **five-record bilingual meaning-level alignment batch — Letters 3494–3498 / PDF 099–132**.
+Execute the fourth **five-record bilingual meaning-level alignment batch — Letters 3499–3503 / PDF 133–162**.
 
 1. Reconfirm live `main`; if it has advanced, recompute the actual next durable batch before doing any work.
-2. Read the completed alignment reports, the source-check reports relevant to 3494–3498, the current `GLOSSARY.md`, and the Volume 45 alignment precedent.
+2. Read the completed alignment reports, the source-check reports relevant to 3499–3503, the current `GLOSSARY.md`, and the Volume 45 alignment precedent.
 3. Compare each complete English record against its complete audited canonical Tamil source, including the Tamil appendix in physical PDF-page order.
 4. Check title, salutation, continuation/conclusion marker, closing/date, paragraph/argument sequence, complete substantive coverage, names, institutions, dates, figures, percentages, monetary amounts, units, lists, quotations, printed source English, rhetoric, repetition and documented anomalies.
 5. Apply only English corrections required by meaning-level comparison. Do not improve style merely for preference.
 6. If alignment exposes a possible Tamil defect, re-check the controlling scan before changing either layer. OCR, contents wording and outside knowledge may not silently override the scan.
-7. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`.
-8. Mark Letters 3494–3498 and their manifest rows `bilingual_alignment_status: aligned`, retaining `translation_status: source-checked`.
+7. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`.
+8. Mark Letters 3499–3503 and their manifest rows `bilingual_alignment_status: aligned`, retaining `translation_status: source-checked`.
 9. Update English/Volume/root controls so all counts and next-range statements agree.
-10. Stop after **Letter 3498**. **Do not begin 3499, volume-level editorial review or final release verification in the same activity.**
+10. Stop after **Letter 3503**. **Do not begin 3504, volume-level editorial review or final release verification in the same activity.**
 
 Before mutation, recheck live `main`, preserve concurrent work, create one validated atomic commit where possible, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
