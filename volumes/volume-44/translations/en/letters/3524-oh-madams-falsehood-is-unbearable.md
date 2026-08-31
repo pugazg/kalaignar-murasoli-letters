@@ -11,7 +11,7 @@ source_printed_page_end: 297
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3524. Oh! Madam's Falsehood Is Unbearable!
@@ -70,7 +70,7 @@ If she truly cared for minorities, the letter asks, why did she not bring the re
 
 The Public Department file said the replacement law had to be passed within six weeks of the next sitting, but, the letter argues, she did not think of the matter again until leaving office because minorities came to her mind only at election time.
 
-Jayalalithaa advanced the same argument in the Assembly on **27-5-2006**. Congress member Gnanasekaran intervened, according to the proceedings quoted by the letter, and argued that merely issuing an ordinance did not permanently settle the matter; an ordinance had to be made into law within the prescribed period. He said Jayalalithaa had issued the ordinance and simply left it there, contrasted this with another prohibition concerning animal sacrifice that had been brought before the Assembly, and accused her of betraying minorities by failing to enact the repeal legislation.
+Jayalalithaa advanced the same argument in the Assembly on **27-5-2006**. Congress member Gnanasekaran intervened, according to the proceedings quoted by the letter, and argued that merely issuing an ordinance did not permanently settle the matter; an ordinance had to be made into law within **six months**. He said Jayalalithaa had issued the ordinance and simply left it there, contrasted this with another prohibition concerning animal sacrifice that had been brought before the Assembly, and accused her of betraying minorities by failing to enact the repeal legislation.
 
 The letter gives another example of what it calls Jayalalithaa’s belittling of minorities. It says she generally did not attend the annual Iftar breaking of the fast, nor regularly go to the Quaid-e-Millath memorial to offer floral tribute; but in an election year, it says, she would make sure to attend and obtain prominent newspaper photographs.
 

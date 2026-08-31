@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 40 / 53 aligned.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 45 / 53 aligned.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -28,9 +28,11 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Batch 7 corrections: **1 English meaning-level coverage restoration — Letter 3515 / PDF 231**
 - Bilingual alignment batch 8: **PASS — 3519–3523 / PDF 257–290 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md)
 - Batch 8 corrections: **5 English alignment corrections across Letters 3519 and 3523**
-- Canonical Tamil changes during alignment batches 1–8: **0**
-- Cumulative bilingual alignment: **40 / 53 — 3484–3523 / PDF 024–290**
-- Exact next alignment batch: **3524–3528 / PDF 291–325**
+- Bilingual alignment batch 9: **PASS — 3524–3528 / PDF 291–325 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`](BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md)
+- Batch 9 corrections: **1 English meaning-level/source-anomaly restoration — Letter 3524 / PDF 295**
+- Canonical Tamil changes during alignment batches 1–9: **0**
+- Cumulative bilingual alignment: **45 / 53 — 3484–3528 / PDF 024–325**
+- Exact next alignment batch: **3529–3533 / PDF 326–369**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
@@ -82,11 +84,11 @@ The audited canonical Tamil is the immediate translation/alignment source; the c
 | [3521](letters/3521-let-our-campaign-brigade-set-out.md) | Let Our Campaign Brigade Set Out! | 22 December 2010 | 271–277 | source-checked | aligned |
 | [3522](letters/3522-employment-opportunities-then-and-now.md) | Employment Opportunities: Then and Now! | 23 December 2010 | 278–283 | source-checked | aligned |
 | [3523](letters/3523-when-will-it-ever-end.md) | When Will It Ever End? | 29 December 2010 | 284–290 | source-checked | aligned |
-| [3524](letters/3524-oh-madams-falsehood-is-unbearable.md) | Oh! Madam's Falsehood Is Unbearable! | 31 December 2010 | 291–298 | source-checked | pending |
-| [3525](letters/3525-read-the-history-of-the-raja-of-panagal.md) | Read the History of the Raja of Panagal! | 7 January 2011 | 299–301 | source-checked | pending |
-| [3526](letters/3526-will-those-who-spew-poison-speak-with-a-hand-on-their-heart.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? | 12 January 2011 | 302–311 | source-checked | pending |
-| [3527](letters/3527-will-those-who-spew-poison-speak-with-a-hand-on-their-heart-2.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? (2) | 13 January 2011 | 312–317 | source-checked | pending |
-| [3528](letters/3528-an-explanation-for-those-who-wish-to-politicise-it.md) | An Explanation for Those Who Wish to Politicise It! | 26 January 2011 | 318–325 | source-checked | pending |
+| [3524](letters/3524-oh-madams-falsehood-is-unbearable.md) | Oh! Madam's Falsehood Is Unbearable! | 31 December 2010 | 291–298 | source-checked | aligned |
+| [3525](letters/3525-read-the-history-of-the-raja-of-panagal.md) | Read the History of the Raja of Panagal! | 7 January 2011 | 299–301 | source-checked | aligned |
+| [3526](letters/3526-will-those-who-spew-poison-speak-with-a-hand-on-their-heart.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? | 12 January 2011 | 302–311 | source-checked | aligned |
+| [3527](letters/3527-will-those-who-spew-poison-speak-with-a-hand-on-their-heart-2.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? (2) | 13 January 2011 | 312–317 | source-checked | aligned |
+| [3528](letters/3528-an-explanation-for-those-who-wish-to-politicise-it.md) | An Explanation for Those Who Wish to Politicise It! | 26 January 2011 | 318–325 | source-checked | aligned |
 | [3529](letters/3529-government-employees-and-madam-jayalalithaa.md) | Government Employees and Madam Jayalalithaa! | 27 February 2011 | 326–331 | source-checked | pending |
 | [3530](letters/3530-the-commissions-order-has-been-issued.md) | The Commission's Order Has Been Issued! | 3 March 2011 | 332–337 | source-checked | pending |
 | [3531](letters/3531-the-harvest-was-abundant-the-farmers-tears-disappeared.md) | The Harvest Was Abundant; the Farmer's Tears Disappeared! | 4 March 2011 | 338–349 | source-checked | pending |
@@ -127,6 +129,7 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`](BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`](BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`](BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
@@ -142,4 +145,4 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 ## Exact next activity
 
-Align **Letters 3524–3528 / PDF 291–325** as the ninth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`, update the five records/manifest/control files, and stop after Letter 3528. Do not begin 3529, editorial review or release verification in the same activity.
+Align **Letters 3529–3533 / PDF 326–369** as the tenth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3529_3533.md`, update the five records/manifest/control files, and stop after Letter 3533. Do not begin 3534, editorial review or release verification in the same activity.

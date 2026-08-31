@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3523.**
+**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3528.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -15,7 +15,7 @@
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Translation conventions: **LOCKED**
-- Bilingual alignment: **40 / 53 — 3484–3523 / PDF 024–290**
+- Bilingual alignment: **45 / 53 — 3484–3528 / PDF 024–325**
 - English editorial review: **not started**
 - English final release: **not started**
 
@@ -121,6 +121,20 @@ The batch also preserves without change the 2009 Union Cabinet/spectrum/tape/lan
 
 Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md).
 
+### Batch 9 — 3524–3528 / PDF 291–325 — PASS
+
+- 5 / 5 aligned and synchronized.
+- English corrections: **1 meaning-level/source-anomaly restoration — Letter 3524 / PDF 295**.
+- Restored Congress member Gnanasekaran’s explicit `within six months`, matching audited Tamil `ஆறு மாத காலத்திற்குள்`, instead of the generic `within the prescribed period`.
+- This preserves the source’s internal six-month / six-week tension rather than silently smoothing it.
+- Canonical Tamil changes: **0**.
+- New scan-level Tamil corrections: **0**.
+- Boundary/title/date changes: **0**.
+
+The batch otherwise preserves without change the complete Panagal Raja autobiographical/history material in 3525; all seven *India Today* allegation/official-explanation units and Theni encroachment findings in 3526; the 108 ambulance/ration-card/women’s-commando media-rebuttal material in 3527; and the full spectrum/PAC/JPC/welfare-spending/2G–3G/TRAI argument, figures and printed English in 3528.
+
+Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md).
+
 ## QA state
 
 - Source intake: **PASS**
@@ -128,10 +142,10 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](tra
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
 - English source-checked: **53 / 53**
-- Bilingual-aligned: **40 / 53 — 3484–3523**
+- Bilingual-aligned: **45 / 53 — 3484–3528**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Align **Letters 3524–3528 / PDF 291–325** as the ninth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`, update the five records/manifest/control files, and stop after 3528. Do not begin 3529, editorial review or release verification in the same activity.
+Align **Letters 3529–3533 / PDF 326–369** as the tenth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3529_3533.md`, update the five records/manifest/control files, and stop after 3533. Do not begin 3534, editorial review or release verification in the same activity.

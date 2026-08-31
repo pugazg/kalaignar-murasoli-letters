@@ -1,6 +1,6 @@
 # Volume 44 — English Translation Plan
 
-**Status:** main translation drafting/source-check complete — **53 / 53 records source-checked, Letters 3484–3536 / PDF 024–399**. Bilingual alignment is in progress and durably synchronized through **3523**.
+**Status:** main translation drafting/source-check complete — **53 / 53 records source-checked, Letters 3484–3536 / PDF 024–399**. Bilingual alignment is in progress and durably synchronized through **3528**.
 
 ## Completed translation/source-check phase
 
@@ -46,9 +46,10 @@ Each five-record alignment batch must:
 - **3509–3513 / PDF 187–222** — PASS — 5/5 synchronized; 0 English corrections; 0 Tamil changes.
 - **3514–3518 / PDF 223–256** — PASS — 5/5 synchronized; one English meaning-level coverage restoration in 3515 / PDF 231; 0 Tamil changes.
 - **3519–3523 / PDF 257–290** — PASS — 5/5 synchronized; 5 English alignment corrections across 3519 and 3523; 0 Tamil changes.
+- **3524–3528 / PDF 291–325** — PASS — 5/5 synchronized; one English meaning-level/source-anomaly restoration in 3524 / PDF 295; 0 Tamil changes.
 
-Cumulative bilingual alignment: **40 / 53 — 3484–3523 / PDF 024–290**.
+Cumulative bilingual alignment: **45 / 53 — 3484–3528 / PDF 024–325**.
 
 ## Exact next activity
 
-Align **Letters 3524–3528 / PDF 291–325** as the ninth five-record bilingual-alignment batch. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`, update the five English records/manifest/progress and relevant Volume/root controls, and stop after Letter 3528. Do **not** begin 3529, editorial review or final release verification in the same activity.
+Align **Letters 3529–3533 / PDF 326–369** as the tenth five-record bilingual-alignment batch. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3529_3533.md`, update the five English records/manifest/progress and relevant Volume/root controls, and stop after Letter 3533. Do **not** begin 3534, editorial review or final release verification in the same activity.

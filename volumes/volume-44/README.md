@@ -26,7 +26,7 @@
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
 | English source-check | **53 / 53 — 3484–3536 / PDF 024–399** |
-| Bilingual alignment | **40 / 53 — 3484–3523 / PDF 024–290** |
+| Bilingual alignment | **45 / 53 — 3484–3528 / PDF 024–325** |
 | English editorial review | not started |
 | English release | not started |
 
@@ -46,7 +46,7 @@ PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the n
 
 All **53 / 53** English records are drafted and source-checked and contain complete audited Tamil appendices. Translation conventions are locked in the pilot review and glossary.
 
-Bilingual meaning-level alignment is now synchronized through **Letter 3523**:
+Bilingual meaning-level alignment is now synchronized through **Letter 3528**:
 
 - [Alignment 3484–3488](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md) — **PASS**, one English punctuation-only correction in 3487 / PDF 051, 0 Tamil changes.
 - [Alignment 3489–3493](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md) — **PASS**, 0 English corrections, 0 Tamil changes.
@@ -56,8 +56,9 @@ Bilingual meaning-level alignment is now synchronized through **Letter 3523**:
 - [Alignment 3509–3513](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md) — **PASS**, 0 English corrections, 0 Tamil changes.
 - [Alignment 3514–3518](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md) — **PASS**, one English meaning-level coverage restoration in 3515 / PDF 231, 0 Tamil changes.
 - [Alignment 3519–3523](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md) — **PASS**, 5 English alignment corrections across 3519 and 3523, 0 Tamil changes.
+- [Alignment 3524–3528](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md) — **PASS**, one English meaning-level/source-anomaly restoration in 3524 / PDF 295, 0 Tamil changes.
 
-Cumulative aligned coverage is **40 / 53 — 3484–3523 / PDF 024–290**. Alignment does not collapse the later editorial-consistency and final-release gates.
+Cumulative aligned coverage is **45 / 53 — 3484–3528 / PDF 024–325**. Alignment does not collapse the later editorial-consistency and final-release gates.
 
 Durable English controls:
 
@@ -68,4 +69,4 @@ Durable English controls:
 
 ## Exact next activity
 
-Align **Letters 3524–3528 / PDF 291–325** as the next five-record bilingual meaning-level batch. Use complete audited Tamil as immediate authority; apply only English corrections required by comparison; re-check the controlling scan before any possible Tamil change; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`; mark those five records/manifest rows aligned; update controls; and stop after 3528. Do not begin 3529, editorial review or release verification in the same activity.
+Align **Letters 3529–3533 / PDF 326–369** as the next five-record bilingual meaning-level batch. Use complete audited Tamil as immediate authority; apply only English corrections required by comparison; re-check the controlling scan before any possible Tamil change; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3529_3533.md`; mark those five records/manifest rows aligned; update controls; and stop after 3533. Do not begin 3534, editorial review or release verification in the same activity.
