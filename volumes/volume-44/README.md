@@ -26,7 +26,7 @@
 | Full-volume Tamil structural audit | **PASS** |
 | Second visual/textual-fidelity verification | **PASS — 400 / 400; 13 corrected pages** |
 | English source-check | **53 / 53 — 3484–3536 / PDF 024–399** |
-| Bilingual alignment | **25 / 53 — 3484–3508 / PDF 024–186** |
+| Bilingual alignment | **30 / 53 — 3484–3513 / PDF 024–222** |
 | English editorial review | not started |
 | English release | not started |
 
@@ -46,15 +46,16 @@ PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the n
 
 All **53 / 53** English records are drafted and source-checked and contain complete audited Tamil appendices. Translation conventions are locked in the pilot review and glossary.
 
-Bilingual meaning-level alignment is now synchronized through **Letter 3508**:
+Bilingual meaning-level alignment is now synchronized through **Letter 3513**:
 
 - [Alignment 3484–3488](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md) — **PASS**, one English punctuation-only correction in 3487 / PDF 051, 0 Tamil changes.
 - [Alignment 3489–3493](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md) — **PASS**, 0 English corrections, 0 Tamil changes.
 - [Alignment 3494–3498](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md) — **PASS**, 0 English corrections, 0 Tamil changes.
 - [Alignment 3499–3503](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md) — **PASS**, one English meaning-level clarification in 3499 / PDF 134–135, 0 Tamil changes.
 - [Alignment 3504–3508](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md) — **PASS**, 0 English corrections, 0 Tamil changes.
+- [Alignment 3509–3513](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md) — **PASS**, 0 English corrections, 0 Tamil changes.
 
-Cumulative aligned coverage is **25 / 53 — 3484–3508 / PDF 024–186**. Alignment does not collapse the later editorial-consistency and final-release gates.
+Cumulative aligned coverage is **30 / 53 — 3484–3513 / PDF 024–222**. Alignment does not collapse the later editorial-consistency and final-release gates.
 
 Durable English controls:
 
@@ -65,4 +66,4 @@ Durable English controls:
 
 ## Exact next activity
 
-Align **Letters 3509–3513 / PDF 187–222** as the next five-record bilingual meaning-level batch. Use complete audited Tamil as immediate authority; apply only English corrections required by comparison; re-check the controlling scan before any possible Tamil change; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`; mark those five records/manifest rows aligned; update controls; and stop after 3513. Do not begin 3514, editorial review or release verification in the same activity.
+Align **Letters 3514–3518 / PDF 223–256** as the next five-record bilingual meaning-level batch. Use complete audited Tamil as immediate authority; apply only English corrections required by comparison; re-check the controlling scan before any possible Tamil change; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`; mark those five records/manifest rows aligned; update controls; and stop after 3518. Do not begin 3519, editorial review or release verification in the same activity.

@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 25 / 53 aligned.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 30 / 53 aligned.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -22,9 +22,11 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Batch 4 corrections: **1 English meaning-level clarification — Letter 3499 / PDF 134–135**
 - Bilingual alignment batch 5: **PASS — 3504–3508 / PDF 163–186 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`](BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md)
 - Batch 5 English corrections: **0**
-- Canonical Tamil changes during alignment batches 1–5: **0**
-- Cumulative bilingual alignment: **25 / 53 — 3484–3508 / PDF 024–186**
-- Exact next alignment batch: **3509–3513 / PDF 187–222**
+- Bilingual alignment batch 6: **PASS — 3509–3513 / PDF 187–222 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`](BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md)
+- Batch 6 English corrections: **0**
+- Canonical Tamil changes during alignment batches 1–6: **0**
+- Cumulative bilingual alignment: **30 / 53 — 3484–3513 / PDF 024–222**
+- Exact next alignment batch: **3514–3518 / PDF 223–256**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
@@ -61,11 +63,11 @@ The audited canonical Tamil is the immediate translation/alignment source; the c
 | [3506](letters/3506-when-will-mother-tamil-nadus-yearning-be-soothed.md) | When Will Mother Tamil Nadu’s Yearning Be Soothed? | 19 October 2010 | 170–175 | source-checked | aligned |
 | [3507](letters/3507-is-a-crowd-the-yardstick-for-an-election-verdict.md) | Is a Crowd the Yardstick for an Election Verdict? | 24 October 2010 | 176–179 | source-checked | aligned |
 | [3508](letters/3508-huts-into-towers-mud-houses-into-mansions.md) | Huts into Towers; Mud Houses into Mansions! | 27 October 2010 | 180–186 | source-checked | aligned |
-| [3509](letters/3509-madams-words-and-course-then-and-now.md) | Madam’s Words and Course: Then and Now! | 1 November 2010 | 187–192 | source-checked | pending |
-| [3510](letters/3510-time-alone-will-answer.md) | Time Alone Will Answer! | 3 November 2010 | 193–198 | source-checked | pending |
-| [3511](letters/3511-let-no-ill-judgment-befall-the-neutral.md) | Let No Ill Judgment Befall the Neutral! | 4 November 2010 | 199–206 | source-checked | pending |
-| [3512](letters/3512-let-us-tear-away-the-mask-of-betrayal.md) | Let Us Tear Away the Mask of Betrayal! | 14 November 2010 | 207–213 | source-checked | pending |
-| [3513](letters/3513-manu-dharma-will-not-be-reborn.md) | Manu Dharma Will Not Be Reborn! | 17 November 2010 | 214–222 | source-checked | pending |
+| [3509](letters/3509-madams-words-and-course-then-and-now.md) | Madam’s Words and Course: Then and Now! | 1 November 2010 | 187–192 | source-checked | aligned |
+| [3510](letters/3510-time-alone-will-answer.md) | Time Alone Will Answer! | 3 November 2010 | 193–198 | source-checked | aligned |
+| [3511](letters/3511-let-no-ill-judgment-befall-the-neutral.md) | Let No Ill Judgment Befall the Neutral! | 4 November 2010 | 199–206 | source-checked | aligned |
+| [3512](letters/3512-let-us-tear-away-the-mask-of-betrayal.md) | Let Us Tear Away the Mask of Betrayal! | 14 November 2010 | 207–213 | source-checked | aligned |
+| [3513](letters/3513-manu-dharma-will-not-be-reborn.md) | Manu Dharma Will Not Be Reborn! | 17 November 2010 | 214–222 | source-checked | aligned |
 | [3514](letters/3514-a-trial-run-for-the-victory-to-come.md) | A Trial Run for the Victory to Come! | 30 November 2010 | 223–229 | source-checked | pending |
 | [3515](letters/3515-i-show-the-accounts-let-those-with-eyes-see.md) | I Show the Accounts; Let Those with Eyes See! | 2 December 2010 | 230–239 | source-checked | pending |
 | [3516](letters/3516-an-elegant-hair-bun-a-fragrant-screw-pine-flower.md) | An Elegant Hair-Bun, a Fragrant Screw-Pine Flower...! | 10 December 2010 | 240–245 | source-checked | pending |
@@ -118,6 +120,7 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`](BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`](BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`](BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
@@ -133,4 +136,4 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 ## Exact next activity
 
-Align **Letters 3509–3513 / PDF 187–222** as the sixth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`, update the five records/manifest/control files, and stop after Letter 3513. Do not begin 3514, editorial review or release verification in the same activity.
+Align **Letters 3514–3518 / PDF 223–256** as the seventh five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`, update the five records/manifest/control files, and stop after Letter 3518. Do not begin 3519, editorial review or final release verification in the same activity.
