@@ -10,6 +10,34 @@ Controlling source PDF:
 
 `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
+## Live-main rule for a fresh chat
+
+**Fetch live `main` first and treat it as authoritative.** The last confirmed live HEAD when this handoff was prepared was:
+
+`4fef3e9adb7b139f02c847653d283267421d3a10` — `Synchronize Volume 44 alignment letters 3489-3493`
+
+If `main` has advanced beyond that commit, preserve the newer durable state and continue from it. Do not reset, overwrite or repeat later completed work merely because this prompt records an older checkpoint.
+
+Before changing anything, read completely:
+
+1. `VOLUME_PROCESSING_GUIDE.md`
+2. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
+3. `TRANSCRIPTION_GUIDE.md`
+4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
+5. `PROJECT_HANDOVER.md`
+6. this `NEXT_CHAT_PROMPT.md`
+7. `volumes/volume-44/README.md`
+8. `volumes/volume-44/PROGRESS.md`
+9. `volumes/volume-44/TRANSLATION_PLAN.md`
+10. `volumes/volume-44/metadata.yml`
+11. `volumes/volume-44/translations/en/README.md`
+12. `volumes/volume-44/translations/en/PROGRESS.md`
+13. `volumes/volume-44/translations/en/GLOSSARY.md`
+14. `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
+15. every already-completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` relevant to the current boundary.
+
+For the next batch, also read the source-check reports covering the target letters and the corresponding complete bilingual letter files before making changes.
+
 ## Durable boundary
 
 **Volume 44 Tamil archival preparation is complete through both required full-volume gates. English translation/source-check is complete for all 53 source records. Bilingual alignment is durably synchronized through Letter 3493.**
@@ -43,19 +71,25 @@ All 53 English records exist under `volumes/volume-44/translations/en/letters/` 
 
 Preserve all source anomalies already documented during later QA. PDF 400 remains non-letter material and no Letter 3537 is to be invented.
 
+## Alignment promotion rule
+
+A five-record batch is not durably aligned merely because a review was drafted. Promote a record to `bilingual_alignment_status: aligned` only after all required English corrections, the record front matter, manifest rows, alignment report and applicable English/Volume/root controls are synchronized on live `main` and the resulting changed-file scope is verified.
+
+If a meaning-level comparison exposes a possible Tamil defect, stop treating the English as the correction source. Re-check the controlling scan. Change canonical Tamil only when the scan proves the correction; otherwise preserve the audited Tamil exactly and adjust only English if needed.
+
 ## Exact next activity
 
 Execute the third **five-record bilingual meaning-level alignment batch — Letters 3494–3498 / PDF 099–132**.
 
-1. Fetch live `main` first and treat it as authoritative.
-2. Read the two completed alignment reports, the source-check reports relevant to 3494–3498, the current `GLOSSARY.md`, and the Volume 45 alignment precedent before changing records.
+1. Reconfirm live `main`; if it has advanced, recompute the actual next durable batch before doing any work.
+2. Read the completed alignment reports, the source-check reports relevant to 3494–3498, the current `GLOSSARY.md`, and the Volume 45 alignment precedent.
 3. Compare each complete English record against its complete audited canonical Tamil source, including the Tamil appendix in physical PDF-page order.
 4. Check title, salutation, continuation/conclusion marker, closing/date, paragraph/argument sequence, complete substantive coverage, names, institutions, dates, figures, percentages, monetary amounts, units, lists, quotations, printed source English, rhetoric, repetition and documented anomalies.
 5. Apply only English corrections required by meaning-level comparison. Do not improve style merely for preference.
 6. If alignment exposes a possible Tamil defect, re-check the controlling scan before changing either layer. OCR, contents wording and outside knowledge may not silently override the scan.
 7. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`.
 8. Mark Letters 3494–3498 and their manifest rows `bilingual_alignment_status: aligned`, retaining `translation_status: source-checked`.
-9. Update English/Volume/root controls.
+9. Update English/Volume/root controls so all counts and next-range statements agree.
 10. Stop after **Letter 3498**. **Do not begin 3499, volume-level editorial review or final release verification in the same activity.**
 
-Before mutation, recheck live `main`, preserve concurrent work, use a normal fast-forward without force, and verify final changed-file scope.
+Before mutation, recheck live `main`, preserve concurrent work, create one validated atomic commit where possible, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
