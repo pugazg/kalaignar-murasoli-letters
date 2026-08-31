@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 15 / 53 aligned.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 20 / 53 aligned.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -18,9 +18,11 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Batch 2 English corrections: **0**
 - Bilingual alignment batch 3: **PASS — 3494–3498 / PDF 099–132 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md)
 - Batch 3 English corrections: **0**
-- Canonical Tamil changes during alignment batches 1–3: **0**
-- Cumulative bilingual alignment: **15 / 53 — 3484–3498 / PDF 024–132**
-- Exact next alignment batch: **3499–3503 / PDF 133–162**
+- Bilingual alignment batch 4: **PASS — 3499–3503 / PDF 133–162 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`](BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md)
+- Batch 4 corrections: **1 English meaning-level clarification — Letter 3499 / PDF 134–135**
+- Canonical Tamil changes during alignment batches 1–4: **0**
+- Cumulative bilingual alignment: **20 / 53 — 3484–3503 / PDF 024–162**
+- Exact next alignment batch: **3504–3508 / PDF 163–186**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
@@ -47,11 +49,11 @@ The audited canonical Tamil is the immediate translation/alignment source; the c
 | [3496](letters/3496-come-forward-to-cooperate.md) | Come Forward to Cooperate! | 3 September 2010 | 112–117 | source-checked | aligned |
 | [3497](letters/3497-can-advocacy-of-violence-be-truth.md) | Can Advocacy of Violence Be Truth? | 4 September 2010 | 118–124 | source-checked | aligned |
 | [3498](letters/3498-anbil-immortalised-in-stone-calls-us.md) | Anbil, Immortalised in Stone, Calls Us! | 7 September 2010 | 125–132 | source-checked | aligned |
-| [3499](letters/3499-we-are-not-those-who-stand-aloof-on-a-mountaintop.md) | We Are Not Those Who Stand Aloof on a Mountaintop! | 18 September 2010 | 133–139 | source-checked | pending |
-| [3500](letters/3500-be-an-opposition-party-not-an-enemy-party.md) | Be an Opposition Party, Not an Enemy Party! | 19 September 2010 | 140–147 | source-checked | pending |
-| [3501](letters/3501-cast-aside-censure-reflect-o-mind.md) | Cast Aside Censure; Reflect, O Mind! | 20 September 2010 | 148–153 | source-checked | pending |
-| [3502](letters/3502-two-celebrations-one-comparison.md) | Two Celebrations; One Comparison! | 4 October 2010 | 154–158 | source-checked | pending |
-| [3503](letters/3503-are-commotion-and-violence-democracy.md) | Are Commotion and Violence Democracy? | 6 October 2010 | 159–162 | source-checked | pending |
+| [3499](letters/3499-we-are-not-those-who-stand-aloof-on-a-mountaintop.md) | We Are Not Those Who Stand Aloof on a Mountaintop! | 18 September 2010 | 133–139 | source-checked | aligned |
+| [3500](letters/3500-be-an-opposition-party-not-an-enemy-party.md) | Be an Opposition Party, Not an Enemy Party! | 19 September 2010 | 140–147 | source-checked | aligned |
+| [3501](letters/3501-cast-aside-censure-reflect-o-mind.md) | Cast Aside Censure; Reflect, O Mind! | 20 September 2010 | 148–153 | source-checked | aligned |
+| [3502](letters/3502-two-celebrations-one-comparison.md) | Two Celebrations; One Comparison! | 4 October 2010 | 154–158 | source-checked | aligned |
+| [3503](letters/3503-are-commotion-and-violence-democracy.md) | Are Commotion and Violence Democracy? | 6 October 2010 | 159–162 | source-checked | aligned |
 | [3504](letters/3504-even-a-union-government-order-met-with-such-refusal.md) | Even a Union Government Order Met with Such Refusal? | 13 October 2010 | 163–165 | source-checked | pending |
 | [3505](letters/3505-can-we-forget-the-saying-long-live-the-reviler.md) | Can We Forget the Saying “Long Live the Reviler”? | 17 October 2010 | 166–169 | source-checked | pending |
 | [3506](letters/3506-when-will-mother-tamil-nadus-yearning-be-soothed.md) | When Will Mother Tamil Nadu’s Yearning Be Soothed? | 19 October 2010 | 170–175 | source-checked | pending |
@@ -112,6 +114,7 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`](BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`](BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
@@ -127,4 +130,4 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 ## Exact next activity
 
-Align **Letters 3499–3503 / PDF 133–162** as the fourth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`, update the five records/manifest/control files, and stop after Letter 3503. Do not begin 3504, editorial review or final release verification in the same activity.
+Align **Letters 3504–3508 / PDF 163–186** as the fifth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`, update the five records/manifest/control files, and stop after Letter 3508. Do not begin 3509, editorial review or final release verification in the same activity.

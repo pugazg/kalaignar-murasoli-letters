@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3498.**
+**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3503.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -15,7 +15,7 @@
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Translation conventions: **LOCKED**
-- Bilingual alignment: **15 / 53 — 3484–3498 / PDF 024–132**
+- Bilingual alignment: **20 / 53 — 3484–3503 / PDF 024–162**
 - English editorial review: **not started**
 - English final release: **not started**
 
@@ -37,7 +37,6 @@ PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the n
 
 - 5 / 5 aligned and synchronized.
 - English corrections: **1 punctuation-only span — Letter 3487 / PDF 051**.
-- The reported M. Nagaraj clause now preserves the scan-audited source question mark: `reservation should not be extended indefinitely?`
 - Canonical Tamil changes: **0**.
 
 Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md).
@@ -47,10 +46,6 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`](tra
 - 5 / 5 aligned and synchronized.
 - English corrections: **0**.
 - Canonical Tamil changes: **0**.
-- New scan-level Tamil corrections: **0**.
-- Boundary/title/date changes: **0**.
-
-The batch preserves the complete insurance-scheme/case-history record in 3489; reservation and caste-census distinctions in 3490; People’s Welfare Workers, ESMA/TESMA, TASMAC and `Chandāli` treatment in 3491; both printed-English census passages in 3492; and the scan-audited opaque title form `எடுகொளாவது` in 3493 without guessed correction.
 
 Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md).
 
@@ -59,12 +54,21 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`](tra
 - 5 / 5 aligned and synchronized.
 - English corrections: **0**.
 - Canonical Tamil changes: **0**.
+
+Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md).
+
+### Batch 4 — 3499–3503 / PDF 133–162 — PASS
+
+- 5 / 5 aligned and synchronized.
+- English corrections: **1 meaning-level clarification — Letter 3499 / PDF 134–135**.
+- The ambulance-distribution wording now reads `one each for 385 community development blocks`, matching the audited source sense.
+- Canonical Tamil changes: **0**.
 - New scan-level Tamil corrections: **0**.
 - Boundary/title/date changes: **0**.
 
-The batch preserves the complete Nutritious Meal/Anganwadi concession argument and `குடிதழீஇக் கோலோச்சும்` close in 3494; the MGR/Nutritious Meal dispute, *Vanavasam* / `சகவாசம்` wordplay and both employee-leader quotations in 3495; all differently-abled-person budget benefits, figures, protest quotation and tender argument in 3496; the A. B. Bardhan/Naxalite/Maoist argument and explicit May-2010 note in 3497; and the long “Anbil Calls” material, personal-name chronology and documented PDF-125 anomalies in 3498 without guessed repair.
+The batch preserves all health/insurance figures and source anomalies in 3499; the five-eggs/Nutritious Meal and social-welfare inventory in 3500; housing/Siruthavur/TANSI/West Bengal and `நிந்தனை / சிந்தனை` material in 3501; the Lemuria/Rajaraja/Ayodhya comparison in 3502; and the MTC/CITU incident, non-reconciling transport figures and source-internal arrest sequence in 3503.
 
-Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md).
+Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md).
 
 ## QA state
 
@@ -73,10 +77,10 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3494_3498.md`](tra
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
 - English source-checked: **53 / 53**
-- Bilingual-aligned: **15 / 53 — 3484–3498**
+- Bilingual-aligned: **20 / 53 — 3484–3503**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Align **Letters 3499–3503 / PDF 133–162** as the fourth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`, update the five records/manifest/control files, and stop after 3503. Do not begin 3504, editorial review or release verification in the same activity.
+Align **Letters 3504–3508 / PDF 163–186** as the fifth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`, update the five records/manifest/control files, and stop after 3508. Do not begin 3509, editorial review or release verification in the same activity.

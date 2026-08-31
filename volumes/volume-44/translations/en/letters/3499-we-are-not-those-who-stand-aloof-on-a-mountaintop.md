@@ -11,7 +11,7 @@ source_printed_page_end: 138
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3499. We Are Not Those Who Stand Aloof on a Mountaintop!
@@ -36,7 +36,7 @@ The article stated:
 >
 > “Tamil Nadu uses better practices in implementing government schemes than other States in India. Firm measures are taken here to monitor how schemes function. Even on government holidays, public-health centres are ready with personnel to provide medical services. Nurses are ready to provide service twenty-four hours a day even on Sundays.
 >
-> “The 108 ambulance facility implemented by the Tamil Nadu government operates at least 385 ambulances, at the rate of one for 385 community development blocks. These ambulances operate free of charge for emergency medical assistance, including for pregnant mothers. No one seeking ambulance assistance needs to wait more than twenty minutes. To that extent the 108 ambulance service is performing a great service for the people. Although there are schemes such as the Integrated Child Development Scheme implemented by the Union Government, the Tamil Nadu government’s welfare schemes function in such a way that anyone can see them with their own eyes wherever they go.”
+> “The 108 ambulance facility implemented by the Tamil Nadu government operates at least 385 ambulances, at the rate of one each for 385 community development blocks. These ambulances operate free of charge for emergency medical assistance, including for pregnant mothers. No one seeking ambulance assistance needs to wait more than twenty minutes. To that extent the 108 ambulance service is performing a great service for the people. Although there are schemes such as the Integrated Child Development Scheme implemented by the Union Government, the Tamil Nadu government’s welfare schemes function in such a way that anyone can see them with their own eyes wherever they go.”
 
 Medical expert Saradha Suresh, interviewed by the article’s author, said: “One important difference I have seen personally is that these health centres function well in Tamil Nadu. In other States they do not function at all.”
 
