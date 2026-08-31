@@ -14,6 +14,31 @@ On a new chat, **fetch live `main` before relying on any checkpoint in this docu
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
+## Volume 43 — ACTIVE
+
+Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
+
+Current durable state:
+
+- Printed pages: **400**
+- Physical PDF pages: **402**
+- Source SHA-256: `53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35`
+- Source size: **229,557,034 bytes**
+- Date span: **01.11.2009–17.07.2010**
+- Printed contents: **PDF 018–022**
+- Source inventory: **56 records, 3428–3483**
+- Canonical Tamil pages: **PDF 001–023 / 402**
+- Completed letters: **0 / 56**
+- Translation: **blocked pending Tamil gates**
+
+The user explicitly approved a batching exception for the first Volume 43 iteration: **PDF 001–023 only**, ending immediately before the first letter. This exception is recorded in `volumes/volume-43/AUDIT.md` and `PROGRESS.md`; do not retroactively extend that first batch to PDF 025.
+
+Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
+
+### Exact next activity
+
+Process **Letter 3428 — `காக்கும் கரங்களுமன்றோ?`**, beginning **PDF 024 / printed page 23**. Visually transcribe every page through its verified closing/date page, create/update its chapter and structural records, and stop before Letter 3429. Do not begin English translation.
+
 ## Volume 44 — COMPLETE
 
 Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`

@@ -1,4 +1,4 @@
-# Next Chat Prompt — Continue Murasoli Letters
+# Next Chat Prompt — Continue Murasoli Letters Volume 43
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -6,11 +6,34 @@ Continue the Kalaignar Murasoli Letters archival project directly in:
 
 Branch: `main`
 
+Controlling source PDF:
+
+`TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
+
 ## Live-main rule for a fresh chat
 
 **Fetch live `main` first and treat it as authoritative.** If `main` has advanced beyond any checkpoint copied into a prompt, preserve the newer durable state and continue from it. Do not reset or overwrite later completed work.
 
 Before changing anything, read the repository processing guides, `PROJECT_HANDOVER.md`, this `NEXT_CHAT_PROMPT.md`, and the controls for the active source/volume.
+
+## Volume 43 durable boundary
+
+Volume 43 is now the active archival volume.
+
+- Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
+- Printed pages: **400**
+- Physical PDF pages: **402**
+- Source SHA-256: `53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35`
+- Source inventory: **56 records, 3428–3483**
+- Date span: **01.11.2009–17.07.2010**
+- Printed contents: **PDF 018–022**
+- Canonical Tamil pages: **PDF 001–023 / 402**
+- Completed Tamil letters: **0 / 56**
+- English translation: **blocked pending Tamil gates**
+
+The first Volume 43 transcription iteration is a user-approved batching exception: **PDF 001–023 only**, ending immediately before the first letter. Do not extend or repeat that completed first batch.
+
+Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
 ## Volume 44 durable boundary
 
@@ -39,6 +62,6 @@ PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the n
 
 ## Exact next activity
 
-There is **no further Volume 44 QA or release gate pending**. Derive the next activity from live `main` and the next source/volume explicitly supplied by the user. Do not reopen or repeat Volume 44 release work unless a concrete defect is reported or a new audit is explicitly requested.
+Transcribe **Letter 3428 — `காக்கும் கரங்களுமன்றோ?`**, starting **PDF 024 / printed page 23**, through its scan-verified closing/date page. Create the Letter 3428 chapter record and synchronize contents/chapter index/metadata/progress/audit/README. Stop before Letter 3429. Do not start English translation.
 
-Before any future mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
+Before any mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
