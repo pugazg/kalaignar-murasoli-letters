@@ -25,9 +25,13 @@
 - Alignment batch 11 (final partial): **3534–3536 / PDF 370–399 — PASS — 3 / 3 synchronized**
 - Batch 11 English corrections: **0**
 - Canonical Tamil changes across alignment batches 1–11: **0**
-- Editorial consistency review: **not started**
+- Editorial consistency review: **PASS — 53 / 53**
+- Editorial-pass substantive English corrections: **0**
+- Editorial-pass canonical Tamil changes: **0**
 - Final release verification: **not started**
 
-Bilingual meaning-level alignment is complete for every Volume 44 source record. PDF 400 is non-letter material and no Letter 3537 exists in this source.
+Bilingual meaning-level alignment and the separate English editorial-consistency gate are complete for every Volume 44 source record. PDF 400 is non-letter material and no Letter 3537 exists in this source.
 
-Exact next activity: begin the separate **Volume 44 English editorial consistency review** across all 53 aligned records. Do not begin final release verification until the editorial gate is complete.
+Editorial report: [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md).
+
+Exact next activity: perform the separate **Volume 44 final English release verification**, including final manifest/path/status validation and release-report creation. Do not mark the release complete until that gate passes.

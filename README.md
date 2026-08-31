@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 source-checked; bilingual aligned 53 / 53 — 3484–3536 / PDF 024–399; editorial review next** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 source-checked + aligned + editorially reviewed; final release verification next** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -36,11 +36,9 @@ Volume 44 has canonical Tamil for **PDF 001–400 / 400** and all **53 source re
 
 The fidelity pass restored page-scale omissions/truncations on **13 canonical pages — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065**. The repairs changed source bodies only; record boundaries, titles and dates remain unchanged.
 
-English drafting/source-check is **complete: 53 / 53 records — Letters 3484–3536 / PDF 024–399**. The pilot **3484–3486** passed its separate source-review/convention-lock checkpoint, and all ten regular batches **3487–3536** passed source check with **0 Tamil changes**.
+English drafting/source-check is **complete: 53 / 53 records — Letters 3484–3536 / PDF 024–399**. Bilingual meaning-level alignment is also **COMPLETE — 53 / 53**, with **0 canonical Tamil changes** across all eleven alignment batches.
 
-Bilingual meaning-level alignment is now **COMPLETE — 53 / 53 records, Letters 3484–3536 / PDF 024–399**. Eleven alignment batches passed: ten normal five-record batches through Letter 3533 and the final partial batch 3534–3536. The final two batches, **3529–3533 / PDF 326–369** and **3534–3536 / PDF 370–399**, required **0 English corrections and 0 Tamil changes**. Across all alignment batches, canonical Tamil changes remain **0**.
-
-The next separate gate is the **Volume 44 English editorial consistency review** across all 53 aligned records. Final release verification remains a later gate and has not started.
+The separate Volume 44 English editorial consistency review is now **PASS — 53 / 53**. It required **0 substantive English translation corrections and 0 Tamil changes**. The exact next gate is final English release verification and release-report/manifest validation.
 
 PDF 400 is non-letter back-cover / portrait / publisher material; no Letter 3537 is created.
 

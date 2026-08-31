@@ -132,7 +132,12 @@ bilingual_alignment_batch_11_letter_range: "3534-3536"
 bilingual_alignment_batch_11_pdf_range: "370-399"
 bilingual_alignment_batch_11_report: "translations/en/BILINGUAL_ALIGNMENT_REVIEW_3534_3536.md"
 bilingual_alignment_next_range: null
-english_editorial_review_status: "not-started"
+english_editorial_review_status: "pass"
+english_editorial_reviewed_letter_range: "3484-3536"
+english_editorial_reviewed_letter_count: 53
+english_editorial_review_report: "translations/en/EDITORIAL_CONSISTENCY_REVIEW.md"
+english_editorial_review_substantive_corrections: 0
+english_editorial_review_tamil_changes: 0
 english_release_status: "not-started"
 source_observations:
   - "Volume number 44 is printed on the front cover and title page."
@@ -145,9 +150,8 @@ source_observations:
   - "Second-pass scan comparison restored page-scale omitted/truncated bodies on PDFs 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062 and 065; no boundary/title/date changed."
   - "English translation/source-check coverage is complete: 53 of 53 records, Letters 3484–3536 / PDF 024–399."
   - "Bilingual alignment is complete: 53 of 53 records, Letters 3484–3536 / PDF 024–399."
-  - "Alignment batch 10, Letters 3529–3533 / PDF 326–369, passed with 0 English corrections and 0 Tamil changes."
-  - "Alignment batch 11, Letters 3534–3536 / PDF 370–399, passed with 0 English corrections and 0 Tamil changes."
   - "Canonical Tamil changes across all English alignment batches are 0."
+  - "The separate English editorial consistency review passed for all 53 records with 0 substantive English translation corrections and 0 Tamil changes."
   - "Letter 3535 is complete across PDF 381–390 and closes 10-03-2011."
   - "Letter 3536 is complete across PDF 391–399 and closes 11-3-2011."
   - "PDF 399 prints '(தொடர்ச்சி நாளை)' followed by the normal closing; Letter 3536 is complete within Volume 44."

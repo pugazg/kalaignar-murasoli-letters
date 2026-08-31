@@ -8,9 +8,9 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 ## Fresh-chat rule
 
-On a new chat, **fetch live `main` before relying on any checkpoint in this document**. The last confirmed live HEAD immediately before the final Volume 44 remaining-letter alignment synchronization represented by this handover was:
+On a new chat, **fetch live `main` before relying on any checkpoint in this document**. The last confirmed live HEAD immediately before the Volume 44 editorial-consistency mutation represented by this handover was:
 
-`51a0cb3b912db242869198a9e4008dc35b56e6b2`
+`19dbb9624d6cf11818864b4ff266dac211013ecf` — `Complete Volume 44 bilingual alignment`
 
 If live `main` is newer, preserve the newer state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
@@ -22,7 +22,7 @@ The controlling scan controls Tamil readings. Audited canonical Tamil is the imm
 
 Controlling source: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
-Current durable state:
+Current durable state after the editorial gate represented by this handover:
 
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -37,32 +37,31 @@ Current durable state:
 - Volume 44 translation conventions: **LOCKED**
 - Bilingual alignment: **COMPLETE — 53 / 53 — 3484–3536 / PDF 024–399**
 - Canonical Tamil changes during all English alignment batches: **0**
-- English editorial review: **not started**
-- English release: **not started**
+- English editorial consistency review: **PASS — 53 / 53**
+- Editorial-pass substantive English translation corrections: **0**
+- Editorial-pass canonical Tamil changes: **0**
+- English final release verification: **not started**
 
-### Bilingual alignment batches
+Durable English QA records include `PILOT_REVIEW_3484_3486.md`, all `BATCH_SOURCE_CHECK_*.md` reports, all eleven `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports, `EDITORIAL_CONSISTENCY_REVIEW.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, and the bilingual records under `translations/en/letters/`.
 
-1. **3484–3488 / PDF 024–066 — PASS** — one English punctuation-only correction; 0 Tamil changes.
-2. **3489–3493 / PDF 067–098 — PASS** — 0 English corrections; 0 Tamil changes.
-3. **3494–3498 / PDF 099–132 — PASS** — 0 English corrections; 0 Tamil changes.
-4. **3499–3503 / PDF 133–162 — PASS** — one English meaning-level clarification; 0 Tamil changes.
-5. **3504–3508 / PDF 163–186 — PASS** — 0 English corrections; 0 Tamil changes.
-6. **3509–3513 / PDF 187–222 — PASS** — 0 English corrections; 0 Tamil changes.
-7. **3514–3518 / PDF 223–256 — PASS** — one English meaning-level coverage restoration; 0 Tamil changes.
-8. **3519–3523 / PDF 257–290 — PASS** — 5 English alignment corrections across 3519 and 3523; 0 Tamil changes.
-9. **3524–3528 / PDF 291–325 — PASS** — one English meaning-level/source-anomaly restoration; 0 Tamil changes.
-10. **3529–3533 / PDF 326–369 — PASS** — 0 English corrections; 0 Tamil changes.
-11. **3534–3536 / PDF 370–399 — PASS** — final partial batch; 0 English corrections; 0 Tamil changes.
-
-Durable English QA records include `PILOT_REVIEW_3484_3486.md`, all `BATCH_SOURCE_CHECK_*.md` reports, all `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports through `BILINGUAL_ALIGNMENT_REVIEW_3534_3536.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, and the bilingual records under `translations/en/letters/`.
+The editorial review treated all 53 aligned records as one corpus and checked title/front-matter/index agreement, dates and source ranges, transliteration, recurring terminology, capitalization, institutions/schemes, punctuation/quotation conventions, translator/source-check notes, source-supplied English, documented anomalies, headings and continuation/conclusion treatment. No body edit or Tamil correction was required; manifest editorial status is now `reviewed` for all 53 records.
 
 Final source boundaries remain Letter 3535 PDF 381–390 and Letter 3536 PDF 391–399. PDF 399 prints `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source. PDF 400 is non-letter material; no Letter 3537 is invented.
 
 ### Exact next activity
 
-Begin the separate **Volume 44 English editorial consistency review** across all 53 source-checked and bilingual-aligned records. Review consistency of titles, transliteration, recurring terminology, capitalization, institutional names, punctuation conventions, notes, headings, dates, continuation/conclusion treatments and other editorial conventions without changing source meaning or silently reconciling source anomalies.
+Perform the separate **Volume 44 final English release verification**.
 
-Create the durable editorial-review artifact and update the manifest/control files only after the editorial gate is actually complete. **Do not begin final release verification in the same activity.**
+1. Reconfirm live `main` first and preserve any newer durable work.
+2. Read the current Volume 44 English README, `PROGRESS.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, `EDITORIAL_CONSISTENCY_REVIEW.md`, and relevant release precedent from a completed volume such as Volume 45.
+3. Reconcile the manifest to exactly **53 source-letter records, 3484–3536**.
+4. Validate no duplicate letter numbers, no duplicate English paths, no missing English records and no source-incomplete records.
+5. Confirm every row is `source-checked`, bilingual aligned and editorially `reviewed` before release promotion.
+6. Verify the final source boundary: Letter 3536 ends at PDF 399; PDF 400 is non-letter material and no Letter 3537 exists in Volume 44.
+7. Create the final English release report and promote final-release status only after all checks pass.
+8. Synchronize manifest, English/Volume/root controls and handover/prompt state.
+
+Do not describe Volume 44 English as final-release complete until that gate passes.
 
 ## Volume 45 — COMPLETE
 

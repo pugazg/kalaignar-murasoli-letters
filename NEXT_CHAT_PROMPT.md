@@ -12,9 +12,9 @@ Controlling source PDF:
 
 ## Live-main rule for a fresh chat
 
-**Fetch live `main` first and treat it as authoritative.** The last confirmed live HEAD immediately before the final remaining-letter alignment synchronization was:
+**Fetch live `main` first and treat it as authoritative.** The last confirmed live HEAD immediately before the editorial-consistency mutation was:
 
-`51a0cb3b912db242869198a9e4008dc35b56e6b2`
+`19dbb9624d6cf11818864b4ff266dac211013ecf` — `Complete Volume 44 bilingual alignment`
 
 If `main` has advanced beyond that commit, preserve the newer durable state and continue from it. Do not reset or overwrite later completed work because this prompt records an older checkpoint.
 
@@ -34,11 +34,11 @@ Before changing anything, read completely:
 12. `volumes/volume-44/translations/en/PROGRESS.md`
 13. `volumes/volume-44/translations/en/GLOSSARY.md`
 14. `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
-15. all completed `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports.
+15. `volumes/volume-44/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
 
 ## Durable boundary
 
-Volume 44 Tamil archival work is complete through both required full-volume gates. English translation/source-check and bilingual meaning-level alignment are complete for all source records.
+Volume 44 Tamil archival work is complete through both required full-volume gates. English translation/source-check, bilingual meaning-level alignment and the separate volume-level editorial consistency review are complete for all source records.
 
 - PDF pages: **400**
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -50,20 +50,26 @@ Volume 44 Tamil archival work is complete through both required full-volume gate
 - English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Translation conventions: **LOCKED**
 - Bilingual alignment: **COMPLETE — 53 / 53 — 3484–3536 / PDF 024–399**
-- Alignment batch 10: **3529–3533 / PDF 326–369 — PASS — 5 / 5 — 0 English corrections — 0 Tamil changes**
-- Alignment batch 11 final partial: **3534–3536 / PDF 370–399 — PASS — 3 / 3 — 0 English corrections — 0 Tamil changes**
 - Canonical Tamil changes across all alignment batches: **0**
-- English editorial review: **not started**
-- English release: **not started**
+- English editorial consistency review: **PASS — 53 / 53**
+- Editorial-pass substantive English corrections: **0**
+- Editorial-pass Tamil changes: **0**
+- English final release verification: **not started**
 
 PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing, so Letter 3536 is complete in this source. PDF 400 is non-letter back-cover / portrait / publisher material. Do not invent Letter 3537.
 
 ## Exact next activity
 
-Begin the separate **Volume 44 English editorial consistency review** across all **53 aligned records**.
+Perform the separate **Volume 44 final English release verification**.
 
-Review consistency of titles, transliteration, recurring terminology, capitalization, institutional names, punctuation conventions, translator/source-check notes, headings, dates, continuation/conclusion treatments and other editorial conventions. Preserve source meaning, argument order, political directness, figures, quotations, printed source English and documented anomalies. Do not silently reconcile source anomalies or use outside knowledge to rewrite the source.
+- Reconcile `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv` to exactly **53 source-letter records, 3484–3536**.
+- Validate unique letter numbers and unique English paths, confirm no missing English records and no source-incomplete records.
+- Confirm every record is source-checked, bilingual aligned and editorially reviewed before release promotion.
+- Verify the final source boundary at PDF 399 and the non-letter status of PDF 400.
+- Use the completed-volume release precedent (for example Volume 45) for release-report structure and control promotion.
+- Create the final English release report and update final-release status only after all checks pass.
+- Synchronize English/Volume/root controls, project handover and this prompt.
 
-Create the durable editorial-review artifact and update the manifest/control files only after the editorial gate is actually complete. **Do not begin final release verification in the same activity.**
+Do not mark Volume 44 English final-release complete until the final verification passes.
 
 Before mutation, recheck live `main`, preserve concurrent work, prefer one validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
