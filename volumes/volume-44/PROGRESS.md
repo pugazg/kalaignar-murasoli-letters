@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3503.**
+**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3508.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -15,7 +15,7 @@
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Translation conventions: **LOCKED**
-- Bilingual alignment: **20 / 53 — 3484–3503 / PDF 024–162**
+- Bilingual alignment: **25 / 53 — 3484–3508 / PDF 024–186**
 - English editorial review: **not started**
 - English final release: **not started**
 
@@ -70,6 +70,18 @@ The batch preserves all health/insurance figures and source anomalies in 3499; t
 
 Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md).
 
+### Batch 5 — 3504–3508 / PDF 163–186 — PASS
+
+- 5 / 5 aligned and synchronized.
+- English corrections: **0**.
+- Canonical Tamil changes: **0**.
+- New scan-level Tamil corrections: **0**.
+- Boundary/title/date changes: **0**.
+
+The batch preserves the Union Government driver-education and road-accident argument in 3504; Madurai political-history, CBI and `வாழ்க வசவாளர்கள்!` material in 3505; the Sri Lankan Tamil political-solution chronology and `சகோதரயுத்தம்` framing in 3506; the crowd-versus-electoral-verdict argument and 1971/1962 examples in 3507; and the complete housing-scheme history, figures, specifications, printed `(Hutless villages)` and repeated procurement wording in 3508.
+
+Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md).
+
 ## QA state
 
 - Source intake: **PASS**
@@ -77,10 +89,10 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3499_3503.md`](tra
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
 - English source-checked: **53 / 53**
-- Bilingual-aligned: **20 / 53 — 3484–3503**
+- Bilingual-aligned: **25 / 53 — 3484–3508**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Align **Letters 3504–3508 / PDF 163–186** as the fifth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`, update the five records/manifest/control files, and stop after 3508. Do not begin 3509, editorial review or release verification in the same activity.
+Align **Letters 3509–3513 / PDF 187–222** as the sixth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`, update the five records/manifest/control files, and stop after 3513. Do not begin 3514, editorial review or release verification in the same activity.

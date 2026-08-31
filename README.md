@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 source-checked; bilingual aligned 20 / 53 — 3484–3503 / PDF 024–162; next 3504–3508** |
+| 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 source-checked; bilingual aligned 25 / 53 — 3484–3508 / PDF 024–186; next 3509–3513** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
@@ -38,9 +38,9 @@ The fidelity pass restored page-scale omissions/truncations on **13 canonical pa
 
 English drafting/source-check is **complete: 53 / 53 records — Letters 3484–3536 / PDF 024–399**. The pilot **3484–3486** passed its separate source-review/convention-lock checkpoint, and all ten regular batches **3487–3536** passed source check with **0 Tamil changes**.
 
-Bilingual alignment is now **20 / 53 complete — Letters 3484–3503 / PDF 024–162**. Batch 1 **3484–3488** passed with one English punctuation-only correction in Letter 3487 / PDF 051 and 0 Tamil changes. Batch 2 **3489–3493** passed with **0 English corrections and 0 Tamil changes**. Batch 3 **3494–3498** passed with **0 English corrections and 0 Tamil changes**. Batch 4 **3499–3503** passed with **one English meaning-level clarification in 3499 / PDF 134–135 and 0 Tamil changes**.
+Bilingual alignment is now **25 / 53 complete — Letters 3484–3508 / PDF 024–186**. Batch 1 **3484–3488** passed with one English punctuation-only correction in Letter 3487 / PDF 051 and 0 Tamil changes. Batch 2 **3489–3493** passed with **0 English corrections and 0 Tamil changes**. Batch 3 **3494–3498** passed with **0 English corrections and 0 Tamil changes**. Batch 4 **3499–3503** passed with **one English meaning-level clarification in 3499 / PDF 134–135 and 0 Tamil changes**. Batch 5 **3504–3508** passed with **0 English corrections and 0 Tamil changes**.
 
-The exact next activity is the fifth five-record bilingual meaning-level alignment batch **3504–3508 / PDF 163–186**. Stop after 3508; do not begin 3509 or the later editorial/release gates in the same activity.
+The exact next activity is the sixth five-record bilingual meaning-level alignment batch **3509–3513 / PDF 187–222**. Stop after 3513; do not begin 3514 or the later editorial/release gates in the same activity.
 
 ## Volume 45 — released
 
