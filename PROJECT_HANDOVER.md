@@ -8,9 +8,9 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 ## Fresh-chat rule
 
-On a new chat, **fetch live `main` before relying on any checkpoint in this document**. Last confirmed live HEAD immediately before the Volume 44 batch-7 alignment mutation represented by this handover:
+On a new chat, **fetch live `main` before relying on any checkpoint in this document**. Last confirmed live HEAD immediately before the Volume 44 batch-8 alignment mutation represented by this handover:
 
-`530b46f850ef9d40632a498d8ce0aa51accf611a` — `Synchronize Volume 44 alignment letters 3509-3513`
+`016da40884795b5748ce886c6ea8bf08d0b24d80` — `Synchronize Volume 44 alignment letters 3514-3518`
 
 If live `main` is newer, preserve the newer state and derive the next activity from the current repository controls. Never regress a completed alignment batch because an older prompt or handover names an earlier boundary.
 
@@ -44,8 +44,9 @@ Current durable state represented by this handover:
 - Bilingual alignment batch 5: **3504–3508 / PDF 163–186 — PASS; 0 English corrections; 0 Tamil changes**
 - Bilingual alignment batch 6: **3509–3513 / PDF 187–222 — PASS; 0 English corrections; 0 Tamil changes**
 - Bilingual alignment batch 7: **3514–3518 / PDF 223–256 — PASS; one English meaning-level coverage restoration in 3515 / PDF 231; 0 Tamil changes**
-- Cumulative bilingual alignment: **35 / 53 — 3484–3518 / PDF 024–256**
-- Exact next alignment batch: **3519–3523 / PDF 257–290**
+- Bilingual alignment batch 8: **3519–3523 / PDF 257–290 — PASS; 5 English alignment corrections across 3519 and 3523; 0 Tamil changes**
+- Cumulative bilingual alignment: **40 / 53 — 3484–3523 / PDF 024–290**
+- Exact next alignment batch: **3524–3528 / PDF 291–325**
 - English editorial review: **not started**
 - English release: **not started**
 
@@ -64,14 +65,15 @@ Durable English QA records include:
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`
 - `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`
+- `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`
 - `volumes/volume-44/translations/en/BATCH_SOURCE_CHECK_3487_3491.md` through `BATCH_SOURCE_CHECK_3532_3536.md`
 - `volumes/volume-44/translations/en/GLOSSARY.md`
 - `volumes/volume-44/translations/en/TRANSLATION_MANIFEST.csv`
 - bilingual files under `volumes/volume-44/translations/en/letters/`
 
-All fifty-three English records contain the complete audited Tamil appendix and are source-checked. Records 3484–3518 are additionally bilingual-aligned. Source-check/alignment PASS does **not** imply editorial review or release readiness.
+All fifty-three English records contain the complete audited Tamil appendix and are source-checked. Records 3484–3523 are additionally bilingual-aligned. Source-check/alignment PASS does **not** imply editorial review or release readiness.
 
-Batch 4 required one English-only meaning-level correction in Letter 3499: the ambulance distribution reads `one each for 385 community development blocks`, matching the audited Tamil `385 சமுதாய அபிவிருத்தி வட்டங்களுக்கு ஒன்று வீதம்`. Batches 5 and 6 required no English correction and no Tamil change. Batch 7 restored one omitted autobiographical sentence in Letter 3515 / PDF 231: `When I came for that meeting, I stayed at the Virudhunagar Nadar Lodge.` No Tamil change was required.
+Batch 4 required one English-only meaning-level correction in Letter 3499: the ambulance distribution reads `one each for 385 community development blocks`, matching the audited Tamil `385 சமுதாய அபிவிருத்தி வட்டங்களுக்கு ஒன்று வீதம்`. Batches 5 and 6 required no English correction and no Tamil change. Batch 7 restored one omitted autobiographical sentence in Letter 3515 / PDF 231: `When I came for that meeting, I stayed at the Virudhunagar Nadar Lodge.` Batch 8 applied five English alignment corrections across Letters 3519 and 3523: one omitted rhetorical question, one printed `(Hostile)` marker, and three restored source details in the *Statesman*, Teethan and *Kalki* passages. No Tamil change was required.
 
 Final source boundaries remain Letter 3535 PDF 381–390, Letter 3536 PDF 391–399, with PDF 400 non-letter material. PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source.
 
@@ -92,15 +94,15 @@ A review draft alone is not a completed alignment gate. Editorial consistency re
 
 ### Exact next activity at this handoff
 
-Begin the eighth five-record bilingual meaning-level alignment batch: **Letters 3519–3523 / PDF 257–290**.
+Begin the ninth five-record bilingual meaning-level alignment batch: **Letters 3524–3528 / PDF 291–325**.
 
-- **3519** — PDF **257–264**
-- **3520** — PDF **265–270**
-- **3521** — PDF **271–277**
-- **3522** — PDF **278–283**
-- **3523** — PDF **284–290**
+- **3524** — PDF **291–298**
+- **3525** — PDF **299–301**
+- **3526** — PDF **302–311**
+- **3527** — PDF **312–317**
+- **3528** — PDF **318–325**
 
-Use complete audited canonical Tamil as immediate alignment authority. Check full meaning/coverage, order, figures, names, dates, quotations, printed English, rhetoric and documented anomalies. Apply only English corrections required by alignment. Do not change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`, mark those five records and manifest rows aligned, synchronize controls, and stop after **3523**. Do not begin 3524, editorial review or release verification in the same activity.
+Use complete audited canonical Tamil as immediate alignment authority. Check full meaning/coverage, order, figures, names, dates, quotations, printed English, rhetoric and documented anomalies. Apply only English corrections required by alignment. Do not change canonical Tamil unless a suspected defect is rechecked against the controlling scan and proven. Create `volumes/volume-44/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`, mark those five records and manifest rows aligned, synchronize controls, and stop after **3528**. Do not begin 3529, editorial review or release verification in the same activity.
 
 ## Volume 45 — COMPLETE
 

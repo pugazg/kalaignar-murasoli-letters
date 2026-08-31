@@ -11,7 +11,7 @@ source_printed_page_end: 289
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3523. When Will It Ever End?
@@ -56,11 +56,11 @@ When another case was registered against me that same June, *Thuglak* — which 
 
 As another example, the letter says Jayalalithaa dismissed **ten thousand road workers** overnight in 2002 without cause. In the case filed by the road workers, the High Court was reported as saying that the dismissal was illegal, that the order was invalid and was being quashed, that the government’s action deserved severe condemnation, that the previous government had provided employment under welfare schemes, and that a government ought to be a good employment provider rather than act in this manner.
 
-The English newspaper *The Statesman*, in an editorial headed **`Lawless in TamilNadu`** with the subheading **`Time ripe for Regime Change`**, was quoted in Tamil as criticising the midnight arrest of M. K. Stalin on allegedly fabricated charges and invoking Supreme Court arrest guidelines in the Joginder Kumar and D. K. Basu cases. It also referred to my own midnight arrest two years earlier and to a Union Home Ministry warning to the State government, and concluded that political-revenge actions had characterised Jayalalithaa’s government from the day she returned to office in 2001.
+The English newspaper *The Statesman*, in an editorial headed **`Lawless in TamilNadu`** with the subheading **`Time ripe for Regime Change`**, was quoted in Tamil as criticising the midnight arrest, on allegedly fabricated charges, of M. K. Stalin — one of the DMK’s Assembly members and a two-time Mayor of Chennai — and invoking Supreme Court arrest guidelines in the Joginder Kumar and D. K. Basu cases. It also referred to the similar midnight arrest two years earlier of his father, M. Karunanidhi, on what the source calls ordinary charges, and to a Union Home Ministry warning to the State government, and concluded that political-revenge actions had characterised Jayalalithaa’s government from the day she returned to office in 2001.
 
 The letter next says journalist Nakkeeran Gopal was arrested under POTA, and that when his father-in-law R. S. Pandian was taken away on **6-7-2003** and brutally threatened, he later died by suicide. “Is this an example of Jaya’s clean government?” it asks.
 
-Tamil Nadu audit officer Teethan, the letter says, issued a report on **31-7-2004** saying that the AIADMK government’s wrong approach had caused a loss of **₹11,000 crore** to the government. For that, it says, Jayalalithaa’s government sought his removal and issued full-page newspaper advertisements against him. Yet now, the letter says, the same Jayalalithaa is carrying the audit officer’s spectrum report on her head and dancing with it.
+Tamil Nadu audit officer Teethan, the letter says, issued a report on **31-7-2004** saying that the AIADMK government’s wrong approach had caused a loss of **₹11,000 crore** to the government. For that, it says, Jayalalithaa’s government filed a case seeking his removal from office and issued full-page newspaper advertisements against him. Yet now, the letter says, the same Jayalalithaa is carrying the audit officer’s spectrum report on her head and dancing with it.
 
 Former MLA M. K. Balan, who was abducted in Chennai on **30-12-2001**, was never found, the letter states.
 
@@ -74,7 +74,7 @@ In the first week of October 2002, Jayalalithaa’s government promulgated an or
 
 The film industry, too, the letter says, was not spared. In 2003, when the industry was already in difficulty, location-shooting fees under Jaya’s government were increased **25-fold**.
 
-Jayalalithaa, the letter says, never fails in her statements to accuse the present government of sand looting and price rises. It therefore quotes a portion of a *Kalki* editorial dated **4-5-2003** about sand quarrying under her “clean” government. The editorial, as reproduced by the letter, said political interference in administration was vividly demonstrated by sand-quarry contracts; that river-sand prices rose sharply soon after the AIADMK came to power; that people who asked why were warned not to interfere; that an officer who challenged the practice was struck by a sand lorry and killed; that other officers too had faced attacks; and that corruption and political interference had to be removed or more officials like Shanmugasundaram would be sacrificed.
+Jayalalithaa, the letter says, never fails in her statements to accuse the present government of sand looting and price rises. It therefore quotes a portion of a *Kalki* editorial dated **4-5-2003** about sand quarrying under her “clean” government. The editorial, as reproduced by the letter, said political interference in administration was vividly demonstrated by sand-quarry contracts; that river-sand prices rose sharply soon after the AIADMK came to power; that people who asked why were warned not to interfere; that an officer who challenged the practice was struck by a sand lorry and killed; and that other officers too had faced attacks. It asked where the contractors who entered sand quarrying got such courage, and answered that bribe money fixed and collected per lorry load alone could give them such courage. It concluded that corruption spread everywhere and its direct result, political interference, had to be removed or more officials like Shanmugasundaram would be sacrificed.
 
 Is not this one example enough, the letter asks, of Jayalalithaa’s “clean” five-year government?
 

@@ -11,7 +11,7 @@ source_printed_page_end: 263
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3519. O Paragon of Virtue! Can You Speak of Corruption?
@@ -68,7 +68,7 @@ The letter then recalls an income-tax prosecution alleging that Jayalalithaa had
 
 > “You (Jayalalitha) are making a mockery of the Judicial Process. How long you can drag the proceedings?”
 
-Did Jayalalithaa respect that Supreme Court observation? Welcome it? Issue a statement about it?
+Can Jayalalithaa herself forget that? Did Jayalalithaa respect that Supreme Court observation? Welcome it? Issue a statement about it?
 
 The letter next reproduces a list that, it says, had appeared in all newspapers some years earlier concerning articles recovered during a search of Jayalalithaa’s residence and their stated values:
 
@@ -104,7 +104,7 @@ The letter then enumerates seven observations it attributes to the Supreme Court
 
 The letter says Justices S. N. Variava and H. K. Sema gave this judgment on 18-11-2003 and, in concluding it, directed in substance that because the Court considered there to be sufficient prima facie material in the case pursued by the DMK and because a trial in Tamil Nadu might fail to inspire confidence in justice, the case should be transferred.
 
-It reproduces further directions: the Chief Justice of the Karnataka High Court, in consultation with the Karnataka government, should constitute within six weeks a Special Court in Bengaluru under the Prevention of Corruption Act; a senior advocate experienced in criminal cases should be appointed public prosecutor with a junior advocate to assist; Karnataka should initially meet all expenses, including lawyers’ fees, for later reimbursement by Tamil Nadu; the appointed prosecutor should recall and re-examine prosecution witnesses who had turned hostile and separately initiate criminal proceedings against witnesses who deliberately changed their evidence; Karnataka should give adequate police protection if witnesses were threatened; all accused should appear without fail when questioned; the case should be heard **(Daily Basis)**; and Tamil Nadu should immediately transmit all case records to the Special Court.
+It reproduces further directions: the Chief Justice of the Karnataka High Court, in consultation with the Karnataka government, should constitute within six weeks a Special Court in Bengaluru under the Prevention of Corruption Act; a senior advocate experienced in criminal cases should be appointed public prosecutor with a junior advocate to assist; Karnataka should initially meet all expenses, including lawyers’ fees, for later reimbursement by Tamil Nadu; the appointed prosecutor should recall and re-examine prosecution witnesses who had turned hostile **(Hostile)** and separately initiate criminal proceedings against witnesses who deliberately changed their evidence; Karnataka should give adequate police protection if witnesses were threatened; all accused should appear without fail when questioned; the case should be heard **(Daily Basis)**; and Tamil Nadu should immediately transmit all case records to the Special Court.
 
 Can Jayalalithaa, with all this “fame and distinction,” issue statements about corruption?
 

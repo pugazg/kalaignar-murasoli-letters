@@ -4,7 +4,7 @@ This directory contains the thought-preserving English translation of Kalaignar'
 
 ## Current status
 
-**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 35 / 53 aligned.**
+**SOURCE-CHECKED — 53 / 53 records, Letters 3484–3536. BILINGUAL ALIGNMENT IN PROGRESS — 40 / 53 aligned.**
 
 - Pilot drafted/source-checked: **3 / 3 — 3484–3486**
 - Pilot review: **PASS** — [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_3486.md)
@@ -26,9 +26,11 @@ This directory contains the thought-preserving English translation of Kalaignar'
 - Batch 6 English corrections: **0**
 - Bilingual alignment batch 7: **PASS — 3514–3518 / PDF 223–256 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`](BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md)
 - Batch 7 corrections: **1 English meaning-level coverage restoration — Letter 3515 / PDF 231**
-- Canonical Tamil changes during alignment batches 1–7: **0**
-- Cumulative bilingual alignment: **35 / 53 — 3484–3518 / PDF 024–256**
-- Exact next alignment batch: **3519–3523 / PDF 257–290**
+- Bilingual alignment batch 8: **PASS — 3519–3523 / PDF 257–290 / 5 of 5 aligned** — [`BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md)
+- Batch 8 corrections: **5 English alignment corrections across Letters 3519 and 3523**
+- Canonical Tamil changes during alignment batches 1–8: **0**
+- Cumulative bilingual alignment: **40 / 53 — 3484–3523 / PDF 024–290**
+- Exact next alignment batch: **3524–3528 / PDF 291–325**
 - Volume-level English editorial review: **not started**
 - Final English release: **not started**
 - Source-incomplete records: **0**
@@ -75,11 +77,11 @@ The audited canonical Tamil is the immediate translation/alignment source; the c
 | [3516](letters/3516-an-elegant-hair-bun-a-fragrant-screw-pine-flower.md) | An Elegant Hair-Bun, a Fragrant Screw-Pine Flower...! | 10 December 2010 | 240–245 | source-checked | aligned |
 | [3517](letters/3517-what-is-it-that-irritates-these-few-newspapers-so-much.md) | What Is It That Irritates These Few Newspapers So Much? | 12 December 2010 | 246–251 | source-checked | aligned |
 | [3518](letters/3518-two-years-younger-in-age-i-bow-to-him.md) | Two Years Younger in Age; I Bow to Him! | 19 December 2010 | 252–256 | source-checked | aligned |
-| [3519](letters/3519-o-paragon-of-virtue-can-you-speak-of-corruption.md) | O Paragon of Virtue! Can You Speak of Corruption? | 20 December 2010 | 257–264 | source-checked | pending |
-| [3520](letters/3520-rise-quickly-to-continue-the-work-everywhere-let-the-drum-of-victory-resound.md) | Rise Quickly to Continue the Work Everywhere; Let the Drum of Victory Resound! | 21 December 2010 | 265–270 | source-checked | pending |
-| [3521](letters/3521-let-our-campaign-brigade-set-out.md) | Let Our Campaign Brigade Set Out! | 22 December 2010 | 271–277 | source-checked | pending |
-| [3522](letters/3522-employment-opportunities-then-and-now.md) | Employment Opportunities: Then and Now! | 23 December 2010 | 278–283 | source-checked | pending |
-| [3523](letters/3523-when-will-it-ever-end.md) | When Will It Ever End? | 29 December 2010 | 284–290 | source-checked | pending |
+| [3519](letters/3519-o-paragon-of-virtue-can-you-speak-of-corruption.md) | O Paragon of Virtue! Can You Speak of Corruption? | 20 December 2010 | 257–264 | source-checked | aligned |
+| [3520](letters/3520-rise-quickly-to-continue-the-work-everywhere-let-the-drum-of-victory-resound.md) | Rise Quickly to Continue the Work Everywhere; Let the Drum of Victory Resound! | 21 December 2010 | 265–270 | source-checked | aligned |
+| [3521](letters/3521-let-our-campaign-brigade-set-out.md) | Let Our Campaign Brigade Set Out! | 22 December 2010 | 271–277 | source-checked | aligned |
+| [3522](letters/3522-employment-opportunities-then-and-now.md) | Employment Opportunities: Then and Now! | 23 December 2010 | 278–283 | source-checked | aligned |
+| [3523](letters/3523-when-will-it-ever-end.md) | When Will It Ever End? | 29 December 2010 | 284–290 | source-checked | aligned |
 | [3524](letters/3524-oh-madams-falsehood-is-unbearable.md) | Oh! Madam's Falsehood Is Unbearable! | 31 December 2010 | 291–298 | source-checked | pending |
 | [3525](letters/3525-read-the-history-of-the-raja-of-panagal.md) | Read the History of the Raja of Panagal! | 7 January 2011 | 299–301 | source-checked | pending |
 | [3526](letters/3526-will-those-who-spew-poison-speak-with-a-hand-on-their-heart.md) | Will Those Who Spew Poison Speak with a Hand on Their Heart? | 12 January 2011 | 302–311 | source-checked | pending |
@@ -124,6 +126,7 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 - [`BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md`](BILINGUAL_ALIGNMENT_REVIEW_3504_3508.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md`](BILINGUAL_ALIGNMENT_REVIEW_3509_3513.md)
 - [`BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`](BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md)
+- [`BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md)
 - [`BATCH_SOURCE_CHECK_3487_3491.md`](BATCH_SOURCE_CHECK_3487_3491.md)
 - [`BATCH_SOURCE_CHECK_3492_3496.md`](BATCH_SOURCE_CHECK_3492_3496.md)
 - [`BATCH_SOURCE_CHECK_3497_3501.md`](BATCH_SOURCE_CHECK_3497_3501.md)
@@ -139,4 +142,4 @@ The full lock is recorded in [`PILOT_REVIEW_3484_3486.md`](PILOT_REVIEW_3484_348
 
 ## Exact next activity
 
-Align **Letters 3519–3523 / PDF 257–290** as the eighth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`, update the five records/manifest/control files, and stop after Letter 3523. Do not begin 3524, editorial review or release verification in the same activity.
+Align **Letters 3524–3528 / PDF 291–325** as the ninth five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`, update the five records/manifest/control files, and stop after Letter 3528. Do not begin 3529, editorial review or release verification in the same activity.

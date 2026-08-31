@@ -2,7 +2,7 @@
 
 ## Durable boundary
 
-**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3518.**
+**All required Tamil archival gates are complete. English translation/source-check is complete for all 53 records. Bilingual meaning-level alignment is synchronized through Letter 3523.**
 
 - Controlling PDF: `TVA_BOK_0065830_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 - Source SHA-256: `573d65d7b7d3a8e3cc158b7f91af3a9382ac90ea1eaa37e8c0022b5a64dc747d`
@@ -15,7 +15,7 @@
 - Second-pass corrected canonical pages: **13 — 040, 041, 042, 047, 051, 052, 054, 056, 059, 060, 061, 062, 065**
 - English drafted/source-checked: **53 / 53 — 3484–3536 / PDF 024–399**
 - Translation conventions: **LOCKED**
-- Bilingual alignment: **35 / 53 — 3484–3518 / PDF 024–256**
+- Bilingual alignment: **40 / 53 — 3484–3523 / PDF 024–290**
 - English editorial review: **not started**
 - English final release: **not started**
 
@@ -107,6 +107,20 @@ The batch preserves the complete transport-union election and employee-benefit f
 
 Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md).
 
+### Batch 8 — 3519–3523 / PDF 257–290 — PASS
+
+- 5 / 5 aligned and synchronized.
+- English corrections: **5 across 2 letters — 3519 and 3523**.
+- Letter 3519 restores the omitted PDF 260 rhetorical question and printed `(Hostile)` marker from PDF 263.
+- Letter 3523 restores *Statesman* biographical/charge details, the case seeking audit officer Teethan’s removal, and the *Kalki* per-lorry-load bribe explanation.
+- Canonical Tamil changes: **0**.
+- New scan-level Tamil corrections: **0**.
+- Boundary/title/date changes: **0**.
+
+The batch also preserves without change the 2009 Union Cabinet/spectrum/tape/land-distribution material and opaque PDF 269 sequence in 3520; complete CAG/TANSI/audit/campaign material in 3521; and the employment/recruitment/camp/training figures and source-distinct 45,987/47,200 teacher counts in 3522.
+
+Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md).
+
 ## QA state
 
 - Source intake: **PASS**
@@ -114,10 +128,10 @@ Detailed record: [`translations/en/BILINGUAL_ALIGNMENT_REVIEW_3514_3518.md`](tra
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume Tamil visual/textual-fidelity verification: **PASS**
 - English source-checked: **53 / 53**
-- Bilingual-aligned: **35 / 53 — 3484–3518**
+- Bilingual-aligned: **40 / 53 — 3484–3523**
 - English editorial review: **not started**
 - English release: **not started**
 
 ## Exact next activity
 
-Align **Letters 3519–3523 / PDF 257–290** as the eighth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3519_3523.md`, update the five records/manifest/control files, and stop after 3523. Do not begin 3524, editorial review or release verification in the same activity.
+Align **Letters 3524–3528 / PDF 291–325** as the ninth five-record bilingual meaning-level batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required by alignment, re-check the controlling scan before any possible Tamil correction, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3524_3528.md`, update the five records/manifest/control files, and stop after 3528. Do not begin 3529, editorial review or release verification in the same activity.
