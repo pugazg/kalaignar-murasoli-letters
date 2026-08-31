@@ -1,11 +1,12 @@
 # English Alignment Checkpoint — Volume 44
 
 - Main drafting/source-check: **53 / 53 — complete**
-- First bilingual meaning-level review: **3484–3488 / PDF 024–066 — 5 / 5 reviewed**
-- Review finding: **1 punctuation-only English correction required in Letter 3487 / PDF 051**
-- Canonical Tamil changes exposed by review: **0**
-- Durable `aligned` status is **not advanced yet** because the 3487 punctuation correction and manifest/status synchronization still have to be applied to `main`.
+- Bilingual meaning-level alignment: **5 / 53 — Letters 3484–3488 / PDF 024–066**
+- First alignment batch result: **PASS — 5 / 5 synchronized**
+- English corrections applied: **1 punctuation-only correction in Letter 3487 / PDF 051** (`indefinitely.` → `indefinitely?`)
+- Canonical Tamil changes exposed by alignment: **0**
+- Manifest and five record frontmatter statuses: **aligned**
 - Editorial consistency review: **not started**
 - Final release verification: **not started**
 
-Exact next activity: apply the 3487 punctuation correction (`indefinitely.` → `indefinitely?`), synchronize alignment status for 3484–3488 in the manifest/control state, then verify the batch. Do not start Letter 3489 until that synchronization is complete.
+Exact next activity: align **Letters 3489–3493 / PDF 067–098** as the next five-record batch. Stop after 3493; do not begin 3494, editorial review or final release verification in the same activity.

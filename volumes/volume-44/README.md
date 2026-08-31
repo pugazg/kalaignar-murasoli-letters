@@ -29,7 +29,7 @@
 | English pilot review / convention lock | **PASS — 3484–3486** |
 | Regular English batches 1–10 | **PASS — 3487–3536** |
 | English source-checked | **53 / 53 — 3484–3536 / PDF 024–399** |
-| Final bilingual alignment | **not started — next 3484–3488** |
+| Bilingual alignment | **5 / 53 — 3484–3488 / PDF 024–066; next 3489–3493** |
 | English editorial review | not started |
 | English release | not started |
 
@@ -47,16 +47,19 @@ Final source boundaries remain:
 
 PDF 399 preserves `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this Volume 44 source.
 
-## English translation
+## English translation and alignment
 
-The pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. All ten regular batches **3487–3536 / PDF 046–399** have now been translated and source-checked. Total English source-check coverage is **53 / 53 records — 3484–3536**.
+The pilot **3484–3486 / PDF 024–045** passed its separate source-review/convention-lock checkpoint. All ten regular batches **3487–3536 / PDF 046–399** are translated and source-checked. Total English source-check coverage is **53 / 53 records — 3484–3536**.
 
-All regular batches required **0 Tamil changes**. The final batch preserves the complete agriculture, higher-education, school-education, public-library and rural-development inventories without outside reconciliation. It explicitly retains source anomalies including **₹37 crore 391 lakh** in 3532, the printed **₹1 crore 16 lakh 24 thousand** total for the 3534 school-upgrade item, the non-reconciling **1,07,716** representative total in 3536, `(Invertors)`, `2007-09`, and the opaque `வருவாய்க்குமுள்ள` passage. Every bilingual record includes the complete audited Tamil appendix.
+The first bilingual meaning-level alignment batch **3484–3488 / PDF 024–066** is **PASS and synchronized**. The comparison required one English punctuation-only correction in Letter 3487 / PDF 051: the English now preserves the audited Tamil question mark in the reported M. Nagaraj passage as `reservation should not be extended indefinitely?`. Canonical Tamil changes during this alignment batch: **0**.
+
+All regular batches required **0 Tamil changes**. The final batch preserves the complete agriculture, higher-education, school-education, public-library and rural-development inventories without outside reconciliation. Every bilingual record includes the complete audited Tamil appendix.
 
 Durable English records:
 
 - [English index](translations/en/README.md)
 - [Pilot review](translations/en/PILOT_REVIEW_3484_3486.md)
+- [Alignment review 3484–3488](translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md)
 - [Batch 3487–3491 source check](translations/en/BATCH_SOURCE_CHECK_3487_3491.md)
 - [Batch 3492–3496 source check](translations/en/BATCH_SOURCE_CHECK_3492_3496.md)
 - [Batch 3497–3501 source check](translations/en/BATCH_SOURCE_CHECK_3497_3501.md)
@@ -70,8 +73,8 @@ Durable English records:
 - [Locked glossary](translations/en/GLOSSARY.md)
 - [Translation manifest](translations/en/TRANSLATION_MANIFEST.csv)
 
-Source-check completion does not collapse later QA gates. Final bilingual alignment, volume-level English editorial consistency and final release verification remain separate.
+Source-check and bilingual-alignment completion do not collapse later QA gates. Volume-level English editorial consistency and final release verification remain separate.
 
 ## Exact next activity
 
-Begin bilingual meaning-level alignment with **Letters 3484–3488 / PDF 024–066** as the first five-record alignment batch. Follow the proven Volume 45 method: compare each complete English record against its complete audited Tamil source, apply only English corrections required for alignment, re-check the controlling scan before any possible Tamil change, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md`, update status/control files, and stop after 3488. Do not begin 3489, editorial review or release verification in the same activity.
+Align **Letters 3489–3493 / PDF 067–098** as the second five-record bilingual-alignment batch. Compare each complete English record against its complete audited Tamil source, apply only English corrections required for alignment, re-check the controlling scan before any possible Tamil change, create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3489_3493.md`, update status/control files, and stop after 3493. Do not begin 3494, editorial review or release verification in the same activity.

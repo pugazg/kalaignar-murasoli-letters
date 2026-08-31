@@ -8,10 +8,11 @@ source_pdf_page_start: 38
 source_pdf_page_end: 45
 source_printed_page_start: 37
 source_printed_page_end: 44
-translation_status: "pilot-draft-complete"
+translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending-pilot-review"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md"
 ---
 
 # 3486. May Drops of Honey Become a Cascade of Honey!

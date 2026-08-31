@@ -11,7 +11,8 @@ source_printed_page_end: 56
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_report: "../BILINGUAL_ALIGNMENT_REVIEW_3484_3488.md"
 ---
 
 # 3487. May Drops of Honey Become a Cascade of Honey! (2)
@@ -58,7 +59,7 @@ After assuming office as Chief Minister of Tamil Nadu for the fifth time in 2006
 
 “Laws enacted under the Ninth Schedule in accordance with Article 31(B) of the Constitution are about to be challenged. The case is to be heard on 30 October. Since this issue is of urgent importance, your State may take immediate action. My suggestion is that your State may also join as a petitioner in the case coming up for hearing on 30.10.2006. In a recent judgment in the case between the Union Government and M. Nagaraj, the Supreme Court has stated:
 
-> ‘Even if the government has compelling reasons for the reasons stated above, the extent of reservation should not become excessive and should not cross the ceiling of 50 per cent; the economically advanced among the backward community should not be left without exclusion; reservation should not be extended indefinitely.’
+> ‘Even if the government has compelling reasons for the reasons stated above, the extent of reservation should not become excessive and should not cross the ceiling of 50 per cent; the economically advanced among the backward community should not be left without exclusion; reservation should not be extended indefinitely?’
 
 “It is obvious that this judgment of the Supreme Court is contrary to the spirit of the Constitution of India. The Preamble to the Constitution emphasises securing social, economic and political justice for all citizens. Further, the Constitution provides for reservation only for classes that are socially and educationally backward; it does not provide for any category described as economically backward. For many centuries socially and educationally backward classes lived under the yoke. Only after Independence, and particularly after reservation was provided for in the Constitution, were the doors of government employment and educational institutions opened to these classes. During the past fifty years these classes have gradually risen in social standing. Supreme Court judgments have caused great shock to them by pulling away the ladder that reservation had provided.
 

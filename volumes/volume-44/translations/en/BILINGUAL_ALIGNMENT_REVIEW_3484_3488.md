@@ -8,11 +8,11 @@
 - Canonical pages covered: **43**
 - English files reviewed: **5 / 5**
 - Review type: bilingual meaning-level alignment after source-check drafting
-- Result: **PASS at review level — 5 / 5 aligned in meaning and coverage**
-- English corrections identified: **1 punctuation-only correction in Letter 3487**
+- Result: **PASS — 5 / 5 aligned in meaning and coverage**
+- English corrections applied: **1 punctuation-only correction in Letter 3487**
 - Canonical Tamil changes during alignment: **0**
 
-The audited canonical Tamil is the immediate alignment authority. The controlling scan remains the ultimate authority if a suspected Tamil defect appears. No Tamil defect was exposed in this batch, so no scan-driven Tamil change is required.
+The audited canonical Tamil is the immediate alignment authority. The controlling scan remains the ultimate authority if a suspected Tamil defect appears. No Tamil defect was exposed in this batch, so no scan-driven Tamil change was required.
 
 ## Review method
 
@@ -51,15 +51,15 @@ The Justice Party/social-justice opening, 1992 Mandal judgment, `(Creamy Layer)`
 
 ### 3487 — *May Drops of Honey Become a Cascade of Honey! (2)*
 
-**Result: ALIGNED — one punctuation-only English correction identified.**
+**Result: ALIGNED — one punctuation-only English correction applied.**
 
 The Assembly debate, Deve Gowda letter, Sonia Gandhi / Chief Ministers correspondence, Ninth Schedule/basic-structure discussion, 1996/2006 manifesto passages, 13-7-2010 Supreme Court judgment, internal-reservation history and desert-spring/honey imagery align with the audited Tamil.
 
-One alignment defect was exposed in the reported M. Nagaraj passage on **PDF 051**. The audited Tamil ends the quoted clause `இட ஒதுக்கீட்டை காலவரையறையின்றி நீட்டிப்பதாக இருக்கக் கூடாது?` with a **question mark**, while the drafting-layer English ended `reservation should not be extended indefinitely.` with a period. The aligned English treatment is therefore:
+The reported M. Nagaraj passage on **PDF 051** ends in the audited Tamil with `இட ஒதுக்கீட்டை காலவரையறையின்றி நீட்டிப்பதாக இருக்கக் கூடாது?`. The drafting-layer English had ended the corresponding clause with a period. The synchronized aligned English now preserves the source punctuation:
 
 > `reservation should not be extended indefinitely?`
 
-This deliberately preserves the scan-audited source punctuation rather than normalising it from outside legal wording. No Tamil change is warranted.
+No Tamil change was warranted.
 
 ### 3488 — *Reservation and the Double Role! (3)*
 
@@ -69,16 +69,16 @@ The attribution of the “double role” criticism to *Frontline*, the exact pri
 
 ## Batch outcome
 
-- Letters reviewed/aligned in meaning: **5 / 5**
-- Alignment range reviewed: **3484–3488 / PDF 024–066**
-- English alignment defects found: **1 punctuation-only span — Letter 3487 / PDF 051**
+- Letters aligned: **5 / 5**
+- Alignment range: **3484–3488 / PDF 024–066**
+- English corrections applied: **1 punctuation-only span — Letter 3487 / PDF 051**
 - Tamil canonical corrections: **0**
 - Main drafting/source-check remains complete: **53 / 53 — 3484–3536 / PDF 024–399**
-- Cumulative bilingual alignment after this review: **5 / 53** once the 3487 punctuation correction and alignment-status synchronization are committed to `main`
+- Cumulative bilingual alignment: **5 / 53 — 3484–3488 / PDF 024–066**
 - Editorially reviewed: **0 / 53**
 - Final verified for release: **0 / 53**
 
-## Exact next activity after synchronization
+## Exact next activity
 
 Align the next five complete letters as one batch:
 
