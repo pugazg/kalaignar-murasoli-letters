@@ -40,12 +40,24 @@
 | 3432 | `கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக!` | 054–060 | 53–59 | 12-11-2009 |
 | 3433 | `பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்!` | 061–069 | 60–68 | 15-11-2009 |
 
-PDF 070 cleanly begins Letter 3434.
+### Five-record batch — Letters 3434–3438 — PDF 070–103
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3434 | `நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது?` | 070–075 | 69–74 | 18-11-2009 |
+| 3435 | `முடிந்த தொடர்கதை; முடியாத வரலாறு!` | 076–086 | 75–85 | 26-11-2009 |
+| 3436 | `சிதம்பரம் மீது சீற்றம் ஏன்?` | 087–092 | 86–91 | 28-11-2009 |
+| 3437 | `வன்முறை தவிர்த்து வரும் தேர்தல்களிலும் வெல்வோம்!` | 093–098 | 92–97 | 30-11-2009 |
+| 3438 | `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!` | 099–103 | 98–102 | 4-12-2009 |
+
+PDF 104 cleanly begins Letter 3439.
 
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–069 / 402**
-- Completed letters: **6 / 56 — 3428–3433**
+- Canonical page coverage: **PDF 001–103 / 402**
+- Completed letters: **11 / 56 — 3428–3438**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -54,11 +66,10 @@ PDF 070 cleanly begins Letter 3434.
 - The controlling scan, not OCR, governs wording.
 - Page boundaries remain physical; continuation text is not silently moved between pages.
 - Source-supplied English quotations, figures, names, punctuation, bullets and historical wording are retained.
-- Letter 3430 has a genuine title discrepancy: printed contents says `கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!`, while actual PDF 040 prints `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`. The contents transcription remains verbatim; chapter/page metadata follows the actual letter-start page.
-- PDF 061 preserves the Bharathidasan poem opening Letter 3433; later source wording such as `மூர்த்தன்யமாகவோ` on PDF 063 is preserved rather than silently modernised.
+- Letter 3430 has a genuine contents/letter-title discrepancy, preserved in separate source layers.
+- Letter 3435 printed contents says `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`, while actual PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
+- Letter 3438 printed contents says `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`, while actual PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3434–3438**, beginning with **Letter 3434 at PDF 070 / printed page 69**. Based on the printed contents, expected starts are PDF 070, 076, 087, 093 and 099; verify every actual start/closing/date directly from the scan and stop before Letter 3439, expected at PDF 104.
-
-Do not begin English translation.
+Process the next **five complete source records, Letters 3439–3443**, beginning with **Letter 3439 at PDF 104 / printed page 103**. Verify every actual start/closing/date directly from the scan and stop before Letter 3444. Do not begin English translation.

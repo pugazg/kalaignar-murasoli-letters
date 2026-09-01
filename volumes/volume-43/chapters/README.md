@@ -10,11 +10,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3431](3431-ithil-ethu-kaiyaalaakaathanam.md) | இதில் எது கையாலாகாத்தனம்? | 10-11-2009 | 48 | complete (first-pass-reviewed) |
 | [3432](3432-kanneer-thudaithiduga-kadamai-thodarnthiduga.md) | கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக! | 12-11-2009 | 53 | complete (first-pass-reviewed) |
 | [3433](3433-pathirigai-pen-payilavendiya-paadam.md) | பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்! | 15-11-2009 | 60 | complete (first-pass-reviewed) |
-| 3434 | நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது? | 18-11-2009 | 69 | pending transcription |
-| 3435 | முடிந்த தொடாக்கதை; முடியாத வரலாறு! | 26-11-2009 | 75 | pending transcription |
-| 3436 | சிதம்பரம் மீது சீற்றம் ஏன்? | 28-11-2009 | 86 | pending transcription |
-| 3437 | வன்முறை தவிர்த்து வரும் தேர்தல்களிலும் வெல்வோம்! | 30-11-2009 | 92 | pending transcription |
-| 3438 | ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு! | 4-12-2009 | 98 | pending transcription |
+| [3434](3434-nam-mouna-vali-yaarukkuth-theriyap-pogirathu.md) | நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது? | 18-11-2009 | 69 | complete (first-pass-reviewed) |
+| [3435](3435-mudindha-thodarkathai-mudiyaatha-varalaaru.md) | முடிந்த தொடர்கதை; முடியாத வரலாறு! | 26-11-2009 | 75 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3436](3436-chidambaram-meethu-seetram-en.md) | சிதம்பரம் மீது சீற்றம் ஏன்? | 28-11-2009 | 86 | complete (first-pass-reviewed) |
+| [3437](3437-vanmurai-thavirthu-varum-therthalgalilum-velvom.md) | வன்முறை தவிர்த்து வரும் தேர்தல்களிலும் வெல்வோம்! | 30-11-2009 | 92 | complete (first-pass-reviewed) |
+| [3438](3438-oonamutrorin-oonrukolaaga-kazhaga-arasu.md) | ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு! | 4-12-2009 | 98 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | 3439 | குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு! | 5-12-2009 | 103 | pending transcription |
 | 3440 | “காஞ்சி” வழியில் “கோவை” மாநாடு! | 12-12-2009 | 111 | pending transcription |
 | 3441 | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Letter 3430 title fidelity: the table uses the actual PDF 040 letter title. The separate `contents/index.md` preserves the differing printed contents wording verbatim.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3438: 3430, 3435 and 3438.

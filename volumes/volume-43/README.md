@@ -18,17 +18,17 @@
 
 ## Current archival state
 
-- Canonical pages: **PDF 001–069 / 402**
+- Canonical pages: **PDF 001–103 / 402**
 - Printed contents: **registered**
-- Completed letters: **6 / 56 — 3428–3433**
-- Latest completed batch: **3429–3433 / PDF 033–069 — PASS 5/5**
+- Completed letters: **11 / 56 — 3428–3438**
+- Latest completed batch: **3434–3438 / PDF 070–103 — PASS 5/5**
 - Partial/source-incomplete letters: **none**
 - English translation: **blocked pending Tamil transcription and audit gates**
 
 The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032.
 
-Letter 3430 has a source-layer title discrepancy: printed contents and the actual PDF 040 title differ. `contents/index.md` preserves the contents wording verbatim; the chapter and canonical page metadata follow the actual letter-start scan.
+Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.
 
 ## Exact next activity
 
-Process **Letters 3434–3438** as the next five complete consecutive records, starting with Letter 3434 at **PDF 070 / printed page 69**. Verify all boundaries directly from the scan and stop before Letter 3439. Do not begin English translation.
+Process **Letters 3439–3443** as the next five complete consecutive records, starting with Letter 3439 at **PDF 104 / printed page 103**. Verify all boundaries directly from the scan and stop before Letter 3444. Do not begin English translation.

@@ -68,4 +68,4 @@ transcription_status: first-pass-reviewed
 
 > மூல அச்சில் 3467-ஆம் பதிவின் தேதி இடம் வெற்றாக உள்ளது; அது அப்படியே பாதுகாக்கப்பட்டுள்ளது.
 
-> **Boundary/title verification through Letter 3433:** Letters 3428–3433 have been checked against their actual letter-start and closing pages. For Letter 3430, the printed contents wording above is retained verbatim, while PDF 040 actually prints `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`; canonical chapter/page metadata follows the actual letter-start scan.
+> **Boundary/title verification through Letter 3438:** Letters 3428–3438 have been checked against their actual letter-start and closing pages. The printed contents table above remains verbatim. Actual-letter-title discrepancies are documented separately for 3430, 3435 and 3438; canonical chapter/page metadata follows the actual letter-start scan without rewriting this contents source transcription.

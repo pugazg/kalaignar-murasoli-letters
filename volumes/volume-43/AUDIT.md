@@ -33,34 +33,44 @@ The user-approved first-iteration exception intentionally stops at PDF 023, imme
 - **3433** — PDF **061–069** / printed **60–68** — closes `15-11-2009`
 - PDF **070** cleanly begins Letter **3434**.
 
+### Title discrepancy — Letter 3430
+
+Printed contents records `கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!`; actual PDF 040 prints `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`. Both source forms are retained in their proper layers.
+
+## Five-record iteration — Letters 3434–3438 — PDF 070–103
+
+**Date:** 2026-09-01  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3434** — PDF **070–075** / printed **69–74** — closes `18-11-2009`
+- **3435** — PDF **076–086** / printed **75–85** — closes `26-11-2009`
+- **3436** — PDF **087–092** / printed **86–91** — closes `28-11-2009`
+- **3437** — PDF **093–098** / printed **92–97** — closes `30-11-2009`
+- **3438** — PDF **099–103** / printed **98–102** — closes `4-12-2009`
+- PDF **104** cleanly begins Letter **3439**.
+
 ### Visual/textual checks
 
-- Every PDF page **033–069** was represented once as a canonical page file.
-- The scan controlled corrections to OCR-like readings; OCR was not treated as authority.
-- Letter 3429 preserves the source English U.S. Consul-General quotation and Prime Minister letter quotation.
-- Letter 3430 preserves Supreme Court/Central Water Commission English quotations, bullet-list structure, dates and source institutional names.
-- Letter 3431 preserves land-reform figures and the source-printed quoted form `“கையாலாகாத்தன”த்திற்கு`.
-- Letter 3432 preserves the 1955 Anna quotation, disaster-relief figures and closing.
-- Letter 3433 preserves the Bharathidasan poem, source wording/figures and the Nilgiris relief-account details.
+- Every PDF page **070–103** is represented once as a canonical page file.
+- Every new page was compared directly with the controlling scan; OCR was only a drafting aid.
+- Physical page boundaries, including split continuations, were preserved rather than silently joined.
+- Titles, salutations, closings, dates, figures, source English strings, quotations and lists were checked against the scan.
 - No replacement Unicode or unintended zero-width OCR residue is present in the canonical batch.
 - No English translation was started.
 
-### Title discrepancy — Letter 3430
+### Source-layer title discrepancies
 
-Printed contents PDF 018–022 records:
+- **3435:** printed contents `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`; actual PDF 076 `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
+- **3438:** printed contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; actual PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
 
-`கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!`
-
-The actual Letter 3430 start at PDF 040 prints:
-
-`கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`
-
-Both source forms are retained in their proper layers. The contents file remains verbatim; canonical letter page/chapter metadata follows PDF 040.
+The printed contents transcription remains verbatim; chapter/page metadata follows the actual letter-start scan.
 
 ### Durable result
 
-- Canonical Tamil: **PDF 001–069 / 402**
-- Completed letters: **6 / 56 — 3428–3433**
+- Canonical Tamil: **PDF 001–103 / 402**
+- Completed letters: **11 / 56 — 3428–3438**
 - Partial/source-incomplete: **none**
 
-**Next:** process five complete records **3434–3438**, starting PDF 070, and stop before 3439.
+**Next:** process five complete records **3439–3443**, starting PDF 104, and stop before 3444.

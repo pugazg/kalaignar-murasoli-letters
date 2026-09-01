@@ -18,36 +18,36 @@ Before changing anything, read the repository processing guides, `PROJECT_HANDOV
 
 ## Volume 43 durable boundary
 
-Volume 43 is the active archival volume.
-
-- Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 - Printed pages: **400**
 - Physical PDF pages: **402**
 - Source SHA-256: `53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35`
 - Source inventory: **56 records, 3428–3483**
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
-- Canonical Tamil pages: **PDF 001–069 / 402**
-- Completed Tamil letters: **6 / 56 — 3428–3433**
+- Canonical Tamil pages: **PDF 001–103 / 402**
+- Completed Tamil letters: **11 / 56 — 3428–3438**
 - English translation: **blocked pending Tamil gates**
 
-Completed boundaries:
+Latest completed boundaries:
 
-- **3428** — PDF 024–032 — 1-11-2009
-- **3429** — PDF 033–039 — 4-11-2009
-- **3430** — PDF 040–048 — 6-11-2009
-- **3431** — PDF 049–053 — 10-11-2009
-- **3432** — PDF 054–060 — 12-11-2009
-- **3433** — PDF 061–069 — 15-11-2009
+- **3434** — PDF 070–075 — 18-11-2009
+- **3435** — PDF 076–086 — 26-11-2009
+- **3436** — PDF 087–092 — 28-11-2009
+- **3437** — PDF 093–098 — 30-11-2009
+- **3438** — PDF 099–103 — 4-12-2009
 
-Letter 3430 has a documented source discrepancy: its actual letter-start title is **`கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`**, while the printed contents show a different provisional wording. Preserve the scan-confirmed letter title as canonical; do not silently rewrite the contents source transcription.
+Documented contents/actual-title discrepancies must remain source-layer specific:
 
-PDF **070 / printed page 69** begins Letter **3434 — `நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது?`**.
+- 3430: printed contents differs from actual PDF 040 title.
+- 3435: contents `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`; PDF 076 `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
+- 3438: contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
+PDF **104 / printed page 103** begins Letter **3439 — `குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு!`**.
+
 ## Exact next activity
 
-Transcribe the next **five complete Volume 43 source records, Letters 3434–3438**, beginning at **PDF 070 / printed page 69**. Determine each closing/date boundary directly from the scan, create the corresponding canonical page and chapter records, synchronize contents/metadata/progress/audit/README controls, and stop before Letter 3439. Do not start English translation.
+Transcribe the next **five complete Volume 43 source records, Letters 3439–3443**, beginning at **PDF 104 / printed page 103**. Determine each closing/date boundary directly from the scan, create the corresponding canonical page and chapter records, synchronize contents/metadata/progress/audit/README controls, and stop before Letter 3444. Do not start English translation.
 
 Before any mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
