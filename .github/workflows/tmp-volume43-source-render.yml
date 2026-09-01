@@ -1,0 +1,97 @@
+name: Temporary Volume 43 source render
+
+on:
+  push:
+    branches:
+      - tmp-volume43-source-render
+
+permissions:
+  contents: read
+
+jobs:
+  render-active-range:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Fetch controlling source and extract PDF 257-279
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import requests
+          from pathlib import Path
+
+          names = [
+              "TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf",
+              "TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf",
+          ]
+          bases = [
+              "https://tamildigitallibrary.in/admin/assets/book/",
+              "https://www.tamildigitallibrary.in/admin/assets/book/",
+          ]
+          candidates = []
+          for base in bases:
+              for name in names:
+                  candidates.append(base + name)
+                  candidates.append(base + "TVA_BOK_0065828/" + name)
+
+          target = Path("source.pdf")
+          for url in candidates:
+              print("TRY", url, flush=True)
+              try:
+                  with requests.get(url, stream=True, timeout=90, allow_redirects=True) as r:
+                      print("STATUS", r.status_code, "TYPE", r.headers.get("content-type"), "LEN", r.headers.get("content-length"), "FINAL", r.url, flush=True)
+                      if r.status_code != 200:
+                          continue
+                      first = b""
+                      total = 0
+                      with target.open("wb") as f:
+                          for chunk in r.iter_content(chunk_size=1024 * 1024):
+                              if not chunk:
+                                  continue
+                              if not first:
+                                  first = chunk[:8]
+                              f.write(chunk)
+                              total += len(chunk)
+                      print("DOWNLOADED", total, "FIRST", first, flush=True)
+                      if first.startswith(b"%PDF") and total > 100_000_000:
+                          print("SELECTED", url, flush=True)
+                          break
+                      target.unlink(missing_ok=True)
+              except Exception as exc:
+                  print("ERROR", repr(exc), flush=True)
+          else:
+              raise SystemExit("No candidate returned the controlling PDF")
+          PY
+
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils qpdf tesseract-ocr tesseract-ocr-tam
+          pdfinfo source.pdf | tee pdfinfo.txt
+          test "$(pdfinfo source.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "402"
+
+          qpdf source.pdf --pages . 257-279 -- active-range-pdf257-279.pdf
+          mkdir -p rendered ocr
+          pdftoppm -f 257 -l 279 -jpeg -r 180 source.pdf rendered/page >/dev/null 2>&1
+
+          : > ocr/combined.txt
+          n=257
+          for img in $(find rendered -type f -name '*.jpg' | sort); do
+            printf '\n===== PDF %03d =====\n' "$n" >> ocr/combined.txt
+            tesseract "$img" stdout -l tam+eng --psm 6 2>/dev/null >> ocr/combined.txt || true
+            n=$((n+1))
+          done
+
+          printf '\n===== FILES =====\n' >> pdfinfo.txt
+          ls -lh active-range-pdf257-279.pdf rendered/*.jpg >> pdfinfo.txt
+
+      - name: Upload source-verification range
+        uses: actions/upload-artifact@v4
+        with:
+          name: volume43-pdf257-279-verification
+          path: |
+            active-range-pdf257-279.pdf
+            pdfinfo.txt
+            rendered/*.jpg
+            ocr/combined.txt
+          if-no-files-found: error
+          retention-days: 1
