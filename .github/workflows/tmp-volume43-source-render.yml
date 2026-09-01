@@ -1,4 +1,4 @@
-name: Temporary Volume 43 source cache
+name: Temporary Volume 43 page-image cache
 
 on:
   push:
@@ -10,8 +10,8 @@ permissions:
   actions: read
 
 jobs:
-  cache-active-range:
-    if: ${{ !contains(github.event.head_commit.message, '[source-cache]') }}
+  cache-page-images:
+    if: ${{ !contains(github.event.head_commit.message, '[image-cache]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -28,16 +28,32 @@ jobs:
           repository: pugazg/kalaignar-murasoli-letters
           run-id: 33521909357
 
-      - name: Cache only the temporary verification PDF and OCR on the temp branch
+      - name: Cache readable temporary page images on the temp branch
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p tmp-source
-          cp source-artifact/active-range-pdf257-279.pdf tmp-source/volume43-pdf257-279.pdf
-          cp source-artifact/ocr/combined.txt tmp-source/volume43-pdf257-279-ocr.txt
-          cp source-artifact/pdfinfo.txt tmp-source/volume43-pdf257-279-info.txt
+          python3 -m pip install -q pillow
+          python3 - <<'PY'
+          from pathlib import Path
+          from PIL import Image
+
+          src = Path('source-artifact/rendered')
+          dst = Path('tmp-source/rendered')
+          dst.mkdir(parents=True, exist_ok=True)
+          images = sorted(src.glob('*.jpg'))
+          assert len(images) == 23, len(images)
+          for p in images:
+              im = Image.open(p).convert('RGB')
+              maxw = 1500
+              if im.width > maxw:
+                  h = round(im.height * maxw / im.width)
+                  im = im.resize((maxw, h), Image.Resampling.LANCZOS)
+              out = dst / p.name
+              im.save(out, 'JPEG', quality=90, optimize=True, progressive=True)
+              print(out, out.stat().st_size)
+          PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-source/volume43-pdf257-279.pdf tmp-source/volume43-pdf257-279-ocr.txt tmp-source/volume43-pdf257-279-info.txt
-          git commit -m "Temporary: cache Volume 43 PDF 257-279 [source-cache]"
+          git add tmp-source/rendered/*.jpg
+          git commit -m "Temporary: cache Volume 43 page images 257-279 [image-cache]"
           git push origin HEAD:tmp-volume43-source-render
