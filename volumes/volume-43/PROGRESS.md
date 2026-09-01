@@ -52,12 +52,24 @@
 | 3437 | `வன்முறை தவிர்த்து வரும் தேர்தல்களிலும் வெல்வோம்!` | 093–098 | 92–97 | 30-11-2009 |
 | 3438 | `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!` | 099–103 | 98–102 | 4-12-2009 |
 
-PDF 104 cleanly begins Letter 3439.
+### Five-record batch — Letters 3439–3443 — PDF 104–142
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3439 | `குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு!` | 104–111 | 103–110 | 5-12-2009 |
+| 3440 | `“காஞ்சி” வழியில் “கோவை” மாநாடு!` | 112–118 | 111–117 | 12-12-2009 |
+| 3441 | `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!` | 119–130 | 118–129 | 13-12-2009 |
+| 3442 | `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!` | 131–137 | 130–136 | 16-12-2009 |
+| 3443 | `அவர்களும் நாமும்; ஓர் ஒப்பீடு!` | 138–142 | 137–141 | 20-12-2009 |
+
+PDF 143 cleanly begins Letter 3444.
 
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–103 / 402**
-- Completed letters: **11 / 56 — 3428–3438**
+- Canonical page coverage: **PDF 001–142 / 402**
+- Completed letters: **16 / 56 — 3428–3443**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -72,4 +84,4 @@ PDF 104 cleanly begins Letter 3439.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3439–3443**, beginning with **Letter 3439 at PDF 104 / printed page 103**. Verify every actual start/closing/date directly from the scan and stop before Letter 3444. Do not begin English translation.
+Process the next **five complete source records, Letters 3444–3448**, beginning with **Letter 3444 at PDF 143 / printed page 142**. Verify every actual start/closing/date directly from the scan and stop before Letter 3449. Do not begin English translation.

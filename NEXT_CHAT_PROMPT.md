@@ -24,17 +24,17 @@ Before changing anything, read the repository processing guides, `PROJECT_HANDOV
 - Source inventory: **56 records, 3428–3483**
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
-- Canonical Tamil pages: **PDF 001–103 / 402**
-- Completed Tamil letters: **11 / 56 — 3428–3438**
+- Canonical Tamil pages: **PDF 001–142 / 402**
+- Completed Tamil letters: **16 / 56 — 3428–3443**
 - English translation: **blocked pending Tamil gates**
 
 Latest completed boundaries:
 
-- **3434** — PDF 070–075 — 18-11-2009
-- **3435** — PDF 076–086 — 26-11-2009
-- **3436** — PDF 087–092 — 28-11-2009
-- **3437** — PDF 093–098 — 30-11-2009
-- **3438** — PDF 099–103 — 4-12-2009
+- **3439** — PDF 104–111 — 5-12-2009
+- **3440** — PDF 112–118 — 12-12-2009
+- **3441** — PDF 119–130 — 13-12-2009
+- **3442** — PDF 131–137 — 16-12-2009
+- **3443** — PDF 138–142 — 20-12-2009
 
 Documented contents/actual-title discrepancies must remain source-layer specific:
 
@@ -44,10 +44,10 @@ Documented contents/actual-title discrepancies must remain source-layer specific
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
-PDF **104 / printed page 103** begins Letter **3439 — `குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு!`**.
+PDF **143 / printed page 142** begins Letter **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!`**.
 
 ## Exact next activity
 
-Transcribe the next **five complete Volume 43 source records, Letters 3439–3443**, beginning at **PDF 104 / printed page 103**. Determine each closing/date boundary directly from the scan, create the corresponding canonical page and chapter records, synchronize contents/metadata/progress/audit/README controls, and stop before Letter 3444. Do not start English translation.
+Transcribe the next **five complete Volume 43 source records, Letters 3444–3448**, beginning at **PDF 143 / printed page 142**. Determine each closing/date boundary directly from the scan, create the corresponding canonical page and chapter records, synchronize contents/metadata/progress/audit/README controls, and stop before Letter 3449. Do not start English translation.
 
 Before any mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.

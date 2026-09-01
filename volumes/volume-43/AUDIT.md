@@ -67,10 +67,34 @@ Printed contents records `கேரளக் காதினராய் கே�
 
 The printed contents transcription remains verbatim; chapter/page metadata follows the actual letter-start scan.
 
+## Five-record iteration — Letters 3439–3443 — PDF 104–142
+
+**Date:** 2026-09-01  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3439** — PDF **104–111** / printed **103–110** — closes `5-12-2009`
+- **3440** — PDF **112–118** / printed **111–117** — closes `12-12-2009`
+- **3441** — PDF **119–130** / printed **118–129** — closes `13-12-2009`
+- **3442** — PDF **131–137** / printed **130–136** — closes `16-12-2009`
+- **3443** — PDF **138–142** / printed **137–141** — closes `20-12-2009`
+- PDF **143** cleanly begins Letter **3444**.
+
+### Visual/textual checks
+
+- Every PDF page **104–142** is represented once as a canonical page file.
+- Every new page was compared directly with the controlling scan; OCR was used only as a drafting/discrepancy aid.
+- Physical page boundaries and continuations were preserved.
+- Titles, salutations, closings, dates, figures, bullets, names, quotations and source English strings were checked against the scan.
+- Data-heavy Letter 3441 was checked line-by-line for numerical and bullet fidelity.
+- No replacement Unicode or unintended zero-width OCR residue is present in the canonical batch.
+- No English translation was started.
+
 ### Durable result
 
-- Canonical Tamil: **PDF 001–103 / 402**
-- Completed letters: **11 / 56 — 3428–3438**
+- Canonical Tamil: **PDF 001–142 / 402**
+- Completed letters: **16 / 56 — 3428–3443**
 - Partial/source-incomplete: **none**
 
-**Next:** process five complete records **3439–3443**, starting PDF 104, and stop before 3444.
+**Next:** process five complete records **3444–3448**, starting PDF 143, and stop before 3449.

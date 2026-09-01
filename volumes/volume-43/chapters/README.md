@@ -15,11 +15,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3436](3436-chidambaram-meethu-seetram-en.md) | சிதம்பரம் மீது சீற்றம் ஏன்? | 28-11-2009 | 86 | complete (first-pass-reviewed) |
 | [3437](3437-vanmurai-thavirthu-varum-therthalgalilum-velvom.md) | வன்முறை தவிர்த்து வரும் தேர்தல்களிலும் வெல்வோம்! | 30-11-2009 | 92 | complete (first-pass-reviewed) |
 | [3438](3438-oonamutrorin-oonrukolaaga-kazhaga-arasu.md) | ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு! | 4-12-2009 | 98 | complete (first-pass-reviewed); actual letter title differs from printed contents |
-| 3439 | குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு! | 5-12-2009 | 103 | pending transcription |
-| 3440 | “காஞ்சி” வழியில் “கோவை” மாநாடு! | 12-12-2009 | 111 | pending transcription |
-| 3441 | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 | pending transcription |
-| 3442 | சோதனைகளை வென்ற கழக அரசின் சாதனைகள்! | 16-12-2009 | 130 | pending transcription |
-| 3443 | அவர்களும் நாமும்; ஓர் ஒப்பீடு! | 20-12-2009 | 137 | pending transcription |
+| [3439](3439-kulir-tharuvena-tharu-nizhalena-kovaiyil-maanaadu.md) | குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு! | 5-12-2009 | 103 | complete (first-pass-reviewed) |
+| [3440](3440-kanchi-vazhiyil-kovai-maanaadu.md) | “காஞ்சி” வழியில் “கோவை” மாநாடு! | 12-12-2009 | 111 | complete (first-pass-reviewed) |
+| [3441](3441-udan-pirappugalil-oruvanaaga-vidukkum-vendukol.md) | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 | complete (first-pass-reviewed) |
+| [3442](3442-sothanaigalai-vendra-kazhaga-arasin-saadhanaigal.md) | சோதனைகளை வென்ற கழக அரசின் சாதனைகள்! | 16-12-2009 | 130 | complete (first-pass-reviewed) |
+| [3443](3443-avargalum-naamum-or-oppidu.md) | அவர்களும் நாமும்; ஓர் ஒப்பீடு! | 20-12-2009 | 137 | complete (first-pass-reviewed) |
 | 3444 | மீண்டும் இதோ; என் அன்பழைப்பு! | 21-12-2009 | 142 | pending transcription |
 | 3445 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1 | 25-12-2009 | 148 | pending transcription |
 | 3446 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு | 26-12-2009 | 156 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3438: 3430, 3435 and 3438.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3443: 3430, 3435 and 3438.

@@ -68,4 +68,4 @@ transcription_status: first-pass-reviewed
 
 > மூல அச்சில் 3467-ஆம் பதிவின் தேதி இடம் வெற்றாக உள்ளது; அது அப்படியே பாதுகாக்கப்பட்டுள்ளது.
 
-> **Boundary/title verification through Letter 3438:** Letters 3428–3438 have been checked against their actual letter-start and closing pages. The printed contents table above remains verbatim. Actual-letter-title discrepancies are documented separately for 3430, 3435 and 3438; canonical chapter/page metadata follows the actual letter-start scan without rewriting this contents source transcription.
+> **Boundary/title verification through Letter 3443:** Letters 3428–3443 have been checked against their actual letter-start and closing pages. The printed contents table above remains verbatim. Actual-letter-title discrepancies are documented separately for 3430, 3435 and 3438; canonical chapter/page metadata follows the actual letter-start scan without rewriting this contents source transcription.

@@ -27,17 +27,17 @@ Current durable state:
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
 - Source inventory: **56 records, 3428–3483**
-- Canonical Tamil pages: **PDF 001–103 / 402**
-- Completed letters: **11 / 56 — 3428–3438**
+- Canonical Tamil pages: **PDF 001–142 / 402**
+- Completed letters: **16 / 56 — 3428–3443**
 - Translation: **blocked pending Tamil gates**
 
-The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. The next normal batch is also scan-verified complete:
+The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. The latest normal batch is scan-verified complete:
 
-- **3434** — PDF **070–075** — closes `18-11-2009`
-- **3435** — PDF **076–086** — closes `26-11-2009`
-- **3436** — PDF **087–092** — closes `28-11-2009`
-- **3437** — PDF **093–098** — closes `30-11-2009`
-- **3438** — PDF **099–103** — closes `4-12-2009`
+- **3439** — PDF **104–111** — closes `5-12-2009`
+- **3440** — PDF **112–118** — closes `12-12-2009`
+- **3441** — PDF **119–130** — closes `13-12-2009`
+- **3442** — PDF **131–137** — closes `16-12-2009`
+- **3443** — PDF **138–142** — closes `20-12-2009`
 
 Source-layer title discrepancies are documented and must not be normalized across layers:
 
@@ -47,11 +47,11 @@ Source-layer title discrepancies are documented and must not be normalized acros
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
-PDF **104 / printed page 103** begins Letter **3439**.
+PDF **143 / printed page 142** begins Letter **3444**.
 
 ### Exact next activity
 
-Process the next **five complete source records, Letters 3439–3443**, beginning with Letter 3439 at **PDF 104 / printed page 103**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3444. Do not begin English translation.
+Process the next **five complete source records, Letters 3444–3448**, beginning with Letter 3444 at **PDF 143 / printed page 142**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3449. Do not begin English translation.
 
 ## Volume 44 — COMPLETE
 
