@@ -1,4 +1,4 @@
-name: Temporary Volume 43 source slice
+name: Temporary Volume 43 OCR cache
 
 on:
   push:
@@ -6,52 +6,37 @@ on:
       - tmp-volume43-source-render
 
 permissions:
-  contents: read
+  contents: write
+  actions: read
 
 jobs:
-  slice-active-range:
+  cache-ocr:
+    if: ${{ !contains(github.event.head_commit.message, '[ocr-cache]') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 10
     steps:
-      - name: Fetch and verify controlling source
-        shell: bash
-        run: |
-          set -euo pipefail
-          python3 - <<'PY'
-          import hashlib
-          from pathlib import Path
-          import requests
-          url = "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0065828/TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf"
-          out = Path("source.pdf")
-          h = hashlib.sha256(); size = 0
-          with requests.get(url, stream=True, timeout=180, allow_redirects=True) as r:
-              r.raise_for_status()
-              with out.open("wb") as f:
-                  for chunk in r.iter_content(chunk_size=1024*1024):
-                      if not chunk: continue
-                      f.write(chunk); h.update(chunk); size += len(chunk)
-          assert size == 229557034, size
-          assert h.hexdigest() == "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35"
-          print("verified", size, h.hexdigest())
-          PY
-
-      - name: Extract PDF 279-315
-        shell: bash
-        run: |
-          set -euo pipefail
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq qpdf poppler-utils
-          test "$(pdfinfo source.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "402"
-          qpdf source.pdf --pages . 279-315 -- active-range-pdf279-315.pdf
-          pdfinfo active-range-pdf279-315.pdf | tee pdfinfo.txt
-          test "$(pdfinfo active-range-pdf279-315.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "37"
-
-      - name: Upload source slice
-        uses: actions/upload-artifact@v4
+      - uses: actions/checkout@v4
         with:
-          name: volume43-pdf279-315-slice
-          path: |
-            active-range-pdf279-315.pdf
-            pdfinfo.txt
-          if-no-files-found: error
-          retention-days: 1
+          ref: tmp-volume43-source-render
+
+      - name: Download verified source-render artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: volume43-pdf279-315-verification
+          path: source-artifact
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: pugazg/kalaignar-murasoli-letters
+          run-id: 33531244459
+
+      - name: Cache OCR drafting aid only
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p tmp-source
+          cp source-artifact/ocr/combined.txt tmp-source/volume43-pdf279-315-ocr.txt
+          cp source-artifact/pdfinfo.txt tmp-source/volume43-pdf279-315-pdfinfo.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp-source/volume43-pdf279-315-ocr.txt tmp-source/volume43-pdf279-315-pdfinfo.txt
+          git commit -m "Temporary: cache Volume 43 OCR 279-315 [ocr-cache]"
+          git push origin HEAD:tmp-volume43-source-render
