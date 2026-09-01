@@ -94,10 +94,24 @@ PDF 182 cleanly begins Letter 3449.
 
 PDF 235 cleanly begins Letter 3454.
 
+### Five-record batch — Letters 3454–3458 — PDF 235–256
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3454 | `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!` | 235–240 | 234–239 | 3-2-2010 |
+| 3455 | `“வேலியே பயிரை மேய்வதா?”` | 241–245 | 240–244 | 10-02-2010 |
+| 3456 | `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!` | 246–249 | 245–248 | 11-02-2010 |
+| 3457 | `அவனும் சிரித்தான்; நானும் சிரித்தேன்!` | 250–253 | 249–252 | 12-02-2010 |
+| 3458 | `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!` | 254–256 | 253–255 | 18-02-2010 |
+
+PDF 257 cleanly begins Letter 3459.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–234 / 402**
-- Completed letters: **26 / 56 — 3428–3453**
+- Canonical page coverage: **PDF 001–256 / 402**
+- Completed letters: **31 / 56 — 3428–3458**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -112,4 +126,4 @@ PDF 235 cleanly begins Letter 3454.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3454–3458**, beginning with **Letter 3454 at PDF 235 / printed page 234**. Verify every actual start/closing/date directly from the scan and stop before Letter 3459. Do not begin English translation.
+Process the next **five complete source records, Letters 3459–3463**, beginning with **Letter 3459 at PDF 257 / printed page 256**. Verify every actual start/closing/date directly from the scan and stop before Letter 3464. Do not begin English translation.

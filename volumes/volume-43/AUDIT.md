@@ -155,4 +155,33 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Completed letters: **26 / 56 — 3428–3453**
 - Partial/source-incomplete: **none**
 
-**Next:** process five complete records **3454–3458**, starting PDF 235, and stop before 3459.
+## Five-record iteration — Letters 3454–3458 — PDF 235–256
+
+**Date:** 2026-09-01  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3454** — PDF **235–240** / printed **234–239** — closes `3-2-2010`
+- **3455** — PDF **241–245** / printed **240–244** — closes `10-02-2010`
+- **3456** — PDF **246–249** / printed **245–248** — closes `11-02-2010`
+- **3457** — PDF **250–253** / printed **249–252** — closes `12-02-2010`
+- **3458** — PDF **254–256** / printed **253–255** — closes `18-02-2010`
+- PDF **257** cleanly begins Letter **3459**.
+
+### Visual/textual checks
+
+- Every PDF page **235–256** is represented once as a canonical page file.
+- The controlling scan governed accepted readings; OCR was used only as a drafting/discrepancy aid.
+- Physical page boundaries, titles, salutations, closings, dates, historical dates and quotations were checked against the scan.
+- The election-report bullet sequence in Letter 3455, welfare-scheme list in Letter 3456, and embedded verse/dialogue in Letter 3457 were checked directly against the source pages.
+- No replacement Unicode or unintended zero-width OCR residue is present in the canonical batch.
+- No English translation was started.
+
+### Durable result
+
+- Canonical Tamil: **PDF 001–256 / 402**
+- Completed letters: **31 / 56 — 3428–3458**
+- Partial/source-incomplete: **none**
+
+**Next:** process five complete records **3459–3463**, starting PDF 257, and stop before 3464.

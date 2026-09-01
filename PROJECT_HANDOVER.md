@@ -27,17 +27,17 @@ Current durable state:
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
 - Source inventory: **56 records, 3428–3483**
-- Canonical Tamil pages: **PDF 001–234 / 402**
-- Completed letters: **26 / 56 — 3428–3453**
+- Canonical Tamil pages: **PDF 001–256 / 402**
+- Completed letters: **31 / 56 — 3428–3458**
 - Translation: **blocked pending Tamil gates**
 
-The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. Letters 3439–3443 are complete at PDF 104–142. Letters 3444–3448 are complete at PDF 143–181. The latest normal batch is scan-verified complete:
+The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. Letters 3439–3443 are complete at PDF 104–142. Letters 3444–3448 are complete at PDF 143–181. Letters 3449–3453 are complete at PDF 182–234. The latest normal batch is scan-verified complete:
 
-- **3449** — PDF **182–190** — closes `29-12-2009`
-- **3450** — PDF **191–198** — closes `30-12-2009`
-- **3451** — PDF **199–207** — closes `31-12-2009`
-- **3452** — PDF **208–211** — closes `9-1-2010`
-- **3453** — PDF **212–234** — closes `13-1-2010`
+- **3454** — PDF **235–240** — closes `3-2-2010`
+- **3455** — PDF **241–245** — closes `10-02-2010`
+- **3456** — PDF **246–249** — closes `11-02-2010`
+- **3457** — PDF **250–253** — closes `12-02-2010`
+- **3458** — PDF **254–256** — closes `18-02-2010`
 
 Source-layer title discrepancies are documented and must not be normalized across layers:
 
@@ -47,11 +47,11 @@ Source-layer title discrepancies are documented and must not be normalized acros
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
-PDF **235 / printed page 234** begins Letter **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!`**.
+PDF **257 / printed page 256** begins Letter **3459 — `கரும்பில் அரசியல்!`**.
 
 ### Exact next activity
 
-Process the next **five complete source records, Letters 3454–3458**, beginning with Letter 3454 at **PDF 235 / printed page 234**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3459. Do not begin English translation.
+Process the next **five complete source records, Letters 3459–3463**, beginning with Letter 3459 at **PDF 257 / printed page 256**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3464. Do not begin English translation.
 
 ## Volume 44 — COMPLETE
 

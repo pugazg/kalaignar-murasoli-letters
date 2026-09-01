@@ -30,11 +30,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3451](3451-semmoli-varalatril-sila-seppedugal-7-kadithamalla-kaalathaal-azhikka-mudiyaatha-seppedu.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு! | 31-12-2009 | 198 | complete (first-pass-reviewed) |
 | [3452](3452-vaazhthu-kuvikkinren-valamaar-tamizhaga-makkalukku.md) | வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு! | 9-1-2010 | 207 | complete (first-pass-reviewed) |
 | [3453](3453-oru-thalaivan-irukkiraan-mayangaathe.md) | ஒரு “தலைவன்” இருக்கிறான் மயங்காதே! | 13-1-2010 | 211 | complete (first-pass-reviewed) |
-| 3454 | அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு! | 3-2-2010 | 234 | pending transcription |
-| 3455 | “வேலியே பயிரை மேய்வதா?” | 10-02-2010 | 240 | pending transcription |
-| 3456 | மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்! | 11-02-2010 | 245 | pending transcription |
-| 3457 | அவனும் சிரித்தான்; நானும் சிரித்தேன்! | 12-02-2010 | 249 | pending transcription |
-| 3458 | புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்! | 18-02-2010 | 253 | pending transcription |
+| [3454](3454-ammavo-indha-naalil-andha-naal-ninaivu.md) | அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு! | 3-2-2010 | 234 | complete (first-pass-reviewed) |
+| [3455](3455-veliye-payirai-meyvatha.md) | “வேலியே பயிரை மேய்வதா?” | 10-02-2010 | 240 | complete (first-pass-reviewed) |
+| [3456](3456-manitha-neyamum-maasatra-arasiyal-naagarigamum.md) | மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்! | 11-02-2010 | 245 | complete (first-pass-reviewed) |
+| [3457](3457-avanum-siriththaan-naanum-siriththen.md) | அவனும் சிரித்தான்; நானும் சிரித்தேன்! | 12-02-2010 | 249 | complete (first-pass-reviewed) |
+| [3458](3458-pulliyai-thodarndhu-poda-vendiya-kolam.md) | புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்! | 18-02-2010 | 253 | complete (first-pass-reviewed) |
 | 3459 | கரும்பில் அரசியல்! | 19-02-2010 | 256 | pending transcription |
 | 3460 | தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்! | 20-02-2010 | 259 | pending transcription |
 | 3461 | கலையுலக விழாவும்; சிலர் கண்ட கனவும்! | 26-2-2010 | 265 | pending transcription |

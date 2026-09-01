@@ -18,10 +18,10 @@
 
 ## Current archival state
 
-- Canonical pages: **PDF 001–234 / 402**
+- Canonical pages: **PDF 001–256 / 402**
 - Printed contents: **registered**
-- Completed letters: **26 / 56 — 3428–3453**
-- Latest completed batch: **3449–3453 / PDF 182–234 — PASS 5/5**
+- Completed letters: **31 / 56 — 3428–3458**
+- Latest completed batch: **3454–3458 / PDF 235–256 — PASS 5/5**
 - Partial/source-incomplete letters: **none**
 - English translation: **blocked pending Tamil transcription and audit gates**
 
@@ -31,4 +31,4 @@ Source-layer title discrepancies are preserved rather than normalized: Letter 34
 
 ## Exact next activity
 
-Process **Letters 3454–3458** as the next five complete consecutive records, starting with Letter 3454 at **PDF 235 / printed page 234**. Verify all boundaries directly from the scan and stop before Letter 3459. Do not begin English translation.
+Process **Letters 3459–3463** as the next five complete consecutive records, starting with Letter 3459 at **PDF 257 / printed page 256**. Verify all boundaries directly from the scan and stop before Letter 3464. Do not begin English translation.
