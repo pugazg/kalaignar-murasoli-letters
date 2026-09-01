@@ -1,4 +1,4 @@
-name: Temporary Volume 43 targeted OCR
+name: Temporary Volume 43 lightweight verification images
 
 on:
   push:
@@ -6,53 +6,38 @@ on:
       - tmp-volume43-source-render
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  targeted-ocr:
-    if: ${{ !contains(github.event.head_commit.message, '[target-ocr]') }}
+  render-lite:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
           ref: tmp-volume43-source-render
 
-      - name: Render and OCR critical source regions
+      - name: Render PDF 279-315 as compact JPEGs
         shell: bash
         run: |
           set -euo pipefail
           sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tam python3-pil
-          mkdir -p /tmp/render tmp-source/target-ocr
-          pdftoppm -jpeg -r 350 tmp-source/volume43-pdf279-315.pdf /tmp/render/p >/dev/null 2>&1
+          sudo apt-get install -y -qq poppler-utils
+          mkdir -p lite-pages
+          pdftoppm -f 1 -l 37 -jpeg -jpegopt quality=72 -r 120 tmp-source/volume43-pdf279-315.pdf lite-pages/p >/dev/null 2>&1
           python3 - <<'PY'
-          from PIL import Image
           from pathlib import Path
-          phys=[279,284,294,299,300,304,314,315]
-          for p in phys:
-              idx=p-278
-              candidates=[]
-              for pat in (f'p-{idx}.jpg',f'p-{idx:02d}.jpg',f'p-{idx:03d}.jpg'):
-                  candidates += list(Path('/tmp/render').glob(pat))
-              assert candidates,(p,idx,list(Path('/tmp/render').glob('*.jpg'))[:3])
-              im=Image.open(candidates[0]); w,h=im.size
-              frac=0.30 if p==300 else 0.22
-              im.crop((0,0,w,int(h*frac))).save(f'/tmp/render/crop-{p}.png')
+          files=sorted(Path('lite-pages').glob('p-*.jpg'))
+          assert len(files)==37, len(files)
+          for i,f in enumerate(files,279):
+              f.rename(Path('lite-pages')/f'page-{i}.jpg')
+          print('rendered', len(files), 'pages')
           PY
-          for p in 279 284 294 299 300 304 314 315; do
-            {
-              echo "===== PDF $p PSM3 ====="
-              tesseract /tmp/render/crop-$p.png stdout -l tam+eng --psm 3 2>/dev/null || true
-              echo "===== PDF $p PSM4 ====="
-              tesseract /tmp/render/crop-$p.png stdout -l tam+eng --psm 4 2>/dev/null || true
-              echo "===== PDF $p PSM6 ====="
-              tesseract /tmp/render/crop-$p.png stdout -l tam+eng --psm 6 2>/dev/null || true
-              echo
-            } > tmp-source/target-ocr/page-$p.txt
-          done
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-source/target-ocr/page-*.txt
-          git commit -m "Temporary: targeted OCR Volume 43 279-315 [target-ocr]"
-          git push origin HEAD:tmp-volume43-source-render
+          du -sh lite-pages
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: volume43-pdf279-315-lite-jpg
+          path: lite-pages/page-*.jpg
+          compression-level: 6
+          retention-days: 1
