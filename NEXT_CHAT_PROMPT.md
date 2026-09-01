@@ -10,11 +10,31 @@ Controlling source PDF:
 
 `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 
+Attach or otherwise resolve the controlling PDF in the fresh chat before page-level visual verification.
+
 ## Live-main rule for a fresh chat
 
-**Fetch live `main` first and treat it as authoritative.** If `main` has advanced beyond any checkpoint copied into a prompt, preserve the newer durable state and continue from it. Do not reset or overwrite later completed work.
+**Fetch live `main` first and treat it as authoritative.** If `main` has advanced beyond any checkpoint copied into this prompt, preserve the newer durable state and continue from it. Do not reset, overwrite, repeat, or reopen later completed work merely because this prompt records an older checkpoint.
 
-Before changing anything, read the repository processing guides, `PROJECT_HANDOVER.md`, this `NEXT_CHAT_PROMPT.md`, and the controls for the active source/volume.
+**Last completed source-work checkpoint when this prompt was refreshed:** `d495e1a0fc3dd8878b75fee590bb602d3a2dded8` — `Transcribe Volume 43 Letters 3454-3458`. Later commits may be documentation-only; live `main` remains authoritative.
+
+## Mandatory startup
+
+Before making any repository change, read completely:
+
+1. `VOLUME_PROCESSING_GUIDE.md`
+2. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
+3. `TRANSCRIPTION_GUIDE.md`
+4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
+5. `PROJECT_HANDOVER.md`
+6. this `NEXT_CHAT_PROMPT.md`
+7. `volumes/volume-43/README.md`
+8. `volumes/volume-43/PROGRESS.md`
+9. `volumes/volume-43/AUDIT.md`
+10. `volumes/volume-43/metadata.yml`
+11. the Volume 43 contents/chapter controls relevant to the active range.
+
+The controlling scan is the highest authority. OCR is a drafting aid only. Do not silently normalize spelling, punctuation, old Tamil glyph readings, titles, quotations, figures, dates, signatures, closings, English/Latin text, or source-layer differences.
 
 ## Volume 43 durable boundary
 
@@ -30,11 +50,11 @@ Before changing anything, read the repository processing guides, `PROJECT_HANDOV
 
 Latest completed boundaries:
 
-- **3454** — PDF 235–240 — 3-2-2010
-- **3455** — PDF 241–245 — 10-02-2010
-- **3456** — PDF 246–249 — 11-02-2010
-- **3457** — PDF 250–253 — 12-02-2010
-- **3458** — PDF 254–256 — 18-02-2010
+- **3454** — PDF 235–240 — closes `3-2-2010`
+- **3455** — PDF 241–245 — closes `10-02-2010`
+- **3456** — PDF 246–249 — closes `11-02-2010`
+- **3457** — PDF 250–253 — closes `12-02-2010`
+- **3458** — PDF 254–256 — closes `18-02-2010`
 
 Documented contents/actual-title discrepancies must remain source-layer specific:
 
@@ -48,6 +68,19 @@ PDF **257 / printed page 256** begins Letter **3459 — `கரும்பி�
 
 ## Exact next activity
 
-Transcribe the next **five complete Volume 43 source records, Letters 3459–3463**, beginning at **PDF 257 / printed page 256**. Determine each closing/date boundary directly from the scan, create the corresponding canonical page and chapter records, synchronize contents/metadata/progress/audit/README controls, and stop before Letter 3464. Do not start English translation.
+Transcribe the next **five complete Volume 43 source records, Letters 3459–3463**, beginning with Letter 3459 at **PDF 257 / printed page 256**.
 
-Before any mutation, recheck live `main`, preserve concurrent work, prefer a validated atomic commit, use a normal fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
+For this iteration:
+
+- determine every letter's actual end/date directly from the scan;
+- process exactly five complete consecutive letters and stop before Letter 3464;
+- create every canonical page record covered by those letters;
+- create the five chapter records and update the chapter index;
+- preserve printed contents independently from actual letter titles and only advance verification notes where source checking supports it;
+- synchronize `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, the Volume 43 README, root `README.md`, `PROJECT_HANDOVER.md`, and this `NEXT_CHAT_PROMPT.md`;
+- keep English translation blocked and do not start it;
+- run precommit checks for page continuity, duplicate bodies, U+FFFD/unwanted zero-width residue, exact title/date/quotation/figure/English strings, verified closing/date boundaries, and the next-letter start.
+
+## Git discipline
+
+Work directly on `main` as requested. Before mutation, re-fetch the target files and recheck live `main`. Preserve concurrent work. Prefer a candidate tree/commit that does not move `main` until validation is complete. Publish one atomic commit, fast-forward `main` with `force: false`, and verify parent → new HEAD changed-file scope afterward.
