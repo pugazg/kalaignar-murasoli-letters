@@ -9,99 +9,70 @@ permissions:
   contents: read
 
 jobs:
-  discover-source:
+  render-active-range:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
-      - name: Discover current Tamil Digital Library source endpoint
+      - name: Fetch and verify controlling source
         shell: bash
         run: |
           set -euo pipefail
-          python3 -m pip install -q requests beautifulsoup4 selenium
           python3 - <<'PY'
-          import json, re, time
-          from urllib.parse import urljoin
+          import hashlib
+          from pathlib import Path
           import requests
-          from bs4 import BeautifulSoup
 
-          start = "https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU3jup2"
-          r = requests.get(start, timeout=60, allow_redirects=True)
-          print("HTTP", r.status_code, r.url, len(r.content), flush=True)
-          text = r.text
-          print("HTML 0065828 occurrences", text.count("0065828"), flush=True)
-          for pat in [r'.{0,180}0065828.{0,300}', r'.{0,180}\.pdf.{0,300}', r'.{0,180}flipbook.{0,300}', r'.{0,180}single.{0,300}']:
-              print("PATTERN", pat, flush=True)
-              for m in re.finditer(pat, text, re.I | re.S):
-                  print(re.sub(r'\s+', ' ', m.group(0))[:900], flush=True)
-
-          soup = BeautifulSoup(text, "html.parser")
-          for tag in soup.find_all(True):
-              attrs = " ".join(f"{k}={v}" for k,v in tag.attrs.items())
-              body = tag.get_text(" ", strip=True)
-              hay = attrs + " " + body
-              if any(x in hay.lower() for x in ["0065828", ".pdf", "flipbook", "படிக்க"]):
-                  print("DOM", tag.name, attrs[:800], "TEXT", body[:300], flush=True)
-
-          from selenium import webdriver
-          from selenium.webdriver.common.by import By
-          from selenium.webdriver.chrome.options import Options
-
-          opts = Options()
-          opts.add_argument("--headless=new")
-          opts.add_argument("--no-sandbox")
-          opts.add_argument("--disable-dev-shm-usage")
-          opts.add_argument("--window-size=1600,1200")
-          opts.set_capability("goog:loggingPrefs", {"performance": "ALL", "browser": "ALL"})
-          driver = webdriver.Chrome(options=opts)
-          try:
-              driver.get(start)
-              time.sleep(6)
-              print("BROWSER_URL", driver.current_url, flush=True)
-              print("TITLE", driver.title, flush=True)
-              for el in driver.find_elements(By.XPATH, "//*[contains(normalize-space(.), 'படிக்க')]"):
-                  try:
-                      print("READ_ELEMENT", el.tag_name, el.get_attribute("outerHTML")[:1500], flush=True)
-                  except Exception:
-                      pass
-              for el in driver.find_elements(By.XPATH, "//*[contains(@onclick, 'book') or contains(@onclick, 'Book') or contains(@onclick, 'flip') or contains(@onclick, 'pdf')]"):
-                  try:
-                      print("ONCLICK_ELEMENT", el.tag_name, el.get_attribute("outerHTML")[:2000], flush=True)
-                  except Exception:
-                      pass
-
-              # Click the smallest visible element whose own text is exactly 'படிக்க'.
-              candidates = driver.find_elements(By.XPATH, "//*[normalize-space(text())='படிக்க']")
-              print("EXACT_READ_CANDIDATES", len(candidates), flush=True)
-              for el in candidates[:5]:
-                  try:
-                      print("CANDIDATE", el.tag_name, el.get_attribute("outerHTML")[:1200], flush=True)
-                      driver.execute_script("arguments[0].click();", el)
-                      time.sleep(8)
-                      print("AFTER_CLICK_URL", driver.current_url, "HANDLES", len(driver.window_handles), flush=True)
-                      if len(driver.window_handles) > 1:
-                          driver.switch_to.window(driver.window_handles[-1])
-                          time.sleep(5)
-                          print("POPUP_URL", driver.current_url, flush=True)
-                      break
-                  except Exception as exc:
-                      print("CLICK_ERROR", repr(exc), flush=True)
-
-              seen = set()
-              for entry in driver.get_log("performance"):
-                  try:
-                      msg = json.loads(entry["message"])["message"]
-                      if msg.get("method") != "Network.requestWillBeSent":
+          url = "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0065828/TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf"
+          out = Path("source.pdf")
+          h = hashlib.sha256()
+          size = 0
+          with requests.get(url, stream=True, timeout=180, allow_redirects=True) as r:
+              r.raise_for_status()
+              print("SOURCE_URL", r.url, flush=True)
+              with out.open("wb") as f:
+                  for chunk in r.iter_content(chunk_size=1024 * 1024):
+                      if not chunk:
                           continue
-                      url = msg["params"]["request"]["url"]
-                  except Exception:
-                      continue
-                  low = url.lower()
-                  if any(key in low for key in ["0065828", ".pdf", "assets/book", "flip", "reader", "singlepage", "book-detail", "book-details"]):
-                      if url not in seen:
-                          seen.add(url)
-                          print("NETWORK", url, flush=True)
-              for entry in driver.get_log("browser"):
-                  print("BROWSER_LOG", entry, flush=True)
-          finally:
-              driver.quit()
+                      f.write(chunk)
+                      h.update(chunk)
+                      size += len(chunk)
+          digest = h.hexdigest()
+          print("SOURCE_SIZE", size, flush=True)
+          print("SOURCE_SHA256", digest, flush=True)
+          assert size == 229557034, (size, "unexpected source size")
+          assert digest == "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35", digest
           PY
+
+      - name: Render PDF 257-279 and OCR drafting aid
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils qpdf tesseract-ocr tesseract-ocr-tam
+          pdfinfo source.pdf | tee pdfinfo.txt
+          test "$(pdfinfo source.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "402"
+          qpdf source.pdf --pages . 257-279 -- active-range-pdf257-279.pdf
+          mkdir -p rendered ocr
+          pdftoppm -f 257 -l 279 -jpeg -r 200 source.pdf rendered/page >/dev/null 2>&1
+          : > ocr/combined.txt
+          n=257
+          for img in $(find rendered -type f -name '*.jpg' | sort); do
+            printf '\n===== PDF %03d =====\n' "$n" >> ocr/combined.txt
+            tesseract "$img" stdout -l tam+eng --psm 6 2>/dev/null >> ocr/combined.txt || true
+            n=$((n+1))
+          done
+          test "$n" = "280"
+          printf '\n===== FILES =====\n' >> pdfinfo.txt
+          ls -lh active-range-pdf257-279.pdf rendered/*.jpg >> pdfinfo.txt
+
+      - name: Upload source-verification range
+        uses: actions/upload-artifact@v4
+        with:
+          name: volume43-pdf257-279-verification
+          path: |
+            active-range-pdf257-279.pdf
+            pdfinfo.txt
+            rendered/*.jpg
+            ocr/combined.txt
+          if-no-files-found: error
+          retention-days: 1
