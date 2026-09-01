@@ -10,6 +10,10 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
+**Last completed source-work checkpoint when this handover was refreshed:** `d495e1a0fc3dd8878b75fee590bb602d3a2dded8` — `Transcribe Volume 43 Letters 3454-3458`. Later commits may be documentation-only; live `main` remains authoritative.
+
+For a fresh chat, attach or otherwise resolve the controlling Volume 43 PDF before page-level visual verification. Repository text never substitutes for the controlling scan.
+
 ## Source authority
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
@@ -52,6 +56,18 @@ PDF **257 / printed page 256** begins Letter **3459 — `கரும்பி�
 ### Exact next activity
 
 Process the next **five complete source records, Letters 3459–3463**, beginning with Letter 3459 at **PDF 257 / printed page 256**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3464. Do not begin English translation.
+
+For that batch:
+
+- follow the normal five-complete-letter batching policy;
+- create every canonical page file covered by the five letters;
+- create/update the five chapter records and chapter index;
+- synchronize printed-contents verification notes only where source verification advances, without rewriting source wording;
+- synchronize `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, the Volume 43 README, root README, this handover, and `NEXT_CHAT_PROMPT.md`;
+- run the repository precommit checks for page continuity, Unicode residue, duplicated bodies, title/date/figure/quotation fidelity, verified closing boundaries, and the next-letter start;
+- re-fetch live `main` immediately before mutation;
+- publish one validated atomic commit and fast-forward with `force: false`;
+- verify parent → new HEAD changed-file scope.
 
 ## Volume 44 — COMPLETE
 
