@@ -108,10 +108,24 @@ PDF 235 cleanly begins Letter 3454.
 
 PDF 257 cleanly begins Letter 3459.
 
+### Five-record batch — Letters 3459–3463 — PDF 257–278
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3459 | `கரும்பில் அரசியல்!` | 257–259 | 256–258 | 19-02-2010 |
+| 3460 | `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!` | 260–265 | 259–264 | 20-02-2010 |
+| 3461 | `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!` | 266–270 | 265–269 | 26-2-2010 |
+| 3462 | `நம் பயணத்திற்குப் பயன்பட!` | 271–273 | 270–272 | 28-2-2010 |
+| 3463 | `மாற்றுத் திறனாளிகளும் - மானிடரே!` | 274–278 | 273–277 | 2-3-2010 |
+
+PDF 279 cleanly begins Letter 3464.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–256 / 402**
-- Completed letters: **31 / 56 — 3428–3458**
+- Canonical page coverage: **PDF 001–278 / 402**
+- Completed letters: **36 / 56 — 3428–3463**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -123,7 +137,8 @@ PDF 257 cleanly begins Letter 3459.
 - Letter 3430 has a genuine contents/letter-title discrepancy, preserved in separate source layers.
 - Letter 3435 printed contents says `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`, while actual PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
 - Letter 3438 printed contents says `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`, while actual PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
+- Letter 3463 printed contents says `மாற்றுத் திறனாளிகளும் - மனிதரே!`, while actual PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3459–3463**, beginning with **Letter 3459 at PDF 257 / printed page 256**. Verify every actual start/closing/date directly from the scan and stop before Letter 3464. Do not begin English translation.
+Process the next **five complete source records, Letters 3464–3468**, beginning with **Letter 3464 at PDF 279 / printed page 278**. Verify every actual closing/date boundary directly from the scan and stop before Letter 3469. Do not begin English translation.

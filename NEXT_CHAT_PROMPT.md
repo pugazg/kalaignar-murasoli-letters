@@ -44,36 +44,37 @@ The controlling scan is the highest authority. OCR is a drafting aid only. Do no
 - Source inventory: **56 records, 3428–3483**
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
-- Canonical Tamil pages: **PDF 001–256 / 402**
-- Completed Tamil letters: **31 / 56 — 3428–3458**
+- Canonical Tamil pages: **PDF 001–278 / 402**
+- Completed Tamil letters: **36 / 56 — 3428–3463**
 - English translation: **blocked pending Tamil gates**
 
 Latest completed boundaries:
 
-- **3454** — PDF 235–240 — closes `3-2-2010`
-- **3455** — PDF 241–245 — closes `10-02-2010`
-- **3456** — PDF 246–249 — closes `11-02-2010`
-- **3457** — PDF 250–253 — closes `12-02-2010`
-- **3458** — PDF 254–256 — closes `18-02-2010`
+- **3459** — PDF 257–259 — closes `19-02-2010`
+- **3460** — PDF 260–265 — closes `20-02-2010`
+- **3461** — PDF 266–270 — closes `26-2-2010`
+- **3462** — PDF 271–273 — closes `28-2-2010`
+- **3463** — PDF 274–278 — closes `2-3-2010`
 
 Documented contents/actual-title discrepancies must remain source-layer specific:
 
 - 3430: printed contents differs from actual PDF 040 title.
 - 3435: contents `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`; PDF 076 `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
 - 3438: contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
+- 3463: contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
-PDF **257 / printed page 256** begins Letter **3459 — `கரும்பில் அரசியல்!`**.
+PDF **279 / printed page 278** begins Letter **3464 — `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`**.
 
 ## Exact next activity
 
-Transcribe the next **five complete Volume 43 source records, Letters 3459–3463**, beginning with Letter 3459 at **PDF 257 / printed page 256**.
+Transcribe the next **five complete Volume 43 source records, Letters 3464–3468**, beginning with Letter 3464 at **PDF 279 / printed page 278**.
 
 For this iteration:
 
 - determine every letter's actual end/date directly from the scan;
-- process exactly five complete consecutive letters and stop before Letter 3464;
+- process exactly five complete consecutive letters and stop before Letter 3469;
 - create every canonical page record covered by those letters;
 - create the five chapter records and update the chapter index;
 - preserve printed contents independently from actual letter titles and only advance verification notes where source checking supports it;

@@ -180,8 +180,34 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 
 ### Durable result
 
-- Canonical Tamil: **PDF 001–256 / 402**
-- Completed letters: **31 / 56 — 3428–3458**
+- Canonical Tamil: **PDF 001–278 / 402**
+- Completed letters: **36 / 56 — 3428–3463**
 - Partial/source-incomplete: **none**
 
 **Next:** process five complete records **3459–3463**, starting PDF 257, and stop before 3464.
+## Five-record iteration — Letters 3459–3463 — PDF 257–278
+
+**Date:** 2026-09-01
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3459** — PDF **257–259** / printed **256–258** — closes `19-02-2010`
+- **3460** — PDF **260–265** / printed **259–264** — closes `20-02-2010`
+- **3461** — PDF **266–270** / printed **265–269** — closes `26-2-2010`
+- **3462** — PDF **271–273** / printed **270–272** — closes `28-2-2010`
+- **3463** — PDF **274–278** / printed **273–277** — closes `2-3-2010`
+- PDF **279** cleanly begins Letter **3464**.
+
+### Source-layer note
+
+- Printed contents Letter **3463** reads `மாற்றுத் திறனாளிகளும் - மனிதரே!`; the actual Letter 3463 start at PDF 274 reads `மாற்றுத் திறனாளிகளும் - மானிடரே!`. The two source layers remain independent.
+
+### Precommit checks
+
+- PDF page continuity through **278**: PASS.
+- Exactly five complete records **3459–3463**: PASS.
+- Duplicate canonical page bodies: none.
+- U+FFFD / unwanted zero-width residue: none.
+- Closings/dates and next-letter start: verified.
+- English translation: not started; remains blocked.

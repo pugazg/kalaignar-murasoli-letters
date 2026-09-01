@@ -35,11 +35,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3456](3456-manitha-neyamum-maasatra-arasiyal-naagarigamum.md) | மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்! | 11-02-2010 | 245 | complete (first-pass-reviewed) |
 | [3457](3457-avanum-siriththaan-naanum-siriththen.md) | அவனும் சிரித்தான்; நானும் சிரித்தேன்! | 12-02-2010 | 249 | complete (first-pass-reviewed) |
 | [3458](3458-pulliyai-thodarndhu-poda-vendiya-kolam.md) | புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்! | 18-02-2010 | 253 | complete (first-pass-reviewed) |
-| 3459 | கரும்பில் அரசியல்! | 19-02-2010 | 256 | pending transcription |
-| 3460 | தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்! | 20-02-2010 | 259 | pending transcription |
-| 3461 | கலையுலக விழாவும்; சிலர் கண்ட கனவும்! | 26-2-2010 | 265 | pending transcription |
-| 3462 | நம் பயணத்திற்குப் பயன்பட! | 28-2-2010 | 270 | pending transcription |
-| 3463 | மாற்றுத் திறனாளிகளும் - மனிதரே! | 2-3-2010 | 273 | pending transcription |
+| [3459](3459-karumbil-arasiyal.md) | கரும்பில் அரசியல்! | 19-02-2010 | 256 | complete (first-pass-reviewed) |
+| [3460](3460-thesiya-aathi-thiravidar-aanaiyamum-dmk-arasum.md) | தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்! | 20-02-2010 | 259 | complete (first-pass-reviewed) |
+| [3461](3461-kalaiyulaga-vizhaavum-silar-kanda-kanavum.md) | கலையுலக விழாவும்; சிலர் கண்ட கனவும்! | 26-2-2010 | 265 | complete (first-pass-reviewed) |
+| [3462](3462-nam-payanathirkup-payanpada.md) | நம் பயணத்திற்குப் பயன்பட! | 28-2-2010 | 270 | complete (first-pass-reviewed) |
+| [3463](3463-maatru-thiranaaligalum-maanidare.md) | மாற்றுத் திறனாளிகளும் - மானிடரே! | 2-3-2010 | 273 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | 3464 | பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன? | 07-03-2010 | 278 | pending transcription |
 | 3465 | நெஞ்சில் மோதும் நினைவலைகள்! | 10-3-2010 | 284 | pending transcription |
 | 3466 | என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா? | 11-03-2010 | 293 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3453: 3430, 3435 and 3438.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3463: 3430, 3435, 3438 and 3463.
