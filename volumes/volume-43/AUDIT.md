@@ -97,4 +97,33 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Completed letters: **16 / 56 — 3428–3443**
 - Partial/source-incomplete: **none**
 
-**Next:** process five complete records **3444–3448**, starting PDF 143, and stop before 3449.
+## Five-record iteration — Letters 3444–3448 — PDF 143–181
+
+**Date:** 2026-09-01  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3444** — PDF **143–148** / printed **142–147** — closes `21-12-2009`
+- **3445** — PDF **149–156** / printed **148–155** — closes `25-12-2009`
+- **3446** — PDF **157–164** / printed **156–163** — closes `26-12-2009`
+- **3447** — PDF **165–172** / printed **164–171** — closes `27-12-2009`
+- **3448** — PDF **173–181** / printed **172–180** — closes `28-12-2009`
+- PDF **182** cleanly begins Letter **3449**.
+
+### Visual/textual checks
+
+- Every PDF page **143–181** is represented once as a canonical page file.
+- Every new page was compared directly with the controlling scan; OCR was only a drafting aid.
+- Physical page boundaries, titles, salutations, closings, dates, historical quotations, English strings, figures and named persons were checked against the scan.
+- OCR-sensitive readings in the classical-language series, including `IITs`, Pāvāṇar's fifteen evidences, `நன்நெறி முருகன்`, `பண்பாட்டுச் செல்வத்துக்கு`, `இலக்கிய இயற்கையடைவு`, and the Dakar University reference, were resolved from the scan.
+- No replacement Unicode or unintended zero-width OCR residue is present in the canonical batch.
+- No English translation was started.
+
+### Durable result
+
+- Canonical Tamil: **PDF 001–181 / 402**
+- Completed letters: **21 / 56 — 3428–3448**
+- Partial/source-incomplete: **none**
+
+**Next:** process five complete records **3449–3453**, starting PDF 182, and stop before 3454.

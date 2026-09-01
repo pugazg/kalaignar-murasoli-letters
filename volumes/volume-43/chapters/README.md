@@ -20,11 +20,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3441](3441-udan-pirappugalil-oruvanaaga-vidukkum-vendukol.md) | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 | complete (first-pass-reviewed) |
 | [3442](3442-sothanaigalai-vendra-kazhaga-arasin-saadhanaigal.md) | சோதனைகளை வென்ற கழக அரசின் சாதனைகள்! | 16-12-2009 | 130 | complete (first-pass-reviewed) |
 | [3443](3443-avargalum-naamum-or-oppidu.md) | அவர்களும் நாமும்; ஓர் ஒப்பீடு! | 20-12-2009 | 137 | complete (first-pass-reviewed) |
-| 3444 | மீண்டும் இதோ; என் அன்பழைப்பு! | 21-12-2009 | 142 | pending transcription |
-| 3445 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1 | 25-12-2009 | 148 | pending transcription |
-| 3446 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு | 26-12-2009 | 156 | pending transcription |
-| 3447 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள் | 27-12-2009 | 164 | pending transcription |
-| 3448 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி! | 28-12-2009 | 172 | pending transcription |
+| [3444](3444-meendum-itho-en-anbazhaippu.md) | மீண்டும் இதோ; என் அன்பழைப்பு! | 21-12-2009 | 142 | complete (first-pass-reviewed) |
+| [3445](3445-semmoli-varalatril-sila-seppedugal-1.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1 | 25-12-2009 | 148 | complete (first-pass-reviewed) |
+| [3446](3446-semmoli-varalatril-sila-seppedugal-2-caldwell-kaattiya-dravida-thanichirappu.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு | 26-12-2009 | 156 | complete (first-pass-reviewed) |
+| [3447](3447-semmoli-varalatril-sila-seppedugal-3-paavanar-kanda-pathinaindhu-saanrugal.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள் | 27-12-2009 | 164 | complete (first-pass-reviewed) |
+| [3448](3448-semmoli-varalatril-sila-seppedugal-4-thonmaikkuth-thonmaiyaai-vaazhum-tholpazhankaala-mozhi.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி! | 28-12-2009 | 172 | complete (first-pass-reviewed) |
 | 3449 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை! | 29-12-2009 | 181 | pending transcription |
 | 3450 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்! | 30-12-2009 | 190 | pending transcription |
 | 3451 | செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு! | 31-12-2009 | 198 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3443: 3430, 3435 and 3438.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3448: 3430, 3435 and 3438.

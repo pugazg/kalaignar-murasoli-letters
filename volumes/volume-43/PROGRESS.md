@@ -66,10 +66,24 @@
 
 PDF 143 cleanly begins Letter 3444.
 
+### Five-record batch — Letters 3444–3448 — PDF 143–181
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3444 | `மீண்டும் இதோ; என் அன்பழைப்பு!` | 143–148 | 142–147 | 21-12-2009 |
+| 3445 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1` | 149–156 | 148–155 | 25-12-2009 |
+| 3446 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு` | 157–164 | 156–163 | 26-12-2009 |
+| 3447 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்` | 165–172 | 164–171 | 27-12-2009 |
+| 3448 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!` | 173–181 | 172–180 | 28-12-2009 |
+
+PDF 182 cleanly begins Letter 3449.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–142 / 402**
-- Completed letters: **16 / 56 — 3428–3443**
+- Canonical page coverage: **PDF 001–181 / 402**
+- Completed letters: **21 / 56 — 3428–3448**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -84,4 +98,4 @@ PDF 143 cleanly begins Letter 3444.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3444–3448**, beginning with **Letter 3444 at PDF 143 / printed page 142**. Verify every actual start/closing/date directly from the scan and stop before Letter 3449. Do not begin English translation.
+Process the next **five complete source records, Letters 3449–3453**, beginning with **Letter 3449 at PDF 182 / printed page 181**. Verify every actual start/closing/date directly from the scan and stop before Letter 3454. Do not begin English translation.
