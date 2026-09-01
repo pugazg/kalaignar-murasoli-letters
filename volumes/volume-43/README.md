@@ -18,19 +18,21 @@
 
 ## Current archival state
 
-- Canonical pages: **PDF 001–314 / 402**
+- Canonical pages: **PDF 001–339 / 402**
 - Printed contents: **registered**
-- Completed letters: **41 / 56 — 3428–3468**
-- Latest completed batch: **3464–3468 / PDF 279–314 — PASS 5/5**
+- Completed letters: **46 / 56 — 3428–3473**
+- Latest completed batch: **3469–3473 / PDF 315–339 — PASS 5/5**
 - Partial/source-incomplete letters: **none**
 - English translation: **blocked pending Tamil transcription and audit gates**
 
 The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032.
 
-Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; Letter 3463 contents prints `மாற்றுத் திறனாளிகளும் - மனிதரே!` while PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`; Letter 3464 contents prints `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?` while PDF 279 prints `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; Letter 3467 contents prints `... நீதியரசர் மகாராஜனுக்கு ...` while PDF 299 prints `... நீதியரசர் மகராஜனுக்கு ...`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.
+Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; Letter 3463 contents prints `மாற்றுத் திறனாளிகளும் - மனிதரே!` while PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`; Letter 3464 contents prints `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?` while PDF 279 prints `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; Letter 3467 contents prints `... நீதியரசர் மகாராஜனுக்கு ...` while PDF 299 prints `... நீதியரசர் மகராஜனுக்கு ...`; Letter 3472 contents prints `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்...` while PDF 326 prints `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; Letter 3473 contents prints `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` while PDF 332 prints `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.
 
 Letter 3467 is a special reproduced handwritten-letter record. The printed contents date cell is blank and remains blank in the contents layer. The record itself states that the reproduced handwritten letter was written on `2-11-1974`, and the final facsimile page visibly carries `2/11/1974`; this record-level date is documented separately without filling the blank contents cell.
 
+Batch **3469–3473** is scan-verified complete at **PDF 315–339 / printed pages 314–338**. PDF **340 / printed 339** cleanly begins Letter **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`**.
+
 ## Exact next activity
 
-Process **Letters 3469–3473** as the next five complete consecutive records, starting with Letter 3469 at **PDF 315 / printed page 314**. Verify all boundaries directly from the scan and stop before Letter 3474. Do not begin English translation.
+Process **Letters 3474–3478** as the next five complete consecutive records, starting with Letter 3474 at **PDF 340 / printed page 339**. PDF 340 has already been visually confirmed to begin `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`. Verify all remaining boundaries directly from the scan and stop before Letter 3479. Do not begin English translation.

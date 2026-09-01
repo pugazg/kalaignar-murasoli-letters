@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **314 / 402 — PDF 001–314 first-pass reviewed** | **41 / 56 — 3428–3468 complete** | **blocked pending Tamil gates** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **339 / 402 — PDF 001–339 first-pass reviewed** | **46 / 56 — 3428–3473 complete** | **blocked pending Tamil gates** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -38,8 +38,8 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Publication details state **400 printed pages**; the source PDF has **402 physical PDF pages**.
 - Date span: **01.11.2009–17.07.2010**.
 - Printed contents PDF **018–022** enumerate **56 records, 3428–3483**.
-- Canonical coverage: **PDF 001–314 / 402**.
-- Completed letters: **41 / 56 — 3428–3468**.
+- Canonical coverage: **PDF 001–339 / 402**.
+- Completed letters: **46 / 56 — 3428–3473**.
 - Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is complete at **PDF 024–032 / printed pages 23–31**.
 - Batch **3429–3433** is complete at **PDF 033–069 / printed pages 32–68**.
 - Batch **3434–3438** is complete at **PDF 070–103 / printed pages 69–102**.
@@ -49,10 +49,12 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Batch **3454–3458** is complete at **PDF 235–256 / printed pages 234–255**, with every closing/date boundary verified directly from the scan.
 - Batch **3459–3463** is complete at **PDF 257–278 / printed pages 256–277**, with every closing/date boundary verified directly from the scan.
 - Batch **3464–3468** is complete at **PDF 279–314 / printed pages 278–313**, with every source-record boundary verified directly from the scan.
-- Source-layer title discrepancies are documented for Letters **3430, 3435, 3438, 3463, 3464 and 3467**; printed contents wording is preserved verbatim while canonical page/chapter metadata follows the actual letter-start scan.
+- Batch **3469–3473** is complete at **PDF 315–339 / printed pages 314–338**, with every source-record boundary verified directly from the scan.
+- Source-layer title discrepancies are documented for Letters **3430, 3435, 3438, 3463, 3464, 3467, 3472 and 3473**; printed contents wording is preserved verbatim while canonical page/chapter metadata follows the actual letter-start scan.
 - Letter **3467** is a special reproduced 1974 handwritten-letter record: the printed contents date cell is blank and remains blank in `contents/index.md`; the reproduced handwritten letter itself is visibly dated **2/11/1974**.
-- PDF **315 / printed page 314** cleanly begins Letter **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`** and is outside the completed batch.
-- Exact next activity: normal five-record batch **3469–3473**, starting at **PDF 315** and stopping before Letter 3474.
+- Letters **3472–3473** add source-layer title discrepancies: printed contents uses long `ஓய்யாரக்...`; the actual letter starts use short `ஒய்யாரக்...`.
+- PDF **340 / printed page 339** cleanly begins Letter **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`** and is outside the completed batch.
+- Exact next activity: normal five-record batch **3474–3478**, starting at **PDF 340** and stopping before Letter 3479.
 
 English translation remains blocked until Tamil transcription and mandatory audit gates are complete.
 

@@ -45,11 +45,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3466](3466-ennai-magizhvikka-chennaiyukku-varuvaaya.md) | என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா? | 11-03-2010 | 293 | complete (first-pass-reviewed) |
 | [3467](3467-36-aandugalukku-mun-mudhalvar-kalaignar-neethiyarasar-magarajanukku-ezhuthiya-kaditham.md) | 36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்! | 2/11/1974 (facsimile; contents blank) | 298 | complete (first-pass-reviewed); actual title differs from printed contents |
 | [3468](3468-eththanai-naalthaan-emaatruvaar-indha-naattile.md) | எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே? | 12-05-2010 | 303 | complete (first-pass-reviewed) |
-| 3469 | பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை! | 13-05-2010 | 314 | pending transcription |
-| 3470 | சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ? | 18-5-2010 | 316 | pending transcription |
-| 3471 | கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்! | 26-5-2010 | 322 | pending transcription |
-| 3472 | ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... | 30-5-2010 | 325 | pending transcription |
-| 3473 | ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2) | 31-5-2010 | 331 | pending transcription |
+| [3469](3469-panneer-payanpaduthiya-payanilaa-vaarthai.md) | பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை! | 13-05-2010 | 314 | complete (first-pass-reviewed) |
+| [3470](3470-siruthaavoor-seemaattikku-seetram-eno.md) | சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ? | 18-5-2010 | 316 | complete (first-pass-reviewed) |
+| [3471](3471-kovai-maanaadu-kuraiyum-niraiyum-vilakkum-kaditham.md) | கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்! | 26-5-2010 | 322 | complete (first-pass-reviewed) |
+| [3472](3472-oyyaarak-kondaiyaam-thaazhampoovaam.md) | ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... | 30-5-2010 | 325 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3473](3473-oyyaarak-kondaiyaam-thaazhampoovaam-2.md) | ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2) | 31-5-2010 | 331 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | 3474 | ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3 | 02-06-2010 | 339 | pending transcription |
 | 3475 | வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக! | 16-6-2010 | 347 | pending transcription |
 | 3476 | நஞ்சை எண்ணாதே; நம்பிக் கெடாதே! | 17-6-2010 | 353 | pending transcription |
@@ -61,6 +61,8 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3468: 3430, 3435, 3438, 3463, 3464 and 3467.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3473: 3430, 3435, 3438, 3463, 3464, 3467, 3472 and 3473.
+
+> The actual starts of Letters 3472 and 3473 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. PDF 340 also visibly starts Letter 3474 with short `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; Letter 3474 remains pending for the next batch.
 
 > Letter 3467 is a reproduced handwritten-letter record. Its printed-contents date cell remains blank, while the reproduced handwritten letter itself is documented at record level as dated `2/11/1974`.

@@ -259,3 +259,50 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Canonical Tamil/source-page representation: **PDF 001–314 / 402**
 - Completed source records: **41 / 56 — 3428–3468**
 - Partial/source-incomplete records: **none**
+
+## Five-record iteration — Letters 3469–3473 — PDF 315–339
+
+**Date:** 2026-09-02  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3469** — PDF **315–316** / printed **314–315** — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!` — closes `13-05-2010`.
+- **3470** — PDF **317–322** / printed **316–321** — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?` — closes `18-5-2010`.
+- **3471** — PDF **323–325** / printed **322–324** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!` — closes `26-5-2010`.
+- **3472** — PDF **326–331** / printed **325–330** — actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...` — closes `30-5-2010`.
+- **3473** — PDF **332–339** / printed **331–338** — actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` — closes `31-5-2010`.
+- PDF **340 / printed 339** cleanly begins Letter **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`**.
+
+### Visual/textual checks
+
+- Every PDF page **315–339** was directly inspected against the controlling scan; OCR was used only as a drafting/discrepancy aid.
+- Physical page boundaries and visible continuations were preserved.
+- Titles, salutations, closings, dates, names, legal/statutory references, figures and quoted material were checked against the scan.
+- Letter 3470 preserves the source Tamil dramatic dialogue, bibliographic note and the English *Silappathikaram* translation passage as printed, including source line breaks such as `deter` / `mined` without inserting a hyphen.
+- Letters 3472–3473 preserve the source's legal chronology, election-law references, quoted newspaper passages and historical dates without outside correction.
+
+### Source-layer notes
+
+- **3472:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; actual PDF 326 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`.
+- **3473:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; actual PDF 332 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`.
+- The verified next start at PDF 340 also uses short `ஒய்யாரக்...` for Letter 3474; the pending printed-contents row remains verbatim.
+
+### Precommit checks
+
+- New page-file continuity **315–339** and cumulative continuity through **339**: PASS.
+- Exactly five complete source records **3469–3473**: PASS.
+- No part of Letter 3474 included: PASS.
+- Duplicate new canonical page bodies: none.
+- U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue: none.
+- Chapter page-link sequences and start/end metadata: PASS.
+- Title/date/source-layer fidelity: PASS.
+- Figures/numbers, quotations and source English strings: checked directly against the scan.
+- Verified next-letter start: PDF **340**, Letter **3474**.
+- English translation: not started; remains blocked pending Tamil gates.
+
+### Durable result
+
+- Canonical Tamil/source-page representation: **PDF 001–339 / 402**
+- Completed source records: **46 / 56 — 3428–3473**
+- Partial/source-incomplete records: **none**

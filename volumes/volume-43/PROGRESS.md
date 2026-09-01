@@ -136,10 +136,24 @@ PDF 279 cleanly begins Letter 3464.
 
 PDF 315 cleanly begins Letter 3469.
 
+### Five-record batch — Letters 3469–3473 — PDF 315–339
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3469 | `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!` | 315–316 | 314–315 | 13-05-2010 |
+| 3470 | `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?` | 317–322 | 316–321 | 18-5-2010 |
+| 3471 | `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!` | 323–325 | 322–324 | 26-5-2010 |
+| 3472 | `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...` | 326–331 | 325–330 | 30-5-2010 |
+| 3473 | `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` | 332–339 | 331–338 | 31-5-2010 |
+
+PDF 340 cleanly begins Letter 3474 with actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–314 / 402**
-- Completed letters: **41 / 56 — 3428–3468**
+- Canonical page coverage: **PDF 001–339 / 402**
+- Completed letters: **46 / 56 — 3428–3473**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -155,7 +169,9 @@ PDF 315 cleanly begins Letter 3469.
 - Letter 3464 printed contents says `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`, while actual PDF 279 prints `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
 - Letter 3467 printed contents uses `மகாராஜனுக்கு`, while actual PDF 299 uses `மகராஜனுக்கு`; the contents date cell is blank. Its reproduced handwritten letter is separately dated `2/11/1974` in the facsimile.
 - Letter 3467 facsimile pages are represented as facsimile source pages rather than silently normalizing uncertain handwriting into typeset text.
+- Letter 3472 printed contents uses `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்...`, while actual PDF 326 uses `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`.
+- Letter 3473 printed contents uses `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`, while actual PDF 332 uses `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3469–3473**, beginning with **Letter 3469 at PDF 315 / printed page 314**. Verify every actual closing/date boundary directly from the scan and stop before Letter 3474. Do not begin English translation.
+Process the next **five complete source records, Letters 3474–3478**, beginning with **Letter 3474 at PDF 340 / printed page 339**. PDF 340 already confirms the actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`. Verify every closing/date boundary directly from the scan and stop before Letter 3479. Do not begin English translation.
