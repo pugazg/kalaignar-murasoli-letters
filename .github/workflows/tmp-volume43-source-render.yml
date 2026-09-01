@@ -27,7 +27,7 @@ jobs:
           git checkout --detach origin/main
           python3 - <<'PY'
           from pathlib import Path
-          import re, subprocess
+          import re
 
           root = Path('.')
           raw = Path('/tmp/volume43-ocr.txt').read_text(encoding='utf-8')
@@ -52,8 +52,8 @@ jobs:
             258:[('சாக்கரை','சர்க்கரை'),('அலலது','அல்லது'),('நாணயிக்கப்படுகிற','நிர்ணயிக்கப்படுகிற'),('காநாடகம்','கர்நாடகம்'),('000 கோடி','7,000 கோடி'),('நடைமுறைப்படுத\nதியதை','நடைமுறைப்படுத்தியதை'),('கூட்டுறவுப் பயிர்கள்\nகடன்','கூட்டுறவுப் பயிர்க்\nகடன்')],
             259:[('2006-2007 gb ஆண்டு','2006-2007ஆம் ஆண்டு')],
             260:[('3460. தேசிய OLS திராவிடர் ஒடணையமும்,','3460. தேசிய ஆதி திராவிடர் ஆணையமும்,'),('உணாவினை','உணர்வினை'),('தேசிய ஆதி திராவிடா நல','தேசிய ஆதி திராவிடர் நல'),('பேராசிரியா\nஎன்.','பேராசிரியர்\nஎன்.'),('செய்தியாளா்களிடம்','செய்தியாளர்களிடம்'),('(3-2-2010)','(18-2-2010)')],
-            261:[('அருந்ததியாக்கு','அருந்ததியருக்கு')],
-            262:[('நான மருத்துவமனையில்','நான் மருத்துவமனையில்'),('கூட்டத்தில கலந்து','கூட்டத்தில் கலந்து'),('கூட்டத்திலே','கூட்டத்திலே'),('எனறு','என்று'),('பேரூராட் சிகளிலும்','பேரூராட்சிகளிலும்'),('மனிதர்கள்: இறங்கக்','மனிதர்கள் இறங்கக்')],
+            261:[('அருந்ததியாக்கு','அருந்ததியருக்கு'),('நான மருத்துவமனையில்','நான் மருத்துவமனையில்')],
+            262:[('கூட்டத்தில கலந்து','கூட்டத்தில் கலந்து'),('எனறு','என்று'),('பேரூராட் சிகளிலும்','பேரூராட்சிகளிலும்'),('மனிதர்கள்: இறங்கக்','மனிதர்கள் இறங்கக்')],
             263:[('திரு.காம்ப்ேளே','திரு.காம்ப்ளே')],
             264:[('1911ஆம் ஆண்டில்','1971ஆம் ஆண்டில்'),('வழிகை செய்ததும்','வழி செய்ததும்'),('ஆதிதிராவிடாகளுக்கும்','ஆதிதிராவிடர்களுக்கும்'),('திட்டத்திலிருநது','திட்டத்திலிருந்து')],
             265:[('வாழந்து','வாழ்ந்து'),('கலப்புத் னனதிருமண','கலப்புத் திருமண'),('மண மக்களில்','மணமக்களில்'),('ரூபாய் S67','ரூபாய் 567'),('அக்கறை யில்லாத','அக்கறையில்லாத'),('ஆணை யத்தின்','ஆணையத்தின்')],
@@ -74,16 +74,13 @@ jobs:
 
           def clean_page(p, text):
               text = text.replace('\u200c','')
-              # Remove running heads / printed page folios; canonical page records omit them.
               lines = text.splitlines()
               if lines and (re.match(r'^தலைவர்\s+கலைஞ', lines[0]) or re.match(r'^\d+\s+கலைஞரின்\s+கடிதங்கள்', lines[0])):
                   lines = lines[1:]
               text='\n'.join(lines).strip('\n')
               for a,b in repl.get(p,[]):
-                  if a not in text:
-                      print(f'WARN replacement missing p{p}: {a!r}')
+                  assert a in text, f'missing correction p{p}: {a!r}'
                   text=text.replace(a,b)
-              # OCR page-border residue only; do not normalize source punctuation otherwise.
               text=re.sub(r'[ \t]+\|(?=\n|$)','',text)
               text=re.sub(r'^\|\s*$','',text,flags=re.M)
               text=re.sub(r'\n{3,}','\n\n',text)
@@ -94,144 +91,79 @@ jobs:
           for p in range(257,279):
               num,date,title=page_to_letter[p]
               body=clean_page(p,blocks[p])
-              # Canonical actual-title correction for Letter 3463; contents layer stays verbatim.
-              if p==274:
-                  body=body.replace('3463. மாற்றுத் திறனாளிகளும் - மானிடரே!','3463. மாற்றுத் திறனாளிகளும் - மானிடரே!')
               fm=(f'---\nvolume: 43\npdf_page: {p}\nprinted_page: {p-1}\nsection: "letter"\n'
                   f'transcription_status: "first-pass-reviewed"\nletter_number: {num}\nletter_date: "{date}"\n'
                   f'letter_title: "{title}"\n---\n\n')
               (pages_dir/f'page-{p}.md').write_text(fm+body,encoding='utf-8')
 
-          # Chapter files.
-          slugs={
-            3459:'3459-karumbil-arasiyal.md',
-            3460:'3460-thesiya-aathi-thiravidar-aanaiyamum-dmk-arasum.md',
-            3461:'3461-kalaiyulaga-vizhaavum-silar-kanda-kanavum.md',
-            3462:'3462-nam-payanathirkup-payanpada.md',
-            3463:'3463-maatru-thiranaaligalum-maanidare.md',
-          }
+          slugs={3459:'3459-karumbil-arasiyal.md',3460:'3460-thesiya-aathi-thiravidar-aanaiyamum-dmk-arasum.md',3461:'3461-kalaiyulaga-vizhaavum-silar-kanda-kanavum.md',3462:'3462-nam-payanathirkup-payanpada.md',3463:'3463-maatru-thiranaaligalum-maanidare.md'}
           chdir=root/'volumes/volume-43/chapters'
           for num,(ps,pe,prs,pre,date,title,printed_date) in ranges.items():
               seq='\n'.join(f'{i}. [PDF பக்கம் {p} / அச்சுப் பக்கம் {p-1}](../pages/page-{p}.md)' for i,p in enumerate(range(ps,pe+1),1))
-              prev=num-1
-              nxt=num+1
-              prev_rng = 'PDF 254–256' if num==3459 else f'PDF {ranges[prev][0]}–{ranges[prev][1]}'
-              nxt_text = f'{nxt} — PDF {ranges[nxt][0]}' if nxt in ranges else '3464 — PDF 279 / அச்சுப் பக்கம் 278'
-              content=(f'---\nvolume: 43\nletter_number: {num}\ntitle: "{title}"\ndate: {date}\n'
-                       f'printed_page_start: {prs}\nprinted_page_end: {pre}\npdf_page_start: {ps}\npdf_page_end: {pe}\n'
-                       f'transcription_status: "first-pass-reviewed"\n---\n\n# {num}. {title}\n\n'
-                       f'**விளிப்பு:** உடன்பிறப்பே  \n**கையொப்பம்:** அன்புள்ள, மு.க.  \n**தேதி (மூல அச்சு):** {printed_date}\n\n'
-                       f'## பக்க வரிசை\n\n{seq}\n\nCanonical உரை மேலுள்ள பக்கக் கோப்புகளில் உள்ளது; பக்க எல்லைகள் இழக்கப்படாத வகையில் இங்கு உரை நகலெடுக்கப்படவில்லை.\n\n'
-                       f'**முந்தைய பதிவு:** {prev} — {prev_rng}.  \n**அடுத்த பதிவு:** {nxt_text}.\n')
+              prev=num-1; nxt=num+1
+              prev_rng='PDF 254–256' if num==3459 else f'PDF {ranges[prev][0]}–{ranges[prev][1]}'
+              nxt_text=f'{nxt} — PDF {ranges[nxt][0]}' if nxt in ranges else '3464 — PDF 279 / அச்சுப் பக்கம் 278'
+              content=(f'---\nvolume: 43\nletter_number: {num}\ntitle: "{title}"\ndate: {date}\nprinted_page_start: {prs}\nprinted_page_end: {pre}\npdf_page_start: {ps}\npdf_page_end: {pe}\ntranscription_status: "first-pass-reviewed"\n---\n\n# {num}. {title}\n\n'
+                       f'**விளிப்பு:** உடன்பிறப்பே\n**கையொப்பம்:** அன்புள்ள, மு.க.\n**தேதி (மூல அச்சு):** {printed_date}\n\n## பக்க வரிசை\n\n{seq}\n\nCanonical உரை மேலுள்ள பக்கக் கோப்புகளில் உள்ளது; பக்க எல்லைகள் இழக்கப்படாத வகையில் இங்கு உரை நகலெடுக்கப்படவில்லை.\n\n'
+                       f'**முந்தைய பதிவு:** {prev} — {prev_rng}.\n**அடுத்த பதிவு:** {nxt_text}.\n')
               (chdir/slugs[num]).write_text(content,encoding='utf-8')
 
-          # Chapter register: preserve printed contents separately, but use actual scan title for 3463.
           p=chdir/'README.md'; s=p.read_text(encoding='utf-8')
-          old_rows={
-            3459:'| 3459 | கரும்பில் அரசியல்! | 19-02-2010 | 256 | pending transcription |',
-            3460:'| 3460 | தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்! | 20-02-2010 | 259 | pending transcription |',
-            3461:'| 3461 | கலையுலக விழாவும்; சிலர் கண்ட கனவும்! | 26-2-2010 | 265 | pending transcription |',
-            3462:'| 3462 | நம் பயணத்திற்குப் பயன்பட! | 28-2-2010 | 270 | pending transcription |',
-            3463:'| 3463 | மாற்றுத் திறனாளிகளும் - மனிதரே! | 2-3-2010 | 273 | pending transcription |',
-          }
+          old_rows={3459:'| 3459 | கரும்பில் அரசியல்! | 19-02-2010 | 256 | pending transcription |',3460:'| 3460 | தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்! | 20-02-2010 | 259 | pending transcription |',3461:'| 3461 | கலையுலக விழாவும்; சிலர் கண்ட கனவும்! | 26-2-2010 | 265 | pending transcription |',3462:'| 3462 | நம் பயணத்திற்குப் பயன்பட! | 28-2-2010 | 270 | pending transcription |',3463:'| 3463 | மாற்றுத் திறனாளிகளும் - மனிதரே! | 2-3-2010 | 273 | pending transcription |'}
           new_titles={3459:'கரும்பில் அரசியல்!',3460:'தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!',3461:'கலையுலக விழாவும்; சிலர் கண்ட கனவும்!',3462:'நம் பயணத்திற்குப் பயன்பட!',3463:'மாற்றுத் திறனாளிகளும் - மானிடரே!'}
-          dates={3459:'19-02-2010',3460:'20-02-2010',3461:'26-2-2010',3462:'28-2-2010',3463:'2-3-2010'}
-          prints={3459:256,3460:259,3461:265,3462:270,3463:273}
+          dates={3459:'19-02-2010',3460:'20-02-2010',3461:'26-2-2010',3462:'28-2-2010',3463:'2-3-2010'}; prints={3459:256,3460:259,3461:265,3462:270,3463:273}
           for n,old in old_rows.items():
               assert old in s, (n,'chapter row')
               note='; actual letter title differs from printed contents' if n==3463 else ''
-              new=f'| [{n}]({slugs[n]}) | {new_titles[n]} | {dates[n]} | {prints[n]} | complete (first-pass-reviewed){note} |'
-              s=s.replace(old,new)
+              s=s.replace(old,f'| [{n}]({slugs[n]}) | {new_titles[n]} | {dates[n]} | {prints[n]} | complete (first-pass-reviewed){note} |')
           s=s.replace('Documented discrepancies through Letter 3453: 3430, 3435 and 3438.','Documented discrepancies through Letter 3463: 3430, 3435, 3438 and 3463.')
           p.write_text(s,encoding='utf-8')
 
-          # Printed contents table remains verbatim; only verification note advances.
           p=root/'volumes/volume-43/contents/index.md'; s=p.read_text(encoding='utf-8')
-          s=s.replace('> **Boundary/title verification through Letter 3458:** Letters 3428–3458 have been checked against their actual letter-start and closing pages.',
-                      '> **Boundary/title verification through Letter 3463:** Letters 3428–3463 have been checked against their actual letter-start and closing pages.')
-          s=s.replace('Actual-letter-title discrepancies are documented separately for 3430, 3435 and 3438;',
-                      'Actual-letter-title discrepancies are documented separately for 3430, 3435, 3438 and 3463;')
+          s=s.replace('> **Boundary/title verification through Letter 3458:** Letters 3428–3458 have been checked against their actual letter-start and closing pages.','> **Boundary/title verification through Letter 3463:** Letters 3428–3463 have been checked against their actual letter-start and closing pages.')
+          s=s.replace('Actual-letter-title discrepancies are documented separately for 3430, 3435 and 3438;','Actual-letter-title discrepancies are documented separately for 3430, 3435, 3438 and 3463;')
           p.write_text(s,encoding='utf-8')
 
-          # Metadata.
           p=root/'volumes/volume-43/metadata.yml'; s=p.read_text(encoding='utf-8')
-          for a,b in [
-            ('boundaries scan-verified through 3458','boundaries scan-verified through 3463'),
-            ('transcription_page_range: "1-256"','transcription_page_range: "1-278"'),
-            ('recorded_letter_range: "3428-3458"','recorded_letter_range: "3428-3463"'),
-            ('completed_letter_range: "3428-3458"','completed_letter_range: "3428-3463"'),
-            ('completed_letter_count: 31','completed_letter_count: 36'),
-            ('audit_status: "through-letter-3458-pass"','audit_status: "through-letter-3463-pass"'),
-            ('  - "Letter 3459 begins at PDF 257 / printed page 256 and is the exact next source record."',
-             '  - "Letters 3459–3463 are scan-verified complete at PDF 257–278 / printed pages 256–277."\n  - "Letter 3463 printed contents title `மாற்றுத் திறனாளிகளும் - மனிதரே!` differs from actual PDF 274 title `மாற்றுத் திறனாளிகளும் - மானிடரே!`; each source layer is preserved independently."\n  - "Letter 3464 begins at PDF 279 / printed page 278 and is the exact next source record."'),
-          ]:
-              assert a in s, a
-              s=s.replace(a,b)
+          changes=[('boundaries scan-verified through 3458','boundaries scan-verified through 3463'),('transcription_page_range: "1-256"','transcription_page_range: "1-278"'),('recorded_letter_range: "3428-3458"','recorded_letter_range: "3428-3463"'),('completed_letter_range: "3428-3458"','completed_letter_range: "3428-3463"'),('completed_letter_count: 31','completed_letter_count: 36'),('audit_status: "through-letter-3458-pass"','audit_status: "through-letter-3463-pass"'),('  - "Letter 3459 begins at PDF 257 / printed page 256 and is the exact next source record."','  - "Letters 3459–3463 are scan-verified complete at PDF 257–278 / printed pages 256–277."\n  - "Letter 3463 printed contents title `மாற்றுத் திறனாளிகளும் - மனிதரே!` differs from actual PDF 274 title `மாற்றுத் திறனாளிகளும் - மானிடரே!`; each source layer is preserved independently."\n  - "Letter 3464 begins at PDF 279 / printed page 278 and is the exact next source record."')]
+          for a,b in changes: assert a in s,a; s=s.replace(a,b)
           p.write_text(s,encoding='utf-8')
 
           batch='''\n### Five-record batch — Letters 3459–3463 — PDF 257–278\n\n**PASS — 5/5 complete records**\n\n| Letter | Scan-confirmed title | PDF | Printed | Date |\n|---:|---|---:|---:|---|\n| 3459 | `கரும்பில் அரசியல்!` | 257–259 | 256–258 | 19-02-2010 |\n| 3460 | `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!` | 260–265 | 259–264 | 20-02-2010 |\n| 3461 | `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!` | 266–270 | 265–269 | 26-2-2010 |\n| 3462 | `நம் பயணத்திற்குப் பயன்பட!` | 271–273 | 270–272 | 28-2-2010 |\n| 3463 | `மாற்றுத் திறனாளிகளும் - மானிடரே!` | 274–278 | 273–277 | 2-3-2010 |\n\nPDF 279 cleanly begins Letter 3464.\n'''
-
-          # Progress: insert batch before current boundary, advance summaries and next activity.
-          p=root/'volumes/volume-43/PROGRESS.md'; s=p.read_text(encoding='utf-8')
-          marker='\n## Current durable boundary\n'
-          assert marker in s
-          s=s.replace(marker,batch+marker,1)
-          s=s.replace('- Canonical page coverage: **PDF 001–256 / 402**','- Canonical page coverage: **PDF 001–278 / 402**')
-          s=s.replace('- Completed letters: **31 / 56 — 3428–3458**','- Completed letters: **36 / 56 — 3428–3463**')
+          p=root/'volumes/volume-43/PROGRESS.md'; s=p.read_text(encoding='utf-8'); marker='\n## Current durable boundary\n'; assert marker in s
+          s=s.replace(marker,batch+marker,1).replace('- Canonical page coverage: **PDF 001–256 / 402**','- Canonical page coverage: **PDF 001–278 / 402**').replace('- Completed letters: **31 / 56 — 3428–3458**','- Completed letters: **36 / 56 — 3428–3463**')
           s=s.replace('- Letter 3438 printed contents says `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`, while actual PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.','- Letter 3438 printed contents says `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`, while actual PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.\n- Letter 3463 printed contents says `மாற்றுத் திறனாளிகளும் - மனிதரே!`, while actual PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`.')
-          s=re.sub(r'## Exact next activity\n\n.*?\Z','## Exact next activity\n\nProcess the next **five complete source records, Letters 3464–3468**, beginning with **Letter 3464 at PDF 279 / printed page 278**. Verify every actual closing/date boundary directly from the scan and stop before Letter 3469. Do not begin English translation.\n',s,flags=re.S)
-          p.write_text(s,encoding='utf-8')
+          s=re.sub(r'## Exact next activity\n\n.*?\Z','## Exact next activity\n\nProcess the next **five complete source records, Letters 3464–3468**, beginning with **Letter 3464 at PDF 279 / printed page 278**. Verify every actual closing/date boundary directly from the scan and stop before Letter 3469. Do not begin English translation.\n',s,flags=re.S); p.write_text(s,encoding='utf-8')
 
-          # Audit: append durable audit entry and advance any live-summary phrases.
-          p=root/'volumes/volume-43/AUDIT.md'; s=p.read_text(encoding='utf-8')
-          s=s.replace('**31 / 56 — 3428–3458**','**36 / 56 — 3428–3463**')
-          s=s.replace('**PDF 001–256 / 402**','**PDF 001–278 / 402**')
-          audit='''\n## Five-record iteration — Letters 3459–3463 — PDF 257–278\n\n**Date:** 2026-09-01  \n**Result:** **PASS**\n\n### Verified boundaries\n\n- **3459** — PDF **257–259** / printed **256–258** — closes `19-02-2010`\n- **3460** — PDF **260–265** / printed **259–264** — closes `20-02-2010`\n- **3461** — PDF **266–270** / printed **265–269** — closes `26-2-2010`\n- **3462** — PDF **271–273** / printed **270–272** — closes `28-2-2010`\n- **3463** — PDF **274–278** / printed **273–277** — closes `2-3-2010`\n- PDF **279** cleanly begins Letter **3464**.\n\n### Source-layer note\n\n- Printed contents Letter **3463** reads `மாற்றுத் திறனாளிகளும் - மனிதரே!`; the actual Letter 3463 start at PDF 274 reads `மாற்றுத் திறனாளிகளும் - மானிடரே!`. The two source layers remain independent.\n\n### Precommit checks\n\n- PDF page continuity through **278**: PASS.\n- Exactly five complete records **3459–3463**: PASS.\n- Duplicate canonical page bodies: none.\n- U+FFFD / unwanted zero-width residue: none.\n- Closings/dates and next-letter start: verified.\n- English translation: not started; remains blocked.\n'''
-          s=s.rstrip()+audit+'\n'
-          p.write_text(s,encoding='utf-8')
+          p=root/'volumes/volume-43/AUDIT.md'; s=p.read_text(encoding='utf-8').replace('**31 / 56 — 3428–3458**','**36 / 56 — 3428–3463**').replace('**PDF 001–256 / 402**','**PDF 001–278 / 402**')
+          audit='''\n## Five-record iteration — Letters 3459–3463 — PDF 257–278\n\n**Date:** 2026-09-01\n**Result:** **PASS**\n\n### Verified boundaries\n\n- **3459** — PDF **257–259** / printed **256–258** — closes `19-02-2010`\n- **3460** — PDF **260–265** / printed **259–264** — closes `20-02-2010`\n- **3461** — PDF **266–270** / printed **265–269** — closes `26-2-2010`\n- **3462** — PDF **271–273** / printed **270–272** — closes `28-2-2010`\n- **3463** — PDF **274–278** / printed **273–277** — closes `2-3-2010`\n- PDF **279** cleanly begins Letter **3464**.\n\n### Source-layer note\n\n- Printed contents Letter **3463** reads `மாற்றுத் திறனாளிகளும் - மனிதரே!`; the actual Letter 3463 start at PDF 274 reads `மாற்றுத் திறனாளிகளும் - மானிடரே!`. The two source layers remain independent.\n\n### Precommit checks\n\n- PDF page continuity through **278**: PASS.\n- Exactly five complete records **3459–3463**: PASS.\n- Duplicate canonical page bodies: none.\n- U+FFFD / unwanted zero-width residue: none.\n- Closings/dates and next-letter start: verified.\n- English translation: not started; remains blocked.\n'''
+          s=s.rstrip()+'\n'+audit.strip()+'\n'; p.write_text(s,encoding='utf-8')
 
-          # Volume README: targeted durable-summary replacements and append batch note if absent.
-          p=root/'volumes/volume-43/README.md'; s=p.read_text(encoding='utf-8')
-          s=s.replace('PDF 001–256 / 402','PDF 001–278 / 402')
-          s=s.replace('31 / 56 — 3428–3458','36 / 56 — 3428–3463')
+          p=root/'volumes/volume-43/README.md'; s=p.read_text(encoding='utf-8').replace('PDF 001–256 / 402','PDF 001–278 / 402').replace('31 / 56 — 3428–3458','36 / 56 — 3428–3463')
           s=s.replace('Letters 3454–3458 are scan-verified complete at PDF 235–256 / printed pages 234–255.','Letters 3454–3458 are scan-verified complete at PDF 235–256 / printed pages 234–255.\n- Letters **3459–3463** are scan-verified complete at **PDF 257–278 / printed pages 256–277**.\n- Letter **3463** has a source-layer title discrepancy: contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.')
-          s=s.replace('PDF 257 / printed page 256 begins Letter 3459','PDF 279 / printed page 278 begins Letter 3464')
-          s=s.replace('3459–3463','3464–3468') if False else s
-          p.write_text(s,encoding='utf-8')
+          s=s.replace('PDF 257 / printed page 256 begins Letter 3459','PDF 279 / printed page 278 begins Letter 3464'); p.write_text(s,encoding='utf-8')
 
-          # Root README row/status.
           p=root/'README.md'; s=p.read_text(encoding='utf-8')
-          s=s.replace('| 43 | 01.11.2009–17.07.2010 | 402 | **256 / 402 — PDF 001–256 first-pass reviewed** | **31 / 56 — 3428–3458 complete** | **blocked pending Tamil gates** |',
-                      '| 43 | 01.11.2009–17.07.2010 | 402 | **278 / 402 — PDF 001–278 first-pass reviewed** | **36 / 56 — 3428–3463 complete** | **blocked pending Tamil gates** |')
-          s=s.replace('Canonical coverage: **PDF 001–256 / 402**','Canonical coverage: **PDF 001–278 / 402**')
-          s=s.replace('Completed letters: **31 / 56 — 3428–3458**','Completed letters: **36 / 56 — 3428–3463**')
-          s=s.replace('PDF **257 / printed page 256** begins Letter **3459**','PDF **279 / printed page 278** begins Letter **3464**')
-          p.write_text(s,encoding='utf-8')
+          s=s.replace('| 43 | 01.11.2009–17.07.2010 | 402 | **256 / 402 — PDF 001–256 first-pass reviewed** | **31 / 56 — 3428–3458 complete** | **blocked pending Tamil gates** |','| 43 | 01.11.2009–17.07.2010 | 402 | **278 / 402 — PDF 001–278 first-pass reviewed** | **36 / 56 — 3428–3463 complete** | **blocked pending Tamil gates** |')
+          s=s.replace('Canonical coverage: **PDF 001–256 / 402**','Canonical coverage: **PDF 001–278 / 402**').replace('Completed letters: **31 / 56 — 3428–3458**','Completed letters: **36 / 56 — 3428–3463**').replace('PDF **257 / printed page 256** begins Letter **3459**','PDF **279 / printed page 278** begins Letter **3464**'); p.write_text(s,encoding='utf-8')
 
-          # Handover and next-chat controls: advance only durable/current boundary language.
           for fn in ['PROJECT_HANDOVER.md','NEXT_CHAT_PROMPT.md']:
               p=root/fn; s=p.read_text(encoding='utf-8')
-              s=s.replace('PDF 001–256 / 402','PDF 001–278 / 402')
-              s=s.replace('31 / 56 — 3428–3458','36 / 56 — 3428–3463')
-              s=s.replace('Completed Tamil letters: **31 / 56 — 3428–3458**','Completed Tamil letters: **36 / 56 — 3428–3463**')
-              s=s.replace('Canonical Tamil pages: **PDF 001–256 / 402**','Canonical Tamil pages: **PDF 001–278 / 402**')
+              s=s.replace('PDF 001–256 / 402','PDF 001–278 / 402').replace('31 / 56 — 3428–3458','36 / 56 — 3428–3463')
+              s=s.replace('Completed Tamil letters: **31 / 56 — 3428–3458**','Completed Tamil letters: **36 / 56 — 3428–3463**').replace('Canonical Tamil pages: **PDF 001–256 / 402**','Canonical Tamil pages: **PDF 001–278 / 402**')
               s=s.replace('PDF **257 / printed page 256** begins Letter **3459 — `கரும்பில் அரசியல்!`**.','PDF **279 / printed page 278** begins Letter **3464 — `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`**.')
               s=s.replace('Transcribe the next **five complete Volume 43 source records, Letters 3459–3463**, beginning with Letter 3459 at **PDF 257 / printed page 256**.','Transcribe the next **five complete Volume 43 source records, Letters 3464–3468**, beginning with Letter 3464 at **PDF 279 / printed page 278**.')
               s=s.replace('process exactly five complete consecutive letters and stop before Letter 3464','process exactly five complete consecutive letters and stop before Letter 3469')
               s=s.replace('Letters 3454–3458 are scan-verified complete at PDF 235–256 / printed pages 234–255.','Letters 3454–3458 are scan-verified complete at PDF 235–256 / printed pages 234–255.\n- Letters 3459–3463 are scan-verified complete at PDF 257–278 / printed pages 256–277.\n- Letter 3463 contents/actual-title discrepancy is preserved: contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.')
               p.write_text(s,encoding='utf-8')
 
-          # Validation: exact page inventory, metadata, forbidden residues, duplicated bodies, boundaries.
-          generated=[]
           bodies=[]
           for p in range(257,279):
-              fp=pages_dir/f'page-{p}.md'; t=fp.read_text(encoding='utf-8'); generated.append(fp)
+              fp=pages_dir/f'page-{p}.md'; t=fp.read_text(encoding='utf-8')
               assert f'pdf_page: {p}' in t and f'printed_page: {p-1}' in t
-              assert '\ufffd' not in t and '\u200c' not in t and '\u200b' not in t and '\ufeff' not in t
-              body=t.split('---\n',2)[2]
-              assert body.strip(), p
-              bodies.append(body)
-          assert len(set(bodies))==len(bodies), 'duplicate page bodies'
+              assert not any(x in t for x in ['\ufffd','\u200c','\u200b','\ufeff'])
+              body=t.split('---\n',2)[2]; assert body.strip(),p; bodies.append(body)
+          assert len(set(bodies))==len(bodies)
           assert '19-02-2010' in (pages_dir/'page-259.md').read_text(encoding='utf-8')
           assert '20-02-2010' in (pages_dir/'page-265.md').read_text(encoding='utf-8')
           assert '26-2-2010' in (pages_dir/'page-270.md').read_text(encoding='utf-8')
@@ -240,7 +172,6 @@ jobs:
           assert '3464.' in clean_page(279,blocks[279])
           assert 'மாற்றுத் திறனாளிகளும் - மானிடரே!' in (pages_dir/'page-274.md').read_text(encoding='utf-8')
           assert 'மாற்றுத் திறனாளிகளும் - மனிதரே!' in (root/'volumes/volume-43/contents/index.md').read_text(encoding='utf-8')
-          # No temporary source/cache files may enter the candidate tree.
           assert not (root/'tmp-source').exists()
           print('VALIDATION PASS: pages 257-278, letters 3459-3463, docs synchronized')
           PY
