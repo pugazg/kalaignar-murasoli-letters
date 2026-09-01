@@ -1,15 +1,15 @@
 # கடிதங்கள் / அத்தியாயங்கள்
 
-Volume 43 printed contents register **56 source records — 3428–3483**. Letter-specific chapter files will be created only when each letter is visually transcribed from its source pages.
+Volume 43 printed contents register **56 source records — 3428–3483**. Letter-specific chapter files are created only when each letter is visually transcribed from its source pages.
 
 | எண் | தலைப்பு | தேதி | அச்சுப் பக்கம் | நிலை |
 |---:|---|---|---:|---|
 | [3428](3428-kaakkum-karangalumandro.md) | காக்கும் கரங்களுமன்றோ? | 1-11-2009 | 23 | complete (first-pass-reviewed) |
-| 3429 | இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்! | 4-11-2009 | 32 | pending transcription |
-| 3430 | கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ! | 6-11-2009 | 39 | pending transcription |
-| 3431 | இதில் எது கையாலாகாத்தனம்? | 10-11-2009 | 48 | pending transcription |
-| 3432 | கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக! | 12-11-2009 | 53 | pending transcription |
-| 3433 | பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்! | 15-11-2009 | 60 | pending transcription |
+| [3429](3429-ingu-vanthulla-tamizharkkum-idar-kalaivom.md) | இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்! | 4-11-2009 | 32 | complete (first-pass-reviewed) |
+| [3430](3430-kelaak-kaathinaraai-kerala-arasinar-thelaaik-kottuvatho.md) | கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ! | 6-11-2009 | 39 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3431](3431-ithil-ethu-kaiyaalaakaathanam.md) | இதில் எது கையாலாகாத்தனம்? | 10-11-2009 | 48 | complete (first-pass-reviewed) |
+| [3432](3432-kanneer-thudaithiduga-kadamai-thodarnthiduga.md) | கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக! | 12-11-2009 | 53 | complete (first-pass-reviewed) |
+| [3433](3433-pathirigai-pen-payilavendiya-paadam.md) | பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்! | 15-11-2009 | 60 | complete (first-pass-reviewed) |
 | 3434 | நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது? | 18-11-2009 | 69 | pending transcription |
 | 3435 | முடிந்த தொடாக்கதை; முடியாத வரலாறு! | 26-11-2009 | 75 | pending transcription |
 | 3436 | சிதம்பரம் மீது சீற்றம் ஏன்? | 28-11-2009 | 86 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-**Exact next record:** 3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — begins PDF 033 / printed page 32.
+> Letter 3430 title fidelity: the table uses the actual PDF 040 letter title. The separate `contents/index.md` preserves the differing printed contents wording verbatim.

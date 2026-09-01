@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **32 / 402 — PDF 001–032 first-pass reviewed** | **1 / 56 — 3428 complete** | **blocked pending Tamil gates** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **69 / 402 — PDF 001–069 first-pass reviewed** | **6 / 56 — 3428–3433 complete** | **blocked pending Tamil gates** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -38,11 +38,13 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Publication details state **400 printed pages**; the source PDF has **402 physical PDF pages**.
 - Date span: **01.11.2009–17.07.2010**.
 - Printed contents PDF **018–022** enumerate **56 records, 3428–3483**.
-- Canonical coverage: **PDF 001–032 / 402**.
-- Completed letters: **1 / 56 — 3428**.
-- Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is complete at **PDF 024–032 / printed pages 23–31**, with closing/date verified on PDF 032.
-- The user-approved PDF 001–023 intake exception remains preserved as its own completed iteration.
-- Exact next activity: normal five-record batch **3429–3433**, beginning with Letter 3429 at **PDF 033 / printed page 32**.
+- Canonical coverage: **PDF 001–069 / 402**.
+- Completed letters: **6 / 56 — 3428–3433**.
+- Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is complete at **PDF 024–032 / printed pages 23–31**.
+- Batch **3429–3433** is complete at **PDF 033–069 / printed pages 32–68** with each closing/date boundary verified directly from the scan.
+- Letter **3430** scan title is `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`; the printed-contents variant is retained only as source discrepancy metadata and does not override the letter-start scan.
+- PDF **070 / printed page 69** begins Letter **3434** and is outside the completed batch.
+- Exact next activity: normal five-record batch **3434–3438**, starting at **PDF 070** and stopping before Letter 3439.
 
 English translation remains blocked until Tamil transcription and mandatory audit gates are complete.
 

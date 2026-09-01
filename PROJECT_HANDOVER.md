@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-08-31
+**Handover date:** 2026-09-01
 
 Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
@@ -27,19 +27,31 @@ Current durable state:
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
 - Source inventory: **56 records, 3428–3483**
-- Canonical Tamil pages: **PDF 001–032 / 402**
-- Completed letters: **1 / 56 — 3428**
+- Canonical Tamil pages: **PDF 001–069 / 402**
+- Completed letters: **6 / 56 — 3428–3433**
 - Translation: **blocked pending Tamil gates**
 
-The user explicitly approved a batching exception for the first Volume 43 iteration: **PDF 001–023 only**, ending immediately before the first letter. This exception is recorded in `volumes/volume-43/AUDIT.md` and `PROGRESS.md`; do not retroactively extend that first batch to PDF 025.
+The user explicitly approved a batching exception for the first Volume 43 iteration: **PDF 001–023 only**, ending immediately before the first letter. This exception remains recorded in `volumes/volume-43/AUDIT.md` and `PROGRESS.md`; do not retroactively extend that first batch.
 
-The user then directed the first source letter as its own separate iteration. Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is scan-verified complete at **PDF 024–032 / printed pages 23–31**, with closing `அன்புள்ள, மு.க.` and date `1-11-2009` on PDF 032. PDF 033 begins Letter 3429.
+Letter **3428 — `காக்கும் கரங்களுமன்றோ?`** is scan-verified complete at **PDF 024–032 / printed pages 23–31**, closing `அன்புள்ள, மு.க.` / `1-11-2009`.
+
+The next normal batch is also complete and scan-verified:
+
+- **3429** — PDF **033–039** — closes `4-11-2009`
+- **3430** — PDF **040–048** — closes `6-11-2009`
+- **3431** — PDF **049–053** — closes `10-11-2009`
+- **3432** — PDF **054–060** — closes `12-11-2009`
+- **3433** — PDF **061–069** — closes `15-11-2009`
+
+For Letter 3430, the actual letter-start title is **`கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`**. This differs from the provisional printed-contents wording; the letter-start scan is authoritative and the discrepancy is documented rather than silently normalized.
+
+PDF **070 / printed page 69** begins Letter **3434**.
 
 Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
 
 ### Exact next activity
 
-Resume the normal post-exception Tamil transcription workflow with the next **five complete source records, Letters 3429–3433**, beginning **PDF 033 / printed page 32** with Letter 3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!`. Verify every actual closing/date boundary from the scan and stop before Letter 3434. Do not begin English translation.
+Process the next **five complete source records, Letters 3434–3438**, beginning with Letter 3434 at **PDF 070 / printed page 69**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3439. Do not begin English translation.
 
 ## Volume 44 — COMPLETE
 
@@ -61,17 +73,7 @@ Final durable state:
 - Bilingual alignment: **COMPLETE — 53 / 53 — 3484–3536 / PDF 024–399**
 - Canonical Tamil changes during all English alignment batches: **0**
 - English editorial consistency review: **PASS — 53 / 53**
-- Editorial-pass substantive English translation corrections: **0**
-- Editorial-pass canonical Tamil changes: **0**
 - English final release verification: **PASS — 53 / 53**
-- Release-verification English body corrections: **0**
-- Release-verification canonical Tamil changes: **0**
-
-Durable English QA/release records include `PILOT_REVIEW_3484_3486.md`, all `BATCH_SOURCE_CHECK_*.md` reports, all eleven `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports, `EDITORIAL_CONSISTENCY_REVIEW.md`, `RELEASE_REPORT.md`, `GLOSSARY.md`, `TRANSLATION_MANIFEST.csv`, and the bilingual records under `translations/en/letters/`.
-
-Final release manifest validation passed with exactly **53 rows, 53 unique letter numbers and 53 unique English paths**, with **0 duplicate letter numbers, 0 duplicate English paths, 0 missing English records and 0 source-incomplete records**. Every row is source-checked, aligned, editorially reviewed and final-release verified.
-
-Final source boundaries remain Letter 3535 PDF 381–390 and Letter 3536 PDF 391–399. PDF 399 prints `(தொடர்ச்சி நாளை)` followed by the normal closing; Letter 3536 is complete within this source. PDF 400 is non-letter material; no Letter 3537 is invented.
 
 No further Volume 44 English QA or release gate remains pending. Do not reopen Volume 44 release work unless a concrete defect is reported or a new audit is explicitly requested.
 

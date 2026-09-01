@@ -14,24 +14,21 @@
 - Source size: **229,557,034 bytes**
 - Searchable text layer: **none usable**
 - Printed contents: PDF **018–022**
-- Source inventory from contents: **56 records, 3428–3483**
+- Source inventory: **56 records, 3428–3483**
 
 ## Current archival state
 
-- Canonical pages: **PDF 001–032 / 402**
-- Front matter / foreword / publisher note: **PDF 001–017 — first-pass reviewed**
-- Printed contents: **PDF 018–022 — first-pass reviewed and registered**
-- PDF 023: **blank page recorded**
-- Completed letters: **1 / 56 — 3428**
-- Letter 3428: **`காக்கும் கரங்களுமன்றோ?` — PDF 024–032 / printed pages 23–31 — 1-11-2009**
+- Canonical pages: **PDF 001–069 / 402**
+- Printed contents: **registered**
+- Completed letters: **6 / 56 — 3428–3433**
+- Latest completed batch: **3429–3433 / PDF 033–069 — PASS 5/5**
+- Partial/source-incomplete letters: **none**
 - English translation: **blocked pending Tamil transcription and audit gates**
 
-The normal repository first-batch rule is PDF 001–025. For Volume 43 the user explicitly approved a documented exception: the first iteration was **PDF 001–023 only**, isolating front matter/contents. The user then directed a separate first-letter iteration, now completed for Letter 3428.
+The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032.
+
+Letter 3430 has a source-layer title discrepancy: printed contents and the actual PDF 040 title differ. `contents/index.md` preserves the contents wording verbatim; the chapter and canonical page metadata follow the actual letter-start scan.
 
 ## Exact next activity
 
-Resume the normal transcription workflow with **five complete consecutive source records, Letters 3429–3433**, beginning at:
-
-**3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — PDF 033 / printed page 32.**
-
-Determine every closing/date boundary from the scan and stop before Letter 3434. Do not begin English translation.
+Process **Letters 3434–3438** as the next five complete consecutive records, starting with Letter 3434 at **PDF 070 / printed page 69**. Verify all boundaries directly from the scan and stop before Letter 3439. Do not begin English translation.

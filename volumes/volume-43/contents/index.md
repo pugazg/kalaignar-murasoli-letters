@@ -68,11 +68,4 @@ transcription_status: first-pass-reviewed
 
 > மூல அச்சில் 3467-ஆம் பதிவின் தேதி இடம் வெற்றாக உள்ளது; அது அப்படியே பாதுகாக்கப்பட்டுள்ளது.
 
-## Scan-verified letter boundaries
-
-| எண் | PDF பக்கங்கள் | அச்சுப் பக்கங்கள் | நிலை |
-|---:|---:|---:|---|
-| [3428](../chapters/3428-kaakkum-karangalumandro.md) | 024–032 | 23–31 | complete (first-pass-reviewed) |
-
-**அடுத்த scan boundary:** 3429 — PDF 033 / அச்சுப் பக்கம் 32.
-
+> **Boundary/title verification through Letter 3433:** Letters 3428–3433 have been checked against their actual letter-start and closing pages. For Letter 3430, the printed contents wording above is retained verbatim, while PDF 040 actually prints `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`; canonical chapter/page metadata follows the actual letter-start scan.
