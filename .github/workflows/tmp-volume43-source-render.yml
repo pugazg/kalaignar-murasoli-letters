@@ -1,13 +1,79 @@
-name: Temporary Volume 43 helper frozen
+name: Temporary Volume 43 source render
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - tmp-volume43-source-render
 
 permissions:
   contents: read
 
 jobs:
-  frozen:
+  render-active-range:
+    if: ${{ !contains(github.event.head_commit.message, '[rendered-279-315]') }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
-      - run: echo "Temporary Volume 43 helper is frozen; no repository mutation."
+      - name: Fetch and verify controlling source
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import hashlib
+          from pathlib import Path
+          import requests
+
+          url = "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0065828/TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf"
+          out = Path("source.pdf")
+          h = hashlib.sha256()
+          size = 0
+          with requests.get(url, stream=True, timeout=180, allow_redirects=True) as r:
+              r.raise_for_status()
+              print("SOURCE_URL", r.url, flush=True)
+              with out.open("wb") as f:
+                  for chunk in r.iter_content(chunk_size=1024 * 1024):
+                      if not chunk:
+                          continue
+                      f.write(chunk)
+                      h.update(chunk)
+                      size += len(chunk)
+          digest = h.hexdigest()
+          print("SOURCE_SIZE", size, flush=True)
+          print("SOURCE_SHA256", digest, flush=True)
+          assert size == 229557034, (size, "unexpected source size")
+          assert digest == "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35", digest
+          PY
+
+      - name: Render PDF 279-315 and OCR drafting aid
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils qpdf tesseract-ocr tesseract-ocr-tam
+          pdfinfo source.pdf | tee pdfinfo.txt
+          test "$(pdfinfo source.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "402"
+          qpdf source.pdf --pages . 279-315 -- active-range-pdf279-315.pdf
+          mkdir -p rendered ocr
+          pdftoppm -f 279 -l 315 -jpeg -r 220 source.pdf rendered/page >/dev/null 2>&1
+          : > ocr/combined.txt
+          n=279
+          for img in $(find rendered -type f -name '*.jpg' | sort); do
+            printf '\n===== PDF %03d =====\n' "$n" >> ocr/combined.txt
+            tesseract "$img" stdout -l tam+eng --psm 6 2>/dev/null >> ocr/combined.txt || true
+            n=$((n+1))
+          done
+          test "$n" = "316"
+          printf '\n===== FILES =====\n' >> pdfinfo.txt
+          ls -lh active-range-pdf279-315.pdf rendered/*.jpg >> pdfinfo.txt
+
+      - name: Upload source-verification range
+        uses: actions/upload-artifact@v4
+        with:
+          name: volume43-pdf279-315-verification
+          path: |
+            active-range-pdf279-315.pdf
+            pdfinfo.txt
+            rendered/*.jpg
+            ocr/combined.txt
+          if-no-files-found: error
+          retention-days: 1
