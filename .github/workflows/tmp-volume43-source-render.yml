@@ -1,4 +1,4 @@
-name: Temporary Volume 43 source render
+name: Temporary Volume 43 source cache
 
 on:
   push:
@@ -6,73 +6,38 @@ on:
       - tmp-volume43-source-render
 
 permissions:
-  contents: read
+  contents: write
+  actions: read
 
 jobs:
-  render-active-range:
+  cache-active-range:
+    if: ${{ !contains(github.event.head_commit.message, '[source-cache]') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 15
     steps:
-      - name: Fetch and verify controlling source
-        shell: bash
-        run: |
-          set -euo pipefail
-          python3 - <<'PY'
-          import hashlib
-          from pathlib import Path
-          import requests
+      - uses: actions/checkout@v4
+        with:
+          ref: tmp-volume43-source-render
 
-          url = "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0065828/TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf"
-          out = Path("source.pdf")
-          h = hashlib.sha256()
-          size = 0
-          with requests.get(url, stream=True, timeout=180, allow_redirects=True) as r:
-              r.raise_for_status()
-              print("SOURCE_URL", r.url, flush=True)
-              with out.open("wb") as f:
-                  for chunk in r.iter_content(chunk_size=1024 * 1024):
-                      if not chunk:
-                          continue
-                      f.write(chunk)
-                      h.update(chunk)
-                      size += len(chunk)
-          digest = h.hexdigest()
-          print("SOURCE_SIZE", size, flush=True)
-          print("SOURCE_SHA256", digest, flush=True)
-          assert size == 229557034, (size, "unexpected source size")
-          assert digest == "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35", digest
-          PY
-
-      - name: Render PDF 257-279 and OCR drafting aid
-        shell: bash
-        run: |
-          set -euo pipefail
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils qpdf tesseract-ocr tesseract-ocr-tam
-          pdfinfo source.pdf | tee pdfinfo.txt
-          test "$(pdfinfo source.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "402"
-          qpdf source.pdf --pages . 257-279 -- active-range-pdf257-279.pdf
-          mkdir -p rendered ocr
-          pdftoppm -f 257 -l 279 -jpeg -r 200 source.pdf rendered/page >/dev/null 2>&1
-          : > ocr/combined.txt
-          n=257
-          for img in $(find rendered -type f -name '*.jpg' | sort); do
-            printf '\n===== PDF %03d =====\n' "$n" >> ocr/combined.txt
-            tesseract "$img" stdout -l tam+eng --psm 6 2>/dev/null >> ocr/combined.txt || true
-            n=$((n+1))
-          done
-          test "$n" = "280"
-          printf '\n===== FILES =====\n' >> pdfinfo.txt
-          ls -lh active-range-pdf257-279.pdf rendered/*.jpg >> pdfinfo.txt
-
-      - name: Upload source-verification range
-        uses: actions/upload-artifact@v4
+      - name: Download verified source-render artifact
+        uses: actions/download-artifact@v4
         with:
           name: volume43-pdf257-279-verification
-          path: |
-            active-range-pdf257-279.pdf
-            pdfinfo.txt
-            rendered/*.jpg
-            ocr/combined.txt
-          if-no-files-found: error
-          retention-days: 1
+          path: source-artifact
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: pugazg/kalaignar-murasoli-letters
+          run-id: 33521909357
+
+      - name: Cache only the temporary verification PDF and OCR on the temp branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p tmp-source
+          cp source-artifact/active-range-pdf257-279.pdf tmp-source/volume43-pdf257-279.pdf
+          cp source-artifact/ocr/combined.txt tmp-source/volume43-pdf257-279-ocr.txt
+          cp source-artifact/pdfinfo.txt tmp-source/volume43-pdf257-279-info.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp-source/volume43-pdf257-279.pdf tmp-source/volume43-pdf257-279-ocr.txt tmp-source/volume43-pdf257-279-info.txt
+          git commit -m "Temporary: cache Volume 43 PDF 257-279 [source-cache]"
+          git push origin HEAD:tmp-volume43-source-render
