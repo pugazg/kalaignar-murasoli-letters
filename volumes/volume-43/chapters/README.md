@@ -40,11 +40,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3461](3461-kalaiyulaga-vizhaavum-silar-kanda-kanavum.md) | கலையுலக விழாவும்; சிலர் கண்ட கனவும்! | 26-2-2010 | 265 | complete (first-pass-reviewed) |
 | [3462](3462-nam-payanathirkup-payanpada.md) | நம் பயணத்திற்குப் பயன்பட! | 28-2-2010 | 270 | complete (first-pass-reviewed) |
 | [3463](3463-maatru-thiranaaligalum-maanidare.md) | மாற்றுத் திறனாளிகளும் - மானிடரே! | 2-3-2010 | 273 | complete (first-pass-reviewed); actual letter title differs from printed contents |
-| 3464 | பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன? | 07-03-2010 | 278 | pending transcription |
-| 3465 | நெஞ்சில் மோதும் நினைவலைகள்! | 10-3-2010 | 284 | pending transcription |
-| 3466 | என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா? | 11-03-2010 | 293 | pending transcription |
-| 3467 | 36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகாராஜனுக்கு எழுதிய கடிதம்! |  | 298 | pending transcription |
-| 3468 | எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே? | 12-05-2010 | 303 | pending transcription |
+| [3464](3464-pothukkaruthu-patri-perarignan-rousseauvin-karuthu-enna.md) | பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன? | 07-03-2010 | 278 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3465](3465-nenjil-mothum-ninaivalaigal.md) | நெஞ்சில் மோதும் நினைவலைகள்! | 10-3-2010 | 284 | complete (first-pass-reviewed) |
+| [3466](3466-ennai-magizhvikka-chennaiyukku-varuvaaya.md) | என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா? | 11-03-2010 | 293 | complete (first-pass-reviewed) |
+| [3467](3467-36-aandugalukku-mun-mudhalvar-kalaignar-neethiyarasar-magarajanukku-ezhuthiya-kaditham.md) | 36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்! | 2/11/1974 (facsimile; contents blank) | 298 | complete (first-pass-reviewed); actual title differs from printed contents |
+| [3468](3468-eththanai-naalthaan-emaatruvaar-indha-naattile.md) | எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே? | 12-05-2010 | 303 | complete (first-pass-reviewed) |
 | 3469 | பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை! | 13-05-2010 | 314 | pending transcription |
 | 3470 | சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ? | 18-5-2010 | 316 | pending transcription |
 | 3471 | கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்! | 26-5-2010 | 322 | pending transcription |
@@ -61,4 +61,6 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3463: 3430, 3435, 3438 and 3463.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3468: 3430, 3435, 3438, 3463, 3464 and 3467.
+
+> Letter 3467 is a reproduced handwritten-letter record. Its printed-contents date cell remains blank, while the reproduced handwritten letter itself is documented at record level as dated `2/11/1974`.

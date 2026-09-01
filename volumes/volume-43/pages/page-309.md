@@ -1,0 +1,50 @@
+---
+volume: 43
+pdf_page: 309
+printed_page: 308
+section: "letter"
+transcription_status: "first-pass-reviewed"
+letter_number: 3468
+letter_date: "2010-05-12"
+letter_title: "எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?"
+---
+
+தெரிவிக்காமல் அனுமதி கொடுத்திருக்கிறார். இது ஒன்றே எந்த
+அளவிற்கு நீதி இந்த வழக்கிலே திசை திருப்பப்பட்டுள்ளது
+என்பது நன்றாக விளங்குகின்றது.)
+
+It does appear that the new public prosecutor is hand in glove with
+the accused thereby creating a reasonable apprehension of likelihood
+of failure of justice in the minds of the public at large. There is strong
+indication that the process of justice is being subverted. The conduct of
+the Public Prosecutor in not opposing such a frivolous application has
+to be deprecated.
+
+(புதிய அரசு வழக்கறிஞர் குற்றவாளிகளோடு (ஜெயலலிதா
+குழுவினரோடு) இணைந்து செயல்படுவது நன்றாகத் தெரிகிறது.
+அதன் காரணமாக பொதுவாக நீதி கிடைக்காது என்ற ஒரு
+நம்பத் தகுந்த ஐயம் மக்கள் மனதிலே எழுந்துள்ளது. நீதி திசை
+திரும்பிச் செல்வது நிச்சயமாக தெரிகின்றது. 313வது விதிப்படி
+நீதிமன்றத்தில் கேள்வி எழுப்பப்படும்போது, ஜெயலலிதா
+நீதிமன்றத்தில் நேரில் ஆஜராகாமல் இருக்க தாக்கல் செய்த
+தவறான மனுவிற்கு அரசு வழக்கறிஞர் எதிர்ப்பே தெரிவிக்காமல்
+இருந்து வேடிக்கை பார்த்துக் கொண்டிருந்தது வருந்தத்தக்கது.)
+
+The Judges took serious exception to the trial court dispensing with
+the personal appearance of Ms. Jayalalithaa and said “be you ever so
+high, the law is above you. The grounds cited by her in the application
+were not all mitigating circumstances to have granted dispensation
+of personal appearance. To say the least, that was a ploy adopted to
+circumvent the due process of law.
+
+(ஜெயலலிதா நேரில் ஆஜராகாமல் இருக்க விசாரணை
+நீதிமன்றம் அனுமதி கொடுத்ததற்கு உச்சநீதிமன்ற நீதிபதிகள்
+தங்களுடைய கடுமையான எதிர்ப்பை அந்தத் தீர்ப்பிலே
+தெரிவித்திருப்பதோடு, “நீங்கள் எவ்வளவு உயர்ந்த நிலையில்
+இருந்தபோதிலும், உங்களை விட சட்டம் உயர்ந்தது. நேரில்
+ஆஜராகாமல் இருக்க விதிவிலக்கு கொடுக்கக் கூடிய அளவிற்கு
+அவரது மனுவிலே காரணங்கள் கூறப்படவில்லை. சுருக்கமாகச்
+சொல்ல வேண்டுமென்றால், சட்டத்தின் பாதையை திசை
+திருப்புவதற்கான செயல்தான் நடைபெற்றுள்ளது”.)
+
+நீதிபதிகள் முடிக்கும்போது கூறுகிறார்கள்;

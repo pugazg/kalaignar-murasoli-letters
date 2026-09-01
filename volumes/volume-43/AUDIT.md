@@ -180,14 +180,13 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 
 ### Durable result
 
-- Canonical Tamil: **PDF 001–278 / 402**
-- Completed letters: **36 / 56 — 3428–3463**
+- Canonical Tamil: **PDF 001–256 / 402**
+- Completed letters: **31 / 56 — 3428–3458**
 - Partial/source-incomplete: **none**
 
-**Next:** process five complete records **3459–3463**, starting PDF 257, and stop before 3464.
 ## Five-record iteration — Letters 3459–3463 — PDF 257–278
 
-**Date:** 2026-09-01
+**Date:** 2026-09-01  
 **Result:** **PASS**
 
 ### Verified boundaries
@@ -211,3 +210,52 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - U+FFFD / unwanted zero-width residue: none.
 - Closings/dates and next-letter start: verified.
 - English translation: not started; remains blocked.
+
+## Five-record iteration — Letters 3464–3468 — PDF 279–314
+
+**Date:** 2026-09-01  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3464** — PDF **279–284** / printed **278–283** — actual title `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?` — closes `07-03-2010`.
+- **3465** — PDF **285–293** / printed **284–292** — title `நெஞ்சில் மோதும் நினைவலைகள்!` — closes `10-3-2010`.
+- **3466** — PDF **294–298** / printed **293–297** — title `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?` — closes `11-03-2010`.
+- **3467** — PDF **299–303** / printed **298–302** — actual title `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`; the printed contents date cell is blank; the record introduces and reproduces a handwritten letter written `2-11-1974`, whose final facsimile page visibly carries `2/11/1974`.
+- **3468** — PDF **304–314** / printed **303–313** — title `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?` — closes `12-05-2010`.
+- PDF **315 / printed 314** cleanly begins Letter **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`**.
+
+### Visual/textual checks
+
+- Every PDF page **279–314** was directly inspected against the controlling scan; OCR was used only as a drafting/discrepancy aid.
+- Physical PDF/printed page boundaries and visible cross-page word splits were preserved in the canonical files.
+- Titles, salutations, closings, dates, figures, quoted Tamil, source English passages and legal/statutory references were checked against the scan.
+- Letter 3464 preserves the long source English quotations from *The Hindu* and *Indian Express* and its Rousseau quotation without replacing them from outside editions.
+- Letters 3465–3466 preserve source measurements, dates, names, quotations and historical wording without outside correction.
+- Letter 3467's printed editorial introduction is transcribed; the reproduced handwritten pages are represented explicitly as facsimile source pages rather than silently guessing or normalizing uncertain handwriting. The record remains complete because the source pages themselves are present; it is not a source-gap record.
+- Letter 3468 preserves the source English Supreme Court passages and the source's figures/dates; no outside legal text was substituted.
+
+### Source-layer notes
+
+- **3464:** printed contents `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`; actual PDF 279 `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
+- **3467:** printed contents title uses `மகாராஜனுக்கு`; actual PDF 299 uses `மகராஜனுக்கு`.
+- **3467 date:** the printed contents date cell remains blank exactly as printed. The reproduced handwritten letter's `2/11/1974` date is kept as a separate record-level source fact and is not inserted into the contents table.
+
+### Precommit checks
+
+- New page-file continuity **279–314** and cumulative continuity through **314**: PASS.
+- Exactly five complete source records **3464–3468**: PASS.
+- No part of Letter 3469 included: PASS.
+- Duplicate canonical page bodies: none after page-specific facsimile descriptions.
+- U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue: none.
+- Chapter page-link sequences and start/end metadata: PASS.
+- Title/date/source-layer fidelity: PASS.
+- Figures/numbers, quotations and source English strings: checked directly against the scan.
+- Verified next-letter start: PDF **315**, Letter **3469**.
+- English translation: not started; remains blocked pending Tamil gates.
+
+### Durable result
+
+- Canonical Tamil/source-page representation: **PDF 001–314 / 402**
+- Completed source records: **41 / 56 — 3428–3468**
+- Partial/source-incomplete records: **none**

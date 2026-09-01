@@ -122,10 +122,24 @@ PDF 257 cleanly begins Letter 3459.
 
 PDF 279 cleanly begins Letter 3464.
 
+### Five-record batch — Letters 3464–3468 — PDF 279–314
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date / source date |
+|---:|---|---:|---:|---|
+| 3464 | `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?` | 279–284 | 278–283 | 07-03-2010 |
+| 3465 | `நெஞ்சில் மோதும் நினைவலைகள்!` | 285–293 | 284–292 | 10-3-2010 |
+| 3466 | `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?` | 294–298 | 293–297 | 11-03-2010 |
+| 3467 | `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!` | 299–303 | 298–302 | contents blank; reproduced letter 2/11/1974 |
+| 3468 | `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?` | 304–314 | 303–313 | 12-05-2010 |
+
+PDF 315 cleanly begins Letter 3469.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–278 / 402**
-- Completed letters: **36 / 56 — 3428–3463**
+- Canonical page coverage: **PDF 001–314 / 402**
+- Completed letters: **41 / 56 — 3428–3468**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -138,7 +152,10 @@ PDF 279 cleanly begins Letter 3464.
 - Letter 3435 printed contents says `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`, while actual PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
 - Letter 3438 printed contents says `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`, while actual PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
 - Letter 3463 printed contents says `மாற்றுத் திறனாளிகளும் - மனிதரே!`, while actual PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
+- Letter 3464 printed contents says `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`, while actual PDF 279 prints `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
+- Letter 3467 printed contents uses `மகாராஜனுக்கு`, while actual PDF 299 uses `மகராஜனுக்கு`; the contents date cell is blank. Its reproduced handwritten letter is separately dated `2/11/1974` in the facsimile.
+- Letter 3467 facsimile pages are represented as facsimile source pages rather than silently normalizing uncertain handwriting into typeset text.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3464–3468**, beginning with **Letter 3464 at PDF 279 / printed page 278**. Verify every actual closing/date boundary directly from the scan and stop before Letter 3469. Do not begin English translation.
+Process the next **five complete source records, Letters 3469–3473**, beginning with **Letter 3469 at PDF 315 / printed page 314**. Verify every actual closing/date boundary directly from the scan and stop before Letter 3474. Do not begin English translation.

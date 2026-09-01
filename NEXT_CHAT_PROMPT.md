@@ -16,7 +16,7 @@ Attach or otherwise resolve the controlling PDF in the fresh chat before page-le
 
 **Fetch live `main` first and treat it as authoritative.** If `main` has advanced beyond any checkpoint copied into this prompt, preserve the newer durable state and continue from it. Do not reset, overwrite, repeat, or reopen later completed work merely because this prompt records an older checkpoint.
 
-**Last completed source-work checkpoint when this prompt was refreshed:** `d495e1a0fc3dd8878b75fee590bb602d3a2dded8` — `Transcribe Volume 43 Letters 3454-3458`. Later commits may be documentation-only; live `main` remains authoritative.
+**Last completed source-work activity when this prompt was refreshed:** `Transcribe Volume 43 Letters 3464-3468` — the commit containing this prompt. Later commits may advance the durable state; live `main` remains authoritative.
 
 ## Mandatory startup
 
@@ -34,7 +34,7 @@ Before making any repository change, read completely:
 10. `volumes/volume-43/metadata.yml`
 11. the Volume 43 contents/chapter controls relevant to the active range.
 
-The controlling scan is the highest authority. OCR is a drafting aid only. Do not silently normalize spelling, punctuation, old Tamil glyph readings, titles, quotations, figures, dates, signatures, closings, English/Latin text, or source-layer differences.
+The controlling scan is the highest authority. OCR is a drafting aid only. Do not silently normalize spelling, punctuation, old Tamil glyph readings, titles, quotations, figures, dates, signatures, closings, English/Latin text, handwritten facsimiles, or source-layer differences.
 
 ## Volume 43 durable boundary
 
@@ -44,17 +44,17 @@ The controlling scan is the highest authority. OCR is a drafting aid only. Do no
 - Source inventory: **56 records, 3428–3483**
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
-- Canonical Tamil pages: **PDF 001–278 / 402**
-- Completed Tamil letters: **36 / 56 — 3428–3463**
+- Canonical Tamil/source-page representation: **PDF 001–314 / 402**
+- Completed Tamil letters: **41 / 56 — 3428–3468**
 - English translation: **blocked pending Tamil gates**
 
 Latest completed boundaries:
 
-- **3459** — PDF 257–259 — closes `19-02-2010`
-- **3460** — PDF 260–265 — closes `20-02-2010`
-- **3461** — PDF 266–270 — closes `26-2-2010`
-- **3462** — PDF 271–273 — closes `28-2-2010`
-- **3463** — PDF 274–278 — closes `2-3-2010`
+- **3464** — PDF 279–284 — actual title `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?` — closes `07-03-2010`
+- **3465** — PDF 285–293 — closes `10-3-2010`
+- **3466** — PDF 294–298 — closes `11-03-2010`
+- **3467** — PDF 299–303 — actual title uses `மகராஜனுக்கு`; printed contents date cell blank; reproduced handwritten letter visibly dated `2/11/1974`
+- **3468** — PDF 304–314 — closes `12-05-2010`
 
 Documented contents/actual-title discrepancies must remain source-layer specific:
 
@@ -62,19 +62,21 @@ Documented contents/actual-title discrepancies must remain source-layer specific
 - 3435: contents `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`; PDF 076 `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
 - 3438: contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
 - 3463: contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
+- 3464: contents `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`; PDF 279 `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
+- 3467: contents uses `மகாராஜனுக்கு`; PDF 299 uses `மகராஜனுக்கு`.
 
-Printed contents Letter 3467 has a blank date cell; preserve it as blank until the source letter itself is reached and verified.
+For Letter 3467, preserve the printed contents date cell as blank. The reproduced letter's `2/11/1974` date is a separate source-layer fact. The handwritten facsimile pages were retained as facsimile source representations rather than silently guessing uncertain handwriting.
 
-PDF **279 / printed page 278** begins Letter **3464 — `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`**.
+PDF **315 / printed page 314** cleanly begins Letter **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`**.
 
 ## Exact next activity
 
-Transcribe the next **five complete Volume 43 source records, Letters 3464–3468**, beginning with Letter 3464 at **PDF 279 / printed page 278**.
+Transcribe the next **five complete Volume 43 source records, Letters 3469–3473**, beginning with Letter 3469 at **PDF 315 / printed page 314**.
 
 For this iteration:
 
 - determine every letter's actual end/date directly from the scan;
-- process exactly five complete consecutive letters and stop before Letter 3469;
+- process exactly five complete consecutive letters and stop before Letter 3474;
 - create every canonical page record covered by those letters;
 - create the five chapter records and update the chapter index;
 - preserve printed contents independently from actual letter titles and only advance verification notes where source checking supports it;
