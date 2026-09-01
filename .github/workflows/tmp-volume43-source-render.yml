@@ -23,26 +23,22 @@ jobs:
         run: |
           set -euo pipefail
           sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tam
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tam python3-pil
           mkdir -p /tmp/render tmp-source/target-ocr
-          # cached slice page 1 corresponds physical PDF 279.
           pdftoppm -jpeg -r 350 tmp-source/volume43-pdf279-315.pdf /tmp/render/p >/dev/null 2>&1
           python3 - <<'PY'
           from PIL import Image
           from pathlib import Path
-          # crop top portions for titles, dates, and the printed intro above the facsimile.
           phys=[279,284,294,299,300,304,314,315]
           for p in phys:
               idx=p-278
-              candidates=sorted(Path('/tmp/render').glob(f'p-{idx:02d}.jpg'))+sorted(Path('/tmp/render').glob(f'p-{idx}.jpg'))
-              if not candidates:
-                  # pdftoppm may use 3-digit padding
-                  candidates=sorted(Path('/tmp/render').glob(f'p-{idx:03d}.jpg'))
-              assert candidates,(p,idx)
-              im=Image.open(candidates[0])
-              w,h=im.size
-              top=im.crop((0,0,w,int(h*(0.28 if p==300 else 0.22))))
-              top.save(f'/tmp/render/crop-{p}.png')
+              candidates=[]
+              for pat in (f'p-{idx}.jpg',f'p-{idx:02d}.jpg',f'p-{idx:03d}.jpg'):
+                  candidates += list(Path('/tmp/render').glob(pat))
+              assert candidates,(p,idx,list(Path('/tmp/render').glob('*.jpg'))[:3])
+              im=Image.open(candidates[0]); w,h=im.size
+              frac=0.30 if p==300 else 0.22
+              im.crop((0,0,w,int(h*frac))).save(f'/tmp/render/crop-{p}.png')
           PY
           for p in 279 284 294 299 300 304 314 315; do
             {
