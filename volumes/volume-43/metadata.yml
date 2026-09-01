@@ -6,7 +6,7 @@ date_to: 2010-07-17
 letter_number_from: 3428
 letter_number_to: 3483
 letter_count: 56
-letter_inventory_status: "printed-contents-transcribed; boundaries scan-verified through 3448"
+letter_inventory_status: "printed-contents-transcribed; boundaries scan-verified through 3453"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065828_கலைஞரின்_கடிதங்கள�
 source_sha256: "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35"
 source_size_bytes: 229557034
 searchable_text_layer: false
-transcription_page_range: "1-181"
+transcription_page_range: "1-234"
 transcription_status: "in-progress"
-recorded_letter_range: "3428-3448"
-completed_letter_range: "3428-3448"
-completed_letter_count: 21
+recorded_letter_range: "3428-3453"
+completed_letter_range: "3428-3453"
+completed_letter_count: 26
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "through-letter-3448-pass"
+audit_status: "through-letter-3453-pass"
 audit_date: 2026-09-01
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -51,4 +51,5 @@ source_observations:
   - "Letter 3438 printed contents title `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` differs from actual PDF 099 title `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; each source layer is preserved independently."
   - "Letters 3439–3443 are scan-verified complete at PDF 104–142 / printed pages 103–141."
   - "Letters 3444–3448 are scan-verified complete at PDF 143–181 / printed pages 142–180."
-  - "Letter 3449 begins at PDF 182 / printed page 181 and is the exact next source record."
+  - "Letters 3449–3453 are scan-verified complete at PDF 182–234 / printed pages 181–233."
+  - "Letter 3454 begins at PDF 235 / printed page 234 and is the exact next source record."

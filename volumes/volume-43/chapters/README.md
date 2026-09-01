@@ -25,11 +25,11 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3446](3446-semmoli-varalatril-sila-seppedugal-2-caldwell-kaattiya-dravida-thanichirappu.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு | 26-12-2009 | 156 | complete (first-pass-reviewed) |
 | [3447](3447-semmoli-varalatril-sila-seppedugal-3-paavanar-kanda-pathinaindhu-saanrugal.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள் | 27-12-2009 | 164 | complete (first-pass-reviewed) |
 | [3448](3448-semmoli-varalatril-sila-seppedugal-4-thonmaikkuth-thonmaiyaai-vaazhum-tholpazhankaala-mozhi.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி! | 28-12-2009 | 172 | complete (first-pass-reviewed) |
-| 3449 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை! | 29-12-2009 | 181 | pending transcription |
-| 3450 | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்! | 30-12-2009 | 190 | pending transcription |
-| 3451 | செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு! | 31-12-2009 | 198 | pending transcription |
-| 3452 | வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு! | 9-1-2010 | 207 | pending transcription |
-| 3453 | ஒரு “தலைவன்” இருக்கிறான் மயங்காதே! | 13-1-2010 | 211 | pending transcription |
+| [3449](3449-semmoli-varalatril-sila-seppedugal-5-california-perasiriyar-vazhangiya-karuthuk-kovai.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை! | 29-12-2009 | 181 | complete (first-pass-reviewed) |
+| [3450](3450-semmoli-varalatril-sila-seppedugal-6-semmoli-sirandhida-thodar-seyalpaadugal.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்! | 30-12-2009 | 190 | complete (first-pass-reviewed) |
+| [3451](3451-semmoli-varalatril-sila-seppedugal-7-kadithamalla-kaalathaal-azhikka-mudiyaatha-seppedu.md) | செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு! | 31-12-2009 | 198 | complete (first-pass-reviewed) |
+| [3452](3452-vaazhthu-kuvikkinren-valamaar-tamizhaga-makkalukku.md) | வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு! | 9-1-2010 | 207 | complete (first-pass-reviewed) |
+| [3453](3453-oru-thalaivan-irukkiraan-mayangaathe.md) | ஒரு “தலைவன்” இருக்கிறான் மயங்காதே! | 13-1-2010 | 211 | complete (first-pass-reviewed) |
 | 3454 | அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு! | 3-2-2010 | 234 | pending transcription |
 | 3455 | “வேலியே பயிரை மேய்வதா?” | 10-02-2010 | 240 | pending transcription |
 | 3456 | மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்! | 11-02-2010 | 245 | pending transcription |
@@ -61,4 +61,4 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
 | 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3448: 3430, 3435 and 3438.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3453: 3430, 3435 and 3438.

@@ -80,10 +80,24 @@ PDF 143 cleanly begins Letter 3444.
 
 PDF 182 cleanly begins Letter 3449.
 
+### Five-record batch — Letters 3449–3453 — PDF 182–234
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3449 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை!` | 182–190 | 181–189 | 29-12-2009 |
+| 3450 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!` | 191–198 | 190–197 | 30-12-2009 |
+| 3451 | `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!` | 199–207 | 198–206 | 31-12-2009 |
+| 3452 | `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!` | 208–211 | 207–210 | 9-1-2010 |
+| 3453 | `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!` | 212–234 | 211–233 | 13-1-2010 |
+
+PDF 235 cleanly begins Letter 3454.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–181 / 402**
-- Completed letters: **21 / 56 — 3428–3448**
+- Canonical page coverage: **PDF 001–234 / 402**
+- Completed letters: **26 / 56 — 3428–3453**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -98,4 +112,4 @@ PDF 182 cleanly begins Letter 3449.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3449–3453**, beginning with **Letter 3449 at PDF 182 / printed page 181**. Verify every actual start/closing/date directly from the scan and stop before Letter 3454. Do not begin English translation.
+Process the next **five complete source records, Letters 3454–3458**, beginning with **Letter 3454 at PDF 235 / printed page 234**. Verify every actual start/closing/date directly from the scan and stop before Letter 3459. Do not begin English translation.

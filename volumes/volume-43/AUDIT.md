@@ -126,4 +126,33 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Completed letters: **21 / 56 — 3428–3448**
 - Partial/source-incomplete: **none**
 
-**Next:** process five complete records **3449–3453**, starting PDF 182, and stop before 3454.
+## Five-record iteration — Letters 3449–3453 — PDF 182–234
+
+**Date:** 2026-09-01  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3449** — PDF **182–190** / printed **181–189** — closes `29-12-2009`
+- **3450** — PDF **191–198** / printed **190–197** — closes `30-12-2009`
+- **3451** — PDF **199–207** / printed **198–206** — closes `31-12-2009`
+- **3452** — PDF **208–211** / printed **207–210** — closes `9-1-2010`
+- **3453** — PDF **212–234** / printed **211–233** — closes `13-1-2010`
+- PDF **235** cleanly begins Letter **3454**.
+
+### Visual/textual checks
+
+- Every PDF page **182–234** is represented once as a canonical page file.
+- The controlling scan governed accepted readings; OCR was used only as a drafting/discrepancy aid.
+- Physical page boundaries, titles, salutations, closings, dates, source English quotations, historical dates, figures and legislative quotations were checked against the scan.
+- OCR-sensitive material in the classical-language series and the long Letter 3453 was resolved against the page images rather than silently normalized.
+- No replacement Unicode or unintended zero-width OCR residue is present in the canonical batch.
+- No English translation was started.
+
+### Durable result
+
+- Canonical Tamil: **PDF 001–234 / 402**
+- Completed letters: **26 / 56 — 3428–3453**
+- Partial/source-incomplete: **none**
+
+**Next:** process five complete records **3454–3458**, starting PDF 235, and stop before 3459.
