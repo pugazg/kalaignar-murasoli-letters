@@ -1,116 +1,13 @@
-name: Temporary Volume 43 candidate amend
+name: Temporary Volume 43 helper frozen
 
 on:
-  push:
-    branches:
-      - tmp-volume43-source-render
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  amend-candidate:
+  frozen:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Amend validated Volume 43 candidate
-        shell: bash
-        run: |
-          set -euo pipefail
-          git fetch origin main tmp-volume43-3459-3463-candidate
-          git checkout --detach origin/tmp-volume43-3459-3463-candidate
-          test "$(git rev-parse HEAD^)" = "$(git rev-parse origin/main)"
-          test "$(git rev-parse origin/main)" = "bac55e8bb654caaef0ea5fc7d9024c83a780ce0a"
-
-          python3 - <<'PY'
-          from pathlib import Path
-
-          def must_replace(path, old, new):
-              p=Path(path); s=p.read_text(encoding='utf-8')
-              assert old in s, f'missing in {path}: {old!r}'
-              s=s.replace(old,new)
-              p.write_text(s,encoding='utf-8')
-
-          # Clear source-level text fixes exposed by targeted candidate review.
-          must_replace('volumes/volume-43/pages/page-274.md',
-              '“கலைஞர் தொலைக்காட்சியில் தம்பி சுப.வீரபாண்டியனின் “ஒரு',
-              '“கலைஞர் தொலைக்காட்சியில்” தம்பி சுப.வீரபாண்டியனின் “ஒரு')
-          must_replace('volumes/volume-43/pages/page-275.md',
-              'அவர்களது உரிமை களை', 'அவர்களது உரிமைகளை')
-          must_replace('volumes/volume-43/pages/page-258.md',
-              'கடன்களை ரத்து செய்து அரசு அறிவித்து நடைமுறைப்படுத்தியதை மட்டும் தங்களுக்கு வசதியாக மறந்தது ஏனோ? தற்போது',
-              'கடன்களை ரத்து செய்து அரசு அறிவித்து நடைமுறைப்படுத்தியதை\nமட்டும் தங்களுக்கு வசதியாக மறந்தது ஏனோ? தற்போது')
-
-          # Root README: synchronize completed batch, discrepancy inventory, and exact next activity.
-          must_replace('README.md',
-              'Source-layer title discrepancies are documented for Letters **3430, 3435 and 3438**; printed contents wording is preserved verbatim while canonical page/chapter metadata follows the actual letter-start scan.',
-              'Source-layer title discrepancies are documented for Letters **3430, 3435, 3438 and 3463**; printed contents wording is preserved verbatim while canonical page/chapter metadata follows the actual letter-start scan.')
-          must_replace('README.md',
-              '- Batch **3454–3458** is complete at **PDF 235–256 / printed pages 234–255**, with every closing/date boundary verified directly from the scan.\n- PDF **279 / printed page 278** begins Letter **3464** and is outside the completed batch.\n- Exact next activity: normal five-record batch **3459–3463**, starting at **PDF 257** and stopping before Letter 3464.',
-              '- Batch **3454–3458** is complete at **PDF 235–256 / printed pages 234–255**, with every closing/date boundary verified directly from the scan.\n- Batch **3459–3463** is complete at **PDF 257–278 / printed pages 256–277**, with every closing/date boundary verified directly from the scan.\n- Letter **3463** adds a source-layer title discrepancy: printed contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.\n- PDF **279 / printed page 278** begins Letter **3464** and is outside the completed batch.\n- Exact next activity: normal five-record batch **3464–3468**, starting at **PDF 279** and stopping before Letter 3469.')
-
-          # Project handover: latest batch must be the newly completed five records.
-          p=Path('PROJECT_HANDOVER.md'); s=p.read_text(encoding='utf-8')
-          old='''The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. Letters 3439–3443 are complete at PDF 104–142. Letters 3444–3448 are complete at PDF 143–181. Letters 3449–3453 are complete at PDF 182–234. The latest normal batch is scan-verified complete:\n\n- **3454** — PDF **235–240** — closes `3-2-2010`\n- **3455** — PDF **241–245** — closes `10-02-2010`\n- **3456** — PDF **246–249** — closes `11-02-2010`\n- **3457** — PDF **250–253** — closes `12-02-2010`\n- **3458** — PDF **254–256** — closes `18-02-2010`'''
-          new='''The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. Letters 3439–3443 are complete at PDF 104–142. Letters 3444–3448 are complete at PDF 143–181. Letters 3449–3453 are complete at PDF 182–234. Letters 3454–3458 are complete at PDF 235–256. The latest normal batch is scan-verified complete:\n\n- **3459** — PDF **257–259** — closes `19-02-2010`\n- **3460** — PDF **260–265** — closes `20-02-2010`\n- **3461** — PDF **266–270** — closes `26-2-2010`\n- **3462** — PDF **271–273** — closes `28-2-2010`\n- **3463** — PDF **274–278** — closes `2-3-2010`'''
-          assert old in s; s=s.replace(old,new)
-          old='- Letter 3438 printed contents: `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; actual PDF 099: `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.'
-          assert old in s; s=s.replace(old,old+'\n- Letter 3463 printed contents: `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274: `மாற்றுத் திறனாளிகளும் - மானிடரே!`.')
-          old='Process the next **five complete source records, Letters 3459–3463**, beginning with Letter 3459 at **PDF 257 / printed page 256**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3464. Do not begin English translation.'
-          assert old in s; s=s.replace(old,'Process the next **five complete source records, Letters 3464–3468**, beginning with Letter 3464 at **PDF 279 / printed page 278**. Verify each actual closing/date boundary directly from the scan and stop before Letter 3469. Do not begin English translation.')
-          p.write_text(s,encoding='utf-8')
-
-          # Next-chat prompt latest completed boundaries and discrepancy list.
-          p=Path('NEXT_CHAT_PROMPT.md'); s=p.read_text(encoding='utf-8')
-          old='''Latest completed boundaries:\n\n- **3454** — PDF 235–240 — closes `3-2-2010`\n- **3455** — PDF 241–245 — closes `10-02-2010`\n- **3456** — PDF 246–249 — closes `11-02-2010`\n- **3457** — PDF 250–253 — closes `12-02-2010`\n- **3458** — PDF 254–256 — closes `18-02-2010`'''
-          new='''Latest completed boundaries:\n\n- **3459** — PDF 257–259 — closes `19-02-2010`\n- **3460** — PDF 260–265 — closes `20-02-2010`\n- **3461** — PDF 266–270 — closes `26-2-2010`\n- **3462** — PDF 271–273 — closes `28-2-2010`\n- **3463** — PDF 274–278 — closes `2-3-2010`'''
-          assert old in s; s=s.replace(old,new)
-          old='- 3438: contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.'
-          assert old in s; s=s.replace(old,old+'\n- 3463: contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.')
-          p.write_text(s,encoding='utf-8')
-
-          # Volume README: synchronize latest batch, discrepancy paragraph, and exact next activity.
-          p=Path('volumes/volume-43/README.md'); s=p.read_text(encoding='utf-8')
-          assert '- Latest completed batch: **3454–3458 / PDF 235–256 — PASS 5/5**' in s
-          s=s.replace('- Latest completed batch: **3454–3458 / PDF 235–256 — PASS 5/5**','- Latest completed batch: **3459–3463 / PDF 257–278 — PASS 5/5**')
-          old='Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.'
-          new='Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; Letter 3463 contents prints `மாற்றுத் திறனாளிகளும் - மனிதரே!` while PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.'
-          assert old in s; s=s.replace(old,new)
-          old='Process **Letters 3459–3463** as the next five complete consecutive records, starting with Letter 3459 at **PDF 257 / printed page 256**. Verify all boundaries directly from the scan and stop before Letter 3464. Do not begin English translation.'
-          assert old in s; s=s.replace(old,'Process **Letters 3464–3468** as the next five complete consecutive records, starting with Letter 3464 at **PDF 279 / printed page 278**. Verify all boundaries directly from the scan and stop before Letter 3469. Do not begin English translation.')
-          p.write_text(s,encoding='utf-8')
-
-          # Validation of synchronized durable state and source-layer separation.
-          checks={
-            'README.md':['**36 / 56 — 3428–3463 complete**','batch **3464–3468**','3430, 3435, 3438 and 3463'],
-            'PROJECT_HANDOVER.md':['**3459** — PDF **257–259**','Letters 3464–3468','Letter 3463 printed contents'],
-            'NEXT_CHAT_PROMPT.md':['**3463** — PDF 274–278','Letters 3464–3468','3463: contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`'],
-            'volumes/volume-43/README.md':['**3459–3463 / PDF 257–278 — PASS 5/5**','Letters 3464–3468','Letter 3463 contents prints'],
-          }
-          for fn,needles in checks.items():
-              t=Path(fn).read_text(encoding='utf-8')
-              for n in needles: assert n in t,(fn,n)
-          assert '“கலைஞர் தொலைக்காட்சியில்” தம்பி' in Path('volumes/volume-43/pages/page-274.md').read_text(encoding='utf-8')
-          assert 'அவர்களது உரிமைகளை' in Path('volumes/volume-43/pages/page-275.md').read_text(encoding='utf-8')
-          contents=Path('volumes/volume-43/contents/index.md').read_text(encoding='utf-8')
-          actual=Path('volumes/volume-43/pages/page-274.md').read_text(encoding='utf-8')
-          assert 'மாற்றுத் திறனாளிகளும் - மனிதரே!' in contents
-          assert 'மாற்றுத் திறனாளிகளும் - மானிடரே!' in actual
-          for p in range(257,279):
-              t=Path(f'volumes/volume-43/pages/page-{p}.md').read_text(encoding='utf-8')
-              assert not any(x in t for x in ['\ufffd','\u200c','\u200b','\ufeff'])
-          print('AMEND VALIDATION PASS')
-          PY
-
-          git config user.name "ChatGPT archival worker"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md PROJECT_HANDOVER.md NEXT_CHAT_PROMPT.md volumes/volume-43/README.md volumes/volume-43/pages/page-258.md volumes/volume-43/pages/page-274.md volumes/volume-43/pages/page-275.md
-          git diff --cached --check
-          git commit --amend --no-edit
-          test "$(git rev-parse HEAD^)" = "$(git rev-parse origin/main)"
-          echo "Amended candidate: $(git rev-parse HEAD)"
-          git push --force origin HEAD:refs/heads/tmp-volume43-3459-3463-candidate
+      - run: echo "Temporary Volume 43 helper is frozen; no repository mutation."
