@@ -1,4 +1,4 @@
-name: Temporary Volume 43 OCR cache
+name: Temporary Volume 43 OCR split
 
 on:
   push:
@@ -10,8 +10,8 @@ permissions:
   actions: read
 
 jobs:
-  cache-ocr:
-    if: ${{ !contains(github.event.head_commit.message, '[ocr-cache]') }}
+  split-ocr:
+    if: ${{ !contains(github.event.head_commit.message, '[ocr-split]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -19,24 +19,24 @@ jobs:
         with:
           ref: tmp-volume43-source-render
 
-      - name: Download verified source-render artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: volume43-pdf279-315-verification
-          path: source-artifact
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          repository: pugazg/kalaignar-murasoli-letters
-          run-id: 33531244459
-
-      - name: Cache OCR drafting aid only
+      - name: Split cached OCR by physical PDF page
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p tmp-source
-          cp source-artifact/ocr/combined.txt tmp-source/volume43-pdf279-315-ocr.txt
-          cp source-artifact/pdfinfo.txt tmp-source/volume43-pdf279-315-pdfinfo.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          src=Path('tmp-source/volume43-pdf279-315-ocr.txt').read_text(encoding='utf-8')
+          out=Path('tmp-source/ocr279-315')
+          out.mkdir(parents=True,exist_ok=True)
+          blocks={int(m.group(1)):m.group(2).strip('\n')+'\n' for m in re.finditer(r'===== PDF (\d+) =====\n(.*?)(?=\n===== PDF \d+ =====|\Z)',src,re.S)}
+          assert sorted(blocks)==list(range(279,316)), sorted(blocks)
+          for p,t in blocks.items():
+              (out/f'page-{p}.txt').write_text(t,encoding='utf-8')
+          print('split pages',len(blocks))
+          PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-source/volume43-pdf279-315-ocr.txt tmp-source/volume43-pdf279-315-pdfinfo.txt
-          git commit -m "Temporary: cache Volume 43 OCR 279-315 [ocr-cache]"
+          git add tmp-source/ocr279-315/page-*.txt
+          git commit -m "Temporary: split Volume 43 OCR 279-315 [ocr-split]"
           git push origin HEAD:tmp-volume43-source-render
