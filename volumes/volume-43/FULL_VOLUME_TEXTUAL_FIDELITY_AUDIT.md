@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–130 / 402 — VERIFIED.**
+**PDF 001–142 / 402 — VERIFIED.**
 
-PDF **112–130**, comprising Letters **3440 — `“காஞ்சி” வழியில் “கோவை” மாநாடு!`** and **3441 — `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`**, was compared directly against the controlling scan in this continuation. Letter 3440 closes at PDF 118 with `அன்புள்ள, / மு.க. / 12-12-2009`; Letter 3441 closes at PDF 130 with `அன்புள்ள, / மு.க. / 13-12-2009`.
+PDF **131–142**, comprising Letters **3442 — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!`** and **3443 — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!`**, was compared directly against the controlling scan in this continuation. Letter 3442 closes at PDF 137 with `அன்புள்ள, / மு.க. / 16-12-2009`; Letter 3443 closes at PDF 142 with `அன்புள்ள, / மு.க. / 20-12-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -95,6 +95,17 @@ No concrete scan-proven correction was identified in Letters 3438–3439 during 
 
 No concrete scan-proven correction was identified in Letters 3440–3441 during this pass. The actual Letter 3441 title on PDF 119 remains `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; the separately preserved printed-contents wording on PDF 019 remains `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
+### Scan-proven corrections in PDF 131–142
+
+- **PDF 131 — Letter 3442:** removed an editorially introduced space before the question mark: `ஜனநாயகக் கடமை உணர்ச்சியுடன் பணியாற்றுகிறேனா ?` → `ஜனநாயகக் கடமை உணர்ச்சியுடன் பணியாற்றுகிறேனா?`.
+- **PDF 132 — Letter 3442:** restored the omitted source sign-off line `அண்ணன்,` immediately before `அண்ணாதுரை.` in the quoted 8-5-1966 letter.
+- **PDF 132 — Letter 3442:** removed an editorially introduced colon after the exclamation: `சென்று! :` → `சென்று!`.
+- **PDF 134 — Letter 3442:** restored the printed word `இஸ்லாமியா` → `இஸ்லாமியர்` in `1989-ல் இஸ்லாமியர் உள்ளிட்ட சிறுபான்மையினர்...`.
+- **PDF 140 — Letter 3443:** restored the printed separated form `நடைபெற்ற ஒரு சம்பவத்தையும்` → `நடை பெற்ற ஒரு சம்பவத்தையும்`.
+- **PDF 141 — Letter 3443:** restored the printed separated form `நடைபெற்றது.` → `நடை பெற்றது.` for the 2008 மாநிலங்களவைத் தேர்தல் sentence.
+
+No other concrete scan-proven correction was identified in Letters 3442–3443 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 131** and, following the current two-letter iteration cadence, complete the next **two letters — 3442 and 3443 — in the same iteration**, stopping at the end of Letter 3443. Do **not** repeat PDF 001–130 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 143** and, following the current two-letter iteration cadence, complete the next **two letters — 3444 and 3445 — in the same iteration**, stopping at the end of Letter 3445. PDF 143 begins Letter **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!`**. Do **not** repeat PDF 001–142 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
