@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–111 / 402 — VERIFIED.**
+**PDF 001–130 / 402 — VERIFIED.**
 
-PDF **099–111**, comprising Letters **3438 — `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`** and **3439 — `குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு!`**, was compared directly against the controlling scan in this continuation. Letter 3438 closes at PDF 103 with `அன்புள்ள, / மு.க. / 4-12-2009`; Letter 3439 closes at PDF 111 with `அன்புள்ள, / மு.க. / 5-12-2009`.
+PDF **112–130**, comprising Letters **3440 — `“காஞ்சி” வழியில் “கோவை” மாநாடு!`** and **3441 — `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`**, was compared directly against the controlling scan in this continuation. Letter 3440 closes at PDF 118 with `அன்புள்ள, / மு.க. / 12-12-2009`; Letter 3441 closes at PDF 130 with `அன்புள்ள, / மு.க. / 13-12-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -91,6 +91,10 @@ No other concrete scan-proven correction was identified in Letters 3436–3437 d
 
 No concrete scan-proven correction was identified in Letters 3438–3439 during this pass.
 
+### PDF 112–130
+
+No concrete scan-proven correction was identified in Letters 3440–3441 during this pass. The actual Letter 3441 title on PDF 119 remains `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; the separately preserved printed-contents wording on PDF 019 remains `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 112** and, following the current two-letter iteration cadence, complete the next **two letters — 3440 and 3441 — in the same iteration**, stopping at the end of Letter 3441. Do **not** repeat PDF 001–111 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 131** and, following the current two-letter iteration cadence, complete the next **two letters — 3442 and 3443 — in the same iteration**, stopping at the end of Letter 3443. Do **not** repeat PDF 001–130 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
