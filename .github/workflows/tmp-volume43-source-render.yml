@@ -10,15 +10,15 @@ permissions:
 
 jobs:
   cache-final-slice:
-    if: ${{ !contains(github.event.head_commit.message, '[final-slice]') }}
+    if: ${{ !contains(github.event.head_commit.message, '[final-slice-pdf]') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 6
     steps:
       - uses: actions/checkout@v4
         with:
           ref: tmp-volume43-source-render
 
-      - name: Fetch verified controlling source and cache PDF 371-402
+      - name: Fetch verified controlling source and cache PDF 371-402 only
         shell: bash
         run: |
           set -euo pipefail
@@ -41,24 +41,12 @@ jobs:
           print("verified", size, h.hexdigest())
           PY
           sudo apt-get update -qq
-          sudo apt-get install -y -qq qpdf poppler-utils tesseract-ocr tesseract-ocr-tam
-          mkdir -p tmp-source tmp-source/ocr371-402
+          sudo apt-get install -y -qq qpdf poppler-utils
+          mkdir -p tmp-source
           qpdf /tmp/volume43.pdf --pages . 371-402 -- tmp-source/volume43-pdf371-402.pdf
           test "$(pdfinfo tmp-source/volume43-pdf371-402.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "32"
-          mkdir -p /tmp/v43-final-png
-          pdftoppm -f 1 -l 32 -png -r 160 tmp-source/volume43-pdf371-402.pdf /tmp/v43-final-png/p >/dev/null 2>&1
-          python3 - <<'PY'
-          from pathlib import Path
-          files=sorted(Path('/tmp/v43-final-png').glob('p-*.png'))
-          assert len(files)==32, len(files)
-          for i,f in enumerate(files,371):
-              f.rename(f.with_name(f'page-{i}.png'))
-          PY
-          for p in $(seq 371 402); do
-            tesseract "/tmp/v43-final-png/page-${p}.png" "tmp-source/ocr371-402/page-${p}" -l tam+eng --psm 6 >/dev/null 2>&1 || true
-          done
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-source/volume43-pdf371-402.pdf tmp-source/ocr371-402/page-*.txt
-          git commit -m "Temporary: cache Volume 43 PDF 371-402 and OCR [final-slice]"
+          git add tmp-source/volume43-pdf371-402.pdf
+          git commit -m "Temporary: cache Volume 43 PDF 371-402 [final-slice-pdf]"
           git push origin HEAD:tmp-volume43-source-render
