@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–156 / 402 — VERIFIED.**
+**PDF 001–172 / 402 — VERIFIED.**
 
-PDF **143–156**, comprising Letters **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!`** and **3445 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1`**, was compared directly against the controlling scan in this continuation. Letter 3444 closes at PDF 148 with `அன்புள்ள, / மு.க. / 21-12-2009`; Letter 3445 closes at PDF 156 with `அன்புள்ள, / மு.க. / 25-12-2009`.
+PDF **157–172**, comprising Letters **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`** and **3447 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்`**, was compared directly against the controlling scan in this continuation. Letter 3446 closes at PDF 164 with `அன்புள்ள, / மு.க. / 26-12-2009`; Letter 3447 closes at PDF 172 with `அன்புள்ள, / மு.க. / 27-12-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -115,6 +115,18 @@ No other concrete scan-proven correction was identified in Letters 3442–3443 d
 
 No other concrete scan-proven correction was identified in Letters 3444–3445 during this pass.
 
+### Scan-proven corrections in PDF 157–172
+
+- **PDF 157 — Letter 3446:** restored the printed joined year suffix: `1856 ஆம் ஆண்டு` → `1856ஆம் ஆண்டு`.
+- **PDF 158 — Letter 3446:** restored the printed English hyphenation: `Shen- Tamil` → `Shen-Tamil`.
+- **PDF 161 — Letter 3446:** restored the printed abbreviated personal name: `ஈசுவர அய்யரவர்கள்` → `ஈ.சுவர அய்யரவர்கள்`.
+- **PDF 164 — Letter 3446:** restored the printed form `ஆழந்த வருத்தத்தை` → `ஆழ்ந்த வருத்தத்தை`.
+- **PDF 170 — Letter 3447:** removed an editorially introduced colon: `தமிழக அரசின் சார்பில்:` → `தமிழக அரசின் சார்பில்`.
+- **PDF 170 — Letter 3447:** restored the source's typographic single quotation marks: `'கலைமாமணி விருது'` → `‘கலைமாமணி விருது’`.
+- **PDF 171 — Letter 3447:** restored the source's single quotation marks around the quoted word: `இந்தக் “கதி'` → `இந்தக் ‘கதி’`.
+
+No other concrete scan-proven correction was identified in Letters 3446–3447 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 157** and, following the current two-letter iteration cadence, complete the next **two letters — 3446 and 3447 — in the same iteration**, stopping at the end of Letter 3447. PDF 157 begins Letter **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`**. Do **not** repeat PDF 001–156 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 173** and, following the current two-letter iteration cadence, complete the next **two letters — 3448 and 3449 — in the same iteration**, stopping at the end of Letter 3449. PDF 173 begins Letter **3448 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!`**. Do **not** repeat PDF 001–172 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.

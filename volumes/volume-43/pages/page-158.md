@@ -10,7 +10,7 @@ letter_title: "செம்மொழி வரலாற்றில் சில
 ---
 
 ancient or classical dialect of the Tamil language, called
-Shen- Tamil or correct Tamil, in which nearly all the literature
+Shen-Tamil or correct Tamil, in which nearly all the literature
 has been written, contains exceedingly little Sanskrit; and
 differs from the colloquial dialect, or the language of prose,
 chiefly in the sedulous and jealous care with which it has
