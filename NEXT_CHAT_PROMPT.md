@@ -51,10 +51,10 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–098 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–111 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 098 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3437** have completed the second direct fidelity pass through PDF **098**. Do not repeat PDF 001–098 unless a concrete defect is reported.
+The second-pass corrections through PDF 111 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3439** have completed the second direct fidelity pass through PDF **111**. Do not repeat PDF 001–111 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another.
 
@@ -64,7 +64,7 @@ Process **two complete letters per iteration**. Start at the current frontier, v
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 099** and complete the next **two letters — 3438 and 3439 — in this iteration**, stopping at the end of Letter 3439. PDF 099 begins Letter **3438 — `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`**.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 112** and complete the next **two letters — 3440 and 3441 — in this iteration**, stopping at the end of Letter 3441. PDF 112 begins Letter **3440 — `“காஞ்சி” வழியில் “கோவை” மாநாடு!`**.
 
 For every page:
 
