@@ -51,10 +51,10 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–190 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–207 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 190 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3449** have completed the second direct fidelity pass through PDF **190**. Do not repeat PDF 001–190 unless a concrete defect is reported.
+The second-pass corrections through PDF 207 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3451** have completed the second direct fidelity pass through PDF **207**. Do not repeat PDF 001–207 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another. In particular, the actual Letter 3441 title on PDF 119 is `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`, while the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
@@ -64,7 +64,7 @@ Process **two complete letters per iteration**. Start at the current frontier, v
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 191** and complete the next **two letters — 3450 and 3451 — in this iteration**, stopping at the end of Letter 3451. PDF 191 begins Letter **3450 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!`**.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 208** and complete the next **two letters — 3452 and 3453 — in this iteration**, stopping at the end of Letter 3453. PDF 208 begins Letter **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!`**.
 
 For every page:
 
