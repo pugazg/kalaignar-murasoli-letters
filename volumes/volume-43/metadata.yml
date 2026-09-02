@@ -6,7 +6,7 @@ date_to: 2010-07-17
 letter_number_from: 3428
 letter_number_to: 3483
 letter_count: 56
-letter_inventory_status: "printed-contents-transcribed; boundaries scan-verified through 3478"
+letter_inventory_status: "printed-contents-transcribed; all-boundaries-scan-verified"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -16,16 +16,16 @@ source_file: "TVA_BOK_0065828_கலைஞரின்_கடிதங்கள�
 source_sha256: "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35"
 source_size_bytes: 229557034
 searchable_text_layer: false
-transcription_page_range: "1-370"
-transcription_status: "in-progress"
-recorded_letter_range: "3428-3478"
-completed_letter_range: "3428-3478"
-completed_letter_count: 51
+transcription_page_range: "1-402"
+transcription_status: "first-pass-complete"
+recorded_letter_range: "3428-3483"
+completed_letter_range: "3428-3483"
+completed_letter_count: 56
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "through-letter-3478-pass"
+audit_status: "through-letter-3483-pass; full-volume-audits-pending"
 audit_date: 2026-09-02
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -67,3 +67,7 @@ source_observations:
   - "Letter 3476 printed contents title uses a semicolon in `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, while actual PDF 354 uses a colon in `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`; each source layer is preserved independently."
   - "Letter 3477 printed contents title uses a semicolon in `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`, while actual PDF 358 uses a colon in `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`; each source layer is preserved independently."
   - "PDF 371 / printed page 370 cleanly begins Letter 3479 `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`; this is the exact next source record."
+  - "Letters 3479–3483 are scan-verified complete at PDF 371–400 / printed pages 370–399."
+  - "Letter 3481 printed contents title `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!` differs from actual PDF 380 title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`; each source layer is preserved independently."
+  - "PDF 401 / printed page 400 is non-letter end matter; PDF 402 is back-cover / portrait / publisher-contact-price material. No Letter 3484 is created."
+  - "All 56 source records 3428–3483 and all 402 physical PDF pages now have first-pass canonical representation; full-volume structural and second direct visual/textual-fidelity audits remain pending."

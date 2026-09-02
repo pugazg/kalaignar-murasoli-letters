@@ -164,10 +164,24 @@ PDF 340 cleanly begins Letter 3474 with actual title `ஒய்யாரக் �
 
 PDF 371 cleanly begins Letter 3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`.
 
+### Five-record batch — Letters 3479–3483 — PDF 371–400
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3479 | `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` | 371–374 | 370–373 | 7-7-2010 |
+| 3480 | `வெல்லத் தமிழ் இனி வளரும்!` | 375–379 | 374–378 | 12-7-2010 |
+| 3481 | `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` | 380–385 | 379–384 | 14-7-2010 |
+| 3482 | `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்!` | 386–393 | 385–392 | 16-7-2010 |
+| 3483 | `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2)` | 394–400 | 393–399 | 17-07-2010 |
+
+PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover / portrait / publisher-contact-price page. No Letter 3484 is created.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–370 / 402**
-- Completed letters: **51 / 56 — 3428–3478**
+- Canonical page coverage: **PDF 001–402 / 402**
+- Completed letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -188,7 +202,8 @@ PDF 371 cleanly begins Letter 3479 — `“பந்த்”தால் வி
 - Letter 3474 printed contents uses `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`, while actual PDF 340 uses `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`.
 - Letter 3476 printed contents uses `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, while actual PDF 354 uses `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`.
 - Letter 3477 printed contents uses `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`, while actual PDF 358 uses `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`.
+- Letter 3481 printed contents uses `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`, while actual PDF 380 uses `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`.
 
 ## Exact next activity
 
-Process the final **five complete source records, Letters 3479–3483**, beginning with **Letter 3479 at PDF 371 / printed page 370**. Verify every closing/date boundary directly from the scan, complete the Volume 43 letter inventory, and do not begin English translation until the Tamil transcription/audit gates are satisfied.
+Run the **full Volume 43 Tamil structural audit** across canonical **PDF 001–402 / Letters 3428–3483**, then perform the required **second direct visual/textual-fidelity verification** against the controlling scan. Keep English translation blocked until both Tamil gates explicitly pass.

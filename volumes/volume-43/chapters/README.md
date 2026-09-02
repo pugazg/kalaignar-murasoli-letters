@@ -55,14 +55,14 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3476](3476-nanjai-ennaadhe-nambik-kedaadhe.md) | நஞ்சை எண்ணாதே: நம்பிக் கெடாதே! | 17-6-2010 | 353 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | [3477](3477-idho-seppedugal-uraithidum-urudhi.md) | இதோ: செப்பேடுகள் உரைத்திடும் உறுதி! | 19-6-2010 | 357 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | [3478](3478-oozhale-un-peyarthaan-jayalalithaavaa.md) | ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா? | 4-7-2010 | 363 | complete (first-pass-reviewed) |
-| 3479 | “பந்த்”தால் விளையப் போகும் பயன் என்ன? | 7-7-2010 | 370 | pending transcription |
-| 3480 | வெல்லத் தமிழ் இனி வளரும்! | 12-7-2010 | 374 | pending transcription |
-| 3481 | வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்! | 14-7-2010 | 379 | pending transcription |
-| 3482 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | pending transcription |
-| 3483 | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | pending transcription |
+| [3479](3479-bandh-thaal-vilaiyap-pogum-payan-enna.md) | “பந்த்”தால் விளையப் போகும் பயன் என்ன? | 7-7-2010 | 370 | complete (first-pass-reviewed) |
+| [3480](3480-vellath-tamizh-ini-valarum.md) | வெல்லத் தமிழ் இனி வளரும்! | 12-7-2010 | 374 | complete (first-pass-reviewed) |
+| [3481](3481-vendaatha-vimarsanangal-marappom-mannippom.md) | வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்! | 14-7-2010 | 379 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3482](3482-ammaniyin-aathaaramatra-kutrachattum-aanitharamaana-pathilum.md) | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | complete (first-pass-reviewed) |
+| [3483](3483-ammaniyin-aathaaramatra-kutrachattum-aanitharamaana-pathilum-2.md) | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | complete (first-pass-reviewed) |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3478: 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474, 3476 and 3477.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3483: 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474, 3476, 3477 and 3481.
 
-> The actual starts of Letters 3472–3474 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. Letters 3476 and 3477 use colons in the actual starts where the printed contents has semicolons. PDF 371 begins pending Letter 3479.
+> The actual starts of Letters 3472–3474 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. Letters 3476 and 3477 use colons in the actual starts where the printed contents has semicolons. Letter 3481 actual PDF 380 title uses `?` after `விமர்சனங்கள்`, while the printed contents uses `;`. Letters 3479–3483 are complete; PDF 401–402 are non-letter source pages and no Letter 3484 is created.
 
 > Letter 3467 is a reproduced handwritten-letter record. Its printed-contents date cell remains blank, while the reproduced handwritten letter itself is documented at record level as dated `2/11/1974`.

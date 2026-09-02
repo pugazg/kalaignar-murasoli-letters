@@ -10,7 +10,7 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-**Last completed source-work activity when this handover was refreshed:** `Transcribe Volume 43 Letters 3474-3478` — the commit containing this handover. Live `main` remains authoritative if later work has advanced beyond it.
+**Last completed source-work activity when this handover was refreshed:** `Transcribe Volume 43 Letters 3479-3483` — the commit containing this handover. Live `main` remains authoritative if later work has advanced beyond it.
 
 For a fresh chat, attach or otherwise resolve the controlling Volume 43 PDF before page-level visual verification. Repository text never substitutes for the controlling scan.
 
@@ -31,8 +31,8 @@ Current durable state:
 - Date span: **01.11.2009–17.07.2010**
 - Printed contents: **PDF 018–022**
 - Source inventory: **56 records, 3428–3483**
-- Canonical Tamil/source-page representation: **PDF 001–370 / 402**
-- Completed letters: **51 / 56 — 3428–3478**
+- Canonical Tamil/source-page representation: **PDF 001–402 / 402**
+- Completed letters: **56 / 56 — 3428–3483**
 - Translation: **blocked pending Tamil gates**
 
 The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. Letters 3439–3443 are complete at PDF 104–142. Letters 3444–3448 are complete at PDF 143–181. Letters 3449–3453 are complete at PDF 182–234. Letters 3454–3458 are complete at PDF 235–256. Letters 3459–3463 are complete at PDF 257–278. Letters 3464–3468 are complete at PDF 279–314. Letters 3469–3473 are complete at PDF 315–339. The latest normal batch is scan-verified complete:
@@ -42,6 +42,15 @@ The user explicitly approved the first Volume 43 iteration as **PDF 001–023 on
 - **3476** — PDF **354–357** — actual title `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` — closes `17-6-2010`
 - **3477** — PDF **358–363** — actual title `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` — closes `19-6-2010`
 - **3478** — PDF **364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` — closes `4-7-2010`
+
+Final normal batch is also scan-verified complete:
+
+- **3479** — PDF **371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` — closes `7-7-2010`
+- **3480** — PDF **375–379** — `வெல்லத் தமிழ் இனி வளரும்!` — closes `12-7-2010`
+- **3481** — PDF **380–385** — actual title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` — closes `14-7-2010`
+- **3482** — PDF **386–393** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்!` — closes `16-7-2010`
+- **3483** — PDF **394–400** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2)` — closes `17-07-2010`
+- PDF **401** is non-letter end matter; PDF **402** is back-cover / portrait / publisher-contact-price material. No Letter 3484 is created.
 
 Source-layer title discrepancies are documented and must not be normalized across layers:
 
@@ -54,26 +63,23 @@ Source-layer title discrepancies are documented and must not be normalized acros
 - Letters 3472–3474 printed contents use long `ஓய்யாரக்...`; actual PDF 326, 332 and 340 use short `ஒய்யாரக்...`.
 - Letter 3476 printed contents uses `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`; actual PDF 354 uses `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`.
 - Letter 3477 printed contents uses `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`; actual PDF 358 uses `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`.
+- Letter 3481 printed contents uses `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`; actual PDF 380 uses `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`.
 
 Letter 3467's printed contents date cell remains blank exactly as printed. Its editorial introduction says the reproduced handwritten letter was written `2-11-1974`, and the final facsimile page visibly carries `2/11/1974`; keep that as a separate record-level source fact rather than filling the blank contents cell. Its handwritten facsimile pages are represented as facsimile source pages rather than silently normalizing uncertain handwriting into typeset text.
 
-PDF **371 / printed page 370** cleanly begins Letter **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`**.
+All **56 source records, Letters 3428–3483**, are now first-pass complete, and all **402 physical PDF pages** have canonical representation/classification.
 
 ### Exact next activity
 
-Process the final **five complete Volume 43 source records, Letters 3479–3483**, beginning with Letter 3479 at **PDF 371 / printed page 370**. Verify every closing/date boundary directly from the scan, complete the source inventory, and do not create Letter 3484 from non-letter back matter. Do not begin English translation until the required Tamil transcription/audit gates are satisfied.
+Run the **full Volume 43 Tamil structural audit** across PDF **001–402** and source records **3428–3483**. Then perform the required **second direct visual/textual-fidelity verification** against the controlling scan. English translation must remain blocked until both Tamil gates explicitly pass.
 
-For that batch:
+For the audit activity:
 
-- follow the normal five-complete-letter batching policy;
-- create every canonical page file covered by the five letters and any remaining non-letter source pages required to complete canonical physical-page coverage only when the source confirms their section type;
-- create/update the five chapter records and chapter index;
-- synchronize printed-contents verification notes only where source verification advances, without rewriting source wording;
-- synchronize `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, the Volume 43 README, root README, this handover, and `NEXT_CHAT_PROMPT.md`;
-- run the repository precommit checks for page continuity, Unicode residue, duplicated bodies, title/date/figure/quotation fidelity, verified closing boundaries, and the final source boundary;
-- re-fetch live `main` immediately before mutation;
-- publish one validated atomic commit and fast-forward with `force: false`;
-- verify parent → new HEAD changed-file scope.
+- validate page continuity 001–402, record inventory 3428–3483, chapter/page mappings, titles, dates, closing boundaries, and non-letter classification for PDF 401–402;
+- check duplicate bodies, U+FFFD / unwanted zero-width residue, metadata/control synchronization and source-layer discrepancy notes;
+- conduct the second direct scan comparison over the complete volume and record all corrections rather than silently normalizing;
+- only after both Tamil gates pass may English translation/source-check planning begin;
+- re-fetch live `main` immediately before mutation, publish one validated atomic commit, fast-forward with `force: false`, and verify parent → new HEAD scope.
 
 ## Volume 44 — COMPLETE
 

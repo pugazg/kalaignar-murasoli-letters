@@ -354,3 +354,50 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Canonical Tamil/source-page representation: **PDF 001–370 / 402**
 - Completed source records: **51 / 56 — 3428–3478**
 - Partial/source-incomplete records: **none**
+
+## Five-record iteration — Letters 3479–3483 — PDF 371–402
+
+**Date:** 2026-09-02  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3479** — PDF **371–374** / printed **370–373** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` — closes `7-7-2010`.
+- **3480** — PDF **375–379** / printed **374–378** — `வெல்லத் தமிழ் இனி வளரும்!` — closes `12-7-2010`.
+- **3481** — PDF **380–385** / printed **379–384** — actual title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` — closes `14-7-2010`.
+- **3482** — PDF **386–393** / printed **385–392** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்!` — closes `16-7-2010`.
+- **3483** — PDF **394–400** / printed **393–399** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2)` — closes `17-07-2010`.
+- PDF **401 / printed 400** is non-letter end matter; PDF **402** is back-cover / portrait / publisher-contact-price material. **No Letter 3484** is created.
+
+### Visual/textual checks
+
+- Every physical source page **371–402** was inspected/classified against the controlling scan; OCR remained a drafting/discrepancy aid only.
+- Physical page boundaries, letter starts, closings, dates, figures, English strings and punctuation-sensitive readings were preserved.
+- The final fidelity pass resolved OCR-sensitive readings including `Assocham`, `4110`, the Letter 3482 closing date `16-7-2010`, and the Letter 3483 closing date `17-07-2010` from the source.
+- Letter 3481 preserves the actual question mark in its title and the five-dot `மறப்போம்..... மன்னிப்போம்!` closing phrase as printed.
+- No replacement Unicode or unintended zero-width OCR residue is present in the finalized candidate.
+- No English translation was started.
+
+### Source-layer note
+
+- **3481:** printed contents `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`; actual PDF 380 `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`.
+
+### Precommit checks
+
+- New page-file continuity **371–402** and cumulative continuity **001–402**: PASS.
+- Exactly five complete source records **3479–3483**: PASS.
+- Complete source inventory **56 / 56 — 3428–3483**: PASS.
+- PDF 401–402 classified as non-letter source pages; no Letter 3484: PASS.
+- U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue: none.
+- Chapter page-link sequences and start/end metadata: PASS.
+- Title/date/source-layer fidelity: PASS.
+- English translation remains blocked pending full-volume Tamil gates.
+
+### Durable result
+
+- Canonical Tamil/source-page representation: **PDF 001–402 / 402**
+- Completed source records: **56 / 56 — 3428–3483**
+- Partial/source-incomplete records: **none**
+- First-pass source transcription: **COMPLETE**
+- Full-volume structural audit: **pending**
+- Second direct visual/textual-fidelity verification: **pending**
