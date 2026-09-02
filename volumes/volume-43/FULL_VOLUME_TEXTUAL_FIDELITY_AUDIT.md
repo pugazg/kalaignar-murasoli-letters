@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–207 / 402 — VERIFIED.**
+**PDF 001–234 / 402 — VERIFIED.**
 
-PDF **191–207**, comprising Letters **3450 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!`** and **3451 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!`**, was compared directly against the controlling scan in this continuation. Letter 3450 closes at PDF 198 with `அன்புள்ள, / மு.க. / 30-12-2009`; Letter 3451 closes at PDF 207 with `அன்புள்ள, / மு.க. / 31-12-2009`.
+PDF **208–234**, comprising Letters **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!`** and **3453 — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!`**, was compared directly against the controlling scan in this continuation. Letter 3452 closes at PDF 211 with `அன்புள்ள, / மு.க. / 9-1-2010`; Letter 3453 closes at PDF 234 with `அன்புள்ள, / மு.க. / 13-1-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -147,10 +147,18 @@ No other concrete scan-proven correction was identified in Letters 3446–3447 d
 
 No other concrete scan-proven correction was identified in Letters 3448–3449 during this pass.
 
-### PDF 191–207
+### Scan-proven correction in PDF 191–207
 
-No concrete scan-proven correction was identified in Letters 3450–3451 during this pass.
+- **PDF 204 — Letter 3451 (late direct-scan recheck):** restored the printed year spacing `1924ஆம் ஆண்டு` → `1924 ஆம் ஆண்டு`.
+
+No other concrete scan-proven correction was identified in Letters 3450–3451 during this pass.
+
+### Scan-proven corrections in PDF 208–234
+
+- **PDF 232 — Letter 3453:** restored the printed year spacing at the opening of the 55-lakh-acre paragraph: `2006ஆம் ஆண்டு` → `2006 ஆம் ஆண்டு`.
+
+No other concrete scan-proven correction was identified in Letters 3452–3453 during this pass.
 
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 208** and, following the current two-letter iteration cadence, complete the next **two letters — 3452 and 3453 — in the same iteration**, stopping at the end of Letter 3453. PDF 208 begins Letter **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!`**. Do **not** repeat PDF 001–207 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 235** and, following the current two-letter iteration cadence, complete the next **two letters — 3454 and 3455 — in the same iteration**, stopping at the end of Letter 3455. PDF 235 begins Letter **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!`**. Do **not** repeat PDF 001–234 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
