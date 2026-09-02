@@ -51,7 +51,7 @@ No concrete scan-proven correction was identified in Letter 3429 during this pas
 
 ### Scan-proven corrections in PDF 040–048
 
-- **PDF 043 — Letter 3430:** restored the printed word separation `இந்தப் பேச்சுவார்த்தையிலும்` → `இந்தப் பேச்சு வார்த்தையிலும்`, and restored the printed joined form `அகற்றப் பட்டது` → `அகற்றப்பட்டது`.
+- **PDF 043 — Letter 3430:** restored the printed joined form `அகற்றப் பட்டது` → `அகற்றப்பட்டது`.
 - **PDF 044 — Letter 3430:** restored the printed date spacing `2. 1.2007` → `2.1.2007`.
 
 No other concrete scan-proven correction was identified in PDF 040–048 during this pass.
