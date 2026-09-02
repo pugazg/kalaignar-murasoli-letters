@@ -1,4 +1,4 @@
-name: Temporary Volume 43 final OCR
+name: Temporary Volume 43 final page images
 
 on:
   push:
@@ -6,11 +6,10 @@ on:
       - tmp-volume43-source-render
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  ocr-final-slice:
-    if: ${{ !contains(github.event.head_commit.message, '[final-ocr]') }}
+  render-final-pages:
     runs-on: ubuntu-latest
     timeout-minutes: 6
     steps:
@@ -18,27 +17,27 @@ jobs:
         with:
           ref: tmp-volume43-source-render
 
-      - name: OCR cached PDF 371-402
+      - name: Render cached PDF 371-402 as JPEG
         shell: bash
         run: |
           set -euo pipefail
           test -f tmp-source/volume43-pdf371-402.pdf
           sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tam
-          rm -rf /tmp/v43-final-jpg tmp-source/ocr371-402
-          mkdir -p /tmp/v43-final-jpg tmp-source/ocr371-402
-          pdftoppm -f 1 -l 32 -jpeg -jpegopt quality=82 -r 100 tmp-source/volume43-pdf371-402.pdf /tmp/v43-final-jpg/p >/dev/null 2>&1
+          sudo apt-get install -y -qq poppler-utils
+          mkdir -p final-pages
+          pdftoppm -f 1 -l 32 -jpeg -jpegopt quality=84 -r 100 tmp-source/volume43-pdf371-402.pdf final-pages/p >/dev/null 2>&1
           python3 - <<'PY'
           from pathlib import Path
-          files=sorted(Path('/tmp/v43-final-jpg').glob('p-*.jpg'))
+          files=sorted(Path('final-pages').glob('p-*.jpg'))
           assert len(files)==32, len(files)
           for i,f in enumerate(files,371):
-              f.rename(f.with_name(f'page-{i}.jpg'))
+              f.rename(Path('final-pages')/f'page-{i}.jpg')
           PY
-          seq 371 402 | xargs -P 4 -I{} bash -c 'tesseract "/tmp/v43-final-jpg/page-{}.jpg" "tmp-source/ocr371-402/page-{}" -l tam+eng --psm 6 >/dev/null 2>&1 || true'
-          test "$(find tmp-source/ocr371-402 -name 'page-*.txt' | wc -l)" = "32"
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-source/ocr371-402/page-*.txt
-          git commit -m "Temporary: OCR Volume 43 PDF 371-402 [final-ocr]"
-          git push origin HEAD:tmp-volume43-source-render
+          du -sh final-pages
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: volume43-final-pages-371-402
+          path: final-pages/page-*.jpg
+          compression-level: 6
+          retention-days: 1
