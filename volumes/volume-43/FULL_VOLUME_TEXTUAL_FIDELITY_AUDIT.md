@@ -23,9 +23,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–039 / 402 — VERIFIED.**
+**PDF 001–048 / 402 — VERIFIED.**
 
-PDF **033–039**, comprising Letter **3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 039 with `அன்புள்ள, / மு.க. / 4-11-2009`.
+PDF **040–048**, comprising Letter **3430 — `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 048 with `அன்புள்ள, / மு.க. / 6-11-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -49,6 +49,13 @@ No other concrete scan-proven correction was identified in PDF 024–032 during 
 
 No concrete scan-proven correction was identified in Letter 3429 during this pass.
 
+### Scan-proven corrections in PDF 040–048
+
+- **PDF 043 — Letter 3430:** restored the printed word separation `இந்தப் பேச்சுவார்த்தையிலும்` → `இந்தப் பேச்சு வார்த்தையிலும்`, and restored the printed joined form `அகற்றப் பட்டது` → `அகற்றப்பட்டது`.
+- **PDF 044 — Letter 3430:** restored the printed date spacing `2. 1.2007` → `2.1.2007`.
+
+No other concrete scan-proven correction was identified in PDF 040–048 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 040** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–039 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 049** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–048 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
