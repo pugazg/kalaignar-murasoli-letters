@@ -23,9 +23,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–023 / 402 — VERIFIED.**
+**PDF 001–032 / 402 — VERIFIED.**
 
-Pages **020–023** were checked in this continuation and required no correction. PDF 023 remains a blank page with reverse-side show-through.
+PDF **024–032**, comprising Letter **3428 — `காக்கும் கரங்களுமன்றோ?`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 032 with `அன்புள்ள, / மு.க. / 1-11-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -38,8 +38,13 @@ Pages **020–023** were checked in this continuation and required no correction
 - **PDF 018 — printed contents, Letter 3430:** `கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!` → `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`.
 - **PDF 019 — printed contents, Letter 3441:** `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!` → `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
-No other concrete scan-proven correction was identified in PDF 001–023 during this pass.
+### Scan-proven corrections in PDF 024–032
+
+- **PDF 026 — Letter 3428:** removed an editorially introduced sandhi consonant: `சட்டம், ஒழுங்குப் பிரச்சினையில்` → `சட்டம், ஒழுங்கு பிரச்சினையில்`.
+- **PDF 032 — Letter 3428:** restored omitted source text: `மதிப்புள்ள தொன்மைவாய்ந்த மரகத லிங்கத்தை` → `மதிப்புள்ளதெனப்படும் தொன்மைவாய்ந்த மரகத லிங்கத்தை`.
+
+No other concrete scan-proven correction was identified in PDF 024–032 during this pass.
 
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 024** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–023 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 033** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–032 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
