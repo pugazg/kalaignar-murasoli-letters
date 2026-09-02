@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 Tamil Full-Volume Audit
+# Next Chat Prompt — Volume 43 Tamil Fidelity Verification
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -14,11 +14,7 @@ Attach or otherwise resolve the controlling PDF in the fresh chat before direct 
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state.
-
-**Last completed source-work commit:** `bc32fc3c7dcf538930357a04ae260d679a2785d6` — `Transcribe Volume 43 Letters 3479-3483`.
-
-**Live-main checkpoint immediately before this handoff refresh:** `e69aed134f25b09e3ba021e2777ce315707bcde5` — `Remove accidental noop marker`. The handoff-refresh commit containing this prompt will be newer. If live `main` has advanced again, preserve the newer durable state. Do not reset, repeat, or reopen later completed work.
+Fetch live `main` first and preserve the newest durable state. Do not reset, repeat, or reopen later completed work because a copied checkpoint is older.
 
 ## Mandatory startup
 
@@ -36,6 +32,8 @@ Before any repository change, read completely:
 10. `volumes/volume-43/metadata.yml`
 11. `volumes/volume-43/contents/index.md`
 12. `volumes/volume-43/chapters/README.md`
+13. `volumes/volume-43/FULL_VOLUME_STRUCTURAL_AUDIT.md`
+14. `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
 
 The controlling scan is the highest authority. OCR is only a drafting/discrepancy aid. Do not silently normalize spelling, punctuation, old Tamil glyph readings, titles, quotations, figures, dates, signatures, closings, English/Latin text, facsimiles, or source-layer differences.
 
@@ -52,33 +50,27 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **401**: non-letter end matter
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
-- English translation: **blocked pending Tamil gates**
+- Full-volume Tamil structural audit: **PASS**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402 VERIFIED**
+- English translation: **blocked pending Tamil fidelity gate**
 
-Final five source records:
+The second-pass corrections through PDF 023 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not repeat PDF 001–023 unless a concrete defect is reported.
 
-- **3479** — PDF 371–374 — closes `7-7-2010`
-- **3480** — PDF 375–379 — closes `12-7-2010`
-- **3481** — PDF 380–385 — actual title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` — closes `14-7-2010`
-- **3482** — PDF 386–393 — closes `16-7-2010`
-- **3483** — PDF 394–400 — closes `17-07-2010`
-
-Preserve all documented contents/actual-title discrepancies independently, including Letter **3481**: printed contents has `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`, while actual PDF 380 has `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`.
+Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another.
 
 ## Exact next activity
 
-Run the **full Volume 43 Tamil structural audit**, then the required **second direct visual/textual-fidelity verification**.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 024** and continue sequentially against the controlling scan.
 
-For the structural audit, validate at minimum:
+For every page:
 
-- canonical page continuity **001–402** with no gaps or duplicates;
-- exactly **56 source records, 3428–3483**, with no invented 3484;
-- chapter start/end ranges and page links;
-- contents-layer wording vs actual-title metadata;
-- all closings/dates and final source-page classifications;
-- metadata, progress, audit, README and handover synchronization;
-- duplicate page bodies and U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue.
+- compare the canonical physical-page record directly with the scan;
+- apply only concrete scan-proven corrections;
+- record each correction explicitly in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`;
+- preserve contents-layer wording separately from actual-title metadata;
+- do not re-transcribe already completed letters unless a concrete defect is found.
 
-Then compare the full volume directly against the controlling scan for the second visual/textual-fidelity gate. Record every correction explicitly. **Do not re-transcribe completed letters unless a concrete audit defect is found. Do not begin English translation until both Tamil gates are PASS.**
+**Do not begin English translation until the fidelity audit reaches PDF 402 / 402 and is explicitly marked PASS.**
 
 ## Git discipline
 

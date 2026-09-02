@@ -6,7 +6,7 @@ section: "dedication"
 transcription_status: "first-pass-reviewed"
 ---
 
-# அண்ணாவுக்கே....
+# அண்ணாவுக்கு...
 
 [கருப்பு-வெள்ளைப் புகைப்படம்: கண்ணாடி அணிந்த நபரின் உருவப்படம்.]
 
