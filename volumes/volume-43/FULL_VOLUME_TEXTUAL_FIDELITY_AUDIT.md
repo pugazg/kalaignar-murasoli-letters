@@ -20,12 +20,13 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 - Record every scan-proven correction explicitly.
 - Do not re-transcribe completed letters unless a concrete fidelity defect is found.
 - Continue sequentially from the durable verified frontier; do not repeat earlier verified pages without a specific defect report.
+- From the PDF 070 continuation onward, process **two complete letters per iteration**, stopping at the end of the second letter.
 
 ## Current durable frontier
 
-**PDF 001–069 / 402 — VERIFIED.**
+**PDF 001–086 / 402 — VERIFIED.**
 
-PDF **061–069**, comprising Letter **3433 — `பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்!`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 069 with `அன்புள்ள, / மு.க. / 15-11-2009`.
+PDF **070–086**, comprising Letters **3434 — `நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது?`** and **3435 — `முடிந்த தொடர்கதை; முடியாத வரலாறு!`**, was compared directly against the controlling scan in this continuation. Letter 3434 closes at PDF 075 with `அன்புள்ள, / மு.க. / 18-11-2009`; Letter 3435 closes at PDF 086 with `அன்புள்ள, / மு.க. / 26-11-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -71,6 +72,13 @@ No other concrete scan-proven correction was identified in PDF 054–060 during 
 
 No concrete scan-proven correction was identified in Letter 3433 during this pass.
 
+### Scan-proven corrections in PDF 070–086
+
+- **PDF 074 — Letter 3434:** removed an editorially introduced sentence break not present in the scan: `இலங்கையில். தமிழ் மக்களின்` → `இலங்கையில் தமிழ் மக்களின்`.
+- **PDF 085 — Letter 3435:** removed an editorially introduced colon after the quoted phrase: `“பண்டாரகனைத் தவிர”: என்றதும்` → `“பண்டாரகனைத் தவிர” என்றதும்`.
+
+No other concrete scan-proven correction was identified in Letters 3434–3435 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 070** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–069 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 087** and, following the current two-letter iteration cadence, complete the next **two letters — 3436 and 3437 — in the same iteration**, stopping at the end of Letter 3437. Do **not** repeat PDF 001–086 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.

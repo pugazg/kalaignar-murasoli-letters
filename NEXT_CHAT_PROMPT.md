@@ -51,16 +51,20 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–069 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–086 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 069 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3433** have completed the second direct fidelity pass through PDF **069**. Do not repeat PDF 001–069 unless a concrete defect is reported.
+The second-pass corrections through PDF 086 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3435** have completed the second direct fidelity pass through PDF **086**. Do not repeat PDF 001–086 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another.
 
+## Iteration cadence
+
+Process **two complete letters per iteration**. Start at the current frontier, verify the first complete letter and then the immediately following complete letter in the same iteration, and stop at the end of the second letter. If scan-proven corrections are found, apply them before advancing the frontier.
+
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 070** and continue sequentially against the controlling scan.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 087** and complete the next **two letters — 3436 and 3437 — in this iteration**, stopping at the end of Letter 3437.
 
 For every page:
 
