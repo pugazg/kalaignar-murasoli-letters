@@ -117,13 +117,26 @@ No other concrete scan-proven correction was identified in Letters 3444–3445 d
 
 ### Scan-proven corrections in PDF 157–172
 
-- **PDF 157 — Letter 3446:** restored the printed joined year suffix: `1856 ஆம் ஆண்டு` → `1856ஆம் ஆண்டு`.
+The following reconciled list supersedes provisional notes created while this batch was still being visually checked.
+
+- **PDF 157 — Letter 3446:** restored the printed year spacing `1887ஆம் ஆண்டு` → `1887 ஆம் ஆண்டு`.
+- **PDF 157 — Letter 3446:** restored the printed year spacing `1856ஆம் ஆண்டு` → `1856 ஆம் ஆண்டு`.
 - **PDF 158 — Letter 3446:** restored the printed English hyphenation: `Shen- Tamil` → `Shen-Tamil`.
+- **PDF 159 — Letter 3446:** restored the printed abbreviation `எல.,` → `எல்.,` in `எம்.ஏ.,எம்.எல்.,`.
 - **PDF 161 — Letter 3446:** restored the printed abbreviated personal name: `ஈசுவர அய்யரவர்கள்` → `ஈ.சுவர அய்யரவர்கள்`.
+- **PDF 161 — Letter 3446:** restored the printed spacing `15ஆம் நாள்` → `15 ஆம் நாள்`.
+- **PDF 163 — Letter 3446:** restored the printed word `கடைமையைச்` → `கடமையைச்`.
+- **PDF 163 — Letter 3446:** restored the printed year spacing `1921ஆம் ஆண்டில்` → `1921 ஆம் ஆண்டில்`.
+- **PDF 164 — Letter 3446:** restored the printed year spacing `1938ஆம் ஆண்டு` → `1938 ஆம் ஆண்டு`.
 - **PDF 164 — Letter 3446:** restored the printed form `ஆழந்த வருத்தத்தை` → `ஆழ்ந்த வருத்தத்தை`.
+- **PDF 165 — Letter 3447:** restored the printed year spacing `1919ஆம் ஆண்டு` → `1919 ஆம் ஆண்டு` at the letter opening.
+- **PDF 165 — Letter 3447:** restored the later printed year spacing `1919ஆம் ஆண்டிலும்` → `1919 ஆம் ஆண்டிலும்`.
+- **PDF 166 — Letter 3447:** restored the printed year spacing `1923ஆம் ஆண்டிலும்` → `1923 ஆம் ஆண்டிலும்`.
 - **PDF 170 — Letter 3447:** removed an editorially introduced colon: `தமிழக அரசின் சார்பில்:` → `தமிழக அரசின் சார்பில்`.
 - **PDF 170 — Letter 3447:** restored the source's typographic single quotation marks: `'கலைமாமணி விருது'` → `‘கலைமாமணி விருது’`.
+- **PDF 171 — Letter 3447:** removed the stray editorially introduced leading period before `செம்மொழி கோரிக்கைக்கு`.
 - **PDF 171 — Letter 3447:** restored the source's single quotation marks around the quoted word: `இந்தக் “கதி'` → `இந்தக் ‘கதி’`.
+- **PDF 172 — Letter 3447:** restored the printed joined honorific/name form `திரு. மணவை முஸ்தபா` → `திரு.மணவை முஸ்தபா`.
 
 No other concrete scan-proven correction was identified in Letters 3446–3447 during this pass.
 
