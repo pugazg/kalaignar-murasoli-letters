@@ -1,4 +1,4 @@
-name: Temporary Volume 43 final page images
+name: Temporary Volume 43 source release
 
 on:
   push:
@@ -6,38 +6,27 @@ on:
       - tmp-volume43-source-render
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  render-final-pages:
+  publish-source-slice:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
           ref: tmp-volume43-source-render
 
-      - name: Render cached PDF 371-402 as JPEG
+      - name: Publish cached PDF 371-402 as temporary release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
           set -euo pipefail
           test -f tmp-source/volume43-pdf371-402.pdf
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils
-          mkdir -p final-pages
-          pdftoppm -f 1 -l 32 -jpeg -jpegopt quality=84 -r 100 tmp-source/volume43-pdf371-402.pdf final-pages/p >/dev/null 2>&1
-          python3 - <<'PY'
-          from pathlib import Path
-          files=sorted(Path('final-pages').glob('p-*.jpg'))
-          assert len(files)==32, len(files)
-          for i,f in enumerate(files,371):
-              f.rename(Path('final-pages')/f'page-{i}.jpg')
-          PY
-          du -sh final-pages
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: volume43-final-pages-371-402
-          path: final-pages/page-*.jpg
-          compression-level: 6
-          retention-days: 1
+          gh release delete tmp-v43-final-source-20260902 --cleanup-tag -y || true
+          gh release create tmp-v43-final-source-20260902 \
+            tmp-source/volume43-pdf371-402.pdf \
+            --target tmp-volume43-source-render \
+            --title "Temporary Volume 43 source slice 371-402" \
+            --notes "Temporary source-verification asset. Remove after Volume 43 final-batch archival verification."
