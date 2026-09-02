@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–234 / 402 — VERIFIED.**
+**PDF 001–245 / 402 — VERIFIED.**
 
-PDF **208–234**, comprising Letters **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!`** and **3453 — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!`**, was compared directly against the controlling scan in this continuation. Letter 3452 closes at PDF 211 with `அன்புள்ள, / மு.க. / 9-1-2010`; Letter 3453 closes at PDF 234 with `அன்புள்ள, / மு.க. / 13-1-2010`.
+PDF **235–245**, comprising Letters **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!`** and **3455 — `“வேலியே பயிரை மேய்வதா?”`**, was compared directly against the controlling scan in this continuation. Letter 3454 closes at PDF 240 with `அன்புள்ள, / மு.க. / 3-2-2010`; Letter 3455 closes at PDF 245 with `அன்புள்ள, / மு.க. / 10-02-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -159,6 +159,13 @@ No other concrete scan-proven correction was identified in Letters 3450–3451 d
 
 No other concrete scan-proven correction was identified in Letters 3452–3453 during this pass.
 
+### Scan-proven corrections in PDF 235–245
+
+- **PDF 237 — Letter 3454:** restored the printed eleven-period sequence before `அமெரிக்க`: `“........அமெரிக்க` → `“...........அமெரிக்க`.
+- **PDF 238 — Letter 3454:** restored the printed nine-period sequence before `நான்`: `“........நான்` → `“.........நான்`.
+
+No other concrete scan-proven correction was identified in Letters 3454–3455 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 235** and, following the current two-letter iteration cadence, complete the next **two letters — 3454 and 3455 — in the same iteration**, stopping at the end of Letter 3455. PDF 235 begins Letter **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!`**. Do **not** repeat PDF 001–234 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 246** and, following the current two-letter iteration cadence, complete the next **two letters — 3456 and 3457 — in the same iteration**, stopping at the end of Letter 3457. PDF 246 begins Letter **3456 — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!`**. Do **not** repeat PDF 001–245 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
