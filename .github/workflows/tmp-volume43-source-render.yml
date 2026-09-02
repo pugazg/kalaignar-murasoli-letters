@@ -1,4 +1,4 @@
-name: Temporary Volume 43 lightweight verification images
+name: Temporary Volume 43 final source slice
 
 on:
   push:
@@ -6,38 +6,59 @@ on:
       - tmp-volume43-source-render
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  render-lite:
+  cache-final-slice:
+    if: ${{ !contains(github.event.head_commit.message, '[final-slice]') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
         with:
           ref: tmp-volume43-source-render
 
-      - name: Render PDF 279-315 as compact JPEGs
+      - name: Fetch verified controlling source and cache PDF 371-402
         shell: bash
         run: |
           set -euo pipefail
+          python3 - <<'PY'
+          import hashlib
+          from pathlib import Path
+          import requests
+          url = "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0065828/TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf"
+          out = Path("/tmp/volume43.pdf")
+          h = hashlib.sha256(); size = 0
+          with requests.get(url, stream=True, timeout=180, allow_redirects=True) as r:
+              r.raise_for_status()
+              with out.open("wb") as f:
+                  for chunk in r.iter_content(chunk_size=1024*1024):
+                      if not chunk:
+                          continue
+                      f.write(chunk); h.update(chunk); size += len(chunk)
+          assert size == 229557034, size
+          assert h.hexdigest() == "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35"
+          print("verified", size, h.hexdigest())
+          PY
           sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils
-          mkdir -p lite-pages
-          pdftoppm -f 1 -l 37 -jpeg -jpegopt quality=72 -r 120 tmp-source/volume43-pdf279-315.pdf lite-pages/p >/dev/null 2>&1
+          sudo apt-get install -y -qq qpdf poppler-utils tesseract-ocr tesseract-ocr-tam
+          mkdir -p tmp-source tmp-source/ocr371-402
+          qpdf /tmp/volume43.pdf --pages . 371-402 -- tmp-source/volume43-pdf371-402.pdf
+          test "$(pdfinfo tmp-source/volume43-pdf371-402.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "32"
+          mkdir -p /tmp/v43-final-png
+          pdftoppm -f 1 -l 32 -png -r 160 tmp-source/volume43-pdf371-402.pdf /tmp/v43-final-png/p >/dev/null 2>&1
           python3 - <<'PY'
           from pathlib import Path
-          files=sorted(Path('lite-pages').glob('p-*.jpg'))
-          assert len(files)==37, len(files)
-          for i,f in enumerate(files,279):
-              f.rename(Path('lite-pages')/f'page-{i}.jpg')
-          print('rendered', len(files), 'pages')
+          files=sorted(Path('/tmp/v43-final-png').glob('p-*.png'))
+          assert len(files)==32, len(files)
+          for i,f in enumerate(files,371):
+              f.rename(f.with_name(f'page-{i}.png'))
           PY
-          du -sh lite-pages
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: volume43-pdf279-315-lite-jpg
-          path: lite-pages/page-*.jpg
-          compression-level: 6
-          retention-days: 1
+          for p in $(seq 371 402); do
+            tesseract "/tmp/v43-final-png/page-${p}.png" "tmp-source/ocr371-402/page-${p}" -l tam+eng --psm 6 >/dev/null 2>&1 || true
+          done
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp-source/volume43-pdf371-402.pdf tmp-source/ocr371-402/page-*.txt
+          git commit -m "Temporary: cache Volume 43 PDF 371-402 and OCR [final-slice]"
+          git push origin HEAD:tmp-volume43-source-render
