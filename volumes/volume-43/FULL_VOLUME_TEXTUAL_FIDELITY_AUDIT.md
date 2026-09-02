@@ -23,9 +23,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–060 / 402 — VERIFIED.**
+**PDF 001–069 / 402 — VERIFIED.**
 
-PDF **054–060**, comprising Letter **3432 — `கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக!`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 060 with `அன்புள்ள, / மு.க. / 12-11-2009`.
+PDF **061–069**, comprising Letter **3433 — `பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்!`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 069 with `அன்புள்ள, / மு.க. / 15-11-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -67,6 +67,10 @@ No concrete scan-proven correction was identified in Letter 3431 during this pas
 
 No other concrete scan-proven correction was identified in PDF 054–060 during this pass.
 
+### PDF 061–069
+
+No concrete scan-proven correction was identified in Letter 3433 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 061** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–060 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 070** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–069 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
