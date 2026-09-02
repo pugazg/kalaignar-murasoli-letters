@@ -68,8 +68,8 @@ transcription_status: first-pass-reviewed
 
 > மூல அச்சில் 3467-ஆம் பதிவின் தேதி இடம் வெற்றாக உள்ளது; அது அப்படியே பாதுகாக்கப்பட்டுள்ளது.
 
-> **Boundary/title verification through Letter 3473:** Letters 3428–3473 have been checked against their actual letter-start and closing/source-end pages. The printed contents table above remains verbatim. Actual-letter-title discrepancies are documented separately for 3430, 3435, 3438, 3463, 3464, 3467, 3472 and 3473; canonical chapter/page metadata follows the actual letter-start scan without rewriting this contents source transcription.
+> **Boundary/title verification through Letter 3478:** Letters 3428–3478 have been checked against their actual letter-start and closing/source-end pages. The printed contents table above remains verbatim. Actual-letter-title discrepancies are documented separately for 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474, 3476 and 3477; canonical chapter/page metadata follows the actual letter-start scan without rewriting this contents source transcription.
 
-> **Letters 3472–3473 title-layer note:** the printed contents above uses long `ஓய்யாரக்...`; the actual letter starts at PDF 326 and PDF 332 use short `ஒய்யாரக்...`. PDF 340 also visibly starts Letter 3474 with short `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; this next-start observation does not rewrite the still-pending contents row.
+> **Letters 3472–3477 title-layer note:** the printed contents uses long `ஓய்யாரக்...` for 3472–3474 while the actual starts at PDF 326, 332 and 340 use short `ஒய்யாரக்...`; the printed contents uses a semicolon in Letters 3476 and 3477 while actual PDF 354 and PDF 358 use a colon. PDF 371 cleanly begins Letter 3479.
 
 > **Letter 3467 date-layer note:** the contents date cell above remains blank exactly as printed. The Letter 3467 record itself introduces a reproduced handwritten letter as written on `2-11-1974`, and the final facsimile page visibly carries `2/11/1974`; that record-level date is documented outside the printed-contents layer.

@@ -18,21 +18,21 @@
 
 ## Current archival state
 
-- Canonical pages: **PDF 001–339 / 402**
+- Canonical pages: **PDF 001–370 / 402**
 - Printed contents: **registered**
-- Completed letters: **46 / 56 — 3428–3473**
-- Latest completed batch: **3469–3473 / PDF 315–339 — PASS 5/5**
+- Completed letters: **51 / 56 — 3428–3478**
+- Latest completed batch: **3474–3478 / PDF 340–370 — PASS 5/5**
 - Partial/source-incomplete letters: **none**
 - English translation: **blocked pending Tamil transcription and audit gates**
 
 The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032.
 
-Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; Letter 3463 contents prints `மாற்றுத் திறனாளிகளும் - மனிதரே!` while PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`; Letter 3464 contents prints `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?` while PDF 279 prints `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; Letter 3467 contents prints `... நீதியரசர் மகாராஜனுக்கு ...` while PDF 299 prints `... நீதியரசர் மகராஜனுக்கு ...`; Letter 3472 contents prints `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்...` while PDF 326 prints `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; Letter 3473 contents prints `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` while PDF 332 prints `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.
+Source-layer title discrepancies are preserved rather than normalized: Letter 3430 differs between the printed contents and PDF 040; Letter 3435 contents prints `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` while PDF 076 prints `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; Letter 3438 contents prints `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` while PDF 099 prints `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; Letter 3463 contents prints `மாற்றுத் திறனாளிகளும் - மனிதரே!` while PDF 274 prints `மாற்றுத் திறனாளிகளும் - மானிடரே!`; Letter 3464 contents prints `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?` while PDF 279 prints `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; Letter 3467 contents prints `... நீதியரசர் மகாராஜனுக்கு ...` while PDF 299 prints `... நீதியரசர் மகராஜனுக்கு ...`; Letters 3472–3474 contents use long `ஓய்யாரக்...` while the actual starts at PDF 326, 332 and 340 use short `ஒய்யாரக்...`; Letter 3476 contents uses `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!` while PDF 354 prints `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`; Letter 3477 contents uses `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!` while PDF 358 prints `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`. `contents/index.md` preserves printed contents wording; chapter/page metadata follows the actual letter-start scan.
 
 Letter 3467 is a special reproduced handwritten-letter record. The printed contents date cell is blank and remains blank in the contents layer. The record itself states that the reproduced handwritten letter was written on `2-11-1974`, and the final facsimile page visibly carries `2/11/1974`; this record-level date is documented separately without filling the blank contents cell.
 
-Batch **3469–3473** is scan-verified complete at **PDF 315–339 / printed pages 314–338**. PDF **340 / printed 339** cleanly begins Letter **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`**.
+Batch **3474–3478** is scan-verified complete at **PDF 340–370 / printed pages 339–369**. PDF **371 / printed 370** cleanly begins Letter **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`**.
 
 ## Exact next activity
 
-Process **Letters 3474–3478** as the next five complete consecutive records, starting with Letter 3474 at **PDF 340 / printed page 339**. PDF 340 has already been visually confirmed to begin `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`. Verify all remaining boundaries directly from the scan and stop before Letter 3479. Do not begin English translation.
+Process **Letters 3479–3483** as the next and final five complete Volume 43 source records, starting with Letter 3479 at **PDF 371 / printed page 370**. Verify all boundaries directly from the scan, complete Letter 3483, and do not create a Letter 3484 from any non-letter back matter. Do not begin English translation until the Tamil gates are satisfied.

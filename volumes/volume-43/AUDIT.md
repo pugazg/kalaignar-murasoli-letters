@@ -306,3 +306,51 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Canonical Tamil/source-page representation: **PDF 001–339 / 402**
 - Completed source records: **46 / 56 — 3428–3473**
 - Partial/source-incomplete records: **none**
+
+## Five-record iteration — Letters 3474–3478 — PDF 340–370
+
+**Date:** 2026-09-02  
+**Result:** **PASS**
+
+### Verified boundaries
+
+- **3474** — PDF **340–347** / printed **339–346** — actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` — closes `02-06-2010`.
+- **3475** — PDF **348–353** / printed **347–352** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` — closes `16-6-2010`.
+- **3476** — PDF **354–357** / printed **353–356** — actual title `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` — closes `17-6-2010`.
+- **3477** — PDF **358–363** / printed **357–362** — actual title `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` — closes `19-6-2010`.
+- **3478** — PDF **364–370** / printed **363–369** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` — closes `4-7-2010`.
+- PDF **371 / printed 370** cleanly begins Letter **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`**.
+
+### Visual/textual checks
+
+- Every PDF page **340–370** was directly inspected against the controlling scan; OCR was only a drafting/discrepancy aid.
+- Physical page boundaries, titles, salutations, closings and dates were preserved and checked against the scan.
+- Letter 3475 preserves its source English High Court passage and the surrounding dates/figures as printed.
+- Letter 3476 preserves the source verse layout and the actual colon in its title.
+- Letter 3477 preserves the source's Sanskrit/Grantha wording, measurements, regnal chronology and numerical details without substituting outside text.
+- Letter 3478 preserves the printed G.O. strings, company names, quantities, annual figures and percentages as source material.
+
+### Source-layer notes
+
+- **3474:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; actual PDF 340 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`.
+- **3476:** printed contents `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`; actual PDF 354 `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`.
+- **3477:** printed contents `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`; actual PDF 358 `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`.
+
+### Precommit checks
+
+- New page-file continuity **340–370** and cumulative continuity through **370**: PASS.
+- Exactly five complete source records **3474–3478**: PASS.
+- No part of Letter 3479 included: PASS.
+- Duplicate new canonical page bodies: none.
+- U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue: none.
+- Chapter page-link sequences and start/end metadata: PASS.
+- Title/date/source-layer fidelity: PASS.
+- Figures/numbers, quotations, source English strings, G.O. references and historical wording: checked against the scan.
+- Verified next-letter start: PDF **371**, Letter **3479**.
+- English translation: not started; remains blocked pending Tamil gates.
+
+### Durable result
+
+- Canonical Tamil/source-page representation: **PDF 001–370 / 402**
+- Completed source records: **51 / 56 — 3428–3478**
+- Partial/source-incomplete records: **none**

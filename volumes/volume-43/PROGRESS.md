@@ -150,10 +150,24 @@ PDF 315 cleanly begins Letter 3469.
 
 PDF 340 cleanly begins Letter 3474 with actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`.
 
+### Five-record batch — Letters 3474–3478 — PDF 340–370
+
+**PASS — 5/5 complete records**
+
+| Letter | Scan-confirmed title | PDF | Printed | Date |
+|---:|---|---:|---:|---|
+| 3474 | `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` | 340–347 | 339–346 | 02-06-2010 |
+| 3475 | `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` | 348–353 | 347–352 | 16-6-2010 |
+| 3476 | `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` | 354–357 | 353–356 | 17-6-2010 |
+| 3477 | `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` | 358–363 | 357–362 | 19-6-2010 |
+| 3478 | `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` | 364–370 | 363–369 | 4-7-2010 |
+
+PDF 371 cleanly begins Letter 3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`.
+
 ## Current durable boundary
 
-- Canonical page coverage: **PDF 001–339 / 402**
-- Completed letters: **46 / 56 — 3428–3473**
+- Canonical page coverage: **PDF 001–370 / 402**
+- Completed letters: **51 / 56 — 3428–3478**
 - Partial/source-incomplete letters: **none**
 - English translation: **not started; blocked pending Tamil gates**
 
@@ -171,7 +185,10 @@ PDF 340 cleanly begins Letter 3474 with actual title `ஒய்யாரக் �
 - Letter 3467 facsimile pages are represented as facsimile source pages rather than silently normalizing uncertain handwriting into typeset text.
 - Letter 3472 printed contents uses `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்...`, while actual PDF 326 uses `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`.
 - Letter 3473 printed contents uses `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`, while actual PDF 332 uses `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`.
+- Letter 3474 printed contents uses `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`, while actual PDF 340 uses `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`.
+- Letter 3476 printed contents uses `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, while actual PDF 354 uses `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`.
+- Letter 3477 printed contents uses `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`, while actual PDF 358 uses `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`.
 
 ## Exact next activity
 
-Process the next **five complete source records, Letters 3474–3478**, beginning with **Letter 3474 at PDF 340 / printed page 339**. PDF 340 already confirms the actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`. Verify every closing/date boundary directly from the scan and stop before Letter 3479. Do not begin English translation.
+Process the final **five complete source records, Letters 3479–3483**, beginning with **Letter 3479 at PDF 371 / printed page 370**. Verify every closing/date boundary directly from the scan, complete the Volume 43 letter inventory, and do not begin English translation until the Tamil transcription/audit gates are satisfied.
