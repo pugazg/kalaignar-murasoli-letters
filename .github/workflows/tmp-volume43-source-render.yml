@@ -1,4 +1,4 @@
-name: Temporary Volume 43 final source slice
+name: Temporary Volume 43 final OCR
 
 on:
   push:
@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 jobs:
-  cache-final-slice:
-    if: ${{ !contains(github.event.head_commit.message, '[final-slice-pdf]') }}
+  ocr-final-slice:
+    if: ${{ !contains(github.event.head_commit.message, '[final-ocr]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 6
     steps:
@@ -18,35 +18,27 @@ jobs:
         with:
           ref: tmp-volume43-source-render
 
-      - name: Fetch verified controlling source and cache PDF 371-402 only
+      - name: OCR cached PDF 371-402
         shell: bash
         run: |
           set -euo pipefail
-          python3 - <<'PY'
-          import hashlib
-          from pathlib import Path
-          import requests
-          url = "https://tamildigitallibrary.in/assets/docs/uploads/primary_files/book/TVA_BOK_0065828/TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf"
-          out = Path("/tmp/volume43.pdf")
-          h = hashlib.sha256(); size = 0
-          with requests.get(url, stream=True, timeout=180, allow_redirects=True) as r:
-              r.raise_for_status()
-              with out.open("wb") as f:
-                  for chunk in r.iter_content(chunk_size=1024*1024):
-                      if not chunk:
-                          continue
-                      f.write(chunk); h.update(chunk); size += len(chunk)
-          assert size == 229557034, size
-          assert h.hexdigest() == "53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35"
-          print("verified", size, h.hexdigest())
-          PY
+          test -f tmp-source/volume43-pdf371-402.pdf
           sudo apt-get update -qq
-          sudo apt-get install -y -qq qpdf poppler-utils
-          mkdir -p tmp-source
-          qpdf /tmp/volume43.pdf --pages . 371-402 -- tmp-source/volume43-pdf371-402.pdf
-          test "$(pdfinfo tmp-source/volume43-pdf371-402.pdf | awk -F: '/^Pages:/ {gsub(/ /, "", $2); print $2}')" = "32"
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tam
+          rm -rf /tmp/v43-final-jpg tmp-source/ocr371-402
+          mkdir -p /tmp/v43-final-jpg tmp-source/ocr371-402
+          pdftoppm -f 1 -l 32 -jpeg -jpegopt quality=82 -r 100 tmp-source/volume43-pdf371-402.pdf /tmp/v43-final-jpg/p >/dev/null 2>&1
+          python3 - <<'PY'
+          from pathlib import Path
+          files=sorted(Path('/tmp/v43-final-jpg').glob('p-*.jpg'))
+          assert len(files)==32, len(files)
+          for i,f in enumerate(files,371):
+              f.rename(f.with_name(f'page-{i}.jpg'))
+          PY
+          seq 371 402 | xargs -P 4 -I{} bash -c 'tesseract "/tmp/v43-final-jpg/page-{}.jpg" "tmp-source/ocr371-402/page-{}" -l tam+eng --psm 6 >/dev/null 2>&1 || true'
+          test "$(find tmp-source/ocr371-402 -name 'page-*.txt' | wc -l)" = "32"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-source/volume43-pdf371-402.pdf
-          git commit -m "Temporary: cache Volume 43 PDF 371-402 [final-slice-pdf]"
+          git add tmp-source/ocr371-402/page-*.txt
+          git commit -m "Temporary: OCR Volume 43 PDF 371-402 [final-ocr]"
           git push origin HEAD:tmp-volume43-source-render
