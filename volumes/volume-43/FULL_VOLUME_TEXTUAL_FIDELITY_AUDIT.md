@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–086 / 402 — VERIFIED.**
+**PDF 001–098 / 402 — VERIFIED.**
 
-PDF **070–086**, comprising Letters **3434 — `நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது?`** and **3435 — `முடிந்த தொடர்கதை; முடியாத வரலாறு!`**, was compared directly against the controlling scan in this continuation. Letter 3434 closes at PDF 075 with `அன்புள்ள, / மு.க. / 18-11-2009`; Letter 3435 closes at PDF 086 with `அன்புள்ள, / மு.க. / 26-11-2009`.
+PDF **087–098**, comprising Letters **3436 — `சிதம்பரம் மீது சீற்றம் ஏன்?`** and **3437 — `வன்முறை தவிர்த்து வரும் தேர்தல்களிலும் வெல்வோம்!`**, was compared directly against the controlling scan in this continuation. Letter 3436 closes at PDF 092 with `அன்புள்ள, / மு.க. / 28-11-2009`; Letter 3437 closes at PDF 098 with `அன்புள்ள, / மு.க. / 30-11-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -79,6 +79,14 @@ No concrete scan-proven correction was identified in Letter 3433 during this pas
 
 No other concrete scan-proven correction was identified in Letters 3434–3435 during this pass.
 
+### Scan-proven corrections in PDF 087–098
+
+- **PDF 093 — Letter 3437:** restored the printed joined form `வேண்டு மென்று` → `வேண்டுமென்று` in `பணியாற்ற வேண்டுமென்று முடிவெடுத்து`.
+- **PDF 093 — Letter 3437:** restored the printed sandhi form `சிவகங்கை மாவட்டத் கழகத்தினர்` → `சிவகங்கை மாவட்டக் கழகத்தினர்`.
+- **PDF 097 — Letter 3437:** restored the printed joined form `எடுத்து விளக்குவோம்` → `எடுத்துவிளக்குவோம்`.
+
+No other concrete scan-proven correction was identified in Letters 3436–3437 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 087** and, following the current two-letter iteration cadence, complete the next **two letters — 3436 and 3437 — in the same iteration**, stopping at the end of Letter 3437. Do **not** repeat PDF 001–086 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 099** and, following the current two-letter iteration cadence, complete the next **two letters — 3438 and 3439 — in the same iteration**, stopping at the end of Letter 3439. Do **not** repeat PDF 001–098 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
