@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–172 / 402 — VERIFIED.**
+**PDF 001–190 / 402 — VERIFIED.**
 
-PDF **157–172**, comprising Letters **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`** and **3447 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்`**, was compared directly against the controlling scan in this continuation. Letter 3446 closes at PDF 164 with `அன்புள்ள, / மு.க. / 26-12-2009`; Letter 3447 closes at PDF 172 with `அன்புள்ள, / மு.க. / 27-12-2009`.
+PDF **173–190**, comprising Letters **3448 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!`** and **3449 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை!`**, was compared directly against the controlling scan in this continuation. Letter 3448 closes at PDF 181 with `அன்புள்ள, / மு.க. / 28-12-2009`; Letter 3449 closes at PDF 190 with `அன்புள்ள, / மு.க. / 29-12-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -140,6 +140,13 @@ The following reconciled list supersedes provisional notes created while this ba
 
 No other concrete scan-proven correction was identified in Letters 3446–3447 during this pass.
 
+### Scan-proven corrections in PDF 173–190
+
+- **PDF 173 — Letter 3448:** restored the printed joined honorific/name form `திரு. மணவை முஸ்தபா` → `திரு.மணவை முஸ்தபா`.
+- **PDF 177 — Letter 3448:** restored the source's typographic single quotation marks around `நிறைவெய்திய`: `'நிறைவெய்திய'` → `‘நிறைவெய்திய’`.
+
+No other concrete scan-proven correction was identified in Letters 3448–3449 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 173** and, following the current two-letter iteration cadence, complete the next **two letters — 3448 and 3449 — in the same iteration**, stopping at the end of Letter 3449. PDF 173 begins Letter **3448 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!`**. Do **not** repeat PDF 001–172 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 191** and, following the current two-letter iteration cadence, complete the next **two letters — 3450 and 3451 — in the same iteration**, stopping at the end of Letter 3451. PDF 191 begins Letter **3450 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!`**. Do **not** repeat PDF 001–190 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
