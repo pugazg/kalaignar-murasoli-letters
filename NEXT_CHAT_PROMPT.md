@@ -51,16 +51,16 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–032 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–039 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 032 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letter **3428** has completed the second direct fidelity pass at PDF **024–032**. Do not repeat PDF 001–032 unless a concrete defect is reported.
+The second-pass corrections through PDF 039 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3429** have completed the second direct fidelity pass through PDF **039**. Do not repeat PDF 001–039 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another.
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 033** and continue sequentially against the controlling scan.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 040** and continue sequentially against the controlling scan.
 
 For every page:
 

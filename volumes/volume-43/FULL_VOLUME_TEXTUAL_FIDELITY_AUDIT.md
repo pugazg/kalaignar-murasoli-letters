@@ -23,9 +23,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–032 / 402 — VERIFIED.**
+**PDF 001–039 / 402 — VERIFIED.**
 
-PDF **024–032**, comprising Letter **3428 — `காக்கும் கரங்களுமன்றோ?`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 032 with `அன்புள்ள, / மு.க. / 1-11-2009`.
+PDF **033–039**, comprising Letter **3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!`**, was compared directly against the controlling scan in this continuation. The letter closes at PDF 039 with `அன்புள்ள, / மு.க. / 4-11-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -45,6 +45,10 @@ PDF **024–032**, comprising Letter **3428 — `காக்கும் கர
 
 No other concrete scan-proven correction was identified in PDF 024–032 during this pass.
 
+### PDF 033–039
+
+No concrete scan-proven correction was identified in Letter 3429 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 033** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–032 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 040** and continue sequentially against the controlling scan. Do **not** repeat PDF 001–039 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
