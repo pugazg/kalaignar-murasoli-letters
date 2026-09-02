@@ -1,4 +1,4 @@
-# Next Chat Prompt — Audit Murasoli Letters Volume 43
+# Next Chat Prompt — Volume 43 Tamil Full-Volume Audit
 
 Continue the Kalaignar Murasoli Letters archival project directly in:
 
@@ -14,7 +14,11 @@ Attach or otherwise resolve the controlling PDF in the fresh chat before direct 
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state. **Last completed source-work activity when this prompt was refreshed:** `Transcribe Volume 43 Letters 3479-3483` — the commit containing this prompt. If live `main` is newer, do not reset, repeat, or reopen later completed work.
+Fetch live `main` first and preserve the newest durable state.
+
+**Last completed source-work commit:** `bc32fc3c7dcf538930357a04ae260d679a2785d6` — `Transcribe Volume 43 Letters 3479-3483`.
+
+**Live-main checkpoint immediately before this handoff refresh:** `e69aed134f25b09e3ba021e2777ce315707bcde5` — `Remove accidental noop marker`. The handoff-refresh commit containing this prompt will be newer. If live `main` has advanced again, preserve the newer durable state. Do not reset, repeat, or reopen later completed work.
 
 ## Mandatory startup
 
@@ -74,7 +78,7 @@ For the structural audit, validate at minimum:
 - metadata, progress, audit, README and handover synchronization;
 - duplicate page bodies and U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue.
 
-Then compare the full volume directly against the controlling scan for the second visual/textual-fidelity gate. Record every correction explicitly. **Do not begin English translation until both Tamil gates are PASS.**
+Then compare the full volume directly against the controlling scan for the second visual/textual-fidelity gate. Record every correction explicitly. **Do not re-transcribe completed letters unless a concrete audit defect is found. Do not begin English translation until both Tamil gates are PASS.**
 
 ## Git discipline
 

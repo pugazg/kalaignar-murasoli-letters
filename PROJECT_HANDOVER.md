@@ -10,7 +10,9 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-**Last completed source-work activity when this handover was refreshed:** `Transcribe Volume 43 Letters 3479-3483` — the commit containing this handover. Live `main` remains authoritative if later work has advanced beyond it.
+**Last completed source-work commit:** `bc32fc3c7dcf538930357a04ae260d679a2785d6` — `Transcribe Volume 43 Letters 3479-3483`.
+
+**Live-main checkpoint immediately before this handoff refresh:** `e69aed134f25b09e3ba021e2777ce315707bcde5` — `Remove accidental noop marker`. The handoff-refresh commit that updates this document and `NEXT_CHAT_PROMPT.md` will be newer than that checkpoint; therefore live `main` remains authoritative.
 
 For a fresh chat, attach or otherwise resolve the controlling Volume 43 PDF before page-level visual verification. Repository text never substitutes for the controlling scan.
 
@@ -78,6 +80,7 @@ For the audit activity:
 - validate page continuity 001–402, record inventory 3428–3483, chapter/page mappings, titles, dates, closing boundaries, and non-letter classification for PDF 401–402;
 - check duplicate bodies, U+FFFD / unwanted zero-width residue, metadata/control synchronization and source-layer discrepancy notes;
 - conduct the second direct scan comparison over the complete volume and record all corrections rather than silently normalizing;
+- do **not** re-transcribe already completed letters unless the audit identifies a concrete source-fidelity defect;
 - only after both Tamil gates pass may English translation/source-check planning begin;
 - re-fetch live `main` immediately before mutation, publish one validated atomic commit, fast-forward with `force: false`, and verify parent → new HEAD scope.
 
@@ -103,6 +106,10 @@ No further Volume 44 English QA or release gate remains pending unless a concret
 ## Volume 45 — COMPLETE
 
 Volume 45 remains complete through Tamil and English release gates.
+
+## Fresh-window start instruction
+
+In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. Also attach the controlling Volume 43 PDF if it is not already available in that chat. The new chat should fetch live `main`, read the mandatory guides and controls, and continue from the exact next activity without reopening completed transcription batches.
 
 ## Git discipline
 
