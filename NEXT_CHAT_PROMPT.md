@@ -51,10 +51,10 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–142 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–156 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 142 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3443** have completed the second direct fidelity pass through PDF **142**. Do not repeat PDF 001–142 unless a concrete defect is reported.
+The second-pass corrections through PDF 156 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3445** have completed the second direct fidelity pass through PDF **156**. Do not repeat PDF 001–156 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another. In particular, the actual Letter 3441 title on PDF 119 is `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`, while the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
@@ -64,7 +64,7 @@ Process **two complete letters per iteration**. Start at the current frontier, v
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 143** and complete the next **two letters — 3444 and 3445 — in this iteration**, stopping at the end of Letter 3445. PDF 143 begins Letter **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!`**.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 157** and complete the next **two letters — 3446 and 3447 — in this iteration**, stopping at the end of Letter 3447. PDF 157 begins Letter **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`**.
 
 For every page:
 

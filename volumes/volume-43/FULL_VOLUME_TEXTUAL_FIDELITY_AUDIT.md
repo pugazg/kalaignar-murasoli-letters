@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–142 / 402 — VERIFIED.**
+**PDF 001–156 / 402 — VERIFIED.**
 
-PDF **131–142**, comprising Letters **3442 — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!`** and **3443 — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!`**, was compared directly against the controlling scan in this continuation. Letter 3442 closes at PDF 137 with `அன்புள்ள, / மு.க. / 16-12-2009`; Letter 3443 closes at PDF 142 with `அன்புள்ள, / மு.க. / 20-12-2009`.
+PDF **143–156**, comprising Letters **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!`** and **3445 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1`**, was compared directly against the controlling scan in this continuation. Letter 3444 closes at PDF 148 with `அன்புள்ள, / மு.க. / 21-12-2009`; Letter 3445 closes at PDF 156 with `அன்புள்ள, / மு.க. / 25-12-2009`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -106,6 +106,15 @@ No concrete scan-proven correction was identified in Letters 3440–3441 during 
 
 No other concrete scan-proven correction was identified in Letters 3442–3443 during this pass.
 
+### Scan-proven corrections in PDF 143–156
+
+- **PDF 144 — Letter 3444:** restored the printed joined form `மாநாட்டுப் பணிகளிலே` → `மாநாட்டுப்பணிகளிலே`.
+- **PDF 147 — Letter 3444:** removed an editorially introduced period: `இந்தக் கடிதத்தைக் கண்டவுடன்.` → `இந்தக் கடிதத்தைக் கண்டவுடன்`.
+- **PDF 151 — Letter 3445:** restored the source's typographic single quotation marks: `'செம்மொழி'` → `‘செம்மொழி’`.
+- **PDF 153 — Letter 3445:** restored the printed comma at the continuation into the next page: `“உயர்தனிச் செம்மொழி” என்று தலைப்பிட்ட கட்டுரையில்.` → `“உயர்தனிச் செம்மொழி” என்று தலைப்பிட்ட கட்டுரையில்,`.
+
+No other concrete scan-proven correction was identified in Letters 3444–3445 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 143** and, following the current two-letter iteration cadence, complete the next **two letters — 3444 and 3445 — in the same iteration**, stopping at the end of Letter 3445. PDF 143 begins Letter **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!`**. Do **not** repeat PDF 001–142 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 157** and, following the current two-letter iteration cadence, complete the next **two letters — 3446 and 3447 — in the same iteration**, stopping at the end of Letter 3447. PDF 157 begins Letter **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`**. Do **not** repeat PDF 001–156 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
