@@ -24,9 +24,10 @@
 - Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- English translation/source-check: **3 / 56 — pilot 3428–3430 PASS**
-- Volume 43 English conventions: **LOCKED**
-- Bilingual alignment: **not started**
+- English translation/source-check: **IN PROGRESS — 8 / 56 — 3428–3435**
+- English pilot **3428–3430 / PDF 024–048**: **PASS; conventions locked**
+- English normal batch 1 **3431–3435 / PDF 049–086**: **PASS**
+- Bilingual meaning-level alignment: **not started**
 
 The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032, followed by source-record batches through Letter 3483. PDF **401 / printed 400** is non-letter end matter and PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
 
@@ -44,20 +45,15 @@ The final genuine contents/actual-title difference set is:
 
 Second-pass direct scan verification superseded earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**. Letter 3430's corrected printed-contents row matches its actual title; Letters 3476, 3477 and 3481 use semicolons in both source layers.
 
-## English pilot — PASS
+## English translation state
 
-The first English pilot covers exactly **Letters 3428–3430 / PDF 024–048**. All three bilingual records are complete and source-checked against the audited canonical Tamil, with full Tamil appendices. No canonical Tamil change was required.
+The English workflow uses audited canonical Tamil as its immediate source and keeps source-check distinct from later bilingual alignment.
 
-Durable English controls:
-
-- `translations/en/PILOT_REVIEW_3428_3430.md` — **PASS**
-- `translations/en/GLOSSARY.md` — pilot conventions **LOCKED**
-- `translations/en/TRANSLATION_MANIFEST.csv`
-- `translations/en/README.md`
-- `translations/en/PROGRESS.md`
-
-Source-checked does not mean bilingual-aligned; alignment remains a later independent gate.
+- Pilot **3428–3430**: **3 / 3 source-checked**; pilot review PASS; conventions locked; 0 Tamil changes.
+- Normal batch 1 **3431–3435**: **5 / 5 source-checked**; cumulative **8 / 56**; 0 Tamil changes.
+- Every English record includes the complete audited Tamil under `Original Tamil — மூலத் தமிழ்` with source-page markers.
+- `translations/en/GLOSSARY.md`, `PROGRESS.md`, `README.md` and `TRANSLATION_MANIFEST.csv` are the durable English controls.
 
 ## Exact next activity
 
-Translate and source-check the first normal English batch — **Letters 3431–3435 / PDF 049–086** — using the locked Volume 43 conventions. Stop at the end of Letter 3435; do not begin Letter 3436 / PDF 087 in the same iteration.
+Translate and source-check **Letters 3436–3440 / PDF 087–118** as normal English batch 2. Apply the locked Volume 43 conventions and stop before **Letter 3441 / PDF 119**. Do not perform the later bilingual-alignment gate in the same activity.

@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — pilot 3428–3430 source-check PASS; conventions locked.**
+**Status:** **IN PROGRESS — 8 / 56 source-checked; pilot and normal batch 1 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -30,11 +30,11 @@ Use the repository's established thought-preserving, non-literary English method
 
 ## Pilot — complete
 
-The first English source-check pilot was exactly three consecutive source records:
+The first English source-check pilot covered exactly:
 
-- **3428 — `காக்கும் கரங்களுமன்றோ?` — PDF 024–032**;
-- **3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — PDF 033–039**;
-- **3430 — `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!` — PDF 040–048**.
+- **3428 — PDF 024–032**;
+- **3429 — PDF 033–039**;
+- **3430 — PDF 040–048**.
 
 Pilot result: **PASS — 3 / 3 source-checked; 0 canonical Tamil changes; Volume 43 conventions locked.**
 
@@ -44,9 +44,23 @@ Durable controls:
 - `translations/en/GLOSSARY.md`
 - `translations/en/TRANSLATION_MANIFEST.csv`
 
+## Normal batch 1 — complete
+
+The first regular five-record batch covered:
+
+- **3431 — `இதில் எது கையாலாகாத்தனம்?` — PDF 049–053**;
+- **3432 — `கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக!` — PDF 054–060**;
+- **3433 — `பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்!` — PDF 061–069**;
+- **3434 — `நம் மெளன வலி; யாருக்குத் தெரியப் போகிறது?` — PDF 070–075**;
+- **3435 — `முடிந்த தொடர்கதை; முடியாத வரலாறு!` — PDF 076–086**.
+
+Batch result: **PASS — 5 / 5 source-checked; cumulative 8 / 56; 0 canonical Tamil changes.**
+
+Letter 3435 follows the actual letter-start title `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; the printed contents independently retains `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`.
+
 ## Regular translation cadence
 
-After the pilot, proceed in **five actual source records per normal translation iteration** unless an explicit source anomaly requires a documented exception.
+Proceed in **five actual source records per normal translation iteration** unless an explicit source anomaly requires a documented exception.
 
 For each regular batch:
 
@@ -59,6 +73,6 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check the first normal five-record batch: **Letters 3431–3435 / PDF 049–086**.
+Translate and source-check normal five-record batch 2: **Letters 3436–3440 / PDF 087–118**.
 
-Stop at the end of **Letter 3435 / PDF 086**. Do **not** begin Letter 3436 / PDF 087 in the same activity.
+Stop at the end of **Letter 3440 / PDF 118**. Do **not** begin Letter 3441 / PDF 119 in the same activity.

@@ -10,7 +10,9 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-The durable Volume 43 Tamil gate is complete. English work should normally use audited canonical Tamil as its immediate source; return to the controlling scan only if a concrete Tamil defect is suspected.
+The durable Volume 43 Tamil gates are complete. English translation/source-check is now the active phase. Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
+
+For a fresh chat, the controlling Volume 43 PDF is only required if a possible Tamil defect must be reopened. English work should normally use audited canonical Tamil as its immediate source.
 
 ## Source authority
 
@@ -20,32 +22,31 @@ The controlling scan controls Tamil readings. Audited canonical Tamil is the imm
 
 Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 
-Current durable state:
+Current durable Tamil state:
 
 - Printed pages: **400**
 - Physical PDF pages: **402**
 - Source SHA-256: `53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35`
+- Date span: **01.11.2009–17.07.2010**
 - Source inventory: **56 records, 3428–3483**
 - Canonical Tamil/source-page representation: **PDF 001–402 / 402**
 - Completed Tamil letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete records: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- English translation/source-check: **3 / 56 — 3428–3430**
-- Pilot review: **PASS — 3428–3430 / PDF 024–048**
+
+Current durable English state:
+
+- Pilot **3428–3430 / PDF 024–048**: **PASS — 3 / 3 source-checked**
 - Translation conventions: **LOCKED**
-- Bilingual alignment: **not started**
-- English final release: **not started**
+- Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **8 / 56 — 3428–3435**
+- Canonical Tamil changes during English work: **0**
+- Bilingual meaning-level alignment: **not started**
+- Editorial consistency review: **not started**
+- Final English release verification: **not started**
 
-### Completed English pilot
-
-- **3428** — PDF **024–032** — *Are They Not the Hands That Protect?* — source-checked
-- **3429** — PDF **033–039** — *Let Us Relieve the Hardships of the Tamils Who Have Come Here Too!* — source-checked
-- **3430** — PDF **040–048** — *Kerala Government, With Ears That Will Not Hear; Why Sting Like a Scorpion!* — source-checked
-
-Every pilot record includes the complete audited Tamil appendix. `PILOT_REVIEW_3428_3430.md` is PASS and `GLOSSARY.md` contains the locked Volume 43 conventions. No canonical Tamil change was required during pilot source-check.
-
-Source-checked does **not** mean bilingual-aligned. Alignment remains a later independent QA phase.
+Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
 
 ### Final genuine title-layer differences
 
@@ -59,35 +60,35 @@ Preserve these source layers independently:
 - **3467:** contents uses `மகாராஜனுக்கு`; actual uses `மகராஜனுக்கு`; contents date remains blank and the reproduced handwritten letter is separately dated `2/11/1974`.
 - **3472–3474:** contents uses long `ஓய்யாரக்...`; actual starts use short `ஒய்யாரக்...`.
 
-Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second Tamil pass.
+Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second pass.
 
 ### Exact next activity
 
-Translate and source-check the first normal five-record English batch: **Letters 3431–3435 / PDF 049–086**.
+Translate and source-check **Letters 3436–3440 / PDF 087–118** as Volume 43 normal English batch 2.
 
-Mandatory startup before changing English records:
+Mandatory English startup before changing records:
 
-- fetch live `main` first;
-- read `volumes/volume-43/TRANSLATION_PLAN.md`, `translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md`, `PILOT_REVIEW_3428_3430.md` and `TRANSLATION_MANIFEST.csv`;
+- read `volumes/volume-43/TRANSLATION_PLAN.md` completely;
+- read `volumes/volume-43/translations/en/README.md`, `PROGRESS.md`, `GLOSSARY.md` and `TRANSLATION_MANIFEST.csv`;
 - use audited canonical Tamil as the immediate source;
-- apply the locked Volume 43 conventions;
-- draft/source-check exactly **3431, 3432, 3433, 3434 and 3435**;
-- include the complete audited Tamil appendix in every record;
-- stop at **PDF 086** and do not begin Letter 3436 / PDF 087;
-- update the glossary only for genuinely new recurring terminology;
+- use the controlling scan only if a concrete Tamil defect is suspected;
+- create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
+- source-check every paragraph, figure, quotation, date, title and closing;
+- update the glossary only for genuinely new recurring terms;
+- stop after **3440 / PDF 118** and do not begin **3441 / PDF 119**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE
 
-Volume 44 remains complete through Tamil and English final-release gates: **53 / 53** source records, Tamil structural/fidelity PASS, English source-check/alignment/editorial/final-release PASS.
+Volume 44 remains complete through Tamil structural/fidelity gates and all English source-check, bilingual-alignment, editorial-review and final-release gates: **53 / 53**.
 
 ## Volume 45 — COMPLETE
 
-Volume 45 remains complete through Tamil and English release gates.
+Volume 45 remains complete through Tamil and English release gates: **55 / 55**.
 
 ## Fresh-window start instruction
 
-In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and English controls, and begin the exact Volume 43 regular batch without reopening completed Tamil verification unless a concrete defect is found.
+In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and controls, and begin the exact Volume 43 English batch without reopening completed Tamil verification unless a concrete defect is found.
 
 ## Git discipline
 
