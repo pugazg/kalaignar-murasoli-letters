@@ -51,12 +51,14 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–353 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–363 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 353 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3475** have completed the second direct fidelity pass through PDF **353**. Do not repeat PDF 001–353 unless a concrete defect is reported.
+The second-pass corrections through PDF 363 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3477** have completed the second direct fidelity pass through PDF **363**. Do not repeat PDF 001–363 unless a concrete defect is reported.
 
-Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another. In particular, the actual Letter 3441 title on PDF 119 is `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`, while the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`. The actual Letter 3464 title on PDF 279 is `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`, while the separately preserved printed-contents wording is `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`. Letter 3467 has a blank printed-contents date cell; the separate record reproduces the handwritten letter dated `2-11-1974`, and its actual-title spelling `மகராஜனுக்கு` must remain distinct from the contents-layer `மகாராஜனுக்கு`. Letters 3472–3474 have actual-start spelling `ஒய்யாரக்...` while the printed contents preserves `ஓய்யாரக்...`. For the next iteration, preserve the actual Letter 3476 title on PDF 354 as `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` independently from the printed-contents semicolon form `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, and preserve the actual Letter 3477 title on PDF 358 as `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` independently from the printed-contents semicolon form `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`.
+Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another. In particular, the actual Letter 3441 title on PDF 119 is `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`, while the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`. The actual Letter 3464 title on PDF 279 is `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`, while the separately preserved printed-contents wording is `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`. Letter 3467 has a blank printed-contents date cell; the separate record reproduces the handwritten letter dated `2-11-1974`, and its actual-title spelling `மகராஜனுக்கு` must remain distinct from the contents-layer `மகாராஜனுக்கு`. Letters 3472–3474 have actual-start spelling `ஒய்யாரக்...` while the printed contents preserves `ஓய்யாரக்...`.
+
+Second-pass direct scan verification at PDF 354 and PDF 358 corrected an earlier provisional title reading: Letter **3476** actually starts `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!` and Letter **3477** actually starts `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`. Both semicolon forms match the printed contents. Any older first-pass note elsewhere claiming colon punctuation for these two titles is superseded and must not be reintroduced.
 
 ## Iteration cadence
 
@@ -64,7 +66,7 @@ Process **two complete letters per iteration**. Start at the current frontier, v
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 354** and complete the next **two letters — 3476 and 3477 — in this iteration**, stopping at the end of Letter 3477. PDF 354 begins Letter **3476 — `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`**. Letter 3477 begins at PDF 358, and PDF 364 begins Letter 3478, so stop at PDF 363.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 364** and complete the next **two letters — 3478 and 3479 — in this iteration**, stopping at the end of Letter 3479. PDF 364 begins Letter **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`**. Letter 3479 begins at PDF 371, and PDF 375 begins Letter 3480, so stop at PDF 374.
 
 For every page:
 

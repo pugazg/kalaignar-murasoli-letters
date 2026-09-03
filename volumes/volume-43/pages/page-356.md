@@ -6,7 +6,7 @@ section: "letter"
 transcription_status: "first-pass-reviewed"
 letter_number: 3476
 letter_date: "2010-06-17"
-letter_title: "நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!"
+letter_title: "நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!"
 ---
 
 அமர்ந்து அவதானிக்க இருக்கின்ற அழகுமிகு அறிவு நிறை

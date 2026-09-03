@@ -52,8 +52,8 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3473](3473-oyyaarak-kondaiyaam-thaazhampoovaam-2.md) | ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2) | 31-5-2010 | 331 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | [3474](3474-oyyaarak-kondaiyaam-thaazhampoovaam-3.md) | ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3 | 02-06-2010 | 339 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | [3475](3475-vaaimai-vellum-enbadhai-unartha-varippuliye-varuga.md) | வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக! | 16-6-2010 | 347 | complete (first-pass-reviewed) |
-| [3476](3476-nanjai-ennaadhe-nambik-kedaadhe.md) | நஞ்சை எண்ணாதே: நம்பிக் கெடாதே! | 17-6-2010 | 353 | complete (first-pass-reviewed); actual letter title differs from printed contents |
-| [3477](3477-idho-seppedugal-uraithidum-urudhi.md) | இதோ: செப்பேடுகள் உரைத்திடும் உறுதி! | 19-6-2010 | 357 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3476](3476-nanjai-ennaadhe-nambik-kedaadhe.md) | நஞ்சை எண்ணாதே; நம்பிக் கெடாதே! | 17-6-2010 | 353 | complete (first-pass-reviewed) |
+| [3477](3477-idho-seppedugal-uraithidum-urudhi.md) | இதோ; செப்பேடுகள் உரைத்திடும் உறுதி! | 19-6-2010 | 357 | complete (first-pass-reviewed) |
 | [3478](3478-oozhale-un-peyarthaan-jayalalithaavaa.md) | ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா? | 4-7-2010 | 363 | complete (first-pass-reviewed) |
 | [3479](3479-bandh-thaal-vilaiyap-pogum-payan-enna.md) | “பந்த்”தால் விளையப் போகும் பயன் என்ன? | 7-7-2010 | 370 | complete (first-pass-reviewed) |
 | [3480](3480-vellath-tamizh-ini-valarum.md) | வெல்லத் தமிழ் இனி வளரும்! | 12-7-2010 | 374 | complete (first-pass-reviewed) |
@@ -61,8 +61,8 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3482](3482-ammaniyin-aathaaramatra-kutrachattum-aanitharamaana-pathilum.md) | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | complete (first-pass-reviewed) |
 | [3483](3483-ammaniyin-aathaaramatra-kutrachattum-aanitharamaana-pathilum-2.md) | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | complete (first-pass-reviewed) |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3483: 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474, 3476, 3477 and 3481.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3483: 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474 and 3481.
 
-> The actual starts of Letters 3472–3474 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. Letters 3476 and 3477 use colons in the actual starts where the printed contents has semicolons. Letter 3481 actual PDF 380 title uses `?` after `விமர்சனங்கள்`, while the printed contents uses `;`. Letters 3479–3483 are complete; PDF 401–402 are non-letter source pages and no Letter 3484 is created.
+> The actual starts of Letters 3472–3474 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. Second-pass direct scan verification confirmed that Letters 3476 and 3477 use semicolons in their actual starts, matching the printed contents; earlier provisional colon readings are superseded. Letter 3481 actual PDF 380 title uses `?` after `விமர்சனங்கள்`, while the printed contents uses `;`. Letters 3479–3483 are complete; PDF 401–402 are non-letter source pages and no Letter 3484 is created.
 
 > Letter 3467 is a reproduced handwritten-letter record. Its printed-contents date cell remains blank, while the reproduced handwritten letter itself is documented at record level as dated `2/11/1974`.

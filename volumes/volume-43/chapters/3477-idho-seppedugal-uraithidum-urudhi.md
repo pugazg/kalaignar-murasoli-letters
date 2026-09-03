@@ -1,7 +1,7 @@
 ---
 volume: 43
 letter_number: 3477
-title: "இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!"
+title: "இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!"
 date: 2010-06-19
 printed_page_start: 357
 printed_page_end: 362
@@ -10,13 +10,13 @@ pdf_page_end: 363
 transcription_status: "first-pass-reviewed"
 ---
 
-# 3477. இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!
+# 3477. இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!
 
 **விளிப்பு:** உடன்பிறப்பே  
 **கையொப்பம்:** அன்புள்ள, மு.க.  
 **தேதி (மூல அச்சு):** 19-6-2010
 
-> **Source-layer note:** printed contents has `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`; actual PDF 358 uses a colon after `இதோ`.
+> **Second-pass title verification:** printed contents and actual PDF 358 both use a semicolon after `இதோ`; the earlier provisional colon reading is superseded by the direct scan check.
 
 ## பக்க வரிசை
 

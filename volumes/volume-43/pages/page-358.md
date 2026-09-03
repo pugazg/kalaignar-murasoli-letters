@@ -6,10 +6,10 @@ section: "letter"
 transcription_status: "first-pass-reviewed"
 letter_number: 3477
 letter_date: "2010-06-19"
-letter_title: "இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!"
+letter_title: "இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!"
 ---
 
-3477. இதோ: செப்பேடுகள்
+3477. இதோ; செப்பேடுகள்
 உரைத்திடும் உறுதி!
 
 உடன்பிறப்பே,

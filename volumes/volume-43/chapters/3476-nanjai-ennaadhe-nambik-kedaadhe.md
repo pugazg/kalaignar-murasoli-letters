@@ -1,7 +1,7 @@
 ---
 volume: 43
 letter_number: 3476
-title: "நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!"
+title: "நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!"
 date: 2010-06-17
 printed_page_start: 353
 printed_page_end: 356
@@ -10,13 +10,13 @@ pdf_page_end: 357
 transcription_status: "first-pass-reviewed"
 ---
 
-# 3476. நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!
+# 3476. நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!
 
 **விளிப்பு:** உடன்பிறப்பே  
 **கையொப்பம்:** அன்புள்ள, மு.க.  
 **தேதி (மூல அச்சு):** 17-6-2010
 
-> **Source-layer note:** printed contents has `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`; actual PDF 354 uses a colon after `எண்ணாதே`.
+> **Second-pass title verification:** printed contents and actual PDF 354 both use a semicolon after `எண்ணாதே`; the earlier provisional colon reading is superseded by the direct scan check.
 
 ## பக்க வரிசை
 

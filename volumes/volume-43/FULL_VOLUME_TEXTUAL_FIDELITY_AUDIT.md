@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–353 / 402 — VERIFIED.**
+**PDF 001–363 / 402 — VERIFIED.**
 
-PDF **340–353**, comprising Letters **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`** and **3475 — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`**, was compared directly against the controlling scan in this continuation. Letter 3474 closes at PDF 347 with `அன்புள்ள, / மு.க. / 02-06-2010`. Letter 3475 closes at PDF 353 with `அன்புள்ள, / மு.க. / 16-6-2010`. Preserve Letter 3474's actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...`.
+PDF **354–363**, comprising Letters **3476 — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`** and **3477 — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`**, was compared directly against the controlling scan in this continuation. Letter 3476 closes at PDF 357 with `அன்புள்ள, / மு.க. / 17-6-2010`. Letter 3477 closes at PDF 363 with `அன்புள்ள, / மு.க. / 19-6-2010`. Direct title rechecks on PDF 354 and PDF 358 confirmed semicolons in both actual starts, matching the printed contents and superseding the earlier provisional colon readings.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -252,6 +252,13 @@ No other concrete scan-proven correction was identified in Letters 3472–3473 d
 
 No other concrete scan-proven correction was identified in Letters 3474–3475 during this pass. Preserve Letter 3474's actual-start `ஒய்யாரக்...` independently from the printed-contents `ஓய்யாரக்...`.
 
+### Scan-proven corrections in PDF 354–363
+
+- **PDF 354 — Letter 3476:** corrected the provisional actual-title punctuation `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` → `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`. The direct scan shows a semicolon after `எண்ணாதே`, matching the printed contents. The corrected title is synchronized across the canonical title line, Letter 3476 page metadata, chapter record, and chapter register.
+- **PDF 358 — Letter 3477:** corrected the provisional actual-title punctuation `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` → `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`. The direct scan shows a semicolon after `இதோ`, matching the printed contents. The corrected title is synchronized across the canonical title line, Letter 3477 page metadata, chapter record, and chapter register.
+
+No other concrete scan-proven correction was identified in Letters 3476–3477 during this pass. The earlier first-pass claim that these two titles differed from the printed contents is superseded by this direct second-pass scan verification.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 354** and, following the current two-letter iteration cadence, complete the next **two letters — 3476 and 3477 — in the same iteration**, stopping at the end of Letter 3477. PDF 354 begins Letter **3476 — `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`**; Letter 3477 begins at PDF 358, and PDF 364 begins Letter 3478, so stop at PDF 363. Preserve the actual colon punctuation in Letter 3476 independently from the printed-contents semicolon form `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, and preserve the actual colon punctuation in Letter 3477 independently from the printed-contents semicolon form `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`. Do **not** repeat PDF 001–353 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 364** and, following the current two-letter iteration cadence, complete the next **two letters — 3478 and 3479 — in the same iteration**, stopping at the end of Letter 3479. PDF 364 begins Letter **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`**; Letter 3479 begins at PDF 371, and PDF 375 begins Letter 3480, so stop at PDF 374. Do **not** repeat PDF 001–363 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
