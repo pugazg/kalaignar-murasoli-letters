@@ -1,7 +1,7 @@
 # Volume 43 — Full-Volume Textual Fidelity Audit
 
-**Audit date:** 2026-09-02  
-**Status:** IN PROGRESS  
+**Audit date:** 2026-09-03  
+**Status:** **PASS — 402 / 402**  
 **Controlling source:** `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -9,9 +9,9 @@
 
 ## Gate context
 
-The full Volume 43 structural audit is already **PASS**. This document records the required second, independent direct visual/textual-fidelity verification against the controlling scan. The scan is authoritative. OCR or prior canonical text may only assist navigation or discrepancy detection and may not override the scan.
+The full Volume 43 structural audit is **PASS**. This document records the required second, independent direct visual/textual-fidelity verification against the controlling scan. The scan is authoritative. OCR or prior canonical text may only assist navigation or discrepancy detection and may not override the scan.
 
-Do not begin English translation until this full-volume fidelity gate reaches **PASS — 402 / 402**.
+This required Tamil fidelity gate is now complete. English translation is unlocked subject to the separate translation/source-check workflow.
 
 ## Verification method
 
@@ -20,13 +20,13 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 - Record every scan-proven correction explicitly.
 - Do not re-transcribe completed letters unless a concrete fidelity defect is found.
 - Continue sequentially from the durable verified frontier; do not repeat earlier verified pages without a specific defect report.
-- From the PDF 070 continuation onward, process **two complete letters per iteration**, stopping at the end of the second letter.
+- From the PDF 070 continuation onward, the pass normally processed two complete letters per iteration; the user explicitly authorized the final remaining letters to be completed together.
 
 ## Current durable frontier
 
-**PDF 001–374 / 402 — VERIFIED.**
+**PDF 001–402 / 402 — VERIFIED — PASS.**
 
-PDF **364–374**, comprising Letters **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`** and **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`**, was compared directly against the controlling scan in this continuation. Letter 3478 closes at PDF 370 with `அன்புள்ள, / மு.க. / 4-7-2010`. Letter 3479 closes at PDF 374 with `அன்புள்ள, / மு.க. / 7-7-2010`.
+The closing continuation directly compared PDF **375–402** against the controlling scan, comprising Letters **3480 — `வெல்லத் தமிழ் இனி வளரும்!`**, **3481 — `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`**, **3482 — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்!`**, **3483 — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2)`**, plus PDF 401 non-letter end matter and PDF 402 back-cover / publisher material. Letter 3480 closes at PDF 379 with `அன்புள்ள, / மு.க. / 12-7-2010`; Letter 3481 closes at PDF 385 with `அன்புள்ள, / மு.க. / 14-7-2010`; Letter 3482 closes at PDF 393 with `அன்புள்ள, / மு.க. / 16-7-2010`; Letter 3483 closes at PDF 400 with `அன்புள்ள, / மு.க. / 17-07-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -93,7 +93,7 @@ No concrete scan-proven correction was identified in Letters 3438–3439 during 
 
 ### PDF 112–130
 
-No concrete scan-proven correction was identified in Letters 3440–3441 during this pass. The actual Letter 3441 title on PDF 119 remains `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; the separately preserved printed-contents wording on PDF 019 remains `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
+No concrete scan-proven correction was identified in Letters 3440–3441 during this pass. The actual Letter 3441 title on PDF 119 remains `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
 ### Scan-proven corrections in PDF 131–142
 
@@ -275,6 +275,40 @@ No other concrete scan-proven correction was identified in Letters 3476–3477 d
 
 No other concrete scan-proven correction was identified in Letters 3478–3479 during this pass.
 
+### Scan-proven corrections in PDF 375–402
+
+- **PDF 376 — Letter 3480:** restored the printed punctuation between the two engineering branches: `“சிவில்”. “மெக்கானிகல்”` → `“சிவில்”, “மெக்கானிகல்”`.
+- **PDF 377 — Letter 3480:** restored the printed word `தொழில்கல்வி` → `தொழிற்கல்வி`.
+- **PDF 380 — Letter 3481:** corrected the provisional actual-title punctuation `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` → `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`. The direct scan shows a semicolon after `விமர்சனங்கள்`, matching the printed contents. The corrected title is synchronized across PDF 380–385 metadata, the canonical title line, chapter record and chapter register.
+- **PDF 388 — Letter 3482:** removed an editorially introduced leading hyphen before `ஆதிதிராவிடர் நலத்துறைக்கு`.
+- **PDF 391 — Letter 3482:** restored the printed semicolon after the 2007–2008 food-production figure: `மெட்ரிக் டன்:` → `மெட்ரிக் டன்;`.
+- **PDF 396 — Letter 3483:** restored the source's typographic opening single quotation mark: `'மலிவு விலையில் மளிகைப் பொருள் வழங்கும் திட்டத்தின்` → `‘மலிவு விலையில் மளிகைப் பொருள் வழங்கும் திட்டத்தின்`.
+
+No other concrete scan-proven correction was identified in Letters 3480–3483 or the non-letter PDF 401–402 during this pass.
+
+## Cross-file reconciliation at gate closure
+
+- The consolidated `contents/index.md` was synchronized with already scan-proven contents-page corrections: Letter 3430 now reads `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`, and Letter 3441 printed contents now reads `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
+- Letter 3430 is therefore **not** a genuine contents/actual-title discrepancy.
+- Letter 3441 **is** a genuine source-layer difference: contents `உடன்பிறப்புகளில்...`; actual PDF 119 `உடன் பிறப்புகளில்...`.
+- Direct second-pass scan verification supersedes the earlier provisional punctuation discrepancies for Letters 3476, 3477 and 3481; all three use semicolons matching the printed contents.
+- Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
+- Letter 3467's printed contents date cell remains blank; its reproduced handwritten letter's `2/11/1974` date remains a separate record-level fact.
+- PDF 401 remains non-letter end matter; PDF 402 remains back-cover / portrait / publisher-contact-price material; no Letter 3484 is created.
+
+## Gate result
+
+**PASS — 402 / 402.** The required second full-volume direct visual/textual-fidelity verification is complete for Volume 43.
+
+Durable Tamil state after this gate:
+
+- canonical physical pages: **402 / 402**;
+- source records: **56 / 56 — 3428–3483**;
+- partial/source-incomplete records: **none**;
+- full-volume Tamil structural audit: **PASS**;
+- second full-volume visual/textual-fidelity verification: **PASS — 402 / 402**;
+- English translation: **READY FOR PILOT**.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 375** and, following the current two-letter iteration cadence, complete the next **two letters — 3480 and 3481 — in the same iteration**, stopping at the end of Letter 3481. PDF 375 begins Letter **3480 — `வெல்லத் தமிழ் இனி வளரும்!`**; Letter 3481 begins at PDF 380 with actual title **`வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`**, while the printed contents preserves `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`. PDF 386 begins Letter 3482, so stop at PDF 385. Do **not** repeat PDF 001–374 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Begin the **Volume 43 English translation pilot — Letters 3428–3430 / PDF 024–048**. Follow `TRANSLATION_PLAN.md`, create complete thought-preserving bilingual records with full audited Tamil appendices, source-check the pilot, and lock Volume 43 translation conventions before regular five-record batches. Do not include Letter 3431 in the pilot.

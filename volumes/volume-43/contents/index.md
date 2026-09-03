@@ -11,7 +11,7 @@ transcription_status: first-pass-reviewed
 |---:|---|---|---:|
 | 3428 | காக்கும் கரங்களுமன்றோ? | 1-11-2009 | 23 |
 | 3429 | இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்! | 4-11-2009 | 32 |
-| 3430 | கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ! | 6-11-2009 | 39 |
+| 3430 | கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ! | 6-11-2009 | 39 |
 | 3431 | இதில் எது கையாலாகாத்தனம்? | 10-11-2009 | 48 |
 | 3432 | கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக! | 12-11-2009 | 53 |
 | 3433 | பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்! | 15-11-2009 | 60 |
@@ -22,7 +22,7 @@ transcription_status: first-pass-reviewed
 | 3438 | ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு! | 4-12-2009 | 98 |
 | 3439 | குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு! | 5-12-2009 | 103 |
 | 3440 | “காஞ்சி” வழியில் “கோவை” மாநாடு! | 12-12-2009 | 111 |
-| 3441 | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 |
+| 3441 | உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 |
 | 3442 | சோதனைகளை வென்ற கழக அரசின் சாதனைகள்! | 16-12-2009 | 130 |
 | 3443 | அவர்களும் நாமும்; ஓர் ஒப்பீடு! | 20-12-2009 | 137 |
 | 3444 | மீண்டும் இதோ; என் அன்பழைப்பு! | 21-12-2009 | 142 |
@@ -68,8 +68,10 @@ transcription_status: first-pass-reviewed
 
 > மூல அச்சில் 3467-ஆம் பதிவின் தேதி இடம் வெற்றாக உள்ளது; அது அப்படியே பாதுகாக்கப்பட்டுள்ளது.
 
-> **Boundary/title verification through Letter 3483:** Letters 3428–3483 have been checked against their actual letter-start and closing/source-end pages. The printed contents table above remains verbatim. Actual-letter-title discrepancies are documented separately for 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474, 3476, 3477 and 3481; canonical chapter/page metadata follows the actual letter-start scan without rewriting this contents source transcription.
+> **Boundary/title verification through Letter 3483:** Letters 3428–3483 have been checked against their actual letter-start and closing/source-end pages. The printed contents table above remains verbatim to the directly verified scan. Genuine actual-letter-title discrepancies are documented separately for **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**; canonical chapter/page metadata follows the actual letter-start scan without rewriting the printed-contents source layer.
 
-> **Letters 3472–3477 title-layer note:** the printed contents uses long `ஓய்யாரக்...` for 3472–3474 while the actual starts at PDF 326, 332 and 340 use short `ஒய்யாரக்...`; the printed contents uses a semicolon in Letters 3476 and 3477 while actual PDF 354 and PDF 358 use a colon. Letter 3481 actual PDF 380 title uses a question mark after `விமர்சனங்கள்`, while the printed contents row above preserves its semicolon. Letters 3479–3483 are scan-verified complete at PDF 371–400. PDF 401 is non-letter end matter and PDF 402 is the back cover; no Letter 3484 is created.
+> **Title-layer note:** the printed contents uses long `ஓய்யாரக்...` for 3472–3474 while the actual starts at PDF 326, 332 and 340 use short `ஒய்யாரக்...`. Second-pass direct scan verification confirmed that Letters 3476, 3477 and 3481 use the same semicolon punctuation as the printed contents; earlier provisional colon/question-mark readings are superseded. Letters 3479–3483 are scan-verified complete at PDF 371–400. PDF 401 is non-letter end matter and PDF 402 is the back cover; no Letter 3484 is created.
+
+> **Letter 3441 title-layer note:** the printed contents uses joined `உடன்பிறப்புகளில்`, while the actual PDF 119 title uses separated `உடன் பிறப்புகளில்`.
 
 > **Letter 3467 date-layer note:** the contents date cell above remains blank exactly as printed. The Letter 3467 record itself introduces a reproduced handwritten letter as written on `2-11-1974`, and the final facsimile page visibly carries `2/11/1974`; that record-level date is documented outside the printed-contents layer.

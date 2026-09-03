@@ -25,12 +25,14 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "through-letter-3483-pass; full-volume-audits-pending"
-audit_date: 2026-09-02
-second_visual_verification: "pending"
-second_visual_verified_page_range: null
-textual_fidelity_audit_reports: []
-translation_status: "blocked-pending-tamil-gates"
+audit_status: "full-volume-tamil-gates-pass"
+audit_date: 2026-09-03
+second_visual_verification: "pass"
+second_visual_verified_page_range: "1-402"
+second_visual_verified_pages: 402
+textual_fidelity_audit_reports:
+  - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
+translation_status: "ready-for-pilot"
 translated_letter_range: null
 translated_letter_count: 0
 bilingual_alignment_status: "not-started"
@@ -45,11 +47,12 @@ source_observations:
   - "User explicitly approved the first transcription iteration as PDF 001–023, isolating front matter/contents before Letter 3428."
   - "Letter 3428 is scan-verified complete at PDF 024–032 / printed pages 23–31; source date 1-11-2009."
   - "Letters 3429–3433 are scan-verified complete at PDF 033–069 / printed pages 32–68."
-  - "Letter 3430 printed contents title differs from actual PDF 040 title; contents wording is preserved separately, while canonical letter metadata follows PDF 040."
+  - "Second-pass direct contents verification corrected Letter 3430's printed-contents row to `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`, matching the actual PDF 040 title; the earlier discrepancy claim is superseded."
   - "Letters 3434–3438 are scan-verified complete at PDF 070–103 / printed pages 69–102."
   - "Letter 3435 printed contents title `முடிந்த தொடாக்கதை; முடியாத வரலாறு!` differs from actual PDF 076 title `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; each source layer is preserved independently."
   - "Letter 3438 printed contents title `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!` differs from actual PDF 099 title `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; each source layer is preserved independently."
   - "Letters 3439–3443 are scan-verified complete at PDF 104–142 / printed pages 103–141."
+  - "Letter 3441 printed contents title uses joined `உடன்பிறப்புகளில்`, while actual PDF 119 uses separated `உடன் பிறப்புகளில்`; each source layer is preserved independently."
   - "Letters 3444–3448 are scan-verified complete at PDF 143–181 / printed pages 142–180."
   - "Letters 3449–3453 are scan-verified complete at PDF 182–234 / printed pages 181–233."
   - "Letters 3454–3458 are scan-verified complete at PDF 235–256 / printed pages 234–255."
@@ -64,10 +67,13 @@ source_observations:
   - "Letter 3473 printed contents title `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` differs from actual PDF 332 title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; each source layer is preserved independently."
   - "Letters 3474–3478 are scan-verified complete at PDF 340–370 / printed pages 339–369."
   - "Letter 3474 printed contents title `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` differs from actual PDF 340 title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; each source layer is preserved independently."
-  - "Letter 3476 printed contents title uses a semicolon in `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, while actual PDF 354 uses a colon in `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`; each source layer is preserved independently."
-  - "Letter 3477 printed contents title uses a semicolon in `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`, while actual PDF 358 uses a colon in `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`; each source layer is preserved independently."
-  - "PDF 371 / printed page 370 cleanly begins Letter 3479 `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`; this is the exact next source record."
+  - "Second-pass direct scan verification confirmed Letter 3476 actual title `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, matching the printed contents; the earlier provisional colon reading is superseded."
+  - "Second-pass direct scan verification confirmed Letter 3477 actual title `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`, matching the printed contents; the earlier provisional colon reading is superseded."
   - "Letters 3479–3483 are scan-verified complete at PDF 371–400 / printed pages 370–399."
-  - "Letter 3481 printed contents title `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!` differs from actual PDF 380 title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`; each source layer is preserved independently."
+  - "Second-pass direct scan verification confirmed Letter 3481 actual title `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`, matching the printed contents; the earlier provisional question-mark reading is superseded."
   - "PDF 401 / printed page 400 is non-letter end matter; PDF 402 is back-cover / portrait / publisher-contact-price material. No Letter 3484 is created."
-  - "All 56 source records 3428–3483 and all 402 physical PDF pages now have first-pass canonical representation; full-volume structural and second direct visual/textual-fidelity audits remain pending."
+  - "All 56 source records 3428–3483 and all 402 physical PDF pages have canonical first-pass representation."
+  - "Full-volume Tamil structural audit: PASS."
+  - "Second full-volume direct visual/textual-fidelity verification: PASS — PDF 001–402 / 402."
+  - "Final genuine printed-contents / actual-title differences are Letters 3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474."
+  - "English translation is ready for the three-letter pilot 3428–3430 / PDF 024–048."

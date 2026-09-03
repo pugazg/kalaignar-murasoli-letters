@@ -53,7 +53,7 @@ The source identity above is reconciled with the durable intake metadata. This s
 
 The durable first-pass state reconciles as **402 / 402 physical pages; 56 / 56 complete records; 3428–3483; no partial/source-incomplete record** across the canonical page tree, contents register, chapter tree/register, metadata, progress and iteration-audit records.
 
-Known genuine source-layer title differences remain deliberately separate rather than forcibly synchronized. The documented set is Letters **3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474, 3476, 3477 and 3481**. Letter **3467** also keeps its printed contents date cell blank while the reproduced handwritten letter's `2/11/1974` date remains a separate record-level source fact.
+At the time of this structural pass, provisional source-layer discrepancy notes were carried forward for later direct visual judgment. The subsequently completed second full-volume fidelity pass is authoritative for those punctuation/title judgments.
 
 ## Repository and link hygiene
 
@@ -62,35 +62,40 @@ Known genuine source-layer title differences remain deliberately separate rather
 - The canonical page-tree inventory contains no duplicate page-number mapping; per-batch audits record duplicate-body checks, and no exact duplicate canonical page blob was identified during this structural reconciliation.
 - Repository searches found no U+FFFD replacement character and no U+200B / U+200C / U+200D / U+FEFF residue under `volumes/volume-43`.
 - The Volume 43 root contains no unexpected temporary OCR/render/workflow/export artifacts.
-- The English translation area contains scaffolding only; no letter translation record has been started.
+- The English translation area contained scaffolding only at the time of this structural audit.
 
 ## Source-policy integrity
 
 - Physical page boundaries remain separate; no canonical pages were merged by this gate.
 - No source spelling, punctuation, spacing, dates, figures, English strings, titles or anomalies were normalized by the structural audit.
-- The printed contents layer remains verbatim, including its genuine differences from actual letter-start titles.
+- The printed contents layer remains independent from actual letter-start metadata.
 - PDF 401–402 retain their non-letter classifications and no record beyond 3483 is invented.
-- The second direct full-volume scan comparison remains mandatory before English translation may begin.
 
 ## Structural corrections made by this gate
 
 No canonical page text, letter boundary, title, date or page mapping required a deterministic structural correction. The completed first-pass archive was already structurally coherent after the final source-completion commit.
 
-This gate therefore adds the durable full-volume structural-audit record and synchronizes the project controls from **structural audit pending** to **structural audit PASS**. No Tamil source body is changed by this audit activity.
+This gate therefore added the durable full-volume structural-audit record and synchronized project controls from **structural audit pending** to **structural audit PASS**. No Tamil source body was changed by this structural activity.
 
 ## Gate result
 
 **PASS.** The full-volume Tamil structural audit is complete for Volume 43.
 
-Durable Tamil state after this gate:
+## Post-structural fidelity closure — 2026-09-03
+
+The required second direct full-volume visual/textual-fidelity verification has subsequently completed and is **PASS — PDF 001–402 / 402**. `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` is the controlling record for scan-proven textual corrections and final title-layer reconciliation.
+
+The final genuine printed-contents / actual-title difference set is **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by direct second-pass scan verification.
+
+Current durable Tamil state:
 
 - canonical physical pages: **402 / 402**;
 - source records: **56 / 56 — 3428–3483**;
 - partial/source-incomplete record: **none**;
 - full-volume Tamil structural audit: **PASS**;
-- second full-volume visual/textual-fidelity verification: **pending**;
-- English translation: **blocked pending the remaining Tamil fidelity gate**.
+- second full-volume visual/textual-fidelity verification: **PASS — 402 / 402**;
+- English translation: **READY FOR PILOT**.
 
 ## Exact next activity
 
-Perform the **second full-volume visual/textual-fidelity verification — Volume 43**, directly comparing all 402 canonical physical-page records against the controlling scan and recording every scan-proven correction explicitly. Do not begin English translation until that required Tamil fidelity gate passes.
+Begin the **Volume 43 English translation pilot — Letters 3428–3430 / PDF 024–048**, following `TRANSLATION_PLAN.md`. Do not reopen completed Tamil verification without a concrete defect report.

@@ -6,7 +6,7 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 |---:|---|---|---:|---|
 | [3428](3428-kaakkum-karangalumandro.md) | காக்கும் கரங்களுமன்றோ? | 1-11-2009 | 23 | complete (first-pass-reviewed) |
 | [3429](3429-ingu-vanthulla-tamizharkkum-idar-kalaivom.md) | இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்! | 4-11-2009 | 32 | complete (first-pass-reviewed) |
-| [3430](3430-kelaak-kaathinaraai-kerala-arasinar-thelaaik-kottuvatho.md) | கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ! | 6-11-2009 | 39 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3430](3430-kelaak-kaathinaraai-kerala-arasinar-thelaaik-kottuvatho.md) | கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ! | 6-11-2009 | 39 | complete (first-pass-reviewed) |
 | [3431](3431-ithil-ethu-kaiyaalaakaathanam.md) | இதில் எது கையாலாகாத்தனம்? | 10-11-2009 | 48 | complete (first-pass-reviewed) |
 | [3432](3432-kanneer-thudaithiduga-kadamai-thodarnthiduga.md) | கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக! | 12-11-2009 | 53 | complete (first-pass-reviewed) |
 | [3433](3433-pathirigai-pen-payilavendiya-paadam.md) | பத்திரிகைப் பெண் பயிலவேண்டிய பாடம்! | 15-11-2009 | 60 | complete (first-pass-reviewed) |
@@ -17,7 +17,7 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3438](3438-oonamutrorin-oonrukolaaga-kazhaga-arasu.md) | ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு! | 4-12-2009 | 98 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | [3439](3439-kulir-tharuvena-tharu-nizhalena-kovaiyil-maanaadu.md) | குளிர் தருவென; தரு நிழலெனக் கோவையில் மாநாடு! | 5-12-2009 | 103 | complete (first-pass-reviewed) |
 | [3440](3440-kanchi-vazhiyil-kovai-maanaadu.md) | “காஞ்சி” வழியில் “கோவை” மாநாடு! | 12-12-2009 | 111 | complete (first-pass-reviewed) |
-| [3441](3441-udan-pirappugalil-oruvanaaga-vidukkum-vendukol.md) | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 | complete (first-pass-reviewed) |
+| [3441](3441-udan-pirappugalil-oruvanaaga-vidukkum-vendukol.md) | உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்! | 13-12-2009 | 118 | complete (first-pass-reviewed); actual letter title differs from printed contents |
 | [3442](3442-sothanaigalai-vendra-kazhaga-arasin-saadhanaigal.md) | சோதனைகளை வென்ற கழக அரசின் சாதனைகள்! | 16-12-2009 | 130 | complete (first-pass-reviewed) |
 | [3443](3443-avargalum-naamum-or-oppidu.md) | அவர்களும் நாமும்; ஓர் ஒப்பீடு! | 20-12-2009 | 137 | complete (first-pass-reviewed) |
 | [3444](3444-meendum-itho-en-anbazhaippu.md) | மீண்டும் இதோ; என் அன்பழைப்பு! | 21-12-2009 | 142 | complete (first-pass-reviewed) |
@@ -57,12 +57,14 @@ Volume 43 printed contents register **56 source records — 3428–3483**. Lette
 | [3478](3478-oozhale-un-peyarthaan-jayalalithaavaa.md) | ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா? | 4-7-2010 | 363 | complete (first-pass-reviewed) |
 | [3479](3479-bandh-thaal-vilaiyap-pogum-payan-enna.md) | “பந்த்”தால் விளையப் போகும் பயன் என்ன? | 7-7-2010 | 370 | complete (first-pass-reviewed) |
 | [3480](3480-vellath-tamizh-ini-valarum.md) | வெல்லத் தமிழ் இனி வளரும்! | 12-7-2010 | 374 | complete (first-pass-reviewed) |
-| [3481](3481-vendaatha-vimarsanangal-marappom-mannippom.md) | வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்! | 14-7-2010 | 379 | complete (first-pass-reviewed); actual letter title differs from printed contents |
+| [3481](3481-vendaatha-vimarsanangal-marappom-mannippom.md) | வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்! | 14-7-2010 | 379 | complete (first-pass-reviewed) |
 | [3482](3482-ammaniyin-aathaaramatra-kutrachattum-aanitharamaana-pathilum.md) | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! | 16-7-2010 | 385 | complete (first-pass-reviewed) |
 | [3483](3483-ammaniyin-aathaaramatra-kutrachattum-aanitharamaana-pathilum-2.md) | அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2) | 17-07-2010 | 393 | complete (first-pass-reviewed) |
 
-> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Documented discrepancies through Letter 3483: 3430, 3435, 3438, 3463, 3464, 3467, 3472, 3473, 3474 and 3481.
+> Actual letter-start titles are used in this chapter register. Printed contents wording remains verbatim in `contents/index.md`. Genuine documented discrepancies through Letter 3483: **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
 
-> The actual starts of Letters 3472–3474 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. Second-pass direct scan verification confirmed that Letters 3476 and 3477 use semicolons in their actual starts, matching the printed contents; earlier provisional colon readings are superseded. Letter 3481 actual PDF 380 title uses `?` after `விமர்சனங்கள்`, while the printed contents uses `;`. Letters 3479–3483 are complete; PDF 401–402 are non-letter source pages and no Letter 3484 is created.
+> The actual starts of Letters 3472–3474 use short `ஒய்யாரக்...`, while the printed contents uses long `ஓய்யாரக்...`. Second-pass direct scan verification confirmed that Letters 3476, 3477 and 3481 use semicolons in their actual starts, matching the printed contents; earlier provisional colon/question-mark readings are superseded. Letters 3479–3483 are complete; PDF 401–402 are non-letter source pages and no Letter 3484 is created.
+
+> Letter 3441 printed contents uses joined `உடன்பிறப்புகளில்`, while the actual PDF 119 title uses separated `உடன் பிறப்புகளில்`.
 
 > Letter 3467 is a reproduced handwritten-letter record. Its printed-contents date cell remains blank, while the reproduced handwritten letter itself is documented at record level as dated `2/11/1974`.

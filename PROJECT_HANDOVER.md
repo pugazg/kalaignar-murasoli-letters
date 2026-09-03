@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-09-02
+**Handover date:** 2026-09-03
 
 Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
@@ -10,17 +10,15 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-**Last completed source-work commit:** `bc32fc3c7dcf538930357a04ae260d679a2785d6` — `Transcribe Volume 43 Letters 3479-3483`.
+The durable Volume 43 Tamil gate is now complete. Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
 
-**Live-main checkpoint immediately before this handoff refresh:** `e69aed134f25b09e3ba021e2777ce315707bcde5` — `Remove accidental noop marker`. The handoff-refresh commit that updates this document and `NEXT_CHAT_PROMPT.md` will be newer than that checkpoint; therefore live `main` remains authoritative.
-
-For a fresh chat, attach or otherwise resolve the controlling Volume 43 PDF before page-level visual verification. Repository text never substitutes for the controlling scan.
+For a fresh chat, the controlling Volume 43 PDF is only required if a possible Tamil defect must be re-opened. English work should normally use audited canonical Tamil as its immediate source.
 
 ## Source authority
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
-## Volume 43 — ACTIVE
+## Volume 43 — ACTIVE ENGLISH WORK
 
 Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 
@@ -34,55 +32,56 @@ Current durable state:
 - Printed contents: **PDF 018–022**
 - Source inventory: **56 records, 3428–3483**
 - Canonical Tamil/source-page representation: **PDF 001–402 / 402**
-- Completed letters: **56 / 56 — 3428–3483**
-- Translation: **blocked pending Tamil gates**
+- Completed Tamil letters: **56 / 56 — 3428–3483**
+- Partial/source-incomplete records: **none**
+- Full-volume Tamil structural audit: **PASS**
+- Second full-volume direct visual/textual-fidelity verification: **PASS — 402 / 402**
+- English translation: **READY FOR PILOT — 0 / 56 translated**
 
-The user explicitly approved the first Volume 43 iteration as **PDF 001–023 only**. Letter 3428 is scan-verified complete at PDF 024–032. Letters 3429–3433 are complete at PDF 033–069. Letters 3434–3438 are complete at PDF 070–103. Letters 3439–3443 are complete at PDF 104–142. Letters 3444–3448 are complete at PDF 143–181. Letters 3449–3453 are complete at PDF 182–234. Letters 3454–3458 are complete at PDF 235–256. Letters 3459–3463 are complete at PDF 257–278. Letters 3464–3468 are complete at PDF 279–314. Letters 3469–3473 are complete at PDF 315–339. The latest normal batch is scan-verified complete:
+### Final fidelity closure
 
-- **3474** — PDF **340–347** — actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` — closes `02-06-2010`
-- **3475** — PDF **348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` — closes `16-6-2010`
-- **3476** — PDF **354–357** — actual title `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` — closes `17-6-2010`
-- **3477** — PDF **358–363** — actual title `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` — closes `19-6-2010`
-- **3478** — PDF **364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` — closes `4-7-2010`
+The second direct visual/textual-fidelity pass has now covered the complete source **PDF 001–402 / 402**. The final continuation directly checked PDFs **375–402**, comprising Letters **3480–3483**, PDF 401 non-letter end matter and PDF 402 back-cover / publisher material.
 
-Final normal batch is also scan-verified complete:
+Final-range scan-proven corrections include:
 
-- **3479** — PDF **371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` — closes `7-7-2010`
-- **3480** — PDF **375–379** — `வெல்லத் தமிழ் இனி வளரும்!` — closes `12-7-2010`
-- **3481** — PDF **380–385** — actual title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` — closes `14-7-2010`
-- **3482** — PDF **386–393** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்!` — closes `16-7-2010`
-- **3483** — PDF **394–400** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2)` — closes `17-07-2010`
-- PDF **401** is non-letter end matter; PDF **402** is back-cover / portrait / publisher-contact-price material. No Letter 3484 is created.
+- PDF 376 — `“சிவில்”. “மெக்கானிகல்”` → `“சிவில்”, “மெக்கானிகல்”`;
+- PDF 377 — `தொழில்கல்வி` → `தொழிற்கல்வி`;
+- PDF 380 — Letter 3481 actual title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` → `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`;
+- PDF 388 — removed an editorially introduced leading hyphen before `ஆதிதிராவிடர் நலத்துறைக்கு`;
+- PDF 391 — restored the printed semicolon after the 2007–2008 food-production figure;
+- PDF 396 — restored the printed typographic opening single quotation mark in `‘மலிவு விலையில்...`.
 
-Source-layer title discrepancies are documented and must not be normalized across layers:
+The final pass also reconciles the consolidated printed-contents register with earlier direct contents-page corrections: Letter 3430 is `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`, and Letter 3441 printed contents is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
-- Letter 3430 printed contents differs from actual PDF 040 title.
-- Letter 3435 printed contents: `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`; actual PDF 076: `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
-- Letter 3438 printed contents: `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; actual PDF 099: `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
-- Letter 3463 printed contents: `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274: `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
-- Letter 3464 printed contents: `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`; actual PDF 279: `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
-- Letter 3467 printed contents uses `மகாராஜனுக்கு`; actual PDF 299 uses `மகராஜனுக்கு`.
-- Letters 3472–3474 printed contents use long `ஓய்யாரக்...`; actual PDF 326, 332 and 340 use short `ஒய்யாரக்...`.
-- Letter 3476 printed contents uses `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`; actual PDF 354 uses `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`.
-- Letter 3477 printed contents uses `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`; actual PDF 358 uses `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`.
-- Letter 3481 printed contents uses `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`; actual PDF 380 uses `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`.
+### Final genuine title-layer differences
 
-Letter 3467's printed contents date cell remains blank exactly as printed. Its editorial introduction says the reproduced handwritten letter was written `2-11-1974`, and the final facsimile page visibly carries `2/11/1974`; keep that as a separate record-level source fact rather than filling the blank contents cell. Its handwritten facsimile pages are represented as facsimile source pages rather than silently normalizing uncertain handwriting into typeset text.
+Preserve these source layers independently:
 
-All **56 source records, Letters 3428–3483**, are now first-pass complete, and all **402 physical PDF pages** have canonical representation/classification.
+- **3435:** contents `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`; actual `முடிந்த தொடர்கதை; முடியாத வரலாறு!`.
+- **3438:** contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; actual `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`.
+- **3441:** contents `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; actual `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
+- **3463:** contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
+- **3464:** contents `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`; actual `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
+- **3467:** contents uses `மகாராஜனுக்கு`; actual uses `மகராஜனுக்கு`; contents date remains blank and the reproduced handwritten letter is separately dated `2/11/1974`.
+- **3472–3474:** contents uses long `ஓய்யாரக்...`; actual starts use short `ஒய்யாரக்...`.
+
+Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second pass. Letters 3476, 3477 and 3481 use semicolons in both the printed contents and actual letter starts.
 
 ### Exact next activity
 
-Run the **full Volume 43 Tamil structural audit** across PDF **001–402** and source records **3428–3483**. Then perform the required **second direct visual/textual-fidelity verification** against the controlling scan. English translation must remain blocked until both Tamil gates explicitly pass.
+Begin the **Volume 43 English translation pilot — Letters 3428–3430 / PDF 024–048**.
 
-For the audit activity:
+Mandatory English startup before changing records:
 
-- validate page continuity 001–402, record inventory 3428–3483, chapter/page mappings, titles, dates, closing boundaries, and non-letter classification for PDF 401–402;
-- check duplicate bodies, U+FFFD / unwanted zero-width residue, metadata/control synchronization and source-layer discrepancy notes;
-- conduct the second direct scan comparison over the complete volume and record all corrections rather than silently normalizing;
-- do **not** re-transcribe already completed letters unless the audit identifies a concrete source-fidelity defect;
-- only after both Tamil gates pass may English translation/source-check planning begin;
-- re-fetch live `main` immediately before mutation, publish one validated atomic commit, fast-forward with `force: false`, and verify parent → new HEAD scope.
+- read `volumes/volume-43/TRANSLATION_PLAN.md` completely;
+- read `volumes/volume-43/translations/en/README.md` and `PROGRESS.md`;
+- inspect the completed Volume 44 English plan, pilot review and glossary as repository reference;
+- use audited canonical Tamil as the immediate source;
+- use the controlling scan only if a concrete Tamil defect is suspected;
+- draft/source-check exactly **3428, 3429 and 3430** and stop before 3431;
+- create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
+- lock Volume 43 translation conventions after the pilot source-check;
+- keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE
 
@@ -109,7 +108,7 @@ Volume 45 remains complete through Tamil and English release gates.
 
 ## Fresh-window start instruction
 
-In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. Also attach the controlling Volume 43 PDF if it is not already available in that chat. The new chat should fetch live `main`, read the mandatory guides and controls, and continue from the exact next activity without reopening completed transcription batches.
+In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and controls, and begin the exact Volume 43 English pilot without reopening completed Tamil verification unless a concrete defect is found.
 
 ## Git discipline
 

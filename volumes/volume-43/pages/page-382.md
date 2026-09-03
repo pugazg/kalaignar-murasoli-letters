@@ -6,7 +6,7 @@ section: "letter"
 transcription_status: "first-pass-reviewed"
 letter_number: 3481
 letter_date: "2010-07-14"
-letter_title: "வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!"
+letter_title: "வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!"
 ---
 
 மாநில அரசுகள், கட்சிகளிடம் மாறும் போது

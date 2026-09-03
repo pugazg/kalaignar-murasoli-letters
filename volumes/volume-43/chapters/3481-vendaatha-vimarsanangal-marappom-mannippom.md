@@ -1,7 +1,7 @@
 ---
 volume: 43
 letter_number: 3481
-title: "வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!"
+title: "வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!"
 date: 2010-07-14
 printed_page_start: 379
 printed_page_end: 384
@@ -10,13 +10,13 @@ pdf_page_end: 385
 transcription_status: "first-pass-reviewed"
 ---
 
-# 3481. வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!
+# 3481. வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!
 
 **விளிப்பு:** உடன்பிறப்பே  
 **கையொப்பம்:** அன்புள்ள, மு.க.  
 **தேதி (மூல அச்சு):** 14-7-2010
 
-> **Source-layer note:** printed contents has `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`; actual PDF 380 uses a question mark after `விமர்சனங்கள்`.
+> **Second-pass title note:** direct scan verification confirms the semicolon after `விமர்சனங்கள்`, matching the printed contents. The earlier provisional question-mark reading is superseded.
 
 ## பக்க வரிசை
 

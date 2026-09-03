@@ -16,6 +16,8 @@ transcription_status: "first-pass-reviewed"
 **கையொப்பம்:** அன்புள்ள, மு.க.  
 **தேதி (மூல அச்சு):** 13-12-2009
 
+> **Source-layer note:** printed contents on PDF 019 has `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; the actual Letter 3441 start on PDF 119 has `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`. Both source layers are preserved independently.
+
 ## பக்க வரிசை
 
 1. [PDF பக்கம் 119 / அச்சுப் பக்கம் 118](../pages/page-119.md)

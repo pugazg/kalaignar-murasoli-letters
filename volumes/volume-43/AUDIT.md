@@ -33,9 +33,9 @@ The user-approved first-iteration exception intentionally stops at PDF 023, imme
 - **3433** — PDF **061–069** / printed **60–68** — closes `15-11-2009`
 - PDF **070** cleanly begins Letter **3434**.
 
-### Title discrepancy — Letter 3430
+### Provisional first-pass title note — Letter 3430
 
-Printed contents records `கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!`; actual PDF 040 prints `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`. Both source forms are retained in their proper layers.
+The first-pass contents reading was recorded as `கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!`, while actual PDF 040 was read as `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`. The later full-volume direct fidelity pass rechecked PDF 018 and corrected the printed-contents reading to `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`; therefore this is **not** a final source-layer discrepancy.
 
 ## Five-record iteration — Letters 3434–3438 — PDF 070–103
 
@@ -316,8 +316,8 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 
 - **3474** — PDF **340–347** / printed **339–346** — actual title `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` — closes `02-06-2010`.
 - **3475** — PDF **348–353** / printed **347–352** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` — closes `16-6-2010`.
-- **3476** — PDF **354–357** / printed **353–356** — actual title `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` — closes `17-6-2010`.
-- **3477** — PDF **358–363** / printed **357–362** — actual title `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` — closes `19-6-2010`.
+- **3476** — PDF **354–357** / printed **353–356** — provisional first-pass title `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!` — closes `17-6-2010`.
+- **3477** — PDF **358–363** / printed **357–362** — provisional first-pass title `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!` — closes `19-6-2010`.
 - **3478** — PDF **364–370** / printed **363–369** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` — closes `4-7-2010`.
 - PDF **371 / printed 370** cleanly begins Letter **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`**.
 
@@ -326,15 +326,14 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Every PDF page **340–370** was directly inspected against the controlling scan; OCR was only a drafting/discrepancy aid.
 - Physical page boundaries, titles, salutations, closings and dates were preserved and checked against the scan.
 - Letter 3475 preserves its source English High Court passage and the surrounding dates/figures as printed.
-- Letter 3476 preserves the source verse layout and the actual colon in its title.
+- The first-pass punctuation readings for Letters 3476 and 3477 were later superseded by the required second full-volume direct scan pass.
 - Letter 3477 preserves the source's Sanskrit/Grantha wording, measurements, regnal chronology and numerical details without substituting outside text.
 - Letter 3478 preserves the printed G.O. strings, company names, quantities, annual figures and percentages as source material.
 
 ### Source-layer notes
 
 - **3474:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; actual PDF 340 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`.
-- **3476:** printed contents `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`; actual PDF 354 `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`.
-- **3477:** printed contents `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`; actual PDF 358 `இதோ: செப்பேடுகள் உரைத்திடும் உறுதி!`.
+- **3476/3477:** first-pass punctuation notes are historical only; the second full-volume direct pass confirmed semicolons in both actual starts, matching printed contents.
 
 ### Precommit checks
 
@@ -344,12 +343,12 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - Duplicate new canonical page bodies: none.
 - U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue: none.
 - Chapter page-link sequences and start/end metadata: PASS.
-- Title/date/source-layer fidelity: PASS.
+- Title/date/source-layer fidelity: PASS subject to the later second-pass punctuation reconciliation recorded below.
 - Figures/numbers, quotations, source English strings, G.O. references and historical wording: checked against the scan.
 - Verified next-letter start: PDF **371**, Letter **3479**.
 - English translation: not started; remains blocked pending Tamil gates.
 
-### Durable result
+### Durable result at first-pass completion
 
 - Canonical Tamil/source-page representation: **PDF 001–370 / 402**
 - Completed source records: **51 / 56 — 3428–3478**
@@ -364,23 +363,19 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 
 - **3479** — PDF **371–374** / printed **370–373** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` — closes `7-7-2010`.
 - **3480** — PDF **375–379** / printed **374–378** — `வெல்லத் தமிழ் இனி வளரும்!` — closes `12-7-2010`.
-- **3481** — PDF **380–385** / printed **379–384** — actual title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` — closes `14-7-2010`.
+- **3481** — PDF **380–385** / printed **379–384** — provisional first-pass title `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!` — closes `14-7-2010`.
 - **3482** — PDF **386–393** / printed **385–392** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்!` — closes `16-7-2010`.
 - **3483** — PDF **394–400** / printed **393–399** — `அம்மணியின் ஆதாரமற்ற குற்றச்சாட்டும், ஆணித்தரமான பதிலும்! (2)` — closes `17-07-2010`.
 - PDF **401 / printed 400** is non-letter end matter; PDF **402** is back-cover / portrait / publisher-contact-price material. **No Letter 3484** is created.
 
 ### Visual/textual checks
 
-- Every physical source page **371–402** was inspected/classified against the controlling scan; OCR remained a drafting/discrepancy aid only.
+- Every physical source page **371–402** was inspected/classified against the controlling scan during first-pass completion; OCR remained a drafting/discrepancy aid only.
 - Physical page boundaries, letter starts, closings, dates, figures, English strings and punctuation-sensitive readings were preserved.
-- The final fidelity pass resolved OCR-sensitive readings including `Assocham`, `4110`, the Letter 3482 closing date `16-7-2010`, and the Letter 3483 closing date `17-07-2010` from the source.
-- Letter 3481 preserves the actual question mark in its title and the five-dot `மறப்போம்..... மன்னிப்போம்!` closing phrase as printed.
-- No replacement Unicode or unintended zero-width OCR residue is present in the finalized candidate.
+- First-pass OCR-sensitive readings including `Assocham`, `4110`, the Letter 3482 closing date `16-7-2010`, and the Letter 3483 closing date `17-07-2010` were resolved from the source.
+- Letter 3481 preserves the five-dot `மறப்போம்..... மன்னிப்போம்!` closing phrase as printed. Its provisional first-pass title punctuation was later superseded by direct second-pass scan verification.
+- No replacement Unicode or unintended zero-width OCR residue is present in the finalized first-pass candidate.
 - No English translation was started.
-
-### Source-layer note
-
-- **3481:** printed contents `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`; actual PDF 380 `வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`.
 
 ### Precommit checks
 
@@ -390,14 +385,35 @@ The printed contents transcription remains verbatim; chapter/page metadata follo
 - PDF 401–402 classified as non-letter source pages; no Letter 3484: PASS.
 - U+FFFD / U+200B / U+200C / U+200D / U+FEFF residue: none.
 - Chapter page-link sequences and start/end metadata: PASS.
-- Title/date/source-layer fidelity: PASS.
-- English translation remains blocked pending full-volume Tamil gates.
+- Title/date/source-layer fidelity: PASS subject to the later second-pass title reconciliation recorded below.
 
-### Durable result
+### Durable result at first-pass completion
 
 - Canonical Tamil/source-page representation: **PDF 001–402 / 402**
 - Completed source records: **56 / 56 — 3428–3483**
 - Partial/source-incomplete records: **none**
 - First-pass source transcription: **COMPLETE**
-- Full-volume structural audit: **pending**
-- Second direct visual/textual-fidelity verification: **pending**
+
+## Post-first-pass full-volume gate reconciliation — 2026-09-03
+
+The full-volume Tamil structural audit is **PASS** and the required second direct visual/textual-fidelity verification is now **PASS — PDF 001–402 / 402**. `FULL_VOLUME_STRUCTURAL_AUDIT.md` and `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` are the durable gate records.
+
+The closing direct fidelity continuation checked PDF **375–402** and applied scan-proven corrections on PDFs **376, 377, 380, 388, 391 and 396**. In particular, Letter **3481** actually starts `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`, matching the printed contents; the earlier question-mark reading is superseded. The same second-pass process had already superseded the provisional colon readings for Letters **3476** and **3477**, confirming semicolons in both actual starts.
+
+The consolidated printed-contents register was also synchronized with direct contents-page corrections: Letter **3430** now reads `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`, matching its actual title, while Letter **3441** printed contents reads joined `உடன்பிறப்புகளில்...` and remains genuinely distinct from actual PDF 119 `உடன் பிறப்புகளில்...`.
+
+Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** must not be reintroduced.
+
+### Final durable result
+
+- Canonical Tamil/source-page representation: **PDF 001–402 / 402**
+- Completed source records: **56 / 56 — 3428–3483**
+- Partial/source-incomplete records: **none**
+- First-pass source transcription: **COMPLETE**
+- Full-volume structural audit: **PASS**
+- Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
+- English translation: **READY FOR PILOT**
+
+### Exact next activity
+
+Begin the **Volume 43 English translation pilot — Letters 3428–3430 / PDF 024–048**, source-check the three bilingual records, lock Volume 43 translation conventions, and stop before Letter 3431.
