@@ -43,7 +43,8 @@ Current durable English state:
 - Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
 - Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5 source-checked**
 - Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **23 / 56 — 3428–3450**
+- Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **28 / 56 — 3428–3455**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
@@ -51,14 +52,15 @@ Current durable English state:
 
 Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
 
-### Batch 4 durable notes
+### Batch 5 durable notes
 
-- **3446** preserves the source-supplied Caldwell English and the sequence of Saiva Siddhanta / Karanthai Tamil Sangam resolutions. Older Tamil quotations are translated for meaning; exact wording remains in the Tamil appendix.
-- **3447** preserves Pavanar’s fifteen source-supplied English evidence headings exactly; Lemuria, linguistic ancestry, historical precedence and related propositions remain source-framed.
-- **3448** translates the Tamil rendering of the government expert report actually printed in the canonical source; comparative-linguistic, archaeological and chronological claims are not externally reconciled.
-- **3449** translates the Tamil rendering of Professor George L. Hart’s statement rather than importing an outside English version; university resolutions and the Salini Ilanthiraiyan episode are retained as printed.
-- **3450** preserves the 2003 speech, source figures, expected institutional consequences, participant lists and final political criticism as source-attributed material.
+- **3451** closes the seven-part `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` sequence. The recurring image remains **copper-plate record**. Sonia Gandhi’s 8 November 2005 source-supplied English letter is preserved exactly as printed; its surrounding Tamil explanation is translated separately.
+- **3452** preserves the Tamil New Year/Pongal imagery, Tiruvalluvar-year account, new Assembly/Secretariat and library/conference references, and welfare-policy figures in source order.
+- **3453** preserves the Fort St George Assembly-history chronology, dated laws/resolutions, political rebuttals, source-supplied English audit/Wikipedia passages, debt/housing/growth figures and the closing M.G.R. song exchange. Political accusations remain explicitly source-attributed.
+- **3454** preserves the author’s Anna memorial chronology, private recollections, quoted speeches, death imagery and the audited source ellipsis lengths on PDFs 237–238.
+- **3455** preserves the Uttaramerur/*kudavolai* democracy argument and the Pennagaram/Election Commission criticism, including the Dr Ramadoss statement, as source-attributed political material.
 - No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
+- No genuinely new recurring translation term was introduced; `GLOSSARY.md` remains unchanged.
 
 ### Final genuine title-layer differences
 
@@ -76,13 +78,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3451–3455 / PDF 199–245** as Volume 43 normal English batch 5:
+Translate and source-check **Letters 3456–3460 / PDF 246–265** as Volume 43 normal English batch 6:
 
-- **3451 — PDF 199–207** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!`
-- **3452 — PDF 208–211** — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!`
-- **3453 — PDF 212–234** — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!`
-- **3454 — PDF 235–240** — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!`
-- **3455 — PDF 241–245** — `“வேலியே பயிரை மேய்வதா?”`
+- **3456 — PDF 246–249** — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!`
+- **3457 — PDF 250–253** — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!`
+- **3458 — PDF 254–256** — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!`
+- **3459 — PDF 257–259** — `கரும்பில் அரசியல்!`
+- **3460 — PDF 260–265** — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`
 
 Mandatory English startup before changing records:
 
@@ -93,7 +95,7 @@ Mandatory English startup before changing records:
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3455 / PDF 245** and do not begin **3456 / PDF 246**;
+- stop after **3460 / PDF 265** and do not begin **3461 / PDF 266**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE

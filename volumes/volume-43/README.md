@@ -24,12 +24,13 @@
 - Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- English translation/source-check: **IN PROGRESS — 23 / 56 — 3428–3450**
+- English translation/source-check: **IN PROGRESS — 28 / 56 — 3428–3455**
 - English pilot **3428–3430 / PDF 024–048**: **PASS; conventions locked**
 - English normal batch 1 **3431–3435 / PDF 049–086**: **PASS**
 - English normal batch 2 **3436–3440 / PDF 087–118**: **PASS**
 - English normal batch 3 **3441–3445 / PDF 119–156**: **PASS**
 - English normal batch 4 **3446–3450 / PDF 157–198**: **PASS**
+- English normal batch 5 **3451–3455 / PDF 199–245**: **PASS**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 
@@ -58,12 +59,14 @@ The English workflow uses audited canonical Tamil as its immediate source and ke
 - Normal batch 2 **3436–3440**: **5 / 5 source-checked**; cumulative **13 / 56**; 0 Tamil changes.
 - Normal batch 3 **3441–3445**: **5 / 5 source-checked**; cumulative **18 / 56**; 0 Tamil changes.
 - Normal batch 4 **3446–3450**: **5 / 5 source-checked**; cumulative **23 / 56**; 0 Tamil changes.
+- Normal batch 5 **3451–3455**: **5 / 5 source-checked**; cumulative **28 / 56**; 0 Tamil changes; no new recurring glossary treatment.
 - Letter **3441** follows actual PDF 119 separated `உடன் பிறப்புகளில்`, while the printed contents independently retains joined `உடன்பிறப்புகளில்`.
-- Letters **3445–3450** carry the recurring classical-Tamil-history `செப்பேடு` series; English preserves **copper-plate record** for the image.
+- Letters **3445–3451** carry the recurring classical-Tamil-history `செப்பேடு` series; English preserves **copper-plate record** for the image. Letter **3451** preserves Sonia Gandhi’s 8 November 2005 source-supplied English letter exactly as printed.
 - Batch 4 preserves source-supplied English in Caldwell and Pavanar passages. Letters **3448–3449** translate the Tamil renderings printed in the canonical source rather than importing external English versions; historical and linguistic claims remain source-framed.
+- Batch 5 preserves Letter **3453**’s Assembly-history/rebuttal sequence and Letter **3455**’s Pennagaram/Election Commission criticism as source-attributed material; Letter **3454** preserves audited ellipsis lengths in the Tamil appendix.
 - Every English record includes the complete audited Tamil under `Original Tamil — மூலத் தமிழ்` with source-page markers.
 - `translations/en/GLOSSARY.md`, `PROGRESS.md`, `README.md` and `TRANSLATION_MANIFEST.csv` are the durable English controls.
 
 ## Exact next activity
 
-Translate and source-check **Letters 3451–3455 / PDF 199–245** as normal English batch 5. Stop before **Letter 3456 / PDF 246**. Do not perform the later bilingual-alignment gate in the same activity.
+Translate and source-check **Letters 3456–3460 / PDF 246–265** as normal English batch 6. Stop before **Letter 3461 / PDF 266**. Do not perform the later bilingual-alignment gate in the same activity.

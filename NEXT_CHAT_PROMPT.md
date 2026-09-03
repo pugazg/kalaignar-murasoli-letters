@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Batch 5
+# Next Chat Prompt — Volume 43 English Translation Batch 6
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -63,7 +63,8 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 - Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
 - Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5 source-checked**
 - Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5 source-checked**
-- Cumulative source-check: **23 / 56 — 3428–3450**
+- Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5 source-checked**
+- Cumulative source-check: **28 / 56 — 3428–3455**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started; separate later gate**
 - Editorial review: **not started**
@@ -71,14 +72,15 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 
 Every completed English record contains the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
 
-## Batch 4 translation notes
+## Batch 5 translation notes
 
-- Letter **3446** preserves source-supplied Caldwell English and the historical institutional-resolution sequence.
-- Letter **3447** preserves Pavanar’s fifteen source-supplied English evidence headings exactly; Lemuria and language-history propositions remain source-framed.
-- Letter **3448** translates the Tamil rendering of the government expert report printed in the canonical source; do not substitute an outside English report.
-- Letter **3449** translates the Tamil rendering of Professor George L. Hart’s statement printed in the canonical source; do not substitute an outside English statement.
-- Letter **3450** preserves the full 2003 speech, figures, expected institutional effects, participant list and political criticism as source-attributed material.
+- Letter **3451** closes the seven-part classical-Tamil-history sequence; preserve `செப்பேடு` as **copper-plate record** and preserve Sonia Gandhi’s 8 November 2005 source-supplied English letter exactly as printed.
+- Letter **3452** preserves the Tamil New Year/Pongal imagery, Tiruvalluvar-year account, public-project chronology and welfare-policy figures.
+- Letter **3453** preserves the Fort St George Assembly-history register, dated laws/resolutions, source-supplied English passages, debt/housing/growth figures and political rebuttals as source-attributed material.
+- Letter **3454** preserves the Anna memorial chronology, private recollections, quoted speeches and audited ellipsis lengths on PDFs 237–238.
+- Letter **3455** preserves the Uttaramerur/*kudavolai* democracy argument and the Pennagaram/Election Commission criticism, including the Dr Ramadoss statement, as source-attributed material.
 - No Tamil defect was suspected; **0 canonical Tamil changes**.
+- No genuinely new recurring term was introduced; `GLOSSARY.md` was not changed.
 
 ## Source-layer reminder
 
@@ -92,15 +94,15 @@ Follow `volumes/volume-43/TRANSLATION_PLAN.md` and the locked treatments in `tra
 
 ## Exact next activity
 
-Translate and source-check exactly **five records — Letters 3451–3455 / PDF 199–245**:
+Translate and source-check exactly **five records — Letters 3456–3460 / PDF 246–265**:
 
-1. **3451 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!` — PDF 199–207**
-2. **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!` — PDF 208–211**
-3. **3453 — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!` — PDF 212–234**
-4. **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!` — PDF 235–240**
-5. **3455 — `“வேலியே பயிரை மேய்வதா?”` — PDF 241–245**
+1. **3456 — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!` — PDF 246–249**
+2. **3457 — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!` — PDF 250–253**
+3. **3458 — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!` — PDF 254–256**
+4. **3459 — `கரும்பில் அரசியல்!` — PDF 257–259**
+5. **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!` — PDF 260–265**
 
-Stop before **Letter 3456 / PDF 246**.
+Stop before **Letter 3461 / PDF 266**.
 
 For every record:
 

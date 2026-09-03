@@ -189,7 +189,20 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Canonical page coverage: **PDF 001–402 / 402**
 - Completed letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete letters: **none**
-- English translation: **ready for pilot; 0 / 56 translated**
+- English translation/source-check: **IN PROGRESS — 28 / 56 — 3428–3455**
+- Canonical Tamil changes during English work: **0**
+- Bilingual meaning-level alignment: **not started**
+
+## English translation state
+
+- Pilot **3428–3430 / PDF 024–048**: **PASS — 3 / 3 source-checked**; conventions locked.
+- Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5**; cumulative **8 / 56**.
+- Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5**; cumulative **13 / 56**.
+- Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5**; cumulative **18 / 56**.
+- Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5**; cumulative **23 / 56**.
+- Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5**; cumulative **28 / 56**.
+- All twenty-eight English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
+- Batch 5 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
 
 ## Source fidelity notes
 
@@ -205,4 +218,4 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 
 ## Exact next activity
 
-Begin the **Volume 43 English translation pilot — Letters 3428–3430 / PDF 024–048**. Follow `TRANSLATION_PLAN.md`, source-check the three records, lock Volume 43 translation conventions, and stop before Letter 3431.
+Translate and source-check **Letters 3456–3460 / PDF 246–265** as Volume 43 normal English batch 6. Stop before **Letter 3461 / PDF 266**. Follow `TRANSLATION_PLAN.md`, preserve the complete audited Tamil appendix in each record, and do not perform bilingual meaning-level alignment in the same activity.

@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — 23 / 56 source-checked; pilot and normal batches 1–4 PASS.**
+**Status:** **IN PROGRESS — 28 / 56 source-checked; pilot and normal batches 1–5 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -35,16 +35,18 @@ Use the repository's established thought-preserving, non-literary English method
 - Normal batch 2 **3436–3440 / PDF 087–118** — **PASS — 5 / 5**.
 - Normal batch 3 **3441–3445 / PDF 119–156** — **PASS — 5 / 5**.
 - Normal batch 4 **3446–3450 / PDF 157–198** — **PASS — 5 / 5**.
+- Normal batch 5 **3451–3455 / PDF 199–245** — **PASS — 5 / 5**.
 
-Cumulative result: **23 / 56 source-checked; 0 canonical Tamil changes during English work.**
+Cumulative result: **28 / 56 source-checked; 0 canonical Tamil changes during English work.**
 
-### Normal batch 4 durable notes
+### Normal batch 5 durable notes
 
-- **3446 — PDF 157–164:** preserves the source-supplied Caldwell English and the sequence of Saiva Siddhanta / Karanthai Tamil Sangam resolutions; older quoted Tamil is translated for meaning while the appendix controls exact wording.
-- **3447 — PDF 165–172:** preserves Pavanar’s fifteen source-supplied English evidence headings; Lemuria, language ancestry, precedence and other propositions remain source-framed.
-- **3448 — PDF 173–181:** translates the Tamil rendering of the government expert report actually printed in the canonical source; comparative-linguistic and archaeological claims are not externally reconciled.
-- **3449 — PDF 182–190:** translates the Tamil rendering of George L. Hart’s statement rather than importing an outside English version; university resolutions and the Salini Ilanthiraiyan episode remain source-framed.
-- **3450 — PDF 191–198:** preserves the 2003 speech, expected institutional effects of classical-language recognition, participant lists and final political criticism as source-attributed material.
+- **3451 — PDF 199–207:** closes the seven-part classical-Tamil-history sequence. Preserve Sonia Gandhi’s 8 November 2005 English letter exactly as printed in the source; translate the surrounding Tamil explanation separately. The `செப்பேடு` image remains **copper-plate record**.
+- **3452 — PDF 208–211:** preserves the Tamil New Year/Pongal celebration imagery, Tiruvalluvar-year account, public-project chronology and welfare-policy figures in source order.
+- **3453 — PDF 212–234:** preserves the Fort St George Assembly-history register, dated laws/resolutions, political rebuttals, source-supplied English audit/Wikipedia passages, debt/housing/growth figures and closing M.G.R. song exchange. Accusations remain explicitly source-attributed.
+- **3454 — PDF 235–240:** preserves the author’s Anna memorial chronology, private recollections, quoted speeches, death imagery and the audited printed ellipsis lengths in the Tamil appendix.
+- **3455 — PDF 241–245:** preserves the Uttaramerur/*kudavolai* democracy argument and the Pennagaram/Election Commission criticism, including the Dr Ramadoss statement, as source-attributed political material.
+- **No canonical Tamil change** and **no new recurring glossary treatment** were required in batch 5.
 
 ## Regular translation cadence
 
@@ -61,12 +63,12 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 5: **Letters 3451–3455 / PDF 199–245**.
+Translate and source-check normal five-record batch 6: **Letters 3456–3460 / PDF 246–265**.
 
-- **3451 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!` — PDF 199–207**
-- **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!` — PDF 208–211**
-- **3453 — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!` — PDF 212–234**
-- **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!` — PDF 235–240**
-- **3455 — `“வேலியே பயிரை மேய்வதா?”` — PDF 241–245**
+- **3456 — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!` — PDF 246–249**
+- **3457 — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!` — PDF 250–253**
+- **3458 — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!` — PDF 254–256**
+- **3459 — `கரும்பில் அரசியல்!` — PDF 257–259**
+- **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!` — PDF 260–265**
 
-Stop at the end of **Letter 3455 / PDF 245**. Do **not** begin Letter 3456 / PDF 246 in the same activity.
+Stop at the end of **Letter 3460 / PDF 265**. Do **not** begin Letter 3461 / PDF 266 in the same activity.
