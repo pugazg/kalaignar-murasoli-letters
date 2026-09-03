@@ -51,10 +51,10 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–253 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–259 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 253 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3457** have completed the second direct fidelity pass through PDF **253**. Do not repeat PDF 001–253 unless a concrete defect is reported.
+The second-pass corrections through PDF 259 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3459** have completed the second direct fidelity pass through PDF **259**. Do not repeat PDF 001–259 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another. In particular, the actual Letter 3441 title on PDF 119 is `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`, while the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
@@ -64,7 +64,7 @@ Process **two complete letters per iteration**. Start at the current frontier, v
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 254** and complete the next **two letters — 3458 and 3459 — in this iteration**, stopping at the end of Letter 3459. PDF 254 begins Letter **3458 — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!`**.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 260** and complete the next **two letters — 3460 and 3461 — in this iteration**, stopping at the end of Letter 3461. PDF 260 begins Letter **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`**.
 
 For every page:
 
