@@ -93,3 +93,14 @@ Release artifacts:
 - [Editorial consistency review](volumes/volume-45/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md)
 
 Manifest validation: **55 records; no duplicate letter numbers; no duplicate English paths; no missing English records; no source-incomplete records**.
+
+## Bilingual alignment checkpoint — 3428–3442
+
+- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
+- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
+- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
+- English corrections across the aligned range: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.

@@ -1,12 +1,12 @@
 # Volume 43 — English Translation
 
-**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment remains a separate next gate.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **15 / 56 aligned — 3428–3442 / PDF 024–137**.
 
 ## Pilot — PASS
 
-- [3428 — Are They Not the Hands That Protect?](letters/3428-are-they-not-the-hands-that-protect.md) — PDF 024–032 — source-checked
-- [3429 — Let Us Relieve the Hardships of the Tamils Who Have Come Here Too!](letters/3429-let-us-relieve-the-hardships-of-the-tamils-who-have-come-here-too.md) — PDF 033–039 — source-checked
-- [3430 — Kerala Government, With Ears That Will Not Hear; Why Sting Like a Scorpion!](letters/3430-kerala-government-with-ears-that-will-not-hear-why-sting-like-a-scorpion.md) — PDF 040–048 — source-checked
+- [3428 — Are They Not the Hands That Protect?](letters/3428-are-they-not-the-hands-that-protect.md) — PDF 024–032 — source-checked; aligned
+- [3429 — Let Us Relieve the Hardships of the Tamils Who Have Come Here Too!](letters/3429-let-us-relieve-the-hardships-of-the-tamils-who-have-come-here-too.md) — PDF 033–039 — source-checked; aligned
+- [3430 — Kerala Government, With Ears That Will Not Hear; Why Sting Like a Scorpion!](letters/3430-kerala-government-with-ears-that-will-not-hear-why-sting-like-a-scorpion.md) — PDF 040–048 — source-checked; aligned
 
 Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PASS; conventions locked**.
 
@@ -17,8 +17,8 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 
 ## Normal batch 3 — PASS
 
-- [3441 — An Appeal from One Among the Udanpirappugal!](letters/3441-an-appeal-from-one-among-the-udanpirappugal.md) — PDF 119–130 — source-checked
-- [3442 — Achievements of the DMK Government That Overcame Trials!](letters/3442-achievements-of-the-dmk-government-that-overcame-trials.md) — PDF 131–137 — source-checked
+- [3441 — An Appeal from One Among the Udanpirappugal!](letters/3441-an-appeal-from-one-among-the-udanpirappugal.md) — PDF 119–130 — source-checked; aligned
+- [3442 — Achievements of the DMK Government That Overcame Trials!](letters/3442-achievements-of-the-dmk-government-that-overcame-trials.md) — PDF 131–137 — source-checked; aligned
 - [3443 — They and We: A Comparison!](letters/3443-they-and-we-a-comparison.md) — PDF 138–142 — source-checked
 - [3444 — Here Again Is My Loving Invitation!](letters/3444-here-again-is-my-loving-invitation.md) — PDF 143–148 — source-checked
 - [3445 — Some Copper-Plate Records in the History of Classical Tamil — 1](letters/3445-some-copper-plate-records-in-the-history-of-classical-tamil-1.md) — PDF 149–156 — source-checked
@@ -96,3 +96,14 @@ Final source-check durable points include the 3477 85-present/86-inscribed coppe
 ## Exact next activity
 
 Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and English at meaning level for exactly those five records, document English corrections separately from canonical Tamil changes, set each passing record to `bilingual_alignment_status: aligned`, create `BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`, and stop before **Letter 3433 / PDF 061**. Do not perform editorial consistency review or final release in the same activity.
+
+## Bilingual alignment checkpoint — 3428–3442
+
+- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
+- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
+- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
+- English corrections across the aligned range: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.

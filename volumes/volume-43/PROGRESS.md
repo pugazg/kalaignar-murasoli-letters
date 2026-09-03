@@ -191,7 +191,7 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Partial/source-incomplete letters: **none**
 - English translation/source-check: **COMPLETE — 56 / 56 — 3428–3483**
 - Canonical Tamil changes during English source-check: **0**
-- Bilingual meaning-level alignment: **not started**
+- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 56 aligned — 3428–3442 / PDF 024–137**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
@@ -247,3 +247,14 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 ## Exact next activity
 
 Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and source-checked English at meaning level for exactly those five records; document English corrections separately from canonical Tamil changes; set `bilingual_alignment_status: aligned` only after each record passes; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`; stop before **Letter 3433 / PDF 061**; and do not perform editorial consistency review or final release verification in the same activity.
+
+## Bilingual alignment checkpoint — 3428–3442
+
+- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
+- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
+- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
+- English corrections across the aligned range: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.

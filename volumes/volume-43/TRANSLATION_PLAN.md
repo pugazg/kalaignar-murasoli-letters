@@ -120,3 +120,14 @@ Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**:
 - **3432 — `கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக!` — PDF 054–060**
 
 Stop at the end of **Letter 3432 / PDF 060**. Do **not** begin Letter 3433 / PDF 061 in the same activity. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and keep editorial consistency/final release as later separate gates.
+
+## Bilingual alignment checkpoint — 3428–3442
+
+- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
+- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
+- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
+- English corrections across the aligned range: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.

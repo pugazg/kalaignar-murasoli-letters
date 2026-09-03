@@ -29,7 +29,7 @@
 - English normal batches 1–9 through **3475 / PDF 353**: **PASS**
 - User-approved final oversized source-check batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8**
 - Canonical Tamil changes during English work: **0**
-- Bilingual meaning-level alignment: **not started**
+- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 56 aligned — 3428–3442 / PDF 024–137**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
@@ -82,3 +82,14 @@ Every English record includes the complete audited canonical Tamil representatio
 ## Exact next activity
 
 Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Treat source-check as complete; perform meaning-level Tamil↔English alignment across exactly those five records, record any English corrections separately from canonical Tamil changes, and leave editorial consistency review/final release for later gates.
+
+## Bilingual alignment checkpoint — 3428–3442
+
+- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
+- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
+- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
+- English corrections across the aligned range: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.

@@ -51,7 +51,7 @@ Current durable English state:
 - User-approved final completion batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8 source-checked**
 - Cumulative English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483**
 - Canonical Tamil changes during English source-check: **0**
-- Bilingual meaning-level alignment: **not started**
+- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 56 aligned — 3428–3442 / PDF 024–137**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
@@ -162,3 +162,14 @@ In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the fi
 ## Git discipline
 
 Work on `main` when requested. Prefer one validated atomic commit per declared activity. Never force-push routine work. Recheck live `main` immediately before mutation, preserve concurrent changes, rebuild on a newer HEAD if needed, fast-forward only with `force: false`, and verify parent → new HEAD changed-file scope afterward.
+
+### Bilingual alignment checkpoint — 3428–3442
+
+- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
+- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
+- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
+- English corrections across the aligned range: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
