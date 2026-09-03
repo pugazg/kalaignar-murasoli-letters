@@ -51,10 +51,10 @@ The controlling scan is the highest authority. OCR is only a drafting/discrepanc
 - PDF **402**: back cover / portrait / publisher-contact-price material
 - No Letter **3484** is created in Volume 43
 - Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–270 / 402 VERIFIED**
+- Second direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–278 / 402 VERIFIED**
 - English translation: **blocked pending Tamil fidelity gate**
 
-The second-pass corrections through PDF 270 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3461** have completed the second direct fidelity pass through PDF **270**. Do not repeat PDF 001–270 unless a concrete defect is reported.
+The second-pass corrections through PDF 278 are recorded in `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Letters **3428–3463** have completed the second direct fidelity pass through PDF **278**. Do not repeat PDF 001–278 unless a concrete defect is reported.
 
 Preserve all documented contents/actual-title discrepancies independently; do not normalize one source layer to another. In particular, the actual Letter 3441 title on PDF 119 is `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`, while the separately preserved printed-contents wording on PDF 019 is `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`.
 
@@ -64,7 +64,7 @@ Process **two complete letters per iteration**. Start at the current frontier, v
 
 ## Exact next activity
 
-Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 271** and complete the next **two letters — 3462 and 3463 — in this iteration**, stopping at the end of Letter 3463. PDF 271 begins Letter **3462 — `நம் பயணத்திற்குப் பயன்பட!`**.
+Resume the required **second full-volume direct visual/textual-fidelity verification at PDF 279** and complete the next **two letters — 3464 and 3465 — in this iteration**, stopping at the end of Letter 3465. PDF 279 begins Letter **3464 — `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`**.
 
 For every page:
 

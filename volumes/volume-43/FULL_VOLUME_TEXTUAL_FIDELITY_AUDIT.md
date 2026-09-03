@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–270 / 402 — VERIFIED.**
+**PDF 001–278 / 402 — VERIFIED.**
 
-PDF **260–270**, comprising Letters **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`** and **3461 — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!`**, was compared directly against the controlling scan in this continuation. Letter 3460 closes at PDF 265 with `அன்புள்ள, / மு.க. / 20-02-2010`; Letter 3461 closes at PDF 270 with `அன்புள்ள, / மு.க. / 26-2-2010`.
+PDF **271–278**, comprising Letters **3462 — `நம் பயணத்திற்குப் பயன்பட!`** and **3463 — `மாற்றுத் திறனாளிகளும் - மானிடரே!`**, was compared directly against the controlling scan in this continuation. Letter 3462 closes at PDF 273 with `அன்புள்ள, / மு.க. / 28-2-2010`; Letter 3463 closes at PDF 278 with `அன்புள்ள, / மு.க. / 2-3-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -187,6 +187,15 @@ No other concrete scan-proven correction was identified in Letters 3458–3459 d
 
 No other concrete scan-proven correction was identified in Letters 3460–3461 during this pass.
 
+### Scan-proven corrections in PDF 271–278
+
+- **PDF 274 — Letter 3463:** restored the printed closing quotation mark before the suffix in the scheme name: `“இளஞ்சிறார் இதயப் பாதுகாப்புத் திட்டத்தின்` → `“இளஞ்சிறார் இதயப் பாதுகாப்புத் திட்ட”த்தின்`.
+- **PDF 274 — Letter 3463:** restored the printed quotation boundary around the television-channel name: `“கலைஞர் தொலைக்காட்சியில்”` → `“கலைஞர் தொலைக்காட்சி”யில்`.
+- **PDF 276 — Letter 3463:** restored the printed period after the list number: `3 சதவிகிதத்தை` → `3. சதவிகிதத்தை`.
+- **PDF 277 — Letter 3463:** restored the printed separated form in the Tamil gloss of the 1995 Act: `(சமவாய்ப்பு, பங்கேற்பு)` → `(சம வாய்ப்பு, பங்கேற்பு)`.
+
+No other concrete scan-proven correction was identified in Letters 3462–3463 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 271** and, following the current two-letter iteration cadence, complete the next **two letters — 3462 and 3463 — in the same iteration**, stopping at the end of Letter 3463. PDF 271 begins Letter **3462 — `நம் பயணத்திற்குப் பயன்பட!`**. Do **not** repeat PDF 001–270 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 279** and, following the current two-letter iteration cadence, complete the next **two letters — 3464 and 3465 — in the same iteration**, stopping at the end of Letter 3465. PDF 279 begins Letter **3464 — `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`**. Do **not** repeat PDF 001–278 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
