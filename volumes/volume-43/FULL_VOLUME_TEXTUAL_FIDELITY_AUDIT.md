@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–259 / 402 — VERIFIED.**
+**PDF 001–270 / 402 — VERIFIED.**
 
-PDF **254–259**, comprising Letters **3458 — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!`** and **3459 — `கரும்பில் அரசியல்!`**, was compared directly against the controlling scan in this continuation. Letter 3458 closes at PDF 256 with `அன்புள்ள, / மு.க. / 18-02-2010`; Letter 3459 closes at PDF 259 with `அன்புள்ள, / மு.க. / 19-02-2010`.
+PDF **260–270**, comprising Letters **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`** and **3461 — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!`**, was compared directly against the controlling scan in this continuation. Letter 3460 closes at PDF 265 with `அன்புள்ள, / மு.க. / 20-02-2010`; Letter 3461 closes at PDF 270 with `அன்புள்ள, / மு.க. / 26-2-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -178,6 +178,15 @@ No concrete scan-proven correction was identified in Letters 3456–3457 during 
 
 No other concrete scan-proven correction was identified in Letters 3458–3459 during this pass.
 
+### Scan-proven corrections in PDF 260–270
+
+- **PDF 260 — Letter 3460:** restored the printed parenthetical date in the National Scheduled Castes Commission review paragraph: `(18-2-2010)` → `(3-2-2010)`.
+- **PDF 262 — Letter 3460:** restored the final consonant in the printed locative form: `அந்தக் கூட்டத்தில` → `அந்தக் கூட்டத்தில்`.
+- **PDF 264 — Letter 3460:** restored the source's typographic single quotation marks: `'பெரியார் நினைவு சமத்துவபுரம்'` → `‘பெரியார் நினைவு சமத்துவபுரம்’`.
+- **PDF 269 — Letter 3461:** restored the printed separated personal name: `அமிதாப்பச்சன்` → `அமிதா பச்சன்`.
+
+No other concrete scan-proven correction was identified in Letters 3460–3461 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 260** and, following the current two-letter iteration cadence, complete the next **two letters — 3460 and 3461 — in the same iteration**, stopping at the end of Letter 3461. PDF 260 begins Letter **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`**. Do **not** repeat PDF 001–259 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 271** and, following the current two-letter iteration cadence, complete the next **two letters — 3462 and 3463 — in the same iteration**, stopping at the end of Letter 3463. PDF 271 begins Letter **3462 — `நம் பயணத்திற்குப் பயன்பட!`**. Do **not** repeat PDF 001–270 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
