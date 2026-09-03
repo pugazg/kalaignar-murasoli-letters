@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **28 / 56 source-checked; through 3455; 3456–3460 next** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **33 / 56 source-checked; through 3460; 3461–3465 next** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -53,9 +53,11 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - English normal batch 2 **3436–3440 / PDF 087–118** is **PASS — 5 / 5 source-checked**.
 - English normal batch 3 **3441–3445 / PDF 119–156** is **PASS — 5 / 5 source-checked**.
 - English normal batch 4 **3446–3450 / PDF 157–198** is **PASS — 5 / 5 source-checked**.
-- English normal batch 5 **3451–3455 / PDF 199–245** is **PASS — 5 / 5 source-checked**; cumulative English source-check is **28 / 56** and no canonical Tamil change was required.
-- Letters **3445–3451** form the recurring classical-Tamil-history `செப்பேடு` sequence; English uses **copper-plate record** for that image. Letter 3451 preserves Sonia Gandhi's source-supplied English letter exactly as printed. Batch 5 preserves the Assembly/election allegations in Letters 3453 and 3455 as source-attributed material rather than externally reconciling them.
-- Exact next activity: normal English five-record batch **3456–3460 / PDF 246–265**; stop before Letter 3461 / PDF 266.
+- English normal batch 5 **3451–3455 / PDF 199–245** is **PASS — 5 / 5 source-checked**.
+- English normal batch 6 **3456–3460 / PDF 246–265** is **PASS — 5 / 5 source-checked**; cumulative English source-check is **33 / 56** and no canonical Tamil change was required.
+- Letters **3445–3451** form the recurring classical-Tamil-history `செப்பேடு` sequence; English uses **copper-plate record** for that image. Letter 3451 preserves Sonia Gandhi's source-supplied English letter exactly as printed.
+- Batch 6 preserves Letter **3457**’s allegorical identities as source-implicit, locks `மாநில சுயாட்சி` as **State autonomy** in Letter **3458**, preserves Letter **3459**’s recovery-rate and cooperative-loss figures, and retains Letter **3460**’s printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent reconciliation.
+- Exact next activity: normal English five-record batch **3461–3465 / PDF 266–293**; preserve the 3463 and 3464 source-title differences and stop before Letter 3466 / PDF 294.
 
 ## Volume 44 — released
 

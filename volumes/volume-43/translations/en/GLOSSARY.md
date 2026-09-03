@@ -1,6 +1,6 @@
 # Volume 43 English Translation — Glossary
 
-**Status:** locked after pilot review; checked through source-checked normal batch 4, Letters 3446–3450. No new recurring terminology required in batch 4.
+**Status:** locked after pilot review; checked through source-checked normal batch 6, Letters 3456–3460. Batch 5 introduced no new recurring terminology; batch 6 adds the source-defined federal term `மாநில சுயாட்சி` → **State autonomy**.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 43 translation/QA but may not override a different meaning supported by a source passage.
 
@@ -15,6 +15,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `கழக அரசு` | **DMK government** | Use where the immediate context clearly identifies the Kazhagam as DMK. |
 | `மத்திய அரசு` | **Union Government** | Preferred in institutional/legal prose. |
 | `மாநில அரசு` | **State government** | Preserve the source’s State/Union contrast. |
+| `மாநில சுயாட்சி` | **State autonomy** | Preserve as a federal/constitutional demand distinct from secession; Letter 3458 explicitly rejects country-breakup or separate-government readings. |
 | `காவல் துறை` | **Police Department / police** | Choose the natural institutional form without changing source scope. |
 | `பஞ்சப்படி` / `அகவிலைப்படி` | **Dearness Allowance** | Employment/pay context; preserve source figures. |
 | `கன்னக்களவு` | **housebreaking** | Preserve the source crime-category distinction. |
@@ -71,7 +72,9 @@ Printed English that functions as source wording is preserved rather than silent
 - Letter 3442 retains Anna’s campaign exhortation, the source-attributed 1992 kar-seva quotation and the source’s welfare claims without outside reconciliation.
 - Letter 3443 keeps its political comparison and legal claims source-framed.
 - Letter 3444 preserves the full Vaidyanathan–Karunanidhi correspondence and the chariot-rope metaphor rather than reducing it to generic participation.
-- Letters 3445–3450 preserve `செப்பேடு` as the recurring **copper-plate record** image. Historical, linguistic, archaeological and political claims remain source-framed, and Letters 3448–3449 translate the Tamil renderings actually printed rather than substituting outside English versions.
+- Letters 3445–3451 preserve `செப்பேடு` as the recurring **copper-plate record** image. Historical, linguistic, archaeological and political claims remain source-framed, and Letters 3448–3449 translate the Tamil renderings actually printed rather than substituting outside English versions.
+- Letter 3457’s unnamed political allegory remains source-implicit; do not insert outside identities into the queen, companion or ascetics.
+- Letter 3458 preserves **State autonomy** as a demand the source expressly distinguishes from secession, and keeps its clock, necklace-hook and kolam images.
 - Figures, dates, lists and quotations remain in source order and are not silently reconciled against outside records.
 - Where the source moves between official/administrative terminology and political-familial language, preserve that shift rather than flattening it.
 

@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — 28 / 56 source-checked; pilot and normal batches 1–5 PASS.**
+**Status:** **IN PROGRESS — 33 / 56 source-checked; pilot and normal batches 1–6 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -36,17 +36,19 @@ Use the repository's established thought-preserving, non-literary English method
 - Normal batch 3 **3441–3445 / PDF 119–156** — **PASS — 5 / 5**.
 - Normal batch 4 **3446–3450 / PDF 157–198** — **PASS — 5 / 5**.
 - Normal batch 5 **3451–3455 / PDF 199–245** — **PASS — 5 / 5**.
+- Normal batch 6 **3456–3460 / PDF 246–265** — **PASS — 5 / 5**.
 
-Cumulative result: **28 / 56 source-checked; 0 canonical Tamil changes during English work.**
+Cumulative result: **33 / 56 source-checked; 0 canonical Tamil changes during English work.**
 
-### Normal batch 5 durable notes
+### Normal batch 6 durable notes
 
-- **3451 — PDF 199–207:** closes the seven-part classical-Tamil-history sequence. Preserve Sonia Gandhi’s 8 November 2005 English letter exactly as printed in the source; translate the surrounding Tamil explanation separately. The `செப்பேடு` image remains **copper-plate record**.
-- **3452 — PDF 208–211:** preserves the Tamil New Year/Pongal celebration imagery, Tiruvalluvar-year account, public-project chronology and welfare-policy figures in source order.
-- **3453 — PDF 212–234:** preserves the Fort St George Assembly-history register, dated laws/resolutions, political rebuttals, source-supplied English audit/Wikipedia passages, debt/housing/growth figures and closing M.G.R. song exchange. Accusations remain explicitly source-attributed.
-- **3454 — PDF 235–240:** preserves the author’s Anna memorial chronology, private recollections, quoted speeches, death imagery and the audited printed ellipsis lengths in the Tamil appendix.
-- **3455 — PDF 241–245:** preserves the Uttaramerur/*kudavolai* democracy argument and the Pennagaram/Election Commission criticism, including the Dr Ramadoss statement, as source-attributed political material.
-- **No canonical Tamil change** and **no new recurring glossary treatment** were required in batch 5.
+- **3456 — PDF 246–249:** preserves the welfare inventory, caste/untouchability argument, Papapatti–Keeripatti local-body history, Uthapuram and Periyar Nagar wall removals, the three-per-cent Arunthathiyar reservation and explicit credit to opposition Left parties.
+- **3457 — PDF 250–253:** preserves the source’s unnamed political allegory, temple-tank tragedy, murder-case retaliation, devotional refrain and ironic `இன ஒற்றுமை` close without importing external identities.
+- **3458 — PDF 254–256:** locks `மாநில சுயாட்சி` as **State autonomy**. The source explicitly distinguishes it from secession or a separate government; clock, necklace-hook and kolam metaphors remain intact.
+- **3459 — PDF 257–259:** preserves sugarcane-price comparisons, `பிழி திறன்` / recovery-rate argument, ₹7,000-crore cooperative-loan cancellation and cooperative-mill accumulated-loss figures ₹1,270 / ₹1,648 / ₹1,625 crore.
+- **3460 — PDF 260–265:** preserves the National Commission rebuttal, three-per-cent Arunthathiyar internal-reservation correspondence, housing/reservation/welfare figures and the printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` in a letter dated 20-02-2010.
+- **No canonical Tamil change** was required in batch 6.
+- `GLOSSARY.md` gains only the genuinely recurring/source-defined **State autonomy** treatment.
 
 ## Regular translation cadence
 
@@ -63,12 +65,12 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 6: **Letters 3456–3460 / PDF 246–265**.
+Translate and source-check normal five-record batch 7: **Letters 3461–3465 / PDF 266–293**.
 
-- **3456 — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!` — PDF 246–249**
-- **3457 — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!` — PDF 250–253**
-- **3458 — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!` — PDF 254–256**
-- **3459 — `கரும்பில் அரசியல்!` — PDF 257–259**
-- **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!` — PDF 260–265**
+- **3461 — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!` — PDF 266–270**
+- **3462 — `நம் பயணத்திற்குப் பயன்பட!` — PDF 271–273**
+- **3463 — actual `மாற்றுத் திறனாளிகளும் - மானிடரே!` — PDF 274–278**; printed contents has `மனிதரே!`.
+- **3464 — actual `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?` — PDF 279–284**; printed contents has `பேரறிஞர்`.
+- **3465 — `நெஞ்சில் மோதும் நினைவலைகள்!` — PDF 285–293**
 
-Stop at the end of **Letter 3460 / PDF 265**. Do **not** begin Letter 3461 / PDF 266 in the same activity.
+Stop at the end of **Letter 3465 / PDF 293**. Do **not** begin Letter 3466 / PDF 294 in the same activity. Preserve the 3463 and 3464 source-title layers independently.

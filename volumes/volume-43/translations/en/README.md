@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**IN PROGRESS — 28 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first five normal five-record batches have passed source-check; Volume 43 conventions are locked.
+**IN PROGRESS — 33 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first six normal five-record batches have passed source-check; Volume 43 conventions are locked.
 
 ## Pilot — PASS
 
@@ -42,21 +42,29 @@ Letters **3436–3440 / PDF 087–118** — source-checked.
 - [3454 — Alas! On This Day, the Memory of That Day!](letters/3454-alas-on-this-day-the-memory-of-that-day.md) — PDF 235–240 — source-checked
 - [3455 — ‘Is the Fence Devouring the Crop?’](letters/3455-is-the-fence-devouring-the-crop.md) — PDF 241–245 — source-checked
 
+## Normal batch 6 — PASS
+
+- [3456 — Humaneness and Unsullied Political Civility!](letters/3456-humaneness-and-unsullied-political-civility.md) — PDF 246–249 — source-checked
+- [3457 — He Laughed; I Laughed Too!](letters/3457-he-laughed-i-laughed-too.md) — PDF 250–253 — source-checked
+- [3458 — A Kolam for Which the Dots Must Continue to Be Placed!](letters/3458-a-kolam-for-which-the-dots-must-continue-to-be-placed.md) — PDF 254–256 — source-checked
+- [3459 — Politics in Sugarcane!](letters/3459-politics-in-sugarcane.md) — PDF 257–259 — source-checked
+- [3460 — The National Commission for Scheduled Castes and the DMK Government!](letters/3460-the-national-commission-for-scheduled-castes-and-the-dmk-government.md) — PDF 260–265 — source-checked
+
 Glossary: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
-The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–5.
+The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–6.
 
-Letter 3441 follows actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently preserves joined `உடன்பிறப்புகளில்...`. Letters 3445–3451 preserve the recurring classical-Tamil-history `செப்பேடு` image as **copper-plate record**. Letter 3451 reproduces Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Letter 3453 preserves its Assembly-history register, source-supplied English passages, financial figures and political rebuttals as source-attributed material. Letter 3454 preserves the audited printed ellipsis lengths in the Tamil appendix. Letter 3455 keeps the Pennagaram/Election Commission criticism and Dr Ramadoss statement explicitly source-attributed. No new recurring glossary treatment was required in batch 5.
+Letter 3441 follows actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently preserves joined `உடன்பிறப்புகளில்...`. Letters 3445–3451 preserve the recurring classical-Tamil-history `செப்பேடு` image as **copper-plate record**. Letter 3451 reproduces Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Batch 6 preserves Letter 3456’s anti-untouchability and Arunthathiyar-reservation account as source-framed; Letter 3457’s political allegory remains unnamed rather than receiving external identities; Letter 3458 locks `மாநில சுயாட்சி` as **State autonomy** and preserves its explicit distinction from secession; Letter 3459 preserves sugarcane recovery-rate and cooperative-loss figures; and Letter 3460 preserves the National Commission rebuttal, all reservation/housing/welfare figures and the source chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent correction.
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 6: **Letters 3456–3460 / PDF 246–265**:
+Translate and source-check normal five-record batch 7: **Letters 3461–3465 / PDF 266–293**:
 
-1. **3456 — PDF 246–249** — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!`
-2. **3457 — PDF 250–253** — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!`
-3. **3458 — PDF 254–256** — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!`
-4. **3459 — PDF 257–259** — `கரும்பில் அரசியல்!`
-5. **3460 — PDF 260–265** — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`
+1. **3461 — PDF 266–270** — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!`
+2. **3462 — PDF 271–273** — `நம் பயணத்திற்குப் பயன்பட!`
+3. **3463 — PDF 274–278** — actual title `மாற்றுத் திறனாளிகளும் - மானிடரே!`; printed contents has `மனிதரே!`
+4. **3464 — PDF 279–284** — actual title `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; printed contents has `பேரறிஞர்`
+5. **3465 — PDF 285–293** — `நெஞ்சில் மோதும் நினைவலைகள்!`
 
-Stop before **Letter 3461 / PDF 266**. Do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3466 / PDF 294**. Preserve the 3463 and 3464 source-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.

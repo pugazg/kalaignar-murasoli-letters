@@ -33,8 +33,8 @@ second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "in-progress"
-translated_letter_range: "3428-3455"
-translated_letter_count: 28
+translated_letter_range: "3428-3460"
+translated_letter_count: 33
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -86,4 +86,7 @@ source_observations:
   - "Letters 3446–3450 continue the copper-plate-record series. Source-supplied English in Caldwell and Pavanar passages is preserved; Letters 3448–3449 translate the Tamil renderings printed in the canonical source rather than importing outside English versions; historical, linguistic, archaeological and political claims remain source-framed."
   - "English normal batch 5 Letters 3451–3455 / PDF 199–245: source-check PASS; cumulative 28 / 56; 0 canonical Tamil changes; no new recurring glossary treatment required."
   - "Letter 3451 closes the seven-part classical-Tamil-history sequence and preserves Sonia Gandhi's source-supplied 8 November 2005 English letter exactly as printed. Letter 3453 preserves its Assembly-history chronology, source-supplied English passages, financial figures and political rebuttals as source-attributed material. Letter 3454 preserves the audited ellipsis lengths in the Tamil appendix. Letter 3455 preserves the Pennagaram/Election Commission criticism and Dr Ramadoss statement as attributed claims."
-  - "Next English activity is Letters 3456–3460 / PDF 246–265; stop before Letter 3461 / PDF 266."
+  - "English normal batch 6 Letters 3456–3460 / PDF 246–265: source-check PASS; cumulative 33 / 56; 0 canonical Tamil changes."
+  - "Batch 6 preserves Letter 3456's welfare/anti-untouchability and Arunthathiyar-reservation account, Letter 3457's unnamed political allegory, Letter 3458's explicit State-autonomy/secession distinction, Letter 3459's recovery-rate and cooperative-loss figures, and Letter 3460's National Commission rebuttal and printed `நேற்றைய தினம் (3-2-2010)` chronology anomaly."
+  - "Batch 6 adds one recurring glossary treatment: `மாநில சுயாட்சி` → `State autonomy`."
+  - "Next English activity is Letters 3461–3465 / PDF 266–293; preserve the known 3463 and 3464 contents/actual-title differences and stop before Letter 3466 / PDF 294."

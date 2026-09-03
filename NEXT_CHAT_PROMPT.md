@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Batch 6
+# Next Chat Prompt — Volume 43 English Translation Batch 7
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -64,7 +64,8 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 - Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5 source-checked**
 - Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5 source-checked**
 - Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5 source-checked**
-- Cumulative source-check: **28 / 56 — 3428–3455**
+- Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5 source-checked**
+- Cumulative source-check: **33 / 56 — 3428–3460**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started; separate later gate**
 - Editorial review: **not started**
@@ -72,19 +73,26 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 
 Every completed English record contains the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
 
-## Batch 5 translation notes
+## Batch 6 translation notes
 
-- Letter **3451** closes the seven-part classical-Tamil-history sequence; preserve `செப்பேடு` as **copper-plate record** and preserve Sonia Gandhi’s 8 November 2005 source-supplied English letter exactly as printed.
-- Letter **3452** preserves the Tamil New Year/Pongal imagery, Tiruvalluvar-year account, public-project chronology and welfare-policy figures.
-- Letter **3453** preserves the Fort St George Assembly-history register, dated laws/resolutions, source-supplied English passages, debt/housing/growth figures and political rebuttals as source-attributed material.
-- Letter **3454** preserves the Anna memorial chronology, private recollections, quoted speeches and audited ellipsis lengths on PDFs 237–238.
-- Letter **3455** preserves the Uttaramerur/*kudavolai* democracy argument and the Pennagaram/Election Commission criticism, including the Dr Ramadoss statement, as source-attributed material.
+- Letter **3456** preserves the welfare inventory, anti-untouchability argument, Papapatti–Keeripatti history, Uthapuram/Periyar Nagar wall removals, three-per-cent Arunthathiyar reservation and source attribution of political credit.
+- Letter **3457** preserves the source’s unnamed political allegory; no outside identities were inserted for the queen, companion or ascetics.
+- Letter **3458** locks `மாநில சுயாட்சி` as **State autonomy** and preserves the source’s explicit distinction from secession or a separate government, along with its clock, necklace-hook and kolam metaphors.
+- Letter **3459** preserves sugarcane-price comparisons, recovery-rate reasoning, the ₹7,000-crore cooperative-loan cancellation and cooperative-mill accumulated-loss figures.
+- Letter **3460** preserves the National Commission rebuttal, correspondence dates, internal-reservation/housing/welfare figures and the printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` in a letter dated 20-02-2010.
 - No Tamil defect was suspected; **0 canonical Tamil changes**.
-- No genuinely new recurring term was introduced; `GLOSSARY.md` was not changed.
+- `GLOSSARY.md` gains one recurring/source-defined treatment: `மாநில சுயாட்சி` → **State autonomy**.
 
 ## Source-layer reminder
 
 Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Preserve those source layers independently when their records are reached.
+
+Batch 7 directly reaches two of these:
+
+- **3463:** printed contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
+- **3464:** printed contents `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`; actual PDF 279 `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
+
+The English record title/Tamil metadata should follow the actual record start while preserving the printed-contents form independently in notes/controls as appropriate.
 
 ## English policy
 
@@ -94,15 +102,15 @@ Follow `volumes/volume-43/TRANSLATION_PLAN.md` and the locked treatments in `tra
 
 ## Exact next activity
 
-Translate and source-check exactly **five records — Letters 3456–3460 / PDF 246–265**:
+Translate and source-check exactly **five records — Letters 3461–3465 / PDF 266–293**:
 
-1. **3456 — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!` — PDF 246–249**
-2. **3457 — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!` — PDF 250–253**
-3. **3458 — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!` — PDF 254–256**
-4. **3459 — `கரும்பில் அரசியல்!` — PDF 257–259**
-5. **3460 — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!` — PDF 260–265**
+1. **3461 — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!` — PDF 266–270**
+2. **3462 — `நம் பயணத்திற்குப் பயன்பட!` — PDF 271–273**
+3. **3463 — actual `மாற்றுத் திறனாளிகளும் - மானிடரே!` — PDF 274–278**; preserve printed-contents `மனிதரே!` separately
+4. **3464 — actual `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?` — PDF 279–284**; preserve printed-contents `பேரறிஞர்` separately
+5. **3465 — `நெஞ்சில் மோதும் நினைவலைகள்!` — PDF 285–293**
 
-Stop before **Letter 3461 / PDF 266**.
+Stop before **Letter 3466 / PDF 294**.
 
 For every record:
 
@@ -113,6 +121,7 @@ For every record:
 - if a Tamil defect is suspected, inspect the controlling scan before changing canonical Tamil;
 - update manifest, English progress/README, metadata and handover controls;
 - update the glossary only for genuinely new recurring terms;
+- preserve the 3463 and 3464 contents/actual-title differences explicitly;
 - do not perform bilingual meaning-level alignment in this activity.
 
 ## Git discipline

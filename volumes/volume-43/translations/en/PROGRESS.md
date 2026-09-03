@@ -4,7 +4,7 @@
 - Tamil canonical coverage: **PDF 001–402 / 402**
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Source letters translated/source-checked: **28 / 56 — 3428–3455**
+- Source letters translated/source-checked: **33 / 56 — 3428–3460**
 - Pilot source-check: **PASS — 3428–3430 / PDF 024–048**
 - Translation conventions: **LOCKED**
 - Normal batch 1: **PASS — 3431–3435 / PDF 049–086**
@@ -12,6 +12,7 @@
 - Normal batch 3: **PASS — 3441–3445 / PDF 119–156**
 - Normal batch 4: **PASS — 3446–3450 / PDF 157–198**
 - Normal batch 5: **PASS — 3451–3455 / PDF 199–245**
+- Normal batch 6: **PASS — 3456–3460 / PDF 246–265**
 - Canonical Tamil changes during English work: **0**
 - Bilingual alignment: **not started**
 - Editorial review: **not started**
@@ -61,21 +62,33 @@ Batch 4 preserves the source-supplied Caldwell English and Pavanar’s fifteen E
 | 3454 | Alas! On This Day, the Memory of That Day! | 235–240 | source-checked |
 | 3455 | ‘Is the Fence Devouring the Crop?’ | 241–245 | source-checked |
 
-Batch 5 closes the seven-part classical-Tamil-history sequence with Letter 3451, preserving Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Letter 3452 retains the Tamil New Year/Pongal celebration imagery and policy figures. Letter 3453 preserves its Assembly-history chronology, dated counter-records, source-supplied English passages, financial figures and political allegations as source-attributed material. Letter 3454 preserves Anna memorial chronology and the audited ellipsis lengths in its Tamil appendix. Letter 3455 preserves the Uttaramerur/democracy argument and the Pennagaram/Election Commission criticism as attributed claims. **No canonical Tamil change was required, and no new recurring glossary treatment was needed.**
+Batch 5 closes the seven-part classical-Tamil-history sequence with Letter 3451, preserving Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Letter 3452 retains the Tamil New Year/Pongal celebration imagery and policy figures. Letter 3453 preserves its Assembly-history chronology, dated counter-records, source-supplied English passages, financial figures and political allegations as source-attributed material. Letter 3454 preserves Anna memorial chronology and the audited ellipsis lengths in its Tamil appendix. Letter 3455 preserves the Uttaramerur/democracy argument and the Pennagaram/Election Commission criticism as attributed claims. **No canonical Tamil change was required.**
 
-All twenty-eight source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
+## Normal batch 6 — source-check PASS
+
+| Letter | English title | PDF | Status |
+|---:|---|---:|---|
+| 3456 | Humaneness and Unsullied Political Civility! | 246–249 | source-checked |
+| 3457 | He Laughed; I Laughed Too! | 250–253 | source-checked |
+| 3458 | A Kolam for Which the Dots Must Continue to Be Placed! | 254–256 | source-checked |
+| 3459 | Politics in Sugarcane! | 257–259 | source-checked |
+| 3460 | The National Commission for Scheduled Castes and the DMK Government! | 260–265 | source-checked |
+
+Batch 6 preserves Letter 3456’s welfare/anti-untouchability sequence, Papapatti–Keeripatti history, Uthapuram/Periyar Nagar walls and three-per-cent Arunthathiyar reservation as source-framed material. Letter 3457 retains the source’s unnamed political allegory without inserting outside identities. Letter 3458 explicitly distinguishes **State autonomy** from secession and retains the clock, necklace-hook and kolam metaphors. Letter 3459 preserves sugarcane pricing, recovery-rate and cooperative-mill loss figures. Letter 3460 preserves the National Commission rebuttal, correspondence dates, housing/reservation/welfare figures, and the printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent correction. **No canonical Tamil change was required.** The glossary adds the recurring federal term `மாநில சுயாட்சி` → **State autonomy**.
+
+All thirty-three source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
 
 Locked terminology: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
 ## Exact next activity
 
-Translate and source-check **Letters 3456–3460 / PDF 246–265** as normal five-record batch 6:
+Translate and source-check **Letters 3461–3465 / PDF 266–293** as normal five-record batch 7:
 
-1. **3456 — PDF 246–249** — `மனித நேயமும், மாசற்ற அரசியல் நாகரிகமும்!`
-2. **3457 — PDF 250–253** — `அவனும் சிரித்தான்; நானும் சிரித்தேன்!`
-3. **3458 — PDF 254–256** — `புள்ளியைத் தொடர்ந்து போட வேண்டிய கோலம்!`
-4. **3459 — PDF 257–259** — `கரும்பில் அரசியல்!`
-5. **3460 — PDF 260–265** — `தேசிய ஆதி திராவிடர் ஆணையமும், தி.மு.கழக அரசும்!`
+1. **3461 — PDF 266–270** — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!`
+2. **3462 — PDF 271–273** — `நம் பயணத்திற்குப் பயன்பட!`
+3. **3463 — PDF 274–278** — actual `மாற்றுத் திறனாளிகளும் - மானிடரே!`; printed contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`
+4. **3464 — PDF 279–284** — actual `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; printed contents `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`
+5. **3465 — PDF 285–293** — `நெஞ்சில் மோதும் நினைவலைகள்!`
 
-Stop before **Letter 3461 / PDF 266**. Do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3466 / PDF 294**. Preserve the 3463 and 3464 source-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.
