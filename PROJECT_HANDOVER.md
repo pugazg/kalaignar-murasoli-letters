@@ -46,13 +46,14 @@ Current durable English state:
 - Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5 source-checked**
 - Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5 source-checked**
 - Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **38 / 56 — 3428–3465**
+- Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **43 / 56 — 3428–3470**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
-Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
+Every English record includes the complete audited canonical Tamil representation under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
 
 ### Batch 6 durable notes
 
@@ -74,6 +75,16 @@ Every English record includes the complete audited Tamil under `## Original Tami
 - No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
 - `GLOSSARY.md` adds the two source-supported recurring distinctions above.
 
+### Batch 8 durable notes
+
+- **3466** preserves the Valluvar Kottam/Kumari statue chronology, all printed measurements and costs, the mother-outside-the-wedding metaphor, `You can win`, and the TIDEL/IT-policy passage.
+- **3467** preserves actual `மகராஜனுக்கு` against printed-contents `மகாராஜனுக்கு`, leaves the contents date blank, records the separate handwritten date `2/11/1974`, and does not invent a transcription or translation for the photographic handwritten pages PDF 300–303.
+- **3468** preserves the full disproportionate-assets procedural chronology, ₹66 crore 65 lakh / 259 / 76 figures and all source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and printed quotation irregularities. Legal and political allegations remain source-attributed.
+- **3469** preserves the `Udanpirappu` / `போர்வை` rebuttal, the eighteen-year motif, battle imagery and `வாழ்க வசவாளர்கள்` closing.
+- **3470** preserves the childhood anti-astrology episode, Tamil dramatic dialogue, verbatim source-supplied Macmillan English, and the house/Secretariat/Kannagi/Kalahasti/Siruthavur rebuttal as source-attributed material.
+- No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
+- Batch 8 introduced **no new recurring glossary treatment**.
+
 ### Final genuine title-layer differences
 
 Preserve these source layers independently:
@@ -90,13 +101,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3466–3470 / PDF 294–322** as Volume 43 normal English batch 8:
+Translate and source-check **Letters 3471–3475 / PDF 323–353** as Volume 43 normal English batch 9:
 
-- **3466 — PDF 294–298** — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`
-- **3467 — PDF 299–303** — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`; printed contents uses `மகாராஜனுக்கு`; contents date is blank; the reproduced handwritten letter is separately dated `2/11/1974`; preserve it as a facsimile-bearing source record
-- **3468 — PDF 304–314** — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`
-- **3469 — PDF 315–316** — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`
-- **3470 — PDF 317–322** — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`
+- **3471 — PDF 323–325** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`
+- **3472 — PDF 326–331** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; printed contents uses long `ஓய்யாரக்...`
+- **3473 — PDF 332–339** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; printed contents uses long `ஓய்யாரக்... (2)`
+- **3474 — PDF 340–347** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; printed contents uses long `ஓய்யாரக்... 3`
+- **3475 — PDF 348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`
 
 Mandatory English startup before changing records:
 
@@ -106,9 +117,9 @@ Mandatory English startup before changing records:
 - use the controlling scan only if a concrete Tamil defect is suspected;
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
-- preserve Letter 3467’s distinct contents/actual-title/date/facsimile layers;
+- preserve the distinct 3472–3474 printed-contents / actual-title layers;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3470 / PDF 322** and do not begin **3471 / PDF 323**;
+- stop after **3475 / PDF 353** and do not begin **3476 / PDF 354**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE

@@ -189,7 +189,7 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Canonical page coverage: **PDF 001–402 / 402**
 - Completed letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete letters: **none**
-- English translation/source-check: **IN PROGRESS — 38 / 56 — 3428–3465**
+- English translation/source-check: **IN PROGRESS — 43 / 56 — 3428–3470**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 
@@ -203,9 +203,10 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5**; cumulative **28 / 56**.
 - Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5**; cumulative **33 / 56**.
 - Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5**; cumulative **38 / 56**.
-- All thirty-eight English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
-- Batch 7 required **0 canonical Tamil changes**.
-- Batch 7 glossary additions: `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the source-defined rights-language context; `உள் ஒதுக்கீடு` → **internal reservation**.
+- Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5**; cumulative **43 / 56**.
+- All forty-three English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
+- Batch 8 required **0 canonical Tamil changes**.
+- Batch 8 required **no new recurring glossary treatment**.
 
 ## Source fidelity notes
 
@@ -223,4 +224,4 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 
 ## Exact next activity
 
-Translate and source-check **Letters 3466–3470 / PDF 294–322** as Volume 43 normal English batch 8. Preserve Letter **3467** as a facsimile-bearing source record with printed-contents `மகாராஜனுக்கு`, actual `மகராஜனுக்கு`, blank contents date and reproduced handwritten date `2/11/1974`. Stop before **Letter 3471 / PDF 323**. Follow `TRANSLATION_PLAN.md`, preserve the complete audited Tamil appendix in each record, and do not perform bilingual meaning-level alignment in the same activity.
+Translate and source-check **Letters 3471–3475 / PDF 323–353** as Volume 43 normal English batch 9. Preserve the 3472–3474 long-`ஓ` printed-contents / short-`ஒ` actual-title differences. Stop before **Letter 3476 / PDF 354**. Follow `TRANSLATION_PLAN.md`, preserve the complete audited canonical Tamil representation in each record, and do not perform bilingual meaning-level alignment in the same activity.

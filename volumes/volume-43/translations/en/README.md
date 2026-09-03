@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**IN PROGRESS — 38 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first seven normal five-record batches have passed source-check; Volume 43 conventions are locked.
+**IN PROGRESS — 43 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first eight normal five-record batches have passed source-check; Volume 43 conventions are locked.
 
 ## Pilot — PASS
 
@@ -55,21 +55,29 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 - [3464 — What Does the Great Thinker Rousseau Say about Public Opinion?](letters/3464-what-does-the-great-thinker-rousseau-say-about-public-opinion.md) — PDF 279–284 — source-checked
 - [3465 — Waves of Memory That Strike the Heart!](letters/3465-waves-of-memory-that-strike-the-heart.md) — PDF 285–293 — source-checked
 
+## Normal batch 8 — PASS
+
+- [3466 — Will You Come to Chennai to Make Me Happy?](letters/3466-will-you-come-to-chennai-to-make-me-happy.md) — PDF 294–298 — source-checked
+- [3467 — A Letter Written 36 Years Ago by Then Chief Minister Kalaignar to Justice Magarajan!](letters/3467-a-letter-written-36-years-ago-by-then-chief-minister-kalaignar-to-justice-magarajan.md) — PDF 299–303 — source-checked; facsimile-preserving
+- [3468 — How Long Will She Keep Deceiving This Country?](letters/3468-how-long-will-she-keep-deceiving-this-country.md) — PDF 304–314 — source-checked
+- [3469 — The Useless Word Panneer Used!](letters/3469-the-useless-word-panneer-used.md) — PDF 315–316 — source-checked
+- [3470 — Why This Fury from the Lady of Siruthavur?](letters/3470-why-this-fury-from-the-lady-of-siruthavur.md) — PDF 317–322 — source-checked
+
 Glossary: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
-The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–7.
+The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–8.
 
-Batch 7 preserves Letter 3461’s film-world chronology, Sivaji quotation, 90-acre land-grant context and Ajith controversy as source-framed material; Letter 3462’s Socrates, Prophet Muhammad, Jesus and Gandhi examples without outside historical reconciliation; Letter 3463’s actual-title `மானிடரே!` layer, rights-based `மாற்றுத் திறனாளிகள்` terminology and source-supplied disability-law English; Letter 3464’s actual-title `பேரறிஞன்` layer, newspaper English passages, women’s-reservation chronology and Rousseau argument; and Letter 3465’s monument inventory, measurements, historical claims and place-name explanations. Batch 7 adds `மாற்றுத் திறனாளிகள்` → **differently abled persons** in the source-defined rights-language context and `உள் ஒதுக்கீடு` → **internal reservation** to the glossary.
+Batch 8 preserves Letter 3466’s complete Valluvar Kottam/Kumari statue chronology and mother-outside-the-wedding metaphor; Letter 3467’s contents/actual-title/date layers and non-transcribed handwritten facsimile; Letter 3468’s legal chronology and verbatim source-supplied Supreme Court English, including `ourinterference`; Letter 3469’s `Udanpirappu`/`போர்வை` rebuttal and eighteen-year motif; and Letter 3470’s anti-astrology argument plus the verbatim Macmillan English passage. Batch 8 required **0 canonical Tamil changes** and introduced **no new recurring glossary treatment**.
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 8: **Letters 3466–3470 / PDF 294–322**:
+Translate and source-check normal five-record batch 9: **Letters 3471–3475 / PDF 323–353**:
 
-1. **3466 — PDF 294–298** — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`
-2. **3467 — PDF 299–303** — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`; printed contents uses `மகாராஜனுக்கு` and leaves the date blank; reproduced handwritten letter is dated `2/11/1974`
-3. **3468 — PDF 304–314** — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`
-4. **3469 — PDF 315–316** — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`
-5. **3470 — PDF 317–322** — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`
+1. **3471 — PDF 323–325** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`
+2. **3472 — PDF 326–331** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; printed contents uses long `ஓய்யாரக்...`
+3. **3473 — PDF 332–339** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; printed contents uses long `ஓய்யாரக்... (2)`
+4. **3474 — PDF 340–347** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; printed contents uses long `ஓய்யாரக்... 3`
+5. **3475 — PDF 348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`
 
-Stop before **Letter 3471 / PDF 323**. Preserve Letter 3467 as a facsimile-bearing source record and do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3476 / PDF 354**. Preserve the 3472–3474 contents/actual-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.

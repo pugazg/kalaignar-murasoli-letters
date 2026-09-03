@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Batch 8
+# Next Chat Prompt — Volume 43 English Translation Batch 9
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -66,35 +66,33 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 - Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5**
 - Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5**
 - Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5**
-- Cumulative source-check: **38 / 56 — 3428–3465**
+- Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5**
+- Cumulative source-check: **43 / 56 — 3428–3470**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started; separate later gate**
 - Editorial review: **not started**
 - Final English release: **not started**
 
-Every completed English record contains the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
+Every completed English record contains the complete audited canonical Tamil representation under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
 
-## Batch 7 translation notes
+## Batch 8 translation notes
 
-- Letter **3461** preserves its film-world celebration chronology, 90-acre land-grant context, Sivaji quotation, named artists, Ajith explanation and black-dot/*thumbai* flower/dud-firework imagery.
-- Letter **3462** preserves the source-framed Socrates, Prophet Muhammad, Jesus and Gandhi narratives without outside historical or theological reconciliation.
-- Letter **3463** follows actual `மாற்றுத் திறனாளிகளும் - மானிடரே!`, while printed contents independently retains `மனிதரே!`. Preserve the explicit rights-language shift from `ஊனமுற்றோர்` to `மாற்றுத் திறனாளிகள்` and source-supplied disability-law English.
-- Letter **3464** follows actual `பேரறிஞன்`, while printed contents retains `பேரறிஞர்`; preserve the source-supplied *The Hindu* / *Indian Express* English, the women’s-reservation chronology, Rousseau argument and later internal-reservation distinction.
-- Letter **3465** preserves its monument/memorial inventory, measurements, dates, quotations, historical claims and place-name explanations as source-framed material.
-- No Tamil defect was suspected; **0 canonical Tamil changes**.
-- Batch 7 glossary additions: `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the explicit source rights-language context; `உள் ஒதுக்கீடு` → **internal reservation**.
+- Letter **3466** preserves Valluvar Kottam, the Kumari Valluvar statue, all printed architectural figures, the mother-outside-the-wedding image, `You can win`, and TIDEL/IT-policy material.
+- Letter **3467** is a special facsimile-bearing record: actual title uses `மகராஜனுக்கு`, printed contents uses `மகாராஜனுக்கு`, the contents date cell remains blank, and the photographed handwritten review is separately dated `2/11/1974`. The English record translates the typeset editorial introduction but does not invent a transcription/translation for handwriting that the audited canonical Tamil deliberately leaves as facsimile.
+- Letter **3468** preserves the complete legal chronology and source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and source quotation irregularities. Legal/political allegations remain source-attributed.
+- Letter **3469** preserves `Udanpirappu`, the `போர்வை` / cover rebuttal, the eighteen-year motif and `வாழ்க வசவாளர்கள்` closing.
+- Letter **3470** preserves the childhood anti-astrology narrative, Tamil dramatic dialogue, verbatim Macmillan English and political rebuttal.
+- Batch 8 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
 
 ## Source-layer reminder
 
 Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Preserve those source layers independently when their records are reached.
 
-For the next batch, **Letter 3467 is special**:
+For Batch 9, three consecutive records have title-layer differences:
 
-- printed contents uses `மகாராஜனுக்கு`;
-- actual PDF 299 title uses `மகராஜனுக்கு`;
-- the printed contents date cell is blank and must remain blank;
-- the reproduced handwritten letter is separately dated `2/11/1974`;
-- preserve the facsimile-bearing source record explicitly; do not silently convert uncertain handwriting into normalised typeset text.
+- **3472:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; actual PDF 326 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`
+- **3473:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; actual PDF 332 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`
+- **3474:** printed contents `ஓய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; actual PDF 340 `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`
 
 ## English policy
 
@@ -104,23 +102,24 @@ Follow `volumes/volume-43/TRANSLATION_PLAN.md` and the locked treatments in `tra
 
 ## Exact next activity
 
-Translate and source-check exactly **five records — Letters 3466–3470 / PDF 294–322**:
+Translate and source-check exactly **five records — Letters 3471–3475 / PDF 323–353**:
 
-1. **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?` — PDF 294–298**
-2. **3467 — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!` — PDF 299–303**
-3. **3468 — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?` — PDF 304–314**
-4. **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!` — PDF 315–316**
-5. **3470 — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?` — PDF 317–322**
+1. **3471 — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!` — PDF 323–325**
+2. **3472 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...` — PDF 326–331**
+3. **3473 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` — PDF 332–339**
+4. **3474 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` — PDF 340–347**
+5. **3475 — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` — PDF 348–353**
 
-Stop before **Letter 3471 / PDF 323**.
+Stop before **Letter 3476 / PDF 354**.
 
 For every record:
 
 - create the complete thought-preserving English translation;
-- source-check every Tamil paragraph against the English;
+- source-check every canonical Tamil paragraph against the English;
 - preserve dates, figures, quotations, rhetoric and closings;
 - include the complete audited Tamil appendix with physical page markers;
 - if a Tamil defect is suspected, inspect the controlling scan before changing canonical Tamil;
+- preserve the 3472–3474 title layers independently;
 - update manifest, English progress/README, metadata and handover controls;
 - update the glossary only for genuinely new recurring terms;
 - do not perform bilingual meaning-level alignment in this activity.

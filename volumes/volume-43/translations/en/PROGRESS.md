@@ -4,7 +4,7 @@
 - Tamil canonical coverage: **PDF 001–402 / 402**
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Source letters translated/source-checked: **38 / 56 — 3428–3465**
+- Source letters translated/source-checked: **43 / 56 — 3428–3470**
 - Pilot source-check: **PASS — 3428–3430 / PDF 024–048**
 - Translation conventions: **LOCKED**
 - Normal batch 1: **PASS — 3431–3435 / PDF 049–086**
@@ -14,6 +14,7 @@
 - Normal batch 5: **PASS — 3451–3455 / PDF 199–245**
 - Normal batch 6: **PASS — 3456–3460 / PDF 246–265**
 - Normal batch 7: **PASS — 3461–3465 / PDF 266–293**
+- Normal batch 8: **PASS — 3466–3470 / PDF 294–322**
 - Canonical Tamil changes during English work: **0**
 - Bilingual alignment: **not started**
 - Editorial review: **not started**
@@ -89,19 +90,31 @@ Batch 6 preserves Letter 3456’s welfare/anti-untouchability sequence, Papapatt
 
 Batch 7 preserves Letter 3461’s film-world celebration chronology, 90-acre grant context, Sivaji quotation and Ajith controversy; Letter 3462’s source-framed Socrates, Prophet Muhammad, Jesus and Gandhi examples; Letter 3463’s actual/contents title distinction, rights-based terminology and source-supplied disability-law English; Letter 3464’s actual/contents title distinction, source-supplied newspaper English, women’s-reservation chronology, Rousseau argument and internal-reservation distinction; and Letter 3465’s monument inventory, measurements, dates, historical claims and place-name explanations. **No canonical Tamil change was required.** The glossary adds `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the source-defined rights-language context and `உள் ஒதுக்கீடு` → **internal reservation**.
 
-All thirty-eight source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
+## Normal batch 8 — source-check PASS
+
+| Letter | English title | PDF | Status |
+|---:|---|---:|---|
+| 3466 | Will You Come to Chennai to Make Me Happy? | 294–298 | source-checked |
+| 3467 | A Letter Written 36 Years Ago by Then Chief Minister Kalaignar to Justice Magarajan! | 299–303 | source-checked; facsimile-preserving |
+| 3468 | How Long Will She Keep Deceiving This Country? | 304–314 | source-checked |
+| 3469 | The Useless Word Panneer Used! | 315–316 | source-checked |
+| 3470 | Why This Fury from the Lady of Siruthavur? | 317–322 | source-checked |
+
+Batch 8 preserves Letter 3466’s Valluvar Kottam/Kumari statue figures and the author’s mother-outside-the-wedding metaphor. Letter 3467 preserves its actual/contents `மகராஜனுக்கு` / `மகாராஜனுக்கு` distinction, blank contents date, record-level handwritten date `2/11/1974` and photographed handwritten pages without guessed transcription. Letter 3468 retains all source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and quotation anomalies, while the legal/political allegations remain source-attributed. Letter 3469 preserves the `Udanpirappu`/`போர்வை` argument, eighteen-year motif and Anna closing. Letter 3470 preserves its anti-astrology anecdote, Tamil dramatic dialogue, source-supplied Macmillan English and political rebuttal. **No canonical Tamil change was required. No new recurring glossary treatment was required.**
+
+All forty-three source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
 
 Locked terminology: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
 ## Exact next activity
 
-Translate and source-check **Letters 3466–3470 / PDF 294–322** as normal five-record batch 8:
+Translate and source-check **Letters 3471–3475 / PDF 323–353** as normal five-record batch 9:
 
-1. **3466 — PDF 294–298** — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`
-2. **3467 — PDF 299–303** — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`; printed contents uses `மகாராஜனுக்கு`, contents date is blank, reproduced handwritten letter is dated `2/11/1974`
-3. **3468 — PDF 304–314** — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`
-4. **3469 — PDF 315–316** — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`
-5. **3470 — PDF 317–322** — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`
+1. **3471 — PDF 323–325** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`
+2. **3472 — PDF 326–331** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; printed contents uses long `ஓய்யாரக்...`
+3. **3473 — PDF 332–339** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; printed contents uses long `ஓய்யாரக்... (2)`
+4. **3474 — PDF 340–347** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; printed contents uses long `ஓய்யாரக்... 3`
+5. **3475 — PDF 348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`
 
-Stop before **Letter 3471 / PDF 323**. Preserve Letter 3467’s source-title/date/facsimile layers independently. Do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3476 / PDF 354**. Preserve the 3472–3474 source-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.

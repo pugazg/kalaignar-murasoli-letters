@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — 38 / 56 source-checked; pilot and normal batches 1–7 PASS.**
+**Status:** **IN PROGRESS — 43 / 56 source-checked; pilot and normal batches 1–8 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -26,7 +26,8 @@ Use the repository's established thought-preserving, non-literary English method
 - retain public-language units such as `lakh` and `crore`;
 - do not compress, soften, broaden, reorder or supplement the source for elegance;
 - every English record must include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`;
-- keep `source-checked` separate from the later `bilingual_alignment_status: aligned` gate.
+- keep `source-checked` separate from the later `bilingual_alignment_status: aligned` gate;
+- when the canonical archive deliberately records a photographic facsimile without guessing its handwriting, preserve that facsimile status in English rather than manufacturing a transcription or translation.
 
 ## Completed source-check batches
 
@@ -38,8 +39,9 @@ Use the repository's established thought-preserving, non-literary English method
 - Normal batch 5 **3451–3455 / PDF 199–245** — **PASS — 5 / 5**.
 - Normal batch 6 **3456–3460 / PDF 246–265** — **PASS — 5 / 5**.
 - Normal batch 7 **3461–3465 / PDF 266–293** — **PASS — 5 / 5**.
+- Normal batch 8 **3466–3470 / PDF 294–322** — **PASS — 5 / 5**.
 
-Cumulative result: **38 / 56 source-checked; 0 canonical Tamil changes during English work.**
+Cumulative result: **43 / 56 source-checked; 0 canonical Tamil changes during English work.**
 
 ### Normal batch 7 durable notes
 
@@ -50,6 +52,16 @@ Cumulative result: **38 / 56 source-checked; 0 canonical Tamil changes during En
 - **3465 — PDF 285–293:** preserves the Poompuhar/Kattabomman/Valluvar/TIDEL/Puli Thevan memorial inventory, all measurements/dates, quoted speeches, source historical claims and place-name explanations, and the forward reference to the 13 March Chennai event.
 - **No canonical Tamil change** was required in batch 7.
 - `GLOSSARY.md` adds `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the source-defined rights-language context and `உள் ஒதுக்கீடு` → **internal reservation**.
+
+### Normal batch 8 durable notes
+
+- **3466 — PDF 294–298:** preserves the Valluvar Kottam construction/opening chronology, all architectural/statue figures, the mother-outside-the-wedding image, the Kumari Valluvar statue chronology, `You can win`, and the TIDEL/IT-policy claim as source-framed material.
+- **3467 — PDF 299–303:** preserves the actual `மகராஜனுக்கு` / printed-contents `மகாராஜனுக்கு` distinction, blank contents date, editorially stated and visibly handwritten `2/11/1974` date, and the photographic handwriting without creating a guessed transcription or translation.
+- **3468 — PDF 304–314:** preserves the ₹66 crore 65 lakh / 259 / 76 figures, transfer/adjournment chronology, source-attributed legal and political allegations, and every printed Supreme Court English passage verbatim, including `and/ or`, `ourinterference` and source quotation irregularities.
+- **3469 — PDF 315–316:** preserves `Udanpirappu` as the political-familial address, the `போர்வை` / cover rebuttal, the eighteen-year/eighteen motif, battle imagery and `வாழ்க வசவாளர்கள்` closing.
+- **3470 — PDF 317–322:** preserves the childhood astrologer anecdote, Tamil fate-versus-reason dramatic dialogue, source-supplied Macmillan English verbatim, house/Secretariat/Kannagi/Kalahasti allegations as source-attributed material, and the Siruthavur closing question.
+- **No canonical Tamil change** was required in batch 8.
+- Batch 8 required **no new recurring glossary treatment**.
 
 ## Regular translation cadence
 
@@ -66,12 +78,12 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 8: **Letters 3466–3470 / PDF 294–322**.
+Translate and source-check normal five-record batch 9: **Letters 3471–3475 / PDF 323–353**.
 
-- **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?` — PDF 294–298**
-- **3467 — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!` — PDF 299–303**; printed contents uses `மகாராஜனுக்கு`, its contents date cell is blank, and the reproduced handwritten letter is dated `2/11/1974`.
-- **3468 — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?` — PDF 304–314**
-- **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!` — PDF 315–316**
-- **3470 — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?` — PDF 317–322**
+- **3471 — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!` — PDF 323–325**
+- **3472 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...` — PDF 326–331**; printed contents uses long `ஓய்யாரக்...`.
+- **3473 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` — PDF 332–339**; printed contents uses long `ஓய்யாரக்... (2)`.
+- **3474 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` — PDF 340–347**; printed contents uses long `ஓய்யாரக்... 3`.
+- **3475 — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` — PDF 348–353**
 
-Stop at the end of **Letter 3470 / PDF 322**. Do **not** begin Letter 3471 / PDF 323 in the same activity. Preserve Letter 3467 as a facsimile-bearing source record and keep its title/date source layers independent.
+Stop at the end of **Letter 3475 / PDF 353**. Do **not** begin Letter 3476 / PDF 354 in the same activity. Preserve the 3472–3474 contents/actual-title layers independently.
