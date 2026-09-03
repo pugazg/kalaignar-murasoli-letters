@@ -24,9 +24,10 @@
 - Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- English translation/source-check: **IN PROGRESS — 8 / 56 — 3428–3435**
+- English translation/source-check: **IN PROGRESS — 13 / 56 — 3428–3440**
 - English pilot **3428–3430 / PDF 024–048**: **PASS; conventions locked**
 - English normal batch 1 **3431–3435 / PDF 049–086**: **PASS**
+- English normal batch 2 **3436–3440 / PDF 087–118**: **PASS**
 - Bilingual meaning-level alignment: **not started**
 
 The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032, followed by source-record batches through Letter 3483. PDF **401 / printed 400** is non-letter end matter and PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
@@ -51,9 +52,11 @@ The English workflow uses audited canonical Tamil as its immediate source and ke
 
 - Pilot **3428–3430**: **3 / 3 source-checked**; pilot review PASS; conventions locked; 0 Tamil changes.
 - Normal batch 1 **3431–3435**: **5 / 5 source-checked**; cumulative **8 / 56**; 0 Tamil changes.
+- Normal batch 2 **3436–3440**: **5 / 5 source-checked**; cumulative **13 / 56**; 0 Tamil changes.
+- Letter **3438** follows actual PDF 099 joined `ஊன்றுகோலாகக்`, while the printed contents independently retains separated `ஊன்று கோலாகக்`.
 - Every English record includes the complete audited Tamil under `Original Tamil — மூலத் தமிழ்` with source-page markers.
 - `translations/en/GLOSSARY.md`, `PROGRESS.md`, `README.md` and `TRANSLATION_MANIFEST.csv` are the durable English controls.
 
 ## Exact next activity
 
-Translate and source-check **Letters 3436–3440 / PDF 087–118** as normal English batch 2. Apply the locked Volume 43 conventions and stop before **Letter 3441 / PDF 119**. Do not perform the later bilingual-alignment gate in the same activity.
+Translate and source-check **Letters 3441–3445 / PDF 119–156** as normal English batch 3. Letter 3441 must follow actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently preserves joined `உடன்பிறப்புகளில்...`. Stop before **Letter 3446 / PDF 157**. Do not perform the later bilingual-alignment gate in the same activity.

@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **8 / 56 source-checked; through 3435; 3436–3440 next** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **13 / 56 source-checked; through 3440; 3441–3445 next** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -49,8 +49,9 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Letters **3472–3474** preserve long-`ஓ` / short-`ஒ` source-layer differences.
 - Second-pass direct scan verification supersedes earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**. Letter 3430's corrected contents title matches the actual start; Letters 3476, 3477 and 3481 use semicolons in both source layers.
 - English pilot **3428–3430 / PDF 024–048** is **PASS — 3 / 3 source-checked**; Volume 43 translation conventions are **LOCKED** and no canonical Tamil change was required.
-- English normal batch 1 **3431–3435 / PDF 049–086** is **PASS — 5 / 5 source-checked**; cumulative English source-check is **8 / 56** and no canonical Tamil change was required.
-- Exact next activity: normal English five-record batch **3436–3440 / PDF 087–118**; stop before Letter 3441 / PDF 119.
+- English normal batch 1 **3431–3435 / PDF 049–086** is **PASS — 5 / 5 source-checked**.
+- English normal batch 2 **3436–3440 / PDF 087–118** is **PASS — 5 / 5 source-checked**; cumulative English source-check is **13 / 56** and no canonical Tamil change was required.
+- Exact next activity: normal English five-record batch **3441–3445 / PDF 119–156**; stop before Letter 3446 / PDF 157.
 
 ## Volume 44 — released
 

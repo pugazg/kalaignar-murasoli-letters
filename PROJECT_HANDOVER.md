@@ -40,13 +40,23 @@ Current durable English state:
 - Pilot **3428–3430 / PDF 024–048**: **PASS — 3 / 3 source-checked**
 - Translation conventions: **LOCKED**
 - Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **8 / 56 — 3428–3435**
+- Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **13 / 56 — 3428–3440**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
 Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
+
+### Batch 2 durable notes
+
+- **3436** preserves the Liberhan/kar-seva/Paul Commission argument as source-framed political material; `கரசேவை` is retained as **kar seva**.
+- **3437** preserves the complete district campaign roster and the repeated **Rising Sun** election-symbol verses.
+- **3438** follows actual PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; printed contents independently retains `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`.
+- **3439** locks **World Classical Tamil Conference** for `உலகத் தமிழ்ச் செம்மொழி மாநாடு` and preserves the long Anna quotation plus conference planning.
+- **3440** preserves the `“காஞ்சி”` / `“கோவை”` title pairing and the source’s detailed 1968 Second World Tamil Conference recollection.
+- No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
 
 ### Final genuine title-layer differences
 
@@ -64,7 +74,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3436–3440 / PDF 087–118** as Volume 43 normal English batch 2.
+Translate and source-check **Letters 3441–3445 / PDF 119–156** as Volume 43 normal English batch 3:
+
+- **3441 — PDF 119–130** — actual title `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents has joined `உடன்பிறப்புகளில்...`.
+- **3442 — PDF 131–137** — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!`
+- **3443 — PDF 138–142** — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!`
+- **3444 — PDF 143–148** — `மீண்டும் இதோ; என் அன்பழைப்பு!`
+- **3445 — PDF 149–156** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1`
 
 Mandatory English startup before changing records:
 
@@ -75,7 +91,7 @@ Mandatory English startup before changing records:
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3440 / PDF 118** and do not begin **3441 / PDF 119**;
+- stop after **3445 / PDF 156** and do not begin **3446 / PDF 157**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE

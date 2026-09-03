@@ -1,6 +1,6 @@
 # Volume 43 English Translation — Glossary
 
-**Status:** pilot-locked after source review of Letters 3428–3430; extended through normal batch 1, Letters 3431–3435.
+**Status:** locked after pilot review; extended through source-checked normal batch 2, Letters 3436–3440.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 43 translation/QA but may not override a different meaning supported by a source passage.
 
@@ -27,14 +27,21 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `முல்லைப் பெரியாறு அணை` | **Mullai Periyar Dam** | Keep technical/judicial claims source-framed. |
 | `தடையாணை` | **injunction / stay order** | Choose by immediate legal syntax; do not import outside procedural detail. |
 | `மத்திய தொழில் பாதுகாப்புப் படை` | **Central Industrial Security Force (CISF)** | Preserve printed English when the source supplies it. |
-| `தலித்` / `தலித் மக்கள்` | **Dalit / Dalit people** | Preserve the source’s own political/social terminology rather than substituting another category. |
-| `ஸ்டாண்டர்ட் ஏக்கர்` | **standard acre** | Preserve the source land-ceiling unit; do not import an outside conversion. |
-| `அறப்போராட்டம்` | **moral, non-violent struggle** | Preserve the source’s righteous/peaceful political framing. |
-| `சகோதர யுத்தம்` | **fratricidal war** | Preserve the source’s repeated moral framing of intra-Tamil armed conflict. |
+| `தலித்` | **Dalit** | Preserve the source’s political/social category. |
+| `ஸ்டாண்டர்ட் ஏக்கர்` | **standard acre** | Do not import an outside land-ceiling definition. |
+| `கரசேவை` | **kar seva** | Retain the source’s political-religious term in Letter 3436 rather than replacing it with a generic phrase. |
+| `உதயசூரியன்` | **Rising Sun** | Retain the recurring election-symbol image and the source’s explicit DMK-symbol identification. |
+| `ஊனமுற்றோர்` | **persons with disabilities** | Translation treatment of the source’s period welfare category; the canonical Tamil wording is not rewritten. |
+| `தசை சிதைவு` | **muscular dystrophy** | Welfare-scheme context; preserve the source’s eligibility and financial figures. |
+| `மனவளர்ச்சி குன்றியோர்` | **persons with intellectual disabilities** | Use as a functional English rendering; do not add an outside diagnostic standard. |
+| `உலகத் தமிழ்ச் செம்மொழி மாநாடு` | **World Classical Tamil Conference** | Locked for the 2010 Coimbatore conference references. |
+| `இலச்சினை (லோகோ)` | **emblem — logo** | Preserve the source’s paired Tamil/borrowed terminology. |
+| `பயிற்று மொழி` | **medium of instruction** | Use in the language-policy context. |
+| `தொடர்பு மொழி` | **link language** | Preserve the source’s distinction from language of government and medium of instruction. |
 
 ## Source-English policy
 
-Printed English that functions as source wording is preserved rather than silently rewritten. Examples include:
+Printed English that functions as source wording is preserved rather than silently rewritten. Pilot examples include:
 
 - `Facilities at Refugee Camps good : U.S. Consul-General`;
 - `U.S. Consul-General Andres T. Simkin, on Friday expressed satisfaction with the facilities provided to refugees living in camps in Tamil Nadu`;
@@ -44,18 +51,18 @@ Printed English that functions as source wording is preserved rather than silent
 - `The State of Kerala and its Officers are restrained from causing any obstruction.`;
 - `(Central Industrial Security Force)`, `(Supplementary Affidavit)`, `(Water Samples)` and `(Central Water Development and Management)` as printed in Letter 3430;
 - source company names such as `Broad Line Computers System`, `Wescos Properties and Developers`, `Victory Equities and Forex India Limited`, and `Gold Quest International Pvt. Ltd.`;
-- source publication/institution names in batch 1 such as *The Times of India*, *The Hindu* and source-rendered administrative English including `video conferencing`.
+- `(scooters)` in Letter 3438 and `தமிழ்நெட் 1999` / **TamilNet 1999** in Letter 3439 where the source itself supplies the English form.
 
 ## Political, rhetorical and literary language
 
 - Preserve accusation, irony, repetition, rhetorical questions and image-bearing idioms instead of neutralising them.
 - The Letter 3430 title retains the paired image of ears that will not hear and a scorpion’s sting.
 - The Letter 3428 police lullaby is rendered sense-first in English while preserving its sequence of poverty, debt, khaki/red-cap, saffron-robe and begging-bowl images; the Tamil appendix controls exact colloquial wording and ellipses.
-- Letter 3431 retains the “whole pumpkin in a serving of rice” image and the rhetorical “Tamil Nadu or West Bengal?” contrast.
-- Letter 3433 retains the source’s personification `பத்திரிகைப் பெண்` as **lady of the press** and preserves the “mouth / mango sour” image in `வாய் புளித்ததோ, மாங்காய் புளித்ததோ` rather than flattening it.
-- Letter 3434’s political and conflict claims remain source-framed; named organisations and acronyms are not silently expanded from outside sources.
-- Letter 3435’s historical and fictional names are transliterated from the audited Tamil where no source English form is supplied; outside spellings may not silently replace the source layer.
+- The Letter 3436 rural proverb, fruit/thief analogies, political “somersault” language and kar-seva poem remain source-framed.
+- The Letter 3437 Rising Sun refrain is carried repeatedly rather than compressed.
+- The Letter 3438 English title preserves the `ஊன்றுகோல்` / walking-stick image; the actual joined title layer and printed-contents separated layer remain distinct.
+- Letters 3439–3440 preserve classical-Tamil quotations and the conference’s historical rhetoric without turning them into modern institutional claims.
 - Figures, dates, lists and quotations remain in source order and are not silently reconciled against outside records.
 - Where the source moves between official/administrative terminology and political-familial language, preserve that shift rather than flattening it.
 
-These conventions were locked in [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md). Later entries are added only when a regular batch introduces a genuinely recurring term or source-supported distinction not already covered.
+These conventions were initiated in [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) and are extended only when later regular batches introduce genuinely recurring terms or source-supported distinctions.

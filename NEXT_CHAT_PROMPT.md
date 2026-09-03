@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Batch 2
+# Next Chat Prompt — Volume 43 English Translation Batch 3
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -60,7 +60,8 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 - Pilot **3428–3430 / PDF 024–048**: **PASS — 3 / 3 source-checked**
 - Volume 43 translation conventions: **LOCKED**
 - Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5 source-checked**
-- Cumulative source-check: **8 / 56 — 3428–3435**
+- Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
+- Cumulative source-check: **13 / 56 — 3428–3440**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started; separate later gate**
 - Editorial review: **not started**
@@ -68,13 +69,24 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 
 Every completed English record contains the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
 
+## Batch 2 translation notes
+
+- Letter **3436** retains `கரசேவை` as **kar seva** and keeps all Liberhan/Paul Commission claims source-framed.
+- Letter **3437** retains the full organisational roster and the repeated **Rising Sun** election-symbol verses.
+- Letter **3438** follows actual PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; printed contents independently has `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`.
+- Letter **3439** uses **World Classical Tamil Conference** for `உலகத் தமிழ்ச் செம்மொழி மாநாடு` and preserves the long Anna quotation and conference-planning record.
+- Letter **3440** preserves the quoted `“காஞ்சி”` / `“கோவை”` title pairing and detailed 1968 conference recollection.
+
 ## Source-layer reminder
 
 Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
 
-For already translated Letter **3435**, the English record follows actual PDF 076 `முடிந்த தொடர்கதை; முடியாத வரலாறு!`; printed contents independently preserves `முடிந்த தொடாக்கதை; முடியாத வரலாறு!`.
+For the next batch, Letter **3441** has a genuine difference:
 
-For the next batch, Letter **3438** has a genuine difference: printed contents `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`; actual PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`. English title metadata must follow the actual letter-start source while the Tamil appendix remains canonical.
+- printed contents: `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`
+- actual PDF 119: `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`
+
+English title metadata must follow the actual letter-start source while the Tamil appendix remains canonical.
 
 ## English policy
 
@@ -84,15 +96,15 @@ Follow `volumes/volume-43/TRANSLATION_PLAN.md` and the locked treatments in `tra
 
 ## Exact next activity
 
-Translate and source-check exactly **five records — Letters 3436–3440 / PDF 087–118**:
+Translate and source-check exactly **five records — Letters 3441–3445 / PDF 119–156**:
 
-1. **3436 — PDF 087–092**
-2. **3437 — PDF 093–098**
-3. **3438 — PDF 099–103**
-4. **3439 — PDF 104–111**
-5. **3440 — PDF 112–118**
+1. **3441 — `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!` — PDF 119–130**
+2. **3442 — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!` — PDF 131–137**
+3. **3443 — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!` — PDF 138–142**
+4. **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!` — PDF 143–148**
+5. **3445 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1` — PDF 149–156**
 
-Stop before **Letter 3441 / PDF 119**.
+Stop before **Letter 3446 / PDF 157**.
 
 For every record:
 
