@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Pilot
+# Next Chat Prompt — Volume 43 English Translation
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -12,7 +12,7 @@ Controlling source PDF:
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state. Do not reset, repeat or reopen completed Tamil work because a copied checkpoint is older.
+Fetch live `main` first and preserve the newest durable state. Do not reset, repeat or reopen completed Tamil or English work because a copied checkpoint is older.
 
 ## Mandatory startup
 
@@ -25,73 +25,66 @@ Before any repository change, read completely:
 5. `PROJECT_HANDOVER.md`
 6. this `NEXT_CHAT_PROMPT.md`
 7. `volumes/volume-43/README.md`
-8. `volumes/volume-43/PROGRESS.md`
-9. `volumes/volume-43/AUDIT.md`
-10. `volumes/volume-43/metadata.yml`
-11. `volumes/volume-43/FULL_VOLUME_STRUCTURAL_AUDIT.md`
-12. `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
-13. `volumes/volume-43/TRANSLATION_PLAN.md`
-14. `volumes/volume-43/translations/en/README.md`
-15. `volumes/volume-43/translations/en/PROGRESS.md`
-16. Volume 44's completed English translation plan / pilot / glossary as reference for repository conventions.
+8. `volumes/volume-43/metadata.yml`
+9. `volumes/volume-43/FULL_VOLUME_STRUCTURAL_AUDIT.md`
+10. `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
+11. `volumes/volume-43/TRANSLATION_PLAN.md`
+12. `volumes/volume-43/translations/en/README.md`
+13. `volumes/volume-43/translations/en/PROGRESS.md`
+14. `volumes/volume-43/translations/en/GLOSSARY.md`
+15. `volumes/volume-43/translations/en/PILOT_REVIEW_3428_3430.md`
+16. `volumes/volume-43/translations/en/TRANSLATION_MANIFEST.csv`
 
-## Volume 43 durable Tamil boundary
+## Durable Volume 43 state
 
-- Printed pages: **400**
-- Physical PDF pages: **402**
-- Source SHA-256: `53607130844a56b7b65b7dc5451031a33690c867e81c5ffab6e9b70958fdaf35`
-- Source inventory: **56 records, 3428–3483**
-- Date span: **01.11.2009–17.07.2010**
-- Canonical Tamil/source-page representation: **PDF 001–402 / 402 — complete**
-- Completed Tamil letters: **56 / 56 — 3428–3483**
+- Tamil canonical/source coverage: **PDF 001–402 / 402 — complete**
+- Tamil source records: **56 / 56 — 3428–3483**
+- Structural audit: **PASS**
+- Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
 - Partial/source-incomplete records: **none**
-- Full-volume Tamil structural audit: **PASS**
-- Second direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- PDF **401**: non-letter end matter
-- PDF **402**: back cover / portrait / publisher-contact-price material
-- No Letter **3484** is created in Volume 43
-- English translation: **READY FOR PILOT — 0 / 56 translated**
+- English translated/source-checked: **3 / 56 — 3428–3430**
+- English pilot: **PASS — PDF 024–048**
+- Volume 43 English conventions: **LOCKED**
+- Bilingual meaning-level alignment: **not started**
+- Editorial/final-release gates: **not started**
 
-The controlling scan remains the highest authority if a possible Tamil defect is discovered, but do not reopen completed Tamil verification without a concrete defect report.
+The controlling scan remains the highest Tamil authority if a possible Tamil defect is discovered. For normal English work, audited canonical Tamil is the immediate source. Do not reopen completed Tamil verification without a concrete defect.
 
-## Final title-layer reconciliation
+## Completed English pilot — do not repeat
 
-The genuine printed-contents / actual-letter-title differences after the completed fidelity pass are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
+1. **3428** — PDF **024–032** — `Are They Not the Hands That Protect?` — source-checked
+2. **3429** — PDF **033–039** — `Let Us Relieve the Hardships of the Tamils Who Have Come Here Too!` — source-checked
+3. **3430** — PDF **040–048** — `Kerala Government, With Ears That Will Not Hear; Why Sting Like a Scorpion!` — source-checked
 
-Important final supersessions:
+Every pilot record contains its complete audited Tamil appendix. Pilot source-check required **0 canonical Tamil changes**.
 
-- Letter 3430's corrected printed-contents wording matches its actual title; it is **not** a title-layer discrepancy.
-- Letter 3476 actual title uses a semicolon, matching the printed contents; the earlier colon reading is superseded.
-- Letter 3477 actual title uses a semicolon, matching the printed contents; the earlier colon reading is superseded.
-- Letter 3481 actual title is `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`, matching the printed contents; the earlier question-mark reading is superseded.
-- Letter 3441 is a genuine difference: contents `உடன்பிறப்புகளில்...`; actual PDF 119 `உடன் பிறப்புகளில்...`.
+## Locked English policy
 
-## English policy
+Follow `TRANSLATION_PLAN.md` and `translations/en/GLOSSARY.md`. Preserve thought/argument order, political directness, accusation, irony, rhetorical questions, repetition, dates, figures, units, lists, quotations, source-supplied English and source anomalies. Retain `Udanpirappē`, standard `With affection, M.K.`, and public-language `lakh` / `crore`. Do not silently reconcile claims from outside knowledge.
 
-Use audited canonical Tamil as the immediate translation source. Preserve thought/argument order, political directness, accusation, irony, rhetorical questions, repetition, quotations, names, dates, figures, units, source-supplied English and documented source anomalies. Do not silently improve or reconcile historical/political claims from outside knowledge.
-
-Follow `volumes/volume-43/TRANSLATION_PLAN.md`. Every English record must include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
+`source-checked` and `bilingual_alignment_status: aligned` are separate gates. Do not mark a record aligned during ordinary translation/source-check.
 
 ## Exact next activity
 
-Draft and source-check the **three-letter Volume 43 English pilot — Letters 3428–3430 / PDF 024–048**:
+Translate and source-check the first normal five-record batch — **Letters 3431–3435 / PDF 049–086**:
 
-1. **3428 — `காக்கும் கரங்களுமன்றோ?` — PDF 024–032**
-2. **3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — PDF 033–039**
-3. **3430 — `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!` — PDF 040–048**
+1. **3431** — PDF **049–053**
+2. **3432** — PDF **054–060**
+3. **3433** — PDF **061–069**
+4. **3434** — PDF **070–075**
+5. **3435** — PDF **076–086**
 
-Do **not** include Letter 3431 in this pilot.
+Stop after **Letter 3435 / PDF 086**. PDF **087** begins Letter 3436; do not include it in the same activity.
 
-For each pilot record:
+For each record:
 
-- create the complete thought-preserving English translation;
-- source-check every Tamil paragraph against the English;
-- preserve dates, figures, quotations, rhetoric and closings;
-- include the complete audited Tamil appendix;
-- if a Tamil defect is suspected, inspect the controlling scan before changing canonical Tamil;
-- update the English pilot review/progress and lock Volume 43 translation conventions after the pilot source-check;
-- keep bilingual meaning-level alignment as a later separate durable gate.
+- draft the complete thought-preserving English translation from audited canonical Tamil;
+- source-check every title, paragraph, figure, quotation, list, date and closing;
+- include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers;
+- add glossary entries only for genuinely new recurring terminology or source-supported distinctions;
+- update English manifest/README/progress, metadata and handover controls;
+- keep bilingual alignment for the later separate alignment phase.
 
 ## Git discipline
 
-Work directly on `main`. Re-fetch live `main` immediately before mutation, preserve concurrent work, prefer a candidate tree/commit that does not move `main` until validation is complete, publish one atomic commit, fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.
+Work directly on `main`. Re-fetch live `main` immediately before mutation, preserve concurrent work, prepare and validate a candidate tree/commit before moving `main`, publish one atomic commit, fast-forward with `force: false`, and verify parent → new HEAD changed-file scope.

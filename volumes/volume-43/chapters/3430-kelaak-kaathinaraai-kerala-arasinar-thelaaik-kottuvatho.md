@@ -30,6 +30,6 @@ transcription_status: "first-pass-reviewed"
 
 Canonical உரை மேலுள்ள பக்கக் கோப்புகளில் உள்ளது; பக்க எல்லைகள் இழக்கப்படாத வகையில் இங்கு உரை நகலெடுக்கப்படவில்லை.
 
-> **Title fidelity note:** printed contents has `கேரளக் காதினராய் கேரள அரசினர்; தேனாய்க் கொட்டுவதோ!`; the actual letter-start page PDF 040 prints `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`. Canonical chapter metadata follows the letter-start scan.
+> **Title reconciliation note:** second-pass direct contents verification corrected the printed-contents row to `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`, matching the actual PDF 040 title. The earlier provisional contents/title discrepancy is superseded.
 
 **அடுத்த பதிவு:** 3431 — PDF 049 / அச்சுப் பக்கம் 48.

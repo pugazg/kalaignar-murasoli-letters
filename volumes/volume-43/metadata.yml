@@ -32,9 +32,14 @@ second_visual_verified_page_range: "1-402"
 second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "ready-for-pilot"
-translated_letter_range: null
-translated_letter_count: 0
+translation_status: "in-progress"
+translated_letter_range: "3428-3430"
+translated_letter_count: 3
+translation_batch_cadence: "pilot 3428-3430; then 5 actual source records per normal iteration"
+pilot_review_status: "pass"
+pilot_review_report: "translations/en/PILOT_REVIEW_3428_3430.md"
+translation_conventions_status: "locked"
+translation_glossary: "translations/en/GLOSSARY.md"
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -76,4 +81,6 @@ source_observations:
   - "Full-volume Tamil structural audit: PASS."
   - "Second full-volume direct visual/textual-fidelity verification: PASS — PDF 001–402 / 402."
   - "Final genuine printed-contents / actual-title differences are Letters 3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474."
-  - "English translation is ready for the three-letter pilot 3428–3430 / PDF 024–048."
+  - "English pilot Letters 3428–3430 / PDF 024–048 is source-check PASS; 3 / 56 English records are complete and Volume 43 translation conventions are locked."
+  - "No canonical Tamil change was required during the English pilot source-check."
+  - "Exact next English activity is the first regular five-record batch 3431–3435 / PDF 049–086."

@@ -1,8 +1,8 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **READY — Tamil transcription, structural audit and second direct visual/textual-fidelity gate are complete.**
+**Status:** **IN PROGRESS — pilot 3428–3430 source-check PASS; conventions locked.**
 
-Volume 43 now enters the repository's established thought-preserving bilingual workflow.
+Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
 ## Tamil gate prerequisites — complete
 
@@ -25,26 +25,40 @@ Use the repository's established thought-preserving, non-literary English method
 - use `With affection, M.K.` for the standard `அன்புள்ள, மு.க.` closing;
 - retain public-language units such as `lakh` and `crore`;
 - do not compress, soften, broaden, reorder or supplement the source for elegance;
-- every English record must include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`.
+- every English record must include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`;
+- keep `source-checked` separate from the later `bilingual_alignment_status: aligned` gate.
 
-## Pilot
+## Pilot — complete
 
-The first English source-check pilot is exactly **three consecutive source records**:
+The first English source-check pilot was exactly three consecutive source records:
 
 - **3428 — `காக்கும் கரங்களுமன்றோ?` — PDF 024–032**;
 - **3429 — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!` — PDF 033–039**;
 - **3430 — `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!` — PDF 040–048**.
 
-For this pilot:
+Pilot result: **PASS — 3 / 3 source-checked; 0 canonical Tamil changes; Volume 43 conventions locked.**
 
-1. draft the complete English translation from audited canonical Tamil;
-2. source-check every paragraph, title, date, figure, quotation, closing and appendix against the audited Tamil;
+Durable controls:
+
+- `translations/en/PILOT_REVIEW_3428_3430.md`
+- `translations/en/GLOSSARY.md`
+- `translations/en/TRANSLATION_MANIFEST.csv`
+
+## Regular translation cadence
+
+After the pilot, proceed in **five actual source records per normal translation iteration** unless an explicit source anomaly requires a documented exception.
+
+For each regular batch:
+
+1. draft complete English records from audited canonical Tamil;
+2. source-check every title, paragraph, figure, quotation, list, date, closing and complete Tamil appendix;
 3. if a Tamil defect is suspected, return to the controlling scan before changing canonical Tamil;
-4. create/update the English pilot review and lock Volume 43 conventions before regular batches;
-5. keep bilingual meaning-level alignment as a later separate durable gate; do not mark records `aligned` merely because source-check passed.
-
-After the pilot is source-checked and conventions are locked, proceed in **five actual source records per normal translation iteration** unless an explicit source anomaly requires a documented exception.
+4. update the manifest, English README/progress, metadata and applicable handover controls;
+5. add glossary entries only for genuinely new recurring terms or source-supported distinctions;
+6. do not perform the later bilingual-alignment gate in the same activity unless explicitly scheduled.
 
 ## Exact next activity
 
-Draft and source-check **Letters 3428–3430 / PDF 024–048** as the Volume 43 English pilot. Do not include Letter 3431 in the pilot.
+Translate and source-check the first normal five-record batch: **Letters 3431–3435 / PDF 049–086**.
+
+Stop at the end of **Letter 3435 / PDF 086**. Do **not** begin Letter 3436 / PDF 087 in the same activity.

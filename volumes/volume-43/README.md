@@ -20,13 +20,15 @@
 
 - Canonical pages: **PDF 001–402 / 402**
 - Printed contents: **registered and direct-scan reconciled**
-- Completed letters: **56 / 56 — 3428–3483**
+- Completed Tamil letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- English translation: **READY FOR PILOT — 0 / 56 translated**
+- English translation/source-check: **3 / 56 — pilot 3428–3430 PASS**
+- Volume 43 English conventions: **LOCKED**
+- Bilingual alignment: **not started**
 
-The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032, followed by the source-record batches through Letter 3483. PDF **401 / printed 400** is non-letter end matter and PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
+The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032, followed by source-record batches through Letter 3483. PDF **401 / printed 400** is non-letter end matter and PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
 
 ## Source-layer title differences after final fidelity reconciliation
 
@@ -42,10 +44,20 @@ The final genuine contents/actual-title difference set is:
 
 Second-pass direct scan verification superseded earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**. Letter 3430's corrected printed-contents row matches its actual title; Letters 3476, 3477 and 3481 use semicolons in both source layers.
 
-## Final Tamil fidelity closure
+## English pilot — PASS
 
-The closing direct pass verified all remaining pages **375–402**, comprising Letters **3480–3483** plus the two non-letter end pages. The final scan-proven corrections include punctuation/word restorations on PDFs 376, 377, 380, 388, 391 and 396, and cross-file reconciliation of the printed-contents register and title-layer notes. `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md` is the durable full correction record.
+The first English pilot covers exactly **Letters 3428–3430 / PDF 024–048**. All three bilingual records are complete and source-checked against the audited canonical Tamil, with full Tamil appendices. No canonical Tamil change was required.
+
+Durable English controls:
+
+- `translations/en/PILOT_REVIEW_3428_3430.md` — **PASS**
+- `translations/en/GLOSSARY.md` — pilot conventions **LOCKED**
+- `translations/en/TRANSLATION_MANIFEST.csv`
+- `translations/en/README.md`
+- `translations/en/PROGRESS.md`
+
+Source-checked does not mean bilingual-aligned; alignment remains a later independent gate.
 
 ## Exact next activity
 
-Begin the **Volume 43 English translation pilot — Letters 3428–3430 / PDF 024–048**. Follow `TRANSLATION_PLAN.md` and the repository's established thought-preserving bilingual workflow. Use audited canonical Tamil as the immediate translation source; the controlling scan remains ultimate if a fresh Tamil defect is suspected. Do not reopen completed Tamil verification without a concrete defect report.
+Translate and source-check the first normal English batch — **Letters 3431–3435 / PDF 049–086** — using the locked Volume 43 conventions. Stop at the end of Letter 3435; do not begin Letter 3436 / PDF 087 in the same iteration.
