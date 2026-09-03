@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–293 / 402 — VERIFIED.**
+**PDF 001–303 / 402 — VERIFIED.**
 
-PDF **279–293**, comprising Letters **3464 — `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`** and **3465 — `நெஞ்சில் மோதும் நினைவலைகள்!`**, was compared directly against the controlling scan in this continuation. Letter 3464 closes at PDF 284 with `அன்புள்ள, / மு.க. / 07-03-2010`; Letter 3465 closes at PDF 293 with `அன்புள்ள, / மு.க. / 10-3-2010`.
+PDF **294–303**, comprising Letters **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`** and **3467 — `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`**, was compared directly against the controlling scan in this continuation. Letter 3466 closes at PDF 298 with `அன்புள்ள, / மு.க. / 11-03-2010`. Letter 3467 is a separate source record: its printed editorial introduction occupies PDF 299–300 and the reproduced handwritten-letter facsimile continues through PDF 303, where the signature and handwritten date `2/11/1974` are visibly present.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -202,6 +202,10 @@ No other concrete scan-proven correction was identified in Letters 3462–3463 d
 
 No other concrete scan-proven correction was identified in Letters 3464–3465 during this pass. Preserve the source-layer title distinction for Letter 3464: the actual title on PDF 279 is `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`, while the separately preserved printed-contents wording is `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`.
 
+### PDF 294–303
+
+No concrete scan-proven correction was identified in Letters 3466–3467 during this pass. Preserve Letter 3467 as a facsimile-bearing source record rather than silently converting the handwritten pages into typeset text. Its printed-contents date cell remains blank; the reproduced handwritten letter itself is dated `2-11-1974` / `2/11/1974`. Preserve the actual-title spelling `மகராஜனுக்கு` independently from the printed-contents spelling `மகாராஜனுக்கு`.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 294** and, following the current two-letter iteration cadence, complete the next **two letters — 3466 and 3467 — in the same iteration**, stopping at the end of Letter 3467. PDF 294 begins Letter **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`**. Do **not** repeat PDF 001–293 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 304** and, following the current two-letter iteration cadence, complete the next **two letters — 3468 and 3469 — in the same iteration**, stopping at the end of Letter 3469. PDF 304 begins Letter **3468 — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`**; Letter 3469 begins at PDF 315 and PDF 317 begins Letter 3470, so stop at PDF 316. Do **not** repeat PDF 001–303 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
