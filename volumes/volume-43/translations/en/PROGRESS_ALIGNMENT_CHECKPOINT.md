@@ -12,7 +12,7 @@
 - English corrections identified across the complete aligned range: **0**
 - Canonical Tamil changes exposed by alignment: **0**
 - Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 Tamil changes**
-- Final release verification: **not started**
+- Final release verification: **PASS — 56 / 56; final release complete**
 
 Review reports:
 
@@ -27,4 +27,4 @@ The first 15-record synchronization report remains [`BILINGUAL_ALIGNMENT_SYNC_34
 
 ## Exact next activity
 
-Editorial consistency review is complete: **PASS — 56 / 56**, with **2 English-only corrections and 0 Tamil changes**. Perform the separate **Volume 43 final English release verification** next; create `RELEASE_REPORT.md` and do not mark final release complete until manifest/file/boundary validation passes.
+Editorial consistency review is complete: **PASS — 56 / 56**, with **2 English-only corrections and 0 Tamil changes**. Final English release verification is also **PASS — 56 / 56**; see `RELEASE_REPORT.md`. No Volume 43 English QA/release gate remains pending.

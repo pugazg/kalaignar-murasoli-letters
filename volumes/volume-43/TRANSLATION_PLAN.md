@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **SOURCE-CHECK COMPLETE — 56 / 56; BILINGUAL ALIGNMENT COMPLETE — 56 / 56; ENGLISH EDITORIAL CONSISTENCY REVIEW PASS — 56 / 56; final English release verification is the active next phase.**
+**Status:** **FINAL RELEASE COMPLETE — 56 / 56. Source-check, bilingual alignment, editorial consistency review and final English release verification are all complete.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -141,10 +141,8 @@ Six durable alignment reviews cover **56 / 56 — 3428–3483 / PDF 024–400**.
 
 All **56 / 56** aligned records passed the volume-level editorial consistency review. Two English-only consistency corrections were applied: Letter 3481 `five million people` → `50 lakh people`, and Letter 3483 translated `Central Government` → `Union Government`. Canonical Tamil changes: **0**. Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 
-## Phase 5 — final English release verification — NEXT
+## Phase 5 — final English release verification — COMPLETE
 
-Reconcile the manifest to exactly **56 source records, 3428–3483**, validate unique letter numbers and English paths, confirm all rows are source-checked/aligned/reviewed while final release remains pending, verify complete bilingual files and appended Tamil, reconfirm Letter 3483 / PDF 394–400 as the final source letter and PDF 401–402 as non-letter matter, create `translations/en/RELEASE_REPORT.md`, and synchronize final-release controls only after the gate passes.
+Final release verification is **PASS — 56 / 56**. The manifest reconciles exactly to Letters **3428–3483**, with 56 unique English paths, all final-release statuses verified, zero source-incomplete records, and complete bilingual source-page coverage through PDF 400. PDF 401–402 remain non-letter matter. Release report: `translations/en/RELEASE_REPORT.md`.
 
-## Exact next activity
-
-Perform **Volume 43 final English release verification**. Do not reopen completed translation/alignment/editorial work without a concrete defect.
+No further Volume 43 English QA/release activity remains. Reopen this volume only for a concrete defect report supported by the controlling source or a durable repository inconsistency.

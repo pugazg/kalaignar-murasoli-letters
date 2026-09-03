@@ -19,7 +19,7 @@
 - Canonical Tamil changes during English source-check: **0**
 - Bilingual alignment: **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**
 - Editorial review: **PASS — 56 / 56; 2 English-only consistency corrections; 0 Tamil changes**
-- Final release: **not started**
+- Final release: **PASS — 56 / 56; final verified; 0 release-body corrections; 0 Tamil changes**
 
 ## Completed pilot
 
@@ -201,6 +201,12 @@ Perform the separate **Volume 43 English editorial consistency review** across a
 - Manifest editorial status: **56 / 56 reviewed**.
 - Final release verification: **not started / pending**.
 
-## Exact next activity
+## Final English release verification — COMPLETE
 
-Perform the separate **Volume 43 final English release verification** across all 56 reviewed records. Create `RELEASE_REPORT.md`; validate the 56-row manifest, unique record numbers/paths, complete bilingual files and final PDF 400 / non-letter PDF 401–402 boundary. Do not combine this with any new translation or Tamil-source activity.
+- Result: **PASS — 56 / 56 — 3428–3483 / PDF 024–400**.
+- Manifest: **56 unique letter numbers; 56 unique English paths; 0 duplicates; 0 missing/extra records; 0 source-incomplete rows**.
+- Final-release manifest status: **56 / 56 verified**.
+- English body corrections during release verification: **0**.
+- Canonical Tamil changes during release verification: **0**.
+- Report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
+- **No further Volume 43 English QA/release gate remains pending.**

@@ -1,6 +1,6 @@
 # Volume 43 English Translation — Glossary
 
-**Status:** locked after pilot review and validated across the complete **56 / 56** source-checked, bilingual-aligned and editorially reviewed Volume 43 corpus. Batch 6 added `மாநில சுயாட்சி` → **State autonomy**; batch 7 added `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the source-defined rights context and `உள் ஒதுக்கீடு` → **internal reservation**; later batches added no new recurring treatment. The editorial consistency review made no glossary-policy change.
+**Status:** locked after pilot review and validated across the complete **56 / 56** source-checked, bilingual-aligned and editorially reviewed and final-release-verified Volume 43 corpus. Batch 6 added `மாநில சுயாட்சி` → **State autonomy**; batch 7 added `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the source-defined rights context and `உள் ஒதுக்கீடு` → **internal reservation**; later batches added no new recurring treatment. The editorial consistency review made no glossary-policy change.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 43 translation/QA but may not override a different meaning supported by a source passage.
 

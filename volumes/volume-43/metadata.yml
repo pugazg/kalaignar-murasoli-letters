@@ -32,7 +32,7 @@ second_visual_verified_page_range: "1-402"
 second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "source-check-complete"
+translation_status: "final-release-complete"
 translated_letter_range: "3428-3483"
 translated_letter_count: 56
 bilingual_alignment_status: "complete"
@@ -46,8 +46,15 @@ english_editorial_reviewed_letter_count: 56
 english_editorial_review_report: "translations/en/EDITORIAL_CONSISTENCY_REVIEW.md"
 english_editorial_review_substantive_corrections: 2
 english_editorial_review_tamil_changes: 0
-english_release_status: "not-started"
+english_release_status: "complete"
+english_final_verified_letter_range: "3428-3483"
+english_final_verified_letter_count: 56
+english_release_report: "translations/en/RELEASE_REPORT.md"
+english_release_body_corrections: 0
+english_release_tamil_changes: 0
 source_observations:
+  - "Final English release verification: PASS — 56 / 56; manifest reconciled to 56 unique letter numbers and 56 unique English paths; 0 source-incomplete rows."
+  - "Final release verification required 0 English body corrections, 0 canonical Tamil changes and 0 new scan re-checks; PDF 401–402 remain non-letter matter and no Letter 3484 is created."
   - "Volume number 43 is printed on the front cover and title page."
   - "Front cover/title page print the date span 01.11.2009–17.07.2010."
   - "Publication details print 400 pages; the source PDF has 402 physical PDF pages, including framing/back-cover material."

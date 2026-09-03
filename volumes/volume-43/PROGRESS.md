@@ -318,3 +318,15 @@ Perform the separate **Volume 43 English editorial consistency review** across a
 ### Exact next activity
 
 Perform the separate **Volume 43 final English release verification**; reconcile exactly 56 manifest rows and bilingual files, validate unique numbers/paths and the PDF 400 / PDF 401–402 boundary, create `RELEASE_REPORT.md`, and only then promote final-release status.
+
+## Final English release verification — COMPLETE
+
+- Result: **PASS — 56 / 56 — Letters 3428–3483 / PDF 024–400**.
+- Manifest: **56 unique letter numbers; 56 unique English paths; 0 duplicates; 0 missing/extra English records; 0 source-incomplete rows**.
+- Final-release status: **56 / 56 verified**.
+- Letter 3483: **PDF 394–400**, final source letter.
+- PDF 401–402: **non-letter matter**; no Letter 3484 in Volume 43.
+- Release-verification English body corrections: **0**.
+- Release-verification canonical Tamil changes: **0**.
+- Report: `translations/en/RELEASE_REPORT.md`.
+- **Volume 43 is complete through all Tamil and English release gates.**

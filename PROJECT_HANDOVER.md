@@ -10,7 +10,7 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-The durable Volume 43 Tamil gates are complete. English drafting/source-check is also complete. **Bilingual meaning-level alignment and the English editorial consistency review are complete; final English release verification is now the active Volume 43 phase.** Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
+The durable Volume 43 Tamil gates are complete. English drafting/source-check, bilingual meaning-level alignment, English editorial consistency review and final English release verification are also complete. **Volume 43 is FINAL RELEASE COMPLETE — 56 / 56.** Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
 
 For a fresh chat, the controlling Volume 43 PDF is only required if a possible Tamil defect must be reopened. Alignment should normally use audited canonical Tamil and the source-checked English records as its immediate inputs.
 
@@ -18,7 +18,7 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
-## Volume 43 — ACTIVE FINAL RELEASE PREPARATION
+## Volume 43 — FINAL RELEASE COMPLETE
 
 Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 
@@ -53,7 +53,7 @@ Current durable English state:
 - Canonical Tamil changes during English source-check: **0**
 - Bilingual meaning-level alignment: **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**
 - Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 canonical Tamil changes**
-- Final English release verification: **not started**
+- Final English release verification: **PASS — 56 / 56; final release complete**
 
 Every English record includes the complete audited canonical Tamil representation under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
 
@@ -147,6 +147,17 @@ Mandatory alignment startup before changing records:
 - stop after **3432 / PDF 060** and do not begin **3433 / PDF 061**;
 - keep editorial consistency review and final release as later separate durable gates.
 
+## Volume 43 release closure — 2026-09-03
+
+- Final English release verification: **PASS — 56 / 56 — 3428–3483 / PDF 024–400**.
+- Manifest reconciliation: **56 unique letter numbers; 56 unique English paths; 0 duplicates; 0 missing/extra English records; 0 source-incomplete rows**.
+- Final-release manifest status: **56 / 56 verified**.
+- Release-verification English body corrections: **0**.
+- Release-verification canonical Tamil changes: **0**.
+- Letter 3483 closes at PDF 400; PDF 401–402 are non-letter matter; no Letter 3484 is created in Volume 43.
+- Release report: `volumes/volume-43/translations/en/RELEASE_REPORT.md`.
+- **No Volume 43 Tamil/English QA or release gate remains pending.** Reopen only for a concrete defect report or verified repository inconsistency.
+
 ## Volume 44 — COMPLETE
 
 Volume 44 remains complete through Tamil structural/fidelity gates and all English source-check, bilingual-alignment, editorial-review and final-release gates: **53 / 53**.
@@ -157,7 +168,7 @@ Volume 45 remains complete through Tamil and English release gates: **55 / 55**.
 
 ## Fresh-window start instruction
 
-In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and controls, and begin the Volume 43 English editorial consistency review without reopening completed Tamil or source-check work unless a concrete defect is found.
+In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and controls, and follow the current `NEXT_CHAT_PROMPT.md`. Volume 43 must not be reopened unless a concrete defect or verified repository inconsistency is found.
 
 ## Git discipline
 
@@ -204,20 +215,20 @@ Work on `main` when requested. Prefer one validated atomic commit per declared a
 - Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
 
 
-## Volume 43 — CURRENT ENGLISH QA GATE
+## Volume 43 — ENGLISH QA GATES COMPLETE
 
 - English drafting/source-check: **COMPLETE — 56 / 56**.
 - Bilingual meaning-level alignment: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**.
 - Final alignment review **3473–3483 / PDF 332–400**: **PASS — 11 / 11**.
 - English corrections across all six alignment reviews: **0**.
 - Canonical Tamil changes across alignment: **0**.
-- Editorial consistency review: **not started — ACTIVE NEXT GATE**.
-- Final English release verification: **not started**.
+- Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 Tamil changes**.
+- Final English release verification: **PASS — 56 / 56; final release complete**.
 - PDF 401–402 remain non-letter matter; no Letter 3484 is created in Volume 43.
 
-### Exact next activity
+### Release closure
 
-Perform the separate **Volume 43 final English release verification** across all 56 editorially reviewed bilingual records. Reconcile `translations/en/TRANSLATION_MANIFEST.csv`, confirm unique numbers/paths and complete bilingual files, verify the final source boundary at Letter 3483 / PDF 400 with PDF 401–402 non-letter, create `translations/en/RELEASE_REPORT.md`, and promote final-release status only after the gate passes.
+Volume 43 final English release verification is complete; the durable release record is `volumes/volume-43/translations/en/RELEASE_REPORT.md`. Reopen only for a concrete defect report or verified repository inconsistency.
 
 
 ### Volume 43 editorial consistency checkpoint
