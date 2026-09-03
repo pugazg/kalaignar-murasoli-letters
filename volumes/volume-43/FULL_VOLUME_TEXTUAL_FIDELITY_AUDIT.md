@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–339 / 402 — VERIFIED.**
+**PDF 001–353 / 402 — VERIFIED.**
 
-PDF **326–339**, comprising Letters **3472 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`** and **3473 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`**, was compared directly against the controlling scan in this continuation. Letter 3472 closes at PDF 331 with `அன்புள்ள, / மு.க. / 30-5-2010`. Letter 3473 closes at PDF 339 with `அன்புள்ள, / மு.க. / 31-5-2010`. Preserve the actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...` for both letters.
+PDF **340–353**, comprising Letters **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`** and **3475 — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`**, was compared directly against the controlling scan in this continuation. Letter 3474 closes at PDF 347 with `அன்புள்ள, / மு.க. / 02-06-2010`. Letter 3475 closes at PDF 353 with `அன்புள்ள, / மு.க. / 16-6-2010`. Preserve Letter 3474's actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -238,6 +238,20 @@ No concrete scan-proven correction was identified in Letters 3470–3471 during 
 
 No other concrete scan-proven correction was identified in Letters 3472–3473 during this pass. The actual-start spelling `ஒய்யாரக்...` on PDFs 326 and 332 remains distinct from the printed-contents `ஓய்யாரக்...`.
 
+### Scan-proven corrections in PDF 340–353
+
+- **PDF 343 — Letter 3474:** restored the printed word `டாலா` → `டாலர்` in `மூன்று லட்சம் டாலர் வரவு வைக்கப்படுகிறது`.
+- **PDF 344 — Letter 3474:** restored the printed abbreviated date `30-4-1997இல்` → `30-4-97இல்`.
+- **PDF 346 — Letter 3474:** restored the printed year spacing `2003ஆம் ஆண்டு` → `2003 ஆம் ஆண்டு`.
+- **PDF 346 — Letter 3474:** restored the final consonant in the printed locative form `பணியில சேர்க்காமல்` → `பணியில் சேர்க்காமல்`.
+- **PDF 346 — Letter 3474:** restored the printed date spacing `24ஆம் தேதிய` → `24 ஆம் தேதிய`.
+- **PDF 348 — Letter 3475:** restored the printed date spacing `ஜூன் திங்கள் 23ஆம் நாள்` → `ஜூன் திங்கள் 23 ஆம் நாள்`.
+- **PDF 349 — Letter 3475:** restored the printed year spacing `2001ஆம் ஆண்டு` → `2001 ஆம் ஆண்டு`.
+- **PDF 350 — Letter 3475:** restored the printed year spacing `1995ஆம் ஆண்டு` → `1995 ஆம் ஆண்டு`.
+- **PDF 352 — Letter 3475:** restored the printed year spacing `1965ஆம் ஆண்டு` → `1965 ஆம் ஆண்டு`.
+
+No other concrete scan-proven correction was identified in Letters 3474–3475 during this pass. Preserve Letter 3474's actual-start `ஒய்யாரக்...` independently from the printed-contents `ஓய்யாரக்...`.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 340** and, following the current two-letter iteration cadence, complete the next **two letters — 3474 and 3475 — in the same iteration**, stopping at the end of Letter 3475. PDF 340 begins Letter **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`**; Letter 3475 begins at PDF 348, and PDF 354 begins Letter 3476, so stop at PDF 353. Preserve Letter 3474's actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...`. Do **not** repeat PDF 001–339 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 354** and, following the current two-letter iteration cadence, complete the next **two letters — 3476 and 3477 — in the same iteration**, stopping at the end of Letter 3477. PDF 354 begins Letter **3476 — `நஞ்சை எண்ணாதே: நம்பிக் கெடாதே!`**; Letter 3477 begins at PDF 358, and PDF 364 begins Letter 3478, so stop at PDF 363. Preserve the actual colon punctuation in Letter 3476 independently from the printed-contents semicolon form `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`, and preserve the actual colon punctuation in Letter 3477 independently from the printed-contents semicolon form `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`. Do **not** repeat PDF 001–353 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
