@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–363 / 402 — VERIFIED.**
+**PDF 001–374 / 402 — VERIFIED.**
 
-PDF **354–363**, comprising Letters **3476 — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`** and **3477 — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`**, was compared directly against the controlling scan in this continuation. Letter 3476 closes at PDF 357 with `அன்புள்ள, / மு.க. / 17-6-2010`. Letter 3477 closes at PDF 363 with `அன்புள்ள, / மு.க. / 19-6-2010`. Direct title rechecks on PDF 354 and PDF 358 confirmed semicolons in both actual starts, matching the printed contents and superseding the earlier provisional colon readings.
+PDF **364–374**, comprising Letters **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`** and **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`**, was compared directly against the controlling scan in this continuation. Letter 3478 closes at PDF 370 with `அன்புள்ள, / மு.க. / 4-7-2010`. Letter 3479 closes at PDF 374 with `அன்புள்ள, / மு.க. / 7-7-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -259,6 +259,22 @@ No other concrete scan-proven correction was identified in Letters 3474–3475 d
 
 No other concrete scan-proven correction was identified in Letters 3476–3477 during this pass. The earlier first-pass claim that these two titles differed from the printed contents is superseded by this direct second-pass scan verification.
 
+### Scan-proven corrections in PDF 364–374
+
+- **PDF 366 — Letter 3478:** restored the printed year spacing `2001ஆம் ஆண்டு` → `2001 ஆம் ஆண்டு`.
+- **PDF 368 — Letter 3478:** restored the printed year spacing `2001ஆம் ஆண்டு` → `2001 ஆம் ஆண்டு`.
+- **PDF 368 — Letter 3478:** restored the printed year-range spacing `2001-2002ஆம் ஆண்டுக்கு` → `2001-2002 ஆம் ஆண்டுக்கு`.
+- **PDF 368 — Letter 3478:** restored the printed year-range spacing `2003-2004ஆம் ஆண்டில்` → `2003-2004 ஆம் ஆண்டில்`.
+- **PDF 369 — Letter 3478:** restored the first printed year-range spacing `2003-2004ஆம் ஆண்டில்` → `2003-2004 ஆம் ஆண்டில்`.
+- **PDF 369 — Letter 3478:** restored the first printed year-range spacing `2004-2005ஆம் ஆண்டில்` → `2004-2005 ஆம் ஆண்டில்`.
+- **PDF 369 — Letter 3478:** restored the later printed year-range spacing `2003-2004ஆம் ஆண்டு` → `2003-2004 ஆம் ஆண்டு`.
+- **PDF 369 — Letter 3478:** restored the later printed year-range spacing `2004-2005ஆம் ஆண்டு` → `2004-2005 ஆம் ஆண்டு`.
+- **PDF 371 — Letter 3479:** restored the printed date spacing `ஜூலை 5ஆம் தேதி` → `ஜூலை 5 ஆம் தேதி`.
+- **PDF 371 — Letter 3479:** restored the printed closing quotation boundary before the suffix: `“பந்த் “தின்` → `“பந்த்”தின்`.
+- **PDF 372 — Letter 3479:** restored the printed year spacing `1938ஆம் ஆண்டு` → `1938 ஆம் ஆண்டு`.
+
+No other concrete scan-proven correction was identified in Letters 3478–3479 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 364** and, following the current two-letter iteration cadence, complete the next **two letters — 3478 and 3479 — in the same iteration**, stopping at the end of Letter 3479. PDF 364 begins Letter **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`**; Letter 3479 begins at PDF 371, and PDF 375 begins Letter 3480, so stop at PDF 374. Do **not** repeat PDF 001–363 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 375** and, following the current two-letter iteration cadence, complete the next **two letters — 3480 and 3481 — in the same iteration**, stopping at the end of Letter 3481. PDF 375 begins Letter **3480 — `வெல்லத் தமிழ் இனி வளரும்!`**; Letter 3481 begins at PDF 380 with actual title **`வேண்டாத விமர்சனங்கள்? மறப்போம்! மன்னிப்போம்!`**, while the printed contents preserves `வேண்டாத விமர்சனங்கள்; மறப்போம்! மன்னிப்போம்!`. PDF 386 begins Letter 3482, so stop at PDF 385. Do **not** repeat PDF 001–374 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
