@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–303 / 402 — VERIFIED.**
+**PDF 001–316 / 402 — VERIFIED.**
 
-PDF **294–303**, comprising Letters **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`** and **3467 — `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`**, was compared directly against the controlling scan in this continuation. Letter 3466 closes at PDF 298 with `அன்புள்ள, / மு.க. / 11-03-2010`. Letter 3467 is a separate source record: its printed editorial introduction occupies PDF 299–300 and the reproduced handwritten-letter facsimile continues through PDF 303, where the signature and handwritten date `2/11/1974` are visibly present.
+PDF **304–316**, comprising Letters **3468 — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`** and **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`**, was compared directly against the controlling scan in this continuation. Letter 3468 closes at PDF 314 with `அன்புள்ள, / மு.க. / 12-05-2010`. Letter 3469 closes at PDF 316 with `அன்புள்ள / மு.க. / 13-05-2010`; the source closing has no comma after `அன்புள்ள`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -206,6 +206,14 @@ No other concrete scan-proven correction was identified in Letters 3464–3465 d
 
 No concrete scan-proven correction was identified in Letters 3466–3467 during this pass. Preserve Letter 3467 as a facsimile-bearing source record rather than silently converting the handwritten pages into typeset text. Its printed-contents date cell remains blank; the reproduced handwritten letter itself is dated `2-11-1974` / `2/11/1974`. Preserve the actual-title spelling `மகராஜனுக்கு` independently from the printed-contents spelling `மகாராஜனுக்கு`.
 
+### Scan-proven corrections in PDF 304–316
+
+- **PDF 304 — Letter 3468:** restored the printed year spacing `1997ஆம் ஆண்டு` → `1997 ஆம் ஆண்டு`.
+- **PDF 313 — Letter 3468:** restored the printed separated form `16ம் தேதியன்றும்` → `16ம் தேதி யன்றும்`.
+- **PDF 314 — Letter 3468:** restored the printed year spacing `1997ஆம் ஆண்டு` → `1997 ஆம் ஆண்டு`.
+
+No other concrete scan-proven correction was identified in Letters 3468–3469 during this pass.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 304** and, following the current two-letter iteration cadence, complete the next **two letters — 3468 and 3469 — in the same iteration**, stopping at the end of Letter 3469. PDF 304 begins Letter **3468 — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`**; Letter 3469 begins at PDF 315 and PDF 317 begins Letter 3470, so stop at PDF 316. Do **not** repeat PDF 001–303 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 317** and, following the current two-letter iteration cadence, complete the next **two letters — 3470 and 3471 — in the same iteration**, stopping at the end of Letter 3471. PDF 317 begins Letter **3470 — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`**; Letter 3471 begins at PDF 323, and PDF 326 begins Letter 3472, so stop at PDF 325. Do **not** repeat PDF 001–316 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
