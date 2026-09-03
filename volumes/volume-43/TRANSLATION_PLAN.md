@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — 18 / 56 source-checked; pilot and normal batches 1–3 PASS.**
+**Status:** **IN PROGRESS — 23 / 56 source-checked; pilot and normal batches 1–4 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -34,16 +34,17 @@ Use the repository's established thought-preserving, non-literary English method
 - Normal batch 1 **3431–3435 / PDF 049–086** — **PASS — 5 / 5**.
 - Normal batch 2 **3436–3440 / PDF 087–118** — **PASS — 5 / 5**.
 - Normal batch 3 **3441–3445 / PDF 119–156** — **PASS — 5 / 5**.
+- Normal batch 4 **3446–3450 / PDF 157–198** — **PASS — 5 / 5**.
 
-Cumulative result: **18 / 56 source-checked; 0 canonical Tamil changes during English work.**
+Cumulative result: **23 / 56 source-checked; 0 canonical Tamil changes during English work.**
 
-### Normal batch 3 durable notes
+### Normal batch 4 durable notes
 
-- **3441 — `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!` — PDF 119–130**. The English record follows the actual letter-start title with separated `உடன் பிறப்புகளில்`; printed contents independently retains joined `உடன்பிறப்புகளில்`.
-- **3442 — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!` — PDF 131–137**. The full Anna quotation, source-attributed 1992 quotation and welfare lists remain source-framed.
-- **3443 — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!` — PDF 138–142**. The Leelavathi case and Rajya Sabha comparison are retained without outside reconciliation.
-- **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!` — PDF 143–148**. The full Vaidyanathan–Karunanidhi correspondence and chariot-rope metaphor are preserved.
-- **3445 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1` — PDF 149–156**. The recurring `செப்பேடு` image is treated as **copper-plate record**; archaic quoted Tamil remains exact in the appendix.
+- **3446 — PDF 157–164:** preserves the source-supplied Caldwell English and the sequence of Saiva Siddhanta / Karanthai Tamil Sangam resolutions; older quoted Tamil is translated for meaning while the appendix controls exact wording.
+- **3447 — PDF 165–172:** preserves Pavanar’s fifteen source-supplied English evidence headings; Lemuria, language ancestry, precedence and other propositions remain source-framed.
+- **3448 — PDF 173–181:** translates the Tamil rendering of the government expert report actually printed in the canonical source; comparative-linguistic and archaeological claims are not externally reconciled.
+- **3449 — PDF 182–190:** translates the Tamil rendering of George L. Hart’s statement rather than importing an outside English version; university resolutions and the Salini Ilanthiraiyan episode remain source-framed.
+- **3450 — PDF 191–198:** preserves the 2003 speech, expected institutional effects of classical-language recognition, participant lists and final political criticism as source-attributed material.
 
 ## Regular translation cadence
 
@@ -60,14 +61,12 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 4: **Letters 3446–3450 / PDF 157–198**.
+Translate and source-check normal five-record batch 5: **Letters 3451–3455 / PDF 199–245**.
 
-- **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு` — PDF 157–164**
-- **3447 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்` — PDF 165–172**
-- **3448 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!` — PDF 173–181**
-- **3449 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை!` — PDF 182–190**
-- **3450 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!` — PDF 191–198**
+- **3451 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!` — PDF 199–207**
+- **3452 — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!` — PDF 208–211**
+- **3453 — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!` — PDF 212–234**
+- **3454 — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!` — PDF 235–240**
+- **3455 — `“வேலியே பயிரை மேய்வதா?”` — PDF 241–245**
 
-These records continue the classical-Tamil-history series begun in Letter 3445. Preserve `செப்பேடு` as the recurring copper-plate-record image unless a particular sentence requires another source-supported syntax.
-
-Stop at the end of **Letter 3450 / PDF 198**. Do **not** begin Letter 3451 / PDF 199 in the same activity.
+Stop at the end of **Letter 3455 / PDF 245**. Do **not** begin Letter 3456 / PDF 246 in the same activity.

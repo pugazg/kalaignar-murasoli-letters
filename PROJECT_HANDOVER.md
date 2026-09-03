@@ -42,7 +42,8 @@ Current durable English state:
 - Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5 source-checked**
 - Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
 - Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **18 / 56 — 3428–3445**
+- Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **23 / 56 — 3428–3450**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
@@ -50,13 +51,13 @@ Current durable English state:
 
 Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
 
-### Batch 3 durable notes
+### Batch 4 durable notes
 
-- **3441** follows actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently retains joined `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`. The complete achievement inventory remains itemised in the English record.
-- **3442** preserves the full Anna quotation, the source-attributed 1992 kar-seva quotation, and the source’s Muslim/fishermen welfare claims and figures without outside reconciliation.
-- **3443** preserves the Leelavathi case and Rajya Sabha comparison as source-framed political/legal material.
-- **3444** preserves the full K. Vaidyanathan–Karunanidhi correspondence and the chariot-rope metaphor.
-- **3445** begins the `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` sequence. `செப்பேடு` is locked as the recurring **copper-plate record** image; long archaic Tamil quotations remain exact in the Tamil appendix.
+- **3446** preserves the source-supplied Caldwell English and the sequence of Saiva Siddhanta / Karanthai Tamil Sangam resolutions. Older Tamil quotations are translated for meaning; exact wording remains in the Tamil appendix.
+- **3447** preserves Pavanar’s fifteen source-supplied English evidence headings exactly; Lemuria, linguistic ancestry, historical precedence and related propositions remain source-framed.
+- **3448** translates the Tamil rendering of the government expert report actually printed in the canonical source; comparative-linguistic, archaeological and chronological claims are not externally reconciled.
+- **3449** translates the Tamil rendering of Professor George L. Hart’s statement rather than importing an outside English version; university resolutions and the Salini Ilanthiraiyan episode are retained as printed.
+- **3450** preserves the 2003 speech, source figures, expected institutional consequences, participant lists and final political criticism as source-attributed material.
 - No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
 
 ### Final genuine title-layer differences
@@ -75,13 +76,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3446–3450 / PDF 157–198** as Volume 43 normal English batch 4:
+Translate and source-check **Letters 3451–3455 / PDF 199–245** as Volume 43 normal English batch 5:
 
-- **3446 — PDF 157–164** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`
-- **3447 — PDF 165–172** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்`
-- **3448 — PDF 173–181** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!`
-- **3449 — PDF 182–190** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை!`
-- **3450 — PDF 191–198** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!`
+- **3451 — PDF 199–207** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் -7 கடிதமல்ல; காலத்தால் அழிக்க முடியாத செப்பேடு!`
+- **3452 — PDF 208–211** — `வாழ்த்து குவிக்கின்றேன்; வளமார் தமிழக மக்களுக்கு!`
+- **3453 — PDF 212–234** — `ஒரு “தலைவன்” இருக்கிறான் மயங்காதே!`
+- **3454 — PDF 235–240** — `அம்மவோ; இந்த நாளில் அந்த நாள் நினைவு!`
+- **3455 — PDF 241–245** — `“வேலியே பயிரை மேய்வதா?”`
 
 Mandatory English startup before changing records:
 
@@ -91,9 +92,8 @@ Mandatory English startup before changing records:
 - use the controlling scan only if a concrete Tamil defect is suspected;
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
-- preserve the recurring `செப்பேடு` / copper-plate-record image across this series where supported by the syntax;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3450 / PDF 198** and do not begin **3451 / PDF 199**;
+- stop after **3455 / PDF 245** and do not begin **3456 / PDF 246**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE

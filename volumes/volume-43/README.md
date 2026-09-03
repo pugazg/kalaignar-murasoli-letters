@@ -24,11 +24,12 @@
 - Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- English translation/source-check: **IN PROGRESS — 18 / 56 — 3428–3445**
+- English translation/source-check: **IN PROGRESS — 23 / 56 — 3428–3450**
 - English pilot **3428–3430 / PDF 024–048**: **PASS; conventions locked**
 - English normal batch 1 **3431–3435 / PDF 049–086**: **PASS**
 - English normal batch 2 **3436–3440 / PDF 087–118**: **PASS**
 - English normal batch 3 **3441–3445 / PDF 119–156**: **PASS**
+- English normal batch 4 **3446–3450 / PDF 157–198**: **PASS**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 
@@ -56,11 +57,13 @@ The English workflow uses audited canonical Tamil as its immediate source and ke
 - Normal batch 1 **3431–3435**: **5 / 5 source-checked**; cumulative **8 / 56**; 0 Tamil changes.
 - Normal batch 2 **3436–3440**: **5 / 5 source-checked**; cumulative **13 / 56**; 0 Tamil changes.
 - Normal batch 3 **3441–3445**: **5 / 5 source-checked**; cumulative **18 / 56**; 0 Tamil changes.
+- Normal batch 4 **3446–3450**: **5 / 5 source-checked**; cumulative **23 / 56**; 0 Tamil changes.
 - Letter **3441** follows actual PDF 119 separated `உடன் பிறப்புகளில்`, while the printed contents independently retains joined `உடன்பிறப்புகளில்`.
-- Letter **3445** begins the recurring classical-Tamil-history `செப்பேடு` series; English locks **copper-plate record** for the image while exact historical Tamil remains in the appendix.
+- Letters **3445–3450** carry the recurring classical-Tamil-history `செப்பேடு` series; English preserves **copper-plate record** for the image.
+- Batch 4 preserves source-supplied English in Caldwell and Pavanar passages. Letters **3448–3449** translate the Tamil renderings printed in the canonical source rather than importing external English versions; historical and linguistic claims remain source-framed.
 - Every English record includes the complete audited Tamil under `Original Tamil — மூலத் தமிழ்` with source-page markers.
 - `translations/en/GLOSSARY.md`, `PROGRESS.md`, `README.md` and `TRANSLATION_MANIFEST.csv` are the durable English controls.
 
 ## Exact next activity
 
-Translate and source-check **Letters 3446–3450 / PDF 157–198** as normal English batch 4. These five records continue the `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` sequence. Stop before **Letter 3451 / PDF 199**. Do not perform the later bilingual-alignment gate in the same activity.
+Translate and source-check **Letters 3451–3455 / PDF 199–245** as normal English batch 5. Stop before **Letter 3456 / PDF 246**. Do not perform the later bilingual-alignment gate in the same activity.

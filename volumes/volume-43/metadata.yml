@@ -33,8 +33,8 @@ second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "in-progress"
-translated_letter_range: "3428-3445"
-translated_letter_count: 18
+translated_letter_range: "3428-3450"
+translated_letter_count: 23
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -82,4 +82,6 @@ source_observations:
   - "English normal batch 3 Letters 3441–3445 / PDF 119–156: source-check PASS; cumulative 18 / 56; 0 canonical Tamil changes."
   - "Letter 3441 English record follows actual PDF 119 separated `உடன் பிறப்புகளில்`; printed contents independently preserves joined `உடன்பிறப்புகளில்`."
   - "Letter 3445 begins the recurring `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` series; English locks `செப்பேடு` as the copper-plate-record image while the Tamil appendix preserves exact historical wording."
-  - "Next English activity is Letters 3446–3450 / PDF 157–198; stop before Letter 3451 / PDF 199."
+  - "English normal batch 4 Letters 3446–3450 / PDF 157–198: source-check PASS; cumulative 23 / 56; 0 canonical Tamil changes."
+  - "Letters 3446–3450 continue the copper-plate-record series. Source-supplied English in Caldwell and Pavanar passages is preserved; Letters 3448–3449 translate the Tamil renderings printed in the canonical source rather than importing outside English versions; historical, linguistic, archaeological and political claims remain source-framed."
+  - "Next English activity is Letters 3451–3455 / PDF 199–245; stop before Letter 3456 / PDF 246."

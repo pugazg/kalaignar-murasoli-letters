@@ -1,6 +1,6 @@
 # Volume 43 English Translation — Glossary
 
-**Status:** locked after pilot review; extended through source-checked normal batch 3, Letters 3441–3445.
+**Status:** locked after pilot review; checked through source-checked normal batch 4, Letters 3446–3450. No new recurring terminology required in batch 4.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 43 translation/QA but may not override a different meaning supported by a source passage.
 
@@ -54,7 +54,9 @@ Printed English that functions as source wording is preserved rather than silent
 - `The State of Kerala and its Officers are restrained from causing any obstruction.`;
 - `(Central Industrial Security Force)`, `(Supplementary Affidavit)`, `(Water Samples)` and `(Central Water Development and Management)` as printed in Letter 3430;
 - source company names such as `Broad Line Computers System`, `Wescos Properties and Developers`, `Victory Equities and Forex India Limited`, and `Gold Quest International Pvt. Ltd.`;
-- `(scooters)` in Letter 3438 and `தமிழ்நெட் 1999` / **TamilNet 1999** in Letter 3439 where the source itself supplies the English form.
+- `(scooters)` in Letter 3438 and `தமிழ்நெட் 1999` / **TamilNet 1999** in Letter 3439 where the source itself supplies the English form;
+- Caldwell’s English passage beginning `The ancient or classical dialect of the Tamil language...` as printed across Letters 3446 source pages;
+- Pavanar’s source-supplied English headings under `EVIDENCES OF THE PRIMARY CLASSICALITY OF TAMIL` in Letter 3447.
 
 ## Political, rhetorical and literary language
 
@@ -69,7 +71,7 @@ Printed English that functions as source wording is preserved rather than silent
 - Letter 3442 retains Anna’s campaign exhortation, the source-attributed 1992 kar-seva quotation and the source’s welfare claims without outside reconciliation.
 - Letter 3443 keeps its political comparison and legal claims source-framed.
 - Letter 3444 preserves the full Vaidyanathan–Karunanidhi correspondence and the chariot-rope metaphor rather than reducing it to generic participation.
-- Letter 3445 preserves `செப்பேடுகள்` as the recurring **copper-plate records** image and translates long historical quotations for meaning while the Tamil appendix controls exact archaic wording.
+- Letters 3445–3450 preserve `செப்பேடு` as the recurring **copper-plate record** image. Historical, linguistic, archaeological and political claims remain source-framed, and Letters 3448–3449 translate the Tamil renderings actually printed rather than substituting outside English versions.
 - Figures, dates, lists and quotations remain in source order and are not silently reconciled against outside records.
 - Where the source moves between official/administrative terminology and political-familial language, preserve that shift rather than flattening it.
 
