@@ -33,8 +33,8 @@ second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "in-progress"
-translated_letter_range: "3428-3470"
-translated_letter_count: 43
+translated_letter_range: "3428-3475"
+translated_letter_count: 48
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -94,4 +94,6 @@ source_observations:
   - "Batch 7 adds recurring glossary treatments: `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → `differently abled persons / differently abled people` in the source-defined rights-language context; `உள் ஒதுக்கீடு` → `internal reservation`."
   - "English normal batch 8 Letters 3466–3470 / PDF 294–322: source-check PASS; cumulative 43 / 56; 0 canonical Tamil changes."
   - "Batch 8 preserves Letter 3466's Valluvar Kottam/Kumari statue chronology and figures; Letter 3467's actual/contents title distinction, blank contents date and unguessed handwritten facsimile; Letter 3468's legal chronology and source-supplied Supreme Court English; Letter 3469's Udanpirappu/cover rhetoric and eighteen-year motif; and Letter 3470's anti-astrology narrative plus source-supplied Macmillan English. No new recurring glossary treatment was required."
-  - "Next English activity is Letters 3471–3475 / PDF 323–353; preserve the 3472–3474 long-ஓ printed-contents / short-ஒ actual-title differences and stop before Letter 3476 / PDF 354."
+  - "English normal batch 9 Letters 3471–3475 / PDF 323–353: source-check PASS; cumulative 48 / 56; 0 canonical Tamil changes."
+  - "Batch 9 preserves Letter 3471's government-conference/party-conference distinction; Letters 3472–3474's long-ஓ contents / short-ஒ actual-title layers and source-attributed legal chronology; and Letter 3475's High Court Tamil-language chronology, ₹32-crore / ₹22-crore distinction and verbatim source-supplied `Dear Chief Justice,` English letter. No new recurring glossary treatment was required."
+  - "Next English activity is Letters 3476–3480 / PDF 354–379; stop before Letter 3481 / PDF 380. The completed second pass established that 3476 and 3477 actual titles match their printed-contents titles."

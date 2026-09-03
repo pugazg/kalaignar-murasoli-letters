@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — 43 / 56 source-checked; pilot and normal batches 1–8 PASS.**
+**Status:** **IN PROGRESS — 48 / 56 source-checked; pilot and normal batches 1–9 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -40,8 +40,9 @@ Use the repository's established thought-preserving, non-literary English method
 - Normal batch 6 **3456–3460 / PDF 246–265** — **PASS — 5 / 5**.
 - Normal batch 7 **3461–3465 / PDF 266–293** — **PASS — 5 / 5**.
 - Normal batch 8 **3466–3470 / PDF 294–322** — **PASS — 5 / 5**.
+- Normal batch 9 **3471–3475 / PDF 323–353** — **PASS — 5 / 5**.
 
-Cumulative result: **43 / 56 source-checked; 0 canonical Tamil changes during English work.**
+Cumulative result: **48 / 56 source-checked; 0 canonical Tamil changes during English work.**
 
 ### Normal batch 7 durable notes
 
@@ -63,6 +64,16 @@ Cumulative result: **43 / 56 source-checked; 0 canonical Tamil changes during En
 - **No canonical Tamil change** was required in batch 8.
 - Batch 8 required **no new recurring glossary treatment**.
 
+### Normal batch 9 durable notes
+
+- **3471 — PDF 323–325:** preserves the 21 organising committees, 28 research halls, CODISSIA/public-stage/exhibition/procession preparations and the author’s explicit instruction that the World Classical Tamil Conference must not look even minimally like a party conference.
+- **3472 — PDF 326–331:** follows actual short-`ஒய்யாரக்...` while printed contents independently retains long-`ஓய்யாரக்...`; preserves the four-nomination/disqualification/chief-ministerial chronology and all legal/political claims as source-attributed material.
+- **3473 — PDF 332–339:** preserves the same title-layer distinction, the TANSI appeal/Supreme Court chronology, newspaper renderings, 21-9-2001 appointment ruling and source-rendered 24-11-2003 Supreme Court observations without importing outside English versions.
+- **3474 — PDF 340–347:** preserves the same title-layer distinction, asset figures, three-lakh-dollar and ₹3.58-crore passages, Special Court observations, the 2003 government-employee/ESMA sequence and the source’s moral-responsibility conclusion with explicit attribution.
+- **3475 — PDF 348–353:** preserves Article 348(2), the 6-12-2006 Assembly resolution, Governor/High Court/Union Government chronology, ₹32-crore / ₹22-crore distinction, language-agitation history and the source-supplied `Dear Chief Justice,` English letter verbatim.
+- **No canonical Tamil change** was required in batch 9.
+- Batch 9 required **no new recurring glossary treatment**.
+
 ## Regular translation cadence
 
 Proceed in **five actual source records per normal translation iteration** unless an explicit source anomaly requires a documented exception.
@@ -78,12 +89,12 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 9: **Letters 3471–3475 / PDF 323–353**.
+Translate and source-check normal five-record batch 10: **Letters 3476–3480 / PDF 354–379**.
 
-- **3471 — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!` — PDF 323–325**
-- **3472 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...` — PDF 326–331**; printed contents uses long `ஓய்யாரக்...`.
-- **3473 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)` — PDF 332–339**; printed contents uses long `ஓய்யாரக்... (2)`.
-- **3474 — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3` — PDF 340–347**; printed contents uses long `ஓய்யாரக்... 3`.
-- **3475 — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!` — PDF 348–353**
+- **3476 — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!` — PDF 354–357**
+- **3477 — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!` — PDF 358–363**
+- **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` — PDF 364–370**
+- **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` — PDF 371–374**
+- **3480 — `வெல்லத் தமிழ் இனி வளரும்!` — PDF 375–379**
 
-Stop at the end of **Letter 3475 / PDF 353**. Do **not** begin Letter 3476 / PDF 354 in the same activity. Preserve the 3472–3474 contents/actual-title layers independently.
+Stop at the end of **Letter 3480 / PDF 379**. Do **not** begin Letter 3481 / PDF 380 in the same activity. The completed second visual/textual-fidelity pass superseded earlier provisional title-discrepancy claims for **3476** and **3477**; their actual titles match the printed contents.

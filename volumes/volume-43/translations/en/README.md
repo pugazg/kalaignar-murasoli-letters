@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**IN PROGRESS — 43 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first eight normal five-record batches have passed source-check; Volume 43 conventions are locked.
+**IN PROGRESS — 48 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first nine normal five-record batches have passed source-check; Volume 43 conventions are locked.
 
 ## Pilot — PASS
 
@@ -63,21 +63,31 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 - [3469 — The Useless Word Panneer Used!](letters/3469-the-useless-word-panneer-used.md) — PDF 315–316 — source-checked
 - [3470 — Why This Fury from the Lady of Siruthavur?](letters/3470-why-this-fury-from-the-lady-of-siruthavur.md) — PDF 317–322 — source-checked
 
+## Normal batch 9 — PASS
+
+- [3471 — Coimbatore Conference: A Letter Explaining Its Shortcomings and Merits!](letters/3471-coimbatore-conference-a-letter-explaining-its-shortcomings-and-merits.md) — PDF 323–325 — source-checked
+- [3472 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say...](letters/3472-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say.md) — PDF 326–331 — source-checked
+- [3473 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... (2)](letters/3473-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-2.md) — PDF 332–339 — source-checked
+- [3474 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... 3](letters/3474-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-3.md) — PDF 340–347 — source-checked
+- [3475 — Come, Striped Tiger, to Show That Truth Will Triumph!](letters/3475-come-striped-tiger-to-show-that-truth-will-triumph.md) — PDF 348–353 — source-checked
+
 Glossary: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
-The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–8.
+The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–9.
 
 Batch 8 preserves Letter 3466’s complete Valluvar Kottam/Kumari statue chronology and mother-outside-the-wedding metaphor; Letter 3467’s contents/actual-title/date layers and non-transcribed handwritten facsimile; Letter 3468’s legal chronology and verbatim source-supplied Supreme Court English, including `ourinterference`; Letter 3469’s `Udanpirappu`/`போர்வை` rebuttal and eighteen-year motif; and Letter 3470’s anti-astrology argument plus the verbatim Macmillan English passage. Batch 8 required **0 canonical Tamil changes** and introduced **no new recurring glossary treatment**.
 
+Batch 9 preserves Letter 3471’s government-conference / party-conference distinction; Letters 3472–3474’s long-`ஓ` printed-contents / short-`ஒ` actual-title layers and source-attributed legal chronology; and Letter 3475’s High Court Tamil-language chronology, ₹32-crore / ₹22-crore distinction and verbatim source-supplied `Dear Chief Justice,` English letter. Batch 9 required **0 canonical Tamil changes** and introduced **no new recurring glossary treatment**.
+
 ## Exact next activity
 
-Translate and source-check normal five-record batch 9: **Letters 3471–3475 / PDF 323–353**:
+Translate and source-check normal five-record batch 10: **Letters 3476–3480 / PDF 354–379**:
 
-1. **3471 — PDF 323–325** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`
-2. **3472 — PDF 326–331** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; printed contents uses long `ஓய்யாரக்...`
-3. **3473 — PDF 332–339** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; printed contents uses long `ஓய்யாரக்... (2)`
-4. **3474 — PDF 340–347** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; printed contents uses long `ஓய்யாரக்... 3`
-5. **3475 — PDF 348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`
+1. **3476 — PDF 354–357** — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`
+2. **3477 — PDF 358–363** — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`
+3. **3478 — PDF 364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`
+4. **3479 — PDF 371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`
+5. **3480 — PDF 375–379** — `வெல்லத் தமிழ் இனி வளரும்!`
 
-Stop before **Letter 3476 / PDF 354**. Preserve the 3472–3474 contents/actual-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3481 / PDF 380**. The completed second visual pass superseded earlier provisional title-discrepancy claims for 3476 and 3477; their actual titles match the printed contents. Do not perform bilingual meaning-level alignment in the same activity.

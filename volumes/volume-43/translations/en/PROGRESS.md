@@ -4,7 +4,7 @@
 - Tamil canonical coverage: **PDF 001–402 / 402**
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Source letters translated/source-checked: **43 / 56 — 3428–3470**
+- Source letters translated/source-checked: **48 / 56 — 3428–3475**
 - Pilot source-check: **PASS — 3428–3430 / PDF 024–048**
 - Translation conventions: **LOCKED**
 - Normal batch 1: **PASS — 3431–3435 / PDF 049–086**
@@ -15,6 +15,7 @@
 - Normal batch 6: **PASS — 3456–3460 / PDF 246–265**
 - Normal batch 7: **PASS — 3461–3465 / PDF 266–293**
 - Normal batch 8: **PASS — 3466–3470 / PDF 294–322**
+- Normal batch 9: **PASS — 3471–3475 / PDF 323–353**
 - Canonical Tamil changes during English work: **0**
 - Bilingual alignment: **not started**
 - Editorial review: **not started**
@@ -102,19 +103,31 @@ Batch 7 preserves Letter 3461’s film-world celebration chronology, 90-acre gra
 
 Batch 8 preserves Letter 3466’s Valluvar Kottam/Kumari statue figures and the author’s mother-outside-the-wedding metaphor. Letter 3467 preserves its actual/contents `மகராஜனுக்கு` / `மகாராஜனுக்கு` distinction, blank contents date, record-level handwritten date `2/11/1974` and photographed handwritten pages without guessed transcription. Letter 3468 retains all source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and quotation anomalies, while the legal/political allegations remain source-attributed. Letter 3469 preserves the `Udanpirappu`/`போர்வை` argument, eighteen-year motif and Anna closing. Letter 3470 preserves its anti-astrology anecdote, Tamil dramatic dialogue, source-supplied Macmillan English and political rebuttal. **No canonical Tamil change was required. No new recurring glossary treatment was required.**
 
-All forty-three source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
+## Normal batch 9 — source-check PASS
+
+| Letter | English title | PDF | Status |
+|---:|---|---:|---|
+| 3471 | Coimbatore Conference: A Letter Explaining Its Shortcomings and Merits! | 323–325 | source-checked |
+| 3472 | An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... | 326–331 | source-checked |
+| 3473 | An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... (2) | 332–339 | source-checked |
+| 3474 | An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... 3 | 340–347 | source-checked |
+| 3475 | Come, Striped Tiger, to Show That Truth Will Triumph! | 348–353 | source-checked |
+
+Batch 9 preserves Letter 3471’s World Classical Tamil Conference preparations and explicit non-party framing. Letters 3472–3474 preserve the printed-contents long-`ஓய்யாரக்...` / actual-title short-`ஒய்யாரக்...` layers independently, together with the source-attributed TANSI/court chronology, newspaper renderings, asset figures and 2003 employee-dismissal sequence. Letter 3475 preserves Article 348(2), the 6-12-2006 Assembly resolution, the Governor/High Court/Union Government sequence, ₹32-crore / ₹22-crore distinction, language-agitation history, and the source-supplied `Dear Chief Justice,` English letter verbatim. **No canonical Tamil change was required. No new recurring glossary treatment was required.**
+
+All forty-eight source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
 
 Locked terminology: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
 ## Exact next activity
 
-Translate and source-check **Letters 3471–3475 / PDF 323–353** as normal five-record batch 9:
+Translate and source-check **Letters 3476–3480 / PDF 354–379** as normal five-record batch 10:
 
-1. **3471 — PDF 323–325** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`
-2. **3472 — PDF 326–331** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; printed contents uses long `ஓய்யாரக்...`
-3. **3473 — PDF 332–339** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; printed contents uses long `ஓய்யாரக்... (2)`
-4. **3474 — PDF 340–347** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; printed contents uses long `ஓய்யாரக்... 3`
-5. **3475 — PDF 348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`
+1. **3476 — PDF 354–357** — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`
+2. **3477 — PDF 358–363** — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`
+3. **3478 — PDF 364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`
+4. **3479 — PDF 371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`
+5. **3480 — PDF 375–379** — `வெல்லத் தமிழ் இனி வளரும்!`
 
-Stop before **Letter 3476 / PDF 354**. Preserve the 3472–3474 source-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3481 / PDF 380**. The completed second visual pass superseded earlier provisional title-discrepancy claims for **3476** and **3477**; their actual titles match the printed contents. Do not perform bilingual meaning-level alignment in the same activity.

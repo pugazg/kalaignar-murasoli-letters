@@ -189,7 +189,7 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Canonical page coverage: **PDF 001–402 / 402**
 - Completed letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete letters: **none**
-- English translation/source-check: **IN PROGRESS — 43 / 56 — 3428–3470**
+- English translation/source-check: **IN PROGRESS — 48 / 56 — 3428–3475**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 
@@ -204,9 +204,16 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5**; cumulative **33 / 56**.
 - Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5**; cumulative **38 / 56**.
 - Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5**; cumulative **43 / 56**.
-- All forty-three English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
-- Batch 8 required **0 canonical Tamil changes**.
-- Batch 8 required **no new recurring glossary treatment**.
+- Normal batch 9 **3471–3475 / PDF 323–353**: **PASS — 5 / 5**; cumulative **48 / 56**.
+- All forty-eight English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
+- Batch 8 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
+- Batch 9 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
+
+### Batch 9 durable notes
+
+- **3471** preserves the World Classical Tamil Conference preparations and the source’s explicit insistence that the government conference must not appear as a party conference.
+- **3472–3474** preserve the long-`ஓய்யாரக்...` printed-contents / short-`ஒய்யாரக்...` actual-title layers independently and retain their legal/political chronology as source-attributed material.
+- **3475** preserves Article 348(2), the 6-12-2006 Assembly resolution, Governor/High Court/Union Government chronology, the ₹32-crore / ₹22-crore distinction, language-agitation history and the source-supplied `Dear Chief Justice,` English letter verbatim.
 
 ## Source fidelity notes
 
@@ -224,4 +231,4 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 
 ## Exact next activity
 
-Translate and source-check **Letters 3471–3475 / PDF 323–353** as Volume 43 normal English batch 9. Preserve the 3472–3474 long-`ஓ` printed-contents / short-`ஒ` actual-title differences. Stop before **Letter 3476 / PDF 354**. Follow `TRANSLATION_PLAN.md`, preserve the complete audited canonical Tamil representation in each record, and do not perform bilingual meaning-level alignment in the same activity.
+Translate and source-check **Letters 3476–3480 / PDF 354–379** as Volume 43 normal English batch 10. The completed second visual/textual-fidelity pass confirms **3476** and **3477** actual titles match printed contents; do not reopen those superseded discrepancy claims. Stop before **Letter 3481 / PDF 380**. Follow `TRANSLATION_PLAN.md`, preserve the complete audited canonical Tamil representation in each record, and do not perform bilingual meaning-level alignment in the same activity.

@@ -47,7 +47,8 @@ Current durable English state:
 - Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5 source-checked**
 - Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5 source-checked**
 - Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **43 / 56 — 3428–3470**
+- Normal batch 9 **3471–3475 / PDF 323–353**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **48 / 56 — 3428–3475**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
@@ -85,6 +86,14 @@ Every English record includes the complete audited canonical Tamil representatio
 - No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
 - Batch 8 introduced **no new recurring glossary treatment**.
 
+### Batch 9 durable notes
+
+- **3471** preserves the World Classical Tamil Conference preparation inventory and the author’s explicit distinction between a government Tamil conference and a party conference.
+- **3472–3474** preserve the long-`ஓய்யாரக்...` printed-contents / short-`ஒய்யாரக்...` actual-title layers independently. Their TANSI, election, court, asset and public-employee chronology remains explicitly source-attributed rather than externally adjudicated.
+- **3475** preserves Article 348(2), the 6-12-2006 Assembly resolution, Governor/High Court/Union Government chronology, the ₹32-crore / ₹22-crore distinction, language-agitation history and the source-supplied `Dear Chief Justice,` English letter verbatim.
+- No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
+- Batch 9 introduced **no new recurring glossary treatment**.
+
 ### Final genuine title-layer differences
 
 Preserve these source layers independently:
@@ -101,13 +110,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3471–3475 / PDF 323–353** as Volume 43 normal English batch 9:
+Translate and source-check **Letters 3476–3480 / PDF 354–379** as Volume 43 normal English batch 10:
 
-- **3471 — PDF 323–325** — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`
-- **3472 — PDF 326–331** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`; printed contents uses long `ஓய்யாரக்...`
-- **3473 — PDF 332–339** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`; printed contents uses long `ஓய்யாரக்... (2)`
-- **3474 — PDF 340–347** — actual `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`; printed contents uses long `ஓய்யாரக்... 3`
-- **3475 — PDF 348–353** — `வாய்மை வெல்லும் என்பதை உணர்த்த வரிப்புலியே வருக!`
+- **3476 — PDF 354–357** — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`
+- **3477 — PDF 358–363** — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`
+- **3478 — PDF 364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`
+- **3479 — PDF 371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`
+- **3480 — PDF 375–379** — `வெல்லத் தமிழ் இனி வளரும்!`
 
 Mandatory English startup before changing records:
 
@@ -117,9 +126,9 @@ Mandatory English startup before changing records:
 - use the controlling scan only if a concrete Tamil defect is suspected;
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
-- preserve the distinct 3472–3474 printed-contents / actual-title layers;
+- do not reopen the superseded 3476/3477 title-discrepancy claims; the completed second visual pass confirms those actual titles match printed contents;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3475 / PDF 353** and do not begin **3476 / PDF 354**;
+- stop after **3480 / PDF 379** and do not begin **3481 / PDF 380**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE
