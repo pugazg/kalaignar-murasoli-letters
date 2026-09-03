@@ -10,7 +10,7 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-The durable Volume 43 Tamil gates are complete. English drafting/source-check is also complete. **Bilingual meaning-level alignment is complete; the English editorial consistency review is now the active phase.** Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
+The durable Volume 43 Tamil gates are complete. English drafting/source-check is also complete. **Bilingual meaning-level alignment and the English editorial consistency review are complete; final English release verification is now the active Volume 43 phase.** Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
 
 For a fresh chat, the controlling Volume 43 PDF is only required if a possible Tamil defect must be reopened. Alignment should normally use audited canonical Tamil and the source-checked English records as its immediate inputs.
 
@@ -18,7 +18,7 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
-## Volume 43 — ACTIVE BILINGUAL ALIGNMENT WORK
+## Volume 43 — ACTIVE FINAL RELEASE PREPARATION
 
 Controlling source: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 
@@ -52,7 +52,7 @@ Current durable English state:
 - Cumulative English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483**
 - Canonical Tamil changes during English source-check: **0**
 - Bilingual meaning-level alignment: **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**
-- Editorial consistency review: **not started**
+- Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 canonical Tamil changes**
 - Final English release verification: **not started**
 
 Every English record includes the complete audited canonical Tamil representation under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
@@ -217,4 +217,14 @@ Work on `main` when requested. Prefer one validated atomic commit per declared a
 
 ### Exact next activity
 
-Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records. Use `translations/en/GLOSSARY.md`, `TRANSLATION_MANIFEST.csv` and all six `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports as durable QA controls. Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`; update manifest editorial-review status only after the gate passes; do not begin final release verification in the same activity.
+Perform the separate **Volume 43 final English release verification** across all 56 editorially reviewed bilingual records. Reconcile `translations/en/TRANSLATION_MANIFEST.csv`, confirm unique numbers/paths and complete bilingual files, verify the final source boundary at Letter 3483 / PDF 400 with PDF 401–402 non-letter, create `translations/en/RELEASE_REPORT.md`, and promote final-release status only after the gate passes.
+
+
+### Volume 43 editorial consistency checkpoint
+
+- Review: **PASS — 56 / 56 — 3428–3483 / PDF 024–400**.
+- English-only corrections: **2** — 3481 `five million people` → `50 lakh people`; 3483 translated `Central Government` → `Union Government`.
+- Canonical Tamil changes: **0**.
+- Manifest: **56 / 56 editorially reviewed; final release pending**.
+- Durable report: `volumes/volume-43/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
+- Exact next gate: **final English release verification**.

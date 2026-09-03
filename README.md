@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 source-checked; bilingual alignment next** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 source-checked + aligned; editorial review PASS; final release next** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -52,7 +52,7 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - English normal batches 1–9 through **3475 / PDF 353** are **PASS**.
 - User-approved final oversized English source-check batch **3476–3483 / PDF 354–400** is **PASS — 8 / 8 source-checked**.
 - Cumulative Volume 43 English drafting/source-check is **COMPLETE — 56 / 56 — Letters 3428–3483** with **0 canonical Tamil changes**.
-- Every English record remains `bilingual_alignment_status: pending`; bilingual alignment, editorial consistency review and final release verification are separate later gates.
+- Bilingual meaning-level alignment is **COMPLETE — 56 / 56**. English editorial consistency review is **PASS — 56 / 56**, with **2 English-only consistency corrections and 0 canonical Tamil changes**. Final English release verification remains pending.
 - Letters **3445–3451** form the recurring classical-Tamil-history `செப்பேடு` sequence; English uses **copper-plate record** for that image.
 - Batch 6 locks `மாநில சுயாட்சி` as **State autonomy**.
 - Batch 7 preserves the source-title differences for **3463–3464** and adds the rights-language and **internal reservation** glossary distinctions.
@@ -60,7 +60,7 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Batch 9 preserves the **3472–3474** source-title layers and Letter **3475** source-supplied `Dear Chief Justice,` English verbatim.
 - The final completion batch preserves **3477**’s 85-present/86-inscribed copper-plate tension, **3478**’s Midas chronology and figures, **3479**’s non-violent protest distinction, **3480**’s Tamil-medium education/reservation figures, **3481**’s source-supplied Wall Street Journal English, and **3482–3483**’s fiscal/agricultural/price statistical series as source-framed material.
 - Final source-check report: [Letters 3476–3483 completion](volumes/volume-43/translations/en/SOURCE_CHECK_COMPLETION_3476_3483.md).
-- Exact next activity: **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Do not conflate source-check completion with alignment or final release.
+- Exact next activity: **Volume 43 final English release verification** across all 56 reviewed records; validate the manifest/files/source boundary and create `RELEASE_REPORT.md`.
 
 ## Volume 44 — released
 

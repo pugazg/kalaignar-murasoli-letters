@@ -303,3 +303,18 @@ Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**.
 ## Exact next activity
 
 Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records. Do not begin final release verification in the same activity.
+
+
+## English editorial consistency review — COMPLETE
+
+- Corpus reviewed: **56 / 56 — Letters 3428–3483 / PDF 024–400**.
+- Result: **PASS**.
+- English-only editorial corrections: **2** — 3481 lakh-unit convention; 3483 Union Government terminology.
+- Canonical Tamil changes: **0**.
+- Manifest editorial status: **56 / 56 reviewed**.
+- Final English release verification: **not started**.
+- Report: `volumes/volume-43/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
+
+### Exact next activity
+
+Perform the separate **Volume 43 final English release verification**; reconcile exactly 56 manifest rows and bilingual files, validate unique numbers/paths and the PDF 400 / PDF 401–402 boundary, create `RELEASE_REPORT.md`, and only then promote final-release status.

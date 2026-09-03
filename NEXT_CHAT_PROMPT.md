@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Editorial Consistency Review
+# Next Chat Prompt — Volume 43 Final English Release Verification
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -10,7 +10,7 @@ Controlling source PDF: `TVA_BOK_0065828_கலைஞரின்_கடித�
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state. Do not reset, repeat or reopen completed Tamil transcription, Tamil fidelity verification, English source-check or bilingual alignment because an older copied checkpoint says otherwise.
+Fetch live `main` first and preserve the newest durable state. Do not reset, repeat or reopen completed Tamil transcription, Tamil fidelity verification, English source-check, bilingual alignment or editorial consistency review because an older copied checkpoint says otherwise.
 
 ## Mandatory startup
 
@@ -34,7 +34,8 @@ Before any repository change, read completely:
 16. `volumes/volume-43/translations/en/PROGRESS_ALIGNMENT_CHECKPOINT.md`
 17. `volumes/volume-43/translations/en/GLOSSARY.md`
 18. `volumes/volume-43/translations/en/TRANSLATION_MANIFEST.csv`
-19. all six `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_*.md` reports, through `BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md`.
+19. `volumes/volume-43/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
+20. all six `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_*.md` reports.
 
 ## Durable Volume 43 gates
 
@@ -42,41 +43,30 @@ Before any repository change, read completely:
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
 - English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**
-- Translation conventions: **LOCKED**
-- Bilingual meaning-level alignment: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**
-- English corrections across the complete alignment phase: **0**
-- Canonical Tamil changes across the complete alignment phase: **0**
-- English editorial consistency review: **not started**
+- Bilingual meaning-level alignment: **COMPLETE — 56 / 56**
+- English editorial consistency review: **PASS — 56 / 56**
+- Editorial English-only corrections: **2** — 3481 lakh-unit treatment; 3483 Union Government terminology
+- Canonical Tamil changes during editorial review: **0**
 - Final English release verification: **not started**
 
-Every English record contains the complete audited canonical Tamil under `## Original Tamil — மூலத் தமிழ்`. Source-check, bilingual alignment, editorial review and final release remain separate gates.
+All 56 manifest rows must now be `source-checked`, `aligned`, `reviewed`, with `final_release_status: pending`. Every bilingual record must retain its complete audited Tamil appendix.
 
-## Source-layer reminders
+## Exact next activity — final English release verification
 
-Final genuine printed-contents / actual-title differences remain **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second visual pass. Preserve the 3467 facsimile rule, 3477 85/86 copper-plate tension, 3481 source-supplied Wall Street Journal English and 3482 `3.54 மெட்ரிக் டன்` anomaly.
+Perform only the separate final release gate:
 
-## Exact next activity — English editorial consistency review
+- reconcile `TRANSLATION_MANIFEST.csv` to exactly **56 actual source records, Letters 3428–3483**;
+- require **56 unique letter numbers and 56 unique English paths**;
+- confirm every manifest row is `source-checked`, `aligned`, `reviewed`, `final_release_status: pending`, `source_incomplete=false`;
+- confirm every manifest path exists and each record has complete front matter, English body, source references and one complete `Original Tamil — மூலத் தமிழ்` appendix;
+- verify title/date/PDF-range agreement and the six alignment-review links;
+- reconfirm Letter **3483** ends at **PDF 400**; PDF **401–402** are non-letter matter; no Letter 3484 exists;
+- confirm protected source-English and documented anomalies remain intact;
+- confirm no temporary workflow/script/export/probe file would enter `main`;
+- create `volumes/volume-43/translations/en/RELEASE_REPORT.md`;
+- only after all checks pass, set all 56 manifest final-release statuses to the repository’s completed value and synchronize metadata/progress/README/handover/root controls.
 
-Perform the separate volume-level editorial consistency review across all **56 aligned records, Letters 3428–3483 / PDF 024–400**. Follow the completed Volume 44 editorial gate as the repository precedent.
-
-This is a **cross-record consistency gate, not a retranslation pass**. Check:
-
-- title/front-matter/manifest/index agreement;
-- dates, PDF ranges and source-boundary consistency;
-- translator/source-check note conventions and headings;
-- names, honorifics, place names and transliteration;
-- institutions, schemes, legal/political/reservation terminology and locked glossary treatments;
-- `lakh` / `crore` and other Indian public-language quantities;
-- capitalization, punctuation and quotation treatment;
-- genuinely source-supplied English, which must remain verbatim;
-- continuation/conclusion markers and standard salutation/closing conventions;
-- documented source anomalies without silent normalization;
-- stale control-layer wording;
-- presence/completeness of the appended audited Tamil in every bilingual record.
-
-Only demonstrated consistency defects justify English edits. If a possible Tamil defect appears, return to the controlling scan before changing canonical Tamil.
-
-Create `volumes/volume-43/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. If the gate passes, update all 56 manifest `editorial_review_status` values from `pending` to `reviewed` and synchronize metadata/progress/handover controls. Keep `final_release_status` pending and do **not** perform final English release verification in the same activity.
+Do not perform new translation, re-alignment or Tamil correction unless the release audit exposes a concrete defect requiring the appropriate earlier authority.
 
 ## Git discipline
 

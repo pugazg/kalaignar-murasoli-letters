@@ -35,7 +35,7 @@ I immediately asked him to send me the article. He responsibly told his sons, an
 
 The article, as rendered in Tamil by the source, says:
 
-- Chennai is like Detroit. With many international automobile manufacturers and suppliers establishing factories there, this metropolis of five million people is prospering. Ford, Hyundai, Nissan, Renault, Daimler and BMW have all converged there.
+- Chennai is like Detroit. With many international automobile manufacturers and suppliers establishing factories there, this metropolis of 50 lakh people is prospering. Ford, Hyundai, Nissan, Renault, Daimler and BMW have all converged there.
 - They are spending several hundred crore dollars to make Chennai a major centre for manufacturing the world’s small cars, both for export and for increasingly prosperous Indians.
 - Chennai will soon produce **15 lakh cars a year**, more than any American State produced in the previous year.
 - Automobile-component suppliers are also investing. France’s Michelin tyre company and Saint-Gobain, the automobile-glass manufacturer, are establishing some of their largest factories in Chennai. Germany’s Daimler is building a test track at a cost of several hundred crore dollars.

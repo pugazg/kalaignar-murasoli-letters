@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**. Editorial consistency review is the active next gate.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**. English editorial consistency review is **PASS — 56 / 56**, with **2 English-only consistency corrections and 0 canonical Tamil changes**. Final English release verification is the active next gate.
 
 ## Pilot — PASS
 
@@ -133,8 +133,15 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. C
 
 All **56 / 56 records, Letters 3428–3483 / PDF 024–400**, are durably source-checked and bilingual-aligned. The final user-approved alignment review **3473–3483 / PDF 332–400** passed **11 / 11**, with **0 English corrections** and **0 canonical Tamil changes**. Review: [`BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md`](BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md).
 
-Editorial consistency review and final English release verification remain separate gates.
+Editorial consistency review is complete. Final English release verification remains a separate pending gate.
 
 ## Exact next activity
 
 Perform the separate **Volume 43 English editorial consistency review** across the complete 56-record bilingual corpus.
+
+
+## Editorial consistency review — PASS
+
+All **56 / 56** aligned records passed the separate corpus-level editorial consistency gate. Exactly **2 English-only consistency corrections** were applied: Letter 3481 `five million people` → `50 lakh people`, and Letter 3483 translated `Central Government` → `Union Government`. Canonical Tamil changes: **0**. Review: [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md).
+
+**Exact next activity:** perform the separate final English release verification and create `RELEASE_REPORT.md`.

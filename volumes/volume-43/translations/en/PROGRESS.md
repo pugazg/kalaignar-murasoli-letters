@@ -18,7 +18,7 @@
 - User-approved final completion batch: **PASS — 3476–3483 / PDF 354–400 — 8 / 8**
 - Canonical Tamil changes during English source-check: **0**
 - Bilingual alignment: **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**
-- Editorial review: **not started**
+- Editorial review: **PASS — 56 / 56; 2 English-only consistency corrections; 0 Tamil changes**
 - Final release: **not started**
 
 ## Completed pilot
@@ -190,3 +190,17 @@ Process **exactly 10 alignment records — Letters 3453–3462 / PDF 212–273**
 ## Exact next activity
 
 Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records. Use the locked glossary, manifest and all alignment reports to check cross-record consistency; do not retranslate and do not begin final release verification in the same activity.
+
+
+## English editorial consistency review — COMPLETE
+
+- Result: **PASS — 56 / 56 — 3428–3483 / PDF 024–400**.
+- English-only corrections: **2** — Letter 3481 `five million people` → `50 lakh people`; Letter 3483 translated `Central Government` → `Union Government`.
+- Canonical Tamil changes: **0**.
+- Report: [`EDITORIAL_CONSISTENCY_REVIEW.md`](EDITORIAL_CONSISTENCY_REVIEW.md).
+- Manifest editorial status: **56 / 56 reviewed**.
+- Final release verification: **not started / pending**.
+
+## Exact next activity
+
+Perform the separate **Volume 43 final English release verification** across all 56 reviewed records. Create `RELEASE_REPORT.md`; validate the 56-row manifest, unique record numbers/paths, complete bilingual files and final PDF 400 / non-letter PDF 401–402 boundary. Do not combine this with any new translation or Tamil-source activity.

@@ -40,7 +40,12 @@ bilingual_aligned_letter_range: "3428-3483"
 bilingual_aligned_letter_count: 56
 bilingual_aligned_pdf_range: "24-400"
 bilingual_alignment_next_range: null
-english_editorial_review_status: "not-started"
+english_editorial_review_status: "pass"
+english_editorial_reviewed_letter_range: "3428-3483"
+english_editorial_reviewed_letter_count: 56
+english_editorial_review_report: "translations/en/EDITORIAL_CONSISTENCY_REVIEW.md"
+english_editorial_review_substantive_corrections: 2
+english_editorial_review_tamil_changes: 0
 english_release_status: "not-started"
 source_observations:
   - "Volume number 43 is printed on the front cover and title page."

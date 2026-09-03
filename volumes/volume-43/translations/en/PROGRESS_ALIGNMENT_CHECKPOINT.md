@@ -11,7 +11,7 @@
 - Final review 6: **3473–3483 / PDF 332–400 — 11 / 11 PASS**
 - English corrections identified across the complete aligned range: **0**
 - Canonical Tamil changes exposed by alignment: **0**
-- Editorial consistency review: **not started**
+- Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 Tamil changes**
 - Final release verification: **not started**
 
 Review reports:
@@ -27,4 +27,4 @@ The first 15-record synchronization report remains [`BILINGUAL_ALIGNMENT_SYNC_34
 
 ## Exact next activity
 
-Perform the separate **Volume 43 English editorial consistency review** across all **56 aligned bilingual records, Letters 3428–3483 / PDF 024–400**. Review the corpus for cross-record consistency rather than retranslating it. Create `EDITORIAL_CONSISTENCY_REVIEW.md`, and advance manifest editorial-review status only after that gate passes. Do not begin final English release verification in the same activity.
+Editorial consistency review is complete: **PASS — 56 / 56**, with **2 English-only corrections and 0 Tamil changes**. Perform the separate **Volume 43 final English release verification** next; create `RELEASE_REPORT.md` and do not mark final release complete until manifest/file/boundary validation passes.

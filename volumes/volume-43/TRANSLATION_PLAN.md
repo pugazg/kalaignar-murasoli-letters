@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **SOURCE-CHECK COMPLETE — 56 / 56; BILINGUAL ALIGNMENT COMPLETE — 56 / 56; English editorial consistency review is the active next phase.**
+**Status:** **SOURCE-CHECK COMPLETE — 56 / 56; BILINGUAL ALIGNMENT COMPLETE — 56 / 56; ENGLISH EDITORIAL CONSISTENCY REVIEW PASS — 56 / 56; final English release verification is the active next phase.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -137,10 +137,14 @@ Stop at the end of **Letter 3432 / PDF 060**. Do **not** begin Letter 3433 / PDF
 
 Six durable alignment reviews cover **56 / 56 — 3428–3483 / PDF 024–400**. The final user-approved review processed the remaining **11 records, 3473–3483 / PDF 332–400**, together. Across the complete alignment phase, **0 English corrections** and **0 canonical Tamil changes** were required.
 
-## Phase 4 — English editorial consistency review — NEXT
+## Phase 4 — English editorial consistency review — COMPLETE
 
-Review all 56 aligned records as one English corpus for cross-record consistency: title/front-matter/index agreement; dates and PDF ranges; translator/source-check note conventions; names and honorifics; place-name/transliteration conventions; institutions and schemes; political/legal terminology; `lakh`/`crore` quantities; capitalization; punctuation and quotation treatment; source-supplied English; continuation/conclusion markers; documented source anomalies; stale control-layer wording; and complete appended Tamil. This is not a retranslation gate.
+All **56 / 56** aligned records passed the volume-level editorial consistency review. Two English-only consistency corrections were applied: Letter 3481 `five million people` → `50 lakh people`, and Letter 3483 translated `Central Government` → `Union Government`. Canonical Tamil changes: **0**. Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
+
+## Phase 5 — final English release verification — NEXT
+
+Reconcile the manifest to exactly **56 source records, 3428–3483**, validate unique letter numbers and English paths, confirm all rows are source-checked/aligned/reviewed while final release remains pending, verify complete bilingual files and appended Tamil, reconfirm Letter 3483 / PDF 394–400 as the final source letter and PDF 401–402 as non-letter matter, create `translations/en/RELEASE_REPORT.md`, and synchronize final-release controls only after the gate passes.
 
 ## Exact next activity
 
-Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` after reviewing all **56 / 56** aligned records. Advance manifest editorial-review status only if the gate passes. Do not begin final English release verification in the same activity.
+Perform **Volume 43 final English release verification**. Do not reopen completed translation/alignment/editorial work without a concrete defect.

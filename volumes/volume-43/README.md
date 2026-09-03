@@ -30,7 +30,7 @@
 - User-approved final oversized source-check batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**
-- Editorial consistency review: **not started**
+- Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 Tamil changes**
 - Final English release verification: **not started**
 
 The first Volume 43 iteration remains the user-approved **PDF 001–023** front-matter/contents exception. Letter 3428 was then processed separately at PDF 024–032, followed by source-record batches through Letter 3483. PDF **401 / printed 400** is non-letter end matter and PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
@@ -126,8 +126,8 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. T
 
 ## Current English QA gate — alignment complete
 
-Volume 43 English drafting/source-check and bilingual meaning-level alignment are both **COMPLETE — 56 / 56 records, 3428–3483 / PDF 024–400**. The final 11-record alignment review passed with **0 English corrections** and **0 canonical Tamil changes**. Editorial consistency review is **not started** and final release verification is **not started**.
+Volume 43 English drafting/source-check and bilingual meaning-level alignment are both **COMPLETE — 56 / 56 records, 3428–3483 / PDF 024–400**. The final 11-record alignment review passed with **0 English corrections** and **0 canonical Tamil changes**. Editorial consistency review is **PASS — 56 / 56**, with **2 English-only corrections and 0 Tamil changes**; final release verification is **not started**.
 
 ## Exact next activity
 
-Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records.
+Perform the separate **Volume 43 final English release verification** across all 56 editorially reviewed bilingual records; create `translations/en/RELEASE_REPORT.md` only after manifest/file/boundary validation passes.
