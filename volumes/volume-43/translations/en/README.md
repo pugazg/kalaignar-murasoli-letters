@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **15 / 56 aligned — 3428–3442 / PDF 024–137**.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **25 / 56 aligned — 3428–3452 / PDF 024–211**.
 
 ## Pilot — PASS
 
@@ -19,22 +19,22 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 
 - [3441 — An Appeal from One Among the Udanpirappugal!](letters/3441-an-appeal-from-one-among-the-udanpirappugal.md) — PDF 119–130 — source-checked; aligned
 - [3442 — Achievements of the DMK Government That Overcame Trials!](letters/3442-achievements-of-the-dmk-government-that-overcame-trials.md) — PDF 131–137 — source-checked; aligned
-- [3443 — They and We: A Comparison!](letters/3443-they-and-we-a-comparison.md) — PDF 138–142 — source-checked
-- [3444 — Here Again Is My Loving Invitation!](letters/3444-here-again-is-my-loving-invitation.md) — PDF 143–148 — source-checked
-- [3445 — Some Copper-Plate Records in the History of Classical Tamil — 1](letters/3445-some-copper-plate-records-in-the-history-of-classical-tamil-1.md) — PDF 149–156 — source-checked
+- [3443 — They and We: A Comparison!](letters/3443-they-and-we-a-comparison.md) — PDF 138–142 — source-checked; aligned
+- [3444 — Here Again Is My Loving Invitation!](letters/3444-here-again-is-my-loving-invitation.md) — PDF 143–148 — source-checked; aligned
+- [3445 — Some Copper-Plate Records in the History of Classical Tamil — 1](letters/3445-some-copper-plate-records-in-the-history-of-classical-tamil-1.md) — PDF 149–156 — source-checked; aligned
 
 ## Normal batch 4 — PASS
 
-- [3446 — Some Copper-Plate Records in the History of Classical Tamil — 2: Caldwell on Dravidian Distinctiveness](letters/3446-some-copper-plate-records-in-the-history-of-classical-tamil-2-caldwell-on-dravidian-distinctiveness.md) — PDF 157–164 — source-checked
-- [3447 — Some Copper-Plate Records in the History of Classical Tamil — 3: Pavanar’s Fifteen Evidences](letters/3447-some-copper-plate-records-in-the-history-of-classical-tamil-3-pavanars-fifteen-evidences.md) — PDF 165–172 — source-checked
-- [3448 — Some Copper-Plate Records in the History of Classical Tamil — 4: An Ancient Language Living Older Than Antiquity!](letters/3448-some-copper-plate-records-in-the-history-of-classical-tamil-4-an-ancient-language-living-older-than-antiquity.md) — PDF 173–181 — source-checked
-- [3449 — Some Copper-Plate Records in the History of Classical Tamil — 5: A Collection of Views from a California Professor!](letters/3449-some-copper-plate-records-in-the-history-of-classical-tamil-5-a-collection-of-views-from-a-california-professor.md) — PDF 182–190 — source-checked
-- [3450 — Some Copper-Plate Records in the History of Classical Tamil — 6: Continuing Actions for Classical Tamil to Flourish!](letters/3450-some-copper-plate-records-in-the-history-of-classical-tamil-6-continuing-actions-for-classical-tamil-to-flourish.md) — PDF 191–198 — source-checked
+- [3446 — Some Copper-Plate Records in the History of Classical Tamil — 2: Caldwell on Dravidian Distinctiveness](letters/3446-some-copper-plate-records-in-the-history-of-classical-tamil-2-caldwell-on-dravidian-distinctiveness.md) — PDF 157–164 — source-checked; aligned
+- [3447 — Some Copper-Plate Records in the History of Classical Tamil — 3: Pavanar’s Fifteen Evidences](letters/3447-some-copper-plate-records-in-the-history-of-classical-tamil-3-pavanars-fifteen-evidences.md) — PDF 165–172 — source-checked; aligned
+- [3448 — Some Copper-Plate Records in the History of Classical Tamil — 4: An Ancient Language Living Older Than Antiquity!](letters/3448-some-copper-plate-records-in-the-history-of-classical-tamil-4-an-ancient-language-living-older-than-antiquity.md) — PDF 173–181 — source-checked; aligned
+- [3449 — Some Copper-Plate Records in the History of Classical Tamil — 5: A Collection of Views from a California Professor!](letters/3449-some-copper-plate-records-in-the-history-of-classical-tamil-5-a-collection-of-views-from-a-california-professor.md) — PDF 182–190 — source-checked; aligned
+- [3450 — Some Copper-Plate Records in the History of Classical Tamil — 6: Continuing Actions for Classical Tamil to Flourish!](letters/3450-some-copper-plate-records-in-the-history-of-classical-tamil-6-continuing-actions-for-classical-tamil-to-flourish.md) — PDF 191–198 — source-checked; aligned
 
 ## Normal batch 5 — PASS
 
-- [3451 — Some Copper-Plate Records in the History of Classical Tamil — 7: Not a Letter; a Copper-Plate Record That Time Cannot Erase!](letters/3451-some-copper-plate-records-in-the-history-of-classical-tamil-7-not-a-letter-a-copper-plate-record-that-time-cannot-erase.md) — PDF 199–207 — source-checked
-- [3452 — I Shower Greetings upon the People of Prosperous Tamil Nadu!](letters/3452-i-shower-greetings-upon-the-people-of-prosperous-tamil-nadu.md) — PDF 208–211 — source-checked
+- [3451 — Some Copper-Plate Records in the History of Classical Tamil — 7: Not a Letter; a Copper-Plate Record That Time Cannot Erase!](letters/3451-some-copper-plate-records-in-the-history-of-classical-tamil-7-not-a-letter-a-copper-plate-record-that-time-cannot-erase.md) — PDF 199–207 — source-checked; aligned
+- [3452 — I Shower Greetings upon the People of Prosperous Tamil Nadu!](letters/3452-i-shower-greetings-upon-the-people-of-prosperous-tamil-nadu.md) — PDF 208–211 — source-checked; aligned
 - [3453 — There Is a ‘Leader’ — Do Not Be Deluded!](letters/3453-there-is-a-leader-do-not-be-deluded.md) — PDF 212–234 — source-checked
 - [3454 — Alas! On This Day, the Memory of That Day!](letters/3454-alas-on-this-day-the-memory-of-that-day.md) — PDF 235–240 — source-checked
 - [3455 — ‘Is the Fence Devouring the Crop?’](letters/3455-is-the-fence-devouring-the-crop.md) — PDF 241–245 — source-checked

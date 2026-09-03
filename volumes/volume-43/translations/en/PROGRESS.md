@@ -17,7 +17,7 @@
 - Normal batch 9: **PASS — 3471–3475 / PDF 323–353**
 - User-approved final completion batch: **PASS — 3476–3483 / PDF 354–400 — 8 / 8**
 - Canonical Tamil changes during English source-check: **0**
-- Bilingual alignment: **IN PROGRESS — 15 / 56 aligned — 3428–3442 / PDF 024–137**
+- Bilingual alignment: **IN PROGRESS — 25 / 56 aligned — 3428–3452 / PDF 024–211**
 - Editorial review: **not started**
 - Final release: **not started**
 
@@ -146,8 +146,12 @@ Completion report: [`SOURCE_CHECK_COMPLETION_3476_3483.md`](SOURCE_CHECK_COMPLET
 Locked terminology: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
-Letters **3428–3442 / PDF 024–137** are durably `aligned`; Letters **3443–3483** remain `pending`. Source-check completion remains distinct from alignment.
+Letters **3428–3452 / PDF 024–211** are durably `aligned`; Letters **3453–3483** remain `pending`. Source-check completion remains distinct from alignment.
+
+## Bilingual alignment review — 3443–3452 — PASS
+
+Letters **3443–3452 / PDF 138–211** passed complete meaning-level Tamil↔English alignment: **10 / 10 PASS; 0 English corrections; 0 canonical Tamil changes**. Review: [`BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`](BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md).
 
 ## Exact next activity
 
-Process **exactly 10 alignment records — Letters 3443–3452 / PDF 138–211**. Stop before **Letter 3453 / PDF 212**. Compare Tamil ↔ English completely at meaning level; correct English only where required; reopen Tamil only if a concrete source defect is found; keep editorial consistency review and final release verification separate.
+Process **exactly 10 alignment records — Letters 3453–3462 / PDF 212–273**. Stop before **Letter 3463 / PDF 274**. Compare Tamil ↔ English completely at meaning level; correct English only where required; reopen Tamil only if a concrete source defect is found; keep editorial consistency review and final release verification separate.

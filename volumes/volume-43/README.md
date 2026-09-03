@@ -29,7 +29,7 @@
 - English normal batches 1–9 through **3475 / PDF 353**: **PASS**
 - User-approved final oversized source-check batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8**
 - Canonical Tamil changes during English work: **0**
-- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 56 aligned — 3428–3442 / PDF 024–137**
+- Bilingual meaning-level alignment: **IN PROGRESS — 25 / 56 aligned — 3428–3452 / PDF 024–211**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
@@ -93,3 +93,12 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. T
 - Editorial consistency review: **not started**.
 - Final release verification: **not started**.
 - Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
+
+### Alignment checkpoint — 3443–3452
+
+- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 138–211**.
+- Cumulative durable alignment: **25 / 56 — 3428–3452 / PDF 024–211**.
+- English corrections in this review: **0**.
+- Canonical Tamil changes: **0**.
+- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`.
+- Exact next activity: **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.

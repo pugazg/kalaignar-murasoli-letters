@@ -6,9 +6,7 @@ Continue the Kalaignar Murasoli Letters archival / bilingual project directly in
 
 Branch: `main`
 
-Controlling source PDF:
-
-`TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
+Controlling source PDF: `TVA_BOK_0065828_கலைஞரின்_கடிதங்கள்_தொகுதி_43.pdf`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
@@ -16,29 +14,7 @@ Fetch live `main` first and preserve the newest durable state. Do not reset, rep
 
 ## Mandatory startup
 
-Before any repository change, read completely:
-
-1. `VOLUME_PROCESSING_GUIDE.md`
-2. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-3. `TRANSCRIPTION_GUIDE.md`
-4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
-5. `PROJECT_HANDOVER.md`
-6. this `NEXT_CHAT_PROMPT.md`
-7. `volumes/volume-43/README.md`
-8. `volumes/volume-43/PROGRESS.md`
-9. `volumes/volume-43/AUDIT.md`
-10. `volumes/volume-43/metadata.yml`
-11. `volumes/volume-43/FULL_VOLUME_STRUCTURAL_AUDIT.md`
-12. `volumes/volume-43/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
-13. `volumes/volume-43/TRANSLATION_PLAN.md`
-14. `volumes/volume-43/translations/en/README.md`
-15. `volumes/volume-43/translations/en/PROGRESS.md`
-16. `volumes/volume-43/translations/en/PROGRESS_ALIGNMENT_CHECKPOINT.md`
-17. `volumes/volume-43/translations/en/GLOSSARY.md`
-18. `volumes/volume-43/translations/en/TRANSLATION_MANIFEST.csv`
-19. `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`
-20. `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`
-21. `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`
+Before repository changes, read completely the root processing/batching/transcription/future-work guides, `PROJECT_HANDOVER.md`, this prompt, Volume 43 README/PROGRESS/AUDIT/metadata/structural and textual-fidelity audits/translation plan, and the English README/PROGRESS/alignment checkpoint/GLOSSARY/manifest plus all completed Volume 43 alignment review reports.
 
 ## Durable Volume 43 gates
 
@@ -46,15 +22,13 @@ Before any repository change, read completely:
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
 - English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483**
-- Canonical Tamil changes during English source-check: **0**
 - Translation conventions: **LOCKED**
-- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 56 aligned — 3428–3442 / PDF 024–137**
-- English corrections required by completed alignment reviews: **0**
-- Canonical Tamil changes exposed by completed alignment reviews: **0**
+- Bilingual meaning-level alignment: **IN PROGRESS — 25 / 56 aligned — 3428–3452 / PDF 024–211**
+- Alignment reviews through 3452: **PASS; 0 English corrections; 0 canonical Tamil changes**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
-Every English record contains the complete audited canonical Tamil under `## Original Tamil — மூலத் தமிழ்` with physical PDF markers. `source-checked`, `aligned`, editorial review and final release remain separate gates.
+Every English record contains the complete audited canonical Tamil under `## Original Tamil — மூலத் தமிழ்`. `source-checked`, `aligned`, editorial review and final release remain separate gates.
 
 ## Source-layer reminder
 
@@ -62,38 +36,27 @@ Final genuine printed-contents / actual-title differences are **3435, 3438, 3441
 
 ## Alignment policy
 
-Compare the English body against the complete audited Tamil appendix and canonical page files at meaning level. Check every title, paragraph, sentence, figure, date, quotation, list item, rhetorical turn and closing. Preserve source-supplied English verbatim where the source printed it. Preserve source-attributed political, legal, historical and religious claims without outside adjudication.
-
-If English meaning is incomplete or inaccurate, correct the English record and document the correction. If a Tamil defect is suspected, return to the controlling scan before any canonical Tamil change. Record English corrections separately from Tamil changes.
+Compare every English body against the complete audited Tamil appendix at meaning level. Check every title, paragraph, sentence, figure, date, quotation, list item, rhetorical turn and closing. Preserve source-supplied English verbatim. Preserve source-attributed political, legal, historical, linguistic and religious claims without outside adjudication. Correct English only where alignment requires it. Reopen Tamil only if a concrete source defect is suspected and confirmed against the controlling scan.
 
 ## Exact next activity — process 10 letters
 
-Perform bilingual alignment for **exactly 10 records, Letters 3443–3452 / PDF 138–211**:
+Perform bilingual alignment for **exactly 10 records, Letters 3453–3462 / PDF 212–273**:
 
-1. **3443 — PDF 138–142** — `அவர்களும் நாமும்; ஒரு ஒப்பீடு!`
-2. **3444 — PDF 143–148** — `இதோ மீண்டும் என் அன்பு அழைப்பு!`
-3. **3445 — PDF 149–156** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 1`
-4. **3446 — PDF 157–164** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 2`
-5. **3447 — PDF 165–172** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 3`
-6. **3448 — PDF 173–181** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 4`
-7. **3449 — PDF 182–190** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 5`
-8. **3450 — PDF 191–198** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 6`
-9. **3451 — PDF 199–207** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள் - 7`
-10. **3452 — PDF 208–211** — `வளமார் தமிழகம் வாழ்த்துகள் பொழிகிறேன்!`
+1. **3453 — PDF 212–234**
+2. **3454 — PDF 235–240**
+3. **3455 — PDF 241–245**
+4. **3456 — PDF 246–249**
+5. **3457 — PDF 250–253**
+6. **3458 — PDF 254–256**
+7. **3459 — PDF 257–259**
+8. **3460 — PDF 260–265**
+9. **3461 — PDF 266–270**
+10. **3462 — PDF 271–273**
 
-Stop before **Letter 3453 / PDF 212**.
+Stop before **Letter 3463 / PDF 274**.
 
-For these 10 records:
-
-- compare Tamil ↔ English linearly and completely;
-- correct English only where alignment requires it;
-- reopen Tamil only if a concrete source defect is found;
-- set `bilingual_alignment_status: aligned` only after the individual record passes;
-- create one durable 10-record bilingual-alignment review report;
-- update manifest and alignment progress controls after review;
-- report English corrections and canonical Tamil changes separately;
-- do not perform editorial consistency review or final release verification in the same activity.
+For these records, compare Tamil ↔ English completely, document any English correction separately from Tamil changes, mark a record `aligned` only after it passes, create one durable 10-record review report, update manifest/alignment controls, and keep editorial consistency review and final release separate.
 
 ## Git discipline
 
-Work directly on `main`. Re-fetch live `main` immediately before mutation, preserve concurrent work, build a candidate tree/commit without moving `main`, validate parent → candidate changed-file scope, publish by fast-forward only with `force: false`, and verify parent → new HEAD afterward.
+Re-fetch live `main` immediately before mutation, preserve concurrent work, validate changed-file scope, publish by fast-forward only with `force: false`, and verify the new HEAD afterward.
