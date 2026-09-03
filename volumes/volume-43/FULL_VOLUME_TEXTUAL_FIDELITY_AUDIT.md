@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–278 / 402 — VERIFIED.**
+**PDF 001–293 / 402 — VERIFIED.**
 
-PDF **271–278**, comprising Letters **3462 — `நம் பயணத்திற்குப் பயன்பட!`** and **3463 — `மாற்றுத் திறனாளிகளும் - மானிடரே!`**, was compared directly against the controlling scan in this continuation. Letter 3462 closes at PDF 273 with `அன்புள்ள, / மு.க. / 28-2-2010`; Letter 3463 closes at PDF 278 with `அன்புள்ள, / மு.க. / 2-3-2010`.
+PDF **279–293**, comprising Letters **3464 — `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`** and **3465 — `நெஞ்சில் மோதும் நினைவலைகள்!`**, was compared directly against the controlling scan in this continuation. Letter 3464 closes at PDF 284 with `அன்புள்ள, / மு.க. / 07-03-2010`; Letter 3465 closes at PDF 293 with `அன்புள்ள, / மு.க. / 10-3-2010`.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -196,6 +196,12 @@ No other concrete scan-proven correction was identified in Letters 3460–3461 d
 
 No other concrete scan-proven correction was identified in Letters 3462–3463 during this pass.
 
+### Scan-proven correction in PDF 279–293
+
+- **PDF 281 — Letter 3464:** restored the printed curly apostrophe in the English editorial heading: `Don't fail the Women of India` → `Don’t fail the Women of India`.
+
+No other concrete scan-proven correction was identified in Letters 3464–3465 during this pass. Preserve the source-layer title distinction for Letter 3464: the actual title on PDF 279 is `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`, while the separately preserved printed-contents wording is `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 279** and, following the current two-letter iteration cadence, complete the next **two letters — 3464 and 3465 — in the same iteration**, stopping at the end of Letter 3465. PDF 279 begins Letter **3464 — `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`**. Do **not** repeat PDF 001–278 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 294** and, following the current two-letter iteration cadence, complete the next **two letters — 3466 and 3467 — in the same iteration**, stopping at the end of Letter 3467. PDF 294 begins Letter **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`**. Do **not** repeat PDF 001–293 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.

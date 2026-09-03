@@ -22,7 +22,7 @@ letter_title: "பொதுக்கருத்து பற்றி பேர
 இட ஒதுக்கீடு மசோதாவை முன்மொழிந்த போதிலும், அப்போதும்
 அவையிலே ஏற்பட்ட அமளியால் மசோதா நிறைவேறவில்லை.
 
-“Don't fail the Women of India” (இந்திய நாட்டு மகளிரை
+“Don’t fail the Women of India” (இந்திய நாட்டு மகளிரை
 ஏமாற்றிவிடாதீர்கள்) என்ற தலைப்பில் ‘இந்து’ நாளிதழ் இன்று
 எழுதிய தலையங்கத்தை “The United Progressive Alliance
 Government’s announcement of its intention to push forward the
