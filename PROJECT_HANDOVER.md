@@ -51,7 +51,7 @@ Current durable English state:
 - User-approved final completion batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8 source-checked**
 - Cumulative English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483**
 - Canonical Tamil changes during English source-check: **0**
-- Bilingual meaning-level alignment: **IN PROGRESS — 25 / 56 aligned — 3428–3452 / PDF 024–211**
+- Bilingual meaning-level alignment: **IN PROGRESS — 35 / 56 aligned — 3428–3462 / PDF 024–273**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
@@ -177,8 +177,19 @@ Work on `main` when requested. Prefer one validated atomic commit per declared a
 ### Alignment checkpoint — 3443–3452
 
 - Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 138–211**.
-- Cumulative durable alignment: **25 / 56 — 3428–3452 / PDF 024–211**.
+- Cumulative durable alignment: **35 / 56 — 3428–3462 / PDF 024–273**.
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`.
 - Exact next activity: **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.
+
+
+## Current alignment checkpoint — 3453–3462
+
+- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 212–273**.
+- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3462 / PDF 024–273**.
+- English corrections in this review: **0**.
+- Canonical Tamil changes: **0**.
+- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
+- Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
+- **Current exact next activity:** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.

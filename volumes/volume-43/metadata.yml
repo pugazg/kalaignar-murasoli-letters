@@ -36,9 +36,9 @@ translation_status: "source-check-complete"
 translated_letter_range: "3428-3483"
 translated_letter_count: 56
 bilingual_alignment_status: "in-progress"
-bilingual_aligned_letter_range: "3428-3452"
-bilingual_aligned_letter_count: 25
-bilingual_aligned_pdf_range: "24-211"
+bilingual_aligned_letter_range: "3428-3462"
+bilingual_aligned_letter_count: 35
+bilingual_aligned_pdf_range: "24-273"
 english_release_status: "not-started"
 source_observations:
   - "Volume number 43 is printed on the front cover and title page."

@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **25 / 56 aligned — 3428–3452 / PDF 024–211**.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **35 / 56 aligned — 3428–3462 / PDF 024–273**.
 
 ## Pilot — PASS
 
@@ -35,22 +35,22 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 
 - [3451 — Some Copper-Plate Records in the History of Classical Tamil — 7: Not a Letter; a Copper-Plate Record That Time Cannot Erase!](letters/3451-some-copper-plate-records-in-the-history-of-classical-tamil-7-not-a-letter-a-copper-plate-record-that-time-cannot-erase.md) — PDF 199–207 — source-checked; aligned
 - [3452 — I Shower Greetings upon the People of Prosperous Tamil Nadu!](letters/3452-i-shower-greetings-upon-the-people-of-prosperous-tamil-nadu.md) — PDF 208–211 — source-checked; aligned
-- [3453 — There Is a ‘Leader’ — Do Not Be Deluded!](letters/3453-there-is-a-leader-do-not-be-deluded.md) — PDF 212–234 — source-checked
-- [3454 — Alas! On This Day, the Memory of That Day!](letters/3454-alas-on-this-day-the-memory-of-that-day.md) — PDF 235–240 — source-checked
-- [3455 — ‘Is the Fence Devouring the Crop?’](letters/3455-is-the-fence-devouring-the-crop.md) — PDF 241–245 — source-checked
+- [3453 — There Is a ‘Leader’ — Do Not Be Deluded!](letters/3453-there-is-a-leader-do-not-be-deluded.md) — PDF 212–234 — source-checked; aligned
+- [3454 — Alas! On This Day, the Memory of That Day!](letters/3454-alas-on-this-day-the-memory-of-that-day.md) — PDF 235–240 — source-checked; aligned
+- [3455 — ‘Is the Fence Devouring the Crop?’](letters/3455-is-the-fence-devouring-the-crop.md) — PDF 241–245 — source-checked; aligned
 
 ## Normal batch 6 — PASS
 
-- [3456 — Humaneness and Unsullied Political Civility!](letters/3456-humaneness-and-unsullied-political-civility.md) — PDF 246–249 — source-checked
-- [3457 — He Laughed; I Laughed Too!](letters/3457-he-laughed-i-laughed-too.md) — PDF 250–253 — source-checked
-- [3458 — A Kolam for Which the Dots Must Continue to Be Placed!](letters/3458-a-kolam-for-which-the-dots-must-continue-to-be-placed.md) — PDF 254–256 — source-checked
-- [3459 — Politics in Sugarcane!](letters/3459-politics-in-sugarcane.md) — PDF 257–259 — source-checked
-- [3460 — The National Commission for Scheduled Castes and the DMK Government!](letters/3460-the-national-commission-for-scheduled-castes-and-the-dmk-government.md) — PDF 260–265 — source-checked
+- [3456 — Humaneness and Unsullied Political Civility!](letters/3456-humaneness-and-unsullied-political-civility.md) — PDF 246–249 — source-checked; aligned
+- [3457 — He Laughed; I Laughed Too!](letters/3457-he-laughed-i-laughed-too.md) — PDF 250–253 — source-checked; aligned
+- [3458 — A Kolam for Which the Dots Must Continue to Be Placed!](letters/3458-a-kolam-for-which-the-dots-must-continue-to-be-placed.md) — PDF 254–256 — source-checked; aligned
+- [3459 — Politics in Sugarcane!](letters/3459-politics-in-sugarcane.md) — PDF 257–259 — source-checked; aligned
+- [3460 — The National Commission for Scheduled Castes and the DMK Government!](letters/3460-the-national-commission-for-scheduled-castes-and-the-dmk-government.md) — PDF 260–265 — source-checked; aligned
 
 ## Normal batch 7 — PASS
 
-- [3461 — The Film-World Celebration and the Dream Some Saw!](letters/3461-the-film-world-celebration-and-the-dream-some-saw.md) — PDF 266–270 — source-checked
-- [3462 — Let It Serve Our Journey!](letters/3462-let-it-serve-our-journey.md) — PDF 271–273 — source-checked
+- [3461 — The Film-World Celebration and the Dream Some Saw!](letters/3461-the-film-world-celebration-and-the-dream-some-saw.md) — PDF 266–270 — source-checked; aligned
+- [3462 — Let It Serve Our Journey!](letters/3462-let-it-serve-our-journey.md) — PDF 271–273 — source-checked; aligned
 - [3463 — The Differently Abled Are Human Beings Too!](letters/3463-the-differently-abled-are-human-beings-too.md) — PDF 274–278 — source-checked
 - [3464 — What Does the Great Thinker Rousseau Say about Public Opinion?](letters/3464-what-does-the-great-thinker-rousseau-say-about-public-opinion.md) — PDF 279–284 — source-checked
 - [3465 — Waves of Memory That Strike the Heart!](letters/3465-waves-of-memory-that-strike-the-heart.md) — PDF 285–293 — source-checked
@@ -107,3 +107,14 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. C
 - Editorial consistency review: **not started**.
 - Final release verification: **not started**.
 - Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
+
+
+## Current alignment checkpoint — 3453–3462
+
+- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 212–273**.
+- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3462 / PDF 024–273**.
+- English corrections in this review: **0**.
+- Canonical Tamil changes: **0**.
+- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
+- Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
+- **Current exact next activity:** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
