@@ -24,9 +24,9 @@ Do not begin English translation until this full-volume fidelity gate reaches **
 
 ## Current durable frontier
 
-**PDF 001–325 / 402 — VERIFIED.**
+**PDF 001–339 / 402 — VERIFIED.**
 
-PDF **317–325**, comprising Letters **3470 — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`** and **3471 — `கோவை மாநாடு; குறையும் நிறையும் விளக்கும் கடிதம்!`**, was compared directly against the controlling scan in this continuation. Letter 3470 closes at PDF 322 with `அன்புள்ள, / மு.க. / 18-5-2010`. Letter 3471 closes at PDF 325 with `அன்புள்ள, / மு.க. / 26-5-2010`.
+PDF **326–339**, comprising Letters **3472 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`** and **3473 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்... (2)`**, was compared directly against the controlling scan in this continuation. Letter 3472 closes at PDF 331 with `அன்புள்ள, / மு.க. / 30-5-2010`. Letter 3473 closes at PDF 339 with `அன்புள்ள, / மு.க. / 31-5-2010`. Preserve the actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...` for both letters.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -218,6 +218,26 @@ No other concrete scan-proven correction was identified in Letters 3468–3469 d
 
 No concrete scan-proven correction was identified in Letters 3470–3471 during this pass. The source English *Silappathikaram* dialogue on PDF 320 was directly checked as printed, including typographic apostrophes and the physical line split `deter` / `mined` without inserting a hyphen.
 
+### Scan-proven corrections in PDF 326–339
+
+- **PDF 326 — Letter 3472:** restored the printed year spacing `2001ஆம் ஆண்டு` → `2001 ஆம் ஆண்டு`.
+- **PDF 326 — Letter 3472:** restored the printed date spacing `16ஆம் தேதி` → `16 ஆம் தேதி`.
+- **PDF 326 — Letter 3472:** restored the printed date spacing `18ஆம் தேதி` → `18 ஆம் தேதி`.
+- **PDF 326 — Letter 3472:** restored the printed date spacing `23ஆம் தேதி` → `23 ஆம் தேதி`.
+- **PDF 326 — Letter 3472:** restored the printed date spacing `24ஆம் தேதி` → `24 ஆம் தேதி`.
+- **PDF 327 — Letter 3472:** restored the printed year spacing `1997ஆம் வருஷத்திய` → `1997 ஆம் வருஷத்திய`.
+- **PDF 327 — Letter 3472:** restored the printed joined form `2001 ஆம் ஆண்டு` → `2001ஆம் ஆண்டு` in the paragraph introducing the 26 April editorials.
+- **PDF 328 — Letter 3472:** restored the printed year spacing `1997ஆம் ஆண்டு` → `1997 ஆம் ஆண்டு`.
+- **PDF 328 — Letter 3472:** restored the first printed date spacing `14ஆம் தேதி` → `14 ஆம் தேதி` for the day election results were coming in.
+- **PDF 328 — Letter 3472:** restored the second printed date spacing `14ஆம் தேதி` → `14 ஆம் தேதி` for the same-day swearing-in.
+- **PDF 329 — Letter 3472:** restored the printed year spacing `1995ஆம் ஆண்டு` → `1995 ஆம் ஆண்டு`.
+- **PDF 331 — Letter 3472:** restored the printed year spacing `2001ஆம் ஆண்டு` → `2001 ஆம் ஆண்டு`.
+- **PDF 331 — Letter 3472:** restored the printed date spacing `13ஆம் தேதி` → `13 ஆம் தேதி`.
+- **PDF 333 — Letter 3473:** restored the printed year spacing `2000ஆம் ஆண்டு` → `2000 ஆம் ஆண்டு`.
+- **PDF 335 — Letter 3473:** restored the printed date spacing `நவம்பர் 14ஆம் தேதி` → `நவம்பர் 14 ஆம் தேதி`.
+
+No other concrete scan-proven correction was identified in Letters 3472–3473 during this pass. The actual-start spelling `ஒய்யாரக்...` on PDFs 326 and 332 remains distinct from the printed-contents `ஓய்யாரக்...`.
+
 ## Exact next activity
 
-Resume the second full-volume visual/textual-fidelity verification at **PDF 326** and, following the current two-letter iteration cadence, complete the next **two letters — 3472 and 3473 — in the same iteration**, stopping at the end of Letter 3473. PDF 326 begins Letter **3472 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்...`**; Letter 3473 begins at PDF 332, and PDF 340 begins Letter 3474, so stop at PDF 339. Preserve the actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...`. Do **not** repeat PDF 001–325 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
+Resume the second full-volume visual/textual-fidelity verification at **PDF 340** and, following the current two-letter iteration cadence, complete the next **two letters — 3474 and 3475 — in the same iteration**, stopping at the end of Letter 3475. PDF 340 begins Letter **3474 — `ஒய்யாரக் கொண்டையாம், தாழம்பூவாம்.. 3`**; Letter 3475 begins at PDF 348, and PDF 354 begins Letter 3476, so stop at PDF 353. Preserve Letter 3474's actual-start spelling `ஒய்யாரக்...` independently from the printed-contents spelling `ஓய்யாரக்...`. Do **not** repeat PDF 001–339 unless a concrete defect is reported. Record every scan-proven correction in this file and keep English translation blocked until the fidelity frontier reaches **402 / 402** and the gate is explicitly marked **PASS**.
