@@ -33,8 +33,8 @@ second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "in-progress"
-translated_letter_range: "3428-3460"
-translated_letter_count: 33
+translated_letter_range: "3428-3465"
+translated_letter_count: 38
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -89,4 +89,7 @@ source_observations:
   - "English normal batch 6 Letters 3456–3460 / PDF 246–265: source-check PASS; cumulative 33 / 56; 0 canonical Tamil changes."
   - "Batch 6 preserves Letter 3456's welfare/anti-untouchability and Arunthathiyar-reservation account, Letter 3457's unnamed political allegory, Letter 3458's explicit State-autonomy/secession distinction, Letter 3459's recovery-rate and cooperative-loss figures, and Letter 3460's National Commission rebuttal and printed `நேற்றைய தினம் (3-2-2010)` chronology anomaly."
   - "Batch 6 adds one recurring glossary treatment: `மாநில சுயாட்சி` → `State autonomy`."
-  - "Next English activity is Letters 3461–3465 / PDF 266–293; preserve the known 3463 and 3464 contents/actual-title differences and stop before Letter 3466 / PDF 294."
+  - "English normal batch 7 Letters 3461–3465 / PDF 266–293: source-check PASS; cumulative 38 / 56; 0 canonical Tamil changes."
+  - "Batch 7 preserves Letter 3461's film-world chronology, 90-acre land-grant context, Sivaji quotation and Ajith controversy; Letter 3462's source-framed Socrates, Prophet Muhammad, Jesus and Gandhi examples; Letter 3463's actual/contents title distinction, rights-based terminology and source-supplied disability-law English; Letter 3464's actual/contents title distinction, source-supplied newspaper English, women’s-reservation chronology and Rousseau/internal-reservation argument; and Letter 3465's monument inventory, measurements, historical claims and place-name explanations."
+  - "Batch 7 adds recurring glossary treatments: `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → `differently abled persons / differently abled people` in the source-defined rights-language context; `உள் ஒதுக்கீடு` → `internal reservation`."
+  - "Next English activity is Letters 3466–3470 / PDF 294–322; preserve Letter 3467 as a facsimile-bearing source record with printed-contents `மகாராஜனுக்கு`, actual `மகராஜனுக்கு`, blank contents date and reproduced handwritten date 2/11/1974; stop before Letter 3471 / PDF 323."

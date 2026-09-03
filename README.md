@@ -23,7 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **33 / 56 source-checked; through 3460; 3461–3465 next** |
+| 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **38 / 56 source-checked; through 3465; 3466–3470 next** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
@@ -45,19 +45,21 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - PDF **401 / printed page 400** is non-letter end matter; PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
 - Final genuine printed-contents / actual-title discrepancies are Letters **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
 - Letter **3441** contents uses joined `உடன்பிறப்புகளில்...`, while actual PDF 119 uses separated `உடன் பிறப்புகளில்...`.
-- Letter **3467** is a special reproduced 1974 handwritten-letter record: the printed contents date cell is blank and remains blank in `contents/index.md`; the reproduced handwritten letter itself is visibly dated **2/11/1974**.
+- Letter **3467** is a special reproduced 1974 handwritten-letter record: printed contents uses `மகாராஜனுக்கு`, actual PDF 299 uses `மகராஜனுக்கு`; the printed contents date cell is blank and the reproduced handwritten letter itself is visibly dated **2/11/1974**.
 - Letters **3472–3474** preserve long-`ஓ` / short-`ஒ` source-layer differences.
-- Second-pass direct scan verification supersedes earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**. Letter 3430's corrected contents title matches the actual start; Letters 3476, 3477 and 3481 use semicolons in both source layers.
-- English pilot **3428–3430 / PDF 024–048** is **PASS — 3 / 3 source-checked**; Volume 43 translation conventions are **LOCKED** and no canonical Tamil change was required.
+- Second-pass direct scan verification supersedes earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**.
+- English pilot **3428–3430 / PDF 024–048** is **PASS — 3 / 3 source-checked**; Volume 43 translation conventions are **LOCKED**.
 - English normal batch 1 **3431–3435 / PDF 049–086** is **PASS — 5 / 5 source-checked**.
 - English normal batch 2 **3436–3440 / PDF 087–118** is **PASS — 5 / 5 source-checked**.
 - English normal batch 3 **3441–3445 / PDF 119–156** is **PASS — 5 / 5 source-checked**.
 - English normal batch 4 **3446–3450 / PDF 157–198** is **PASS — 5 / 5 source-checked**.
 - English normal batch 5 **3451–3455 / PDF 199–245** is **PASS — 5 / 5 source-checked**.
-- English normal batch 6 **3456–3460 / PDF 246–265** is **PASS — 5 / 5 source-checked**; cumulative English source-check is **33 / 56** and no canonical Tamil change was required.
-- Letters **3445–3451** form the recurring classical-Tamil-history `செப்பேடு` sequence; English uses **copper-plate record** for that image. Letter 3451 preserves Sonia Gandhi's source-supplied English letter exactly as printed.
-- Batch 6 preserves Letter **3457**’s allegorical identities as source-implicit, locks `மாநில சுயாட்சி` as **State autonomy** in Letter **3458**, preserves Letter **3459**’s recovery-rate and cooperative-loss figures, and retains Letter **3460**’s printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent reconciliation.
-- Exact next activity: normal English five-record batch **3461–3465 / PDF 266–293**; preserve the 3463 and 3464 source-title differences and stop before Letter 3466 / PDF 294.
+- English normal batch 6 **3456–3460 / PDF 246–265** is **PASS — 5 / 5 source-checked**.
+- English normal batch 7 **3461–3465 / PDF 266–293** is **PASS — 5 / 5 source-checked**; cumulative English source-check is **38 / 56** and no canonical Tamil change was required.
+- Letters **3445–3451** form the recurring classical-Tamil-history `செப்பேடு` sequence; English uses **copper-plate record** for that image.
+- Batch 6 locks `மாநில சுயாட்சி` as **State autonomy**.
+- Batch 7 preserves the source-title differences for **3463–3464**, source-supplied English in those records, the film-world/Ajith sequence in **3461**, the source-framed exemplars in **3462**, and the monument/memorial measurements and historical claims in **3465**. It adds `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the explicit rights-language context and `உள் ஒதுக்கீடு` → **internal reservation**.
+- Exact next activity: normal English five-record batch **3466–3470 / PDF 294–322**; preserve Letter 3467’s facsimile/title/date anomaly and stop before Letter 3471 / PDF 323.
 
 ## Volume 44 — released
 

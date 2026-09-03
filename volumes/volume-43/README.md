@@ -24,7 +24,7 @@
 - Partial/source-incomplete letters: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- English translation/source-check: **IN PROGRESS — 33 / 56 — 3428–3460**
+- English translation/source-check: **IN PROGRESS — 38 / 56 — 3428–3465**
 - English pilot **3428–3430 / PDF 024–048**: **PASS; conventions locked**
 - English normal batch 1 **3431–3435 / PDF 049–086**: **PASS**
 - English normal batch 2 **3436–3440 / PDF 087–118**: **PASS**
@@ -32,6 +32,7 @@
 - English normal batch 4 **3446–3450 / PDF 157–198**: **PASS**
 - English normal batch 5 **3451–3455 / PDF 199–245**: **PASS**
 - English normal batch 6 **3456–3460 / PDF 246–265**: **PASS**
+- English normal batch 7 **3461–3465 / PDF 266–293**: **PASS**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 
@@ -47,27 +48,28 @@ The final genuine contents/actual-title difference set is:
 - **3463:** contents `மாற்றுத் திறனாளிகளும் - மனிதரே!`; actual PDF 274 `மாற்றுத் திறனாளிகளும் - மானிடரே!`.
 - **3464:** contents `பொதுக்கருத்து பற்றி பேரறிஞர் ரூசோவின் கருத்து என்ன?`; actual PDF 279 `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`.
 - **3467:** contents uses `மகாராஜனுக்கு`; actual PDF 299 uses `மகராஜனுக்கு`. Its printed contents date cell remains blank, while the reproduced handwritten letter itself is separately dated `2/11/1974` at record level.
-- **3472–3474:** printed contents uses long `ஓய்யாரக்...`; the actual starts at PDF 326, 332 and 340 use short `ஒய்யாரக்...`.
+- **3472–3474:** printed contents uses long `ஓய்யாரக்...`; actual starts use short `ஒய்யாரக்...`.
 
-Second-pass direct scan verification superseded earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**. Letter 3430's corrected printed-contents row matches its actual title; Letters 3476, 3477 and 3481 use semicolons in both source layers.
+Second-pass direct scan verification superseded earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481**.
 
 ## English translation state
 
 The English workflow uses audited canonical Tamil as its immediate source and keeps source-check distinct from later bilingual alignment.
 
-- Pilot **3428–3430**: **3 / 3 source-checked**; pilot review PASS; conventions locked; 0 Tamil changes.
-- Normal batch 1 **3431–3435**: **5 / 5 source-checked**; cumulative **8 / 56**; 0 Tamil changes.
-- Normal batch 2 **3436–3440**: **5 / 5 source-checked**; cumulative **13 / 56**; 0 Tamil changes.
-- Normal batch 3 **3441–3445**: **5 / 5 source-checked**; cumulative **18 / 56**; 0 Tamil changes.
-- Normal batch 4 **3446–3450**: **5 / 5 source-checked**; cumulative **23 / 56**; 0 Tamil changes.
-- Normal batch 5 **3451–3455**: **5 / 5 source-checked**; cumulative **28 / 56**; 0 Tamil changes; no new recurring glossary treatment.
-- Normal batch 6 **3456–3460**: **5 / 5 source-checked**; cumulative **33 / 56**; 0 Tamil changes; glossary adds `மாநில சுயாட்சி` → **State autonomy**.
-- Letter **3441** follows actual PDF 119 separated `உடன் பிறப்புகளில்`, while the printed contents independently retains joined `உடன்பிறப்புகளில்`.
-- Letters **3445–3451** carry the recurring classical-Tamil-history `செப்பேடு` series; English preserves **copper-plate record** for the image. Letter **3451** preserves Sonia Gandhi’s 8 November 2005 source-supplied English letter exactly as printed.
-- Batch 6 preserves Letter **3456**’s welfare/anti-untouchability account and three-per-cent Arunthathiyar reservation; Letter **3457**’s unnamed political allegory without external identities; Letter **3458**’s explicit distinction between State autonomy and secession; Letter **3459**’s recovery-rate and cooperative-loss figures; and Letter **3460**’s Commission rebuttal and printed `நேற்றைய தினம் (3-2-2010)` chronology anomaly.
-- Every English record includes the complete audited Tamil under `Original Tamil — மூலத் தமிழ்` with source-page markers.
-- `translations/en/GLOSSARY.md`, `PROGRESS.md`, `README.md` and `TRANSLATION_MANIFEST.csv` are the durable English controls.
+- Pilot **3428–3430**: **3 / 3 source-checked**; cumulative **3 / 56**.
+- Normal batch 1 **3431–3435**: **5 / 5**; cumulative **8 / 56**.
+- Normal batch 2 **3436–3440**: **5 / 5**; cumulative **13 / 56**.
+- Normal batch 3 **3441–3445**: **5 / 5**; cumulative **18 / 56**.
+- Normal batch 4 **3446–3450**: **5 / 5**; cumulative **23 / 56**.
+- Normal batch 5 **3451–3455**: **5 / 5**; cumulative **28 / 56**.
+- Normal batch 6 **3456–3460**: **5 / 5**; cumulative **33 / 56**.
+- Normal batch 7 **3461–3465**: **5 / 5**; cumulative **38 / 56**.
+- All English work so far required **0 canonical Tamil changes**.
+
+Batch 7 preserves the known title-layer differences for **3463** and **3464**. It also preserves source-supplied English in Letters **3463–3464**, source-framed religious/historical narratives in **3462**, and the full measurements/dates in **3465**. The glossary now distinguishes `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` as **differently abled persons / differently abled people** in the explicit rights-language context, retains `ஊனமுற்றோர்` as **persons with disabilities** where appropriate, and locks `உள் ஒதுக்கீடு` as **internal reservation**.
+
+Every English record includes the complete audited Tamil under `Original Tamil — மூலத் தமிழ்` with source-page markers.
 
 ## Exact next activity
 
-Translate and source-check **Letters 3461–3465 / PDF 266–293** as normal English batch 7. Preserve the known title-layer differences for **3463** and **3464**. Stop before **Letter 3466 / PDF 294**. Do not perform the later bilingual-alignment gate in the same activity.
+Translate and source-check **Letters 3466–3470 / PDF 294–322** as normal English batch 8. Preserve Letter **3467** as a facsimile-bearing record: printed contents `மகாராஜனுக்கு`, actual `மகராஜனுக்கு`, blank printed-contents date, reproduced handwritten date `2/11/1974`. Stop before **Letter 3471 / PDF 323**. Do not perform the later bilingual-alignment gate in the same activity.

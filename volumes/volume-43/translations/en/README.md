@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**IN PROGRESS — 33 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first six normal five-record batches have passed source-check; Volume 43 conventions are locked.
+**IN PROGRESS — 38 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first seven normal five-record batches have passed source-check; Volume 43 conventions are locked.
 
 ## Pilot — PASS
 
@@ -10,13 +10,10 @@
 
 Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PASS; conventions locked**.
 
-## Normal batch 1 — PASS
+## Normal batches 1–2 — PASS
 
-Letters **3431–3435 / PDF 049–086** — source-checked.
-
-## Normal batch 2 — PASS
-
-Letters **3436–3440 / PDF 087–118** — source-checked.
+- Batch 1: **3431–3435 / PDF 049–086** — source-checked.
+- Batch 2: **3436–3440 / PDF 087–118** — source-checked.
 
 ## Normal batch 3 — PASS
 
@@ -50,21 +47,29 @@ Letters **3436–3440 / PDF 087–118** — source-checked.
 - [3459 — Politics in Sugarcane!](letters/3459-politics-in-sugarcane.md) — PDF 257–259 — source-checked
 - [3460 — The National Commission for Scheduled Castes and the DMK Government!](letters/3460-the-national-commission-for-scheduled-castes-and-the-dmk-government.md) — PDF 260–265 — source-checked
 
+## Normal batch 7 — PASS
+
+- [3461 — The Film-World Celebration and the Dream Some Saw!](letters/3461-the-film-world-celebration-and-the-dream-some-saw.md) — PDF 266–270 — source-checked
+- [3462 — Let It Serve Our Journey!](letters/3462-let-it-serve-our-journey.md) — PDF 271–273 — source-checked
+- [3463 — The Differently Abled Are Human Beings Too!](letters/3463-the-differently-abled-are-human-beings-too.md) — PDF 274–278 — source-checked
+- [3464 — What Does the Great Thinker Rousseau Say about Public Opinion?](letters/3464-what-does-the-great-thinker-rousseau-say-about-public-opinion.md) — PDF 279–284 — source-checked
+- [3465 — Waves of Memory That Strike the Heart!](letters/3465-waves-of-memory-that-strike-the-heart.md) — PDF 285–293 — source-checked
+
 Glossary: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
-The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–6.
+The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–7.
 
-Letter 3441 follows actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently preserves joined `உடன்பிறப்புகளில்...`. Letters 3445–3451 preserve the recurring classical-Tamil-history `செப்பேடு` image as **copper-plate record**. Letter 3451 reproduces Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Batch 6 preserves Letter 3456’s anti-untouchability and Arunthathiyar-reservation account as source-framed; Letter 3457’s political allegory remains unnamed rather than receiving external identities; Letter 3458 locks `மாநில சுயாட்சி` as **State autonomy** and preserves its explicit distinction from secession; Letter 3459 preserves sugarcane recovery-rate and cooperative-loss figures; and Letter 3460 preserves the National Commission rebuttal, all reservation/housing/welfare figures and the source chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent correction.
+Batch 7 preserves Letter 3461’s film-world chronology, Sivaji quotation, 90-acre land-grant context and Ajith controversy as source-framed material; Letter 3462’s Socrates, Prophet Muhammad, Jesus and Gandhi examples without outside historical reconciliation; Letter 3463’s actual-title `மானிடரே!` layer, rights-based `மாற்றுத் திறனாளிகள்` terminology and source-supplied disability-law English; Letter 3464’s actual-title `பேரறிஞன்` layer, newspaper English passages, women’s-reservation chronology and Rousseau argument; and Letter 3465’s monument inventory, measurements, historical claims and place-name explanations. Batch 7 adds `மாற்றுத் திறனாளிகள்` → **differently abled persons** in the source-defined rights-language context and `உள் ஒதுக்கீடு` → **internal reservation** to the glossary.
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 7: **Letters 3461–3465 / PDF 266–293**:
+Translate and source-check normal five-record batch 8: **Letters 3466–3470 / PDF 294–322**:
 
-1. **3461 — PDF 266–270** — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!`
-2. **3462 — PDF 271–273** — `நம் பயணத்திற்குப் பயன்பட!`
-3. **3463 — PDF 274–278** — actual title `மாற்றுத் திறனாளிகளும் - மானிடரே!`; printed contents has `மனிதரே!`
-4. **3464 — PDF 279–284** — actual title `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; printed contents has `பேரறிஞர்`
-5. **3465 — PDF 285–293** — `நெஞ்சில் மோதும் நினைவலைகள்!`
+1. **3466 — PDF 294–298** — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`
+2. **3467 — PDF 299–303** — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`; printed contents uses `மகாராஜனுக்கு` and leaves the date blank; reproduced handwritten letter is dated `2/11/1974`
+3. **3468 — PDF 304–314** — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`
+4. **3469 — PDF 315–316** — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`
+5. **3470 — PDF 317–322** — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`
 
-Stop before **Letter 3466 / PDF 294**. Preserve the 3463 and 3464 source-title layers independently. Do not perform bilingual meaning-level alignment in the same activity.
+Stop before **Letter 3471 / PDF 323**. Preserve Letter 3467 as a facsimile-bearing source record and do not perform bilingual meaning-level alignment in the same activity.

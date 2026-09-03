@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **IN PROGRESS — 33 / 56 source-checked; pilot and normal batches 1–6 PASS.**
+**Status:** **IN PROGRESS — 38 / 56 source-checked; pilot and normal batches 1–7 PASS.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -37,18 +37,19 @@ Use the repository's established thought-preserving, non-literary English method
 - Normal batch 4 **3446–3450 / PDF 157–198** — **PASS — 5 / 5**.
 - Normal batch 5 **3451–3455 / PDF 199–245** — **PASS — 5 / 5**.
 - Normal batch 6 **3456–3460 / PDF 246–265** — **PASS — 5 / 5**.
+- Normal batch 7 **3461–3465 / PDF 266–293** — **PASS — 5 / 5**.
 
-Cumulative result: **33 / 56 source-checked; 0 canonical Tamil changes during English work.**
+Cumulative result: **38 / 56 source-checked; 0 canonical Tamil changes during English work.**
 
-### Normal batch 6 durable notes
+### Normal batch 7 durable notes
 
-- **3456 — PDF 246–249:** preserves the welfare inventory, caste/untouchability argument, Papapatti–Keeripatti local-body history, Uthapuram and Periyar Nagar wall removals, the three-per-cent Arunthathiyar reservation and explicit credit to opposition Left parties.
-- **3457 — PDF 250–253:** preserves the source’s unnamed political allegory, temple-tank tragedy, murder-case retaliation, devotional refrain and ironic `இன ஒற்றுமை` close without importing external identities.
-- **3458 — PDF 254–256:** locks `மாநில சுயாட்சி` as **State autonomy**. The source explicitly distinguishes it from secession or a separate government; clock, necklace-hook and kolam metaphors remain intact.
-- **3459 — PDF 257–259:** preserves sugarcane-price comparisons, `பிழி திறன்` / recovery-rate argument, ₹7,000-crore cooperative-loan cancellation and cooperative-mill accumulated-loss figures ₹1,270 / ₹1,648 / ₹1,625 crore.
-- **3460 — PDF 260–265:** preserves the National Commission rebuttal, three-per-cent Arunthathiyar internal-reservation correspondence, housing/reservation/welfare figures and the printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` in a letter dated 20-02-2010.
-- **No canonical Tamil change** was required in batch 6.
-- `GLOSSARY.md` gains only the genuinely recurring/source-defined **State autonomy** treatment.
+- **3461 — PDF 266–270:** preserves the film-world celebration chronology, the long Sivaji speech, the 90-acre government-land grant, Amitabh Bachchan/Rajinikanth/Kamal Haasan references, the Ajith explanation and the black-dot, *thumbai* flower and dud-firework imagery without importing outside accounts.
+- **3462 — PDF 271–273:** preserves the source-framed Socrates, Prophet Muhammad, Jesus and Gandhi narratives as examples of steadfastness; historical/religious anecdotes are not externally reconciled.
+- **3463 — PDF 274–278:** follows actual title `மாற்றுத் திறனாளிகளும் - மானிடரே!` while printed contents independently retains `மனிதரே!`; preserves the shift from older `ஊனமுற்றோர்` language to the rights-based `மாற்றுத் திறனாளிகள்`, all ten demands and source-supplied disability-law English.
+- **3464 — PDF 279–284:** follows actual `பேரறிஞன்` while printed contents retains `பேரறிஞர்`; preserves the women’s-reservation chronology, 1,16,747 / 44,143 figures, source-supplied *The Hindu* / *Indian Express* English, Periyar/Rousseau quotations, the 33-per-cent-first argument and later internal-reservation distinction.
+- **3465 — PDF 285–293:** preserves the Poompuhar/Kattabomman/Valluvar/TIDEL/Puli Thevan memorial inventory, all measurements/dates, quoted speeches, source historical claims and place-name explanations, and the forward reference to the 13 March Chennai event.
+- **No canonical Tamil change** was required in batch 7.
+- `GLOSSARY.md` adds `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** in the source-defined rights-language context and `உள் ஒதுக்கீடு` → **internal reservation**.
 
 ## Regular translation cadence
 
@@ -65,12 +66,12 @@ For each regular batch:
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 7: **Letters 3461–3465 / PDF 266–293**.
+Translate and source-check normal five-record batch 8: **Letters 3466–3470 / PDF 294–322**.
 
-- **3461 — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!` — PDF 266–270**
-- **3462 — `நம் பயணத்திற்குப் பயன்பட!` — PDF 271–273**
-- **3463 — actual `மாற்றுத் திறனாளிகளும் - மானிடரே!` — PDF 274–278**; printed contents has `மனிதரே!`.
-- **3464 — actual `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?` — PDF 279–284**; printed contents has `பேரறிஞர்`.
-- **3465 — `நெஞ்சில் மோதும் நினைவலைகள்!` — PDF 285–293**
+- **3466 — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?` — PDF 294–298**
+- **3467 — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!` — PDF 299–303**; printed contents uses `மகாராஜனுக்கு`, its contents date cell is blank, and the reproduced handwritten letter is dated `2/11/1974`.
+- **3468 — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?` — PDF 304–314**
+- **3469 — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!` — PDF 315–316**
+- **3470 — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?` — PDF 317–322**
 
-Stop at the end of **Letter 3465 / PDF 293**. Do **not** begin Letter 3466 / PDF 294 in the same activity. Preserve the 3463 and 3464 source-title layers independently.
+Stop at the end of **Letter 3470 / PDF 322**. Do **not** begin Letter 3471 / PDF 323 in the same activity. Preserve Letter 3467 as a facsimile-bearing source record and keep its title/date source layers independent.

@@ -45,7 +45,8 @@ Current durable English state:
 - Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5 source-checked**
 - Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5 source-checked**
 - Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **33 / 56 — 3428–3460**
+- Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **38 / 56 — 3428–3465**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
@@ -63,6 +64,16 @@ Every English record includes the complete audited Tamil under `## Original Tami
 - No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
 - `GLOSSARY.md` gains one genuinely recurring/source-defined treatment: `மாநில சுயாட்சி` → **State autonomy**.
 
+### Batch 7 durable notes
+
+- **3461** preserves the film-world celebration chronology, 90-acre land-grant context, Sivaji quotation, named artists, Ajith explanation, and black-dot/*thumbai* flower/dud-firework imagery.
+- **3462** preserves the source-framed Socrates, Prophet Muhammad, Jesus and Gandhi narratives as examples of steadfastness without outside historical or theological reconciliation.
+- **3463** follows actual `மாற்றுத் திறனாளிகளும் - மானிடரே!`, while printed contents independently retains `மனிதரே!`; it preserves all ten rights demands and source-supplied disability-law English. `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` is treated as **differently abled persons / differently abled people** when carrying the source’s explicit rights-language renaming argument.
+- **3464** follows actual `பேரறிஞன்`, while printed contents retains `பேரறிஞர்`; the *The Hindu* and *Indian Express* English is retained verbatim, including audited `Don’t`. The women’s-reservation chronology, Rousseau argument and later `உள் ஒதுக்கீடு` / **internal reservation** distinction are preserved.
+- **3465** preserves the Poompuhar, Kattabomman, Valluvar, TIDEL and Puli Thevan memorial inventory, measurements, dates, quotations, source historical claims and place-name explanations.
+- No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
+- `GLOSSARY.md` adds the two source-supported recurring distinctions above.
+
 ### Final genuine title-layer differences
 
 Preserve these source layers independently:
@@ -79,13 +90,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3461–3465 / PDF 266–293** as Volume 43 normal English batch 7:
+Translate and source-check **Letters 3466–3470 / PDF 294–322** as Volume 43 normal English batch 8:
 
-- **3461 — PDF 266–270** — `கலையுலக விழாவும்; சிலர் கண்ட கனவும்!`
-- **3462 — PDF 271–273** — `நம் பயணத்திற்குப் பயன்பட!`
-- **3463 — PDF 274–278** — actual `மாற்றுத் திறனாளிகளும் - மானிடரே!`; printed contents uses `மனிதரே!`
-- **3464 — PDF 279–284** — actual `பொதுக்கருத்து பற்றி பேரறிஞன் ரூசோவின் கருத்து என்ன?`; printed contents uses `பேரறிஞர்`
-- **3465 — PDF 285–293** — `நெஞ்சில் மோதும் நினைவலைகள்!`
+- **3466 — PDF 294–298** — `என்னை மகிழ்விக்க, சென்னைக்கு வருவாயா?`
+- **3467 — PDF 299–303** — actual `36 ஆண்டுகளுக்கு முன் அன்றைய முதல்வர் கலைஞர் நீதியரசர் மகராஜனுக்கு எழுதிய கடிதம்!`; printed contents uses `மகாராஜனுக்கு`; contents date is blank; the reproduced handwritten letter is separately dated `2/11/1974`; preserve it as a facsimile-bearing source record
+- **3468 — PDF 304–314** — `எத்தனை நாள்தான் ஏமாற்றுவார் இந்த நாட்டிலே?`
+- **3469 — PDF 315–316** — `பன்னீர், பயன்படுத்திய பயனிலா வார்த்தை!`
+- **3470 — PDF 317–322** — `சிறுதாவூர் சீமாட்டிக்கு சீற்றம் ஏனோ?`
 
 Mandatory English startup before changing records:
 
@@ -95,9 +106,9 @@ Mandatory English startup before changing records:
 - use the controlling scan only if a concrete Tamil defect is suspected;
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
-- preserve the distinct 3463 and 3464 contents/actual-title layers;
+- preserve Letter 3467’s distinct contents/actual-title/date/facsimile layers;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3465 / PDF 293** and do not begin **3466 / PDF 294**;
+- stop after **3470 / PDF 322** and do not begin **3471 / PDF 323**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE

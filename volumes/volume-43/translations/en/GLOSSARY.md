@@ -1,6 +1,6 @@
 # Volume 43 English Translation — Glossary
 
-**Status:** locked after pilot review; checked through source-checked normal batch 6, Letters 3456–3460. Batch 5 introduced no new recurring terminology; batch 6 adds the source-defined federal term `மாநில சுயாட்சி` → **State autonomy**.
+**Status:** locked after pilot review; checked through source-checked normal batch 7, Letters 3461–3465. Batch 5 introduced no new recurring terminology; batch 6 adds the source-defined federal term `மாநில சுயாட்சி` → **State autonomy**; batch 7 adds the source-defined rights-language term `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` → **differently abled persons / differently abled people** and recurring `உள் ஒதுக்கீடு` → **internal reservation**.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 43 translation/QA but may not override a different meaning supported by a source passage.
 
@@ -16,6 +16,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `மத்திய அரசு` | **Union Government** | Preferred in institutional/legal prose. |
 | `மாநில அரசு` | **State government** | Preserve the source’s State/Union contrast. |
 | `மாநில சுயாட்சி` | **State autonomy** | Preserve as a federal/constitutional demand distinct from secession; Letter 3458 explicitly rejects country-breakup or separate-government readings. |
+| `உள் ஒதுக்கீடு` | **internal reservation** | Preserve the source’s nested-reservation distinction, including the Arunthathiyar argument in Letter 3460 and the later Backward/Most Backward allocation proposed within women’s reservation in Letter 3464. |
 | `காவல் துறை` | **Police Department / police** | Choose the natural institutional form without changing source scope. |
 | `பஞ்சப்படி` / `அகவிலைப்படி` | **Dearness Allowance** | Employment/pay context; preserve source figures. |
 | `கன்னக்களவு` | **housebreaking** | Preserve the source crime-category distinction. |
@@ -34,6 +35,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `கரசேவை` | **kar seva** | Retain the source’s political-religious term rather than replacing it with a generic phrase. |
 | `உதயசூரியன்` | **Rising Sun** | Retain the recurring election-symbol image and the source’s explicit DMK-symbol identification. |
 | `ஊனமுற்றோர்` | **persons with disabilities** | Translation treatment of the source’s period welfare category; the canonical Tamil wording is not rewritten. |
+| `மாற்றுத் திறனாளிகள்` / `மாற்றுத் திறன் உடையோர்` | **differently abled persons / differently abled people** | Letter 3463 explicitly presents this as a rights-based replacement for older `ஊனமுற்றோர்` language. Use this treatment when carrying that terminological argument; preserve statutory/source-English disability wording separately. |
 | `தசை சிதைவு` | **muscular dystrophy** | Welfare-scheme context; preserve the source’s eligibility and financial figures. |
 | `மனவளர்ச்சி குன்றியோர்` | **persons with intellectual disabilities** | Use as a functional English rendering; do not add an outside diagnostic standard. |
 | `உலகத் தமிழ்ச் செம்மொழி மாநாடு` | **World Classical Tamil Conference** | Locked for the 2010 Coimbatore conference references. |
@@ -57,7 +59,9 @@ Printed English that functions as source wording is preserved rather than silent
 - source company names such as `Broad Line Computers System`, `Wescos Properties and Developers`, `Victory Equities and Forex India Limited`, and `Gold Quest International Pvt. Ltd.`;
 - `(scooters)` in Letter 3438 and `தமிழ்நெட் 1999` / **TamilNet 1999** in Letter 3439 where the source itself supplies the English form;
 - Caldwell’s English passage beginning `The ancient or classical dialect of the Tamil language...` as printed across Letters 3446 source pages;
-- Pavanar’s source-supplied English headings under `EVIDENCES OF THE PRIMARY CLASSICALITY OF TAMIL` in Letter 3447.
+- Pavanar’s source-supplied English headings under `EVIDENCES OF THE PRIMARY CLASSICALITY OF TAMIL` in Letter 3447;
+- Letter 3463 source strings `Right Based`, `United Nations Convention Rights for Person with Disabilities Act, 2007`, and `Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act 1995`;
+- Letter 3464 heading `Don’t fail the Women of India` and the complete source-supplied *The Hindu* / *Indian Express* English passages.
 
 ## Political, rhetorical and literary language
 
@@ -75,6 +79,11 @@ Printed English that functions as source wording is preserved rather than silent
 - Letters 3445–3451 preserve `செப்பேடு` as the recurring **copper-plate record** image. Historical, linguistic, archaeological and political claims remain source-framed, and Letters 3448–3449 translate the Tamil renderings actually printed rather than substituting outside English versions.
 - Letter 3457’s unnamed political allegory remains source-implicit; do not insert outside identities into the queen, companion or ascetics.
 - Letter 3458 preserves **State autonomy** as a demand the source expressly distinguishes from secession, and keeps its clock, necklace-hook and kolam images.
+- Letter 3461 preserves the black-dot, *thumbai* flower and dud-firework imagery in its film-world controversy sequence.
+- Letter 3462’s Socrates, Prophet Muhammad, Jesus and Gandhi narratives remain source-framed rather than externally reconciled.
+- Letter 3463 preserves the shift from welfare/charity language to rights-based **differently abled persons** terminology, without rewriting the canonical Tamil.
+- Letter 3464 preserves the overall 33-per-cent women’s-reservation demand, later **internal reservation** distinction and feast-invitation analogy.
+- Letter 3465 preserves the monument inventory, measurements, quoted speeches, historical chronology and place-name explanations as source-framed material.
 - Figures, dates, lists and quotations remain in source order and are not silently reconciled against outside records.
 - Where the source moves between official/administrative terminology and political-familial language, preserve that shift rather than flattening it.
 
