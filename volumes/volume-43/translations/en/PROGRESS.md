@@ -1,10 +1,9 @@
 # English Translation Progress — Volume 43
 
-- Translation status: **in progress**
+- Translation/source-check status: **COMPLETE — 56 / 56 — 3428–3483**
 - Tamil canonical coverage: **PDF 001–402 / 402**
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — 402 / 402**
-- Source letters translated/source-checked: **48 / 56 — 3428–3475**
 - Pilot source-check: **PASS — 3428–3430 / PDF 024–048**
 - Translation conventions: **LOCKED**
 - Normal batch 1: **PASS — 3431–3435 / PDF 049–086**
@@ -16,7 +15,8 @@
 - Normal batch 7: **PASS — 3461–3465 / PDF 266–293**
 - Normal batch 8: **PASS — 3466–3470 / PDF 294–322**
 - Normal batch 9: **PASS — 3471–3475 / PDF 323–353**
-- Canonical Tamil changes during English work: **0**
+- User-approved final completion batch: **PASS — 3476–3483 / PDF 354–400 — 8 / 8**
+- Canonical Tamil changes during English source-check: **0**
 - Bilingual alignment: **not started**
 - Editorial review: **not started**
 - Final release: **not started**
@@ -53,7 +53,7 @@ Letters **3441–3445 / PDF 119–156** — five of five source-checked. Letter 
 | 3449 | Some Copper-Plate Records in the History of Classical Tamil — 5: A Collection of Views from a California Professor! | 182–190 | source-checked |
 | 3450 | Some Copper-Plate Records in the History of Classical Tamil — 6: Continuing Actions for Classical Tamil to Flourish! | 191–198 | source-checked |
 
-Batch 4 preserves the source-supplied Caldwell English and Pavanar’s fifteen English evidence headings. Letters 3448 and 3449 translate the Tamil renderings printed in the canonical source rather than substituting outside English versions. Historical, linguistic, archaeological and political claims remain source-framed. Letter 3450 preserves its 2003 speech, figures, participant lists and political attribution without outside reconciliation. **No canonical Tamil change was required.**
+Batch 4 preserves source-supplied Caldwell English and Pavanar’s fifteen English evidence headings. Letters 3448 and 3449 translate the Tamil renderings printed in the canonical source rather than substituting outside English versions. Historical, linguistic, archaeological and political claims remain source-framed. Letter 3450 preserves its 2003 speech, figures, participant lists and political attribution without outside reconciliation. **No canonical Tamil change was required.**
 
 ## Normal batch 5 — source-check PASS
 
@@ -65,7 +65,7 @@ Batch 4 preserves the source-supplied Caldwell English and Pavanar’s fifteen E
 | 3454 | Alas! On This Day, the Memory of That Day! | 235–240 | source-checked |
 | 3455 | ‘Is the Fence Devouring the Crop?’ | 241–245 | source-checked |
 
-Batch 5 closes the seven-part classical-Tamil-history sequence with Letter 3451, preserving Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Letter 3452 retains the Tamil New Year/Pongal celebration imagery and policy figures. Letter 3453 preserves its Assembly-history chronology, dated counter-records, source-supplied English passages, financial figures and political allegations as source-attributed material. Letter 3454 preserves Anna memorial chronology and the audited ellipsis lengths in its Tamil appendix. Letter 3455 preserves the Uttaramerur/democracy argument and the Pennagaram/Election Commission criticism as attributed claims. **No canonical Tamil change was required.**
+Batch 5 closes the seven-part classical-Tamil-history sequence with Letter 3451, preserving Sonia Gandhi’s source-supplied 8 November 2005 English letter exactly as printed. Letter 3452 retains the Tamil New Year/Pongal celebration imagery and policy figures. Letter 3453 preserves its Assembly-history chronology, dated counter-records, source-supplied English passages, financial figures and political allegations as source-attributed material. Letter 3454 preserves Anna memorial chronology and audited ellipsis lengths in its Tamil appendix. Letter 3455 preserves the Uttaramerur/democracy argument and the Pennagaram/Election Commission criticism as attributed claims. **No canonical Tamil change was required.**
 
 ## Normal batch 6 — source-check PASS
 
@@ -77,7 +77,7 @@ Batch 5 closes the seven-part classical-Tamil-history sequence with Letter 3451,
 | 3459 | Politics in Sugarcane! | 257–259 | source-checked |
 | 3460 | The National Commission for Scheduled Castes and the DMK Government! | 260–265 | source-checked |
 
-Batch 6 preserves Letter 3456’s welfare/anti-untouchability sequence, Papapatti–Keeripatti history, Uthapuram/Periyar Nagar walls and three-per-cent Arunthathiyar reservation as source-framed material. Letter 3457 retains the source’s unnamed political allegory without inserting outside identities. Letter 3458 explicitly distinguishes **State autonomy** from secession and retains the clock, necklace-hook and kolam metaphors. Letter 3459 preserves sugarcane pricing, recovery-rate and cooperative-mill loss figures. Letter 3460 preserves the National Commission rebuttal, correspondence dates, housing/reservation/welfare figures, and the printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent correction. **No canonical Tamil change was required.** The glossary adds the recurring federal term `மாநில சுயாட்சி` → **State autonomy**.
+Batch 6 preserves Letter 3456’s welfare/anti-untouchability sequence, Papapatti–Keeripatti history, Uthapuram/Periyar Nagar walls and three-per-cent Arunthathiyar reservation as source-framed material. Letter 3457 retains the source’s unnamed political allegory without inserting outside identities. Letter 3458 explicitly distinguishes **State autonomy** from secession and retains the clock, necklace-hook and kolam metaphors. Letter 3459 preserves sugarcane pricing, recovery-rate and cooperative-mill loss figures. Letter 3460 preserves the National Commission rebuttal, correspondence dates, housing/reservation/welfare figures and the printed chronology anomaly `நேற்றைய தினம் (3-2-2010)` without silent correction. **No canonical Tamil change was required.** The glossary adds `மாநில சுயாட்சி` → **State autonomy**.
 
 ## Normal batch 7 — source-check PASS
 
@@ -101,7 +101,7 @@ Batch 7 preserves Letter 3461’s film-world celebration chronology, 90-acre gra
 | 3469 | The Useless Word Panneer Used! | 315–316 | source-checked |
 | 3470 | Why This Fury from the Lady of Siruthavur? | 317–322 | source-checked |
 
-Batch 8 preserves Letter 3466’s Valluvar Kottam/Kumari statue figures and the author’s mother-outside-the-wedding metaphor. Letter 3467 preserves its actual/contents `மகராஜனுக்கு` / `மகாராஜனுக்கு` distinction, blank contents date, record-level handwritten date `2/11/1974` and photographed handwritten pages without guessed transcription. Letter 3468 retains all source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and quotation anomalies, while the legal/political allegations remain source-attributed. Letter 3469 preserves the `Udanpirappu`/`போர்வை` argument, eighteen-year motif and Anna closing. Letter 3470 preserves its anti-astrology anecdote, Tamil dramatic dialogue, source-supplied Macmillan English and political rebuttal. **No canonical Tamil change was required. No new recurring glossary treatment was required.**
+Batch 8 preserves Letter 3466’s Valluvar Kottam/Kumari statue figures and the author’s mother-outside-the-wedding metaphor. Letter 3467 preserves its actual/contents `மகராஜனுக்கு` / `மகாராஜனுக்கு` distinction, blank contents date, record-level handwritten date `2/11/1974` and photographed handwritten pages without guessed transcription. Letter 3468 retains all source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and quotation anomalies, while legal/political allegations remain source-attributed. Letter 3469 preserves the `Udanpirappu`/`போர்வை` argument, eighteen-year motif and Anna closing. Letter 3470 preserves its anti-astrology anecdote, Tamil dramatic dialogue, source-supplied Macmillan English and political rebuttal. **No canonical Tamil change was required. No new recurring glossary treatment was required.**
 
 ## Normal batch 9 — source-check PASS
 
@@ -115,19 +115,39 @@ Batch 8 preserves Letter 3466’s Valluvar Kottam/Kumari statue figures and the 
 
 Batch 9 preserves Letter 3471’s World Classical Tamil Conference preparations and explicit non-party framing. Letters 3472–3474 preserve the printed-contents long-`ஓய்யாரக்...` / actual-title short-`ஒய்யாரக்...` layers independently, together with the source-attributed TANSI/court chronology, newspaper renderings, asset figures and 2003 employee-dismissal sequence. Letter 3475 preserves Article 348(2), the 6-12-2006 Assembly resolution, the Governor/High Court/Union Government sequence, ₹32-crore / ₹22-crore distinction, language-agitation history, and the source-supplied `Dear Chief Justice,` English letter verbatim. **No canonical Tamil change was required. No new recurring glossary treatment was required.**
 
-All forty-eight source-checked records remain `bilingual_alignment_status: pending` until the later meaning-level alignment phase.
+## Final completion batch — source-check PASS
 
+**User-approved batching exception: all eight remaining source records were processed together.**
+
+| Letter | English title | PDF | Status |
+|---:|---|---:|---|
+| 3476 | Do Not Think of Poison; Do Not Trust It and Be Ruined! | 354–357 | source-checked |
+| 3477 | Here Is the Assurance Spoken by the Copper-Plate Records! | 358–363 | source-checked |
+| 3478 | Corruption! Is Your Name Jayalalithaa? | 364–370 | source-checked |
+| 3479 | What Benefit Will This ‘Bandh’ Bring? | 371–374 | source-checked |
+| 3480 | Tamil Will Now Grow to Prevail! | 375–379 | source-checked |
+| 3481 | Unwanted Criticisms; Let Us Forget! Let Us Forgive! | 380–385 | source-checked |
+| 3482 | The Lady’s Baseless Accusation and the Firm Reply! | 386–393 | source-checked |
+| 3483 | The Lady’s Baseless Accusation and the Firm Reply! (2) | 394–400 | source-checked |
+
+Final-batch durable notes:
+
+- **3476** preserves the Classical Tamil Conference invitation, Bharathi/Bharathidasan imagery, the 1995 Thanjavur praise-song rebuttal and the closing `தஞ்சை` / `நஞ்சை` wordplay.
+- **3477** preserves all copper-plate discovery measurements/history and the deliberate source tension between **85 surviving plates**, **86** in the ring inscription and the author’s closing reference to **86 copper plates**.
+- **3478** preserves the Golden Distilleries/Midas licensing chronology, G.O. references, production-cap data, sales series and source-attributed corruption/benami allegations.
+- **3479** preserves the author’s distinction between legitimate protest and truthful/non-violent method, the 1938 anti-Hindi continuity claim, bandh-loss figures and Tamil Nadu arrest figure.
+- **3480** preserves the 15 conference announcements, Tamil-medium Civil/Mechanical rollout, counselling/admission figures, compulsory-Tamil chronology, veterinary seat split and internal-reservation data.
+- **3481** preserves all source-supplied Wall Street Journal English exactly and translates the Tamil rendering of the 2010 article rather than importing outside English.
+- **3482** preserves all departmental allocations, institution lists, food/paddy production series, ₹7,000-crore agricultural-loan-waiver context and fertiliser series. The canonical `3.54 மெட்ரிக் டன்` anomaly remains unchanged in Tamil and is documented rather than silently corrected.
+- **3483** preserves Union/State responsibility, food subsidy, rice/sugar, commodity-price, price-decline, grocery-packet, LPG and central-pool rice figures through final PDF 400.
+- Final completion batch required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
+
+Completion report: [`SOURCE_CHECK_COMPLETION_3476_3483.md`](SOURCE_CHECK_COMPLETION_3476_3483.md).  
 Locked terminology: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
+All **56 / 56** English records remain `bilingual_alignment_status: pending`; source-check completion does not imply alignment.
+
 ## Exact next activity
 
-Translate and source-check **Letters 3476–3480 / PDF 354–379** as normal five-record batch 10:
-
-1. **3476 — PDF 354–357** — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`
-2. **3477 — PDF 358–363** — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`
-3. **3478 — PDF 364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`
-4. **3479 — PDF 371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`
-5. **3480 — PDF 375–379** — `வெல்லத் தமிழ் இனி வளரும்!`
-
-Stop before **Letter 3481 / PDF 380**. The completed second visual pass superseded earlier provisional title-discrepancy claims for **3476** and **3477**; their actual titles match the printed contents. Do not perform bilingual meaning-level alignment in the same activity.
+Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Perform a complete meaning-level Tamil↔English comparison for exactly those five records, document English corrections separately from canonical Tamil changes, set `bilingual_alignment_status: aligned` only after each record passes, create `BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`, and stop before **Letter 3433 / PDF 061**. Do not perform editorial consistency review or final release in the same activity.

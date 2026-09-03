@@ -32,9 +32,9 @@ second_visual_verified_page_range: "1-402"
 second_visual_verified_pages: 402
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "in-progress"
-translated_letter_range: "3428-3475"
-translated_letter_count: 48
+translation_status: "source-check-complete"
+translated_letter_range: "3428-3483"
+translated_letter_count: 56
 bilingual_alignment_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -96,4 +96,6 @@ source_observations:
   - "Batch 8 preserves Letter 3466's Valluvar Kottam/Kumari statue chronology and figures; Letter 3467's actual/contents title distinction, blank contents date and unguessed handwritten facsimile; Letter 3468's legal chronology and source-supplied Supreme Court English; Letter 3469's Udanpirappu/cover rhetoric and eighteen-year motif; and Letter 3470's anti-astrology narrative plus source-supplied Macmillan English. No new recurring glossary treatment was required."
   - "English normal batch 9 Letters 3471–3475 / PDF 323–353: source-check PASS; cumulative 48 / 56; 0 canonical Tamil changes."
   - "Batch 9 preserves Letter 3471's government-conference/party-conference distinction; Letters 3472–3474's long-ஓ contents / short-ஒ actual-title layers and source-attributed legal chronology; and Letter 3475's High Court Tamil-language chronology, ₹32-crore / ₹22-crore distinction and verbatim source-supplied `Dear Chief Justice,` English letter. No new recurring glossary treatment was required."
-  - "Next English activity is Letters 3476–3480 / PDF 354–379; stop before Letter 3481 / PDF 380. The completed second pass established that 3476 and 3477 actual titles match their printed-contents titles."
+  - "User-approved final oversized English source-check batch Letters 3476–3483 / PDF 354–400: PASS — 8 / 8; cumulative 56 / 56; 0 canonical Tamil changes; no new recurring glossary treatment."
+  - "Final batch preserves 3477's 85-present/86-inscribed copper-plate tension, 3478's Midas chronology and figures, 3479's non-violent protest distinction, 3480's Tamil-medium education/reservation figures, 3481's source-supplied Wall Street Journal English, and 3482–3483's complete fiscal/agricultural/price statistical series as source-framed material."
+  - "English drafting/source-check is complete for all 56 Volume 43 records. Next gate is bilingual meaning-level alignment, beginning with Letters 3428–3432 / PDF 024–060."

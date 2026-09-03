@@ -189,9 +189,11 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Canonical page coverage: **PDF 001–402 / 402**
 - Completed letters: **56 / 56 — 3428–3483**
 - Partial/source-incomplete letters: **none**
-- English translation/source-check: **IN PROGRESS — 48 / 56 — 3428–3475**
-- Canonical Tamil changes during English work: **0**
+- English translation/source-check: **COMPLETE — 56 / 56 — 3428–3483**
+- Canonical Tamil changes during English source-check: **0**
 - Bilingual meaning-level alignment: **not started**
+- Editorial consistency review: **not started**
+- Final English release verification: **not started**
 
 ## English translation state
 
@@ -205,15 +207,28 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5**; cumulative **38 / 56**.
 - Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5**; cumulative **43 / 56**.
 - Normal batch 9 **3471–3475 / PDF 323–353**: **PASS — 5 / 5**; cumulative **48 / 56**.
-- All forty-eight English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
+- User-approved final completion batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8**; cumulative **56 / 56**.
+- All fifty-six English records remain `bilingual_alignment_status: pending`; source-check does not imply alignment.
 - Batch 8 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
 - Batch 9 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
+- Final completion batch required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
 
 ### Batch 9 durable notes
 
 - **3471** preserves the World Classical Tamil Conference preparations and the source’s explicit insistence that the government conference must not appear as a party conference.
 - **3472–3474** preserve the long-`ஓய்யாரக்...` printed-contents / short-`ஒய்யாரக்...` actual-title layers independently and retain their legal/political chronology as source-attributed material.
 - **3475** preserves Article 348(2), the 6-12-2006 Assembly resolution, Governor/High Court/Union Government chronology, the ₹32-crore / ₹22-crore distinction, language-agitation history and the source-supplied `Dear Chief Justice,` English letter verbatim.
+
+### Final completion batch durable notes
+
+- **3476** preserves the `தஞ்சை` / `நஞ்சை` wordplay and conference/self-publicity rebuttal.
+- **3477** preserves the copper-plate discovery and source tension between **85 surviving**, **86 inscribed** and **86 invoked** plates.
+- **3478** preserves the Golden/Midas licensing chronology, G.O. references, production caps, sales series and source-attributed corruption/benami claims.
+- **3479** preserves the truthful/non-violent protest distinction, 1938 anti-Hindi continuity claim and bandh-loss/arrest figures.
+- **3480** preserves Tamil-medium engineering, compulsory-Tamil, veterinary-admission and internal-reservation figures.
+- **3481** preserves the source-supplied Wall Street Journal English exactly and translates the source’s Tamil rendering of the article body.
+- **3482–3483** preserve the complete departmental, agricultural, fertiliser, subsidy, commodity-price and public-distribution statistical series through final PDF 400.
+- Durable report: `translations/en/SOURCE_CHECK_COMPLETION_3476_3483.md`.
 
 ## Source fidelity notes
 
@@ -231,4 +246,4 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 
 ## Exact next activity
 
-Translate and source-check **Letters 3476–3480 / PDF 354–379** as Volume 43 normal English batch 10. The completed second visual/textual-fidelity pass confirms **3476** and **3477** actual titles match printed contents; do not reopen those superseded discrepancy claims. Stop before **Letter 3481 / PDF 380**. Follow `TRANSLATION_PLAN.md`, preserve the complete audited canonical Tamil representation in each record, and do not perform bilingual meaning-level alignment in the same activity.
+Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and source-checked English at meaning level for exactly those five records; document English corrections separately from canonical Tamil changes; set `bilingual_alignment_status: aligned` only after each record passes; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`; stop before **Letter 3433 / PDF 061**; and do not perform editorial consistency review or final release verification in the same activity.

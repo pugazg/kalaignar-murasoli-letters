@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Batch 10
+# Next Chat Prompt — Volume 43 Bilingual Alignment Batch 1
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -12,7 +12,7 @@ Controlling source PDF:
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve the newest durable state. Do not reset, repeat or reopen completed Tamil or English work because a copied checkpoint is older.
+Fetch live `main` first and preserve the newest durable state. Do not reset, repeat or reopen completed Tamil transcription or English source-check work because a copied checkpoint is older.
 
 ## Mandatory startup
 
@@ -36,6 +36,7 @@ Before any repository change, read completely:
 16. `volumes/volume-43/translations/en/GLOSSARY.md`
 17. `volumes/volume-43/translations/en/TRANSLATION_MANIFEST.csv`
 18. `volumes/volume-43/translations/en/PILOT_REVIEW_3428_3430.md`
+19. `volumes/volume-43/translations/en/SOURCE_CHECK_COMPLETION_3476_3483.md`
 
 ## Volume 43 durable Tamil boundary
 
@@ -49,84 +50,71 @@ Before any repository change, read completely:
 - Partial/source-incomplete records: **none**
 - Full-volume Tamil structural audit: **PASS**
 - Second direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**
-- PDF **401**: non-letter end matter
-- PDF **402**: back cover / portrait / publisher-contact-price material
-- No Letter **3484** is created in Volume 43
+- PDF **401** is non-letter end matter; PDF **402** is back-cover / portrait / publisher-contact-price material.
+- No Letter **3484** is created in Volume 43.
 
-The controlling scan remains the highest authority if a possible Tamil defect is discovered, but do not reopen completed Tamil verification without a concrete defect report.
+The controlling scan remains the highest authority if a concrete Tamil defect is discovered, but do not reopen completed Tamil verification without such a defect.
 
-## Durable English boundary
+## Durable English source-check boundary
 
-- Pilot **3428–3430 / PDF 024–048**: **PASS — 3 / 3 source-checked**
-- Volume 43 translation conventions: **LOCKED**
-- Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5**
-- Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5**
-- Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5**
-- Normal batch 4 **3446–3450 / PDF 157–198**: **PASS — 5 / 5**
-- Normal batch 5 **3451–3455 / PDF 199–245**: **PASS — 5 / 5**
-- Normal batch 6 **3456–3460 / PDF 246–265**: **PASS — 5 / 5**
-- Normal batch 7 **3461–3465 / PDF 266–293**: **PASS — 5 / 5**
-- Normal batch 8 **3466–3470 / PDF 294–322**: **PASS — 5 / 5**
-- Normal batch 9 **3471–3475 / PDF 323–353**: **PASS — 5 / 5**
-- Cumulative source-check: **48 / 56 — 3428–3475**
-- Canonical Tamil changes during English work: **0**
-- Bilingual meaning-level alignment: **not started; separate later gate**
-- Editorial review: **not started**
-- Final English release: **not started**
+- Pilot **3428–3430 / PDF 024–048**: **PASS — 3 / 3**
+- Normal batches 1–9 through **3475 / PDF 353**: **PASS**
+- User-approved final oversized completion batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8**
+- Cumulative English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483**
+- Canonical Tamil changes during English source-check: **0**
+- Translation conventions: **LOCKED**
+- Bilingual meaning-level alignment: **not started**
+- Editorial consistency review: **not started**
+- Final English release verification: **not started**
 
-Every completed English record contains the complete audited canonical Tamil representation under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
+Every English record contains the complete audited canonical Tamil under `## Original Tamil — மூலத் தமிழ்` with physical source-page markers. `source-checked` is not the same as `aligned`.
 
-## Batch 8 translation notes
+## Final source-check durable notes
 
-- Letter **3466** preserves Valluvar Kottam, the Kumari Valluvar statue, all printed architectural figures, the mother-outside-the-wedding image, `You can win`, and TIDEL/IT-policy material.
-- Letter **3467** is a special facsimile-bearing record: actual title uses `மகராஜனுக்கு`, printed contents uses `மகாராஜனுக்கு`, the contents date cell remains blank, and the photographed handwritten review is separately dated `2/11/1974`. The English record translates the typeset editorial introduction but does not invent a transcription/translation for handwriting that the audited canonical Tamil deliberately leaves as facsimile.
-- Letter **3468** preserves the complete legal chronology and source-supplied Supreme Court English verbatim, including `and/ or`, `ourinterference` and source quotation irregularities. Legal/political allegations remain source-attributed.
-- Letter **3469** preserves `Udanpirappu`, the `போர்வை` / cover rebuttal, the eighteen-year motif and `வாழ்க வசவாளர்கள்` closing.
-- Letter **3470** preserves the childhood anti-astrology narrative, Tamil dramatic dialogue, verbatim Macmillan English and political rebuttal.
-- Batch 8 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
-
-## Batch 9 translation notes
-
-- Letter **3471** preserves the World Classical Tamil Conference preparations and the author’s insistence that the event must not appear to be a party conference.
-- Letters **3472–3474** preserve the printed-contents long-`ஓய்யாரக்...` / actual-title short-`ஒய்யாரக்...` layers independently; their court/legal chronology and allegations remain source-attributed.
-- Letter **3475** preserves Article 348(2), the 6-12-2006 Assembly resolution, Governor/High Court/Union Government chronology, ₹32-crore / ₹22-crore distinction, language-agitation history and the source-supplied `Dear Chief Justice,` English letter verbatim.
-- Batch 9 required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
+- **3476** preserves the `தஞ்சை` / `நஞ்சை` wordplay and conference/self-publicity rebuttal.
+- **3477** preserves the source tension between **85 surviving plates**, the ring inscription stating **86**, and the author’s closing reference to **86 copper plates**.
+- **3478** preserves the Golden/Midas Distilleries licensing chronology, printed G.O. references, production limits, sales series and source-attributed corruption/benami allegations.
+- **3479** preserves the distinction between legitimate protest and truthful/non-violent method, the 1938 anti-Hindi continuity claim and the source’s bandh-loss/arrest figures.
+- **3480** preserves all Tamil-medium engineering, compulsory-Tamil, veterinary-admission and internal-reservation figures.
+- **3481** preserves source-supplied English exactly, including the Wall Street Journal headline, `THE ASIAN WALL STREET JOURNAL`, `Advertisement - Advantage Tamil Nadu-`, and the printed `Further to our telecon...` rate sentence.
+- **3482–3483** preserve the complete departmental, agricultural, fertiliser, subsidy, commodity-price and public-distribution statistical series as source-framed material.
+- Final eight-record source-check required **0 canonical Tamil changes** and **no new recurring glossary treatment**.
 
 ## Source-layer reminder
 
-Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Preserve those source layers independently when their records are reached.
+Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second visual pass.
 
-Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second visual pass. For Batch 10 specifically, the actual titles of **3476** and **3477** match their printed-contents titles and must not be reopened as discrepancies.
+## Alignment policy
 
-## English policy
+For bilingual alignment, compare the English body against the complete audited Tamil appendix and canonical page files at meaning level. Check every title, paragraph, sentence, figure, date, quotation, list item, rhetorical turn and closing. Preserve source-supplied English verbatim where the source printed it. Preserve source-attributed political, legal, historical and religious claims without outside adjudication.
 
-Use audited canonical Tamil as the immediate translation source. Preserve thought/argument order, political directness, accusation, irony, rhetorical questions, repetition, quotations, names, dates, figures, units, source-supplied English and documented source anomalies. Do not silently improve or reconcile historical/political claims from outside knowledge.
+If the English meaning is incomplete or inaccurate, correct the English record and document the correction. If a Tamil defect is suspected, return to the controlling scan before making any canonical Tamil change. Record English corrections separately from Tamil changes.
 
-Follow `volumes/volume-43/TRANSLATION_PLAN.md` and the locked treatments in `translations/en/GLOSSARY.md`. `source-checked` does not mean `aligned`.
+Do **not** mark editorial consistency review or final release complete during alignment.
 
 ## Exact next activity
 
-Translate and source-check exactly **five records — Letters 3476–3480 / PDF 354–379**:
+Perform **Bilingual Alignment Batch 1 — exactly five records, Letters 3428–3432 / PDF 024–060**:
 
-1. **3476 — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!` — PDF 354–357**
-2. **3477 — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!` — PDF 358–363**
-3. **3478 — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?` — PDF 364–370**
-4. **3479 — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?` — PDF 371–374**
-5. **3480 — `வெல்லத் தமிழ் இனி வளரும்!` — PDF 375–379**
+1. **3428 — PDF 024–032** — `காக்கும் கரங்களுமன்றோ?`
+2. **3429 — PDF 033–039** — `இங்கு வந்துள்ள தமிழர்க்கும் இடர் களைவோம்!`
+3. **3430 — PDF 040–048** — `கேளாக் காதினராய் கேரள அரசினர்; தேளாய்க் கொட்டுவதோ!`
+4. **3431 — PDF 049–053** — `இதில் எது கையாலாகாத்தனம்?`
+5. **3432 — PDF 054–060** — `கண்ணீர் துடைத்திடுக! கடமை தொடர்ந்திடுக!`
 
-Stop before **Letter 3481 / PDF 380**.
+Stop before **Letter 3433 / PDF 061**.
 
-For every record:
+For the batch:
 
-- create the complete thought-preserving English translation;
-- source-check every canonical Tamil paragraph against the English;
-- preserve dates, figures, quotations, rhetoric and closings;
-- include the complete audited Tamil appendix with physical page markers;
-- if a Tamil defect is suspected, inspect the controlling scan before changing canonical Tamil;
+- compare Tamil ↔ English meaning linearly and completely;
+- correct English only where alignment requires it;
+- reopen Tamil only if a concrete source defect is found;
+- set `bilingual_alignment_status: aligned` only after the individual record passes;
+- create a durable `BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` report;
 - update manifest, English progress/README, metadata and handover controls;
-- update the glossary only for genuinely new recurring terms;
-- do not perform bilingual meaning-level alignment in this activity.
+- report English corrections and canonical Tamil changes separately;
+- do not perform editorial consistency review or final release verification in the same activity.
 
 ## Git discipline
 
-Work directly on `main`. Re-fetch live `main` immediately before mutation, preserve concurrent work, build a candidate tree/commit without moving `main`, validate parent → candidate changed-file scope, publish one atomic commit, fast-forward with `force: false`, and verify parent → new HEAD afterward.
+Work directly on `main`. Re-fetch live `main` immediately before mutation, preserve concurrent work, build a candidate tree/commit without moving `main`, validate parent → candidate changed-file scope, publish by fast-forward only with `force: false`, and verify parent → new HEAD afterward.

@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**IN PROGRESS — 48 / 56 source-checked.** Tamil structural and second direct visual/textual-fidelity gates are complete. The three-letter pilot and the first nine normal five-record batches have passed source-check; Volume 43 conventions are locked.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment remains a separate next gate.
 
 ## Pilot — PASS
 
@@ -71,23 +71,28 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 - [3474 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... 3](letters/3474-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-3.md) — PDF 340–347 — source-checked
 - [3475 — Come, Striped Tiger, to Show That Truth Will Triumph!](letters/3475-come-striped-tiger-to-show-that-truth-will-triumph.md) — PDF 348–353 — source-checked
 
+## Final completion batch — PASS
+
+**User-approved batching exception: all remaining eight records were source-checked together.**
+
+- [3476 — Do Not Think of Poison; Do Not Trust It and Be Ruined!](letters/3476-do-not-think-of-poison-do-not-trust-it-and-be-ruined.md) — PDF 354–357 — source-checked
+- [3477 — Here Is the Assurance Spoken by the Copper-Plate Records!](letters/3477-here-is-the-assurance-spoken-by-the-copper-plate-records.md) — PDF 358–363 — source-checked
+- [3478 — Corruption! Is Your Name Jayalalithaa?](letters/3478-corruption-is-your-name-jayalalithaa.md) — PDF 364–370 — source-checked
+- [3479 — What Benefit Will This ‘Bandh’ Bring?](letters/3479-what-benefit-will-this-bandh-bring.md) — PDF 371–374 — source-checked
+- [3480 — Tamil Will Now Grow to Prevail!](letters/3480-tamil-will-now-grow-to-prevail.md) — PDF 375–379 — source-checked
+- [3481 — Unwanted Criticisms; Let Us Forget! Let Us Forgive!](letters/3481-unwanted-criticisms-let-us-forget-let-us-forgive.md) — PDF 380–385 — source-checked
+- [3482 — The Lady’s Baseless Accusation and the Firm Reply!](letters/3482-the-ladys-baseless-accusation-and-the-firm-reply.md) — PDF 386–393 — source-checked
+- [3483 — The Lady’s Baseless Accusation and the Firm Reply! (2)](letters/3483-the-ladys-baseless-accusation-and-the-firm-reply-2.md) — PDF 394–400 — source-checked
+
+Final completion report: [`SOURCE_CHECK_COMPLETION_3476_3483.md`](SOURCE_CHECK_COMPLETION_3476_3483.md) — **PASS — 8 / 8; cumulative 56 / 56**.
+
 Glossary: [`GLOSSARY.md`](GLOSSARY.md).  
 Manifest: [`TRANSLATION_MANIFEST.csv`](TRANSLATION_MANIFEST.csv).
 
-The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a possible Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned; alignment remains a separate later gate. No canonical Tamil change was required during normal batches 1–9.
+The audited canonical Tamil is the immediate English source. The controlling scan remains ultimate if a concrete Tamil defect is discovered. Source-checked does **not** mean bilingual-aligned. Across all source-check work, **0 canonical Tamil changes** were required.
 
-Batch 8 preserves Letter 3466’s complete Valluvar Kottam/Kumari statue chronology and mother-outside-the-wedding metaphor; Letter 3467’s contents/actual-title/date layers and non-transcribed handwritten facsimile; Letter 3468’s legal chronology and verbatim source-supplied Supreme Court English, including `ourinterference`; Letter 3469’s `Udanpirappu`/`போர்வை` rebuttal and eighteen-year motif; and Letter 3470’s anti-astrology argument plus the verbatim Macmillan English passage. Batch 8 required **0 canonical Tamil changes** and introduced **no new recurring glossary treatment**.
-
-Batch 9 preserves Letter 3471’s government-conference / party-conference distinction; Letters 3472–3474’s long-`ஓ` printed-contents / short-`ஒ` actual-title layers and source-attributed legal chronology; and Letter 3475’s High Court Tamil-language chronology, ₹32-crore / ₹22-crore distinction and verbatim source-supplied `Dear Chief Justice,` English letter. Batch 9 required **0 canonical Tamil changes** and introduced **no new recurring glossary treatment**.
+Final source-check durable points include the 3477 85-present/86-inscribed copper-plate tension, 3478 Midas chronology and figures, 3479 non-violent-method distinction, 3480 professional-education/reservation figures, 3481 verbatim source-supplied Wall Street Journal English, and the complete fiscal/agricultural/price series in 3482–3483. No new recurring glossary term was introduced by the final batch.
 
 ## Exact next activity
 
-Translate and source-check normal five-record batch 10: **Letters 3476–3480 / PDF 354–379**:
-
-1. **3476 — PDF 354–357** — `நஞ்சை எண்ணாதே; நம்பிக் கெடாதே!`
-2. **3477 — PDF 358–363** — `இதோ; செப்பேடுகள் உரைத்திடும் உறுதி!`
-3. **3478 — PDF 364–370** — `ஊழலே! உன் பெயர்தான் ஜெயலலிதாவா?`
-4. **3479 — PDF 371–374** — `“பந்த்”தால் விளையப் போகும் பயன் என்ன?`
-5. **3480 — PDF 375–379** — `வெல்லத் தமிழ் இனி வளரும்!`
-
-Stop before **Letter 3481 / PDF 380**. The completed second visual pass superseded earlier provisional title-discrepancy claims for 3476 and 3477; their actual titles match the printed contents. Do not perform bilingual meaning-level alignment in the same activity.
+Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and English at meaning level for exactly those five records, document English corrections separately from canonical Tamil changes, set each passing record to `bilingual_alignment_status: aligned`, create `BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`, and stop before **Letter 3433 / PDF 061**. Do not perform editorial consistency review or final release in the same activity.
