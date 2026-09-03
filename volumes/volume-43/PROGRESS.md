@@ -244,7 +244,7 @@ PDF 401 / printed page 400 is non-letter end matter. PDF 402 is the back cover /
 - Earlier provisional discrepancy claims for 3430, 3476, 3477 and 3481 are superseded by the completed second pass.
 - PDF 401–402 remain non-letter source pages and no Letter 3484 is created.
 
-## Exact next activity
+## Historical next activity (completed)
 
 Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and source-checked English at meaning level for exactly those five records; document English corrections separately from canonical Tamil changes; set `bilingual_alignment_status: aligned` only after each record passes; create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`; stop before **Letter 3433 / PDF 061**; and do not perform editorial consistency review or final release verification in the same activity.
 
@@ -266,7 +266,7 @@ Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**.
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`.
-- Exact next activity: **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.
+- Historical next activity (completed): **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.
 
 
 ## Current alignment checkpoint — 3453–3462
@@ -277,7 +277,7 @@ Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
 - Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
-- **Current exact next activity:** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
+- **Historical next activity (completed):** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
 
 ### Alignment checkpoint — 3463–3472
 
@@ -286,4 +286,20 @@ Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**.
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
-- Exact next activity: **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
+- Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
+
+
+## Current authoritative English QA state — alignment complete
+
+- English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**.
+- Bilingual meaning-level alignment: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**.
+- Final user-approved alignment batch **3473–3483 / PDF 332–400**: **PASS — 11 / 11**.
+- English corrections across all alignment reviews: **0**.
+- Canonical Tamil changes exposed by alignment: **0**.
+- Editorial consistency review: **not started**.
+- Final release verification: **not started**.
+- Final alignment report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md`.
+
+## Exact next activity
+
+Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records. Do not begin final release verification in the same activity.

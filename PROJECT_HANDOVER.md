@@ -10,7 +10,7 @@ Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLI
 
 On a new chat, **fetch live `main` before relying on any checkpoint in this document**. If live `main` is newer than any recorded checkpoint, preserve the newer durable state and derive the next activity from the current repository controls. Never regress completed work because an older prompt or handover names an earlier boundary.
 
-The durable Volume 43 Tamil gates are complete. English drafting/source-check is also complete. **Bilingual meaning-level alignment is now the active phase.** Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
+The durable Volume 43 Tamil gates are complete. English drafting/source-check is also complete. **Bilingual meaning-level alignment is complete; the English editorial consistency review is now the active phase.** Any commit SHA copied into a prompt or handover is only a checkpoint; live `main` remains authoritative.
 
 For a fresh chat, the controlling Volume 43 PDF is only required if a possible Tamil defect must be reopened. Alignment should normally use audited canonical Tamil and the source-checked English records as its immediate inputs.
 
@@ -51,7 +51,7 @@ Current durable English state:
 - User-approved final completion batch **3476–3483 / PDF 354–400**: **PASS — 8 / 8 source-checked**
 - Cumulative English drafting/source-check: **COMPLETE — 56 / 56 — 3428–3483**
 - Canonical Tamil changes during English source-check: **0**
-- Bilingual meaning-level alignment: **IN PROGRESS — 45 / 56 aligned — 3428–3472 / PDF 024–331**
+- Bilingual meaning-level alignment: **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**
 - Editorial consistency review: **not started**
 - Final English release verification: **not started**
 
@@ -123,7 +123,7 @@ Preserve these source layers independently:
 
 Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are superseded by the completed second pass.
 
-### Exact next activity
+### Historical next activity (completed)
 
 Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**:
 
@@ -157,7 +157,7 @@ Volume 45 remains complete through Tamil and English release gates: **55 / 55**.
 
 ## Fresh-window start instruction
 
-In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and controls, and begin the exact Volume 43 bilingual-alignment batch without reopening completed Tamil or source-check work unless a concrete defect is found.
+In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the first message. The new chat should fetch live `main`, read the mandatory guides and controls, and begin the Volume 43 English editorial consistency review without reopening completed Tamil or source-check work unless a concrete defect is found.
 
 ## Git discipline
 
@@ -181,7 +181,7 @@ Work on `main` when requested. Prefer one validated atomic commit per declared a
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`.
-- Exact next activity: **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.
+- Historical next activity (completed): **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.
 
 
 ## Current alignment checkpoint — 3453–3462
@@ -192,7 +192,7 @@ Work on `main` when requested. Prefer one validated atomic commit per declared a
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
 - Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
-- **Current exact next activity:** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
+- **Historical next activity (completed):** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
 
 ### Alignment checkpoint — 3463–3472
 
@@ -201,4 +201,20 @@ Work on `main` when requested. Prefer one validated atomic commit per declared a
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
-- Exact next activity: **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
+- Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
+
+
+## Volume 43 — CURRENT ENGLISH QA GATE
+
+- English drafting/source-check: **COMPLETE — 56 / 56**.
+- Bilingual meaning-level alignment: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**.
+- Final alignment review **3473–3483 / PDF 332–400**: **PASS — 11 / 11**.
+- English corrections across all six alignment reviews: **0**.
+- Canonical Tamil changes across alignment: **0**.
+- Editorial consistency review: **not started — ACTIVE NEXT GATE**.
+- Final English release verification: **not started**.
+- PDF 401–402 remain non-letter matter; no Letter 3484 is created in Volume 43.
+
+### Exact next activity
+
+Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records. Use `translations/en/GLOSSARY.md`, `TRANSLATION_MANIFEST.csv` and all six `BILINGUAL_ALIGNMENT_REVIEW_*.md` reports as durable QA controls. Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`; update manifest editorial-review status only after the gate passes; do not begin final release verification in the same activity.

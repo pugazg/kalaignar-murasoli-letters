@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **45 / 56 aligned — 3428–3472 / PDF 024–331**.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is **COMPLETE — 56 / 56 aligned — 3428–3483 / PDF 024–400**. Editorial consistency review is the active next gate.
 
 ## Pilot — PASS
 
@@ -67,22 +67,22 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 
 - [3471 — Coimbatore Conference: A Letter Explaining Its Shortcomings and Merits!](letters/3471-coimbatore-conference-a-letter-explaining-its-shortcomings-and-merits.md) — PDF 323–325 — source-checked; aligned
 - [3472 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say...](letters/3472-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say.md) — PDF 326–331 — source-checked; aligned
-- [3473 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... (2)](letters/3473-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-2.md) — PDF 332–339 — source-checked
-- [3474 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... 3](letters/3474-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-3.md) — PDF 340–347 — source-checked
-- [3475 — Come, Striped Tiger, to Show That Truth Will Triumph!](letters/3475-come-striped-tiger-to-show-that-truth-will-triumph.md) — PDF 348–353 — source-checked
+- [3473 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... (2)](letters/3473-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-2.md) — PDF 332–339 — source-checked; aligned
+- [3474 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... 3](letters/3474-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-3.md) — PDF 340–347 — source-checked; aligned
+- [3475 — Come, Striped Tiger, to Show That Truth Will Triumph!](letters/3475-come-striped-tiger-to-show-that-truth-will-triumph.md) — PDF 348–353 — source-checked; aligned
 
 ## Final completion batch — PASS
 
 **User-approved batching exception: all remaining eight records were source-checked together.**
 
-- [3476 — Do Not Think of Poison; Do Not Trust It and Be Ruined!](letters/3476-do-not-think-of-poison-do-not-trust-it-and-be-ruined.md) — PDF 354–357 — source-checked
-- [3477 — Here Is the Assurance Spoken by the Copper-Plate Records!](letters/3477-here-is-the-assurance-spoken-by-the-copper-plate-records.md) — PDF 358–363 — source-checked
-- [3478 — Corruption! Is Your Name Jayalalithaa?](letters/3478-corruption-is-your-name-jayalalithaa.md) — PDF 364–370 — source-checked
-- [3479 — What Benefit Will This ‘Bandh’ Bring?](letters/3479-what-benefit-will-this-bandh-bring.md) — PDF 371–374 — source-checked
-- [3480 — Tamil Will Now Grow to Prevail!](letters/3480-tamil-will-now-grow-to-prevail.md) — PDF 375–379 — source-checked
-- [3481 — Unwanted Criticisms; Let Us Forget! Let Us Forgive!](letters/3481-unwanted-criticisms-let-us-forget-let-us-forgive.md) — PDF 380–385 — source-checked
-- [3482 — The Lady’s Baseless Accusation and the Firm Reply!](letters/3482-the-ladys-baseless-accusation-and-the-firm-reply.md) — PDF 386–393 — source-checked
-- [3483 — The Lady’s Baseless Accusation and the Firm Reply! (2)](letters/3483-the-ladys-baseless-accusation-and-the-firm-reply-2.md) — PDF 394–400 — source-checked
+- [3476 — Do Not Think of Poison; Do Not Trust It and Be Ruined!](letters/3476-do-not-think-of-poison-do-not-trust-it-and-be-ruined.md) — PDF 354–357 — source-checked; aligned
+- [3477 — Here Is the Assurance Spoken by the Copper-Plate Records!](letters/3477-here-is-the-assurance-spoken-by-the-copper-plate-records.md) — PDF 358–363 — source-checked; aligned
+- [3478 — Corruption! Is Your Name Jayalalithaa?](letters/3478-corruption-is-your-name-jayalalithaa.md) — PDF 364–370 — source-checked; aligned
+- [3479 — What Benefit Will This ‘Bandh’ Bring?](letters/3479-what-benefit-will-this-bandh-bring.md) — PDF 371–374 — source-checked; aligned
+- [3480 — Tamil Will Now Grow to Prevail!](letters/3480-tamil-will-now-grow-to-prevail.md) — PDF 375–379 — source-checked; aligned
+- [3481 — Unwanted Criticisms; Let Us Forget! Let Us Forgive!](letters/3481-unwanted-criticisms-let-us-forget-let-us-forgive.md) — PDF 380–385 — source-checked; aligned
+- [3482 — The Lady’s Baseless Accusation and the Firm Reply!](letters/3482-the-ladys-baseless-accusation-and-the-firm-reply.md) — PDF 386–393 — source-checked; aligned
+- [3483 — The Lady’s Baseless Accusation and the Firm Reply! (2)](letters/3483-the-ladys-baseless-accusation-and-the-firm-reply-2.md) — PDF 394–400 — source-checked; aligned
 
 Final completion report: [`SOURCE_CHECK_COMPLETION_3476_3483.md`](SOURCE_CHECK_COMPLETION_3476_3483.md) — **PASS — 8 / 8; cumulative 56 / 56**.
 
@@ -93,7 +93,7 @@ The audited canonical Tamil is the immediate English source. The controlling sca
 
 Final source-check durable points include the 3477 85-present/86-inscribed copper-plate tension, 3478 Midas chronology and figures, 3479 non-violent-method distinction, 3480 professional-education/reservation figures, 3481 verbatim source-supplied Wall Street Journal English, and the complete fiscal/agricultural/price series in 3482–3483. No new recurring glossary term was introduced by the final batch.
 
-## Exact next activity
+## Historical next activity (completed)
 
 Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and English at meaning level for exactly those five records, document English corrections separately from canonical Tamil changes, set each passing record to `bilingual_alignment_status: aligned`, create `BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`, and stop before **Letter 3433 / PDF 061**. Do not perform editorial consistency review or final release in the same activity.
 
@@ -117,7 +117,7 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. C
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
 - Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
-- **Current exact next activity:** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
+- **Historical next activity (completed):** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
 
 ### Alignment checkpoint — 3463–3472
 
@@ -126,4 +126,15 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. C
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
-- Exact next activity: **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
+- Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
+
+
+## Bilingual alignment — COMPLETE
+
+All **56 / 56 records, Letters 3428–3483 / PDF 024–400**, are durably source-checked and bilingual-aligned. The final user-approved alignment review **3473–3483 / PDF 332–400** passed **11 / 11**, with **0 English corrections** and **0 canonical Tamil changes**. Review: [`BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md`](BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md).
+
+Editorial consistency review and final English release verification remain separate gates.
+
+## Exact next activity
+
+Perform the separate **Volume 43 English editorial consistency review** across the complete 56-record bilingual corpus.

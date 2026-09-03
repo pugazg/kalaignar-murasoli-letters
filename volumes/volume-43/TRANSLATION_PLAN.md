@@ -1,6 +1,6 @@
 # Volume 43 — English Translation Plan
 
-**Status:** **SOURCE-CHECK COMPLETE — 56 / 56; bilingual alignment is the active next phase.**
+**Status:** **SOURCE-CHECK COMPLETE — 56 / 56; BILINGUAL ALIGNMENT COMPLETE — 56 / 56; English editorial consistency review is the active next phase.**
 
 Volume 43 follows the repository's established thought-preserving bilingual workflow.
 
@@ -109,7 +109,7 @@ For each alignment batch:
 8. create a durable batch alignment report and update manifest/progress/handover controls;
 9. do not perform editorial consistency review or final release verification in the same activity unless separately scheduled.
 
-## Exact next activity
+## Historical next activity (completed)
 
 Perform **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**:
 
@@ -131,3 +131,16 @@ Stop at the end of **Letter 3432 / PDF 060**. Do **not** begin Letter 3433 / PDF
 - Editorial consistency review: **not started**.
 - Final release verification: **not started**.
 - Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
+
+
+## Phase 3 — bilingual alignment — COMPLETE
+
+Six durable alignment reviews cover **56 / 56 — 3428–3483 / PDF 024–400**. The final user-approved review processed the remaining **11 records, 3473–3483 / PDF 332–400**, together. Across the complete alignment phase, **0 English corrections** and **0 canonical Tamil changes** were required.
+
+## Phase 4 — English editorial consistency review — NEXT
+
+Review all 56 aligned records as one English corpus for cross-record consistency: title/front-matter/index agreement; dates and PDF ranges; translator/source-check note conventions; names and honorifics; place-name/transliteration conventions; institutions and schemes; political/legal terminology; `lakh`/`crore` quantities; capitalization; punctuation and quotation treatment; source-supplied English; continuation/conclusion markers; documented source anomalies; stale control-layer wording; and complete appended Tamil. This is not a retranslation gate.
+
+## Exact next activity
+
+Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md` after reviewing all **56 / 56** aligned records. Advance manifest editorial-review status only if the gate passes. Do not begin final English release verification in the same activity.
