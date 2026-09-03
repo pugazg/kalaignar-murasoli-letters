@@ -1,12 +1,13 @@
 # Volume 43 English Translation — Glossary
 
-**Status:** locked after pilot review; extended through source-checked normal batch 2, Letters 3436–3440.
+**Status:** locked after pilot review; extended through source-checked normal batch 3, Letters 3441–3445.
 
 The audited canonical Tamil is the immediate translation source. These conventions guide later Volume 43 translation/QA but may not override a different meaning supported by a source passage.
 
 | Source / category | Locked English treatment | Notes |
 |---|---|---|
 | `உடன்பிறப்பே` | **Udanpirappē** | Retain the characteristic salutation; do not flatten to “brother”, “sister” or “comrade”. |
+| `உடன்பிறப்புகள்` / `உடன் பிறப்புகள்` | **Udanpirappugal** | Retain the characteristic political-familial plural where it carries the source’s movement vocabulary, especially in titles or direct collective address. Preserve source-layer joining/separation in Tamil metadata independently. |
 | `அன்புள்ள, / மு.க.` | **With affection, M.K.** | Preserve the printed date separately. |
 | `லட்சம்` / `இலட்சம்` | **lakh** | Retain Indian public-language units and source numerical anomalies. |
 | `கோடி` | **crore** | Do not silently convert to million/billion. |
@@ -29,7 +30,7 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `மத்திய தொழில் பாதுகாப்புப் படை` | **Central Industrial Security Force (CISF)** | Preserve printed English when the source supplies it. |
 | `தலித்` | **Dalit** | Preserve the source’s political/social category. |
 | `ஸ்டாண்டர்ட் ஏக்கர்` | **standard acre** | Do not import an outside land-ceiling definition. |
-| `கரசேவை` | **kar seva** | Retain the source’s political-religious term in Letter 3436 rather than replacing it with a generic phrase. |
+| `கரசேவை` | **kar seva** | Retain the source’s political-religious term rather than replacing it with a generic phrase. |
 | `உதயசூரியன்` | **Rising Sun** | Retain the recurring election-symbol image and the source’s explicit DMK-symbol identification. |
 | `ஊனமுற்றோர்` | **persons with disabilities** | Translation treatment of the source’s period welfare category; the canonical Tamil wording is not rewritten. |
 | `தசை சிதைவு` | **muscular dystrophy** | Welfare-scheme context; preserve the source’s eligibility and financial figures. |
@@ -38,10 +39,12 @@ The audited canonical Tamil is the immediate translation source. These conventio
 | `இலச்சினை (லோகோ)` | **emblem — logo** | Preserve the source’s paired Tamil/borrowed terminology. |
 | `பயிற்று மொழி` | **medium of instruction** | Use in the language-policy context. |
 | `தொடர்பு மொழி` | **link language** | Preserve the source’s distinction from language of government and medium of instruction. |
+| `செப்பேடு` / `செப்பேடுகள்` | **copper-plate record / copper-plate records** | Preserve the inscription/copper-plate image in the recurring `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` series rather than flattening it to “documents” or “notes”. |
+| `செம்மொழி` | **classical language / classical** | Use according to syntax; in the Volume 43 series it refers to Tamil’s classical-language status, while the canonical Tamil controls historical terminology. |
 
 ## Source-English policy
 
-Printed English that functions as source wording is preserved rather than silently rewritten. Pilot examples include:
+Printed English that functions as source wording is preserved rather than silently rewritten. Pilot and regular-batch examples include:
 
 - `Facilities at Refugee Camps good : U.S. Consul-General`;
 - `U.S. Consul-General Andres T. Simkin, on Friday expressed satisfaction with the facilities provided to refugees living in camps in Tamil Nadu`;
@@ -62,6 +65,11 @@ Printed English that functions as source wording is preserved rather than silent
 - The Letter 3437 Rising Sun refrain is carried repeatedly rather than compressed.
 - The Letter 3438 English title preserves the `ஊன்றுகோல்` / walking-stick image; the actual joined title layer and printed-contents separated layer remain distinct.
 - Letters 3439–3440 preserve classical-Tamil quotations and the conference’s historical rhetoric without turning them into modern institutional claims.
+- Letter 3441 retains the long achievement inventory item by item and uses **Udanpirappugal** in the title to preserve the political-familial image.
+- Letter 3442 retains Anna’s campaign exhortation, the source-attributed 1992 kar-seva quotation and the source’s welfare claims without outside reconciliation.
+- Letter 3443 keeps its political comparison and legal claims source-framed.
+- Letter 3444 preserves the full Vaidyanathan–Karunanidhi correspondence and the chariot-rope metaphor rather than reducing it to generic participation.
+- Letter 3445 preserves `செப்பேடுகள்` as the recurring **copper-plate records** image and translates long historical quotations for meaning while the Tamil appendix controls exact archaic wording.
 - Figures, dates, lists and quotations remain in source order and are not silently reconciled against outside records.
 - Where the source moves between official/administrative terminology and political-familial language, preserve that shift rather than flattening it.
 

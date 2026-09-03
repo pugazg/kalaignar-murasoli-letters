@@ -1,4 +1,4 @@
-# Next Chat Prompt — Volume 43 English Translation Batch 3
+# Next Chat Prompt — Volume 43 English Translation Batch 4
 
 Continue the Kalaignar Murasoli Letters archival / bilingual project directly in:
 
@@ -61,7 +61,8 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 - Volume 43 translation conventions: **LOCKED**
 - Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5 source-checked**
 - Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
-- Cumulative source-check: **13 / 56 — 3428–3440**
+- Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5 source-checked**
+- Cumulative source-check: **18 / 56 — 3428–3445**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started; separate later gate**
 - Editorial review: **not started**
@@ -69,24 +70,17 @@ The controlling scan remains the highest authority if a possible Tamil defect is
 
 Every completed English record contains the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers.
 
-## Batch 2 translation notes
+## Batch 3 translation notes
 
-- Letter **3436** retains `கரசேவை` as **kar seva** and keeps all Liberhan/Paul Commission claims source-framed.
-- Letter **3437** retains the full organisational roster and the repeated **Rising Sun** election-symbol verses.
-- Letter **3438** follows actual PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; printed contents independently has `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`.
-- Letter **3439** uses **World Classical Tamil Conference** for `உலகத் தமிழ்ச் செம்மொழி மாநாடு` and preserves the long Anna quotation and conference-planning record.
-- Letter **3440** preserves the quoted `“காஞ்சி”` / `“கோவை”` title pairing and detailed 1968 conference recollection.
+- Letter **3441** follows actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently has joined `உடன்பிறப்புகளில்...`.
+- Letter **3442** preserves Anna’s full election exhortation, the source-attributed 1992 kar-seva quotation, and the source’s Muslim/fishermen welfare claims and figures.
+- Letter **3443** preserves the Leelavathi case and Rajya Sabha comparison as source-framed political/legal material.
+- Letter **3444** preserves the complete K. Vaidyanathan–Karunanidhi correspondence and its chariot-rope participation metaphor.
+- Letter **3445** begins the recurring `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` series. `செப்பேடு` is locked as the **copper-plate record** image; exact historical/archaic Tamil remains in the canonical appendix.
 
 ## Source-layer reminder
 
-Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
-
-For the next batch, Letter **3441** has a genuine difference:
-
-- printed contents: `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`
-- actual PDF 119: `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`
-
-English title metadata must follow the actual letter-start source while the Tamil appendix remains canonical.
+Final genuine printed-contents / actual-title differences are **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**. Preserve those source layers independently when their records are reached.
 
 ## English policy
 
@@ -96,15 +90,15 @@ Follow `volumes/volume-43/TRANSLATION_PLAN.md` and the locked treatments in `tra
 
 ## Exact next activity
 
-Translate and source-check exactly **five records — Letters 3441–3445 / PDF 119–156**:
+Translate and source-check exactly **five records — Letters 3446–3450 / PDF 157–198**:
 
-1. **3441 — `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!` — PDF 119–130**
-2. **3442 — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!` — PDF 131–137**
-3. **3443 — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!` — PDF 138–142**
-4. **3444 — `மீண்டும் இதோ; என் அன்பழைப்பு!` — PDF 143–148**
-5. **3445 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1` — PDF 149–156**
+1. **3446 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு` — PDF 157–164**
+2. **3447 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்` — PDF 165–172**
+3. **3448 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!` — PDF 173–181**
+4. **3449 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை!` — PDF 182–190**
+5. **3450 — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!` — PDF 191–198**
 
-Stop before **Letter 3446 / PDF 157**.
+Stop before **Letter 3451 / PDF 199**.
 
 For every record:
 
@@ -112,6 +106,7 @@ For every record:
 - source-check every Tamil paragraph against the English;
 - preserve dates, figures, quotations, rhetoric and closings;
 - include the complete audited Tamil appendix with physical page markers;
+- preserve `செப்பேடு` as the recurring copper-plate-record image where supported by the sentence;
 - if a Tamil defect is suspected, inspect the controlling scan before changing canonical Tamil;
 - update manifest, English progress/README, metadata and handover controls;
 - update the glossary only for genuinely new recurring terms;

@@ -41,7 +41,8 @@ Current durable English state:
 - Translation conventions: **LOCKED**
 - Normal batch 1 **3431–3435 / PDF 049–086**: **PASS — 5 / 5 source-checked**
 - Normal batch 2 **3436–3440 / PDF 087–118**: **PASS — 5 / 5 source-checked**
-- Cumulative English source-check: **13 / 56 — 3428–3440**
+- Normal batch 3 **3441–3445 / PDF 119–156**: **PASS — 5 / 5 source-checked**
+- Cumulative English source-check: **18 / 56 — 3428–3445**
 - Canonical Tamil changes during English work: **0**
 - Bilingual meaning-level alignment: **not started**
 - Editorial consistency review: **not started**
@@ -49,13 +50,13 @@ Current durable English state:
 
 Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`, with physical source-page markers retained. `source-checked` must remain distinct from the later `aligned` gate.
 
-### Batch 2 durable notes
+### Batch 3 durable notes
 
-- **3436** preserves the Liberhan/kar-seva/Paul Commission argument as source-framed political material; `கரசேவை` is retained as **kar seva**.
-- **3437** preserves the complete district campaign roster and the repeated **Rising Sun** election-symbol verses.
-- **3438** follows actual PDF 099 `ஊனமுற்றோரின் ஊன்றுகோலாகக் கழக அரசு!`; printed contents independently retains `ஊனமுற்றோரின் ஊன்று கோலாகக் கழக அரசு!`.
-- **3439** locks **World Classical Tamil Conference** for `உலகத் தமிழ்ச் செம்மொழி மாநாடு` and preserves the long Anna quotation plus conference planning.
-- **3440** preserves the `“காஞ்சி”` / `“கோவை”` title pairing and the source’s detailed 1968 Second World Tamil Conference recollection.
+- **3441** follows actual PDF 119 `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents independently retains joined `உடன்பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`. The complete achievement inventory remains itemised in the English record.
+- **3442** preserves the full Anna quotation, the source-attributed 1992 kar-seva quotation, and the source’s Muslim/fishermen welfare claims and figures without outside reconciliation.
+- **3443** preserves the Leelavathi case and Rajya Sabha comparison as source-framed political/legal material.
+- **3444** preserves the full K. Vaidyanathan–Karunanidhi correspondence and the chariot-rope metaphor.
+- **3445** begins the `செம்மொழி வரலாற்றில் சில செப்பேடுகள்` sequence. `செப்பேடு` is locked as the recurring **copper-plate record** image; long archaic Tamil quotations remain exact in the Tamil appendix.
 - No audited Tamil defect was suspected during this batch; **0 Tamil changes**.
 
 ### Final genuine title-layer differences
@@ -74,13 +75,13 @@ Earlier provisional discrepancy claims for **3430, 3476, 3477 and 3481** are sup
 
 ### Exact next activity
 
-Translate and source-check **Letters 3441–3445 / PDF 119–156** as Volume 43 normal English batch 3:
+Translate and source-check **Letters 3446–3450 / PDF 157–198** as Volume 43 normal English batch 4:
 
-- **3441 — PDF 119–130** — actual title `உடன் பிறப்புகளில் ஒருவனாக விடுக்கும் வேண்டுகோள்!`; printed contents has joined `உடன்பிறப்புகளில்...`.
-- **3442 — PDF 131–137** — `சோதனைகளை வென்ற கழக அரசின் சாதனைகள்!`
-- **3443 — PDF 138–142** — `அவர்களும் நாமும்; ஓர் ஒப்பீடு!`
-- **3444 — PDF 143–148** — `மீண்டும் இதோ; என் அன்பழைப்பு!`
-- **3445 — PDF 149–156** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-1`
+- **3446 — PDF 157–164** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-2 கால்டுவெல் காட்டிய திராவிடத் தனிச்சிறப்பு`
+- **3447 — PDF 165–172** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-3 பாவாணர் கண்ட பதினைந்து சான்றுகள்`
+- **3448 — PDF 173–181** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-4 தொன்மைக்குத் தொன்மையாய் வாழும் தொல்பழங்கால மொழி!`
+- **3449 — PDF 182–190** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-5 கலிபோர்னியா பேராசிரியர் வழங்கிய கருத்துக்கோவை!`
+- **3450 — PDF 191–198** — `செம்மொழி வரலாற்றில் சில செப்பேடுகள்-6 செம்மொழி சிறந்திட; தொடர் செயல்பாடுகள்!`
 
 Mandatory English startup before changing records:
 
@@ -90,8 +91,9 @@ Mandatory English startup before changing records:
 - use the controlling scan only if a concrete Tamil defect is suspected;
 - create complete bilingual records including `## Original Tamil — மூலத் தமிழ்`;
 - source-check every paragraph, figure, quotation, date, title and closing;
+- preserve the recurring `செப்பேடு` / copper-plate-record image across this series where supported by the syntax;
 - update the glossary only for genuinely new recurring terms;
-- stop after **3445 / PDF 156** and do not begin **3446 / PDF 157**;
+- stop after **3450 / PDF 198** and do not begin **3451 / PDF 199**;
 - keep bilingual meaning-level alignment as a later separate durable gate.
 
 ## Volume 44 — COMPLETE
