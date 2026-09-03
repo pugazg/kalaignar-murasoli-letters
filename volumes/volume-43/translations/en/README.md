@@ -1,6 +1,6 @@
 # Volume 43 — English Translation
 
-**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **35 / 56 aligned — 3428–3462 / PDF 024–273**.
+**SOURCE-CHECK COMPLETE — 56 / 56.** Tamil structural and second direct visual/textual-fidelity gates are complete. The pilot, normal batches 1–9, and the user-approved final eight-record completion batch have all passed source-check. Volume 43 conventions are locked. Bilingual alignment is now in progress: **45 / 56 aligned — 3428–3472 / PDF 024–331**.
 
 ## Pilot — PASS
 
@@ -51,22 +51,22 @@ Pilot review: [`PILOT_REVIEW_3428_3430.md`](PILOT_REVIEW_3428_3430.md) — **PAS
 
 - [3461 — The Film-World Celebration and the Dream Some Saw!](letters/3461-the-film-world-celebration-and-the-dream-some-saw.md) — PDF 266–270 — source-checked; aligned
 - [3462 — Let It Serve Our Journey!](letters/3462-let-it-serve-our-journey.md) — PDF 271–273 — source-checked; aligned
-- [3463 — The Differently Abled Are Human Beings Too!](letters/3463-the-differently-abled-are-human-beings-too.md) — PDF 274–278 — source-checked
-- [3464 — What Does the Great Thinker Rousseau Say about Public Opinion?](letters/3464-what-does-the-great-thinker-rousseau-say-about-public-opinion.md) — PDF 279–284 — source-checked
-- [3465 — Waves of Memory That Strike the Heart!](letters/3465-waves-of-memory-that-strike-the-heart.md) — PDF 285–293 — source-checked
+- [3463 — The Differently Abled Are Human Beings Too!](letters/3463-the-differently-abled-are-human-beings-too.md) — PDF 274–278 — source-checked; aligned
+- [3464 — What Does the Great Thinker Rousseau Say about Public Opinion?](letters/3464-what-does-the-great-thinker-rousseau-say-about-public-opinion.md) — PDF 279–284 — source-checked; aligned
+- [3465 — Waves of Memory That Strike the Heart!](letters/3465-waves-of-memory-that-strike-the-heart.md) — PDF 285–293 — source-checked; aligned
 
 ## Normal batch 8 — PASS
 
-- [3466 — Will You Come to Chennai to Make Me Happy?](letters/3466-will-you-come-to-chennai-to-make-me-happy.md) — PDF 294–298 — source-checked
-- [3467 — A Letter Written 36 Years Ago by Then Chief Minister Kalaignar to Justice Magarajan!](letters/3467-a-letter-written-36-years-ago-by-then-chief-minister-kalaignar-to-justice-magarajan.md) — PDF 299–303 — source-checked; facsimile-preserving
-- [3468 — How Long Will She Keep Deceiving This Country?](letters/3468-how-long-will-she-keep-deceiving-this-country.md) — PDF 304–314 — source-checked
-- [3469 — The Useless Word Panneer Used!](letters/3469-the-useless-word-panneer-used.md) — PDF 315–316 — source-checked
-- [3470 — Why This Fury from the Lady of Siruthavur?](letters/3470-why-this-fury-from-the-lady-of-siruthavur.md) — PDF 317–322 — source-checked
+- [3466 — Will You Come to Chennai to Make Me Happy?](letters/3466-will-you-come-to-chennai-to-make-me-happy.md) — PDF 294–298 — source-checked; aligned
+- [3467 — A Letter Written 36 Years Ago by Then Chief Minister Kalaignar to Justice Magarajan!](letters/3467-a-letter-written-36-years-ago-by-then-chief-minister-kalaignar-to-justice-magarajan.md) — PDF 299–303 — source-checked; aligned; facsimile-preserving
+- [3468 — How Long Will She Keep Deceiving This Country?](letters/3468-how-long-will-she-keep-deceiving-this-country.md) — PDF 304–314 — source-checked; aligned
+- [3469 — The Useless Word Panneer Used!](letters/3469-the-useless-word-panneer-used.md) — PDF 315–316 — source-checked; aligned
+- [3470 — Why This Fury from the Lady of Siruthavur?](letters/3470-why-this-fury-from-the-lady-of-siruthavur.md) — PDF 317–322 — source-checked; aligned
 
 ## Normal batch 9 — PASS
 
-- [3471 — Coimbatore Conference: A Letter Explaining Its Shortcomings and Merits!](letters/3471-coimbatore-conference-a-letter-explaining-its-shortcomings-and-merits.md) — PDF 323–325 — source-checked
-- [3472 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say...](letters/3472-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say.md) — PDF 326–331 — source-checked
+- [3471 — Coimbatore Conference: A Letter Explaining Its Shortcomings and Merits!](letters/3471-coimbatore-conference-a-letter-explaining-its-shortcomings-and-merits.md) — PDF 323–325 — source-checked; aligned
+- [3472 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say...](letters/3472-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say.md) — PDF 326–331 — source-checked; aligned
 - [3473 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... (2)](letters/3473-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-2.md) — PDF 332–339 — source-checked
 - [3474 — An Elegant Hair-Knot, They Say; a Screw-Pine Flower, They Say... 3](letters/3474-an-elegant-hair-knot-they-say-a-screw-pine-flower-they-say-3.md) — PDF 340–347 — source-checked
 - [3475 — Come, Striped Tiger, to Show That Truth Will Triumph!](letters/3475-come-striped-tiger-to-show-that-truth-will-triumph.md) — PDF 348–353 — source-checked
@@ -112,9 +112,18 @@ Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. C
 ## Current alignment checkpoint — 3453–3462
 
 - Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 212–273**.
-- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3462 / PDF 024–273**.
+- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3472 / PDF 024–331**.
 - English corrections in this review: **0**.
 - Canonical Tamil changes: **0**.
 - Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
 - Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
 - **Current exact next activity:** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
+
+### Alignment checkpoint — 3463–3472
+
+- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 274–331**.
+- Cumulative durable alignment: **45 / 56 — 3428–3472 / PDF 024–331**.
+- English corrections in this review: **0**.
+- Canonical Tamil changes: **0**.
+- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
+- Exact next activity: **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.

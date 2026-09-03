@@ -11,7 +11,8 @@ source_printed_page_end: 321
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_review: "../BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md"
 ---
 
 # 3470. Why This Fury from the Lady of Siruthavur?

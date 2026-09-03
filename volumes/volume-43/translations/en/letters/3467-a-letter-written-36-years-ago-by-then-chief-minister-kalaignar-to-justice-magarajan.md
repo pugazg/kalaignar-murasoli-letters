@@ -11,7 +11,8 @@ source_printed_page_end: 302
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary; facsimile-preserving"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "pending"
+bilingual_alignment_status: "aligned"
+bilingual_alignment_review: "../BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md"
 ---
 
 # 3467. A Letter Written 36 Years Ago by Then Chief Minister Kalaignar to Justice Magarajan!
