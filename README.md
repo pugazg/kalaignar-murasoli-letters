@@ -2,7 +2,7 @@
 
 இந்த repository, **கலைஞரின் கடிதங்கள்** தொகுதிகளை PDF பக்க வரிசை மாறாமல் Markdown வடிவில் மின்னாக்குவதற்கானது.
 
-- ஒவ்வொரு PDF பக்கமும் தனி Markdown கோப்பாகச் சேமிக்கப்படும்.
+- ஒவ்வொரு PDF பக்கமும் தனி Markdown கோப்பாகச் சேமிக்கப்படும்; series-common PDF 001–017 pages may use verified shared-front-matter references instead of duplicated full transcription.
 - உள்ளடக்க அட்டவணை தனியாகப் பாதுகாக்கப்படும்.
 - ஒவ்வொரு கடிதத்திற்கும் `chapters/` கட்டமைப்பு பதிவு இருக்கும்.
 - அச்சுப் பிழைகள், source anomalies, punctuation, figures மற்றும் physical boundaries அமைதியாகத் திருத்தப்படாது.
@@ -11,6 +11,7 @@
 ## முதன்மை செயல்முறை
 
 - [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
+- [Series Front Matter Reuse Policy — Volumes 1–54](SERIES_FRONT_MATTER_POLICY.md)
 - [Mandatory Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
 - [Quick Tamil Transcription Rules](TRANSCRIPTION_GUIDE.md)
 - [Future Volume Work Guidelines](FUTURE_VOLUME_WORK_GUIDELINES.md)

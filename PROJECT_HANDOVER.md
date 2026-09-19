@@ -4,7 +4,7 @@
 **Primary branch:** `main`  
 **Handover date:** 2026-09-19
 
-Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
+Read this with `VOLUME_PROCESSING_GUIDE.md`, `SERIES_FRONT_MATTER_POLICY.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
 ## Fresh-chat rule
 
@@ -210,3 +210,9 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 ### Exact next activity
 
 Create the first Volume 42 transcription commit covering **exactly PDF 001–025**. Create `page-001.md` through `page-025.md`, visually compare all 25 pages against the scan, fully transcribe front matter/contents/source text, preserve the contents-number anomaly, create Letter 3364 as **partial**, and stop at PDF 25. The following commit must begin at PDF 26 and finish Letter 3364 before normal five-letter batching begins.
+
+## Series front matter optimization — 2026-09-19
+
+The user established that PDF **001–017** are the recurring front-matter zone across the 54-volume series. Repository comparison confirms the material is heavily reused, but also shows that blind identity must not be assumed: PDF 001–003 contain volume-specific fields, and at least one recurring publisher page has differing wording in existing canonical volumes.
+
+Durable rule: follow `SERIES_FRONT_MATTER_POLICY.md`. Keep one page record per physical page, but do not duplicate full common text after a direct visual match. Reference-only records are permitted for matching recurring pages; volume-specific fields and any textual deviations must be preserved locally.

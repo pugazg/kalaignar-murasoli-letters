@@ -10,7 +10,7 @@ This policy records the approved workflow for Volumes 1–48. Where its transcri
 
 For every new volume:
 
-1. Read `VOLUME_PROCESSING_GUIDE.md`, `TRANSCRIPTION_GUIDE.md`, and this policy.
+1. Read `VOLUME_PROCESSING_GUIDE.md`, `SERIES_FRONT_MATTER_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, and this policy.
 2. Inspect the completed reference volume and the most recently processed earlier volume.
 3. Confirm that the target `volumes/volume-NN/` directory has not already been started.
 4. Verify the volume number from the scan itself.
@@ -35,6 +35,8 @@ Rules:
 
 - Create one canonical Markdown file for every PDF page from `page-001.md` through `page-025.md`.
 - Include covers, publication pages, forewords, contents pages, blanks, illustrations, and letter pages without omission.
+- For PDF **001–017**, follow `SERIES_FRONT_MATTER_POLICY.md`: do not duplicate full recurring text when a direct visual comparison proves a match to the shared reference; create reference-only page records instead. Preserve PDF 001–003 volume-specific fields and fully transcribe any deviating recurring page.
+- For PDF **018–025**, transcribe the target scan normally and completely.
 - Visually compare all 25 Markdown pages with the corresponding rendered scan before committing.
 - OCR may assist drafting, but the scan controls every accepted reading.
 - Update all structural and progress files in the same atomic commit.
@@ -144,7 +146,7 @@ Before every transcription commit:
 - check for missing page files, duplicated bodies, replacement Unicode, and broken internal links; and
 - record scan-proven corrections in the batch audit.
 
-`first-pass-reviewed` means the page has been visually compared once. It does not mean the later character-by-character second verification is complete.
+`first-pass-reviewed` means the page has been visually compared once. `shared-series-front-matter-verified` means a PDF 001–017 page was directly compared to the approved shared reference and matched for printed source text. Neither status means the later character-by-character second verification is complete.
 
 ### Contents title versus letter title
 

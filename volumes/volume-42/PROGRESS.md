@@ -11,6 +11,7 @@
 - [x] Provisional printed-contents inventory recorded: **64 rows / nominal 3364–3427**
 - [x] Printed contents anomaly recorded: **3154 between 3376 and 3378**
 - [x] First letter boundary identified: **3364 begins PDF 024 / printed 23**
+- [ ] PDF 001–017 shared-front-matter visual/reference check
 - [ ] Canonical Tamil transcription
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
@@ -37,7 +38,7 @@ Perform the mandatory first transcription iteration:
 
 **PDF 001–025 exactly.**
 
-Create `page-001.md` through `page-025.md`, visually verify all 25 scans, transcribe the printed contents exactly, preserve the `3154` contents anomaly, create Letter **3364** as a partial chapter record beginning PDF 024 / printed 23, and stop at PDF 25.
+Create `page-001.md` through `page-025.md`. For PDF **001–017**, apply `SERIES_FRONT_MATTER_POLICY.md`: visually compare against the shared reference, use reference-only records for matching common pages, preserve Volume 42-specific fields on PDF 001–003, and fully transcribe any deviation. Fully transcribe PDF **018–025**, preserve the `3154` contents anomaly, create Letter **3364** as a partial chapter record beginning PDF 024 / printed 23, and stop at PDF 25.
 
 Required commit message:
 

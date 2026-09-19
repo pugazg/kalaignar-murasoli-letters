@@ -43,3 +43,14 @@ Create one atomic commit:
 `Transcribe Volume 42 PDF pages 001-025`
 
 Then begin the special continuation commit at PDF 26 to finish Letter 3364 before normal five-letter transcription iterations.
+
+## PDF 001–017 shared front matter
+
+Volume 42 follows the repository-wide `SERIES_FRONT_MATTER_POLICY.md`.
+
+- PDF **001–017** are treated as the recurring series front-matter zone.
+- Full repeated body transcription is **not required** when direct visual comparison proves a match to the approved shared reference.
+- PDF **001–003** still require local capture of Volume 42-specific volume/date/publication fields.
+- PDF **004–017** may use reference-only records when the printed source matches.
+- Any printed wording difference must be transcribed locally in full; do not force-match a shared page.
+- PDF **018 onward** follows normal full transcription rules.

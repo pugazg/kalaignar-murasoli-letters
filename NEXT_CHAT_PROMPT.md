@@ -7,9 +7,10 @@ Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE 
 Read completely:
 
 1. `VOLUME_PROCESSING_GUIDE.md`
-2. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-3. `TRANSCRIPTION_GUIDE.md`
-4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
+2. `SERIES_FRONT_MATTER_POLICY.md`
+3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
+4. `TRANSCRIPTION_GUIDE.md`
+5. `FUTURE_VOLUME_WORK_GUIDELINES.md`
 5. `PROJECT_HANDOVER.md`
 6. this `NEXT_CHAT_PROMPT.md`
 7. `volumes/volume-42/README.md`
@@ -48,7 +49,8 @@ Transcribe **exactly PDF pages 001–025** and commit atomically with message:
 Requirements:
 
 - create `pages/page-001.md` through `pages/page-025.md`;
-- include covers, publication matter, foreword/publisher matter, contents, blank/show-through pages and letter text without omission;
+- for PDF **001–017**, apply `SERIES_FRONT_MATTER_POLICY.md`: do **not** duplicate the full recurring body when the scan visually matches the shared reference; create reference-only page records, preserve PDF 001–003 volume/date/publication-specific fields, and fully transcribe any page that differs;
+- for PDF **018–025**, transcribe the target scan normally and completely;
 - visually compare all 25 Markdown pages directly with the scan;
 - preserve printed spelling, punctuation, figures, English/Latin text, stamps/annotations distinctions and page boundaries;
 - fully transcribe printed contents PDF 018–022 exactly as printed;

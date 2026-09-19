@@ -14,9 +14,10 @@ Before changing any target volume:
 
 1. Fetch live `main` first and treat it as authoritative. Record the current HEAD before relying on a prompt, handover or checkpoint copied into a chat. If `main` has advanced, preserve the newer durable state and continue from it rather than regressing to an older recorded boundary.
 2. Read `VOLUME_PROCESSING_GUIDE.md` completely.
-3. Read `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md` completely.
-4. Read `TRANSCRIPTION_GUIDE.md` completely.
-5. Read `PROJECT_HANDOVER.md` and `NEXT_CHAT_PROMPT.md` completely.
+3. Read `SERIES_FRONT_MATTER_POLICY.md` completely.
+4. Read `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md` completely.
+5. Read `TRANSCRIPTION_GUIDE.md` completely.
+6. Read `PROJECT_HANDOVER.md` and `NEXT_CHAT_PROMPT.md` completely.
 6. Inspect the target volume’s existing `README.md`, `metadata.yml`, `AUDIT.md`, `PROGRESS.md`, `TRANSLATION_PLAN.md`, contents, chapter register and English workspace if they exist.
 7. Inspect Volume 49 as the completed reference implementation.
 8. Inspect Volume 46 as a completed example of source anomalies, multi-stage bilingual verification and final release packaging.
@@ -124,7 +125,7 @@ The mandatory transcription policy is:
 
 **Exactly PDF pages 001–025.**
 
-Create one canonical Markdown page per PDF page, including covers, publisher matter, contents, blanks, illustrations and letter pages.
+Create one canonical Markdown page per PDF page. For PDF 001–017, use the shared-front-matter reuse workflow in `SERIES_FRONT_MATTER_POLICY.md`; reference-only records are allowed only after visual match, while deviations must be transcribed locally. PDF 018–025 and all later pages are transcribed normally.
 
 If PDF page 25 ends in the middle of a letter, stop exactly there and mark the letter `partial`.
 

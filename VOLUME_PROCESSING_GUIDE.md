@@ -2,7 +2,7 @@
 
 This guide defines the reusable archival workflow for Volumes 1–48. **Volume 49 is the completed quality reference, not a source template.** Every earlier volume must be independently verified from its own scan.
 
-Tamil transcription batching is governed by [`VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md), and [`TRANSCRIPTION_GUIDE.md`](TRANSCRIPTION_GUIDE.md) is also mandatory. If older wording or an example in this guide conflicts with the batching policy, **the batching policy takes precedence**.
+Tamil transcription batching is governed by [`VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md), [`TRANSCRIPTION_GUIDE.md`](TRANSCRIPTION_GUIDE.md) is also mandatory, and recurring PDF 001–017 front matter is governed by [`SERIES_FRONT_MATTER_POLICY.md`](SERIES_FRONT_MATTER_POLICY.md). If older wording or an example in this guide conflicts with the batching policy, **the batching policy takes precedence**.
 
 The required end state for each volume is: page-faithful Tamil transcription, preserved contents and letter structure, scan-based audits, bilingual English records, bilingual alignment, editorial review, manifest/release records and explicit documentation of every source anomaly or source gap.
 
@@ -20,7 +20,7 @@ Use this authority order:
 
 Never use OCR, contents pages, English translation, another edition or outside knowledge to silently correct the scan.
 
-Every PDF page gets exactly one Markdown file, including covers, publication pages, contents, blanks, illustrations, advertisements and back cover.
+Every PDF page gets exactly one Markdown file, including covers, publication pages, contents, blanks, illustrations, advertisements and back cover. For the recurring series front matter at PDF 001–017, a page file may be a visually verified shared-reference record instead of duplicating the full common text; follow `SERIES_FRONT_MATTER_POLICY.md`.
 
 Preserve visible wording, spelling, paragraph order, titles, quotations, lists, dates, figures, punctuation, signatures, closings, English/Latin text and page-boundary word splits. Do not modernise or regularise the source. Use `[தெளிவில்லை]` only for text that exists but cannot be read confidently.
 
@@ -204,6 +204,8 @@ For a newly started volume, the first transcription commit is **exactly PDF page
 
 - Create `page-001.md` through `page-025.md`.
 - Include every source page in that range.
+- Apply `SERIES_FRONT_MATTER_POLICY.md` to PDF 001–017: reference-only records are allowed only after direct visual match; transcribe any deviation locally.
+- Fully transcribe PDF 018–025 from the target scan.
 - Visually compare all 25 files.
 - Do not extend beyond PDF 25 just to finish a letter.
 - Commit all applicable structural updates atomically.

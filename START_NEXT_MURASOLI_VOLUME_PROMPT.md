@@ -27,10 +27,11 @@ Use the GitHub connector and work directly in the existing repository.
 Before making any change, read these repository documents completely and follow them:
 
 1. `VOLUME_PROCESSING_GUIDE.md`
-2. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-3. `TRANSCRIPTION_GUIDE.md`
-4. `FUTURE_VOLUME_WORK_GUIDELINES.md`
-5. `PROJECT_HANDOVER.md`
+2. `SERIES_FRONT_MATTER_POLICY.md`
+3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
+4. `TRANSCRIPTION_GUIDE.md`
+5. `FUTURE_VOLUME_WORK_GUIDELINES.md`
+6. `PROJECT_HANDOVER.md`
 
 Then inspect:
 
@@ -88,7 +89,7 @@ If this volume has not yet been started:
 For a newly started volume:
 
 1. The **first transcription commit must be exactly PDF pages 001–025**.
-2. Create one canonical Markdown file for every PDF page in that range, including covers, publication pages, contents, blanks, illustrations and letter pages.
+2. Create one canonical Markdown file for every PDF page in that range. For PDF 001–017, apply `SERIES_FRONT_MATTER_POLICY.md`: use reference-only page files after direct visual match, preserve volume-specific fields on PDF 001–003, and fully transcribe any deviating recurring page. PDF 018–025 must be fully transcribed from the target scan.
 3. Visually compare every new/corrected page with the scan before committing.
 4. If PDF page 25 interrupts a letter, stop exactly at page 25 and mark that letter `partial`.
 5. The next commit must begin at PDF page 26 and finish that interrupted letter first.

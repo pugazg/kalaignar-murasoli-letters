@@ -1,6 +1,6 @@
 # மின்னாக்க வழிமுறை
 
-இந்தச் சுருக்க வழிமுறையுடன் [Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md) கட்டாயமாகப் பின்பற்றப்பட வேண்டும். Batch அளவு குறித்து வேறுபாடு இருந்தால், அந்த policy முன்னுரிமை பெறும்.
+இந்தச் சுருக்க வழிமுறையுடன் [Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md) மற்றும் [Series Front Matter Reuse Policy](SERIES_FRONT_MATTER_POLICY.md) கட்டாயமாகப் பின்பற்றப்பட வேண்டும். Batch அளவு குறித்து வேறுபாடு இருந்தால், அந்த policy முன்னுரிமை பெறும்.
 
 1. **ஒரு PDF பக்கம் = ஒரு Markdown கோப்பு.** கோப்பு பெயர் `page-001.md` போன்ற பூஜ்யம் நிரப்பிய எண்ணாக இருக்கும்.
 2. YAML front matter-ல் தொகுதி எண், PDF பக்கம், அச்சுப் பக்கம், பகுதி, கடித எண்/தேதி ஆகியவை பதிவு செய்யப்படும்.
@@ -22,3 +22,8 @@
 18. Iteration audit, full-volume structural audit, second visual verification, translation textual-fidelity audit ஆகியவை தனித்தனி நிலைகள்; ஒன்றை மற்றொன்றாகக் குறிக்கக் கூடாது.
 19. முழு Tamil volume transcription மற்றும் full-volume audit முடியும் முன் English translation தொடங்கப்படாது. Translation batch தொடங்குவதற்கு முன் அதன் ஒவ்வொரு Tamil page-க்கும் scan-based textual-fidelity audit கட்டாயம்.
 20. ஒவ்வொரு commit report-லும் ஐந்து letter numbers/titles, committed PDF/printed range, audit result, commit SHA, மற்றும் exact next PDF page/letter குறிப்பிடப்பட வேண்டும்.
+
+
+## தொடர் தொகுதிகளின் PDF 001–017
+
+இந்த 54-தொகுதி தொடரில் PDF **001–017** recurring front-matter zone ஆகும். ஒவ்வொரு volume-லும் அந்த 17 பக்கங்களின் முழு body transcription-ஐ மீண்டும் எழுத வேண்டியதில்லை. ஆனால் ஒவ்வொரு physical page-க்கும் Markdown record இருக்க வேண்டும்; scan-ஐ shared reference-க்கு நேரடியாக ஒப்பிட்டு match ஆன பக்கங்களுக்கு மட்டும் reference-only record பயன்படுத்தலாம். PDF 001–003-இல் volume/date/publication-specific fields பதிவு செய்யப்பட வேண்டும். ஏதேனும் printed text வேறுபட்டால் அந்தப் பக்கம் அந்த volume-ல் முழுமையாக transcription செய்யப்பட வேண்டும். முழு விதி: `SERIES_FRONT_MATTER_POLICY.md`.

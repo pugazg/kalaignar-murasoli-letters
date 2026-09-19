@@ -19,6 +19,9 @@ pdf_pages: 402
 source_extent_status: "complete-source-delivery"
 source_full_volume_received: true
 source_searchable_text_layer: false
+series_front_matter_zone: "PDF 001-017"
+series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
+series_front_matter_status: "pending-visual-reference-check"
 transcription_page_range: null
 transcription_status: "not-started"
 recorded_letter_range: null

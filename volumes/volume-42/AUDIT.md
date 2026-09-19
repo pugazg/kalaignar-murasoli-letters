@@ -52,3 +52,9 @@ Therefore the mandatory first transcription commit must stop at PDF 25 and leave
 **PASS — Volume 42 intake structure may be created; Tamil transcription has not yet begun.**
 
 No claim is made that the complete Volume 42 source has been supplied.
+
+## 6. Series front matter handling
+
+PDF **001–017** will be processed under `SERIES_FRONT_MATTER_POLICY.md` rather than blindly re-transcribed.
+
+This does **not** mean those pages are skipped. Each physical page must still receive a repository page record and a direct visual comparison. Matching recurring pages may reference the shared canonical front matter; PDF 001–003 volume-specific fields and any printed-text deviations must be recorded locally.
