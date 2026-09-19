@@ -36,24 +36,41 @@ source_printed_pagination_anomalies:
 audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-17
 structural_audit_report: "FULL_VOLUME_STRUCTURAL_AUDIT.md"
-second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-100"
-second_visual_verified_page_count: 100
-textual_fidelity_correction_pages: 36
-textual_fidelity_correction_spans: 74
+second_visual_verification: "complete"
+second_visual_verified_page_range: "1-401"
+second_visual_verified_page_count: 401
+textual_fidelity_correction_pages: 159
+textual_fidelity_correction_spans: 274
 textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_001_025.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_026_050.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_051_075.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_076_100.md"
-translation_status: "legacy-complete-migration-pending"
-translated_letter_range: null
-translated_letter_count: 0
-source_checked_letter_count: 0
-verified_translation_count: 0
-bilingual_alignment_status: "blocked-pending-canonical-tamil"
-editorial_consistency_review_status: "not-started"
-english_release_status: "not-started"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_101_125.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_126_150.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_151_175.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_176_200.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_201_225.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_226_250.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_251_275.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_276_300.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_301_325.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_326_350.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_351_375.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_376_400.md"
+  - "translations/en/TEXTUAL_FIDELITY_AUDIT_401.md"
+translation_status: "final-release-complete"
+translated_letter_range: "1-110"
+translated_letter_count: 110
+source_checked_letter_count: 110
+verified_translation_count: 110
+translation_manifest: "translations/en/TRANSLATION_MANIFEST.csv"
+bilingual_alignment_status: "complete"
+bilingual_aligned_letter_range: "1-110"
+bilingual_aligned_letter_count: 110
+editorial_consistency_review_status: "pass"
+english_release_status: "complete"
+english_release_report: "translations/en/RELEASE_REPORT.md"
 source_observations:
   - "Cover and title page identify Volume 1 and the date range 22.10.1968-01.12.1974."
   - "PDF page 3 prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
@@ -128,7 +145,7 @@ source_observations:
   - "PDF pages 396-400 preserve letter 110's Malaya / Sambasivam history, the long quoted 1949 கயிற்றில் தொங்கிய கணபதி passage, source lineation, the four-exclamation தமிழகமே!!!! form, and the 01-12-1974 closure."
   - "PDF page 401 is the colour back cover with Kalaignar portrait, 1924 - 2018, publisher contact block, QR code, GO 2300 and ரூ.300; it contains no letter text."
   - "The full-volume Tamil structural audit passed. It corrected stale migration-status notes in contents/index.md and chapters/README.md; no canonical Tamil page body or letter metadata required correction in that structural audit."
-  - "Second visual/textual-fidelity verification is in progress: PDF pages 001-100 / 401 passed after scan-proven corrections on 36 canonical pages / 74 spans."
+  - "Second visual/textual-fidelity verification is complete for PDF 001-401 / 401; cumulative scan-proven corrections total 159 canonical pages / 274 spans."
   - "PDF page 011 second-pass review restored a complete scan-visible paragraph omitted in the first pass, beginning தலைவர் கலைஞரின் அந்த “என்னுரை”யில், “நண்பா” and ending with the applicability of “கலைஞரின் கடிதங்கள்” to the volumes."
   - "PDF page 012 preserves the foreword's scan-printed அய்ந்தாண்டுகள், while the actual letter on PDF page 024 independently prints ஐந்தாண்டுகள்."
   - "PDF pages 015-017 restore scan-printed முதல்வர் forms; PDF 017 also restores the source-tight ஐ.ஏ.எஸ்.(ஓய்வு)."
@@ -146,6 +163,5 @@ source_observations:
   - "PDFs 081-095 restore scan-controlled source spacing, hyphenation and bold emphasis including பி. சோ., தி. மு. க., தி. மு., 1966 ஆம், source newspaper/judicial quotation blocks, and deliberate ellipses remain unreconstructed."
   - "PDFs 097-100 restore source-bold Morarji Desai, Assembly, Anna and Hindi-policy quotations."
   - "Letters 0001-0019 are now fully second-pass fidelity-cleared."
-  - "The next fidelity range is PDF 101-125."
-  - "Canonical English migration remains blocked while the full second visual/textual-fidelity gate is incomplete."
+  - "Canonical English release is complete for 110 / 110 records after source check, bilingual alignment and editorial release verification."
   - "Legacy Volume 1 material remains under volumes/volume-1 and is migration input, not higher authority than the scan."

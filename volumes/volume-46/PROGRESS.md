@@ -11,9 +11,9 @@
 - [x] Source numbering anomalies preserved: no 3636; two distinct 3637 records; no 3644–3646
 - [x] Full-volume Tamil structural audit complete — **PASS**
 - [x] Second visual verification / scan-based textual-fidelity gate complete — **PASS, PDF 001–402 / 402**
-- [ ] English translation
-- [ ] Bilingual alignment
-- [ ] Editorial consistency review and release validation
+- [x] English translation — **55 / 55 verified**
+- [x] Bilingual alignment — **55 / 55 complete**
+- [x] Editorial consistency review and release validation — **PASS / complete**
 
 ## Current state
 
@@ -24,8 +24,8 @@
 - Full-volume Tamil structural audit: **complete**
 - Second visual/textual-fidelity verification: **complete — 402 / 402 pages passed**
 - Scan-proven canonical corrections across the complete second pass: **29 pages / 32 spans**
-- English translation: **not started; fidelity gate cleared**
-- Bilingual alignment: **not started**
+- English translation: **55 / 55 verified; release complete**
+- Bilingual alignment: **55 / 55 complete**
 
 ## Second-pass fidelity ranges completed
 
@@ -71,8 +71,8 @@ Detailed reports are stored in `translations/en/`:
 
 ## Audit boundary
 
-Tamil structural and textual-fidelity work is complete. English translation, bilingual alignment and release review remain separate downstream stages.
+Tamil structural/textual-fidelity work and all English translation, bilingual-alignment, editorial-review and release stages are complete.
 
-## Exact next task
+## Final status
 
-Begin the Volume 46 English translation workflow from the fully fidelity-verified canonical Tamil, using the established repository translation and review conventions.
+**VOLUME 46 COMPLETE.** English release: **55 / 55**. No routine gate remains open; reopen only for a concrete source-supported defect.

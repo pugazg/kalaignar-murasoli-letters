@@ -93,51 +93,12 @@ The audited canonical Tamil is the immediate English source. The controlling sca
 
 Final source-check durable points include the 3477 85-present/86-inscribed copper-plate tension, 3478 Midas chronology and figures, 3479 non-violent-method distinction, 3480 professional-education/reservation figures, 3481 verbatim source-supplied Wall Street Journal English, and the complete fiscal/agricultural/price series in 3482–3483. No new recurring glossary term was introduced by the final batch.
 
-## Historical next activity (completed)
-
-Begin **Bilingual Alignment Batch 1 — Letters 3428–3432 / PDF 024–060**. Compare the complete audited Tamil and English at meaning level for exactly those five records, document English corrections separately from canonical Tamil changes, set each passing record to `bilingual_alignment_status: aligned`, create `BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md`, and stop before **Letter 3433 / PDF 061**. Do not perform editorial consistency review or final release in the same activity.
-
-## Bilingual alignment checkpoint — 3428–3442
-
-- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
-- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
-- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
-- English corrections across the aligned range: **0**.
-- Canonical Tamil changes exposed by alignment: **0**.
-- Editorial consistency review: **not started**.
-- Final release verification: **not started**.
-- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
-
-
-## Current alignment checkpoint — 3453–3462
-
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 212–273**.
-- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
-- Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
-- **Historical next activity (completed):** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
-
-### Alignment checkpoint — 3463–3472
-
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 274–331**.
-- Cumulative durable alignment: **45 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
-- Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
-
 
 ## Bilingual alignment — COMPLETE
 
 All **56 / 56 records, Letters 3428–3483 / PDF 024–400**, are durably source-checked and bilingual-aligned. The final user-approved alignment review **3473–3483 / PDF 332–400** passed **11 / 11**, with **0 English corrections** and **0 canonical Tamil changes**. Review: [`BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md`](BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md).
 
 Editorial consistency review and final English release verification are both complete.
-
-## Exact next activity
-
-Perform the separate **Volume 43 English editorial consistency review** across the complete 56-record bilingual corpus.
 
 
 ## Editorial consistency review — PASS

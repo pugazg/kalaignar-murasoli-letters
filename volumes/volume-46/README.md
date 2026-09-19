@@ -14,8 +14,8 @@
 - Full-volume Tamil structural audit: **complete — PASS (2026-08-15)**.
 - Second visual / textual-fidelity verification: **complete — PASS, PDF 001–402 / 402**.
 - Scan-proven canonical corrections across the completed second pass: **29 pages / 32 spans**.
-- English translation: **not started; Tamil fidelity gate cleared**.
-- Bilingual alignment: **not started**.
+- English translation: **55 / 55 source-checked and verified; final release complete**.
+- Bilingual alignment: **55 / 55 complete**.
 
 ## Transcription structure
 
@@ -77,7 +77,7 @@ Detailed range reports are stored in `translations/en/TEXTUAL_FIDELITY_AUDIT_*.m
 
 ## Translation gate
 
-The Tamil source is now fully fidelity-verified. English translation has **not** yet begun, but it is no longer blocked by Tamil verification.
+The Tamil source is fully fidelity-verified. English translation, bilingual alignment, editorial consistency review and final release packaging are also complete for **55 / 55 actual source records**.
 
 - [Translation plan](TRANSLATION_PLAN.md)
 - [English/fidelity workspace](translations/en/README.md)
@@ -85,6 +85,6 @@ The Tamil source is now fully fidelity-verified. English translation has **not**
 - [Printed contents](contents/index.md)
 - [Letters / chapters](chapters/README.md)
 
-## Exact next task
+## Final release
 
-Begin the Volume 46 English translation workflow from the fully fidelity-verified canonical Tamil, following the repository's established translation, bilingual-alignment and editorial-review conventions.
+Volume 46 English release is complete for **55 / 55 actual source records**. Durable release artifacts are `translations/en/TRANSLATION_MANIFEST.csv` and `translations/en/RELEASE_REPORT.md`. No routine Tamil, translation, alignment, editorial or release gate remains pending.

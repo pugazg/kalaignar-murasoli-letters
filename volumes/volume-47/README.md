@@ -28,10 +28,10 @@
 - Initial user-approved 15-letter iteration **3647–3661** is **15/15 draft-translated**.
 - The user's revised working cadence is now **five letters per iteration**.
 - First five-letter iteration under the revised cadence, **3662–3666**, is **5/5 draft-translated**.
-- Overall English draft count: **20 / 59** letter records — letters **3647–3666**.
+- English inventory: **59 / 59** records translated and bilingual-aligned.
 - Each English letter file contains the standard translator’s note, source pagination/date, thought-preserving non-literary English, and the full audited canonical Tamil below it.
-- Bilingual alignment: **not started**.
-- English editorial/release verification: **not started**.
+- Bilingual alignment: **59 / 59 complete**.
+- English editorial review: **59 / 59 complete; release-ready within surviving source**.
 - [Volume 47 English index](translations/en/README.md)
 - [English translation progress](translations/en/PROGRESS.md)
 - [English glossary](translations/en/GLOSSARY.md)
@@ -47,8 +47,8 @@
 | பின்அட்டை | 401 | second-pass source-checked |
 | Full-volume Tamil structural audit | 1–401 | complete |
 | இரண்டாம் சுற்று எழுத்து-எழுத்து சரிபார்ப்பு | 1–401 | **complete** |
-| English translation | — | **20/59 draft-translated — letters 3647–3666** |
-| Bilingual alignment | — | not started |
+| English translation | — | **59/59 translated; alignment complete** |
+| Bilingual alignment | — | **59/59 complete** |
 
 ## Final fidelity batch — letters 3695–3705
 
@@ -73,7 +73,7 @@ Final scope PDF **327–400** மற்றும் **PDF 401 back cover** — �
 
 ## அடுத்த project stage
 
-அடுத்த English translation iteration: **letters 3667–3671** — five consecutive letters under the user's revised cadence. Bilingual alignment ஒரு தனி later gate ஆகவே இருக்கும். Letter **3681** translation stage-க்கு வரும்போதும் source-incomplete exception ஆகவே explicit-ஆக பாதுகாக்கப்பட வேண்டும்.
+English translation, bilingual alignment and editorial release are complete for **59 / 59** records. Letter **3681** remains the sole source-incomplete archival exception because printed page 252 is absent from the only source PDF. See `translations/en/FINAL_RELEASE_REPORT.md`.
 
 ## முக்கிய இணைப்புகள்
 

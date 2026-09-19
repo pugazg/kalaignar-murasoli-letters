@@ -8,7 +8,7 @@
 - அச்சுப் பிழைகள், source anomalies, punctuation, figures மற்றும் physical boundaries அமைதியாகத் திருத்தப்படாது.
 - English bilingual records source-audited canonical Tamil-இலிருந்து உருவாக்கப்படும்; outside knowledge கொண்டு source-ஐ silently correct செய்யக் கூடாது.
 
-## தொகுதிகள் 1–48 — முதன்மை செயல்முறை
+## முதன்மை செயல்முறை
 
 - [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
 - [Mandatory Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
@@ -29,7 +29,7 @@
 | 46 | 05.10.2011–15.08.2012 | 402 | **complete; structural + second visual/textual-fidelity PASS** | **55 actual source records** | **55 / 55 verified; final release complete** |
 | 47 | 19.08.2012–19.02.2013 | 401 | **complete within surviving source** | **59 records; 3681 source-incomplete** | **59 / 59 aligned/reviewed; release-ready within surviving source** |
 | 48 | 20.02.2013–31.05.2013 | 402 | **complete** | **58** | **58 / 58 verified; editorial release complete** |
-| 49 | 01.06.2013–10.10.2013 | 402 | **complete** | **53** | **53 / 53 verified; editorial release complete** |
+| 49 | 01.06.2013–10.10.2013 | 402 | **first-pass + structural audit complete; full second visual/textual-fidelity gate pending** | **53** | **53 / 53 verified; editorial release complete** |
 
 ## Volume 43 — released
 
@@ -94,13 +94,13 @@ Release artifacts:
 
 Manifest validation: **55 records; no duplicate letter numbers; no duplicate English paths; no missing English records; no source-incomplete records**.
 
-## Bilingual alignment checkpoint — 3428–3442
+## Repository synchronization — 2026-09-19
 
-- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
-- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
-- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
-- English corrections across the aligned range: **0**.
-- Canonical Tamil changes exposed by alignment: **0**.
-- Editorial consistency review: **not started**.
-- Final release verification: **not started**.
-- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
+- Volume 1: canonical Tamil, full textual-fidelity verification and English release are complete — **110 / 110**.
+- Volumes 43–46: all recorded Tamil and English release gates are complete.
+- Volume 47: **59 / 59** English records are aligned and editorially reviewed; release is **ready within the surviving source**, with Letter **3681** remaining explicitly source-incomplete because printed page 252 is absent.
+- Volume 48: English release complete — **58 / 58**.
+- Volume 49: English release complete — **53 / 53**; repository-wide archival closure remains pending until the separately recorded full second visual/textual-fidelity gate is completed.
+- Volumes 50–53 are retained as legacy imported translation/source-verification trees. Their translation inventories reconcile internally, but they are not promoted here to current-format archival-volume completion status.
+
+Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.

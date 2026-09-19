@@ -34,12 +34,18 @@ textual_fidelity_audit_reports:
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_141_243.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_244_326.md"
   - "translations/en/TEXTUAL_FIDELITY_AUDIT_327_401.md"
-translation_status: "in-progress"
-translated_letter_range: "3647-3666"
-translated_letter_count: 20
-translation_batch_cadence: "5 consecutive letters per iteration from letter 3662 onward; initial 3647-3661 batch completed under earlier 15-letter approval"
-bilingual_alignment_status: "not-started"
-english_release_status: "not-started"
+translation_status: "release-ready-with-source-exception"
+translated_letter_range: "3647-3705"
+translated_letter_count: 59
+source_checked_letter_count: 59
+translation_batch_cadence: "historical drafting cadence retained in audit records"
+bilingual_alignment_status: "complete"
+bilingual_aligned_letter_range: "3647-3705"
+bilingual_aligned_letter_count: 59
+editorial_consistency_review_status: "complete"
+english_release_status: "release-ready-with-source-exception"
+translation_manifest: "translations/en/TRANSLATION_MANIFEST.md"
+english_release_report: "translations/en/FINAL_RELEASE_REPORT.md"
 source_observations:
   - "PDF page 5 is blank, with faint reverse-side show-through."
   - "PDF page 23 is blank, with faint show-through from the contents reverse side."
@@ -54,4 +60,4 @@ source_observations:
   - "The small printed caption under the photograph on PDF page 244 remains too indistinct in the source scan for a reliable word-for-word reading and has not been guessed."
   - "Printed contents names letter 3663 as 'நெஞ்சைத் துளைத்திடும் கொடுமை இது!', while the actual letter heading on PDF page 128 is 'நெஞ்சைத் துளைத்திடும் தொடர்கதை இது!'; both source forms are preserved in their respective contexts."
   - "Printed contents names letter 3674 as 'விடை தான் என்னவோ; இந்த வினாவுக்கு!', while the actual letter heading on PDF page 203 is 'விடைதான் என்னவோ; இந்த வினாவுக்கு!'; both source forms are preserved in their respective contexts."
-  - "English translation began after the full Tamil fidelity gate cleared. Letters 3647-3661 were draft-translated under the user's earlier 15-letter approval; the user then revised the cadence to five letters per iteration, and letters 3662-3666 are the first completed five-letter batch. Bilingual alignment remains not started."
+  - "English translation, bilingual alignment and volume-level editorial review are complete for all 59 records. Final release is certified release-ready within the surviving source; Letter 3681 remains explicitly source-incomplete because printed page 252 is absent."

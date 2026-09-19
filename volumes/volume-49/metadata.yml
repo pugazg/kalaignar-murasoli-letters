@@ -16,3 +16,13 @@ transcription_status: "first-pass-complete"
 audit_status: "full-volume-audit-complete"
 audit_date: 2026-08-04
 second_visual_verification: "pending"
+translation_status: "final-release-complete"
+translated_letter_range: "3764-3816"
+translated_letter_count: 53
+source_checked_letter_count: 53
+bilingual_alignment_status: "complete"
+bilingual_aligned_letter_count: 53
+editorial_consistency_review_status: "complete"
+english_release_status: "complete"
+english_release_report: "translations/en/RELEASE_REPORT.md"
+repository_closure_status: "pending-full-second-visual-textual-fidelity-gate"

@@ -42,6 +42,7 @@
 - [முழுத் தொகுதி audit அறிக்கை](AUDIT.md)
 - கட்டமைப்பு, metadata, 53 தொடக்கப் பக்கங்கள், 53 இறுதிப் பக்கங்கள் மற்றும் automated completeness audit முடிக்கப்பட்டது.
 - ஒவ்வொரு உட்பக்கத்திற்குமான character-by-character இரண்டாம் visual-verification pass இன்னும் pending.
+- **Repository-level closure note:** English release **53 / 53 complete**; ஆனால் தற்போதைய definition-of-done அடிப்படையில் full second visual/textual-fidelity gate முடியும் வரை முழுத் தொகுதி archival closure claim செய்யப்படாது.
 
 ## English translation
 

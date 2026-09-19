@@ -152,30 +152,6 @@ Letters **3428–3483 / PDF 024–400** are durably `aligned`; no Volume 43 bili
 
 Letters **3443–3452 / PDF 138–211** passed complete meaning-level Tamil↔English alignment: **10 / 10 PASS; 0 English corrections; 0 canonical Tamil changes**. Review: [`BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`](BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md).
 
-## Historical next activity (completed)
-
-Process **exactly 10 alignment records — Letters 3453–3462 / PDF 212–273**. Stop before **Letter 3463 / PDF 274**. Compare Tamil ↔ English completely at meaning level; correct English only where required; reopen Tamil only if a concrete source defect is found; keep editorial consistency review and final release verification separate.
-
-
-## Current alignment checkpoint — 3453–3462
-
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 212–273**.
-- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
-- Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
-- **Historical next activity (completed):** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
-
-### Alignment checkpoint — 3463–3472
-
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 274–331**.
-- Cumulative durable alignment: **45 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
-- Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
-
 
 ## Bilingual alignment completion — 3473–3483
 
@@ -186,10 +162,6 @@ Process **exactly 10 alignment records — Letters 3453–3462 / PDF 212–273**
 - Final alignment report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3473_3483.md`.
 - Editorial consistency review: **not started**.
 - Final release verification: **not started**.
-
-## Exact next activity
-
-Perform the separate **Volume 43 English editorial consistency review** across all 56 aligned bilingual records. Use the locked glossary, manifest and all alignment reports to check cross-record consistency; do not retranslate and do not begin final release verification in the same activity.
 
 
 ## English editorial consistency review — COMPLETE

@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-09-03
+**Handover date:** 2026-09-19
 
 Read this with `VOLUME_PROCESSING_GUIDE.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
@@ -174,68 +174,18 @@ In the next chat, paste the complete contents of `NEXT_CHAT_PROMPT.md` as the fi
 
 Work on `main` when requested. Prefer one validated atomic commit per declared activity. Never force-push routine work. Recheck live `main` immediately before mutation, preserve concurrent changes, rebuild on a newer HEAD if needed, fast-forward only with `force: false`, and verify parent → new HEAD changed-file scope afterward.
 
-### Bilingual alignment checkpoint — 3428–3442
+## Repository synchronization — 2026-09-19
 
-- Durable aligned range: **3428–3442 / PDF 024–137 — 15 / 56**.
-- Review reports: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3428_3432.md` and `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3433_3442.md`.
-- Synchronization report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_SYNC_3428_3442.md`.
-- English corrections across the aligned range: **0**.
-- Canonical Tamil changes exposed by alignment: **0**.
-- Editorial consistency review: **not started**.
-- Final release verification: **not started**.
-- Exact next alignment activity: **3443–3452 / PDF 138–211 — 10 records**, stopping before **3453 / PDF 212**.
+The repository control documents were reconciled against live release artifacts and manifests.
 
-### Alignment checkpoint — 3443–3452
+- **Volume 1:** 401 / 401 canonical pages, 110 / 110 letters, full second visual/textual-fidelity verification complete, English release complete 110 / 110.
+- **Volume 43:** FINAL RELEASE COMPLETE — 56 / 56. Historical alignment/editorial checkpoints are archival only.
+- **Volume 44:** FINAL RELEASE COMPLETE — 53 / 53.
+- **Volume 45:** FINAL RELEASE COMPLETE — 55 / 55.
+- **Volume 46:** English release complete — 55 / 55; no translation/alignment/release gate remains pending.
+- **Volume 47:** 59 / 59 translated, aligned and editorially reviewed; release-ready within the surviving source. Letter 3681 remains source-incomplete because printed page 252 is absent from the only source PDF.
+- **Volume 48:** English release complete — 58 / 58.
+- **Volume 49:** English release complete — 53 / 53. Its full-volume second visual/textual-fidelity gate remains explicitly pending, so do not describe the whole archival volume as fully closed under the current definition-of-done until that gate is completed.
+- **Volumes 50–53:** legacy imported translation/source-verification trees with internally reconciled translation inventories; they are not current-format archival volume trees.
 
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 138–211**.
-- Cumulative durable alignment: **35 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3443_3452.md`.
-- Historical next activity (completed): **Letters 3453–3462 / PDF 212–273**, stop before **3463 / PDF 274**.
-
-
-## Current alignment checkpoint — 3453–3462
-
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 212–273**.
-- Cumulative durable alignment after synchronization: **35 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3453_3462.md`.
-- Locked treatments preserved: 3457 unnamed allegory; 3458 **State autonomy**; 3460 printed chronology anomaly and internal reservation; 3461 black-dot/`thumbai`/dud-firework imagery; 3462 source-framed religious/philosophical narratives.
-- **Historical next activity (completed):** Letters **3463–3472 / PDF 274–331**, stop before **3473 / PDF 332**.
-
-### Alignment checkpoint — 3463–3472
-
-- Complete meaning-level alignment review: **PASS — 10 / 10 — PDF 274–331**.
-- Cumulative durable alignment: **45 / 56 — 3428–3472 / PDF 024–331**.
-- English corrections in this review: **0**.
-- Canonical Tamil changes: **0**.
-- Review report: `volumes/volume-43/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3463_3472.md`.
-- Historical next activity (completed): **Letters 3473–3482 / PDF 332–393**, stop before **3483 / PDF 394**.
-
-
-## Volume 43 — ENGLISH QA GATES COMPLETE
-
-- English drafting/source-check: **COMPLETE — 56 / 56**.
-- Bilingual meaning-level alignment: **COMPLETE — 56 / 56 — 3428–3483 / PDF 024–400**.
-- Final alignment review **3473–3483 / PDF 332–400**: **PASS — 11 / 11**.
-- English corrections across all six alignment reviews: **0**.
-- Canonical Tamil changes across alignment: **0**.
-- Editorial consistency review: **PASS — 56 / 56; 2 English-only corrections; 0 Tamil changes**.
-- Final English release verification: **PASS — 56 / 56; final release complete**.
-- PDF 401–402 remain non-letter matter; no Letter 3484 is created in Volume 43.
-
-### Release closure
-
-Volume 43 final English release verification is complete; the durable release record is `volumes/volume-43/translations/en/RELEASE_REPORT.md`. Reopen only for a concrete defect report or verified repository inconsistency.
-
-
-### Volume 43 editorial consistency checkpoint
-
-- Review: **PASS — 56 / 56 — 3428–3483 / PDF 024–400**.
-- English-only corrections: **2** — 3481 `five million people` → `50 lakh people`; 3483 translated `Central Government` → `Union Government`.
-- Canonical Tamil changes: **0**.
-- Manifest: **56 / 56 editorially reviewed; final release pending**.
-- Durable report: `volumes/volume-43/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
-- Exact next gate: **final English release verification**.
+No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
