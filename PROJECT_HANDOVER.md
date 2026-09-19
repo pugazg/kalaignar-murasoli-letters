@@ -202,17 +202,16 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Source extent status: **complete 402-page source available**. Do not carry forward the earlier 150-page preview-limit interpretation.
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Printed contents anomaly: **3154** appears between **3376** and **3378** and must be preserved until scan-verification of the actual letter start.
-- First source letter begins at PDF **024 / printed 23**: Letter **3364**.
-- PDF **025** is still inside Letter 3364.
-- Canonical Tamil transcription: **PDF 001–025 / 402 complete for Batch 001**.
+- First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
+- Canonical Tamil transcription: **PDF 001–027 / 402 complete through Letter 3364**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Letter state: **3364 partial through PDF 025**.
+- Letter state: **3364 complete; closing `அன்புள்ள, மு.க.`; date 31-1-2009**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Begin at **PDF 026** and finish Letter **3364** only. Verify its closing/signature/date/end boundary directly from the scan and promote the record to complete. The contents suggest Letter 3365 starts at printed page 27, but do not rely on that inferred PDF boundary until visually confirmed. After 3364 closes, begin normal five-letter batching.
+Process **Letters 3365–3369** as the first normal five-letter batch, beginning at the scan-verified **PDF 028 / printed 27** start of 3365. Stop after the verified end of 3369; do not include any part of 3370.
 
 ## Series front matter optimization — 2026-09-19
 

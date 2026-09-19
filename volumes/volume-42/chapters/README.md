@@ -1,12 +1,13 @@
 # Volume 42 — Chapter Register
 
-Current state after first transcription batch:
+Current state after completing the interrupted first letter:
 
-- **Completed letters:** 0
-- **Partial letters:** 1 — [3364 — உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!](3364-uzhaithidum-piraviyum-oivedukkum-ullasiyum.md)
-- **Canonical page coverage:** PDF 001–025 / 402
+- **Completed letters:** 1 — [3364 — உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!](3364-uzhaithidum-piraviyum-oivedukkum-ullasiyum.md)
+- **Partial letters:** 0
+- **Canonical page coverage:** PDF 001–027 / 402
 - **Printed contents:** PDF 018–022 fully transcribed; source anomaly `3154` preserved.
+- **Next verified letter start:** 3365 begins PDF **028 / printed 27**.
 
-Letter 3364 begins at PDF **024 / printed 23** and continues beyond PDF 25. The next commit must begin at PDF 26 and finish this interrupted letter before normal five-letter batching begins.
+Letter 3364 is scan-verified complete at PDF **027 / printed 26** with closing `அன்புள்ள, மு.க.` and date **31-1-2009**.
 
-Do not pre-create later chapter records solely from the contents table; actual letter-start scans control chapter metadata.
+Normal five-letter batching now begins with actual source letters **3365–3369**. Do not create later chapter records until their actual source starts/boundaries are visually verified.

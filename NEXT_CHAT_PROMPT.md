@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 42 / complete partial Letter 3364 from PDF 026
+# NEXT CHAT PROMPT — Volume 42 / first normal five-letter batch 3365–3369
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -25,37 +25,47 @@ Controlling source: `TVA_BOK_0065826_கலைஞரின்_கடிதங்
 
 ## Durable state
 
-- Volume 42 source: **402 physical PDF pages / 400 printed pages**.
-- Batch 001: **PDF 001–025 COMPLETE / PASS**.
-- PDF 001–003: Volume 42-specific front-matter fields captured locally.
-- PDF 004–017: **shared-series-front-matter-verified** against Volume 43 reference.
-- PDF 018–022: printed contents **64 / 64 rows** fully transcribed.
-- Printed contents source anomaly: **3154** appears between **3376** and **3378**; preserve exactly.
-- PDF 023 / printed 22: blank/show-through.
-- Letter **3364 — உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!** begins at PDF 024 / printed 23.
-- PDF 024–025 are transcribed.
-- Letter 3364 is **partial** and continues at PDF 026.
-- Completed letters: **0**.
+- Source: **402 physical PDF pages / 400 printed pages**.
+- Shared front matter PDF 001–017: processed.
+- Printed contents PDF 018–022: **64 / 64 rows transcribed**.
+- Contents anomaly **3154** between 3376 and 3378 remains preserved.
+- Canonical coverage: **PDF 001–027 / 402**.
+- Letter **3364**: **COMPLETE**, PDF **024–027 / printed 23–26**.
+- 3364 closing: **அன்புள்ள, மு.க.**
+- 3364 date: **31-1-2009**.
+- PDF **028 / printed 27** has been visually inspected and is the actual start of Letter **3365 — ஒன்றுபட்டால் உண்டு வாழ்வே!**
+- Completed letters: **1**.
+- Partial letters: **0**.
 - English translation: **blocked**.
 
 ## Exact next activity
 
-Begin at **PDF 026** and finish Letter **3364 only**.
+Process the first normal five-letter transcription batch:
+
+**3365, 3366, 3367, 3368, 3369**
+
+Start at **PDF 028 / printed 27** and continue through the actual scan-verified end of 3369.
 
 Requirements:
 
-- transcribe every remaining page of Letter 3364 beginning at PDF 026;
-- verify its exact closing, signature/date and final printed/PDF page directly from the scan;
-- do not invent the end boundary from the contents table;
-- promote the chapter from `partial` to `complete` only after the closing/end is visually verified;
-- update all applicable page files, chapter record/index, metadata, progress, audit, README and root controls;
-- do **not** pad this special continuation commit with unrelated later letters;
+- transcribe every physical PDF page belonging to these five records;
+- verify each actual title, salutation, closing, signature/date and page boundary from the scan;
+- create one chapter record per completed letter;
+- preserve contents-title versus actual-title differences separately if any;
+- update `contents/index.md`, `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, volume README and root controls;
+- do not include any part of Letter 3370;
 - English remains blocked.
 
-The printed contents place Letter 3365 at printed page **27** (so PDF 028 is an expected candidate start), but this is only a navigation hint until the scan confirms the boundary.
+Printed-contents navigation suggests:
+- 3365 starts printed 27 / PDF 028;
+- 3366 starts printed 31 / expected PDF 032;
+- 3367 starts printed 32 / expected PDF 033;
+- 3368 starts printed 40 / expected PDF 041;
+- 3369 starts printed 49 / expected PDF 050;
+- 3370 starts printed 55 / expected PDF 056.
+
+These are navigation hints only; actual scan boundaries control.
 
 Required commit message pattern:
 
-`Complete Volume 42 letter 3364 — PDF pages 026-XXX`
-
-After Letter 3364 closes, the next normal activity is **five complete actual source letters per iteration**, beginning with Letter 3365.
+`Complete Volume 42 letters 3365-3369 — PDF pages 028-XXX`
