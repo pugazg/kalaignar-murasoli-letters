@@ -14,22 +14,21 @@ This is a **source-intake audit only**. It is not the later full-volume Tamil st
 | Publisher | **Seethai Pathippagam** |
 | Edition | **1st edition, 2022** |
 | Printed page statement | **400 pages** |
-| Current attachment pages | **150 physical PDF pages** |
+| Controlling PDF pages | **402 physical PDF pages** |
 | Current attachment bytes | **232,174,916** |
 | Usable parsed/searchable text layer | **none available; scan controls** |
 
 ## 2. Source extent finding
 
-**PARTIAL SOURCE DELIVERY.**
+**COMPLETE 402-PAGE SOURCE AVAILABLE.**
 
-The physical attachment stops at PDF 150, while the publication statement says 400 printed pages and printed contents include entries beginning close to printed page 400. This is not treated as evidence that the printed book itself is missing pages. It means the currently supplied source is incomplete for full-volume processing.
+The earlier inspection path surfaced only the first **150 rendered preview pages**. The user corrected that interpretation: the actual controlling PDF contains **402 physical pages**. The repository therefore treats 402 as the source extent.
 
 Consequences:
 
-- full-volume structural audit is blocked;
-- later unsupplied letters are not marked source-incomplete;
-- no missing continuation is reconstructed from another source;
-- transcription may proceed safely through supplied pages under normal batching rules.
+- no source-gap claim is created from the preview-layer limit;
+- full-volume transcription can proceed through PDF 402;
+- full-volume structural audit remains a later gate after canonical page coverage is complete.
 
 ## 3. Printed contents intake
 

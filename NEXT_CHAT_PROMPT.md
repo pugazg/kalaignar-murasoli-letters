@@ -29,8 +29,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Publisher: **Seethai Pathippagam**.
 - Edition: **1st edition 2022**.
 - Publication states **400 printed pages**.
-- Current attachment has **150 physical PDF pages** and is treated as a **partial source delivery**.
-- Do **not** interpret the unprovided remainder as a permanent source gap.
+- Controlling PDF has **402 physical PDF pages**. The earlier 150-page view was only a preview-layer limit.
 - No usable parsed/searchable text layer is available; the rendered scan controls.
 - Printed contents are PDF **018–022**.
 - Printed contents provisionally contain **64 rows** over nominal span **3364–3427**.

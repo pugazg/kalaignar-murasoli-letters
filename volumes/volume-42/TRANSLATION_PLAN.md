@@ -5,7 +5,7 @@ English translation has **not** begun and is not yet permitted.
 ## Gate status
 
 - [x] Source identity intake established for the currently supplied attachment
-- [ ] Complete source delivery for the printed volume
+- [x] Complete controlling source available — **402 physical PDF pages**
 - [ ] Canonical Tamil page transcription for all supplied/required source pages
 - [ ] Full-volume Tamil structural audit
 - [ ] Mandatory second visual/textual-fidelity verification
@@ -16,9 +16,9 @@ English translation has **not** begun and is not yet permitted.
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
-## Source limitation
+## Source extent
 
-The current attachment contains **150 physical PDF pages**, while the publication states **400 printed pages**. Translation must not treat the unprovided remainder as a permanent textual gap. Additional source delivery is required before full-volume release work can close.
+The controlling PDF contains **402 physical pages**. The earlier 150-page result was only a preview-layer limit. No additional source delivery is required for source extent; translation remains blocked solely by the unfinished Tamil archival gates.
 
 ## Translation method once unlocked
 

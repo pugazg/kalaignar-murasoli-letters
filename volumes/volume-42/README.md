@@ -8,20 +8,15 @@
 - Edition: **1st edition, 2022**
 - Publication statement: **400 printed pages**
 - Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`
-- Current attachment extent: **150 physical PDF pages**
+- Controlling PDF extent: **402 physical PDF pages**
 - Current attachment size: **232,174,916 bytes**
 - Searchable/parsed text layer: **none usable; scan images control transcription**
 
-## Important source-extent rule
+## Source extent
 
-The supplied attachment is **not the complete printed volume**. The publication page states 400 printed pages, while the current attachment contains only 150 physical PDF pages. The printed contents also include entries beginning as late as printed page 395.
+The controlling source contains **402 physical PDF pages**. The publication page states **400 printed pages**; the additional physical pages are source matter/covers to be classified only when transcribed and visually verified.
 
-Therefore:
-
-- treat the attachment as a **partial source delivery**;
-- do not label the unprovided remainder a permanent source gap;
-- do not mark later letters `source-incomplete` merely because their source pages are not yet attached;
-- do not reconstruct or import the remainder from another edition/source without explicit approval.
+An earlier file-preview interface exposed only the first **150** rendered pages. That was a preview limitation and must not be treated as the PDF extent or as a source gap.
 
 ## Printed contents intake
 

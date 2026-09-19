@@ -198,8 +198,8 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Visible date span: **31.01.2009–30.10.2009**.
 - Publisher / edition: **Seethai Pathippagam; 1st edition 2022**.
 - Publication statement: **400 printed pages**.
-- Current uploaded attachment: **150 physical PDF pages / 232,174,916 bytes**.
-- Source extent status: **partial source delivery**. Do not classify pages beyond the attachment as missing source pages or mark downstream letters source-incomplete merely because the remainder has not yet been supplied.
+- Controlling PDF: **402 physical PDF pages**. The file-preview layer previously surfaced only the first 150 pages; that was a preview limitation, not the PDF extent.
+- Source extent status: **complete 402-page source available**. Do not carry forward the earlier 150-page preview-limit interpretation.
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Printed contents anomaly: **3154** appears between **3376** and **3378** and must be preserved until scan-verification of the actual letter start.
 - First source letter begins at PDF **024 / printed 23**: Letter **3364**.
