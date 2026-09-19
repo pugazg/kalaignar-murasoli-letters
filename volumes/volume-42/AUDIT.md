@@ -111,3 +111,29 @@ The special post-Batch-001 continuation was processed without padding the commit
 PDF 028 was inspected only to establish the next source boundary and was not transcribed or committed in this activity.
 
 **Continuation result: PASS.** Normal five-letter transcription batching may now begin with 3365–3369.
+
+
+## 9. First normal five-letter batch — 3365–3369 / PDF 028–055
+
+**PASS.**
+
+| Letter | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3365 | 028–031 | 27–30 | 7-2-2009 |
+| 3366 | 032 | 31 | 9-2-2009 |
+| 3367 | 033–040 | 32–39 | 19-2-2009 |
+| 3368 | 041–049 | 40–48 | 21-2-2009 |
+| 3369 | 050–055 | 49–54 | 22-2-2009 |
+
+Checks:
+
+- canonical page files added: **28 / 28** for PDF 028–055;
+- five actual source letters completed;
+- all five actual titles match the printed-contents title layer;
+- every closing/date page visually verified;
+- PDF 047 source-supplied English retained without translation or normalization;
+- PDF 056 directly inspected and confirmed as the start of Letter 3370; no PDF 056 text committed in this batch;
+- earlier canonical pages changed: **0**;
+- English workflow remains blocked.
+
+**Batch result: PASS.** This is first-pass transcription verification only; it does not claim the later full-volume structural or second visual/textual-fidelity gates.

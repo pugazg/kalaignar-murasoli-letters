@@ -203,15 +203,15 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Printed contents anomaly: **3154** appears between **3376** and **3378** and must be preserved until scan-verification of the actual letter start.
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
-- Canonical Tamil transcription: **PDF 001–027 / 402 complete through Letter 3364**.
+- Canonical Tamil transcription: **PDF 001–055 / 402 complete through Letter 3369**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Letter state: **3364 complete; closing `அன்புள்ள, மு.க.`; date 31-1-2009**.
+- Letter state: **3364–3369 complete; 6 / 64 printed-content records currently source-verified**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Process **Letters 3365–3369** as the first normal five-letter batch, beginning at the scan-verified **PDF 028 / printed 27** start of 3365. Stop after the verified end of 3369; do not include any part of 3370.
+Process **Letters 3370–3374** as the next normal five-letter batch, beginning at the scan-verified **PDF 056 / printed 55** start of 3370. Stop after the verified end of 3374; do not include any part of 3375.
 
 ## Series front matter optimization — 2026-09-19
 
