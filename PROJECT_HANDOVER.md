@@ -201,17 +201,17 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Controlling PDF: **402 physical PDF pages**. The file-preview layer previously surfaced only the first 150 pages; that was a preview limitation, not the PDF extent.
 - Source extent status: **complete 402-page source available**. Do not carry forward the earlier 150-page preview-limit interpretation.
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
-- Printed contents anomaly: **3154** appears between **3376** and **3378** and must be preserved until scan-verification of the actual letter start.
+- Verified source-numbering anomaly: the printed contents and actual heading at **PDF 092 / printed 91** both show **3154** between 3376 and 3378; no 3377 record is inferred.
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
-- Canonical Tamil transcription: **PDF 001–078 / 402 complete through Letter 3374**.
+- Canonical Tamil transcription: **PDF 001–112 / 402 complete through source record 3379**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Letter state: **3364–3374 complete; 11 / 64 printed-content records currently source-verified**.
+- Source-record state: **16 complete — 3364–3376, 3154, 3378–3379**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Process the next five actual source records beginning with **3375 / PDF 079**. The contents row between 3376 and 3378 is numbered **3154**; preserve the actual start-heading number when reached and do not silently substitute 3377.
+Process **3380–3384**, beginning at scan-verified **PDF 113 / printed 112**. Stop after the verified end of 3384 and do not include any part of 3385.
 
 ## Series front matter optimization — 2026-09-19
 

@@ -22,13 +22,13 @@ An earlier file-preview interface exposed only the first **150** rendered pages.
 
 Printed contents occupy PDF **018–022**.
 
-Intake-level inspection gives a provisional **64-row** inventory across nominal letter-number span **3364–3427**. One visible source anomaly must be preserved: the contents print **3154** between **3376** and **3378**. No silent renumbering is allowed; actual letter-start verification will control the archival chapter record when that page is transcribed.
+Printed contents provide **64 source rows**. The numbering anomaly is now verified at both layers: the contents and actual heading at **PDF 092 / printed 91** both print **3154** between 3376 and 3378. This is preserved exactly; **3377 is not invented**.
 
 ## Tamil transcription status
 
-**IN PROGRESS — PDF 001–078 / 402 committed.**
+**IN PROGRESS — PDF 001–112 / 402 committed.**
 
-Letters **3364–3374** are now complete. Batch 3370–3374 covers PDF **056–078**.
+Completed actual source records now total **16 — 3364–3376, 3154, 3378–3379**. The latest batch covers PDF **079–112**.
 
 The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Its interrupted Letter 3364 continuation at PDF **026–027** is also **COMPLETE / PASS**, with closing `அன்புள்ள, மு.க.` and date `31-1-2009`.
 
@@ -38,7 +38,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Process the next five actual source records beginning with **3375 / PDF 079**. Preserve the printed-contents number **3154** between 3376 and 3378 until the actual source heading is checked; do not silently invent 3377.
+Process **3380–3384**, beginning at the scan-verified **PDF 113 / printed 112** start of 3380. Stop after the verified end of 3384 and do not include any part of 3385.
 
 ## PDF 001–017 shared front matter
 

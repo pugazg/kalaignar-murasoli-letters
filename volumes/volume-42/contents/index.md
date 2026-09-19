@@ -74,8 +74,8 @@ transcription_status: first-pass-reviewed
 | 3426 | “நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்! | 28-10-2009 | 388 |
 | 3427 | மேலும் பயன்படுகின்ற சந்திப்பு! | 30-10-2009 | 395 |
 
-> **Source-number anomaly preserved:** the printed contents visibly show **3154** between 3376 and 3378. No 3377 row is silently invented or substituted at the contents layer.
+> **Source-number anomaly VERIFIED at both source layers:** the printed contents and the actual record heading at **PDF 092 / printed page 91** both show **3154** between 3376 and 3378. No source record numbered 3377 is present at this position; do not normalize or substitute it.
 
 > Letter 3364 actual title matches the printed contents and is complete at PDF 024–027 / printed 23–26 with date 31-1-2009.
 >
-> Through Letter 3374, actual source starts/titles/dates have been verified. The 3373 contents transcription typo `அனைவர அகமும்` has been corrected to scan-confirmed `அனைவர் அகமும்`; this is not a genuine source-layer discrepancy.
+> Through the five-record batch ending with **3379 / PDF 112**, actual starts/titles/dates have been verified. The 3373 contents transcription typo `அனைவர அகமும்` has been corrected to scan-confirmed `அனைவர் அகமும்`; this is not a genuine source-layer discrepancy.

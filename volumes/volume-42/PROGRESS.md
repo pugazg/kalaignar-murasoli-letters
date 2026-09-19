@@ -3,27 +3,41 @@
 ## Current canonical state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical page files: **78 / 402**
+- Canonical page files: **112 / 402**
 - Printed contents: **64 / 64 transcribed**
-- Completed letters: **11 — 3364–3374**
-- Partial letters: **0**
+- Completed actual source records: **16 — 3364–3376, 3154, 3378–3379**
+- Partial records: **0**
 - English translation: **blocked**
 
-## Batch 3370–3374 — PASS
+## Five-record batch from 3375 — PASS
 
-| Letter | Actual title | PDF | Printed | Date |
+| Source record | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3370 | இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட! | 056–061 | 55–60 | 24-2-2009 |
-| 3371 | இன்று என் வாழ்விலோர் திருநாள்! | 062–065 | 61–64 | 27-2-2009 |
-| 3372 | இது எப்போதும் உங்கள் உயிர்! | 066–069 | 65–68 | 1-3-2009 |
-| 3373 | அனைவர அகமும் அன்பகம் ஆகிட...! | 070–073 | 69–72 | 2-3-2009 |
-| 3374 | பட்டியல் தரவா; பாடம் பெறவே! | 074–078 | 73–77 | 3-3-2009 |
+| 3375 | அமைக்கிறது மீண்டும் வெற்றிக் கூட்டணி! | 079–084 | 78–83 | 4-3-2009 |
+| 3376 | கேள்வி கேட்கக் கூடாதாம்! | 085–091 | 84–90 | 5-3-2009 |
+| **3154** | தயக்கமின்றி வரவேற்கிறோம்! | 092–098 | 91–97 | 7-3-2009 |
+| 3378 | அந்தக் குறளை மறக்க முடியுமா? | 099–105 | 98–104 | 8-3-2009 |
+| 3379 | நலிவும் நானும் - நாட்குறிப்பு | 106–112 | 105–111 | 10-3-2009 |
 
-- Letter 3371 preserves the embedded Assembly-address text dated **26.2.2009** on PDF 063; the enclosing letter continues and closes **27-2-2009**.
-- The earlier contents transcription typo `அனைவர அகமும்` was corrected to scan-confirmed `அனைவர் அகமும்`.
-- PDF 079 was boundary-checked only and starts 3375.
-- Full-volume structural audit and second visual/textual-fidelity gate remain pending.
+### Numbering anomaly — resolved
+
+The printed contents and the actual heading at **PDF 092 / printed 91** both print **3154**. Therefore this is a genuine source-numbering anomaly. **No 3377 record is silently invented.**
+
+- All five actual source start/end boundaries were visually verified.
+- PDF 113 was inspected only to confirm **3380** starts there; it is not included in this batch.
+- Full-volume structural audit and second visual/textual-fidelity verification remain pending.
+- English translation remains blocked.
 
 ## Exact next activity
 
-Process the next **five actual source records**, beginning with **3375 / PDF 079**. The printed contents use **3154** for the record between 3376 and 3378; do not silently invent 3377. Verify the actual heading number when that source page is reached and preserve both source layers if they differ. Stop before 3380.
+Process **3380–3384**, beginning at **PDF 113 / printed 112**.
+
+Printed-contents navigation suggests:
+- 3380 — printed 112 / PDF 113
+- 3381 — printed 120 / expected PDF 121
+- 3382 — printed 130 / expected PDF 131
+- 3383 — printed 140 / expected PDF 141
+- 3384 — printed 149 / expected PDF 150
+- 3385 — printed 160 / expected PDF 161
+
+The scan controls the actual boundaries. Stop after the verified end of 3384 and do not include any part of 3385.

@@ -154,3 +154,28 @@ All five start/end boundaries, titles and final closing/date pages were visually
 A prior contents transcription typo was source-corrected: `அனைவர அகமும்...` → `அனைவர் அகமும்...`. The scan shows the latter in the contents and actual 3373 heading, so this is not a genuine layer discrepancy.
 
 PDF 079 was inspected only to establish that 3375 begins there. English remains blocked.
+
+
+## 11. Five actual source records from 3375 — PDF 079–112
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3375 | 079–084 | 78–83 | 4-3-2009 |
+| 3376 | 085–091 | 84–90 | 5-3-2009 |
+| **3154** | 092–098 | 91–97 | 7-3-2009 |
+| 3378 | 099–105 | 98–104 | 8-3-2009 |
+| 3379 | 106–112 | 105–111 | 10-3-2009 |
+
+Checks:
+
+- canonical page files added: **34 / 34** for PDF 079–112;
+- five actual source records completed;
+- every actual title, closing/date and end boundary visually verified;
+- the record between 3376 and 3378 is printed **3154** in both the contents and the actual heading at PDF 092 / printed 91;
+- **no 3377 source record is inferred or created**;
+- PDF 113 directly inspected and confirmed as the start of 3380; no PDF 113 text committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.

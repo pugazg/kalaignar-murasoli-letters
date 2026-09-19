@@ -7,7 +7,7 @@ letter_number_from: 3364
 letter_number_to: 3427
 letter_count: 64
 printed_contents_entry_count: 64
-letter_count_status: "provisional from printed contents PDF 018-022; actual source-record boundaries not yet fully verified"
+letter_count_status: "64 printed source rows; numbering is non-contiguous because both contents and actual PDF 092 heading print 3154 between 3376 and 3378; no 3377 source record is present at that position"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -22,16 +22,16 @@ source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 series_front_matter_status: "verified-pdf-001-017; pdf-001-003 local-volume fields; pdf-004-017 shared-reference"
-transcription_page_range: "1-78"
+transcription_page_range: "1-112"
 transcription_status: "in-progress"
-recorded_letter_range: "3364-3374 complete"
-completed_letter_range: "3364-3374"
-completed_letter_count: 11
+recorded_letter_range: "3364-3376,3154,3378-3379 complete"
+completed_letter_range: "3364-3376,3154,3378-3379"
+completed_letter_count: 16
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "batch-001-pass; 3364-continuation-pass; normal-batches-through-3374-pass-pdf-078; full-volume-audit-not-started"
+audit_status: "first-pass batches through five-record batch from 3375 complete through PDF 112; full-volume-audit-not-started"
 audit_date: 2026-09-19
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -48,15 +48,16 @@ source_observations:
   - "The controlling PDF contains 402 physical pages. An earlier preview interface exposed only the first 150 rendered pages; that preview limit is not the source extent."
   - "No usable parsed/searchable text layer is available; rendered scan images control transcription."
   - "Printed contents occupy PDF 018-022 and provisionally enumerate 64 rows across nominal number span 3364-3427."
-  - "The printed contents visibly show number 3154 between 3376 and 3378. Preserve this as printed until the actual letter-start page is transcribed and verified."
+  - "The printed contents and actual source heading at PDF 092 / printed 91 both show number 3154 between 3376 and 3378. This is a genuine source-numbering anomaly; do not invent 3377."
   - "Letter 3364 spans PDF 024-027 / printed 23-26 and is complete with closing அன்புள்ள, மு.க. and date 31-1-2009."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
-  - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078; PDF 079 is the verified start of Letter 3375."
+  - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
+  - "The next five actual source records — 3375, 3376, 3154, 3378 and 3379 — are complete across PDF 079-112; PDF 113 is the verified start of 3380."
   - "A prior contents transcription typo for 3373 was corrected from அனைவர அகமும் to scan-confirmed அனைவர அகமும்; printed contents and actual title agree."
   - "The complete 402-page source is available; no source-incomplete status is inferred from the earlier 150-page preview limit."
 contents_transcription_status: "complete-pdf-018-022"
-contents_numbering_anomaly: "3154 printed between 3376 and 3378; no silent 3377 substitution"
-last_transcription_batch: "Letters 3370-3374 — PDF 056-078"
-next_transcription_page: 79
-next_letter_number: 3375
-next_normal_batch: "next five actual records from 3375"
+contents_numbering_anomaly: "3154 is printed both in contents and actual PDF 092 heading between 3376 and 3378; no 3377 source record at this position"
+last_transcription_batch: "Five actual records from 3375 — PDF 079-112 (3375,3376,3154,3378,3379)"
+next_transcription_page: 113
+next_letter_number: 3380
+next_normal_batch: "3380-3384"
