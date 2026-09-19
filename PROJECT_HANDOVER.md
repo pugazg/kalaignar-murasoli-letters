@@ -189,3 +189,24 @@ The repository control documents were reconciled against live release artifacts 
 - **Volumes 50–53:** legacy imported translation/source-verification trees with internally reconciled translation inventories; they are not current-format archival volume trees.
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
+
+## Volume 42 — ACTIVE SOURCE INTAKE — 2026-09-19
+
+Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
+
+- Volume identity from scan: **42**.
+- Visible date span: **31.01.2009–30.10.2009**.
+- Publisher / edition: **Seethai Pathippagam; 1st edition 2022**.
+- Publication statement: **400 printed pages**.
+- Current uploaded attachment: **150 physical PDF pages / 232,174,916 bytes**.
+- Source extent status: **partial source delivery**. Do not classify pages beyond the attachment as missing source pages or mark downstream letters source-incomplete merely because the remainder has not yet been supplied.
+- Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
+- Printed contents anomaly: **3154** appears between **3376** and **3378** and must be preserved until scan-verification of the actual letter start.
+- First source letter begins at PDF **024 / printed 23**: Letter **3364**.
+- PDF **025** is still inside Letter 3364.
+- Canonical Tamil transcription: **not started**.
+- English translation: **blocked**.
+
+### Exact next activity
+
+Create the first Volume 42 transcription commit covering **exactly PDF 001–025**. Create `page-001.md` through `page-025.md`, visually compare all 25 pages against the scan, fully transcribe front matter/contents/source text, preserve the contents-number anomaly, create Letter 3364 as **partial**, and stop at PDF 25. The following commit must begin at PDF 26 and finish Letter 3364 before normal five-letter batching begins.

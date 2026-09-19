@@ -23,6 +23,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
+| 42 | 31.01.2009–30.10.2009 | current attachment: 150; publication: 400 printed | **SOURCE INTAKE COMPLETE; supplied attachment is partial; first transcription batch pending** | **0 completed; printed contents provisionally 64 rows** | **blocked** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
@@ -104,3 +105,18 @@ Manifest validation: **55 records; no duplicate letter numbers; no duplicate Eng
 - Volumes 50–53 are retained as legacy imported translation/source-verification trees. Their translation inventories reconcile internally, but they are not promoted here to current-format archival-volume completion status.
 
 Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.
+
+## Volume 42 — active source intake
+
+The attached controlling source is `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
+
+- Scan identity confirms **Volume 42** and the visible date span **31.01.2009–30.10.2009**.
+- Publication matter prints **1st edition 2022**, **Seethai Pathippagam**, and **400 printed pages**.
+- The currently supplied attachment contains only **150 physical PDF pages**. It is therefore treated as a **partial source delivery**, not as proof that the printed volume ends at page 150.
+- Printed contents are on PDF **018–022** and provisionally enumerate **64 rows** across the nominal number span **3364–3427**.
+- The contents visibly print **3154** between **3376** and **3378**; this is preserved as a source-numbering anomaly until the actual letter-start page is transcribed and verified.
+- Letter **3364** begins at PDF **024 / printed page 23**. PDF **025** remains inside that letter.
+- No canonical Volume 42 page file has been committed yet. The mandatory first transcription activity is exactly **PDF 001–025**; it must stop at PDF 25 and mark Letter 3364 partial.
+- English translation remains blocked until the required Tamil transcription and audit gates are complete.
+
+See `volumes/volume-42/PROGRESS.md` and live `NEXT_CHAT_PROMPT.md` for the exact continuation boundary.

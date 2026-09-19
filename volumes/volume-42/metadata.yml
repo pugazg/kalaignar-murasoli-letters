@@ -1,0 +1,50 @@
+volume: 42
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 42"
+author: "கலைஞர்"
+date_from: 2009-01-31
+date_to: 2009-10-30
+letter_number_from: 3364
+letter_number_to: 3427
+letter_count: 64
+printed_contents_entry_count: 64
+letter_count_status: "provisional from printed contents PDF 018-022; actual source-record boundaries not yet fully verified"
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+source_file: "TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf"
+source_sha256: null
+source_size_bytes: 232174916
+pdf_pages: 150
+source_extent_status: "partial-source-delivery"
+source_full_volume_received: false
+source_searchable_text_layer: false
+transcription_page_range: null
+transcription_status: "not-started"
+recorded_letter_range: null
+completed_letter_range: null
+completed_letter_count: 0
+partial_letter: null
+source_incomplete_letters: []
+source_incomplete_letter_count: 0
+source_missing_printed_pages: []
+audit_status: "source-intake-complete; full-volume-audit-blocked-by-partial-source-delivery"
+audit_date: 2026-09-19
+second_visual_verification: "pending"
+second_visual_verified_page_range: null
+textual_fidelity_audit_reports: []
+translation_status: "blocked-pending-tamil-gates"
+translated_letter_range: null
+translated_letter_count: 0
+bilingual_alignment_status: "not-started"
+editorial_consistency_review_status: "not-started"
+english_release_status: "not-started"
+source_observations:
+  - "Front cover and title page identify Volume 42 and visible date span 31.01.2009-30.10.2009."
+  - "Publication matter prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
+  - "The current uploaded attachment contains 150 physical PDF pages / 232174916 bytes; it is a partial source delivery, not a complete-volume source."
+  - "No usable parsed/searchable text layer is available; rendered scan images control transcription."
+  - "Printed contents occupy PDF 018-022 and provisionally enumerate 64 rows across nominal number span 3364-3427."
+  - "The printed contents visibly show number 3154 between 3376 and 3378. Preserve this as printed until the actual letter-start page is transcribed and verified."
+  - "Letter 3364 begins at PDF 024 / printed page 23. PDF 025 remains inside that letter, so the mandatory first 25-page batch will end with Letter 3364 partial."
+  - "Pages beyond the supplied PDF 150 are not classified as missing source pages or source-incomplete letter material because the source delivery itself is incomplete."

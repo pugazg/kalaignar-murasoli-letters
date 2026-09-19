@@ -1,0 +1,50 @@
+# தொகுதி 42 — கலைஞரின் கடிதங்கள்
+
+## Source identity
+
+- Volume: **42**
+- Visible date span: **31.01.2009–30.10.2009**
+- Publisher: **சீதை பதிப்பகம் / Seethai Pathippagam**
+- Edition: **1st edition, 2022**
+- Publication statement: **400 printed pages**
+- Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`
+- Current attachment extent: **150 physical PDF pages**
+- Current attachment size: **232,174,916 bytes**
+- Searchable/parsed text layer: **none usable; scan images control transcription**
+
+## Important source-extent rule
+
+The supplied attachment is **not the complete printed volume**. The publication page states 400 printed pages, while the current attachment contains only 150 physical PDF pages. The printed contents also include entries beginning as late as printed page 395.
+
+Therefore:
+
+- treat the attachment as a **partial source delivery**;
+- do not label the unprovided remainder a permanent source gap;
+- do not mark later letters `source-incomplete` merely because their source pages are not yet attached;
+- do not reconstruct or import the remainder from another edition/source without explicit approval.
+
+## Printed contents intake
+
+Printed contents occupy PDF **018–022**.
+
+Intake-level inspection gives a provisional **64-row** inventory across nominal letter-number span **3364–3427**. One visible source anomaly must be preserved: the contents print **3154** between **3376** and **3378**. No silent renumbering is allowed; actual letter-start verification will control the archival chapter record when that page is transcribed.
+
+## Tamil transcription status
+
+**NOT STARTED.** No canonical `pages/page-NNN.md` file has yet been committed for Volume 42.
+
+The first source letter begins at **PDF 024 / printed page 23** as Letter **3364**. PDF **025** is still inside that letter.
+
+The mandatory first transcription commit is therefore exactly **PDF 001–025**. It must stop at PDF 25 and preserve Letter 3364 as a documented partial record.
+
+## English translation
+
+**BLOCKED.** English work may not begin until the required Tamil source-page coverage, structural audit and scan-based fidelity gates are complete for the eligible source material.
+
+## Exact next activity
+
+Create one atomic commit:
+
+`Transcribe Volume 42 PDF pages 001-025`
+
+Then begin the special continuation commit at PDF 26 to finish Letter 3364 before normal five-letter transcription iterations.
