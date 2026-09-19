@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 42 / first transcription batch PDF 001–025
+# NEXT CHAT PROMPT — Volume 42 / complete partial Letter 3364 from PDF 026
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -11,54 +11,51 @@ Read completely:
 3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
 4. `TRANSCRIPTION_GUIDE.md`
 5. `FUTURE_VOLUME_WORK_GUIDELINES.md`
-5. `PROJECT_HANDOVER.md`
-6. this `NEXT_CHAT_PROMPT.md`
-7. `volumes/volume-42/README.md`
-8. `volumes/volume-42/metadata.yml`
-9. `volumes/volume-42/PROGRESS.md`
-10. `volumes/volume-42/AUDIT.md`
-11. `volumes/volume-42/contents/index.md`
-12. `volumes/volume-42/chapters/README.md`
-13. `volumes/volume-42/TRANSLATION_PLAN.md`
+6. `PROJECT_HANDOVER.md`
+7. this `NEXT_CHAT_PROMPT.md`
+8. `volumes/volume-42/README.md`
+9. `volumes/volume-42/metadata.yml`
+10. `volumes/volume-42/PROGRESS.md`
+11. `volumes/volume-42/AUDIT.md`
+12. `volumes/volume-42/contents/index.md`
+13. `volumes/volume-42/chapters/README.md`
+14. `volumes/volume-42/chapters/3364-uzhaithidum-piraviyum-oivedukkum-ullasiyum.md`
 
-Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
+Controlling source: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
-## Durable source-intake state
+## Durable state
 
-- Scan-confirmed volume: **42**.
-- Visible cover/title date span: **31.01.2009–30.10.2009**.
-- Publisher: **Seethai Pathippagam**.
-- Edition: **1st edition 2022**.
-- Publication states **400 printed pages**.
-- Controlling PDF has **402 physical PDF pages**. The earlier 150-page view was only a preview-layer limit.
-- No usable parsed/searchable text layer is available; the rendered scan controls.
-- Printed contents are PDF **018–022**.
-- Printed contents provisionally contain **64 rows** over nominal span **3364–3427**.
-- Contents visibly print **3154** between **3376** and **3378**; preserve this exact source anomaly. Do not renumber it silently.
-- Letter **3364** begins PDF **024 / printed page 23**.
-- PDF **025** remains inside Letter 3364.
-- Canonical Tamil transcription: **not started**.
+- Volume 42 source: **402 physical PDF pages / 400 printed pages**.
+- Batch 001: **PDF 001–025 COMPLETE / PASS**.
+- PDF 001–003: Volume 42-specific front-matter fields captured locally.
+- PDF 004–017: **shared-series-front-matter-verified** against Volume 43 reference.
+- PDF 018–022: printed contents **64 / 64 rows** fully transcribed.
+- Printed contents source anomaly: **3154** appears between **3376** and **3378**; preserve exactly.
+- PDF 023 / printed 22: blank/show-through.
+- Letter **3364 — உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!** begins at PDF 024 / printed 23.
+- PDF 024–025 are transcribed.
+- Letter 3364 is **partial** and continues at PDF 026.
+- Completed letters: **0**.
 - English translation: **blocked**.
 
-## Exact next activity — mandatory first batch
+## Exact next activity
 
-Transcribe **exactly PDF pages 001–025** and commit atomically with message:
-
-`Transcribe Volume 42 PDF pages 001-025`
+Begin at **PDF 026** and finish Letter **3364 only**.
 
 Requirements:
 
-- create `pages/page-001.md` through `pages/page-025.md`;
-- for PDF **001–017**, apply `SERIES_FRONT_MATTER_POLICY.md`: do **not** duplicate the full recurring body when the scan visually matches the shared reference; create reference-only page records, preserve PDF 001–003 volume/date/publication-specific fields, and fully transcribe any page that differs;
-- for PDF **018–025**, transcribe the target scan normally and completely;
-- visually compare all 25 Markdown pages directly with the scan;
-- preserve printed spelling, punctuation, figures, English/Latin text, stamps/annotations distinctions and page boundaries;
-- fully transcribe printed contents PDF 018–022 exactly as printed;
-- preserve the printed `3154` contents row as printed rather than normalising it;
-- create/update Letter **3364** chapter metadata from PDF 024 onward;
-- because PDF 25 interrupts 3364, set it **partial**, do not invent `pdf_page_end`, and state that continuation begins at PDF 26;
-- update `contents/index.md`, `chapters/README.md`, `metadata.yml`, `PROGRESS.md`, `AUDIT.md`, and volume/root controls as applicable;
-- do not begin PDF 26 in this commit;
-- do not begin English translation.
+- transcribe every remaining page of Letter 3364 beginning at PDF 026;
+- verify its exact closing, signature/date and final printed/PDF page directly from the scan;
+- do not invent the end boundary from the contents table;
+- promote the chapter from `partial` to `complete` only after the closing/end is visually verified;
+- update all applicable page files, chapter record/index, metadata, progress, audit, README and root controls;
+- do **not** pad this special continuation commit with unrelated later letters;
+- English remains blocked.
 
-After this commit, the next activity is the special continuation commit beginning at **PDF 026** and ending only when Letter **3364** reaches its verified closing/date page.
+The printed contents place Letter 3365 at printed page **27** (so PDF 028 is an expected candidate start), but this is only a navigation hint until the scan confirms the boundary.
+
+Required commit message pattern:
+
+`Complete Volume 42 letter 3364 — PDF pages 026-XXX`
+
+After Letter 3364 closes, the next normal activity is **five complete actual source letters per iteration**, beginning with Letter 3365.

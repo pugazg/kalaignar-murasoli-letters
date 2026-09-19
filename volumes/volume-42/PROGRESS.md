@@ -6,42 +6,48 @@
 - [x] Visible date span recorded: **31.01.2009–30.10.2009**
 - [x] Publisher / edition recorded: **Seethai Pathippagam; 1st edition 2022**
 - [x] Publication statement recorded: **400 printed pages**
-- [x] Controlling PDF extent corrected: **402 physical PDF pages**
-- [x] Printed contents located: **PDF 018–022**
-- [x] Provisional printed-contents inventory recorded: **64 rows / nominal 3364–3427**
-- [x] Printed contents anomaly recorded: **3154 between 3376 and 3378**
-- [x] First letter boundary identified: **3364 begins PDF 024 / printed 23**
-- [ ] PDF 001–017 shared-front-matter visual/reference check
-- [ ] Canonical Tamil transcription
+- [x] Controlling PDF extent: **402 physical PDF pages**
+- [x] PDF 001–017 shared-front-matter visual/reference check
+- [x] Printed contents PDF **018–022** fully transcribed
+- [x] Printed contents anomaly preserved: **3154 between 3376 and 3378**
+- [x] Mandatory first transcription batch **PDF 001–025**
+- [ ] Canonical Tamil transcription — **25 / 402 pages**
 - [ ] Full-volume Tamil structural audit
 - [ ] Second visual/textual-fidelity verification
 - [ ] English translation
 - [ ] Bilingual alignment
 - [ ] Editorial/release gates
 
-## Source extent
+## Batch 001 result — PDF 001–025
 
-The controlling PDF has **402 physical pages**. The earlier 150-page result came from the preview/render layer and was not the true source extent.
+**PASS.**
 
-The complete source is available for full-volume processing. Full-volume audit is still **not started** because canonical transcription has not begun, not because source pages are missing.
+- PDF 001–003: Volume 42-specific cover/title/publication fields captured locally without duplicating recurring series boilerplate.
+- PDF 004–017: direct scan comparison found no printed-text deviation from the approved Volume 43 shared front-matter reference; reference-only canonical page records created.
+- PDF 018–022: printed contents transcribed exactly as printed.
+- PDF 023 / printed 22: blank/show-through page recorded.
+- PDF 024–025 / printed 23–24: Letter **3364** transcribed and marked **partial**.
+- Contents row **3154** is preserved exactly; no 3377 row is invented.
+- English remains blocked.
 
 ## Current canonical state
 
-- Page files committed: **0**
+- Page files committed: **25 / 402**
+- Contents rows: **64 / 64 transcribed**
 - Completed letters: **0**
-- Partial letter: **none yet**
+- Partial letter: **3364**
+- Current partial title: **உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!**
+- Next PDF page: **026**
 - Translation: **blocked**
 
 ## Exact next activity
 
-Perform the mandatory first transcription iteration:
+Begin at **PDF 026** and finish Letter **3364** only.
 
-**PDF 001–025 exactly.**
+Verify its actual closing, signature/date and end boundary from the scan. The printed contents place Letter 3365 at printed page 27 (expected PDF 28), but do not promote that inferred boundary until the source scan confirms it.
 
-Create `page-001.md` through `page-025.md`. For PDF **001–017**, apply `SERIES_FRONT_MATTER_POLICY.md`: visually compare against the shared reference, use reference-only records for matching common pages, preserve Volume 42-specific fields on PDF 001–003, and fully transcribe any deviation. Fully transcribe PDF **018–025**, preserve the `3154` contents anomaly, create Letter **3364** as a partial chapter record beginning PDF 024 / printed 23, and stop at PDF 25.
+Required commit message pattern:
 
-Required commit message:
+`Complete Volume 42 letter 3364 — PDF pages 026-XXX`
 
-`Transcribe Volume 42 PDF pages 001-025`
-
-After that commit, begin PDF 26 and finish Letter 3364 before starting normal five-letter iterations.
+After 3364 is complete, normal **five complete actual source letters per iteration** begins.

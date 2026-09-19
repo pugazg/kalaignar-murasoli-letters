@@ -204,12 +204,15 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Printed contents anomaly: **3154** appears between **3376** and **3378** and must be preserved until scan-verification of the actual letter start.
 - First source letter begins at PDF **024 / printed 23**: Letter **3364**.
 - PDF **025** is still inside Letter 3364.
-- Canonical Tamil transcription: **not started**.
+- Canonical Tamil transcription: **PDF 001–025 / 402 complete for Batch 001**.
+- Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
+- Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
+- Letter state: **3364 partial through PDF 025**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Create the first Volume 42 transcription commit covering **exactly PDF 001–025**. Create `page-001.md` through `page-025.md`, visually compare all 25 pages against the scan, fully transcribe front matter/contents/source text, preserve the contents-number anomaly, create Letter 3364 as **partial**, and stop at PDF 25. The following commit must begin at PDF 26 and finish Letter 3364 before normal five-letter batching begins.
+Begin at **PDF 026** and finish Letter **3364** only. Verify its closing/signature/date/end boundary directly from the scan and promote the record to complete. The contents suggest Letter 3365 starts at printed page 27, but do not rely on that inferred PDF boundary until visually confirmed. After 3364 closes, begin normal five-letter batching.
 
 ## Series front matter optimization — 2026-09-19
 

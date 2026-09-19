@@ -49,12 +49,42 @@ Therefore the mandatory first transcription commit must stop at PDF 25 and leave
 
 ## 5. Intake result
 
-**PASS — Volume 42 intake structure may be created; Tamil transcription has not yet begun.**
+**PASS — Volume 42 intake structure established.**
 
-No claim is made that the complete Volume 42 source has been supplied.
+The complete 402-page source is available.
 
 ## 6. Series front matter handling
 
 PDF **001–017** will be processed under `SERIES_FRONT_MATTER_POLICY.md` rather than blindly re-transcribed.
 
 This does **not** mean those pages are skipped. Each physical page must still receive a repository page record and a direct visual comparison. Matching recurring pages may reference the shared canonical front matter; PDF 001–003 volume-specific fields and any printed-text deviations must be recorded locally.
+
+
+## 7. Batch 001 — PDF 001–025
+
+**Commit scope:** mandatory first transcription batch.
+
+| Check | Result |
+|---|---|
+| Canonical page records | **25 / 25 — page-001.md through page-025.md** |
+| PDF 001–003 | Volume-specific metadata captured locally |
+| PDF 004–017 | **shared-series-front-matter-verified** against Volume 43 reference |
+| PDF 018–022 | printed contents fully transcribed |
+| PDF 023 | blank/show-through page recorded |
+| PDF 024–025 | Letter 3364 partial transcription |
+| Contents row count | **64 / 64** |
+| Contents anomaly | **3154 preserved between 3376 and 3378** |
+| Completed letters | **0** |
+| Partial letters | **3364** |
+| Invalid replacement Unicode | none intentionally introduced |
+| English work | blocked |
+
+### Shared-front-matter verification
+
+Direct target-scan review of PDF 004–017 found no printed-text variance requiring a local full transcription. The target pages therefore use reference-only records pointing to the verified Volume 43 canonical front matter. PDF 001–003 retain Volume 42-specific local fields.
+
+### First letter boundary
+
+Letter **3364 — உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!** begins at PDF **024 / printed 23**. PDF 025 ends mid-answer, so the record remains **partial** and must continue at PDF 026.
+
+**Batch 001 result: PASS.** This is an iteration audit only; it does not claim full-volume structural or second visual verification.

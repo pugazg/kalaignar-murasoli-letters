@@ -26,11 +26,11 @@ Intake-level inspection gives a provisional **64-row** inventory across nominal 
 
 ## Tamil transcription status
 
-**NOT STARTED.** No canonical `pages/page-NNN.md` file has yet been committed for Volume 42.
+**IN PROGRESS — PDF 001–025 / 402 committed.**
 
 The first source letter begins at **PDF 024 / printed page 23** as Letter **3364**. PDF **025** is still inside that letter.
 
-The mandatory first transcription commit is therefore exactly **PDF 001–025**. It must stop at PDF 25 and preserve Letter 3364 as a documented partial record.
+The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Letter 3364 is preserved as a documented partial record at the PDF 25 boundary.
 
 ## English translation
 
@@ -38,18 +38,14 @@ The mandatory first transcription commit is therefore exactly **PDF 001–025**.
 
 ## Exact next activity
 
-Create one atomic commit:
-
-`Transcribe Volume 42 PDF pages 001-025`
-
-Then begin the special continuation commit at PDF 26 to finish Letter 3364 before normal five-letter transcription iterations.
+Begin at **PDF 026** and finish Letter **3364** only. Verify the closing/signature/date/end boundary directly from the scan; then promote the chapter from partial to complete. Do not begin normal five-letter batching until 3364 is closed.
 
 ## PDF 001–017 shared front matter
 
 Volume 42 follows the repository-wide `SERIES_FRONT_MATTER_POLICY.md`.
 
-- PDF **001–017** are treated as the recurring series front-matter zone.
-- Full repeated body transcription is **not required** when direct visual comparison proves a match to the approved shared reference.
+- PDF **001–017** are the recurring series front-matter zone and have now been processed for Volume 42.
+- PDF **004–017** passed direct visual comparison against the Volume 43 shared reference and use reference-only records; PDF 001–003 retain local Volume 42 fields.
 - PDF **001–003** still require local capture of Volume 42-specific volume/date/publication fields.
 - PDF **004–017** may use reference-only records when the printed source matches.
 - Any printed wording difference must be transcribed locally in full; do not force-match a shared page.
