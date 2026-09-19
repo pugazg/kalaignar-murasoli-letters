@@ -24,7 +24,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 42 | 31.01.2009–30.10.2009 | 402 | **PDF 001–055 first-pass coverage; 001–017 shared-front-matter verified** | **6 complete — 3364–3369; contents 64 rows transcribed** | **blocked** |
+| 42 | 31.01.2009–30.10.2009 | 402 | **PDF 001–078 first-pass coverage; 001–017 shared-front-matter verified** | **11 complete — 3364–3374; contents 64 rows transcribed** | **blocked** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
@@ -117,9 +117,9 @@ The attached controlling source is `TVA_BOK_0065826_கலைஞரின்_க
 - Printed contents are on PDF **018–022** and provisionally enumerate **64 rows** across the nominal number span **3364–3427**.
 - The contents visibly print **3154** between **3376** and **3378**; this is preserved as a source-numbering anomaly until the actual letter-start page is transcribed and verified.
 - Letter **3364** is complete across PDF **024–027 / printed 23–26**, with closing `அன்புள்ள, மு.க.` and date **31-1-2009**.
-- Canonical coverage is now **PDF 001–055 / 402**. Shared front matter PDF 004–017 is reference-verified, printed contents PDF 018–022 are fully transcribed, and Letters 3364–3369 are complete.
+- Canonical coverage is now **PDF 001–078 / 402**. Shared front matter PDF 004–017 is reference-verified, printed contents PDF 018–022 are fully transcribed, and Letters 3364–3374 are complete.
 - English translation remains blocked until the required Tamil transcription and audit gates are complete.
 
 See `volumes/volume-42/PROGRESS.md` and live `NEXT_CHAT_PROMPT.md` for the exact continuation boundary.
 
-- Volume 42 first normal five-letter batch **3365–3369 / PDF 028–055 PASS**. Exact next activity is **3370–3374**, starting PDF 056.
+- Volume 42 batch **3370–3374 / PDF 056–078 PASS**. Exact next activity begins with 3375 / PDF 079 and must preserve the later source-number anomaly.

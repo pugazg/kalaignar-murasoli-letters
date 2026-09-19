@@ -1,59 +1,29 @@
 # மின்னாக்க முன்னேற்றம் — தொகுதி 42
 
-## Source intake
+## Current canonical state
 
-- [x] Volume number verified from scan as **42**
-- [x] Visible date span recorded: **31.01.2009–30.10.2009**
-- [x] Controlling PDF extent: **402 physical PDF pages**
-- [x] PDF 001–017 shared-front-matter visual/reference check
-- [x] Printed contents PDF **018–022** fully transcribed
-- [x] Printed contents anomaly preserved: **3154 between 3376 and 3378**
-- [x] Mandatory first transcription batch **PDF 001–025**
-- [x] Interrupted Letter **3364** completed — PDF **026–027**
-- [x] First normal five-letter batch **3365–3369** — PDF **028–055**
-- [ ] Canonical Tamil transcription — **55 / 402 pages**
-- [ ] Full-volume Tamil structural audit
-- [ ] Second visual/textual-fidelity verification
-- [ ] English translation
-- [ ] Bilingual alignment
-- [ ] Editorial/release gates
+- Source: **402 physical PDF pages / 400 printed pages**
+- Canonical page files: **78 / 402**
+- Printed contents: **64 / 64 transcribed**
+- Completed letters: **11 — 3364–3374**
+- Partial letters: **0**
+- English translation: **blocked**
 
-## Batch 3365–3369 result
-
-**PASS.**
+## Batch 3370–3374 — PASS
 
 | Letter | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3365 | ஒன்றுபட்டால் உண்டு வாழ்வே! | 028–031 | 27–30 | 7-2-2009 |
-| 3366 | உள்ளமும் - பள்ளமும்! | 032 | 31 | 9-2-2009 |
-| 3367 | திருமணத்திற்காக எடுத்த பட்டுப் புடவைதான்! | 033–040 | 32–39 | 19-2-2009 |
-| 3368 | கையை நீட்டுகிறார்; காங்கிரசாரே எச்சரிக்கை! | 041–049 | 40–48 | 21-2-2009 |
-| 3369 | புதியதோர் விதி செய்வோம்! | 050–055 | 49–54 | 22-2-2009 |
+| 3370 | இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட! | 056–061 | 55–60 | 24-2-2009 |
+| 3371 | இன்று என் வாழ்விலோர் திருநாள்! | 062–065 | 61–64 | 27-2-2009 |
+| 3372 | இது எப்போதும் உங்கள் உயிர்! | 066–069 | 65–68 | 1-3-2009 |
+| 3373 | அனைவர அகமும் அன்பகம் ஆகிட...! | 070–073 | 69–72 | 2-3-2009 |
+| 3374 | பட்டியல் தரவா; பாடம் பெறவே! | 074–078 | 73–77 | 3-3-2009 |
 
-- All five start/end boundaries were visually verified.
-- Actual titles match their printed-contents title layer in this batch.
-- PDF 047 preserves the source-supplied English letter to the Acting Chief Justice verbatim as printed.
-- PDF 056 was inspected only to confirm that Letter **3370** starts there; it is not included in this batch.
-- English translation remains blocked.
-
-## Current canonical state
-
-- Page files committed: **55 / 402**
-- Contents rows: **64 / 64 transcribed**
-- Completed letters: **6 — 3364–3369**
-- Partial letters: **0**
-- Next verified letter: **3370**
-- Next PDF page: **056**
-- Translation: **blocked**
+- Letter 3371 preserves the embedded Assembly-address text dated **26.2.2009** on PDF 063; the enclosing letter continues and closes **27-2-2009**.
+- The earlier contents transcription typo `அனைவர அகமும்` was corrected to scan-confirmed `அனைவர் அகமும்`.
+- PDF 079 was boundary-checked only and starts 3375.
+- Full-volume structural audit and second visual/textual-fidelity gate remain pending.
 
 ## Exact next activity
 
-Process the next normal five-letter transcription batch:
-
-**Letters 3370–3374**, beginning at **PDF 056 / printed 55**.
-
-Continue through the actual scan-verified end of Letter 3374 and do not include any part of 3375. Printed-contents navigation suggests 3375 starts printed page 78 / expected PDF 079, but the scan controls.
-
-Required commit message pattern:
-
-`Complete Volume 42 letters 3370-3374 — PDF pages 056-XXX`
+Process the next **five actual source records**, beginning with **3375 / PDF 079**. The printed contents use **3154** for the record between 3376 and 3378; do not silently invent 3377. Verify the actual heading number when that source page is reached and preserve both source layers if they differ. Stop before 3380.

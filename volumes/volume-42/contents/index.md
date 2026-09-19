@@ -18,7 +18,7 @@ transcription_status: first-pass-reviewed
 | 3370 | இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட! | 24-2-2009 | 55 |
 | 3371 | இன்று என் வாழ்விலோர் திருநாள்! | 27-2-2009 | 61 |
 | 3372 | இது எப்போதும் உங்கள் உயிர்! | 1-3-2009 | 65 |
-| 3373 | அனைவர அகமும் அன்பகம் ஆகிட...! | 2-3-2009 | 69 |
+| 3373 | அனைவர் அகமும் அன்பகம் ஆகிட...! | 2-3-2009 | 69 |
 | 3374 | பட்டியல் தரவா; பாடம் பெறவே! | 3-3-2009 | 73 |
 | 3375 | அமைக்கிறது மீண்டும் வெற்றிக் கூட்டணி! | 4-3-2009 | 78 |
 | 3376 | கேள்வி கேட்கக் கூடாதாம்! | 5-3-2009 | 84 |
@@ -76,4 +76,6 @@ transcription_status: first-pass-reviewed
 
 > **Source-number anomaly preserved:** the printed contents visibly show **3154** between 3376 and 3378. No 3377 row is silently invented or substituted at the contents layer.
 
-> Letter 3364 actual title at PDF 024 matches the printed-contents title. Its closing/date page has not yet been reached in the current batch.
+> Letter 3364 actual title matches the printed contents and is complete at PDF 024–027 / printed 23–26 with date 31-1-2009.
+>
+> Through Letter 3374, actual source starts/titles/dates have been verified. The 3373 contents transcription typo `அனைவர அகமும்` has been corrected to scan-confirmed `அனைவர் அகமும்`; this is not a genuine source-layer discrepancy.

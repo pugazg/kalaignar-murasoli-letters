@@ -26,9 +26,9 @@ Intake-level inspection gives a provisional **64-row** inventory across nominal 
 
 ## Tamil transcription status
 
-**IN PROGRESS — PDF 001–055 / 402 committed.**
+**IN PROGRESS — PDF 001–078 / 402 committed.**
 
-Letters **3364–3369** are now complete. The first normal five-letter batch 3365–3369 covers PDF **028–055**.
+Letters **3364–3374** are now complete. Batch 3370–3374 covers PDF **056–078**.
 
 The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Its interrupted Letter 3364 continuation at PDF **026–027** is also **COMPLETE / PASS**, with closing `அன்புள்ள, மு.க.` and date `31-1-2009`.
 
@@ -38,7 +38,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Process **Letters 3370–3374**, beginning at the scan-verified **PDF 056 / printed 55** start of 3370. Stop after the verified end of 3374 and do not include any part of 3375.
+Process the next five actual source records beginning with **3375 / PDF 079**. Preserve the printed-contents number **3154** between 3376 and 3378 until the actual source heading is checked; do not silently invent 3377.
 
 ## PDF 001–017 shared front matter
 

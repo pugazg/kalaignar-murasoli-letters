@@ -137,3 +137,20 @@ Checks:
 - English workflow remains blocked.
 
 **Batch result: PASS.** This is first-pass transcription verification only; it does not claim the later full-volume structural or second visual/textual-fidelity gates.
+
+
+## 10. Normal five-letter batch — 3370–3374 / PDF 056–078
+
+**PASS.**
+
+- 3370: PDF 056–061 / printed 55–60 / date 24-2-2009
+- 3371: PDF 062–065 / printed 61–64 / date 27-2-2009
+- 3372: PDF 066–069 / printed 65–68 / date 1-3-2009
+- 3373: PDF 070–073 / printed 69–72 / date 2-3-2009
+- 3374: PDF 074–078 / printed 73–77 / date 3-3-2009
+
+All five start/end boundaries, titles and final closing/date pages were visually verified. Letter 3371 includes an embedded Assembly-address ending on PDF 063 with date 26.2.2009, but the enclosing letter continues to its final 27-2-2009 closure.
+
+A prior contents transcription typo was source-corrected: `அனைவர அகமும்...` → `அனைவர் அகமும்...`. The scan shows the latter in the contents and actual 3373 heading, so this is not a genuine layer discrepancy.
+
+PDF 079 was inspected only to establish that 3375 begins there. English remains blocked.
