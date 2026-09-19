@@ -26,9 +26,9 @@ Printed contents provide **64 source rows**. The numbering anomaly is now verifi
 
 ## Tamil transcription status
 
-**IN PROGRESS — PDF 001–112 / 402 committed.**
+**IN PROGRESS — PDF 001–160 / 402 committed.**
 
-Completed actual source records now total **16 — 3364–3376, 3154, 3378–3379**. The latest batch covers PDF **079–112**.
+Completed actual source records now total **21 — 3364–3376, 3154, 3378–3384**. The latest batch **3380–3384** covers PDF **113–160**. Records 3379–3384 form the six-part `நலிவும் நானும் - நாட்குறிப்பு` sequence, explicitly closed by `(முற்றும்)` on PDF 160.
 
 The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Its interrupted Letter 3364 continuation at PDF **026–027** is also **COMPLETE / PASS**, with closing `அன்புள்ள, மு.க.` and date `31-1-2009`.
 
@@ -38,7 +38,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Process **3380–3384**, beginning at the scan-verified **PDF 113 / printed 112** start of 3380. Stop after the verified end of 3384 and do not include any part of 3385.
+Process **3385–3389**, beginning at the scan-verified **PDF 161 / printed 160** start of 3385. Stop after the verified end of 3389 and do not include any part of 3390.
 
 ## PDF 001–017 shared front matter
 

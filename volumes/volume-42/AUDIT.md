@@ -179,3 +179,29 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 12. Normal five-record batch — 3380–3384 / PDF 113–160
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3380 | 113–120 | 112–119 | 11-3-2009 |
+| 3381 | 121–130 | 120–129 | 12-3-2009 |
+| 3382 | 131–140 | 130–139 | 13-3-2009 |
+| 3383 | 141–149 | 140–148 | 14-3-2009 |
+| 3384 | 150–160 | 149–159 | 15-3-2009 |
+
+Checks:
+
+- canonical page files added: **48 / 48** for PDF 113–160;
+- five actual source records completed;
+- all five start headings, titles, end boundaries and final closing dates visually verified;
+- records **3379–3384** are the six-part `நலிவும் நானும் - நாட்குறிப்பு` sequence;
+- PDF **160 / printed 159** explicitly prints **`(முற்றும்)`**, so the diary sequence is source-closed there;
+- PDF **161 / printed 160** directly inspected and confirmed as the start of **3385 — `ஆயத்தமாகுக; அறப்போர் முனைக்கு!`**;
+- no PDF 161 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.

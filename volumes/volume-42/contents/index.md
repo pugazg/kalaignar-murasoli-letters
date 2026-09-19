@@ -78,4 +78,4 @@ transcription_status: first-pass-reviewed
 
 > Letter 3364 actual title matches the printed contents and is complete at PDF 024–027 / printed 23–26 with date 31-1-2009.
 >
-> Through the five-record batch ending with **3379 / PDF 112**, actual starts/titles/dates have been verified. The 3373 contents transcription typo `அனைவர அகமும்` has been corrected to scan-confirmed `அனைவர் அகமும்`; this is not a genuine source-layer discrepancy.
+> Through **3384 / PDF 160**, actual starts/titles/dates have been verified. Records **3379–3384** form the six-part `நலிவும் நானும் - நாட்குறிப்பு` sequence, which explicitly closes with `(முற்றும்)` on PDF 160. PDF 161 is the verified start of 3385. The 3373 contents transcription typo `அனைவர அகமும்` has been corrected to scan-confirmed `அனைவர் அகமும்`; this is not a genuine source-layer discrepancy.
