@@ -45,6 +45,6 @@ This audit reviewed every branch against the canonical `main` branch after compl
 - Do not overwrite later source-checked translations or progress records with older branch versions.
 - Synchronise every non-`main` branch to the final audit commit so that all named branches resolve to one canonical repository state.
 
-## Next work
+## Historical next work — superseded
 
-Resume the locked translation workflow with letters **3805–3809**, including visual scan comparison of every corresponding Tamil Markdown page before translation.
+The activity recorded here was correct at the **2026-08-06** audit checkpoint but is no longer current. Volume 49 later completed English translation, bilingual alignment, editorial review and release packaging for **53 / 53 letters, 3764–3816**. Current work must be derived from live `main`, `PROJECT_HANDOVER.md` and `NEXT_CHAT_PROMPT.md`, not from this historical checkpoint.

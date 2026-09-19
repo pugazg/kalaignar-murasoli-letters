@@ -117,6 +117,6 @@ source_observations:
   - "Batch 9 caused no canonical Tamil changes."
   - "Tenth five-record translation batch is source-checked and bilingual-alignment verified in actual source order: 3640, 3641, 3642, 3643, 3647, covering PDF 356-387."
   - "Batch 10 required no substantive English correction and caused no canonical Tamil changes; all five bilingual records contain complete audited Tamil appendices."
-  - "Final two-record translation batch 3648-3649 is draft-translated, structurally complete and awaiting bilingual source-alignment review, covering PDF 388-400."
-  - "All 55 actual source records now have English bilingual files; 53 are verified and 2 are draft/pending."
+  - "Final two-record translation batch 3648-3649 passed bilingual source-alignment review and is verified, covering PDF 388-400."
+  - "All 55 actual source records have verified English bilingual files; bilingual alignment, editorial consistency review and final release packaging are complete."
   - "Final drafting caused no canonical Tamil changes."
