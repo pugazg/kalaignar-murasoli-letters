@@ -418,3 +418,31 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 21. Final source-record batch — 3425–3427 / PDF 386–402
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3425 | 386–388 | 385–387 | 27-10-2009 |
+| 3426 | 389–395 | 388–394 | 28-10-2009 |
+| 3427 | 396–401 | 395–400 | 30-10-2009 |
+
+Checks:
+
+- canonical page records added for **PDF 386–402 / 17 physical pages**;
+- final three actual source records completed;
+- all three starts, actual titles, closing dates and end boundaries directly inspected against rendered source scans;
+- Letter **3425** printed contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`; both source layers are preserved independently;
+- source-supplied English in Letter 3425 was retained verbatim as printed;
+- pre-publication visual review corrected **8 draft readings/spacing errors**: `தொடர்பில்லாத` → `தொய்வில்லாத`, `தடுத்துநிறுத்துவதை` → `தடுத்து நிறுத்துவதை`, `செயல்பட்டுத் துடிக்கின்றார்கள்` → `செயல்படத் துடிக்கின்றார்கள்`, `எந்தத் தமிழறிஞர்` → `எந்த தமிழறிஞர்`, `ஏற்போதெல்லாம்` → `ஏற்றபோதெல்லாம்`, body-text `நீதிக்கட்சியின்` → `நீதிக் கட்சியின்`, and two `போன்றொரு` → `போன்றதொரு` corrections;
+- those corrections were made only to the unpublished work-branch candidate; **0 previously committed canonical pages changed**;
+- Letter **3427** closes on PDF **401 / printed 400** with `அன்புள்ள, மு.க.` and date **30-10-2009**;
+- PDF **402** is non-letter back-cover / portrait / publisher-contact-price material;
+- **no Letter 3428 is created in Volume 42**;
+- first-pass canonical source coverage is now **PDF 001–402 / 402 complete**;
+- English remains blocked.
+
+**Final transcription-batch result: PASS.** First-pass Tamil source coverage is complete. The full-volume structural audit and second full-volume visual/textual-fidelity verification remain separate pending gates.
