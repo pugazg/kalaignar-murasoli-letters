@@ -3,30 +3,32 @@
 ## Current canonical state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical page files: **385 / 402**
+- Canonical page files: **402 / 402**
 - Printed contents: **64 / 64 transcribed**
-- Completed actual source records: **61 — 3364–3376, 3154, 3378–3424**
+- Completed actual source records: **64 — 3364–3376, 3154, 3378–3427**
 - Partial records: **0**
+- First-pass Tamil source coverage: **COMPLETE**
+- Full-volume structural audit: **pending**
+- Second visual/textual-fidelity verification: **pending**
 - English translation: **blocked**
 
-## Batch 3420–3424 — PASS
+## Final source-record batch 3425–3427 — PASS
 
 | Source record | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3420 | வளைந்த வாலை; நிமிர்த்திடவே முடியாது! | 360–364 | 359–363 | 16-10-2009 |
-| 3421 | உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது! | 365–373 | 364–372 | 20-10-2009 |
-| 3422 | சுழன்று சுடர்விடும் எண்ண அலைகள்! | 374–377 | 373–376 | 22-10-2009 |
-| 3423 | இன்ப நாளிதே எனப்பாடுவோம்! | 378–379 | 377–378 | 25-10-2009 |
-| 3424 | அடித்தட்டல்ல; அடித்தளமானவர்கள்! | 380–385 | 379–384 | 26-10-2009 |
+| 3425 | வருந்தப் போகிறார்களா - இனியேனும் திருந்தப்போகிறார்களா? | 386–388 | 385–387 | 27-10-2009 |
+| 3426 | “நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்! | 389–395 | 388–394 | 28-10-2009 |
+| 3427 | மேலும் பயன்படுகின்ற சந்திப்பு! | 396–401 | 395–400 | 30-10-2009 |
 
-- All five actual source starts, titles, end boundaries and closing dates were visually verified against the rendered source scans.
-- Canonical page files added: **26 / 26** for PDF **360–385**.
-- Pre-publication visual review corrected **15 draft readings/spacing errors** before publication. Scan-confirmed examples include `கேட்க`, `பீதியோ`, `சமிக்ஞையாக`, `உலகத் தமிழ்ச் செம்மொழி`, `கட்சி வேறுபாடின்றி`, `வ.உ.சி.யின்`, `பொதுநல`, `அரியாசனத்தில்`, Bharathi's source line beginning `பிற நாட்டு நல்லறிஞர்...`, `இருபக்கமும்`, `நன்றியுணர்வும்`, `உள் இட ஒதுக்கீடு`, `நிதி உதவி`, and `அவர்கள் தான்`.
-- Source-supplied English quotations in 3420 and quoted/source-attributed political material throughout the batch were preserved as printed rather than reconciled with outside sources.
+- All three starts, actual titles, end boundaries and closing dates were visually verified against the rendered source scans.
+- Canonical records added for **PDF 386–402 / 17 physical pages**.
+- Letter **3427** closes at PDF **401 / printed 400**. PDF **402** is non-letter back-cover / portrait / publisher-contact-price material.
+- **No Letter 3428 is created in Volume 42.**
+- Letter **3425** has a genuine title-layer difference: printed contents uses `திருந்தப் போகிறார்களா?`; actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`.
+- Pre-publication visual review corrected **8 draft readings/spacing errors**, including scan-confirmed `தொய்வில்லாத தொடர்பும்`, `தடுத்து நிறுத்துவதை`, `செயல்படத் துடிக்கின்றார்கள்`, `எந்த தமிழறிஞர்`, `ஏற்றபோதெல்லாம்`, body-text `நீதிக் கட்சியின்`, and two `போன்றதொரு` readings.
+- Source-supplied English in 3425 and quoted/source-attributed political, historical, statistical and legal material in 3425–3427 were preserved as printed rather than reconciled with outside sources.
 - No previously committed canonical page changed.
-- PDF **386 / printed 385** was inspected only to confirm the next source record: **3425 — வருந்தப் போகிறார்களா - இனியேனும் திருந்தப் போகிறார்களா?**.
-- Full-volume structural audit and second visual/textual-fidelity verification remain pending.
-- English translation remains blocked.
+- English remains blocked until the structural and second visual/textual-fidelity gates pass.
 
 ### Numbering anomaly — retained
 
@@ -34,11 +36,21 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 ## Exact next activity
 
-Process the **final three source records 3425–3427**, beginning at **PDF 386 / printed 385**.
+Run the **full-volume Tamil structural audit** for **PDF 001–402 / 402**.
 
-Printed-contents navigation hints:
-- 3425 — printed 385 / PDF 386
-- 3426 — printed 388 / expected PDF 389
-- 3427 — printed 395 / expected PDF 396
+Verify, at minimum:
 
-Use the scans to establish every actual boundary and the end of 3427. Then classify any remaining physical source pages through PDF 402. Do not invent a 3428 record in Volume 42.
+- exactly one canonical page file for every physical PDF page 001–402;
+- uninterrupted page filenames and no extras;
+- front matter / contents / letters / back-cover classification;
+- printed contents **64 / 64** versus actual source records **64**;
+- source-number anomaly **3154** and absence of invented 3377;
+- all 64 chapter records and page-link continuity;
+- all letter starts/ends, signatures and dates structurally reconcile;
+- genuine Letter 3392 duplicated source body remains preserved;
+- genuine Letter 3425 contents/actual-title distinction remains preserved;
+- Letter 3427 ends at PDF 401 / printed 400;
+- PDF 402 remains non-letter and no 3428 is created;
+- no replacement Unicode, invalid page links, accidental duplicate canonical files, or large structural omissions.
+
+Do **not** start English translation. After structural PASS, the next required gate is the second full-volume direct visual/textual-fidelity verification.
