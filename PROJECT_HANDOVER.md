@@ -203,15 +203,15 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Verified source-numbering anomaly: the printed contents and actual heading at **PDF 092 / printed 91** both show **3154** between 3376 and 3378; no 3377 record is inferred.
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
-- Canonical Tamil transcription: **PDF 001–329 / 402 complete through source record 3414**.
+- Canonical Tamil transcription: **PDF 001–359 / 402 complete through source record 3419**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Source-record state: **51 complete — 3364–3376, 3154, 3378–3414**.
+- Source-record state: **56 complete — 3364–3376, 3154, 3378–3419**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Process **3415–3419**, beginning at scan-verified **PDF 330 / printed 329**, whose actual heading is `3415. இரு நாள் நமக்குத் திருநாள்!`. Stop after the verified end of 3419 and do not include any part of 3420.
+Process **3420–3424**, beginning at scan-verified **PDF 360 / printed 359**, whose actual heading is `3420. வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`. Stop after the verified end of 3424 and do not include any part of 3425.
 
 ## Series front matter optimization — 2026-09-19
 
