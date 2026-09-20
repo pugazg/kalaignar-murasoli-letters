@@ -364,3 +364,30 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 19. Normal five-record batch — 3415–3419 / PDF 330–359
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3415 | 330–334 | 329–333 | 13-9-2009 |
+| 3416 | 335–337 | 334–336 | 3-10-2009 |
+| 3417 | 338–343 | 337–342 | 12-10-2009 |
+| 3418 | 344–351 | 343–350 | 13-10-2009 |
+| 3419 | 352–359 | 351–358 | 14-10-2009 |
+
+Checks:
+
+- canonical page files added: **30 / 30** for PDF 330–359;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected against the rendered source scans;
+- source quotations, attributed political statements, dates, figures and source-supplied English/abbreviations were preserved as printed and were not reconciled against outside sources;
+- pre-publication visual review corrected a major paragraph mis-transcription on PDF **338** and multiple additional draft readings/spacing errors, including scan-confirmed `வெளியிடப்படவுள்ளது`, `இணைய தளம்`, `தூயநேசம்`, `விரட்டுவதை போலவே`, `முள் கம்பி வேலிகளுக்குள்`, `கடற்படையினரால்`, `ராஜபக்சேயின்`, `ஒரு சட்டத்தையே இயற்றி`, `உள்கட்டமைப்புப் பற்றாக்குறை`, `ஆறரை கோடி`, and `ஒட்டியானத்தை`;
+- those corrections were made only to the unpublished work-branch candidate; **0 previously committed canonical pages changed**;
+- PDF **360 / printed 359** directly inspected and confirmed as the start of **3420 — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`**;
+- no PDF 360 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
