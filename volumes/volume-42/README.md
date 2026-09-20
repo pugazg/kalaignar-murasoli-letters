@@ -27,7 +27,7 @@ Printed contents provide **64 source rows**. The numbering anomaly is verified a
 
 ## Tamil transcription status
 
-**FIRST-PASS COMPLETE — PDF 001–402 / 402. FULL-VOLUME STRUCTURAL AUDIT — PASS.**
+**FIRST-PASS COMPLETE — PDF 001–402 / 402. FULL-VOLUME STRUCTURAL AUDIT — PASS. SECOND VISUAL/TEXTUAL FIDELITY — IN PROGRESS THROUGH PDF 023.**
 
 Completed actual source records now total **64 — 3364–3376, 3154, 3378–3427**. The final source-record batch **3425–3427** covers PDF **386–401**; PDF **402** is non-letter back-cover material. No Letter 3428 is created in Volume 42.
 
@@ -37,15 +37,18 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 **BLOCKED.** English work may not begin until the required Tamil source-page coverage, structural audit and scan-based fidelity gates are complete for the eligible source material.
 
+Second-pass fidelity frontier: **PDF 001–023 / 402 VERIFIED**. Canonical corrections so far: **PDF 003 and PDF 004**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-Run the **second full-volume direct visual/textual-fidelity verification** across **PDF 001–402 / 402**. Compare every canonical page directly against the controlling scan, preserve source anomalies and physical page boundaries, and record every scan-proven correction. Do not begin English translation until that second-pass fidelity gate passes.
+Continue the second direct visual/textual-fidelity verification with **Letters 3364–3368 / PDF 024–049**, stopping before **Letter 3369 / PDF 050**. English remains blocked.
 
 ## PDF 001–017 shared front matter
 
 Volume 42 follows the repository-wide `SERIES_FRONT_MATTER_POLICY.md`.
 
 - PDF **001–017** are the recurring series front-matter zone and have been processed for Volume 42.
-- PDF **004–017** passed direct visual comparison against the Volume 43 shared reference and use reference-only records; PDF 001–003 retain local Volume 42 fields.
+- Second-pass direct scan verification found PDF **004** is a Volume 42-local difference: it prints `அம்மாவுக்கு...`, not the Volume 43 reference `அண்ணாவுக்கு...`; PDF 004 is therefore transcribed locally.
+- PDF **005–017** directly match the verified shared-series reference and remain reference-only records; PDF 001–003 are local Volume 42 records.
 - Any printed wording difference must be transcribed locally in full; do not force-match a shared page.
 - PDF **018 onward** follows normal full transcription rules.
