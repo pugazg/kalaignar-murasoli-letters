@@ -31,10 +31,10 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-049"
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-073"
 audit_date: 2026-09-20
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-49"
+second_visual_verified_page_range: "1-73"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "blocked-pending-tamil-gates"
@@ -69,6 +69,7 @@ source_observations:
   - "Full-volume Tamil structural audit PASS on 2026-09-20: exactly 402 canonical page files, 64 printed contents rows, 64 chapter records, continuous letter-bearing coverage PDF 024-401, PDF 402 non-letter back cover, and no chapter/page-range gaps or overlaps. Structural audit made no canonical Tamil body changes; source_sha256 was populated from the controlling PDF."
   - "Second full-volume direct visual/textual-fidelity Batch 1 PASS through PDF 023 on 2026-09-20. PDF 003 was replaced with complete scan-faithful publication details, and PDF 004 was converted from an invalid Volume 43 shared reference to local Volume 42 dedication text அம்மாவுக்கு.... PDF 005-017 remain direct-verified shared references; PDF 018-022 contents required no correction; PDF 023 remains blank."
   - "Second full-volume direct visual/textual-fidelity Batch 2 PASS through PDF 049 on 2026-09-20. Letters 3364-3368 / PDF 024-049 were directly scan-checked; canonical corrections were applied on PDF 026, 029, 034, 036, 037, 044 and 046. The substantive repairs are நடைபெற்ற on PDF 034 and உத்தரவாதம் on PDF 044; the remaining five are source spacing/word-joining restorations. No title/date/boundary/contents changes."
+  - "Second full-volume direct visual/textual-fidelity Batch 3 PASS through PDF 073 on 2026-09-20. Letters 3369-3373 / PDF 050-073 were directly scan-checked; canonical corrections were applied on PDF 053, 058, 060, 061 and 063. Major repair: PDF 060 restores ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?; PDF 061 restores அறிக்கையாக்கியிருக்கிறேன்; PDF 063 restores டெல்லி மருத்துவரும். No title/date/boundary/contents changes."
   - "A prior contents transcription typo for 3373 was corrected from அனைவர அகமும் to scan-confirmed அனைவர அகமும்; printed contents and actual title agree."
   - "The complete 402-page source is available; no source-incomplete status is inferred from the earlier 150-page preview limit."
 contents_transcription_status: "complete-pdf-018-022"
