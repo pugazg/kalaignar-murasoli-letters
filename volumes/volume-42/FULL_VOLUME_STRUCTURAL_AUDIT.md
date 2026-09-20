@@ -118,15 +118,18 @@ Current Tamil gate state:
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**
 - full-volume structural audit: **PASS**
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402 verified**
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402 verified**
 - English translation: **BLOCKED**
 
 ## Post-structural fidelity note — 2026-09-20
 
-Second-pass Batch 1 directly verified PDF **001–023**. It exposed a textual/source-policy defect not visible to the structural gate: PDF **004** prints Volume 42-local `அம்மாவுக்கு...`, not the Volume 43 shared-reference `அண்ணாவுக்கு...`. PDF 004 is now local; PDF 005–017 remain shared references. PDF 003 was also expanded from a selective summary to the complete printed publication-details page. Structural counts/ranges remain unchanged.
+- Second-pass Batch 1 directly verified PDF **001–023**. It exposed a textual/source-policy defect not visible to the structural gate: PDF **004** prints Volume 42-local `அம்மாவுக்கு...`, not the Volume 43 shared-reference `அண்ணாவுக்கு...`. PDF 004 is now local; PDF 005–017 remain shared references. PDF 003 was also expanded from a selective summary to the complete printed publication-details page.
+- Second-pass Batch 2 directly verified Letters **3364–3368 / PDF 024–049** and corrected canonical pages **026, 029, 034, 036, 037, 044 and 046**. The major semantic repair is PDF 044 `உத்தரவாதம் அளிக்கக்கூடிய`; no structural range/title/date change resulted.
+
+Structural counts/ranges remain unchanged.
 
 ## Exact next activity
 
-Continue the separate **second full-volume direct visual/textual-fidelity verification from PDF 024**.
+Continue the separate **second full-volume direct visual/textual-fidelity verification with Letters 3369–3373 / PDF 050–073**, stopping before PDF 074.
 
-Compare the canonical Tamil against the controlling scan directly, preserve all source anomalies and page boundaries, record every scan-proven correction, and reconcile the final genuine printed-contents / actual-title difference set. Do **not** begin English translation until that second-pass fidelity gate is complete.
+Compare the canonical Tamil against the controlling scan directly, preserve all source anomalies and page boundaries, record every scan-proven correction, and do **not** begin English translation until the full second-pass fidelity gate is complete.
