@@ -1,19 +1,19 @@
 # Volume 42 — Chapter Register
 
-Current state after normal five-record batch 3410–3414:
+Current state after normal five-record batch 3415–3419:
 
-- **Completed actual source records:** 51 — **3364–3376, 3154, 3378–3414**
+- **Completed actual source records:** 56 — **3364–3376, 3154, 3378–3419**
 - **Partial records:** 0
-- **Canonical page coverage:** PDF **001–329 / 402**
-- **Next verified record start:** 3415 begins PDF **330 / printed 329**.
+- **Canonical page coverage:** PDF **001–359 / 402**
+- **Next verified record start:** 3420 begins PDF **360 / printed 359**.
 
 Latest completed records:
 
-- 3410 — `ஆனந்த விகடன் அன்றும் இன்றும்!` — PDF 300–303
-- 3411 — `இடைத் தேர்தலில் இணையற்ற வெற்றியினை வழங்கிடுக!` — PDF 304–310
-- 3412 — `வாழ்விலோர் திருநாள்; வாழ்க வள்ளுவம்!` — PDF 311–317
-- 3413 — `காப்பீட்டுத் திட்டத்தினால் யாருக்கு ஆதாயம்?` — PDF 318–324
-- 3414 — `“தடுக்கும் சொல் பாராய் தம்பீ!”` — PDF 325–329
+- 3415 — `இரு நாள் நமக்குத் திருநாள்!` — PDF 330–334
+- 3416 — `அருந்தவத்தில் ஆழ்கின்றேன்!` — PDF 335–337
+- 3417 — `சொன்னது; யாராம்? என்ன பேராம்?` — PDF 338–343
+- 3418 — `காலம்தான் பதில் சொல்ல வேண்டும்!` — PDF 344–351
+- 3419 — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!` — PDF 352–359
 
 ## Verified numbering anomaly
 
@@ -21,4 +21,4 @@ The printed contents and actual source heading at **PDF 092 / printed 91** both 
 
 ## Latest boundary
 
-PDF **330 / printed 329** was inspected only to establish the next boundary. It begins **3415 — இரு நாள் நமக்குத் திருநாள்!** and is outside the 3410–3414 batch.
+PDF **360 / printed 359** was inspected only to establish the next boundary. It begins **3420 — வளைந்த வாலை; நிமிர்த்திடவே முடியாது!** and is outside the 3415–3419 batch.

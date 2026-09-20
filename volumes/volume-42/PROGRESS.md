@@ -3,27 +3,27 @@
 ## Current canonical state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical page files: **329 / 402**
+- Canonical page files: **359 / 402**
 - Printed contents: **64 / 64 transcribed**
-- Completed actual source records: **51 — 3364–3376, 3154, 3378–3414**
+- Completed actual source records: **56 — 3364–3376, 3154, 3378–3419**
 - Partial records: **0**
 - English translation: **blocked**
 
-## Batch 3410–3414 — PASS
+## Batch 3415–3419 — PASS
 
 | Source record | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3410 | ஆனந்த விகடன் அன்றும் இன்றும்! | 300–303 | 299–302 | 29-7-2009 |
-| 3411 | இடைத் தேர்தலில் இணையற்ற வெற்றியினை வழங்கிடுக! | 304–310 | 303–309 | 7-8-2009 |
-| 3412 | வாழ்விலோர் திருநாள்; வாழ்க வள்ளுவம்! | 311–317 | 310–316 | 9-8-2009 |
-| 3413 | காப்பீட்டுத் திட்டத்தினால் யாருக்கு ஆதாயம்? | 318–324 | 317–323 | 22-8-2009 |
-| 3414 | “தடுக்கும் சொல் பாராய் தம்பீ!” | 325–329 | 324–328 | 25-8-2009 |
+| 3415 | இரு நாள் நமக்குத் திருநாள்! | 330–334 | 329–333 | 13-9-2009 |
+| 3416 | அருந்தவத்தில் ஆழ்கின்றேன்! | 335–337 | 334–336 | 3-10-2009 |
+| 3417 | சொன்னது; யாராம்? என்ன பேராம்? | 338–343 | 337–342 | 12-10-2009 |
+| 3418 | காலம்தான் பதில் சொல்ல வேண்டும்! | 344–351 | 343–350 | 13-10-2009 |
+| 3419 | பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்! | 352–359 | 351–358 | 14-10-2009 |
 
 - All five actual source starts, titles, end boundaries and closing dates were visually verified against the rendered source scans.
-- Canonical page files added: **30 / 30** for PDF **300–329**.
-- Pre-publication visual review corrected **16 draft misreadings/spacing errors** before publication, including scan-confirmed உயிரையே தரத் தயாராக, அநாகரிகத்தின், அகரகாரத்துக்கு, வீரனாக்கி, ஆரம்பக் காதலனும், ஓய்வின்றி, இன்னும்கூடச், தாலி கட்டும், கமுக்கமாக, சரிந்த சட்ட துறை, சுற்றமும், புதுநடையைப், பொங்கியெழ, அந்தக் காட்சி என் முன்னால், வேளையில்தான், and the body-text citation தடுக்குச் சொல் பாராய் தம்பீ.
+- Canonical page files added: **30 / 30** for PDF **330–359**.
+- Pre-publication visual review corrected a major paragraph mis-transcription on PDF **338** and multiple additional draft readings/spacing errors before publication. Scan-confirmed examples include `வெளியிடப்படவுள்ளது`, `இணைய தளம்`, `தூயநேசம்`, `விரட்டுவதை போலவே`, `முள் கம்பி வேலிகளுக்குள்`, `கடற்படையினரால்`, `ராஜபக்சேயின்`, `ஒரு சட்டத்தையே இயற்றி`, `உள்கட்டமைப்புப் பற்றாக்குறை`, `ஆறரை கோடி`, and `ஒட்டியானத்தை`.
 - No previously committed canonical page changed.
-- PDF **330 / printed 329** was inspected only to confirm the next source record: **3415 — இரு நாள் நமக்குத் திருநாள்!**.
+- PDF **360 / printed 359** was inspected only to confirm the next source record: **3420 — வளைந்த வாலை; நிமிர்த்திடவே முடியாது!**.
 - Full-volume structural audit and second visual/textual-fidelity verification remain pending.
 - English translation remains blocked.
 
@@ -33,14 +33,14 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 ## Exact next activity
 
-Process **3415–3419**, beginning at **PDF 330 / printed 329**.
+Process **3420–3424**, beginning at **PDF 360 / printed 359**.
 
 Printed-contents navigation hints:
-- 3415 — printed 329 / PDF 330
-- 3416 — printed 334 / expected PDF 335
-- 3417 — printed 337 / expected PDF 338
-- 3418 — printed 343 / expected PDF 344
-- 3419 — printed 351 / expected PDF 352
-- 3420 — printed 359 / expected PDF 360
+- 3420 — printed 359 / PDF 360
+- 3421 — printed 364 / expected PDF 365
+- 3422 — printed 373 / expected PDF 374
+- 3423 — printed 377 / expected PDF 378
+- 3424 — printed 379 / expected PDF 380
+- 3425 — printed 385 / expected PDF 386
 
-The scan controls every actual boundary. Stop after the verified end of 3419 and do not include any part of 3420.
+The scan controls every actual boundary. Stop after the verified end of 3424 and do not include any part of 3425.
