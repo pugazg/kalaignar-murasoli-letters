@@ -13,7 +13,7 @@ edition: 1
 edition_year: 2022
 printed_pages: 400
 source_file: "TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf"
-source_sha256: null
+source_sha256: "43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676"
 source_size_bytes: 232174916
 pdf_pages: 402
 source_extent_status: "complete-source-delivery"
@@ -31,7 +31,7 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "first-pass-complete / PDF 001-402; full-volume-audit-not-started"
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-pending"
 audit_date: 2026-09-20
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -65,6 +65,7 @@ source_observations:
   - "Final source-record batch 3425-3427 is complete across PDF 386-401; PDF 402 is non-letter back-cover / portrait / publisher-contact-price material. No Letter 3428 is created in Volume 42. Eight unpublished draft readings/spacing errors were scan-corrected before publication."
   - "Letter 3425 printed contents uses திருந்தப் போகிறார்களா?, while actual PDF 386 uses joined திருந்தப்போகிறார்களா?; each source layer is preserved independently."
   - "All 64 source records and all 402 physical PDF pages now have first-pass canonical representation; full-volume structural audit and second visual/textual-fidelity verification remain pending."
+  - "Full-volume Tamil structural audit PASS on 2026-09-20: exactly 402 canonical page files, 64 printed contents rows, 64 chapter records, continuous letter-bearing coverage PDF 024-401, PDF 402 non-letter back cover, and no chapter/page-range gaps or overlaps. Structural audit made no canonical Tamil body changes; source_sha256 was populated from the controlling PDF."
   - "A prior contents transcription typo for 3373 was corrected from அனைவர அகமும் to scan-confirmed அனைவர அகமும்; printed contents and actual title agree."
   - "The complete 402-page source is available; no source-incomplete status is inferred from the earlier 150-page preview limit."
 contents_transcription_status: "complete-pdf-018-022"
