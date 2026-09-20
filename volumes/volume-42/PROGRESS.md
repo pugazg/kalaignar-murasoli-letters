@@ -3,26 +3,26 @@
 ## Current canonical state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical page files: **251 / 402**
+- Canonical page files: **271 / 402**
 - Printed contents: **64 / 64 transcribed**
-- Completed actual source records: **36 — 3364–3376, 3154, 3378–3399**
+- Completed actual source records: **41 — 3364–3376, 3154, 3378–3404**
 - Partial records: **0**
 - English translation: **blocked**
 
-## Batch 3395–3399 — PASS
+## Batch 3400–3404 — PASS
 
 | Source record | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3395 | மூப்பனார் வழங்கிய புத்தகம்! | 222–226 | 221–225 | 14-4-2009 |
-| 3396 | இவர்களும் அவர் பக்கமா? | 227–231 | 226–230 | 19-4-2009 |
-| 3397 | நாதியற்ற ஈழத் தமிழரைக் காத்திட நடுவணரசுக்கு வேண்டுகோள்! | 232–237 | 231–236 | 22-04-2009 |
-| 3398 | இதற்குமா எதிர்ப்பு! அந்தோ - தமிழகமே! | 238–241 | 237–240 | 23-4-2009 |
-| 3399 | “சேது” திட்டம் எதிர்ப்போரை அடையாளம் காண்க! | 242–251 | 241–250 | 25-4-2009 |
+| 3400 | இரு முனை பாதுகாப்புக்காக; இன்றே எழுக! | 252–257 | 251–256 | 26-4-2009 |
+| 3401 | வருக நீ - வெற்றி பெற்றுத் தருக நீ | 258–259 | 257–258 | 1-5-2009 |
+| 3402 | கண்ணல்ல, மணியல்ல; களம் இறங்கிடு! காரியம் ஆற்றிடு! | 260–264 | 259–263 | 3-5-2009 |
+| 3403 | பாதம் பணிகிறேன்; பணியாற்றப் புறப்படு! | 265–267 | 264–266 | 12-5-2009 |
+| 3404 | இந்தப் பேனா வேண்டுகிறது! | 268–271 | 267–270 | 13-5-2009 |
 
 - All five actual source starts, titles, end boundaries and closing dates were visually verified against the scan.
-- Canonical page files added: **30 / 30** for PDF **222–251**.
-- Pre-publication scan review corrected one draft spacing misreading on PDF 230: `வேகுரல்` → source-printed `வே குரல்`. This correction occurred before publication; no previously committed canonical page changed.
-- PDF **252 / printed 251** was inspected only to confirm the next source record: **3400 — `இரு முனை பாதுகாப்புக்காக; இன்றே எழுக!`**.
+- Canonical page files added: **20 / 20** for PDF **252–271**.
+- No previously committed canonical page changed.
+- PDF **272 / printed 271** was inspected only to confirm the next source record: **3405 — `குழந்தையின் உயிரைக் குடித்து தாயின் குடலுக்குள் சென்ற குண்டு!`**.
 - Full-volume structural audit and second visual/textual-fidelity verification remain pending.
 - English translation remains blocked.
 
@@ -32,14 +32,14 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 ## Exact next activity
 
-Process **3400–3404**, beginning at **PDF 252 / printed 251**.
+Process **3405–3409**, beginning at **PDF 272 / printed 271**.
 
 Printed-contents navigation hints:
-- 3400 — printed 251 / PDF 252
-- 3401 — printed 257 / expected PDF 258
-- 3402 — printed 259 / expected PDF 260
-- 3403 — printed 264 / expected PDF 265
-- 3404 — printed 267 / expected PDF 268
-- 3405 — printed 271 / expected PDF 272
+- 3405 — printed 271 / PDF 272
+- 3406 — printed 277 / expected PDF 278
+- 3407 — printed 283 / expected PDF 284
+- 3408 — printed 288 / expected PDF 289
+- 3409 — printed 294 / expected PDF 295
+- 3410 — printed 299 / expected PDF 300
 
-The scan controls every actual boundary. Stop after the verified end of 3404 and do not include any part of 3405.
+The scan controls every actual boundary. Stop after the verified end of 3409 and do not include any part of 3410.

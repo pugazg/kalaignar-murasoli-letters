@@ -285,3 +285,28 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 16. Normal five-record batch — 3400–3404 / PDF 252–271
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3400 | 252–257 | 251–256 | 26-4-2009 |
+| 3401 | 258–259 | 257–258 | 1-5-2009 |
+| 3402 | 260–264 | 259–263 | 3-5-2009 |
+| 3403 | 265–267 | 264–266 | 12-5-2009 |
+| 3404 | 268–271 | 267–270 | 13-5-2009 |
+
+Checks:
+
+- canonical page files added: **20 / 20** for PDF 252–271;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected against the rendered source scans;
+- PDF **272 / printed 271** directly inspected and confirmed as the start of **3405 — `குழந்தையின் உயிரைக் குடித்து தாயின் குடலுக்குள் சென்ற குண்டு!`**;
+- no PDF 272 text is committed in this batch;
+- no previously committed canonical page changed;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
