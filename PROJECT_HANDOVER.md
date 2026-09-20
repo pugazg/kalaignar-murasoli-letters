@@ -203,15 +203,15 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Verified source-numbering anomaly: the printed contents and actual heading at **PDF 092 / printed 91** both show **3154** between 3376 and 3378; no 3377 record is inferred.
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
-- Canonical Tamil transcription: **PDF 001–193 / 402 complete through source record 3389**.
+- Canonical Tamil transcription: **PDF 001–221 / 402 complete through source record 3394**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Source-record state: **26 complete — 3364–3376, 3154, 3378–3389**.
+- Source-record state: **31 complete — 3364–3376, 3154, 3378–3394**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Process **3390–3394**, beginning at scan-verified **PDF 194 / printed 193**, whose actual heading is `3390. கிளம்பட்டும்; தமிழச் சிங்கக் கூட்டம்!`. Stop after the verified end of 3394 and do not include any part of 3395.
+Process **3395–3399**, beginning at scan-verified **PDF 222 / printed 221**, whose actual heading is `3395. மூப்பனார் வழங்கிய புத்தகம்!`. Stop after the verified end of 3399 and do not include any part of 3400.
 
 ## Series front matter optimization — 2026-09-19
 

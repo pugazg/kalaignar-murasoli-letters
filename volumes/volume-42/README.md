@@ -26,9 +26,9 @@ Printed contents provide **64 source rows**. The numbering anomaly is now verifi
 
 ## Tamil transcription status
 
-**IN PROGRESS — PDF 001–193 / 402 committed.**
+**IN PROGRESS — PDF 001–221 / 402 committed.**
 
-Completed actual source records now total **26 — 3364–3376, 3154, 3378–3389**. The latest batch **3385–3389** covers PDF **161–193**. PDF 194 is the scan-verified start of 3390.
+Completed actual source records now total **31 — 3364–3376, 3154, 3378–3394**. The latest batch **3390–3394** covers PDF **194–221**. Letter 3392 preserves a genuine source duplication across PDF 211–212. PDF 222 is the scan-verified start of 3395.
 
 The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Its interrupted Letter 3364 continuation at PDF **026–027** is also **COMPLETE / PASS**, with closing `அன்புள்ள, மு.க.` and date `31-1-2009`.
 
@@ -38,7 +38,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Process **3390–3394**, beginning at the scan-verified **PDF 194 / printed 193** start of 3390. Stop after the verified end of 3394 and do not include any part of 3395.
+Process **3395–3399**, beginning at the scan-verified **PDF 222 / printed 221** start of 3395. Stop after the verified end of 3399 and do not include any part of 3400.
 
 ## PDF 001–017 shared front matter
 

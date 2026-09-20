@@ -234,3 +234,29 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 14. Normal five-record batch — 3390–3394 / PDF 194–221
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3390 | 194–202 | 193–201 | 4-4-2009 |
+| 3391 | 203–208 | 202–207 | 7-4-2009 |
+| 3392 | 209–212 | 208–211 | 8-4-2009 |
+| 3393 | 213–218 | 212–217 | 9-4-2009 |
+| 3394 | 219–221 | 218–220 | 10-4-2009 |
+
+Checks:
+
+- canonical page files added: **28 / 28** for PDF 194–221;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected;
+- 3390 source-supplied English on PDF 196 retained as printed and list structure across PDF 198–200 retained;
+- **3392 has a genuine source duplication**: the first printed copy begins PDF 209, closes at the top of PDF 211, and the same title/body are then printed again across PDF 211–212 with a second closing. Both copies are preserved exactly at the physical-page layer; no deduplication is performed;
+- PDF **222 / printed 221** directly inspected and confirmed as the start of **3395 — `மூப்பனார் வழங்கிய புத்தகம்!`**;
+- no PDF 222 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.

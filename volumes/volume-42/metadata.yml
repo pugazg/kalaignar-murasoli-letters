@@ -22,16 +22,16 @@ source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 series_front_matter_status: "verified-pdf-001-017; pdf-001-003 local-volume fields; pdf-004-017 shared-reference"
-transcription_page_range: "1-193"
+transcription_page_range: "1-221"
 transcription_status: "in-progress"
-recorded_letter_range: "3364-3376,3154,3378-3389 complete"
-completed_letter_range: "3364-3376,3154,3378-3389"
-completed_letter_count: 26
+recorded_letter_range: "3364-3376,3154,3378-3394 complete"
+completed_letter_range: "3364-3376,3154,3378-3394"
+completed_letter_count: 31
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "first-pass batches complete through normal batch 3385-3389 / PDF 193; full-volume-audit-not-started"
+audit_status: "first-pass batches complete through normal batch 3390-3394 / PDF 221; full-volume-audit-not-started"
 audit_date: 2026-09-20
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -55,11 +55,12 @@ source_observations:
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
   - "Normal five-record batch 3380-3384 is complete across PDF 113-160; records 3379-3384 form the six-part நலிவும் நானும் - நாட்குறிப்பு sequence and PDF 160 explicitly closes it with (முற்றும்)."
   - "Normal five-record batch 3385-3389 is complete across PDF 161-193. PDF 194 is the verified start of 3390. Pre-publication visual review corrected 13 draft misreadings within this batch before main was advanced; no previously committed canonical page was changed."
+  - "Normal five-record batch 3390-3394 is complete across PDF 194-221. Letter 3392 contains a genuine printed duplication: the first copy closes at the top of PDF 211, then the title/body repeat across PDF 211-212 and close again. Both source copies are preserved. PDF 222 is the verified start of 3395."
   - "A prior contents transcription typo for 3373 was corrected from அனைவர அகமும் to scan-confirmed அனைவர அகமும்; printed contents and actual title agree."
   - "The complete 402-page source is available; no source-incomplete status is inferred from the earlier 150-page preview limit."
 contents_transcription_status: "complete-pdf-018-022"
 contents_numbering_anomaly: "3154 is printed both in contents and actual PDF 092 heading between 3376 and 3378; no 3377 source record at this position"
-last_transcription_batch: "Letters 3385-3389 — PDF 161-193"
-next_transcription_page: 194
-next_letter_number: 3390
-next_normal_batch: "3390-3394"
+last_transcription_batch: "Letters 3390-3394 — PDF 194-221"
+next_transcription_page: 222
+next_letter_number: 3395
+next_normal_batch: "3395-3399"
