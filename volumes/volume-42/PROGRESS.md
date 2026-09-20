@@ -9,7 +9,7 @@
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
-- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402 verified**
+- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–073 / 402 verified**
 - English translation: **blocked**
 
 ## Final source-record batch 3425–3427 — PASS
@@ -71,8 +71,26 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+## Second full-volume fidelity verification — Batch 3 / Letters 3369–3373 / PDF 050–073 — PASS
+
+- Every physical source page **050–073** was directly inspected against the controlling scan.
+- Five complete source records verified: **3369–3373**.
+- Scan-proven canonical changes: **5 pages — 053, 058, 060, 061, 063**.
+- Six scan-proven corrections were applied:
+  - PDF **053**: `இசைவைக் தர` → `இசைவைத் தர`;
+  - PDF **058**: `எழுபேர்` → `எழு பேர்`;
+  - PDF **060**: `ஒரு கலவரத்தைக் காண்டி விட முடியாதா?` → **`ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`**;
+  - PDF **061**: `கூடாதுஎன்பதற்காகத்தான்` → `கூடாது என்பதற்காகத்தான்`;
+  - PDF **061**: `அறிக்கையாகியிருக்கிறேன்` → **`அறிக்கையாக்கியிருக்கிறேன்`**;
+  - PDF **063**: `டெல்லி மருத்துவ நிபுணரும்` → **`டெல்லி மருத்துவரும்`**.
+- Letters **3372** and **3373** required no canonical correction.
+- Letter boundaries, titles, dates and printed contents rows changed: **0**.
+- English remains blocked.
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **Letters 3369–3373 / PDF 050–073**, stopping before **Letter 3374 / PDF 074**.
+Continue the second direct visual/textual-fidelity verification with **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stopping before **Letter 3379 / PDF 106**.
 
 Do **not** begin English translation.
