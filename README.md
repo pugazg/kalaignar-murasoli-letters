@@ -107,19 +107,21 @@ Manifest validation: **55 records; no duplicate letter numbers; no duplicate Eng
 
 Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.
 
-## Volume 42 — active source intake
+## Volume 42 — structural audit PASS; second visual gate next
 
-The attached controlling source is `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
+The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
 - Scan identity confirms **Volume 42** and the visible date span **31.01.2009–30.10.2009**.
 - Publication matter prints **1st edition 2022**, **Seethai Pathippagam**, and **400 printed pages**.
-- The controlling PDF contains **402 physical PDF pages**. An earlier tool view exposed only a 150-page preview; that preview limit is not the source extent.
-- Printed contents are on PDF **018–022** and provisionally enumerate **64 rows** across the nominal number span **3364–3427**.
-- The contents and the actual source heading at **PDF 092 / printed 91** both print **3154** between **3376** and **3378**. This is a verified genuine source-numbering anomaly; no 3377 record is invented.
-- Letter **3364** is complete across PDF **024–027 / printed 23–26**, with closing `அன்புள்ள, மு.க.` and date **31-1-2009**.
-- Canonical coverage is now **PDF 001–251 / 402**. Completed actual source records total **36 — 3364–3376, 3154, 3378–3399**. The latest batch 3395–3399 is complete, and PDF 252 is the verified start of 3400.
-- English translation remains blocked until the required Tamil transcription and audit gates are complete.
+- The controlling PDF contains **402 physical PDF pages**; SHA-256 is `43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676`.
+- Canonical first-pass source coverage is **PDF 001–402 / 402 COMPLETE**.
+- Printed contents are **64 / 64** rows; actual source records are **64 / 64 — 3364–3376, 3154, 3378–3427**.
+- The contents and actual heading at **PDF 092 / printed 91** both print **3154** between 3376 and 3378; no 3377 record is invented.
+- Letter **3392** genuinely duplicates its printed body across PDF 209–212 and both physical copies remain preserved.
+- Letter **3425** contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`; both layers remain preserved.
+- Letter **3427** closes at PDF **401 / printed 400**. PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; no Letter 3428 exists in Volume 42.
+- Full-volume Tamil structural audit: **PASS**.
+- Second full-volume direct visual/textual-fidelity verification: **pending**.
+- English translation: **blocked** until the second-pass Tamil fidelity gate passes.
 
-See `volumes/volume-42/PROGRESS.md` and live `NEXT_CHAT_PROMPT.md` for the exact continuation boundary.
-
-- Volume 42 batch **3395–3399 / PDF 222–251 PASS**. Exact next activity is **3400–3404**, starting at scan-verified PDF 252.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md` for the exact next gate.
