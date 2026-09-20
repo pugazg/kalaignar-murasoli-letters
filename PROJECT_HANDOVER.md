@@ -203,15 +203,15 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Verified source-numbering anomaly: the printed contents and actual heading at **PDF 092 / printed 91** both show **3154** between 3376 and 3378; no 3377 record is inferred.
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
-- Canonical Tamil transcription: **PDF 001–359 / 402 complete through source record 3419**.
+- Canonical Tamil transcription: **PDF 001–385 / 402 complete through source record 3424**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Source-record state: **56 complete — 3364–3376, 3154, 3378–3419**.
+- Source-record state: **61 complete — 3364–3376, 3154, 3378–3424**.
 - English translation: **blocked**.
 
 ### Exact next activity
 
-Process **3420–3424**, beginning at scan-verified **PDF 360 / printed 359**, whose actual heading is `3420. வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`. Stop after the verified end of 3424 and do not include any part of 3425.
+Process the **final three source records 3425–3427**, beginning at scan-verified **PDF 386 / printed 385**, whose actual heading is `3425. வருந்தப் போகிறார்களா - இனியேனும் திருந்தப் போகிறார்களா?`. Use the scans to establish the end of 3427 and classify the remaining physical source pages through PDF 402. Do not invent a 3428 record in Volume 42.
 
 ## Series front matter optimization — 2026-09-19
 
