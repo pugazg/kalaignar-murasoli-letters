@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-20  
-**Status:** **IN PROGRESS — PDF 001–023 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–049 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–023 / 402 — VERIFIED.**
+**PDF 001–049 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,11 +88,64 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402**;
 - English translation: **BLOCKED**.
+
+## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
+
+Every physical source page from PDF **024** through **049** was directly rendered and compared against the canonical page record. The batch covers exactly five complete letters:
+
+- **3364** — PDF 024–027 / printed 23–26 — `உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!`
+- **3365** — PDF 028–031 / printed 27–30 — `ஒன்றுபட்டால் உண்டு வாழ்வே!`
+- **3366** — PDF 032 / printed 31 — `உள்ளமும் - பள்ளமும்!`
+- **3367** — PDF 033–040 / printed 32–39 — `திருமணத்திற்காக எடுத்த பட்டுப் புடவைதான்!`
+- **3368** — PDF 041–049 / printed 40–48 — `கையை நீட்டுகிறார்; காங்கிரசாரே எச்சரிக்கை!`
+
+### Scan-proven corrections
+
+1. **PDF 026 / Letter 3364**  
+   `தி.மு.க. வின் நிலைப்பாடு` → **`தி.மு.க.வின் நிலைப்பாடு`**
+
+2. **PDF 029 / Letter 3365**  
+   `அனைத்துக் கட்சிகளையும் தமிழக அரசின்` → **`அனைத்துக்கட்சிகளையும் தமிழக அரசின்`**
+
+3. **PDF 034 / Letter 3367**  
+   `அரசு சார்பிலே நடைபெற்று நிகழ்ச்சிகளிலே` → **`அரசு சார்பிலே நடைபெற்ற நிகழ்ச்சிகளிலே`**
+
+4. **PDF 036 / Letter 3367**  
+   `பயிர்க் கடன்கள் கிடைக்கவில்லை என்று` → **`பயிர்க் கடன்கள் கிடைக்க வில்லை என்று`**
+
+5. **PDF 037 / Letter 3367**  
+   `என்று கூறி இதுவரை புன்செய் நிலங்களுக்கு` → **`என்று கூறி இது வரை புன்செய் நிலங்களுக்கு`**
+
+6. **PDF 044 / Letter 3368**  
+   `தமிழர்கள் வாழ்வுக்கு உதவாததும் அளிக்கக்கூடிய ஒப்பந்தம்` → **`தமிழர்கள் வாழ்வுக்கு உத்தரவாதம் அளிக்கக்கூடிய ஒப்பந்தம்`**  
+   This is the substantive correction in the batch; the first-pass wording was a scan misreading.
+
+7. **PDF 046 / Letter 3368**  
+   `போலீசார் உயர் நீதிமன்ற உத்தரவை` → **`போலீசார் உயர் நீதி மன்ற உத்தரவை`**
+
+### Directly checked with no canonical correction
+
+- PDF **024–025, 027–028, 030–033, 035, 038–043, 045, 047–049**.
+- Letter **3366** required no canonical correction.
+- Titles, salutations, date lines, closings, page boundaries and the source-supplied English letter on PDF 047 all reconcile with the scan.
+- No chapter boundary, printed contents row, letter number or date changed.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 2: **7 — PDF 026, 029, 034, 036, 037, 044, 046**.
+- Substantive word/phrase correction pages: **2 — PDF 034, PDF 044**.
+- Source-spacing/word-joining corrections: **5 — PDF 026, 029, 036, 037, 046**.
+- Letter-bearing pages directly verified in this batch: **26 / 26**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- English translation remains blocked.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–049 / 402 VERIFIED**.
 
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification from **PDF 024 / Letter 3364**.
+Continue the second direct visual/textual-fidelity verification with **Letters 3369–3373 / PDF 050–073**, stopping before **Letter 3374 / PDF 074**.
 
-Process a complete-letter group beginning with **3364**, preserve the exact physical-page frontier, record every scan-proven correction in this report, and stop only at a verified letter boundary. Do not begin English translation.
+Keep the scan authoritative, preserve the exact physical-page frontier, record every scan-proven correction in this report, and do not begin English translation.
