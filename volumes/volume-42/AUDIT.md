@@ -337,3 +337,30 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 18. Normal five-record batch — 3410–3414 / PDF 300–329
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3410 | 300–303 | 299–302 | 29-7-2009 |
+| 3411 | 304–310 | 303–309 | 7-8-2009 |
+| 3412 | 311–317 | 310–316 | 9-8-2009 |
+| 3413 | 318–324 | 317–323 | 22-8-2009 |
+| 3414 | 325–329 | 324–328 | 25-8-2009 |
+
+Checks:
+
+- canonical page files added: **30 / 30** for PDF 300–329;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected against the rendered source scans;
+- source-supplied historical review/quotation material in 3410, verse and archival quotations in 3412 and 3414, and source-supplied English terms in 3413 were preserved as source material rather than normalized from outside knowledge;
+- pre-publication scan review corrected **16 draft misreadings/spacing errors**, including scan-confirmed உயிரையே தரத் தயாராக, அநாகரிகத்தின், அகரகாரத்துக்கு, வீரனாக்கி, ஆரம்பக் காதலனும், ஓய்வின்றி, இன்னும்கூடச், தாலி கட்டும், கமுக்கமாக, சரிந்த சட்ட துறை, சுற்றமும், புதுநடையைப், பொங்கியெழ, அந்தக் காட்சி என் முன்னால், வேளையில்தான், and the body-text citation தடுக்குச் சொல் பாராய் தம்பீ;
+- those corrections were made only to the unpublished work-branch candidate; **0 previously committed canonical pages changed**;
+- PDF **330 / printed 329** directly inspected and confirmed as the start of **3415 — இரு நாள் நமக்குத் திருநாள்!**;
+- no PDF 330 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.

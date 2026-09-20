@@ -3,27 +3,27 @@
 ## Current canonical state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical page files: **299 / 402**
+- Canonical page files: **329 / 402**
 - Printed contents: **64 / 64 transcribed**
-- Completed actual source records: **46 — 3364–3376, 3154, 3378–3409**
+- Completed actual source records: **51 — 3364–3376, 3154, 3378–3414**
 - Partial records: **0**
 - English translation: **blocked**
 
-## Batch 3405–3409 — PASS
+## Batch 3410–3414 — PASS
 
 | Source record | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3405 | குழந்தையின் உயிரைக் குடித்து தாயின் குடலுக்குள் சென்ற குண்டு! | 272–277 | 271–276 | 15-5-2009 |
-| 3406 | தூங்கற்க தூங்காது செய்யும் வினை! | 278–283 | 277–282 | 2-6-2009 |
-| 3407 | உலக அதிசயம் மட்டுமல்ல; உலக மகா அதிசயம்! | 284–288 | 283–287 | 11-6-2009 |
-| 3408 | அதைப் படித்து ஆறுதல் கொள்க! | 289–294 | 288–293 | 22-6-2009 |
-| 3409 | பட்டினத்தார் அப்பொழுதே பாடியிருக்கிறாரே! | 295–299 | 294–298 | 27-7-2009 |
+| 3410 | ஆனந்த விகடன் அன்றும் இன்றும்! | 300–303 | 299–302 | 29-7-2009 |
+| 3411 | இடைத் தேர்தலில் இணையற்ற வெற்றியினை வழங்கிடுக! | 304–310 | 303–309 | 7-8-2009 |
+| 3412 | வாழ்விலோர் திருநாள்; வாழ்க வள்ளுவம்! | 311–317 | 310–316 | 9-8-2009 |
+| 3413 | காப்பீட்டுத் திட்டத்தினால் யாருக்கு ஆதாயம்? | 318–324 | 317–323 | 22-8-2009 |
+| 3414 | “தடுக்கும் சொல் பாராய் தம்பீ!” | 325–329 | 324–328 | 25-8-2009 |
 
 - All five actual source starts, titles, end boundaries and closing dates were visually verified against the rendered source scans.
-- Canonical page files added: **28 / 28** for PDF **272–299**.
-- Pre-publication visual review corrected four draft misreadings before publication: PDF 274 `தன் வீட்டு` → source `தன்வீட்டு`; PDF 275 `தற்போது தேர்தல்` → source `தற்போதைய தேர்தல்`; PDF 278 `வெங்கடரமணன்` → source `வெங்கட்ரமணன்`; PDF 284 `சீர்மிகுத் திட்டம்` → source `சீர் மிகுத் திட்டம்`.
+- Canonical page files added: **30 / 30** for PDF **300–329**.
+- Pre-publication visual review corrected **16 draft misreadings/spacing errors** before publication, including scan-confirmed உயிரையே தரத் தயாராக, அநாகரிகத்தின், அகரகாரத்துக்கு, வீரனாக்கி, ஆரம்பக் காதலனும், ஓய்வின்றி, இன்னும்கூடச், தாலி கட்டும், கமுக்கமாக, சரிந்த சட்ட துறை, சுற்றமும், புதுநடையைப், பொங்கியெழ, அந்தக் காட்சி என் முன்னால், வேளையில்தான், and the body-text citation தடுக்குச் சொல் பாராய் தம்பீ.
 - No previously committed canonical page changed.
-- PDF **300 / printed 299** was inspected only to confirm the next source record: **3410 — `ஆனந்த விகடன் அன்றும் இன்றும்!`**.
+- PDF **330 / printed 329** was inspected only to confirm the next source record: **3415 — இரு நாள் நமக்குத் திருநாள்!**.
 - Full-volume structural audit and second visual/textual-fidelity verification remain pending.
 - English translation remains blocked.
 
@@ -33,14 +33,14 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 ## Exact next activity
 
-Process **3410–3414**, beginning at **PDF 300 / printed 299**.
+Process **3415–3419**, beginning at **PDF 330 / printed 329**.
 
 Printed-contents navigation hints:
-- 3410 — printed 299 / PDF 300
-- 3411 — printed 303 / expected PDF 304
-- 3412 — printed 310 / expected PDF 311
-- 3413 — printed 317 / expected PDF 318
-- 3414 — printed 324 / expected PDF 325
-- 3415 — printed 329 / expected PDF 330
+- 3415 — printed 329 / PDF 330
+- 3416 — printed 334 / expected PDF 335
+- 3417 — printed 337 / expected PDF 338
+- 3418 — printed 343 / expected PDF 344
+- 3419 — printed 351 / expected PDF 352
+- 3420 — printed 359 / expected PDF 360
 
-The scan controls every actual boundary. Stop after the verified end of 3414 and do not include any part of 3415.
+The scan controls every actual boundary. Stop after the verified end of 3419 and do not include any part of 3420.
