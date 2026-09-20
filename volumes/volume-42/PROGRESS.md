@@ -9,7 +9,7 @@
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
-- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402 verified**
+- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402 verified**
 - English translation: **blocked**
 
 ## Final source-record batch 3425–3427 — PASS
@@ -51,10 +51,28 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+## Second full-volume fidelity verification — Batch 2 / Letters 3364–3368 / PDF 024–049 — PASS
+
+- Every physical source page **024–049** was directly inspected against the controlling scan.
+- Five complete source records verified: **3364–3368**.
+- Scan-proven canonical changes: **7 pages — 026, 029, 034, 036, 037, 044, 046**.
+- Substantive repairs:
+  - PDF **034**: `நடைபெற்று நிகழ்ச்சிகளிலே` → `நடைபெற்ற நிகழ்ச்சிகளிலே`.
+  - PDF **044**: `உதவாததும் அளிக்கக்கூடிய` → `உத்தரவாதம் அளிக்கக்கூடிய`.
+- Source spacing/word-joining restorations:
+  - PDF **026**: `தி.மு.க. வின்` → `தி.மு.க.வின்`;
+  - PDF **029**: `அனைத்துக் கட்சிகளையும்` → `அனைத்துக்கட்சிகளையும்`;
+  - PDF **036**: `கிடைக்கவில்லை` → `கிடைக்க வில்லை`;
+  - PDF **037**: `இதுவரை` → `இது வரை`;
+  - PDF **046**: `உயர் நீதிமன்ற உத்தரவை` → `உயர் நீதி மன்ற உத்தரவை`.
+- PDF **047** source-supplied English letter was directly checked and required no correction.
+- Letter boundaries, titles, dates and printed contents rows changed: **0**.
+- English remains blocked.
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **Letters 3364–3368 / PDF 024–049**, stopping before **Letter 3369 / PDF 050**.
-
-Directly compare every page in PDF **024–049** against the controlling scan. Preserve physical page boundaries, titles, salutations, quotations, figures, English text, closings and dates exactly. Record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+Continue the second direct visual/textual-fidelity verification with **Letters 3369–3373 / PDF 050–073**, stopping before **Letter 3374 / PDF 074**.
 
 Do **not** begin English translation.

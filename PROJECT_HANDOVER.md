@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — SECOND VISUAL FIDELITY IN PROGRESS / PDF 001–023 VERIFIED — 2026-09-20
+## Volume 42 — SECOND VISUAL FIDELITY IN PROGRESS / PDF 001–049 VERIFIED — 2026-09-20
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -206,8 +206,9 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
 - Canonical Tamil transcription: **PDF 001–402 / 402 first-pass complete through source record 3427**.
 - Full-volume Tamil structural audit: **PASS** — exactly 402 numbered page files, 64 contents rows, 64 chapter records, PDF 024–401 letter coverage with 0 gaps / 0 overlaps.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402 VERIFIED**.
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402 VERIFIED**.
 - Fidelity Batch 1 scan-proven changes: **PDF 003** expanded to full publication details; **PDF 004** corrected from shared `அண்ணாவுக்கு...` to local Volume 42 `அம்மாவுக்கு...`; no contents-row changes.
+- Fidelity Batch 2 scan-proven changes: **PDF 026, 029, 034, 036, 037, 044 and 046** corrected after direct scan comparison. Major semantic repair: PDF 044 `உத்தரவாதம் அளிக்கக்கூடிய`; no title/date/boundary/contents changes.
 - Shared front matter after second-pass Batch 1: **PDF 001–003 local; PDF 004 local difference (`அம்மாவுக்கு...`); PDF 005–017 direct-verified shared references**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
 - Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
@@ -217,7 +218,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 
 ### Exact next activity
 
-Continue the second full-volume direct visual/textual-fidelity verification with **Letters 3364–3368 / PDF 024–049**, stopping before **Letter 3369 / PDF 050**. Preserve all source wording and physical page boundaries; record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation.
+Continue the second full-volume direct visual/textual-fidelity verification with **Letters 3369–3373 / PDF 050–073**, stopping before **Letter 3374 / PDF 074**. Preserve all source wording and physical page boundaries; record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`. Do not begin English translation.
 
 ## Series front matter optimization — 2026-09-19
 

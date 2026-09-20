@@ -566,3 +566,57 @@ PDF 004 is now a local-difference transcription. The printed `கெளரா �
 **Batch result: PASS.** The second-pass gate remains **IN PROGRESS — PDF 001–023 / 402 verified**.
 
 **Next:** Letters **3364–3368 / PDF 024–049**, stop before Letter **3369 / PDF 050**.
+
+
+## 24. Second full-volume direct visual/textual-fidelity verification — Batch 2 / Letters 3364–3368 / PDF 024–049
+
+**Date:** 2026-09-20  
+**Result:** **PASS — durable frontier PDF 001–049 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3364** — PDF 024–027 / printed 23–26
+- **3365** — PDF 028–031 / printed 27–30
+- **3366** — PDF 032 / printed 31
+- **3367** — PDF 033–040 / printed 32–39
+- **3368** — PDF 041–049 / printed 40–48
+
+Every physical page in PDF 024–049 was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Letter | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 026 | 3364 | `தி.மு.க. வின் நிலைப்பாடு` | `தி.மு.க.வின் நிலைப்பாடு` |
+| 029 | 3365 | `அனைத்துக் கட்சிகளையும் தமிழக அரசின்` | `அனைத்துக்கட்சிகளையும் தமிழக அரசின்` |
+| 034 | 3367 | `அரசு சார்பிலே நடைபெற்று நிகழ்ச்சிகளிலே` | `அரசு சார்பிலே நடைபெற்ற நிகழ்ச்சிகளிலே` |
+| 036 | 3367 | `பயிர்க் கடன்கள் கிடைக்கவில்லை என்று` | `பயிர்க் கடன்கள் கிடைக்க வில்லை என்று` |
+| 037 | 3367 | `என்று கூறி இதுவரை புன்செய் நிலங்களுக்கு` | `என்று கூறி இது வரை புன்செய் நிலங்களுக்கு` |
+| 044 | 3368 | `தமிழர்கள் வாழ்வுக்கு உதவாததும் அளிக்கக்கூடிய ஒப்பந்தம்` | `தமிழர்கள் வாழ்வுக்கு உத்தரவாதம் அளிக்கக்கூடிய ஒப்பந்தம்` |
+| 046 | 3368 | `போலீசார் உயர் நீதிமன்ற உத்தரவை` | `போலீசார் உயர் நீதி மன்ற உத்தரவை` |
+
+PDF **044** is the major semantic repair in the batch. PDF **034** is a word-form correction; the remaining five restore source-printed spacing/word joining.
+
+### Directly verified with no correction
+
+- PDF **024–025, 027–028, 030–033, 035, 038–043, 045, 047–049**.
+- Letter **3366** required no correction.
+- The source-supplied English letter on PDF **047** matches the canonical transcription.
+- All five starts, titles, salutations, closings, dates and physical end boundaries reconcile.
+- Printed contents rows changed: **0**.
+- Chapter ranges changed: **0**.
+
+### Batch reconciliation
+
+- directly verified pages: **26 / 26**;
+- canonical pages changed: **7**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–049 / 402 verified**.
+
+**Next:** Letters **3369–3373 / PDF 050–073**, stop before **3374 / PDF 074**.
