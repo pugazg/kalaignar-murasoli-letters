@@ -391,3 +391,30 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 20. Normal five-record batch — 3420–3424 / PDF 360–385
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3420 | 360–364 | 359–363 | 16-10-2009 |
+| 3421 | 365–373 | 364–372 | 20-10-2009 |
+| 3422 | 374–377 | 373–376 | 22-10-2009 |
+| 3423 | 378–379 | 377–378 | 25-10-2009 |
+| 3424 | 380–385 | 379–384 | 26-10-2009 |
+
+Checks:
+
+- canonical page files added: **26 / 26** for PDF 360–385;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected against the rendered source scans;
+- source-supplied English quotations in 3420 and quoted/source-attributed political statements, figures and historical material throughout the batch were preserved as printed rather than reconciled with outside sources;
+- pre-publication visual review corrected **15 draft readings/spacing errors**, including scan-confirmed `கேட்க`, `பீதியோ`, `சமிக்ஞையாக`, `உலகத் தமிழ்ச் செம்மொழி`, `கட்சி வேறுபாடின்றி`, `வ.உ.சி.யின்`, `பொதுநல`, `அரியாசனத்தில்`, Bharathi's source line beginning `பிற நாட்டு நல்லறிஞர்...`, `இருபக்கமும்`, `நன்றியுணர்வும்`, `உள் இட ஒதுக்கீடு`, `நிதி உதவி`, and `அவர்கள் தான்`;
+- those corrections were made only to the unpublished work-branch candidate; **0 previously committed canonical pages changed**;
+- PDF **386 / printed 385** directly inspected and confirmed as the start of **3425 — `வருந்தப் போகிறார்களா - இனியேனும் திருந்தப் போகிறார்களா?`**;
+- no PDF 386 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
