@@ -19,8 +19,9 @@ Final completed records:
 ## Verified source anomalies
 
 1. The printed contents and actual source heading at **PDF 092 / printed 91** both print **3154** between 3376 and 3378. **No 3377 source record is created or inferred.**
-2. Letter **3392** contains a genuine printed duplication across PDF 209–212; both physical source copies are preserved.
-3. Letter **3425** printed contents uses `திருந்தப் போகிறார்களா?`, while the actual PDF 386 heading uses joined `திருந்தப்போகிறார்களா?`. Each source layer is preserved independently.
+2. Letter **3388** printed contents shows `அந்த நினைவுக்கு ஒரு நன்றி!! (கலைஞர் கவிதைக் கடிதம்)` inline, while actual PDF 187 prints `அந்த நினைவுக்கு ஒரு நன்றி!!` with `(கலைஞர் கவிதைக் கடிதம்)` as a separate subtitle; the chapter record preserves both elements.
+3. Letter **3392** contains a genuine printed duplication across PDF 209–212; both physical source copies are preserved.
+4. Letter **3425** printed contents uses `திருந்தப் போகிறார்களா?`, while the actual PDF 386 heading uses joined `திருந்தப்போகிறார்களா?`. Each source layer is preserved independently.
 
 ## Volume boundary
 
