@@ -1,37 +1,37 @@
-# NEXT CHAT PROMPT — Volume 42 / normal five-record batch 3410–3414
+# NEXT CHAT PROMPT — Volume 42 / normal five-record batch 3415–3419
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Durable state
 
 - Source: **402 physical PDF pages / 400 printed pages**.
-- Canonical coverage: **PDF 001–299 / 402**.
-- Completed actual source records: **46 — 3364–3376, 3154, 3378–3409**.
+- Canonical coverage: **PDF 001–329 / 402**.
+- Completed actual source records: **51 — 3364–3376, 3154, 3378–3414**.
 - Partial records: **0**.
 - Printed contents: **64 / 64 rows transcribed**.
 - Source-numbering anomaly remains verified: contents and actual PDF **092 / printed 91** heading both print **3154** between 3376 and 3378. **Do not invent 3377.**
-- Latest batch: **PASS — 3405–3409 / PDF 272–299**.
-- PDF **300 / printed 299** is scan-verified as the actual start of **3410 — ஆனந்த விகடன் அன்றும் இன்றும்!**
+- Latest batch: **PASS — 3410–3414 / PDF 300–329**.
+- PDF **330 / printed 329** is scan-verified as the actual start of **3415 — இரு நாள் நமக்குத் திருநாள்!**
 - English translation: **blocked**.
 
 ## Exact next activity
 
 Process exactly five complete source records:
 
-**3410, 3411, 3412, 3413, 3414**
+**3415, 3416, 3417, 3418, 3419**
 
-Start at **PDF 300 / printed 299** and continue through the actual scan-verified end of 3414.
+Start at **PDF 330 / printed 329** and continue through the actual scan-verified end of 3419.
 
 Printed-contents navigation hints:
-- 3410 — printed 299 / PDF 300
-- 3411 — printed 303 / expected PDF 304
-- 3412 — printed 310 / expected PDF 311
-- 3413 — printed 317 / expected PDF 318
-- 3414 — printed 324 / expected PDF 325
-- 3415 — printed 329 / expected PDF 330
+- 3415 — printed 329 / PDF 330
+- 3416 — printed 334 / expected PDF 335
+- 3417 — printed 337 / expected PDF 338
+- 3418 — printed 343 / expected PDF 344
+- 3419 — printed 351 / expected PDF 352
+- 3420 — printed 359 / expected PDF 360
 
-The scan controls all actual titles, dates and boundaries. Do not include any part of 3415. Update canonical pages, chapter records/indexes and durable controls atomically. English remains blocked.
+The scan controls all actual titles, dates and boundaries. Do not include any part of 3420. Update canonical pages, chapter records/indexes and durable controls atomically. English remains blocked.
 
 Required commit message pattern:
 
-`Complete Volume 42 letters 3410-3414 — PDF pages 300-XXX`
+`Complete Volume 42 letters 3415-3419 — PDF pages 330-XXX`
