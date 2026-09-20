@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-20  
-**Status:** **IN PROGRESS — PDF 001–049 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–073 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–049 / 402 — VERIFIED.**
+**PDF 001–073 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–073 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -144,8 +144,57 @@ Every physical source page from PDF **024** through **049** was directly rendere
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–049 / 402 VERIFIED**.
 
+## Batch 3 — Letters 3369–3373 / PDF 050–073 — PASS
+
+Every physical source page from PDF **050** through **073** was directly rendered and compared against the canonical page record. The batch covers exactly five complete letters:
+
+- **3369** — PDF 050–055 / printed 49–54 — `புதியதோர் விதி செய்வோம்!`
+- **3370** — PDF 056–061 / printed 55–60 — `இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட!`
+- **3371** — PDF 062–065 / printed 61–64 — `இன்று என் வாழ்விலோர் திருநாள்!`
+- **3372** — PDF 066–069 / printed 65–68 — `இது எப்போதும் உங்கள் உயிர்!`
+- **3373** — PDF 070–073 / printed 69–72 — `அனைவர் அகமும் அன்பகம் ஆகிட...!`
+
+### Scan-proven corrections
+
+1. **PDF 053 / Letter 3369**  
+   `பேரவைத் தலைவர் தமது இசைவைக் தர மறுக்கலாம்` → **`பேரவைத் தலைவர் தமது இசைவைத் தர மறுக்கலாம்`**
+
+2. **PDF 058 / Letter 3370**  
+   `ஆகிய எழுபேர் தீக்குளித்து` → **`ஆகிய எழு பேர் தீக்குளித்து`**
+
+3. **PDF 060 / Letter 3370**  
+   `தமிழகத்திலே ஒரு கலவரத்தைக் காண்டி விட முடியாதா?` → **`தமிழகத்திலே ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`**  
+   This is the major semantic repair in the batch.
+
+4. **PDF 061 / Letter 3370**  
+   `கொடுத்து விடக் கூடாதுஎன்பதற்காகத்தான்` → **`கொடுத்து விடக் கூடாது என்பதற்காகத்தான்`**
+
+5. **PDF 061 / Letter 3370**  
+   `அதைத்தான் நானும் அறிக்கையாகியிருக்கிறேன்.` → **`அதைத்தான் நானும் அறிக்கையாக்கியிருக்கிறேன்.`**
+
+6. **PDF 063 / Letter 3371**  
+   `டெல்லி மருத்துவ நிபுணரும் சென்னை மருத்துவ நண்பர்கள் குழுவும்` → **`டெல்லி மருத்துவரும் சென்னை மருத்துவ நண்பர்கள் குழுவும்`**
+
+### Directly checked with no canonical correction
+
+- PDF **050–052, 054–057, 059, 062, 064–073**.
+- Letters **3372** and **3373** required no canonical correction.
+- All five starts, titles, salutations, closings, dates and physical end boundaries reconcile.
+- No chapter boundary, printed contents row, letter number or date changed.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 3: **5 — PDF 053, 058, 060, 061, 063**.
+- Scan-proven corrections applied: **6**.
+- Letter-bearing pages directly verified in this batch: **24 / 24**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- English translation remains blocked.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–073 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **Letters 3369–3373 / PDF 050–073**, stopping before **Letter 3374 / PDF 074**.
+Continue the second direct visual/textual-fidelity verification with **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stopping before **Letter 3379 / PDF 106**.
 
-Keep the scan authoritative, preserve the exact physical-page frontier, record every scan-proven correction in this report, and do not begin English translation.
+Keep the scan authoritative, preserve the verified source-number anomaly **3154** between 3376 and 3378, record every scan-proven correction in this report, and do not begin English translation.
