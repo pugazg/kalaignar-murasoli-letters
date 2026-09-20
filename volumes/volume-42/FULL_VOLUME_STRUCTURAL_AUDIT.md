@@ -28,7 +28,7 @@ The source identity above was rechecked from the controlling attachment during t
 - The live Git tree is non-truncated and contains exactly **402** canonical numbered page files: `page-001.md` through `page-402.md`.
 - No canonical page number is missing and no numbered page outside **001–402** is registered.
 - PDF **001–003** retain Volume 42-local front-cover/title/publication data.
-- PDF **004–017** remain direct-verified shared-series front-matter records under `SERIES_FRONT_MATTER_POLICY.md`.
+- PDF **004–017** were structurally represented under the series front-matter policy at structural-audit time. The subsequent second fidelity pass proved PDF **004** is a Volume 42-local wording difference and converted it to a local transcription; PDF **005–017** remain direct-verified shared-series reference records. This does not alter the structural page inventory.
 - Printed contents occupy PDF **018–022**.
 - PDF **023 / printed 22** is correctly classified as a blank page after the contents.
 - Letter-bearing canonical coverage is continuous from PDF **024 / printed 23** through PDF **401 / printed 400**.
@@ -118,11 +118,15 @@ Current Tamil gate state:
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**
 - full-volume structural audit: **PASS**
-- second full-volume direct visual/textual-fidelity verification: **PENDING**
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402 verified**
 - English translation: **BLOCKED**
+
+## Post-structural fidelity note — 2026-09-20
+
+Second-pass Batch 1 directly verified PDF **001–023**. It exposed a textual/source-policy defect not visible to the structural gate: PDF **004** prints Volume 42-local `அம்மாவுக்கு...`, not the Volume 43 shared-reference `அண்ணாவுக்கு...`. PDF 004 is now local; PDF 005–017 remain shared references. PDF 003 was also expanded from a selective summary to the complete printed publication-details page. Structural counts/ranges remain unchanged.
 
 ## Exact next activity
 
-Run the separate **second full-volume direct visual/textual-fidelity verification — PDF 001–402 / 402**.
+Continue the separate **second full-volume direct visual/textual-fidelity verification from PDF 024**.
 
 Compare the canonical Tamil against the controlling scan directly, preserve all source anomalies and page boundaries, record every scan-proven correction, and reconcile the final genuine printed-contents / actual-title difference set. Do **not** begin English translation until that second-pass fidelity gate is complete.

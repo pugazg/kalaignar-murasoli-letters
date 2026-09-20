@@ -21,7 +21,7 @@ source_full_volume_received: true
 source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
-series_front_matter_status: "verified-pdf-001-017; pdf-001-003 local-volume fields; pdf-004-017 shared-reference"
+series_front_matter_status: "second-pass-verified-pdf-001-017; pdf-001-004 local-volume/difference; pdf-005-017 shared-reference"
 transcription_page_range: "1-402"
 transcription_status: "first-pass-complete"
 recorded_letter_range: "3364-3376,3154,3378-3427 complete"
@@ -31,11 +31,12 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass; second-visual-verification-pending"
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-023"
 audit_date: 2026-09-20
-second_visual_verification: "pending"
-second_visual_verified_page_range: null
-textual_fidelity_audit_reports: []
+second_visual_verification: "in-progress"
+second_visual_verified_page_range: "1-23"
+textual_fidelity_audit_reports:
+  - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "blocked-pending-tamil-gates"
 translated_letter_range: null
 translated_letter_count: 0
@@ -64,8 +65,9 @@ source_observations:
   - "Normal five-record batch 3420-3424 is complete across PDF 360-385. PDF 386 is the verified start of 3425. All five starts, titles, closings, dates and end boundaries were directly scan-verified before publication; 15 unpublished draft readings/spacing errors were scan-corrected before main publication."
   - "Final source-record batch 3425-3427 is complete across PDF 386-401; PDF 402 is non-letter back-cover / portrait / publisher-contact-price material. No Letter 3428 is created in Volume 42. Eight unpublished draft readings/spacing errors were scan-corrected before publication."
   - "Letter 3425 printed contents uses திருந்தப் போகிறார்களா?, while actual PDF 386 uses joined திருந்தப்போகிறார்களா?; each source layer is preserved independently."
-  - "All 64 source records and all 402 physical PDF pages now have first-pass canonical representation; full-volume structural audit and second visual/textual-fidelity verification remain pending."
+  - "All 64 source records and all 402 physical PDF pages have first-pass canonical representation; the full-volume structural audit is PASS and the second visual/textual-fidelity verification is now in progress."
   - "Full-volume Tamil structural audit PASS on 2026-09-20: exactly 402 canonical page files, 64 printed contents rows, 64 chapter records, continuous letter-bearing coverage PDF 024-401, PDF 402 non-letter back cover, and no chapter/page-range gaps or overlaps. Structural audit made no canonical Tamil body changes; source_sha256 was populated from the controlling PDF."
+  - "Second full-volume direct visual/textual-fidelity Batch 1 PASS through PDF 023 on 2026-09-20. PDF 003 was replaced with complete scan-faithful publication details, and PDF 004 was converted from an invalid Volume 43 shared reference to local Volume 42 dedication text அம்மாவுக்கு.... PDF 005-017 remain direct-verified shared references; PDF 018-022 contents required no correction; PDF 023 remains blank."
   - "A prior contents transcription typo for 3373 was corrected from அனைவர அகமும் to scan-confirmed அனைவர அகமும்; printed contents and actual title agree."
   - "The complete 402-page source is available; no source-incomplete status is inferred from the earlier 150-page preview limit."
 contents_transcription_status: "complete-pdf-018-022"

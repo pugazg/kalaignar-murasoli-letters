@@ -6,11 +6,15 @@ section: "dedication"
 letter_number: null
 letter_date: null
 letter_title_ta: null
-transcription_status: "shared-series-front-matter-verified"
-shared_front_matter_ref: "volumes/volume-43/pages/page-004.md"
-source_note: "Portrait/dedication page; Volume 42 scan also carries a library stamp."
+transcription_status: "first-pass-reviewed"
+series_front_matter_handling: "local-difference"
+source_note: "Volume 42 differs from the recurring Volume 43 reference on this dedication page; the local scan controls. Library stamp is non-source annotation."
 ---
 
-[தொடர் பொதுப் பகுதி: இந்தப் பக்கத்தின் அச்சு உரை Volume 43 shared reference-க்கு நேரடி scan comparison-ல் பொருந்துகிறது. முழு பொதுப் பகுதி இங்கு மீண்டும் நகலெடுக்கப்படவில்லை.]
+# அம்மாவுக்கு...
 
-**Shared reference:** [Volume 43 PDF page 4](../../volume-43/pages/page-004.md)
+[கருப்பு-வெள்ளைப் புகைப்படம்: கண்ணாடி அணிந்த நபரின் உருவப்படம்.]
+
+**கெளரா பதிப்பகக் குழுமம்**
+
+[நூலக முத்திரை உள்ளது.]
