@@ -14,7 +14,7 @@
 
 ## Source extent
 
-The controlling source contains **402 physical PDF pages**. The publication page states **400 printed pages**; the additional physical pages are source matter/covers to be classified only when transcribed and visually verified.
+The controlling source contains **402 physical PDF pages**. The publication page states **400 printed pages**. All physical pages are now classified: Letter 3427 closes on PDF **401 / printed 400**, and PDF **402** is non-letter back-cover / portrait / publisher-contact-price material.
 
 An earlier file-preview interface exposed only the first **150** rendered pages. That was a preview limitation and must not be treated as the PDF extent or as a source gap.
 
@@ -26,9 +26,9 @@ Printed contents provide **64 source rows**. The numbering anomaly is verified a
 
 ## Tamil transcription status
 
-**IN PROGRESS — PDF 001–385 / 402 committed.**
+**FIRST-PASS COMPLETE — PDF 001–402 / 402.**
 
-Completed actual source records now total **61 — 3364–3376, 3154, 3378–3424**. The latest batch **3420–3424** covers PDF **360–385**. PDF 386 is the scan-verified start of 3425.
+Completed actual source records now total **64 — 3364–3376, 3154, 3378–3427**. The final source-record batch **3425–3427** covers PDF **386–401**; PDF **402** is non-letter back-cover material. No Letter 3428 is created in Volume 42.
 
 The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Its interrupted Letter 3364 continuation at PDF **026–027** is also **COMPLETE / PASS**, with closing `அன்புள்ள, மு.க.` and date `31-1-2009`.
 
@@ -38,7 +38,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Process the **final three source records 3425–3427**, beginning at the scan-verified **PDF 386 / printed 385** start of 3425. Use the scans to establish the end of 3427 and classify the remaining source matter through PDF 402. Do not invent a 3428 record in Volume 42.
+Run the **full-volume Tamil structural audit** across **PDF 001–402 / 402**. Reconcile page continuity, 64 printed contents rows, 64 actual source records, all chapter/page links and letter boundaries, the verified 3154 numbering anomaly, Letter 3392 source duplication, Letter 3425 contents/actual-title difference, Letter 3427 closure at PDF 401, and PDF 402 non-letter classification. Do not begin English translation until the structural audit and subsequent second visual/textual-fidelity gate pass.
 
 ## PDF 001–017 shared front matter
 
