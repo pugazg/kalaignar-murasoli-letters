@@ -9,7 +9,7 @@
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
-- Second visual/textual-fidelity verification: **pending**
+- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–023 / 402 verified**
 - English translation: **blocked**
 
 ## Final source-record batch 3425–3427 — PASS
@@ -34,28 +34,27 @@
 
 The printed contents and actual heading at **PDF 092 / printed 91** both print **3154** between 3376 and 3378. **No 3377 record is invented.**
 
-## Exact next activity
 
-Run the **second full-volume direct visual/textual-fidelity verification** for **PDF 001–402 / 402**.
+## Second full-volume fidelity verification — Batch 1 / PDF 001–023 — PASS
 
-Structural audit result: **PASS — PDF 001–402 / 402**.
+- Every physical source page **001–023** was directly inspected against the controlling scan.
+- PDF **003**: the selective first-pass publication summary was replaced with the complete printed publication-details page, including the full `நூல் கிடைக்குமிடம்` / `AVAILABLE @` blocks, blank rights/ISBN fields, exact `முதற் பதிப்பு - 2022`, and full Tamil/English imprint details.
+- PDF **004**: the Volume 43 shared reference was rejected for this page. Volume 42 prints **`அம்மாவுக்கு...`**, so PDF 004 is now a local-difference transcription rather than reference-only.
+- PDF **005–017**: direct comparison confirms the shared-series reference remains valid.
+- PDF **018–022**: all **64 contents rows** were directly checked; no contents correction was required in this batch.
+- PDF **023**: blank/show-through classification confirmed.
+- Canonical page records changed in this second-pass batch: **2 — PDF 003 and PDF 004**.
+- Letter-bearing page changes: **0**.
+- Letter boundary/title/date changes: **0**.
+- Contents-row changes: **0**.
+- English remains blocked.
 
-Durable checks passed:
-
-- exactly **402** canonical numbered page files, with no missing or extra page number;
-- exactly **64** printed contents rows and **64** chapter records;
-- exact source-record order **3364–3376, 3154, 3378–3427**;
-- chapter/page coverage **PDF 024–401** with no gap or overlap;
-- shared front matter PDF **004–017** remains verified under the series policy;
-- Letter **3392** duplicated source body remains preserved;
-- Letter **3388** title/subtitle layout remains documented;
-- Letter **3425** contents/actual-title spacing distinction remains documented;
-- Letter **3427** closes on PDF **401 / printed 400**;
-- PDF **402** remains non-letter back-cover material and no 3428 is created;
-- no U+FFFD / zero-width residue and no unexpected temporary artifacts;
-- controlling-source SHA-256 verified and recorded as `43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676`;
-- canonical Tamil source-body changes during this structural gate: **0**.
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Run the **second full-volume direct visual/textual-fidelity verification — PDF 001–402 / 402**. Compare canonical Tamil directly against the controlling scan and record every scan-proven correction. Do **not** start English translation until that second-pass fidelity gate passes.
+Continue the second direct visual/textual-fidelity verification with **Letters 3364–3368 / PDF 024–049**, stopping before **Letter 3369 / PDF 050**.
+
+Directly compare every page in PDF **024–049** against the controlling scan. Preserve physical page boundaries, titles, salutations, quotations, figures, English text, closings and dates exactly. Record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+Do **not** begin English translation.
