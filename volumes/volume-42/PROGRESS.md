@@ -3,26 +3,26 @@
 ## Current canonical state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical page files: **221 / 402**
+- Canonical page files: **251 / 402**
 - Printed contents: **64 / 64 transcribed**
-- Completed actual source records: **31 — 3364–3376, 3154, 3378–3394**
+- Completed actual source records: **36 — 3364–3376, 3154, 3378–3399**
 - Partial records: **0**
 - English translation: **blocked**
 
-## Batch 3390–3394 — PASS
+## Batch 3395–3399 — PASS
 
 | Source record | Actual title | PDF | Printed | Date |
 |---:|---|---:|---:|---|
-| 3390 | கிளம்பட்டும்; தமிழச் சிங்கக் கூட்டம்! | 194–202 | 193–201 | 4-4-2009 |
-| 3391 | தேர்தல் களம் அழைக்கிறது; கண்மணியே; புறப்படு! | 203–208 | 202–207 | 7-4-2009 |
-| 3392 | பூச்சாண்டிப் பொம்மை? | 209–212 | 208–211 | 8-4-2009 |
-| 3393 | தமிழ் இன மீட்புக்காகக் குரல் கொடுத்திட வாரீர்! | 213–218 | 212–217 | 9-4-2009 |
-| 3394 | சுட்டெரிக்கும் நெருப்பில் சுடர் விடும் தங்கம்! | 219–221 | 218–220 | 10-4-2009 |
+| 3395 | மூப்பனார் வழங்கிய புத்தகம்! | 222–226 | 221–225 | 14-4-2009 |
+| 3396 | இவர்களும் அவர் பக்கமா? | 227–231 | 226–230 | 19-4-2009 |
+| 3397 | நாதியற்ற ஈழத் தமிழரைக் காத்திட நடுவணரசுக்கு வேண்டுகோள்! | 232–237 | 231–236 | 22-04-2009 |
+| 3398 | இதற்குமா எதிர்ப்பு! அந்தோ - தமிழகமே! | 238–241 | 237–240 | 23-4-2009 |
+| 3399 | “சேது” திட்டம் எதிர்ப்போரை அடையாளம் காண்க! | 242–251 | 241–250 | 25-4-2009 |
 
 - All five actual source starts, titles, end boundaries and closing dates were visually verified against the scan.
-- **3392 source duplication is preserved:** PDF 209–210 carries the first copy; PDF 211 begins with its closing, then immediately reprints `பூச்சாண்டிப் பொம்மை?` and the body through PDF 212, ending with the same closing again. No deduplication or silent repair was made.
-- 3390 preserves the source-supplied Sonia Gandhi English letter on PDF 196 and the printed scheme/list structure across PDF 198–200.
-- PDF **222 / printed 221** was inspected only to confirm the next source record: **3395 — `மூப்பனார் வழங்கிய புத்தகம்!`**.
+- Canonical page files added: **30 / 30** for PDF **222–251**.
+- Pre-publication scan review corrected one draft spacing misreading on PDF 230: `வேகுரல்` → source-printed `வே குரல்`. This correction occurred before publication; no previously committed canonical page changed.
+- PDF **252 / printed 251** was inspected only to confirm the next source record: **3400 — `இரு முனை பாதுகாப்புக்காக; இன்றே எழுக!`**.
 - Full-volume structural audit and second visual/textual-fidelity verification remain pending.
 - English translation remains blocked.
 
@@ -32,14 +32,14 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 ## Exact next activity
 
-Process **3395–3399**, beginning at **PDF 222 / printed 221**.
+Process **3400–3404**, beginning at **PDF 252 / printed 251**.
 
 Printed-contents navigation hints:
-- 3395 — printed 221 / PDF 222
-- 3396 — printed 226 / expected PDF 227
-- 3397 — printed 231 / expected PDF 232
-- 3398 — printed 237 / expected PDF 238
-- 3399 — printed 241 / expected PDF 242
-- 3400 — printed 251 / expected PDF 252
+- 3400 — printed 251 / PDF 252
+- 3401 — printed 257 / expected PDF 258
+- 3402 — printed 259 / expected PDF 260
+- 3403 — printed 264 / expected PDF 265
+- 3404 — printed 267 / expected PDF 268
+- 3405 — printed 271 / expected PDF 272
 
-The scan controls every actual boundary. Stop after the verified end of 3399 and do not include any part of 3400.
+The scan controls every actual boundary. Stop after the verified end of 3404 and do not include any part of 3405.

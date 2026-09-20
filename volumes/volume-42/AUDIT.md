@@ -260,3 +260,28 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 15. Normal five-record batch — 3395–3399 / PDF 222–251
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3395 | 222–226 | 221–225 | 14-4-2009 |
+| 3396 | 227–231 | 226–230 | 19-4-2009 |
+| 3397 | 232–237 | 231–236 | 22-04-2009 |
+| 3398 | 238–241 | 237–240 | 23-4-2009 |
+| 3399 | 242–251 | 241–250 | 25-4-2009 |
+
+Checks:
+
+- canonical page files added: **30 / 30** for PDF 222–251;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected;
+- pre-publication scan review corrected one draft spacing misreading on PDF 230 from `வேகுரல்` to source-printed `வே குரல்`; no previously committed canonical page changed;
+- PDF **252 / printed 251** directly inspected and confirmed as the start of **3400 — `இரு முனை பாதுகாப்புக்காக; இன்றே எழுக!`**;
+- no PDF 252 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
