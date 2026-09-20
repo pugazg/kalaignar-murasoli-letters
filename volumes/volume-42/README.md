@@ -10,6 +10,7 @@
 - Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`
 - Controlling PDF extent: **402 physical PDF pages**
 - Current attachment size: **232,174,916 bytes**
+- Source SHA-256: `43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676`
 - Searchable/parsed text layer: **none usable; scan images control transcription**
 
 ## Source extent
@@ -26,7 +27,7 @@ Printed contents provide **64 source rows**. The numbering anomaly is verified a
 
 ## Tamil transcription status
 
-**FIRST-PASS COMPLETE — PDF 001–402 / 402.**
+**FIRST-PASS COMPLETE — PDF 001–402 / 402. FULL-VOLUME STRUCTURAL AUDIT — PASS.**
 
 Completed actual source records now total **64 — 3364–3376, 3154, 3378–3427**. The final source-record batch **3425–3427** covers PDF **386–401**; PDF **402** is non-letter back-cover material. No Letter 3428 is created in Volume 42.
 
@@ -38,7 +39,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Run the **full-volume Tamil structural audit** across **PDF 001–402 / 402**. Reconcile page continuity, 64 printed contents rows, 64 actual source records, all chapter/page links and letter boundaries, the verified 3154 numbering anomaly, Letter 3392 source duplication, Letter 3425 contents/actual-title difference, Letter 3427 closure at PDF 401, and PDF 402 non-letter classification. Do not begin English translation until the structural audit and subsequent second visual/textual-fidelity gate pass.
+Run the **second full-volume direct visual/textual-fidelity verification** across **PDF 001–402 / 402**. Compare every canonical page directly against the controlling scan, preserve source anomalies and physical page boundaries, and record every scan-proven correction. Do not begin English translation until that second-pass fidelity gate passes.
 
 ## PDF 001–017 shared front matter
 
