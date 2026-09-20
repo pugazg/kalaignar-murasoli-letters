@@ -205,3 +205,32 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 13. Normal five-record batch — 3385–3389 / PDF 161–193
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3385 | 161–168 | 160–167 | 18-3-2009 |
+| 3386 | 169–178 | 168–177 | 21-3-2009 |
+| 3387 | 179–186 | 178–185 | 24-3-2009 |
+| 3388 | 187–190 | 186–189 | 29-03-2009 |
+| 3389 | 191–193 | 190–192 | 01-04-2009 |
+
+Checks:
+
+- canonical page files added: **33 / 33** for PDF 161–193;
+- five actual source records completed;
+- all five start headings, titles, end boundaries and final closing dates visually verified;
+- 3387 source-supplied English on PDF 182 retained verbatim as source material;
+- 3388 poem layout retained; actual heading places `(கலைஞர் கவிதைக் கடிதம்)` on its own subtitle line while contents carries it inline;
+- 3389 source framing as a republication is retained without outside historical reconciliation;
+- targeted pre-publication visual review corrected **13 draft misreadings** before publication, including scan-confirmed `பட்டுக்கோட்டை`, `தைரியத்தோடு`, `செயல்வடிவம்`, `பயன்படுத்தப்பட்டு`, `நாமே`, `மன்னையையும்`, `நீர் ஏன் நெருப்பைத்`, `இருந்திடுக`, `போர் வாளாய்`, `எலும்பினால்`, `என் தமிழன்`, `இலங்கைவாழ்`, and `அன்புக்கட்டளையை`;
+- these were corrections to the unpublished candidate only; **0 previously committed canonical pages changed**;
+- PDF **194 / printed 193** directly inspected and confirmed as the start of **3390 — `கிளம்பட்டும்; தமிழச் சிங்கக் கூட்டம்!`**;
+- no PDF 194 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
