@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — ACTIVE SOURCE INTAKE — 2026-09-19
+## Volume 42 — FIRST-PASS COMPLETE / STRUCTURAL AUDIT NEXT — 2026-09-20
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -203,15 +203,17 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Printed contents: PDF **018–022**; provisional inventory **64 rows**, nominal span **3364–3427**.
 - Verified source-numbering anomaly: the printed contents and actual heading at **PDF 092 / printed 91** both show **3154** between 3376 and 3378; no 3377 record is inferred.
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
-- Canonical Tamil transcription: **PDF 001–385 / 402 complete through source record 3424**.
+- Canonical Tamil transcription: **PDF 001–402 / 402 first-pass complete through source record 3427**.
 - Shared front matter: **PDF 001–017 processed; PDF 004–017 reference-verified against Volume 43**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
-- Source-record state: **61 complete — 3364–3376, 3154, 3378–3424**.
+- Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
 - English translation: **blocked**.
+- Letter **3425** contents/actual-title distinction: contents `திருந்தப் போகிறார்களா?`; actual PDF 386 `திருந்தப்போகிறார்களா?`.
+- Letter **3427** closes at PDF **401 / printed 400**; PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428** is created in Volume 42.
 
 ### Exact next activity
 
-Process the **final three source records 3425–3427**, beginning at scan-verified **PDF 386 / printed 385**, whose actual heading is `3425. வருந்தப் போகிறார்களா - இனியேனும் திருந்தப் போகிறார்களா?`. Use the scans to establish the end of 3427 and classify the remaining physical source pages through PDF 402. Do not invent a 3428 record in Volume 42.
+Run the **full-volume Tamil structural audit** for **PDF 001–402 / 402**. Reconcile one canonical file per physical page, 64 printed contents rows, 64 actual source records, all chapter/page links and letter boundaries, the verified **3154** numbering anomaly, the genuine Letter **3392** duplicated source body, the genuine Letter **3425** contents/actual-title difference, Letter **3427** closure at PDF 401 / printed 400, and PDF 402 non-letter back-cover classification. Do not begin English translation; the second full-volume visual/textual-fidelity gate remains mandatory after structural PASS.
 
 ## Series front matter optimization — 2026-09-19
 
