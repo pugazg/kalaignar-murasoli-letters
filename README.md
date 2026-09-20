@@ -24,7 +24,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402 first-pass complete; full structural audit PASS; second visual/textual-fidelity in progress through PDF 049** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **blocked** |
+| 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402 first-pass complete; full structural audit PASS; second visual/textual-fidelity in progress through PDF 073** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **blocked** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
@@ -45,6 +45,7 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Full-volume Tamil structural audit: **PASS**.
 - Second-pass Batch 1 corrected PDF **003** to the complete publication-details transcription and converted PDF **004** from an invalid shared reference to local Volume 42 `அம்மாவுக்கு...`; PDF **005–017** remain verified shared references and PDF **018–022** contents needed no correction.
 - Second-pass Batch 2 directly verified **Letters 3364–3368 / PDF 024–049** and corrected canonical PDF **026, 029, 034, 036, 037, 044 and 046**; PDF 044 restores source `உத்தரவாதம் அளிக்கக்கூடிய`.
+- Second-pass Batch 3 directly verified **Letters 3369–3373 / PDF 050–073** and corrected PDF **053, 058, 060, 061 and 063**; key repairs restore `ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`, `அறிக்கையாக்கியிருக்கிறேன்`, and `டெல்லி மருத்துவரும்`.
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**.
 - PDF **401 / printed page 400** is non-letter end matter; PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
 - Final genuine printed-contents / actual-title discrepancies are Letters **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
@@ -123,7 +124,7 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Letter **3425** contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`; both layers remain preserved.
 - Letter **3427** closes at PDF **401 / printed 400**. PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; no Letter 3428 exists in Volume 42.
 - Full-volume Tamil structural audit: **PASS**.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–049 / 402 verified**.
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–073 / 402 verified**.
 - English translation: **blocked** until the second-pass Tamil fidelity gate passes.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **Letters 3369–3373 / PDF 050–073**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**.
