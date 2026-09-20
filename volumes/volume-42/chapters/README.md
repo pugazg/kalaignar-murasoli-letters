@@ -8,6 +8,7 @@ Current state after the final source-record batch 3425–3427:
 - **Letter-bearing source closes:** 3427 ends at PDF **401 / printed 400**
 - **PDF 402:** non-letter back-cover / portrait / publisher-contact-price material
 - **Next source record in Volume 42:** none.
+- **Full-volume structural audit:** PASS — 64 / 64 chapter records; PDF 024–401 coverage reconciled with 0 gaps / 0 overlaps.
 
 Final completed records:
 
