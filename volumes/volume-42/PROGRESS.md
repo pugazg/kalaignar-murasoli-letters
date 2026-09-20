@@ -8,7 +8,7 @@
 - Completed actual source records: **64 — 3364–3376, 3154, 3378–3427**
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
-- Full-volume structural audit: **pending**
+- Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **pending**
 - English translation: **blocked**
 
@@ -36,21 +36,26 @@ The printed contents and actual heading at **PDF 092 / printed 91** both print *
 
 ## Exact next activity
 
-Run the **full-volume Tamil structural audit** for **PDF 001–402 / 402**.
+Run the **second full-volume direct visual/textual-fidelity verification** for **PDF 001–402 / 402**.
 
-Verify, at minimum:
+Structural audit result: **PASS — PDF 001–402 / 402**.
 
-- exactly one canonical page file for every physical PDF page 001–402;
-- uninterrupted page filenames and no extras;
-- front matter / contents / letters / back-cover classification;
-- printed contents **64 / 64** versus actual source records **64**;
-- source-number anomaly **3154** and absence of invented 3377;
-- all 64 chapter records and page-link continuity;
-- all letter starts/ends, signatures and dates structurally reconcile;
-- genuine Letter 3392 duplicated source body remains preserved;
-- genuine Letter 3425 contents/actual-title distinction remains preserved;
-- Letter 3427 ends at PDF 401 / printed 400;
-- PDF 402 remains non-letter and no 3428 is created;
-- no replacement Unicode, invalid page links, accidental duplicate canonical files, or large structural omissions.
+Durable checks passed:
 
-Do **not** start English translation. After structural PASS, the next required gate is the second full-volume direct visual/textual-fidelity verification.
+- exactly **402** canonical numbered page files, with no missing or extra page number;
+- exactly **64** printed contents rows and **64** chapter records;
+- exact source-record order **3364–3376, 3154, 3378–3427**;
+- chapter/page coverage **PDF 024–401** with no gap or overlap;
+- shared front matter PDF **004–017** remains verified under the series policy;
+- Letter **3392** duplicated source body remains preserved;
+- Letter **3388** title/subtitle layout remains documented;
+- Letter **3425** contents/actual-title spacing distinction remains documented;
+- Letter **3427** closes on PDF **401 / printed 400**;
+- PDF **402** remains non-letter back-cover material and no 3428 is created;
+- no U+FFFD / zero-width residue and no unexpected temporary artifacts;
+- controlling-source SHA-256 verified and recorded as `43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676`;
+- canonical Tamil source-body changes during this structural gate: **0**.
+
+## Exact next activity
+
+Run the **second full-volume direct visual/textual-fidelity verification — PDF 001–402 / 402**. Compare canonical Tamil directly against the controlling scan and record every scan-proven correction. Do **not** start English translation until that second-pass fidelity gate passes.
