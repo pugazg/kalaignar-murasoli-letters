@@ -24,6 +24,8 @@ www.facebook.com/gowrabookcentre
 கௌரா
 பதிப்பகக் குழுமம்
 
+அட்டை : ஜே.ஜே டிசைன்ஸ்
+
 GO 2300
 ரூ.300
 
