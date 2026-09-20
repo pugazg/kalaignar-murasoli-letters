@@ -446,3 +446,59 @@ Checks:
 - English remains blocked.
 
 **Final transcription-batch result: PASS.** First-pass Tamil source coverage is complete. The full-volume structural audit and second full-volume visual/textual-fidelity verification remain separate pending gates.
+
+
+## 22. Full-volume Tamil structural audit — PDF 001–402
+
+**Date:** 2026-09-20  
+**Result:** **PASS**
+
+Durable report: `FULL_VOLUME_STRUCTURAL_AUDIT.md`.
+
+### Source identity
+
+- controlling source: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`;
+- SHA-256: `43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676`;
+- byte size: **232,174,916**;
+- physical PDF pages: **402**;
+- printed pages: **400**.
+
+### Structural checks
+
+- Git tree is non-truncated and contains exactly **402** canonical numbered page files `page-001.md` through `page-402.md`;
+- missing numbered pages: **0**;
+- extra numbered pages outside 001–402: **0**;
+- exact duplicate canonical page-file blobs: **0**;
+- PDF 001–003 remain local front-cover/title/publication records;
+- PDF 004–017 remain verified shared-series front-matter records;
+- PDF 018–022 are contents; PDF 023 is blank;
+- `contents/index.md`: **64 / 64** rows;
+- actual/chapter record set: **64 / 64 — 3364–3376, 3154, 3378–3427**;
+- chapter files: **64**, with no missing or extra source record number;
+- chapter ranges and page-link sequences reconcile exactly with contents start-page boundaries;
+- union of letter ranges: **PDF 024–401 / 378 unique physical pages**;
+- chapter-range gaps: **0**;
+- chapter-range overlaps: **0**;
+- Letter 3392 genuine duplicated printed body on PDF 209–212 remains preserved;
+- Letter 3388 main title + separate `(கலைஞர் கவிதைக் கடிதம்)` subtitle structure remains documented;
+- Letter 3425 printed-contents `திருந்தப் போகிறார்களா?` / actual-heading `திருந்தப்போகிறார்களா?` distinction remains documented;
+- Letter 3427 closes at PDF 401 / printed 400 with date 30-10-2009;
+- PDF 402 remains non-letter back-cover / portrait / publisher-contact-price material;
+- no Letter 3428 exists in Volume 42;
+- repository code search: **0** U+FFFD, U+200B, U+200C, U+200D or U+FEFF matches under Volume 42;
+- unexpected OCR/render/temp/export artifacts under Volume 42: **0**.
+
+### Structural corrections
+
+No canonical Tamil source body, letter boundary, title, date or page mapping was changed by this gate.
+
+The deterministic metadata completion was to populate the previously null controlling-source SHA-256.
+
+### Gate state
+
+- first-pass source coverage: **PASS — 402 / 402**;
+- full-volume structural audit: **PASS**;
+- second full-volume direct visual/textual-fidelity verification: **PENDING**;
+- English translation: **BLOCKED**.
+
+**Next gate:** second full-volume direct visual/textual-fidelity verification across PDF **001–402 / 402**.
