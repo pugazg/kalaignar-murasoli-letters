@@ -620,3 +620,56 @@ PDF **044** is the major semantic repair in the batch. PDF **034** is a word-for
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–049 / 402 verified**.
 
 **Next:** Letters **3369–3373 / PDF 050–073**, stop before **3374 / PDF 074**.
+
+
+## 25. Second full-volume direct visual/textual-fidelity verification — Batch 3 / Letters 3369–3373 / PDF 050–073
+
+**Date:** 2026-09-20  
+**Result:** **PASS — durable frontier PDF 001–073 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3369** — PDF 050–055 / printed 49–54
+- **3370** — PDF 056–061 / printed 55–60
+- **3371** — PDF 062–065 / printed 61–64
+- **3372** — PDF 066–069 / printed 65–68
+- **3373** — PDF 070–073 / printed 69–72
+
+Every physical page in PDF 050–073 was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Letter | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 053 | 3369 | `பேரவைத் தலைவர் தமது இசைவைக் தர மறுக்கலாம்` | `பேரவைத் தலைவர் தமது இசைவைத் தர மறுக்கலாம்` |
+| 058 | 3370 | `ஆகிய எழுபேர் தீக்குளித்து` | `ஆகிய எழு பேர் தீக்குளித்து` |
+| 060 | 3370 | `தமிழகத்திலே ஒரு கலவரத்தைக் காண்டி விட முடியாதா?` | `தமிழகத்திலே ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?` |
+| 061 | 3370 | `கொடுத்து விடக் கூடாதுஎன்பதற்காகத்தான்` | `கொடுத்து விடக் கூடாது என்பதற்காகத்தான்` |
+| 061 | 3370 | `அதைத்தான் நானும் அறிக்கையாகியிருக்கிறேன்.` | `அதைத்தான் நானும் அறிக்கையாக்கியிருக்கிறேன்.` |
+| 063 | 3371 | `டெல்லி மருத்துவ நிபுணரும் சென்னை மருத்துவ நண்பர்கள் குழுவும்` | `டெல்லி மருத்துவரும் சென்னை மருத்துவ நண்பர்கள் குழுவும்` |
+
+PDF **060** is the major semantic repair in the batch. PDF **061** restores both source spacing and the source verb form. PDF **063** removes an unsupported first-pass insertion.
+
+### Directly verified with no correction
+
+- PDF **050–052, 054–057, 059, 062, 064–073**.
+- Letters **3372** and **3373** required no correction.
+- All five starts, titles, salutations, closings, dates and physical end boundaries reconcile.
+- Printed contents rows changed: **0**.
+- Chapter ranges changed: **0**.
+
+### Batch reconciliation
+
+- directly verified pages: **24 / 24**;
+- canonical pages changed: **5**;
+- scan-proven corrections: **6**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–073 / 402 verified**.
+
+**Next:** **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stop before **3379 / PDF 106**.
