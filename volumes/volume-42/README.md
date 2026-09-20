@@ -26,9 +26,9 @@ Printed contents provide **64 source rows**. The numbering anomaly is verified a
 
 ## Tamil transcription status
 
-**IN PROGRESS — PDF 001–359 / 402 committed.**
+**IN PROGRESS — PDF 001–385 / 402 committed.**
 
-Completed actual source records now total **56 — 3364–3376, 3154, 3378–3419**. The latest batch **3415–3419** covers PDF **330–359**. PDF 360 is the scan-verified start of 3420.
+Completed actual source records now total **61 — 3364–3376, 3154, 3378–3424**. The latest batch **3420–3424** covers PDF **360–385**. PDF 386 is the scan-verified start of 3425.
 
 The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. Its interrupted Letter 3364 continuation at PDF **026–027** is also **COMPLETE / PASS**, with closing `அன்புள்ள, மு.க.` and date `31-1-2009`.
 
@@ -38,7 +38,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## Exact next activity
 
-Process **3420–3424**, beginning at the scan-verified **PDF 360 / printed 359** start of 3420. Stop after the verified end of 3424 and do not include any part of 3425.
+Process the **final three source records 3425–3427**, beginning at the scan-verified **PDF 386 / printed 385** start of 3425. Use the scans to establish the end of 3427 and classify the remaining source matter through PDF 402. Do not invent a 3428 record in Volume 42.
 
 ## PDF 001–017 shared front matter
 

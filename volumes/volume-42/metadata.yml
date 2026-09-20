@@ -22,16 +22,16 @@ source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 series_front_matter_status: "verified-pdf-001-017; pdf-001-003 local-volume fields; pdf-004-017 shared-reference"
-transcription_page_range: "1-359"
+transcription_page_range: "1-385"
 transcription_status: "in-progress"
-recorded_letter_range: "3364-3376,3154,3378-3419 complete"
-completed_letter_range: "3364-3376,3154,3378-3419"
-completed_letter_count: 56
+recorded_letter_range: "3364-3376,3154,3378-3424 complete"
+completed_letter_range: "3364-3376,3154,3378-3424"
+completed_letter_count: 61
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "first-pass batches complete through normal batch 3415-3419 / PDF 359; full-volume-audit-not-started"
+audit_status: "first-pass batches complete through normal batch 3420-3424 / PDF 385; full-volume-audit-not-started"
 audit_date: 2026-09-20
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -61,11 +61,12 @@ source_observations:
   - "Normal five-record batch 3405-3409 is complete across PDF 272-299. PDF 300 is the verified start of 3410. All five starts, titles, closings, dates and end boundaries were directly scan-verified before publication; four unpublished draft misreadings were scan-corrected before main publication."
   - "Normal five-record batch 3410-3414 is complete across PDF 300-329. PDF 330 is the verified start of 3415. All five starts, titles, closings, dates and end boundaries were directly scan-verified before publication; 16 unpublished draft misreadings/spacing errors were scan-corrected before main publication."
   - "Normal five-record batch 3415-3419 is complete across PDF 330-359. PDF 360 is the verified start of 3420. All five starts, titles, closings, dates and end boundaries were directly scan-verified before publication; a major PDF 338 paragraph mis-transcription and multiple additional unpublished draft readings/spacing errors were scan-corrected before main publication."
+  - "Normal five-record batch 3420-3424 is complete across PDF 360-385. PDF 386 is the verified start of 3425. All five starts, titles, closings, dates and end boundaries were directly scan-verified before publication; 15 unpublished draft readings/spacing errors were scan-corrected before main publication."
   - "A prior contents transcription typo for 3373 was corrected from அனைவர அகமும் to scan-confirmed அனைவர அகமும்; printed contents and actual title agree."
   - "The complete 402-page source is available; no source-incomplete status is inferred from the earlier 150-page preview limit."
 contents_transcription_status: "complete-pdf-018-022"
 contents_numbering_anomaly: "3154 is printed both in contents and actual PDF 092 heading between 3376 and 3378; no 3377 source record at this position"
-last_transcription_batch: "Letters 3415-3419 — PDF 330-359"
-next_transcription_page: 360
-next_letter_number: 3420
-next_normal_batch: "3420-3424"
+last_transcription_batch: "Letters 3420-3424 — PDF 360-385"
+next_transcription_page: 386
+next_letter_number: 3425
+next_normal_batch: "3425-3427-final"
