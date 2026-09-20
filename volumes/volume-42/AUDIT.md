@@ -310,3 +310,30 @@ Checks:
 - English remains blocked.
 
 **Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
+
+
+## 17. Normal five-record batch — 3405–3409 / PDF 272–299
+
+**PASS.**
+
+| Source record | Verified PDF range | Verified printed range | Closing date |
+|---:|---:|---:|---|
+| 3405 | 272–277 | 271–276 | 15-5-2009 |
+| 3406 | 278–283 | 277–282 | 2-6-2009 |
+| 3407 | 284–288 | 283–287 | 11-6-2009 |
+| 3408 | 289–294 | 288–293 | 22-6-2009 |
+| 3409 | 295–299 | 294–298 | 27-7-2009 |
+
+Checks:
+
+- canonical page files added: **28 / 28** for PDF 272–299;
+- five actual source records completed;
+- all five starts, actual titles, closing dates and end boundaries directly inspected against the rendered source scans;
+- source-supplied English passages on PDF **273**, **274**, **291** and **293** were retained as printed rather than translated or normalized;
+- pre-publication scan review corrected four draft misreadings: PDF 274 `தன் வீட்டு` → `தன்வீட்டு`; PDF 275 `தற்போது தேர்தல்` → `தற்போதைய தேர்தல்`; PDF 278 `வெங்கடரமணன்` → `வெங்கட்ரமணன்`; PDF 284 `சீர்மிகுத் திட்டம்` → `சீர் மிகுத் திட்டம்`;
+- those four corrections were made only to the unpublished work-branch candidate; **0 previously committed canonical pages changed**;
+- PDF **300 / printed 299** directly inspected and confirmed as the start of **3410 — `ஆனந்த விகடன் அன்றும் இன்றும்!`**;
+- no PDF 300 text is committed in this batch;
+- English remains blocked.
+
+**Batch result: PASS.** This remains first-pass transcription verification; full-volume structural and second visual/textual-fidelity gates remain pending.
