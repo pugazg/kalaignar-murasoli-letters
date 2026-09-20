@@ -502,3 +502,67 @@ The deterministic metadata completion was to populate the previously null contro
 - English translation: **BLOCKED**.
 
 **Next gate:** second full-volume direct visual/textual-fidelity verification across PDF **001–402 / 402**.
+
+
+## 23. Second full-volume direct visual/textual-fidelity verification — Batch 1 / PDF 001–023
+
+**Date:** 2026-09-20  
+**Result:** **PASS — durable frontier PDF 001–023 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- PDF **001–003** — Volume 42-local front-cover/title/publication matter;
+- PDF **004–017** — recurring series front-matter zone;
+- PDF **018–022** — printed contents;
+- PDF **023** — blank page following contents.
+
+Every physical page in the declared range was directly inspected from the controlling scan. Existing canonical/shared-reference text was treated only as a comparison aid.
+
+### Scan-proven corrections
+
+**PDF 003 — publication details**
+
+The first-pass record selectively summarized the publication page and omitted visible printed material. It is now replaced by a complete local transcription, including:
+
+- full `நூல் கிடைக்குமிடம் :` / `AVAILABLE @ :` blocks;
+- complete Tamil/English Gowra contact lines;
+- `கலைஞரின் செயலாளர்கள்`;
+- blank `© உரிமை :`, `© RIGHTS :` and `ISBN :` fields;
+- exact `முதற் பதிப்பு - 2022`;
+- complete Tamil/English publisher, typesetting and printer details.
+
+Handwritten/library accession marks remain excluded from printed source text.
+
+**PDF 004 — dedication**
+
+The first-pass Volume 43 shared reference is scan-proven invalid for Volume 42.
+
+- shared reference: `அண்ணாவுக்கு...`;
+- Volume 42 scan: **`அம்மாவுக்கு...`**.
+
+PDF 004 is now a local-difference transcription. The printed `கெளரா பதிப்பகக் குழுமம்` line and portrait-page content are retained; the library stamp remains non-source annotation.
+
+### Directly verified with no correction
+
+- PDF **001–002** — local cover/title fields;
+- PDF **005** — blank/show-through page;
+- PDF **006–014** — M. K. Stalin foreword; shared reference confirmed;
+- PDF **015–017** — publisher note; shared reference confirmed;
+- PDF **018–022** — **64 / 64 printed contents rows**; no contents correction required;
+- PDF **023** — blank/show-through classification.
+
+### Batch reconciliation
+
+- canonical page records changed: **2 — PDF 003, PDF 004**;
+- letter-bearing pages changed: **0**;
+- contents rows changed: **0**;
+- letter boundaries/titles/dates changed: **0**;
+- structural page/record counts changed: **0**;
+- shared-reference frontier is now **PDF 005–017**; PDF 004 is local;
+- English translation remains blocked.
+
+**Batch result: PASS.** The second-pass gate remains **IN PROGRESS — PDF 001–023 / 402 verified**.
+
+**Next:** Letters **3364–3368 / PDF 024–049**, stop before Letter **3369 / PDF 050**.
