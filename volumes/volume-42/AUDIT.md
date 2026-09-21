@@ -1420,3 +1420,40 @@ Durable source-check report: `translations/en/SOURCE_CHECK_3402_3411.md`.
 Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
 
 **Next:** translate/source-check **3412–3421 / PDF 311–373**; stop before **3422 / PDF 374**.
+
+## 43. English 10-record Batch 6 — 3412–3421 / PDF 311–373
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 translated and source-checked**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3412_3421.md`.
+
+### Scope
+
+- **3412** — PDF 311–317
+- **3413** — PDF 318–324
+- **3414** — PDF 325–329
+- **3415** — PDF 330–334
+- **3416** — PDF 335–337
+- **3417** — PDF 338–343
+- **3418** — PDF 344–351
+- **3419** — PDF 352–359
+- **3420** — PDF 360–364
+- **3421** — PDF 365–373
+
+### Result
+
+- actual source records translated/source-checked: **10 / 10**;
+- cumulative translated/source-checked: **58 / 64**;
+- complete audited Tamil appendices present: **10 / 10**;
+- **3413** insurance figures and source-supplied English retained;
+- **3418** judicial/newspaper material kept source-framed without current legal inference;
+- **3419** PDF 357 source form `புறங்காந்திமடைந்து` preserved;
+- **3420** two source-supplied English extracts preserved verbatim;
+- **3421** 1968 World Tamil Conference radio address retained in full thought order;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
+
+**Next:** only **6** actual source records remain, so the final main-translation batch is a source-boundary exception to the 10-record cadence: translate/source-check **3422–3427 / PDF 374–401**. PDF 402 is non-letter material; do not create 3428.

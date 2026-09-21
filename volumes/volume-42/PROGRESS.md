@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **MAIN TRANSLATION IN PROGRESS — 48 / 64 source-checked through actual source record 3411**
+- English translation: **MAIN TRANSLATION IN PROGRESS — 58 / 64 source-checked through actual source record 3421**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -309,6 +309,22 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - English cadence remains **10 actual source records per iteration**.
 - Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
 
+## English 10-record Batch 6 — 3412–3421 / PDF 311–373 — PASS
+
+- Actual source records translated/source-checked: **10 / 10**.
+- Cumulative English records: **58 / 64**.
+- Cumulative source identity: **3364–3376, 3154, 3378–3421**.
+- Complete audited Tamil appendix included in every English record.
+- **3413** insurance figures and source English retained.
+- **3418** legal/judicial source material kept historically framed.
+- **3419** PDF 357 source form `புறங்காந்திமடைந்து` preserved.
+- **3420** source-supplied English retained verbatim.
+- **3421** World Classical Tamil Conference / 1968 radio-address material retained in full thought order.
+- Tamil changes during English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Batch source-check report: `translations/en/SOURCE_CHECK_3412_3421.md` — **PASS**.
+- Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3412–3421 / PDF 311–373**. Stop after **3421 / PDF 373**; do not begin 3422 / PDF 374 in the same iteration.
+Only **6 actual source records remain**. Process final source-boundary batch **3422–3427 / PDF 374–401** and stop at PDF 401. PDF 402 is non-letter material; do not create 3428.

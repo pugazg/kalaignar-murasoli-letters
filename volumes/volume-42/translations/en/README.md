@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION IN PROGRESS — 48 / 64 source-checked; latest 10-record batch PASS through 3411 / PDF 310.**
+**Status:** **MAIN TRANSLATION IN PROGRESS — 58 / 64 source-checked; latest 10-record batch PASS through 3421 / PDF 373.**
 
 Tamil prerequisites are complete:
 
@@ -87,6 +87,21 @@ Actual source records: **3402–3411** — PDF **260–310**.
 - 3411 by-election/EVM material retained as historical source framing
 - durable report: [`SOURCE_CHECK_3402_3411.md`](SOURCE_CHECK_3402_3411.md)
 
+## 10-record Batch 6 completed
+
+Actual source records: **3412–3421** — PDF **311–373**.
+
+- source-checked: **10 / 10**
+- cumulative: **58 / 64**
+- Tamil changes: **0**
+- unresolved source-check items: **0**
+- 3413 insurance figures and source-supplied English retained
+- 3418 court/newspaper material retained as historical source framing
+- 3419 PDF 357 source form `புறங்காந்திமடைந்து` preserved
+- 3420 source-supplied English meeting-record extracts preserved verbatim
+- 3421 reproduced 1968 World Tamil Conference radio address retained in full thought order
+- durable report: [`SOURCE_CHECK_3412_3421.md`](SOURCE_CHECK_3412_3421.md)
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3412–3421 / PDF 311–373**. Stop after **3421**.
+Only **6 actual source records remain**. Translate and source-check **3422–3427 / PDF 374–401** as the final main-translation batch. Stop after **3427**; PDF 402 is non-letter material.

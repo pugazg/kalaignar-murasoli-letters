@@ -1,6 +1,6 @@
 # Volume 42 English Translation Plan — MAIN TRANSLATION IN PROGRESS
 
-The three-letter pilot is complete and source-checked, Volume 42 translation conventions are locked, and **48 / 64 actual source records** are now translated/source-checked.
+The three-letter pilot is complete and source-checked, Volume 42 translation conventions are locked, and **58 / 64 actual source records** are now translated/source-checked.
 
 ## Gate status
 
@@ -11,7 +11,7 @@ The three-letter pilot is complete and source-checked, Volume 42 translation con
 - [x] Mandatory second visual/textual-fidelity verification — **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
-- [ ] Main translation batches — **IN PROGRESS; 48 / 64 source-checked**
+- [ ] Main translation batches — **IN PROGRESS; 58 / 64 source-checked**
 - [ ] Full-volume bilingual alignment
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
@@ -24,8 +24,9 @@ The three-letter pilot is complete and source-checked, Volume 42 translation con
 - 10-record Batch 3 **3382–3391 / PDF 131–208** — **PASS / 10 of 10**
 - 10-record Batch 4 **3392–3401 / PDF 209–259** — **PASS / 10 of 10**
 - 10-record Batch 5 **3402–3411 / PDF 260–310** — **PASS / 10 of 10**
+- 10-record Batch 6 **3412–3421 / PDF 311–373** — **PASS / 10 of 10**
 
-Cumulative translated/source-checked: **48 / 64 — 3364–3376, 3154, 3378–3411**.
+Cumulative translated/source-checked: **58 / 64 — 3364–3376, 3154, 3378–3421**.
 
 Tamil changes during English source-check: **0**.
 
@@ -37,6 +38,7 @@ Durable source-check reports:
 - `translations/en/SOURCE_CHECK_3382_3391.md`
 - `translations/en/SOURCE_CHECK_3392_3401.md`
 - `translations/en/SOURCE_CHECK_3402_3411.md`
+- `translations/en/SOURCE_CHECK_3412_3421.md`
 
 ## English batching rule
 
@@ -75,26 +77,29 @@ Durable terminology: `translations/en/GLOSSARY.md`.
 - **3395** quotes *You Can Win* through a Tamil rendering printed in Volume 42. Translation must stay grounded in that Tamil source, not an external English edition.
 - **3399** contains long technical/environmental and fishermen-welfare lists; retain all claims and figures as source assertions.
 
-## Batch 5 special source handling
+## Batch 6 special source handling
 
-- **3405** contains source-supplied *Telegraph* English plus a separately printed Tamil rendering; retain the English verbatim and preserve the complete Tamil layer.
-- **3406** contains source-supplied pay-scale English and long numerical policy lists; preserve all terms, counts and amounts.
-- **3408** contains two source-supplied English Katchatheevu passages; preserve them verbatim and do not infer any present-day sovereignty/legal conclusion.
-- **3411** contains historical by-election advocacy and EVM/Election Commission claims; retain them only as source-reported material.
+- **3412** preserves the Valluvar memorial chronology and the long 1976 self-quotation.
+- **3413** retains all insurance figures and printed English company/technical terms.
+- **3414** keeps the birthday advertisement unnamed and preserves literary material as printed.
+- **3417–3418** preserve political/legal argument strictly as historical source framing.
+- **3419** preserves the PDF 357 source form `புறங்காந்திமடைந்து`.
+- **3420** preserves both source-supplied English meeting-record extracts verbatim.
+- **3421** retains the reproduced 1968 radio address in full thought order and uses **Classical Language** for formal `செம்மொழி`.
 
-## Current exact task — 10-record Batch 6
+## Current exact task — FINAL 6-record source batch
+
+Only six actual source records remain, so this is a source-boundary exception to the normal 10-record cadence.
 
 Translate and source-check:
 
-- **3412** — PDF **311–317** / printed **310–316** — `வாழ்விலோர் திருநாள்; வாழ்க வள்ளுவம்!`
-- **3413** — PDF **318–324** / printed **317–323** — `காப்பீட்டுத் திட்டத்தினால் யாருக்கு ஆதாயம்?`
-- **3414** — PDF **325–329** / printed **324–328** — `“தடுக்கும் சொல் பாராய் தம்பீ!”`
-- **3415** — PDF **330–334** / printed **329–333** — `இரு நாள் நமக்குத் திருநாள்!`
-- **3416** — PDF **335–337** / printed **334–336** — `அருந்தவத்தில் ஆழ்கின்றேன்!`
-- **3417** — PDF **338–343** / printed **337–342** — `சொன்னது; யாராம்? என்ன பேராம்?`
-- **3418** — PDF **344–351** / printed **343–350** — `காலம்தான் பதில் சொல்ல வேண்டும்!`
-- **3419** — PDF **352–359** / printed **351–358** — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!`
-- **3420** — PDF **360–364** / printed **359–363** — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`
-- **3421** — PDF **365–373** / printed **364–372** — `உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது!`
+- **3422** — PDF **374–377** / printed **373–376** — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
+- **3423** — PDF **378–379** / printed **377–378** — `இன்ப நாளிதே எனப்பாடுவோம்!`
+- **3424** — PDF **380–385** / printed **379–384** — `அடித்தட்டல்ல; அடித்தளமானவர்கள்!`
+- **3425** — PDF **386–388** / printed **385–387** — actual title `வருந்தப் போகிறார்களா - இனியேனும் திருந்தப்போகிறார்களா?`
+- **3426** — PDF **389–395** / printed **388–394** — `“நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்!`
+- **3427** — PDF **396–401** / printed **395–400** — `மேலும் பயன்படுகின்ற சந்திப்பு!`
 
-Stop after **3421 / PDF 373**. Do not begin **3422 / PDF 374** in the same iteration.
+For **3425**, preserve the source-layer distinction: contents prints `திருந்தப் போகிறார்களா?`; actual PDF 386 prints `திருந்தப்போகிறார்களா?`.
+
+Stop after **3427 / PDF 401**. PDF **402** is non-letter back-cover material; do not create Letter 3428.
