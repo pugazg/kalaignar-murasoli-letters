@@ -31,10 +31,10 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-218"
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-241"
 audit_date: 2026-09-21
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-218"
+second_visual_verified_page_range: "1-241"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "blocked-pending-tamil-gates"
@@ -55,6 +55,7 @@ source_observations:
   - "Second visual/textual-fidelity Batch 5 directly verified source records 3379-3383 across PDF 106-149; 28 scan-proven corrections were applied across 19 canonical pages (109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147), with no title/date/boundary/contents-row change. English remains blocked."
   - "Second visual/textual-fidelity Batch 6 directly verified source records 3384-3388 across PDF 150-190; 17 scan-proven textual corrections plus 1 physical page-boundary restoration were applied across 10 canonical pages (151, 154, 157, 158, 162, 167, 179, 184, 187, 188). Letter 3388 retains the source main-title/subtitle split at PDF 187. No letter-title/date/chapter-boundary/contents-row change occurred. English remains blocked."
   - "Second visual/textual-fidelity Batch 7 directly verified source records 3389-3393 across PDF 191-218; 6 scan-proven textual corrections plus 7 paragraph-structure restorations were applied across 7 canonical pages (195, 196, 209, 215, 216, 217, 218). Letter 3392's genuine duplicated physical body across PDF 209-212 remains preserved. No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
+  - "Second visual/textual-fidelity Batch 8 directly verified source records 3394-3398 across PDF 219-241; 5 scan-proven textual corrections were applied across 5 canonical pages (222, 223, 227, 231, 235). The scan-printed source typo தீரவேண்டு”மென்று on PDF 231 is preserved exactly. No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
