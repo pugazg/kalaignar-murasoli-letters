@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — SECOND VISUAL FIDELITY IN PROGRESS / PDF 001–073 VERIFIED — 2026-09-20
+## Volume 42 — SECOND VISUAL FIDELITY IN PROGRESS / PDF 001–105 VERIFIED — 2026-09-21
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -206,10 +206,11 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
 - Canonical Tamil transcription: **PDF 001–402 / 402 first-pass complete through source record 3427**.
 - Full-volume Tamil structural audit: **PASS** — exactly 402 numbered page files, 64 contents rows, 64 chapter records, PDF 024–401 letter coverage with 0 gaps / 0 overlaps.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–073 / 402 VERIFIED**.
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–105 / 402 VERIFIED**.
 - Fidelity Batch 1 scan-proven changes: **PDF 003** expanded to full publication details; **PDF 004** corrected from shared `அண்ணாவுக்கு...` to local Volume 42 `அம்மாவுக்கு...`; no contents-row changes.
 - Fidelity Batch 2 scan-proven changes: **PDF 026, 029, 034, 036, 037, 044 and 046** corrected after direct scan comparison. Major semantic repair: PDF 044 `உத்தரவாதம் அளிக்கக்கூடிய`; no title/date/boundary/contents changes.
 - Fidelity Batch 3 scan-proven changes: **PDF 053, 058, 060, 061 and 063** corrected after direct scan comparison. Major repairs: PDF 060 `ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`, PDF 061 `அறிக்கையாக்கியிருக்கிறேன்`, PDF 063 `டெல்லி மருத்துவரும்`; no title/date/boundary/contents changes.
+- Fidelity Batch 4 directly verified **3374, 3375, 3376, 3154 and 3378 / PDF 074–105** and applied **21 scan-proven corrections across 12 canonical pages — 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102 and 103**. Source number **3154** remains intact; no title/date/boundary/contents-row change was required.
 - Shared front matter after second-pass Batch 1: **PDF 001–003 local; PDF 004 local difference (`அம்மாவுக்கு...`); PDF 005–017 direct-verified shared references**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
 - Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
@@ -219,7 +220,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 
 ### Exact next activity
 
-Continue the second full-volume direct visual/textual-fidelity verification with **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stopping before **Letter 3379 / PDF 106**. Preserve the source-number anomaly **3154** exactly, record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, and do not begin English translation.
+Continue the second full-volume direct visual/textual-fidelity verification with **3379–3383 / PDF 106–149**, stopping before **Letter 3384 / PDF 150**. Preserve all source wording and physical page boundaries, record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, and do not begin English translation.
 
 ## Series front matter optimization — 2026-09-19
 

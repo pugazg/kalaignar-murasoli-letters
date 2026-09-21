@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
-**Audit date:** 2026-09-20  
-**Status:** **IN PROGRESS — PDF 001–073 / 402 VERIFIED**  
+**Audit date:** 2026-09-21  
+**Status:** **IN PROGRESS — PDF 001–105 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–073 / 402 — VERIFIED.**
+**PDF 001–105 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–073 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–105 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -193,8 +193,69 @@ Every physical source page from PDF **050** through **073** was directly rendere
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–073 / 402 VERIFIED**.
 
+## Batch 4 — Source records 3374, 3375, 3376, 3154, 3378 / PDF 074–105 — PASS
+
+Every physical source page from PDF **074** through **105** was directly rendered and compared against the canonical page record. The batch covers exactly five complete actual source records:
+
+- **3374** — PDF 074–078 / printed 73–77 — `பட்டியல் தரவா; பாடம் பெறவே!`
+- **3375** — PDF 079–084 / printed 78–83 — `அமைக்கிறது மீண்டும் வெற்றிக் கூட்டணி!`
+- **3376** — PDF 085–091 / printed 84–90 — `கேள்வி கேட்கக் கூடாதாம்!`
+- **3154** — PDF 092–098 / printed 91–97 — `தயக்கமின்றி வரவேற்கிறோம்!`
+- **3378** — PDF 099–105 / printed 98–104 — `அந்தக் குறளை மறக்க முடியுமா?`
+
+The printed/source number **3154** at PDF 092 remains authoritative between 3376 and 3378. No 3377 record was created or inferred.
+
+### Scan-proven corrections
+
+1. **PDF 074 / 3374** — `ஒருவர்மூலமாக` → **`ஒருவர் மூலமாக`**
+2. **PDF 074 / 3374** — `உச்ச நீதிமன்றத்திலே` → **`உச்ச நீதி மன்றத்திலே`**
+3. **PDF 074 / 3374** — `வழக்கிலே தான்` → **`வழக்கிலேதான்`**
+4. **PDF 075 / 3374** — `உச்ச நீதி மன்றம் தான்` → **`உச்ச நீதி மன்றம்தான்`**
+5. **PDF 075 / 3374** — `கொள்ள வேண்டும்` → **`கொள்ளவேண்டும்`**
+6. **PDF 075 / 3374** — `சாவியை கொடுப்பதற்கு` → **`சாவியைக் கொடுப்பதற்கு`**
+7. **PDF 076 / 3374** — `சம்பவம் தான்` → **`சம்பவம்தான்`**
+8. **PDF 077 / 3374** — `கட்சியை காட்டியாக` → **`கட்சியை காட்சியாக`**
+9. **PDF 079 / 3375** — `தி.மு.கழக அரசுக்கு` → **`தி.மு. கழக அரசுக்கு`**
+10. **PDF 080 / 3375** — `தொய்வும் ஏற்பட்ட வில்லை` → **`தொய்வும் ஏற்படவில்லை`**
+11. **PDF 081 / 3375** — `கருத்திக் கொண்டு` → **`கருதிக் கொண்டு`**
+12. **PDF 083 / 3375** — `வாசகங்களை யெல்லாம்` → **`வாசகங்களையெல்லாம்`**
+13. **PDF 087 / 3376** — `முக்கியத்துவம் உண்டாவது` → **`முக்கியத்துவம் உண்டாவதும்`**
+14. **PDF 090 / 3376** — `அனுப்ப வேண்டுமென்று` → **`அனுப்பவேண்டுமென்று`**
+15. **PDF 090 / 3376** — `ஐ.ஜி. யாக` → **`ஐ.ஜி.யாக`**
+16. **PDF 090 / 3376** — `சந்தேகம் வராம வராதா?` → **`சந்தேகம் வருமா வராதா?`**
+17. **PDF 102 / 3378** — `ஏனருமை கம்யூனிஸ்ட்` → **`எனதருமை கம்யூனிஸ்ட்`**
+18. **PDF 103 / 3378** — `நிகழ்ச்சிகளை யெல்லாம்` → **`நிகழ்ச்சிகளையெல்லாம்`**
+19. **PDF 103 / 3378** — `தெரிவித்ததுள்ளார்` → **`தெரிவித்துள்ளார்`**
+20. **PDF 103 / 3378** — first `அனைத்துநாளிதழ்களும்` → **`அனைத்து நாளிதழ்களும்`**
+21. **PDF 103 / 3378** — second `அனைத்துநாளிதழ்களும்` → **`அனைத்து நாளிதழ்களும்`**
+
+### Directly checked with no canonical correction
+
+- PDF **078, 082, 084–086, 088–089, 091–101 and 104–105**.
+- Source record **3154** required no canonical correction.
+- All five starts, titles, salutations, closings, dates and physical end boundaries reconcile with the scan.
+- No chapter boundary, printed contents row, source record number or date changed.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 4: **12 — PDF 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103**.
+- Scan-proven corrections applied: **21**.
+- Letter-bearing pages directly verified in this batch: **32 / 32**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–105 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stopping before **Letter 3379 / PDF 106**.
+Continue the second direct visual/textual-fidelity verification with **3379–3383 / PDF 106–149**, covering exactly five complete records:
 
-Keep the scan authoritative, preserve the verified source-number anomaly **3154** between 3376 and 3378, record every scan-proven correction in this report, and do not begin English translation.
+- **3379** — PDF **106–112** / printed **105–111** — `நலிவும் நானும் - நாட்குறிப்பு`
+- **3380** — PDF **113–120** / printed **112–119** — `நலிவும் நானும் - நாட்குறிப்பு (2)`
+- **3381** — PDF **121–130** / printed **120–129** — `நலிவும் நானும் - நாட்குறிப்பு (3)`
+- **3382** — PDF **131–140** / printed **130–139** — `நலிவும் நானும் - நாட்குறிப்பு (4)`
+- **3383** — PDF **141–149** / printed **140–148** — `நலிவும் நானும் - நாட்குறிப்பு (5)`
+
+Stop before **3384 / PDF 150 / printed 149**. Keep the scan authoritative and do not begin English translation.

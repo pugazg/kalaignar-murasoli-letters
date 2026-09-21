@@ -673,3 +673,64 @@ PDF **060** is the major semantic repair in the batch. PDF **061** restores both
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–073 / 402 verified**.
 
 **Next:** **3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stop before **3379 / PDF 106**.
+
+## 26. Second full-volume direct visual/textual-fidelity verification — Batch 4 / 3374, 3375, 3376, 3154, 3378 / PDF 074–105
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–105 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3374** — PDF 074–078 / printed 73–77
+- **3375** — PDF 079–084 / printed 78–83
+- **3376** — PDF 085–091 / printed 84–90
+- **3154** — PDF 092–098 / printed 91–97
+- **3378** — PDF 099–105 / printed 98–104
+
+Every physical page in PDF **074–105** was directly inspected against the controlling scan. The source-number anomaly **3154** remains exactly as printed; no 3377 was inferred.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 074 | 3374 | `ஒருவர்மூலமாக` | `ஒருவர் மூலமாக` |
+| 074 | 3374 | `உச்ச நீதிமன்றத்திலே` | `உச்ச நீதி மன்றத்திலே` |
+| 074 | 3374 | `வழக்கிலே தான்` | `வழக்கிலேதான்` |
+| 075 | 3374 | `உச்ச நீதி மன்றம் தான்` | `உச்ச நீதி மன்றம்தான்` |
+| 075 | 3374 | `கொள்ள வேண்டும்` | `கொள்ளவேண்டும்` |
+| 075 | 3374 | `சாவியை கொடுப்பதற்கு` | `சாவியைக் கொடுப்பதற்கு` |
+| 076 | 3374 | `சம்பவம் தான்` | `சம்பவம்தான்` |
+| 077 | 3374 | `கட்சியை காட்டியாக` | `கட்சியை காட்சியாக` |
+| 079 | 3375 | `தி.மு.கழக அரசுக்கு` | `தி.மு. கழக அரசுக்கு` |
+| 080 | 3375 | `தொய்வும் ஏற்பட்ட வில்லை` | `தொய்வும் ஏற்படவில்லை` |
+| 081 | 3375 | `கருத்திக் கொண்டு` | `கருதிக் கொண்டு` |
+| 083 | 3375 | `வாசகங்களை யெல்லாம்` | `வாசகங்களையெல்லாம்` |
+| 087 | 3376 | `முக்கியத்துவம் உண்டாவது` | `முக்கியத்துவம் உண்டாவதும்` |
+| 090 | 3376 | `அனுப்ப வேண்டுமென்று` | `அனுப்பவேண்டுமென்று` |
+| 090 | 3376 | `ஐ.ஜி. யாக` | `ஐ.ஜி.யாக` |
+| 090 | 3376 | `சந்தேகம் வராம வராதா?` | `சந்தேகம் வருமா வராதா?` |
+| 102 | 3378 | `ஏனருமை கம்யூனிஸ்ட்` | `எனதருமை கம்யூனிஸ்ட்` |
+| 103 | 3378 | `நிகழ்ச்சிகளை யெல்லாம்` | `நிகழ்ச்சிகளையெல்லாம்` |
+| 103 | 3378 | `தெரிவித்ததுள்ளார்` | `தெரிவித்துள்ளார்` |
+| 103 | 3378 | `அனைத்துநாளிதழ்களும்` | `அனைத்து நாளிதழ்களும்` |
+| 103 | 3378 | second `அனைத்துநாளிதழ்களும்` | second `அனைத்து நாளிதழ்களும்` |
+
+### Directly verified with no correction
+
+PDF **078, 082, 084–086, 088–089, 091–101 and 104–105**. Source record **3154** required no canonical correction.
+
+### Batch reconciliation
+
+- directly verified pages: **32 / 32**;
+- canonical pages changed: **12**;
+- scan-proven corrections: **21**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–105 / 402 verified**.
+
+**Next:** **3379–3383 / PDF 106–149**, stop before **3384 / PDF 150**.
