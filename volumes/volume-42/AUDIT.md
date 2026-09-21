@@ -946,3 +946,48 @@ PDF **219–221, 224–226, 228–230, 232–234 and 236–241**.
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–241 / 402 verified**.
 
 **Next:** **3399–3403 / PDF 242–267**, stop before **3404 / PDF 268**.
+
+## 31. Second full-volume direct visual/textual-fidelity verification — Batch 9 / 3399–3403 / PDF 242–267
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–267 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3399** — PDF 242–251 / printed 241–250
+- **3400** — PDF 252–257 / printed 251–256
+- **3401** — PDF 258–259 / printed 257–258
+- **3402** — PDF 260–264 / printed 259–263
+- **3403** — PDF 265–267 / printed 264–266
+
+Every physical page in PDF **242–267** was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 255 | 3400 | `அணுஅணுவாக அவதியுற்று` | `அணு அணுவாக அவதியுற்று` |
+| 256 | 3400 | `கண்டு கேட்டு வேதனைத் தீயிலே` | `கண்டும் கேட்டும் வேதனைத் தீயிலே` |
+| 266 | 3403 | `பசு மரத்தாணி போல கழகம்` | `பசு மரத்தாணி போல் கழகம்` |
+| 266 | 3403 | `அன்றைய தீவுத்திடல் காட்சி அமைந்தது` | `அன்றைய தீவுத் திடல் காட்சி அமைந்தது` |
+| 267 | 3403 | `உலகமெங்கும் வாழ்கிற தமிழர்களுக்காக` | `உலகமெங்கும் வாழ்கின்ற தமிழர்களுக்காக` |
+
+### Directly verified with no correction
+
+PDF **242–254 and 257–265**.
+
+### Batch reconciliation
+
+- directly verified pages: **26 / 26**;
+- canonical pages changed: **4**;
+- scan-proven textual corrections: **5**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–267 / 402 verified**.
+
+**Next:** **3404–3408 / PDF 268–294**, stop before **3409 / PDF 295**.
