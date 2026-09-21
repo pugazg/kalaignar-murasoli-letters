@@ -224,15 +224,17 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Shared front matter after second-pass Batch 1: **PDF 001–003 local; PDF 004 local difference (`அம்மாவுக்கு...`); PDF 005–017 direct-verified shared references**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
 - Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
-- English translation: **MAIN TRANSLATION IN PROGRESS — 3364–3371 translated/source-checked; 8 / 64 complete**.
+- English translation: **MAIN TRANSLATION IN PROGRESS — 18 / 64 actual source records translated/source-checked through 3381**.
 - Letter **3425** contents/actual-title distinction: contents `திருந்தப் போகிறார்களா?`; actual PDF 386 `திருந்தப்போகிறார்களா?`.
 - Letter **3427** closes at PDF **401 / printed 400**; PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428** is created in Volume 42.
 - English pilot **3364–3366 / PDF 024–032**: **PASS — 3 / 3 source-checked**, complete audited Tamil appendices included, **0 Tamil changes**, pilot review PASS, conventions locked in the Volume 42 glossary.
 - English normal Batch 1 **3367–3371 / PDF 033–065**: **PASS — 5 / 5 source-checked**, cumulative **8 / 64**, complete audited Tamil appendices included, source-supplied English in 3368 preserved verbatim, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3367_3371.md`.
+- English 10-record Batch 2 **3372–3376, 3154, 3378–3381 / PDF 066–130**: **PASS — 10 / 10 source-checked**, cumulative **18 / 64**, source-number anomaly **3154** retained / no 3377, complete Tamil appendices included, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3372_3381.md`.
+- User-set English cadence from this point: **10 actual source records per iteration**.
 
 ### Exact next activity
 
-Translate and source-check **3372–3376 / PDF 066–091**. Apply the locked Volume 42 English conventions, include complete audited Tamil appendices, and stop after **3376 / PDF 091**. Do not begin verified source-numbering anomaly record **3154 / PDF 092** in the same activity.
+Translate and source-check the next **10 actual source records — 3382–3391 / PDF 131–208**. This includes the final three `நலிவும் நானும் - நாட்குறிப்பு` records 3382–3384. Apply the locked Volume 42 conventions and stop after **3391 / PDF 208**; do not begin 3392 / PDF 209 in the same iteration.
 
 ## Series front matter optimization — 2026-09-19
 

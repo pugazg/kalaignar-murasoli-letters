@@ -1272,3 +1272,41 @@ Letter 3368 retains its printed English communication to Acting Chief Justice S.
 Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
 
 **Next:** translate/source-check **3372–3376 / PDF 066–091**; stop before **3154 / PDF 092**.
+
+## 39. English 10-record Batch 2 — 3372–3376, 3154, 3378–3381 / PDF 066–130
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 translated and source-checked**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3372_3381.md`.
+
+### Scope
+
+- **3372** — PDF 066–069
+- **3373** — PDF 070–073
+- **3374** — PDF 074–078
+- **3375** — PDF 079–084
+- **3376** — PDF 085–091
+- **3154** — PDF 092–098 — genuine printed source number; no 3377
+- **3378** — PDF 099–105
+- **3379** — PDF 106–112
+- **3380** — PDF 113–120
+- **3381** — PDF 121–130
+
+### Result
+
+- actual source records translated/source-checked: **10 / 10**;
+- cumulative translated/source-checked: **18 / 64**;
+- complete audited Tamil appendices present: **10 / 10**;
+- source numbering anomaly preserved: **3154 retained / 3377 not invented**;
+- source-supplied English medical/news text retained where printed;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+Diary record 3379 preserves the source ordering **26-1-2009 before 25-1-2009**. Records 3379–3381 preserve source medical terminology and the serial diary structure. Letter 3381 retains the printed *Times of India* headline verbatim.
+
+Per user instruction, English translation now proceeds in **10 actual source records per iteration** unless a source boundary/anomaly or explicit later instruction requires otherwise.
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
+
+**Next:** translate/source-check **3382–3391 / PDF 131–208**; stop before **3392 / PDF 209**.

@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **MAIN TRANSLATION IN PROGRESS — 3364–3371 source-checked / 8 of 64**
+- English translation: **MAIN TRANSLATION IN PROGRESS — 18 / 64 source-checked through actual source record 3381**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -248,6 +248,21 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Batch report: `translations/en/SOURCE_CHECK_3367_3371.md` — **PASS**.
 - Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
 
+## English 10-record Batch 2 — 3372–3376, 3154, 3378–3381 / PDF 066–130 — PASS
+
+- Actual source records translated/source-checked: **10 / 10**.
+- Cumulative English records: **18 / 64**.
+- Cumulative source identity: **3364–3376, 3154, 3378–3381**.
+- Genuine source-numbering anomaly **3154** is preserved; **3377 is not invented**.
+- Complete audited Tamil appendix included in every English record.
+- Source-supplied English medical/legal/news text retained where printed.
+- Diary chronology/source anomalies are documented rather than silently corrected.
+- Tamil changes during English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Batch source-check report: `translations/en/SOURCE_CHECK_3372_3381.md` — **PASS**.
+- English cadence going forward: **10 actual source records per iteration**.
+- Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
+
 ## Exact next activity
 
-Translate and source-check **3372–3376 / PDF 066–091**. Stop after **3376 / PDF 091** and do not begin source record **3154 / PDF 092** in the same activity.
+Translate and source-check the next **10 actual source records — 3382–3391 / PDF 131–208**. Stop after **3391 / PDF 208**; do not begin 3392 / PDF 209 in the same iteration.

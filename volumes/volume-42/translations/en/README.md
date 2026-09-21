@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION IN PROGRESS — 3364–3371 source-checked / 8 of 64.**
+**Status:** **MAIN TRANSLATION IN PROGRESS — 18 / 64 source-checked; latest 10-record batch PASS through 3381 / PDF 130.**
 
 Tamil prerequisites are complete:
 
@@ -32,8 +32,21 @@ Glossary: [`GLOSSARY.md`](GLOSSARY.md)
 
 Batch source check: [`SOURCE_CHECK_3367_3371.md`](SOURCE_CHECK_3367_3371.md) — **PASS; Tamil changes 0**.
 
+## 10-record Batch 2 completed
+
+Actual source records: **3372, 3373, 3374, 3375, 3376, 3154, 3378, 3379, 3380, 3381** — PDF **066–130**.
+
+- source-checked: **10 / 10**
+- cumulative: **18 / 64**
+- Tamil changes: **0**
+- unresolved source-check items: **0**
+- source number **3154** preserved; **3377 is not invented**
+- durable report: [`SOURCE_CHECK_3372_3381.md`](SOURCE_CHECK_3372_3381.md)
+
+**English batching cadence:** from this batch forward, process **10 actual source records per iteration** unless a source boundary/anomaly or explicit user instruction requires a different scope.
+
 Full-volume bilingual meaning-level alignment remains a later gate.
 
 ## Exact next activity
 
-Translate and source-check **3372–3376 / PDF 066–091** using the locked Volume 42 conventions. Stop before source record **3154 / PDF 092**.
+Translate and source-check the next **10 actual source records — 3382–3391 / PDF 131–208**. Stop after Letter **3391**.

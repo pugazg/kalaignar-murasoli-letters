@@ -1,6 +1,6 @@
 # Volume 42 — English Glossary
 
-**Status:** locked after pilot review; extended through normal Batch 1 — Letters **3364–3371** source-checked.
+**Status:** locked after pilot review; extended through 10-record Batch 2 — **18 / 64 source-checked through 3381**.
 
 | Tamil source form | English treatment | Note |
 |---|---|---|
@@ -19,6 +19,10 @@
 | `இனப் படுகொலை` / `ஜெனோசைட்` | **genocide** | Use when translating the author’s source wording; this is source attribution, not an independent legal determination. |
 | `உள் ஒதுக்கீடு` | **internal reservation** | Source-specific social-justice / reservation term; Letter 3371 gives 3 per cent for Arunthathiyars. |
 | `அருந்ததியர்` | **Arunthathiyar** | Community name; preserve source variants such as embedded `அருந்ததி` within quoted material. |
+| `தேர்தல் ஆணையம்` | **Election Commission** | Institutional term; use **Election Commission of India** where the source explicitly frames the central institution. |
+| `தலைமைத் தேர்தல் அதிகாரி` | **Chief Electoral Officer** | State election-administration title. |
+| `அறப்போர்` / `அறப் போராட்டம்` | **peaceful struggle / non-violent struggle** | Choose by sentence context while preserving the source’s moral/non-violent framing. |
+| `நலிவும் நானும் - நாட்குறிப்பு` | **Illness and I — Diary** | Stable title for the six-part diary sequence 3379–3384. |
 
 ## Locked method notes
 
