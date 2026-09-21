@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–351 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–379 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–351 / 402 — VERIFIED.**
+**PDF 001–379 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–351 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–379 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -588,14 +588,49 @@ Every physical source page from PDF **325** through **351** was directly rendere
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–351 / 402 VERIFIED**.
 
+## Batch 13 — Source records 3419–3423 / PDF 352–379 — PASS
+
+Every physical source page from PDF **352** through **379** was directly rendered and compared against the canonical page record. The batch covers exactly five complete source records:
+
+- **3419** — PDF 352–359 / printed 351–358 — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!`
+- **3420** — PDF 360–364 / printed 359–363 — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`
+- **3421** — PDF 365–373 / printed 364–372 — `உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது!`
+- **3422** — PDF 374–377 / printed 373–376 — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
+- **3423** — PDF 378–379 / printed 377–378 — `இன்ப நாளிதே எனப்பாடுவோம்!`
+
+### Scan-proven textual corrections
+
+1. **PDF 357 / 3419** — `புறங்காதிலடைந்து` → **`புறங்காந்திமடைந்து`**
+2. **PDF 364 / 3420** — `வளைந்தவாலை நிமிர்த்த முடியாது` → **`வளைந்த வாலை நிமிர்த்த முடியாது`**
+3. **PDF 368 / 3421** — `கண்டொள்ளா காட்சி` → **`கண்கொள்ளா காட்சி`**
+
+The unusual PDF 357 form `புறங்காந்திமடைந்து` is preserved exactly as printed; the scan, not normalization, controls the canonical record.
+
+### Directly checked with no canonical correction
+
+- PDF **352–356, 358–363, 365–367 and 369–379**.
+- All five starts, titles, salutations, closings, dates and actual letter end boundaries reconcile with the scan.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 13: **3 — PDF 357, 364, 368**.
+- Scan-proven textual corrections applied: **3**.
+- Letter-bearing pages directly verified in this batch: **28 / 28**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–379 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3419–3423 / PDF 352–379**, covering exactly five complete records:
+Complete the final second direct visual/textual-fidelity verification with the remaining four source records and final non-letter page:
 
-- **3419** — PDF **352–359** / printed **351–358** — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!`
-- **3420** — PDF **360–364** / printed **359–363** — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`
-- **3421** — PDF **365–373** / printed **364–372** — `உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது!`
-- **3422** — PDF **374–377** / printed **373–376** — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
-- **3423** — PDF **378–379** / printed **377–378** — `இன்ப நாளிதே எனப்பாடுவோம்!`
+- **3424** — PDF **380–385** / printed **379–384** — `அடித்தட்டல்ல; அடித்தளமானவர்கள்!`
+- **3425** — PDF **386–388** / printed **385–387** — actual title at PDF 386 uses joined `திருந்தப்போகிறார்களா?`; preserve the known contents/actual-title distinction.
+- **3426** — PDF **389–395** / printed **388–394** — `“நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்!`
+- **3427** — PDF **396–401** / printed **395–400** — `மேலும் பயன்படுகின்ற சந்திப்பு!`
+- **PDF 402** — non-letter back-cover / portrait / publisher-contact-price material.
 
-Stop before **3424 / PDF 380 / printed 379**. Keep the scan authoritative and do not begin English translation.
+Directly compare **PDF 380–402 / 23 physical pages**. This is the final Volume 42 second-pass batch. Keep English blocked until the batch passes and the full **402 / 402** fidelity gate is closed.
