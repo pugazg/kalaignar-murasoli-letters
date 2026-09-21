@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–105 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–149 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–105 / 402 — VERIFIED.**
+**PDF 001–149 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–105 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–149 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -248,14 +248,73 @@ The printed/source number **3154** at PDF 092 remains authoritative between 3376
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–105 / 402 VERIFIED**.
 
+## Batch 5 — Source records 3379–3383 / PDF 106–149 — PASS
+
+Every physical source page from PDF **106** through **149** was directly rendered and compared against the canonical page record. The batch covers exactly five complete source records:
+
+- **3379** — PDF 106–112 / printed 105–111 — `நலிவும் நானும் - நாட்குறிப்பு`
+- **3380** — PDF 113–120 / printed 112–119 — `நலிவும் நானும் - நாட்குறிப்பு (2)`
+- **3381** — PDF 121–130 / printed 120–129 — `நலிவும் நானும் - நாட்குறிப்பு (3)`
+- **3382** — PDF 131–140 / printed 130–139 — `நலிவும் நானும் - நாட்குறிப்பு (4)`
+- **3383** — PDF 141–149 / printed 140–148 — `நலிவும் நானும் - நாட்குறிப்பு (5)`
+
+### Scan-proven corrections
+
+1. **PDF 109 / 3379** — `உட்கார்ந்திருக்கிற காரணத்தாலும்` → **`உட்கார்ந்திருக்கின்ற காரணத்தாலும்`**
+2. **PDF 111 / 3379** — `சிகிச்சை முறைகளை தொடர்ந்து மற்றும்` → **`சிகிச்சை முறைகளை தொடருமாறும்`**
+3. **PDF 111 / 3379** — `எழுத்துதான்` → **`எழுதுவதுதான்`**
+4. **PDF 112 / 3379** — `கடிதம் எழுதியேன்` → **`கடிதம் எழுதினேன்`**
+5. **PDF 112 / 3379** — first `பொதுமக்கள்` → **`பொது மக்கள்`**
+6. **PDF 112 / 3379** — second `பொதுமக்கள்` → **`பொது மக்கள்`**
+7. **PDF 116 / 3380** — `குன்றக்குடி` → **`குன்றக் குடி`**
+8. **PDF 116 / 3380** — `விவசாய தொழிலாளர்` → **`விவசாயத் தொழிலாளர்`**
+9. **PDF 118 / 3380** — `இதகைய` → **`இத்தகைய`**
+10. **PDF 119 / 3380** — `போட வேண்டுமென்று` → **`போடவேண்டுமென்று`**
+11. **PDF 120 / 3380** — `ஏ.கே. ராஜன்` → **`ஏ.கே. இராஜன்`**
+12. **PDF 120 / 3380** — `எதையும் செய்யவில்லை` → **`எதையும் செய்ததில்லை`**
+13. **PDF 122 / 3381** — `பொறுத்துக் கொள்ள` → **`பொறுத்துக்கொள்ள`**
+14. **PDF 122 / 3381** — `தோன்றவில்லை` → **`தோன்ற வில்லை`**
+15. **PDF 124 / 3381** — `டாக்டர் எ.எஸ். நாயுடு` → **`டாக்டர் ஏ.எஸ். நாயுடு`**
+16. **PDF 126 / 3381** — `வேண்டுகோளை` → **`வேண்டு கோளை`**
+17. **PDF 126 / 3381** — `மட்டுமல்லாமல்` → **`மட்டும் மல்லாமல்`**
+18. **PDF 127 / 3381** — `இந்த நாளிதழின்` → **`இந்து நாளிதழின்`**
+19. **PDF 128 / 3381** — `பதவி விலகியதால்` → **`பதவிவிலகியதால்`**
+20. **PDF 129 / 3381** — `பார்க்கும்போது` → **`பார்க்கும் போது`**
+21. **PDF 132 / 3382** — `உடன்கூட நனையாத` → **`உதடு கூட நனையாத`**
+22. **PDF 143 / 3383** — `கைத்துக்கு ஆளாக வேண்டிய` → **`கைதுக்கு ஆளாக வேண்டிய`**
+23. **PDF 144 / 3383** — `தொடர்ந்து காவல்துறையினர்` → **`தொடர்ந்து காவல் துறையினர்`**
+24. **PDF 145 / 3383** — `உயர் நீதிமன்றம் வன்முறைச் சம்பவங்கள்` → **`உயர் நீதி மன்ற வன்முறைச் சம்பவங்கள்`**
+25. **PDF 146 / 3383** — `உச்சநீதிமன்ற தலைமை நீதிபதி` → **`உச்சநீதி மன்ற தலைமை நீதிபதி`**
+26. **PDF 146 / 3383** — `சென்னை உயர்நீதி மன்றத்திற்கான தலைமை நீதிபதிக்கு` → **`சென்னை உயர்நீதி மன்ற தற்காலிக தலைமை நீதிபதிக்கு`**
+27. **PDF 147 / 3383** — `நடத்தி இருக்கிறார்கள்` → **`நடத்தி யிருக்கிறார்கள்`**
+28. **PDF 147 / 3383** — `குறிப்பிடிட்டு` → **`குறிப்பிட்டு`**
+
+### Directly checked with no canonical correction
+
+- PDF **106–108, 110, 113–115, 117, 121, 123, 125, 130–131, 133–142 and 148–149**.
+- All five starts, titles, subtitles, salutations, closings, dates and physical end boundaries reconcile with the scan.
+- No chapter boundary, printed contents row, source record number or date changed.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 5: **19 — PDF 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147**.
+- Scan-proven corrections applied: **28**.
+- Letter-bearing pages directly verified in this batch: **44 / 44**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–149 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3379–3383 / PDF 106–149**, covering exactly five complete records:
+Continue the second direct visual/textual-fidelity verification with **3384–3388 / PDF 150–190**, covering exactly five complete records:
 
-- **3379** — PDF **106–112** / printed **105–111** — `நலிவும் நானும் - நாட்குறிப்பு`
-- **3380** — PDF **113–120** / printed **112–119** — `நலிவும் நானும் - நாட்குறிப்பு (2)`
-- **3381** — PDF **121–130** / printed **120–129** — `நலிவும் நானும் - நாட்குறிப்பு (3)`
-- **3382** — PDF **131–140** / printed **130–139** — `நலிவும் நானும் - நாட்குறிப்பு (4)`
-- **3383** — PDF **141–149** / printed **140–148** — `நலிவும் நானும் - நாட்குறிப்பு (5)`
+- **3384** — PDF **150–160** / printed **149–159** — `நலிவும் நானும் - நாட்குறிப்பு (6)`
+- **3385** — PDF **161–168** / printed **160–167** — `ஆயத்தமாகுக; அறப்போர் முனைக்கு!`
+- **3386** — PDF **169–178** / printed **168–177** — `மடல் அல்ல; மானசீக அறிவுரை!`
+- **3387** — PDF **179–186** / printed **178–185** — `அடடா, அவர்தானா இவர்?`
+- **3388** — PDF **187–190** / printed **186–189** — actual PDF 187 main title `அந்த நினைவுக்கு ஒரு நன்றி!!` plus separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`
 
-Stop before **3384 / PDF 150 / printed 149**. Keep the scan authoritative and do not begin English translation.
+Stop before **3389 / PDF 191 / printed 190**. Keep the scan authoritative, preserve the verified 3388 title/subtitle layout distinction, and do not begin English translation.
