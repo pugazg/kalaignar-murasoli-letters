@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–324 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–351 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–324 / 402 — VERIFIED.**
+**PDF 001–351 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–324 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–351 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -556,14 +556,46 @@ Every physical source page from PDF **295** through **324** was directly rendere
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–324 / 402 VERIFIED**.
 
+## Batch 12 — Source records 3414–3418 / PDF 325–351 — PASS
+
+Every physical source page from PDF **325** through **351** was directly rendered and compared against the canonical page record. The batch covers exactly five complete source records:
+
+- **3414** — PDF 325–329 / printed 324–328 — `“தடுக்கும் சொல் பாராய் தம்பீ!”`
+- **3415** — PDF 330–334 / printed 329–333 — `இரு நாள் நமக்குத் திருநாள்!`
+- **3416** — PDF 335–337 / printed 334–336 — `அருந்தவத்தில் ஆழ்கின்றேன்!`
+- **3417** — PDF 338–343 / printed 337–342 — `சொன்னது; யாராம்? என்ன பேராம்?`
+- **3418** — PDF 344–351 / printed 343–350 — `காலம்தான் பதில் சொல்ல வேண்டும்!`
+
+### Scan-proven textual corrections
+
+1. **PDF 342 / 3417** — `குழுவை அனுப்பாவிட்டால் உண்மைகளை கண்டறிய முடியாது` → **`குழுவை அனுப்பா விட்டால் உண்மைகளை கண்டறிய முடியாது`**
+2. **PDF 344 / 3418** — `மனுவை நிராகரித்த உச்சநீதிமன்றம் இந்த வழக்கு விசாரணையை` → **`மனுவை நிராகரித்த உச்ச நீதிமன்றம் இந்த வழக்கு விசாரணையை`**
+
+### Directly checked with no canonical correction
+
+- PDF **325–341, 343 and 345–351**.
+- All five starts, titles, salutations, closings, dates and actual letter end boundaries reconcile with the scan.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 12: **2 — PDF 342, 344**.
+- Scan-proven textual corrections applied: **2**.
+- Letter-bearing pages directly verified in this batch: **27 / 27**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–351 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3414–3418 / PDF 325–351**, covering exactly five complete records:
+Continue the second direct visual/textual-fidelity verification with **3419–3423 / PDF 352–379**, covering exactly five complete records:
 
-- **3414** — PDF **325–329** / printed **324–328** — `“தடுக்கும் சொல் பாராய் தம்பீ!”`
-- **3415** — PDF **330–334** / printed **329–333** — `இரு நாள் நமக்குத் திருநாள்!`
-- **3416** — PDF **335–337** / printed **334–336** — `அருந்தவத்தில் ஆழ்கின்றேன்!`
-- **3417** — PDF **338–343** / printed **337–342** — `சொன்னது; யாராம்? என்ன பேராம்?`
-- **3418** — PDF **344–351** / printed **343–350** — `காலம்தான் பதில் சொல்ல வேண்டும்!`
+- **3419** — PDF **352–359** / printed **351–358** — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!`
+- **3420** — PDF **360–364** / printed **359–363** — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`
+- **3421** — PDF **365–373** / printed **364–372** — `உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது!`
+- **3422** — PDF **374–377** / printed **373–376** — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
+- **3423** — PDF **378–379** / printed **377–378** — `இன்ப நாளிதே எனப்பாடுவோம்!`
 
-Stop before **3419 / PDF 352 / printed 351**. Keep the scan authoritative and do not begin English translation.
+Stop before **3424 / PDF 380 / printed 379**. Keep the scan authoritative and do not begin English translation.
