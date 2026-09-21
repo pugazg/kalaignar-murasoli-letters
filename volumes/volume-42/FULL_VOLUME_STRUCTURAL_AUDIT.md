@@ -118,7 +118,7 @@ Current Tamil gate state:
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**
 - full-volume structural audit: **PASS**
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–241 / 402 verified**
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–267 / 402 verified**
 - English translation: **BLOCKED**
 
 ## Post-structural fidelity note — 2026-09-20
@@ -131,11 +131,12 @@ Current Tamil gate state:
 - Second-pass Batch 6 directly verified source records **3384–3388 / PDF 150–190** and applied **17 scan-proven textual corrections plus 1 physical page-boundary restoration across 10 canonical pages — 151, 154, 157, 158, 162, 167, 179, 184, 187 and 188**. The restored PDF 157→158 continuation changes only canonical physical-page placement, not any letter boundary, title, date, contents row or total record/page count. Letter 3388 retains its scan-verified main-title/subtitle layout.
 - Second-pass Batch 7 directly verified source records **3389–3393 / PDF 191–218** and applied **6 scan-proven textual corrections plus 7 paragraph-structure restorations across 7 canonical pages — 195, 196, 209, 215, 216, 217 and 218**. These changes preserve the same five letter ranges, dates and source record counts; Letter 3392's genuine duplicated printed body across PDF 209–212 remains intact.
 - Second-pass Batch 8 directly verified source records **3394–3398 / PDF 219–241** and applied **5 scan-proven textual corrections across 5 canonical pages — 222, 223, 227, 231 and 235**. Structural ranges, titles, dates, contents rows and record counts remain unchanged; the scan-printed PDF 231 form `தீரவேண்டு”மென்று` is preserved exactly.
+- Second-pass Batch 9 directly verified source records **3399–3403 / PDF 242–267** and applied **5 scan-proven textual corrections across 4 canonical pages — 255, 256, 266 and 267**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
 
 Structural counts/ranges remain unchanged.
 
 ## Exact next activity
 
-Continue the separate **second full-volume direct visual/textual-fidelity verification with 3399–3403 / PDF 242–267**, stopping before PDF 268.
+Continue the separate **second full-volume direct visual/textual-fidelity verification with 3404–3408 / PDF 268–294**, stopping before PDF 295.
 
 Compare the canonical Tamil against the controlling scan directly, preserve the verified **3154** source-number anomaly and all physical page boundaries, record every scan-proven correction, and do **not** begin English translation until the full second-pass fidelity gate is complete.
