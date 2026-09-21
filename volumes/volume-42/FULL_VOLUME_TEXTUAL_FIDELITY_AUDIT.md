@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–267 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–294 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–267 / 402 — VERIFIED.**
+**PDF 001–294 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–267 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–294 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -490,14 +490,47 @@ Every physical source page from PDF **242** through **267** was directly rendere
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–267 / 402 VERIFIED**.
 
+## Batch 10 — Source records 3404–3408 / PDF 268–294 — PASS
+
+Every physical source page from PDF **268** through **294** was directly rendered and compared against the canonical page record. The batch covers exactly five complete source records:
+
+- **3404** — PDF 268–271 / printed 267–270 — `இந்தப் பேனா வேண்டுகிறது!`
+- **3405** — PDF 272–277 / printed 271–276 — `குழந்தையின் உயிரைக் குடித்து தாயின் குடலுக்குள் சென்ற குண்டு!`
+- **3406** — PDF 278–283 / printed 277–282 — `தூங்கற்க தூங்காது செய்யும் வினை!`
+- **3407** — PDF 284–288 / printed 283–287 — `உலக அதிசயம் மட்டுமல்ல; உலக மகா அதிசயம்!`
+- **3408** — PDF 289–294 / printed 288–293 — `அதைப் படித்து ஆறுதல் கொள்க!`
+
+### Scan-proven textual corrections
+
+1. **PDF 283 / 3406** — `அனைத்து கிராம அண்ணா மறுமலர்ச்சித் திட்டத்திற்காக` → **`அனைத்துக் கிராம அண்ணா மறுமலர்ச்சித் திட்டத்திற்காக`**
+2. **PDF 292 / 3408** — `அவரே அதைப் பேசிவிட்டு` → **`அவரே, அதைப் பேசிவிட்டு`**
+3. **PDF 293 / 3408** — `கச்சத் தீவு இலங்கைக்கு மத்திய அரசினால் தாரப்பட்டு உள்ளது` → **`கச்சத் தீவு இலங்கைக்கு மத்திய அரசினால் தாரப்பட்டுள்ளது`**
+
+### Directly checked with no canonical correction
+
+- PDF **268–282, 284–291 and 294**.
+- All five starts, titles, salutations, closings, dates and actual letter end boundaries reconcile with the scan.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 10: **3 — PDF 283, 292, 293**.
+- Scan-proven textual corrections applied: **3**.
+- Letter-bearing pages directly verified in this batch: **27 / 27**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–294 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3404–3408 / PDF 268–294**, covering exactly five complete records:
+Continue the second direct visual/textual-fidelity verification with **3409–3413 / PDF 295–324**, covering exactly five complete records:
 
-- **3404** — PDF **268–271** / printed **267–270** — `இந்தப் பேனா வேண்டுகிறது!`
-- **3405** — PDF **272–277** / printed **271–276** — `குழந்தையின் உயிரைக் குடித்து தாயின் குடலுக்குள் சென்ற குண்டு!`
-- **3406** — PDF **278–283** / printed **277–282** — `தூங்கற்க தூங்காது செய்யும் வினை!`
-- **3407** — PDF **284–288** / printed **283–287** — `உலக அதிசயம் மட்டுமல்ல; உலக மகா அதிசயம்!`
-- **3408** — PDF **289–294** / printed **288–293** — `அதைப் படித்து ஆறுதல் கொள்க!`
+- **3409** — PDF **295–299** / printed **294–298** — `பட்டினத்தார் அப்பொழுதே பாடியிருக்கிறாரே!`
+- **3410** — PDF **300–303** / printed **299–302** — `ஆனந்த விகடன் அன்றும் இன்றும்!`
+- **3411** — PDF **304–310** / printed **303–309** — `இடைத் தேர்தலில் இணையற்ற வெற்றியினை வழங்கிடுக!`
+- **3412** — PDF **311–317** / printed **310–316** — `வாழ்விலோர் திருநாள்; வாழ்க வள்ளுவம்!`
+- **3413** — PDF **318–324** / printed **317–323** — `காப்பீட்டுத் திட்டத்தினால் யாருக்கு ஆதாயம்?`
 
-Stop before **3409 / PDF 295 / printed 294**. Keep the scan authoritative and do not begin English translation.
+Stop before **3414 / PDF 325 / printed 324**. Keep the scan authoritative and do not begin English translation.

@@ -991,3 +991,46 @@ PDF **242–254 and 257–265**.
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–267 / 402 verified**.
 
 **Next:** **3404–3408 / PDF 268–294**, stop before **3409 / PDF 295**.
+
+## 32. Second full-volume direct visual/textual-fidelity verification — Batch 10 / 3404–3408 / PDF 268–294
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–294 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3404** — PDF 268–271 / printed 267–270
+- **3405** — PDF 272–277 / printed 271–276
+- **3406** — PDF 278–283 / printed 277–282
+- **3407** — PDF 284–288 / printed 283–287
+- **3408** — PDF 289–294 / printed 288–293
+
+Every physical page in PDF **268–294** was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 283 | 3406 | `அனைத்து கிராம அண்ணா மறுமலர்ச்சித் திட்டத்திற்காக` | `அனைத்துக் கிராம அண்ணா மறுமலர்ச்சித் திட்டத்திற்காக` |
+| 292 | 3408 | `அவரே அதைப் பேசிவிட்டு` | `அவரே, அதைப் பேசிவிட்டு` |
+| 293 | 3408 | `கச்சத் தீவு இலங்கைக்கு மத்திய அரசினால் தாரப்பட்டு உள்ளது` | `கச்சத் தீவு இலங்கைக்கு மத்திய அரசினால் தாரப்பட்டுள்ளது` |
+
+### Directly verified with no correction
+
+PDF **268–282, 284–291 and 294**.
+
+### Batch reconciliation
+
+- directly verified pages: **27 / 27**;
+- canonical pages changed: **3**;
+- scan-proven textual corrections: **3**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–294 / 402 verified**.
+
+**Next:** **3409–3413 / PDF 295–324**, stop before **3414 / PDF 325**.
