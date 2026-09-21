@@ -899,3 +899,50 @@ PDF **191–194, 197–208 and 210–214**. Records **3389** and **3391** requir
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–218 / 402 verified**.
 
 **Next:** **3394–3398 / PDF 219–241**, stop before **3399 / PDF 242**.
+
+## 30. Second full-volume direct visual/textual-fidelity verification — Batch 8 / 3394–3398 / PDF 219–241
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–241 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3394** — PDF 219–221 / printed 218–220
+- **3395** — PDF 222–226 / printed 221–225
+- **3396** — PDF 227–231 / printed 226–230
+- **3397** — PDF 232–237 / printed 231–236
+- **3398** — PDF 238–241 / printed 237–240
+
+Every physical page in PDF **219–241** was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 222 | 3395 | `தி.மு.க.வுடன்` | `தி.மு.க. வுடன்` |
+| 223 | 3395 | `குறிப்பிட்டு விரும்புகிறேன்` | `குறிப்பிட விரும்புகிறேன்` |
+| 227 | 3396 | first `அ.தி.மு.க.வின்` | first `அ.தி.மு.க. வின்` |
+| 231 | 3396 | `தீரவேண்டும்”மென்று` | `தீரவேண்டு”மென்று` |
+| 235 | 3397 | `தெரிவிக்கிட முடியும்` | `தெரிவித்திட முடியும்` |
+
+PDF 231 preserves the visible source wording exactly; no silent normalization was applied.
+
+### Directly verified with no correction
+
+PDF **219–221, 224–226, 228–230, 232–234 and 236–241**.
+
+### Batch reconciliation
+
+- directly verified pages: **23 / 23**;
+- canonical pages changed: **5**;
+- scan-proven textual corrections: **5**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–241 / 402 verified**.
+
+**Next:** **3399–3403 / PDF 242–267**, stop before **3404 / PDF 268**.
