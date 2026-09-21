@@ -1077,3 +1077,45 @@ PDF **295–308, 310–315, 317 and 319–324**.
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–324 / 402 verified**.
 
 **Next:** **3414–3418 / PDF 325–351**, stop before **3419 / PDF 352**.
+
+## 34. Second full-volume direct visual/textual-fidelity verification — Batch 12 / 3414–3418 / PDF 325–351
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–351 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3414** — PDF 325–329 / printed 324–328
+- **3415** — PDF 330–334 / printed 329–333
+- **3416** — PDF 335–337 / printed 334–336
+- **3417** — PDF 338–343 / printed 337–342
+- **3418** — PDF 344–351 / printed 343–350
+
+Every physical page in PDF **325–351** was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 342 | 3417 | `குழுவை அனுப்பாவிட்டால் உண்மைகளை கண்டறிய முடியாது` | `குழுவை அனுப்பா விட்டால் உண்மைகளை கண்டறிய முடியாது` |
+| 344 | 3418 | `மனுவை நிராகரித்த உச்சநீதிமன்றம் இந்த வழக்கு விசாரணையை` | `மனுவை நிராகரித்த உச்ச நீதிமன்றம் இந்த வழக்கு விசாரணையை` |
+
+### Directly verified with no correction
+
+PDF **325–341, 343 and 345–351**.
+
+### Batch reconciliation
+
+- directly verified pages: **27 / 27**;
+- canonical pages changed: **2**;
+- scan-proven textual corrections: **2**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–351 / 402 verified**.
+
+**Next:** **3419–3423 / PDF 352–379**, stop before **3424 / PDF 380**.

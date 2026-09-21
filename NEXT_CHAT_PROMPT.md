@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 42 / second full-volume visual-textual fidelity gate — 3414–3418 / PDF 325–351
+# NEXT CHAT PROMPT — Volume 42 / second full-volume visual-textual fidelity gate — 3419–3423 / PDF 352–379
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,28 +9,27 @@ Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE 
 - Source extent: **402 physical PDF pages / 400 printed pages**
 - First-pass canonical coverage: **PDF 001–402 / 402 COMPLETE**
 - Full-volume Tamil structural audit: **PASS**
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–324 / 402 VERIFIED**
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–351 / 402 VERIFIED**
 - Fidelity report: `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
 - Printed contents: **64 / 64 rows**
 - Completed actual source records: **64 — 3364–3376, 3154, 3378–3427**
 - Partial/source-incomplete records: **0**
 - English translation: **BLOCKED**
 
-## Fidelity Batch 11 durable result — 3409–3413 / PDF 295–324
+## Fidelity Batch 12 durable result — 3414–3418 / PDF 325–351
 
 **PASS.**
 
-All **30 / 30** physical pages were directly inspected.
+All **27 / 27** physical pages were directly inspected.
 
-Canonical pages changed: **3 — PDF 309, 316 and 318**.
+Canonical pages changed: **2 — PDF 342 and 344**.
 
-Scan-proven textual corrections: **3**:
+Scan-proven textual corrections: **2**:
 
-1. PDF 309 — `உச்ச நீதிமன்றங்களிலும்` → `உச்ச நீதி மன்றங்களிலும்`
-2. PDF 316 — `நன்றி தெரிவித்திருந்தாலும்கூட` → `நன்றி தெரிவித்திருந்தாலுங்கூட`
-3. PDF 318 — `தவறான பல கருத்துகள் மற்றும் தகவல்களுடன்` → `தவறான பல கருத்துக்கள் மற்றும் தகவல்களுடன்`
+1. PDF 342 — `குழுவை அனுப்பாவிட்டால் உண்மைகளை கண்டறிய முடியாது` → `குழுவை அனுப்பா விட்டால் உண்மைகளை கண்டறிய முடியாது`
+2. PDF 344 — `மனுவை நிராகரித்த உச்சநீதிமன்றம் இந்த வழக்கு விசாரணையை` → `மனுவை நிராகரித்த உச்ச நீதிமன்றம் இந்த வழக்கு விசாரணையை`
 
-Directly checked with no correction: PDF **295–308, 310–315, 317 and 319–324**.
+Directly checked with no correction: PDF **325–341, 343 and 345–351**.
 
 No letter title, date, closing, letter boundary, contents row or record number changed.
 
@@ -42,22 +41,22 @@ No letter title, date, closing, letter boundary, contents row or record number c
 4. Letter **3425** contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`.
 5. Letter **3427** closes at PDF 401 / printed 400; PDF 402 is non-letter material; no Letter 3428 exists in Volume 42.
 
-## Exact next activity — second-pass source records 3414–3418
+## Exact next activity — second-pass source records 3419–3423
 
-Directly compare **PDF 325–351** against the controlling scan, covering exactly five complete records:
+Directly compare **PDF 352–379** against the controlling scan, covering exactly five complete records:
 
-- **3414** — PDF **325–329** / printed **324–328** — `“தடுக்கும் சொல் பாராய் தம்பீ!”`
-- **3415** — PDF **330–334** / printed **329–333** — `இரு நாள் நமக்குத் திருநாள்!`
-- **3416** — PDF **335–337** / printed **334–336** — `அருந்தவத்தில் ஆழ்கின்றேன்!`
-- **3417** — PDF **338–343** / printed **337–342** — `சொன்னது; யாராம்? என்ன பேராம்?`
-- **3418** — PDF **344–351** / printed **343–350** — `காலம்தான் பதில் சொல்ல வேண்டும்!`
+- **3419** — PDF **352–359** / printed **351–358** — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!`
+- **3420** — PDF **360–364** / printed **359–363** — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`
+- **3421** — PDF **365–373** / printed **364–372** — `உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது!`
+- **3422** — PDF **374–377** / printed **373–376** — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
+- **3423** — PDF **378–379** / printed **377–378** — `இன்ப நாளிதே எனப்பாடுவோம்!`
 
-**Stop before Letter 3419 / PDF 352 / printed 351.**
+**Stop before Letter 3424 / PDF 380 / printed 379.**
 
 ### Required method
 
 1. Read `VOLUME_PROCESSING_GUIDE.md`, `TRANSCRIPTION_GUIDE.md`, `FULL_VOLUME_STRUCTURAL_AUDIT.md`, and `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
-2. Render and visually compare every physical page **325–351** directly against its canonical page record.
+2. Render and visually compare every physical page **352–379** directly against its canonical page record.
 3. Verify all visible Tamil/English text, title punctuation, salutation, paragraph sequence, dates, figures, quotations, closing/signature, physical page continuations and source spacing/word joining where textually material.
 4. The scan is authoritative; apply only scan-proven corrections.
 5. Preserve all previously verified source anomalies and physical boundaries.
@@ -66,4 +65,4 @@ Directly compare **PDF 325–351** against the controlling scan, covering exactl
 
 Suggested commit message:
 
-`Verify Volume 42 fidelity records 3414-3418 — PDF pages 325-351`
+`Verify Volume 42 fidelity records 3419-3423 — PDF pages 352-379`
