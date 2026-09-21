@@ -1034,3 +1034,46 @@ PDF **268–282, 284–291 and 294**.
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–294 / 402 verified**.
 
 **Next:** **3409–3413 / PDF 295–324**, stop before **3414 / PDF 325**.
+
+## 33. Second full-volume direct visual/textual-fidelity verification — Batch 11 / 3409–3413 / PDF 295–324
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–324 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3409** — PDF 295–299 / printed 294–298
+- **3410** — PDF 300–303 / printed 299–302
+- **3411** — PDF 304–310 / printed 303–309
+- **3412** — PDF 311–317 / printed 310–316
+- **3413** — PDF 318–324 / printed 317–323
+
+Every physical page in PDF **295–324** was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 309 | 3411 | `உச்ச நீதிமன்றங்களிலும்` | `உச்ச நீதி மன்றங்களிலும்` |
+| 316 | 3412 | `நன்றி தெரிவித்திருந்தாலும்கூட` | `நன்றி தெரிவித்திருந்தாலுங்கூட` |
+| 318 | 3413 | `தவறான பல கருத்துகள் மற்றும் தகவல்களுடன்` | `தவறான பல கருத்துக்கள் மற்றும் தகவல்களுடன்` |
+
+### Directly verified with no correction
+
+PDF **295–308, 310–315, 317 and 319–324**.
+
+### Batch reconciliation
+
+- directly verified pages: **30 / 30**;
+- canonical pages changed: **3**;
+- scan-proven textual corrections: **3**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–324 / 402 verified**.
+
+**Next:** **3414–3418 / PDF 325–351**, stop before **3419 / PDF 352**.

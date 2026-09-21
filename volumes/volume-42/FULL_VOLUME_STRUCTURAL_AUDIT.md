@@ -118,7 +118,7 @@ Current Tamil gate state:
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**
 - full-volume structural audit: **PASS**
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–294 / 402 verified**
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–324 / 402 verified**
 - English translation: **BLOCKED**
 
 ## Post-structural fidelity note — 2026-09-20
@@ -133,11 +133,12 @@ Current Tamil gate state:
 - Second-pass Batch 8 directly verified source records **3394–3398 / PDF 219–241** and applied **5 scan-proven textual corrections across 5 canonical pages — 222, 223, 227, 231 and 235**. Structural ranges, titles, dates, contents rows and record counts remain unchanged; the scan-printed PDF 231 form `தீரவேண்டு”மென்று` is preserved exactly.
 - Second-pass Batch 9 directly verified source records **3399–3403 / PDF 242–267** and applied **5 scan-proven textual corrections across 4 canonical pages — 255, 256, 266 and 267**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
 - Second-pass Batch 10 directly verified source records **3404–3408 / PDF 268–294** and applied **3 scan-proven textual corrections across 3 canonical pages — 283, 292 and 293**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
+- Second-pass Batch 11 directly verified source records **3409–3413 / PDF 295–324** and applied **3 scan-proven textual corrections across 3 canonical pages — 309, 316 and 318**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
 
 Structural counts/ranges remain unchanged.
 
 ## Exact next activity
 
-Continue the separate **second full-volume direct visual/textual-fidelity verification with 3409–3413 / PDF 295–324**, stopping before PDF 325.
+Continue the separate **second full-volume direct visual/textual-fidelity verification with 3414–3418 / PDF 325–351**, stopping before PDF 352.
 
 Compare the canonical Tamil against the controlling scan directly, preserve the verified **3154** source-number anomaly and all physical page boundaries, record every scan-proven correction, and do **not** begin English translation until the full second-pass fidelity gate is complete.
