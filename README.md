@@ -127,7 +127,7 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Letter **3425** contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`; both layers remain preserved.
 - Letter **3427** closes at PDF **401 / printed 400**. PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; no Letter 3428 exists in Volume 42.
 - Full-volume Tamil structural audit: **PASS**.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–190 / 402 verified**.
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–218 / 402 verified**.
 - English translation: **blocked** until the second-pass Tamil fidelity gate passes.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **3389–3393 / PDF 191–218**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **3394–3398 / PDF 219–241**.
