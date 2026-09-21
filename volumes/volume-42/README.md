@@ -37,11 +37,11 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 **BLOCKED.** English work may not begin until the required Tamil source-page coverage, structural audit and scan-based fidelity gates are complete for the eligible source material.
 
-Second-pass fidelity frontier: **PDF 001–294 / 402 VERIFIED**. Cumulative canonical pages corrected so far: **74 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292 and 293**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+Second-pass fidelity frontier: **PDF 001–324 / 402 VERIFIED**. Cumulative canonical pages corrected so far: **77 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316 and 318**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3409–3413 / PDF 295–324**, stopping before **Letter 3414 / PDF 325**. English remains blocked.
+Continue the second direct visual/textual-fidelity verification with **3414–3418 / PDF 325–351**, stopping before **Letter 3419 / PDF 352**. English remains blocked.
 
 ## PDF 001–017 shared front matter
 
@@ -59,5 +59,6 @@ Volume 42 follows the repository-wide `SERIES_FRONT_MATTER_POLICY.md`.
 - Fidelity Batch 8 directly verified source records **3394–3398 / PDF 219–241**. It applied **5 scan-proven textual corrections across 5 canonical pages — 222, 223, 227, 231 and 235**. The scan-printed PDF 231 form `தீரவேண்டு”மென்று` is preserved exactly; no letter-title/date/letter-boundary/contents-row change was required.
 - Fidelity Batch 9 directly verified source records **3399–3403 / PDF 242–267**. It applied **5 scan-proven textual corrections across 4 canonical pages — 255, 256, 266 and 267**. No letter-title/date/letter-boundary/contents-row change was required.
 - Fidelity Batch 10 directly verified source records **3404–3408 / PDF 268–294**. It applied **3 scan-proven textual corrections across 3 canonical pages — 283, 292 and 293**. No letter-title/date/letter-boundary/contents-row change was required.
+- Fidelity Batch 11 directly verified source records **3409–3413 / PDF 295–324**. It applied **3 scan-proven textual corrections across 3 canonical pages — 309, 316 and 318**. No letter-title/date/letter-boundary/contents-row change was required.
 - Any printed wording difference must be transcribed locally in full; do not force-match a shared page.
 - PDF **018 onward** follows normal full transcription rules.
