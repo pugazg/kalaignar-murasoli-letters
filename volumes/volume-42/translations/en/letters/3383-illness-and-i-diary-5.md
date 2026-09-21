@@ -11,7 +11,7 @@ source_printed_page_end: 148
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 series_note: "Fifth part of the நலிவும் நானும் - நாட்குறிப்பு series"
 ---
 
@@ -173,7 +173,7 @@ That speech appeared in all the papers.
 
 Some wondered what could be a more open betrayal.
 
-The two Communist parties were left, as in the source proverb, like people who had lost their salted meat to a grand lady, unable to understand what was happening.
+The two Communist parties were left, as in the source proverb, like people who had lost their salted meat to a Saivite grand lady, unable to understand what was happening.
 
 After the morning newspapers on the twentieth gave great prominence to this report, I wrote a letter that day.
 

@@ -236,16 +236,17 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - English 10-record Batch 6 **3412–3421 / PDF 311–373**: **PASS — 10 / 10 source-checked**, cumulative **58 / 64**, 3420 source English retained verbatim, 3421 reproduced 1968 conference address retained in full thought order, PDF 357 source form preserved, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3412_3421.md`.
 - English FINAL source-boundary Batch **3422–3427 / PDF 374–401**: **PASS — 6 / 6 source-checked**, cumulative **64 / 64 COMPLETE**, 3425 actual/contents title-layer distinction preserved, 3425 source English discussion topics preserved verbatim, 3426 religious/political material retained as archival source framing, 3427 closes at PDF 401, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`.
 - Complete audited Tamil appendices are present in **64 / 64** English records.
-- Full-volume bilingual meaning-level alignment: **IN PROGRESS — 15 / 64 aligned — 3364–3376, 3154, 3378 / PDF 024–105**.
+- Full-volume bilingual meaning-level alignment: **IN PROGRESS — 25 / 64 aligned — 3364–3376, 3154, 3378–3388 / PDF 024–190**.
 - Bilingual Alignment Batch 1 **3364–3368 / PDF 024–049**: **PASS — 5 / 5 aligned**, **1 English correction** in 3364 restoring one omitted PDF 026 sentence, **0 canonical Tamil changes / 0 unresolved alignment items**. Durable report: `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
 - Bilingual Alignment 10-record Batch 2 **3369–3376, 3154, 3378 / PDF 050–105**: **PASS — 10 / 10 aligned**, **6 English corrections across 5 records**, **0 canonical Tamil changes / 0 unresolved alignment items**; all ten embedded Tamil appendices match canonical pages; source number **3154** retained and no 3377 invented. Durable report: `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`.
+- Bilingual Alignment 10-record Batch 3 **3379–3388 / PDF 106–190**: **PASS — 10 / 10 aligned**, **5 English corrections across 5 records** (3382, 3383, 3385, 3386, 3387), **0 canonical Tamil changes / 0 unresolved alignment items**. Durable report: `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`.
 - User-set bilingual-alignment cadence: **10 actual source records per iteration**.
 - English editorial consistency review: **not started**.
 - Translation manifest/final release verification: **not started**.
 
 ### Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**. Compare complete audited Tamil against each English body at meaning level, document any English correction, set `bilingual_alignment_status: aligned` only after PASS, create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`, and stop after **3388 / PDF 190**. Do not begin 3389 in the same activity.
+Perform **Bilingual Alignment 10-record Batch 4 — 3389–3398 / PDF 191–241**. Preserve **3392’s genuine duplicated physical printing**, compare complete audited Tamil against each English body at meaning level, document every English correction, set `bilingual_alignment_status: aligned` only after PASS, create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`, and stop after **3398 / PDF 241**. Do not begin 3399 in the same iteration.
 
 ## Series front matter optimization — 2026-09-19
 

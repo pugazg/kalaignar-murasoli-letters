@@ -11,7 +11,7 @@ source_printed_page_end: 139
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 series_note: "Fourth part of the நலிவும் நானும் - நாட்குறிப்பு series"
 ---
 
@@ -185,7 +185,7 @@ Had something happened to me that very day, a few people today would have been l
 
 ## 16-2-2009
 
-Today I underwent blood tests and a chest X-ray, and all were found to be normal.
+Today I underwent blood tests and a heart X-ray, and all were found to be normal.
 
 On behalf of the United Progressive Alliance government at the Centre, Union Minister Pranab Mukherjee presented and spoke on the Financial Statement today.
 

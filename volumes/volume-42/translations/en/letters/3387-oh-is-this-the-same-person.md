@@ -11,7 +11,7 @@ source_printed_page_end: 185
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3387. Oh! Is This the Same Person?
@@ -192,7 +192,7 @@ when the judicial subcommittee of the Sri Lankan Tamils’ Welfare Rights Counci
 
 Jayalalithaa, the author says, dismissed those efforts as a “fraudulent drama.”
 
-The source attributes to her the position that the Sinhala military was really hunting the Liberation Tigers, not innocent Tamils, and that in war the death of civilians was natural.
+The source attributes to her the position that the Sinhala military was really hunting the Liberation Tigers, not innocent Tamils, and that in war the death of civilians was natural; in the source’s own polemical image, it says she had stood and thundered like a “Kali goddess of the Sinhalese.”
 
 The author therefore asks why someone who spoke that way has suddenly developed so much concern for Sri Lankan Tamils and Katchatheevu.
 

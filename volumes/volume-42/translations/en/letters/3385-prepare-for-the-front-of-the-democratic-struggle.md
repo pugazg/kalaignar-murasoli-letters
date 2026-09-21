@@ -11,7 +11,7 @@ source_printed_page_end: 167
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3385. Prepare — for the Front of the Democratic Struggle!
@@ -154,7 +154,7 @@ Those leading election work must understand all these changes.
 
 People like you should organise training camps, explain these changes clearly, and prepare the workers of our alliance for constructive election work.
 
-Through labour, determination and confidence, the source author calls on his workers to seek victory in every constituency in Tamil Nadu, so that the Congress-led United Progressive Alliance government of the previous five years may continue and so that, in his framing, secularism, humanism, unity and sovereignty may be protected.
+Through labour, determination and confidence, the source author calls on his workers to seek victory in every constituency in Tamil Nadu, so that the Congress-led United Progressive Alliance government of the previous five years may continue and so that, in his framing, secularism, humanism, unity and sovereignty may be protected — and so that the emerging conspiracy which insists on superstitions and prevents excellent schemes from reaching completion may be smashed to dust.
 
 He therefore calls:
 

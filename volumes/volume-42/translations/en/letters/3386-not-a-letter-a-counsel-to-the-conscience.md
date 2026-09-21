@@ -11,7 +11,7 @@ source_printed_page_end: 177
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3386. Not a Letter — a Counsel to the Conscience!
@@ -173,7 +173,7 @@ When I accepted it, and even today whenever election results arrive, Anna’s wo
 
 > “If our victory had stopped at one hundred, we could have remained a strong opposition ... Now it has gone beyond one hundred. If government comes to us, how are we going to protect the Kazhagam?”
 
-After Anna, while governing in his path, the first major test I faced, the source says, was the “muster-roll” corruption issue in the Chennai Corporation.
+After Anna, while governing in his path, the first major test I faced, the source says, was the “muster-roll” corruption issue in the Chennai Corporation, which placed me in a position where I had to be prepared to give up the comforts of office in order to drive it out.
 
 When opposition Members raised in the Assembly that there was “muster-roll corruption” in the Corporation, I immediately stood and said that I knew of the corruption and that whoever was involved, the law would strike them.
 

@@ -12,7 +12,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **IN PROGRESS — 15 / 64 aligned through 3378**
+- [ ] Full-volume bilingual alignment — **IN PROGRESS — 25 / 64 aligned through 3388**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -140,21 +140,39 @@ Cumulative bilingual alignment: **15 / 64 — 3364–3376, 3154, 3378**.
 
 Per user instruction, process **10 actual source records per bilingual-alignment iteration** going forward. Preserve genuine source-number anomalies when counting records. Use a different batch size only if a source boundary makes ten records unsafe or the user explicitly changes the cadence.
 
-## Current exact task — Bilingual Alignment 10-record Batch 3
+## Bilingual Alignment 10-record Batch 3 — COMPLETE
+
+Actual source records **3379–3388 / PDF 106–190** — **PASS / 10 of 10 aligned**.
+
+- English corrections: **5 across 5 records**
+  - **3382** — source `இதய எக்ஸ்ரே` restored as **heart X-ray**.
+  - **3383** — source `சைவப் பெருமாட்டி` qualifier restored as **Saivite grand lady**.
+  - **3385** — omitted anti-superstition / blocked-schemes conspiracy clause restored.
+  - **3386** — omitted willingness to give up comforts of office in the muster-roll passage restored.
+  - **3387** — omitted source polemical “Kali goddess of the Sinhalese” image restored with explicit source attribution.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`.
+
+Cumulative bilingual alignment: **25 / 64 — 3364–3376, 3154, 3378–3388**.
+
+## Current exact task — Bilingual Alignment 10-record Batch 4
 
 Align exactly ten actual source records:
 
-- **3379 — PDF 106–112**
-- **3380 — PDF 113–120**
-- **3381 — PDF 121–130**
-- **3382 — PDF 131–140**
-- **3383 — PDF 141–149**
-- **3384 — PDF 150–160**
-- **3385 — PDF 161–168**
-- **3386 — PDF 169–178**
-- **3387 — PDF 179–186**
-- **3388 — PDF 187–190**
+- **3389 — PDF 191–193**
+- **3390 — PDF 194–202**
+- **3391 — PDF 203–208**
+- **3392 — PDF 209–212**
+- **3393 — PDF 213–218**
+- **3394 — PDF 219–221**
+- **3395 — PDF 222–226**
+- **3396 — PDF 227–231**
+- **3397 — PDF 232–237**
+- **3398 — PDF 238–241**
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`.
+Important: **3392** genuinely prints the same letter twice across PDF 209–212; preserve both physical source copies in the Tamil appendix and do not deduplicate or repair it.
 
-Stop after **3388 / PDF 190**. Do not begin **3389 / PDF 191** in the same activity.
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`.
+
+Stop after **3398 / PDF 241**. Do not begin **3399 / PDF 242** in the same iteration.

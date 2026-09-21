@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 15 / 64 aligned through 3378 / PDF 105.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 25 / 64 aligned through 3388 / PDF 190.**
 
 Tamil prerequisites are complete:
 
@@ -147,6 +147,21 @@ Actual source records: **3369, 3370, 3371, 3372, 3373, 3374, 3375, 3376, 3154, 3
 
 Per user instruction, bilingual alignment now proceeds in **10 actual source records per iteration**.
 
+## Bilingual Alignment 10-record Batch 3 completed
+
+Actual source records **3379–3388 / PDF 106–190**: **PASS — 10 / 10 aligned**.
+
+- English corrections: **5 across 5 records**
+- 3382: source `இதய எக்ஸ்ரே` restored as **heart X-ray**
+- 3383: source `சைவப் பெருமாட்டி` qualifier restored as **Saivite grand lady**
+- 3385: omitted anti-superstition / blocked-schemes conspiracy clause restored
+- 3386: omitted willingness to give up comforts of office in the muster-roll passage restored
+- 3387: omitted source polemical **“Kali goddess of the Sinhalese”** image restored with attribution
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- cumulative aligned: **25 / 64**
+- durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`](BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md)
+
 ## Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**. Stop after **3388 / PDF 190**; do not begin 3389 in the same activity.
+Perform **Bilingual Alignment 10-record Batch 4 — 3389–3398 / PDF 191–241**. Preserve **3392’s genuine duplicate physical printing** and stop after **3398 / PDF 241**; do not begin 3399 in the same iteration.

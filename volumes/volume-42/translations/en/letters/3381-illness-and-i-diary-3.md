@@ -11,7 +11,7 @@ source_printed_page_end: 129
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 series_note: "Third part of the நலிவும் நானும் - நாட்குறிப்பு series"
 ---
 

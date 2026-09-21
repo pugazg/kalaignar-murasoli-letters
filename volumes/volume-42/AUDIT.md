@@ -1548,3 +1548,31 @@ Per user instruction, bilingual alignment now proceeds in **10 actual source rec
 Editorial consistency review and final release verification remain later separate gates.
 
 **Next:** **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**, stopping before 3389 / PDF 191.
+
+## 47. Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 aligned**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`.
+
+### Result
+
+- records aligned: **10 / 10**;
+- cumulative bilingual alignment: **25 / 64 — 3364–3376, 3154, 3378–3388**;
+- English corrections: **5 across 5 records**;
+- **3382:** source `இதய எக்ஸ்ரே` restored as **heart X-ray**, replacing the normalised “chest X-ray”;
+- **3383:** source `சைவப் பெருமாட்டி` qualifier restored as **Saivite grand lady**;
+- **3385:** omitted anti-superstition / blocked-schemes conspiracy clause restored;
+- **3386:** omitted willingness to give up comforts of office in the muster-roll passage restored;
+- **3387:** omitted source polemical “Kali goddess of the Sinhalese” image restored with explicit source attribution;
+- **3379, 3380, 3381, 3384, 3388:** meaning-level PASS without English correction;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- all ten records now carry `bilingual_alignment_status: aligned`.
+
+Per user instruction, bilingual alignment continues in **10 actual source records per iteration**.
+
+Editorial consistency review and final release verification remain later separate gates.
+
+**Next:** **Bilingual Alignment 10-record Batch 4 — 3389–3398 / PDF 191–241**. Preserve **3392’s genuine duplicated physical printing** and stop before 3399 / PDF 242.
