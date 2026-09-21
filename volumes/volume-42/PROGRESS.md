@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**
+- English translation: **PILOT PASS — 3364–3366 source-checked / 3 of 64; conventions locked**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -224,6 +224,17 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+## English pilot — 3364–3366 / PDF 024–032 — PASS
+
+- English records created and source-checked: **3 / 3**.
+- Cumulative translated/source-checked records: **3 / 64 — 3364–3366**.
+- Complete audited Tamil appendix included in every English record.
+- Tamil changes during English source-check: **0**.
+- Pilot review: **PASS** — `translations/en/PILOT_REVIEW_3364_3366.md`.
+- Volume 42 translation conventions: **LOCKED**.
+- Full-volume bilingual alignment: **not started; later separate gate**.
+- Editorial/release gates: **not started**.
+
 ## Exact next activity
 
-Begin the **three-letter English pilot — 3364–3366 / PDF 024–032**. Translate only from the fidelity-verified canonical Tamil, source-check all three records, then perform the pilot bilingual alignment/convention-lock review before any main translation batch.
+Translate and source-check the first normal five-record English batch: **3367–3371 / PDF 033–065**. Apply the locked pilot conventions and stop after **3371 / PDF 065**.

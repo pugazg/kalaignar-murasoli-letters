@@ -113,7 +113,7 @@ Manifest validation: **55 records; no duplicate letter numbers; no duplicate Eng
 
 Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.
 
-## Volume 42 — Tamil fidelity closed; English pilot ready
+## Volume 42 — Tamil fidelity closed; English pilot PASS
 
 The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -129,6 +129,6 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Full-volume Tamil structural audit: **PASS**.
 - Second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**.
 - Final batch applied three scan-proven corrections on **PDF 382, 399 and 400**; unresolved fidelity items: **0**.
-- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**.
+- English translation: **PILOT PASS — 3364–3366 source-checked / 3 of 64; conventions locked**.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **English pilot 3364–3366 / PDF 024–032**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/translations/en/PILOT_REVIEW_3364_3366.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **English batch 3367–3371 / PDF 033–065**.

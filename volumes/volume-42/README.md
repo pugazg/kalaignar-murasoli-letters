@@ -35,13 +35,15 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**READY.** All Tamil archival prerequisites are complete. English may begin with the **three-letter pilot 3364–3366 / PDF 024–032**.
+**PILOT PASS.** English Letters **3364–3366** are translated and source-checked; **3 / 64** records are complete and Volume 42 translation conventions are locked.
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+English pilot review: **PASS — 3364–3366 / PDF 024–032; 3 / 3 source-checked; Tamil changes 0; conventions locked.** Durable review: `translations/en/PILOT_REVIEW_3364_3366.md`.
+
 ## Exact next activity
 
-Begin the **three-letter English pilot — 3364–3366 / PDF 024–032**. Complete source-check for all three and the pilot bilingual alignment/convention-lock review before any main translation batch.
+Translate and source-check the first normal five-record English batch **3367–3371 / PDF 033–065**. Apply the locked pilot conventions and stop after Letter 3371.
 
 ## PDF 001–017 shared front matter
 

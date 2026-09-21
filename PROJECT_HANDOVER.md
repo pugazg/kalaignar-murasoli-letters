@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH PILOT READY — 2026-09-21
+## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH PILOT PASS — 2026-09-21
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -224,13 +224,14 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Shared front matter after second-pass Batch 1: **PDF 001–003 local; PDF 004 local difference (`அம்மாவுக்கு...`); PDF 005–017 direct-verified shared references**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
 - Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
-- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**.
+- English translation: **PILOT PASS — 3364–3366 translated/source-checked; 3 / 64 complete; conventions locked**.
 - Letter **3425** contents/actual-title distinction: contents `திருந்தப் போகிறார்களா?`; actual PDF 386 `திருந்தப்போகிறார்களா?`.
 - Letter **3427** closes at PDF **401 / printed 400**; PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428** is created in Volume 42.
+- English pilot **3364–3366 / PDF 024–032**: **PASS — 3 / 3 source-checked**, complete audited Tamil appendices included, **0 Tamil changes**, pilot review PASS, conventions locked in the Volume 42 glossary.
 
 ### Exact next activity
 
-Begin the **three-letter English pilot — 3364–3366 / PDF 024–032**. Translate only from the fidelity-verified canonical Tamil, source-check all three records, then complete the pilot bilingual alignment/convention-lock review before the first main translation batch.
+Translate and source-check the first normal five-record English batch **3367–3371 / PDF 033–065**. Use the locked Volume 42 pilot conventions, update the glossary only for genuinely new recurring terms, and stop after **3371 / PDF 065**.
 
 ## Series front matter optimization — 2026-09-19
 

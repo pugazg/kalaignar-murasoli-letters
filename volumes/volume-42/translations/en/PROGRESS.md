@@ -1,13 +1,24 @@
 # Volume 42 — English Progress
 
-- [ ] Tamil transcription complete
-- [ ] Full-volume Tamil structural audit complete
-- [ ] Mandatory textual-fidelity gate complete
-- [ ] Three-letter pilot
-- [ ] Pilot source-check / bilingual alignment
+- [x] Tamil transcription complete
+- [x] Full-volume Tamil structural audit complete
+- [x] Mandatory textual-fidelity gate complete
+- [x] Three-letter pilot — **3364–3366**
+- [x] Pilot source-check / coverage review — **PASS**
+- [x] Pilot translation conventions locked
 - [ ] Main translation batches
 - [ ] Volume-level bilingual alignment
 - [ ] Editorial consistency review
 - [ ] Manifest / release report
 
-**Current status: blocked.** Active work is the Tamil first batch PDF 001–025.
+## Current state
+
+- translated/source-checked: **3 / 64**
+- translated range: **3364–3366**
+- Tamil changes during pilot source-check: **0**
+- full-volume bilingual alignment: **not started**
+- release: **not started**
+
+## Next
+
+Translate and source-check **3367–3371 / PDF 033–065**. Stop after **3371 / PDF 065**.

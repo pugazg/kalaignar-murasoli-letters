@@ -1211,3 +1211,34 @@ The known Letter **3425** title-layer distinction remains intact: contents `த�
 **Final gate result: PASS / COMPLETE / CLOSED.** The Volume 42 second full-volume direct visual/textual-fidelity verification now covers **PDF 001–402 / 402**.
 
 English translation is **READY**. Next activity: **three-letter English pilot 3364–3366 / PDF 024–032**.
+
+## 37. English pilot — 3364–3366 / PDF 024–032
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 3 / 3 translated and source-checked; pilot conventions locked**
+
+### Scope
+
+- **3364** — PDF 024–027 / printed 23–26
+- **3365** — PDF 028–031 / printed 27–30
+- **3366** — PDF 032 / printed 31
+
+### Source-check result
+
+- English records completed: **3 / 3**.
+- Each record was re-read against the complete fidelity-verified canonical Tamil.
+- Complete audited Tamil appendices with physical source-page markers are included in all three records.
+- Titles, dates, question-and-answer structure, political rhetoric, quotations, slogans, source-supplied English and closings were checked.
+- New Tamil correction required during English source-check: **0**.
+- Pilot review: `translations/en/PILOT_REVIEW_3364_3366.md` — **PASS**.
+- Volume 42 English conventions: **LOCKED** in `translations/en/GLOSSARY.md`.
+- Full-volume bilingual meaning-level alignment remains a later separate gate.
+
+### Durable translation state
+
+- translated/source-checked: **3 / 64 — 3364–3366**;
+- main translation batches: **READY**;
+- editorial consistency review: **not started**;
+- final release: **not started**.
+
+**Next:** translate and source-check **3367–3371 / PDF 033–065** and stop after Letter 3371.

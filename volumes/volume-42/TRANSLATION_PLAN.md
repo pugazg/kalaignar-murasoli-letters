@@ -1,6 +1,6 @@
-# Volume 42 English Translation Plan — READY
+# Volume 42 English Translation Plan — PILOT PASS
 
-English translation has **not** begun. All Tamil archival prerequisites are complete, so the next permitted activity is the three-letter English pilot.
+The three-letter English pilot is complete and source-checked. Volume 42 translation conventions are now locked for the main batches.
 
 ## Gate status
 
@@ -9,46 +9,49 @@ English translation has **not** begun. All Tamil archival prerequisites are comp
 - [x] Canonical Tamil page transcription — **PDF 001–402 / 402**
 - [x] Full-volume Tamil structural audit — **PASS**
 - [x] Mandatory second visual/textual-fidelity verification — **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**
-- [ ] Three-letter English pilot
-- [ ] Pilot bilingual source-alignment review and locked conventions
+- [x] Three-letter English pilot — **3364–3366**
+- [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [ ] Main translation batches
-- [ ] Bilingual alignment
+- [ ] Full-volume bilingual alignment
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
-## Tamil gate closure
+## Pilot result
 
-The final second-pass batch directly verified **3424–3427 / PDF 380–401 plus non-letter PDF 402** and applied three scan-proven corrections on **PDF 382, 399 and 400**. There are **0 unresolved fidelity items**.
+Pilot records:
 
-Durable Tamil reports:
+1. **3364 — One Born to Work, and a Pleasure-Seeker Born to Rest!** — PDF **024–027**
+2. **3365 — There Is Life If We Unite!** — PDF **028–031**
+3. **3366 — The Heart — and the Pit!** — PDF **032**
 
-- `FULL_VOLUME_STRUCTURAL_AUDIT.md`
-- `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`
+All three records are **source-checked** against the fidelity-verified canonical Tamil. Pilot review: `translations/en/PILOT_REVIEW_3364_3366.md`.
 
-The controlling scan remains the ultimate authority if a possible Tamil defect is discovered during translation or alignment. Do not silently normalize or correct the source from outside knowledge.
+No audited Tamil reading became doubtful during the pilot source-check; Tamil changes during the pilot: **0**.
 
-## Translation method
-
-Follow the repository's established thought-preserving, non-literary English method:
+## Locked translation method
 
 - translate only from the fidelity-verified canonical Tamil;
 - preserve thought and argument order, political directness, accusation, irony, repetition and rhetorical questions;
 - preserve names, dates, figures, units, lists, quotations, chronology and source anomalies;
-- retain source-supplied English when genuinely printed;
-- use `Udanpirappē` for the characteristic salutation when supported by the source;
+- retain source-supplied English verbatim when it functions as printed source wording;
+- retain `Udanpirappē` and use `Udanpirappugal` where the plural carries the source’s political-familial movement vocabulary;
 - use `With affection, M.K.` for the standard `அன்புள்ள, மு.க.` closing;
-- retain public-language units such as `lakh` and `crore`;
+- use **Union Government** / **State government** in institutional prose;
 - do not compress, soften, broaden, reorder or supplement the source for elegance;
 - every English record must include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`;
-- keep `source-checked` separate from `bilingual_alignment_status: aligned`;
-- if translation work exposes a possible Tamil defect, return to the controlling scan and repair the Tamil archive only when the scan proves the correction.
+- keep source-check, later full-volume bilingual alignment, editorial review and release verification as separate gates;
+- if translation exposes a possible Tamil defect, return to the controlling scan and alter Tamil only when the scan proves the correction.
 
-## Current exact task — three-letter pilot
+Durable terminology: `translations/en/GLOSSARY.md`.
+
+## Current exact task — first normal five-record batch
 
 Translate and source-check:
 
-1. **3364 — `உழைத்திடும் பிறவியும், ஓய்வெடுக்கும் உல்லாசியும்!`** — PDF **024–027** / printed **23–26**
-2. **3365 — `ஒன்றுபட்டால் உண்டு வாழ்வே!`** — PDF **028–031** / printed **27–30**
-3. **3366 — `உள்ளமும் - பள்ளமும்!`** — PDF **032** / printed **31**
+- **3367** — PDF **033–040** / printed **32–39** — `திருமணத்திற்காக எடுத்த பட்டுப் புடவைதான்!`
+- **3368** — PDF **041–049** / printed **40–48** — `கையை நீட்டுகிறார்; காங்கிரசாரே எச்சரிக்கை!`
+- **3369** — PDF **050–055** / printed **49–54** — `புதியதோர் விதி செய்வோம்!`
+- **3370** — PDF **056–061** / printed **55–60** — `இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட!`
+- **3371** — PDF **062–065** / printed **61–64** — `இன்று என் வாழ்விலோர் திருநாள்!`
 
-After the three records are source-checked, perform the pilot bilingual source-alignment review and lock recurring translation conventions before starting the main five-record translation batches.
+Stop after **3371 / PDF 065**. Do not start Letter 3372 in the same activity.
