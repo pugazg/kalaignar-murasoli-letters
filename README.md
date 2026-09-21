@@ -129,6 +129,6 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Full-volume Tamil structural audit: **PASS**.
 - Second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**.
 - Final batch applied three scan-proven corrections on **PDF 382, 399 and 400**; unresolved fidelity items: **0**.
-- English translation: **MAIN TRANSLATION IN PROGRESS — 28 / 64 source-checked; latest 10-record batch through 3391 PASS**.
+- English translation: **MAIN TRANSLATION IN PROGRESS — 38 / 64 source-checked; latest 10-record batch through 3401 PASS**.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/translations/en/PILOT_REVIEW_3364_3366.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3367_3371.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3372_3381.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3382_3391.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **10-record English batch 3392–3401 / PDF 209–259**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/translations/en/PILOT_REVIEW_3364_3366.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3367_3371.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3372_3381.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3382_3391.md`, `volumes/volume-42/translations/en/SOURCE_CHECK_3392_3401.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **10-record English batch 3402–3411 / PDF 260–310**.

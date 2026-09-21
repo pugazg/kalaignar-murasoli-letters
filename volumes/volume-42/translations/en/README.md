@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION IN PROGRESS — 28 / 64 source-checked; latest 10-record batch PASS through 3391 / PDF 208.**
+**Status:** **MAIN TRANSLATION IN PROGRESS — 38 / 64 source-checked; latest 10-record batch PASS through 3401 / PDF 259.**
 
 Tamil prerequisites are complete:
 
@@ -61,6 +61,19 @@ Actual source records: **3382–3391** — PDF **131–208**.
 
 Full-volume bilingual meaning-level alignment remains a later gate.
 
+## 10-record Batch 4 completed
+
+Actual source records: **3392–3401** — PDF **209–259**.
+
+- source-checked: **10 / 10**
+- cumulative: **38 / 64**
+- Tamil changes: **0**
+- unresolved source-check items: **0**
+- 3392’s genuine duplicate physical printing preserved in full Tamil appendix
+- 3395 quoted book passages translated only from the Tamil source rendering
+- 3399 technical/environmental and welfare lists retained in detail as source claims
+- durable report: [`SOURCE_CHECK_3392_3401.md`](SOURCE_CHECK_3392_3401.md)
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3392–3401 / PDF 209–259**. Preserve Letter 3392’s genuine duplicate physical printing; stop after **3401**.
+Translate and source-check the next **10 actual source records — 3402–3411 / PDF 260–310**. Stop after **3411**.

@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **MAIN TRANSLATION IN PROGRESS — 28 / 64 source-checked through actual source record 3391**
+- English translation: **MAIN TRANSLATION IN PROGRESS — 38 / 64 source-checked through actual source record 3401**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -279,6 +279,21 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - English cadence remains **10 actual source records per iteration**.
 - Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
 
+## English 10-record Batch 4 — 3392–3401 / PDF 209–259 — PASS
+
+- Actual source records translated/source-checked: **10 / 10**.
+- Cumulative English records: **38 / 64**.
+- Cumulative source identity: **3364–3376, 3154, 3378–3401**.
+- Complete audited Tamil appendix included in every English record.
+- **3392** genuine duplicated printing across PDF 209–212 preserved in full in the Tamil appendix; no deduplication or repair.
+- **3395** quoted *You Can Win* material translated only from the Tamil rendering printed in Volume 42.
+- **3399** technical/environmental and fishermen-welfare lists retained in detail as source claims.
+- Tamil changes during English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Batch source-check report: `translations/en/SOURCE_CHECK_3392_3401.md` — **PASS**.
+- English cadence remains **10 actual source records per iteration**.
+- Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3392–3401 / PDF 209–259**. Preserve **3392’s genuine duplicated physical printing** exactly in the Tamil appendix. Stop after **3401 / PDF 259**; do not begin 3402 / PDF 260 in the same iteration.
+Translate and source-check the next **10 actual source records — 3402–3411 / PDF 260–310**. Stop after **3411 / PDF 310**; do not begin 3412 / PDF 311 in the same iteration.

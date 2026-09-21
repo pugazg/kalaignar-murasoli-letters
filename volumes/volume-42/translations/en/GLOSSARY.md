@@ -1,6 +1,6 @@
 # Volume 42 — English Glossary
 
-**Status:** locked after pilot review; extended through 10-record Batch 3 — **28 / 64 source-checked through 3391**.
+**Status:** locked after pilot review; extended through 10-record Batch 4 — **38 / 64 source-checked through 3401**.
 
 | Tamil source form | English treatment | Note |
 |---|---|---|
@@ -25,6 +25,8 @@
 | `நலிவும் நானும் - நாட்குறிப்பு` | **Illness and I — Diary** | Stable title for the six-part diary sequence 3379–3384. |
 | `கச்சத் தீவு` | **Katchatheevu** | Preserve the source place name; do not infer a current sovereignty/legal conclusion from historical letters. |
 | `செம்மொழி` | **Classical Language** | Use for the source’s formal Classical Tamil / Classical Language status discussion. |
+| `சேது சமுத்திரத் திட்டம்` / `சேதுத் திட்டம்` | **Sethusamudram project / Sethu project** | Preserve source naming; do not independently adjudicate environmental, economic or religious claims. |
+| `வேலை நிறுத்தம்` | **work stoppage** | Preferred neutral rendering in the April 2009 Sri Lankan-Tamil protest context; preserve source political framing. |
 
 ## Locked method notes
 

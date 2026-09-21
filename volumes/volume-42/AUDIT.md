@@ -1350,3 +1350,38 @@ Special source structures preserved:
 Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
 
 **Next:** translate/source-check **3392–3401 / PDF 209–259**. Preserve **3392’s genuine duplicated physical body**; stop before **3402 / PDF 260**.
+
+## 41. English 10-record Batch 4 — 3392–3401 / PDF 209–259
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 translated and source-checked**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3392_3401.md`.
+
+### Scope
+
+- **3392** — PDF 209–212 — genuine duplicate physical printing preserved
+- **3393** — PDF 213–218
+- **3394** — PDF 219–221
+- **3395** — PDF 222–226
+- **3396** — PDF 227–231
+- **3397** — PDF 232–237
+- **3398** — PDF 238–241
+- **3399** — PDF 242–251
+- **3400** — PDF 252–257
+- **3401** — PDF 258–259
+
+### Result
+
+- actual source records translated/source-checked: **10 / 10**;
+- cumulative translated/source-checked: **38 / 64**;
+- complete audited Tamil appendices present: **10 / 10**;
+- **3392** source duplication retained in full; no deduplication/source repair;
+- **3395** quoted `You Can Win` passages translated from the Tamil wording printed in Volume 42 rather than an external English edition;
+- **3399** environmental, technical, livelihood and welfare lists retained in detail as source assertions;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
+
+**Next:** translate/source-check **3402–3411 / PDF 260–310**; stop before **3412 / PDF 311**.
