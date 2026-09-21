@@ -1242,3 +1242,33 @@ English translation is **READY**. Next activity: **three-letter English pilot 33
 - final release: **not started**.
 
 **Next:** translate and source-check **3367–3371 / PDF 033–065** and stop after Letter 3371.
+
+## 38. English normal Batch 1 — 3367–3371 / PDF 033–065
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 5 / 5 translated and source-checked**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3367_3371.md`.
+
+### Scope
+
+- **3367** — PDF 033–040 / printed 32–39
+- **3368** — PDF 041–049 / printed 40–48
+- **3369** — PDF 050–055 / printed 49–54
+- **3370** — PDF 056–061 / printed 55–60
+- **3371** — PDF 062–065 / printed 61–64
+
+### Result
+
+- records translated/source-checked: **5 / 5**;
+- cumulative translated/source-checked: **8 / 64 — 3364–3371**;
+- complete audited Tamil appendices present: **5 / 5**;
+- source-supplied English omitted or normalised: **0**;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+Letter 3368 retains its printed English communication to Acting Chief Justice S. J. Mukhopadhaya verbatim. Letter 3370 retains the source’s own “one month later” / printed-date chronology without correction. Letter 3371 retains its embedded 26.2.2009 Assembly address separately from the main 27-2-2009 closing.
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
+
+**Next:** translate/source-check **3372–3376 / PDF 066–091**; stop before **3154 / PDF 092**.

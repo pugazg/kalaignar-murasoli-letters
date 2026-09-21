@@ -1,6 +1,6 @@
-# Volume 42 English Translation Plan — PILOT PASS
+# Volume 42 English Translation Plan — MAIN TRANSLATION IN PROGRESS
 
-The three-letter English pilot is complete and source-checked. Volume 42 translation conventions are now locked for the main batches.
+The three-letter pilot is complete and source-checked, Volume 42 translation conventions are locked, and the first normal five-record batch is complete.
 
 ## Gate status
 
@@ -11,22 +11,27 @@ The three-letter English pilot is complete and source-checked. Volume 42 transla
 - [x] Mandatory second visual/textual-fidelity verification — **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
-- [ ] Main translation batches
+- [ ] Main translation batches — **IN PROGRESS; Batch 1 complete**
 - [ ] Full-volume bilingual alignment
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
-## Pilot result
+## English progress
 
-Pilot records:
+### Pilot — PASS
 
-1. **3364 — One Born to Work, and a Pleasure-Seeker Born to Rest!** — PDF **024–027**
-2. **3365 — There Is Life If We Unite!** — PDF **028–031**
-3. **3366 — The Heart — and the Pit!** — PDF **032**
+- **3364–3366 / PDF 024–032**
+- **3 / 3 source-checked**
+- review: `translations/en/PILOT_REVIEW_3364_3366.md`
 
-All three records are **source-checked** against the fidelity-verified canonical Tamil. Pilot review: `translations/en/PILOT_REVIEW_3364_3366.md`.
+### Normal Batch 1 — PASS
 
-No audited Tamil reading became doubtful during the pilot source-check; Tamil changes during the pilot: **0**.
+- **3367–3371 / PDF 033–065**
+- **5 / 5 source-checked**
+- batch source check: `translations/en/SOURCE_CHECK_3367_3371.md`
+- Tamil changes during batch source-check: **0**
+
+Cumulative translated/source-checked: **8 / 64 — 3364–3371**.
 
 ## Locked translation method
 
@@ -37,6 +42,8 @@ No audited Tamil reading became doubtful during the pilot source-check; Tamil ch
 - retain `Udanpirappē` and use `Udanpirappugal` where the plural carries the source’s political-familial movement vocabulary;
 - use `With affection, M.K.` for the standard `அன்புள்ள, மு.க.` closing;
 - use **Union Government** / **State government** in institutional prose;
+- preserve source political terms such as **Tamil Eelam**, **ceasefire** and source-attributed **genocide** without outside adjudication;
+- use **internal reservation** for `உள் ஒதுக்கீடு`;
 - do not compress, soften, broaden, reorder or supplement the source for elegance;
 - every English record must include the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்`;
 - keep source-check, later full-volume bilingual alignment, editorial review and release verification as separate gates;
@@ -44,14 +51,14 @@ No audited Tamil reading became doubtful during the pilot source-check; Tamil ch
 
 Durable terminology: `translations/en/GLOSSARY.md`.
 
-## Current exact task — first normal five-record batch
+## Current exact task — normal Batch 2
 
 Translate and source-check:
 
-- **3367** — PDF **033–040** / printed **32–39** — `திருமணத்திற்காக எடுத்த பட்டுப் புடவைதான்!`
-- **3368** — PDF **041–049** / printed **40–48** — `கையை நீட்டுகிறார்; காங்கிரசாரே எச்சரிக்கை!`
-- **3369** — PDF **050–055** / printed **49–54** — `புதியதோர் விதி செய்வோம்!`
-- **3370** — PDF **056–061** / printed **55–60** — `இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட!`
-- **3371** — PDF **062–065** / printed **61–64** — `இன்று என் வாழ்விலோர் திருநாள்!`
+- **3372** — PDF **066–069** / printed **65–68** — `இது எப்போதும் உங்கள் உயிர்!`
+- **3373** — PDF **070–073** / printed **69–72** — `அனைவர் அகமும் அன்பகம் ஆகிட...!`
+- **3374** — PDF **074–078** / printed **73–77** — `பட்டியல் தரவா; பாடம் பெறவே!`
+- **3375** — PDF **079–084** / printed **78–83** — `அமைக்கிறது மீண்டும் வெற்றிக் கூட்டணி!`
+- **3376** — PDF **085–091** / printed **84–90** — `கேள்வி கேட்கக் கூடாதாம்!`
 
-Stop after **3371 / PDF 065**. Do not start Letter 3372 in the same activity.
+Stop after **3376 / PDF 091**. Do not begin the verified source-numbering anomaly record **3154 / PDF 092** in the same activity.

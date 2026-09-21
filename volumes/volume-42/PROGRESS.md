@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **PILOT PASS — 3364–3366 source-checked / 3 of 64; conventions locked**
+- English translation: **MAIN TRANSLATION IN PROGRESS — 3364–3371 source-checked / 8 of 64**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -235,6 +235,19 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Full-volume bilingual alignment: **not started; later separate gate**.
 - Editorial/release gates: **not started**.
 
+## English normal Batch 1 — 3367–3371 / PDF 033–065 — PASS
+
+- English records translated and source-checked: **5 / 5**.
+- Cumulative translated/source-checked: **8 / 64 — 3364–3371**.
+- Complete audited Tamil appendix included in every English record.
+- Source-supplied English in Letter **3368** was retained verbatim.
+- Letter **3370** preserves the source’s printed chronological anomaly rather than silently reconciling it.
+- Letter **3371** preserves the embedded **26.2.2009** Assembly address separately from the main **27-2-2009** letter closing.
+- Tamil changes during this English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Batch report: `translations/en/SOURCE_CHECK_3367_3371.md` — **PASS**.
+- Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
+
 ## Exact next activity
 
-Translate and source-check the first normal five-record English batch: **3367–3371 / PDF 033–065**. Apply the locked pilot conventions and stop after **3371 / PDF 065**.
+Translate and source-check **3372–3376 / PDF 066–091**. Stop after **3376 / PDF 091** and do not begin source record **3154 / PDF 092** in the same activity.

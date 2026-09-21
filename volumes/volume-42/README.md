@@ -35,15 +35,17 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**PILOT PASS.** English Letters **3364–3366** are translated and source-checked; **3 / 64** records are complete and Volume 42 translation conventions are locked.
+**MAIN TRANSLATION IN PROGRESS.** English Letters **3364–3371** are translated and source-checked; **8 / 64** records are complete. Pilot conventions remain locked and Batch 1 source-check is PASS.
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 English pilot review: **PASS — 3364–3366 / PDF 024–032; 3 / 3 source-checked; Tamil changes 0; conventions locked.** Durable review: `translations/en/PILOT_REVIEW_3364_3366.md`.
 
+English normal Batch 1: **PASS — 3367–3371 / PDF 033–065; 5 / 5 source-checked; cumulative 8 / 64; Tamil changes 0; unresolved source-check items 0.** Durable report: `translations/en/SOURCE_CHECK_3367_3371.md`.
+
 ## Exact next activity
 
-Translate and source-check the first normal five-record English batch **3367–3371 / PDF 033–065**. Apply the locked pilot conventions and stop after Letter 3371.
+Translate and source-check **3372–3376 / PDF 066–091**. Apply the locked Volume 42 conventions and stop before source record **3154 / PDF 092**.
 
 ## PDF 001–017 shared front matter
 

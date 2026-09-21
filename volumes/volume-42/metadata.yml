@@ -37,9 +37,9 @@ second_visual_verification: "complete-pass"
 second_visual_verified_page_range: "1-402"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "pilot-pass-source-checked-3364-3366; main-batches-ready"
-translated_letter_range: "3364-3366"
-translated_letter_count: 3
+translation_status: "main-translation-in-progress; source-checked-3364-3371"
+translated_letter_range: "3364-3371"
+translated_letter_count: 8
 bilingual_alignment_status: "pilot-source-review-pass; full-volume-not-started"
 editorial_consistency_review_status: "not-started"
 english_release_status: "not-started"
@@ -63,6 +63,7 @@ source_observations:
   - "Second visual/textual-fidelity Batch 13 directly verified source records 3419-3423 across PDF 352-379; 3 scan-proven textual corrections were applied across 3 canonical pages (357, 364, 368), including preservation of the scan-printed source form புறங்காந்திமடைந்து on PDF 357. No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "Final second visual/textual-fidelity Batch 14 directly verified source records 3424-3427 across PDF 380-401 plus non-letter PDF 402; 3 scan-proven corrections were applied on PDF 382, 399 and 400. Letter 3425 title-layer distinction, Letter 3427 closing at PDF 401, PDF 402 non-letter classification and the absence of Letter 3428 remain intact. The second-pass fidelity gate is PASS / COMPLETE / CLOSED at PDF 001-402 / 402 with 0 unresolved fidelity items; English is ready for the three-letter pilot 3364-3366 / PDF 024-032."
   - "English pilot 3364-3366 across PDF 024-032 is complete: 3 / 3 records translated and source-checked, complete audited Tamil appendices included, 0 Tamil changes during source-check, pilot review PASS and Volume 42 translation conventions locked. First normal English batch is 3367-3371 / PDF 033-065."
+  - "English normal Batch 1 3367-3371 across PDF 033-065 is complete: 5 / 5 records translated and source-checked, cumulative 8 / 64, complete audited Tamil appendices included, source-supplied English in 3368 preserved verbatim, 0 Tamil changes and 0 unresolved source-check items. Next English batch is 3372-3376 / PDF 066-091; stop before source-numbering anomaly record 3154 / PDF 092."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
