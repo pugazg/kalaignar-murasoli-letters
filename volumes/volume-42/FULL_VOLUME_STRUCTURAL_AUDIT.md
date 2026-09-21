@@ -118,7 +118,7 @@ Current Tamil gate state:
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**
 - full-volume structural audit: **PASS**
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–073 / 402 verified**
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–105 / 402 verified**
 - English translation: **BLOCKED**
 
 ## Post-structural fidelity note — 2026-09-20
@@ -126,11 +126,12 @@ Current Tamil gate state:
 - Second-pass Batch 1 directly verified PDF **001–023**. It exposed a textual/source-policy defect not visible to the structural gate: PDF **004** prints Volume 42-local `அம்மாவுக்கு...`, not the Volume 43 shared-reference `அண்ணாவுக்கு...`. PDF 004 is now local; PDF 005–017 remain shared references. PDF 003 was also expanded from a selective summary to the complete printed publication-details page.
 - Second-pass Batch 2 directly verified Letters **3364–3368 / PDF 024–049** and corrected canonical pages **026, 029, 034, 036, 037, 044 and 046**. The major semantic repair is PDF 044 `உத்தரவாதம் அளிக்கக்கூடிய`; no structural range/title/date change resulted.
 - Second-pass Batch 3 directly verified Letters **3369–3373 / PDF 050–073** and corrected canonical pages **053, 058, 060, 061 and 063**. Major repairs restore PDF 060 `ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`, PDF 061 `அறிக்கையாக்கியிருக்கிறேன்`, and PDF 063 `டெல்லி மருத்துவரும்`; no structural range/title/date change resulted.
+- Second-pass Batch 4 directly verified source records **3374, 3375, 3376, 3154 and 3378 / PDF 074–105** and applied **21 scan-proven corrections across 12 canonical pages — 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102 and 103**. The source-number anomaly **3154** remains unchanged; no structural range, title, date, boundary or contents-row change resulted.
 
 Structural counts/ranges remain unchanged.
 
 ## Exact next activity
 
-Continue the separate **second full-volume direct visual/textual-fidelity verification with 3374, 3375, 3376, 3154 and 3378 / PDF 074–105**, stopping before PDF 106.
+Continue the separate **second full-volume direct visual/textual-fidelity verification with 3379–3383 / PDF 106–149**, stopping before PDF 150.
 
 Compare the canonical Tamil against the controlling scan directly, preserve the verified **3154** source-number anomaly and all physical page boundaries, record every scan-proven correction, and do **not** begin English translation until the full second-pass fidelity gate is complete.
