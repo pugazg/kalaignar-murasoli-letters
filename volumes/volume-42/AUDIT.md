@@ -802,3 +802,45 @@ PDF **106–108, 110, 113–115, 117, 121, 123, 125, 130–131, 133–142 and 14
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–149 / 402 verified**.
 
 **Next:** **3384–3388 / PDF 150–190**, stop before **3389 / PDF 191**.
+
+## 28. Second full-volume direct visual/textual-fidelity verification — Batch 6 / 3384–3388 / PDF 150–190
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–190 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3384** — PDF 150–160 / printed 149–159
+- **3385** — PDF 161–168 / printed 160–167
+- **3386** — PDF 169–178 / printed 168–177
+- **3387** — PDF 179–186 / printed 178–185
+- **3388** — PDF 187–190 / printed 186–189
+
+Every physical page in PDF **150–190** was directly inspected against the controlling scan.
+
+### Scan-proven canonical changes
+
+- **14 textual corrections** across PDF **151, 154, 158, 162, 179, 184, 187 and 188**.
+- **1 physical page-boundary restoration** across PDF **157→158**, restoring the continuation after `இன்றைக்கே அறிவித்தால் என்ன` to the beginning of PDF 158.
+- Letter **3388** retains the actual-source main title `அந்த நினைவுக்கு ஒரு நன்றி!!` with the separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`.
+
+### Directly verified with no correction
+
+PDF **150, 152–153, 155–156, 159–161, 163–178, 180–183, 185–186 and 189–190**. Record **3386** required no canonical correction.
+
+### Batch reconciliation
+
+- directly verified pages: **41 / 41**;
+- canonical pages changed: **9**;
+- scan-proven textual corrections: **14**;
+- physical page-boundary restorations: **1**;
+- letter-title/date/chapter-boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–190 / 402 verified**.
+
+**Next:** **3389–3393 / PDF 191–218**, stop before **3394 / PDF 219**.
