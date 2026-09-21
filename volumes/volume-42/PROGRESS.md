@@ -115,10 +115,10 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 ## Fidelity Batch 6 — 3384–3388 / PDF 150–190 — PASS
 
 - Direct visual comparison completed for **41 / 41 physical pages**.
-- Canonical pages changed: **9 — PDF 151, 154, 157, 158, 162, 179, 184, 187 and 188**.
-- Scan-proven textual corrections applied: **14**.
+- Canonical pages changed: **10 — PDF 151, 154, 157, 158, 162, 167, 179, 184, 187 and 188**.
+- Scan-proven textual corrections applied: **17**.
 - Physical page-boundary restorations: **1 — PDF 157 → 158 continuation restored to the scan boundary after `இன்றைக்கே அறிவித்தால் என்ன`**.
-- PDF **150, 152–153, 155–156, 159–161, 163–178, 180–183, 185–186 and 189–190** required no canonical correction.
+- PDF **150, 152–153, 155–156, 159–161, 163–166, 168–178, 180–183, 185–186 and 189–190** required no canonical correction.
 - Letter **3388 / PDF 187** retains the actual-source main title `அந்த நினைவுக்கு ஒரு நன்றி!!` plus separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`.
 - Letter titles, dates, closings, chapter boundaries and printed contents rows changed: **0**.
 - English remains **blocked**.

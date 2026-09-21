@@ -822,19 +822,19 @@ Every physical page in PDF **150–190** was directly inspected against the cont
 
 ### Scan-proven canonical changes
 
-- **14 textual corrections** across PDF **151, 154, 158, 162, 179, 184, 187 and 188**.
+- **17 textual corrections** across PDF **151, 154, 157, 158, 162, 167, 179, 184, 187 and 188**.
 - **1 physical page-boundary restoration** across PDF **157→158**, restoring the continuation after `இன்றைக்கே அறிவித்தால் என்ன` to the beginning of PDF 158.
 - Letter **3388** retains the actual-source main title `அந்த நினைவுக்கு ஒரு நன்றி!!` with the separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`.
 
 ### Directly verified with no correction
 
-PDF **150, 152–153, 155–156, 159–161, 163–178, 180–183, 185–186 and 189–190**. Record **3386** required no canonical correction.
+PDF **150, 152–153, 155–156, 159–161, 163–166, 168–178, 180–183, 185–186 and 189–190**. Record **3386** required no canonical correction.
 
 ### Batch reconciliation
 
 - directly verified pages: **41 / 41**;
-- canonical pages changed: **9**;
-- scan-proven textual corrections: **14**;
+- canonical pages changed: **10**;
+- scan-proven textual corrections: **17**;
 - physical page-boundary restorations: **1**;
 - letter-title/date/chapter-boundary changes: **0**;
 - contents-row changes: **0**;
