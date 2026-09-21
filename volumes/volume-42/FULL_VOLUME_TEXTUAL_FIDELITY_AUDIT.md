@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–379 / 402 VERIFIED**  
+**Status:** **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -13,7 +13,7 @@ The Volume 42 first-pass canonical source archive is complete and the full-volum
 
 The scan is authoritative. Existing canonical text, shared-series references, contents records and other volumes are comparison aids only; they may not override what is visibly printed in Volume 42.
 
-English translation remains **blocked** until this second-pass gate reaches **PDF 001–402 / 402 — PASS**.
+English translation is now **READY** for the three-letter pilot; the Tamil second-pass fidelity gate is closed.
 
 ## Verification method
 
@@ -26,9 +26,9 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–379 / 402 — VERIFIED.**
+**PDF 001–402 / 402 — VERIFIED / COMPLETE.**
 
-This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
+The full controlling source has now been independently direct-verified. Detailed per-batch results follow; no unresolved fidelity item remains.
 
 ### Scan-proven corrections in PDF 001–023
 
@@ -88,8 +88,8 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–379 / 402**;
-- English translation: **BLOCKED**.
+- second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**;
+- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
 
@@ -623,14 +623,52 @@ The unusual PDF 357 form `புறங்காந்திமடைந்து
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–379 / 402 VERIFIED**.
 
-## Exact next activity
+## Batch 14 — FINAL — Source records 3424–3427 / PDF 380–402 — PASS
 
-Complete the final second direct visual/textual-fidelity verification with the remaining four source records and final non-letter page:
+Every physical source page from PDF **380** through **402** was directly rendered and compared against the canonical page record. The batch covers the final four source records plus the terminal non-letter page:
 
-- **3424** — PDF **380–385** / printed **379–384** — `அடித்தட்டல்ல; அடித்தளமானவர்கள்!`
-- **3425** — PDF **386–388** / printed **385–387** — actual title at PDF 386 uses joined `திருந்தப்போகிறார்களா?`; preserve the known contents/actual-title distinction.
-- **3426** — PDF **389–395** / printed **388–394** — `“நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்!`
-- **3427** — PDF **396–401** / printed **395–400** — `மேலும் பயன்படுகின்ற சந்திப்பு!`
+- **3424** — PDF 380–385 / printed 379–384 — `அடித்தட்டல்ல; அடித்தளமானவர்கள்!`
+- **3425** — PDF 386–388 / printed 385–387 — actual heading retains joined `திருந்தப்போகிறார்களா?`
+- **3426** — PDF 389–395 / printed 388–394 — `“நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்!`
+- **3427** — PDF 396–401 / printed 395–400 — `மேலும் பயன்படுகின்ற சந்திப்பு!`
 - **PDF 402** — non-letter back-cover / portrait / publisher-contact-price material.
 
-Directly compare **PDF 380–402 / 23 physical pages**. This is the final Volume 42 second-pass batch. Keep English blocked until the batch passes and the full **402 / 402** fidelity gate is closed.
+### Scan-proven textual corrections
+
+1. **PDF 382 / 3424** — `நாம்பிணைந்து` → **`நாற்பிணைந்து`**
+2. **PDF 399 / 3427** — `குறிப்பிட்டத்தக்க நிகழ்வு` → **`குறிப்பிடத்தக்க நிகழ்வு`**
+3. **PDF 400 / 3427** — `200 வீடுகளைக் கட்டிக்கொடுத்து` → **`200 வீடுகளைக் கட்டிக் கொடுத்து`**
+
+The unusual PDF 382 form `நாற்பிணைந்து` is preserved exactly as visibly printed; no normalization is applied.
+
+### Directly checked with no canonical correction
+
+- PDF **380–381, 383–398 and 401–402**.
+- Letter **3425** retains the verified source-layer distinction: printed contents `திருந்தப் போகிறார்களா?`; actual PDF 386 `திருந்தப்போகிறார்களா?`.
+- Letter **3427** closes at PDF **401 / printed 400** with date **30-10-2009**.
+- PDF **402** is direct-verified as non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428 exists**.
+
+### Batch reconciliation
+
+- directly verified physical pages: **23 / 23**;
+- canonical page records changed: **3 — PDF 382, 399 and 400**;
+- scan-proven textual corrections: **3**;
+- letter boundaries/titles/dates changed: **0**;
+- contents rows changed: **0**;
+- structural page/record counts changed: **0**;
+- unresolved fidelity items: **0**.
+
+**Batch result: PASS.** Durable second-pass frontier is **PDF 001–402 / 402 VERIFIED**.
+
+## Final gate closure
+
+- first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
+- full-volume Tamil structural audit: **PASS**;
+- second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**;
+- cumulative canonical pages changed by the second pass: **85**;
+- unresolved fidelity items: **0**;
+- English translation: **READY**.
+
+## Next phase
+
+Begin the **three-letter English pilot — 3364–3366 / PDF 024–032** under `TRANSLATION_PLAN.md`. Do not begin the main translation batches until the pilot source-check and bilingual alignment/convention-lock review pass.

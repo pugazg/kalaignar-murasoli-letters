@@ -1164,3 +1164,50 @@ PDF **352–356, 358–363, 365–367 and 369–379**.
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–379 / 402 verified**.
 
 **Next/final:** **3424–3427 / PDF 380–401 plus non-letter PDF 402**.
+
+## 36. Second full-volume direct visual/textual-fidelity verification — Batch 14 FINAL / 3424–3427 / PDF 380–402
+
+**Date:** 2026-09-21  
+**Result:** **PASS / COMPLETE / CLOSED — durable frontier PDF 001–402 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3424** — PDF 380–385 / printed 379–384
+- **3425** — PDF 386–388 / printed 385–387
+- **3426** — PDF 389–395 / printed 388–394
+- **3427** — PDF 396–401 / printed 395–400
+- **PDF 402** — non-letter back-cover / portrait / publisher-contact-price material
+
+All **23 / 23** physical pages were directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 382 | 3424 | `நாம்பிணைந்து` | `நாற்பிணைந்து` |
+| 399 | 3427 | `குறிப்பிட்டத்தக்க நிகழ்வு` | `குறிப்பிடத்தக்க நிகழ்வு` |
+| 400 | 3427 | `200 வீடுகளைக் கட்டிக்கொடுத்து` | `200 வீடுகளைக் கட்டிக் கொடுத்து` |
+
+PDF 382 preserves the visible source form `நாற்பிணைந்து` exactly.
+
+### Directly verified with no correction
+
+PDF **380–381, 383–398 and 401–402**.
+
+The known Letter **3425** title-layer distinction remains intact: contents `திருந்தப் போகிறார்களா?`; actual PDF 386 `திருந்தப்போகிறார்களா?`. Letter **3427** closes at PDF **401 / printed 400**; PDF **402** remains non-letter matter and no Letter 3428 is created.
+
+### Batch reconciliation
+
+- directly verified pages: **23 / 23**;
+- canonical pages changed: **3 — PDF 382, 399 and 400**;
+- scan-proven textual corrections: **3**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- unresolved fidelity items: **0**.
+
+**Final gate result: PASS / COMPLETE / CLOSED.** The Volume 42 second full-volume direct visual/textual-fidelity verification now covers **PDF 001–402 / 402**.
+
+English translation is **READY**. Next activity: **three-letter English pilot 3364–3366 / PDF 024–032**.

@@ -113,7 +113,7 @@ Manifest validation: **55 records; no duplicate letter numbers; no duplicate Eng
 
 Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.
 
-## Volume 42 — structural PASS; second visual fidelity in progress
+## Volume 42 — Tamil fidelity closed; English pilot ready
 
 The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -127,7 +127,8 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Letter **3425** contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`; both layers remain preserved.
 - Letter **3427** closes at PDF **401 / printed 400**. PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; no Letter 3428 exists in Volume 42.
 - Full-volume Tamil structural audit: **PASS**.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–379 / 402 verified**.
-- English translation: **blocked** until the second-pass Tamil fidelity gate passes.
+- Second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**.
+- Final batch applied three scan-proven corrections on **PDF 382, 399 and 400**; unresolved fidelity items: **0**.
+- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **final 3424–3427 / PDF 380–401 plus non-letter PDF 402**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **English pilot 3364–3366 / PDF 024–032**.

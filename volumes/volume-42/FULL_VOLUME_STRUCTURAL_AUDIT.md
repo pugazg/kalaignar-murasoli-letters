@@ -102,7 +102,7 @@ The page tree, contents register, chapter tree, metadata, progress records and b
 - Repository code searches found no **U+FFFD** replacement character and no **U+200B / U+200C / U+200D / U+FEFF** residue under `volumes/volume-42`.
 - No unexpected OCR/render/temp/export image or PDF artifact is committed under the Volume 42 tree.
 - The chapter tree contains exactly the expected 64 record numbers and no Letter 3428 chapter.
-- The English area remains scaffolding-only; translation is still blocked.
+- The English area remains scaffolding-only; after closure of the independent second-pass fidelity gate, translation is now ready for the three-letter pilot.
 
 ## Structural corrections made by this gate
 
@@ -118,8 +118,8 @@ Current Tamil gate state:
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**
 - full-volume structural audit: **PASS**
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–379 / 402 verified**
-- English translation: **BLOCKED**
+- second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
+- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**
 
 ## Post-structural fidelity note — 2026-09-20
 
@@ -136,11 +136,12 @@ Current Tamil gate state:
 - Second-pass Batch 11 directly verified source records **3409–3413 / PDF 295–324** and applied **3 scan-proven textual corrections across 3 canonical pages — 309, 316 and 318**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
 - Second-pass Batch 12 directly verified source records **3414–3418 / PDF 325–351** and applied **2 scan-proven textual corrections across 2 canonical pages — 342 and 344**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
 - Second-pass Batch 13 directly verified source records **3419–3423 / PDF 352–379** and applied **3 scan-proven textual corrections across 3 canonical pages — 357, 364 and 368**. Structural ranges, titles, dates, contents rows and record counts remain unchanged.
+- Final Second-pass Batch 14 directly verified **3424–3427 / PDF 380–401 plus non-letter PDF 402** and applied **3 scan-proven textual corrections across PDF 382, 399 and 400**. Structural ranges, titles, dates, contents rows and record counts remain unchanged; the independent fidelity gate is now closed at **402 / 402**.
 
 Structural counts/ranges remain unchanged.
 
-## Exact next activity
+## Next phase
 
-Complete the separate **final second full-volume direct visual/textual-fidelity verification with 3424–3427 / PDF 380–401 plus non-letter PDF 402**, closing the full 402-page gate.
+The independent second full-volume direct visual/textual-fidelity verification is now **PASS / COMPLETE / CLOSED — PDF 001–402 / 402** with **0 unresolved fidelity items**.
 
-Compare the canonical Tamil against the controlling scan directly, preserve the verified **3154** source-number anomaly and all physical page boundaries, record every scan-proven correction, and do **not** begin English translation until the full second-pass fidelity gate is complete.
+Structural counts/ranges remain unchanged. English translation may now begin with the **three-letter pilot — 3364–3366 / PDF 024–032**, following `TRANSLATION_PLAN.md`.

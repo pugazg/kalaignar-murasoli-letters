@@ -31,13 +31,13 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-379"
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-pass-complete-pdf-001-402"
 audit_date: 2026-09-21
-second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-379"
+second_visual_verification: "complete-pass"
+second_visual_verified_page_range: "1-402"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "blocked-pending-tamil-gates"
+translation_status: "ready-for-three-letter-english-pilot"
 translated_letter_range: null
 translated_letter_count: 0
 bilingual_alignment_status: "not-started"
@@ -61,6 +61,7 @@ source_observations:
   - "Second visual/textual-fidelity Batch 11 directly verified source records 3409-3413 across PDF 295-324; 3 scan-proven textual corrections were applied across 3 canonical pages (309, 316, 318). No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "Second visual/textual-fidelity Batch 12 directly verified source records 3414-3418 across PDF 325-351; 2 scan-proven textual corrections were applied across 2 canonical pages (342, 344). No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "Second visual/textual-fidelity Batch 13 directly verified source records 3419-3423 across PDF 352-379; 3 scan-proven textual corrections were applied across 3 canonical pages (357, 364, 368), including preservation of the scan-printed source form புறங்காந்திமடைந்து on PDF 357. No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
+  - "Final second visual/textual-fidelity Batch 14 directly verified source records 3424-3427 across PDF 380-401 plus non-letter PDF 402; 3 scan-proven corrections were applied on PDF 382, 399 and 400. Letter 3425 title-layer distinction, Letter 3427 closing at PDF 401, PDF 402 non-letter classification and the absence of Letter 3428 remain intact. The second-pass fidelity gate is PASS / COMPLETE / CLOSED at PDF 001-402 / 402 with 0 unresolved fidelity items; English is ready for the three-letter pilot 3364-3366 / PDF 024-032."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
@@ -75,7 +76,7 @@ source_observations:
   - "Normal five-record batch 3420-3424 is complete across PDF 360-385. PDF 386 is the verified start of 3425. All five starts, titles, closings, dates and end boundaries were directly scan-verified before publication; 15 unpublished draft readings/spacing errors were scan-corrected before main publication."
   - "Final source-record batch 3425-3427 is complete across PDF 386-401; PDF 402 is non-letter back-cover / portrait / publisher-contact-price material. No Letter 3428 is created in Volume 42. Eight unpublished draft readings/spacing errors were scan-corrected before publication."
   - "Letter 3425 printed contents uses திருந்தப் போகிறார்களா?, while actual PDF 386 uses joined திருந்தப்போகிறார்களா?; each source layer is preserved independently."
-  - "All 64 source records and all 402 physical PDF pages have first-pass canonical representation; the full-volume structural audit is PASS and the second visual/textual-fidelity verification is now in progress."
+  - "All 64 source records and all 402 physical PDF pages have first-pass canonical representation; the full-volume structural audit is PASS and the second visual/textual-fidelity verification is PASS / COMPLETE / CLOSED at PDF 001-402 / 402."
   - "Full-volume Tamil structural audit PASS on 2026-09-20: exactly 402 canonical page files, 64 printed contents rows, 64 chapter records, continuous letter-bearing coverage PDF 024-401, PDF 402 non-letter back cover, and no chapter/page-range gaps or overlaps. Structural audit made no canonical Tamil body changes; source_sha256 was populated from the controlling PDF."
   - "Second full-volume direct visual/textual-fidelity Batch 1 PASS through PDF 023 on 2026-09-20. PDF 003 was replaced with complete scan-faithful publication details, and PDF 004 was converted from an invalid Volume 43 shared reference to local Volume 42 dedication text அம்மாவுக்கு.... PDF 005-017 remain direct-verified shared references; PDF 018-022 contents required no correction; PDF 023 remains blank."
   - "Second full-volume direct visual/textual-fidelity Batch 2 PASS through PDF 049 on 2026-09-20. Letters 3364-3368 / PDF 024-049 were directly scan-checked; canonical corrections were applied on PDF 026, 029, 034, 036, 037, 044 and 046. The substantive repairs are நடைபெற்ற on PDF 034 and உத்தரவாதம் on PDF 044; the remaining five are source spacing/word-joining restorations. No title/date/boundary/contents changes."

@@ -9,8 +9,8 @@
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
-- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–379 / 402 verified**
-- English translation: **blocked**
+- Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
+- English translation: **READY — three-letter pilot 3364–3366 / PDF 024–032**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -206,8 +206,24 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+## Fidelity Batch 14 — FINAL — 3424–3427 / PDF 380–402 — PASS / CLOSED
+
+- Direct visual comparison completed for **23 / 23 physical pages**.
+- Canonical pages changed: **3 — PDF 382, 399 and 400**.
+- Scan-proven corrections:
+  - PDF **382 / 3424**: `நாம்பிணைந்து` → `நாற்பிணைந்து`;
+  - PDF **399 / 3427**: `குறிப்பிட்டத்தக்க நிகழ்வு` → `குறிப்பிடத்தக்க நிகழ்வு`;
+  - PDF **400 / 3427**: `200 வீடுகளைக் கட்டிக்கொடுத்து` → `200 வீடுகளைக் கட்டிக் கொடுத்து`.
+- PDF **380–381, 383–398 and 401–402** required no canonical correction.
+- Letter **3425** contents/actual-title distinction remains preserved.
+- PDF **402** was directly verified as non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428** exists.
+- Letter titles, dates, closings, boundaries and printed contents rows changed: **0**.
+- Unresolved fidelity items: **0**.
+- Full second-pass Tamil fidelity gate: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**.
+- English translation: **READY**.
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-Complete the final second direct visual/textual-fidelity verification with **3424–3427 / PDF 380–401 plus non-letter PDF 402**.
-
-Do **not** begin English translation until the final second-pass gate is closed.
+Begin the **three-letter English pilot — 3364–3366 / PDF 024–032**. Translate only from the fidelity-verified canonical Tamil, source-check all three records, then perform the pilot bilingual alignment/convention-lock review before any main translation batch.

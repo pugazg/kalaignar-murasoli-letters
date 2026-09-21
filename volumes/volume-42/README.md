@@ -27,7 +27,7 @@ Printed contents provide **64 source rows**. The numbering anomaly is verified a
 
 ## Tamil transcription status
 
-**FIRST-PASS COMPLETE — PDF 001–402 / 402. FULL-VOLUME STRUCTURAL AUDIT — PASS. SECOND VISUAL/TEXTUAL FIDELITY — IN PROGRESS THROUGH PDF 073.**
+**FIRST-PASS COMPLETE — PDF 001–402 / 402. FULL-VOLUME STRUCTURAL AUDIT — PASS. SECOND VISUAL/TEXTUAL FIDELITY — PASS / COMPLETE / CLOSED — PDF 001–402 / 402.**
 
 Completed actual source records now total **64 — 3364–3376, 3154, 3378–3427**. The final source-record batch **3425–3427** covers PDF **386–401**; PDF **402** is non-letter back-cover material. No Letter 3428 is created in Volume 42.
 
@@ -35,13 +35,13 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**BLOCKED.** English work may not begin until the required Tamil source-page coverage, structural audit and scan-based fidelity gates are complete for the eligible source material.
+**READY.** All Tamil archival prerequisites are complete. English may begin with the **three-letter pilot 3364–3366 / PDF 024–032**.
 
-Second-pass fidelity frontier: **PDF 001–379 / 402 VERIFIED**. Cumulative canonical pages corrected so far: **82 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364 and 368**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Complete the final second-pass visual/textual-fidelity verification with **3424–3427 / PDF 380–401 plus non-letter PDF 402**, completing the Volume 42 gate. English remains blocked until this final batch passes.
+Begin the **three-letter English pilot — 3364–3366 / PDF 024–032**. Complete source-check for all three and the pilot bilingual alignment/convention-lock review before any main translation batch.
 
 ## PDF 001–017 shared front matter
 
@@ -62,5 +62,6 @@ Volume 42 follows the repository-wide `SERIES_FRONT_MATTER_POLICY.md`.
 - Fidelity Batch 11 directly verified source records **3409–3413 / PDF 295–324**. It applied **3 scan-proven textual corrections across 3 canonical pages — 309, 316 and 318**. No letter-title/date/letter-boundary/contents-row change was required.
 - Fidelity Batch 12 directly verified source records **3414–3418 / PDF 325–351**. It applied **2 scan-proven textual corrections across 2 canonical pages — 342 and 344**. No letter-title/date/letter-boundary/contents-row change was required.
 - Fidelity Batch 13 directly verified source records **3419–3423 / PDF 352–379**. It applied **3 scan-proven textual corrections across 3 canonical pages — 357, 364 and 368**. PDF 357 preserves the scan-printed source form `புறங்காந்திமடைந்து`; no letter-title/date/letter-boundary/contents-row change was required.
+- Fidelity Batch 14 FINAL directly verified **3424–3427 / PDF 380–401 plus non-letter PDF 402**. It applied **3 scan-proven corrections across PDF 382, 399 and 400**: `நாம்பிணைந்து` → `நாற்பிணைந்து`, `குறிப்பிட்டத்தக்க` → `குறிப்பிடத்தக்க`, and `கட்டிக்கொடுத்து` → `கட்டிக் கொடுத்து`. No title/date/boundary/contents-row change was required; the second-pass gate is **PASS / COMPLETE / CLOSED — 402 / 402**.
 - Any printed wording difference must be transcribed locally in full; do not force-match a shared page.
 - PDF **018 onward** follows normal full transcription rules.
