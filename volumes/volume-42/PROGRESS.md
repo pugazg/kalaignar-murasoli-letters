@@ -9,7 +9,7 @@
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
-- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–324 / 402 verified**
+- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–351 / 402 verified**
 - English translation: **blocked**
 
 ## Final source-record batch 3425–3427 — PASS
@@ -183,8 +183,19 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+## Fidelity Batch 12 — 3414–3418 / PDF 325–351 — PASS
+
+- Direct visual comparison completed for **27 / 27 physical pages**.
+- Canonical pages changed: **2 — PDF 342 and 344**.
+- Scan-proven textual corrections applied: **2**.
+- PDF **325–341, 343 and 345–351** required no canonical correction.
+- Letter titles, dates, closings, letter boundaries and printed contents rows changed: **0**.
+- English remains **blocked**.
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3414–3418 / PDF 325–351**, stopping before **Letter 3419 / PDF 352**.
+Continue the second direct visual/textual-fidelity verification with **3419–3423 / PDF 352–379**, stopping before **Letter 3424 / PDF 380**.
 
 Do **not** begin English translation.
