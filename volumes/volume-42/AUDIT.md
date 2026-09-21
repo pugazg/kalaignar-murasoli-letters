@@ -1633,3 +1633,27 @@ Per user instruction, bilingual alignment continues in **10 actual source record
 Editorial consistency review and final release verification remain later separate gates.
 
 **Next:** **Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351**, stopping before 3419 / PDF 352.
+
+## 50. Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 aligned**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`.
+
+### Result
+
+- records aligned: **10 / 10**;
+- cumulative bilingual alignment: **55 / 64 — 3364–3376, 3154, 3378–3418**;
+- English corrections: **1**;
+- **3409:** restored the omitted source thought asking the public to weigh whether it was proper for the TASMAC workers to make such a demand;
+- **3410–3418:** meaning-level PASS without English correction;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- all ten records now carry `bilingual_alignment_status: aligned`.
+
+Only **9 actual source records remain**, so the final bilingual-alignment iteration is a source-boundary exception to the normal 10-record cadence.
+
+Editorial consistency review and final release verification remain later separate gates.
+
+**Next:** FINAL bilingual-alignment source-boundary batch **3419–3427 / PDF 352–401**. Stop at **3427 / PDF 401**; PDF 402 remains non-letter material.

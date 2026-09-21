@@ -11,7 +11,7 @@ source_printed_page_end: 298
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3409. Pattinathar Sang It Even Then!
@@ -61,7 +61,7 @@ with the increase to take effect from 1-8-2009.
 
 Whether Jayalalithaa knew of this announcement or not, the author says, she announced a protest while claiming that the DMK government discriminated against them because they had been appointed during her administration.
 
-He asks TASMAC employees themselves to consider whether that charge was fair, and asks the public to note that the government that took office in 2006 had increased their pay once in 2007 and again in 2009.
+He asks TASMAC employees themselves to consider whether that charge was fair, and asks the public to note that the government that took office in 2006 had increased their pay once in 2007 and again in 2009, and to weigh whether it was proper for the workers to make such a demand.
 
 The source further says that, after the DMK came to office, TASMAC employees were granted a bonus of 8.33 per cent and an ex gratia payment of 1.67 per cent on 17-10-2006.
 

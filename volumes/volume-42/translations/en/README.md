@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 45 / 64 aligned through 3408 / PDF 294.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 55 / 64 aligned through 3418 / PDF 351.**
 
 Tamil prerequisites are complete:
 
@@ -191,6 +191,17 @@ Actual source records **3399–3408 / PDF 242–294**: **PASS — 10 / 10 aligne
 - cumulative aligned: **45 / 64**
 - durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`](BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md)
 
+## Bilingual Alignment 10-record Batch 6 completed
+
+Actual source records **3409–3418 / PDF 295–351**: **PASS — 10 / 10 aligned**.
+
+- English corrections: **1**
+- 3409: restored the source thought asking the public to weigh whether it was proper for the TASMAC workers to make such a demand
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- cumulative aligned: **55 / 64**
+- durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`](BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md)
+
 ## Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351**. Stop after **3418 / PDF 351**; do not begin 3419 in the same iteration.
+Only **9 actual source records remain**. Perform the FINAL bilingual-alignment source-boundary batch **3419–3427 / PDF 352–401**. Stop after **3427 / PDF 401**; PDF 402 remains non-letter material.

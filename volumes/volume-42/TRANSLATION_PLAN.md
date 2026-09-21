@@ -12,7 +12,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **IN PROGRESS — 45 / 64 aligned through 3408**
+- [ ] Full-volume bilingual alignment — **IN PROGRESS — 55 / 64 aligned through 3418**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -190,21 +190,34 @@ Actual source records **3399–3408 / PDF 242–294** — **PASS / 10 of 10 alig
 
 Cumulative bilingual alignment: **45 / 64 — 3364–3376, 3154, 3378–3408**.
 
-## Current exact task — Bilingual Alignment 10-record Batch 6
+## Bilingual Alignment 10-record Batch 6 — COMPLETE
 
-Align exactly ten actual source records:
+Actual source records **3409–3418 / PDF 295–351** — **PASS / 10 of 10 aligned**.
 
-- **3409 — PDF 295–299**
-- **3410 — PDF 300–303**
-- **3411 — PDF 304–310**
-- **3412 — PDF 311–317**
-- **3413 — PDF 318–324**
-- **3414 — PDF 325–329**
-- **3415 — PDF 330–334**
-- **3416 — PDF 335–337**
-- **3417 — PDF 338–343**
-- **3418 — PDF 344–351**
+- English corrections: **1**
+  - **3409** — restored the source thought asking the public to weigh whether it was proper for the TASMAC workers to make such a demand.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`.
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`.
+Cumulative bilingual alignment: **55 / 64 — 3364–3376, 3154, 3378–3418**.
 
-Stop after **3418 / PDF 351**. Do not begin **3419 / PDF 352** in the same iteration.
+## Current exact task — FINAL bilingual-alignment source-boundary batch
+
+Only **9 actual source records remain**, so this final iteration is a source-boundary exception to the normal 10-record cadence.
+
+Align:
+
+- **3419 — PDF 352–359**
+- **3420 — PDF 360–364**
+- **3421 — PDF 365–373**
+- **3422 — PDF 374–377**
+- **3423 — PDF 378–379**
+- **3424 — PDF 380–385**
+- **3425 — PDF 386–388**
+- **3426 — PDF 389–395**
+- **3427 — PDF 396–401**
+
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
+
+Stop after **3427 / PDF 401**. PDF **402** remains non-letter material.

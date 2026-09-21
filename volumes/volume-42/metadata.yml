@@ -40,7 +40,7 @@ textual_fidelity_audit_reports:
 translation_status: "main-translation-complete; 64-of-64-source-checked; bilingual-alignment-in-progress"
 translated_letter_range: "3364-3376,3154,3378-3427"
 translated_letter_count: 64
-bilingual_alignment_status: "in-progress; 45-of-64-aligned-through-3408"
+bilingual_alignment_status: "in-progress; 55-of-64-aligned-through-3418"
 editorial_consistency_review_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -75,6 +75,7 @@ source_observations:
   - "Bilingual Alignment 10-record Batch 3 PASS across 3379-3388 / PDF 106-190: 10 / 10 aligned; cumulative 25 / 64; 5 English corrections across 5 records (3382 heart X-ray source wording, 3383 Saivite qualifier, 3385 omitted anti-superstition/blocked-schemes clause, 3386 omitted office-comforts phrase, 3387 omitted source polemical image); 0 canonical Tamil changes; 0 unresolved alignment items. Next is 3389-3398 / PDF 191-241, preserving 3392 genuine source duplication."
   - "Bilingual Alignment 10-record Batch 4 PASS across 3389-3398 / PDF 191-241: 10 / 10 aligned; cumulative 35 / 64; 7 English corrections across 5 records (3391 Venkatapathy source name, 3392 omitted source rhetoric, 3396 two omitted manifesto details, 3397 two source-meaning repairs, 3398 source பயப்படும் intensity); 0 canonical Tamil changes; 0 unresolved alignment items; 3392 genuine duplicated physical printing remains preserved. Next is 3399-3408 / PDF 242-294."
   - "Bilingual Alignment 10-record Batch 5 PASS across 3399-3408 / PDF 242-294: 10 / 10 aligned; cumulative 45 / 64; 4 English corrections in 3405 restoring Madurai by-election context, Madurai West disambiguation and omitted Theekkathir source details/rhetoric; source-supplied English in 3405 and 3408 remains verbatim; 0 canonical Tamil changes; 0 unresolved alignment items. Next is 3409-3418 / PDF 295-351."
+  - "Bilingual Alignment 10-record Batch 6 PASS across 3409-3418 / PDF 295-351: 10 / 10 aligned; cumulative 55 / 64; 1 English correction in 3409 restoring the omitted source thought asking whether the TASMAC workers' demand was proper; 0 canonical Tamil changes; 0 unresolved alignment items. Only 9 records remain, so the final alignment batch is 3419-3427 / PDF 352-401."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
