@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 42 / Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049
+# NEXT CHAT PROMPT — Volume 42 / Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,91 +14,57 @@ Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE 
 - Actual source records: **64 — 3364–3376, 3154, 3378–3427**
 - Source-incomplete records: **0**
 - Letter **3427** closes at PDF **401 / printed 400**
-- PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428**
+- PDF **402** is non-letter material; **no Letter 3428**
 
-## English main-translation closure
+## English source-check closure
 
-- Pilot **3364–3366 / PDF 024–032**: **PASS**
-- Batch 1 **3367–3371 / PDF 033–065**: **PASS**
-- 10-record Batch 2 **3372–3376, 3154, 3378–3381 / PDF 066–130**: **PASS**
-- 10-record Batch 3 **3382–3391 / PDF 131–208**: **PASS**
-- 10-record Batch 4 **3392–3401 / PDF 209–259**: **PASS**
-- 10-record Batch 5 **3402–3411 / PDF 260–310**: **PASS**
-- 10-record Batch 6 **3412–3421 / PDF 311–373**: **PASS**
-- FINAL source-boundary batch **3422–3427 / PDF 374–401**: **PASS**
 - translated/source-checked: **64 / 64 COMPLETE**
-- translated source identities: **3364–3376, 3154, 3378–3427**
-- canonical Tamil changes during all English source-check work: **0**
-- unresolved English source-check items: **0**
 - complete audited Tamil appendix in every English record: **64 / 64**
+- canonical Tamil changes during English source-check: **0**
+- unresolved English source-check items: **0**
 - glossary/conventions: **LOCKED / extended through 3427**
 - source number **3154** remains genuine; **3377 does not exist at that position**
 
-Durable reports:
+## Bilingual alignment durable state
 
-- `volumes/volume-42/translations/en/PILOT_REVIEW_3364_3366.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3367_3371.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3372_3381.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3382_3391.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3392_3401.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3402_3411.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3412_3421.md`
-- `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`
+- Batch 1 **3364–3368 / PDF 024–049**: **PASS — 5 / 5 aligned**
+- cumulative alignment: **5 / 64**
+- English corrections in Batch 1: **1**
+- canonical Tamil changes in Batch 1: **0**
+- unresolved alignment items: **0**
+- durable report: `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`
 
-## Final-batch durable notes
+### Batch 1 correction to preserve
 
-- **3422** preserves Classical Tamil award names, recipients, cash-purse amounts, Classical Language chronology and Parithimar Kalaignar memorial figures.
-- **3423** preserves Sri Lankan conflict imagery, Tamil Eelam terminology and MPs-delegation claims strictly as 2009 source framing.
-- **3424** preserves the complete Arunthathiyar internal-reservation chronology, hospital preface, admission figures and sanitation-worker welfare figures.
-- **3425** preserves the actual-title `திருந்தப்போகிறார்களா?` while contents independently retains `திருந்தப் போகிறார்களா?`; Professor K. Sivathamby’s five English discussion topics remain verbatim, including source spellings `Samerian` and `SriLankan`.
-- **3426** preserves the archival account of Muslim organisations, representation and 3.5 per cent reservation as source framing; `Quota and Rota` remains verbatim.
-- **3427** preserves Adi Dravidar / Scheduled Tribe welfare figures, the Samathuvapuram allocation numbers exactly as printed, and the final letter boundary at PDF 401.
-- Final-batch Tamil changes: **0**.
-- Final-batch unresolved source-check items: **0**.
+Letter **3364 / PDF 026** was missing one source sentence in English. Alignment restored:
 
-## Locked translation conventions
+> **It is not reasonable to expect the activities of departments such as defence to be openly known to everyone.**
 
-Read `volumes/volume-42/translations/en/GLOSSARY.md` before alignment. Preserve all locked terminology and source-supplied English.
+No other Batch 1 English correction was required.
 
-Key conventions include:
+## Locked alignment method
 
-- **Udanpirappē** / **Udanpirappugal**
-- standard closing: **With affection, M.K.**
-- **Union Government** / **State government**
-- **Tamil Eelam**
-- **internal reservation**
-- **Arunthathiyar**
-- **Illness and I — Diary**
-- **Katchatheevu**
-- **Classical Language**
-- **Sethusamudram project / Sethu project**
-- **work stoppage** in the April 2009 protest context
+1. Compare the complete audited canonical Tamil against the English body in source order.
+2. Verify title, every substantive paragraph, figures, dates, quotations, lists, names, rhetoric, claims and closing.
+3. Preserve source-supplied English verbatim where printed as source wording.
+4. Correct English only where meaning is incomplete, shifted or inaccurate.
+5. Document every substantive English correction in the durable alignment report.
+6. If a Tamil defect is suspected, return to the controlling scan before changing canonical Tamil.
+7. Record English corrections separately from canonical Tamil changes.
+8. Set `bilingual_alignment_status: aligned` only after the record passes.
+9. Keep editorial consistency review and final release verification as later separate gates.
 
-## Bilingual alignment policy
+Read `volumes/volume-42/translations/en/GLOSSARY.md` before alignment and preserve all locked terminology.
 
-Bilingual alignment is a **separate meaning-level gate** after source-check completion.
+## Exact next activity — Bilingual Alignment Batch 2
 
-For each aligned record:
+Align exactly five records:
 
-1. compare the complete audited canonical Tamil against the English body in source order;
-2. verify the title, every paragraph, figures, dates, quotations, lists, names, rhetoric, claims and closing;
-3. preserve source-supplied English exactly where the source prints it;
-4. correct English only where meaning is incomplete, shifted or inaccurate;
-5. document each substantive English correction in the alignment report;
-6. if a Tamil defect is suspected, return to the controlling scan before changing canonical Tamil;
-7. record English corrections separately from canonical Tamil changes;
-8. set `bilingual_alignment_status: aligned` only after the record passes;
-9. keep editorial consistency review and final release verification as later separate gates.
-
-## Exact next activity — Bilingual Alignment Batch 1
-
-Align exactly five source records:
-
-1. **3364 — PDF 024–027**
-2. **3365 — PDF 028–031**
-3. **3366 — PDF 032**
-4. **3367 — PDF 033–040**
-5. **3368 — PDF 041–049**
+1. **3369 — PDF 050–055 / printed 49–54** — `புதியதோர் விதி செய்வோம்!`
+2. **3370 — PDF 056–061 / printed 55–60** — `இங்கும் அங்குமுள்ள தமிழர்களைக் காத்திட!`
+3. **3371 — PDF 062–065 / printed 61–64** — `இன்று என் வாழ்விலோர் திருநாள்!`
+4. **3372 — PDF 066–069 / printed 65–68** — `இது எப்போதும் உங்கள் உயிர்!`
+5. **3373 — PDF 070–073 / printed 69–72** — `அனைவர் அகமும் அன்பகம் ஆகிட...!`
 
 ### Required startup
 
@@ -109,9 +75,10 @@ Read completely before editing:
 3. `volumes/volume-42/translations/en/README.md`
 4. `volumes/volume-42/translations/en/PROGRESS.md`
 5. `volumes/volume-42/translations/en/GLOSSARY.md`
-6. the pilot and source-check reports covering 3364–3368
-7. the five English records
-8. canonical Tamil pages PDF 024–049
+6. `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`
+7. source-check reports covering 3369–3373
+8. the five English records
+9. canonical Tamil pages PDF **050–073**
 
 ### Output
 
@@ -119,11 +86,11 @@ Read completely before editing:
 - English corrections only where required by source meaning;
 - canonical Tamil changes only if a concrete scan-proven defect is found;
 - set `bilingual_alignment_status: aligned` after each PASS;
-- create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`;
+- create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3373.md`;
 - update alignment progress and repository controls atomically.
 
-Stop after **3368 / PDF 049**. Do **not** begin **3369 / PDF 050** in the same activity.
+Stop after **3373 / PDF 073**. Do **not** begin **3374 / PDF 074** in the same activity.
 
 Suggested commit message:
 
-`Align Volume 42 letters 3364-3368`
+`Align Volume 42 letters 3369-3373`

@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64 source-checked through 3427 / PDF 401; bilingual alignment is next.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 5 / 64 aligned through 3368 / PDF 049.**
 
 Tamil prerequisites are complete:
 
@@ -121,6 +121,17 @@ Actual source records: **3422–3427** — PDF **374–401**.
 
 Main translation/source-check is now **COMPLETE — 64 / 64**.
 
+## Bilingual Alignment Batch 1 completed
+
+Letters **3364–3368 / PDF 024–049**: **PASS — 5 / 5 aligned**.
+
+- English corrections: **1**
+- Letter 3364: restored the omitted PDF 026 sentence on defence-department activities not being openly known to everyone
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- cumulative aligned: **5 / 64**
+- durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`](BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md)
+
 ## Exact next activity
 
-Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Compare complete audited Tamil against English at meaning level, document any English correction, set `bilingual_alignment_status: aligned` only after PASS, create `BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, and stop before **3369 / PDF 050**.
+Perform **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**. Stop after **3373 / PDF 073**; do not begin 3374 in the same activity.

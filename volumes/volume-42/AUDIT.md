@@ -1495,3 +1495,26 @@ PDF **402** remains non-letter back-cover / portrait / publisher-contact-price m
 Full-volume bilingual meaning-level alignment, English editorial consistency and final release verification remain separate later gates.
 
 **Next:** **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**, stopping before 3369 / PDF 050.
+
+## 45. Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 5 / 5 aligned**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
+
+### Result
+
+- records aligned: **5 / 5**;
+- cumulative bilingual alignment: **5 / 64 — 3364–3368**;
+- English corrections: **1**;
+- Letter **3364 / PDF 026**: restored one omitted sentence — “It is not reasonable to expect the activities of departments such as defence to be openly known to everyone.”;
+- Letters **3365–3368**: meaning-level PASS with no English correction;
+- source-supplied English in 3368 remains verbatim;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- all five records now carry `bilingual_alignment_status: aligned`.
+
+Editorial consistency review and final release verification remain later separate gates.
+
+**Next:** **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**, stopping before 3374 / PDF 074.

@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH MAIN TRANSLATION COMPLETE / BILINGUAL ALIGNMENT NEXT — 2026-09-21
+## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH MAIN TRANSLATION COMPLETE / BILINGUAL ALIGNMENT IN PROGRESS — 2026-09-21
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -236,13 +236,14 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - English 10-record Batch 6 **3412–3421 / PDF 311–373**: **PASS — 10 / 10 source-checked**, cumulative **58 / 64**, 3420 source English retained verbatim, 3421 reproduced 1968 conference address retained in full thought order, PDF 357 source form preserved, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3412_3421.md`.
 - English FINAL source-boundary Batch **3422–3427 / PDF 374–401**: **PASS — 6 / 6 source-checked**, cumulative **64 / 64 COMPLETE**, 3425 actual/contents title-layer distinction preserved, 3425 source English discussion topics preserved verbatim, 3426 religious/political material retained as archival source framing, 3427 closes at PDF 401, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`.
 - Complete audited Tamil appendices are present in **64 / 64** English records.
-- Full-volume bilingual meaning-level alignment: **NOT STARTED — next gate**.
+- Full-volume bilingual meaning-level alignment: **IN PROGRESS — 5 / 64 aligned — 3364–3368 / PDF 024–049**.
+- Bilingual Alignment Batch 1 **3364–3368 / PDF 024–049**: **PASS — 5 / 5 aligned**, **1 English correction** in 3364 restoring one omitted PDF 026 sentence, **0 canonical Tamil changes / 0 unresolved alignment items**. Durable report: `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
 - English editorial consistency review: **not started**.
 - Translation manifest/final release verification: **not started**.
 
 ### Exact next activity
 
-Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Compare complete audited Tamil against each English body at meaning level, document any English correction, set `bilingual_alignment_status: aligned` only after PASS, create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, and stop after **3368 / PDF 049**. Do not begin 3369 in the same activity.
+Perform **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**. Compare complete audited Tamil against each English body at meaning level, document any English correction, set `bilingual_alignment_status: aligned` only after PASS, create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3373.md`, and stop after **3373 / PDF 073**. Do not begin 3374 in the same activity.
 
 ## Series front matter optimization — 2026-09-19
 

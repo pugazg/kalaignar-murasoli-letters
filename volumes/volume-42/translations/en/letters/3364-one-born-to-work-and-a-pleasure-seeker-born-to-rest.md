@@ -11,7 +11,7 @@ source_printed_page_end: 26
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 pilot_review: "../PILOT_REVIEW_3364_3366.md"
 ---
 
@@ -37,7 +37,7 @@ Jayalalithaa has asked whether I am not ashamed to cling to office as Chief Mini
 
 **Question:** When the Government of India gave the Sri Lankan government the weapons and modern equipment that even to this day are being used by the Sri Lankan armed forces against Sri Lankan Tamils, what was Karunanidhi doing? The DMK and its alliance parties are participating in the Union Cabinet. Did none of the Union Ministers belonging to the DMK alliance know what was happening there? Why did they not object? Why did they not resign their posts to express their opposition?
 
-**Kalaignar:** It is painful that someone who served as Chief Minister for ten years does not know even the small fact that military assistance sent by the Union Government to foreign countries is not decided after consulting State governments or every Union Minister. Whether it is Union Minister Pranab Mukherjee or Defence Minister A. K. Antony, they have not said that the Government of India sent weapons to Sri Lanka; on the contrary, they have denied it. Yet Jayalalithaa asks me what I was doing. It is said that military assistance was given to Sri Lanka through the Union Government precisely when Jayalalithaa was Chief Minister. I will not turn around and ask what she was doing then, because I know that military assistance is not undertaken after asking State governments.
+**Kalaignar:** It is painful that someone who served as Chief Minister for ten years does not know even the small fact that military assistance sent by the Union Government to foreign countries is not decided after consulting State governments or every Union Minister. It is not reasonable to expect the activities of departments such as defence to be openly known to everyone. Whether it is Union Minister Pranab Mukherjee or Defence Minister A. K. Antony, they have not said that the Government of India sent weapons to Sri Lanka; on the contrary, they have denied it. Yet Jayalalithaa asks me what I was doing. It is said that military assistance was given to Sri Lanka through the Union Government precisely when Jayalalithaa was Chief Minister. I will not turn around and ask what she was doing then, because I know that military assistance is not undertaken after asking State governments.
 
 **Question:** What is the answer to “J” asking, “What was Karunanidhi doing when the Government of India gave special training to Sri Lankan army personnel?”
 

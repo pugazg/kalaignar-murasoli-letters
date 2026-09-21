@@ -11,6 +11,7 @@
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
 - English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
+- Bilingual meaning-level alignment: **IN PROGRESS — 5 / 64 aligned — 3364–3368 / PDF 024–049**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -342,6 +343,15 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Editorial review: **not started**.
 - Final release verification: **not started**.
 
+## Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049 — PASS
+
+- Records aligned: **5 / 5**.
+- Cumulative alignment: **5 / 64**.
+- English corrections: **1** — Letter 3364 restored one omitted source sentence from PDF 026.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
+
 ## Exact next activity
 
-Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, set records to `bilingual_alignment_status: aligned` only after meaning-level PASS, and stop before **3369 / PDF 050**.
+Perform **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**. Stop after **3373 / PDF 073**. Do not begin 3374 in the same activity.

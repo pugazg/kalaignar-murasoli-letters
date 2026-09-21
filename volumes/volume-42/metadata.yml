@@ -37,10 +37,10 @@ second_visual_verification: "complete-pass"
 second_visual_verified_page_range: "1-402"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "main-translation-complete; 64-of-64-source-checked; bilingual-alignment-not-started"
+translation_status: "main-translation-complete; 64-of-64-source-checked; bilingual-alignment-in-progress"
 translated_letter_range: "3364-3376,3154,3378-3427"
 translated_letter_count: 64
-bilingual_alignment_status: "pilot-source-review-pass; full-volume-not-started"
+bilingual_alignment_status: "in-progress; 5-of-64-aligned-through-3368"
 editorial_consistency_review_status: "not-started"
 english_release_status: "not-started"
 source_observations:
@@ -70,6 +70,7 @@ source_observations:
   - "English 10-record Batch 5 is complete across PDF 260-310: actual source records 3402-3411 are 10 / 10 translated/source-checked; cumulative 48 / 64; source English in 3405 and 3408 preserved verbatim; 3406 pay/welfare terminology and figures retained in full; 3411 by-election and EVM/Election Commission material retained as historical source framing; 0 Tamil changes and 0 unresolved source-check items. Next is 3412-3421 / PDF 311-373."
   - "English 10-record Batch 6 is complete across PDF 311-373: actual source records 3412-3421 are 10 / 10 translated/source-checked; cumulative 58 / 64; 3413 insurance figures/source English retained; 3418 judicial material kept source-framed; PDF 357 source form புறங்காந்திமடைந்து preserved; 3420 source English retained verbatim; 3421 reproduced 1968 radio address retained in full thought order; 0 Tamil changes and 0 unresolved source-check items. Final source-boundary batch is 3422-3427 / PDF 374-401; PDF 402 is non-letter material."
   - "English FINAL source-boundary Batch is complete across PDF 374-401: actual source records 3422-3427 are 6 / 6 translated/source-checked; cumulative 64 / 64 COMPLETE; 3425 title-layer distinction and source English retained; 3426 political/religious material kept archival and source-framed; 3427 closes at PDF 401; PDF 402 remains non-letter matter; 0 Tamil changes and 0 unresolved source-check items. Next gate is bilingual alignment beginning 3364-3368 / PDF 024-049."
+  - "Bilingual Alignment Batch 1 PASS across 3364-3368 / PDF 024-049: 5 / 5 aligned; cumulative 5 / 64; 1 English correction in 3364 restored the omitted PDF 026 sentence on defence-department activities not being openly known to everyone; 0 canonical Tamil changes; 0 unresolved alignment items. Next is 3369-3373 / PDF 050-073."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."

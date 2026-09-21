@@ -12,7 +12,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **NOT STARTED / NEXT GATE**
+- [ ] Full-volume bilingual alignment — **IN PROGRESS — 5 / 64 aligned through 3368**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -114,16 +114,26 @@ For each alignment batch:
 8. create a durable batch alignment report and update progress/handover controls;
 9. do not perform editorial consistency review or final release verification in the same activity unless separately scheduled.
 
-## Current exact task — Bilingual Alignment Batch 1
+## Bilingual Alignment Batch 1 — COMPLETE
+
+- **3364–3368 / PDF 024–049** — **PASS / 5 of 5 aligned**
+- English corrections: **1** — 3364 restored one omitted PDF 026 sentence concerning defence-department activities not being openly known to everyone.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
+
+Cumulative bilingual alignment: **5 / 64 — 3364–3368**.
+
+## Current exact task — Bilingual Alignment Batch 2
 
 Align exactly five records:
 
-- **3364 — PDF 024–027**
-- **3365 — PDF 028–031**
-- **3366 — PDF 032**
-- **3367 — PDF 033–040**
-- **3368 — PDF 041–049**
+- **3369 — PDF 050–055**
+- **3370 — PDF 056–061**
+- **3371 — PDF 062–065**
+- **3372 — PDF 066–069**
+- **3373 — PDF 070–073**
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3373.md`.
 
-Stop after **3368 / PDF 049**. Do not begin **3369 / PDF 050** in the same activity.
+Stop after **3373 / PDF 073**. Do not begin **3374 / PDF 074** in the same activity.
