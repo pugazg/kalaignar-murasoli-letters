@@ -31,10 +31,10 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-073"
-audit_date: 2026-09-20
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-105"
+audit_date: 2026-09-21
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-73"
+second_visual_verified_page_range: "1-105"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "blocked-pending-tamil-gates"
@@ -51,6 +51,7 @@ source_observations:
   - "Printed contents occupy PDF 018-022 and provisionally enumerate 64 rows across nominal number span 3364-3427."
   - "The printed contents and actual source heading at PDF 092 / printed 91 both show number 3154 between 3376 and 3378. This is a genuine source-numbering anomaly; do not invent 3377."
   - "Letter 3364 spans PDF 024-027 / printed 23-26 and is complete with closing அன்புள்ள, மு.க. and date 31-1-2009."
+  - "Second visual/textual-fidelity Batch 4 directly verified source records 3374, 3375, 3376, 3154 and 3378 across PDF 074-105; 21 scan-proven corrections were applied across 12 canonical pages (074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103), with no title/date/boundary/contents-row change. Source number 3154 remains preserved exactly and English remains blocked."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
