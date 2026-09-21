@@ -9,7 +9,7 @@
 - Partial records: **0**
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
-- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–149 / 402 verified**
+- Second visual/textual-fidelity verification: **IN PROGRESS — PDF 001–190 / 402 verified**
 - English translation: **blocked**
 
 ## Final source-record batch 3425–3427 — PASS
@@ -112,8 +112,21 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
+## Fidelity Batch 6 — 3384–3388 / PDF 150–190 — PASS
+
+- Direct visual comparison completed for **41 / 41 physical pages**.
+- Canonical pages changed: **9 — PDF 151, 154, 157, 158, 162, 179, 184, 187 and 188**.
+- Scan-proven textual corrections applied: **14**.
+- Physical page-boundary restorations: **1 — PDF 157 → 158 continuation restored to the scan boundary after `இன்றைக்கே அறிவித்தால் என்ன`**.
+- PDF **150, 152–153, 155–156, 159–161, 163–178, 180–183, 185–186 and 189–190** required no canonical correction.
+- Letter **3388 / PDF 187** retains the actual-source main title `அந்த நினைவுக்கு ஒரு நன்றி!!` plus separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`.
+- Letter titles, dates, closings, chapter boundaries and printed contents rows changed: **0**.
+- English remains **blocked**.
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3384–3388 / PDF 150–190**, stopping before **Letter 3389 / PDF 191**.
+Continue the second direct visual/textual-fidelity verification with **3389–3393 / PDF 191–218**, stopping before **Letter 3394 / PDF 219**.
 
 Do **not** begin English translation.
