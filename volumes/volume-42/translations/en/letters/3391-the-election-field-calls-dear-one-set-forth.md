@@ -11,7 +11,7 @@ source_printed_page_end: 207
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3391. The Election Field Calls — Dear One, Set Forth!
@@ -61,7 +61,7 @@ Wearing this one today does not mean the others are disliked.
 
 Likewise, these people have been chosen as candidates for this election.
 
-Among the seven previous Members who have not been given an opportunity this time are brother Raghupathi, brother Venkatachalam, sister Subbulakshmi Jagadeesan and sister Radhika Selvi, all of whom had served capably as Ministers.
+Among the seven previous Members who have not been given an opportunity this time are brother Raghupathi, brother Venkatapathy, sister Subbulakshmi Jagadeesan and sister Radhika Selvi, all of whom had served capably as Ministers.
 
 Of these, sister Subbulakshmi Jagadeesan met me fifteen days before the election process and gave me a handwritten letter saying:
 
@@ -71,7 +71,7 @@ For a moment I thought: if only everyone were like this!
 
 Brother Raghupathi’s Pudukkottai constituency itself has disappeared in the new delimitation; the Pudukkottai Assembly segment has moved into the Tiruchirappalli Parliamentary constituency.
 
-And three constituencies — Tiruchirappalli, which brother Venkatachalam had sought; Cuddalore, which he had contested; and Tirunelveli, which sister Radhika Selvi had sought — were allotted to Congress in the seat-sharing arrangement.
+And three constituencies — Tiruchirappalli, which brother Venkatapathy had sought; Cuddalore, which he had contested; and Tirunelveli, which sister Radhika Selvi had sought — were allotted to Congress in the seat-sharing arrangement.
 
 Apart from them, there were three more previous Kazhagam Members who could not be given opportunities this time.
 
@@ -143,7 +143,7 @@ The author asks others who did not receive an opportunity to show the same magna
 
 For example, brother Adisankar, who had been the Cuddalore Member of Parliament in 1999, was not given an opportunity in the 2004 Parliamentary election.
 
-Instead, brother Venkatachalam was given that constituency and became both M.P. and Minister.
+Instead, brother Venkatapathy was given that constituency and became both M.P. and Minister.
 
 Adisankar did not become angry or withdraw because he was denied the opportunity last time.
 

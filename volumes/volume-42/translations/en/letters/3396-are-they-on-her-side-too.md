@@ -11,7 +11,7 @@ source_printed_page_end: 230
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3396. Are They on Her Side Too?
@@ -60,13 +60,13 @@ But what did the AIADMK manifesto released at the Island Grounds on the sixteent
 
 The source reproduces a long passage from the AIADMK manifesto, stating in substance that:
 
-- the Sethusamudram Canal had been a dream of Tamil Nadu for more than 150 years;
+- the Sethusamudram Canal had been a dream of Tamil Nadu for more than 150 years, and the British had initially considered the project before abandoning it;
 - leaders including Anna and M. G. R. had believed it would serve Tamil Nadu’s long-term needs;
 - the DMK and UPA were presenting it as fulfilment of those leaders’ dream;
 - but in the modern era of faster, heavier cargo ships, the project was allegedly outdated;
 - fishermen’s livelihoods and rare marine plants and species would allegedly be harmed;
 - the project would allegedly bring no significant economic benefit;
-- it would allegedly cause irreversible environmental damage, affect employment and hurt religious sentiments;
+- it would allegedly cause irreversible environmental damage, threaten the employment of lakhs of people and hurt the religious sentiments of crores of people;
 - and the manifesto further alleged that benefits would flow chiefly to Union Shipping Minister T. R. Baalu and the Karunanidhi family.
 
 It concludes, as quoted by the source:

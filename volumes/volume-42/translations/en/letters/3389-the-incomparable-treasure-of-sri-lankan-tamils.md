@@ -11,7 +11,7 @@ source_printed_page_end: 192
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 source_structure_note: "2009 source explicitly republishes an older Udanpirappu letter written on Selva's death; no outside date is inferred beyond the framing printed here"
 ---
 

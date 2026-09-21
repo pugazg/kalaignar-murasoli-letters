@@ -12,7 +12,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **IN PROGRESS — 25 / 64 aligned through 3388**
+- [ ] Full-volume bilingual alignment — **IN PROGRESS — 35 / 64 aligned through 3398**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -156,23 +156,38 @@ Actual source records **3379–3388 / PDF 106–190** — **PASS / 10 of 10 alig
 
 Cumulative bilingual alignment: **25 / 64 — 3364–3376, 3154, 3378–3388**.
 
-## Current exact task — Bilingual Alignment 10-record Batch 4
+## Bilingual Alignment 10-record Batch 4 — COMPLETE
+
+Actual source records **3389–3398 / PDF 191–241** — **PASS / 10 of 10 aligned**.
+
+- English corrections: **7 across 5 records**
+  - **3391** — source name `வேங்கடபதி` restored as **Venkatapathy**.
+  - **3392** — omitted “mountain of gold” and “saints, Buddhas” source rhetoric restored.
+  - **3396** — omitted British-project-history detail restored; source quantities for employment and religious-sentiment claims restored.
+  - **3397** — omitted “dried up compassion” image restored; “not merely Tamils” corrected to the source meaning.
+  - **3398** — source `பயப்படும்` restored as **would be afraid**.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Letter **3392** genuine duplicated physical printing remains preserved.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`.
+
+Cumulative bilingual alignment: **35 / 64 — 3364–3376, 3154, 3378–3398**.
+
+## Current exact task — Bilingual Alignment 10-record Batch 5
 
 Align exactly ten actual source records:
 
-- **3389 — PDF 191–193**
-- **3390 — PDF 194–202**
-- **3391 — PDF 203–208**
-- **3392 — PDF 209–212**
-- **3393 — PDF 213–218**
-- **3394 — PDF 219–221**
-- **3395 — PDF 222–226**
-- **3396 — PDF 227–231**
-- **3397 — PDF 232–237**
-- **3398 — PDF 238–241**
+- **3399 — PDF 242–251**
+- **3400 — PDF 252–257**
+- **3401 — PDF 258–259**
+- **3402 — PDF 260–264**
+- **3403 — PDF 265–267**
+- **3404 — PDF 268–271**
+- **3405 — PDF 272–277**
+- **3406 — PDF 278–283**
+- **3407 — PDF 284–288**
+- **3408 — PDF 289–294**
 
-Important: **3392** genuinely prints the same letter twice across PDF 209–212; preserve both physical source copies in the Tamil appendix and do not deduplicate or repair it.
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`.
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`.
-
-Stop after **3398 / PDF 241**. Do not begin **3399 / PDF 242** in the same iteration.
+Stop after **3408 / PDF 294**. Do not begin **3409 / PDF 295** in the same iteration.

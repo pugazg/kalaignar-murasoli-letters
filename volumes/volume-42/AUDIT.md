@@ -1576,3 +1576,31 @@ Per user instruction, bilingual alignment continues in **10 actual source record
 Editorial consistency review and final release verification remain later separate gates.
 
 **Next:** **Bilingual Alignment 10-record Batch 4 — 3389–3398 / PDF 191–241**. Preserve **3392’s genuine duplicated physical printing** and stop before 3399 / PDF 242.
+
+## 48. Bilingual Alignment 10-record Batch 4 — 3389–3398 / PDF 191–241
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 aligned**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`.
+
+### Result
+
+- records aligned: **10 / 10**;
+- cumulative bilingual alignment: **35 / 64 — 3364–3376, 3154, 3378–3398**;
+- English corrections: **7 across 5 records**;
+- **3391:** source name `வேங்கடபதி` restored as **Venkatapathy** in both occurrences;
+- **3392:** omitted source rhetoric `பொன்மலை குவித்த பொதுவுடைமை வாதிகள்` and `புனிதர்கள், புத்தர்கள்` restored; genuine duplicated printing remains preserved;
+- **3396:** omitted British-project-history detail restored; source quantities **lakhs** for employment and **crores** for religious sentiments restored;
+- **3397:** omitted `ஈரத்தை இதயத்தில் காய வைத்துக் கொண்டோர்` image restored; shifted `தமிழர்கள் அல்ல - தமிழர்களின் பிரதிநிதிகள் என்று சொல்லிக் கொள்ளும் சிலரே` meaning corrected;
+- **3398:** source `சிங்கள அரசு பயப்படும்` restored as **the Sinhala government would be afraid**;
+- **3389, 3390, 3393, 3394, 3395:** meaning-level PASS without English correction;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- all ten records now carry `bilingual_alignment_status: aligned`.
+
+Per user instruction, bilingual alignment continues in **10 actual source records per iteration**.
+
+Editorial consistency review and final release verification remain later separate gates.
+
+**Next:** **Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294**, stopping before 3409 / PDF 295.

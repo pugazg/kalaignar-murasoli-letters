@@ -11,7 +11,7 @@ source_printed_page_end: 240
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3398. Opposition Even to This? Alas, Tamil Nadu!
@@ -38,7 +38,7 @@ Along with my appeal, I wrote seeking cooperation from the leaders of Congress, 
 
 I sought everyone’s cooperation because Sri Lankan Tamil lives must be protected and because, on this issue, we should not display fratricidal conflict among ourselves.
 
-If unity among us itself became visible, says the author, the Sinhala government would be made to take notice.
+If unity among us itself became visible, says the author, the Sinhala government would be afraid.
 
 Most parties accepted my appeal and issued statements or letters saying they would cooperate.
 

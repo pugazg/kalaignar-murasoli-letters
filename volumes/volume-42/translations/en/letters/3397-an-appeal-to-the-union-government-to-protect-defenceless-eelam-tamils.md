@@ -11,7 +11,7 @@ source_printed_page_end: 236
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3397. An Appeal to the Union Government to Protect Defenceless Eelam Tamils!
@@ -98,7 +98,7 @@ I must say with pain that adequate humanitarian steps have not yet been taken to
 
 Our people, who worked like oxen and helped create the greatness of the island, are now being trampled like worms crawling on the earth.
 
-When television and newspapers show Tamil children, their parents, and people who worked for Eelam’s development being tormented, the author says one feels like crying out:
+When television and newspapers show Tamil children, their parents, and people who worked for Eelam’s development being tormented by those who, in the source’s image, have dried up compassion in their hearts, the author says one feels like crying out:
 
 would it not be better if our eyes had gone blind?
 
@@ -196,7 +196,7 @@ I have resigned my Legislative Assembly membership.
 
 Our party has lost its government over it, says the source.
 
-And yet, when some people — not merely Tamils, but people who call themselves representatives of Tamils — dismiss my voice for Sri Lankan Tamils as drama and fraud, I cannot bear it.
+And yet, when some people — not Tamils themselves, but a few who call themselves representatives of Tamils — dismiss my voice for Sri Lankan Tamils as drama and fraud, I cannot bear it.
 
 What more do they expect me to do?
 

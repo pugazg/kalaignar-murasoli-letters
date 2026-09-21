@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 25 / 64 aligned through 3388 / PDF 190.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 35 / 64 aligned through 3398 / PDF 241.**
 
 Tamil prerequisites are complete:
 
@@ -162,6 +162,22 @@ Actual source records **3379–3388 / PDF 106–190**: **PASS — 10 / 10 aligne
 - cumulative aligned: **25 / 64**
 - durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`](BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md)
 
+## Bilingual Alignment 10-record Batch 4 completed
+
+Actual source records **3389–3398 / PDF 191–241**: **PASS — 10 / 10 aligned**.
+
+- English corrections: **7 across 5 records**
+- 3391: source name **வேங்கடபதி** restored as **Venkatapathy**
+- 3392: omitted “mountain of gold” and “saints, Buddhas” source rhetoric restored
+- 3396: omitted British-project-history detail and source quantities for employment/religious-sentiment claims restored
+- 3397: omitted “dried up compassion” image restored; “not merely Tamils” corrected to the source meaning “not Tamils themselves, but a few who call themselves representatives of Tamils”
+- 3398: source `பயப்படும்` restored as **would be afraid**
+- 3392 genuine duplicate physical printing remains preserved
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- cumulative aligned: **35 / 64**
+- durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`](BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md)
+
 ## Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 4 — 3389–3398 / PDF 191–241**. Preserve **3392’s genuine duplicate physical printing** and stop after **3398 / PDF 241**; do not begin 3399 in the same iteration.
+Perform **Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294**. Stop after **3408 / PDF 294**; do not begin 3409 in the same iteration.

@@ -11,7 +11,7 @@ source_printed_page_end: 211
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 source_duplication_note: "The source genuinely prints the same letter twice: first copy PDF 209–211, then title/body repeated without a number across PDF 211–212."
 ---
 
@@ -53,7 +53,7 @@ Do you know who they are?
 
 Yes — those who became commanders to heirs born in a glittering millionaire’s mansion at Kumaramangalam, shining like the golden finial of a temple tower by the Vaigai for Alavayappan and Mother Meenakshi, heirs extending through grandfather, father and son.
 
-The source then attacks Communist leaders who, when they had obtained the Puducherry Parliamentary constituency with our support, are accused of having scattered currency in abundance — with Mahatma Gandhi’s portrait smiling from the notes.
+The source then attacks the “common-ownership advocates who had piled up a mountain of gold” and sarcastically calls them “saints, Buddhas”; when they had obtained the Puducherry Parliamentary constituency with our support, they are accused of having scattered currency in abundance — with Mahatma Gandhi’s portrait smiling from the notes.
 
 And who in Madurai, asks the author, does not know of the silver money allegedly poured out to obtain Sourashtra votes while standing as “Sankarar”?
 
