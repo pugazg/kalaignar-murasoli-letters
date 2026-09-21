@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–149 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–190 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–149 / 402 — VERIFIED.**
+**PDF 001–190 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–149 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–190 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -307,14 +307,73 @@ Every physical source page from PDF **106** through **149** was directly rendere
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–149 / 402 VERIFIED**.
 
+## Batch 6 — Source records 3384–3388 / PDF 150–190 — PASS
+
+Every physical source page from PDF **150** through **190** was directly rendered and compared against the canonical page record. The batch covers exactly five complete source records:
+
+- **3384** — PDF 150–160 / printed 149–159 — `நலிவும் நானும் - நாட்குறிப்பு (6)`
+- **3385** — PDF 161–168 / printed 160–167 — `ஆயத்தமாகுக; அறப்போர் முனைக்கு!`
+- **3386** — PDF 169–178 / printed 168–177 — `மடல் அல்ல; மானசீக அறிவுரை!`
+- **3387** — PDF 179–186 / printed 178–185 — `அடடா, அவர்தானா இவர்?`
+- **3388** — PDF 187–190 / printed 186–189 — main title `அந்த நினைவுக்கு ஒரு நன்றி!!` with separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`
+
+### Scan-proven textual corrections
+
+1. **PDF 151 / 3384** — `154வது வட்டத்தைச் சேர்ந்த` → **`154 வது வட்டத்தைச் சேர்ந்த`**
+2. **PDF 154 / 3384** — `மருத்துவமனையிலிருந்தவாறே` → **`மருத்துவமனையிலிருந்த வாறே`**
+3. **PDF 158 / 3384** — `அறிவிக்கை தயார்செய்து` → **`அறிவிக்கை தயார் செய்து`**
+4. **PDF 158 / 3384** — `அகவிலைப்படி உயர்வு` → **`அகவிலை உயர்வு`**
+5. **PDF 158 / 3384** — `முன்தேதியிட்டு` → **`முன் தேதியிட்டு`**
+6. **PDF 158 / 3384** — `அந்தச் செய்தியை பார்த்து` → **`அந்தச் செய்தியைப் பார்த்து`**
+7. **PDF 158 / 3384** — `மருத்துவமனைக்கே` → **`மருத்துவ மனைக்கே`**
+8. **PDF 162 / 3385** — `மே 16-ந்தேதியன்று` → **`மே 16-ந் தேதியன்று`**
+9. **PDF 162 / 3385** — `மாலை நேரத்தில் நான் பார்த்திருந்தார்கள்` → **`மாலை நேரத்தில் நாள் பார்த்திருந்தார்கள்`**
+10. **PDF 179 / 3387** — `தாரை வார்த்த போது` → **`தாரை வார்த்தபோது`**
+11. **PDF 184 / 3387** — `மக்களைக் கலந்தாலோசிக்காமல்` → **`மக்களை கலந்தாலோசிக்காமல்`**
+12. **PDF 184 / 3387** — `எழுதப்பட்டிருப்பதிலிருந்தே` → **`எழுதப் பட்டிருப்பதிலிருந்தே`**
+13. **PDF 187 / 3388** — `எல்.ஜி. செஞ்சி` → **`எல்.ஜி., செஞ்சி`**
+14. **PDF 188 / 3388** — `ஸ்டாலின் தானா?”` → **`ஸ்டாலின் தானா ?”`**
+
+### Physical page-boundary restoration
+
+The first-pass page records misplaced the continuation after PDF 157. The scan shows PDF **157 / printed 156** ends exactly at:
+
+`எதற்காக இரண்டு நாட்களுக்கு பிறகு அறிவிக்க வேண்டும், இன்றைக்கே அறிவித்தால் என்ன`
+
+PDF **158 / printed 157** begins:
+
+`என்று கேட்டேன். செய்யலாம் என்று உறுதி அளித்தார்.`
+
+The continuation through the 26-2-2009 medical/garden paragraphs was moved from canonical PDF 157 to PDF 158 so the page records now match the physical source boundary. This changes **no underlying text sequence, letter boundary, date, title, contents row or record count**.
+
+### Directly checked with no canonical correction
+
+- PDF **150, 152–153, 155–156, 159–161, 163–178, 180–183, 185–186 and 189–190**.
+- Record **3386 / PDF 169–178** required no canonical correction.
+- Letter **3388** retains the scan-verified actual-source layout: main heading `அந்த நினைவுக்கு ஒரு நன்றி!!`, followed by the separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`.
+- All five starts, salutations, closings, dates and actual letter end boundaries reconcile with the scan.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 6: **9 — PDF 151, 154, 157, 158, 162, 179, 184, 187, 188**.
+- Scan-proven textual corrections applied: **14**.
+- Physical page-boundary restorations: **1 — PDF 157→158**.
+- Letter-bearing pages directly verified in this batch: **41 / 41**.
+- Letter titles/dates/chapter boundaries changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–190 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3384–3388 / PDF 150–190**, covering exactly five complete records:
+Continue the second direct visual/textual-fidelity verification with **3389–3393 / PDF 191–218**, covering exactly five complete records:
 
-- **3384** — PDF **150–160** / printed **149–159** — `நலிவும் நானும் - நாட்குறிப்பு (6)`
-- **3385** — PDF **161–168** / printed **160–167** — `ஆயத்தமாகுக; அறப்போர் முனைக்கு!`
-- **3386** — PDF **169–178** / printed **168–177** — `மடல் அல்ல; மானசீக அறிவுரை!`
-- **3387** — PDF **179–186** / printed **178–185** — `அடடா, அவர்தானா இவர்?`
-- **3388** — PDF **187–190** / printed **186–189** — actual PDF 187 main title `அந்த நினைவுக்கு ஒரு நன்றி!!` plus separate subtitle `(கலைஞர் கவிதைக் கடிதம்)`
+- **3389** — PDF **191–193** / printed **190–192** — `இலங்கைத் தமிழரின் இணையற்ற செல்வம் ஈழத்தந்தை செல்வாவின் 112-வது பிறந்தநாள்!`
+- **3390** — PDF **194–202** / printed **193–201** — `கிளம்பட்டும்; தமிழச் சிங்கக் கூட்டம்!`
+- **3391** — PDF **203–208** / printed **202–207** — `தேர்தல் களம் அழைக்கிறது; கண்மணியே; புறப்படு!`
+- **3392** — PDF **209–212** / printed **208–211** — `பூச்சாண்டிப் பொம்மை?` — preserve the verified duplicated printed title/body across the physical pages.
+- **3393** — PDF **213–218** / printed **212–217** — `தமிழ் இன மீட்புக்காகக் குரல் கொடுத்திட வாரீர்!`
 
-Stop before **3389 / PDF 191 / printed 190**. Keep the scan authoritative, preserve the verified 3388 title/subtitle layout distinction, and do not begin English translation.
+Stop before **3394 / PDF 219 / printed 218**. Keep the scan authoritative, preserve the genuine Letter 3392 duplicated physical source body, and do not begin English translation.
