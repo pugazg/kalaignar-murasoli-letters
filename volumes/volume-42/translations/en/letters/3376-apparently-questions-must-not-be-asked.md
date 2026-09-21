@@ -11,7 +11,7 @@ source_printed_page_end: 90
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3376. Apparently, Questions Must Not Be Asked!
@@ -44,7 +44,7 @@ Yet Naresh Gupta, the present Chief Electoral Officer of Tamil Nadu, has not met
 
 But when the Chief Election Commissioner and members of the Election Commission are appointed, do they not call on the Prime Minister and the President as a courtesy? They do.
 
-And did earlier Chief Electoral Officers of Tamil Nadu — Oza, IAS; Chandrasekaran, IAS; Sarangi, IAS; Mathew, IAS and others — never meet Chief Ministers who were then in office? They met them not merely out of courtesy, but many times.
+And did earlier Chief Electoral Officers of Tamil Nadu — Oza, IAS; Chandrasoodan, IAS; Sarangi, IAS; Mathew, IAS and others — never meet Chief Ministers who were then in office? They met them not merely out of courtesy, but many times.
 
 It is natural that by-elections attract more importance and fiercer competition than general elections, and that some law-and-order issues may arise. Whichever party is in office, the ruling party also has to take steps to maintain law and order.
 

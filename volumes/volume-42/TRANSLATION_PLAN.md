@@ -12,7 +12,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **IN PROGRESS — 5 / 64 aligned through 3368**
+- [ ] Full-volume bilingual alignment — **IN PROGRESS — 15 / 64 aligned through 3378**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -124,16 +124,37 @@ For each alignment batch:
 
 Cumulative bilingual alignment: **5 / 64 — 3364–3368**.
 
-## Current exact task — Bilingual Alignment Batch 2
+## Bilingual Alignment 10-record Batch 2 — COMPLETE
 
-Align exactly five records:
+- **3369–3376, 3154, 3378 / PDF 050–105** — **PASS / 10 of 10 aligned**
+- English corrections: **6 across 5 records**
+- Canonical Tamil changes: **0**
+- Embedded Tamil appendices matching canonical pages: **10 / 10**
+- Unresolved alignment items: **0**
+- Source-number anomaly: **3154 retained / 3377 not invented**
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`.
 
-- **3369 — PDF 050–055**
-- **3370 — PDF 056–061**
-- **3371 — PDF 062–065**
-- **3372 — PDF 066–069**
-- **3373 — PDF 070–073**
+Cumulative bilingual alignment: **15 / 64 — 3364–3376, 3154, 3378**.
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3373.md`.
+### Alignment batching cadence
 
-Stop after **3373 / PDF 073**. Do not begin **3374 / PDF 074** in the same activity.
+Per user instruction, process **10 actual source records per bilingual-alignment iteration** going forward. Preserve genuine source-number anomalies when counting records. Use a different batch size only if a source boundary makes ten records unsafe or the user explicitly changes the cadence.
+
+## Current exact task — Bilingual Alignment 10-record Batch 3
+
+Align exactly ten actual source records:
+
+- **3379 — PDF 106–112**
+- **3380 — PDF 113–120**
+- **3381 — PDF 121–130**
+- **3382 — PDF 131–140**
+- **3383 — PDF 141–149**
+- **3384 — PDF 150–160**
+- **3385 — PDF 161–168**
+- **3386 — PDF 169–178**
+- **3387 — PDF 179–186**
+- **3388 — PDF 187–190**
+
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3379_3388.md`.
+
+Stop after **3388 / PDF 190**. Do not begin **3389 / PDF 191** in the same activity.

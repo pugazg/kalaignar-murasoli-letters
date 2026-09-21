@@ -11,7 +11,7 @@ source_printed_page_end: 77
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3374. Shall I Give the List, So a Lesson May Be Learned!
@@ -52,7 +52,7 @@ She says that when people recall the incident at the Madras High Court complex o
 
 Does she know about the Jallianwala Bagh massacre?
 
-On 13 April 1919, a public meeting had been organised and was taking place at Jallianwala Bagh in Amritsar. General Dyer, a British commander, entered the grounds followed by one hundred British soldiers and fifty Indian troops, with armoured vehicles also coming in procession. Without warning the assembled people to disperse, General Dyer ordered fire to be opened on them. The soldiers fired relentlessly. Only after around ten minutes and 1,650 rounds did the firing stop. “I fired, I fired, I fired until the ammunition ran out,” the bloodthirsty General Dyer boasted. The source states that 379 people died in the Jallianwala Bagh incident.
+On 13 April 1919, a public meeting had been organised and was taking place at Jallianwala Bagh in Amritsar. General Dyer, a British commander, entered the grounds followed by one hundred British soldiers and fifty Indian troops, with artillery vehicles also coming in procession. Without warning the assembled people to disperse, General Dyer ordered the artillery to be fired at them. The soldiers fired the artillery in a barrage. Only after around ten minutes and 1,650 rounds did the firing stop. “I fired, I fired, I fired until the ammunition ran out,” the bloodthirsty General Dyer boasted. The source states that 379 people died in the Jallianwala Bagh incident.
 
 The incident that took place at the Madras High Court on the nineteenth cannot be compared with that incident in the manner Ms. Jayalalithaa suggests.
 

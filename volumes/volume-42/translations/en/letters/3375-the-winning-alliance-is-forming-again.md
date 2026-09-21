@@ -11,7 +11,7 @@ source_printed_page_end: 83
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3375. The Winning Alliance Is Forming Again!
@@ -42,7 +42,7 @@ During these past five years there has been no slackening in this alliance. Even
 
 But after Union External Affairs Minister Hon’ble Pranab Mukherjee issued firm statements calling for a ceasefire in Sri Lanka, they failed even in their effort to use the Sri Lankan Tamil issue to create confusion within the alliance.
 
-On the protection of Sri Lankan Tamils too, the views of the two parties are not contradictory. Their objective is the same. There may be differences in the way each expresses it, but on the objective that the Tamils in Sri Lanka must be protected, there has never been even a tiny mustard-seed-sized difference between Congress and the DMK.
+On the protection of Sri Lankan Tamils too, the views of the two parties are not contradictory. Their objective is the same. There may be differences in the way each expresses it, but on the objective that the Tamils in Sri Lanka must be protected, there has never been even a tiny kunrimani-seed-sized difference between Congress and the DMK.
 
 In the past, perhaps, some people deliberately distorted the actions taken by the Dravida Munnetra Kazhagam on the Sri Lankan Tamil issue and conveyed them to Indira Gandhi’s Union Government and to other governments — turning a mustard seed into a mountain and the mountain into a tsunami wave — and tried on that basis to topple the DMK government.
 
@@ -54,7 +54,7 @@ There are some who see that the people of India welcome and praise today’s Uni
 
 As far as Tamil Nadu is concerned, everyone knows one or two among them. With those few, the whole body is brain; the whole brain is thought; and all that thought is deceit.
 
-For example, even after Mr. Ghulam Nabi Azad met me yesterday and told reporters that the Congress–DMK alliance would continue, there was a determined attempt to divert people who were immersed in happiness. Through *Dinamani*, a report was printed on the front page.
+For example, after Mr. Ghulam Nabi Azad met people from various parties — particularly and especially those belonging to Congress — he announced that the DMK–Congress winning alliance would continue. Even after that announcement, there was a determined attempt to divert people who were immersed in happiness. Through *Dinamani*, a report was printed on the front page.
 
 Do you know what *Dinamani* published, in a way meant to startle those who had heard the alliance announcement and rejoiced?
 

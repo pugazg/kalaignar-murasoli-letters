@@ -11,7 +11,7 @@ source_printed_page_end: 97
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 source_numbering_anomaly: "3154 is printed in both contents and actual heading between 3376 and 3378; no 3377 source record exists at this position"
 ---
 

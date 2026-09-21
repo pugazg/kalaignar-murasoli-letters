@@ -59,9 +59,13 @@ English FINAL source-boundary Batch: **PASS — 3422–3427 / PDF 374–401; 6 /
 
 Bilingual Alignment Batch 1: **PASS — 3364–3368 / PDF 024–049; 5 / 5 aligned; cumulative 5 / 64; 1 English correction; 0 canonical Tamil changes; 0 unresolved alignment items.** Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
 
+Bilingual Alignment 10-record Batch 2: **PASS — 3369–3376, 3154, 3378 / PDF 050–105; 10 / 10 aligned; cumulative 15 / 64; 6 English corrections across 5 records; 0 canonical Tamil changes; 0 unresolved alignment items.** Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`.
+
+Per user instruction, bilingual alignment now proceeds in **10 actual source records per iteration**.
+
 ## Exact next activity
 
-Perform **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**. Stop after **3373 / PDF 073**; do not begin 3374 in the same activity.
+Perform **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**. Stop after **3388 / PDF 190**; do not begin 3389 in the same activity.
 
 ## PDF 001–017 shared front matter
 

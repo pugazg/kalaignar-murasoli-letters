@@ -11,7 +11,7 @@ source_printed_page_end: 68
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3372. This Is Always Your Life!
@@ -38,7 +38,7 @@ I have continued to work with that thought. Eighty-five years ago I was born in 
 
 It placed me under the embrace of Anna, the treasure of classical Tamil.
 
-The shower of affection from elder brother Pattukkottai Azhagiri became a shower of praise and made me Kalaignar.
+The shower of affection from elder brother Kodaiyidi Azhagiri became a shower of praise and made me Kalaignar.
 
 My affection for Annal Jeeva filled my heart. Even after he passed away, that affection did not pass away.
 
@@ -91,7 +91,7 @@ this is your life!
 
 1. The quoted statement on the Madras High Court conflict is translated as the author’s contemporaneous political/legal framing; no external adjudication is imported.
 2. The closing declaration deliberately turns “my life” into “your life”; that rhetorical ownership is preserved.
-3. The autobiographical references to Periyar, Anna, Jeeva and Pattukkottai Azhagiri are translated without added historical explanation.
+3. The autobiographical references to Periyar, Anna, Jeeva and Kodaiyidi Azhagiri are translated without added historical explanation.
 4. The source’s heart/pit image echoes Letter 3366 and is retained.
 
 ## Original Tamil — மூலத் தமிழ்

@@ -1518,3 +1518,33 @@ Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
 Editorial consistency review and final release verification remain later separate gates.
 
 **Next:** **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**, stopping before 3374 / PDF 074.
+
+## 46. Bilingual Alignment 10-record Batch 2 — 3369–3376, 3154, 3378 / PDF 050–105
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 aligned**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`.
+
+### Result
+
+- records aligned: **10 / 10**;
+- cumulative bilingual alignment: **15 / 64 — 3364–3376, 3154, 3378**;
+- English corrections: **6 across 5 records**;
+- **3371:** 25.2.2009 correctly attached to stitch removal, not the surgery date;
+- **3372:** source `கோடையிடி அழகிரி` restored as **Kodaiyidi Azhagiri**, replacing outside-normalised “Pattukkottai Azhagiri”;
+- **3374:** source artillery wording in the Jallianwala Bagh passage restored rather than normalised to armoured vehicles/generic firing;
+- **3375:** `குன்றிமணி` image restored and omitted Ghulam Nabi Azad multi-party/Congress consultation detail restored;
+- **3376:** source name `சந்திரசூடன்` restored as **Chandrasoodan**;
+- **3369, 3370, 3373, 3154, 3378:** meaning-level PASS without English correction;
+- embedded Tamil appendices matching audited canonical pages: **10 / 10**;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- genuine source-number anomaly **3154** retained; **3377 not invented**;
+- all ten records now carry `bilingual_alignment_status: aligned`.
+
+Per user instruction, bilingual alignment now proceeds in **10 actual source records per iteration**.
+
+Editorial consistency review and final release verification remain later separate gates.
+
+**Next:** **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**, stopping before 3389 / PDF 191.

@@ -24,7 +24,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **64 / 64 source-checked; bilingual alignment 5 / 64 through 3368** |
+| 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **64 / 64 source-checked; bilingual alignment 15 / 64 through 3378** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
@@ -130,6 +130,7 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Second full-volume direct visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**.
 - Final batch applied three scan-proven corrections on **PDF 382, 399 and 400**; unresolved fidelity items: **0**.
 - English translation/source-check: **COMPLETE — 64 / 64 source-checked through 3427**.
-- Bilingual meaning-level alignment: **IN PROGRESS — 5 / 64 aligned through 3368 / PDF 049; 1 English correction / 0 canonical Tamil changes**.
+- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 64 aligned through 3378 / PDF 105; cumulative 7 English corrections / 0 canonical Tamil changes**.
+- Bilingual-alignment cadence: **10 actual source records per iteration**.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, all Volume 42 English source-check reports through `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`, `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, all Volume 42 English source-check reports through `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`, alignment reports through `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**.

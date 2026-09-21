@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 5 / 64 aligned through 3368 / PDF 049.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 15 / 64 aligned through 3378 / PDF 105.**
 
 Tamil prerequisites are complete:
 
@@ -132,6 +132,21 @@ Letters **3364–3368 / PDF 024–049**: **PASS — 5 / 5 aligned**.
 - cumulative aligned: **5 / 64**
 - durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`](BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md)
 
+## Bilingual Alignment 10-record Batch 2 completed
+
+Actual source records: **3369, 3370, 3371, 3372, 3373, 3374, 3375, 3376, 3154, 3378** — PDF **050–105**.
+
+- aligned: **10 / 10**
+- cumulative aligned: **15 / 64**
+- English corrections: **6 across 5 records**
+- canonical Tamil changes: **0**
+- embedded Tamil appendices matching canonical pages: **10 / 10**
+- unresolved alignment items: **0**
+- source-number anomaly **3154** preserved; **3377 is not invented**
+- durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`](BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md)
+
+Per user instruction, bilingual alignment now proceeds in **10 actual source records per iteration**.
+
 ## Exact next activity
 
-Perform **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**. Stop after **3373 / PDF 073**; do not begin 3374 in the same activity.
+Perform **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**. Stop after **3388 / PDF 190**; do not begin 3389 in the same activity.

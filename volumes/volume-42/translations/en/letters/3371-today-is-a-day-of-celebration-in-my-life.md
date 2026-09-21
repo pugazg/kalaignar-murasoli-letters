@@ -11,7 +11,7 @@ source_printed_page_end: 64
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3371. Today Is a Day of Celebration in My Life!
@@ -28,7 +28,7 @@ bilingual_alignment_status: "not-started"
 
 Today is an important day in my life. Yes — today is the day on which the reservation Bill for the Arunthathiyar community is being passed in the Legislative Assembly.
 
-I had intended to be present in the House on this day, to move this Bill myself in the Assembly and ask all the Members to pass it. However, Dr. Arvind Jaiswal, who came from Delhi, and the medical team here headed by Dr. Marthandam tried last night, after removing the stitches from my surgery on 25.2.2009, to make me sit and stand. Since I had remained confined to bed for a month, from 26 January onward, both before and after the operation, they insisted that I would need several days of practice before I could stand firmly on my legs.
+I had intended to be present in the House on this day, to move this Bill myself in the Assembly and ask all the Members to pass it. However, Dr. Arvind Jaiswal, who came from Delhi, and the medical team here headed by Dr. Marthandam tried last night (25.2.2009), after removing the stitches from my surgery, to make me sit and stand. Since I had remained confined to bed for a month, from 26 January onward, both before and after the operation, they insisted that I would need several days of practice before I could stand firmly on my legs.
 
 Professor had told the House with hope that I would come to the Assembly the next day. But in this situation, I was unable to come in person and move the Bill for the Arunthathiyars myself.
 

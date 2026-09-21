@@ -11,7 +11,7 @@
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
 - English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
-- Bilingual meaning-level alignment: **IN PROGRESS — 5 / 64 aligned — 3364–3368 / PDF 024–049**
+- Bilingual meaning-level alignment: **IN PROGRESS — 15 / 64 aligned — 3364–3376, 3154, 3378 / PDF 024–105**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -352,6 +352,18 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Unresolved alignment items: **0**.
 - Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
 
+## Bilingual Alignment 10-record Batch 2 — 3369–3376, 3154, 3378 / PDF 050–105 — PASS
+
+- Records aligned: **10 / 10**.
+- Cumulative alignment: **15 / 64**.
+- English corrections: **6 across 5 records**.
+- Canonical Tamil changes: **0**.
+- Embedded Tamil appendices matching canonical pages: **10 / 10**.
+- Unresolved alignment items: **0**.
+- Source-number anomaly **3154** preserved; **3377 not invented**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3369_3378.md`.
+- Alignment cadence going forward: **10 actual source records per iteration**.
+
 ## Exact next activity
 
-Perform **Bilingual Alignment Batch 2 — 3369–3373 / PDF 050–073**. Stop after **3373 / PDF 073**. Do not begin 3374 in the same activity.
+Perform **Bilingual Alignment 10-record Batch 3 — 3379–3388 / PDF 106–190**. Stop after **3388 / PDF 190**. Do not begin 3389 in the same activity.
