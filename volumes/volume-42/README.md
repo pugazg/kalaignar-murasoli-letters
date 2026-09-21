@@ -37,11 +37,11 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 **BLOCKED.** English work may not begin until the required Tamil source-page coverage, structural audit and scan-based fidelity gates are complete for the eligible source material.
 
-Second-pass fidelity frontier: **PDF 001–105 / 402 VERIFIED**. Cumulative canonical pages corrected so far: **26 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102 and 103**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+Second-pass fidelity frontier: **PDF 001–149 / 402 VERIFIED**. Cumulative canonical pages corrected so far: **45 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146 and 147**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3379–3383 / PDF 106–149**, stopping before **Letter 3384 / PDF 150**. English remains blocked.
+Continue the second direct visual/textual-fidelity verification with **3384–3388 / PDF 150–190**, stopping before **Letter 3389 / PDF 191**. English remains blocked.
 
 ## PDF 001–017 shared front matter
 
@@ -53,5 +53,6 @@ Volume 42 follows the repository-wide `SERIES_FRONT_MATTER_POLICY.md`.
 - Fidelity Batch 2 directly verified Letters **3364–3368 / PDF 024–049** and corrected seven canonical pages: 026, 029, 034, 036, 037, 044 and 046. The major semantic repair is PDF 044 `உத்தரவாதம் அளிக்கக்கூடிய`.
 - Fidelity Batch 3 directly verified Letters **3369–3373 / PDF 050–073** and corrected canonical PDF **053, 058, 060, 061 and 063**. Major repairs include PDF 060 `ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`, PDF 061 `அறிக்கையாக்கியிருக்கிறேன்`, and PDF 063 `டெல்லி மருத்துவரும்`.
 - Fidelity Batch 4 directly verified source records **3374, 3375, 3376, 3154 and 3378 / PDF 074–105** and corrected canonical PDF **074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102 and 103**. The batch applied **21 scan-proven corrections across 12 pages**; source number **3154** remains intact and no title/date/boundary/contents-row change was required.
+- Fidelity Batch 5 directly verified source records **3379–3383 / PDF 106–149** and corrected canonical PDF **109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146 and 147**. The batch applied **28 scan-proven corrections across 19 pages**; no title/date/boundary/contents-row change was required.
 - Any printed wording difference must be transcribed locally in full; do not force-match a shared page.
 - PDF **018 onward** follows normal full transcription rules.
