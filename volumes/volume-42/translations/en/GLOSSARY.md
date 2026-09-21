@@ -1,6 +1,6 @@
 # Volume 42 — English Glossary
 
-**Status:** locked after pilot review; extended through 10-record Batch 6 — **58 / 64 source-checked through 3421**. No new recurring term in Batch 6 required a glossary entry.
+**Status:** locked after pilot review; extended through the final source record — **64 / 64 source-checked through 3427 COMPLETE**. No new recurring term in the final six-record batch required a glossary entry. Bilingual alignment is the next gate.
 
 | Tamil source form | English treatment | Note |
 |---|---|---|

@@ -35,7 +35,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**MAIN TRANSLATION IN PROGRESS.** English actual source records **3364–3376, 3154, 3378–3421** are translated and source-checked; **58 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved.
+**MAIN TRANSLATION/SOURCE-CHECK COMPLETE.** English actual source records **3364–3376, 3154, 3378–3427** are translated and source-checked; **64 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved. Full-volume bilingual alignment is the next gate.
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
@@ -53,11 +53,13 @@ English 10-record Batch 5: **PASS — 3402–3411 / PDF 260–310; 10 / 10 sourc
 
 English 10-record Batch 6: **PASS — 3412–3421 / PDF 311–373; 10 / 10 source-checked; cumulative 58 / 64; Tamil changes 0; unresolved source-check items 0.** Letter 3420 preserves both printed English extracts verbatim; 3421 preserves the reproduced 1968 World Tamil Conference radio address in full thought order. Durable report: `translations/en/SOURCE_CHECK_3412_3421.md`.
 
-Normal English cadence is **10 actual source records per iteration**; only six records remain, so the final batch is a source-boundary exception.
+Normal English source-check cadence was **10 actual source records per iteration**; the final six-record source-boundary exception is now complete.
+
+English FINAL source-boundary Batch: **PASS — 3422–3427 / PDF 374–401; 6 / 6 source-checked; cumulative 64 / 64 COMPLETE; Tamil changes 0; unresolved source-check items 0.** Durable report: `translations/en/SOURCE_CHECK_3422_3427.md`.
 
 ## Exact next activity
 
-Translate and source-check the final **6 actual source records — 3422–3427 / PDF 374–401**. Stop after **3427 / PDF 401**; PDF 402 is non-letter material.
+Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Stop after **3368 / PDF 049**; do not begin 3369 in the same activity.
 
 ## PDF 001–017 shared front matter
 

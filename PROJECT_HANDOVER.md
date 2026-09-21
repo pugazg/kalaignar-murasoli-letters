@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH MAIN BATCHES IN PROGRESS — 2026-09-21
+## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH MAIN TRANSLATION COMPLETE / BILINGUAL ALIGNMENT NEXT — 2026-09-21
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -224,7 +224,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Shared front matter after second-pass Batch 1: **PDF 001–003 local; PDF 004 local difference (`அம்மாவுக்கு...`); PDF 005–017 direct-verified shared references**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
 - Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
-- English translation: **MAIN TRANSLATION IN PROGRESS — 58 / 64 actual source records translated/source-checked through 3421**.
+- English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**.
 - Letter **3425** contents/actual-title distinction: contents `திருந்தப் போகிறார்களா?`; actual PDF 386 `திருந்தப்போகிறார்களா?`.
 - Letter **3427** closes at PDF **401 / printed 400**; PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428** is created in Volume 42.
 - English pilot **3364–3366 / PDF 024–032**: **PASS — 3 / 3 source-checked**, complete audited Tamil appendices included, **0 Tamil changes**, pilot review PASS, conventions locked in the Volume 42 glossary.
@@ -234,11 +234,15 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - English 10-record Batch 4 **3392–3401 / PDF 209–259**: **PASS — 10 / 10 source-checked**, cumulative **38 / 64**, 3392 duplicate source printing preserved in full Tamil appendix, 3395 book quotations grounded only in printed Tamil rendering, 3399 technical/environmental and welfare lists retained in detail, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3392_3401.md`.
 - English 10-record Batch 5 **3402–3411 / PDF 260–310**: **PASS — 10 / 10 source-checked**, cumulative **48 / 64**, source English in 3405 and 3408 preserved verbatim, 3406 pay/welfare figures retained in full, 3411 by-election/EVM material retained as historical source framing, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3402_3411.md`.
 - English 10-record Batch 6 **3412–3421 / PDF 311–373**: **PASS — 10 / 10 source-checked**, cumulative **58 / 64**, 3420 source English retained verbatim, 3421 reproduced 1968 conference address retained in full thought order, PDF 357 source form preserved, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3412_3421.md`.
-- User-set English cadence is normally **10 actual source records per iteration**; the final Volume 42 batch is a source-boundary exception because only **6** records remain.
+- English FINAL source-boundary Batch **3422–3427 / PDF 374–401**: **PASS — 6 / 6 source-checked**, cumulative **64 / 64 COMPLETE**, 3425 actual/contents title-layer distinction preserved, 3425 source English discussion topics preserved verbatim, 3426 religious/political material retained as archival source framing, 3427 closes at PDF 401, **0 Tamil changes / 0 unresolved source-check items**. Durable report: `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`.
+- Complete audited Tamil appendices are present in **64 / 64** English records.
+- Full-volume bilingual meaning-level alignment: **NOT STARTED — next gate**.
+- English editorial consistency review: **not started**.
+- Translation manifest/final release verification: **not started**.
 
 ### Exact next activity
 
-Translate and source-check the final **6 actual source records — 3422–3427 / PDF 374–401**. Stop after **3427 / PDF 401**. PDF 402 is non-letter material; do not create Letter 3428.
+Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Compare complete audited Tamil against each English body at meaning level, document any English correction, set `bilingual_alignment_status: aligned` only after PASS, create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, and stop after **3368 / PDF 049**. Do not begin 3369 in the same activity.
 
 ## Series front matter optimization — 2026-09-19
 

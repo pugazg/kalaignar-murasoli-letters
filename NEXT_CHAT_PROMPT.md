@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 42 / English FINAL source batch — 3422–3427 / PDF 374–401
+# NEXT CHAT PROMPT — Volume 42 / Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -14,9 +14,9 @@ Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE 
 - Actual source records: **64 — 3364–3376, 3154, 3378–3427**
 - Source-incomplete records: **0**
 - Letter **3427** closes at PDF **401 / printed 400**
-- PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **do not create Letter 3428**
+- PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; **no Letter 3428**
 
-## English durable state
+## English main-translation closure
 
 - Pilot **3364–3366 / PDF 024–032**: **PASS**
 - Batch 1 **3367–3371 / PDF 033–065**: **PASS**
@@ -25,14 +25,14 @@ Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE 
 - 10-record Batch 4 **3392–3401 / PDF 209–259**: **PASS**
 - 10-record Batch 5 **3402–3411 / PDF 260–310**: **PASS**
 - 10-record Batch 6 **3412–3421 / PDF 311–373**: **PASS**
-- translated/source-checked: **58 / 64**
-- translated source identities: **3364–3376, 3154, 3378–3421**
-- Tamil changes during all English source-check work: **0**
+- FINAL source-boundary batch **3422–3427 / PDF 374–401**: **PASS**
+- translated/source-checked: **64 / 64 COMPLETE**
+- translated source identities: **3364–3376, 3154, 3378–3427**
+- canonical Tamil changes during all English source-check work: **0**
 - unresolved English source-check items: **0**
+- complete audited Tamil appendix in every English record: **64 / 64**
+- glossary/conventions: **LOCKED / extended through 3427**
 - source number **3154** remains genuine; **3377 does not exist at that position**
-- glossary/conventions: **LOCKED / extended through 3421**
-- full-volume bilingual alignment: **not started; later separate gate**
-- editorial/release gates: **not started**
 
 Durable reports:
 
@@ -43,70 +43,87 @@ Durable reports:
 - `volumes/volume-42/translations/en/SOURCE_CHECK_3392_3401.md`
 - `volumes/volume-42/translations/en/SOURCE_CHECK_3402_3411.md`
 - `volumes/volume-42/translations/en/SOURCE_CHECK_3412_3421.md`
+- `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`
 
-## English batching rule
+## Final-batch durable notes
 
-The normal cadence is **10 actual source records per iteration**. Only **6 actual records remain**, so this final batch is a source-boundary exception.
+- **3422** preserves Classical Tamil award names, recipients, cash-purse amounts, Classical Language chronology and Parithimar Kalaignar memorial figures.
+- **3423** preserves Sri Lankan conflict imagery, Tamil Eelam terminology and MPs-delegation claims strictly as 2009 source framing.
+- **3424** preserves the complete Arunthathiyar internal-reservation chronology, hospital preface, admission figures and sanitation-worker welfare figures.
+- **3425** preserves the actual-title `திருந்தப்போகிறார்களா?` while contents independently retains `திருந்தப் போகிறார்களா?`; Professor K. Sivathamby’s five English discussion topics remain verbatim, including source spellings `Samerian` and `SriLankan`.
+- **3426** preserves the archival account of Muslim organisations, representation and 3.5 per cent reservation as source framing; `Quota and Rota` remains verbatim.
+- **3427** preserves Adi Dravidar / Scheduled Tribe welfare figures, the Samathuvapuram allocation numbers exactly as printed, and the final letter boundary at PDF 401.
+- Final-batch Tamil changes: **0**.
+- Final-batch unresolved source-check items: **0**.
 
 ## Locked translation conventions
 
-1. Retain **Udanpirappē**; use **Udanpirappugal** where the plural carries movement vocabulary.
-2. Standard `அன்புள்ள, மு.க.` → **With affection, M.K.**
-3. Use **DMK / AIADMK / MDMK** in ordinary political prose; expand where institutional framing benefits.
-4. `மத்திய அரசு` → **Union Government**; `மாநில அரசு` → **State government**.
-5. Preserve source-supplied English verbatim when it functions as printed source wording.
-6. Preserve accusation, irony, repetition, rhetorical questions and slogans strictly as source-framed material; do not import outside factual corrections.
-7. `போர் நிறுத்தம்` → **ceasefire**; `தமிழ் ஈழம் / தமிழீழம்` → **Tamil Eelam**; source `இனப் படுகொலை / ஜெனோசைட்` → **genocide** only as source wording.
-8. `உள் ஒதுக்கீடு` → **internal reservation**; `அருந்ததியர்` → **Arunthathiyar**.
-9. `தேர்தல் ஆணையம்` → **Election Commission** / **Election Commission of India** by context; `தலைமைத் தேர்தல் அதிகாரி` → **Chief Electoral Officer**.
-10. `நலிவும் நானும் - நாட்குறிப்பு` → **Illness and I — Diary** for 3379–3384.
-11. `கச்சத் தீவு` → **Katchatheevu**.
-12. `செம்மொழி` → **Classical Language** for formal status.
-13. `சேது சமுத்திரத் திட்டம்` / `சேதுத் திட்டம்` → **Sethusamudram project / Sethu project**.
-14. `வேலை நிறுத்தம்` → **work stoppage** in the April 2009 protest context.
-15. Every English record includes the complete audited Tamil under `## Original Tamil — மூலத் தமிழ்` with physical page markers.
+Read `volumes/volume-42/translations/en/GLOSSARY.md` before alignment. Preserve all locked terminology and source-supplied English.
 
-Read `volumes/volume-42/translations/en/GLOSSARY.md` before drafting.
+Key conventions include:
 
-## Batch 6 durable notes
+- **Udanpirappē** / **Udanpirappugal**
+- standard closing: **With affection, M.K.**
+- **Union Government** / **State government**
+- **Tamil Eelam**
+- **internal reservation**
+- **Arunthathiyar**
+- **Illness and I — Diary**
+- **Katchatheevu**
+- **Classical Language**
+- **Sethusamudram project / Sethu project**
+- **work stoppage** in the April 2009 protest context
 
-- **3412** preserves the Bengaluru Thiruvalluvar-statue event, Valluvar Kottam chronology, the 1976 self-quotation and the Kanyakumari statue chronology.
-- **3413** retains every insurance beneficiary count, premium, expenditure figure and source-supplied English term.
-- **3414** keeps the birthday advertisement unnamed and preserves the remembered play dialogue, Anna-title list and poem.
-- **3415** preserves the Anna-centenary programme, schedules, named participants, awards and closing invitation as historical source material.
-- **3416** retains the 1996 Thirukkuvalai inscription and the full policy/achievement list; locked **Classical Language / internal reservation / Arunthathiyar** terminology applies.
-- **3417** preserves the Sri Lanka MPs-delegation chronology and political polemic as source framing only.
-- **3418** preserves Mullaperiyar, court and newspaper-editorial material without importing present-day legal conclusions.
-- **3419** retains Radhapuram administrative details, historical naming list and Anna’s remembrance of Anjugam; PDF 357 retains source form `புறங்காந்திமடைந்து`.
-- **3420** preserves both source-supplied English extracts verbatim and the all-party resolution.
-- **3421** preserves the World Classical Tamil Conference setup and the reproduced 1968 radio address in full thought order.
-- Batch 6 Tamil changes: **0**. Unresolved English source-check items: **0**.
+## Bilingual alignment policy
 
-## Exact next activity — FINAL 6-record source batch
+Bilingual alignment is a **separate meaning-level gate** after source-check completion.
 
-Translate and source-check exactly:
+For each aligned record:
 
-1. **3422** — PDF **374–377** / printed **373–376** — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
-2. **3423** — PDF **378–379** / printed **377–378** — `இன்ப நாளிதே எனப்பாடுவோம்!`
-3. **3424** — PDF **380–385** / printed **379–384** — `அடித்தட்டல்ல; அடித்தளமானவர்கள்!`
-4. **3425** — PDF **386–388** / printed **385–387** — actual title `வருந்தப் போகிறார்களா - இனியேனும் திருந்தப்போகிறார்களா?`
-5. **3426** — PDF **389–395** / printed **388–394** — `“நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்!`
-6. **3427** — PDF **396–401** / printed **395–400** — `மேலும் பயன்படுகின்ற சந்திப்பு!`
+1. compare the complete audited canonical Tamil against the English body in source order;
+2. verify the title, every paragraph, figures, dates, quotations, lists, names, rhetoric, claims and closing;
+3. preserve source-supplied English exactly where the source prints it;
+4. correct English only where meaning is incomplete, shifted or inaccurate;
+5. document each substantive English correction in the alignment report;
+6. if a Tamil defect is suspected, return to the controlling scan before changing canonical Tamil;
+7. record English corrections separately from canonical Tamil changes;
+8. set `bilingual_alignment_status: aligned` only after the record passes;
+9. keep editorial consistency review and final release verification as later separate gates.
 
-Source-layer note for **3425**: printed contents has `திருந்தப் போகிறார்களா?`; actual PDF 386 title has joined `திருந்தப்போகிறார்களா?`. Preserve each source layer independently.
+## Exact next activity — Bilingual Alignment Batch 1
 
-### Required method
+Align exactly five source records:
 
-1. Read `VOLUME_PROCESSING_GUIDE.md`, `volumes/volume-42/TRANSLATION_PLAN.md`, all completed English source-check reports, `translations/en/GLOSSARY.md`, the six chapter records and canonical pages PDF **374–401**.
-2. Translate only from fidelity-verified canonical Tamil. The controlling scan remains ultimate authority if a Tamil reading becomes doubtful.
-3. Preserve complete thought order, attribution, names, dates, figures, quotations, lists, repetition, source anomalies, source-supplied English and closings.
-4. Source-check each record before marking `translation_status: source-checked`.
-5. Include complete audited Tamil appendices with physical page markers.
-6. Add glossary entries only for genuinely recurring terminology.
-7. Update English and volume/root controls atomically.
-8. Stop after **3427 / PDF 401**. Do not create **3428** from PDF 402.
-9. Keep full-volume bilingual alignment, editorial consistency and final release verification as later separate gates after main translation reaches **64 / 64**.
+1. **3364 — PDF 024–027**
+2. **3365 — PDF 028–031**
+3. **3366 — PDF 032**
+4. **3367 — PDF 033–040**
+5. **3368 — PDF 041–049**
+
+### Required startup
+
+Read completely before editing:
+
+1. `VOLUME_PROCESSING_GUIDE.md`
+2. `volumes/volume-42/TRANSLATION_PLAN.md`
+3. `volumes/volume-42/translations/en/README.md`
+4. `volumes/volume-42/translations/en/PROGRESS.md`
+5. `volumes/volume-42/translations/en/GLOSSARY.md`
+6. the pilot and source-check reports covering 3364–3368
+7. the five English records
+8. canonical Tamil pages PDF 024–049
+
+### Output
+
+- meaning-level PASS/FAIL for each record;
+- English corrections only where required by source meaning;
+- canonical Tamil changes only if a concrete scan-proven defect is found;
+- set `bilingual_alignment_status: aligned` after each PASS;
+- create `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`;
+- update alignment progress and repository controls atomically.
+
+Stop after **3368 / PDF 049**. Do **not** begin **3369 / PDF 050** in the same activity.
 
 Suggested commit message:
 
-`Translate Volume 42 letters 3422-3427`
+`Align Volume 42 letters 3364-3368`

@@ -1,6 +1,6 @@
-# Volume 42 English Translation Plan — MAIN TRANSLATION IN PROGRESS
+# Volume 42 English Translation Plan — MAIN TRANSLATION COMPLETE / BILINGUAL ALIGNMENT NEXT
 
-The three-letter pilot is complete and source-checked, Volume 42 translation conventions are locked, and **58 / 64 actual source records** are now translated/source-checked.
+The three-letter pilot and all source-check batches are complete, Volume 42 translation conventions are locked, and **64 / 64 actual source records** are translated/source-checked.
 
 ## Gate status
 
@@ -11,8 +11,8 @@ The three-letter pilot is complete and source-checked, Volume 42 translation con
 - [x] Mandatory second visual/textual-fidelity verification — **PASS / COMPLETE / CLOSED — PDF 001–402 / 402**
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
-- [ ] Main translation batches — **IN PROGRESS; 58 / 64 source-checked**
-- [ ] Full-volume bilingual alignment
+- [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
+- [ ] Full-volume bilingual alignment — **NOT STARTED / NEXT GATE**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -25,8 +25,9 @@ The three-letter pilot is complete and source-checked, Volume 42 translation con
 - 10-record Batch 4 **3392–3401 / PDF 209–259** — **PASS / 10 of 10**
 - 10-record Batch 5 **3402–3411 / PDF 260–310** — **PASS / 10 of 10**
 - 10-record Batch 6 **3412–3421 / PDF 311–373** — **PASS / 10 of 10**
+- FINAL source-boundary Batch **3422–3427 / PDF 374–401** — **PASS / 6 of 6**
 
-Cumulative translated/source-checked: **58 / 64 — 3364–3376, 3154, 3378–3421**.
+Cumulative translated/source-checked: **64 / 64 COMPLETE — 3364–3376, 3154, 3378–3427**.
 
 Tamil changes during English source-check: **0**.
 
@@ -39,6 +40,7 @@ Durable source-check reports:
 - `translations/en/SOURCE_CHECK_3392_3401.md`
 - `translations/en/SOURCE_CHECK_3402_3411.md`
 - `translations/en/SOURCE_CHECK_3412_3421.md`
+- `translations/en/SOURCE_CHECK_3422_3427.md`
 
 ## English batching rule
 
@@ -87,19 +89,41 @@ Durable terminology: `translations/en/GLOSSARY.md`.
 - **3420** preserves both source-supplied English meeting-record extracts verbatim.
 - **3421** retains the reproduced 1968 radio address in full thought order and uses **Classical Language** for formal `செம்மொழி`.
 
-## Current exact task — FINAL 6-record source batch
+## Final source-batch special handling
 
-Only six actual source records remain, so this is a source-boundary exception to the normal 10-record cadence.
+- **3422** preserves Classical Tamil awards, Classical Language chronology and Parithimar Kalaignar memorial figures.
+- **3423** preserves Sri Lanka / Tamil Eelam material as historical source framing.
+- **3424** preserves Arunthathiyar internal-reservation chronology, the hospital preface and all admission/welfare figures.
+- **3425** preserves the actual-title `திருந்தப்போகிறார்களா?` versus contents `திருந்தப் போகிறார்களா?`; source English is verbatim.
+- **3426** preserves Muslim-community historical/political material explicitly as archival source framing and retains `Quota and Rota` verbatim.
+- **3427** preserves Adi Dravidar / Scheduled Tribe welfare and budget figures, the printed Samathuvapuram allocation numbers, and closes the source at PDF 401.
 
-Translate and source-check:
+## Bilingual alignment policy
 
-- **3422** — PDF **374–377** / printed **373–376** — `சுழன்று சுடர்விடும் எண்ண அலைகள்!`
-- **3423** — PDF **378–379** / printed **377–378** — `இன்ப நாளிதே எனப்பாடுவோம்!`
-- **3424** — PDF **380–385** / printed **379–384** — `அடித்தட்டல்ல; அடித்தளமானவர்கள்!`
-- **3425** — PDF **386–388** / printed **385–387** — actual title `வருந்தப் போகிறார்களா - இனியேனும் திருந்தப்போகிறார்களா?`
-- **3426** — PDF **389–395** / printed **388–394** — `“நீதிக்கட்சி” தொடங்கிய நெடிய பயணம்!`
-- **3427** — PDF **396–401** / printed **395–400** — `மேலும் பயன்படுகின்ற சந்திப்பு!`
+Bilingual alignment is a separate meaning-level gate after source-check completion.
 
-For **3425**, preserve the source-layer distinction: contents prints `திருந்தப் போகிறார்களா?`; actual PDF 386 prints `திருந்தப்போகிறார்களா?`.
+For each alignment batch:
 
-Stop after **3427 / PDF 401**. PDF **402** is non-letter back-cover material; do not create Letter 3428.
+1. compare the complete audited canonical Tamil against the English body in source order;
+2. verify title, paragraph coverage, figures, dates, quotations, lists, names, rhetoric, claims and closing;
+3. preserve source-supplied English exactly where the source printed it;
+4. correct English where meaning is incomplete, shifted or inaccurate and document each substantive correction;
+5. if a Tamil defect is suspected, return to the controlling scan before changing canonical Tamil;
+6. record English corrections separately from canonical Tamil changes;
+7. set `bilingual_alignment_status: aligned` only after the record passes;
+8. create a durable batch alignment report and update progress/handover controls;
+9. do not perform editorial consistency review or final release verification in the same activity unless separately scheduled.
+
+## Current exact task — Bilingual Alignment Batch 1
+
+Align exactly five records:
+
+- **3364 — PDF 024–027**
+- **3365 — PDF 028–031**
+- **3366 — PDF 032**
+- **3367 — PDF 033–040**
+- **3368 — PDF 041–049**
+
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`.
+
+Stop after **3368 / PDF 049**. Do not begin **3369 / PDF 050** in the same activity.

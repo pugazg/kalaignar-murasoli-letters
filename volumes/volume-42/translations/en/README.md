@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION IN PROGRESS — 58 / 64 source-checked; latest 10-record batch PASS through 3421 / PDF 373.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64 source-checked through 3427 / PDF 401; bilingual alignment is next.**
 
 Tamil prerequisites are complete:
 
@@ -102,6 +102,25 @@ Actual source records: **3412–3421** — PDF **311–373**.
 - 3421 reproduced 1968 World Tamil Conference radio address retained in full thought order
 - durable report: [`SOURCE_CHECK_3412_3421.md`](SOURCE_CHECK_3412_3421.md)
 
+## FINAL source-boundary Batch completed
+
+Actual source records: **3422–3427** — PDF **374–401**.
+
+- source-checked: **6 / 6**
+- cumulative: **64 / 64 COMPLETE**
+- Tamil changes: **0**
+- unresolved source-check items: **0**
+- 3422 Classical Tamil award / Parithimar Kalaignar figures retained
+- 3423 Sri Lanka / Tamil Eelam material retained as historical source framing
+- 3424 Arunthathiyar reservation and welfare figures retained
+- 3425 actual/contents title-layer distinction preserved; source English discussion topics retained verbatim
+- 3426 Muslim-community political/religious material retained as archival source framing; `Quota and Rota` preserved
+- 3427 welfare/budget figures retained; closes at PDF 401
+- PDF 402 remains non-letter matter; no Letter 3428
+- durable report: [`SOURCE_CHECK_3422_3427.md`](SOURCE_CHECK_3422_3427.md)
+
+Main translation/source-check is now **COMPLETE — 64 / 64**.
+
 ## Exact next activity
 
-Only **6 actual source records remain**. Translate and source-check **3422–3427 / PDF 374–401** as the final main-translation batch. Stop after **3427**; PDF 402 is non-letter material.
+Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Compare complete audited Tamil against English at meaning level, document any English correction, set `bilingual_alignment_status: aligned` only after PASS, create `BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, and stop before **3369 / PDF 050**.

@@ -1457,3 +1457,41 @@ Durable source-check report: `translations/en/SOURCE_CHECK_3412_3421.md`.
 Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
 
 **Next:** only **6** actual source records remain, so the final main-translation batch is a source-boundary exception to the 10-record cadence: translate/source-check **3422–3427 / PDF 374–401**. PDF 402 is non-letter material; do not create 3428.
+
+## 44. English FINAL source-boundary Batch — 3422–3427 / PDF 374–401
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 6 / 6 translated and source-checked; main translation COMPLETE**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3422_3427.md`.
+
+### Scope
+
+- **3422** — PDF 374–377
+- **3423** — PDF 378–379
+- **3424** — PDF 380–385
+- **3425** — PDF 386–388
+- **3426** — PDF 389–395
+- **3427** — PDF 396–401
+
+PDF **402** remains non-letter back-cover / portrait / publisher-contact-price material.
+
+### Result
+
+- final source records translated/source-checked: **6 / 6**;
+- cumulative translated/source-checked: **64 / 64 COMPLETE**;
+- complete audited Tamil appendices present: **64 / 64**;
+- **3422** award, Classical Language and Parithimar Kalaignar figures preserved;
+- **3423** Sri Lanka / Tamil Eelam material retained strictly as historical source framing;
+- **3424** Arunthathiyar internal-reservation chronology, hospital preface and welfare figures retained;
+- **3425** actual/contents title-layer distinction preserved and source-supplied English discussion topics retained verbatim;
+- **3426** Muslim-community political/religious history kept explicitly archival and source-framed; `Quota and Rota` retained verbatim;
+- **3427** welfare, reservation, Samathuvapuram and budget figures retained; final letter closes at PDF 401;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+**Main English translation/source-check gate: COMPLETE — 64 / 64.**
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and final release verification remain separate later gates.
+
+**Next:** **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**, stopping before 3369 / PDF 050.

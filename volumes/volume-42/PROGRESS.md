@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **MAIN TRANSLATION IN PROGRESS — 58 / 64 source-checked through actual source record 3421**
+- English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -325,6 +325,23 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Batch source-check report: `translations/en/SOURCE_CHECK_3412_3421.md` — **PASS**.
 - Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
 
+## English FINAL source-boundary Batch — 3422–3427 / PDF 374–401 — PASS
+
+- Actual source records translated/source-checked: **6 / 6**.
+- Cumulative English records: **64 / 64 COMPLETE**.
+- Complete audited Tamil appendices: **64 / 64**.
+- 3425 actual/contents title-layer distinction preserved.
+- 3425 source-supplied English discussion topics retained verbatim.
+- 3426 political/religious material retained as archival source framing.
+- 3427 closes at PDF 401; PDF 402 remains non-letter material.
+- Tamil changes during English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Durable report: `translations/en/SOURCE_CHECK_3422_3427.md` — **PASS**.
+- Main English translation/source-check gate: **COMPLETE**.
+- Full-volume bilingual alignment: **not started**.
+- Editorial review: **not started**.
+- Final release verification: **not started**.
+
 ## Exact next activity
 
-Only **6 actual source records remain**. Process final source-boundary batch **3422–3427 / PDF 374–401** and stop at PDF 401. PDF 402 is non-letter material; do not create 3428.
+Perform **Bilingual Alignment Batch 1 — 3364–3368 / PDF 024–049**. Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3364_3368.md`, set records to `bilingual_alignment_status: aligned` only after meaning-level PASS, and stop before **3369 / PDF 050**.
