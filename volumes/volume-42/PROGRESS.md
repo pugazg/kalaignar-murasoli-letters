@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **MAIN TRANSLATION IN PROGRESS — 18 / 64 source-checked through actual source record 3381**
+- English translation: **MAIN TRANSLATION IN PROGRESS — 28 / 64 source-checked through actual source record 3391**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -263,6 +263,22 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - English cadence going forward: **10 actual source records per iteration**.
 - Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
 
+## English 10-record Batch 3 — 3382–3391 / PDF 131–208 — PASS
+
+- Actual source records translated/source-checked: **10 / 10**.
+- Cumulative English records: **28 / 64**.
+- Cumulative source identity: **3364–3376, 3154, 3378–3391**.
+- Complete audited Tamil appendix included in every English record.
+- **3384** closes the six-part `நலிவும் நானும் - நாட்குறிப்பு` series with source `(முற்றும்)`.
+- **3388** main-title/subtitle structure preserved and the deliberately unnamed participant remains unnamed.
+- **3389** retains the 2009 republication framing without external date reconstruction.
+- Source-supplied English in **3387** and **3390** retained verbatim.
+- Tamil changes during English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Batch source-check report: `translations/en/SOURCE_CHECK_3382_3391.md` — **PASS**.
+- English cadence remains **10 actual source records per iteration**.
+- Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3382–3391 / PDF 131–208**. Stop after **3391 / PDF 208**; do not begin 3392 / PDF 209 in the same iteration.
+Translate and source-check the next **10 actual source records — 3392–3401 / PDF 209–259**. Preserve **3392’s genuine duplicated physical printing** exactly in the Tamil appendix. Stop after **3401 / PDF 259**; do not begin 3402 / PDF 260 in the same iteration.

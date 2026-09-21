@@ -35,7 +35,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**MAIN TRANSLATION IN PROGRESS.** English actual source records **3364–3376, 3154, 3378–3381** are translated and source-checked; **18 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved.
+**MAIN TRANSLATION IN PROGRESS.** English actual source records **3364–3376, 3154, 3378–3391** are translated and source-checked; **28 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved.
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
@@ -45,11 +45,13 @@ English normal Batch 1: **PASS — 3367–3371 / PDF 033–065; 5 / 5 source-che
 
 English 10-record Batch 2: **PASS — 3372–3376, 3154, 3378–3381 / PDF 066–130; 10 / 10 source-checked; cumulative 18 / 64; Tamil changes 0; unresolved source-check items 0.** Source number **3154** is retained and no 3377 is created. Durable report: `translations/en/SOURCE_CHECK_3372_3381.md`.
 
+English 10-record Batch 3: **PASS — 3382–3391 / PDF 131–208; 10 / 10 source-checked; cumulative 28 / 64; Tamil changes 0; unresolved source-check items 0.** Diary sequence closes at 3384 with source `(முற்றும்)`; 3388 title/subtitle and anonymity preserved; 3389 republication framing preserved; source English in 3387 and 3390 retained verbatim. Durable report: `translations/en/SOURCE_CHECK_3382_3391.md`.
+
 English batching cadence going forward: **10 actual source records per iteration**.
 
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3382–3391 / PDF 131–208**. Stop after **3391 / PDF 208**.
+Translate and source-check the next **10 actual source records — 3392–3401 / PDF 209–259**. Preserve 3392’s genuine duplicated physical printing and stop after **3401 / PDF 259**.
 
 ## PDF 001–017 shared front matter
 

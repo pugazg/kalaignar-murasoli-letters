@@ -37,9 +37,9 @@ second_visual_verification: "complete-pass"
 second_visual_verified_page_range: "1-402"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "main-translation-in-progress; 18-of-64-source-checked-through-3381"
-translated_letter_range: "3364-3376,3154,3378-3381"
-translated_letter_count: 18
+translation_status: "main-translation-in-progress; 28-of-64-source-checked-through-3391"
+translated_letter_range: "3364-3376,3154,3378-3391"
+translated_letter_count: 28
 bilingual_alignment_status: "pilot-source-review-pass; full-volume-not-started"
 editorial_consistency_review_status: "not-started"
 english_release_status: "not-started"
@@ -65,6 +65,7 @@ source_observations:
   - "English pilot 3364-3366 across PDF 024-032 is complete: 3 / 3 records translated and source-checked, complete audited Tamil appendices included, 0 Tamil changes during source-check, pilot review PASS and Volume 42 translation conventions locked. First normal English batch is 3367-3371 / PDF 033-065."
   - "English normal Batch 1 3367-3371 across PDF 033-065 is complete: 5 / 5 records translated and source-checked, cumulative 8 / 64, complete audited Tamil appendices included, source-supplied English in 3368 preserved verbatim, 0 Tamil changes and 0 unresolved source-check items. Next English batch is 3372-3376 / PDF 066-091; stop before source-numbering anomaly record 3154 / PDF 092."
   - "English 10-record Batch 2 is complete across PDF 066-130: actual source records 3372-3376, 3154, 3378-3381 are 10 / 10 translated/source-checked; cumulative 18 / 64; source number 3154 is preserved and 3377 is not invented; 0 Tamil changes and 0 unresolved source-check items. Per user instruction, future English iterations use 10 actual source records; next is 3382-3391 / PDF 131-208."
+  - "English 10-record Batch 3 is complete across PDF 131-208: actual source records 3382-3391 are 10 / 10 translated/source-checked; cumulative 28 / 64; Illness and I diary closes at 3384 with source முற்றும்; 3388 title/subtitle split and anonymity preserved; 3389 republication framing preserved; source English in 3387 and 3390 retained verbatim; 0 Tamil changes and 0 unresolved source-check items. Next is 3392-3401 / PDF 209-259, preserving 3392 source duplication."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."

@@ -1310,3 +1310,43 @@ Per user instruction, English translation now proceeds in **10 actual source rec
 Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
 
 **Next:** translate/source-check **3382–3391 / PDF 131–208**; stop before **3392 / PDF 209**.
+
+## 40. English 10-record Batch 3 — 3382–3391 / PDF 131–208
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 translated and source-checked**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3382_3391.md`.
+
+### Scope
+
+- **3382** — PDF 131–140
+- **3383** — PDF 141–149
+- **3384** — PDF 150–160
+- **3385** — PDF 161–168
+- **3386** — PDF 169–178
+- **3387** — PDF 179–186
+- **3388** — PDF 187–190
+- **3389** — PDF 191–193
+- **3390** — PDF 194–202
+- **3391** — PDF 203–208
+
+### Result
+
+- actual source records translated/source-checked: **10 / 10**;
+- cumulative translated/source-checked: **28 / 64**;
+- complete audited Tamil appendices present: **10 / 10**;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+Special source structures preserved:
+
+- **3384** closes the six-part `நலிவும் நானும் - நாட்குறிப்பு` series with explicit source `(முற்றும்)`;
+- **3388** preserves the main-title / `(கலைஞர் கவிதைக் கடிதம்)` subtitle split and does not infer the deliberately unnamed participant;
+- **3389** preserves the 2009 republication framing without external original-date reconstruction;
+- **3387** and **3390** preserve source-supplied English letters verbatim;
+- election/campaign advocacy in **3385, 3390 and 3391** is retained only as historical source text.
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
+
+**Next:** translate/source-check **3392–3401 / PDF 209–259**. Preserve **3392’s genuine duplicated physical body**; stop before **3402 / PDF 260**.

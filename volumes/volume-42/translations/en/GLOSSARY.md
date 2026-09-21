@@ -1,6 +1,6 @@
 # Volume 42 — English Glossary
 
-**Status:** locked after pilot review; extended through 10-record Batch 2 — **18 / 64 source-checked through 3381**.
+**Status:** locked after pilot review; extended through 10-record Batch 3 — **28 / 64 source-checked through 3391**.
 
 | Tamil source form | English treatment | Note |
 |---|---|---|
@@ -23,6 +23,8 @@
 | `தலைமைத் தேர்தல் அதிகாரி` | **Chief Electoral Officer** | State election-administration title. |
 | `அறப்போர்` / `அறப் போராட்டம்` | **peaceful struggle / non-violent struggle** | Choose by sentence context while preserving the source’s moral/non-violent framing. |
 | `நலிவும் நானும் - நாட்குறிப்பு` | **Illness and I — Diary** | Stable title for the six-part diary sequence 3379–3384. |
+| `கச்சத் தீவு` | **Katchatheevu** | Preserve the source place name; do not infer a current sovereignty/legal conclusion from historical letters. |
+| `செம்மொழி` | **Classical Language** | Use for the source’s formal Classical Tamil / Classical Language status discussion. |
 
 ## Locked method notes
 

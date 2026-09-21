@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION IN PROGRESS — 18 / 64 source-checked; latest 10-record batch PASS through 3381 / PDF 130.**
+**Status:** **MAIN TRANSLATION IN PROGRESS — 28 / 64 source-checked; latest 10-record batch PASS through 3391 / PDF 208.**
 
 Tamil prerequisites are complete:
 
@@ -45,8 +45,22 @@ Actual source records: **3372, 3373, 3374, 3375, 3376, 3154, 3378, 3379, 3380, 3
 
 **English batching cadence:** from this batch forward, process **10 actual source records per iteration** unless a source boundary/anomaly or explicit user instruction requires a different scope.
 
+## 10-record Batch 3 completed
+
+Actual source records: **3382–3391** — PDF **131–208**.
+
+- source-checked: **10 / 10**
+- cumulative: **28 / 64**
+- Tamil changes: **0**
+- unresolved source-check items: **0**
+- six-part **Illness and I — Diary** closes at 3384 with source `(முற்றும்)`
+- 3388 main-title/subtitle split preserved; unnamed participant remains unnamed
+- 3389 republication framing preserved without external date reconstruction
+- source-supplied English letters in 3387 and 3390 retained verbatim
+- durable report: [`SOURCE_CHECK_3382_3391.md`](SOURCE_CHECK_3382_3391.md)
+
 Full-volume bilingual meaning-level alignment remains a later gate.
 
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3382–3391 / PDF 131–208**. Stop after Letter **3391**.
+Translate and source-check the next **10 actual source records — 3392–3401 / PDF 209–259**. Preserve Letter 3392’s genuine duplicate physical printing; stop after **3401**.
