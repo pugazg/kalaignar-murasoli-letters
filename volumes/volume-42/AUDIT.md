@@ -844,3 +844,58 @@ PDF **150, 152–153, 155–156, 159–161, 163–166, 168–178, 180–183, 185
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–190 / 402 verified**.
 
 **Next:** **3389–3393 / PDF 191–218**, stop before **3394 / PDF 219**.
+
+## 29. Second full-volume direct visual/textual-fidelity verification — Batch 7 / 3389–3393 / PDF 191–218
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–218 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3389** — PDF 191–193 / printed 190–192
+- **3390** — PDF 194–202 / printed 193–201
+- **3391** — PDF 203–208 / printed 202–207
+- **3392** — PDF 209–212 / printed 208–211
+- **3393** — PDF 213–218 / printed 212–217
+
+Every physical page in PDF **191–218** was directly inspected against the controlling scan.
+
+### Scan-proven textual corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 195 | 3390 | `வெளியிடப்பட்டபோதிலும்` | `வெளியிடப் பட்டபோதிலும்` |
+| 195 | 3390 | `என்பதையெல்லாம்` | `என்பதை யெல்லாம்` |
+| 195 | 3390 | `வாக்குறுதிகளையெல்லாம்` | `வாக்குறுதிகளை யெல்லாம்` |
+| 196 | 3390 | `வாக்குறுதிகளையெல்லாம்` | `வாக்குறுதிகளை யெல்லாம்` |
+| 215 | 3393 | `முன்மொழிந்து` | `முன் மொழிந்து` |
+| 217 | 3393 | `நேற்றைய தினமே` | `நேற்றையதினமே` |
+
+### Paragraph-structure restorations
+
+- PDF **209** — two false paragraph breaks removed from the first printed copy of Letter 3392.
+- PDF **215** — two false paragraph breaks removed.
+- PDF **216** — one false paragraph break removed.
+- PDF **218** — two scan-visible paragraph breaks restored.
+- Letter **3392** remains genuinely duplicated across PDF 209–212; both physical source copies are preserved.
+
+### Directly verified with no correction
+
+PDF **191–194, 197–208 and 210–214**. Records **3389** and **3391** required no canonical correction.
+
+### Batch reconciliation
+
+- directly verified pages: **28 / 28**;
+- canonical pages changed: **7**;
+- scan-proven textual corrections: **6**;
+- paragraph-structure restorations: **7**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–218 / 402 verified**.
+
+**Next:** **3394–3398 / PDF 219–241**, stop before **3399 / PDF 242**.
