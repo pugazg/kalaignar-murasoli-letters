@@ -11,7 +11,7 @@
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
 - English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
-- Bilingual meaning-level alignment: **IN PROGRESS — 35 / 64 aligned — 3364–3376, 3154, 3378–3398 / PDF 024–241**
+- Bilingual meaning-level alignment: **IN PROGRESS — 45 / 64 aligned — 3364–3376, 3154, 3378–3408 / PDF 024–294**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -385,6 +385,17 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`.
 - User-set alignment cadence remains **10 actual source records per iteration**.
 
+## Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294 — PASS
+
+- Records aligned: **10 / 10**.
+- Cumulative alignment: **45 / 64**.
+- English corrections: **4 across 1 record — 3405**.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Source-supplied English in 3405 and 3408 remains verbatim.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`.
+- User-set alignment cadence remains **10 actual source records per iteration**.
+
 ## Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294**. Stop after **3408 / PDF 294**. Do not begin 3409 in the same iteration.
+Perform **Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351**. Stop after **3418 / PDF 351**. Do not begin 3419 in the same iteration.

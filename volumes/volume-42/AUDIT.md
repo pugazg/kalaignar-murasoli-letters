@@ -1604,3 +1604,32 @@ Per user instruction, bilingual alignment continues in **10 actual source record
 Editorial consistency review and final release verification remain later separate gates.
 
 **Next:** **Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294**, stopping before 3409 / PDF 295.
+
+## 49. Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 aligned**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`.
+
+### Result
+
+- records aligned: **10 / 10**;
+- cumulative bilingual alignment: **45 / 64 — 3364–3376, 3154, 3378–3408**;
+- English corrections: **4 across 1 record — 3405**;
+- **3405:** restored the source’s explicit Madurai by-election setup before the remembered CPI(M) material;
+- **3405:** disambiguated `மேற்குத் தொகுதி` as **Madurai West constituency** from that immediate source context;
+- **3405:** restored omitted 13-8-2006 *Theekkathir* details — Opposition-party fitness accusation, Siruthavur bungalow reference, domestic/multinational-capital counter-charge, and education-exploitation accusation;
+- **3405:** restored omitted 4-9-2006 *Theekkathir* rhetorical detail concerning family/relatives and resentment-driven/disgusting language;
+- source-supplied *Telegraph* English in 3405 remains verbatim;
+- both source-supplied English passages in 3408 remain verbatim;
+- **3399–3404, 3406–3408:** meaning-level PASS without English correction;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- all ten records now carry `bilingual_alignment_status: aligned`.
+
+Per user instruction, bilingual alignment continues in **10 actual source records per iteration**.
+
+Editorial consistency review and final release verification remain later separate gates.
+
+**Next:** **Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351**, stopping before 3419 / PDF 352.

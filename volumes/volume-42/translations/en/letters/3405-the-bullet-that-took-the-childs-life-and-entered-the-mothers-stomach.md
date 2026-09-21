@@ -11,7 +11,7 @@ source_printed_page_end: 276
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3405. The Bullet That Took the Child’s Life and Entered the Mother’s Stomach!
@@ -65,17 +65,17 @@ The author comments sarcastically that people receiving such “praise” were t
 
 He then refers to violence surrounding the proposed Tata car factory in West Bengal, alleging that fourteen people were killed in lathi-charge and firing on farmers who resisted giving agricultural land for the factory. He also refers to newspaper reports that eight people had died in West Bengal during the then-current Lok Sabha election.
 
-The letter next asks what CPI(M) leaders — who were now criticising Tamil Nadu’s ruling party — had said only a few months or years earlier. It reproduces passages the author says he had preserved from earlier statements during political contests.
+The letter next asks what CPI(M) leaders — who were now criticising Tamil Nadu’s ruling party — had said only a few months or years earlier. It specifically asks what they had said in connection with a by-election held in Madurai and says he had kept that material as a reminder.
 
 A Theekkathir passage dated 25-6-2007 is rendered as follows:
 
-When Pratibha Patil was announced as the woman candidate for the country’s highest office, the Presidency, the country rejoiced, the quoted passage says. It accuses Jayalalithaa of calling her selection a “political joke” and urges voters in the western constituency to answer what it calls the arrogance of Jayalalithaa’s alliance.
+When Pratibha Patil was announced as the woman candidate for the country’s highest office, the Presidency, the country rejoiced, the quoted passage says. It accuses Jayalalithaa of calling her selection a “political joke” and urges voters in the Madurai West constituency to answer what it calls the arrogance of Jayalalithaa’s alliance.
 
 It calls the decision made in the national interest a good one and criticises describing it as a “political joke.” It says Jayalalithaa, while campaigning in the Uttar Pradesh election, did not speak against the BJP, and alleges that this indicated an effort to join a communal alliance. It asks voters to take note. It further accuses her of spreading rumours and asks whether she had standing to criticise the grant of pattas for huts in Tamil Nadu.
 
-The letter then reproduces another Theekkathir passage dated 13-8-2006. That passage says the CPI(M) welcomed many public-welfare schemes announced in the DMK government’s budget, while accusing the AIADMK of opposing them unnecessarily. It criticises AIADMK Assembly members’ language, rejects the charge that Communists were acting as cheerleaders for the DMK government, praises the Chief Minister’s efforts to prevent diversion of good-quality rice from ration shops and criticises the previous Jayalalithaa government over education.
+The letter then reproduces another Theekkathir passage dated 13-8-2006. That passage says the CPI(M) welcomed many public-welfare schemes announced in the DMK government’s budget, while accusing the AIADMK of opposing them unnecessarily and saying it had become unfit even to function as an Opposition party. It refers to Jayalalithaa’s difficulty in saying who owned the bungalow built for her stay at Siruthavur. It criticises the language used by AIADMK Assembly members, rejects the charge that Communists were acting as cheerleaders for the DMK government, and counters that it was the AIADMK government that had acted as a cheerleader for domestic monopoly capitalists and multinational corporate giants. It praises the Chief Minister’s efforts to prevent diversion of good-quality rice from ration shops and accuses the previous Jayalalithaa government of having abetted exploitation in education.
 
-A third quoted Theekkathir passage, dated 4-9-2006, concerns Jayalalithaa’s statement opposing a proposed satellite town in the Vandalur area. The quoted CPI(M) Tamil Nadu State Executive strongly condemns what it describes as an unhealthy and personally hostile attack on Chief Minister Karunanidhi and his family. It accuses AIADMK Assembly members of deliberately disrupting proceedings and diverting attention from public issues, and says the approach made a mockery of legislative democracy. It also says the party had not understood the lesson voters had delivered in the May 2006 Assembly election.
+A third quoted Theekkathir passage, dated 4-9-2006, concerns Jayalalithaa’s statement opposing a proposed satellite town in the Vandalur area. The quoted CPI(M) Tamil Nadu State Executive strongly condemns what it describes as an unhealthy and personally hostile attack on Chief Minister Karunanidhi, his family and relatives. It says the attack had turned into a resentment-driven debate using disgusting language. It accuses AIADMK Assembly members of deliberately disrupting proceedings and diverting attention from public issues, says the approach made a mockery of legislative democracy, and adds that the party had not understood the lesson voters had delivered in the May 2006 Assembly election.
 
 Udanpirappē, the author says that CPI(M) leaders and front-line figures had forgotten that they themselves once spoke in these terms before leaving his alliance. He says they were now writing hostile views about his side in their publications.
 

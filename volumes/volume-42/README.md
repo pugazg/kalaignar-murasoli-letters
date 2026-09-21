@@ -35,7 +35,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**MAIN TRANSLATION/SOURCE-CHECK COMPLETE.** English actual source records **3364–3376, 3154, 3378–3427** are translated and source-checked; **64 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved. **Bilingual alignment is IN PROGRESS — 35 / 64 aligned through 3398 / PDF 241.**
+**MAIN TRANSLATION/SOURCE-CHECK COMPLETE.** English actual source records **3364–3376, 3154, 3378–3427** are translated and source-checked; **64 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved. **Bilingual alignment is IN PROGRESS — 45 / 64 aligned through 3408 / PDF 294.**
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
@@ -65,11 +65,13 @@ Bilingual Alignment 10-record Batch 3: **PASS — 3379–3388 / PDF 106–190; 1
 
 Bilingual Alignment 10-record Batch 4: **PASS — 3389–3398 / PDF 191–241; 10 / 10 aligned; cumulative 35 / 64; 7 English corrections across 5 records; 0 canonical Tamil changes; 0 unresolved alignment items.** Letter 3392’s genuine duplicated physical printing remains preserved. Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`.
 
+Bilingual Alignment 10-record Batch 5: **PASS — 3399–3408 / PDF 242–294; 10 / 10 aligned; cumulative 45 / 64; 4 English corrections in 3405; 0 canonical Tamil changes; 0 unresolved alignment items.** Source-supplied English in 3405 and 3408 remains verbatim. Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`.
+
 Per user instruction, bilingual alignment proceeds in **10 actual source records per iteration**.
 
 ## Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294**. Stop after **3408 / PDF 294**; do not begin 3409 in the same iteration.
+Perform **Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351**. Stop after **3418 / PDF 351**; do not begin 3419 in the same iteration.
 
 ## PDF 001–017 shared front matter
 

@@ -11,7 +11,7 @@ source_printed_page_end: 263
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3402. Not Merely My Eye, Not Merely My Gem; Enter the Field! Get the Work Done!

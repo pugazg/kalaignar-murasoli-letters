@@ -11,7 +11,7 @@ source_printed_page_end: 287
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3407. Not Just a World Wonder; a Great World Wonder!

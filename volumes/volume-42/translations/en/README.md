@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 35 / 64 aligned through 3398 / PDF 241.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 45 / 64 aligned through 3408 / PDF 294.**
 
 Tamil prerequisites are complete:
 
@@ -178,6 +178,19 @@ Actual source records **3389–3398 / PDF 191–241**: **PASS — 10 / 10 aligne
 - cumulative aligned: **35 / 64**
 - durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md`](BILINGUAL_ALIGNMENT_REVIEW_3389_3398.md)
 
+## Bilingual Alignment 10-record Batch 5 completed
+
+Actual source records **3399–3408 / PDF 242–294**: **PASS — 10 / 10 aligned**.
+
+- English corrections: **4 across 1 record**
+- 3405: restored Madurai by-election context; disambiguated Madurai West constituency; restored omitted 13-8-2006 *Theekkathir* source details; restored omitted 4-9-2006 *Theekkathir* rhetorical detail
+- source-supplied *Telegraph* English in 3405 remains verbatim
+- both source-supplied English passages in 3408 remain verbatim
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- cumulative aligned: **45 / 64**
+- durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`](BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md)
+
 ## Exact next activity
 
-Perform **Bilingual Alignment 10-record Batch 5 — 3399–3408 / PDF 242–294**. Stop after **3408 / PDF 294**; do not begin 3409 in the same iteration.
+Perform **Bilingual Alignment 10-record Batch 6 — 3409–3418 / PDF 295–351**. Stop after **3418 / PDF 351**; do not begin 3419 in the same iteration.

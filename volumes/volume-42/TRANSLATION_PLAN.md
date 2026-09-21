@@ -12,7 +12,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **IN PROGRESS — 35 / 64 aligned through 3398**
+- [ ] Full-volume bilingual alignment — **IN PROGRESS — 45 / 64 aligned through 3408**
 - [ ] Volume-level English editorial review
 - [ ] Translation manifest and final release report
 
@@ -173,21 +173,38 @@ Actual source records **3389–3398 / PDF 191–241** — **PASS / 10 of 10 alig
 
 Cumulative bilingual alignment: **35 / 64 — 3364–3376, 3154, 3378–3398**.
 
-## Current exact task — Bilingual Alignment 10-record Batch 5
+## Bilingual Alignment 10-record Batch 5 — COMPLETE
+
+Actual source records **3399–3408 / PDF 242–294** — **PASS / 10 of 10 aligned**.
+
+- English corrections: **4 across 1 record**
+  - **3405** — Madurai by-election context restored.
+  - **3405** — `மேற்குத் தொகுதி` disambiguated as **Madurai West constituency** from the immediate source context.
+  - **3405** — omitted 13-8-2006 *Theekkathir* source details restored.
+  - **3405** — omitted 4-9-2006 *Theekkathir* rhetorical detail restored.
+- Source-supplied *Telegraph* English in 3405 remains verbatim.
+- Source-supplied English in 3408 remains verbatim.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`.
+
+Cumulative bilingual alignment: **45 / 64 — 3364–3376, 3154, 3378–3408**.
+
+## Current exact task — Bilingual Alignment 10-record Batch 6
 
 Align exactly ten actual source records:
 
-- **3399 — PDF 242–251**
-- **3400 — PDF 252–257**
-- **3401 — PDF 258–259**
-- **3402 — PDF 260–264**
-- **3403 — PDF 265–267**
-- **3404 — PDF 268–271**
-- **3405 — PDF 272–277**
-- **3406 — PDF 278–283**
-- **3407 — PDF 284–288**
-- **3408 — PDF 289–294**
+- **3409 — PDF 295–299**
+- **3410 — PDF 300–303**
+- **3411 — PDF 304–310**
+- **3412 — PDF 311–317**
+- **3413 — PDF 318–324**
+- **3414 — PDF 325–329**
+- **3415 — PDF 330–334**
+- **3416 — PDF 335–337**
+- **3417 — PDF 338–343**
+- **3418 — PDF 344–351**
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3399_3408.md`.
+Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`.
 
-Stop after **3408 / PDF 294**. Do not begin **3409 / PDF 295** in the same iteration.
+Stop after **3418 / PDF 351**. Do not begin **3419 / PDF 352** in the same iteration.
