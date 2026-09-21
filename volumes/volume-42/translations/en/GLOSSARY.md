@@ -1,6 +1,6 @@
 # Volume 42 — English Glossary
 
-**Status:** locked after pilot review; extended through 10-record Batch 4 — **38 / 64 source-checked through 3401**.
+**Status:** locked after pilot review; extended through 10-record Batch 5 — **48 / 64 source-checked through 3411**. No new recurring term in Batch 5 required a glossary entry.
 
 | Tamil source form | English treatment | Note |
 |---|---|---|

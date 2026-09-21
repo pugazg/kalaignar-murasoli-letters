@@ -10,7 +10,7 @@
 - First-pass Tamil source coverage: **COMPLETE**
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
-- English translation: **MAIN TRANSLATION IN PROGRESS — 38 / 64 source-checked through actual source record 3401**
+- English translation: **MAIN TRANSLATION IN PROGRESS — 48 / 64 source-checked through actual source record 3411**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -294,6 +294,21 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - English cadence remains **10 actual source records per iteration**.
 - Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
 
+## English 10-record Batch 5 — 3402–3411 / PDF 260–310 — PASS
+
+- Actual source records translated/source-checked: **10 / 10**.
+- Cumulative English records: **48 / 64**.
+- Cumulative source identity: **3364–3376, 3154, 3378–3411**.
+- Complete audited Tamil appendix included in every English record.
+- Source-supplied English in **3405** and **3408** retained verbatim.
+- **3406** pay-scale terminology, worker counts and welfare-expenditure figures retained in full.
+- **3411** by-election/EVM discussion retained as historical source framing.
+- Tamil changes during English source-check: **0**.
+- Unresolved source-check items: **0**.
+- Batch source-check report: `translations/en/SOURCE_CHECK_3402_3411.md` — **PASS**.
+- English cadence remains **10 actual source records per iteration**.
+- Full-volume bilingual alignment, editorial review and release verification remain later separate gates.
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3402–3411 / PDF 260–310**. Stop after **3411 / PDF 310**; do not begin 3412 / PDF 311 in the same iteration.
+Translate and source-check the next **10 actual source records — 3412–3421 / PDF 311–373**. Stop after **3421 / PDF 373**; do not begin 3422 / PDF 374 in the same iteration.

@@ -37,9 +37,9 @@ second_visual_verification: "complete-pass"
 second_visual_verified_page_range: "1-402"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "main-translation-in-progress; 38-of-64-source-checked-through-3401"
-translated_letter_range: "3364-3376,3154,3378-3401"
-translated_letter_count: 38
+translation_status: "main-translation-in-progress; 48-of-64-source-checked-through-3411"
+translated_letter_range: "3364-3376,3154,3378-3411"
+translated_letter_count: 48
 bilingual_alignment_status: "pilot-source-review-pass; full-volume-not-started"
 editorial_consistency_review_status: "not-started"
 english_release_status: "not-started"
@@ -67,6 +67,7 @@ source_observations:
   - "English 10-record Batch 2 is complete across PDF 066-130: actual source records 3372-3376, 3154, 3378-3381 are 10 / 10 translated/source-checked; cumulative 18 / 64; source number 3154 is preserved and 3377 is not invented; 0 Tamil changes and 0 unresolved source-check items. Per user instruction, future English iterations use 10 actual source records; next is 3382-3391 / PDF 131-208."
   - "English 10-record Batch 3 is complete across PDF 131-208: actual source records 3382-3391 are 10 / 10 translated/source-checked; cumulative 28 / 64; Illness and I diary closes at 3384 with source முற்றும்; 3388 title/subtitle split and anonymity preserved; 3389 republication framing preserved; source English in 3387 and 3390 retained verbatim; 0 Tamil changes and 0 unresolved source-check items. Next is 3392-3401 / PDF 209-259, preserving 3392 source duplication."
   - "English 10-record Batch 4 is complete across PDF 209-259: actual source records 3392-3401 are 10 / 10 translated/source-checked; cumulative 38 / 64; 3392 genuine duplicated printing preserved in the Tamil appendix; 3395 book quotations remain grounded in the printed Tamil rendering; 3399 technical/environmental and welfare lists retained in detail; 0 Tamil changes and 0 unresolved source-check items. Next is 3402-3411 / PDF 260-310."
+  - "English 10-record Batch 5 is complete across PDF 260-310: actual source records 3402-3411 are 10 / 10 translated/source-checked; cumulative 48 / 64; source English in 3405 and 3408 preserved verbatim; 3406 pay/welfare terminology and figures retained in full; 3411 by-election and EVM/Election Commission material retained as historical source framing; 0 Tamil changes and 0 unresolved source-check items. Next is 3412-3421 / PDF 311-373."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."

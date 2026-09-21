@@ -1385,3 +1385,38 @@ Durable source-check report: `translations/en/SOURCE_CHECK_3392_3401.md`.
 Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
 
 **Next:** translate/source-check **3402–3411 / PDF 260–310**; stop before **3412 / PDF 311**.
+
+## 42. English 10-record Batch 5 — 3402–3411 / PDF 260–310
+
+**Date:** 2026-09-21  
+**Result:** **PASS — 10 / 10 translated and source-checked**
+
+Durable source-check report: `translations/en/SOURCE_CHECK_3402_3411.md`.
+
+### Scope
+
+- **3402** — PDF 260–264
+- **3403** — PDF 265–267
+- **3404** — PDF 268–271
+- **3405** — PDF 272–277
+- **3406** — PDF 278–283
+- **3407** — PDF 284–288
+- **3408** — PDF 289–294
+- **3409** — PDF 295–299
+- **3410** — PDF 300–303
+- **3411** — PDF 304–310
+
+### Result
+
+- actual source records translated/source-checked: **10 / 10**;
+- cumulative translated/source-checked: **48 / 64**;
+- complete audited Tamil appendices present: **10 / 10**;
+- source-supplied English in **3405** and **3408** preserved verbatim;
+- **3406** pay-scale terminology, worker counts and welfare-expenditure figures retained in full;
+- **3411** by-election campaign and EVM/Election Commission material retained explicitly as historical source framing;
+- Tamil changes during English source-check: **0**;
+- unresolved source-check items: **0**.
+
+Full-volume bilingual meaning-level alignment, English editorial consistency and release verification remain later separate gates.
+
+**Next:** translate/source-check **3412–3421 / PDF 311–373**; stop before **3422 / PDF 374**.

@@ -35,7 +35,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**MAIN TRANSLATION IN PROGRESS.** English actual source records **3364–3376, 3154, 3378–3401** are translated and source-checked; **38 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved.
+**MAIN TRANSLATION IN PROGRESS.** English actual source records **3364–3376, 3154, 3378–3411** are translated and source-checked; **48 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved.
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
@@ -49,11 +49,13 @@ English 10-record Batch 3: **PASS — 3382–3391 / PDF 131–208; 10 / 10 sourc
 
 English 10-record Batch 4: **PASS — 3392–3401 / PDF 209–259; 10 / 10 source-checked; cumulative 38 / 64; Tamil changes 0; unresolved source-check items 0.** Letter 3392’s genuine duplicated printing is preserved in the Tamil appendix; 3395 remains grounded in the printed Tamil rendering of the quoted book; 3399 retains the complete technical/environmental and fishermen-welfare lists. Durable report: `translations/en/SOURCE_CHECK_3392_3401.md`.
 
+English 10-record Batch 5: **PASS — 3402–3411 / PDF 260–310; 10 / 10 source-checked; cumulative 48 / 64; Tamil changes 0; unresolved source-check items 0.** Source English in 3405 and 3408 is preserved verbatim; 3406 retains all pay/welfare figures; 3411 retains by-election/EVM material as historical source framing. Durable report: `translations/en/SOURCE_CHECK_3402_3411.md`.
+
 English batching cadence going forward: **10 actual source records per iteration**.
 
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3402–3411 / PDF 260–310**. Stop after **3411 / PDF 310**.
+Translate and source-check the next **10 actual source records — 3412–3421 / PDF 311–373**. Stop after **3421 / PDF 373**.
 
 ## PDF 001–017 shared front matter
 

@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION IN PROGRESS — 38 / 64 source-checked; latest 10-record batch PASS through 3401 / PDF 259.**
+**Status:** **MAIN TRANSLATION IN PROGRESS — 48 / 64 source-checked; latest 10-record batch PASS through 3411 / PDF 310.**
 
 Tamil prerequisites are complete:
 
@@ -74,6 +74,19 @@ Actual source records: **3392–3401** — PDF **209–259**.
 - 3399 technical/environmental and welfare lists retained in detail as source claims
 - durable report: [`SOURCE_CHECK_3392_3401.md`](SOURCE_CHECK_3392_3401.md)
 
+## 10-record Batch 5 completed
+
+Actual source records: **3402–3411** — PDF **260–310**.
+
+- source-checked: **10 / 10**
+- cumulative: **48 / 64**
+- Tamil changes: **0**
+- unresolved source-check items: **0**
+- source-supplied English in 3405 and 3408 preserved verbatim
+- 3406 pay-scale terminology, worker counts and welfare-expenditure figures retained in full
+- 3411 by-election/EVM material retained as historical source framing
+- durable report: [`SOURCE_CHECK_3402_3411.md`](SOURCE_CHECK_3402_3411.md)
+
 ## Exact next activity
 
-Translate and source-check the next **10 actual source records — 3402–3411 / PDF 260–310**. Stop after **3411**.
+Translate and source-check the next **10 actual source records — 3412–3421 / PDF 311–373**. Stop after **3421**.

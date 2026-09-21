@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 42 / English 10-record Batch 5 — 3402–3411 / PDF 260–310
+# NEXT CHAT PROMPT — Volume 42 / English 10-record Batch 6 — 3412–3421 / PDF 311–373
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -21,12 +21,13 @@ Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE 
 - 10-record Batch 2 **3372–3376, 3154, 3378–3381 / PDF 066–130**: **PASS**
 - 10-record Batch 3 **3382–3391 / PDF 131–208**: **PASS**
 - 10-record Batch 4 **3392–3401 / PDF 209–259**: **PASS**
-- translated/source-checked: **38 / 64**
-- translated source identities: **3364–3376, 3154, 3378–3401**
+- 10-record Batch 5 **3402–3411 / PDF 260–310**: **PASS**
+- translated/source-checked: **48 / 64**
+- translated source identities: **3364–3376, 3154, 3378–3411**
 - Tamil changes during all English source-check work: **0**
 - unresolved English source-check items: **0**
 - source number **3154** remains genuine; **3377 does not exist at that position**
-- glossary/conventions: **LOCKED / extended through 3401**
+- glossary/conventions: **LOCKED / extended through 3411**
 - full-volume bilingual alignment: **not started; later separate gate**
 - editorial/release gates: **not started**
 
@@ -37,6 +38,7 @@ Durable reports:
 - `volumes/volume-42/translations/en/SOURCE_CHECK_3372_3381.md`
 - `volumes/volume-42/translations/en/SOURCE_CHECK_3382_3391.md`
 - `volumes/volume-42/translations/en/SOURCE_CHECK_3392_3401.md`
+- `volumes/volume-42/translations/en/SOURCE_CHECK_3402_3411.md`
 
 ## English batching rule
 
@@ -66,37 +68,38 @@ Per user instruction, process **10 actual source records per English iteration**
 
 Read `volumes/volume-42/translations/en/GLOSSARY.md` before drafting.
 
-## Batch 4 durable notes
+## Batch 5 durable notes
 
-- **3392** genuinely prints the same letter twice across PDF 209–212. English translates the thought once; the complete Tamil appendix preserves both source copies. Never deduplicate the Tamil source.
-- **3393** preserves the April 2008–April 2009 Sri Lankan Tamil chronology and the 9 April rally appeal as historical source advocacy.
-- **3394** preserves the source’s sarcastic blessings and poem-like ending.
-- **3395** quotes *You Can Win* via a Tamil rendering printed in Volume 42. Do not substitute an external English edition.
-- **3396** compares DMK/PMK/AIADMK Sethusamudram positions; all alliance inferences remain author framing.
-- **3397** preserves the humanitarian appeal, Indira Gandhi/Ireland comparison and diplomatic-relations discussion as source material.
-- **3398** preserves the peaceful work-stoppage appeal and source-attributed international statements.
-- **3399** retains the full environmental/technical, livelihood and fishermen-welfare lists and figures as source assertions.
-- **3400** preserves the “two fronts” structure: Sri Lankan Tamil protection and electoral work.
-- **3401** is a short campaign appeal; its direct advocacy remains historical source text.
+- **3402** preserves the April 27 fast narrative, autobiographical memories, Thirumavalavan’s seven questions and the closing parliamentary-election field appeal as historical source text.
+- **3403** preserves Rising Sun / “hand” symbol wordplay, alliance-worker praise and the direct election appeal as source advocacy.
+- **3404** retains the childhood pen frame, the complete policy/welfare list and the final Rising Sun / Hand / Star vote request.
+- **3405** reproduces the source-supplied *Telegraph* English verbatim and preserves the separately printed Tamil rendering and quoted *Theekkathir* passages.
+- **3406** retains **Consolidated Pay / Time Scale of Pay / Special Time Scale of Pay** and every pay, worker-count and welfare-expenditure figure.
+- **3407** preserves the Sethusamudram manifesto comparison and all Sri Lankan Tamil relief figures as source claims.
+- **3408** preserves both source-supplied English Katchatheevu passages verbatim and makes no present-day sovereignty or legal inference.
+- **3409** retains all TASMAC employee/pay/bonus/security-deposit/work-hour figures and the closing polemic as source framing.
+- **3410** translates the 1954 *Manohara* review only from the Tamil reproduction printed in Volume 42.
+- **3411** preserves the by-election schedules and EVM/Election Commission discussion strictly as historical source material.
+- Batch 5 Tamil changes: **0**. Unresolved English source-check items: **0**.
 
-## Exact next activity — 10-record Batch 5
+## Exact next activity — 10-record Batch 6
 
 Translate and source-check exactly:
 
-1. **3402** — PDF **260–264** / printed **259–263** — `கண்ணல்ல, மணியல்ல; களம் இறங்கிடு! காரியம் ஆற்றிடு!`
-2. **3403** — PDF **265–267** / printed **264–266** — `பாதம் பணிகிறேன்; பணியாற்றப் புறப்படு!`
-3. **3404** — PDF **268–271** / printed **267–270** — `இந்தப் பேனா வேண்டுகிறது!`
-4. **3405** — PDF **272–277** / printed **271–276** — `குழந்தையின் உயிரைக் குடித்து தாயின் குடலுக்குள் சென்ற குண்டு!`
-5. **3406** — PDF **278–283** / printed **277–282** — `தூங்கற்க தூங்காது செய்யும் வினை!`
-6. **3407** — PDF **284–288** / printed **283–287** — `உலக அதிசயம் மட்டுமல்ல; உலக மகா அதிசயம்!`
-7. **3408** — PDF **289–294** / printed **288–293** — `அதைப் படித்து ஆறுதல் கொள்க!`
-8. **3409** — PDF **295–299** / printed **294–298** — `பட்டினத்தார் அப்பொழுதே பாடியிருக்கிறாரே!`
-9. **3410** — PDF **300–303** / printed **299–302** — `ஆனந்த விகடன் அன்றும் இன்றும்!`
-10. **3411** — PDF **304–310** / printed **303–309** — `இடைத் தேர்தலில் இணையற்ற வெற்றியினை வழங்கிடுக!`
+1. **3412** — PDF **311–317** / printed **310–316** — `வாழ்விலோர் திருநாள்; வாழ்க வள்ளுவம்!`
+2. **3413** — PDF **318–324** / printed **317–323** — `காப்பீட்டுத் திட்டத்தினால் யாருக்கு ஆதாயம்?`
+3. **3414** — PDF **325–329** / printed **324–328** — `“தடுக்கும் சொல் பாராய் தம்பீ!”`
+4. **3415** — PDF **330–334** / printed **329–333** — `இரு நாள் நமக்குத் திருநாள்!`
+5. **3416** — PDF **335–337** / printed **334–336** — `அருந்தவத்தில் ஆழ்கின்றேன்!`
+6. **3417** — PDF **338–343** / printed **337–342** — `சொன்னது; யாராம்? என்ன பேராம்?`
+7. **3418** — PDF **344–351** / printed **343–350** — `காலம்தான் பதில் சொல்ல வேண்டும்!`
+8. **3419** — PDF **352–359** / printed **351–358** — `பேரறிஞர் புகழ்ந்த என்னைப் பெற்ற தாய்!`
+9. **3420** — PDF **360–364** / printed **359–363** — `வளைந்த வாலை; நிமிர்த்திடவே முடியாது!`
+10. **3421** — PDF **365–373** / printed **364–372** — `உலகத் தமிழ்ச் செம்மொழி மாநாடு; செம்மொழி எனும் சிறப்பும் சேர்ந்தது!`
 
 ### Required method
 
-1. Read `VOLUME_PROCESSING_GUIDE.md`, `volumes/volume-42/TRANSLATION_PLAN.md`, all completed English source-check reports, `translations/en/GLOSSARY.md`, the ten chapter records and canonical pages PDF **260–310**.
+1. Read `VOLUME_PROCESSING_GUIDE.md`, `volumes/volume-42/TRANSLATION_PLAN.md`, all completed English source-check reports, `translations/en/GLOSSARY.md`, the ten chapter records and canonical pages PDF **311–373**.
 2. Translate only from fidelity-verified canonical Tamil. The controlling scan remains ultimate authority if a Tamil reading becomes doubtful.
 3. Preserve complete thought order, attribution, names, dates, figures, quotations, lists, repetition, source anomalies, source-supplied English and closings.
 4. Source-check each record before marking `translation_status: source-checked`.
@@ -104,8 +107,8 @@ Translate and source-check exactly:
 6. Add glossary entries only for genuinely recurring terminology.
 7. Update English and volume/root controls atomically.
 8. Keep full-volume bilingual alignment, editorial consistency and release verification as later separate gates.
-9. Stop after **3411 / PDF 310**. Do not begin **3412 / PDF 311**.
+9. Stop after **3421 / PDF 373**. Do not begin **3422 / PDF 374**.
 
 Suggested commit message:
 
-`Translate Volume 42 letters 3392-3401`
+`Translate Volume 42 letters 3412-3421`
