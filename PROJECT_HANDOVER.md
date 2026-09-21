@@ -190,7 +190,7 @@ The repository control documents were reconciled against live release artifacts 
 
 No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
 
-## Volume 42 — SECOND VISUAL FIDELITY IN PROGRESS / PDF 001–267 VERIFIED — 2026-09-21
+## Volume 42 — SECOND VISUAL FIDELITY IN PROGRESS / PDF 001–294 VERIFIED — 2026-09-21
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -206,7 +206,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - First source letter **3364** is complete at PDF **024–027 / printed 23–26**.
 - Canonical Tamil transcription: **PDF 001–402 / 402 first-pass complete through source record 3427**.
 - Full-volume Tamil structural audit: **PASS** — exactly 402 numbered page files, 64 contents rows, 64 chapter records, PDF 024–401 letter coverage with 0 gaps / 0 overlaps.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–267 / 402 VERIFIED**.
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–294 / 402 VERIFIED**.
 - Fidelity Batch 1 scan-proven changes: **PDF 003** expanded to full publication details; **PDF 004** corrected from shared `அண்ணாவுக்கு...` to local Volume 42 `அம்மாவுக்கு...`; no contents-row changes.
 - Fidelity Batch 2 scan-proven changes: **PDF 026, 029, 034, 036, 037, 044 and 046** corrected after direct scan comparison. Major semantic repair: PDF 044 `உத்தரவாதம் அளிக்கக்கூடிய`; no title/date/boundary/contents changes.
 - Fidelity Batch 3 scan-proven changes: **PDF 053, 058, 060, 061 and 063** corrected after direct scan comparison. Major repairs: PDF 060 `ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`, PDF 061 `அறிக்கையாக்கியிருக்கிறேன்`, PDF 063 `டெல்லி மருத்துவரும்`; no title/date/boundary/contents changes.
@@ -216,6 +216,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Fidelity Batch 7 directly verified **3389–3393 / PDF 191–218** and applied **6 scan-proven textual corrections plus 7 paragraph-structure restorations across 7 canonical pages — 195, 196, 209, 215, 216, 217 and 218**. Letter 3392 retains both genuine printed copies across PDF 209–212; no letter-title/date/letter-boundary/contents-row change was required.
 - Fidelity Batch 8 directly verified **3394–3398 / PDF 219–241** and applied **5 scan-proven textual corrections across 5 canonical pages — 222, 223, 227, 231 and 235**. The scan-printed PDF 231 form `தீரவேண்டு”மென்று` is preserved exactly; no letter-title/date/letter-boundary/contents-row change was required.
 - Fidelity Batch 9 directly verified **3399–3403 / PDF 242–267** and applied **5 scan-proven textual corrections across 4 canonical pages — 255, 256, 266 and 267**. No letter-title/date/letter-boundary/contents-row change was required.
+- Fidelity Batch 10 directly verified **3404–3408 / PDF 268–294** and applied **3 scan-proven textual corrections across 3 canonical pages — 283, 292 and 293**. No letter-title/date/letter-boundary/contents-row change was required.
 - Shared front matter after second-pass Batch 1: **PDF 001–003 local; PDF 004 local difference (`அம்மாவுக்கு...`); PDF 005–017 direct-verified shared references**.
 - Printed contents: **PDF 018–022 / 64 rows complete; source number 3154 preserved between 3376 and 3378**.
 - Source-record state: **64 complete — 3364–3376, 3154, 3378–3427**.
@@ -225,7 +226,7 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 
 ### Exact next activity
 
-Continue the second full-volume direct visual/textual-fidelity verification with **3404–3408 / PDF 268–294**, stopping before **Letter 3409 / PDF 295**. Preserve all source wording and physical page boundaries, record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, and do not begin English translation.
+Continue the second full-volume direct visual/textual-fidelity verification with **3409–3413 / PDF 295–324**, stopping before **Letter 3414 / PDF 325**. Preserve all source wording and physical page boundaries, record every scan-proven correction in `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, and do not begin English translation.
 
 ## Series front matter optimization — 2026-09-19
 
