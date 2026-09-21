@@ -1119,3 +1119,48 @@ PDF **325–341, 343 and 345–351**.
 **Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–351 / 402 verified**.
 
 **Next:** **3419–3423 / PDF 352–379**, stop before **3424 / PDF 380**.
+
+## 35. Second full-volume direct visual/textual-fidelity verification — Batch 13 / 3419–3423 / PDF 352–379
+
+**Date:** 2026-09-21  
+**Result:** **PASS — durable frontier PDF 001–379 / 402**
+
+Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
+
+### Scope
+
+- **3419** — PDF 352–359 / printed 351–358
+- **3420** — PDF 360–364 / printed 359–363
+- **3421** — PDF 365–373 / printed 364–372
+- **3422** — PDF 374–377 / printed 373–376
+- **3423** — PDF 378–379 / printed 377–378
+
+Every physical page in PDF **352–379** was directly inspected against the controlling scan.
+
+### Scan-proven canonical corrections
+
+| PDF | Record | First-pass reading | Scan-verified reading |
+|---:|---:|---|---|
+| 357 | 3419 | `புறங்காதிலடைந்து` | `புறங்காந்திமடைந்து` |
+| 364 | 3420 | `வளைந்தவாலை நிமிர்த்த முடியாது` | `வளைந்த வாலை நிமிர்த்த முடியாது` |
+| 368 | 3421 | `கண்டொள்ளா காட்சி` | `கண்கொள்ளா காட்சி` |
+
+PDF 357 preserves the visible source form exactly; no silent normalization was applied.
+
+### Directly verified with no correction
+
+PDF **352–356, 358–363, 365–367 and 369–379**.
+
+### Batch reconciliation
+
+- directly verified pages: **28 / 28**;
+- canonical pages changed: **3**;
+- scan-proven textual corrections: **3**;
+- letter-title/date/boundary changes: **0**;
+- contents-row changes: **0**;
+- structural page/record counts changed: **0**;
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** The second-pass fidelity gate remains **IN PROGRESS — PDF 001–379 / 402 verified**.
+
+**Next/final:** **3424–3427 / PDF 380–401 plus non-letter PDF 402**.

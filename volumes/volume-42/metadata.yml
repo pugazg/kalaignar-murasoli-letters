@@ -31,10 +31,10 @@ partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-351"
+audit_status: "full-volume-structural-audit-pass; second-visual-verification-in-progress-through-pdf-379"
 audit_date: 2026-09-21
 second_visual_verification: "in-progress"
-second_visual_verified_page_range: "1-351"
+second_visual_verified_page_range: "1-379"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
 translation_status: "blocked-pending-tamil-gates"
@@ -60,6 +60,7 @@ source_observations:
   - "Second visual/textual-fidelity Batch 10 directly verified source records 3404-3408 across PDF 268-294; 3 scan-proven textual corrections were applied across 3 canonical pages (283, 292, 293). No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "Second visual/textual-fidelity Batch 11 directly verified source records 3409-3413 across PDF 295-324; 3 scan-proven textual corrections were applied across 3 canonical pages (309, 316, 318). No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "Second visual/textual-fidelity Batch 12 directly verified source records 3414-3418 across PDF 325-351; 2 scan-proven textual corrections were applied across 2 canonical pages (342, 344). No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
+  - "Second visual/textual-fidelity Batch 13 directly verified source records 3419-3423 across PDF 352-379; 3 scan-proven textual corrections were applied across 3 canonical pages (357, 364, 368), including preservation of the scan-printed source form புறங்காந்திமடைந்து on PDF 357. No letter-title/date/letter-boundary/contents-row change occurred. English remains blocked."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
