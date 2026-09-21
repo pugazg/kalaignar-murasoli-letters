@@ -48,6 +48,7 @@ Volume 43 source intake is established from `TVA_BOK_0065828_கலைஞரி�
 - Second-pass Batch 3 directly verified **Letters 3369–3373 / PDF 050–073** and corrected PDF **053, 058, 060, 061 and 063**; key repairs restore `ஒரு கலவரத்தைத் தூண்டி விட முடியாதா?`, `அறிக்கையாக்கியிருக்கிறேன்`, and `டெல்லி மருத்துவரும்`.
 - Second-pass Batch 4 directly verified **3374, 3375, 3376, 3154 and 3378 / PDF 074–105** and corrected PDF **074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102 and 103**; **21 scan-proven corrections** were applied, with no title/date/boundary/contents-row change and the source-number anomaly **3154** preserved exactly.
 - Second-pass Batch 5 directly verified **3379–3383 / PDF 106–149** and corrected PDF **109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146 and 147**; **28 scan-proven corrections** were applied with no title/date/boundary/contents-row change.
+- Second-pass Batch 6 directly verified **3384–3388 / PDF 150–190** and changed PDF **151, 154, 157, 158, 162, 179, 184, 187 and 188**; **14 scan-proven textual corrections plus 1 physical page-boundary restoration** were applied. The actual PDF 187 main-title/subtitle split for Letter 3388 remains preserved.
 - Second full-volume direct visual/textual-fidelity verification: **PASS — PDF 001–402 / 402**.
 - PDF **401 / printed page 400** is non-letter end matter; PDF **402** is the back cover / portrait / publisher-contact-price page; no Letter 3484 is created.
 - Final genuine printed-contents / actual-title discrepancies are Letters **3435, 3438, 3441, 3463, 3464, 3467, 3472, 3473 and 3474**.
@@ -126,7 +127,7 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Letter **3425** contents uses `திருந்தப் போகிறார்களா?`, while actual PDF 386 uses joined `திருந்தப்போகிறார்களா?`; both layers remain preserved.
 - Letter **3427** closes at PDF **401 / printed 400**. PDF **402** is non-letter back-cover / portrait / publisher-contact-price material; no Letter 3428 exists in Volume 42.
 - Full-volume Tamil structural audit: **PASS**.
-- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–149 / 402 verified**.
+- Second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–190 / 402 verified**.
 - English translation: **blocked** until the second-pass Tamil fidelity gate passes.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **3384–3388 / PDF 150–190**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next batch: **3389–3393 / PDF 191–218**.
