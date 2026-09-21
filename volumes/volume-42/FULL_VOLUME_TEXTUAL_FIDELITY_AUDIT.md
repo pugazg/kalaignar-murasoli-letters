@@ -1,7 +1,7 @@
 # Volume 42 — Full-Volume Textual Fidelity Audit
 
 **Audit date:** 2026-09-21  
-**Status:** **IN PROGRESS — PDF 001–190 / 402 VERIFIED**  
+**Status:** **IN PROGRESS — PDF 001–218 / 402 VERIFIED**  
 **Controlling source:** `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`  
 **Physical PDF pages:** 402  
 **Printed pages:** 400  
@@ -26,7 +26,7 @@ English translation remains **blocked** until this second-pass gate reaches **PD
 
 ## Current durable frontier
 
-**PDF 001–190 / 402 — VERIFIED.**
+**PDF 001–218 / 402 — VERIFIED.**
 
 This batch covers Volume 42-local cover/title/publication matter, the recurring series front-matter zone, all five printed contents pages and the blank page immediately after the contents.
 
@@ -88,7 +88,7 @@ This correction changes only the Volume 42 dedication-page representation. It do
 
 - first-pass canonical source coverage: **PASS — PDF 001–402 / 402**;
 - full-volume structural audit: **PASS**;
-- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–190 / 402**;
+- second full-volume direct visual/textual-fidelity verification: **IN PROGRESS — PDF 001–218 / 402**;
 - English translation: **BLOCKED**.
 
 ## Batch 2 — Letters 3364–3368 / PDF 024–049 — PASS
@@ -369,14 +369,63 @@ The continuation through the 26-2-2009 medical/garden paragraphs was moved from 
 
 **Batch result: PASS.** Durable second-pass frontier is now **PDF 001–190 / 402 VERIFIED**.
 
+## Batch 7 — Source records 3389–3393 / PDF 191–218 — PASS
+
+Every physical source page from PDF **191** through **218** was directly rendered and compared against the canonical page record. The batch covers exactly five complete source records:
+
+- **3389** — PDF 191–193 / printed 190–192 — `இலங்கைத் தமிழரின் இணையற்ற செல்வம் ஈழத்தந்தை செல்வாவின் 112-வது பிறந்தநாள்!`
+- **3390** — PDF 194–202 / printed 193–201 — `கிளம்பட்டும்; தமிழச் சிங்கக் கூட்டம்!`
+- **3391** — PDF 203–208 / printed 202–207 — `தேர்தல் களம் அழைக்கிறது; கண்மணியே; புறப்படு!`
+- **3392** — PDF 209–212 / printed 208–211 — `பூச்சாண்டிப் பொம்மை?` — the genuine duplicated printed title/body remains preserved across both physical source copies.
+- **3393** — PDF 213–218 / printed 212–217 — `தமிழ் இன மீட்புக்காகக் குரல் கொடுத்திட வாரீர்!`
+
+### Scan-proven textual corrections
+
+1. **PDF 195 / 3390** — `வெளியிடப்பட்டபோதிலும்` → **`வெளியிடப் பட்டபோதிலும்`**
+2. **PDF 195 / 3390** — `என்பதையெல்லாம்` → **`என்பதை யெல்லாம்`**
+3. **PDF 195 / 3390** — `வாக்குறுதிகளையெல்லாம்` → **`வாக்குறுதிகளை யெல்லாம்`**
+4. **PDF 196 / 3390** — `வாக்குறுதிகளையெல்லாம்` → **`வாக்குறுதிகளை யெல்லாம்`**
+5. **PDF 215 / 3393** — `முன்மொழிந்து` → **`முன் மொழிந்து`**
+6. **PDF 217 / 3393** — `நேற்றைய தினமே` → **`நேற்றையதினமே`**
+
+### Paragraph-structure restorations
+
+- **PDF 209 / 3392** — removed two false paragraph breaks inside the first printed copy: after `தோட்டத்துப் பழங்களை,` and after `முடிவை அறிந்து கொண்டு`.
+- **PDF 215 / 3393** — removed two false paragraph breaks: after `எந்த நிலையிலும்` and after `அவர்களும் முறையே`.
+- **PDF 216 / 3393** — removed the false paragraph break between `நானும் மாநிலங்களவை` and `உறுப்பினர் கனிமொழியும்...`.
+- **PDF 218 / 3393** — restored the two source paragraph breaks after `ஒரே வழி!` and after `அந்த வழி, அண்ணா வழி, அறவழி, அமைதி வழி.`.
+
+These paragraph operations restore source layout only; beyond the six textual corrections above, they do not alter the printed wording.
+
+### Directly checked with no canonical correction
+
+- PDF **191–194, 197–208 and 210–214**.
+- Record **3389** required no canonical correction.
+- Record **3391** required no canonical correction.
+- Letter **3392** remains source-faithful as a genuine duplicated physical body across PDF 209–212.
+- All five starts, titles, salutations, closings, dates and actual letter end boundaries reconcile with the scan.
+
+### Batch reconciliation
+
+- Canonical page records changed in Batch 7: **7 — PDF 195, 196, 209, 215, 216, 217, 218**.
+- Scan-proven textual corrections applied: **6**.
+- Paragraph-structure restorations: **7**.
+- Letter-bearing pages directly verified in this batch: **28 / 28**.
+- Letter boundaries/titles/dates changed: **0**.
+- Contents rows changed: **0**.
+- Structural page/record counts changed: **0**.
+- English translation remains **BLOCKED**.
+
+**Batch result: PASS.** Durable second-pass frontier is now **PDF 001–218 / 402 VERIFIED**.
+
 ## Exact next activity
 
-Continue the second direct visual/textual-fidelity verification with **3389–3393 / PDF 191–218**, covering exactly five complete records:
+Continue the second direct visual/textual-fidelity verification with **3394–3398 / PDF 219–241**, covering exactly five complete records:
 
-- **3389** — PDF **191–193** / printed **190–192** — `இலங்கைத் தமிழரின் இணையற்ற செல்வம் ஈழத்தந்தை செல்வாவின் 112-வது பிறந்தநாள்!`
-- **3390** — PDF **194–202** / printed **193–201** — `கிளம்பட்டும்; தமிழச் சிங்கக் கூட்டம்!`
-- **3391** — PDF **203–208** / printed **202–207** — `தேர்தல் களம் அழைக்கிறது; கண்மணியே; புறப்படு!`
-- **3392** — PDF **209–212** / printed **208–211** — `பூச்சாண்டிப் பொம்மை?` — preserve the verified duplicated printed title/body across the physical pages.
-- **3393** — PDF **213–218** / printed **212–217** — `தமிழ் இன மீட்புக்காகக் குரல் கொடுத்திட வாரீர்!`
+- **3394** — PDF **219–221** / printed **218–220** — `சுட்டெரிக்கும் நெருப்பில் சுடர் விடும் தங்கம்!`
+- **3395** — PDF **222–226** / printed **221–225** — `மூப்பனார் வழங்கிய புத்தகம்!`
+- **3396** — PDF **227–231** / printed **226–230** — `இவர்களும் அவர் பக்கமா?`
+- **3397** — PDF **232–237** / printed **231–236** — `நாதியற்ற ஈழத் தமிழரைக் காத்திட நடுவணரசுக்கு வேண்டுகோள்!`
+- **3398** — PDF **238–241** / printed **237–240** — `இதற்குமா எதிர்ப்பு! அந்தோ - தமிழகமே!`
 
-Stop before **3394 / PDF 219 / printed 218**. Keep the scan authoritative, preserve the genuine Letter 3392 duplicated physical source body, and do not begin English translation.
+Stop before **3399 / PDF 242 / printed 241**. Keep the scan authoritative and do not begin English translation.
