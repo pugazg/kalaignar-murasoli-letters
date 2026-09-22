@@ -12,6 +12,8 @@
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
 - English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
 - Bilingual meaning-level alignment: **COMPLETE — 64 / 64 aligned — 3364–3376, 3154, 3378–3427 / PDF 024–401; 39 cumulative English corrections; 0 canonical Tamil changes**
+- English editorial consistency review: **PASS — 64 / 64; 2 English-only corrections; 0 canonical Tamil changes**
+- Final English release verification: **not started — next gate**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -416,9 +418,19 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - PDF 402 remains non-letter material; no Letter 3428.
 - Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
 - Full-volume bilingual meaning-level alignment: **COMPLETE — 64 / 64**.
-- English editorial consistency review: **not started — next gate**.
 - Translation manifest/final release verification: **not started**.
+
+## English Editorial Consistency Review — PASS
+
+- Records reviewed: **64 / 64**.
+- English-only consistency corrections: **2 — 3397 and 3422**.
+- **3397:** `State Government` → **State government**.
+- **3422:** `Union government` → **Union Government**.
+- Canonical Tamil changes: **0**.
+- New scan re-checks: **0**.
+- Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
+- Final English release verification: **not started — next gate**.
 
 ## Exact next activity
 
-Perform the separate **Volume 42 English editorial consistency review** across all **64 aligned records**. Use the aligned English corpus, locked glossary and completed alignment reports; focus on cross-record consistency rather than redoing source alignment. Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Keep manifest/final-release verification as a later separate gate.
+Perform the separate **Volume 42 final English release verification**. Create and reconcile `translations/en/TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**; verify every bilingual file and complete Tamil appendix; create `translations/en/RELEASE_REPORT.md`; then synchronize final-release status.

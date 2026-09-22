@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT COMPLETE — 64 / 64 through 3427 / PDF 401; ENGLISH EDITORIAL CONSISTENCY REVIEW NEXT.**
+**Status:** **SOURCE-CHECK 64 / 64 COMPLETE; BILINGUAL ALIGNMENT 64 / 64 COMPLETE; ENGLISH EDITORIAL CONSISTENCY REVIEW PASS — 64 / 64; FINAL RELEASE VERIFICATION NEXT.**
 
 Tamil prerequisites are complete:
 
@@ -214,6 +214,18 @@ Actual source records **3419–3427 / PDF 352–401**: **PASS — 9 / 9 aligned*
 - PDF 402 remains non-letter material; no Letter 3428
 - durable report: [BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md](BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md)
 
+## English Editorial Consistency Review completed
+
+All **64 / 64 aligned records** were reviewed as one corpus: **PASS**.
+
+- English-only consistency corrections: **2**
+  - **3397:** `State Government` → **State government**
+  - **3422:** `Union government` → **Union Government**
+- canonical Tamil changes: **0**
+- new scan re-checks: **0**
+- protected source-supplied English and all documented source anomalies remain unchanged
+- durable report: [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md)
+
 ## Exact next activity
 
-Perform the separate **Volume 42 English editorial consistency review** across all **64 / 64 aligned records**. Review cross-record title/front-matter agreement, names and honorifics, locked glossary forms, quantities, capitalization, punctuation/quotation treatment, source-supplied English, source anomalies and complete Tamil appendices. Create **EDITORIAL_CONSISTENCY_REVIEW.md**. Do not run translation-manifest/final-release verification in the same activity.
+Perform the separate **Volume 42 final English release verification**. Create and reconcile **TRANSLATION_MANIFEST.csv** for exactly **64 source records — 3364–3376, 3154, 3378–3427**; validate unique record identities and file paths; confirm source-checked/aligned/reviewed state; verify complete Tamil appendices and final source boundaries; create **RELEASE_REPORT.md**; then synchronize final-release status.

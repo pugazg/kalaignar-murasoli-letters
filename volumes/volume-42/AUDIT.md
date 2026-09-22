@@ -1685,3 +1685,27 @@ Full-volume bilingual meaning-level alignment is now **COMPLETE — 64 / 64**.
 Editorial consistency review and final release verification remain separate gates.
 
 **Next:** Perform the separate **Volume 42 English editorial consistency review** across all 64 aligned records and create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Do not perform manifest/final-release verification in the same activity.
+
+## 52. Volume 42 English Editorial Consistency Review
+
+**Date:** 2026-09-22  
+**Result:** **PASS — 64 / 64 reviewed**
+
+Durable review: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
+
+### Result
+
+- bilingual records reviewed as one English corpus: **64 / 64**;
+- source-check state entering gate: **64 / 64 COMPLETE**;
+- bilingual alignment state entering gate: **64 / 64 COMPLETE**;
+- English-only consistency corrections: **2**;
+- **3397:** `State Government` → **State government** in ordinary translated prose;
+- **3422:** `Union government` → **Union Government** in ordinary translated prose;
+- canonical Tamil changes: **0**;
+- new scan re-checks: **0**;
+- protected source-supplied English remains untouched;
+- source anomalies 3154, 3392 duplication, 3419 PDF 357 form, 3425 title-layer distinction and PDF 401/402 final boundary remain unchanged.
+
+English editorial consistency is now **PASS / COMPLETE — 64 / 64**.
+
+**Next:** final English release verification. Create and reconcile `translations/en/TRANSLATION_MANIFEST.csv`, create `translations/en/RELEASE_REPORT.md`, verify all 64 bilingual files and Tamil appendices, then synchronize final-release status.

@@ -8,8 +8,8 @@
 - [x] Pilot translation conventions locked
 - [x] Main translation batches — **COMPLETE; Batch 1 + 10-record Batches 2–6 + final 6-record source-boundary batch**
 - [x] Volume-level bilingual alignment — **COMPLETE — 64 / 64 aligned through 3427 / PDF 401**
-- [ ] Editorial consistency review — **NEXT GATE**
-- [ ] Manifest / release report
+- [x] Editorial consistency review — **PASS — 64 / 64; 2 English-only corrections; 0 Tamil changes**
+- [ ] Manifest / release report — **NEXT GATE**
 
 ## Current state
 
@@ -21,8 +21,8 @@
 - full-volume bilingual alignment: **COMPLETE — 64 / 64 aligned — 3364–3376, 3154, 3378–3427 / PDF 024–401**
 - cumulative English alignment corrections: **39**
 - canonical Tamil changes during alignment: **0**
-- editorial consistency review: **not started — next gate**
-- release: **not started**
+- editorial consistency review: **PASS — 64 / 64; 2 English-only corrections; 0 canonical Tamil changes**
+- release: **not started — next gate**
 
 ## Bilingual Alignment Batch 1 — PASS
 
@@ -97,6 +97,17 @@
 - PDF 402 remains non-letter material; no Letter 3428
 - durable report: `BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`
 
+## English Editorial Consistency Review — PASS
+
+- reviewed: **64 / 64**
+- English-only consistency corrections: **2**
+  - **3397:** `State Government` → **State government**
+  - **3422:** `Union government` → **Union Government**
+- protected source-supplied English remains untouched, including 3387, 3405, 3408, 3420, 3425 and 3426
+- canonical Tamil changes: **0**
+- new scan re-checks: **0**
+- durable report: `EDITORIAL_CONSISTENCY_REVIEW.md`
+
 ## Next
 
-Perform the separate **Volume 42 English editorial consistency review** across all **64 / 64 aligned records**. Focus on cross-record consistency rather than retranslating source meaning; preserve locked glossary terms, source-supplied English, source anomalies and complete Tamil appendices. Create `EDITORIAL_CONSISTENCY_REVIEW.md`. Do not perform manifest/final-release verification in the same gate.
+Perform the separate **Volume 42 final English release verification**. Create and reconcile `TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**; verify all bilingual files and Tamil appendices, create `RELEASE_REPORT.md`, and only then promote Volume 42 English to FINAL RELEASE COMPLETE.

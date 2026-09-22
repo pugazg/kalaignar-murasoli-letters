@@ -1,4 +1,4 @@
-# Volume 42 English Translation Plan — MAIN TRANSLATION COMPLETE / BILINGUAL ALIGNMENT NEXT
+# Volume 42 English Translation Plan — SOURCE-CHECK + ALIGNMENT + EDITORIAL COMPLETE / FINAL RELEASE NEXT
 
 The three-letter pilot and all source-check batches are complete, Volume 42 translation conventions are locked, and **64 / 64 actual source records** are translated/source-checked.
 
@@ -13,8 +13,8 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
 - [x] Full-volume bilingual alignment — **COMPLETE — 64 / 64 aligned through 3427 / PDF 401**
-- [ ] Volume-level English editorial review — **NEXT GATE**
-- [ ] Translation manifest and final release report
+- [x] Volume-level English editorial review — **PASS — 64 / 64; 2 English-only corrections; 0 Tamil changes**
+- [ ] Translation manifest and final release report — **NEXT GATE**
 
 ## English progress
 
@@ -214,10 +214,18 @@ Actual source records **3419–3427 / PDF 352–401** — **PASS / 9 of 9 aligne
 
 Cumulative bilingual alignment: **64 / 64 COMPLETE — 3364–3376, 3154, 3378–3427 / PDF 024–401**.
 
-## Current exact task — Volume-level English editorial consistency review
+## Volume-level English editorial consistency review — COMPLETE
 
-Review all **64 / 64 aligned English records** as one corpus. This is a separate cross-record consistency gate after meaning-level alignment, not a new translation pass.
+All **64 / 64 aligned bilingual records** were reviewed as one corpus: **PASS**.
 
-Check title/front-matter agreement, dates and PDF ranges, translator-note conventions, salutations/closings, names and honorifics, place-name and institutional forms, locked glossary terminology, Indian public-language quantities, capitalization, punctuation and quotation treatment, protected source-supplied English, documented source anomalies, and complete Tamil appendices.
+- English-only consistency corrections: **2**
+  - **3397:** `State Government` → **State government**
+  - **3422:** `Union government` → **Union Government**
+- Canonical Tamil changes: **0**
+- New scan re-checks: **0**
+- Protected source-supplied English and documented source anomalies remain intact.
+- Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 
-Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Correct English only where a corpus-level inconsistency is demonstrated. Do not change canonical Tamil unless a concrete source defect is suspected and verified against the controlling scan. Keep translation manifest / final release verification as the later separate gate.
+## Current exact task — final English release verification
+
+Create and reconcile `translations/en/TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**. Validate unique record identities and English paths; confirm all rows are source-checked, aligned and editorially reviewed; verify every bilingual file and complete Tamil appendix; reconfirm the 3154 source-number anomaly, 3392 duplicate printing, 3425 title-layer distinction, final Letter 3427 boundary at PDF 401 and PDF 402 as non-letter matter; create `translations/en/RELEASE_REPORT.md`; then synchronize final-release status. Do not mark FINAL RELEASE COMPLETE until this gate passes.

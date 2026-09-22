@@ -53,7 +53,7 @@ He recalls that recognition of Tamil as a **Classical Language** had been a cent
 
 He identifies Tamil scholar **Parithimar Kalaignar**, also known as Suryanarayana Sastri, as the first to raise the demand that Tamil be granted Classical Language status. Thereafter, lovers of Tamil and Tamil scholars continued the struggle. Perarignar Anna too raised the demand.
 
-The author says that this long-standing demand was finally fulfilled in **2004**, when the United Progressive Alliance government under Prime Minister Dr. Manmohan Singh, with guidance from Mrs. Sonia Gandhi and with the DMK participating in the Union government, accepted the request and declared Tamil a Classical Language.
+The author says that this long-standing demand was finally fulfilled in **2004**, when the United Progressive Alliance government under Prime Minister Dr. Manmohan Singh, with guidance from Mrs. Sonia Gandhi and with the DMK participating in the Union Government, accepted the request and declared Tamil a Classical Language.
 
 He then recalls a letter Mrs. Sonia Gandhi wrote to him after the announcement, in which, according to the source, she said:
 

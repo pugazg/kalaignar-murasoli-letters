@@ -150,7 +150,7 @@ Even so, some party leaders here issued statements saying the government was wit
 
 As far as we are concerned, we can convey our grievance to the Sri Lankan Government only through the Union Government.
 
-We are not so politically ignorant as to demand that the State Government directly enter into a dispute with Sri Lanka.
+We are not so politically ignorant as to demand that the State government directly enter into a dispute with Sri Lanka.
 
 Still, no one can forget that this is not merely a matter between two countries but a humanitarian issue.
 
