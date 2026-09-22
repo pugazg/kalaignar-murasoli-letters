@@ -1,0 +1,57 @@
+volume: 41
+title_ta: "கலைஞரின் கடிதங்கள் — தொகுதி 41"
+author: "கலைஞர்"
+date_from: 2007-11-25
+date_to: 2009-01-21
+letter_number_from: 3306
+letter_number_to: 3363
+letter_count: 58
+printed_contents_entry_count: 58
+letter_count_status: "provisional from printed contents PDF 018-022; actual source-record boundaries not yet fully transcribed"
+publisher: "சீதை பதிப்பகம்"
+edition: 1
+edition_year: 2022
+printed_pages: 400
+source_file: "TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf"
+source_sha256: "950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418"
+source_size_bytes: 230722751
+pdf_pages: 402
+source_extent_status: "complete-source-delivery"
+source_full_volume_received: true
+source_searchable_text_layer: false
+series_front_matter_zone: "PDF 001-017"
+series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
+series_front_matter_status: "pending direct visual comparison during first transcription batch"
+transcription_page_range: null
+transcription_status: "not-started"
+recorded_letter_range: null
+completed_letter_range: null
+completed_letter_count: 0
+partial_letter: null
+source_incomplete_letters: []
+source_incomplete_letter_count: 0
+source_missing_printed_pages: []
+audit_status: "source-intake-complete; full-volume-audit-pending-transcription"
+audit_date: 2026-09-22
+second_visual_verification: "pending"
+second_visual_verified_page_range: null
+textual_fidelity_audit_reports: []
+translation_status: "blocked-pending-tamil-gates"
+translated_letter_range: null
+translated_letter_count: 0
+bilingual_alignment_status: "not-started"
+editorial_consistency_review_status: "not-started"
+english_release_status: "not-started"
+source_observations:
+  - "Front cover and title page identify Volume 41 and visible date span 25.11.2007-21.01.2009."
+  - "Publication matter prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
+  - "Direct inspection confirms 402 physical PDF pages / 230722751 bytes; the 150-page preview limit is not the source extent."
+  - "No usable parsed/searchable text layer is available; scan images control transcription."
+  - "Printed contents occupy PDF 018-022 and provisionally enumerate 58 rows across continuous span 3306-3363."
+  - "Letter 3306 begins PDF 024 / printed 23; it closes PDF 033 / printed 32 and Letter 3307 begins PDF 034 / printed 33."
+  - "Letter 3363 begins PDF 398 / printed 397, closes PDF 401 / printed 400 dated 21-1-2009; PDF 402 is non-letter back-cover material."
+contents_transcription_status: "pending-first-batch-pdf-018-022"
+last_transcription_batch: null
+next_transcription_page: 1
+next_letter_number: 3306
+next_normal_batch: null

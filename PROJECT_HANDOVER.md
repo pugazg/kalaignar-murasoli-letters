@@ -2,7 +2,7 @@
 
 **Repository:** `pugazg/kalaignar-murasoli-letters`  
 **Primary branch:** `main`  
-**Handover date:** 2026-09-19
+**Handover date:** 2026-09-22
 
 Read this with `VOLUME_PROCESSING_GUIDE.md`, `SERIES_FRONT_MATTER_POLICY.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, `FUTURE_VOLUME_WORK_GUIDELINES.md`, and `NEXT_CHAT_PROMPT.md`.
 
@@ -17,6 +17,30 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 ## Source authority
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
+
+## Volume 41 — SOURCE INTAKE COMPLETE / ACTIVE
+
+Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`
+
+- Volume identity: **41**
+- Visible date span: **25.11.2007–21.01.2009**
+- Publisher / edition: **Seethai Pathippagam; 1st edition 2022**
+- Printed pages: **400**
+- Physical PDF pages: **402**
+- Source bytes: **230,722,751**
+- SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
+- Preview limitation: UI may expose only **150** rendered pages; direct backing-file inspection confirms the complete **402-page** source.
+- Printed contents: **PDF 018–022**
+- Provisional inventory: **58 records, 3306–3363**, continuous numbering at intake
+- First source letter: **3306**, beginning **PDF 024 / printed 23**
+- Mandatory first-batch stop: **PDF 025 inside Letter 3306**
+- Reconnaissance: Letter 3306 closes PDF 033; Letter 3307 begins PDF 034
+- Final source letter: **3363**, PDF 398–401 / printed 397–400
+- PDF 402: non-letter back-cover / portrait / publisher-contact-price material
+- Tamil transcription: **not started**
+- English: **blocked**
+
+**Exact next activity:** transcribe and visually verify **PDF 001–025 exactly**, applying the series front-matter policy to PDF 001–017, transcribing contents PDF 018–022 literally, preserving PDF 023, and leaving Letter 3306 partial after PDF 025.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 
@@ -188,9 +212,9 @@ The repository control documents were reconciled against live release artifacts 
 - **Volume 49:** English release complete — 53 / 53. Its full-volume second visual/textual-fidelity gate remains explicitly pending, so do not describe the whole archival volume as fully closed under the current definition-of-done until that gate is completed.
 - **Volumes 50–53:** legacy imported translation/source-verification trees with internally reconciled translation inventories; they are not current-format archival volume trees.
 
-No source volume is automatically active after this synchronization. Follow live `NEXT_CHAT_PROMPT.md` and `START_NEXT_MURASOLI_VOLUME_PROMPT.md` when a new target is selected.
+**Volume 41 is now the active source volume.** Follow live `NEXT_CHAT_PROMPT.md`; Volumes 42 and 43 remain closed unless a concrete defect is identified.
 
-## Volume 42 — TAMIL FIDELITY CLOSED / ENGLISH MAIN TRANSLATION COMPLETE / BILINGUAL ALIGNMENT IN PROGRESS — 2026-09-21
+## Volume 42 — FINAL RELEASE COMPLETE / CLOSED — 2026-09-22
 
 Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 

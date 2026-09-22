@@ -1,48 +1,58 @@
-# NEXT CHAT PROMPT — Volume 42 / FINAL RELEASE COMPLETE
+# NEXT CHAT PROMPT — Volume 41 / mandatory first transcription batch PDF 001–025
 
-Continue in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Volume 42 durable closure
+## Read first
 
-- Controlling source: `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`
-- Source SHA-256: `43f9b51fd3765144f707cce535cc9ed39892f911a126c3c3c005173a1efc1676`
-- Source extent: **402 physical PDF pages / 400 printed pages**
-- Canonical Tamil: **PDF 001–402 / 402 COMPLETE**
-- Full-volume structural audit: **PASS / CLOSED**
-- Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED**
-- Actual source records: **64 — 3364–3376, 3154, 3378–3427**
-- Tamil unresolved fidelity items: **0**
-- English source-check: **64 / 64 COMPLETE**
-- Complete Tamil appendices: **64 / 64**
-- Bilingual alignment: **64 / 64 COMPLETE**
-- Cumulative alignment corrections: **39 English / 0 Tamil**
-- English editorial consistency: **PASS — 64 / 64**
-- Editorial corrections: **2 English-only / 0 Tamil**
-- Translation manifest: **64 / 64 reconciled**
-- Final English release verification: **PASS — 64 / 64**
-- Release-verification body corrections: **0 English / 0 Tamil**
-- Letter **3427** closes at **PDF 401 / printed 400**
-- PDF **402** is non-letter back-cover / portrait / publisher-contact-price material
-- **No Letter 3428** is created in Volume 42
+1. `VOLUME_PROCESSING_GUIDE.md`
+2. `SERIES_FRONT_MATTER_POLICY.md`
+3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
+4. `TRANSCRIPTION_GUIDE.md`
+5. `FUTURE_VOLUME_WORK_GUIDELINES.md`
+6. `volumes/volume-41/AUDIT.md`
+7. `volumes/volume-41/PROGRESS.md`
+8. `volumes/volume-41/README.md`
+9. `volumes/volume-41/metadata.yml`
 
-## Final release artifacts
+Refetch live `main` before editing and immediately before commit.
 
-- `volumes/volume-42/translations/en/TRANSLATION_MANIFEST.csv`
-- `volumes/volume-42/translations/en/RELEASE_REPORT.md`
-- `volumes/volume-42/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`
+## Controlling source
 
-## Preserved source conditions
+`TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`
 
-- **3154** remains the genuine source number between 3376 and 3378; do not invent 3377.
-- **3392** retains its genuine duplicated physical printing.
-- **3389** retains the Volume 42 republication framing and source closing date.
-- **3401** retains **Kazhagam Udanpirappē**.
-- **3419** retains PDF 357 source form `புறங்காந்திமடைந்து`.
-- **3425** retains actual-title `திருந்தப்போகிறார்களா?` separately from contents-layer `திருந்தப் போகிறார்களா?`.
-- Protected source-supplied English remains verbatim, including **Katcha Theevu**, **Samerian**, **SriLankan**, and **Quota and Rota**.
+- SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
+- size: **230,722,751 bytes**
+- physical PDF pages: **402**
+- printed pages: **400**
+- visible date span: **25.11.2007–21.01.2009**
+- provisional contents inventory: **58 records / 3306–3363**
+- contents: **PDF 018–022**
+- PDF 023: non-letter/blank page
+- first letter **3306** begins **PDF 024 / printed 23**
+- Letter 3306 continues through PDF 033; Letter 3307 begins PDF 034
+- final letter **3363** begins PDF 398 / printed 397 and closes PDF 401 / printed 400
+- PDF 402 is non-letter back-cover material
+- the UI's 150-page view is only a preview limit; **do not treat it as the source extent**
 
-## State
+## Exact activity
 
-**Volume 42 is FINAL RELEASE COMPLETE / CLOSED.**
+Perform the mandatory first transcription commit for **PDF 001–025 exactly**.
 
-Do not reopen Volume 42 merely for stylistic polishing. Reopen only if a concrete source or release defect is identified. There is no further scheduled Volume 42 English QA gate.
+- Create `pages/page-001.md` through `page-025.md`.
+- PDF 001–003: capture Volume 41-specific source text and metadata.
+- PDF 004–017: compare directly against the approved Volume 43 shared-front-matter reference. Use reference-only records only where the printed source text truly matches; locally transcribe every deviation.
+- PDF 018–022: transcribe all **58 contents rows** exactly as printed.
+- PDF 023: preserve its actual blank/non-letter state.
+- PDF 024–025: transcribe Letter **3306** exactly from scan.
+- Create/update `contents/index.md`, `chapters/README.md`, Letter 3306 chapter record, `PROGRESS.md`, `metadata.yml`, `AUDIT.md`, Volume README and blocked translation controls.
+- Mark Letter 3306 **partial** after PDF 025.
+- Do **not** transcribe PDF 026 in this commit.
+- Visually verify every one of PDF 001–025 against the scan.
+
+Required commit message:
+
+`Transcribe Volume 41 PDF pages 001-025`
+
+## After this batch
+
+The next activity must begin at **PDF 026** and finish Letter **3306** through PDF **033 / printed 32**. Stop before Letter **3307**, which begins PDF **034 / printed 33**.
