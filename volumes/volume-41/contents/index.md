@@ -67,7 +67,6 @@ The table below preserves the contents wording, dates and printed start pages ex
 
 ## Canonical boundary state
 
-- Letter **3306** actual start verified at **PDF 024 / printed 23**.
-- Current canonical transcription stops after **PDF 025 / printed 24**, inside Letter 3306.
-- Intake boundary reconnaissance places Letter 3306 close at PDF 033 / printed 32 and Letter 3307 start at PDF 034 / printed 33; those pages are not yet canonically transcribed.
+- Letter **3306** is scan-verified and canonically complete at **PDF 024–033 / printed 23–32**, dated **25-11-2007**.
+- Letter **3307** actual heading is scan-verified at **PDF 034 / printed 33**; canonical transcription of 3307 has not yet begun.
 - Later contents rows remain printed-contents evidence only until their actual source pages are reached.

@@ -1,6 +1,6 @@
 # Volume 41 — English Progress
 
-- [ ] Tamil transcription complete — **currently PDF 001–025 / 402**
+- [ ] Tamil transcription complete — **currently PDF 001–033 / 402; 1 / 58 letters complete**
 - [ ] Full-volume Tamil structural audit complete
 - [ ] Mandatory textual-fidelity gate complete
 - [ ] Three-letter pilot
@@ -10,4 +10,4 @@
 - [ ] Editorial consistency review
 - [ ] Manifest / release report
 
-**Current status: blocked.** Active work is Tamil Letter 3306 continuation PDF 026–033.
+**Current status: blocked.** Active Tamil work is normal five-letter batch **3307–3311**, starting PDF 034.

@@ -24,16 +24,17 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - Physical PDF pages: **402**; printed pages: **400**
 - SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
-- Canonical first-pass coverage: **PDF 001–025 / 402**
-- PDF 001–004 local; PDF 005–017 direct-verified shared references to Volume 43
+- Canonical first-pass coverage: **PDF 001–033 / 402**
 - Printed contents: **58 / 58 rows complete — 3306–3363**
-- Letter **3306**: PDF 024–025 transcribed; **partial**
-- Next page: **PDF 026**
-- Boundary reconnaissance: Letter 3306 closes PDF 033 / printed 32; Letter 3307 begins PDF 034 / printed 33
+- Letter **3306**: **COMPLETE — PDF 024–033 / printed 23–32**
+- Closing/date: **அன்புள்ள, மு.க. — 25-11-2007**
+- Next source record: **3307**, scan-verified start PDF **034 / printed 33**
+- Completed letters: **1 / 58**
+- Partial letters: **0**
 - English: **blocked**
 - Full-volume structural audit / second visual verification: **pending**
 
-**Exact next activity:** complete Letter **3306** from PDF **026–033**, verify its closing/signature/date, mark the chapter complete, synchronize controls, and stop before Letter 3307 / PDF 034.
+**Exact next activity:** process normal five-letter Tamil batch **3307–3311**, beginning PDF 034 and stopping at the verified end of Letter 3311.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

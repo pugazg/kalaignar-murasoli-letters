@@ -18,28 +18,38 @@
 ## Source inventory
 
 - Printed contents: **PDF 018–022**
-- Literal contents rows now transcribed: **58 / 58**
+- Literal contents rows: **58 / 58**
 - Printed number span: **3306–3363**
-- No contents-layer numbering discontinuity identified in this batch
-- First letter: **3306**, PDF 024 / printed 23
+- No contents-layer numbering discontinuity identified
 - Final source reconnaissance: Letter 3363 PDF 398–401 / printed 397–400; PDF 402 non-letter
 
 ## Batch 1 — mandatory PDF 001–025
 
-**Result: PASS — 25 / 25 page records created and visually checked.**
+**PASS — 25 / 25 page records created and visually checked.**
 
-- PDF 001–003: Volume 41-specific cover/title/publication matter recorded locally.
-- PDF 004: local dedication **அம்மாவுக்கு...** preserved; it differs from Volume 43's recurring PDF 004.
-- PDF 005–017: direct visual comparison confirms the printed source text matches the approved Volume 43 shared reference; reference-only page records are used.
-- PDF 018–022: all **58** printed contents rows transcribed literally.
-- PDF 023: blank page with reverse-side contents show-through preserved.
-- PDF 024–025: Letter 3306 transcribed directly from scan.
-- No English work performed.
+- PDF 001–004 local Volume 41 front matter
+- PDF 005–017 direct-verified shared references
+- PDF 018–022 contents complete
+- PDF 023 blank/show-through
+- PDF 024–025 Letter 3306 partial
 
-### Batch boundary
+## Batch 2 — complete Letter 3306 / PDF 026–033
 
-Letter **3306 — உடன்பிறப்பே, உன் இலட்சியப் பயணம் தொடரட்டும்!** is **partial** after PDF 025.
+**PASS — 8 / 8 continuation pages transcribed and visually checked.**
 
-The next commit must begin at PDF **026** and finish this letter through PDF **033 / printed 32**. Letter **3307** begins PDF **034 / printed 33**.
+- Letter **3306 — உடன்பிறப்பே, உன் இலட்சியப் பயணம் தொடரட்டும்!**
+- complete source range: **PDF 024–033 / printed 23–32**
+- actual closing/date: **அன்புள்ள, மு.க. — 25-11-2007**
+- chapter state: **complete**
+- PDF **034 / printed 33** directly confirms the start of Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!**
+- no English work performed
 
-This batch does not imply full-volume structural or second visual/textual-fidelity completion.
+## Current result
+
+- canonical first-pass coverage: **PDF 001–033 / 402**
+- completed letters: **1 / 58**
+- partial letters: **0**
+- full-volume structural audit: **pending**
+- second visual/textual-fidelity gate: **pending**
+
+Next activity: normal five-letter iteration **3307–3311**, beginning PDF 034.

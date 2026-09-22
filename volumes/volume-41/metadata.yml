@@ -7,7 +7,7 @@ letter_number_from: 3306
 letter_number_to: 3363
 letter_count: 58
 printed_contents_entry_count: 58
-letter_count_status: "printed contents PDF 018-022 transcribed 58-of-58; actual source-record boundaries verified only as reached"
+letter_count_status: "printed contents PDF 018-022 transcribed 58-of-58; actual source-record boundaries verified as reached"
 publisher: "சீதை பதிப்பகம்"
 edition: 1
 edition_year: 2022
@@ -22,16 +22,16 @@ source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 series_front_matter_status: "first-pass-verified-pdf-001-017; pdf-001-004 local; pdf-005-017 shared-reference"
-transcription_page_range: "1-25"
+transcription_page_range: "1-33"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3306 partial"
-completed_letter_range: null
-completed_letter_count: 0
-partial_letter: 3306
+recorded_letter_range: "3306"
+completed_letter_range: "3306"
+completed_letter_count: 1
+partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-intake-complete; first-batch-pdf-001-025-pass; full-volume-audit-pending"
+audit_status: "source-intake-complete; pdf-001-033-first-pass-pass; full-volume-audit-pending"
 audit_date: 2026-09-22
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -49,11 +49,11 @@ source_observations:
   - "PDF 001-004 are local Volume 41 records; PDF 004 prints அம்மாவுக்கு..., differing from the approved Volume 43 recurring dedication."
   - "PDF 005-017 directly match the approved Volume 43 shared-front-matter printed text and use reference-only canonical page records."
   - "Printed contents PDF 018-022 are transcribed completely: 58 rows / 3306-3363."
-  - "Letter 3306 begins PDF 024 / printed 23 and is canonically transcribed through PDF 025 / printed 24; it remains partial."
-  - "Intake reconnaissance places Letter 3306 close at PDF 033 / printed 32 and Letter 3307 start at PDF 034 / printed 33."
+  - "Letter 3306 is complete at PDF 024-033 / printed 23-32 with scan-verified closing date 25-11-2007."
+  - "PDF 034 / printed 33 directly confirms the start of Letter 3307."
   - "Final source reconnaissance: Letter 3363 PDF 398-401 / printed 397-400; PDF 402 non-letter back cover."
 contents_transcription_status: "complete-pdf-018-022"
-last_transcription_batch: "Initial mandatory batch PDF 001-025"
-next_transcription_page: 26
-next_letter_number: 3306
-next_normal_batch: null
+last_transcription_batch: "Complete Letter 3306 PDF 026-033"
+next_transcription_page: 34
+next_letter_number: 3307
+next_normal_batch: "3307-3311"

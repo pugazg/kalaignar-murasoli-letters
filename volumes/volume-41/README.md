@@ -15,16 +15,15 @@
 
 ## Current Tamil state
 
-- canonical first-pass pages: **001–025 / 402**
+- canonical first-pass pages: **001–033 / 402**
 - printed contents: **58 / 58 rows complete**
-- source-record inventory: **3306–3363 provisional from contents**
-- completed letters: **0**
-- active partial letter: **3306**
-- PDF 024–025 transcribed; continuation begins PDF 026
+- source-record inventory: **3306–3363**
+- completed letters: **1 / 58 — 3306**
+- partial letters: **0**
+- Letter 3306: **PDF 024–033 / printed 23–32**, closed **25-11-2007**
+- next letter: **3307**, scan-verified start **PDF 034 / printed 33**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity verification: **pending**
-
-PDF 001–004 are represented locally. PDF 005–017 were directly compared with the approved Volume 43 recurring front matter and match its printed source text, so shared-reference page records are used.
 
 ## English
 
@@ -32,4 +31,4 @@ PDF 001–004 are represented locally. PDF 005–017 were directly compared with
 
 ## Exact next activity
 
-Complete Letter **3306** from **PDF 026 through PDF 033 / printed 32** and stop before Letter **3307**, which begins PDF 034 / printed 33.
+Process the first normal **five-letter** transcription iteration: **3307–3311**, beginning at PDF 034 and stopping at the verified close of Letter 3311.
