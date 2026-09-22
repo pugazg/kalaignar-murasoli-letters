@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **SOURCE-CHECK 64 / 64 COMPLETE; BILINGUAL ALIGNMENT 64 / 64 COMPLETE; ENGLISH EDITORIAL CONSISTENCY REVIEW PASS — 64 / 64; FINAL RELEASE VERIFICATION NEXT.**
+**Status:** **FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, editorially reviewed and release-verified.**
 
 Tamil prerequisites are complete:
 
@@ -226,6 +226,18 @@ All **64 / 64 aligned records** were reviewed as one corpus: **PASS**.
 - protected source-supplied English and all documented source anomalies remain unchanged
 - durable report: [EDITORIAL_CONSISTENCY_REVIEW.md](EDITORIAL_CONSISTENCY_REVIEW.md)
 
-## Exact next activity
+## Final English Release Verification completed
 
-Perform the separate **Volume 42 final English release verification**. Create and reconcile **TRANSLATION_MANIFEST.csv** for exactly **64 source records — 3364–3376, 3154, 3378–3427**; validate unique record identities and file paths; confirm source-checked/aligned/reviewed state; verify complete Tamil appendices and final source boundaries; create **RELEASE_REPORT.md**; then synchronize final-release status.
+**PASS — 64 / 64 FINAL RELEASE COMPLETE.**
+
+- manifest: [TRANSLATION_MANIFEST.csv](TRANSLATION_MANIFEST.csv) — **64 / 64 reconciled**
+- release report: [RELEASE_REPORT.md](RELEASE_REPORT.md)
+- unique source-record numbers: **64**
+- unique English paths: **64**
+- source-incomplete records: **0**
+- translated source range: **PDF 024–401**
+- release-verification English body corrections: **0**
+- release-verification Tamil changes: **0**
+- PDF 402 remains non-letter material; no Letter 3428 is created in Volume 42
+
+No further Volume 42 English QA or release gate remains pending.

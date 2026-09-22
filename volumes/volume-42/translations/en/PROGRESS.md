@@ -9,7 +9,7 @@
 - [x] Main translation batches — **COMPLETE; Batch 1 + 10-record Batches 2–6 + final 6-record source-boundary batch**
 - [x] Volume-level bilingual alignment — **COMPLETE — 64 / 64 aligned through 3427 / PDF 401**
 - [x] Editorial consistency review — **PASS — 64 / 64; 2 English-only corrections; 0 Tamil changes**
-- [ ] Manifest / release report — **NEXT GATE**
+- [x] Manifest / release report — **PASS — FINAL RELEASE COMPLETE 64 / 64**
 
 ## Current state
 
@@ -22,7 +22,7 @@
 - cumulative English alignment corrections: **39**
 - canonical Tamil changes during alignment: **0**
 - editorial consistency review: **PASS — 64 / 64; 2 English-only corrections; 0 canonical Tamil changes**
-- release: **not started — next gate**
+- release: **FINAL RELEASE COMPLETE — 64 / 64 verified**
 
 ## Bilingual Alignment Batch 1 — PASS
 
@@ -108,6 +108,17 @@
 - new scan re-checks: **0**
 - durable report: `EDITORIAL_CONSISTENCY_REVIEW.md`
 
-## Next
+## Final English Release Verification — PASS
 
-Perform the separate **Volume 42 final English release verification**. Create and reconcile `TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**; verify all bilingual files and Tamil appendices, create `RELEASE_REPORT.md`, and only then promote Volume 42 English to FINAL RELEASE COMPLETE.
+- manifest rows: **64 / 64**
+- final verified English: **64 / 64**
+- source-incomplete rows: **0**
+- unique source-record numbers: **64**
+- unique English paths: **64**
+- translated source coverage: **PDF 024–401**, gap-free and overlap-free
+- release-verification English body corrections: **0**
+- release-verification Tamil changes: **0**
+- manifest: `TRANSLATION_MANIFEST.csv`
+- release report: `RELEASE_REPORT.md`
+
+**Volume 42 English is FINAL RELEASE COMPLETE. No further Volume 42 English QA or release gate remains pending.**

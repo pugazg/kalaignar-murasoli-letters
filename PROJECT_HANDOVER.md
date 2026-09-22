@@ -246,11 +246,23 @@ Controlling attachment: `TVA_BOK_0065826_கலைஞரின்_கடித�
 - Bilingual Alignment FINAL source-boundary Batch **3419–3427 / PDF 352–401**: **PASS — 9 / 9 aligned**, **15 English corrections across 4 records — 3419, 3423, 3425, 3426**, cumulative **39 English alignment corrections**, **0 canonical Tamil changes / 0 unresolved alignment items**. Durable report: `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
 - User-set bilingual-alignment cadence was **10 actual source records per iteration**; the final 9-record source-boundary exception is complete.
 - English editorial consistency review: **PASS — 64 / 64; 2 English-only consistency corrections (3397, 3422); 0 canonical Tamil changes / 0 new scan re-checks**. Durable report: `volumes/volume-42/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
-- Translation manifest/final release verification: **not started — next gate**.
+- Translation manifest/final release verification: **PASS / COMPLETE — 64 / 64 final-verified**.
+- Manifest: `volumes/volume-42/translations/en/TRANSLATION_MANIFEST.csv` — **64 rows / 64 unique source-record numbers / 64 unique English paths / 0 source-incomplete**.
+- Release report: `volumes/volume-42/translations/en/RELEASE_REPORT.md`.
+- Release-verification English body corrections: **0**; canonical Tamil changes: **0**.
 
-### Exact next activity
+### Volume 42 closure
 
-Perform the separate **Volume 42 final English release verification**. Create and reconcile `volumes/volume-42/translations/en/TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**; validate unique record identities and English paths; confirm source-checked, aligned and reviewed status for every row; verify every bilingual file and complete Tamil appendix; reconfirm the source number 3154 / no 3377, 3392 duplicated printing, 3419 PDF 357 source form, 3425 title-layer distinction, Letter 3427 closing at PDF 401 and PDF 402 as non-letter matter; create `volumes/volume-42/translations/en/RELEASE_REPORT.md`; then synchronize final-release status.
+**Volume 42 is COMPLETE / CLOSED through English final release.**
+
+- Tamil archival QA: **PASS / CLOSED**
+- English source-check: **64 / 64**
+- bilingual alignment: **64 / 64**
+- editorial consistency: **64 / 64 PASS**
+- final release verification: **64 / 64 PASS**
+- PDF 402 remains non-letter material; no Letter 3428 is created in Volume 42
+
+No further Volume 42 English QA or release gate remains pending.
 
 ## Series front matter optimization — 2026-09-19
 

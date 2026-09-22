@@ -1,4 +1,4 @@
-# Volume 42 English Translation Plan — SOURCE-CHECK + ALIGNMENT + EDITORIAL COMPLETE / FINAL RELEASE NEXT
+# Volume 42 English Translation Plan — FINAL RELEASE COMPLETE
 
 The three-letter pilot and all source-check batches are complete, Volume 42 translation conventions are locked, and **64 / 64 actual source records** are translated/source-checked.
 
@@ -14,7 +14,7 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
 - [x] Full-volume bilingual alignment — **COMPLETE — 64 / 64 aligned through 3427 / PDF 401**
 - [x] Volume-level English editorial review — **PASS — 64 / 64; 2 English-only corrections; 0 Tamil changes**
-- [ ] Translation manifest and final release report — **NEXT GATE**
+- [x] Translation manifest and final release report — **PASS — FINAL RELEASE COMPLETE 64 / 64**
 
 ## English progress
 
@@ -226,6 +226,19 @@ All **64 / 64 aligned bilingual records** were reviewed as one corpus: **PASS**.
 - Protected source-supplied English and documented source anomalies remain intact.
 - Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 
-## Current exact task — final English release verification
+## Final English release verification — COMPLETE
 
-Create and reconcile `translations/en/TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**. Validate unique record identities and English paths; confirm all rows are source-checked, aligned and editorially reviewed; verify every bilingual file and complete Tamil appendix; reconfirm the 3154 source-number anomaly, 3392 duplicate printing, 3425 title-layer distinction, final Letter 3427 boundary at PDF 401 and PDF 402 as non-letter matter; create `translations/en/RELEASE_REPORT.md`; then synchronize final-release status. Do not mark FINAL RELEASE COMPLETE until this gate passes.
+**PASS — 64 / 64 FINAL RELEASE COMPLETE.**
+
+- `translations/en/TRANSLATION_MANIFEST.csv`: **64 rows / 64 unique source-record numbers / 64 unique English paths**
+- source-incomplete rows: **0**
+- translated source coverage: **PDF 024–401**, gap-free and overlap-free
+- source-check: **64 / 64**
+- bilingual alignment: **64 / 64**
+- editorial review: **64 / 64**
+- final release verification: **64 / 64**
+- release-verification English body corrections: **0**
+- release-verification canonical Tamil changes: **0**
+- durable report: `translations/en/RELEASE_REPORT.md`
+
+No further Volume 42 English QA or release gate remains pending.

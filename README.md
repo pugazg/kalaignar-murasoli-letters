@@ -24,7 +24,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **64 / 64 source-checked; bilingual alignment 64 / 64 COMPLETE; editorial review PASS; final release verification next** |
+| 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **ENGLISH FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, reviewed and verified** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
 | 45 | 12.03.2011–27.09.2011 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS; combined correction tally 243 pages / 624 spans** | **55 / 55; 3537–3591** | **55 / 55 FINAL RELEASE COMPLETE** |
@@ -113,7 +113,7 @@ Manifest validation: **55 records; no duplicate letter numbers; no duplicate Eng
 
 Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.
 
-## Volume 42 — Tamil fidelity closed; English translation + alignment + editorial review complete; final release verification next
+## Volume 42 — Tamil fidelity closed; English FINAL RELEASE COMPLETE
 
 The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடிதங்கள்_தொகுதி_42.pdf`.
 
@@ -133,7 +133,9 @@ The controlling source is `TVA_BOK_0065826_கலைஞரின்_கடித
 - Bilingual meaning-level alignment: **COMPLETE — 64 / 64 aligned through 3427 / PDF 401; cumulative 39 English corrections / 0 canonical Tamil changes**.
 - Final alignment batch **3419–3427 / PDF 352–401**: **PASS — 9 / 9; 15 English corrections across 3419, 3423, 3425 and 3426; 0 unresolved alignment items**.
 - English editorial consistency review: **PASS — 64 / 64; 2 English-only consistency corrections in 3397 and 3422; 0 canonical Tamil changes / 0 new scan re-checks**.
-- Final English release verification: **not started — next gate**.
+- Final English release verification: **PASS / COMPLETE — 64 / 64**.
+- Release manifest: **64 rows / 64 unique source-record numbers / 64 unique English paths / 0 source-incomplete**.
+- Release-verification English body corrections: **0**; Tamil changes: **0**.
 - Bilingual-alignment cadence was **10 actual source records per iteration**; the final 9-record source-boundary exception is complete.
 
-See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, all Volume 42 English source-check reports through `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`, alignment reports through `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`, `volumes/volume-42/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`, `volumes/volume-42/PROGRESS.md`, and live `NEXT_CHAT_PROMPT.md`. Exact next activity: **Volume 42 final English release verification with manifest creation and release report**.
+See `volumes/volume-42/FULL_VOLUME_STRUCTURAL_AUDIT.md`, `volumes/volume-42/FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`, all Volume 42 English source-check reports through `volumes/volume-42/translations/en/SOURCE_CHECK_3422_3427.md`, alignment reports through `volumes/volume-42/translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`, `volumes/volume-42/translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`, `volumes/volume-42/translations/en/TRANSLATION_MANIFEST.csv`, `volumes/volume-42/translations/en/RELEASE_REPORT.md`, and `volumes/volume-42/PROGRESS.md`. **Volume 42 has no further English QA or release gate pending.**

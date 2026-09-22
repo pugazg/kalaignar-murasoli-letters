@@ -13,7 +13,7 @@
 - English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
 - Bilingual meaning-level alignment: **COMPLETE — 64 / 64 aligned — 3364–3376, 3154, 3378–3427 / PDF 024–401; 39 cumulative English corrections; 0 canonical Tamil changes**
 - English editorial consistency review: **PASS — 64 / 64; 2 English-only corrections; 0 canonical Tamil changes**
-- Final English release verification: **not started — next gate**
+- Final English release verification: **PASS / COMPLETE — 64 / 64 verified**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -431,6 +431,15 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 - Final English release verification: **not started — next gate**.
 
-## Exact next activity
+## Final English Release Verification — PASS
 
-Perform the separate **Volume 42 final English release verification**. Create and reconcile `translations/en/TRANSLATION_MANIFEST.csv` for exactly **64 actual source records — 3364–3376, 3154, 3378–3427**; verify every bilingual file and complete Tamil appendix; create `translations/en/RELEASE_REPORT.md`; then synchronize final-release status.
+- manifest: `translations/en/TRANSLATION_MANIFEST.csv` — **64 / 64 reconciled**
+- release report: `translations/en/RELEASE_REPORT.md`
+- final verified English: **64 / 64**
+- source-incomplete records: **0**
+- translated letter coverage: **PDF 024–401**
+- release-verification English body corrections: **0**
+- release-verification Tamil changes: **0**
+- PDF 402 remains non-letter material; no Letter 3428 is created
+
+**Volume 42 Tamil archival QA and English release QA are both COMPLETE / CLOSED.**

@@ -1,6 +1,6 @@
 # Volume 42 — English Glossary
 
-**Status:** locked after pilot review; extended through the final source record — **64 / 64 source-checked through 3427 COMPLETE**. Full-volume bilingual alignment is **COMPLETE — 64 / 64** and the English editorial consistency review is **PASS — 64 / 64**. Final release verification is the next gate.
+**Status:** locked after pilot review; extended through the final source record — **64 / 64 source-checked through 3427 COMPLETE**. Full-volume bilingual alignment is **COMPLETE — 64 / 64**, English editorial consistency review is **PASS — 64 / 64**, and English final release verification is **PASS / COMPLETE — 64 / 64**.
 
 | Tamil source form | English treatment | Note |
 |---|---|---|

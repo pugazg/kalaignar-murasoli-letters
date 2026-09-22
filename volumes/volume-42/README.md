@@ -35,7 +35,7 @@ The mandatory first transcription commit **PDF 001–025 is COMPLETE / PASS**. I
 
 ## English translation
 
-**MAIN TRANSLATION/SOURCE-CHECK COMPLETE.** English actual source records **3364–3376, 3154, 3378–3427** are translated and source-checked; **64 / 64** records are complete. The genuine 3154 numbering anomaly remains preserved. **Bilingual alignment is COMPLETE — 64 / 64 through 3427 / PDF 401. English editorial consistency review is PASS — 64 / 64; final release verification is next.**
+**ENGLISH FINAL RELEASE COMPLETE.** Actual source records **3364–3376, 3154, 3378–3427** are **64 / 64 source-checked, aligned, editorially reviewed and release-verified**. The genuine 3154 numbering anomaly remains preserved. Letter 3427 closes at PDF 401; PDF 402 remains non-letter matter.
 
 Second-pass fidelity gate: **PDF 001–402 / 402 VERIFIED / COMPLETE / CLOSED**. Cumulative canonical pages corrected: **85 — PDF 003, 004, 026, 029, 034, 036, 037, 044, 046, 053, 058, 060, 061, 063, 074, 075, 076, 077, 079, 080, 081, 083, 087, 090, 102, 103, 109, 111, 112, 116, 118, 119, 120, 122, 124, 126, 127, 128, 129, 132, 143, 144, 145, 146, 147, 151, 154, 157, 158, 162, 167, 179, 184, 187, 188, 195, 196, 209, 215, 216, 217, 218, 222, 223, 227, 231, 235, 255, 256, 266, 267, 283, 292, 293, 309, 316, 318, 342, 344, 357, 364, 368, 382, 399 and 400**. Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 
@@ -75,9 +75,15 @@ The normal alignment cadence was **10 actual source records per iteration**; the
 
 English Editorial Consistency Review: **PASS — 64 / 64; 2 English-only corrections (3397, 3422); 0 canonical Tamil changes; 0 new scan re-checks.** Durable report: `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`.
 
-## Exact next activity
+Final English release verification: **PASS — 64 / 64**.
 
-Perform the separate **Volume 42 final English release verification**. Create and reconcile `translations/en/TRANSLATION_MANIFEST.csv` for exactly **64 source records — 3364–3376, 3154, 3378–3427**; verify source-checked/aligned/reviewed state and complete Tamil appendices; create `translations/en/RELEASE_REPORT.md`; then synchronize final-release status.
+- manifest: `translations/en/TRANSLATION_MANIFEST.csv`
+- release report: `translations/en/RELEASE_REPORT.md`
+- source-incomplete records: **0**
+- release-verification English body corrections: **0**
+- release-verification Tamil changes: **0**
+
+No further Volume 42 English QA or release gate remains pending.
 
 ## PDF 001–017 shared front matter
 

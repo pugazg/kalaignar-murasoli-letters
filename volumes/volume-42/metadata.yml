@@ -37,12 +37,12 @@ second_visual_verification: "complete-pass"
 second_visual_verified_page_range: "1-402"
 textual_fidelity_audit_reports:
   - "FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-translation_status: "main-translation-complete; 64-of-64-source-checked; bilingual-alignment-complete; editorial-consistency-pass"
+translation_status: "final-release-complete; 64-of-64-source-checked-aligned-reviewed-verified"
 translated_letter_range: "3364-3376,3154,3378-3427"
 translated_letter_count: 64
 bilingual_alignment_status: "complete; 64-of-64-aligned-through-3427"
 editorial_consistency_review_status: "complete-pass; 64-of-64-reviewed; 2-english-only-corrections; 0-tamil-changes"
-english_release_status: "not-started"
+english_release_status: "complete-pass; 64-of-64-final-verified"
 source_observations:
   - "Front cover and title page identify Volume 42 and visible date span 31.01.2009-30.10.2009."
   - "Publication matter prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
@@ -78,6 +78,7 @@ source_observations:
   - "Bilingual Alignment 10-record Batch 6 PASS across 3409-3418 / PDF 295-351: 10 / 10 aligned; cumulative 55 / 64; 1 English correction in 3409 restoring the omitted source thought asking whether the TASMAC workers' demand was proper; 0 canonical Tamil changes; 0 unresolved alignment items. Only 9 records remain, so the final alignment batch is 3419-3427 / PDF 352-401."
   - "Bilingual Alignment FINAL 9-record source-boundary Batch PASS across 3419-3427 / PDF 352-401: 9 / 9 aligned; cumulative 64 / 64 COMPLETE; 15 English corrections across 4 records (3419, 3423, 3425, 3426); cumulative 39 English alignment corrections; 0 canonical Tamil changes; 0 unresolved alignment items. PDF 402 remains non-letter material. Next gate is the separate Volume 42 English editorial consistency review."
   - "Volume 42 English editorial consistency review PASS across all 64 aligned records: 2 English-only capitalization corrections (3397 State Government -> State government; 3422 Union government -> Union Government); 0 canonical Tamil changes; 0 new scan re-checks. Protected source-supplied English and documented source anomalies remain intact. Next gate is final English release verification with manifest creation and release report."
+  - "Volume 42 English final release verification PASS: TRANSLATION_MANIFEST.csv reconciled to 64 unique source records and 64 unique English paths; all 64 source-checked, aligned, reviewed and final-verified; translated source coverage PDF 024-401 gap-free/overlap-free; source-incomplete 0; release-verification English body corrections 0; Tamil changes 0; PDF 402 remains non-letter and no Letter 3428 is created."
   - "First normal five-letter batch 3365-3369 is complete and visually verified across PDF 028-055."
   - "Normal five-letter batch 3370-3374 is complete and visually verified across PDF 056-078."
   - "The five actual source records 3375, 3376, 3154, 3378 and 3379 are complete across PDF 079-112."
