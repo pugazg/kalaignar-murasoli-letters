@@ -1,6 +1,6 @@
 # Volume 42 — English translation
 
-**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT IN PROGRESS — 55 / 64 aligned through 3418 / PDF 351.**
+**Status:** **MAIN TRANSLATION/SOURCE-CHECK COMPLETE — 64 / 64; BILINGUAL ALIGNMENT COMPLETE — 64 / 64 through 3427 / PDF 401; ENGLISH EDITORIAL CONSISTENCY REVIEW NEXT.**
 
 Tamil prerequisites are complete:
 
@@ -202,6 +202,18 @@ Actual source records **3409–3418 / PDF 295–351**: **PASS — 10 / 10 aligne
 - cumulative aligned: **55 / 64**
 - durable report: [`BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`](BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md)
 
+## FINAL Bilingual Alignment source-boundary Batch completed
+
+Actual source records **3419–3427 / PDF 352–401**: **PASS — 9 / 9 aligned**.
+
+- English corrections: **15 across 4 records — 3419, 3423, 3425 and 3426**
+- cumulative English alignment corrections: **39**
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- cumulative aligned: **64 / 64 COMPLETE**
+- PDF 402 remains non-letter material; no Letter 3428
+- durable report: [BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md](BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md)
+
 ## Exact next activity
 
-Only **9 actual source records remain**. Perform the FINAL bilingual-alignment source-boundary batch **3419–3427 / PDF 352–401**. Stop after **3427 / PDF 401**; PDF 402 remains non-letter material.
+Perform the separate **Volume 42 English editorial consistency review** across all **64 / 64 aligned records**. Review cross-record title/front-matter agreement, names and honorifics, locked glossary forms, quantities, capitalization, punctuation/quotation treatment, source-supplied English, source anomalies and complete Tamil appendices. Create **EDITORIAL_CONSISTENCY_REVIEW.md**. Do not run translation-manifest/final-release verification in the same activity.

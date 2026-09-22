@@ -11,7 +11,7 @@ source_printed_page_end: 358
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3419. The Mother Who Bore Me, Praised by Perarignar!
@@ -27,11 +27,13 @@ bilingual_alignment_status: "not-started"
 
 Tamil Nadu Opposition Leader Jayalalithaa stated the previous day that she had received information that the Radhapuram bus stand would be named the **“Muthuvelar–Anjugathammal Bus Stand”** and that Deputy Chief Minister M. K. Stalin would open it on 13-10-2009.
 
+The author describes that statement itself as an example of what he regards as her haste and ignorance.
+
 The author says he immediately had the invitation for the Deputy Chief Minister’s programme brought to him. It contained no reference to a “Muthuvelar–Anjugathammal Bus Stand”; it simply described the event as the opening of the Radhapuram bus stand.
 
-He then obtained details from the District Collector. According to the source, the new bus stand in Radhapuram Village Panchayat was sanctioned under the 2007–2008 State Finance Commission Grant / Infrastructure Gap Filling Fund (**SFC-IGF**) at an estimated cost of **₹71.91 lakh**.
+He then obtained details from the District Collector. According to the source, the new bus stand in Radhapuram Village Panchayat was sanctioned under the 2007–2008 State Finance Commission Grant / Infrastructure Gap Filling Fund (**SFC-IGF**) at an estimated cost of **₹71.91 lakh**. The Collector’s account further says that administrative sanction was issued under the Tirunelveli District Collector’s proceedings, the work was completed, and the bus stand was ready to be opened.
 
-The site consisted of **90 cents of dry land** belonging to the Arulmigu Varagunapandeeswarar Temple. Its assessed value was **₹3,13,632**, and with an additional fifty per cent the total sale price was **₹4,70,448**. Radhapuram MLA Mr. Appavu paid that sum to the temple on **5-5-2007**, after which advance-entry permission was given and work began.
+Under proceedings of the Tamil Development and Culture Commissioner, permission was granted to sell **90 cents of dry land** belonging to the Arulmigu Varagunapandeeswarar Temple for the new bus stand. Its assessed value was **₹3,13,632**, and with an additional fifty per cent the total sale price was **₹4,70,448**. Radhapuram MLA Mr. Appavu paid that sum to the temple on **5-5-2007**, after which advance-entry permission was given and work began.
 
 When Mr. Appavu offered his own funds for the land purchase as donor, he requested that the bus stand be named the **Muthuvelar Anjugam Ammayar Memorial Bus Stand**. The Radhapuram Panchayat passed a resolution to that effect on **7-5-2007**.
 
@@ -41,12 +43,12 @@ The Collector sent these details to the government and sought a decision on the 
 
 Jayalalithaa’s statement, as described by the author, asked who Muthuvelar and Anjugathammal were, what sacrifice they had made for the country, and in what field they had distinguished themselves; it said that turning through history books had yielded no information about them.
 
-The author replies that his parents gave him to work day and night for the country and for Tamil people, and that this, in his view, was their sacrifice. He then turns to Legislative Assembly records to make a comparison with names used during Jayalalithaa’s period in office.
+The author replies that his parents gave him to work day and night for the country and for Tamil people, and that this, in his view, was their sacrifice. He adds sarcastically that if the history books were turned through, pages and pages could be found about Jayalalithaa’s own sacrifices and the field in which she had distinguished herself. He then asks why history books are needed and turns to Legislative Assembly records to make a comparison with names used during Jayalalithaa’s period in office.
 
 The source lists, among others:
 
-- **“Puratchi Thalaivi Dr. J. Jayalalithaa Transport Corporation”** — 6-4-1993.
-- A technology park at Ambattur to bear the Chief Minister’s name — 8-4-1994.
+- A new transport corporation for Tamil Nadu buses travelling to other States, named **“Puratchi Thalaivi Dr. J. Jayalalithaa Transport Corporation”** — 6-4-1993.
+- A technology park of about **29 acres** at Ambattur, which the source says would bear the name of the Chief Minister “worshipped by six crore people” — 8-4-1994.
 - **“J. J. Handloom Tower”** — 8-4-1994.
 - **“Puratchi Thalaivi Seermigu Higher School”** — 19-4-1994.
 - The **Dr. Puratchi Thalaivi Golden Cup Football Tournament for Women** — 19-4-1994.
@@ -57,12 +59,12 @@ The source lists, among others:
 - A wildlife sanctuary / national park described in the source as **“Dr. J. Jayalalithaa National Park, Mudumalai”** — 26-4-1994.
 - A new Chengai–MGR District Central Cooperative Bank building bearing her name — 30-4-1994.
 - A Labour Welfare Department office in Coimbatore, built at a cost of **₹60 lakh**, named **“Dr. Puratchi Thalaivi J. J. Maaligai”** — 30-4-1994.
-- **Jayalalithaa Film City** in Chennai.
+- **Jayalalithaa Film City** in Chennai, with the source presenting the naming as honouring her contribution to the growth of the film world.
 - The **“J. J. 92”** fragrant-rice variety, a **“Dr. Puratchi Thalaivi Award”** for agricultural officers, and a **“Dr. Puratchi Thalaivi Coconut Development Scheme”** — 19-4-1995.
 - **“Dr. Puratchi Thalaivi Women’s Livestock Cooperative Societies”** — 19-4-1995.
-- An education scheme, a best-teacher award scheme and a research-fellowship incentive scheme bearing Puratchi Thalaivi titles.
+- A spiritual-education scheme, a best-teacher award scheme and a research-fellowship incentive scheme bearing Puratchi Thalaivi titles.
 
-The author argues that when such naming took place, criticisms were heard, but now a village bus stand had not even received a government naming order and was being opened without any person’s name in the invitation.
+The author argues that when such naming took place, criticisms were heard, but now a village bus stand had not even received a government naming order and was being opened without any person’s name in the invitation. He says the people of Tamil Nadu should weigh Jayalalithaa on that basis.
 
 He next addresses whether public schemes may bear the names of people related to leaders. He cites examples from his governments:
 
@@ -75,11 +77,15 @@ He then quotes from Assembly proceedings dated **25-4-1995**, in which AIADMK Mi
 
 The author says he does not call that decision wrong. His point is the contrast between accepting a name connected with Jayalalithaa’s mother and mocking a proposed name connected with Karunanidhi’s mother.
 
+He adds that Jayalalithaa had no reason to know his parents because, in his wording, **“the world she lived in was different.”**
+
 He then reproduces part of what Perarignar Anna wrote when Anjugam died. In translation, Anna recalled her smiling eyes and toothless smile, and wrote that she became animated not on seeing family wealth or relatives, but on hearing news of the movement and its victories.
 
 Anna remembered her asking questions such as whether their party would obtain the mayoralty, what new law was coming, what the newspapers had reported about the party that day, and what they would do about cartoons mocking the party.
 
-He wrote that he had never seen another mother display such interest, and reflected that the affection and smile Karunanidhi received at home helped him participate in public life with a smile.
+He wrote that he had never seen another mother display such interest and quipped that perhaps it was because Karunanidhi possessed such **“motherly wealth”** that he had been given the name **“Nidhi”** (நிதி, “treasure”).
+
+Anna then asked what would have happened if a son like this had had a mother of a different disposition, writing that public life would have become **“filled with smoke.”** He reflected that the affection and smile Karunanidhi received at home helped him participate in public life with a smile.
 
 Anna ended the passage with the images:
 

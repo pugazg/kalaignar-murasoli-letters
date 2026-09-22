@@ -11,7 +11,7 @@
 - Full-volume structural audit: **PASS**
 - Second visual/textual-fidelity verification: **PASS / COMPLETE / CLOSED — PDF 001–402 / 402 verified**
 - English translation/source-check: **COMPLETE — 64 / 64 actual source records — 3364–3376, 3154, 3378–3427**
-- Bilingual meaning-level alignment: **IN PROGRESS — 55 / 64 aligned — 3364–3376, 3154, 3378–3418 / PDF 024–351**
+- Bilingual meaning-level alignment: **COMPLETE — 64 / 64 aligned — 3364–3376, 3154, 3378–3427 / PDF 024–401; 39 cumulative English corrections; 0 canonical Tamil changes**
 
 ## Final source-record batch 3425–3427 — PASS
 
@@ -405,6 +405,20 @@ Durable report: `FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md`.
 - Unresolved alignment items: **0**.
 - Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`.
 
+## Bilingual Alignment FINAL source-boundary Batch — 3419–3427 / PDF 352–401 — PASS
+
+- Records aligned: **9 / 9**.
+- Cumulative alignment: **64 / 64 COMPLETE — 3364–3376, 3154, 3378–3427**.
+- English corrections: **15 across 4 records — 3419, 3423, 3425, 3426**.
+- Cumulative English alignment corrections: **39**.
+- Canonical Tamil changes: **0**.
+- Unresolved alignment items: **0**.
+- PDF 402 remains non-letter material; no Letter 3428.
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
+- Full-volume bilingual meaning-level alignment: **COMPLETE — 64 / 64**.
+- English editorial consistency review: **not started — next gate**.
+- Translation manifest/final release verification: **not started**.
+
 ## Exact next activity
 
-Only **9 actual source records remain**. Perform the FINAL bilingual-alignment source-boundary batch **3419–3427 / PDF 352–401**. Stop after **3427 / PDF 401**. PDF 402 remains non-letter material.
+Perform the separate **Volume 42 English editorial consistency review** across all **64 aligned records**. Use the aligned English corpus, locked glossary and completed alignment reports; focus on cross-record consistency rather than redoing source alignment. Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Keep manifest/final-release verification as a later separate gate.

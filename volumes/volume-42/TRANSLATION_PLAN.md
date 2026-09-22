@@ -12,8 +12,8 @@ The three-letter pilot and all source-check batches are complete, Volume 42 tran
 - [x] Three-letter English pilot — **3364–3366**
 - [x] Pilot source-check / coverage review and locked conventions — **PASS**
 - [x] Main translation batches — **COMPLETE; 64 / 64 source-checked**
-- [ ] Full-volume bilingual alignment — **IN PROGRESS — 55 / 64 aligned through 3418**
-- [ ] Volume-level English editorial review
+- [x] Full-volume bilingual alignment — **COMPLETE — 64 / 64 aligned through 3427 / PDF 401**
+- [ ] Volume-level English editorial review — **NEXT GATE**
 - [ ] Translation manifest and final release report
 
 ## English progress
@@ -202,22 +202,22 @@ Actual source records **3409–3418 / PDF 295–351** — **PASS / 10 of 10 alig
 
 Cumulative bilingual alignment: **55 / 64 — 3364–3376, 3154, 3378–3418**.
 
-## Current exact task — FINAL bilingual-alignment source-boundary batch
+## Bilingual Alignment FINAL source-boundary Batch — COMPLETE
 
-Only **9 actual source records remain**, so this final iteration is a source-boundary exception to the normal 10-record cadence.
+Actual source records **3419–3427 / PDF 352–401** — **PASS / 9 of 9 aligned**.
 
-Align:
+- English corrections: **15 across 4 records — 3419, 3423, 3425, 3426**
+- Cumulative English alignment corrections: **39**
+- Canonical Tamil changes: **0**
+- Unresolved alignment items: **0**
+- Durable report: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
 
-- **3419 — PDF 352–359**
-- **3420 — PDF 360–364**
-- **3421 — PDF 365–373**
-- **3422 — PDF 374–377**
-- **3423 — PDF 378–379**
-- **3424 — PDF 380–385**
-- **3425 — PDF 386–388**
-- **3426 — PDF 389–395**
-- **3427 — PDF 396–401**
+Cumulative bilingual alignment: **64 / 64 COMPLETE — 3364–3376, 3154, 3378–3427 / PDF 024–401**.
 
-Create `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
+## Current exact task — Volume-level English editorial consistency review
 
-Stop after **3427 / PDF 401**. PDF **402** remains non-letter material.
+Review all **64 / 64 aligned English records** as one corpus. This is a separate cross-record consistency gate after meaning-level alignment, not a new translation pass.
+
+Check title/front-matter agreement, dates and PDF ranges, translator-note conventions, salutations/closings, names and honorifics, place-name and institutional forms, locked glossary terminology, Indian public-language quantities, capitalization, punctuation and quotation treatment, protected source-supplied English, documented source anomalies, and complete Tamil appendices.
+
+Create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Correct English only where a corpus-level inconsistency is demonstrated. Do not change canonical Tamil unless a concrete source defect is suspected and verified against the controlling scan. Keep translation manifest / final release verification as the later separate gate.

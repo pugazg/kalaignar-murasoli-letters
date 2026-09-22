@@ -1657,3 +1657,31 @@ Only **9 actual source records remain**, so the final bilingual-alignment iterat
 Editorial consistency review and final release verification remain later separate gates.
 
 **Next:** FINAL bilingual-alignment source-boundary batch **3419–3427 / PDF 352–401**. Stop at **3427 / PDF 401**; PDF 402 remains non-letter material.
+
+## 51. Bilingual Alignment FINAL source-boundary Batch — 3419–3427 / PDF 352–401
+
+**Date:** 2026-09-22  
+**Result:** **PASS — 9 / 9 aligned; full-volume bilingual alignment COMPLETE — 64 / 64**
+
+Durable review: `translations/en/BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`.
+
+### Result
+
+- records aligned: **9 / 9**;
+- cumulative bilingual alignment: **64 / 64 — 3364–3376, 3154, 3378–3427**;
+- English corrections: **15 across 4 records — 3419, 3423, 3425, 3426**;
+- cumulative English alignment corrections: **39**;
+- canonical Tamil changes exposed by alignment: **0**;
+- unresolved alignment items: **0**;
+- all nine records now carry `bilingual_alignment_status: aligned`;
+- source-supplied English in 3420 and 3425 remains verbatim;
+- locked **Classical Language**, **internal reservation** and **Arunthathiyar** terminology remains intact;
+- 3419 PDF 357 form **புறங்காந்திமடைந்து** remains unnormalised;
+- 3425 actual/contents title layers remain independent;
+- 3427 closes at PDF 401; PDF 402 remains non-letter material.
+
+Full-volume bilingual meaning-level alignment is now **COMPLETE — 64 / 64**.
+
+Editorial consistency review and final release verification remain separate gates.
+
+**Next:** Perform the separate **Volume 42 English editorial consistency review** across all 64 aligned records and create `translations/en/EDITORIAL_CONSISTENCY_REVIEW.md`. Do not perform manifest/final-release verification in the same activity.

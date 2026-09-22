@@ -11,7 +11,7 @@ source_printed_page_end: 394
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3426. The Long Journey Begun by the Justice Party!
@@ -35,7 +35,7 @@ He cites Tenkasi N. K. Riyabi’s book *Kavin Kavalar*. In the quoted recollecti
 
 > “My thanks for all the help you have given the Muslim community.”
 
-The quoted passage says Ismail Sahib then lost consciousness again and never regained it.
+The recollection says that on hearing those words Karunanidhi was overcome, his eyes filled, and he struggled without knowing what to say. Meanwhile Ismail Sahib’s eyes closed, he lost consciousness again and, the source says, never regained it.
 
 The author next lists measures he attributes to DMK governments:
 
@@ -57,7 +57,7 @@ The author also gives his account of Muslim political representation in Tamil Na
 
 He further states that the DMK nominated Tiruchi Janibai to the Legislative Council, made Janab Abdul Samad a Rajya Sabha Member, and that Periyakulam Meetha, Nellai Kathiravan and Sadiq Batcha became DMK MLAs in 1967.
 
-For the 2001–2006 AIADMK period, the letter says Anwar Raja served as the Muslim representative in the Cabinet for roughly the first six months and that there was no Muslim representative thereafter. For the DMK government formed in 2006, it names Ubayadullah and Maideen Khan as ministers.
+For the 2001–2006 AIADMK period, the letter says Anwar Raja served as the Muslim representative in the Cabinet for roughly the first six months and that there was no Muslim representative thereafter. For the DMK government formed in 2006, it names Ubayadullah and Maideen Khan as ministers. The author then states that, up to that point, there had never been a DMK Cabinet without Muslim-community representation.
 
 The letter then links the reservation question to the Justice Party era.
 
@@ -67,7 +67,7 @@ The source says a long-standing demand existed for separate reservation for Musl
 
 The government then referred the matter to the **Tamil Nadu Backward Classes Commission**, chaired by Justice Janarthanam. Based on population figures from the report of the **Tamil Nadu Second Backward Classes Commission** chaired by **J. A. Ambasankar**, the Commission recommended a **3.5 per cent separate reservation** for Muslims classified as Backward Classes.
 
-The Tamil Nadu government accepted that recommendation. On **15-9-2007**, an ordinance provided a **3.5 per cent separate reservation** for Muslims in the State Backward Classes list, carved out of the existing **30 per cent Backward Classes reservation**.
+The Tamil Nadu government accepted that recommendation. The source presents the measure as a gift for Perarignar Anna’s **99th birthday**. On **15-9-2007**, an ordinance provided a **3.5 per cent separate reservation** for Muslims in the State Backward Classes list, carved out of the existing **30 per cent Backward Classes reservation**.
 
 The author gives the following admission figures.
 
@@ -95,7 +95,7 @@ Across Anna University, government and government-aided colleges, and self-finan
 
 The source describes this as a **72 per cent increase** compared with the pre-reservation position.
 
-The author concludes that, in his framing, much more remained to be done and that the movement’s social-justice journey was a long one beginning in the Justice Party period.
+The author says he hopes the success then achieved through separate reservation would become the foundation for many further successes in the future. He concludes that, in his framing, much more remained to be done and that the movement’s social-justice journey was a long one beginning in the Justice Party period.
 
 **With affection,**  
 **M.K.**  

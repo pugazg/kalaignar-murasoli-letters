@@ -11,7 +11,7 @@ source_printed_page_end: 378
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3423. Let Us Sing: This Is a Day of Joy!
@@ -35,7 +35,7 @@ People who had read of fratricidal war in the story of the Pandavas and Kauravas
 
 He laments a formation that had set out to identify and strike the enemy but, after losing direction, turned upon and broke its own ranks.
 
-The letter condemns those whom the author portrays as waiting for fighting, deaths and piles of Tamil bodies before they could find the pitch for songs of lamentation, and says such people found satisfaction only after brothers had fallen dead on that soil.
+The letter calls such people **“Ettappans”** in the source’s rhetoric and says they waited for fighting, deaths and piles of Tamil bodies before they could find the pitch for songs of lamentation; it says they found satisfaction only after brothers had fallen dead on that soil.
 
 Yet after what he calls the graveyard silence, he says his mind finds some comfort in the fact that efforts to lift up and protect Tamil families left without support had achieved at least some success.
 

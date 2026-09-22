@@ -11,7 +11,7 @@ source_printed_page_end: 387
 translation_status: "source-checked"
 translation_method: "thought-preserving, non-literary"
 source_textual_fidelity_audit: "../../../FULL_VOLUME_TEXTUAL_FIDELITY_AUDIT.md"
-bilingual_alignment_status: "not-started"
+bilingual_alignment_status: "aligned"
 ---
 
 # 3425. Will They Regret It — Will They at Least Now Correct Themselves?
@@ -37,13 +37,13 @@ He says that for many years in Tamil Nadu there have been people who mock any co
 
 He argues that such attempts have repeatedly failed among an awakened Tamil public.
 
-The letter then uses strongly polemical language for groups the author says are determined to prevent any serious effort from benefiting Classical Tamil or Tamil-speaking people, and from allowing his side’s activities to reach the peak of success.
+The letter then uses strongly polemical language. The author describes one such group as a **“pack of little jackals”** and another as a crowd bowing at that pack’s feet; he says they are determined to prevent any serious effort from benefiting Classical Tamil or Tamil-speaking people, and from allowing his side’s activities to reach the peak of success.
 
 He says remnants of that tendency are still visible and gives as an example efforts by some “Nedumarans” in Tamil Nadu to prevent major Tamil scholars such as Sri Lankan Tamil scholar **K. Sivathamby** from attending the World Classical Tamil Conference.
 
 Such barriers, he says, will dissolve as quickly as sand embankments washed away by rainwater.
 
-The author then challenges the newspapers that had published what he calls the false report that Sivathamby would not attend.
+The author then challenges the newspapers that had published what he calls the false report that Sivathamby would not attend. In the source’s image, he accuses those papers of having **swallowed an indigestible lie and vomited it among the people**.
 
 He says that the same scholar had already indicated that he would come in advance for the conference’s academic work and had proposed five areas under the heading **Subject for Discussion**.
 

@@ -7,8 +7,8 @@
 - [x] Pilot source-check / coverage review — **PASS**
 - [x] Pilot translation conventions locked
 - [x] Main translation batches — **COMPLETE; Batch 1 + 10-record Batches 2–6 + final 6-record source-boundary batch**
-- [ ] Volume-level bilingual alignment — **IN PROGRESS — 55 / 64 aligned through 3418**
-- [ ] Editorial consistency review
+- [x] Volume-level bilingual alignment — **COMPLETE — 64 / 64 aligned through 3427 / PDF 401**
+- [ ] Editorial consistency review — **NEXT GATE**
 - [ ] Manifest / release report
 
 ## Current state
@@ -18,7 +18,10 @@
 - Tamil changes during all English source-check work: **0**
 - English source-check iterations completed after pilot: **7** — Batch 1 (3367–3371 / PDF 033–065), 10-record Batch 2 (3372–3376, 3154, 3378–3381 / PDF 066–130), 10-record Batch 3 (3382–3391 / PDF 131–208), 10-record Batch 4 (3392–3401 / PDF 209–259), 10-record Batch 5 (3402–3411 / PDF 260–310), 10-record Batch 6 (3412–3421 / PDF 311–373), and final 6-record source-boundary Batch (3422–3427 / PDF 374–401)
 - batching cadence going forward: **10 actual source records per iteration**
-- full-volume bilingual alignment: **55 / 64 aligned — 3364–3376, 3154, 3378–3418 / PDF 024–351**
+- full-volume bilingual alignment: **COMPLETE — 64 / 64 aligned — 3364–3376, 3154, 3378–3427 / PDF 024–401**
+- cumulative English alignment corrections: **39**
+- canonical Tamil changes during alignment: **0**
+- editorial consistency review: **not started — next gate**
 - release: **not started**
 
 ## Bilingual Alignment Batch 1 — PASS
@@ -83,6 +86,17 @@
 - unresolved alignment items: **0**
 - durable report: `BILINGUAL_ALIGNMENT_REVIEW_3409_3418.md`
 
+## FINAL Bilingual Alignment source-boundary Batch — PASS
+
+- aligned: **9 / 9 — 3419–3427 / PDF 352–401**
+- cumulative alignment: **64 / 64 COMPLETE**
+- English corrections: **15 across 4 records — 3419, 3423, 3425, 3426**
+- cumulative English alignment corrections: **39**
+- canonical Tamil changes: **0**
+- unresolved alignment items: **0**
+- PDF 402 remains non-letter material; no Letter 3428
+- durable report: `BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`
+
 ## Next
 
-Only **9 actual source records remain**. Perform the FINAL bilingual-alignment source-boundary batch **3419–3427 / PDF 352–401**. Create `BILINGUAL_ALIGNMENT_REVIEW_3419_3427.md`. Stop at **3427 / PDF 401**; PDF 402 remains non-letter material.
+Perform the separate **Volume 42 English editorial consistency review** across all **64 / 64 aligned records**. Focus on cross-record consistency rather than retranslating source meaning; preserve locked glossary terms, source-supplied English, source anomalies and complete Tamil appendices. Create `EDITORIAL_CONSISTENCY_REVIEW.md`. Do not perform manifest/final-release verification in the same gate.
