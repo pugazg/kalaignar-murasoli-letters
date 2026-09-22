@@ -24,7 +24,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 41 | 25.11.2007–21.01.2009 | 402 | **SOURCE INTAKE COMPLETE; Tamil transcription not started** | **0 / 58; provisional contents 3306–3363** | **BLOCKED pending Tamil archival gates** |
+| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–025 / 402 first-pass; contents 58 / 58; Letter 3306 partial** | **0 / 58 complete; 3306 partial** | **BLOCKED pending Tamil archival gates** |
 | 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **ENGLISH FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, reviewed and verified** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
@@ -114,20 +114,21 @@ Manifest validation: **55 records; no duplicate letter numbers; no duplicate Eng
 
 Historical intermediate alignment checkpoints have been removed from this root status document; durable review reports remain in their volume directories.
 
-## Volume 41 — source intake complete / ACTIVE
+## Volume 41 — Tamil transcription ACTIVE
 
 The controlling source is `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`.
 
-- Scan identity confirms **Volume 41** and visible date span **25.11.2007–21.01.2009**.
-- Publication matter prints **1st edition 2022**, **Seethai Pathippagam**, and **400 printed pages**.
-- Direct backing-file inspection confirms **402 physical PDF pages / 230,722,751 bytes**; SHA-256 is `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`.
-- The file-preview layer exposing 150 pages is a preview limit, not the source extent.
-- Printed contents occupy **PDF 018–022** and provisionally enumerate **58 records, 3306–3363**, with no numbering discontinuity identified at intake.
-- Letter **3306** begins **PDF 024 / printed 23** and continues beyond PDF 025; boundary reconnaissance places its close at PDF 033, with Letter 3307 beginning PDF 034.
-- Letter **3363** begins **PDF 398 / printed 397**, closes **PDF 401 / printed 400**, and PDF 402 is non-letter back-cover material.
-- Tamil canonical transcription: **NOT STARTED**.
-- English translation: **BLOCKED**.
-- Exact next activity: mandatory first transcription commit **PDF 001–025 exactly**.
+- Complete source: **402 physical PDF pages / 400 printed pages**.
+- SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`.
+- Canonical first-pass coverage: **PDF 001–025 / 402**.
+- PDF 001–004 are local Volume 41 front matter; PDF 004 preserves **அம்மாவுக்கு...**.
+- PDF 005–017 directly match the approved Volume 43 shared-front-matter source text and use shared references.
+- Printed contents PDF **018–022**: **58 / 58 rows transcribed — 3306–3363**.
+- PDF 023: blank / reverse show-through.
+- Letter **3306** begins PDF **024 / printed 23** and is transcribed through PDF **025 / printed 24**; status **partial**.
+- Intake reconnaissance places the close of 3306 at PDF **033 / printed 32**; Letter **3307** begins PDF **034 / printed 33**.
+- English remains **BLOCKED**.
+- Exact next activity: **complete Letter 3306 across PDF 026–033**, then stop before 3307.
 
 See `volumes/volume-41/AUDIT.md`, `volumes/volume-41/PROGRESS.md`, `volumes/volume-41/README.md`, and live `NEXT_CHAT_PROMPT.md`.
 

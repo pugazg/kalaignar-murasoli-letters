@@ -1,0 +1,30 @@
+---
+volume: 41
+letter_number: 3306
+title: "உடன்பிறப்பே, உன் இலட்சியப் பயணம் தொடரட்டும்!"
+date: null
+contents_date: "25-11-2007"
+date_status: "contents date only; actual closing/date pending"
+printed_page_start: 23
+printed_page_end: null
+pdf_page_start: 24
+pdf_page_end: null
+transcription_status: "partial"
+partial_through_pdf_page: 25
+---
+
+# 3306. உடன்பிறப்பே, உன் இலட்சியப் பயணம் தொடரட்டும்!
+
+**விளிப்பு:** உடன்பிறப்பே  
+**கையொப்பம்:** இன்னும் எட்டப்படவில்லை  
+**தேதி (மூல அச்சு):** இன்னும் எட்டப்படவில்லை  
+**நிலை:** partial — PDF 025 வரை
+
+## பக்க வரிசை
+
+1. [PDF பக்கம் 24 / அச்சுப் பக்கம் 23](../pages/page-024.md)
+2. [PDF பக்கம் 25 / அச்சுப் பக்கம் 24](../pages/page-025.md)
+
+Canonical உரை மேலுள்ள பக்கக் கோப்புகளில் உள்ளது; பக்க எல்லைகள் இழக்கப்படாத வகையில் இங்கு உரை நகலெடுக்கப்படவில்லை.
+
+**தொடர்ச்சி:** PDF **026** முதல் தொடர வேண்டும். Intake reconnaissance படி Letter 3306 PDF **033 / printed 32** வரை செல்கிறது; Letter 3307 PDF **034 / printed 33**-ல் தொடங்குகிறது.

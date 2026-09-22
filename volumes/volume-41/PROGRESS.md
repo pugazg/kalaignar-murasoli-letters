@@ -1,42 +1,43 @@
 # மின்னாக்க முன்னேற்றம் — தொகுதி 41
 
-## Source intake
+## Current state
 
-- [x] Volume **41** verified
-- [x] Date span **25.11.2007–21.01.2009**
-- [x] Seethai Pathippagam; **1st edition 2022**
-- [x] **400 printed pages**
-- [x] **402 physical PDF pages / 230,722,751 bytes**
-- [x] SHA-256 recorded
-- [x] Contents **PDF 018–022**
-- [x] Provisional inventory **58 rows / 3306–3363**
-- [x] First letter **3306 starts PDF 024 / printed 23**
-- [x] Final letter **3363 starts PDF 398 / printed 397; closes PDF 401 / printed 400**
-- [x] PDF 402 classified as non-letter back cover
-- [ ] Canonical Tamil transcription
-- [ ] Full-volume Tamil structural audit
-- [ ] Second visual/textual-fidelity verification
-- [ ] English translation
-- [ ] Bilingual alignment
-- [ ] Editorial/release gates
+- Source: **402 physical PDF pages / 400 printed pages**
+- Canonical first-pass pages: **PDF 001–025 / 402**
+- Printed contents: **58 / 58 rows transcribed**
+- Completed letters: **0 / 58**
+- Partial letter: **3306 through PDF 025 / printed 24**
+- Full-volume structural audit: **pending**
+- Second visual/textual-fidelity verification: **pending**
+- English translation: **blocked**
 
-## Current canonical state
+## Front matter / contents
 
-- Page files committed: **0**
-- Completed letters: **0**
-- Translation: **blocked**
+- PDF 001–004: local Volume 41 records
+- PDF 005–017: direct-verified shared references to Volume 43
+- PDF 018–022: contents complete
+- PDF 023: blank / show-through
+- PDF 024–025: Letter 3306
+
+## Batch 1
+
+**PASS — mandatory first transcription batch PDF 001–025 complete.**
+
+Letter 3306 remains partial by policy; the batch did not extend beyond PDF 25.
 
 ## Exact next activity
 
-Perform the mandatory first transcription iteration: **PDF 001–025 exactly**.
+Begin at **PDF 026** and finish Letter **3306** through its scan-verified close at **PDF 033 / printed page 32**.
 
-- apply `SERIES_FRONT_MATTER_POLICY.md` to PDF 001–017 only after direct visual comparison;
-- transcribe PDF 018–022 contents literally;
-- preserve PDF 023 as its actual blank/non-letter state;
-- transcribe PDF 024–025 from Letter **3306**;
-- create Letter 3306 as **partial**;
-- stop at PDF 025.
+Required scope:
 
-Required commit: `Transcribe Volume 41 PDF pages 001-025`
+- create `page-026.md` through `page-033.md`;
+- preserve page boundaries exactly;
+- verify closing, signature and date from the source;
+- change Letter 3306 chapter record from partial to complete;
+- update contents/chapter register, metadata, audit, progress and root controls;
+- stop before Letter **3307**, which begins **PDF 034 / printed page 33**.
 
-Afterward begin PDF 26 and finish Letter 3306 through PDF 33. Letter 3307 begins PDF 34.
+Required commit:
+
+`Complete Volume 41 letter 3306 — PDF pages 026-033`

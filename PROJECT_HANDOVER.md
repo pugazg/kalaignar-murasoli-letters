@@ -18,29 +18,22 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
 
-## Volume 41 — SOURCE INTAKE COMPLETE / ACTIVE
+## Volume 41 — TAMIL TRANSCRIPTION ACTIVE
 
 Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`
 
-- Volume identity: **41**
-- Visible date span: **25.11.2007–21.01.2009**
-- Publisher / edition: **Seethai Pathippagam; 1st edition 2022**
-- Printed pages: **400**
-- Physical PDF pages: **402**
-- Source bytes: **230,722,751**
+- Physical PDF pages: **402**; printed pages: **400**
 - SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
-- Preview limitation: UI may expose only **150** rendered pages; direct backing-file inspection confirms the complete **402-page** source.
-- Printed contents: **PDF 018–022**
-- Provisional inventory: **58 records, 3306–3363**, continuous numbering at intake
-- First source letter: **3306**, beginning **PDF 024 / printed 23**
-- Mandatory first-batch stop: **PDF 025 inside Letter 3306**
-- Reconnaissance: Letter 3306 closes PDF 033; Letter 3307 begins PDF 034
-- Final source letter: **3363**, PDF 398–401 / printed 397–400
-- PDF 402: non-letter back-cover / portrait / publisher-contact-price material
-- Tamil transcription: **not started**
+- Canonical first-pass coverage: **PDF 001–025 / 402**
+- PDF 001–004 local; PDF 005–017 direct-verified shared references to Volume 43
+- Printed contents: **58 / 58 rows complete — 3306–3363**
+- Letter **3306**: PDF 024–025 transcribed; **partial**
+- Next page: **PDF 026**
+- Boundary reconnaissance: Letter 3306 closes PDF 033 / printed 32; Letter 3307 begins PDF 034 / printed 33
 - English: **blocked**
+- Full-volume structural audit / second visual verification: **pending**
 
-**Exact next activity:** transcribe and visually verify **PDF 001–025 exactly**, applying the series front-matter policy to PDF 001–017, transcribing contents PDF 018–022 literally, preserving PDF 023, and leaving Letter 3306 partial after PDF 025.
+**Exact next activity:** complete Letter **3306** from PDF **026–033**, verify its closing/signature/date, mark the chapter complete, synchronize controls, and stop before Letter 3307 / PDF 034.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

@@ -1,58 +1,45 @@
-# தொகுதி 41 — source intake audit
+# தொகுதி 41 — source intake and batch audit
 
-**Intake date:** 2026-09-22  
 **Controlling attachment:** `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`
 
-This is a **source-intake audit only**. It is not the later full-volume Tamil structural audit and does not imply textual-fidelity completion.
+## Source identity
 
-## 1. Source identity
+- Volume: **41**
+- Visible date span: **25.11.2007–21.01.2009**
+- Publisher: **Seethai Pathippagam**
+- Edition: **1st edition, 2022**
+- Printed pages: **400**
+- Physical PDF pages: **402**
+- Source bytes: **230,722,751**
+- SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
+- Searchable text layer: **none usable; scan controls**
+- The UI's 150-page view is only a preview limitation.
 
-| Check | Intake result |
-|---|---|
-| Volume printed on scan | **41** |
-| Visible date span | **25.11.2007–21.01.2009** |
-| Publisher | **Seethai Pathippagam** |
-| Edition | **1st edition, 2022** |
-| Printed page statement | **400 pages** |
-| Controlling PDF pages | **402 physical PDF pages** |
-| Controlling PDF bytes | **230,722,751** |
-| Source SHA-256 | `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418` |
-| Usable parsed/searchable text layer | **none available; scan controls** |
+## Source inventory
 
-## 2. Source extent finding
+- Printed contents: **PDF 018–022**
+- Literal contents rows now transcribed: **58 / 58**
+- Printed number span: **3306–3363**
+- No contents-layer numbering discontinuity identified in this batch
+- First letter: **3306**, PDF 024 / printed 23
+- Final source reconnaissance: Letter 3363 PDF 398–401 / printed 397–400; PDF 402 non-letter
 
-**COMPLETE 402-PAGE SOURCE AVAILABLE.**
+## Batch 1 — mandatory PDF 001–025
 
-The file-preview layer exposes only the first **150 rendered pages**, but direct inspection of the backing PDF confirms **402 physical pages**. The preview limit is not the source extent.
+**Result: PASS — 25 / 25 page records created and visually checked.**
 
-## 3. Printed contents intake
+- PDF 001–003: Volume 41-specific cover/title/publication matter recorded locally.
+- PDF 004: local dedication **அம்மாவுக்கு...** preserved; it differs from Volume 43's recurring PDF 004.
+- PDF 005–017: direct visual comparison confirms the printed source text matches the approved Volume 43 shared reference; reference-only page records are used.
+- PDF 018–022: all **58** printed contents rows transcribed literally.
+- PDF 023: blank page with reverse-side contents show-through preserved.
+- PDF 024–025: Letter 3306 transcribed directly from scan.
+- No English work performed.
 
-- Printed contents: PDF **018–022**.
-- Provisional row count: **58**.
-- Printed number span: **3306–3363**.
-- Numbering appears continuous at intake; no source-number anomaly has been identified in the contents layer.
-- First printed start page: **23** for Letter 3306.
-- Final printed start page: **397** for Letter 3363.
+### Batch boundary
 
-## 4. First-batch boundary
+Letter **3306 — உடன்பிறப்பே, உன் இலட்சியப் பயணம் தொடரட்டும்!** is **partial** after PDF 025.
 
-- First source letter: **3306 — உடன்பிறப்பே, உன் இலட்சியப் பயணம் தொடரட்டும்!**
-- Start: **PDF 024 / printed page 23**.
-- Letter 3306 continues through PDF **033 / printed 32**; Letter 3307 begins PDF **034 / printed 33**.
-- PDF **025** is therefore inside Letter 3306.
+The next commit must begin at PDF **026** and finish this letter through PDF **033 / printed 32**. Letter **3307** begins PDF **034 / printed 33**.
 
-The mandatory first transcription commit must stop at PDF 25 and leave Letter 3306 **partial**.
-
-## 5. Final source boundary
-
-- Letter **3362** closes on PDF **397 / printed 396**, dated **20-1-2009**.
-- Letter **3363 — சொல்லில் செயலில் பண்பாடு!** begins PDF **398 / printed 397**.
-- Letter 3363 closes on PDF **401 / printed 400**, dated **21-1-2009**.
-- PDF **402** is non-letter back-cover / portrait / publisher-contact-price material.
-- No Letter **3364** belongs to Volume 41.
-
-## 6. Intake result
-
-**PASS — Volume 41 source intake is complete; Tamil transcription has not yet begun.**
-
-Next gate: **PDF 001–025 exactly**.
+This batch does not imply full-volume structural or second visual/textual-fidelity completion.

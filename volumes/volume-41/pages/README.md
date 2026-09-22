@@ -1,7 +1,11 @@
 # Volume 41 canonical pages
 
-No canonical page files have been committed yet.
+Canonical first-pass page files committed: **PDF 001–025 / 402**.
 
-First commit: **exactly page-001.md through page-025.md**. PDF 024 begins Letter 3306 and PDF 025 remains inside it.
+- PDF 001–004: local Volume 41 records; PDF 004 preserves local **அம்மாவுக்கு...** rather than the Volume 43 recurring dedication.
+- PDF 005–017: direct-verified shared-series front-matter references to Volume 43.
+- PDF 018–022: literal printed contents, **58 / 58 rows**.
+- PDF 023: blank / reverse-side show-through only.
+- PDF 024–025: Letter **3306**; transcription is partial and continues at PDF 026.
 
-Apply `SERIES_FRONT_MATTER_POLICY.md` to PDF 001–017 only after direct visual comparison.
+Next canonical page: **PDF 026**.
