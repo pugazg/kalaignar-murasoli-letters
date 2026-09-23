@@ -22,16 +22,16 @@ source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 series_front_matter_status: "first-pass-verified-pdf-001-017; pdf-001-004 local; pdf-005-017 shared-reference"
-transcription_page_range: "1-39"
+transcription_page_range: "1-50"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3306-3307"
-completed_letter_range: "3306-3307"
-completed_letter_count: 2
+recorded_letter_range: "3306-3308"
+completed_letter_range: "3306-3308"
+completed_letter_count: 3
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-intake-complete; pdf-001-039-first-pass-pass; full-volume-audit-pending"
+audit_status: "source-intake-complete; pdf-001-050-first-pass-pass; full-volume-audit-pending"
 audit_date: 2026-09-23
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -51,11 +51,12 @@ source_observations:
   - "Printed contents PDF 018-022 are transcribed completely: 58 rows / 3306-3363."
   - "Letter 3306 is complete at PDF 024-033 / printed 23-32 with scan-verified closing date 25-11-2007."
   - "Letter 3307 is complete at PDF 034-039 / printed 33-38; its actual heading matches the contents title and closes 26-11-2007."
-  - "PDF 040 / printed 39 directly confirms the start of Letter 3308."
+  - "Letter 3308 is complete at PDF 040-050 / printed 39-49; its actual heading matches the contents title and closes 27-11-2007."
+  - "PDF 051 / printed 50 directly confirms the start of Letter 3309."
   - "Final source reconnaissance: Letter 3363 PDF 398-401 / printed 397-400; PDF 402 non-letter back cover."
 contents_transcription_status: "complete-pdf-018-022"
-last_transcription_batch: "User-approved one-letter timing trial: Letter 3307 PDF 034-039"
-transcription_batching_note: "User requested 3-letter iterations; Letter 3307 was processed as a one-letter timing trial exception on 2026-09-23."
-next_transcription_page: 40
-next_letter_number: 3308
-next_normal_batch: "3308-3310"
+last_transcription_batch: "User-approved second one-letter timing trial: Letter 3308 PDF 040-050"
+transcription_batching_note: "User requested 3-letter normal iterations; Letters 3307 and 3308 were processed separately as one-letter timing trial exceptions on 2026-09-23."
+next_transcription_page: 51
+next_letter_number: 3309
+next_normal_batch: "3309-3311"

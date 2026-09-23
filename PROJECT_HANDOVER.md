@@ -24,20 +24,19 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - Physical PDF pages: **402**; printed pages: **400**
 - SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
-- Canonical first-pass coverage: **PDF 001–039 / 402**
+- Canonical first-pass coverage: **PDF 001–050 / 402**
 - Printed contents: **58 / 58 rows complete — 3306–3363**
-- Letter **3306**: **COMPLETE — PDF 024–033 / printed 23–32**, closing **25-11-2007**
-- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!**: **COMPLETE — PDF 034–039 / printed 33–38**
-- Letter 3307 actual heading matches the contents title; closing/date **அன்புள்ள, மு.க. — 26-11-2007**
-- Next source record: **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!**, scan-verified start PDF **040 / printed 39**
-- Completed letters: **2 / 58**
+- Letters **3306–3308**: **COMPLETE**
+- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!**: **PDF 040–050 / printed 39–49**, closing/date **அன்புள்ள, மு.க. — 27-11-2007**
+- Next source record: **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!**, scan-verified start PDF **051 / printed 50**
+- Completed letters: **3 / 58**
 - Partial letters: **0**
 - English: **blocked**
 - Full-volume structural audit / second visual verification: **pending**
-- User-requested operating cadence: **3 complete letters per iteration**
-- Letter 3307 was completed as a **one-letter timing trial**.
+- User-requested normal cadence: **3 complete letters per iteration**
+- Letters 3307 and 3308 were completed as **one-letter timing trials**.
 
-**Exact next activity:** process three-letter Tamil batch **3308–3310**, beginning PDF 040 and stopping at the verified end of Letter 3310.
+**Exact next activity:** process three-letter Tamil batch **3309–3311**, beginning PDF 051 and stopping at the verified end of Letter 3311.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

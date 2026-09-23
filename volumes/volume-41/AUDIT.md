@@ -56,13 +56,26 @@
 - this one-letter batch is a user-approved timing trial; it does not change the repository-wide batching policy
 - no English work performed
 
+## Batch 4 — user-approved second one-letter timing trial / Letter 3308 / PDF 040–050
+
+**PASS — 11 / 11 pages transcribed and visually checked.**
+
+- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!**
+- actual heading matches the printed contents title
+- complete source range: **PDF 040–050 / printed 39–49**
+- actual closing/date: **அன்புள்ள, மு.க. — 27-11-2007**
+- chapter state: **complete**
+- PDF **051 / printed 50** directly confirms the start of Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!**
+- this one-letter batch is the user's second timing trial; it does not change the repository-wide batching policy
+- no English work performed
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–039 / 402**
-- completed letters: **2 / 58 — 3306–3307**
+- canonical first-pass coverage: **PDF 001–050 / 402**
+- completed letters: **3 / 58 — 3306–3308**
 - partial letters: **0**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**
 
-Current user-requested operating cadence is **three complete letters per iteration**. After this one-letter timing trial, the next normal three-letter batch is **3308–3310**, beginning PDF 040.
+Current user-requested operating cadence remains **three complete letters per iteration**. Letters 3307 and 3308 were processed separately as one-letter timing trials. The next normal three-letter batch is **3309–3311**, beginning PDF 051.
