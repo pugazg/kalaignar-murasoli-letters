@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 41 / three-letter batch 3309–3311
+# NEXT CHAT PROMPT — Volume 41 / Letter 3310 only
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,18 +8,17 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - source SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
 - source extent: **402 physical PDF pages / 400 printed pages**
-- canonical first-pass coverage: **PDF 001–050 / 402**
+- canonical first-pass coverage: **PDF 001–060 / 402**
 - contents: **58 / 58 rows transcribed — 3306–3363**
-- Letters **3306–3308**: **COMPLETE**
-- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!**: **PDF 040–050 / printed 39–49**
-- 3308 actual heading matches the printed contents title
-- 3308 actual closing/date: **அன்புள்ள, மு.க. — 27-11-2007**
-- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!** begins **PDF 051 / printed 50**
-- completed letters: **3 / 58 — 3306–3308**
+- Letters **3306–3309**: **COMPLETE**
+- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!**: **PDF 051–060 / printed 50–59**
+- 3309 actual heading matches the printed contents title
+- 3309 actual closing/date: **அன்புள்ள, மு.க. — 28-11-2007**
+- Letter **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!** begins **PDF 061 / printed 60**
+- completed letters: **4 / 58 — 3306–3309**
 - partial letters: **0**
 - English remains blocked
-- user-requested normal cadence: **3 complete letters per iteration**
-- Letters 3307 and 3308 were processed separately as **one-letter timing trials**
+- current chat cadence: **1 complete letter per iteration**
 
 ## Read first
 
@@ -35,23 +34,17 @@ Refetch live `main` before editing and immediately before commit.
 
 ## Exact activity
 
-Process the next **three complete letters**:
+Process **Letter 3310 only**.
 
-**3309, 3310, 3311**
-
-Start at **PDF 051 / printed 50**.
-
-For each record:
+Start at **PDF 061 / printed 60**.
 
 - verify actual source title separately from the contents title;
 - transcribe every physical page exactly from scan;
 - preserve source spelling, punctuation, quotations, figures and page boundaries;
 - verify closing/signature/date;
-- create a chapter record only after actual boundaries are established;
-- do not infer the next boundary from contents alone.
+- create the chapter record only after the actual boundary is established;
+- verify the start of Letter 3311 from the scan.
 
-Stop after the verified end of **Letter 3311**. Do not begin Letter 3312 in the same commit.
+Stop after the verified end of **Letter 3310**. Do not begin Letter 3311 in the same commit.
 
 Update all applicable Volume 41 and root control documents atomically. English remains blocked.
-
-Commit message should state the actual completed letter range and PDF page span.

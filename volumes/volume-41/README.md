@@ -15,15 +15,13 @@
 
 ## Current Tamil state
 
-- canonical first-pass pages: **001–050 / 402**
+- canonical first-pass pages: **001–060 / 402**
 - printed contents: **58 / 58 rows complete**
 - source-record inventory: **3306–3363**
-- completed letters: **3 / 58 — 3306–3308**
+- completed letters: **4 / 58 — 3306–3309**
 - partial letters: **0**
-- Letter 3306: **PDF 024–033 / printed 23–32**, closed **25-11-2007**
-- Letter 3307: **PDF 034–039 / printed 33–38**, closed **26-11-2007**
-- Letter 3308: **PDF 040–050 / printed 39–49**, closed **27-11-2007**
-- next letter: **3309**, scan-verified start **PDF 051 / printed 50**
+- Letter 3309: **PDF 051–060 / printed 50–59**, closed **28-11-2007**
+- next letter: **3310**, scan-verified start **PDF 061 / printed 60**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity verification: **pending**
 
@@ -33,6 +31,6 @@
 
 ## Exact next activity
 
-Current user-requested cadence is **three complete letters per normal iteration**. Letters 3307 and 3308 were processed separately as one-letter timing trials.
+Current chat cadence is **one complete letter per iteration**.
 
-Next normal batch: **3309–3311**, beginning at PDF 051 and stopping at the verified close of Letter 3311.
+Process **Letter 3310 only**, beginning at PDF 061 and stopping at its verified close.

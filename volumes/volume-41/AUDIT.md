@@ -69,13 +69,26 @@
 - this one-letter batch is the user's second timing trial; it does not change the repository-wide batching policy
 - no English work performed
 
+## Batch 5 — Letter 3309 / PDF 051–060
+
+**PASS — 10 / 10 pages transcribed and visually checked.**
+
+- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!**
+- actual heading matches the printed contents title
+- complete source range: **PDF 051–060 / printed 50–59**
+- actual closing/date: **அன்புள்ள, மு.க. — 28-11-2007**
+- chapter state: **complete**
+- PDF **061 / printed 60** directly confirms the start of Letter **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!**
+- current chat is proceeding one complete letter at a time
+- no English work performed
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–050 / 402**
-- completed letters: **3 / 58 — 3306–3308**
+- canonical first-pass coverage: **PDF 001–060 / 402**
+- completed letters: **4 / 58 — 3306–3309**
 - partial letters: **0**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**
 
-Current user-requested operating cadence remains **three complete letters per iteration**. Letters 3307 and 3308 were processed separately as one-letter timing trials. The next normal three-letter batch is **3309–3311**, beginning PDF 051.
+Next activity: process **Letter 3310 only**, beginning PDF 061 and stopping at its verified closing boundary.

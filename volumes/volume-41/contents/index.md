@@ -68,7 +68,8 @@ The table below preserves the contents wording, dates and printed start pages ex
 ## Canonical boundary state
 
 - Letter **3306** is scan-verified and canonically complete at **PDF 024–033 / printed 23–32**, dated **25-11-2007**.
-- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!** is scan-verified and canonically complete at **PDF 034–039 / printed 33–38**, dated **26-11-2007**. Its actual source heading matches the printed contents title.
-- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!** is scan-verified and canonically complete at **PDF 040–050 / printed 39–49**, dated **27-11-2007**. Its actual source heading matches the printed contents title.
-- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!** is scan-verified to begin at **PDF 051 / printed 50**; canonical transcription of 3309 has not yet begun.
+- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!** is scan-verified and canonically complete at **PDF 034–039 / printed 33–38**, dated **26-11-2007**.
+- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!** is scan-verified and canonically complete at **PDF 040–050 / printed 39–49**, dated **27-11-2007**.
+- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!** is scan-verified and canonically complete at **PDF 051–060 / printed 50–59**, dated **28-11-2007**. Its actual source heading matches the printed contents title.
+- Letter **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!** is scan-verified to begin at **PDF 061 / printed 60**; canonical transcription of 3310 has not yet begun.
 - Later contents rows remain printed-contents evidence only until their actual source pages are reached.

@@ -24,7 +24,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–050 / 402 first-pass; contents 58 / 58** | **3 / 58 complete — 3306–3308** | **BLOCKED pending Tamil archival gates** |
+| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–060 / 402 first-pass; contents 58 / 58** | **4 / 58 complete — 3306–3309** | **BLOCKED pending Tamil archival gates** |
 | 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **ENGLISH FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, reviewed and verified** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
@@ -120,15 +120,15 @@ The controlling source is `TVA_BOK_0065825_கலைஞரின்_கடித
 
 - Complete source: **402 physical PDF pages / 400 printed pages**.
 - SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`.
-- Canonical first-pass coverage: **PDF 001–050 / 402**.
+- Canonical first-pass coverage: **PDF 001–060 / 402**.
 - Printed contents PDF **018–022**: **58 / 58 rows transcribed — 3306–3363**.
-- Letters **3306–3308** are complete.
-- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!** is complete at **PDF 040–050 / printed 39–49**. Its actual heading matches the contents title; closing **அன்புள்ள, மு.க. — 27-11-2007**.
-- PDF **051 / printed 50** directly confirms the start of Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!**.
-- Completed letters: **3 / 58**; partial letters: **0**.
+- Letters **3306–3309** are complete.
+- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!** is complete at **PDF 051–060 / printed 50–59**. Its actual heading matches the contents title; closing **அன்புள்ள, மு.க. — 28-11-2007**.
+- PDF **061 / printed 60** directly confirms the start of Letter **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!**.
+- Completed letters: **4 / 58**; partial letters: **0**.
 - English remains **BLOCKED**.
-- User-requested normal cadence is **three complete letters per iteration**; Letters 3307 and 3308 were completed separately as one-letter timing trials.
-- Exact next activity: three-letter transcription batch **3309–3311**, starting PDF 051.
+- Current chat cadence is **one complete letter per iteration**.
+- Exact next activity: **Letter 3310 only**, starting PDF 061.
 
 See `volumes/volume-41/AUDIT.md`, `volumes/volume-41/PROGRESS.md`, `volumes/volume-41/README.md`, and live `NEXT_CHAT_PROMPT.md`.
 
