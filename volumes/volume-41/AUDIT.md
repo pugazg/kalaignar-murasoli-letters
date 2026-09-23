@@ -41,15 +41,28 @@
 - complete source range: **PDF 024–033 / printed 23–32**
 - actual closing/date: **அன்புள்ள, மு.க. — 25-11-2007**
 - chapter state: **complete**
-- PDF **034 / printed 33** directly confirms the start of Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!**
+- no English work performed
+
+## Batch 3 — user-approved one-letter timing trial / Letter 3307 / PDF 034–039
+
+**PASS — 6 / 6 pages transcribed and visually checked.**
+
+- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!**
+- actual heading matches the printed contents title
+- complete source range: **PDF 034–039 / printed 33–38**
+- actual closing/date: **அன்புள்ள, மு.க. — 26-11-2007**
+- chapter state: **complete**
+- PDF **040 / printed 39** directly confirms the start of Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!**
+- this one-letter batch is a user-approved timing trial; it does not change the repository-wide batching policy
 - no English work performed
 
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–033 / 402**
-- completed letters: **1 / 58**
+- canonical first-pass coverage: **PDF 001–039 / 402**
+- completed letters: **2 / 58 — 3306–3307**
 - partial letters: **0**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
+- English: **blocked**
 
-Next activity: normal five-letter iteration **3307–3311**, beginning PDF 034.
+Current user-requested operating cadence is **three complete letters per iteration**. After this one-letter timing trial, the next normal three-letter batch is **3308–3310**, beginning PDF 040.

@@ -68,5 +68,6 @@ The table below preserves the contents wording, dates and printed start pages ex
 ## Canonical boundary state
 
 - Letter **3306** is scan-verified and canonically complete at **PDF 024–033 / printed 23–32**, dated **25-11-2007**.
-- Letter **3307** actual heading is scan-verified at **PDF 034 / printed 33**; canonical transcription of 3307 has not yet begun.
+- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!** is scan-verified and canonically complete at **PDF 034–039 / printed 33–38**, dated **26-11-2007**. Its actual source heading matches the printed contents title.
+- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!** is scan-verified to begin at **PDF 040 / printed 39**; canonical transcription of 3308 has not yet begun.
 - Later contents rows remain printed-contents evidence only until their actual source pages are reached.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 41 / normal five-letter batch 3307–3311
+# NEXT CHAT PROMPT — Volume 41 / three-letter batch 3308–3310
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,14 +8,18 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - source SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
 - source extent: **402 physical PDF pages / 400 printed pages**
-- canonical first-pass coverage: **PDF 001–033 / 402**
+- canonical first-pass coverage: **PDF 001–039 / 402**
 - contents: **58 / 58 rows transcribed — 3306–3363**
-- Letter **3306**: **COMPLETE — PDF 024–033 / printed 23–32**
-- actual closing/date: **அன்புள்ள, மு.க. — 25-11-2007**
-- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!** begins **PDF 034 / printed 33**
-- completed letters: **1 / 58**
+- Letter **3306**: **COMPLETE — PDF 024–033 / printed 23–32**, closing **25-11-2007**
+- Letter **3307 — உறவு வேலி உறுதிப்பட வாரீர் திருநெல்வேலி!**: **COMPLETE — PDF 034–039 / printed 33–38**
+- 3307 actual heading matches the printed contents title
+- 3307 actual closing/date: **அன்புள்ள, மு.க. — 26-11-2007**
+- Letter **3308 — பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ!** begins **PDF 040 / printed 39**
+- completed letters: **2 / 58 — 3306–3307**
 - partial letters: **0**
 - English remains blocked
+- user-requested cadence: **3 complete letters per iteration**
+- Letter 3307 was processed separately as a **one-letter timing trial**
 
 ## Read first
 
@@ -31,11 +35,11 @@ Refetch live `main` before editing and immediately before commit.
 
 ## Exact activity
 
-Process the first normal **five-letter** transcription iteration:
+Process the next **three complete letters**:
 
-**3307, 3308, 3309, 3310, 3311**
+**3308, 3309, 3310**
 
-Start at **PDF 034 / printed 33**.
+Start at **PDF 040 / printed 39**.
 
 For each record:
 
@@ -46,7 +50,7 @@ For each record:
 - create a chapter record only after actual boundaries are established;
 - do not infer the next boundary from contents alone.
 
-Stop after the verified end of **Letter 3311**. Do not begin Letter 3312 in the same commit.
+Stop after the verified end of **Letter 3310**. Do not begin Letter 3311 in the same commit.
 
 Update all applicable Volume 41 and root control documents atomically. English remains blocked.
 
