@@ -21,18 +21,20 @@ source_full_volume_received: true
 source_searchable_text_layer: false
 series_front_matter_zone: "PDF 001-017"
 series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
+source_authority_policy: "SOURCE_AUTHORITY_POLICY.md"
+source_authority_status: "scan-only; outside-source-comparison-prohibited-by-default"
 series_front_matter_status: "first-pass-verified-pdf-001-017; pdf-001-004 local; pdf-005-017 shared-reference"
-transcription_page_range: "1-60"
+transcription_page_range: "1-69"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3306-3309"
-completed_letter_range: "3306-3309"
-completed_letter_count: 4
+recorded_letter_range: "3306-3310"
+completed_letter_range: "3306-3310"
+completed_letter_count: 5
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-intake-complete; pdf-001-060-first-pass-pass; full-volume-audit-pending"
-audit_date: 2026-09-23
+audit_status: "source-intake-complete; pdf-001-069-first-pass-pass-with-unresolved-scan-only-markers; full-volume-audit-pending"
+audit_date: 2026-09-24
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
 textual_fidelity_audit_reports: []
@@ -53,11 +55,15 @@ source_observations:
   - "Letter 3307 is complete at PDF 034-039 / printed 33-38; its actual heading matches the contents title and closes 26-11-2007."
   - "Letter 3308 is complete at PDF 040-050 / printed 39-49; its actual heading matches the contents title and closes 27-11-2007."
   - "Letter 3309 is complete at PDF 051-060 / printed 50-59; its actual heading matches the contents title and closes 28-11-2007."
-  - "PDF 061 / printed 60 directly confirms the start of Letter 3310."
+  - "Letter 3310 is boundary-complete at PDF 061-069 / printed 60-68; actual heading matches contents and closing is 29-11-2007."
+  - "Letter 3310 first-pass canonical pages retain 34 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
+  - "PDF 070 / printed 69 directly confirms the start of Letter 3311."
   - "Final source reconnaissance: Letter 3363 PDF 398-401 / printed 397-400; PDF 402 non-letter back cover."
+first_pass_unresolved_scan_only_markers: 34
+first_pass_unresolved_letter: 3310
 contents_transcription_status: "complete-pdf-018-022"
-last_transcription_batch: "Letter 3309 PDF 051-060"
+last_transcription_batch: "Letter 3310 PDF 061-069"
 transcription_batching_note: "Current chat cadence is one complete letter per iteration."
-next_transcription_page: 61
-next_letter_number: 3310
-next_normal_batch: "3310"
+next_transcription_page: 70
+next_letter_number: 3311
+next_normal_batch: "3311"

@@ -82,13 +82,30 @@
 - current chat is proceeding one complete letter at a time
 - no English work performed
 
+## Batch 6 — Letter 3310 / PDF 061–069
+
+**PASS — 9 / 9 physical pages represented and visually checked from the controlling scan only.**
+
+- Letter **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!**
+- actual heading matches the printed contents title
+- complete source range: **PDF 061–069 / printed 60–68**
+- actual closing/date: **அன்புள்ள, மு.க. — 29-11-2007**
+- PDF **070 / printed 69** directly confirms the start of Letter **3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**
+- source-authority compliance: **PASS — no web search, outside edition, blog, Wikisource/Wikipedia, mirror, secondary quotation or parallel-source reconstruction used**
+- unresolved scan-only markers retained in canonical pages: **34**
+- unresolved markers are intentional first-pass archival placeholders under `SOURCE_AUTHORITY_POLICY.md`; they are not supplied from outside sources
+- chapter boundary state: **complete**
+- later second visual/textual-fidelity verification remains **pending**
+- no English work performed
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–060 / 402**
-- completed letters: **4 / 58 — 3306–3309**
+- canonical first-pass coverage: **PDF 001–069 / 402**
+- completed letters: **5 / 58 — 3306–3310**
 - partial letters: **0**
+- first-pass unresolved scan-only markers in Letter 3310: **34**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**
 
-Next activity: process **Letter 3310 only**, beginning PDF 061 and stopping at its verified closing boundary.
+Next activity: process **Letter 3311 only**, beginning PDF 070 / printed 69 and stopping at its verified closing boundary. Outside-source comparison remains prohibited unless the user explicitly requests it.

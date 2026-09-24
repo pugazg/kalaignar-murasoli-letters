@@ -16,7 +16,7 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 ## Source authority
 
-The controlling scan controls Tamil readings. Audited canonical Tamil is the immediate English-QA source. OCR, translations, contents pages, outside sources and inferred chronology may not silently override the scan.
+`SOURCE_AUTHORITY_POLICY.md` is mandatory. The controlling scan is the sole textual authority for canonical Tamil. Outside-source comparison/web research must not be used to reconstruct, verify, correct or fill Tamil source wording unless the user explicitly requests such a comparison. If the target scan remains unclear, retain `[தெளிவில்லை]`.
 
 ## Volume 41 — TAMIL TRANSCRIPTION ACTIVE
 
@@ -24,18 +24,19 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - Physical PDF pages: **402**; printed pages: **400**
 - SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
-- Canonical first-pass coverage: **PDF 001–060 / 402**
+- Canonical first-pass coverage: **PDF 001–069 / 402**
 - Printed contents: **58 / 58 rows complete — 3306–3363**
-- Letters **3306–3309**: **COMPLETE**
-- Letter **3309 — அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா!**: **PDF 051–060 / printed 50–59**, closing/date **அன்புள்ள, மு.க. — 28-11-2007**
-- Next source record: **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!**, scan-verified start PDF **061 / printed 60**
-- Completed letters: **4 / 58**
+- Letters **3306–3310**: **boundary-complete first-pass records**
+- Letter **3310 — மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை!**: **PDF 061–069 / printed 60–68**, closing/date **அன்புள்ள, மு.க. — 29-11-2007**
+- Letter 3310 retains **34** explicit scan-only `[தெளிவில்லை]` markers; **no outside-source comparison used**
+- Next source record: **3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**, scan-verified start PDF **070 / printed 69**
+- Completed letters: **5 / 58**
 - Partial letters: **0**
 - English: **blocked**
 - Full-volume structural audit / second visual verification: **pending**
 - Current chat cadence: **1 complete letter per iteration**
 
-**Exact next activity:** process **Letter 3310 only**, beginning PDF 061 and stopping at its verified close.
+**Exact next activity:** process **Letter 3311 only**, beginning PDF 070 and stopping at its verified close. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 
