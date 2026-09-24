@@ -154,12 +154,23 @@
 - current cadence: **2 complete letters per iteration**
 - English: **blocked**
 
+## Batch 11 — Letters 3316–3317 / PDF 115–131
+
+**PASS — 17 / 17 physical pages represented and visually checked from the controlling scan only.**
+
+- Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**: PDF **115–124 / printed 114–123**, closes **27-12-2007**, unresolved markers **78**
+- Letter **3317 — வலிவோடும் பொலிவோடும் வளர்ப்போம் கழகத்தை!**: PDF **125–131 / printed 124–130**, closes **9-1-2008**, unresolved markers **19**
+- PDF **132 / printed 131** begins Letter **3318 — மடலும் மருந்தின் துளிகளும்!**
+- source-authority compliance: **PASS — target scan only; no outside-source comparison**
+- current cadence: **2 complete letters per iteration**
+- English: **blocked**
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–114 / 402**
-- completed letters: **10 / 58 — 3306–3315**
+- canonical first-pass coverage: **PDF 001–131 / 402**
+- completed letters: **12 / 58 — 3306–3317**
 - partial letters: **0**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 
-Next activity: process **Letters 3316–3317**, beginning PDF 115 and stopping at the verified end of Letter 3317.
+Next activity: process **Letters 3318–3319**, beginning PDF 132 and stopping at the verified end of Letter 3319.

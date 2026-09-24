@@ -26,4 +26,11 @@ Letters **3314–3315** are complete at their scan-verified physical boundaries.
 
 The next source record is **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**, scan-verified to begin at **PDF 115 / printed 114**.
 
+| 3316 | வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி! | 115–124 | 114–123 | **complete — 78 scan-only unresolved markers** |
+| 3317 | வலிவோடும் பொலிவோடும் வளர்ப்போம் கழகத்தை! | 125–131 | 124–130 | **complete — 19 scan-only unresolved markers** |
+
+Letters **3316–3317** are complete at their scan-verified physical boundaries.
+
+The next source record is **3318 — மடலும் மருந்தின் துளிகளும்!**, scan-verified to begin at **PDF 132 / printed 131**.
+
 Current chat cadence is **two complete letters per iteration**.

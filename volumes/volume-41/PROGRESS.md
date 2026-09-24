@@ -3,25 +3,25 @@
 ## Current state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical first-pass pages: **PDF 001–114 / 402**
+- Canonical first-pass pages: **PDF 001–131 / 402**
 - Printed contents: **58 / 58 rows transcribed**
-- Completed letters: **10 / 58 — 3306–3315**
+- Completed letters: **12 / 58 — 3306–3317**
 - Partial letter: **none**
-- Letter 3314 unresolved scan-only markers: **54**
-- Letter 3315 unresolved scan-only markers: **29**
+- Letter 3316 unresolved scan-only markers: **78**
+- Letter 3317 unresolved scan-only markers: **19**
 - Full-volume structural audit: **pending**
 - Second visual/textual-fidelity verification: **pending**
 - English translation: **blocked**
 
 ## Latest iteration
 
-- Letter **3314**: **PDF 101–109 / printed 100–108 — PASS**
-- Letter **3315**: **PDF 110–114 / printed 109–113 — PASS**
-- PDF **115 / printed 114** begins **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**
+- Letter **3316**: **PDF 115–124 / printed 114–123 — PASS**
+- Letter **3317**: **PDF 125–131 / printed 124–130 — PASS**
+- PDF **132 / printed 131** begins **3318 — மடலும் மருந்தின் துளிகளும்!**
 - Source-authority rule followed: **target scan only; no outside-source comparison**
 
 ## Exact next activity
 
 Current chat cadence is **two complete letters per iteration**.
 
-Process **Letters 3316 and 3317**, beginning **PDF 115 / printed 114**, and stop at the verified closing boundary of Letter 3317. Do not begin Letter 3318 in the same commit.
+Process **Letters 3318 and 3319**, beginning **PDF 132 / printed 131**, and stop at the verified closing boundary of Letter 3319. Do not begin Letter 3320 in the same commit.

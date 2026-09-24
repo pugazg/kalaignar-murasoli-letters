@@ -20,17 +20,17 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 ## Volume 41 — TAMIL TRANSCRIPTION ACTIVE
 
-- Canonical first-pass coverage: **PDF 001–114 / 402**
+- Canonical first-pass coverage: **PDF 001–131 / 402**
 - Printed contents: **58 / 58 rows — 3306–3363**
-- Completed letters: **10 / 58 — 3306–3315**
-- Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**: PDF **101–109**, closes **6-12-2007**
-- Letter **3315 — நெல்லை இளைஞர் மாநாடு; இல்லை அதற்கோர் ஈடு!**: PDF **110–114**, closes **19-12-2007**
-- Next: **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**, PDF **115**
+- Completed letters: **12 / 58 — 3306–3317**
+- Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**: PDF **115–124**, closes **27-12-2007**
+- Letter **3317 — வலிவோடும் பொலிவோடும் வளர்ப்போம் கழகத்தை!**: PDF **125–131**, closes **9-1-2008**
+- Next: **3318 — மடலும் மருந்தின் துளிகளும்!**, PDF **132**
 - Source authority: **scan only; no outside-source comparison**
 - Current cadence: **2 complete letters per iteration**
 - English blocked
 
-**Exact next activity:** process **3316–3317** and stop after 3317.
+**Exact next activity:** process **3318–3319** and stop after 3319.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

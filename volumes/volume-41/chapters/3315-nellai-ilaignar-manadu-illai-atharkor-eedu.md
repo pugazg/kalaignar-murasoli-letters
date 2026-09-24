@@ -30,4 +30,4 @@ source_fidelity_note: "First-pass source-only transcription; 29 unresolved scan-
 
 **முந்தைய பதிவு:** [3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!](3314-maruthuva-thuraiyil-magathana-sadhanaigal.md)
 
-**அடுத்த பதிவு:** 3316 — `வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!` — scan-verified start at PDF 115 / அச்சுப் பக்கம் 114.
+**அடுத்த பதிவு:** [3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!](3316-vaimai-aatchi-vazhangum-vanna-tholaikkatchi.md)

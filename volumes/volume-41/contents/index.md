@@ -77,5 +77,7 @@ The table below preserves the contents wording, dates and printed start pages ex
 - Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”** is scan-verified through its closing at **PDF 089–100 / printed 88–99**, dated **2-12-2007**. Its actual heading matches the printed contents title. Its first-pass pages retain **144** scan-only `[தெளிவில்லை]` markers under the no-outside-source policy.
 - Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!** is scan-verified through its closing at **PDF 101–109 / printed 100–108**, dated **6-12-2007**.
 - Letter **3315 — நெல்லை இளைஞர் மாநாடு; இல்லை அதற்கோர் ஈடு!** is scan-verified through its closing at **PDF 110–114 / printed 109–113**, dated **19-12-2007**.
-- Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!** is scan-verified to begin at **PDF 115 / printed 114**; canonical transcription of 3316 has not yet begun.
+- Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!** is scan-verified through its closing at **PDF 115–124 / printed 114–123**, dated **27-12-2007**.
+- Letter **3317 — வலிவோடும் பொலிவோடும் வளர்ப்போம் கழகத்தை!** is scan-verified through its closing at **PDF 125–131 / printed 124–130**, dated **9-1-2008**.
+- Letter **3318 — மடலும் மருந்தின் துளிகளும்!** is scan-verified to begin at **PDF 132 / printed 131**; canonical transcription of 3318 has not yet begun.
 - Later contents rows remain printed-contents evidence only until their actual source pages are reached.
