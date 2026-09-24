@@ -32,4 +32,4 @@ source_fidelity_note: "First-pass source-only transcription; 19 unresolved scan-
 
 **முந்தைய பதிவு:** [3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!](3316-vaimai-aatchi-vazhangum-vanna-tholaikkatchi.md)
 
-**அடுத்த பதிவு:** 3318 — `மடலும் மருந்தின் துளிகளும்!` — scan-verified start at PDF 132 / அச்சுப் பக்கம் 131.
+**அடுத்த பதிவு:** [3318 — மடலும் மருந்தின் துளிகளும்!](3318-madalum-marundhin-thuligalum.md)

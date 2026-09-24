@@ -1,6 +1,6 @@
 # Volume 41 canonical pages
 
-Canonical first-pass page files committed: **PDF 001–131 / 402**.
+Canonical first-pass page files committed: **PDF 001–150 / 402**.
 
 - PDF 001–004: local Volume 41 records.
 - PDF 005–017: direct-verified shared-series front-matter references.
@@ -18,8 +18,11 @@ Canonical first-pass page files committed: **PDF 001–131 / 402**.
 - PDF 110–114: Letter **3315**, boundary-complete first pass with **29** explicit scan-only `[தெளிவில்லை]` markers.
 - PDF 115–124: Letter **3316**, boundary-complete first pass with **78** explicit scan-only `[தெளிவில்லை]` markers.
 - PDF 125–131: Letter **3317**, boundary-complete first pass with **19** explicit scan-only `[தெளிவில்லை]` markers.
-- PDF 132 is scan-verified as the start of Letter **3318**, but is not yet a canonical page file.
+- PDF 132–135: Letter **3318**, complete first pass.
+- PDF 136–142: Letter **3319**, complete first pass.
+- PDF 143–150: Letter **3320**, **partial** first pass; continuation begins PDF 151.
+- Direct page rendering in this chat is unavailable after PDF 150; no unseen text is inferred.
 
 Source-authority rule: target scan controls; outside-source comparison is prohibited unless explicitly requested.
 
-Next canonical page: **PDF 132**.
+Next canonical page: **PDF 151**.

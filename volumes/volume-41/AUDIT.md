@@ -165,12 +165,29 @@
 - current cadence: **2 complete letters per iteration**
 - English: **blocked**
 
+## Batch 12 — requested five-letter iteration 3318–3322 / current-chat source limit
+
+**PARTIAL / SOURCE-VIEW BLOCKED AFTER PDF 150.**
+
+Completed from the controlling scan only:
+
+- Letter **3318 — மடலும் மருந்தின் துளிகளும்!**: PDF **132–135 / printed 131–134**, closes **20-1-2008**, unresolved markers **18**
+- Letter **3319 — நடுவண் அரசுக்கு நமது வேண்டுகோள்!**: PDF **136–142 / printed 135–141**, closes **6-2-2008**, unresolved markers **21**
+- Letter **3320 — குறைகுடம் கூத்தாடும் என்பது பழமொழி!**: scan-verified start at **PDF 143 / printed 142**; first-pass pages **143–150** represented, unresolved markers **49**, but the letter remains **PARTIAL**
+
+The current ChatGPT page-rendering layer for the controlling attachment exposes only PDF **001–150**. PDF 151 onward is not directly renderable in this chat. Under `SOURCE_AUTHORITY_POLICY.md`, no closing/date/boundary for 3320 and no text for 3321–3322 is inferred from contents or outside sources.
+
+- source-authority compliance: **PASS — target scan only; no outside-source comparison**
+- user cadence is now **5 complete letters per iteration**
+- English: **blocked**
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–131 / 402**
-- completed letters: **12 / 58 — 3306–3317**
-- partial letters: **0**
+- canonical first-pass coverage: **PDF 001–150 / 402**
+- completed letters: **14 / 58 — 3306–3319**
+- partial letter: **3320 — PDF 143–150 transcribed; continuation begins PDF 151**
+- Letters 3321–3322: **not started**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 
-Next activity: process **Letters 3318–3319**, beginning PDF 132 and stopping at the verified end of Letter 3319.
+Next activity: resume **Letter 3320 at PDF 151** once those direct scan pages are available; then continue the five-letter cadence without inferring any unseen text.

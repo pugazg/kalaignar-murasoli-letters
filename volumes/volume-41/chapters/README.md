@@ -33,4 +33,9 @@ Letters **3316–3317** are complete at their scan-verified physical boundaries.
 
 The next source record is **3318 — மடலும் மருந்தின் துளிகளும்!**, scan-verified to begin at **PDF 132 / printed 131**.
 
-Current chat cadence is **two complete letters per iteration**.
+| 3318 | மடலும் மருந்தின் துளிகளும்! | 132–135 | 131–134 | **complete — 18 scan-only unresolved markers** |
+| 3319 | நடுவண் அரசுக்கு நமது வேண்டுகோள்! | 136–142 | 135–141 | **complete — 21 scan-only unresolved markers** |
+
+Letter **3320 — குறைகுடம் கூத்தாடும் என்பது பழமொழி!** has canonical page records only through **PDF 150** and remains **partial**. No chapter record is created until its actual closing boundary is directly verified.
+
+Current user-set cadence is **five complete letters per iteration**; this iteration is source-view blocked after PDF 150.

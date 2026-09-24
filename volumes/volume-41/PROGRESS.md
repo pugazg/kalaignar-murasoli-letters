@@ -3,25 +3,32 @@
 ## Current state
 
 - Source: **402 physical PDF pages / 400 printed pages**
-- Canonical first-pass pages: **PDF 001–131 / 402**
+- Canonical first-pass pages: **PDF 001–150 / 402**
 - Printed contents: **58 / 58 rows transcribed**
-- Completed letters: **12 / 58 — 3306–3317**
-- Partial letter: **none**
-- Letter 3316 unresolved scan-only markers: **78**
-- Letter 3317 unresolved scan-only markers: **19**
+- Completed letters: **14 / 58 — 3306–3319**
+- Partial letter: **3320 — PDF 143–150 / printed 142–149 represented; continues on PDF 151**
+- Letter 3318 unresolved scan-only markers: **18**
+- Letter 3319 unresolved scan-only markers: **21**
+- Letter 3320 partial unresolved scan-only markers through PDF 150: **49**
 - Full-volume structural audit: **pending**
 - Second visual/textual-fidelity verification: **pending**
 - English translation: **blocked**
 
 ## Latest iteration
 
-- Letter **3316**: **PDF 115–124 / printed 114–123 — PASS**
-- Letter **3317**: **PDF 125–131 / printed 124–130 — PASS**
-- PDF **132 / printed 131** begins **3318 — மடலும் மருந்தின் துளிகளும்!**
-- Source-authority rule followed: **target scan only; no outside-source comparison**
+The user requested a **five-letter cadence** beginning with 3318–3322.
+
+Direct scan processing completed:
+- **3318** — PDF 132–135 — complete
+- **3319** — PDF 136–142 — complete
+- **3320** — PDF 143–150 — partial
+
+Current ChatGPT scan rendering stops at PDF 150 even though the controlling source itself is recorded as 402 physical pages. Therefore 3320 cannot be closed and 3321–3322 cannot be started safely in this chat without additional directly viewable scan pages.
+
+No outside source was used and no unseen boundary was inferred.
 
 ## Exact next activity
 
-Current chat cadence is **two complete letters per iteration**.
+Cadence: **5 complete letters per iteration**.
 
-Process **Letters 3318 and 3319**, beginning **PDF 132 / printed 131**, and stop at the verified closing boundary of Letter 3319. Do not begin Letter 3320 in the same commit.
+Resume **3320 from PDF 151** as soon as direct scan pages 151 onward are available. Complete 3320 before creating its chapter record, then continue sequentially. Do not infer text, closing dates or boundaries from contents alone.

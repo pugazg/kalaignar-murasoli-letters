@@ -79,5 +79,8 @@ The table below preserves the contents wording, dates and printed start pages ex
 - Letter **3315 — நெல்லை இளைஞர் மாநாடு; இல்லை அதற்கோர் ஈடு!** is scan-verified through its closing at **PDF 110–114 / printed 109–113**, dated **19-12-2007**.
 - Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!** is scan-verified through its closing at **PDF 115–124 / printed 114–123**, dated **27-12-2007**.
 - Letter **3317 — வலிவோடும் பொலிவோடும் வளர்ப்போம் கழகத்தை!** is scan-verified through its closing at **PDF 125–131 / printed 124–130**, dated **9-1-2008**.
-- Letter **3318 — மடலும் மருந்தின் துளிகளும்!** is scan-verified to begin at **PDF 132 / printed 131**; canonical transcription of 3318 has not yet begun.
+- Letter **3318 — மடலும் மருந்தின் துளிகளும்!** is scan-verified through its closing at **PDF 132–135 / printed 131–134**, dated **20-1-2008**.
+- Letter **3319 — நடுவண் அரசுக்கு நமது வேண்டுகோள்!** is scan-verified through its closing at **PDF 136–142 / printed 135–141**, dated **6-2-2008**.
+- Letter **3320 — குறைகுடம் கூத்தாடும் என்பது பழமொழி!** is scan-verified to begin at **PDF 143 / printed 142** and is transcribed only through **PDF 150 / printed 149** in the current chat. Its actual closing boundary has **not** been verified.
+- Contents rows for **3321 — திரை விலகிடும் தெளிவாகும் புள்ளிவிவரம்!** and **3322 — இடையில் வீழ்ந்து, எழுந்த இன்பத் தமிழகம்!** remain contents evidence only; canonical source transcription has not begun because their source pages are not directly viewable here.
 - Later contents rows remain printed-contents evidence only until their actual source pages are reached.

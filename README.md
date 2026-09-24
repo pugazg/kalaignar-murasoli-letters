@@ -26,7 +26,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–131 / 402 first-pass; contents 58 / 58** | **12 / 58 complete — 3306–3317** | **BLOCKED pending Tamil archival gates** |
+| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–150 / 402 first-pass; 3320 partial through PDF 150; contents 58 / 58** | **14 / 58 complete — 3306–3319** | **BLOCKED pending Tamil archival gates** |
 | 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **ENGLISH FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, reviewed and verified** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
@@ -118,13 +118,14 @@ Historical intermediate alignment checkpoints have been removed from this root s
 
 ## Volume 41 — Tamil transcription ACTIVE
 
-- Canonical first-pass coverage: **PDF 001–131 / 402**.
-- Completed letters: **12 / 58 — 3306–3317**.
-- 3316: PDF **115–124**, closing **27-12-2007**.
-- 3317: PDF **125–131**, closing **9-1-2008**.
+- Canonical first-pass coverage: **PDF 001–150 / 402**.
+- Completed letters: **14 / 58 — 3306–3319**.
+- 3318: PDF **132–135**, closing **20-1-2008**.
+- 3319: PDF **136–142**, closing **6-2-2008**.
+- 3320: **partial — PDF 143–150 represented; continues at PDF 151**.
+- Current ChatGPT scan renderer exposes only through PDF 150; no unseen text/boundaries were inferred.
 - Source-authority compliance: **target scan only; no outside-source comparison**.
-- PDF **132** begins **3318 — மடலும் மருந்தின் துளிகளும்!**.
-- Current cadence: **2 complete letters per iteration**.
+- User-set cadence: **5 complete letters per iteration**.
 - English remains **BLOCKED**.
 
 ## Volume 42 — Tamil fidelity closed; English FINAL RELEASE COMPLETE

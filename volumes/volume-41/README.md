@@ -15,11 +15,11 @@
 
 ## Current Tamil state
 
-- canonical first-pass pages: **001–131 / 402**
+- canonical first-pass pages: **001–150 / 402**
 - printed contents: **58 / 58 rows complete**
 - source-record inventory: **3306–3363**
-- completed letters: **12 / 58 — 3306–3317**
-- partial letters: **0**
+- completed letters: **14 / 58 — 3306–3319**
+- partial letters: **1 — 3320 through PDF 150**
 - Letter 3310: **PDF 061–069 / printed 60–68**, closed **29-11-2007**, **34** unresolved scan-only markers
 - Letter 3311: **PDF 070–080 / printed 69–79**, closed **30-11-2007**, **59** unresolved scan-only markers
 - Letter 3312: **PDF 081–088 / printed 80–87**, closed **1-12-2007**, **61** unresolved scan-only markers
@@ -28,7 +28,10 @@
 - Letter 3315: **PDF 110–114 / printed 109–113**, closed **19-12-2007**, **29** unresolved scan-only markers
 - Letter 3316: **PDF 115–124 / printed 114–123**, closed **27-12-2007**, **78** unresolved scan-only markers
 - Letter 3317: **PDF 125–131 / printed 124–130**, closed **9-1-2008**, **19** unresolved scan-only markers
-- next letter: **3318**, scan-verified start **PDF 132 / printed 131**
+- Letter 3318: **PDF 132–135 / printed 131–134**, closed **20-1-2008**, **18** unresolved scan-only markers
+- Letter 3319: **PDF 136–142 / printed 135–141**, closed **6-2-2008**, **21** unresolved scan-only markers
+- Letter 3320: **PARTIAL — PDF 143–150 / printed 142–149 represented; continues on PDF 151**
+- current ChatGPT scan view ends at PDF 150; do not infer unseen continuation
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity verification: **pending**
 
@@ -38,6 +41,6 @@
 
 ## Exact next activity
 
-Current chat cadence is **two complete letters per iteration**.
+Current user-set cadence is **five complete letters per iteration**.
 
-Process **Letters 3318–3319**, beginning at PDF 132 and stopping at the verified close of Letter 3319. If a reading is unclear in the controlling scan, retain `[தெளிவில்லை]`; do not use outside-source comparison.
+Resume **Letter 3320 at PDF 151** when direct scan pages 151 onward are available. Complete it before creating a chapter record, then continue sequentially under the five-letter cadence.

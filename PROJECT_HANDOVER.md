@@ -20,17 +20,18 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 ## Volume 41 — TAMIL TRANSCRIPTION ACTIVE
 
-- Canonical first-pass coverage: **PDF 001–131 / 402**
-- Printed contents: **58 / 58 rows — 3306–3363**
-- Completed letters: **12 / 58 — 3306–3317**
-- Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**: PDF **115–124**, closes **27-12-2007**
-- Letter **3317 — வலிவோடும் பொலிவோடும் வளர்ப்போம் கழகத்தை!**: PDF **125–131**, closes **9-1-2008**
-- Next: **3318 — மடலும் மருந்தின் துளிகளும்!**, PDF **132**
+- Canonical first-pass coverage: **PDF 001–150 / 402**
+- Completed letters: **14 / 58 — 3306–3319**
+- Letter **3318** complete: PDF 132–135, closing **20-1-2008**
+- Letter **3319** complete: PDF 136–142, closing **6-2-2008**
+- Letter **3320 — குறைகுடம் கூத்தாடும் என்பது பழமொழி!**: **PARTIAL — PDF 143–150 represented; continues at PDF 151**
+- No 3320 chapter record yet; actual closing boundary not verified
+- Current chat's direct scan rendering stops after PDF 150; no unseen text was inferred
 - Source authority: **scan only; no outside-source comparison**
-- Current cadence: **2 complete letters per iteration**
-- English blocked
+- User-set cadence: **5 complete letters per iteration**
+- English: **blocked**
 
-**Exact next activity:** process **3318–3319** and stop after 3319.
+**Exact next activity:** resume 3320 from PDF 151 when those scan pages are directly available, then continue the five-letter cadence.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

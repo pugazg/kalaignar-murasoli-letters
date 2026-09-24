@@ -24,16 +24,16 @@ series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 source_authority_policy: "SOURCE_AUTHORITY_POLICY.md"
 source_authority_status: "scan-only; outside-source-comparison-prohibited-by-default"
 series_front_matter_status: "first-pass-verified-pdf-001-017; pdf-001-004 local; pdf-005-017 shared-reference"
-transcription_page_range: "1-131"
+transcription_page_range: "1-150"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3306-3317"
-completed_letter_range: "3306-3317"
-completed_letter_count: 12
-partial_letter: null
+recorded_letter_range: "3306-3320"
+completed_letter_range: "3306-3319"
+completed_letter_count: 14
+partial_letter: 3320
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-intake-complete; pdf-001-131-first-pass-pass-with-unresolved-scan-only-markers; full-volume-audit-pending"
+audit_status: "source-intake-complete; pdf-001-150-first-pass-in-progress; current-chat-page-render-blocked-after-150; full-volume-audit-pending"
 audit_date: 2026-09-24
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -45,6 +45,7 @@ bilingual_alignment_status: "not-started"
 editorial_consistency_review_status: "not-started"
 english_release_status: "not-started"
 source_observations:
+  - "Current ChatGPT page rendering exposes only PDF 001-150; this is a tooling/view limit, not a source-extent claim. No unseen text may be inferred."
   - "Front cover and title page identify Volume 41 and visible date span 25.11.2007-21.01.2009."
   - "Publication matter prints 1st edition 2022, Seethai Pathippagam, and 400 printed pages."
   - "Direct inspection confirms 402 physical PDF pages / 230722751 bytes; the 150-page preview limit is not the source extent."
@@ -68,11 +69,11 @@ source_observations:
 first_pass_unresolved_scan_only_markers: 34
 first_pass_unresolved_letter: 3310
 contents_transcription_status: "complete-pdf-018-022"
-last_transcription_batch: "Letters 3316-3317 PDF 115-131"
-transcription_batching_note: "Current chat cadence is two complete letters per iteration."
-next_transcription_page: 132
-next_letter_number: 3318
-next_normal_batch: "3318-3319"
+last_transcription_batch: "3318-3319 complete + 3320 partial PDF 132-150"
+transcription_batching_note: "User-set cadence is five complete letters per iteration; current iteration is blocked by direct scan rendering after PDF 150."
+next_transcription_page: 151
+next_letter_number: 3320
+next_normal_batch: "resume 3320, then continue five-letter cadence"
 
 first_pass_unresolved_letter_3311: 59
 
@@ -85,3 +86,7 @@ first_pass_unresolved_letter_3315: 29
 
 first_pass_unresolved_letter_3316: 78
 first_pass_unresolved_letter_3317: 19
+
+first_pass_unresolved_letter_3318: 18
+first_pass_unresolved_letter_3319: 21
+first_pass_unresolved_letter_3320_partial_through_pdf150: 49
