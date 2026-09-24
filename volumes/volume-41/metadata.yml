@@ -58,7 +58,7 @@ source_observations:
   - "Letter 3310 is boundary-complete at PDF 061-069 / printed 60-68; actual heading matches contents and closing is 29-11-2007."
   - "Letter 3310 first-pass canonical pages retain 34 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
   - "Letter 3311 is boundary-complete at PDF 070-080 / printed 69-79; actual heading matches contents and closing is 30-11-2007."
-  - "Letter 3311 first-pass canonical pages retain 70 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
+  - "Letter 3311 first-pass canonical pages retain 59 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
   - "PDF 081 / printed 80 directly confirms the start of Letter 3312."
   - "Final source reconnaissance: Letter 3363 PDF 398-401 / printed 397-400; PDF 402 non-letter back cover."
 first_pass_unresolved_scan_only_markers: 34
@@ -70,4 +70,4 @@ next_transcription_page: 81
 next_letter_number: 3312
 next_normal_batch: "3312"
 
-first_pass_unresolved_letter_3311: 70
+first_pass_unresolved_letter_3311: 59

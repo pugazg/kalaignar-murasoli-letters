@@ -108,7 +108,7 @@
 - actual closing/date: **அன்புள்ள, மு.க. — 30-11-2007**
 - PDF **081 / printed 80** directly confirms the start of Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**
 - source-authority compliance: **PASS — no web search, outside edition, blog, Wikisource/Wikipedia, mirror, secondary quotation or parallel-source reconstruction used**
-- unresolved scan-only markers retained in Letter 3311 canonical pages: **70**
+- unresolved scan-only markers retained in Letter 3311 canonical pages: **59**
 - chapter boundary state: **complete**
 - later second visual/textual-fidelity verification remains **pending**
 - no English work performed
@@ -118,7 +118,7 @@
 - canonical first-pass coverage: **PDF 001–080 / 402**
 - completed letters: **6 / 58 — 3306–3311**
 - partial letters: **0**
-- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 70**
+- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 59**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**

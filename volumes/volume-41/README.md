@@ -21,7 +21,7 @@
 - completed letters: **6 / 58 — 3306–3311**
 - partial letters: **0**
 - Letter 3310: **PDF 061–069 / printed 60–68**, closed **29-11-2007**, **34** unresolved scan-only markers
-- Letter 3311: **PDF 070–080 / printed 69–79**, closed **30-11-2007**, **70** unresolved scan-only markers
+- Letter 3311: **PDF 070–080 / printed 69–79**, closed **30-11-2007**, **59** unresolved scan-only markers
 - next letter: **3312**, scan-verified start **PDF 081 / printed 80**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity verification: **pending**

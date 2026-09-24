@@ -10,7 +10,7 @@ printed_page_end: 79
 pdf_page_start: 70
 pdf_page_end: 80
 transcription_status: "complete"
-source_fidelity_note: "First-pass source-only transcription; 70 unresolved scan-only markers remain for later direct visual fidelity review. No outside-source comparison used."
+source_fidelity_note: "First-pass source-only transcription; 59 unresolved scan-only markers remain for later direct visual fidelity review. No outside-source comparison used."
 ---
 
 # 3311. நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!

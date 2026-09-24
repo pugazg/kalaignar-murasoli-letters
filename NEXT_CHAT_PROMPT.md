@@ -24,7 +24,7 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 - Letter **3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**: **PDF 070–080 / printed 69–79**
 - 3311 actual heading matches the printed contents title
 - 3311 actual closing/date: **அன்புள்ள, மு.க. — 30-11-2007**
-- Letter 3311 retains **70** explicit scan-only `[தெளிவில்லை]` markers for later direct visual fidelity review; no outside-source comparison was used
+- Letter 3311 retains **59** explicit scan-only `[தெளிவில்லை]` markers for later direct visual fidelity review; no outside-source comparison was used
 - Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!** begins **PDF 081 / printed 80**
 - completed letters: **6 / 58 — 3306–3311**
 - partial letters: **0**

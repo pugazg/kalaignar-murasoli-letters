@@ -8,7 +8,7 @@
 - Completed letters: **6 / 58 — 3306–3311**
 - Partial letter: **none**
 - Letter 3310 unresolved scan-only markers: **34**
-- Letter 3311 unresolved scan-only markers: **70**
+- Letter 3311 unresolved scan-only markers: **59**
 - Full-volume structural audit: **pending**
 - Second visual/textual-fidelity verification: **pending**
 - English translation: **blocked**
@@ -21,7 +21,7 @@
 - Letter **3308**: **PDF 040–050 / printed 39–49 — PASS**
 - Letter **3309**: **PDF 051–060 / printed 50–59 — PASS**
 - Letter **3310**: **PDF 061–069 / printed 60–68 — PASS for physical coverage/boundary; 34 scan-only first-pass markers retained**
-- Letter **3311**: **PDF 070–080 / printed 69–79 — PASS for physical coverage/boundary; 70 scan-only first-pass markers retained**
+- Letter **3311**: **PDF 070–080 / printed 69–79 — PASS for physical coverage/boundary; 59 scan-only first-pass markers retained**
 - Letter **3311** actual title: **நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**
 - Letter **3311** closing/date: **அன்புள்ள, மு.க. — 30-11-2007**
 - PDF **081 / printed 80** directly confirms Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**

@@ -9,7 +9,7 @@ Current canonical chapter state:
 | 3308 | பொங்குற்ற சிங்கங்கள் எங்குற்றனவோ! | 040–050 | 39–49 | **complete** |
 | 3309 | அன்று கண்டதும்; இன்று காண்பதும் அதே நிலா! | 051–060 | 50–59 | **complete** |
 | 3310 | மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை! | 061–069 | 60–68 | **complete — 34 scan-only unresolved markers** |
-| 3311 | நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை! | 070–080 | 69–79 | **complete — 70 scan-only unresolved markers** |
+| 3311 | நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை! | 070–080 | 69–79 | **complete — 59 scan-only unresolved markers** |
 
 Letter **3311** closes with **அன்புள்ள, மு.க. — 30-11-2007**. Its actual heading matches the printed contents title.
 
