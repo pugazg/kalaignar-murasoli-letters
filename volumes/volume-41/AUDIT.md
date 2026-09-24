@@ -98,14 +98,29 @@
 - later second visual/textual-fidelity verification remains **pending**
 - no English work performed
 
+## Batch 7 — Letter 3311 / PDF 070–080
+
+**PASS — 11 / 11 physical pages represented and visually checked from the controlling scan only.**
+
+- Letter **3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**
+- actual heading matches the printed contents title
+- complete source range: **PDF 070–080 / printed 69–79**
+- actual closing/date: **அன்புள்ள, மு.க. — 30-11-2007**
+- PDF **081 / printed 80** directly confirms the start of Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**
+- source-authority compliance: **PASS — no web search, outside edition, blog, Wikisource/Wikipedia, mirror, secondary quotation or parallel-source reconstruction used**
+- unresolved scan-only markers retained in Letter 3311 canonical pages: **70**
+- chapter boundary state: **complete**
+- later second visual/textual-fidelity verification remains **pending**
+- no English work performed
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–069 / 402**
-- completed letters: **5 / 58 — 3306–3310**
+- canonical first-pass coverage: **PDF 001–080 / 402**
+- completed letters: **6 / 58 — 3306–3311**
 - partial letters: **0**
-- first-pass unresolved scan-only markers in Letter 3310: **34**
+- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 70**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**
 
-Next activity: process **Letter 3311 only**, beginning PDF 070 / printed 69 and stopping at its verified closing boundary. Outside-source comparison remains prohibited unless the user explicitly requests it.
+Next activity: process **Letter 3312 only**, beginning PDF 081 / printed 80 and stopping at its verified closing boundary. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
