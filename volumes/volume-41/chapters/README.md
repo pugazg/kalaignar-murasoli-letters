@@ -11,11 +11,12 @@ Current canonical chapter state:
 | 3310 | மாநாட்டில் அணிவிக்கும் மணி முத்து மாலை! | 061–069 | 60–68 | **complete — 34 scan-only unresolved markers** |
 | 3311 | நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை! | 070–080 | 69–79 | **complete — 59 scan-only unresolved markers** |
 | 3312 | நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்! | 081–088 | 80–87 | **complete — 61 scan-only unresolved markers** |
+| 3313 | நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!” | 089–100 | 88–99 | **complete — 144 scan-only unresolved markers** |
 
-Letter **3312** closes with **அன்புள்ள, மு.க. — 1-12-2007**. Its actual heading matches the printed contents title.
+Letter **3313** closes with **அன்புள்ள, மு.க. — 2-12-2007**. Its actual heading matches the printed contents title.
 
 The first pass followed `SOURCE_AUTHORITY_POLICY.md`: no outside-source comparison was used. Low-confidence readings remain explicitly marked `[தெளிவில்லை]` for later direct visual fidelity review.
 
-The next source record is **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**, scan-verified to begin at **PDF 089 / printed 88**.
+The next source record is **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**, scan-verified to begin at **PDF 101 / printed 100**.
 
 Current chat cadence is **one complete letter per iteration**.

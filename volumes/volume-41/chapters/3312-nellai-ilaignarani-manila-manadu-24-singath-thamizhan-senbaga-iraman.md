@@ -35,4 +35,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 **முந்தைய பதிவு:** [3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!](3311-nellai-ilaignarani-manila-manadu-23-pathai-maruvathumillai-payanam-nirpathumillai.md)
 
-**அடுத்த பதிவு:** 3313 — `நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”` — scan-verified start at PDF 089 / அச்சுப் பக்கம் 88.
+**அடுத்த பதிவு:** [3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”](3313-nellai-ilaignarani-manila-manadu-25-kayitril-thongiya-ganapathi.md)

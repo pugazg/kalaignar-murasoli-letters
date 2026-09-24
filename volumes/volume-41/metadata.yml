@@ -24,16 +24,16 @@ series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 source_authority_policy: "SOURCE_AUTHORITY_POLICY.md"
 source_authority_status: "scan-only; outside-source-comparison-prohibited-by-default"
 series_front_matter_status: "first-pass-verified-pdf-001-017; pdf-001-004 local; pdf-005-017 shared-reference"
-transcription_page_range: "1-88"
+transcription_page_range: "1-100"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3306-3312"
-completed_letter_range: "3306-3312"
-completed_letter_count: 7
+recorded_letter_range: "3306-3313"
+completed_letter_range: "3306-3313"
+completed_letter_count: 8
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-intake-complete; pdf-001-088-first-pass-pass-with-unresolved-scan-only-markers; full-volume-audit-pending"
+audit_status: "source-intake-complete; pdf-001-100-first-pass-pass-with-unresolved-scan-only-markers; full-volume-audit-pending"
 audit_date: 2026-09-24
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -61,17 +61,21 @@ source_observations:
   - "Letter 3311 first-pass canonical pages retain 59 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
   - "Letter 3312 is boundary-complete at PDF 081-088 / printed 80-87; actual heading matches contents and closing is 1-12-2007."
   - "Letter 3312 first-pass canonical pages retain 61 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
-  - "PDF 089 / printed 88 directly confirms the start of Letter 3313."
+  - "Letter 3313 is boundary-complete at PDF 089-100 / printed 88-99; actual heading matches contents and closing is 2-12-2007."
+  - "Letter 3313 first-pass canonical pages retain 144 [தெளிவில்லை] scan-only markers; no outside-source comparison was used."
+  - "PDF 101 / printed 100 directly confirms the start of Letter 3314."
   - "Final source reconnaissance: Letter 3363 PDF 398-401 / printed 397-400; PDF 402 non-letter back cover."
 first_pass_unresolved_scan_only_markers: 34
 first_pass_unresolved_letter: 3310
 contents_transcription_status: "complete-pdf-018-022"
-last_transcription_batch: "Letter 3312 PDF 081-088"
+last_transcription_batch: "Letter 3313 PDF 089-100"
 transcription_batching_note: "Current chat cadence is one complete letter per iteration."
-next_transcription_page: 89
-next_letter_number: 3313
-next_normal_batch: "3313"
+next_transcription_page: 101
+next_letter_number: 3314
+next_normal_batch: "3314"
 
 first_pass_unresolved_letter_3311: 59
 
 first_pass_unresolved_letter_3312: 61
+
+first_pass_unresolved_letter_3313: 144

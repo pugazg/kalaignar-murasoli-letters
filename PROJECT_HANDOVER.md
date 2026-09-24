@@ -23,20 +23,17 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`
 
 - Physical PDF pages: **402**; printed pages: **400**
-- SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
-- Canonical first-pass coverage: **PDF 001–088 / 402**
+- Canonical first-pass coverage: **PDF 001–100 / 402**
 - Printed contents: **58 / 58 rows complete — 3306–3363**
-- Letters **3306–3312**: **boundary-complete first-pass records**
-- Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**: **PDF 081–088 / printed 80–87**, closing/date **அன்புள்ள, மு.க. — 1-12-2007**
-- Letter 3312 retains **61** explicit scan-only `[தெளிவில்லை]` markers; **no outside-source comparison used**
-- Next source record: **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**, scan-verified start PDF **089 / printed 88**
-- Completed letters: **7 / 58**
-- Partial letters: **0**
+- Letters **3306–3313**: **boundary-complete first-pass records**
+- Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**: **PDF 089–100 / printed 88–99**, closing/date **அன்புள்ள, மு.க. — 2-12-2007**
+- Letter 3313 retains **144** explicit scan-only `[தெளிவில்லை]` markers; **no outside-source comparison used**
+- Next source record: **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**, scan-verified start PDF **101 / printed 100**
+- Completed letters: **8 / 58**
 - English: **blocked**
-- Full-volume structural audit / second visual verification: **pending**
 - Current chat cadence: **1 complete letter per iteration**
 
-**Exact next activity:** process **Letter 3313 only**, beginning PDF 089 and stopping at its verified close. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
+**Exact next activity:** process **Letter 3314 only**, beginning PDF 101 and stopping at its verified close.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

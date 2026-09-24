@@ -128,14 +128,29 @@
 - later second visual/textual-fidelity verification remains **pending**
 - no English work performed
 
+## Batch 9 — Letter 3313 / PDF 089–100
+
+**PASS — 12 / 12 physical pages represented and visually checked from the controlling scan only.**
+
+- Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**
+- actual heading matches the printed contents title
+- complete source range: **PDF 089–100 / printed 88–99**
+- actual closing/date: **அன்புள்ள, மு.க. — 2-12-2007**
+- PDF **101 / printed 100** directly confirms the start of Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**
+- source-authority compliance: **PASS — no web search, outside edition, blog, Wikisource/Wikipedia, mirror, secondary quotation or parallel-source reconstruction used**
+- unresolved scan-only markers retained in Letter 3313 canonical pages: **144**
+- chapter boundary state: **complete**
+- later second visual/textual-fidelity verification remains **pending**
+- no English work performed
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–088 / 402**
-- completed letters: **7 / 58 — 3306–3312**
+- canonical first-pass coverage: **PDF 001–100 / 402**
+- completed letters: **8 / 58 — 3306–3313**
 - partial letters: **0**
-- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 59; Letter 3312 = 61**
+- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 59; Letter 3312 = 61; Letter 3313 = 144**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**
 
-Next activity: process **Letter 3313 only**, beginning PDF 089 / printed 88 and stopping at its verified closing boundary. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
+Next activity: process **Letter 3314 only**, beginning PDF 101 / printed 100 and stopping at its verified closing boundary. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.

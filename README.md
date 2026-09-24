@@ -26,7 +26,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–088 / 402 first-pass; contents 58 / 58; 3310–3312 retain scan-only unresolved markers** | **7 / 58 complete — 3306–3312** | **BLOCKED pending Tamil archival gates** |
+| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–100 / 402 first-pass; contents 58 / 58; 3310–3313 retain scan-only unresolved markers** | **8 / 58 complete — 3306–3313** | **BLOCKED pending Tamil archival gates** |
 | 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **ENGLISH FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, reviewed and verified** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
@@ -120,22 +120,17 @@ Historical intermediate alignment checkpoints have been removed from this root s
 
 The controlling source is `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`.
 
-- Complete source: **402 physical PDF pages / 400 printed pages**.
-- SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`.
-- Canonical first-pass coverage: **PDF 001–088 / 402**.
-- Printed contents PDF **018–022**: **58 / 58 rows transcribed — 3306–3363**.
-- Letters **3306–3312** are boundary-complete first-pass records.
-- Letter **3310** retains **34** explicit scan-only `[தெளிவில்லை]` markers.
-- Letter **3311** retains **59** explicit scan-only `[தெளிவில்லை]` markers.
-- Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!** is complete by physical boundary at **PDF 081–088 / printed 80–87**, closing **அன்புள்ள, மு.க. — 1-12-2007**, with **61** scan-only `[தெளிவில்லை]` markers.
+- Canonical first-pass coverage: **PDF 001–100 / 402**.
+- Printed contents: **58 / 58 rows — 3306–3363**.
+- Letters **3306–3313** are boundary-complete first-pass records.
+- Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”** is complete at **PDF 089–100 / printed 88–99**, closing **அன்புள்ள, மு.க. — 2-12-2007**, with **144** scan-only `[தெளிவில்லை]` markers.
 - Source-authority compliance: **target scan only; no outside-source comparison**.
-- PDF **089 / printed 88** directly confirms the start of Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**.
-- Completed letters: **7 / 58**; partial letters: **0**.
+- PDF **101 / printed 100** begins Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**.
+- Completed letters: **8 / 58**.
 - English remains **BLOCKED**.
-- Current chat cadence is **one complete letter per iteration**.
-- Exact next activity: **Letter 3313 only**, starting PDF 089.
+- Exact next activity: **Letter 3314 only**, starting PDF 101.
 
-See `SOURCE_AUTHORITY_POLICY.md`, `volumes/volume-41/AUDIT.md`, `volumes/volume-41/PROGRESS.md`, `volumes/volume-41/README.md`, and live `NEXT_CHAT_PROMPT.md`.
+See `SOURCE_AUTHORITY_POLICY.md`, Volume 41 controls, and live `NEXT_CHAT_PROMPT.md`.
 
 ## Volume 42 — Tamil fidelity closed; English FINAL RELEASE COMPLETE
 
