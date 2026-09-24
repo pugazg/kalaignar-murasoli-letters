@@ -14,17 +14,17 @@ Before changing any target volume:
 
 1. Fetch live `main` first and treat it as authoritative. Record the current HEAD before relying on a prompt, handover or checkpoint copied into a chat. If `main` has advanced, preserve the newer durable state and continue from it rather than regressing to an older recorded boundary.
 2. Read `SOURCE_AUTHORITY_POLICY.md` completely.
-4. Read `VOLUME_PROCESSING_GUIDE.md` completely.
+3. Read `VOLUME_PROCESSING_GUIDE.md` completely.
 4. Read `SERIES_FRONT_MATTER_POLICY.md` completely.
 5. Read `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md` completely.
 6. Read `TRANSCRIPTION_GUIDE.md` completely.
 7. Read `PROJECT_HANDOVER.md` and `NEXT_CHAT_PROMPT.md` completely.
-7. Inspect the target volume’s existing `README.md`, `metadata.yml`, `AUDIT.md`, `PROGRESS.md`, `TRANSLATION_PLAN.md`, contents, chapter register and English workspace if they exist.
-8. Inspect Volume 49 as the completed reference implementation.
-9. Inspect Volume 46 as a completed example of source anomalies, multi-stage bilingual verification and final release packaging.
-10. Inspect the repository before creating files. If the target volume has already been started, **continue it; do not create a duplicate volume tree**.
-11. Inspect the actual attached source PDF scan before trusting filename, contents-page data, OCR or prior notes whenever the next activity requires source re-verification.
-12. Preserve concurrent changes. A handover SHA is a checkpoint, not permission to overwrite a newer live branch.
+8. Inspect the target volume’s existing `README.md`, `metadata.yml`, `AUDIT.md`, `PROGRESS.md`, `TRANSLATION_PLAN.md`, contents, chapter register and English workspace if they exist.
+9. Inspect Volume 49 as the completed reference implementation.
+10. Inspect Volume 46 as a completed example of source anomalies, multi-stage bilingual verification and final release packaging.
+11. Inspect the repository before creating files. If the target volume has already been started, **continue it; do not create a duplicate volume tree**.
+12. Inspect the actual attached source PDF scan before trusting filename, contents-page data, OCR or prior notes whenever the next activity requires source re-verification.
+13. Preserve concurrent changes. A handover SHA is a checkpoint, not permission to overwrite a newer live branch.
 
 Do not commit the source PDF itself unless the user explicitly requests that.
 
@@ -38,9 +38,9 @@ Authority order:
 
 1. **Attached/original PDF scan** — controlling source.
 2. Visually verified `pages/page-NNN.md` canonical Tamil.
-4. Contents/chapter records.
-5. English translations.
-6. Indexes, manifests and reports.
+3. Contents/chapter records.
+4. English translations.
+5. Indexes, manifests and reports.
 
 Never silently modernise, normalize, correct, reconstruct or improve the printed source.
 
@@ -204,8 +204,8 @@ Keep these gates distinct:
 
 1. iteration/batch audit;
 2. full-volume Tamil structural audit;
-4. second visual verification;
-5. translation textual-fidelity audit.
+3. second visual verification;
+4. translation textual-fidelity audit.
 
 Passing one does not imply another.
 
@@ -255,11 +255,11 @@ Each English record should contain, in the approved volume format:
 
 1. front matter/status fields;
 2. English title;
-4. translator’s note;
-5. Tamil source/date/page references;
-6. complete English translation of all surviving source text;
-7. source/anomaly notes only where needed;
-8. complete available **`Original Tamil — மூலத் தமிழ்`** appendix.
+3. translator’s note;
+4. Tamil source/date/page references;
+5. complete English translation of all surviving source text;
+6. source/anomaly notes only where needed;
+7. complete available **`Original Tamil — மூலத் தமிழ்`** appendix.
 
 The appended Tamil must match the audited canonical pages. It is not optional.
 
@@ -271,9 +271,9 @@ For a future volume that does not already have an approved translation plan:
 
 1. run a small **pilot of three representative letters**;
 2. perform a bilingual review of the pilot;
-4. document and lock volume-specific translation conventions;
-5. then proceed in **five actual source-record batches** by default;
-6. perform a separate bilingual source-alignment gate before promoting each batch.
+3. document and lock volume-specific translation conventions;
+4. then proceed in **five actual source-record batches** by default;
+5. perform a separate bilingual source-alignment gate before promoting each batch.
 
 A target volume’s existing approved `TRANSLATION_PLAN.md` takes precedence over this default if it explicitly defines a different safe batch structure.
 
@@ -317,10 +317,10 @@ A review is **not** a completed alignment gate merely because the report text ex
 
 1. every required English meaning-level correction has actually been applied;
 2. the English record front matter has the correct alignment status;
-4. the corresponding manifest row has the same status;
-5. the alignment report records the result and exact corrections;
-6. English index/progress and applicable volume/root controls are synchronized; and
-7. the resulting commit or net repository diff has been verified for the intended scope.
+3. the corresponding manifest row has the same status;
+4. the alignment report records the result and exact corrections;
+5. English index/progress and applicable volume/root controls are synchronized; and
+6. the resulting commit or net repository diff has been verified for the intended scope.
 
 If one of these is still pending, keep the durable status pending and record the unfinished synchronization explicitly rather than overstating completion.
 
@@ -330,11 +330,11 @@ A fresh chat must reconstruct the current state from live GitHub, not from chat 
 
 1. fetch live `main` and record HEAD;
 2. read `PROJECT_HANDOVER.md` and `NEXT_CHAT_PROMPT.md` from that HEAD;
-4. read the target volume’s English manifest/progress/index and all completed bilingual-alignment reports through the live boundary;
-5. confirm the last actually aligned manifest row and the first pending row;
-6. if the live boundary is newer than the prompt/handover checkpoint, preserve the newer state and derive the next batch from live files;
-7. do not repeat a completed batch or reset status because an older handoff mentioned it; and
-8. do not begin a later editorial/release gate while a current alignment batch is only partially synchronized.
+3. read the target volume’s English manifest/progress/index and all completed bilingual-alignment reports through the live boundary;
+4. confirm the last actually aligned manifest row and the first pending row;
+5. if the live boundary is newer than the prompt/handover checkpoint, preserve the newer state and derive the next batch from live files;
+6. do not repeat a completed batch or reset status because an older handoff mentioned it; and
+7. do not begin a later editorial/release gate while a current alignment batch is only partially synchronized.
 
 For a normal alignment iteration, use **five actual source records in source order** unless the approved target-volume plan states otherwise. Stop before a sixth record. If the user asks to move to another chat, update the prompt, handover and this guideline when the workflow has learned a durable rule that the next worker must know.
 
@@ -417,15 +417,15 @@ A volume is complete only when all applicable gates are closed:
 
 1. source intake verified from scan;
 2. every available PDF page represented canonically;
-4. contents and chapter structure complete;
-5. full-volume Tamil structural audit passed;
-6. second visual/textual-fidelity verification complete;
-7. all actual source letters translated for all surviving text;
-8. bilingual alignment complete and durably synchronized;
-9. volume-level English editorial review complete;
-10. manifest validated against actual source records;
-11. final release report created;
-12. metadata/README/progress/root status synchronized;
+3. contents and chapter structure complete;
+4. full-volume Tamil structural audit passed;
+5. second visual/textual-fidelity verification complete;
+6. all actual source letters translated for all surviving text;
+7. bilingual alignment complete and durably synchronized;
+8. volume-level English editorial review complete;
+9. manifest validated against actual source records;
+10. final release report created;
+11. metadata/README/progress/root status synchronized;
 12. temporary automation/work/probe files removed.
 
 Only then describe the volume as **release-ready/completed**, subject to any explicitly documented source-incomplete limitation.

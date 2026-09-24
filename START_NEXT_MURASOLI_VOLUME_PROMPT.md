@@ -36,11 +36,11 @@ Before making any change, read these repository documents completely and follow 
 
 Then inspect:
 
-6. the repository root `README.md`;
-7. the target `volumes/volume-[NN]/` directory if it already exists;
-8. all target-volume `README`, metadata, progress, audit, contents, chapter and translation-plan files already present;
-9. Volume 49 as the completed reference implementation;
-10. Volume 46 as a completed reference for source anomalies, bilingual alignment and final English release packaging.
+8. the repository root `README.md`;
+9. the target `volumes/volume-[NN]/` directory if it already exists;
+10. all target-volume `README`, metadata, progress, audit, contents, chapter and translation-plan files already present;
+11. Volume 49 as the completed reference implementation;
+12. Volume 46 as a completed reference for source anomalies, bilingual alignment and final English release packaging.
 
 Do **not** restart or duplicate existing target-volume work. If the target volume already has work, continue exactly from the durable boundary recorded in its repository files.
 
