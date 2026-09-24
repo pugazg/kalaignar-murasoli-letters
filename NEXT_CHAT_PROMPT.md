@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Volume 41 / Letter 3312 only
+# NEXT CHAT PROMPT — Volume 41 / Letter 3313 only
 
 Continue directly in `pugazg/kalaignar-murasoli-letters`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,46 +18,23 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - source SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
 - source extent: **402 physical PDF pages / 400 printed pages**
-- canonical first-pass coverage: **PDF 001–080 / 402**
+- canonical first-pass coverage: **PDF 001–088 / 402**
 - contents: **58 / 58 rows transcribed — 3306–3363**
-- Letters **3306–3311**: **boundary-complete first-pass records**
-- Letter **3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**: **PDF 070–080 / printed 69–79**
-- 3311 actual heading matches the printed contents title
-- 3311 actual closing/date: **அன்புள்ள, மு.க. — 30-11-2007**
-- Letter 3311 retains **59** explicit scan-only `[தெளிவில்லை]` markers for later direct visual fidelity review; no outside-source comparison was used
-- Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!** begins **PDF 081 / printed 80**
-- completed letters: **6 / 58 — 3306–3311**
+- Letters **3306–3312**: **boundary-complete first-pass records**
+- Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**: **PDF 081–088 / printed 80–87**
+- 3312 actual heading matches the printed contents title
+- 3312 actual closing/date: **அன்புள்ள, மு.க. — 1-12-2007**
+- Letter 3312 retains **61** explicit scan-only `[தெளிவில்லை]` markers for later direct visual fidelity review; no outside-source comparison was used
+- Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”** begins **PDF 089 / printed 88**
+- completed letters: **7 / 58 — 3306–3312**
 - partial letters: **0**
 - English remains blocked
 - current chat cadence: **1 complete letter per iteration**
 
-## Read first
-
-1. `SOURCE_AUTHORITY_POLICY.md`
-2. `VOLUME_PROCESSING_GUIDE.md`
-3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-4. `TRANSCRIPTION_GUIDE.md`
-5. `volumes/volume-41/AUDIT.md`
-6. `volumes/volume-41/PROGRESS.md`
-7. `volumes/volume-41/contents/index.md`
-8. `volumes/volume-41/chapters/README.md`
-
-Refetch live `main` before editing and immediately before commit.
-
 ## Exact activity
 
-Process **Letter 3312 only**.
+Process **Letter 3313 only**.
 
-Start at **PDF 081 / printed 80**.
-
-- verify actual source title separately from the contents title;
-- transcribe every physical page from the controlling scan;
-- preserve source spelling, punctuation, quotations, figures and page boundaries;
-- verify closing/signature/date;
-- create the chapter record only after the actual boundary is established;
-- verify the start of Letter 3313 from the scan;
-- if any reading is not confident from the scan, use `[தெளிவில்லை]` rather than outside-source comparison.
-
-Stop after the verified end of **Letter 3312**. Do not begin Letter 3313 in the same commit.
+Start at **PDF 089 / printed 88**. Verify actual title, every physical page, closing/signature/date and the start of Letter 3314 from the controlling scan. Stop after the verified end of Letter 3313. Do not begin Letter 3314 in the same commit.
 
 Update all applicable Volume 41 and root control documents atomically. English remains blocked.

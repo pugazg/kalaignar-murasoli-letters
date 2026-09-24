@@ -24,19 +24,19 @@ Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்
 
 - Physical PDF pages: **402**; printed pages: **400**
 - SHA-256: `950eeb8c97d1cd6b8ab6c4cfd47739264c1223c0f34ba1f0da85c41f90ef3418`
-- Canonical first-pass coverage: **PDF 001–080 / 402**
+- Canonical first-pass coverage: **PDF 001–088 / 402**
 - Printed contents: **58 / 58 rows complete — 3306–3363**
-- Letters **3306–3311**: **boundary-complete first-pass records**
-- Letter **3311 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (23) பாதை மாறுவதுமில்லை; பயணம் நிற்பதுமில்லை!**: **PDF 070–080 / printed 69–79**, closing/date **அன்புள்ள, மு.க. — 30-11-2007**
-- Letter 3311 retains **59** explicit scan-only `[தெளிவில்லை]` markers; **no outside-source comparison used**
-- Next source record: **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**, scan-verified start PDF **081 / printed 80**
-- Completed letters: **6 / 58**
+- Letters **3306–3312**: **boundary-complete first-pass records**
+- Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**: **PDF 081–088 / printed 80–87**, closing/date **அன்புள்ள, மு.க. — 1-12-2007**
+- Letter 3312 retains **61** explicit scan-only `[தெளிவில்லை]` markers; **no outside-source comparison used**
+- Next source record: **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**, scan-verified start PDF **089 / printed 88**
+- Completed letters: **7 / 58**
 - Partial letters: **0**
 - English: **blocked**
 - Full-volume structural audit / second visual verification: **pending**
 - Current chat cadence: **1 complete letter per iteration**
 
-**Exact next activity:** process **Letter 3312 only**, beginning PDF 081 and stopping at its verified close. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
+**Exact next activity:** process **Letter 3313 only**, beginning PDF 089 and stopping at its verified close. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

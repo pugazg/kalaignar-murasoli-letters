@@ -113,14 +113,29 @@
 - later second visual/textual-fidelity verification remains **pending**
 - no English work performed
 
+## Batch 8 — Letter 3312 / PDF 081–088
+
+**PASS — 8 / 8 physical pages represented and visually checked from the controlling scan only.**
+
+- Letter **3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!**
+- actual heading matches the printed contents title
+- complete source range: **PDF 081–088 / printed 80–87**
+- actual closing/date: **அன்புள்ள, மு.க. — 1-12-2007**
+- PDF **089 / printed 88** directly confirms the start of Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**
+- source-authority compliance: **PASS — no web search, outside edition, blog, Wikisource/Wikipedia, mirror, secondary quotation or parallel-source reconstruction used**
+- unresolved scan-only markers retained in Letter 3312 canonical pages: **61**
+- chapter boundary state: **complete**
+- later second visual/textual-fidelity verification remains **pending**
+- no English work performed
+
 ## Current result
 
-- canonical first-pass coverage: **PDF 001–080 / 402**
-- completed letters: **6 / 58 — 3306–3311**
+- canonical first-pass coverage: **PDF 001–088 / 402**
+- completed letters: **7 / 58 — 3306–3312**
 - partial letters: **0**
-- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 59**
+- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 59; Letter 3312 = 61**
 - full-volume structural audit: **pending**
 - second visual/textual-fidelity gate: **pending**
 - English: **blocked**
 
-Next activity: process **Letter 3312 only**, beginning PDF 081 / printed 80 and stopping at its verified closing boundary. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
+Next activity: process **Letter 3313 only**, beginning PDF 089 / printed 88 and stopping at its verified closing boundary. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
