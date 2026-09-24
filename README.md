@@ -26,7 +26,7 @@
 | தொகுதி | காலவரம்பு | PDF பக்கங்கள் | Tamil archival status | முழுமையான கடிதங்கள் | English translation |
 |---|---|---:|---|---:|---|
 | 01 | 22.10.1968–01.12.1974 | 401 | **401 / 401; structural + visual/textual-fidelity PASS** | **110 / 110** | **110 / 110 FINAL RELEASE COMPLETE** |
-| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–100 / 402 first-pass; contents 58 / 58; 3310–3313 retain scan-only unresolved markers** | **8 / 58 complete — 3306–3313** | **BLOCKED pending Tamil archival gates** |
+| 41 | 25.11.2007–21.01.2009 | 402 | **PDF 001–114 / 402 first-pass; contents 58 / 58** | **10 / 58 complete — 3306–3315** | **BLOCKED pending Tamil archival gates** |
 | 42 | 31.01.2009–30.10.2009 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS / CLOSED** | **64 source records complete — 3364–3376, 3154, 3378–3427** | **ENGLISH FINAL RELEASE COMPLETE — 64 / 64 source-checked, aligned, reviewed and verified** |
 | 43 | 01.11.2009–17.07.2010 | 402 | **402 / 402; structural + second visual/textual-fidelity PASS** | **56 / 56 — 3428–3483 complete** | **56 / 56 FINAL RELEASE COMPLETE** |
 | 44 | 18.07.2010–11.03.2011 | 400 | **400 / 400; structural + second visual/textual-fidelity PASS; 13 corrected pages** | **53 / 53 — 3484–3536 complete** | **53 / 53 FINAL RELEASE COMPLETE** |
@@ -118,19 +118,14 @@ Historical intermediate alignment checkpoints have been removed from this root s
 
 ## Volume 41 — Tamil transcription ACTIVE
 
-The controlling source is `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`.
-
-- Canonical first-pass coverage: **PDF 001–100 / 402**.
-- Printed contents: **58 / 58 rows — 3306–3363**.
-- Letters **3306–3313** are boundary-complete first-pass records.
-- Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”** is complete at **PDF 089–100 / printed 88–99**, closing **அன்புள்ள, மு.க. — 2-12-2007**, with **144** scan-only `[தெளிவில்லை]` markers.
+- Canonical first-pass coverage: **PDF 001–114 / 402**.
+- Completed letters: **10 / 58 — 3306–3315**.
+- 3314: PDF **101–109**, closing **6-12-2007**.
+- 3315: PDF **110–114**, closing **19-12-2007**.
 - Source-authority compliance: **target scan only; no outside-source comparison**.
-- PDF **101 / printed 100** begins Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**.
-- Completed letters: **8 / 58**.
+- PDF **115** begins **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**.
+- Current cadence: **2 complete letters per iteration**.
 - English remains **BLOCKED**.
-- Exact next activity: **Letter 3314 only**, starting PDF 101.
-
-See `SOURCE_AUTHORITY_POLICY.md`, Volume 41 controls, and live `NEXT_CHAT_PROMPT.md`.
 
 ## Volume 42 — Tamil fidelity closed; English FINAL RELEASE COMPLETE
 

@@ -20,20 +20,17 @@ For a fresh chat, the controlling Volume 43 PDF is only required if a possible T
 
 ## Volume 41 — TAMIL TRANSCRIPTION ACTIVE
 
-Controlling source: `TVA_BOK_0065825_கலைஞரின்_கடிதங்கள்_தொகுதி_41.pdf`
+- Canonical first-pass coverage: **PDF 001–114 / 402**
+- Printed contents: **58 / 58 rows — 3306–3363**
+- Completed letters: **10 / 58 — 3306–3315**
+- Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**: PDF **101–109**, closes **6-12-2007**
+- Letter **3315 — நெல்லை இளைஞர் மாநாடு; இல்லை அதற்கோர் ஈடு!**: PDF **110–114**, closes **19-12-2007**
+- Next: **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**, PDF **115**
+- Source authority: **scan only; no outside-source comparison**
+- Current cadence: **2 complete letters per iteration**
+- English blocked
 
-- Physical PDF pages: **402**; printed pages: **400**
-- Canonical first-pass coverage: **PDF 001–100 / 402**
-- Printed contents: **58 / 58 rows complete — 3306–3363**
-- Letters **3306–3313**: **boundary-complete first-pass records**
-- Letter **3313 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (25) “கயிற்றில் தொங்கிய கணபதி!”**: **PDF 089–100 / printed 88–99**, closing/date **அன்புள்ள, மு.க. — 2-12-2007**
-- Letter 3313 retains **144** explicit scan-only `[தெளிவில்லை]` markers; **no outside-source comparison used**
-- Next source record: **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**, scan-verified start PDF **101 / printed 100**
-- Completed letters: **8 / 58**
-- English: **blocked**
-- Current chat cadence: **1 complete letter per iteration**
-
-**Exact next activity:** process **Letter 3314 only**, beginning PDF 101 and stopping at its verified close.
+**Exact next activity:** process **3316–3317** and stop after 3317.
 
 ## Volume 43 — FINAL RELEASE COMPLETE
 

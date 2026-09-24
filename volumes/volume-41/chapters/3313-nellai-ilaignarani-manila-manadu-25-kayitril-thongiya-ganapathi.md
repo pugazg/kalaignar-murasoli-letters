@@ -39,4 +39,4 @@ Canonical உரை மேலுள்ள பக்கக் கோப்பு�
 
 **முந்தைய பதிவு:** [3312 — நெல்லை - கழக இளைஞரணி மாநில மாநாடு (24) சிங்கத் தமிழன் செண்பக இராமன்!](3312-nellai-ilaignarani-manila-manadu-24-singath-thamizhan-senbaga-iraman.md)
 
-**அடுத்த பதிவு:** 3314 — `மருத்துவத் துறையில் மகத்தான சாதனைகள்!` — scan-verified start at PDF 101 / அச்சுப் பக்கம் 100.
+**அடுத்த பதிவு:** [3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!](3314-maruthuva-thuraiyil-magathana-sadhanaigal.md)

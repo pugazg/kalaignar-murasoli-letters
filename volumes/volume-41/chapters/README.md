@@ -19,4 +19,11 @@ The first pass followed `SOURCE_AUTHORITY_POLICY.md`: no outside-source comparis
 
 The next source record is **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**, scan-verified to begin at **PDF 101 / printed 100**.
 
-Current chat cadence is **one complete letter per iteration**.
+| 3314 | மருத்துவத் துறையில் மகத்தான சாதனைகள்! | 101–109 | 100–108 | **complete — 54 scan-only unresolved markers** |
+| 3315 | நெல்லை இளைஞர் மாநாடு; இல்லை அதற்கோர் ஈடு! | 110–114 | 109–113 | **complete — 29 scan-only unresolved markers** |
+
+Letters **3314–3315** are complete at their scan-verified physical boundaries.
+
+The next source record is **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**, scan-verified to begin at **PDF 115 / printed 114**.
+
+Current chat cadence is **two complete letters per iteration**.

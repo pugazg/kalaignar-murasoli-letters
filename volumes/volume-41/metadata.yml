@@ -24,16 +24,16 @@ series_front_matter_policy: "SERIES_FRONT_MATTER_POLICY.md"
 source_authority_policy: "SOURCE_AUTHORITY_POLICY.md"
 source_authority_status: "scan-only; outside-source-comparison-prohibited-by-default"
 series_front_matter_status: "first-pass-verified-pdf-001-017; pdf-001-004 local; pdf-005-017 shared-reference"
-transcription_page_range: "1-100"
+transcription_page_range: "1-114"
 transcription_status: "first-pass-in-progress"
-recorded_letter_range: "3306-3313"
-completed_letter_range: "3306-3313"
-completed_letter_count: 8
+recorded_letter_range: "3306-3315"
+completed_letter_range: "3306-3315"
+completed_letter_count: 10
 partial_letter: null
 source_incomplete_letters: []
 source_incomplete_letter_count: 0
 source_missing_printed_pages: []
-audit_status: "source-intake-complete; pdf-001-100-first-pass-pass-with-unresolved-scan-only-markers; full-volume-audit-pending"
+audit_status: "source-intake-complete; pdf-001-114-first-pass-pass-with-unresolved-scan-only-markers; full-volume-audit-pending"
 audit_date: 2026-09-24
 second_visual_verification: "pending"
 second_visual_verified_page_range: null
@@ -68,14 +68,17 @@ source_observations:
 first_pass_unresolved_scan_only_markers: 34
 first_pass_unresolved_letter: 3310
 contents_transcription_status: "complete-pdf-018-022"
-last_transcription_batch: "Letter 3313 PDF 089-100"
-transcription_batching_note: "Current chat cadence is one complete letter per iteration."
-next_transcription_page: 101
-next_letter_number: 3314
-next_normal_batch: "3314"
+last_transcription_batch: "Letters 3314-3315 PDF 101-114"
+transcription_batching_note: "Current chat cadence is two complete letters per iteration."
+next_transcription_page: 115
+next_letter_number: 3316
+next_normal_batch: "3316-3317"
 
 first_pass_unresolved_letter_3311: 59
 
 first_pass_unresolved_letter_3312: 61
 
 first_pass_unresolved_letter_3313: 144
+
+first_pass_unresolved_letter_3314: 54
+first_pass_unresolved_letter_3315: 29

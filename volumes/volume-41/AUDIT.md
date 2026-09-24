@@ -143,14 +143,23 @@
 - later second visual/textual-fidelity verification remains **pending**
 - no English work performed
 
-## Current result
+## Batch 10 — Letters 3314–3315 / PDF 101–114
 
-- canonical first-pass coverage: **PDF 001–100 / 402**
-- completed letters: **8 / 58 — 3306–3313**
-- partial letters: **0**
-- first-pass unresolved scan-only markers: **Letter 3310 = 34; Letter 3311 = 59; Letter 3312 = 61; Letter 3313 = 144**
-- full-volume structural audit: **pending**
-- second visual/textual-fidelity gate: **pending**
+**PASS — 14 / 14 physical pages represented and visually checked from the controlling scan only.**
+
+- Letter **3314 — மருத்துவத் துறையில் மகத்தான சாதனைகள்!**: PDF **101–109 / printed 100–108**, closes **6-12-2007**, unresolved markers **54**
+- Letter **3315 — நெல்லை இளைஞர் மாநாடு; இல்லை அதற்கோர் ஈடு!**: PDF **110–114 / printed 109–113**, closes **19-12-2007**, unresolved markers **29**
+- PDF **115 / printed 114** begins Letter **3316 — வாய்மை ஆட்சி வழங்கும் வண்ணத் தொலைக்காட்சி!**
+- source-authority compliance: **PASS — target scan only; no outside-source comparison**
+- current cadence: **2 complete letters per iteration**
 - English: **blocked**
 
-Next activity: process **Letter 3314 only**, beginning PDF 101 / printed 100 and stopping at its verified closing boundary. Use the controlling scan only; unresolved readings remain `[தெளிவில்லை]`.
+## Current result
+
+- canonical first-pass coverage: **PDF 001–114 / 402**
+- completed letters: **10 / 58 — 3306–3315**
+- partial letters: **0**
+- full-volume structural audit: **pending**
+- second visual/textual-fidelity gate: **pending**
+
+Next activity: process **Letters 3316–3317**, beginning PDF 115 and stopping at the verified end of Letter 3317.
