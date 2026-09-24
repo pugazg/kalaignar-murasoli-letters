@@ -10,7 +10,7 @@ This policy records the approved workflow for Volumes 1–48. Where its transcri
 
 For every new volume:
 
-1. Read `VOLUME_PROCESSING_GUIDE.md`, `SERIES_FRONT_MATTER_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, and this policy.
+1. Read `VOLUME_PROCESSING_GUIDE.md`, `SOURCE_AUTHORITY_POLICY.md`, `SERIES_FRONT_MATTER_POLICY.md`, `TRANSCRIPTION_GUIDE.md`, and this policy.
 2. Inspect the completed reference volume and the most recently processed earlier volume.
 3. Confirm that the target `volumes/volume-NN/` directory has not already been started.
 4. Verify the volume number from the scan itself.
@@ -39,6 +39,7 @@ Rules:
 - For PDF **018–025**, transcribe the target scan normally and completely.
 - Visually compare all 25 Markdown pages with the corresponding rendered scan before committing.
 - OCR may assist drafting, but the scan controls every accepted reading.
+- **Do not use web search, outside editions, blogs, Wikisource/Wikipedia, mirrors, secondary quotations or other outside sources to resolve or verify canonical Tamil unless the user explicitly requests an outside-source comparison.** Follow `SOURCE_AUTHORITY_POLICY.md`.
 - Update all structural and progress files in the same atomic commit.
 
 ### When PDF page 25 falls inside a letter
@@ -142,6 +143,7 @@ Before every transcription commit:
 - verify page and paragraph boundaries;
 - verify title, salutation, closing, signature, date, quotations, names, figures, and intentional English text;
 - preserve source spelling, punctuation, malformed wording, and visible anomalies;
+- verify that no canonical Tamil wording was supplied from an unapproved outside source; when the scan alone is unclear, keep `[தெளிவில்லை]`;
 - preserve words split across PDF page boundaries rather than silently joining them;
 - check for missing page files, duplicated bodies, replacement Unicode, and broken internal links; and
 - record scan-proven corrections in the batch audit.

@@ -2,7 +2,7 @@
 
 This guide defines the reusable archival workflow for Volumes 1–48. **Volume 49 is the completed quality reference, not a source template.** Every earlier volume must be independently verified from its own scan.
 
-Tamil transcription batching is governed by [`VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md), [`TRANSCRIPTION_GUIDE.md`](TRANSCRIPTION_GUIDE.md) is also mandatory, and recurring PDF 001–017 front matter is governed by [`SERIES_FRONT_MATTER_POLICY.md`](SERIES_FRONT_MATTER_POLICY.md). If older wording or an example in this guide conflicts with the batching policy, **the batching policy takes precedence**.
+Canonical source authority is governed by [`SOURCE_AUTHORITY_POLICY.md`](SOURCE_AUTHORITY_POLICY.md). Tamil transcription batching is governed by [`VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md), [`TRANSCRIPTION_GUIDE.md`](TRANSCRIPTION_GUIDE.md) is also mandatory, and recurring PDF 001–017 front matter is governed by [`SERIES_FRONT_MATTER_POLICY.md`](SERIES_FRONT_MATTER_POLICY.md). If older wording or an example in this guide conflicts with the batching policy, **the batching policy takes precedence**.
 
 The required end state for each volume is: page-faithful Tamil transcription, preserved contents and letter structure, scan-based audits, bilingual English records, bilingual alignment, editorial review, manifest/release records and explicit documentation of every source anomaly or source gap.
 
@@ -18,7 +18,7 @@ Use this authority order:
 4. English translations.
 5. Indexes, manifests and reports.
 
-Never use OCR, contents pages, English translation, another edition or outside knowledge to silently correct the scan.
+Never use OCR, contents pages, English translation, another edition or outside knowledge to silently correct the scan. **Do not perform outside-source comparison or web research to reconstruct, verify, correct, or fill canonical Tamil unless the user explicitly requests that comparison.** Follow `SOURCE_AUTHORITY_POLICY.md`; if the target scan remains unclear, preserve `[தெளிவில்லை]` rather than importing wording from elsewhere.
 
 Every PDF page gets exactly one Markdown file, including covers, publication pages, contents, blanks, illustrations, advertisements and back cover. For the recurring series front matter at PDF 001–017, a page file may be a visually verified shared-reference record instead of duplicating the full common text; follow `SERIES_FRONT_MATTER_POLICY.md`.
 
@@ -32,7 +32,7 @@ Preserve visible wording, spelling, paragraph order, titles, quotations, lists, 
 
 Before changing a new volume:
 
-1. Read this guide, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md` and `TRANSCRIPTION_GUIDE.md` completely.
+1. Read this guide, `SOURCE_AUTHORITY_POLICY.md`, `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md` and `TRANSCRIPTION_GUIDE.md` completely.
 2. Inspect Volume 49 as the completed quality reference.
 3. Inspect the most recently processed earlier volume only for current workflow conventions; do not copy its volume-specific facts.
 4. Inspect repository state and continue existing target-volume work rather than creating duplicates.

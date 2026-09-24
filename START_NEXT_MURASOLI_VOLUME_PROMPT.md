@@ -26,12 +26,13 @@ Use the GitHub connector and work directly in the existing repository.
 
 Before making any change, read these repository documents completely and follow them:
 
-1. `VOLUME_PROCESSING_GUIDE.md`
-2. `SERIES_FRONT_MATTER_POLICY.md`
-3. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
-4. `TRANSCRIPTION_GUIDE.md`
-5. `FUTURE_VOLUME_WORK_GUIDELINES.md`
-6. `PROJECT_HANDOVER.md`
+1. `SOURCE_AUTHORITY_POLICY.md`
+2. `VOLUME_PROCESSING_GUIDE.md`
+3. `SERIES_FRONT_MATTER_POLICY.md`
+4. `VOLUME_TRANSCRIPTION_BATCHING_POLICY.md`
+5. `TRANSCRIPTION_GUIDE.md`
+6. `FUTURE_VOLUME_WORK_GUIDELINES.md`
+7. `PROJECT_HANDOVER.md`
 
 Then inspect:
 
@@ -66,7 +67,9 @@ Preserve source-supported:
 
 Distinguish printed text from library stamps, handwriting, later annotations, damage and bleed-through.
 
-OCR or parsed text may assist transcription but is never authoritative. Every accepted Tamil reading must ultimately be supported by the scan.
+OCR or parsed text from the controlling target scan may assist transcription but is never authoritative. Every accepted Tamil reading must ultimately be supported by the scan.
+
+**Do not use outside-source comparison or external web research to reconstruct, verify, correct or fill canonical Tamil.** Do not search blogs, Wikisource/Wikipedia, online mirrors, another edition, secondary quotations or parallel publications to resolve a reading. If the scan is unclear, use `[தெளிவில்லை]`. Outside-source comparison is allowed only when I explicitly request it, and such evidence must remain clearly non-canonical unless the controlling scan independently supports the reading.
 
 Do not commit the source PDF into the repository unless explicitly instructed.
 

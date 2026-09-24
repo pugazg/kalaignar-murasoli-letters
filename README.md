@@ -7,9 +7,11 @@
 - ஒவ்வொரு கடிதத்திற்கும் `chapters/` கட்டமைப்பு பதிவு இருக்கும்.
 - அச்சுப் பிழைகள், source anomalies, punctuation, figures மற்றும் physical boundaries அமைதியாகத் திருத்தப்படாது.
 - English bilingual records source-audited canonical Tamil-இலிருந்து உருவாக்கப்படும்; outside knowledge கொண்டு source-ஐ silently correct செய்யக் கூடாது.
+- **Canonical Tamil transcription/QA-க்கு outside-source comparison அல்லது web research default-ஆகத் தடை.** Target scan மட்டுமே textual authority; unclear reading `[தெளிவில்லை]`. User explicitly comparison கேட்டால் மட்டும் `SOURCE_AUTHORITY_POLICY.md` விதிப்படி செய்யலாம்.
 
 ## முதன்மை செயல்முறை
 
+- [Source Authority and No Outside Comparison Policy](SOURCE_AUTHORITY_POLICY.md)
 - [Master Processing Guide — Volumes 1–48](VOLUME_PROCESSING_GUIDE.md)
 - [Series Front Matter Reuse Policy — Volumes 1–54](SERIES_FRONT_MATTER_POLICY.md)
 - [Mandatory Volume Transcription Batching Policy](VOLUME_TRANSCRIPTION_BATCHING_POLICY.md)
